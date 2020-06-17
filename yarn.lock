@@ -4031,6 +4031,11 @@ etag@~1.8.1:
   resolved "https://registry.yarnpkg.com/etag/-/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
   integrity sha1-Qa4u62XvpiJorr/qg6x9eSmbCIc=
 
+ev-emitter@~1.0.0:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/ev-emitter/-/ev-emitter-1.0.3.tgz#ee5ef74b6ed28d911b32ddcbfc97867f580937bc"
+  integrity sha1-7l73S27SjZEbMt3L/JeGf1gJN7w=
+
 event-emitter@~0.3.5:
   version "0.3.5"
   resolved "https://registry.yarnpkg.com/event-emitter/-/event-emitter-0.3.5.tgz#df8c69eef1647923c7157b9ce83840610b02cc39"
@@ -4129,6 +4134,11 @@ exports-loader@^0.7.0:
   dependencies:
     loader-utils "^1.1.0"
     source-map "0.5.0"
+
+expose-loader@^0.7.5:
+  version "0.7.5"
+  resolved "https://registry.yarnpkg.com/expose-loader/-/expose-loader-0.7.5.tgz#e29ea2d9aeeed3254a3faa1b35f502db9f9c3f6f"
+  integrity sha512-iPowgKUZkTPX5PznYsmifVj9Bob0w2wTHVkt/eYNPSzyebkUgIedmskf/kcfEIWpiWjg3JRjnW+a17XypySMuw==
 
 express@^4.17.1:
   version "4.17.1"
@@ -5028,6 +5038,11 @@ gulplog@^1.0.0:
   dependencies:
     glogg "^1.0.0"
 
+hammerjs@2.0.7:
+  version "2.0.7"
+  resolved "https://registry.yarnpkg.com/hammerjs/-/hammerjs-2.0.7.tgz#bbbbb0be11401a356bcd8e9310e04fd4377cbd08"
+  integrity sha1-u7uwvhFAGjVrzY6TEOBP1Dd8vQg=
+
 handle-thing@^2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/handle-thing/-/handle-thing-2.0.1.tgz#857f79ce359580c340d43081cc648970d0bb234e"
@@ -5343,6 +5358,13 @@ ignore@^5.1.2:
   version "5.1.4"
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.1.4.tgz#84b7b3dbe64552b6ef0eca99f6743dbec6d97adf"
   integrity sha512-MzbUSahkTW1u7JpKKjY7LCARd1fU5W2rLdxlM4kdkayuCwZImjkpluF9CM1aLewYJguPDqewLam18Y6AU69A8A==
+
+imagesloaded@4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/imagesloaded/-/imagesloaded-4.1.1.tgz#53b5b66615360850a5a264b1293e7f4d06d3bd51"
+  integrity sha1-U7W2ZhU2CFClomSxKT5/TQbTvVE=
+  dependencies:
+    ev-emitter "~1.0.0"
 
 import-cwd@^2.0.0:
   version "2.1.0"
@@ -5957,7 +5979,7 @@ jest-worker@^25.4.0:
     merge-stream "^2.0.0"
     supports-color "^7.0.0"
 
-jquery@^3.5.1:
+jquery@>=1.12.4, jquery@^3.5.1:
   version "3.5.1"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.5.1.tgz#d7b4d08e1bfdb86ad2f1a3d039ea17304717abb5"
   integrity sha512-XwIBPqcMn57FxfT+Go5pzySnm4KWkT1Tv7gjrpT1srtf8Weynl6R273VJ5GjkRb51IzMp5nbaPjJXMWeju2MKg==
@@ -6927,6 +6949,13 @@ nan@^2.12.1, nan@^2.13.2:
   version "2.14.1"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.14.1.tgz#d7be34dfa3105b91494c3147089315eff8874b01"
   integrity sha512-isWHgVjnFjh2x2yuJ/tj3JbwoHu3UC2dX5G/88Cm24yB6YopVgxvBObDY7n5xW6ExmFhJpSEQqFPvq9zaXc8Jw==
+
+nanogallery2@^2.4.2:
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/nanogallery2/-/nanogallery2-2.4.2.tgz#b54aecda7fea5e1be2b3dae12a9affcb469ea92d"
+  integrity sha512-H2nyhPCqiqEinrmVUpCnBhwydNCa3mH+Zy+SvlllUSR6aFUTyhzvSNzmzWpgRHO9aRY2Qeto0V8af+Ql6aLskw==
+  dependencies:
+    jquery ">=1.12.4"
 
 nanomatch@^1.2.9:
   version "1.2.13"
@@ -9418,6 +9447,11 @@ schema-utils@^2.5.0, schema-utils@^2.6.1, schema-utils@^2.6.5, schema-utils@^2.6
     ajv "^6.12.0"
     ajv-keywords "^3.4.1"
 
+screenfull@3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/screenfull/-/screenfull-3.2.0.tgz#a4d6637c57e4749ed32eaf4423226d43a99cc11b"
+  integrity sha1-pNZjfFfkdJ7TLq9EIyJtQ6mcwRs=
+
 scss-tokenizer@^0.2.3:
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/scss-tokenizer/-/scss-tokenizer-0.2.3.tgz#8eb06db9a9723333824d3f5530641149847ce5d1"
@@ -9612,6 +9646,11 @@ shelljs@^0.6.0:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/shelljs/-/shelljs-0.6.1.tgz#ec6211bed1920442088fe0f70b2837232ed2c8a8"
   integrity sha1-7GIRvtGSBEIIj+D3Cyg3Iy7SyKg=
+
+shifty@1.5.3:
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/shifty/-/shifty-1.5.3.tgz#71f8caebf22f9ec2cd5a260b045892589be95831"
+  integrity sha1-cfjK6/IvnsLNWiYLBFiSWJvpWDE=
 
 side-channel@^1.0.2:
   version "1.0.2"

@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 30: Linear Transformations and their Matrices'
-uid: cbd6fc5f658b57c1627dea95b43dbad1
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Ts3o2I8_Mxc
+    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 723257b9c1d396683aedb7b065ebe2c0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Ts3o2I8_Mxc/default.jpg'
+    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1048b2e0983730e9ec1a3ce1223b27d6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 419a2a8225c60f542f5c45e4ff951a77
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/30.mp4'
+    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: be1012c03c960cc7dfeca4abbf9e5bc1
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Ts3o2I8_Mxc
+    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f6180ac42ff17f635a08fdf03c4544ff
+  - id: Ts3o2I8_Mxc.srt
+    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/linear-transformations-and-their-matrices/lecture-30-linear-transformations-and-their-matrices/Ts3o2I8_Mxc.srt
+    title: 3play caption file
+    type: null
+    uid: f985deb56d618a9678ead99e50fb0ccc
+  - id: Ts3o2I8_Mxc.pdf
+    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/linear-transformations-and-their-matrices/lecture-30-linear-transformations-and-their-matrices/Ts3o2I8_Mxc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 89bed67324333da7912bb81212cd512f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 59b07c12df440ebaf01fc1bbe9562345
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7fbfd49430e9ad811842767639c10f7f
+inline_embed_id: '11241904lecture30:lineartransformationsandtheirmatrices31527444'
 parent_uid: 9b3392d99bebd11047c36d07bc404bbc
+related_resources_text: ''
+short_url: lecture-30-linear-transformations-and-their-matrices
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/linear-transformations-and-their-matrices/lecture-30-linear-transformations-and-their-matrices
-short_url: lecture-30-linear-transformations-and-their-matrices
-inline_embed_id: '11241904lecture30:lineartransformationsandtheirmatrices31527444'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 30: Linear Transformations and their Matrices'
 transcript: >-
   <p><span m='7170'>OK,</span> <span m='7780'>this</span> <span
   m='8210'>is</span> <span m='8360'>the</span> <span m='8520'>lecture</span>
@@ -2602,61 +2656,7 @@ transcript: >-
   m='2956260'>OK,</span> <span m='2956440'>see</span> <span
   m='2956940'>you</span> <span m='2956960'>on</span> <span
   m='2957120'>Monday.</span> </p>
-embedded_media:
-  - uid: 723257b9c1d396683aedb7b065ebe2c0
-    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Ts3o2I8_Mxc
-  - uid: 1048b2e0983730e9ec1a3ce1223b27d6
-    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Ts3o2I8_Mxc/default.jpg'
-  - uid: 419a2a8225c60f542f5c45e4ff951a77
-    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: be1012c03c960cc7dfeca4abbf9e5bc1
-    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/30.mp4'
-  - uid: f6180ac42ff17f635a08fdf03c4544ff
-    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Ts3o2I8_Mxc
-  - uid: f985deb56d618a9678ead99e50fb0ccc
-    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
-    id: Ts3o2I8_Mxc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/linear-transformations-and-their-matrices/lecture-30-linear-transformations-and-their-matrices/Ts3o2I8_Mxc.srt
-  - uid: 89bed67324333da7912bb81212cd512f
-    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
-    id: Ts3o2I8_Mxc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/linear-transformations-and-their-matrices/lecture-30-linear-transformations-and-their-matrices/Ts3o2I8_Mxc.pdf
-  - uid: 59b07c12df440ebaf01fc1bbe9562345
-    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7fbfd49430e9ad811842767639c10f7f
-    parent_uid: cbd6fc5f658b57c1627dea95b43dbad1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: cbd6fc5f658b57c1627dea95b43dbad1
 type: courses
 layout: video
 ---

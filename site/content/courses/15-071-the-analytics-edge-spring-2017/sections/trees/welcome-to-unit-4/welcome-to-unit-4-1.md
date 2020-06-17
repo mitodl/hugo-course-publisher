@@ -1,13 +1,62 @@
 ---
-title: Welcome to Unit 4
-uid: a7fadb04da337d764121fded8f084498
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BKsi-Khu7Bs
+    parent_uid: a7fadb04da337d764121fded8f084498
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a603ad56a9f8a7fd0a4f00280f35a2c9
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: BKsi-Khu7Bs
+    parent_uid: a7fadb04da337d764121fded8f084498
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fda9f375115d7014696908ed8517486a
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/BKsi-Khu7Bs/default.jpg'
+    parent_uid: a7fadb04da337d764121fded8f084498
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b9c6f0d28c8eaab815d33a081dd8a394
+  - id: BKsi-Khu7Bs.srt
+    parent_uid: a7fadb04da337d764121fded8f084498
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/welcome-to-unit-4/welcome-to-unit-4-1/BKsi-Khu7Bs.srt
+    title: 3play caption file
+    type: null
+    uid: 235c507417cb2866d5ca38c65345e24d
+  - id: BKsi-Khu7Bs.pdf
+    parent_uid: a7fadb04da337d764121fded8f084498
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/welcome-to-unit-4/welcome-to-unit-4-1/BKsi-Khu7Bs.pdf
+    title: 3play pdf file
+    type: null
+    uid: e8784a3ab0762054e8b632b779d64451
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a7fadb04da337d764121fded8f084498
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0a57e6158e95e0e8d46d3e43005ea933
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a7fadb04da337d764121fded8f084498
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 47dcecdfae5b027601b30b180477e32d
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.1.01_300k.mp4
+    parent_uid: a7fadb04da337d764121fded8f084498
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 297e136e6bb2314d3358b47f43dab228
+inline_embed_id: 12376891welcometounit461838755
 parent_uid: 1bbf68ce76a47a1d41c90293ba65ab6e
+related_resources_text: ''
+short_url: welcome-to-unit-4-1
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/welcome-to-unit-4/welcome-to-unit-4-1
-short_url: welcome-to-unit-4-1
-inline_embed_id: 12376891welcometounit461838755
-about_this_resource_text: ''
-related_resources_text: ''
+title: Welcome to Unit 4
 transcript: >-
   <p><span m='4500'>Hello.</span> </p><p><span m='5490'>This</span> <span
   m='5853'>week</span> <span m='6216'>we'll</span> <span m='6580'>be</span>
@@ -53,56 +102,7 @@ transcript: >-
   m='40851'>interpretable</span> <span m='41260'>analytics</span> <span
   m='41980'>method.</span> </p><p><span m='42700'>Let's</span> <span
   m='43370'>get</span> <span m='44040'>started.</span> </p>
-embedded_media:
-  - uid: a603ad56a9f8a7fd0a4f00280f35a2c9
-    parent_uid: a7fadb04da337d764121fded8f084498
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BKsi-Khu7Bs
-  - uid: fda9f375115d7014696908ed8517486a
-    parent_uid: a7fadb04da337d764121fded8f084498
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BKsi-Khu7Bs
-  - uid: b9c6f0d28c8eaab815d33a081dd8a394
-    parent_uid: a7fadb04da337d764121fded8f084498
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BKsi-Khu7Bs/default.jpg'
-  - uid: 235c507417cb2866d5ca38c65345e24d
-    parent_uid: a7fadb04da337d764121fded8f084498
-    id: BKsi-Khu7Bs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/welcome-to-unit-4/welcome-to-unit-4-1/BKsi-Khu7Bs.srt
-  - uid: e8784a3ab0762054e8b632b779d64451
-    parent_uid: a7fadb04da337d764121fded8f084498
-    id: BKsi-Khu7Bs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/welcome-to-unit-4/welcome-to-unit-4-1/BKsi-Khu7Bs.pdf
-  - uid: 0a57e6158e95e0e8d46d3e43005ea933
-    parent_uid: a7fadb04da337d764121fded8f084498
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 47dcecdfae5b027601b30b180477e32d
-    parent_uid: a7fadb04da337d764121fded8f084498
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 297e136e6bb2314d3358b47f43dab228
-    parent_uid: a7fadb04da337d764121fded8f084498
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.1.01_300k.mp4
+uid: a7fadb04da337d764121fded8f084498
 type: courses
 layout: video
 ---

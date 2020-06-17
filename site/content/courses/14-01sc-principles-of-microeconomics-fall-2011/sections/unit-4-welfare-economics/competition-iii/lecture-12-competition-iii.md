@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 12: Competition III'
-uid: 2c22132bc753c8be07662713c55a3e7e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 1jLfD9ulntU
+    parent_uid: 2c22132bc753c8be07662713c55a3e7e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 558500b2a4e53556c81f59eb23528ea9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/1jLfD9ulntU/default.jpg'
+    parent_uid: 2c22132bc753c8be07662713c55a3e7e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d152a053c86b3436a71173d0d12e104e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 1jLfD9ulntU
+    parent_uid: 2c22132bc753c8be07662713c55a3e7e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1e7a579ed333bb9b94dbc1a0af360b9d
+  - id: 1jLfD9ulntU.srt
+    parent_uid: 2c22132bc753c8be07662713c55a3e7e
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-4-welfare-economics/competition-iii/lecture-12-competition-iii/1jLfD9ulntU.srt
+    title: 3play caption file
+    type: null
+    uid: 27987f2553f4d339e8837320e9de77d1
+  - id: 1jLfD9ulntU.pdf
+    parent_uid: 2c22132bc753c8be07662713c55a3e7e
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-4-welfare-economics/competition-iii/lecture-12-competition-iii/1jLfD9ulntU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 605ad2777cfdefdff57577faea97c18e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2c22132bc753c8be07662713c55a3e7e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8a38c79318cae9fc78ff404ecc692774
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2c22132bc753c8be07662713c55a3e7e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c1b305ceddc715a1e389b7fa09eb37b4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec12_300k.mp4'
+    parent_uid: 2c22132bc753c8be07662713c55a3e7e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 743c0fd18be79faf1b1e82cc54903f18
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-12-competition-iii/id496265654?i=109892749
+    parent_uid: 2c22132bc753c8be07662713c55a3e7e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ba4cdd7c92c5d0b8e0177cf0644da44a
+inline_embed_id: 48951519lecture12competitioniii15330381
 parent_uid: 67a95d6365f3707574af48aaa0010a46
+related_resources_text: ''
+short_url: lecture-12-competition-iii
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-4-welfare-economics/competition-iii/lecture-12-competition-iii
-short_url: lecture-12-competition-iii
-inline_embed_id: 48951519lecture12competitioniii15330381
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 12: Competition III'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3404,62 +3459,7 @@ transcript: >-
   <span m='2701910'>changes</span> <span m='2702160'>are</span> <span
   m='2702230'>good</span> <span m='2702370'>or</span> <span
   m='2702420'>bad.</span> </p>
-embedded_media:
-  - uid: 558500b2a4e53556c81f59eb23528ea9
-    parent_uid: 2c22132bc753c8be07662713c55a3e7e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 1jLfD9ulntU
-  - uid: d152a053c86b3436a71173d0d12e104e
-    parent_uid: 2c22132bc753c8be07662713c55a3e7e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/1jLfD9ulntU/default.jpg'
-  - uid: 1e7a579ed333bb9b94dbc1a0af360b9d
-    parent_uid: 2c22132bc753c8be07662713c55a3e7e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 1jLfD9ulntU
-  - uid: 27987f2553f4d339e8837320e9de77d1
-    parent_uid: 2c22132bc753c8be07662713c55a3e7e
-    id: 1jLfD9ulntU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-4-welfare-economics/competition-iii/lecture-12-competition-iii/1jLfD9ulntU.srt
-  - uid: 605ad2777cfdefdff57577faea97c18e
-    parent_uid: 2c22132bc753c8be07662713c55a3e7e
-    id: 1jLfD9ulntU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-4-welfare-economics/competition-iii/lecture-12-competition-iii/1jLfD9ulntU.pdf
-  - uid: 8a38c79318cae9fc78ff404ecc692774
-    parent_uid: 2c22132bc753c8be07662713c55a3e7e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c1b305ceddc715a1e389b7fa09eb37b4
-    parent_uid: 2c22132bc753c8be07662713c55a3e7e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 743c0fd18be79faf1b1e82cc54903f18
-    parent_uid: 2c22132bc753c8be07662713c55a3e7e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec12_300k.mp4'
-  - uid: ba4cdd7c92c5d0b8e0177cf0644da44a
-    parent_uid: 2c22132bc753c8be07662713c55a3e7e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-12-competition-iii/id496265654?i=109892749
+uid: 2c22132bc753c8be07662713c55a3e7e
 type: courses
 layout: video
 ---

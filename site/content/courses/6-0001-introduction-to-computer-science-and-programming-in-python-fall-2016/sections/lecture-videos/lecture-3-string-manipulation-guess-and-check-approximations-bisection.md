@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 3: String Manipulation, Guess and Check, Approximations, Bisection'
-uid: d8664e3860c1090f25938980868bcbca
-parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-3-string-manipulation-guess-and-check-approximations-bisection
-short_url: lecture-3-string-manipulation-guess-and-check-approximations-bisection
-inline_embed_id: 86373902lecture3stringmanipulationguessandcheckapproximationsbisection53630150
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Dr. Bell discusses string
   manipulation, guess-and-check algorithms, approximate solution methods, and
   bisection search.</p> <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: SE4P7IVCunE
+    parent_uid: d8664e3860c1090f25938980868bcbca
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3759a9ca163581b589039100c2655550
+  - id: SE4P7IVCunE.srt
+    parent_uid: d8664e3860c1090f25938980868bcbca
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-3-string-manipulation-guess-and-check-approximations-bisection/SE4P7IVCunE.srt
+    title: 3play caption file
+    type: null
+    uid: e4752488aee5c9365fda408484b3ad58
+  - id: SE4P7IVCunE.pdf
+    parent_uid: d8664e3860c1090f25938980868bcbca
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-3-string-manipulation-guess-and-check-approximations-bisection/SE4P7IVCunE.pdf
+    title: 3play pdf file
+    type: null
+    uid: d68f91578c16ffb99a7eccaf841a13b0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d8664e3860c1090f25938980868bcbca
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0c70b7e44ab94c53b8998c4471b01570
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d8664e3860c1090f25938980868bcbca
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 891870a196893ce3051390d9dfb72335
+  - id: Video-YouTube-Stream
+    media_location: SE4P7IVCunE
+    parent_uid: d8664e3860c1090f25938980868bcbca
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fd890c92c98ea748407caa7577b6e33c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/SE4P7IVCunE/default.jpg'
+    parent_uid: d8664e3860c1090f25938980868bcbca
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ba274ba500043caa9d18e2769ebaf9d7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: d8664e3860c1090f25938980868bcbca
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 79198a1ad42ed490b2c85ae5139e3056
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_03_300k.mp4'
+    parent_uid: d8664e3860c1090f25938980868bcbca
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a92f2f8a163d032c2c153a5dc7d63319
+inline_embed_id: 86373902lecture3stringmanipulationguessandcheckapproximationsbisection53630150
+parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
+short_url: lecture-3-string-manipulation-guess-and-check-approximations-bisection
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-3-string-manipulation-guess-and-check-approximations-bisection
+title: 'Lecture 3: String Manipulation, Guess and Check, Approximations, Bisection'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1300">content</span> <span m="1870">is</span> <span
@@ -3178,61 +3232,7 @@ transcript: >-
   m="2685860">All</span> <span m="2685920">right,</span> <span
   m="2688350">thank</span> <span m="2688630">you.</span></p><p><span
   m="2690130">[APPLAUSE]</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 3759a9ca163581b589039100c2655550
-    parent_uid: d8664e3860c1090f25938980868bcbca
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: SE4P7IVCunE
-  - uid: e4752488aee5c9365fda408484b3ad58
-    parent_uid: d8664e3860c1090f25938980868bcbca
-    id: SE4P7IVCunE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-3-string-manipulation-guess-and-check-approximations-bisection/SE4P7IVCunE.srt
-  - uid: d68f91578c16ffb99a7eccaf841a13b0
-    parent_uid: d8664e3860c1090f25938980868bcbca
-    id: SE4P7IVCunE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-3-string-manipulation-guess-and-check-approximations-bisection/SE4P7IVCunE.pdf
-  - uid: 0c70b7e44ab94c53b8998c4471b01570
-    parent_uid: d8664e3860c1090f25938980868bcbca
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 891870a196893ce3051390d9dfb72335
-    parent_uid: d8664e3860c1090f25938980868bcbca
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: fd890c92c98ea748407caa7577b6e33c
-    parent_uid: d8664e3860c1090f25938980868bcbca
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: SE4P7IVCunE
-  - uid: ba274ba500043caa9d18e2769ebaf9d7
-    parent_uid: d8664e3860c1090f25938980868bcbca
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/SE4P7IVCunE/default.jpg'
-  - uid: 79198a1ad42ed490b2c85ae5139e3056
-    parent_uid: d8664e3860c1090f25938980868bcbca
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: a92f2f8a163d032c2c153a5dc7d63319
-    parent_uid: d8664e3860c1090f25938980868bcbca
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_03_300k.mp4'
+uid: d8664e3860c1090f25938980868bcbca
 type: courses
 layout: video
 ---

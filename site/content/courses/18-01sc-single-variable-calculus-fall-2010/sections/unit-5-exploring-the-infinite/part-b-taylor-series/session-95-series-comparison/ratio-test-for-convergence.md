@@ -1,13 +1,68 @@
 ---
-title: Ratio Test for Convergence
-uid: 41ca475806d8b7d8902c7ef774b7f311
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: rUis1mSzwyA
+    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7166b8b758244517c01a13e686db90cb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/rUis1mSzwyA/default.jpg'
+    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0b30fbd93cfc7fdc8c271e0ff58baa44
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/ratio-test-for-convergence/id414308064?i=90320233
+    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: cb621853f82425ca150251ea8247024d
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_74_300k.mp4'
+    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 12c45e306b09869d5b1d758260213982
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: rUis1mSzwyA
+    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 67d3678ab36d27b2d2303dbfd39bc8b9
+  - id: rUis1mSzwyA.srt
+    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/ratio-test-for-convergence/rUis1mSzwyA.srt
+    title: 3play caption file
+    type: null
+    uid: d6747d7f0c2a1f5be4d4bcc7c8017b14
+  - id: rUis1mSzwyA.pdf
+    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/ratio-test-for-convergence/rUis1mSzwyA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 723b8b48454fec14ad13c650609703a5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d74ddebcfc8cb84b25a1e9a3f9f42a50
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 51cd852d559ca1d1e8e131415140ccaf
+inline_embed_id: 86968478ratiotestforconvergence99971982
 parent_uid: e6b5bcf01d4fe02cb8f15ed900b23542
+related_resources_text: ''
+short_url: ratio-test-for-convergence
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/ratio-test-for-convergence
-short_url: ratio-test-for-convergence
-inline_embed_id: 86968478ratiotestforconvergence99971982
-about_this_resource_text: ''
-related_resources_text: ''
+title: Ratio Test for Convergence
 transcript: >-
   <p><span m='6870'>Welcome</span> <span m='7260'>back</span> <span
   m='7450'>to</span> <span m='7540'>recitation.</span> <span m='8640'>In</span>
@@ -1036,62 +1091,7 @@ transcript: >-
   m='812060'>that'll</span> <span m='812270'>be</span> <span
   m='812380'>in</span> <span m='812480'>our</span> <span m='812580'>next</span>
   <span m='812830'>video.</span> </p>
-embedded_media:
-  - uid: 7166b8b758244517c01a13e686db90cb
-    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: rUis1mSzwyA
-  - uid: 0b30fbd93cfc7fdc8c271e0ff58baa44
-    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rUis1mSzwyA/default.jpg'
-  - uid: cb621853f82425ca150251ea8247024d
-    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/ratio-test-for-convergence/id414308064?i=90320233
-  - uid: 12c45e306b09869d5b1d758260213982
-    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_74_300k.mp4'
-  - uid: 67d3678ab36d27b2d2303dbfd39bc8b9
-    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: rUis1mSzwyA
-  - uid: d6747d7f0c2a1f5be4d4bcc7c8017b14
-    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
-    id: rUis1mSzwyA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/ratio-test-for-convergence/rUis1mSzwyA.srt
-  - uid: 723b8b48454fec14ad13c650609703a5
-    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
-    id: rUis1mSzwyA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/ratio-test-for-convergence/rUis1mSzwyA.pdf
-  - uid: d74ddebcfc8cb84b25a1e9a3f9f42a50
-    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 51cd852d559ca1d1e8e131415140ccaf
-    parent_uid: 41ca475806d8b7d8902c7ef774b7f311
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 41ca475806d8b7d8902c7ef774b7f311
 type: courses
 layout: video
 ---

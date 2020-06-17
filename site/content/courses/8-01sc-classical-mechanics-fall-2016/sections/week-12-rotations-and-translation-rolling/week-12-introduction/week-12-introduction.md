@@ -1,13 +1,67 @@
 ---
-title: Week 12 Introduction
-uid: 714c927ad43269e3e5004745cfc06b82
+about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: EhgF2OViDDs
+    parent_uid: 714c927ad43269e3e5004745cfc06b82
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d6cb208c7dc1a528eba9c5d5b60af4fd
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/EhgF2OViDDs/default.jpg'
+    parent_uid: 714c927ad43269e3e5004745cfc06b82
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 67398dd64a88b6b9478842503819e95a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: EhgF2OViDDs
+    parent_uid: 714c927ad43269e3e5004745cfc06b82
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 435f8eba455ada6733e41da515978333
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 714c927ad43269e3e5004745cfc06b82
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ea1dfdd7131461945c59a487f3b2839e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W12Intro_360p.mp4'
+    parent_uid: 714c927ad43269e3e5004745cfc06b82
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a33f697f45a73f256fdc7ee1fbd54d35
+  - id: EhgF2OViDDs.srt
+    parent_uid: 714c927ad43269e3e5004745cfc06b82
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/week-12-introduction/week-12-introduction/EhgF2OViDDs.srt
+    title: 3play caption file
+    type: null
+    uid: 6abb58cb99717e7c08d73a324e7baf2c
+  - id: EhgF2OViDDs.pdf
+    parent_uid: 714c927ad43269e3e5004745cfc06b82
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/week-12-introduction/week-12-introduction/EhgF2OViDDs.pdf
+    title: 3play pdf file
+    type: null
+    uid: 80a2b1dc2b3e7040e6de58c9c6f014c8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 714c927ad43269e3e5004745cfc06b82
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0d0af9266a66046ad4c9c00462c8a039
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 714c927ad43269e3e5004745cfc06b82
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 43b3ea29be6730e54a22ccd37a24734e
+inline_embed_id: 3540886week12introduction50227633
 parent_uid: f5a711f7cf081504228a556ad3f8eade
+related_resources_text: ''
+short_url: week-12-introduction
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/week-12-introduction/week-12-introduction
-short_url: week-12-introduction
-inline_embed_id: 3540886week12introduction50227633
-about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
-related_resources_text: ''
+title: Week 12 Introduction
 transcript: >-
   <p><span m='1020'>We have previously studied the translational motion</span>
   <span m='3660'>of rigid bodies by analyzing the motion of their center of
@@ -41,61 +95,7 @@ transcript: >-
   condition</span> <span m='83340'>that relates the translational speed of the
   center of mass</span> <span m='86460'>to the radius and the rotational angular
   velocity.</span> </p><p></p>
-embedded_media:
-  - uid: d6cb208c7dc1a528eba9c5d5b60af4fd
-    parent_uid: 714c927ad43269e3e5004745cfc06b82
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: EhgF2OViDDs
-  - uid: 67398dd64a88b6b9478842503819e95a
-    parent_uid: 714c927ad43269e3e5004745cfc06b82
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/EhgF2OViDDs/default.jpg'
-  - uid: 435f8eba455ada6733e41da515978333
-    parent_uid: 714c927ad43269e3e5004745cfc06b82
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: EhgF2OViDDs
-  - uid: ea1dfdd7131461945c59a487f3b2839e
-    parent_uid: 714c927ad43269e3e5004745cfc06b82
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: a33f697f45a73f256fdc7ee1fbd54d35
-    parent_uid: 714c927ad43269e3e5004745cfc06b82
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W12Intro_360p.mp4'
-  - uid: 6abb58cb99717e7c08d73a324e7baf2c
-    parent_uid: 714c927ad43269e3e5004745cfc06b82
-    id: EhgF2OViDDs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/week-12-introduction/week-12-introduction/EhgF2OViDDs.srt
-  - uid: 80a2b1dc2b3e7040e6de58c9c6f014c8
-    parent_uid: 714c927ad43269e3e5004745cfc06b82
-    id: EhgF2OViDDs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/week-12-introduction/week-12-introduction/EhgF2OViDDs.pdf
-  - uid: 0d0af9266a66046ad4c9c00462c8a039
-    parent_uid: 714c927ad43269e3e5004745cfc06b82
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 43b3ea29be6730e54a22ccd37a24734e
-    parent_uid: 714c927ad43269e3e5004745cfc06b82
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 714c927ad43269e3e5004745cfc06b82
 type: courses
 layout: video
 ---

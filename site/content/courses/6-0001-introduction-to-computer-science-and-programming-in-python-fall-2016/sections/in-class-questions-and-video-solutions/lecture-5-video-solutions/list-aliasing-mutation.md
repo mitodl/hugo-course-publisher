@@ -1,13 +1,68 @@
 ---
-title: List Aliasing / Mutation
-uid: 57d4875c362878b0ff93e434e4d4c86d
+about_this_resource_text: "<p><strong>Description:</strong> This in-class exercise demonstrates list how aliasing affects other list operations in Python.</p>\r\n<p><strong>Instructor:</strong> Dr. Ana Bell</p>"
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: FKp-6sojt9A
+    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bc08aecdb86b1c48ff70a654f7807df9
+  - id: FKp-6sojt9A.srt
+    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5-video-solutions/list-aliasing-mutation/FKp-6sojt9A.srt
+    title: 3play caption file
+    type: null
+    uid: 8c2dc2037bcd0d887ae85c97213046ec
+  - id: FKp-6sojt9A.pdf
+    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5-video-solutions/list-aliasing-mutation/FKp-6sojt9A.pdf
+    title: 3play pdf file
+    type: null
+    uid: cc354eb3c37197596b5dd9a89acecb75
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ac97a6109741ba38d01b65d46e2327ac
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 723ce17cabee6c7341f90cb35a3e639c
+  - id: Video-YouTube-Stream
+    media_location: FKp-6sojt9A
+    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c2c6f5f80f3d8ce8514b33dbb473a989
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FKp-6sojt9A/default.jpg'
+    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5648f4ee1c873ddf04e091453204d3f1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0675296dfff7789fef2e6b2ae5e4ceb2
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_05_exercise_04_300k.mp4
+    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cd0b67555bc2ba836242f26b89fda028
+inline_embed_id: 15796087listaliasingmutation21471423
 parent_uid: a57c778604ec07438250f01957eb34b1
+related_resources_text: ''
+short_url: list-aliasing-mutation
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5-video-solutions/list-aliasing-mutation
-short_url: list-aliasing-mutation
-inline_embed_id: 15796087listaliasingmutation21471423
-about_this_resource_text: "<p><strong>Description:</strong> This in-class exercise demonstrates list how aliasing affects other list operations in Python.</p>\r\n<p><strong>Instructor:</strong> Dr. Ana Bell</p>"
-related_resources_text: ''
+title: List Aliasing / Mutation
 transcript: >-
   <p><span m='790'>The</span> <span m='850'>following</span> <span
   m='1300'>content</span> <span m='1870'>is</span> <span
@@ -105,62 +160,7 @@ transcript: >-
   m='110830'>perfect.</span> <span m='111430'>Yes,</span> <span
   m='112450'>that's</span> <span m='112660'>the</span> <span
   m='112750'>right</span> <span m='112900'>answer.</span> </p>
-embedded_media:
-  - uid: bc08aecdb86b1c48ff70a654f7807df9
-    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FKp-6sojt9A
-  - uid: 8c2dc2037bcd0d887ae85c97213046ec
-    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
-    id: FKp-6sojt9A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5-video-solutions/list-aliasing-mutation/FKp-6sojt9A.srt
-  - uid: cc354eb3c37197596b5dd9a89acecb75
-    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
-    id: FKp-6sojt9A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5-video-solutions/list-aliasing-mutation/FKp-6sojt9A.pdf
-  - uid: ac97a6109741ba38d01b65d46e2327ac
-    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 723ce17cabee6c7341f90cb35a3e639c
-    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c2c6f5f80f3d8ce8514b33dbb473a989
-    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FKp-6sojt9A
-  - uid: 5648f4ee1c873ddf04e091453204d3f1
-    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FKp-6sojt9A/default.jpg'
-  - uid: 0675296dfff7789fef2e6b2ae5e4ceb2
-    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: cd0b67555bc2ba836242f26b89fda028
-    parent_uid: 57d4875c362878b0ff93e434e4d4c86d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_05_exercise_04_300k.mp4
+uid: 57d4875c362878b0ff93e434e4d4c86d
 type: courses
 layout: video
 ---

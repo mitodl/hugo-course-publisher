@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: Predictive Policing'
-uid: 15dd6ed88694bac7ae12cd787458364d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: vhkBbC9qp1M
+    parent_uid: 15dd6ed88694bac7ae12cd787458364d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d0e5f3de307beb738888982cb373a826
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: vhkBbC9qp1M
+    parent_uid: 15dd6ed88694bac7ae12cd787458364d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ff910838b352c3413300184eab1d8f4e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/vhkBbC9qp1M/default.jpg'
+    parent_uid: 15dd6ed88694bac7ae12cd787458364d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7a806294e1770b88b9938fe79a36d16d
+  - id: vhkBbC9qp1M.srt
+    parent_uid: 15dd6ed88694bac7ae12cd787458364d
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-1-predictive-policing-0/vhkBbC9qp1M.srt
+    title: 3play caption file
+    type: null
+    uid: 27ed94058c7560e0715a0d6892c9c229
+  - id: vhkBbC9qp1M.pdf
+    parent_uid: 15dd6ed88694bac7ae12cd787458364d
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-1-predictive-policing-0/vhkBbC9qp1M.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8a708b407a3894c6cd92d57e6bffaa27
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 15dd6ed88694bac7ae12cd787458364d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f2589dd7e0ffa256a88eda1933ed5d7c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 15dd6ed88694bac7ae12cd787458364d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 507f6aaf1b4d58407b2922634a4bf483
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.3.01_300k.mp4
+    parent_uid: 15dd6ed88694bac7ae12cd787458364d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 999866b9a02c84d7079cf1336a50efe7
+inline_embed_id: 27841187video1predictivepolicing75277966
 parent_uid: 716f78f61fe6c5f47370d7a3c4127827
+related_resources_text: ''
+short_url: video-1-predictive-policing-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-1-predictive-policing-0
-short_url: video-1-predictive-policing-0
-inline_embed_id: 27841187video1predictivepolicing75277966
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: Predictive Policing'
 transcript: >-
   <p><span m='9500'>In</span> <span m='9953'>this</span> <span
   m='10407'>lecture,</span> <span m='10861'>we</span> <span
@@ -321,56 +370,7 @@ transcript: >-
   m='256613'>the</span> <span m='257036'>analytics</span> <span
   m='257459'>and</span> <span m='257939'>the</span> <span m='258419'>end</span>
   <span m='258899'>user.</span> </p>
-embedded_media:
-  - uid: d0e5f3de307beb738888982cb373a826
-    parent_uid: 15dd6ed88694bac7ae12cd787458364d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: vhkBbC9qp1M
-  - uid: ff910838b352c3413300184eab1d8f4e
-    parent_uid: 15dd6ed88694bac7ae12cd787458364d
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: vhkBbC9qp1M
-  - uid: 7a806294e1770b88b9938fe79a36d16d
-    parent_uid: 15dd6ed88694bac7ae12cd787458364d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/vhkBbC9qp1M/default.jpg'
-  - uid: 27ed94058c7560e0715a0d6892c9c229
-    parent_uid: 15dd6ed88694bac7ae12cd787458364d
-    id: vhkBbC9qp1M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-1-predictive-policing-0/vhkBbC9qp1M.srt
-  - uid: 8a708b407a3894c6cd92d57e6bffaa27
-    parent_uid: 15dd6ed88694bac7ae12cd787458364d
-    id: vhkBbC9qp1M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-1-predictive-policing-0/vhkBbC9qp1M.pdf
-  - uid: f2589dd7e0ffa256a88eda1933ed5d7c
-    parent_uid: 15dd6ed88694bac7ae12cd787458364d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 507f6aaf1b4d58407b2922634a4bf483
-    parent_uid: 15dd6ed88694bac7ae12cd787458364d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 999866b9a02c84d7079cf1336a50efe7
-    parent_uid: 15dd6ed88694bac7ae12cd787458364d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.3.01_300k.mp4
+uid: 15dd6ed88694bac7ae12cd787458364d
 type: courses
 layout: video
 ---

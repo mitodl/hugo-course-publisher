@@ -1,13 +1,61 @@
 ---
-title: 'Lecture 12 VideoLecture Video 12: Maxwell''s Equation, Electromagnetic Waves'
-uid: 8d4521c98ed70a0e53a678af140cd4ca
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8kcvyoHsXrw
+    parent_uid: 8d4521c98ed70a0e53a678af140cd4ca
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5f3b614d428aad362845880ff7271353
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/8kcvyoHsXrw/default.jpg'
+    parent_uid: 8d4521c98ed70a0e53a678af140cd4ca
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 04bbcf22c99cceb03eddc6d2ad679a68
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec12_300k.mp4'
+    parent_uid: 8d4521c98ed70a0e53a678af140cd4ca
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 417220f99fb8e894b7926579583f478f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 8kcvyoHsXrw
+    parent_uid: 8d4521c98ed70a0e53a678af140cd4ca
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ef2a583306bfec99fbe6e3b3e780dbb7
+  - id: 8kcvyoHsXrw.srt
+    parent_uid: 8d4521c98ed70a0e53a678af140cd4ca
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-12-video/8kcvyoHsXrw.srt
+    title: 3play caption file
+    type: null
+    uid: f86089460a0f31c21d0573eb93b1b031
+  - id: 8kcvyoHsXrw.pdf
+    parent_uid: 8d4521c98ed70a0e53a678af140cd4ca
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-12-video/8kcvyoHsXrw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7be097cc278447f4597a97a989c4ed2b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8d4521c98ed70a0e53a678af140cd4ca
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f03eb5e1eb49b0b066c4922b0f864eb3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8d4521c98ed70a0e53a678af140cd4ca
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: cc7c3ee0c3dcc80d077f599802d7223d
+inline_embed_id: 19422229lecture12video75987444
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-12-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-12-video
-short_url: lecture-12-video
-inline_embed_id: 19422229lecture12video75987444
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 12 VideoLecture Video 12: Maxwell''s Equation, Electromagnetic Waves'
 transcript: >-
   <p><span m="2550">The</span> <span m="2640">following</span> <span
   m="3090">content</span> <span m="3600">is</span> <span
@@ -4044,55 +4092,7 @@ transcript: >-
   m="4523660">any</span> <span m="4523900">questions,</span> <span
   m="4524380">I</span> <span m="4524460">will</span> <span m="4524550">be</span>
   <span m="4524680">here.</span></p>
-embedded_media:
-  - uid: 5f3b614d428aad362845880ff7271353
-    parent_uid: 8d4521c98ed70a0e53a678af140cd4ca
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8kcvyoHsXrw
-  - uid: 04bbcf22c99cceb03eddc6d2ad679a68
-    parent_uid: 8d4521c98ed70a0e53a678af140cd4ca
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8kcvyoHsXrw/default.jpg'
-  - uid: 417220f99fb8e894b7926579583f478f
-    parent_uid: 8d4521c98ed70a0e53a678af140cd4ca
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec12_300k.mp4'
-  - uid: ef2a583306bfec99fbe6e3b3e780dbb7
-    parent_uid: 8d4521c98ed70a0e53a678af140cd4ca
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8kcvyoHsXrw
-  - uid: f86089460a0f31c21d0573eb93b1b031
-    parent_uid: 8d4521c98ed70a0e53a678af140cd4ca
-    id: 8kcvyoHsXrw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-12-video/8kcvyoHsXrw.srt
-  - uid: 7be097cc278447f4597a97a989c4ed2b
-    parent_uid: 8d4521c98ed70a0e53a678af140cd4ca
-    id: 8kcvyoHsXrw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-12-video/8kcvyoHsXrw.pdf
-  - uid: f03eb5e1eb49b0b066c4922b0f864eb3
-    parent_uid: 8d4521c98ed70a0e53a678af140cd4ca
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: cc7c3ee0c3dcc80d077f599802d7223d
-    parent_uid: 8d4521c98ed70a0e53a678af140cd4ca
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 8d4521c98ed70a0e53a678af140cd4ca
 type: courses
 layout: video
 ---

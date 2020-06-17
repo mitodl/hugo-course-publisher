@@ -1,13 +1,67 @@
 ---
-title: 'Session 2, Part 2: Business Models'
-uid: c22f91fc5f609c9669b31cd88a4cef7b
+about_this_resource_text: '<p><strong>Speaker:</strong> Rich Kivel</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: b9Yyj3htBLE
+    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d2f721b4584ed2dd4dee032118be4be9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/b9Yyj3htBLE/default.jpg'
+    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f4408fd4c7251392a2d738b74ba85f9b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: b9Yyj3htBLE
+    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 27cbba1ca0bc918540944643ec33ba79
+  - id: b9Yyj3htBLE.srt
+    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-business-models/b9Yyj3htBLE.srt
+    title: 3play caption file
+    type: null
+    uid: b3efba1c10e4bb6e2c55e5e9c429667c
+  - id: b9Yyj3htBLE.pdf
+    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-business-models/b9Yyj3htBLE.pdf
+    title: 3play pdf file
+    type: null
+    uid: d046ca284d89e74f5f35ca8b57cf37a6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ab3373886e0af01af9445dddb47b7e41
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ac334417d2bcb1a6b12bdc638a9f8709
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1122123562'
+    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: df8f4309d0f90b3b44bd24ddaabab153
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT15.S21IAP14/MIT15_S21IAP14_S2P2_300k.mp4'
+    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 12c8cf864185c4aeb4d10a2d5e0950d1
+inline_embed_id: '98306597part2:businessmodels82098132'
 parent_uid: 7425dbab24bd40b9d0c0c704cab7eab2
+related_resources_text: ''
+short_url: part-2-business-models
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-business-models
-short_url: part-2-business-models
-inline_embed_id: '98306597part2:businessmodels82098132'
-about_this_resource_text: '<p><strong>Speaker:</strong> Rich Kivel</p>'
-related_resources_text: ''
+title: 'Session 2, Part 2: Business Models'
 transcript: >-
   <p><span m='30'>The</span> <span m='130'>following</span> <span
   m='600'>content</span> <span m='1090'>is</span> <span m='1210'>provided</span>
@@ -5431,61 +5485,7 @@ transcript: >-
   m='4047590'>there.</span> <span m='4047720'>Thank</span> <span
   m='4048000'>you</span> <span m='4048090'>all.</span> <span
   m='4048920'>[APPLAUSE]</span> </p>
-embedded_media:
-  - uid: d2f721b4584ed2dd4dee032118be4be9
-    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: b9Yyj3htBLE
-  - uid: f4408fd4c7251392a2d738b74ba85f9b
-    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/b9Yyj3htBLE/default.jpg'
-  - uid: 27cbba1ca0bc918540944643ec33ba79
-    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: b9Yyj3htBLE
-  - uid: b3efba1c10e4bb6e2c55e5e9c429667c
-    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
-    id: b9Yyj3htBLE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-business-models/b9Yyj3htBLE.srt
-  - uid: d046ca284d89e74f5f35ca8b57cf37a6
-    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
-    id: b9Yyj3htBLE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-business-models/b9Yyj3htBLE.pdf
-  - uid: ab3373886e0af01af9445dddb47b7e41
-    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ac334417d2bcb1a6b12bdc638a9f8709
-    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: df8f4309d0f90b3b44bd24ddaabab153
-    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1122123562'
-  - uid: 12c8cf864185c4aeb4d10a2d5e0950d1
-    parent_uid: c22f91fc5f609c9669b31cd88a4cef7b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT15.S21IAP14/MIT15_S21IAP14_S2P2_300k.mp4'
+uid: c22f91fc5f609c9669b31cd88a4cef7b
 type: courses
 layout: video
 ---

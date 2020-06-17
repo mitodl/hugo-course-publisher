@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 34: Distance Matrices, Procrustes Problem'
-uid: f7538bc908587cb80a7b3788d90a46d1
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-34-distance-matrices-procrustes-problem-first-project
-short_url: lecture-34-distance-matrices-procrustes-problem-first-project
-inline_embed_id: 61295500lecture34distancematricesprocrustesproblemfirstproject92565727
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>This lecture continues the review of
   distance matrices. Professor Strang then introduces the Procrustes problem,
@@ -17,7 +10,62 @@ about_this_resource_text: >-
   \(Q\) so that \(Qx\)'s are closest to \(y\)'s.</p> <p>Related sections in
   textbook: IV.9 and IV.10</p> <p><strong>Instructor:</strong> Prof. Gilbert
   Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0Qws8BuK3RQ
+    parent_uid: f7538bc908587cb80a7b3788d90a46d1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 974e6030962df1764ee4de7cfec34a42
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0Qws8BuK3RQ/default.jpg'
+    parent_uid: f7538bc908587cb80a7b3788d90a46d1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9d29dfbc326fe7c77d752997c0a07727
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0Qws8BuK3RQ
+    parent_uid: f7538bc908587cb80a7b3788d90a46d1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 855540c329972f78772ac45f56bf062e
+  - id: 0Qws8BuK3RQ.srt
+    parent_uid: f7538bc908587cb80a7b3788d90a46d1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-34-distance-matrices-procrustes-problem-first-project/0Qws8BuK3RQ.srt
+    title: 3play caption file
+    type: null
+    uid: c2ce6c2305676e911435328deb48223b
+  - id: 0Qws8BuK3RQ.pdf
+    parent_uid: f7538bc908587cb80a7b3788d90a46d1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-34-distance-matrices-procrustes-problem-first-project/0Qws8BuK3RQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: f64a99f5de44badf3d0d2f6ee7253213
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f7538bc908587cb80a7b3788d90a46d1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6369c0db9fb5fc26bd22f1ad4b2d772a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f7538bc908587cb80a7b3788d90a46d1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 46fd4b1b5b07b0675c2011eccdefacb8
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture34_300k.mp4'
+    parent_uid: f7538bc908587cb80a7b3788d90a46d1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a4468a7ac9d6daf1dff5984efecc3517
+inline_embed_id: 61295500lecture34distancematricesprocrustesproblemfirstproject92565727
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-34-distance-matrices-procrustes-problem-first-project
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-34-distance-matrices-procrustes-problem-first-project
+title: 'Lecture 34: Distance Matrices, Procrustes Problem'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -1478,55 +1526,7 @@ transcript: >-
   m="1753710">that's</span> <span m="1754460">up</span> <span
   m="1754610">for</span> <span m="1754790">Monday</span> <span
   m="1755180">then.</span> <span m="1755560">Good.</span></p>
-embedded_media:
-  - uid: 974e6030962df1764ee4de7cfec34a42
-    parent_uid: f7538bc908587cb80a7b3788d90a46d1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0Qws8BuK3RQ
-  - uid: 9d29dfbc326fe7c77d752997c0a07727
-    parent_uid: f7538bc908587cb80a7b3788d90a46d1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0Qws8BuK3RQ/default.jpg'
-  - uid: 855540c329972f78772ac45f56bf062e
-    parent_uid: f7538bc908587cb80a7b3788d90a46d1
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0Qws8BuK3RQ
-  - uid: c2ce6c2305676e911435328deb48223b
-    parent_uid: f7538bc908587cb80a7b3788d90a46d1
-    id: 0Qws8BuK3RQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-34-distance-matrices-procrustes-problem-first-project/0Qws8BuK3RQ.srt
-  - uid: f64a99f5de44badf3d0d2f6ee7253213
-    parent_uid: f7538bc908587cb80a7b3788d90a46d1
-    id: 0Qws8BuK3RQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-34-distance-matrices-procrustes-problem-first-project/0Qws8BuK3RQ.pdf
-  - uid: 6369c0db9fb5fc26bd22f1ad4b2d772a
-    parent_uid: f7538bc908587cb80a7b3788d90a46d1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 46fd4b1b5b07b0675c2011eccdefacb8
-    parent_uid: f7538bc908587cb80a7b3788d90a46d1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a4468a7ac9d6daf1dff5984efecc3517
-    parent_uid: f7538bc908587cb80a7b3788d90a46d1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture34_300k.mp4'
+uid: f7538bc908587cb80a7b3788d90a46d1
 type: courses
 layout: video
 ---

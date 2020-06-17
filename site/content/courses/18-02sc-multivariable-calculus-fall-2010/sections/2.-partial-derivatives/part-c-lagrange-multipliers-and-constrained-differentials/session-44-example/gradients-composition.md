@@ -1,13 +1,68 @@
 ---
-title: Gradients - Composition
-uid: 2a5313ba9c3d707ec0b5476851e78b07
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: j9GZjr05Heg
+    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d99f428a476df2a7960c94eda302caaf
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/j9GZjr05Heg/default.jpg'
+    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fe156e1176ed08137a7e3f68f24981d0
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_31_300k.mp4'
+    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f559047481cb31bd195cfc1690a269fa
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/gradients-composition/id414355340?i=90322869
+    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 85418017173cd67f7a700aefaacb837c
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: j9GZjr05Heg
+    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f9cdf6797222ad6c89328e8d42605fdc
+  - id: j9GZjr05Heg.srt
+    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-44-example/gradients-composition/j9GZjr05Heg.srt
+    title: 3play caption file
+    type: null
+    uid: 7436e0fba714fd81a0c242b5833d46b5
+  - id: j9GZjr05Heg.pdf
+    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-44-example/gradients-composition/j9GZjr05Heg.pdf
+    title: 3play pdf file
+    type: null
+    uid: c2e72d8947ed683f61c62dcce577a392
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 21cdff11ffc58760ff7e4746384c72c3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 36326d52a9f376dae6ea9abfde2b6278
+inline_embed_id: 72618981gradients-composition84123646
 parent_uid: 07dd5e0fe2b203b0b2685c1b278acc2a
+related_resources_text: ''
+short_url: gradients-composition
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-44-example/gradients-composition
-short_url: gradients-composition
-inline_embed_id: 72618981gradients-composition84123646
-about_this_resource_text: ''
-related_resources_text: ''
+title: Gradients - Composition
 transcript: >-
   <p><span m='0'>DAVID JORDAN:</span> <span m='6890'>Hello,</span> <span
   m='7590'>and</span> <span m='7940'>welcome</span> <span m='8230'>back
@@ -537,62 +592,7 @@ transcript: >-
   <span m='618545'>And</span> <span m='619010'>I</span> <span
   m='619160'>think</span> <span m='619370'>I'll</span> <span m='619460'>leave
   it</span> <span m='619670'>at</span> <span m='619760'>that.</span> </p>
-embedded_media:
-  - uid: d99f428a476df2a7960c94eda302caaf
-    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: j9GZjr05Heg
-  - uid: fe156e1176ed08137a7e3f68f24981d0
-    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/j9GZjr05Heg/default.jpg'
-  - uid: f559047481cb31bd195cfc1690a269fa
-    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_31_300k.mp4'
-  - uid: 85418017173cd67f7a700aefaacb837c
-    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/gradients-composition/id414355340?i=90322869
-  - uid: f9cdf6797222ad6c89328e8d42605fdc
-    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: j9GZjr05Heg
-  - uid: 7436e0fba714fd81a0c242b5833d46b5
-    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
-    id: j9GZjr05Heg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-44-example/gradients-composition/j9GZjr05Heg.srt
-  - uid: c2e72d8947ed683f61c62dcce577a392
-    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
-    id: j9GZjr05Heg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-44-example/gradients-composition/j9GZjr05Heg.pdf
-  - uid: 21cdff11ffc58760ff7e4746384c72c3
-    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 36326d52a9f376dae6ea9abfde2b6278
-    parent_uid: 2a5313ba9c3d707ec0b5476851e78b07
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2a5313ba9c3d707ec0b5476851e78b07
 type: courses
 layout: video
 ---

@@ -1,17 +1,89 @@
 ---
-title: 'Lecture 4: Chain Rule'
-uid: 4fa53159d8e533bd967332e84ba4e629
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-4-chain-rule
-short_url: lecture-4-chain-rule
-inline_embed_id: '78448838lecture4:chainrule53735113'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Chain rule - Higher
   derivatives</p> <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec04.jpg
+    parent_uid: 4fa53159d8e533bd967332e84ba4e629
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-4-chain-rule/lec04.jpg
+    title: Lecture 4
+    type: null
+    uid: 97bea0fb92d273b562bd236e3b870011
+  - id: Video-YouTube-Stream
+    media_location: 4sTKcvYMNxk
+    parent_uid: 4fa53159d8e533bd967332e84ba4e629
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 60e7c46ff13a42939c28a3ae6bf93832
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg'
+    parent_uid: 4fa53159d8e533bd967332e84ba4e629
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e6690bbded3ad99b83df5f3e58186e38
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 4fa53159d8e533bd967332e84ba4e629
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 590d469c5e459704de1074ab6206a007
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec04_300k.mp4'
+    parent_uid: 4fa53159d8e533bd967332e84ba4e629
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cc85771cc0be65a259f10a0beb64b702
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 4fa53159d8e533bd967332e84ba4e629
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: d0ac5655cedf7f3152868f406acc76bc
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 4fa53159d8e533bd967332e84ba4e629
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: b93cf22d13fc8c9c45fc51316a484d2a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 4sTKcvYMNxk
+    parent_uid: 4fa53159d8e533bd967332e84ba4e629
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: adff4d37af57068163799e8b15a115cf
+  - id: 4sTKcvYMNxk.srt
+    parent_uid: 4fa53159d8e533bd967332e84ba4e629
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-4-chain-rule/4sTKcvYMNxk.srt
+    title: 3play caption file
+    type: null
+    uid: a8bf83b4f75877061c450f7973ba7164
+  - id: 4sTKcvYMNxk.pdf
+    parent_uid: 4fa53159d8e533bd967332e84ba4e629
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-4-chain-rule/4sTKcvYMNxk.pdf
+    title: 3play pdf file
+    type: null
+    uid: ee7b29af07d1911250710c608f553a2e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4fa53159d8e533bd967332e84ba4e629
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6179456620ab8330812f6072fdf50a3c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4fa53159d8e533bd967332e84ba4e629
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 195a386f20a65437ad6752b135788b3a
+inline_embed_id: '78448838lecture4:chainrule53735113'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/b8051c7c7a28e2cd03667de9dd4865fb">PDF</a>)</p></div>
+short_url: lecture-4-chain-rule
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-4-chain-rule
+title: 'Lecture 4: Chain Rule'
 transcript: >-
   <p><span m='110'>The</span> <span m='350'>following</span> <span
   m='520'>content</span> <span m='1260'>is</span> <span m='1400'>provided</span>
@@ -2118,79 +2190,7 @@ transcript: >-
   m='2755280'>constant.</span> <span m='2756620'>So</span> <span
   m='2756860'>it's 0.</span> </p><p><span m='2758180'>Okay.</span> <span
   m='2758440'>Thank</span> <span m='2758730'>you.</span> </p>
-embedded_media:
-  - uid: 97bea0fb92d273b562bd236e3b870011
-    parent_uid: 4fa53159d8e533bd967332e84ba4e629
-    id: lec04.jpg
-    title: Lecture 4
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-4-chain-rule/lec04.jpg
-  - uid: 60e7c46ff13a42939c28a3ae6bf93832
-    parent_uid: 4fa53159d8e533bd967332e84ba4e629
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4sTKcvYMNxk
-  - uid: e6690bbded3ad99b83df5f3e58186e38
-    parent_uid: 4fa53159d8e533bd967332e84ba4e629
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg'
-  - uid: 590d469c5e459704de1074ab6206a007
-    parent_uid: 4fa53159d8e533bd967332e84ba4e629
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: cc85771cc0be65a259f10a0beb64b702
-    parent_uid: 4fa53159d8e533bd967332e84ba4e629
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec04_300k.mp4'
-  - uid: d0ac5655cedf7f3152868f406acc76bc
-    parent_uid: 4fa53159d8e533bd967332e84ba4e629
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: b93cf22d13fc8c9c45fc51316a484d2a
-    parent_uid: 4fa53159d8e533bd967332e84ba4e629
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: adff4d37af57068163799e8b15a115cf
-    parent_uid: 4fa53159d8e533bd967332e84ba4e629
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4sTKcvYMNxk
-  - uid: a8bf83b4f75877061c450f7973ba7164
-    parent_uid: 4fa53159d8e533bd967332e84ba4e629
-    id: 4sTKcvYMNxk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-4-chain-rule/4sTKcvYMNxk.srt
-  - uid: ee7b29af07d1911250710c608f553a2e
-    parent_uid: 4fa53159d8e533bd967332e84ba4e629
-    id: 4sTKcvYMNxk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-4-chain-rule/4sTKcvYMNxk.pdf
-  - uid: 6179456620ab8330812f6072fdf50a3c
-    parent_uid: 4fa53159d8e533bd967332e84ba4e629
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 195a386f20a65437ad6752b135788b3a
-    parent_uid: 4fa53159d8e533bd967332e84ba4e629
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 4fa53159d8e533bd967332e84ba4e629
 type: courses
 layout: video
 ---

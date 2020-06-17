@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 21: Eigenvalues and Eigenvectors'
-uid: e513060959a86c73afe05a92e03f907a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: cdZnhQjJu4I
+    parent_uid: e513060959a86c73afe05a92e03f907a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3ebbef4970b99fdfc6b689596bf9eba1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: e513060959a86c73afe05a92e03f907a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 739a2bcb806c612acae52673e8fbce01
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/21.mp4'
+    parent_uid: e513060959a86c73afe05a92e03f907a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 916e23bd72f806413eacdb508f7fac9a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: cdZnhQjJu4I
+    parent_uid: e513060959a86c73afe05a92e03f907a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ac22660a139b97cd4dedb7ede7285740
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/cdZnhQjJu4I/default.jpg'
+    parent_uid: e513060959a86c73afe05a92e03f907a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4b4fb4e0798173d382ba4abdc83f01f0
+  - id: cdZnhQjJu4I.srt
+    parent_uid: e513060959a86c73afe05a92e03f907a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-21-eigenvalues-and-eigenvectors/cdZnhQjJu4I.srt
+    title: 3play caption file
+    type: null
+    uid: fdeb997f51bf095e7dd27572c2eb5c3f
+  - id: cdZnhQjJu4I.pdf
+    parent_uid: e513060959a86c73afe05a92e03f907a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-21-eigenvalues-and-eigenvectors/cdZnhQjJu4I.pdf
+    title: 3play pdf file
+    type: null
+    uid: bd57c3b204a53014efb698145b3f0cc4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e513060959a86c73afe05a92e03f907a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fbd7db81d08b7ec599a26ae569da465d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e513060959a86c73afe05a92e03f907a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a42a261dfc1191e2249e1d1c73a913f1
+inline_embed_id: 38040627lecture21eigenvaluesandeigenvectors48515129
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: lecture-21-eigenvalues-and-eigenvectors
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-21-eigenvalues-and-eigenvectors
-short_url: lecture-21-eigenvalues-and-eigenvectors
-inline_embed_id: 38040627lecture21eigenvaluesandeigenvectors48515129
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 21: Eigenvalues and Eigenvectors'
 transcript: >-
   <p><span m='7380'>OK.</span> <span m='8230'>So</span> <span
   m='8680'>this</span> <span m='8880'>is</span> <span m='9710'>the</span> <span
@@ -2822,61 +2876,7 @@ transcript: >-
   m='3076640'>A</span> <span m='3077710'>real</span> <span
   m='3078790'>New</span> <span m='3079860'>England</span> <span
   m='3080930'>weekend.</span> </p>
-embedded_media:
-  - uid: 3ebbef4970b99fdfc6b689596bf9eba1
-    parent_uid: e513060959a86c73afe05a92e03f907a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: cdZnhQjJu4I
-  - uid: 739a2bcb806c612acae52673e8fbce01
-    parent_uid: e513060959a86c73afe05a92e03f907a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 916e23bd72f806413eacdb508f7fac9a
-    parent_uid: e513060959a86c73afe05a92e03f907a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/21.mp4'
-  - uid: ac22660a139b97cd4dedb7ede7285740
-    parent_uid: e513060959a86c73afe05a92e03f907a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: cdZnhQjJu4I
-  - uid: 4b4fb4e0798173d382ba4abdc83f01f0
-    parent_uid: e513060959a86c73afe05a92e03f907a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/cdZnhQjJu4I/default.jpg'
-  - uid: fdeb997f51bf095e7dd27572c2eb5c3f
-    parent_uid: e513060959a86c73afe05a92e03f907a
-    id: cdZnhQjJu4I.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-21-eigenvalues-and-eigenvectors/cdZnhQjJu4I.srt
-  - uid: bd57c3b204a53014efb698145b3f0cc4
-    parent_uid: e513060959a86c73afe05a92e03f907a
-    id: cdZnhQjJu4I.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-21-eigenvalues-and-eigenvectors/cdZnhQjJu4I.pdf
-  - uid: fbd7db81d08b7ec599a26ae569da465d
-    parent_uid: e513060959a86c73afe05a92e03f907a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a42a261dfc1191e2249e1d1c73a913f1
-    parent_uid: e513060959a86c73afe05a92e03f907a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e513060959a86c73afe05a92e03f907a
 type: courses
 layout: video
 ---

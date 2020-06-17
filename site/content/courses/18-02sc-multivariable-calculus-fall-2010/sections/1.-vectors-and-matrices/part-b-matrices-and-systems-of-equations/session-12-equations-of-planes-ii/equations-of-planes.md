@@ -1,13 +1,68 @@
 ---
-title: Equations of Planes
-uid: 1ac944279a01bdd075e29ea90520ed79
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: XmQM5pHxX-o
+    parent_uid: 1ac944279a01bdd075e29ea90520ed79
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 337541533f1b4af1c60c68ab277e26ba
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/XmQM5pHxX-o/default.jpg'
+    parent_uid: 1ac944279a01bdd075e29ea90520ed79
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bc1ed172e974cf9b9174c019292fb952
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: XmQM5pHxX-o
+    parent_uid: 1ac944279a01bdd075e29ea90520ed79
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 67b11fbf01c4bd388b0a338fb550ffad
+  - id: XmQM5pHxX-o.srt
+    parent_uid: 1ac944279a01bdd075e29ea90520ed79
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-12-equations-of-planes-ii/equations-of-planes/XmQM5pHxX-o.srt
+    title: 3play caption file
+    type: null
+    uid: 497b01b4c288b9f92e90046cd5cc51f2
+  - id: XmQM5pHxX-o.pdf
+    parent_uid: 1ac944279a01bdd075e29ea90520ed79
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-12-equations-of-planes-ii/equations-of-planes/XmQM5pHxX-o.pdf
+    title: 3play pdf file
+    type: null
+    uid: 512bb95de04979791bef98e11fd2db24
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1ac944279a01bdd075e29ea90520ed79
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1f0f4fb1fe4ec08c207867acd0a8ef96
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1ac944279a01bdd075e29ea90520ed79
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b9f34631cc5ffa3f30c801a62327ff23
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/equations-of-planes/id414355340?i=90322853
+    parent_uid: 1ac944279a01bdd075e29ea90520ed79
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d2938dbf23c17b7fdc36d4b49b6b1efa
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_10_300k.mp4'
+    parent_uid: 1ac944279a01bdd075e29ea90520ed79
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: da94c5a030c860cdeaf970f533187c65
+inline_embed_id: 24785553equationsofplanes27280924
 parent_uid: 373d1bd0065482663191d1be06e5b406
+related_resources_text: ''
+short_url: equations-of-planes
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-12-equations-of-planes-ii/equations-of-planes
-short_url: equations-of-planes
-inline_embed_id: 24785553equationsofplanes27280924
-about_this_resource_text: ''
-related_resources_text: ''
+title: Equations of Planes
 transcript: >-
   <p><span m='6970'>JOEL LEWIS: Hi.</span> <span m='7440'>Welcome</span> <span
   m='7730'>back</span> <span m='7930'>to</span> <span
@@ -1053,62 +1108,7 @@ transcript: >-
   <span m='827850'>plane.</span> <span m='828550'>So</span> <span
   m='828920'>I'll</span> <span m='829150'>end</span> <span
   m='829390'>there.</span> </p>
-embedded_media:
-  - uid: 337541533f1b4af1c60c68ab277e26ba
-    parent_uid: 1ac944279a01bdd075e29ea90520ed79
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: XmQM5pHxX-o
-  - uid: bc1ed172e974cf9b9174c019292fb952
-    parent_uid: 1ac944279a01bdd075e29ea90520ed79
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/XmQM5pHxX-o/default.jpg'
-  - uid: 67b11fbf01c4bd388b0a338fb550ffad
-    parent_uid: 1ac944279a01bdd075e29ea90520ed79
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: XmQM5pHxX-o
-  - uid: 497b01b4c288b9f92e90046cd5cc51f2
-    parent_uid: 1ac944279a01bdd075e29ea90520ed79
-    id: XmQM5pHxX-o.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-12-equations-of-planes-ii/equations-of-planes/XmQM5pHxX-o.srt
-  - uid: 512bb95de04979791bef98e11fd2db24
-    parent_uid: 1ac944279a01bdd075e29ea90520ed79
-    id: XmQM5pHxX-o.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-12-equations-of-planes-ii/equations-of-planes/XmQM5pHxX-o.pdf
-  - uid: 1f0f4fb1fe4ec08c207867acd0a8ef96
-    parent_uid: 1ac944279a01bdd075e29ea90520ed79
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b9f34631cc5ffa3f30c801a62327ff23
-    parent_uid: 1ac944279a01bdd075e29ea90520ed79
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d2938dbf23c17b7fdc36d4b49b6b1efa
-    parent_uid: 1ac944279a01bdd075e29ea90520ed79
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/equations-of-planes/id414355340?i=90322853
-  - uid: da94c5a030c860cdeaf970f533187c65
-    parent_uid: 1ac944279a01bdd075e29ea90520ed79
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_10_300k.mp4'
+uid: 1ac944279a01bdd075e29ea90520ed79
 type: courses
 layout: video
 ---

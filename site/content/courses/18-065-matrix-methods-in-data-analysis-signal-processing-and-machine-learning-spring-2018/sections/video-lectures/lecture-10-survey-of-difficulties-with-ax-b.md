@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 10: Survey of Difficulties with Ax = b'
-uid: 16628e4482cdc2a75b194304b853bbe5
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-10-survey-of-difficulties-with-ax-b
-short_url: lecture-10-survey-of-difficulties-with-ax-b
-inline_embed_id: 22921777lecture10surveyofdifficultieswithaxb89191694
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>The subject of this lecture is the
   matrix equation \(Ax = b\).  Solving for \(x\) presents a number of challenges
@@ -16,7 +9,69 @@ about_this_resource_text: >-
   /> Penalty method regularizes a singular problem.</p> <p>Related chapter in
   textbook: Introduction to Chapter II</p> <p><strong>Instructor:</strong> Prof.
   Gilbert Strang</p>
+embedded_media:
+  - id: Fig_II-3.jpg
+    parent_uid: 16628e4482cdc2a75b194304b853bbe5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-10-survey-of-difficulties-with-ax-b/Fig_II-3.jpg
+    title: Fig_II-3.jpg
+    type: null
+    uid: 25fc4da3a8de7b3b4def2954481cf268
+  - id: Video-YouTube-Stream
+    media_location: Z_5uLqcwDgM
+    parent_uid: 16628e4482cdc2a75b194304b853bbe5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 00f4b9d45170ad17ec2ed2b96f25f153
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Z_5uLqcwDgM/default.jpg'
+    parent_uid: 16628e4482cdc2a75b194304b853bbe5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8b9cfd6c93629a09bb77189500449bbd
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Z_5uLqcwDgM
+    parent_uid: 16628e4482cdc2a75b194304b853bbe5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: cbd471e8b212ff4cfe936c483a796411
+  - id: Z_5uLqcwDgM.srt
+    parent_uid: 16628e4482cdc2a75b194304b853bbe5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-10-survey-of-difficulties-with-ax-b/Z_5uLqcwDgM.srt
+    title: 3play caption file
+    type: null
+    uid: cf751d2e3992c978e8c76e0433450e62
+  - id: Z_5uLqcwDgM.pdf
+    parent_uid: 16628e4482cdc2a75b194304b853bbe5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-10-survey-of-difficulties-with-ax-b/Z_5uLqcwDgM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 212daa75e3085a82fee93745e3942ff3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 16628e4482cdc2a75b194304b853bbe5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a5827735d340b6680ddb5e6fdd5796f0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 16628e4482cdc2a75b194304b853bbe5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b34699dafef92366b6f12ab9a4601479
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture10_300k.mp4'
+    parent_uid: 16628e4482cdc2a75b194304b853bbe5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 43d98068fac6f5129949aadb427f19a7
+inline_embed_id: 22921777lecture10surveyofdifficultieswithaxb89191694
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-10-survey-of-difficulties-with-ax-b
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-10-survey-of-difficulties-with-ax-b
+title: 'Lecture 10: Survey of Difficulties with Ax = b'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2511,62 +2566,7 @@ transcript: >-
   m="2971670">off</span> <span m="2972360">and</span> <span
   m="2973560">call</span> <span m="2973800">it</span> <span m="2973950">a</span>
   <span m="2974010">day.</span></p>
-embedded_media:
-  - uid: 25fc4da3a8de7b3b4def2954481cf268
-    parent_uid: 16628e4482cdc2a75b194304b853bbe5
-    id: Fig_II-3.jpg
-    title: Fig_II-3.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-10-survey-of-difficulties-with-ax-b/Fig_II-3.jpg
-  - uid: 00f4b9d45170ad17ec2ed2b96f25f153
-    parent_uid: 16628e4482cdc2a75b194304b853bbe5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Z_5uLqcwDgM
-  - uid: 8b9cfd6c93629a09bb77189500449bbd
-    parent_uid: 16628e4482cdc2a75b194304b853bbe5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Z_5uLqcwDgM/default.jpg'
-  - uid: cbd471e8b212ff4cfe936c483a796411
-    parent_uid: 16628e4482cdc2a75b194304b853bbe5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Z_5uLqcwDgM
-  - uid: cf751d2e3992c978e8c76e0433450e62
-    parent_uid: 16628e4482cdc2a75b194304b853bbe5
-    id: Z_5uLqcwDgM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-10-survey-of-difficulties-with-ax-b/Z_5uLqcwDgM.srt
-  - uid: 212daa75e3085a82fee93745e3942ff3
-    parent_uid: 16628e4482cdc2a75b194304b853bbe5
-    id: Z_5uLqcwDgM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-10-survey-of-difficulties-with-ax-b/Z_5uLqcwDgM.pdf
-  - uid: a5827735d340b6680ddb5e6fdd5796f0
-    parent_uid: 16628e4482cdc2a75b194304b853bbe5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b34699dafef92366b6f12ab9a4601479
-    parent_uid: 16628e4482cdc2a75b194304b853bbe5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 43d98068fac6f5129949aadb427f19a7
-    parent_uid: 16628e4482cdc2a75b194304b853bbe5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture10_300k.mp4'
+uid: 16628e4482cdc2a75b194304b853bbe5
 type: courses
 layout: video
 ---

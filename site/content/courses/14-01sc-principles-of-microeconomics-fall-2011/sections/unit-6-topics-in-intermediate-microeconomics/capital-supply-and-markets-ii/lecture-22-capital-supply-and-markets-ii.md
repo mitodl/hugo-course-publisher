@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 22: Capital Supply and Markets II'
-uid: 5b176d05421da0cb8a2482871c7e3a20
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: H3_TYEeswuM
+    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 204a2001069967d4d645290d522dc69d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/H3_TYEeswuM/default.jpg'
+    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c0b9de9359c3803ac9865c2c05bddf64
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: H3_TYEeswuM
+    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1c62113340e940bab81395cc51aabe28
+  - id: H3_TYEeswuM.srt
+    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/capital-supply-and-markets-ii/lecture-22-capital-supply-and-markets-ii/H3_TYEeswuM.srt
+    title: 3play caption file
+    type: null
+    uid: 4ede13b9cd86a4f73d42f04cee934e79
+  - id: H3_TYEeswuM.pdf
+    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/capital-supply-and-markets-ii/lecture-22-capital-supply-and-markets-ii/H3_TYEeswuM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 82f20fa54a593016220b75dbcc7b7859
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 546c9e99a8ead73ab561c5e3f588c9d0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 25dae9c3becfb14005b21abada263c12
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec22_300k.mp4'
+    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6b0464982945ddc1f601e742ca55d122
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-22-capital-supply/id496265654?i=110157701
+    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 22a36e40df9e5d84be5e0e036c5d71cc
+inline_embed_id: 40747959lecture22capitalsupplyandmarketsii32959760
 parent_uid: 66c54ff6d57018af9a41352ad16e70f7
+related_resources_text: ''
+short_url: lecture-22-capital-supply-and-markets-ii
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/capital-supply-and-markets-ii/lecture-22-capital-supply-and-markets-ii
-short_url: lecture-22-capital-supply-and-markets-ii
-inline_embed_id: 40747959lecture22capitalsupplyandmarketsii32959760
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 22: Capital Supply and Markets II'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3483,62 +3538,7 @@ transcript: >-
   m='2847720'>and</span> <span m='2847980'>talk</span> <span
   m='2848230'>about</span> <span m='2848820'>equity and</span> <span
   m='2849250'>efficiency.</span> </p>
-embedded_media:
-  - uid: 204a2001069967d4d645290d522dc69d
-    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: H3_TYEeswuM
-  - uid: c0b9de9359c3803ac9865c2c05bddf64
-    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/H3_TYEeswuM/default.jpg'
-  - uid: 1c62113340e940bab81395cc51aabe28
-    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: H3_TYEeswuM
-  - uid: 4ede13b9cd86a4f73d42f04cee934e79
-    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
-    id: H3_TYEeswuM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/capital-supply-and-markets-ii/lecture-22-capital-supply-and-markets-ii/H3_TYEeswuM.srt
-  - uid: 82f20fa54a593016220b75dbcc7b7859
-    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
-    id: H3_TYEeswuM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/capital-supply-and-markets-ii/lecture-22-capital-supply-and-markets-ii/H3_TYEeswuM.pdf
-  - uid: 546c9e99a8ead73ab561c5e3f588c9d0
-    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 25dae9c3becfb14005b21abada263c12
-    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6b0464982945ddc1f601e742ca55d122
-    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec22_300k.mp4'
-  - uid: 22a36e40df9e5d84be5e0e036c5d71cc
-    parent_uid: 5b176d05421da0cb8a2482871c7e3a20
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-22-capital-supply/id496265654?i=110157701
+uid: 5b176d05421da0cb8a2482871c7e3a20
 type: courses
 layout: video
 ---

@@ -4,7 +4,8 @@ course_id: res-tll-005-how-to-speak-january-iap-2018
 course_title: How to Speak
 course_image_url: >-
   https://open-learning-course-data-ci.s3.amazonaws.com/res-tll-005-how-to-speak-january-iap-2018/28205c50444b2ad0368682a733f1a36c_RES-TLL-005IAP18.jpg
-course_thumbnail_image_url: ''
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/res-tll-005-how-to-speak-january-iap-2018/b4c92502956331b86eeba15a1f4a51e4_RES-TLL-005IAP18-th.jpg
 course_image_alternate_text: Professor Winston in front of a chalkboard with writing on it.
 course_image_caption_text: >-
   <p>Professor Patrick H. Winston and excerpts from his <em>How to Speak</em>

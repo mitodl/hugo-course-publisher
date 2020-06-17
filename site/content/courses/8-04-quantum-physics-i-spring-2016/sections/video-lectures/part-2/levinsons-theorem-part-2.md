@@ -1,13 +1,67 @@
 ---
-title: 'Levinson''s theorem, part 2'
-uid: 701f3267998528292e9a1e007e3dd8bd
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: yhI3jTX4dY4
+    parent_uid: 701f3267998528292e9a1e007e3dd8bd
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 16e7e80b8116404527cd9cdae7ec64b8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/yhI3jTX4dY4/default.jpg'
+    parent_uid: 701f3267998528292e9a1e007e3dd8bd
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 39108fe38f7ce20c83af4f193b574a8c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: yhI3jTX4dY4
+    parent_uid: 701f3267998528292e9a1e007e3dd8bd
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2af2d6e4a21ed74f160e4f037d4a5094
+  - id: yhI3jTX4dY4.srt
+    parent_uid: 701f3267998528292e9a1e007e3dd8bd
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/levinsons-theorem-part-2/yhI3jTX4dY4.srt
+    title: 3play caption file
+    type: null
+    uid: 1aab33edd9cf82474df55723c9cb4814
+  - id: yhI3jTX4dY4.pdf
+    parent_uid: 701f3267998528292e9a1e007e3dd8bd
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/levinsons-theorem-part-2/yhI3jTX4dY4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 771de1b5c700772bbf88311b3d90d0a9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 701f3267998528292e9a1e007e3dd8bd
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 47823675c75480d8fe1dcb2c477e985c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 701f3267998528292e9a1e007e3dd8bd
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b6a0fc9d7838bb47a636ef7157d8c9db
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 701f3267998528292e9a1e007e3dd8bd
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 40e5ed3d341a22f4ec6aa33fdb65fd96
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec18_s5_300k.mp4'
+    parent_uid: 701f3267998528292e9a1e007e3dd8bd
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c740e8ac2e7aeb34b72d2fcee448c915
+inline_embed_id: 71871544levinsonstheorempart233400553
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: levinsons-theorem-part-2
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/levinsons-theorem-part-2
-short_url: levinsons-theorem-part-2
-inline_embed_id: 71871544levinsonstheorempart233400553
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Levinson''s theorem, part 2'
 transcript: >-
   <p><span m='330'>PROFESSOR:</span> <span m='445'>We</span> <span
   m='560'>have</span> <span m='950'>two</span> <span m='1160'>equations</span>
@@ -395,61 +449,7 @@ transcript: >-
   m='560250'>are</span> <span m='562030'>overall</span> <span
   m='564705'>no</span> <span m='565140'>lost</span> <span
   m='566440'>states.</span> </p>
-embedded_media:
-  - uid: 16e7e80b8116404527cd9cdae7ec64b8
-    parent_uid: 701f3267998528292e9a1e007e3dd8bd
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: yhI3jTX4dY4
-  - uid: 39108fe38f7ce20c83af4f193b574a8c
-    parent_uid: 701f3267998528292e9a1e007e3dd8bd
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/yhI3jTX4dY4/default.jpg'
-  - uid: 2af2d6e4a21ed74f160e4f037d4a5094
-    parent_uid: 701f3267998528292e9a1e007e3dd8bd
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: yhI3jTX4dY4
-  - uid: 1aab33edd9cf82474df55723c9cb4814
-    parent_uid: 701f3267998528292e9a1e007e3dd8bd
-    id: yhI3jTX4dY4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/levinsons-theorem-part-2/yhI3jTX4dY4.srt
-  - uid: 771de1b5c700772bbf88311b3d90d0a9
-    parent_uid: 701f3267998528292e9a1e007e3dd8bd
-    id: yhI3jTX4dY4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/levinsons-theorem-part-2/yhI3jTX4dY4.pdf
-  - uid: 47823675c75480d8fe1dcb2c477e985c
-    parent_uid: 701f3267998528292e9a1e007e3dd8bd
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b6a0fc9d7838bb47a636ef7157d8c9db
-    parent_uid: 701f3267998528292e9a1e007e3dd8bd
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 40e5ed3d341a22f4ec6aa33fdb65fd96
-    parent_uid: 701f3267998528292e9a1e007e3dd8bd
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: c740e8ac2e7aeb34b72d2fcee448c915
-    parent_uid: 701f3267998528292e9a1e007e3dd8bd
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec18_s5_300k.mp4'
+uid: 701f3267998528292e9a1e007e3dd8bd
 type: courses
 layout: video
 ---

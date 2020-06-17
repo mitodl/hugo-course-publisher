@@ -1,13 +1,62 @@
 ---
-title: 'Video 2: Playoffs and Wins'
-uid: 1f7cd2f6895386f043d2113f690931b0
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 4YP38f2u36E
+    parent_uid: 1f7cd2f6895386f043d2113f690931b0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e5fc4581bb1f8918fc23ae0569aa8a61
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 4YP38f2u36E
+    parent_uid: 1f7cd2f6895386f043d2113f690931b0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: dc805bc53c4559c53a6766c97e8e547a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4YP38f2u36E/default.jpg'
+    parent_uid: 1f7cd2f6895386f043d2113f690931b0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 375b7935d70b2dcdea3ffddd47637648
+  - id: 4YP38f2u36E.srt
+    parent_uid: 1f7cd2f6895386f043d2113f690931b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/playing-moneyball-in-the-nba-recitation/video-2-playoffs-and-wins/video-2-playoffs-and-wins-0/4YP38f2u36E.srt
+    title: 3play caption file
+    type: null
+    uid: bb2e60720b6d9378ed0e72ea4337a1cc
+  - id: 4YP38f2u36E.pdf
+    parent_uid: 1f7cd2f6895386f043d2113f690931b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/playing-moneyball-in-the-nba-recitation/video-2-playoffs-and-wins/video-2-playoffs-and-wins-0/4YP38f2u36E.pdf
+    title: 3play pdf file
+    type: null
+    uid: af4f0edbf0d5a669660f7402966b5472
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1f7cd2f6895386f043d2113f690931b0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 832b9da48f2ed87cc8e0c1cf54cfe9b4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1f7cd2f6895386f043d2113f690931b0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 83d0fe0595a2cb0eb2f0b787c7051eac
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.4.03_300k.mp4
+    parent_uid: 1f7cd2f6895386f043d2113f690931b0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6f24f99099d9484ed74e4759d41e29c1
+inline_embed_id: 6007199video2playoffsandwins60653014
 parent_uid: 5ac291e9f7cb6b8e19b1740753e96bf6
+related_resources_text: ''
+short_url: video-2-playoffs-and-wins-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/playing-moneyball-in-the-nba-recitation/video-2-playoffs-and-wins/video-2-playoffs-and-wins-0
-short_url: video-2-playoffs-and-wins-0
-inline_embed_id: 6007199video2playoffsandwins60653014
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: Playoffs and Wins'
 transcript: >-
   <p><span m='4150'>The</span> <span m='4370'>goal</span> <span
   m='4590'>of</span> <span m='4810'>a</span> <span m='5030'>basketball</span>
@@ -374,56 +423,7 @@ transcript: >-
   m='412124'>order</span> <span m='412528'>to</span> <span m='412931'>win</span>
   <span m='413335'>at</span> <span m='413739'>least</span> <span
   m='414142'>42</span> <span m='414546'>games.</span> </p>
-embedded_media:
-  - uid: e5fc4581bb1f8918fc23ae0569aa8a61
-    parent_uid: 1f7cd2f6895386f043d2113f690931b0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4YP38f2u36E
-  - uid: dc805bc53c4559c53a6766c97e8e547a
-    parent_uid: 1f7cd2f6895386f043d2113f690931b0
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4YP38f2u36E
-  - uid: 375b7935d70b2dcdea3ffddd47637648
-    parent_uid: 1f7cd2f6895386f043d2113f690931b0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4YP38f2u36E/default.jpg'
-  - uid: bb2e60720b6d9378ed0e72ea4337a1cc
-    parent_uid: 1f7cd2f6895386f043d2113f690931b0
-    id: 4YP38f2u36E.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/playing-moneyball-in-the-nba-recitation/video-2-playoffs-and-wins/video-2-playoffs-and-wins-0/4YP38f2u36E.srt
-  - uid: af4f0edbf0d5a669660f7402966b5472
-    parent_uid: 1f7cd2f6895386f043d2113f690931b0
-    id: 4YP38f2u36E.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/playing-moneyball-in-the-nba-recitation/video-2-playoffs-and-wins/video-2-playoffs-and-wins-0/4YP38f2u36E.pdf
-  - uid: 832b9da48f2ed87cc8e0c1cf54cfe9b4
-    parent_uid: 1f7cd2f6895386f043d2113f690931b0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 83d0fe0595a2cb0eb2f0b787c7051eac
-    parent_uid: 1f7cd2f6895386f043d2113f690931b0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6f24f99099d9484ed74e4759d41e29c1
-    parent_uid: 1f7cd2f6895386f043d2113f690931b0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.4.03_300k.mp4
+uid: 1f7cd2f6895386f043d2113f690931b0
 type: courses
 layout: video
 ---

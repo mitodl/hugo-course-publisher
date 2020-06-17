@@ -1,13 +1,67 @@
 ---
-title: Translation operator. Central potentials
-uid: d3e5a7583a8df2ec2d7bf0063a096ec6
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: sPsDI0dICtc
+    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2c34366aed8e8cdb215a25e06e18e7a2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/sPsDI0dICtc/default.jpg'
+    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e5f4b8cd99acce93ceccba1230b2368d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: sPsDI0dICtc
+    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a1b186d1c252a09734b9ae1203114e9c
+  - id: sPsDI0dICtc.srt
+    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/translation-operator.-central-potentials/sPsDI0dICtc.srt
+    title: 3play caption file
+    type: null
+    uid: 0b57b9d2df0058320f7e0e9a3d08c20b
+  - id: sPsDI0dICtc.pdf
+    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/translation-operator.-central-potentials/sPsDI0dICtc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 455927c9aabd4ec85bad46630927e10f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 21705667f9cc886353da558c0ba267e8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5641bb69bdb33dd2180605d7d0f22bdc
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 07628c21f7e5684c761d00a21ca9fae4
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec20_s1_300k.mp4'
+    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3e37b9068afc35fddd8c797b053256d6
+inline_embed_id: 93315444translationoperator.centralpotentials78621774
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: translation-operator.-central-potentials
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/translation-operator.-central-potentials
-short_url: translation-operator.-central-potentials
-inline_embed_id: 93315444translationoperator.centralpotentials78621774
-about_this_resource_text: ''
-related_resources_text: ''
+title: Translation operator. Central potentials
 transcript: >-
   <p><span m="1520">PROFESSOR:</span> <span m="1580">The</span> <span
   m="1640">fact</span> <span m="2060">is</span> <span m="2240">that</span> <span
@@ -848,61 +902,7 @@ transcript: >-
   m="1149610">This</span> <span m="1151050">will</span> <span
   m="1151170">be</span> <span m="1151320">next</span> <span
   m="1151680">lecture</span> <span m="1152120">still.</span></p>
-embedded_media:
-  - uid: 2c34366aed8e8cdb215a25e06e18e7a2
-    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: sPsDI0dICtc
-  - uid: e5f4b8cd99acce93ceccba1230b2368d
-    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/sPsDI0dICtc/default.jpg'
-  - uid: a1b186d1c252a09734b9ae1203114e9c
-    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: sPsDI0dICtc
-  - uid: 0b57b9d2df0058320f7e0e9a3d08c20b
-    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
-    id: sPsDI0dICtc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/translation-operator.-central-potentials/sPsDI0dICtc.srt
-  - uid: 455927c9aabd4ec85bad46630927e10f
-    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
-    id: sPsDI0dICtc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/translation-operator.-central-potentials/sPsDI0dICtc.pdf
-  - uid: 21705667f9cc886353da558c0ba267e8
-    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5641bb69bdb33dd2180605d7d0f22bdc
-    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 07628c21f7e5684c761d00a21ca9fae4
-    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 3e37b9068afc35fddd8c797b053256d6
-    parent_uid: d3e5a7583a8df2ec2d7bf0063a096ec6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec20_s1_300k.mp4'
+uid: d3e5a7583a8df2ec2d7bf0063a096ec6
 type: courses
 layout: video
 ---

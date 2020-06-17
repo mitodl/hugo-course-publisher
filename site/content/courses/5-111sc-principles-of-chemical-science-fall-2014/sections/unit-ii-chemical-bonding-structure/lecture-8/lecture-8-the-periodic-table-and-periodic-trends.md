@@ -1,18 +1,72 @@
 ---
-title: 'Lecture 8: The Periodic Table and Periodic Trends'
-uid: 04ab645d46c8a1cf0c97299cef7fa7a7
-parent_uid: 3ea46bd050d77305ee1a67bd41bfde89
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-8/lecture-8-the-periodic-table-and-periodic-trends
-short_url: lecture-8-the-periodic-table-and-periodic-trends
-inline_embed_id: 47675003lecture8theperiodictableandperiodictrends98800864
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: The periodic table is to chemistry like the laws of
   motion are to physics. In this lecture, we discover the secrets of the
   periodic table and meet the elements.</p> <p><strong>Instructor:</strong>
   Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: LWmVdG0uj2g
+    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3d048d8b238670cd6bea7e053f394ac8
+  - id: LWmVdG0uj2g.srt
+    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-8/lecture-8-the-periodic-table-and-periodic-trends/LWmVdG0uj2g.srt
+    title: 3play caption file
+    type: null
+    uid: 80003d5ec23da67536cbd0660ac02e0a
+  - id: LWmVdG0uj2g.pdf
+    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-8/lecture-8-the-periodic-table-and-periodic-trends/LWmVdG0uj2g.pdf
+    title: 3play pdf file
+    type: null
+    uid: c02e584724e11e7b1301eb273d0f99e7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b6fbf11c05971180185f97b32fce3cc6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 25b84e2e164b0a0757f94c6ba2b196e6
+  - id: Video-YouTube-Stream
+    media_location: LWmVdG0uj2g
+    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9d4ba78614db89daf611428c66854084
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/LWmVdG0uj2g/default.jpg'
+    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0eb140f47decd5f6ae718bf67d2a455c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9f04bc431ff79844b60553166981d562
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L08_300k.mp4'
+    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 42c76c164ac09bad893d5307c7bfa0e6
+inline_embed_id: 47675003lecture8theperiodictableandperiodictrends98800864
+parent_uid: 3ea46bd050d77305ee1a67bd41bfde89
 related_resources_text: ''
+short_url: lecture-8-the-periodic-table-and-periodic-trends
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-8/lecture-8-the-periodic-table-and-periodic-trends
+title: 'Lecture 8: The Periodic Table and Periodic Trends'
 transcript: >-
   <p><span m='30'>The</span> <span m='130'>following</span> <span
   m='600'>content</span> <span m='1090'>is</span> <span m='1210'>provided</span>
@@ -2468,61 +2522,7 @@ transcript: >-
   m='2481380'>continue</span> <span m='2482370'>with</span> <span
   m='2483600'>electronegativity</span> <span m='2484670'>on</span> <span
   m='2484820'>Friday.</span> </p>
-embedded_media:
-  - uid: 3d048d8b238670cd6bea7e053f394ac8
-    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: LWmVdG0uj2g
-  - uid: 80003d5ec23da67536cbd0660ac02e0a
-    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
-    id: LWmVdG0uj2g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-8/lecture-8-the-periodic-table-and-periodic-trends/LWmVdG0uj2g.srt
-  - uid: c02e584724e11e7b1301eb273d0f99e7
-    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
-    id: LWmVdG0uj2g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-8/lecture-8-the-periodic-table-and-periodic-trends/LWmVdG0uj2g.pdf
-  - uid: b6fbf11c05971180185f97b32fce3cc6
-    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 25b84e2e164b0a0757f94c6ba2b196e6
-    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9d4ba78614db89daf611428c66854084
-    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: LWmVdG0uj2g
-  - uid: 0eb140f47decd5f6ae718bf67d2a455c
-    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/LWmVdG0uj2g/default.jpg'
-  - uid: 9f04bc431ff79844b60553166981d562
-    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 42c76c164ac09bad893d5307c7bfa0e6
-    parent_uid: 04ab645d46c8a1cf0c97299cef7fa7a7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L08_300k.mp4'
+uid: 04ab645d46c8a1cf0c97299cef7fa7a7
 type: courses
 layout: video
 ---

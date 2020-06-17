@@ -1,13 +1,67 @@
 ---
-title: 'PS.1.5 Worked Example: Pedestrian and Bike at Intersection'
-uid: e0c2768c08368a33b6f65ec2b2d68659
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: SjK2lmRFxc4
+    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
+    title: Video-YouTube-Stream
+    type: Video
+    uid: aa428e99e12e9b9f5be3741724f42a22
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/SjK2lmRFxc4/default.jpg'
+    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b9efbdaadce15e51d3ad423e6f30aba4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: SjK2lmRFxc4
+    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d7588883bb20ed9316b5dc8fd1d5ebdd
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 00fe037b605fcbc9da4481ef2c8c54e2
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W01PS05_360p.mp4'
+    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0fb9e6928067bbfcd3eb7110c2675262
+  - id: SjK2lmRFxc4.srt
+    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.5-worked-example-pedestrian-and-bike-at-intersection/ps.1.5-worked-example-pedestrian-and-bike-at-intersection/SjK2lmRFxc4.srt
+    title: 3play caption file
+    type: null
+    uid: a0b03c9b135c368be5ef0ef4b233aecf
+  - id: SjK2lmRFxc4.pdf
+    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.5-worked-example-pedestrian-and-bike-at-intersection/ps.1.5-worked-example-pedestrian-and-bike-at-intersection/SjK2lmRFxc4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3b1bdd658d6a69436ba8a17ea864df20
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d8bc7893c7137cd1de27681d10555136
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c3530b9b82cf295015b9b9a275fd5293
+inline_embed_id: 85043544ps.1.5workedexamplepedestrianandbikeatintersection52624981
 parent_uid: 78b6dfdb143437ce0d071e7e7521a24e
+related_resources_text: ''
+short_url: ps.1.5-worked-example-pedestrian-and-bike-at-intersection
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.5-worked-example-pedestrian-and-bike-at-intersection/ps.1.5-worked-example-pedestrian-and-bike-at-intersection
-short_url: ps.1.5-worked-example-pedestrian-and-bike-at-intersection
-inline_embed_id: 85043544ps.1.5workedexamplepedestrianandbikeatintersection52624981
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
+title: 'PS.1.5 Worked Example: Pedestrian and Bike at Intersection'
 transcript: >-
   <p><span m='3320'>You're standing at a traffic intersection.</span>
   </p><p><span m='5420'>And you start to accelerate when the light turns
@@ -217,61 +271,7 @@ transcript: >-
   times two.</span> </p><p><span m='825860'>So this is also three meters.</span>
   </p><p><span m='828390'>And we actually have the right answer here.</span>
   </p><p></p>
-embedded_media:
-  - uid: aa428e99e12e9b9f5be3741724f42a22
-    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: SjK2lmRFxc4
-  - uid: b9efbdaadce15e51d3ad423e6f30aba4
-    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/SjK2lmRFxc4/default.jpg'
-  - uid: d7588883bb20ed9316b5dc8fd1d5ebdd
-    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: SjK2lmRFxc4
-  - uid: 00fe037b605fcbc9da4481ef2c8c54e2
-    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 0fb9e6928067bbfcd3eb7110c2675262
-    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W01PS05_360p.mp4'
-  - uid: a0b03c9b135c368be5ef0ef4b233aecf
-    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
-    id: SjK2lmRFxc4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.5-worked-example-pedestrian-and-bike-at-intersection/ps.1.5-worked-example-pedestrian-and-bike-at-intersection/SjK2lmRFxc4.srt
-  - uid: 3b1bdd658d6a69436ba8a17ea864df20
-    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
-    id: SjK2lmRFxc4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.5-worked-example-pedestrian-and-bike-at-intersection/ps.1.5-worked-example-pedestrian-and-bike-at-intersection/SjK2lmRFxc4.pdf
-  - uid: d8bc7893c7137cd1de27681d10555136
-    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c3530b9b82cf295015b9b9a275fd5293
-    parent_uid: e0c2768c08368a33b6f65ec2b2d68659
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e0c2768c08368a33b6f65ec2b2d68659
 type: courses
 layout: video
 ---

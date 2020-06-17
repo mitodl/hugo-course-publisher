@@ -1,13 +1,67 @@
 ---
-title: Excursion of the phase shift
-uid: f59baf038978f321de007eabafb9f0e7
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Cb_3sOYLjUI
+    parent_uid: f59baf038978f321de007eabafb9f0e7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b604f679ed4cdd65afa209f0526bf005
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Cb_3sOYLjUI/default.jpg'
+    parent_uid: f59baf038978f321de007eabafb9f0e7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5faba4feedfdbdd44ac8235fda21ad17
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Cb_3sOYLjUI
+    parent_uid: f59baf038978f321de007eabafb9f0e7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 16c47986d2d1f7d3e3cbfdbc1ee158e5
+  - id: Cb_3sOYLjUI.srt
+    parent_uid: f59baf038978f321de007eabafb9f0e7
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/excursion-of-the-phase-shift/Cb_3sOYLjUI.srt
+    title: 3play caption file
+    type: null
+    uid: 42a518b90f1560560dbcc07d562ce570
+  - id: Cb_3sOYLjUI.pdf
+    parent_uid: f59baf038978f321de007eabafb9f0e7
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/excursion-of-the-phase-shift/Cb_3sOYLjUI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 77f0e32763e0d2e264138f91de958900
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f59baf038978f321de007eabafb9f0e7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b7a2c7e410b6ca963bf6650467de8f80
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f59baf038978f321de007eabafb9f0e7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c2cdcbc034cc09761fa3800c3945294e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: f59baf038978f321de007eabafb9f0e7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 54c65b0860abfd8608525594edee2696
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec18_s3_300k.mp4'
+    parent_uid: f59baf038978f321de007eabafb9f0e7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 13ace1f4cd179cc71517c16b1de4f25a
+inline_embed_id: 47864016excursionofthephaseshift48446823
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: excursion-of-the-phase-shift
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/excursion-of-the-phase-shift
-short_url: excursion-of-the-phase-shift
-inline_embed_id: 47864016excursionofthephaseshift48446823
-about_this_resource_text: ''
-related_resources_text: ''
+title: Excursion of the phase shift
 transcript: >-
   <p><span m='270'>That's</span> <span m='500'>a</span> <span
   m='570'>solution.</span> <span m='1320'>It's</span> <span m='1500'>an</span>
@@ -669,61 +723,7 @@ transcript: >-
   <span m='912760'>last</span> <span m='914290'>half</span> <span
   m='914470'>an</span> <span m='914590'>hour</span> <span m='914900'>of</span>
   <span m='915040'>this</span> <span m='915190'>lecture.</span> </p>
-embedded_media:
-  - uid: b604f679ed4cdd65afa209f0526bf005
-    parent_uid: f59baf038978f321de007eabafb9f0e7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Cb_3sOYLjUI
-  - uid: 5faba4feedfdbdd44ac8235fda21ad17
-    parent_uid: f59baf038978f321de007eabafb9f0e7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Cb_3sOYLjUI/default.jpg'
-  - uid: 16c47986d2d1f7d3e3cbfdbc1ee158e5
-    parent_uid: f59baf038978f321de007eabafb9f0e7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Cb_3sOYLjUI
-  - uid: 42a518b90f1560560dbcc07d562ce570
-    parent_uid: f59baf038978f321de007eabafb9f0e7
-    id: Cb_3sOYLjUI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/excursion-of-the-phase-shift/Cb_3sOYLjUI.srt
-  - uid: 77f0e32763e0d2e264138f91de958900
-    parent_uid: f59baf038978f321de007eabafb9f0e7
-    id: Cb_3sOYLjUI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/excursion-of-the-phase-shift/Cb_3sOYLjUI.pdf
-  - uid: b7a2c7e410b6ca963bf6650467de8f80
-    parent_uid: f59baf038978f321de007eabafb9f0e7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c2cdcbc034cc09761fa3800c3945294e
-    parent_uid: f59baf038978f321de007eabafb9f0e7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 54c65b0860abfd8608525594edee2696
-    parent_uid: f59baf038978f321de007eabafb9f0e7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 13ace1f4cd179cc71517c16b1de4f25a
-    parent_uid: f59baf038978f321de007eabafb9f0e7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec18_s3_300k.mp4'
+uid: f59baf038978f321de007eabafb9f0e7
 type: courses
 layout: video
 ---

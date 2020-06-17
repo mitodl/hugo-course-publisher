@@ -1,13 +1,69 @@
 ---
-title: Inverse Matrices
-uid: 8320d50635cc029e9ae67f45968e617e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: zWxhmBCdvFs
+    parent_uid: 8320d50635cc029e9ae67f45968e617e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8a81825402f0dc0469c96aaf7c0c243e
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: zWxhmBCdvFs
+    parent_uid: 8320d50635cc029e9ae67f45968e617e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8880f502087395963cb8286b1b0a6954
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/inverse-matrices/id488155309?i=108454345
+    parent_uid: 8320d50635cc029e9ae67f45968e617e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6661c9f08994d61359d3bee7e0c123e8
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110526_A1_300k.mp4
+    parent_uid: 8320d50635cc029e9ae67f45968e617e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3af3ad218cc83a3168bfaf3014a5f7cb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/zWxhmBCdvFs/default.jpg'
+    parent_uid: 8320d50635cc029e9ae67f45968e617e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1b0bf7a37cfbd29343ef49c3180b5e81
+  - id: zWxhmBCdvFs.srt
+    parent_uid: 8320d50635cc029e9ae67f45968e617e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices/inverse-matrices/zWxhmBCdvFs.srt
+    title: 3play caption file
+    type: null
+    uid: 724c707fe56ce2acb3c5f8a0896e6cd6
+  - id: zWxhmBCdvFs.pdf
+    parent_uid: 8320d50635cc029e9ae67f45968e617e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices/inverse-matrices/zWxhmBCdvFs.pdf
+    title: 3play pdf file
+    type: null
+    uid: f9354bd85c6f923d33f8e8129e30c094
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8320d50635cc029e9ae67f45968e617e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e6992ef21be4524de6320396a54ea4cf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8320d50635cc029e9ae67f45968e617e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a4fcde6c23a74d6e3f41ed7f73cc44e6
+inline_embed_id: 99539547inversematrices3441813
 parent_uid: c6606cdd9775d774f694cdc5e6c30381
+related_resources_text: ''
+short_url: inverse-matrices
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices/inverse-matrices
-short_url: inverse-matrices
-inline_embed_id: 99539547inversematrices3441813
-about_this_resource_text: ''
-related_resources_text: ''
+title: Inverse Matrices
 transcript: >-
   <p><span m='6040'>PROFESSOR: Hi</span> <span m='6200'>there.</span> <span
   m='6610'>My</span> <span m='6690'>name is</span> <span m='6970'>Ana.</span>
@@ -448,63 +504,7 @@ transcript: >-
   m='501840'>today.</span> <span m='502370'>See</span> <span
   m='502520'>you</span> <span m='502560'>next</span> <span
   m='502810'>time.</span> </p>
-embedded_media:
-  - uid: 8a81825402f0dc0469c96aaf7c0c243e
-    parent_uid: 8320d50635cc029e9ae67f45968e617e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: zWxhmBCdvFs
-  - uid: 8880f502087395963cb8286b1b0a6954
-    parent_uid: 8320d50635cc029e9ae67f45968e617e
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: zWxhmBCdvFs
-  - uid: 6661c9f08994d61359d3bee7e0c123e8
-    parent_uid: 8320d50635cc029e9ae67f45968e617e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/inverse-matrices/id488155309?i=108454345
-  - uid: 3af3ad218cc83a3168bfaf3014a5f7cb
-    parent_uid: 8320d50635cc029e9ae67f45968e617e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110526_A1_300k.mp4
-  - uid: 1b0bf7a37cfbd29343ef49c3180b5e81
-    parent_uid: 8320d50635cc029e9ae67f45968e617e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/zWxhmBCdvFs/default.jpg'
-  - uid: 724c707fe56ce2acb3c5f8a0896e6cd6
-    parent_uid: 8320d50635cc029e9ae67f45968e617e
-    id: zWxhmBCdvFs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices/inverse-matrices/zWxhmBCdvFs.srt
-  - uid: f9354bd85c6f923d33f8e8129e30c094
-    parent_uid: 8320d50635cc029e9ae67f45968e617e
-    id: zWxhmBCdvFs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices/inverse-matrices/zWxhmBCdvFs.pdf
-  - uid: e6992ef21be4524de6320396a54ea4cf
-    parent_uid: 8320d50635cc029e9ae67f45968e617e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a4fcde6c23a74d6e3f41ed7f73cc44e6
-    parent_uid: 8320d50635cc029e9ae67f45968e617e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 8320d50635cc029e9ae67f45968e617e
 type: courses
 layout: video
 ---

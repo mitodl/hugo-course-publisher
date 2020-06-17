@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 14: Orthogonal vectors and subspaces'
-uid: 70a8aa5c146f5edff5e1c040db373113
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-14-orthogonal-vectors-and-subspaces
-short_url: lecture-14-orthogonal-vectors-and-subspaces
-inline_embed_id: '98881477lecture14:orthogonalvectorsandsubspaces12253348'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L14.jpg
+    parent_uid: 70a8aa5c146f5edff5e1c040db373113
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-14-orthogonal-vectors-and-subspaces/18.06_L14.jpg
+    title: 18.06_L14.jpg
+    type: null
+    uid: f7838d8692da0a2a708cf3fbff2863d8
+  - id: Video-YouTube-Stream
+    media_location: YzZUIYRCE38
+    parent_uid: 70a8aa5c146f5edff5e1c040db373113
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3eeeb90cbdcb980efd625567ea1d1d58
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/YzZUIYRCE38/default.jpg'
+    parent_uid: 70a8aa5c146f5edff5e1c040db373113
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 94f3022e400957963f41f3d67b953e89
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 70a8aa5c146f5edff5e1c040db373113
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 37bc3ae06f09452d32710bc116351c97
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/14.mp4'
+    parent_uid: 70a8aa5c146f5edff5e1c040db373113
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8272d99853c4270ccdac235d712e0116
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 70a8aa5c146f5edff5e1c040db373113
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 90eb03540ece760e6fcb0d6b9e5c7b61
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 70a8aa5c146f5edff5e1c040db373113
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: f021a4969f515edd79fb4ba0cc289da9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: YzZUIYRCE38
+    parent_uid: 70a8aa5c146f5edff5e1c040db373113
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a9af0416423a2f41c2d91d826a06d063
+  - id: YzZUIYRCE38.srt
+    parent_uid: 70a8aa5c146f5edff5e1c040db373113
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-14-orthogonal-vectors-and-subspaces/YzZUIYRCE38.srt
+    title: 3play caption file
+    type: null
+    uid: b8e2b765f30ae6e12764aa2e6587e820
+  - id: YzZUIYRCE38.pdf
+    parent_uid: 70a8aa5c146f5edff5e1c040db373113
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-14-orthogonal-vectors-and-subspaces/YzZUIYRCE38.pdf
+    title: 3play pdf file
+    type: null
+    uid: 47d18e420743b6c0ff2851531f805bfc
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 70a8aa5c146f5edff5e1c040db373113
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ec3b6cf1a188a15bb73454b83723d6d4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 70a8aa5c146f5edff5e1c040db373113
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8ac930bfcfb7d23d2c69ccc55c90e6e8
+inline_embed_id: '98881477lecture14:orthogonalvectorsandsubspaces12253348'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-14-orthogonal-vectors-and-subspaces
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-14-orthogonal-vectors-and-subspaces
+title: 'Lecture 14: Orthogonal vectors and subspaces'
 transcript: >-
   <p><span m="12040">OK.</span> <span m="14830">cameras</span> <span
   m="15270">are</span> <span m="15360">rolling.</span> <span
@@ -2579,79 +2651,7 @@ transcript: >-
   m="2975060">I'll</span> <span m="2975200">see</span> <span
   m="2975300">you</span> <span m="2975410">Friday.</span></p><p><span
   m="2975590">Thanks.</span></p>
-embedded_media:
-  - uid: f7838d8692da0a2a708cf3fbff2863d8
-    parent_uid: 70a8aa5c146f5edff5e1c040db373113
-    id: 18.06_L14.jpg
-    title: 18.06_L14.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-14-orthogonal-vectors-and-subspaces/18.06_L14.jpg
-  - uid: 3eeeb90cbdcb980efd625567ea1d1d58
-    parent_uid: 70a8aa5c146f5edff5e1c040db373113
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: YzZUIYRCE38
-  - uid: 94f3022e400957963f41f3d67b953e89
-    parent_uid: 70a8aa5c146f5edff5e1c040db373113
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/YzZUIYRCE38/default.jpg'
-  - uid: 37bc3ae06f09452d32710bc116351c97
-    parent_uid: 70a8aa5c146f5edff5e1c040db373113
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 8272d99853c4270ccdac235d712e0116
-    parent_uid: 70a8aa5c146f5edff5e1c040db373113
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/14.mp4'
-  - uid: 90eb03540ece760e6fcb0d6b9e5c7b61
-    parent_uid: 70a8aa5c146f5edff5e1c040db373113
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: f021a4969f515edd79fb4ba0cc289da9
-    parent_uid: 70a8aa5c146f5edff5e1c040db373113
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: a9af0416423a2f41c2d91d826a06d063
-    parent_uid: 70a8aa5c146f5edff5e1c040db373113
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: YzZUIYRCE38
-  - uid: b8e2b765f30ae6e12764aa2e6587e820
-    parent_uid: 70a8aa5c146f5edff5e1c040db373113
-    id: YzZUIYRCE38.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-14-orthogonal-vectors-and-subspaces/YzZUIYRCE38.srt
-  - uid: 47d18e420743b6c0ff2851531f805bfc
-    parent_uid: 70a8aa5c146f5edff5e1c040db373113
-    id: YzZUIYRCE38.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-14-orthogonal-vectors-and-subspaces/YzZUIYRCE38.pdf
-  - uid: ec3b6cf1a188a15bb73454b83723d6d4
-    parent_uid: 70a8aa5c146f5edff5e1c040db373113
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8ac930bfcfb7d23d2c69ccc55c90e6e8
-    parent_uid: 70a8aa5c146f5edff5e1c040db373113
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 70a8aa5c146f5edff5e1c040db373113
 type: courses
 layout: video
 ---

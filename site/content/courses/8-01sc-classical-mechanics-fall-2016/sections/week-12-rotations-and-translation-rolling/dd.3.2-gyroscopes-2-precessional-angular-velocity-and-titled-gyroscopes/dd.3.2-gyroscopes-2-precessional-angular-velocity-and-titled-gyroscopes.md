@@ -1,14 +1,68 @@
 ---
-title: DD.3.2 Gyroscopes 2 - Precessional Angular Velocity and Titled Gyroscopes
-uid: 114c6b8b2f982d2303b62101045d2118
-parent_uid: 48a1992d158988448e10c62909b21e12
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes
-short_url: dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes
+about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: jOPA3XY-V3U
+    parent_uid: 114c6b8b2f982d2303b62101045d2118
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ee8a3ce73e29e19fcdcbb8556f0e9efc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/jOPA3XY-V3U/default.jpg'
+    parent_uid: 114c6b8b2f982d2303b62101045d2118
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 39391f8277665ec17cb93ce65c4b2e01
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: jOPA3XY-V3U
+    parent_uid: 114c6b8b2f982d2303b62101045d2118
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ec92536e59263c086c73a00c2a65d4b5
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 114c6b8b2f982d2303b62101045d2118
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3fa4db88fa934de95db6fe71ca273fb7
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W12DD02_360p.mp4'
+    parent_uid: 114c6b8b2f982d2303b62101045d2118
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c992053c6e449b0f0dfd5ff2c467754a
+  - id: jOPA3XY-V3U.srt
+    parent_uid: 114c6b8b2f982d2303b62101045d2118
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes/jOPA3XY-V3U.srt
+    title: 3play caption file
+    type: null
+    uid: f269f4e132f174945f7a2ef390b446fd
+  - id: jOPA3XY-V3U.pdf
+    parent_uid: 114c6b8b2f982d2303b62101045d2118
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes/jOPA3XY-V3U.pdf
+    title: 3play pdf file
+    type: null
+    uid: c83dd08472d681afcdd525b742efe4b9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 114c6b8b2f982d2303b62101045d2118
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c0fd61738a1d2a3c46d53b09a26af0d0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 114c6b8b2f982d2303b62101045d2118
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2bb52f2f98e25cdfa988be7fed7bcec3
 inline_embed_id: >-
   88611131dd.3.2gyroscopes2precessionalangularvelocityandtitledgyroscopes76836753
-about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
+parent_uid: 48a1992d158988448e10c62909b21e12
 related_resources_text: ''
+short_url: dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes
+title: DD.3.2 Gyroscopes 2 - Precessional Angular Velocity and Titled Gyroscopes
 transcript: >-
   <p><span m='3750'>DEEPTO CHAKRABARTY:</span> <span m='3855'>Now</span> <span
   m='3960'>that</span> <span m='4080'>we've</span> <span m='4260'>seen</span>
@@ -722,61 +776,7 @@ transcript: >-
   m='830740'>rotating</span> <span m='831460'>part</span> <span
   m='832120'>of</span> <span m='832300'>the</span> <span
   m='832390'>vector.</span> </p><p></p>
-embedded_media:
-  - uid: ee8a3ce73e29e19fcdcbb8556f0e9efc
-    parent_uid: 114c6b8b2f982d2303b62101045d2118
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: jOPA3XY-V3U
-  - uid: 39391f8277665ec17cb93ce65c4b2e01
-    parent_uid: 114c6b8b2f982d2303b62101045d2118
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/jOPA3XY-V3U/default.jpg'
-  - uid: ec92536e59263c086c73a00c2a65d4b5
-    parent_uid: 114c6b8b2f982d2303b62101045d2118
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: jOPA3XY-V3U
-  - uid: 3fa4db88fa934de95db6fe71ca273fb7
-    parent_uid: 114c6b8b2f982d2303b62101045d2118
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: c992053c6e449b0f0dfd5ff2c467754a
-    parent_uid: 114c6b8b2f982d2303b62101045d2118
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W12DD02_360p.mp4'
-  - uid: f269f4e132f174945f7a2ef390b446fd
-    parent_uid: 114c6b8b2f982d2303b62101045d2118
-    id: jOPA3XY-V3U.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes/jOPA3XY-V3U.srt
-  - uid: c83dd08472d681afcdd525b742efe4b9
-    parent_uid: 114c6b8b2f982d2303b62101045d2118
-    id: jOPA3XY-V3U.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes/jOPA3XY-V3U.pdf
-  - uid: c0fd61738a1d2a3c46d53b09a26af0d0
-    parent_uid: 114c6b8b2f982d2303b62101045d2118
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2bb52f2f98e25cdfa988be7fed7bcec3
-    parent_uid: 114c6b8b2f982d2303b62101045d2118
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 114c6b8b2f982d2303b62101045d2118
 type: courses
 layout: video
 ---

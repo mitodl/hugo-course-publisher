@@ -1,13 +1,67 @@
 ---
-title: Time delay and resonances
-uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: mnvYIEbJXlM
+    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 258c28a37a7cac5db8ddf7f2ffcbdacc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/mnvYIEbJXlM/default.jpg'
+    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8aca492e0097818fe5625a7ee42b8258
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: mnvYIEbJXlM
+    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a4b93a8a8ca798f9600ff18a729b0129
+  - id: mnvYIEbJXlM.srt
+    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/time-delay-and-resonances/mnvYIEbJXlM.srt
+    title: 3play caption file
+    type: null
+    uid: 61d41ea15059d827240a4b067660f245
+  - id: mnvYIEbJXlM.pdf
+    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/time-delay-and-resonances/mnvYIEbJXlM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1f97427e3087a58fd2630c7d91cd9d07
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: acd38dab8d9ee1f879e317a9950a40f9
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 02127390131d85940690276e6ec5e45e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec19_s1_300k.mp4'
+    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8453f58f5e693e0e095ea7ecdefec823
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1cf3ec6f6c74d60aee423c5de7680681
+inline_embed_id: 25127822timedelayandresonances73219037
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: time-delay-and-resonances
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/time-delay-and-resonances
-short_url: time-delay-and-resonances
-inline_embed_id: 25127822timedelayandresonances73219037
-about_this_resource_text: ''
-related_resources_text: ''
+title: Time delay and resonances
 transcript: >-
   <p><span m='1800'>PROFESSOR:</span> <span m='1920'>Let</span> <span
   m='2040'>me</span> <span m='2730'>begin</span> <span m='3220'>by</span> <span
@@ -879,61 +933,7 @@ transcript: >-
   m='1096490'>but</span> <span m='1096600'>not</span> <span
   m='1097060'>too</span> <span m='1097210'>much</span> <span
   m='1097510'>work.</span> </p>
-embedded_media:
-  - uid: 258c28a37a7cac5db8ddf7f2ffcbdacc
-    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: mnvYIEbJXlM
-  - uid: 8aca492e0097818fe5625a7ee42b8258
-    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/mnvYIEbJXlM/default.jpg'
-  - uid: a4b93a8a8ca798f9600ff18a729b0129
-    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: mnvYIEbJXlM
-  - uid: 61d41ea15059d827240a4b067660f245
-    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
-    id: mnvYIEbJXlM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/time-delay-and-resonances/mnvYIEbJXlM.srt
-  - uid: 1f97427e3087a58fd2630c7d91cd9d07
-    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
-    id: mnvYIEbJXlM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/time-delay-and-resonances/mnvYIEbJXlM.pdf
-  - uid: acd38dab8d9ee1f879e317a9950a40f9
-    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 02127390131d85940690276e6ec5e45e
-    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8453f58f5e693e0e095ea7ecdefec823
-    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec19_s1_300k.mp4'
-  - uid: 1cf3ec6f6c74d60aee423c5de7680681
-    parent_uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
 type: courses
 layout: video
 ---

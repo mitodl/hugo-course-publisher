@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 13: Classification'
-uid: 2b093ef50c5f66e3716e8e495b5ba072
-parent_uid: dfe2b9f5ab127795415ac86facf4a535
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-13-classification
-short_url: lecture-13-classification
-inline_embed_id: 2858511lecture13classification80026576
 about_this_resource_text: >-
   <p><strong>Description:</strong> Prof. Guttag introduces supervised learning
   with nearest neighbor classification using feature scaling and decision
   trees.</p><p><strong>Instructor:</strong> John Guttag</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: eg8DJYwdMyg
+    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6f0d0e806353467be95673b428346b71
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/eg8DJYwdMyg/default.jpg'
+    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6fb4973f8f59694fcd11a2493802d368
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: eg8DJYwdMyg
+    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 42fc6119de683c513fe2d0c2440d5805
+  - id: eg8DJYwdMyg.srt
+    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-13-classification/eg8DJYwdMyg.srt
+    title: 3play caption file
+    type: null
+    uid: a450e1da182557abd0a97d4a40a9a4be
+  - id: eg8DJYwdMyg.pdf
+    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-13-classification/eg8DJYwdMyg.pdf
+    title: 3play pdf file
+    type: null
+    uid: cb500110f0314c02ebb24dfc8d676f42
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 79cd88523e5e8721d4f83b0b42146e5a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e0feaef9d77b31acc386e80318412828
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
+    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: cf56ad03f47733c60385a140945de448
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec13_300k.mp4'
+    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5b3fb0754d21473412e7b6fc9794fc51
+inline_embed_id: 2858511lecture13classification80026576
+parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
+short_url: lecture-13-classification
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-13-classification
+title: 'Lecture 13: Classification'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1330">content</span> <span m="1810">is</span> <span
@@ -2894,61 +2948,7 @@ transcript: >-
   m="2981490">properly.</span> <span m="2982900">So</span> <span
   m="2983230">I'll</span> <span m="2983560">see</span> <span
   m="2983770">you</span> <span m="2983890">then.</span></p>
-embedded_media:
-  - uid: 6f0d0e806353467be95673b428346b71
-    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: eg8DJYwdMyg
-  - uid: 6fb4973f8f59694fcd11a2493802d368
-    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/eg8DJYwdMyg/default.jpg'
-  - uid: 42fc6119de683c513fe2d0c2440d5805
-    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: eg8DJYwdMyg
-  - uid: a450e1da182557abd0a97d4a40a9a4be
-    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
-    id: eg8DJYwdMyg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-13-classification/eg8DJYwdMyg.srt
-  - uid: cb500110f0314c02ebb24dfc8d676f42
-    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
-    id: eg8DJYwdMyg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-13-classification/eg8DJYwdMyg.pdf
-  - uid: 79cd88523e5e8721d4f83b0b42146e5a
-    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e0feaef9d77b31acc386e80318412828
-    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: cf56ad03f47733c60385a140945de448
-    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
-  - uid: 5b3fb0754d21473412e7b6fc9794fc51
-    parent_uid: 2b093ef50c5f66e3716e8e495b5ba072
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec13_300k.mp4'
+uid: 2b093ef50c5f66e3716e8e495b5ba072
 type: courses
 layout: video
 ---

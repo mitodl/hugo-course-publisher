@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Complex Matrices'
-uid: c5c4b500a5b5aed015960b79e54350ba
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: VYS9EYZ3gCo
+    parent_uid: c5c4b500a5b5aed015960b79e54350ba
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 018c45e177ef3e02aad05747e236fe5f
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: VYS9EYZ3gCo
+    parent_uid: c5c4b500a5b5aed015960b79e54350ba
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1d6198bad3a58db7e787d2f9a1aec2d1
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/complex-matrices/id488155309?i=108454342
+    parent_uid: c5c4b500a5b5aed015960b79e54350ba
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b192b64e7e6bd64a0946ceba7bac55b5
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_D2_300k.mp4
+    parent_uid: c5c4b500a5b5aed015960b79e54350ba
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2255baf3d4a62cbb0f124ce93518b4f9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VYS9EYZ3gCo/default.jpg'
+    parent_uid: c5c4b500a5b5aed015960b79e54350ba
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a3b77ee26e2c55493712d684dc83286d
+  - id: VYS9EYZ3gCo.srt
+    parent_uid: c5c4b500a5b5aed015960b79e54350ba
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-complex-matrices/VYS9EYZ3gCo.srt
+    title: 3play caption file
+    type: null
+    uid: 8ed0a183bca787a072af38300196fdb0
+  - id: VYS9EYZ3gCo.pdf
+    parent_uid: c5c4b500a5b5aed015960b79e54350ba
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-complex-matrices/VYS9EYZ3gCo.pdf
+    title: 3play pdf file
+    type: null
+    uid: a30fc93b54c4c886b69eb617f6471973
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c5c4b500a5b5aed015960b79e54350ba
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f1029dccb26aba7681b063d48357a83f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c5c4b500a5b5aed015960b79e54350ba
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e72fa927f6eb8489e24aeb1e909bd662
+inline_embed_id: 74032060problemsolvingcomplexmatrices88853503
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: problem-solving-complex-matrices
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-complex-matrices
-short_url: problem-solving-complex-matrices
-inline_embed_id: 74032060problemsolvingcomplexmatrices88853503
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Complex Matrices'
 transcript: >-
   <p><span m='5060'>DAVID SHIROKOFF: Hi</span> <span m='5520'>everyone.</span>
   <span m='6060'>Welcome</span> <span m='6330'>back.</span> </p><p><span
@@ -769,63 +825,7 @@ transcript: >-
   m='777660'>here,</span> <span m='778080'>and</span> <span
   m='778210'>I'll</span> <span m='778280'>see</span> <span m='778410'>you</span>
   <span m='778470'>next</span> <span m='778690'>time.</span> </p>
-embedded_media:
-  - uid: 018c45e177ef3e02aad05747e236fe5f
-    parent_uid: c5c4b500a5b5aed015960b79e54350ba
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VYS9EYZ3gCo
-  - uid: 1d6198bad3a58db7e787d2f9a1aec2d1
-    parent_uid: c5c4b500a5b5aed015960b79e54350ba
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VYS9EYZ3gCo
-  - uid: b192b64e7e6bd64a0946ceba7bac55b5
-    parent_uid: c5c4b500a5b5aed015960b79e54350ba
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/complex-matrices/id488155309?i=108454342
-  - uid: 2255baf3d4a62cbb0f124ce93518b4f9
-    parent_uid: c5c4b500a5b5aed015960b79e54350ba
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_D2_300k.mp4
-  - uid: a3b77ee26e2c55493712d684dc83286d
-    parent_uid: c5c4b500a5b5aed015960b79e54350ba
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VYS9EYZ3gCo/default.jpg'
-  - uid: 8ed0a183bca787a072af38300196fdb0
-    parent_uid: c5c4b500a5b5aed015960b79e54350ba
-    id: VYS9EYZ3gCo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-complex-matrices/VYS9EYZ3gCo.srt
-  - uid: a30fc93b54c4c886b69eb617f6471973
-    parent_uid: c5c4b500a5b5aed015960b79e54350ba
-    id: VYS9EYZ3gCo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-complex-matrices/VYS9EYZ3gCo.pdf
-  - uid: f1029dccb26aba7681b063d48357a83f
-    parent_uid: c5c4b500a5b5aed015960b79e54350ba
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e72fa927f6eb8489e24aeb1e909bd662
-    parent_uid: c5c4b500a5b5aed015960b79e54350ba
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c5c4b500a5b5aed015960b79e54350ba
 type: courses
 layout: video
 ---

@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 16: Dijkstra'
-uid: 038a396a88e9e2ec70b26136118f7e00
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-16-dijkstra
-short_url: lecture-16-dijkstra
-inline_embed_id: '35270963lecture16:dijkstra66625151'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture shows how to find shortest paths
   in directed acyclic graphs (DAGs) using topological sort, and in graphs
   without negative edges using Dijkstra's algorithm.</p>
   <p><strong>Instructor:</strong> Srini Devadas</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2E7MmKv0Y24
+    parent_uid: 038a396a88e9e2ec70b26136118f7e00
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6832a4aebcd3babc31ee9102f96dee0f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2E7MmKv0Y24/default.jpg'
+    parent_uid: 038a396a88e9e2ec70b26136118f7e00
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 666326dea035d97cde85d55046d46c90
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-16-dijkstra/id585700718?i=126127750
+    parent_uid: 038a396a88e9e2ec70b26136118f7e00
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f2e69c9aed18ef2f08c4b9160d7b5b0a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec16_300k.mp4'
+    parent_uid: 038a396a88e9e2ec70b26136118f7e00
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: fa3c8ed5f1bf4655ec1bb8b621c62a33
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 2E7MmKv0Y24
+    parent_uid: 038a396a88e9e2ec70b26136118f7e00
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2bc01f5b0102d2930abc129cd2706975
+  - id: 2E7MmKv0Y24.srt
+    parent_uid: 038a396a88e9e2ec70b26136118f7e00
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-16-dijkstra/2E7MmKv0Y24.srt
+    title: 3play caption file
+    type: null
+    uid: c6a4a6dc59c59f69638a0c34f4604497
+  - id: 2E7MmKv0Y24.pdf
+    parent_uid: 038a396a88e9e2ec70b26136118f7e00
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-16-dijkstra/2E7MmKv0Y24.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1c0371bba2bb2cd1485287fc37064e18
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 038a396a88e9e2ec70b26136118f7e00
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f390bd2e271ebcafead3206406506fe3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 038a396a88e9e2ec70b26136118f7e00
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b5011b62ca3bc196d2fa759f803c0a30
+inline_embed_id: '35270963lecture16:dijkstra66625151'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-16-dijkstra
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-16-dijkstra
+title: 'Lecture 16: Dijkstra'
 transcript: >-
   <p><span m='80'>The</span> <span m='210'>following</span> <span
   m='650'>content</span> <span m='1240'>is</span> <span m='1350'>provided</span>
@@ -3090,62 +3145,7 @@ transcript: >-
   m='3082910'>greater</span> <span m='3083170'>complexity.</span> <span
   m='3084070'>See</span> <span m='3084370'>you next</span> <span
   m='3084670'>time.</span> </p>
-embedded_media:
-  - uid: 6832a4aebcd3babc31ee9102f96dee0f
-    parent_uid: 038a396a88e9e2ec70b26136118f7e00
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2E7MmKv0Y24
-  - uid: 666326dea035d97cde85d55046d46c90
-    parent_uid: 038a396a88e9e2ec70b26136118f7e00
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2E7MmKv0Y24/default.jpg'
-  - uid: f2e69c9aed18ef2f08c4b9160d7b5b0a
-    parent_uid: 038a396a88e9e2ec70b26136118f7e00
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-16-dijkstra/id585700718?i=126127750
-  - uid: fa3c8ed5f1bf4655ec1bb8b621c62a33
-    parent_uid: 038a396a88e9e2ec70b26136118f7e00
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec16_300k.mp4'
-  - uid: 2bc01f5b0102d2930abc129cd2706975
-    parent_uid: 038a396a88e9e2ec70b26136118f7e00
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2E7MmKv0Y24
-  - uid: c6a4a6dc59c59f69638a0c34f4604497
-    parent_uid: 038a396a88e9e2ec70b26136118f7e00
-    id: 2E7MmKv0Y24.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-16-dijkstra/2E7MmKv0Y24.srt
-  - uid: 1c0371bba2bb2cd1485287fc37064e18
-    parent_uid: 038a396a88e9e2ec70b26136118f7e00
-    id: 2E7MmKv0Y24.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-16-dijkstra/2E7MmKv0Y24.pdf
-  - uid: f390bd2e271ebcafead3206406506fe3
-    parent_uid: 038a396a88e9e2ec70b26136118f7e00
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b5011b62ca3bc196d2fa759f803c0a30
-    parent_uid: 038a396a88e9e2ec70b26136118f7e00
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 038a396a88e9e2ec70b26136118f7e00
 type: courses
 layout: video
 ---

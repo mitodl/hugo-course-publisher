@@ -1,13 +1,67 @@
 ---
-title: Scattering in 1D. Incoming and outgoing waves
-uid: 622b68a97ec6c8bcc995a37411e3ab27
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: twdF0EIbFds
+    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d21331839feb18854846cdfbbdaf0fa2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/twdF0EIbFds/default.jpg'
+    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c51b6f10d9ae626686e150d2512ece26
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: twdF0EIbFds
+    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 09b0996bd0f3746de7a8f63f0ae5e7f5
+  - id: twdF0EIbFds.srt
+    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/scattering-in-1d.-incoming-and-outgoing-waves/twdF0EIbFds.srt
+    title: 3play caption file
+    type: null
+    uid: affe63910ddb68d5c7293d7b29b6eb16
+  - id: twdF0EIbFds.pdf
+    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/scattering-in-1d.-incoming-and-outgoing-waves/twdF0EIbFds.pdf
+    title: 3play pdf file
+    type: null
+    uid: 35961dd23670516e9487622c2631aad1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ca60925db46607148fcdd23beacccf77
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fd5db601c56cb9802bd9edd19c7f2602
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 55476df858dc045666e1924e781f4a21
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec17_s4_300k.mp4'
+    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c9f7e33430279e4ce0560702c0d3bfd3
+inline_embed_id: 55317627scatteringin1d.incomingandoutgoingwaves75298011
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: scattering-in-1d.-incoming-and-outgoing-waves
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/scattering-in-1d.-incoming-and-outgoing-waves
-short_url: scattering-in-1d.-incoming-and-outgoing-waves
-inline_embed_id: 55317627scatteringin1d.incomingandoutgoingwaves75298011
-about_this_resource_text: ''
-related_resources_text: ''
+title: Scattering in 1D. Incoming and outgoing waves
 transcript: >-
   <p><span m='640'>BARTON ZWIEBACH:</span> <span m='775'>Scattering</span> <span
   m='1180'>in</span> <span m='1659'>dimension.</span> <span m='9760'>And</span>
@@ -866,61 +920,7 @@ transcript: >-
   m='1081410'>function</span> <span m='1082100'>phi</span> <span
   m='1083000'>that</span> <span m='1083180'>we</span> <span
   m='1083300'>found</span> <span m='1083630'>before.</span> </p>
-embedded_media:
-  - uid: d21331839feb18854846cdfbbdaf0fa2
-    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: twdF0EIbFds
-  - uid: c51b6f10d9ae626686e150d2512ece26
-    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/twdF0EIbFds/default.jpg'
-  - uid: 09b0996bd0f3746de7a8f63f0ae5e7f5
-    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: twdF0EIbFds
-  - uid: affe63910ddb68d5c7293d7b29b6eb16
-    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
-    id: twdF0EIbFds.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/scattering-in-1d.-incoming-and-outgoing-waves/twdF0EIbFds.srt
-  - uid: 35961dd23670516e9487622c2631aad1
-    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
-    id: twdF0EIbFds.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/scattering-in-1d.-incoming-and-outgoing-waves/twdF0EIbFds.pdf
-  - uid: ca60925db46607148fcdd23beacccf77
-    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fd5db601c56cb9802bd9edd19c7f2602
-    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 55476df858dc045666e1924e781f4a21
-    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: c9f7e33430279e4ce0560702c0d3bfd3
-    parent_uid: 622b68a97ec6c8bcc995a37411e3ab27
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec17_s4_300k.mp4'
+uid: 622b68a97ec6c8bcc995a37411e3ab27
 type: courses
 layout: video
 ---

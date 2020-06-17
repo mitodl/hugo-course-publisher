@@ -1,17 +1,71 @@
 ---
-title: Causes and Consequences of Stochastic Gene Expression
-uid: fccab379f1fc5a5de2fe49b20461eca2
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/causes-and-consequences-of-stochastic-gene-expression
-short_url: causes-and-consequences-of-stochastic-gene-expression
-inline_embed_id: 18805263causesandconsequencesofstochasticgeneexpression80033195
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, the class analyzes a simple
   model of gene expression, first to understand the deterministic behavior of
   the model, and then to look at the stochastic behavior of the model.</p>
   <p><strong>Instructor:</strong> Prof. Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 03bVGr-vYHQ
+    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b34f72bfd7dec4bdee0cf839c3b6db65
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/03bVGr-vYHQ/default.jpg'
+    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 24bf575c88cdf09b6d4b44101db83f22
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fea908d9629154888aaebe1e393cec03
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec09_300k.mp4'
+    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: eeb963a2aaaff371ce958f87336e5726
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 03bVGr-vYHQ
+    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5176e254e93492bce4d2986dc0aa7bf4
+  - id: 03bVGr-vYHQ.srt
+    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/causes-and-consequences-of-stochastic-gene-expression/03bVGr-vYHQ.srt
+    title: 3play caption file
+    type: null
+    uid: ee72dae34dbae286bb2fe4f7aa41b07d
+  - id: 03bVGr-vYHQ.pdf
+    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/causes-and-consequences-of-stochastic-gene-expression/03bVGr-vYHQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 195cbaeb87e41654080f5dab22574438
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 205a5f069f8e95b5a4ab96b3ba75fc18
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9d79427d5275b79ea2123c1bacd9e9e4
+inline_embed_id: 18805263causesandconsequencesofstochasticgeneexpression80033195
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: causes-and-consequences-of-stochastic-gene-expression
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/causes-and-consequences-of-stochastic-gene-expression
+title: Causes and Consequences of Stochastic Gene Expression
 transcript: >-
   <p><span m="80">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4742,61 +4796,7 @@ transcript: >-
   m="4839340">the</span> <span m="4839410">amount</span> <span m="4839710">of
   competence</span> <span m="4840010">in that</span> <span
   m="4840310">sur--</span></p>
-embedded_media:
-  - uid: b34f72bfd7dec4bdee0cf839c3b6db65
-    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 03bVGr-vYHQ
-  - uid: 24bf575c88cdf09b6d4b44101db83f22
-    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/03bVGr-vYHQ/default.jpg'
-  - uid: fea908d9629154888aaebe1e393cec03
-    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: eeb963a2aaaff371ce958f87336e5726
-    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec09_300k.mp4'
-  - uid: 5176e254e93492bce4d2986dc0aa7bf4
-    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 03bVGr-vYHQ
-  - uid: ee72dae34dbae286bb2fe4f7aa41b07d
-    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
-    id: 03bVGr-vYHQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/causes-and-consequences-of-stochastic-gene-expression/03bVGr-vYHQ.srt
-  - uid: 195cbaeb87e41654080f5dab22574438
-    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
-    id: 03bVGr-vYHQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/causes-and-consequences-of-stochastic-gene-expression/03bVGr-vYHQ.pdf
-  - uid: 205a5f069f8e95b5a4ab96b3ba75fc18
-    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9d79427d5275b79ea2123c1bacd9e9e4
-    parent_uid: fccab379f1fc5a5de2fe49b20461eca2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: fccab379f1fc5a5de2fe49b20461eca2
 type: courses
 layout: video
 ---

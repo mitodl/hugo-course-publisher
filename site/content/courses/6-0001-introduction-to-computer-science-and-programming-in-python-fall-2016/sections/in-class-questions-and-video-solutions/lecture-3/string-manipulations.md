@@ -1,16 +1,71 @@
 ---
-title: String Manipulations
-uid: 7133484b6c6cd61d3135927babcf844f
-parent_uid: 6f345174e0dcc7e81d42cb983600c3b0
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-3/string-manipulations
-short_url: string-manipulations
-inline_embed_id: 12314124stringmanipulations38841387
 about_this_resource_text: >-
   <p><strong>Description:</strong> This in-class question demonstrates the use
   of string indices in Python.</p> <p><strong>Instructor:</strong> Dr. Ana
   Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '-jjUoTiaSHw'
+    parent_uid: 7133484b6c6cd61d3135927babcf844f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 803dca0279e14c0c29cb2b1022759391
+  - id: '-jjUoTiaSHw.srt'
+    parent_uid: 7133484b6c6cd61d3135927babcf844f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-3/string-manipulations/-jjUoTiaSHw.srt
+    title: 3play caption file
+    type: null
+    uid: c88dfc9d7d17a3d029d5bc0dbe2ae508
+  - id: '-jjUoTiaSHw.pdf'
+    parent_uid: 7133484b6c6cd61d3135927babcf844f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-3/string-manipulations/-jjUoTiaSHw.pdf
+    title: 3play pdf file
+    type: null
+    uid: f882a878aec1b9fa77b7aa7502e7e215
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7133484b6c6cd61d3135927babcf844f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 36e249d89ffbb06b388387804c2be9d6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7133484b6c6cd61d3135927babcf844f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b1442a30a5d82d648404529d1c17bc63
+  - id: Video-YouTube-Stream
+    media_location: '-jjUoTiaSHw'
+    parent_uid: 7133484b6c6cd61d3135927babcf844f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 87580d07c19880e9cb2bab924c43def4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-jjUoTiaSHw/default.jpg'
+    parent_uid: 7133484b6c6cd61d3135927babcf844f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 83f69bee049a17b8292a36e2695c0839
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 7133484b6c6cd61d3135927babcf844f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 82309bc59f7125fa512bcebe91be1b22
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_03_exercise_01_300k.mp4
+    parent_uid: 7133484b6c6cd61d3135927babcf844f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2820224069ad65171eec761f4385073c
+inline_embed_id: 12314124stringmanipulations38841387
+parent_uid: 6f345174e0dcc7e81d42cb983600c3b0
 related_resources_text: ''
+short_url: string-manipulations
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-3/string-manipulations
+title: String Manipulations
 transcript: >-
   <p><span m="790">The</span> <span m="850">following</span> <span
   m="1300">content</span> <span m="1870">is</span> <span
@@ -190,62 +245,7 @@ transcript: >-
   <span m="179620">right.</span> <span m="181550">I</span> <span
   m="181990">think,</span> <span m="182430">yes.</span> <span
   m="183020">Perfect.</span></p>
-embedded_media:
-  - uid: 803dca0279e14c0c29cb2b1022759391
-    parent_uid: 7133484b6c6cd61d3135927babcf844f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-jjUoTiaSHw'
-  - uid: c88dfc9d7d17a3d029d5bc0dbe2ae508
-    parent_uid: 7133484b6c6cd61d3135927babcf844f
-    id: '-jjUoTiaSHw.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-3/string-manipulations/-jjUoTiaSHw.srt
-  - uid: f882a878aec1b9fa77b7aa7502e7e215
-    parent_uid: 7133484b6c6cd61d3135927babcf844f
-    id: '-jjUoTiaSHw.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-3/string-manipulations/-jjUoTiaSHw.pdf
-  - uid: 36e249d89ffbb06b388387804c2be9d6
-    parent_uid: 7133484b6c6cd61d3135927babcf844f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b1442a30a5d82d648404529d1c17bc63
-    parent_uid: 7133484b6c6cd61d3135927babcf844f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 87580d07c19880e9cb2bab924c43def4
-    parent_uid: 7133484b6c6cd61d3135927babcf844f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-jjUoTiaSHw'
-  - uid: 83f69bee049a17b8292a36e2695c0839
-    parent_uid: 7133484b6c6cd61d3135927babcf844f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-jjUoTiaSHw/default.jpg'
-  - uid: 82309bc59f7125fa512bcebe91be1b22
-    parent_uid: 7133484b6c6cd61d3135927babcf844f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: 2820224069ad65171eec761f4385073c
-    parent_uid: 7133484b6c6cd61d3135927babcf844f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_03_exercise_01_300k.mp4
+uid: 7133484b6c6cd61d3135927babcf844f
 type: courses
 layout: video
 ---

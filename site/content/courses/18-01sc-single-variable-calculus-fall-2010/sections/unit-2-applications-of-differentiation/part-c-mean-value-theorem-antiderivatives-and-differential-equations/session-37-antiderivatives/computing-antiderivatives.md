@@ -1,13 +1,68 @@
 ---
-title: Computing Antiderivatives
-uid: c85a5bb7d874a76062485fc3dc7d3704
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: v90JNWCTupk
+    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e552551027f3613e7e45e91c481e6886
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/v90JNWCTupk/default.jpg'
+    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4957bf2d9c9c158aa12ba305bb594aab
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: v90JNWCTupk
+    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: de8ee26865299dc5369386244a8bf47a
+  - id: v90JNWCTupk.srt
+    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-37-antiderivatives/computing-antiderivatives/v90JNWCTupk.srt
+    title: 3play caption file
+    type: null
+    uid: 6705dd11d43b7a0467a268211a8872f0
+  - id: v90JNWCTupk.pdf
+    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-37-antiderivatives/computing-antiderivatives/v90JNWCTupk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2e434c3677677b51cba29e31b12e44c7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2b9bff42170d85832dab705f8cbb675e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 67a8eca879261f2fdba0701bd4315c3c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/computing-antiderivatives/id414308064?i=90319189
+    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e8373abde34d1d2659afc705ae196094
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_31_300k.mp4'
+    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f9208a6f21befad1e2c111300a155b84
+inline_embed_id: 92329236computingantiderivatives48669412
 parent_uid: 876df37c3cbc00d47b666c04e5047a17
+related_resources_text: ''
+short_url: computing-antiderivatives
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-37-antiderivatives/computing-antiderivatives
-short_url: computing-antiderivatives
-inline_embed_id: 92329236computingantiderivatives48669412
-about_this_resource_text: ''
-related_resources_text: ''
+title: Computing Antiderivatives
 transcript: >-
   <p><span m='6990'>PROFESSOR: Hi.</span> <span m='7450'>Welcome</span> <span
   m='7780'>back</span> <span m='7980'>to</span> <span
@@ -570,62 +625,7 @@ transcript: >-
   m='526880'>antidifferentiate</span> <span m='527580'>at</span> <span
   m='527710'>the</span> <span m='527790'>beginning.</span> <span
   m='528750'>So</span> <span m='528950'>that's that.</span> </p>
-embedded_media:
-  - uid: e552551027f3613e7e45e91c481e6886
-    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: v90JNWCTupk
-  - uid: 4957bf2d9c9c158aa12ba305bb594aab
-    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/v90JNWCTupk/default.jpg'
-  - uid: de8ee26865299dc5369386244a8bf47a
-    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: v90JNWCTupk
-  - uid: 6705dd11d43b7a0467a268211a8872f0
-    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
-    id: v90JNWCTupk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-37-antiderivatives/computing-antiderivatives/v90JNWCTupk.srt
-  - uid: 2e434c3677677b51cba29e31b12e44c7
-    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
-    id: v90JNWCTupk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-37-antiderivatives/computing-antiderivatives/v90JNWCTupk.pdf
-  - uid: 2b9bff42170d85832dab705f8cbb675e
-    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 67a8eca879261f2fdba0701bd4315c3c
-    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e8373abde34d1d2659afc705ae196094
-    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/computing-antiderivatives/id414308064?i=90319189
-  - uid: f9208a6f21befad1e2c111300a155b84
-    parent_uid: c85a5bb7d874a76062485fc3dc7d3704
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_31_300k.mp4'
+uid: c85a5bb7d874a76062485fc3dc7d3704
 type: courses
 layout: video
 ---

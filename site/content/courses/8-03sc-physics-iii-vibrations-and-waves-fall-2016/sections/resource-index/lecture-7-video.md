@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 7: Symmetry, Infinite Number of Coupled Oscillators'
-uid: 384d29beb960559004c32b3e4319a52a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: b1eKhyC9TTo
+    parent_uid: 384d29beb960559004c32b3e4319a52a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 166b3b7ff8d700e41db334bd06bf68ca
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/b1eKhyC9TTo/default.jpg'
+    parent_uid: 384d29beb960559004c32b3e4319a52a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 93f640d4b8e5f8fcbd52ae521ebad79e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: b1eKhyC9TTo
+    parent_uid: 384d29beb960559004c32b3e4319a52a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bba50d4caf95c69330a24c08484cdc50
+  - id: b1eKhyC9TTo.srt
+    parent_uid: 384d29beb960559004c32b3e4319a52a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-7-video/b1eKhyC9TTo.srt
+    title: 3play caption file
+    type: null
+    uid: dc778d19ff8298f218e2d5647f6e2996
+  - id: b1eKhyC9TTo.pdf
+    parent_uid: 384d29beb960559004c32b3e4319a52a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-7-video/b1eKhyC9TTo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 21f32c64fbc253b0608c231d5fe4aa54
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 384d29beb960559004c32b3e4319a52a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 65904f037de02ae118e12a181c6f3acf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 384d29beb960559004c32b3e4319a52a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0e3db6ad7e2390951fffdd6ba2a17a39
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec07_300k.mp4'
+    parent_uid: 384d29beb960559004c32b3e4319a52a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ecb4cf995f6959cea8209c682c29cdbf
+inline_embed_id: 84477536lecture7video86448104
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-7-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-7-video
-short_url: lecture-7-video
-inline_embed_id: 84477536lecture7video86448104
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 7: Symmetry, Infinite Number of Coupled Oscillators'
 transcript: >-
   <p><span m="2120">The</span> <span m="2210">following</span> <span
   m="2660">content</span> <span m="3140">is</span> <span
@@ -4044,55 +4092,7 @@ transcript: >-
   m="4464770">very</span> <span m="4465080">happy</span> <span
   m="4465410">to</span> <span m="4465600">answer</span> <span
   m="4465890">your</span> <span m="4466000">questions.</span></p>
-embedded_media:
-  - uid: 166b3b7ff8d700e41db334bd06bf68ca
-    parent_uid: 384d29beb960559004c32b3e4319a52a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: b1eKhyC9TTo
-  - uid: 93f640d4b8e5f8fcbd52ae521ebad79e
-    parent_uid: 384d29beb960559004c32b3e4319a52a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/b1eKhyC9TTo/default.jpg'
-  - uid: bba50d4caf95c69330a24c08484cdc50
-    parent_uid: 384d29beb960559004c32b3e4319a52a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: b1eKhyC9TTo
-  - uid: dc778d19ff8298f218e2d5647f6e2996
-    parent_uid: 384d29beb960559004c32b3e4319a52a
-    id: b1eKhyC9TTo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-7-video/b1eKhyC9TTo.srt
-  - uid: 21f32c64fbc253b0608c231d5fe4aa54
-    parent_uid: 384d29beb960559004c32b3e4319a52a
-    id: b1eKhyC9TTo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-7-video/b1eKhyC9TTo.pdf
-  - uid: 65904f037de02ae118e12a181c6f3acf
-    parent_uid: 384d29beb960559004c32b3e4319a52a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0e3db6ad7e2390951fffdd6ba2a17a39
-    parent_uid: 384d29beb960559004c32b3e4319a52a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ecb4cf995f6959cea8209c682c29cdbf
-    parent_uid: 384d29beb960559004c32b3e4319a52a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec07_300k.mp4'
+uid: 384d29beb960559004c32b3e4319a52a
 type: courses
 layout: video
 ---

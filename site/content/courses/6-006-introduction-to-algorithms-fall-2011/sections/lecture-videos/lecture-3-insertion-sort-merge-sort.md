@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 3: Insertion Sort, Merge Sort'
-uid: 24c75ab567c707163ea44a39a97374c8
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-3-insertion-sort-merge-sort
-short_url: lecture-3-insertion-sort-merge-sort
-inline_embed_id: '85494837lecture3:insertionsort,mergesort2449037'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Sorting is introduced, and motivated by
   problems that become easier once the inputs are sorted.  The lecture covers
   insertion sort, then discusses merge sort and analyzes its running time using
   a recursion tree.</p> <p><strong>Instructor:</strong> Srini Devadas</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Kg4bqzAqRBM
+    parent_uid: 24c75ab567c707163ea44a39a97374c8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 100565ac8671005beaac8278b3e667df
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Kg4bqzAqRBM/default.jpg'
+    parent_uid: 24c75ab567c707163ea44a39a97374c8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8b3978d94134c44526bcb913c30b8c26
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-3-insertion-sort-merge/id585700718?i=164305059
+    parent_uid: 24c75ab567c707163ea44a39a97374c8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 19f1573e3c55dc14dfb67f63d5a31840
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec03_300k.mp4'
+    parent_uid: 24c75ab567c707163ea44a39a97374c8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: dae7d9a81e10f78d9be8e10e81ce3e70
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Kg4bqzAqRBM
+    parent_uid: 24c75ab567c707163ea44a39a97374c8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 63b97518b8f22f5ed3d4ff7d719d1e55
+  - id: Kg4bqzAqRBM.srt
+    parent_uid: 24c75ab567c707163ea44a39a97374c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-3-insertion-sort-merge-sort/Kg4bqzAqRBM.srt
+    title: 3play caption file
+    type: null
+    uid: 6388f0c3161c54e65985cd0d0338d799
+  - id: Kg4bqzAqRBM.pdf
+    parent_uid: 24c75ab567c707163ea44a39a97374c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-3-insertion-sort-merge-sort/Kg4bqzAqRBM.pdf
+    title: 3play pdf file
+    type: null
+    uid: ed5e6829a166846e83e8ee1aa7d68dc7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 24c75ab567c707163ea44a39a97374c8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c66eddcf8400c29b5d82f0d8beb1bcc8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 24c75ab567c707163ea44a39a97374c8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f7efb953854a91a7c1cf448318b3ef44
+inline_embed_id: '85494837lecture3:insertionsort,mergesort2449037'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-3-insertion-sort-merge-sort
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-3-insertion-sort-merge-sort
+title: 'Lecture 3: Insertion Sort, Merge Sort'
 transcript: >-
   <p><span m='80'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -3164,62 +3219,7 @@ transcript: >-
   m='3077210'>you</span> <span m='3077450'>cushions.</span> <span
   m='3078270'>See</span> <span m='3078420'>you</span> <span
   m='3078470'>next</span> <span m='3078690'>time.</span> </p>
-embedded_media:
-  - uid: 100565ac8671005beaac8278b3e667df
-    parent_uid: 24c75ab567c707163ea44a39a97374c8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Kg4bqzAqRBM
-  - uid: 8b3978d94134c44526bcb913c30b8c26
-    parent_uid: 24c75ab567c707163ea44a39a97374c8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Kg4bqzAqRBM/default.jpg'
-  - uid: 19f1573e3c55dc14dfb67f63d5a31840
-    parent_uid: 24c75ab567c707163ea44a39a97374c8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-3-insertion-sort-merge/id585700718?i=164305059
-  - uid: dae7d9a81e10f78d9be8e10e81ce3e70
-    parent_uid: 24c75ab567c707163ea44a39a97374c8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec03_300k.mp4'
-  - uid: 63b97518b8f22f5ed3d4ff7d719d1e55
-    parent_uid: 24c75ab567c707163ea44a39a97374c8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Kg4bqzAqRBM
-  - uid: 6388f0c3161c54e65985cd0d0338d799
-    parent_uid: 24c75ab567c707163ea44a39a97374c8
-    id: Kg4bqzAqRBM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-3-insertion-sort-merge-sort/Kg4bqzAqRBM.srt
-  - uid: ed5e6829a166846e83e8ee1aa7d68dc7
-    parent_uid: 24c75ab567c707163ea44a39a97374c8
-    id: Kg4bqzAqRBM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-3-insertion-sort-merge-sort/Kg4bqzAqRBM.pdf
-  - uid: c66eddcf8400c29b5d82f0d8beb1bcc8
-    parent_uid: 24c75ab567c707163ea44a39a97374c8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f7efb953854a91a7c1cf448318b3ef44
-    parent_uid: 24c75ab567c707163ea44a39a97374c8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 24c75ab567c707163ea44a39a97374c8
 type: courses
 layout: video
 ---

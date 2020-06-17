@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 7: Solving Ax = 0: pivot variables, special solutions'
-uid: fde5877ab540a31330a1ef06c5e1127d
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-7-solving-ax-0-pivot-variables-special-solutions
-short_url: lecture-7-solving-ax-0-pivot-variables-special-solutions
-inline_embed_id: '14529679lecture7:solvingax=0:pivotvariables,specialsolutions15967975'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert  Strang
   teaching 18.06 were recorded in Fall 1999 and do not correspond  precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L07.jpg
+    parent_uid: fde5877ab540a31330a1ef06c5e1127d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-7-solving-ax-0-pivot-variables-special-solutions/18.06_L07.jpg
+    title: 18.06_L07.jpg
+    type: null
+    uid: 3fbafafdf5a7327d995f5162cf94a869
+  - id: Video-YouTube-Stream
+    media_location: VqP2tREMvt0
+    parent_uid: fde5877ab540a31330a1ef06c5e1127d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a9d0594b8cd2762635ea7571f83f8ac9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VqP2tREMvt0/default.jpg'
+    parent_uid: fde5877ab540a31330a1ef06c5e1127d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c9c0c6dd1374b77cb5b6d9503520f6cd
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: fde5877ab540a31330a1ef06c5e1127d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5e14715e22f9b86f076b715bba1beea5
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/07.mp4'
+    parent_uid: fde5877ab540a31330a1ef06c5e1127d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 691340fcb3b93b49872b72a999369d17
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: fde5877ab540a31330a1ef06c5e1127d
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: d87177269a7c3992e6bf7d471e59e33b
+  - id: Thumbnail-OCW-JPG
+    parent_uid: fde5877ab540a31330a1ef06c5e1127d
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 76970470466813a7721ec7973b61274f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: VqP2tREMvt0
+    parent_uid: fde5877ab540a31330a1ef06c5e1127d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7e55e6f60b9c2ebbf011a274c34ae51b
+  - id: VqP2tREMvt0.srt
+    parent_uid: fde5877ab540a31330a1ef06c5e1127d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-7-solving-ax-0-pivot-variables-special-solutions/VqP2tREMvt0.srt
+    title: 3play caption file
+    type: null
+    uid: 5392603cac0eaa37adffde090d0fe130
+  - id: VqP2tREMvt0.pdf
+    parent_uid: fde5877ab540a31330a1ef06c5e1127d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-7-solving-ax-0-pivot-variables-special-solutions/VqP2tREMvt0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5b376d43a2a5dd24d86e69aa67406111
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fde5877ab540a31330a1ef06c5e1127d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3cce35d136a581975bc8eb1fbc7b8c7b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fde5877ab540a31330a1ef06c5e1127d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 28053436f4e43df8acc22bd7cd45ca59
+inline_embed_id: '14529679lecture7:solvingax=0:pivotvariables,specialsolutions15967975'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-7-solving-ax-0-pivot-variables-special-solutions
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-7-solving-ax-0-pivot-variables-special-solutions
+title: 'Lecture 7: Solving Ax = 0: pivot variables, special solutions'
 transcript: >-
   <p><span m="9870">OK,</span> <span m="10500">here's</span> <span
   m="11070">linear</span> <span m="11460">algebra</span> <span
@@ -2423,79 +2495,7 @@ transcript: >-
   m="2583590">that's,</span> <span m="2584140">that's</span> <span
   m="2584510">the</span> <span m="2584650">null</span> <span
   m="2584830">space.</span></p><p><span m="2585370">Thanks.</span></p>
-embedded_media:
-  - uid: 3fbafafdf5a7327d995f5162cf94a869
-    parent_uid: fde5877ab540a31330a1ef06c5e1127d
-    id: 18.06_L07.jpg
-    title: 18.06_L07.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-7-solving-ax-0-pivot-variables-special-solutions/18.06_L07.jpg
-  - uid: a9d0594b8cd2762635ea7571f83f8ac9
-    parent_uid: fde5877ab540a31330a1ef06c5e1127d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VqP2tREMvt0
-  - uid: c9c0c6dd1374b77cb5b6d9503520f6cd
-    parent_uid: fde5877ab540a31330a1ef06c5e1127d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VqP2tREMvt0/default.jpg'
-  - uid: 5e14715e22f9b86f076b715bba1beea5
-    parent_uid: fde5877ab540a31330a1ef06c5e1127d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 691340fcb3b93b49872b72a999369d17
-    parent_uid: fde5877ab540a31330a1ef06c5e1127d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/07.mp4'
-  - uid: d87177269a7c3992e6bf7d471e59e33b
-    parent_uid: fde5877ab540a31330a1ef06c5e1127d
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 76970470466813a7721ec7973b61274f
-    parent_uid: fde5877ab540a31330a1ef06c5e1127d
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 7e55e6f60b9c2ebbf011a274c34ae51b
-    parent_uid: fde5877ab540a31330a1ef06c5e1127d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VqP2tREMvt0
-  - uid: 5392603cac0eaa37adffde090d0fe130
-    parent_uid: fde5877ab540a31330a1ef06c5e1127d
-    id: VqP2tREMvt0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-7-solving-ax-0-pivot-variables-special-solutions/VqP2tREMvt0.srt
-  - uid: 5b376d43a2a5dd24d86e69aa67406111
-    parent_uid: fde5877ab540a31330a1ef06c5e1127d
-    id: VqP2tREMvt0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-7-solving-ax-0-pivot-variables-special-solutions/VqP2tREMvt0.pdf
-  - uid: 3cce35d136a581975bc8eb1fbc7b8c7b
-    parent_uid: fde5877ab540a31330a1ef06c5e1127d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 28053436f4e43df8acc22bd7cd45ca59
-    parent_uid: fde5877ab540a31330a1ef06c5e1127d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: fde5877ab540a31330a1ef06c5e1127d
 type: courses
 layout: video
 ---

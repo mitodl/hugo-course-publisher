@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: Logistic Regression'
-uid: 019a3b6f56929edf2c200fe0ac8db446
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: U57wvHVpe-8
+    parent_uid: 019a3b6f56929edf2c200fe0ac8db446
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 47b4ea41310465454760de23e86a67bb
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: U57wvHVpe-8
+    parent_uid: 019a3b6f56929edf2c200fe0ac8db446
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ce7e13fc587d60f8254b77de34f386b9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/U57wvHVpe-8/default.jpg'
+    parent_uid: 019a3b6f56929edf2c200fe0ac8db446
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0a2293f02579a6e6de0d456b6ce99bdb
+  - id: U57wvHVpe-8.srt
+    parent_uid: 019a3b6f56929edf2c200fe0ac8db446
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-3-logistic-regression/video-3-logistic-regression-0/U57wvHVpe-8.srt
+    title: 3play caption file
+    type: null
+    uid: 48239f4a43633ec709ecce3df15ad71c
+  - id: U57wvHVpe-8.pdf
+    parent_uid: 019a3b6f56929edf2c200fe0ac8db446
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-3-logistic-regression/video-3-logistic-regression-0/U57wvHVpe-8.pdf
+    title: 3play pdf file
+    type: null
+    uid: e53c2e5db622c7f538ca05346be62ac9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 019a3b6f56929edf2c200fe0ac8db446
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5434a04b5c3c8e7269b8892d1add27a0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 019a3b6f56929edf2c200fe0ac8db446
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4b109d84056f4421b6ed0c889c7710c2
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.2.04_300k.mp4
+    parent_uid: 019a3b6f56929edf2c200fe0ac8db446
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d2a9701ee9c597edfdb88b9257f62d70
+inline_embed_id: 1633403video3logisticregression80838909
 parent_uid: 8099bebbd4e81ce09baa3ede1f3ec357
+related_resources_text: ''
+short_url: video-3-logistic-regression-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-3-logistic-regression/video-3-logistic-regression-0
-short_url: video-3-logistic-regression-0
-inline_embed_id: 1633403video3logisticregression80838909
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: Logistic Regression'
 transcript: >-
   <p><span m='4740'>Logistic</span> <span m='5195'>regression</span> <span
   m='5650'>predicts</span> <span m='6105'>the</span> <span
@@ -238,56 +287,7 @@ transcript: >-
   <span m='240218'>predict</span> <span m='240696'>the</span> <span
   m='241175'>quality</span> <span m='241653'>of</span> <span
   m='242131'>care.</span> </p>
-embedded_media:
-  - uid: 47b4ea41310465454760de23e86a67bb
-    parent_uid: 019a3b6f56929edf2c200fe0ac8db446
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: U57wvHVpe-8
-  - uid: ce7e13fc587d60f8254b77de34f386b9
-    parent_uid: 019a3b6f56929edf2c200fe0ac8db446
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: U57wvHVpe-8
-  - uid: 0a2293f02579a6e6de0d456b6ce99bdb
-    parent_uid: 019a3b6f56929edf2c200fe0ac8db446
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/U57wvHVpe-8/default.jpg'
-  - uid: 48239f4a43633ec709ecce3df15ad71c
-    parent_uid: 019a3b6f56929edf2c200fe0ac8db446
-    id: U57wvHVpe-8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-3-logistic-regression/video-3-logistic-regression-0/U57wvHVpe-8.srt
-  - uid: e53c2e5db622c7f538ca05346be62ac9
-    parent_uid: 019a3b6f56929edf2c200fe0ac8db446
-    id: U57wvHVpe-8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-3-logistic-regression/video-3-logistic-regression-0/U57wvHVpe-8.pdf
-  - uid: 5434a04b5c3c8e7269b8892d1add27a0
-    parent_uid: 019a3b6f56929edf2c200fe0ac8db446
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4b109d84056f4421b6ed0c889c7710c2
-    parent_uid: 019a3b6f56929edf2c200fe0ac8db446
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d2a9701ee9c597edfdb88b9257f62d70
-    parent_uid: 019a3b6f56929edf2c200fe0ac8db446
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.2.04_300k.mp4
+uid: 019a3b6f56929edf2c200fe0ac8db446
 type: courses
 layout: video
 ---

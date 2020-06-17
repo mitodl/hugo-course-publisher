@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Markov Matrices'
-uid: 915c725142a4d2ed686cad3352988e41
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: wuyAeWE3iIM
+    parent_uid: 915c725142a4d2ed686cad3352988e41
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8ee6d4970120449fe25270ccb4d777c7
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: wuyAeWE3iIM
+    parent_uid: 915c725142a4d2ed686cad3352988e41
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a9f432ee58f3e723bcae25de9bc5cbaa
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/markov-matrices/id488155309?i=108454344
+    parent_uid: 915c725142a4d2ed686cad3352988e41
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f4a986f7da4378650fb67c9b62a38ec0
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110706_D2_300k.mp4
+    parent_uid: 915c725142a4d2ed686cad3352988e41
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5b7d17260592874f1c35188cd6b7e895
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/wuyAeWE3iIM/default.jpg'
+    parent_uid: 915c725142a4d2ed686cad3352988e41
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 617d921e31b88fde95ec727ce4ca9d49
+  - id: wuyAeWE3iIM.srt
+    parent_uid: 915c725142a4d2ed686cad3352988e41
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-markov-matrices/wuyAeWE3iIM.srt
+    title: 3play caption file
+    type: null
+    uid: fb56b12f590c759fedb0ab5b876d296a
+  - id: wuyAeWE3iIM.pdf
+    parent_uid: 915c725142a4d2ed686cad3352988e41
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-markov-matrices/wuyAeWE3iIM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 05eb739b6c062453116325a84bd6d0cb
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 915c725142a4d2ed686cad3352988e41
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c8a2609ad986a839e40c49d366fb2c0a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 915c725142a4d2ed686cad3352988e41
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 09f4054efa05c5af4f70682a8520e536
+inline_embed_id: 33007227problemsolvingmarkovmatrices39681625
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: problem-solving-markov-matrices
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-markov-matrices
-short_url: problem-solving-markov-matrices
-inline_embed_id: 33007227problemsolvingmarkovmatrices39681625
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Markov Matrices'
 transcript: >-
   <p><span m='6279'>PROFESSOR: Hi,</span> <span m='6770'>everyone.</span> <span
   m='7380'>Welcome</span> <span m='7680'>back.</span> <span m='8520'>So</span>
@@ -628,63 +684,7 @@ transcript: >-
   m='704760'>here.</span> <span m='705470'>And</span> <span
   m='705690'>I'll</span> <span m='705760'>see</span> <span m='705900'>you</span>
   <span m='705980'>next</span> <span m='706200'>time.</span> </p>
-embedded_media:
-  - uid: 8ee6d4970120449fe25270ccb4d777c7
-    parent_uid: 915c725142a4d2ed686cad3352988e41
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: wuyAeWE3iIM
-  - uid: a9f432ee58f3e723bcae25de9bc5cbaa
-    parent_uid: 915c725142a4d2ed686cad3352988e41
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: wuyAeWE3iIM
-  - uid: f4a986f7da4378650fb67c9b62a38ec0
-    parent_uid: 915c725142a4d2ed686cad3352988e41
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/markov-matrices/id488155309?i=108454344
-  - uid: 5b7d17260592874f1c35188cd6b7e895
-    parent_uid: 915c725142a4d2ed686cad3352988e41
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110706_D2_300k.mp4
-  - uid: 617d921e31b88fde95ec727ce4ca9d49
-    parent_uid: 915c725142a4d2ed686cad3352988e41
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/wuyAeWE3iIM/default.jpg'
-  - uid: fb56b12f590c759fedb0ab5b876d296a
-    parent_uid: 915c725142a4d2ed686cad3352988e41
-    id: wuyAeWE3iIM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-markov-matrices/wuyAeWE3iIM.srt
-  - uid: 05eb739b6c062453116325a84bd6d0cb
-    parent_uid: 915c725142a4d2ed686cad3352988e41
-    id: wuyAeWE3iIM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-markov-matrices/wuyAeWE3iIM.pdf
-  - uid: c8a2609ad986a839e40c49d366fb2c0a
-    parent_uid: 915c725142a4d2ed686cad3352988e41
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 09f4054efa05c5af4f70682a8520e536
-    parent_uid: 915c725142a4d2ed686cad3352988e41
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 915c725142a4d2ed686cad3352988e41
 type: courses
 layout: video
 ---

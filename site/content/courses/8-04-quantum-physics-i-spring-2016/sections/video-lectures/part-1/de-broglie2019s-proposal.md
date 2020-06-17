@@ -1,13 +1,67 @@
 ---
-title: de Broglie’s proposal
-uid: 733eb15bd0af0178567b20f4ccca8223
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: dnuZx9fZHsU
+    parent_uid: 733eb15bd0af0178567b20f4ccca8223
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a4e8a8fc9d95c7cdae479c7c52e96da4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/dnuZx9fZHsU/default.jpg'
+    parent_uid: 733eb15bd0af0178567b20f4ccca8223
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bf7f4831298da2361aa81b4c30f4113a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: dnuZx9fZHsU
+    parent_uid: 733eb15bd0af0178567b20f4ccca8223
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e06b574a28233be8dea07699414c8a72
+  - id: dnuZx9fZHsU.srt
+    parent_uid: 733eb15bd0af0178567b20f4ccca8223
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/de-broglie2019s-proposal/dnuZx9fZHsU.srt
+    title: 3play caption file
+    type: null
+    uid: 36b8a1c660d6192f1820d7b7757f49ca
+  - id: dnuZx9fZHsU.pdf
+    parent_uid: 733eb15bd0af0178567b20f4ccca8223
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/de-broglie2019s-proposal/dnuZx9fZHsU.pdf
+    title: 3play pdf file
+    type: null
+    uid: ed1533bb60bf18869412d7473e5b9b33
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 733eb15bd0af0178567b20f4ccca8223
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e92f3eefebe5e45709243d4bae622d39
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 733eb15bd0af0178567b20f4ccca8223
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ca1ef5c9409495e9523343f584e17217
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 733eb15bd0af0178567b20f4ccca8223
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f66b3879fd9f4bf043293b7f13737ea6
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec03_s4_300k.mp4'
+    parent_uid: 733eb15bd0af0178567b20f4ccca8223
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7b7105dfa16c7d6a32046442fac88862
+inline_embed_id: 88449713debrogliesproposal21753269
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: de-broglie2019s-proposal
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/de-broglie2019s-proposal
-short_url: de-broglie2019s-proposal
-inline_embed_id: 88449713debrogliesproposal21753269
-about_this_resource_text: ''
-related_resources_text: ''
+title: de Broglie’s proposal
 transcript: >-
   <p><span m='300'>PROFESSOR:</span> <span m='450'>This</span> <span
   m='600'>is</span> <span m='2710'>Louis--</span> <span
@@ -539,61 +593,7 @@ transcript: >-
   m='634700'>the</span> <span m='634820'>wave</span> <span
   m='635510'>suddenly</span> <span m='636050'>becomes</span> <span
   m='636650'>clear.</span> </p>
-embedded_media:
-  - uid: a4e8a8fc9d95c7cdae479c7c52e96da4
-    parent_uid: 733eb15bd0af0178567b20f4ccca8223
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: dnuZx9fZHsU
-  - uid: bf7f4831298da2361aa81b4c30f4113a
-    parent_uid: 733eb15bd0af0178567b20f4ccca8223
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/dnuZx9fZHsU/default.jpg'
-  - uid: e06b574a28233be8dea07699414c8a72
-    parent_uid: 733eb15bd0af0178567b20f4ccca8223
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: dnuZx9fZHsU
-  - uid: 36b8a1c660d6192f1820d7b7757f49ca
-    parent_uid: 733eb15bd0af0178567b20f4ccca8223
-    id: dnuZx9fZHsU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/de-broglie2019s-proposal/dnuZx9fZHsU.srt
-  - uid: ed1533bb60bf18869412d7473e5b9b33
-    parent_uid: 733eb15bd0af0178567b20f4ccca8223
-    id: dnuZx9fZHsU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/de-broglie2019s-proposal/dnuZx9fZHsU.pdf
-  - uid: e92f3eefebe5e45709243d4bae622d39
-    parent_uid: 733eb15bd0af0178567b20f4ccca8223
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ca1ef5c9409495e9523343f584e17217
-    parent_uid: 733eb15bd0af0178567b20f4ccca8223
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f66b3879fd9f4bf043293b7f13737ea6
-    parent_uid: 733eb15bd0af0178567b20f4ccca8223
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 7b7105dfa16c7d6a32046442fac88862
-    parent_uid: 733eb15bd0af0178567b20f4ccca8223
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec03_s4_300k.mp4'
+uid: 733eb15bd0af0178567b20f4ccca8223
 type: courses
 layout: video
 ---

@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 8: Randomization: Universal & Perfect Hashing'
-uid: f5041f11c09b8737ac786cae5fb98fb9
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-8-randomization-universal-perfect-hashing
-short_url: lecture-8-randomization-universal-perfect-hashing
-inline_embed_id: '69038584lecture8:randomization:universal&perfecthashing13248889'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Demaine reviews
   hashing in the context of randomized algorithms.</p>
   <p><strong>Instructors:</strong> Erik Demaine</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: z0lJ2k0sl1g
+    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 386c1835fdba542129a3bfe73f6d398a
+  - id: z0lJ2k0sl1g.srt
+    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-8-randomization-universal-perfect-hashing/z0lJ2k0sl1g.srt
+    title: 3play caption file
+    type: null
+    uid: d983386b8133ac2abde7714104e1aa01
+  - id: z0lJ2k0sl1g.pdf
+    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-8-randomization-universal-perfect-hashing/z0lJ2k0sl1g.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2bdf2d018dd29ed93f84c300b2c95e25
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a57f9a63b590d85d5bbc466eadf38749
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f810217d384220887687303e1b573a98
+  - id: Video-YouTube-Stream
+    media_location: z0lJ2k0sl1g
+    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ddcd17cbdc89a79c68a740fc92ca31b6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/z0lJ2k0sl1g/default.jpg'
+    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5cdce8d11161f4d9ee8f36eb7902fded
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ac70dd9d24b9355a6a5ffbee2b157113
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec08_300k.mp4'
+    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 81c6591cb1b94adbe0bb957d746d0d1d
+inline_embed_id: '69038584lecture8:randomization:universal&perfecthashing13248889'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-8-randomization-universal-perfect-hashing
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-8-randomization-universal-perfect-hashing
+title: 'Lecture 8: Randomization: Universal & Perfect Hashing'
 transcript: >-
   <p><span m="90">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4654,61 +4708,7 @@ transcript: >-
   m="4902103">everything's</span> <span m="4902576">nice.</span> <span
   m="4907780">Now</span> <span m="4908050">you</span> <span
   m="4908200">know</span> <span m="4908360">hashing.</span></p>
-embedded_media:
-  - uid: 386c1835fdba542129a3bfe73f6d398a
-    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: z0lJ2k0sl1g
-  - uid: d983386b8133ac2abde7714104e1aa01
-    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
-    id: z0lJ2k0sl1g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-8-randomization-universal-perfect-hashing/z0lJ2k0sl1g.srt
-  - uid: 2bdf2d018dd29ed93f84c300b2c95e25
-    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
-    id: z0lJ2k0sl1g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-8-randomization-universal-perfect-hashing/z0lJ2k0sl1g.pdf
-  - uid: a57f9a63b590d85d5bbc466eadf38749
-    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f810217d384220887687303e1b573a98
-    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ddcd17cbdc89a79c68a740fc92ca31b6
-    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: z0lJ2k0sl1g
-  - uid: 5cdce8d11161f4d9ee8f36eb7902fded
-    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/z0lJ2k0sl1g/default.jpg'
-  - uid: ac70dd9d24b9355a6a5ffbee2b157113
-    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 81c6591cb1b94adbe0bb957d746d0d1d
-    parent_uid: f5041f11c09b8737ac786cae5fb98fb9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec08_300k.mp4'
+uid: f5041f11c09b8737ac786cae5fb98fb9
 type: courses
 layout: video
 ---

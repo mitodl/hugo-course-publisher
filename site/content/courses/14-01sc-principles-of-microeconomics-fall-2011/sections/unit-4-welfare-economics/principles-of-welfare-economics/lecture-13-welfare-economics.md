@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 13: Welfare Economics'
-uid: b6bca2c70e25ca48b77bed4f9e3624b0
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: LpNKCJSZk_k
+    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1fb8d07349d07a1223b0cc56a8d28c14
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/LpNKCJSZk_k/default.jpg'
+    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ed126cb5b7d7a31dc6fd95195c558bbb
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: LpNKCJSZk_k
+    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8f913ea669686c58bec6b32030c26fd8
+  - id: LpNKCJSZk_k.srt
+    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-4-welfare-economics/principles-of-welfare-economics/lecture-13-welfare-economics/LpNKCJSZk_k.srt
+    title: 3play caption file
+    type: null
+    uid: a0cc423e85346cd425b603cb6d503dc3
+  - id: LpNKCJSZk_k.pdf
+    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-4-welfare-economics/principles-of-welfare-economics/lecture-13-welfare-economics/LpNKCJSZk_k.pdf
+    title: 3play pdf file
+    type: null
+    uid: 14fc9ca9ccdd5cd0463052bb41bbc9fe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 106c65fa9e470d521bd6a95db3427df4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: da877a128c715fcb4ae77ecd1d28e7ac
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-13-welfare-economics/id496265654?i=109892750
+    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 08789db0b319eab22c2f40e4e709edd0
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec13_300k.mp4'
+    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cf962c568e4c9f8f92be7f43599f2aac
+inline_embed_id: 1843169lecture13welfareeconomics6678788
 parent_uid: 12e64d3f06442707bfcb6442dc9daf1b
+related_resources_text: ''
+short_url: lecture-13-welfare-economics
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-4-welfare-economics/principles-of-welfare-economics/lecture-13-welfare-economics
-short_url: lecture-13-welfare-economics
-inline_embed_id: 1843169lecture13welfareeconomics6678788
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 13: Welfare Economics'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3669,62 +3724,7 @@ transcript: >-
   m='2824750'>come</span> <span m='2824880'>back</span> <span
   m='2825060'>to</span> <span m='2825100'>talk</span> <span
   m='2825290'>about</span> <span m='2825460'>monopoly.</span> </p>
-embedded_media:
-  - uid: 1fb8d07349d07a1223b0cc56a8d28c14
-    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: LpNKCJSZk_k
-  - uid: ed126cb5b7d7a31dc6fd95195c558bbb
-    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/LpNKCJSZk_k/default.jpg'
-  - uid: 8f913ea669686c58bec6b32030c26fd8
-    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: LpNKCJSZk_k
-  - uid: a0cc423e85346cd425b603cb6d503dc3
-    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
-    id: LpNKCJSZk_k.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-4-welfare-economics/principles-of-welfare-economics/lecture-13-welfare-economics/LpNKCJSZk_k.srt
-  - uid: 14fc9ca9ccdd5cd0463052bb41bbc9fe
-    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
-    id: LpNKCJSZk_k.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-4-welfare-economics/principles-of-welfare-economics/lecture-13-welfare-economics/LpNKCJSZk_k.pdf
-  - uid: 106c65fa9e470d521bd6a95db3427df4
-    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: da877a128c715fcb4ae77ecd1d28e7ac
-    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 08789db0b319eab22c2f40e4e709edd0
-    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-13-welfare-economics/id496265654?i=109892750
-  - uid: cf962c568e4c9f8f92be7f43599f2aac
-    parent_uid: b6bca2c70e25ca48b77bed4f9e3624b0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec13_300k.mp4'
+uid: b6bca2c70e25ca48b77bed4f9e3624b0
 type: courses
 layout: video
 ---

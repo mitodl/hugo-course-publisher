@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: The Story of Moneyball'
-uid: e039d67c8e34ebd57b8cd9c2281221ef
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: WacNWdXhvVM
+    parent_uid: e039d67c8e34ebd57b8cd9c2281221ef
+    title: Video-YouTube-Stream
+    type: Video
+    uid: feed886a8aa22b922f438bc8c9aed931
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: WacNWdXhvVM
+    parent_uid: e039d67c8e34ebd57b8cd9c2281221ef
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1bb86d9f24c55f4a76c736d3394474f8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/WacNWdXhvVM/default.jpg'
+    parent_uid: e039d67c8e34ebd57b8cd9c2281221ef
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bbeeb63e1b9e3e71fc6fcfd44b327306
+  - id: WacNWdXhvVM.srt
+    parent_uid: e039d67c8e34ebd57b8cd9c2281221ef
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-1-the-story-of-moneyball/video-1-the-story-of-moneyball-0/WacNWdXhvVM.srt
+    title: 3play caption file
+    type: null
+    uid: 12197074a59e5253486f842910d04a1b
+  - id: WacNWdXhvVM.pdf
+    parent_uid: e039d67c8e34ebd57b8cd9c2281221ef
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-1-the-story-of-moneyball/video-1-the-story-of-moneyball-0/WacNWdXhvVM.pdf
+    title: 3play pdf file
+    type: null
+    uid: d854a977740e28a9fee464db8daaba2c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e039d67c8e34ebd57b8cd9c2281221ef
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8a29cb63d13c770b7487cd5754bb65cd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e039d67c8e34ebd57b8cd9c2281221ef
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6b2a0cd36f0cd97a5ba7801c6f9f6804
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.3.02_300k.mp4
+    parent_uid: e039d67c8e34ebd57b8cd9c2281221ef
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f7fced99f60a0ffe7339555afe9ee6f2
+inline_embed_id: 82491018video1thestoryofmoneyball71925766
 parent_uid: 9a181e989a2dc6e21d6b813dfdbf8d9f
+related_resources_text: ''
+short_url: video-1-the-story-of-moneyball-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-1-the-story-of-moneyball/video-1-the-story-of-moneyball-0
-short_url: video-1-the-story-of-moneyball-0
-inline_embed_id: 82491018video1thestoryofmoneyball71925766
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: The Story of Moneyball'
 transcript: >-
   <p><span m='9840'>Today's</span> <span m='10217'>lecture</span> <span
   m='10594'>is</span> <span m='10971'>a</span> <span m='11348'>story</span>
@@ -388,56 +437,7 @@ transcript: >-
   m='438715'>find</span> <span m='439168'>players</span> <span
   m='439621'>at</span> <span m='440074'>a</span> <span
   m='440527'>bargain.</span> </p>
-embedded_media:
-  - uid: feed886a8aa22b922f438bc8c9aed931
-    parent_uid: e039d67c8e34ebd57b8cd9c2281221ef
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: WacNWdXhvVM
-  - uid: 1bb86d9f24c55f4a76c736d3394474f8
-    parent_uid: e039d67c8e34ebd57b8cd9c2281221ef
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: WacNWdXhvVM
-  - uid: bbeeb63e1b9e3e71fc6fcfd44b327306
-    parent_uid: e039d67c8e34ebd57b8cd9c2281221ef
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/WacNWdXhvVM/default.jpg'
-  - uid: 12197074a59e5253486f842910d04a1b
-    parent_uid: e039d67c8e34ebd57b8cd9c2281221ef
-    id: WacNWdXhvVM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-1-the-story-of-moneyball/video-1-the-story-of-moneyball-0/WacNWdXhvVM.srt
-  - uid: d854a977740e28a9fee464db8daaba2c
-    parent_uid: e039d67c8e34ebd57b8cd9c2281221ef
-    id: WacNWdXhvVM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-1-the-story-of-moneyball/video-1-the-story-of-moneyball-0/WacNWdXhvVM.pdf
-  - uid: 8a29cb63d13c770b7487cd5754bb65cd
-    parent_uid: e039d67c8e34ebd57b8cd9c2281221ef
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6b2a0cd36f0cd97a5ba7801c6f9f6804
-    parent_uid: e039d67c8e34ebd57b8cd9c2281221ef
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f7fced99f60a0ffe7339555afe9ee6f2
-    parent_uid: e039d67c8e34ebd57b8cd9c2281221ef
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.3.02_300k.mp4
+uid: e039d67c8e34ebd57b8cd9c2281221ef
 type: courses
 layout: video
 ---

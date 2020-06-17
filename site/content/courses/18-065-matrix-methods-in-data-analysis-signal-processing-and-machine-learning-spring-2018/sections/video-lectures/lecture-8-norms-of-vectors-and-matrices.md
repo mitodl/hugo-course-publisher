@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 8: Norms of Vectors and Matrices'
-uid: eada4a9cece40c77ae4e54ab2b6f8e6a
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-8-norms-of-vectors-and-matrices
-short_url: lecture-8-norms-of-vectors-and-matrices
-inline_embed_id: 13007276lecture8normsofvectorsandmatrices97302910
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>A norm is a way to measure the size of
   a vector, a matrix, a tensor, or a function. Professor Strang reviews a
@@ -17,7 +10,62 @@ about_this_resource_text: >-
   matrices have \(\Vert Q \Vert_2 = 1\) and \(\Vert Q \Vert^2_F = n\)</p>
   <p>Related section in textbook: I.11</p> <p><strong>Instructor:</strong> Prof.
   Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: NcPUI7aPFhA
+    parent_uid: eada4a9cece40c77ae4e54ab2b6f8e6a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f7347f253c6ff7977d933aed30e30354
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/NcPUI7aPFhA/default.jpg'
+    parent_uid: eada4a9cece40c77ae4e54ab2b6f8e6a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7f6e5b11d9773942ecfc006bbeb38119
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: NcPUI7aPFhA
+    parent_uid: eada4a9cece40c77ae4e54ab2b6f8e6a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f96b93d819a7364c8570c303fe066cc7
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture08_300k.mp4'
+    parent_uid: eada4a9cece40c77ae4e54ab2b6f8e6a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 88383d1d75da2e0d92ea6fd91a6eb9ba
+  - id: NcPUI7aPFhA.srt
+    parent_uid: eada4a9cece40c77ae4e54ab2b6f8e6a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-8-norms-of-vectors-and-matrices/NcPUI7aPFhA.srt
+    title: 3play caption file
+    type: null
+    uid: 47b35f4407a2d747d81b889b8e66dd08
+  - id: NcPUI7aPFhA.pdf
+    parent_uid: eada4a9cece40c77ae4e54ab2b6f8e6a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-8-norms-of-vectors-and-matrices/NcPUI7aPFhA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 25e57797fbba8da09ee6b4a91b31232e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: eada4a9cece40c77ae4e54ab2b6f8e6a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7d8ef31cf42c22efd6c4c6500125733f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: eada4a9cece40c77ae4e54ab2b6f8e6a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 84bd66920688369129cf3d9900d060b2
+inline_embed_id: 13007276lecture8normsofvectorsandmatrices97302910
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-8-norms-of-vectors-and-matrices
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-8-norms-of-vectors-and-matrices
+title: 'Lecture 8: Norms of Vectors and Matrices'
 transcript: >-
   <p><span m='1550'>The</span> <span m='1640'>following</span> <span
   m='2090'>content</span> <span m='2600'>is</span> <span
@@ -2601,55 +2649,7 @@ transcript: >-
   m='2952010'>Monday</span> <span m='2952370'>and</span> <span
   m='2952490'>have</span> <span m='2952670'>a</span> <span
   m='2952760'>great</span> <span m='2953030'>weekend.</span> </p>
-embedded_media:
-  - uid: f7347f253c6ff7977d933aed30e30354
-    parent_uid: eada4a9cece40c77ae4e54ab2b6f8e6a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: NcPUI7aPFhA
-  - uid: 7f6e5b11d9773942ecfc006bbeb38119
-    parent_uid: eada4a9cece40c77ae4e54ab2b6f8e6a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/NcPUI7aPFhA/default.jpg'
-  - uid: f96b93d819a7364c8570c303fe066cc7
-    parent_uid: eada4a9cece40c77ae4e54ab2b6f8e6a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: NcPUI7aPFhA
-  - uid: 88383d1d75da2e0d92ea6fd91a6eb9ba
-    parent_uid: eada4a9cece40c77ae4e54ab2b6f8e6a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture08_300k.mp4'
-  - uid: 47b35f4407a2d747d81b889b8e66dd08
-    parent_uid: eada4a9cece40c77ae4e54ab2b6f8e6a
-    id: NcPUI7aPFhA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-8-norms-of-vectors-and-matrices/NcPUI7aPFhA.srt
-  - uid: 25e57797fbba8da09ee6b4a91b31232e
-    parent_uid: eada4a9cece40c77ae4e54ab2b6f8e6a
-    id: NcPUI7aPFhA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-8-norms-of-vectors-and-matrices/NcPUI7aPFhA.pdf
-  - uid: 7d8ef31cf42c22efd6c4c6500125733f
-    parent_uid: eada4a9cece40c77ae4e54ab2b6f8e6a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 84bd66920688369129cf3d9900d060b2
-    parent_uid: eada4a9cece40c77ae4e54ab2b6f8e6a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: eada4a9cece40c77ae4e54ab2b6f8e6a
 type: courses
 layout: video
 ---

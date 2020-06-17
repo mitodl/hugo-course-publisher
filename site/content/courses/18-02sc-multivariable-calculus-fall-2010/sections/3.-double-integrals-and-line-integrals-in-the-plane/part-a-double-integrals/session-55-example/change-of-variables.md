@@ -1,13 +1,68 @@
 ---
-title: Change of Variables
-uid: 48731bc88bcf6aa8df7d692db5e4bd94
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: G534bz09B4A
+    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1d63ccba2287bfe549da928339895641
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/G534bz09B4A/default.jpg'
+    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c0f3859fb40d6b00248f04fc85a9b7f3
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/change-of-variables/id414355340?i=90322844
+    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f7f21b9b8cc963bcfd074f1208029c6a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_38_300k.mp4'
+    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6a513fd2930c350edf8ce8a344313ff2
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: G534bz09B4A
+    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 42174e8a9f5175ee7d0a0676cbc74d86
+  - id: G534bz09B4A.srt
+    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-55-example/change-of-variables/G534bz09B4A.srt
+    title: 3play caption file
+    type: null
+    uid: 248eabbe536d505d3d983a88248c4e20
+  - id: G534bz09B4A.pdf
+    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-55-example/change-of-variables/G534bz09B4A.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4e642f85f4aa3d2cf3affa3c528dbdfa
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d25d58907f03e2e57f8f2bdf6a8840df
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c5b03eb14dd720e2fdb4f59f30608268
+inline_embed_id: 38469457changeofvariables89306362
 parent_uid: 9d0e3d8a0846d1b871f4f3c5171f3b33
+related_resources_text: ''
+short_url: change-of-variables
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-55-example/change-of-variables
-short_url: change-of-variables
-inline_embed_id: 38469457changeofvariables89306362
-about_this_resource_text: ''
-related_resources_text: ''
+title: Change of Variables
 transcript: >-
   <p><span m='7320'>CHRISTINE BREINER: Welcome</span> <span m='7660'>back</span>
   <span m='7830'>to</span> <span m='7910'>recitation.</span> <span
@@ -1517,62 +1572,7 @@ transcript: >-
   m='1193470'>That</span> <span m='1193730'>is</span> <span
   m='1193860'>where</span> <span m='1194050'>I</span> <span
   m='1194160'>will</span> <span m='1194300'>stop.</span> </p>
-embedded_media:
-  - uid: 1d63ccba2287bfe549da928339895641
-    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: G534bz09B4A
-  - uid: c0f3859fb40d6b00248f04fc85a9b7f3
-    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/G534bz09B4A/default.jpg'
-  - uid: f7f21b9b8cc963bcfd074f1208029c6a
-    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/change-of-variables/id414355340?i=90322844
-  - uid: 6a513fd2930c350edf8ce8a344313ff2
-    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_38_300k.mp4'
-  - uid: 42174e8a9f5175ee7d0a0676cbc74d86
-    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: G534bz09B4A
-  - uid: 248eabbe536d505d3d983a88248c4e20
-    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
-    id: G534bz09B4A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-55-example/change-of-variables/G534bz09B4A.srt
-  - uid: 4e642f85f4aa3d2cf3affa3c528dbdfa
-    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
-    id: G534bz09B4A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-55-example/change-of-variables/G534bz09B4A.pdf
-  - uid: d25d58907f03e2e57f8f2bdf6a8840df
-    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c5b03eb14dd720e2fdb4f59f30608268
-    parent_uid: 48731bc88bcf6aa8df7d692db5e4bd94
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 48731bc88bcf6aa8df7d692db5e4bd94
 type: courses
 layout: video
 ---

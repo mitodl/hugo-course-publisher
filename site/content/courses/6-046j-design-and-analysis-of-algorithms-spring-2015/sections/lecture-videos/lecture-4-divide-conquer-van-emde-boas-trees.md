@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 4: Divide & Conquer: van Emde Boas Trees'
-uid: ee3a8f82c04e8d311c7b102978bd78a9
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-4-divide-conquer-van-emde-boas-trees
-short_url: lecture-4-divide-conquer-van-emde-boas-trees
-inline_embed_id: '64379674lecture4:divide&conquer:vanemdeboastrees33657709'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Demaine introduces
   the van Emde Boas Tree data structure and its uses.</p><p><strong>Instructors:
   </strong>Erik Demaine</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: hmReJCupbNU
+    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 652e2c46ec127c799e17f36e9ef7ea3e
+  - id: hmReJCupbNU.srt
+    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-4-divide-conquer-van-emde-boas-trees/hmReJCupbNU.srt
+    title: 3play caption file
+    type: null
+    uid: 424d869ef72417ac2a4f48647c740171
+  - id: hmReJCupbNU.pdf
+    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-4-divide-conquer-van-emde-boas-trees/hmReJCupbNU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2afff3384e87750b2a409296d47f7891
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 60599dcf707f28ef244f0869a7c82d46
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c2047b5550ab6509fcc0050a3991caa5
+  - id: Video-YouTube-Stream
+    media_location: hmReJCupbNU
+    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 994307c9327c4512903ad8492b7a7ecf
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/hmReJCupbNU/default.jpg'
+    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 847ada533a2bd2ff1e49cbba29711e77
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2b79402136f600401c6a69ee6f10545f
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec04_300k.mp4'
+    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 40284469dbb954f96f296782069d2fe5
+inline_embed_id: '64379674lecture4:divide&conquer:vanemdeboastrees33657709'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-4-divide-conquer-van-emde-boas-trees
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-4-divide-conquer-van-emde-boas-trees
+title: 'Lecture 4: Divide & Conquer: van Emde Boas Trees'
 transcript: >-
   <p><span m="60">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4791,61 +4845,7 @@ transcript: >-
   m="4811910">And</span> <span m="4812030">that's</span> <span
   m="4812240">van</span> <span m="4812390">Emde</span> <span
   m="4812480">Boas.</span></p>
-embedded_media:
-  - uid: 652e2c46ec127c799e17f36e9ef7ea3e
-    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: hmReJCupbNU
-  - uid: 424d869ef72417ac2a4f48647c740171
-    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
-    id: hmReJCupbNU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-4-divide-conquer-van-emde-boas-trees/hmReJCupbNU.srt
-  - uid: 2afff3384e87750b2a409296d47f7891
-    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
-    id: hmReJCupbNU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-4-divide-conquer-van-emde-boas-trees/hmReJCupbNU.pdf
-  - uid: 60599dcf707f28ef244f0869a7c82d46
-    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c2047b5550ab6509fcc0050a3991caa5
-    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 994307c9327c4512903ad8492b7a7ecf
-    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: hmReJCupbNU
-  - uid: 847ada533a2bd2ff1e49cbba29711e77
-    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/hmReJCupbNU/default.jpg'
-  - uid: 2b79402136f600401c6a69ee6f10545f
-    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 40284469dbb954f96f296782069d2fe5
-    parent_uid: ee3a8f82c04e8d311c7b102978bd78a9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec04_300k.mp4'
+uid: ee3a8f82c04e8d311c7b102978bd78a9
 type: courses
 layout: video
 ---

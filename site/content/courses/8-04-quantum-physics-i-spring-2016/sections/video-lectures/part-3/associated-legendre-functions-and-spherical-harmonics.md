@@ -1,13 +1,67 @@
 ---
-title: Associated Legendre functions and spherical harmonics
-uid: 1270d689b3c7f8ebc7e77475febeddaf
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Lt2Y6fLJ09Q
+    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 783a2c6750cfad79617fb97b5d31c260
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Lt2Y6fLJ09Q/default.jpg'
+    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: de9f0f2836c2047c47e74fb853872dc7
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Lt2Y6fLJ09Q
+    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fcc20874da537cab37c5520cee2af437
+  - id: Lt2Y6fLJ09Q.srt
+    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/associated-legendre-functions-and-spherical-harmonics/Lt2Y6fLJ09Q.srt
+    title: 3play caption file
+    type: null
+    uid: 10670387191115f61cb164983d7b6f64
+  - id: Lt2Y6fLJ09Q.pdf
+    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/associated-legendre-functions-and-spherical-harmonics/Lt2Y6fLJ09Q.pdf
+    title: 3play pdf file
+    type: null
+    uid: a71554e914621fef9eccef6451f811bf
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 10d529128a872cb01b0c1cd1a28a1561
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 311441d1d97fc1f3837184be8a009e8c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3d8d47131346689cea3995116f88fef0
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec21_s1_300k.mp4'
+    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: da1c67463481e975d31a1e238f5fb880
+inline_embed_id: 83028109associatedlegendrefunctionsandsphericalharmonics32410679
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: associated-legendre-functions-and-spherical-harmonics
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/associated-legendre-functions-and-spherical-harmonics
-short_url: associated-legendre-functions-and-spherical-harmonics
-inline_embed_id: 83028109associatedlegendrefunctionsandsphericalharmonics32410679
-about_this_resource_text: ''
-related_resources_text: ''
+title: Associated Legendre functions and spherical harmonics
 transcript: >-
   <p><span m='390'>PROFESSOR:</span> <span m='585'>We're</span> <span
   m='780'>talking</span> <span m='1140'>about</span> <span
@@ -866,61 +920,7 @@ transcript: >-
   m='1126760'>Plus</span> <span m='1127180'>or</span> <span
   m='1127360'>minus</span> <span m='1127990'>1</span> <span
   m='1128820'>and</span> <span m='1129220'>0.</span> </p>
-embedded_media:
-  - uid: 783a2c6750cfad79617fb97b5d31c260
-    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Lt2Y6fLJ09Q
-  - uid: de9f0f2836c2047c47e74fb853872dc7
-    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Lt2Y6fLJ09Q/default.jpg'
-  - uid: fcc20874da537cab37c5520cee2af437
-    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Lt2Y6fLJ09Q
-  - uid: 10670387191115f61cb164983d7b6f64
-    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
-    id: Lt2Y6fLJ09Q.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/associated-legendre-functions-and-spherical-harmonics/Lt2Y6fLJ09Q.srt
-  - uid: a71554e914621fef9eccef6451f811bf
-    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
-    id: Lt2Y6fLJ09Q.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/associated-legendre-functions-and-spherical-harmonics/Lt2Y6fLJ09Q.pdf
-  - uid: 10d529128a872cb01b0c1cd1a28a1561
-    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 311441d1d97fc1f3837184be8a009e8c
-    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3d8d47131346689cea3995116f88fef0
-    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: da1c67463481e975d31a1e238f5fb880
-    parent_uid: 1270d689b3c7f8ebc7e77475febeddaf
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec21_s1_300k.mp4'
+uid: 1270d689b3c7f8ebc7e77475febeddaf
 type: courses
 layout: video
 ---

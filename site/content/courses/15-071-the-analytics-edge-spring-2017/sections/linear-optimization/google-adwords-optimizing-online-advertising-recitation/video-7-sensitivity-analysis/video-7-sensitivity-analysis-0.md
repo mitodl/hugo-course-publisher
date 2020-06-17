@@ -1,13 +1,62 @@
 ---
-title: 'Video 7: Sensitivity Analysis'
-uid: eed36e7269d25f8457449025261fe117
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 1i5TDkri78Y
+    parent_uid: eed36e7269d25f8457449025261fe117
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5bb956578dc44879509ca89bea6df84d
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 1i5TDkri78Y
+    parent_uid: eed36e7269d25f8457449025261fe117
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2c699296c46c38faa36a1f04ec762bb2
+  - id: 1i5TDkri78Y.srt
+    parent_uid: eed36e7269d25f8457449025261fe117
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-7-sensitivity-analysis/video-7-sensitivity-analysis-0/1i5TDkri78Y.srt
+    title: 3play caption file
+    type: null
+    uid: eb4c94ce471cd810dd1432344c7f777a
+  - id: 1i5TDkri78Y.pdf
+    parent_uid: eed36e7269d25f8457449025261fe117
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-7-sensitivity-analysis/video-7-sensitivity-analysis-0/1i5TDkri78Y.pdf
+    title: 3play pdf file
+    type: null
+    uid: b605e25465ec42dff73c1c4138ea694a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: eed36e7269d25f8457449025261fe117
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3213dc93bc44926bc48023a499670cf9
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: eed36e7269d25f8457449025261fe117
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 05abf18f5f939ab2fd97243a35a80289
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/1i5TDkri78Y/default.jpg'
+    parent_uid: eed36e7269d25f8457449025261fe117
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d6f4cf87bdb394f5db01becec4247e02
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.08_300k.mp4
+    parent_uid: eed36e7269d25f8457449025261fe117
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c0954e9ac1cfbf699572cd2e9fb2dd0b
+inline_embed_id: 85750963video7sensitivityanalysis79943347
 parent_uid: 2d0a67f494dc2dadf7504c69427d6a55
+related_resources_text: ''
+short_url: video-7-sensitivity-analysis-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-7-sensitivity-analysis/video-7-sensitivity-analysis-0
-short_url: video-7-sensitivity-analysis-0
-inline_embed_id: 85750963video7sensitivityanalysis79943347
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 7: Sensitivity Analysis'
 transcript: >-
   <p><span m='4500'>In</span> <span m='4774'>this</span> <span
   m='5048'>video,</span> <span m='5322'>we're</span> <span m='5596'>going</span>
@@ -487,56 +536,7 @@ transcript: >-
   m='381444'>so</span> <span m='381762'>far.</span> </p><p><span
   m='382080'>So</span> <span m='382596'>see</span> <span m='383112'>you</span>
   <span m='383628'>in</span> <span m='384144'>PowerPoint.</span> </p>
-embedded_media:
-  - uid: 5bb956578dc44879509ca89bea6df84d
-    parent_uid: eed36e7269d25f8457449025261fe117
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 1i5TDkri78Y
-  - uid: 2c699296c46c38faa36a1f04ec762bb2
-    parent_uid: eed36e7269d25f8457449025261fe117
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 1i5TDkri78Y
-  - uid: eb4c94ce471cd810dd1432344c7f777a
-    parent_uid: eed36e7269d25f8457449025261fe117
-    id: 1i5TDkri78Y.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-7-sensitivity-analysis/video-7-sensitivity-analysis-0/1i5TDkri78Y.srt
-  - uid: b605e25465ec42dff73c1c4138ea694a
-    parent_uid: eed36e7269d25f8457449025261fe117
-    id: 1i5TDkri78Y.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-7-sensitivity-analysis/video-7-sensitivity-analysis-0/1i5TDkri78Y.pdf
-  - uid: 3213dc93bc44926bc48023a499670cf9
-    parent_uid: eed36e7269d25f8457449025261fe117
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 05abf18f5f939ab2fd97243a35a80289
-    parent_uid: eed36e7269d25f8457449025261fe117
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d6f4cf87bdb394f5db01becec4247e02
-    parent_uid: eed36e7269d25f8457449025261fe117
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/1i5TDkri78Y/default.jpg'
-  - uid: c0954e9ac1cfbf699572cd2e9fb2dd0b
-    parent_uid: eed36e7269d25f8457449025261fe117
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.08_300k.mp4
+uid: eed36e7269d25f8457449025261fe117
 type: courses
 layout: video
 ---

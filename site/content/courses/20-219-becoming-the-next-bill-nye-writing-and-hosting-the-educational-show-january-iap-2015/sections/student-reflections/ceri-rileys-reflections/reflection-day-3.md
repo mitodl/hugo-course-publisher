@@ -1,11 +1,4 @@
 ---
-title: Reflection Day 3
-uid: b1607e6f0fdefab587cb3d3d9444e21d
-parent_uid: 1d988e035e65811fe6d8e82355f3c4a7
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/ceri-rileys-reflections/reflection-day-3
-short_url: reflection-day-3
-inline_embed_id: 74782056reflectionday382267630
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -16,7 +9,69 @@ about_this_resource_text: >-
   Creative Commons BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: DpqY4j3nK3A
+    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d0c97a93ce10f44b91abbb1590308aa3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/DpqY4j3nK3A/default.jpg'
+    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d1c939105d64039b40d247a1b5af9274
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: DpqY4j3nK3A
+    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 989a7ce6f1d4fd87f0d76558156ac8ab
+  - id: DpqY4j3nK3A.srt
+    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/ceri-rileys-reflections/reflection-day-3/DpqY4j3nK3A.srt
+    title: 3play caption file
+    type: null
+    uid: 53f4409c001b3b5f1b94e274509d6a6a
+  - id: DpqY4j3nK3A.pdf
+    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/ceri-rileys-reflections/reflection-day-3/DpqY4j3nK3A.pdf
+    title: 3play pdf file
+    type: null
+    uid: ebbf21d2836d24f191de089be5988c48
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2f5de11e54f84dce4deec7d834c64775
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 38f8749e89eee5f290e25712d1f072be
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d80bb2d61becc3d7aa32a73fd47789a9
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_CR_D03_Reflections_360p.mp4
+    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: aaf4cfb49b862c4c6c4b98986f66b138
+inline_embed_id: 74782056reflectionday382267630
+parent_uid: 1d988e035e65811fe6d8e82355f3c4a7
 related_resources_text: ''
+short_url: reflection-day-3
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/ceri-rileys-reflections/reflection-day-3
+title: Reflection Day 3
 transcript: >-
   <p><span m="1230">SUBJECT: So</span> <span m="1550">today's</span> <span
   m="1990">class</span> <span m="2270">reminded</span> <span m="2840">me</span>
@@ -358,62 +413,7 @@ transcript: >-
   m="299190">help</span> <span m="299460">with</span> <span
   m="299640">anything,</span> <span m="300530">as</span> <span
   m="300810">always.</span></p>
-embedded_media:
-  - uid: d0c97a93ce10f44b91abbb1590308aa3
-    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: DpqY4j3nK3A
-  - uid: d1c939105d64039b40d247a1b5af9274
-    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/DpqY4j3nK3A/default.jpg'
-  - uid: 989a7ce6f1d4fd87f0d76558156ac8ab
-    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: DpqY4j3nK3A
-  - uid: 53f4409c001b3b5f1b94e274509d6a6a
-    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
-    id: DpqY4j3nK3A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/ceri-rileys-reflections/reflection-day-3/DpqY4j3nK3A.srt
-  - uid: ebbf21d2836d24f191de089be5988c48
-    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
-    id: DpqY4j3nK3A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/ceri-rileys-reflections/reflection-day-3/DpqY4j3nK3A.pdf
-  - uid: 2f5de11e54f84dce4deec7d834c64775
-    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 38f8749e89eee5f290e25712d1f072be
-    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d80bb2d61becc3d7aa32a73fd47789a9
-    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: aaf4cfb49b862c4c6c4b98986f66b138
-    parent_uid: b1607e6f0fdefab587cb3d3d9444e21d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_CR_D03_Reflections_360p.mp4
+uid: b1607e6f0fdefab587cb3d3d9444e21d
 type: courses
 layout: video
 ---

@@ -1,13 +1,62 @@
 ---
-title: Using Questionnaires to Customize Course Content
-uid: e24fe9f225ca69204a13c5d19bd65a9d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 7Knpp3AIteQ
+    parent_uid: e24fe9f225ca69204a13c5d19bd65a9d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2331f4b595639c1d009a8dcf91643d30
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7Knpp3AIteQ/default.jpg'
+    parent_uid: e24fe9f225ca69204a13c5d19bd65a9d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 89a4e799adc762de5c35ec4e633c7c4d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7Knpp3AIteQ
+    parent_uid: e24fe9f225ca69204a13c5d19bd65a9d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bd4a70f18195c1897df402784d97ab7a
+  - id: 7Knpp3AIteQ.srt
+    parent_uid: e24fe9f225ca69204a13c5d19bd65a9d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/using-questionnaires-to-customize-course-content/7Knpp3AIteQ.srt
+    title: 3play caption file
+    type: null
+    uid: 029b319941ff2c05dd2639f1e18bf9fd
+  - id: 7Knpp3AIteQ.pdf
+    parent_uid: e24fe9f225ca69204a13c5d19bd65a9d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/using-questionnaires-to-customize-course-content/7Knpp3AIteQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: eb866fdc7a4625cd10ed9bee8ebde45c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e24fe9f225ca69204a13c5d19bd65a9d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9b80945a0860c63111d3e8da9f2d3d69
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e24fe9f225ca69204a13c5d19bd65a9d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e791806ae3607d77faa505924c399121
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator08_Questionnaires_300k.mp4
+    parent_uid: e24fe9f225ca69204a13c5d19bd65a9d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c096f8143d5241de2f6445f98c043a8c
+inline_embed_id: 76834139usingquestionnairestocustomizecoursecontent34133790
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
+related_resources_text: ''
+short_url: using-questionnaires-to-customize-course-content
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/using-questionnaires-to-customize-course-content
-short_url: using-questionnaires-to-customize-course-content
-inline_embed_id: 76834139usingquestionnairestocustomizecoursecontent34133790
-about_this_resource_text: ''
-related_resources_text: ''
+title: Using Questionnaires to Customize Course Content
 transcript: >-
   <p><span m='5550'>YEN-JIE LEE:</span> <span m='5760'>I</span> <span
   m='5970'>try</span> <span m='6210'>to</span> <span m='6400'>include</span>
@@ -151,56 +200,7 @@ transcript: >-
   m='155290'>fit</span> <span m='155560'>the</span> <span m='155670'>need</span>
   <span m='155970'>of</span> <span m='156690'>the</span> <span
   m='156790'>class.</span> </p>
-embedded_media:
-  - uid: 2331f4b595639c1d009a8dcf91643d30
-    parent_uid: e24fe9f225ca69204a13c5d19bd65a9d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 7Knpp3AIteQ
-  - uid: 89a4e799adc762de5c35ec4e633c7c4d
-    parent_uid: e24fe9f225ca69204a13c5d19bd65a9d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7Knpp3AIteQ/default.jpg'
-  - uid: bd4a70f18195c1897df402784d97ab7a
-    parent_uid: e24fe9f225ca69204a13c5d19bd65a9d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7Knpp3AIteQ
-  - uid: 029b319941ff2c05dd2639f1e18bf9fd
-    parent_uid: e24fe9f225ca69204a13c5d19bd65a9d
-    id: 7Knpp3AIteQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/using-questionnaires-to-customize-course-content/7Knpp3AIteQ.srt
-  - uid: eb866fdc7a4625cd10ed9bee8ebde45c
-    parent_uid: e24fe9f225ca69204a13c5d19bd65a9d
-    id: 7Knpp3AIteQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/using-questionnaires-to-customize-course-content/7Knpp3AIteQ.pdf
-  - uid: 9b80945a0860c63111d3e8da9f2d3d69
-    parent_uid: e24fe9f225ca69204a13c5d19bd65a9d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e791806ae3607d77faa505924c399121
-    parent_uid: e24fe9f225ca69204a13c5d19bd65a9d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c096f8143d5241de2f6445f98c043a8c
-    parent_uid: e24fe9f225ca69204a13c5d19bd65a9d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator08_Questionnaires_300k.mp4
+uid: e24fe9f225ca69204a13c5d19bd65a9d
 type: courses
 layout: video
 ---

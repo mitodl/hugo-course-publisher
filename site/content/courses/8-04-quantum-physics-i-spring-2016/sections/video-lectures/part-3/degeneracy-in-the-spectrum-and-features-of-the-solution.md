@@ -1,13 +1,67 @@
 ---
-title: Degeneracy in the spectrum and features of the solution
-uid: b2b03a31092a37776797ee7921092c0d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Ot9OjT34gkA
+    parent_uid: b2b03a31092a37776797ee7921092c0d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 83483872a010276d2131e056f9d85c79
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Ot9OjT34gkA/default.jpg'
+    parent_uid: b2b03a31092a37776797ee7921092c0d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 38c196dc6374e1f01fc4e3a7194bcf08
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Ot9OjT34gkA
+    parent_uid: b2b03a31092a37776797ee7921092c0d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 976d4f1655fcb05db4c098c40a4ef797
+  - id: Ot9OjT34gkA.srt
+    parent_uid: b2b03a31092a37776797ee7921092c0d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/degeneracy-in-the-spectrum-and-features-of-the-solution/Ot9OjT34gkA.srt
+    title: 3play caption file
+    type: null
+    uid: 45dc8b257b4ffbc78b754cf347b2df8e
+  - id: Ot9OjT34gkA.pdf
+    parent_uid: b2b03a31092a37776797ee7921092c0d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/degeneracy-in-the-spectrum-and-features-of-the-solution/Ot9OjT34gkA.pdf
+    title: 3play pdf file
+    type: null
+    uid: b3c61f1e8037637fce8317a9f32c00d5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b2b03a31092a37776797ee7921092c0d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d271f1f2de6cd5308a63db2f484fdefe
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b2b03a31092a37776797ee7921092c0d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 955366fba9ecbc39a39a04f93da52296
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: b2b03a31092a37776797ee7921092c0d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4dc84705718cc1d093861bfb51cb3ff0
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec23_s2_300k.mp4'
+    parent_uid: b2b03a31092a37776797ee7921092c0d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: edf21db82b3f8ca8fd6c1f0216f0b83b
+inline_embed_id: 44480727degeneracyinthespectrumandfeaturesofthesolution6662376
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: degeneracy-in-the-spectrum-and-features-of-the-solution
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/degeneracy-in-the-spectrum-and-features-of-the-solution
-short_url: degeneracy-in-the-spectrum-and-features-of-the-solution
-inline_embed_id: 44480727degeneracyinthespectrumandfeaturesofthesolution6662376
-about_this_resource_text: ''
-related_resources_text: ''
+title: Degeneracy in the spectrum and features of the solution
 transcript: >-
   <p><span m='770'>PROFESSOR:</span> <span m='875'>If</span> <span
   m='980'>you</span> <span m='1160'>tell</span> <span m='1460'>someone</span>
@@ -677,61 +731,7 @@ transcript: >-
   m='855960'>there,</span> <span m='856500'>and</span> <span
   m='857050'>we</span> <span m='857270'>should</span> <span
   m='857570'>understand.</span> </p>
-embedded_media:
-  - uid: 83483872a010276d2131e056f9d85c79
-    parent_uid: b2b03a31092a37776797ee7921092c0d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Ot9OjT34gkA
-  - uid: 38c196dc6374e1f01fc4e3a7194bcf08
-    parent_uid: b2b03a31092a37776797ee7921092c0d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Ot9OjT34gkA/default.jpg'
-  - uid: 976d4f1655fcb05db4c098c40a4ef797
-    parent_uid: b2b03a31092a37776797ee7921092c0d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Ot9OjT34gkA
-  - uid: 45dc8b257b4ffbc78b754cf347b2df8e
-    parent_uid: b2b03a31092a37776797ee7921092c0d
-    id: Ot9OjT34gkA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/degeneracy-in-the-spectrum-and-features-of-the-solution/Ot9OjT34gkA.srt
-  - uid: b3c61f1e8037637fce8317a9f32c00d5
-    parent_uid: b2b03a31092a37776797ee7921092c0d
-    id: Ot9OjT34gkA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/degeneracy-in-the-spectrum-and-features-of-the-solution/Ot9OjT34gkA.pdf
-  - uid: d271f1f2de6cd5308a63db2f484fdefe
-    parent_uid: b2b03a31092a37776797ee7921092c0d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 955366fba9ecbc39a39a04f93da52296
-    parent_uid: b2b03a31092a37776797ee7921092c0d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4dc84705718cc1d093861bfb51cb3ff0
-    parent_uid: b2b03a31092a37776797ee7921092c0d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: edf21db82b3f8ca8fd6c1f0216f0b83b
-    parent_uid: b2b03a31092a37776797ee7921092c0d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec23_s2_300k.mp4'
+uid: b2b03a31092a37776797ee7921092c0d
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: Indeterminate Forms
-uid: 35f9656db881d40a13d8949975a0dd18
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: bnhIRhnBa1A
+    parent_uid: 35f9656db881d40a13d8949975a0dd18
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6e1bef48a451a0e4c96b46ed58c8dfe2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/bnhIRhnBa1A/default.jpg'
+    parent_uid: 35f9656db881d40a13d8949975a0dd18
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 661df0b71af153db6a7db5f2fc64925a
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/indeterminate-forms/id414308064?i=90333551
+    parent_uid: 35f9656db881d40a13d8949975a0dd18
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2f5f918aea3896bc7ae83ed4697ab9ef
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_69_300k.mp4'
+    parent_uid: 35f9656db881d40a13d8949975a0dd18
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 59ef599af0e17ba305eacdabeac2b1b0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: bnhIRhnBa1A
+    parent_uid: 35f9656db881d40a13d8949975a0dd18
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1ebe495d4e56311d59671edc5a3af8c9
+  - id: bnhIRhnBa1A.srt
+    parent_uid: 35f9656db881d40a13d8949975a0dd18
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/indeterminate-forms/bnhIRhnBa1A.srt
+    title: 3play caption file
+    type: null
+    uid: d60cd8da6cda0e97cd7dacf78e60672e
+  - id: bnhIRhnBa1A.pdf
+    parent_uid: 35f9656db881d40a13d8949975a0dd18
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/indeterminate-forms/bnhIRhnBa1A.pdf
+    title: 3play pdf file
+    type: null
+    uid: bfc44471a68b3eb5f9674eceb305961a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 35f9656db881d40a13d8949975a0dd18
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 29c0ceec940958b8a4f282238ba5bb1d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 35f9656db881d40a13d8949975a0dd18
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bd7ecabdcf967a13a72943d4a228bf6c
+inline_embed_id: 70927078indeterminateforms13860640
 parent_uid: 6cc72b08f8717a2d7b737df7f698c876
+related_resources_text: ''
+short_url: indeterminate-forms
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/indeterminate-forms
-short_url: indeterminate-forms
-inline_embed_id: 70927078indeterminateforms13860640
-about_this_resource_text: ''
-related_resources_text: ''
+title: Indeterminate Forms
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='6800'>Hi.</span> <span
   m='7300'>Welcome</span> <span m='7680'>back</span> <span m='7890'>to</span>
@@ -774,62 +829,7 @@ transcript: >-
   m='697700'>indeterminate</span> <span m='698130'>exponential</span> <span
   m='698710'>forms. And</span> <span m='699510'>I'll</span> <span
   m='699600'>end</span> <span m='699800'>there.</span> </p>
-embedded_media:
-  - uid: 6e1bef48a451a0e4c96b46ed58c8dfe2
-    parent_uid: 35f9656db881d40a13d8949975a0dd18
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: bnhIRhnBa1A
-  - uid: 661df0b71af153db6a7db5f2fc64925a
-    parent_uid: 35f9656db881d40a13d8949975a0dd18
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/bnhIRhnBa1A/default.jpg'
-  - uid: 2f5f918aea3896bc7ae83ed4697ab9ef
-    parent_uid: 35f9656db881d40a13d8949975a0dd18
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/indeterminate-forms/id414308064?i=90333551
-  - uid: 59ef599af0e17ba305eacdabeac2b1b0
-    parent_uid: 35f9656db881d40a13d8949975a0dd18
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_69_300k.mp4'
-  - uid: 1ebe495d4e56311d59671edc5a3af8c9
-    parent_uid: 35f9656db881d40a13d8949975a0dd18
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: bnhIRhnBa1A
-  - uid: d60cd8da6cda0e97cd7dacf78e60672e
-    parent_uid: 35f9656db881d40a13d8949975a0dd18
-    id: bnhIRhnBa1A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/indeterminate-forms/bnhIRhnBa1A.srt
-  - uid: bfc44471a68b3eb5f9674eceb305961a
-    parent_uid: 35f9656db881d40a13d8949975a0dd18
-    id: bnhIRhnBa1A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/indeterminate-forms/bnhIRhnBa1A.pdf
-  - uid: 29c0ceec940958b8a4f282238ba5bb1d
-    parent_uid: 35f9656db881d40a13d8949975a0dd18
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bd7ecabdcf967a13a72943d4a228bf6c
-    parent_uid: 35f9656db881d40a13d8949975a0dd18
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 35f9656db881d40a13d8949975a0dd18
 type: courses
 layout: video
 ---

@@ -1,18 +1,90 @@
 ---
-title: 'Lecture 23: Work, Probability'
-uid: 7aeca319306fe55cf8f429cbcff600ac
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-23-work
-short_url: lecture-23-work
-inline_embed_id: '26371079lecture23:work,probability1880849'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Work, average value,
   probability</p> <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec23.jpg
+    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-23-work/lec23.jpg
+    title: Lecture 23
+    type: null
+    uid: 103dfe605dc402038733354973d31297
+  - id: Video-YouTube-Stream
+    media_location: R9a_NHXrBcg
+    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b658cbce744131156f285ca2a18d19b5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/R9a_NHXrBcg/default.jpg'
+    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9313e9c589c5566c64d23adbbf5afef8
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f2d964010f69dfdc960fe68cbe1e63ef
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec23_300k.mp4'
+    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3f20fcd59d86d3623fcc326d52f6802a
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: c99b2eae7a070f53562c0e804acb44de
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 44d688a709b5aefd0d3cbf93307f4efc
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: R9a_NHXrBcg
+    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2007f0935f987185ca238da077847cfa
+  - id: R9a_NHXrBcg.srt
+    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-23-work/R9a_NHXrBcg.srt
+    title: 3play caption file
+    type: null
+    uid: 69443d7b80629076388f63449075519d
+  - id: R9a_NHXrBcg.pdf
+    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-23-work/R9a_NHXrBcg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3b78ffec3fcb87ded799efa6305d3865
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: decfa0ef10ed9afe9d1dbcd31cdd5bc0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5ad9f9d31b3d48e72876e1efa8f20b7c
+inline_embed_id: '26371079lecture23:work,probability1880849'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/c9b0814986c30ee6aca81d0c9b3614d6">PDF -
   2.2MB</a>)</p></div>
+short_url: lecture-23-work
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-23-work
+title: 'Lecture 23: Work, Probability'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following content</span> <span
   m='1270'>is provided</span> <span m='1420'>under</span> <span
@@ -2573,79 +2645,7 @@ transcript: >-
   m='2912390'>way.</span> <span m='2912680'>We'll</span> <span
   m='2912810'>find</span> <span m='2913100'>out</span> <span
   m='2913660'>next</span> <span m='2913990'>time.</span> </p>
-embedded_media:
-  - uid: 103dfe605dc402038733354973d31297
-    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
-    id: lec23.jpg
-    title: Lecture 23
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-23-work/lec23.jpg
-  - uid: b658cbce744131156f285ca2a18d19b5
-    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: R9a_NHXrBcg
-  - uid: 9313e9c589c5566c64d23adbbf5afef8
-    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/R9a_NHXrBcg/default.jpg'
-  - uid: f2d964010f69dfdc960fe68cbe1e63ef
-    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: 3f20fcd59d86d3623fcc326d52f6802a
-    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec23_300k.mp4'
-  - uid: c99b2eae7a070f53562c0e804acb44de
-    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 44d688a709b5aefd0d3cbf93307f4efc
-    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 2007f0935f987185ca238da077847cfa
-    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: R9a_NHXrBcg
-  - uid: 69443d7b80629076388f63449075519d
-    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
-    id: R9a_NHXrBcg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-23-work/R9a_NHXrBcg.srt
-  - uid: 3b78ffec3fcb87ded799efa6305d3865
-    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
-    id: R9a_NHXrBcg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-23-work/R9a_NHXrBcg.pdf
-  - uid: decfa0ef10ed9afe9d1dbcd31cdd5bc0
-    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5ad9f9d31b3d48e72876e1efa8f20b7c
-    parent_uid: 7aeca319306fe55cf8f429cbcff600ac
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7aeca319306fe55cf8f429cbcff600ac
 type: courses
 layout: video
 ---

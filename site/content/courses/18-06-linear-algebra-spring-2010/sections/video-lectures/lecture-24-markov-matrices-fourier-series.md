@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 24: Markov matrices; fourier series'
-uid: f7be9e0b3fedac90071a0f982ac10293
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24-markov-matrices-fourier-series
-short_url: lecture-24-markov-matrices-fourier-series
-inline_embed_id: '27027154lecture24:markovmatrices;fourierseries83423210'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L24.jpg
+    parent_uid: f7be9e0b3fedac90071a0f982ac10293
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24-markov-matrices-fourier-series/18.06_L24.jpg
+    title: 18.06_L24.jpg
+    type: null
+    uid: e5f2b96d7ab78c048157bd74c8add5f7
+  - id: Video-YouTube-Stream
+    media_location: lGGDIGizcQ0
+    parent_uid: f7be9e0b3fedac90071a0f982ac10293
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5e5df2444c2016e7d092a5e7608e9b45
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: f7be9e0b3fedac90071a0f982ac10293
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: edc700fed598d3a9db871c21baa42157
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/24.mp4'
+    parent_uid: f7be9e0b3fedac90071a0f982ac10293
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cedb5f2cce695c110220eae88dc44385
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: f7be9e0b3fedac90071a0f982ac10293
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 71c0d4e5040487e1e04c80291ad7ef21
+  - id: Thumbnail-OCW-JPG
+    parent_uid: f7be9e0b3fedac90071a0f982ac10293
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: db3cbe72a15f0aa2a950d8044f6ce7f5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/lGGDIGizcQ0/default.jpg'
+    parent_uid: f7be9e0b3fedac90071a0f982ac10293
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c0d6547947c89b6b51a7fecc0824ea23
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: lGGDIGizcQ0
+    parent_uid: f7be9e0b3fedac90071a0f982ac10293
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1456ae2121008739ada9a2aeda6e999c
+  - id: lGGDIGizcQ0.srt
+    parent_uid: f7be9e0b3fedac90071a0f982ac10293
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24-markov-matrices-fourier-series/lGGDIGizcQ0.srt
+    title: 3play caption file
+    type: null
+    uid: 82cfb3a5759673fdd3ad2c0a9bdc8880
+  - id: lGGDIGizcQ0.pdf
+    parent_uid: f7be9e0b3fedac90071a0f982ac10293
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24-markov-matrices-fourier-series/lGGDIGizcQ0.pdf
+    title: 3play pdf file
+    type: null
+    uid: a77a2a3a8c01d73741727acb73bffb69
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f7be9e0b3fedac90071a0f982ac10293
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e2c6594c523bf76777bbf2933d4b1c64
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f7be9e0b3fedac90071a0f982ac10293
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9db287b4e3b327816b2bd88225927683
+inline_embed_id: '27027154lecture24:markovmatrices;fourierseries83423210'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-24-markov-matrices-fourier-series
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24-markov-matrices-fourier-series
+title: 'Lecture 24: Markov matrices; fourier series'
 transcript: >-
   <p><span m='0'>--</span> <span m='7950'>two,</span> <span m='8580'>one</span>
   <span m='9610'>and</span> <span m='10190'>--</span> <span
@@ -3101,79 +3173,7 @@ transcript: >-
   m='3059200'>Okay,</span> <span m='3059520'>see</span> <span
   m='3059740'>you</span> <span m='3059840'>Monday.</span> </p><p><span
   m='3060590'>Thanks.</span> </p>
-embedded_media:
-  - uid: e5f2b96d7ab78c048157bd74c8add5f7
-    parent_uid: f7be9e0b3fedac90071a0f982ac10293
-    id: 18.06_L24.jpg
-    title: 18.06_L24.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24-markov-matrices-fourier-series/18.06_L24.jpg
-  - uid: 5e5df2444c2016e7d092a5e7608e9b45
-    parent_uid: f7be9e0b3fedac90071a0f982ac10293
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lGGDIGizcQ0
-  - uid: edc700fed598d3a9db871c21baa42157
-    parent_uid: f7be9e0b3fedac90071a0f982ac10293
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: cedb5f2cce695c110220eae88dc44385
-    parent_uid: f7be9e0b3fedac90071a0f982ac10293
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/24.mp4'
-  - uid: 71c0d4e5040487e1e04c80291ad7ef21
-    parent_uid: f7be9e0b3fedac90071a0f982ac10293
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: db3cbe72a15f0aa2a950d8044f6ce7f5
-    parent_uid: f7be9e0b3fedac90071a0f982ac10293
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: c0d6547947c89b6b51a7fecc0824ea23
-    parent_uid: f7be9e0b3fedac90071a0f982ac10293
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lGGDIGizcQ0/default.jpg'
-  - uid: 1456ae2121008739ada9a2aeda6e999c
-    parent_uid: f7be9e0b3fedac90071a0f982ac10293
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lGGDIGizcQ0
-  - uid: 82cfb3a5759673fdd3ad2c0a9bdc8880
-    parent_uid: f7be9e0b3fedac90071a0f982ac10293
-    id: lGGDIGizcQ0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24-markov-matrices-fourier-series/lGGDIGizcQ0.srt
-  - uid: a77a2a3a8c01d73741727acb73bffb69
-    parent_uid: f7be9e0b3fedac90071a0f982ac10293
-    id: lGGDIGizcQ0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24-markov-matrices-fourier-series/lGGDIGizcQ0.pdf
-  - uid: e2c6594c523bf76777bbf2933d4b1c64
-    parent_uid: f7be9e0b3fedac90071a0f982ac10293
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9db287b4e3b327816b2bd88225927683
-    parent_uid: f7be9e0b3fedac90071a0f982ac10293
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f7be9e0b3fedac90071a0f982ac10293
 type: courses
 layout: video
 ---

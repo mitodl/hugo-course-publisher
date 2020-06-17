@@ -1,13 +1,67 @@
 ---
-title: 'PS.1.3 Worked Example: Braking Car'
-uid: fe8b455cdf5fd088086d719c83d5d1ef
+about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Anna Frebel</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: pb5hUGBjS3A
+    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 586ab1fb09766d29ecf0082bb52b16bf
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/pb5hUGBjS3A/default.jpg'
+    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: db589b417ed1e92373d58e5d7d4cda10
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: pb5hUGBjS3A
+    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4c71e17cb549aa96dd21eb7a70a421c2
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9c3bbfb67ca5819a472218ebd496b02d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W01PS03_360p.mp4'
+    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c855f8d73a2a4c5134cc1c6dc81ab223
+  - id: pb5hUGBjS3A.srt
+    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.3-worked-example-braking-car/ps.1.3-worked-example-braking-car/pb5hUGBjS3A.srt
+    title: 3play caption file
+    type: null
+    uid: 296f7aadf3d73f654b20054b91a21563
+  - id: pb5hUGBjS3A.pdf
+    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.3-worked-example-braking-car/ps.1.3-worked-example-braking-car/pb5hUGBjS3A.pdf
+    title: 3play pdf file
+    type: null
+    uid: ce4d39be7bebe6947698946da5068f3c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a68a241d013f7885bd42637cd489b1fc
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5da864466da2f87328d8cd56f64b2ed7
+inline_embed_id: 7361321ps.1.3workedexamplebrakingcar53658773
 parent_uid: c00c7194c0cea091fd9bc5f3ba49fe85
+related_resources_text: ''
+short_url: ps.1.3-worked-example-braking-car
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.3-worked-example-braking-car/ps.1.3-worked-example-braking-car
-short_url: ps.1.3-worked-example-braking-car
-inline_embed_id: 7361321ps.1.3workedexamplebrakingcar53658773
-about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Anna Frebel</p>'
-related_resources_text: ''
+title: 'PS.1.3 Worked Example: Braking Car'
 transcript: >-
   <p><span m='3810'>PROFESSOR:</span> <span m='3870'>We</span> <span
   m='3930'>all</span> <span m='4080'>regularly</span> <span
@@ -378,61 +432,7 @@ transcript: >-
   m='401190'>the</span> <span m='401270'>velocity</span> <span
   m='401750'>of</span> <span m='401860'>v</span> <span m='402070'>not.</span>
   </p>
-embedded_media:
-  - uid: 586ab1fb09766d29ecf0082bb52b16bf
-    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: pb5hUGBjS3A
-  - uid: db589b417ed1e92373d58e5d7d4cda10
-    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/pb5hUGBjS3A/default.jpg'
-  - uid: 4c71e17cb549aa96dd21eb7a70a421c2
-    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: pb5hUGBjS3A
-  - uid: 9c3bbfb67ca5819a472218ebd496b02d
-    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: c855f8d73a2a4c5134cc1c6dc81ab223
-    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W01PS03_360p.mp4'
-  - uid: 296f7aadf3d73f654b20054b91a21563
-    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
-    id: pb5hUGBjS3A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.3-worked-example-braking-car/ps.1.3-worked-example-braking-car/pb5hUGBjS3A.srt
-  - uid: ce4d39be7bebe6947698946da5068f3c
-    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
-    id: pb5hUGBjS3A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.3-worked-example-braking-car/ps.1.3-worked-example-braking-car/pb5hUGBjS3A.pdf
-  - uid: a68a241d013f7885bd42637cd489b1fc
-    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5da864466da2f87328d8cd56f64b2ed7
-    parent_uid: fe8b455cdf5fd088086d719c83d5d1ef
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: fe8b455cdf5fd088086d719c83d5d1ef
 type: courses
 layout: video
 ---

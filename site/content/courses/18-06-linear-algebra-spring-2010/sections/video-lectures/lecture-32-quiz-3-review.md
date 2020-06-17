@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 32: Quiz 3 review'
-uid: f4caeb4f5cbc108c5335e31427987a7e
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-32-quiz-3-review
-short_url: lecture-32-quiz-3-review
-inline_embed_id: '42335213lecture32:quiz3review83951640'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L32.jpg
+    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-32-quiz-3-review/18.06_L32.jpg
+    title: 18.06_L32.jpg
+    type: null
+    uid: cb9f019f78f3a2398ebd1957af672aed
+  - id: Video-YouTube-Stream
+    media_location: HgC1l_6ySkc
+    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7171c057b3608b9984d7563ea6e7c04d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/HgC1l_6ySkc/default.jpg'
+    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9c98e99d104f7a065e40edbbd9c286f4
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 56997b90b87dedcaea6813a1e8ff3793
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/32.mp4'
+    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9dd24e72b9e28d723212cc946733f2e5
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 7bedcb775511e13e2c3faf52a98b3d23
+  - id: Thumbnail-OCW-JPG
+    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: dd816ace22d401bb32fd915730e541dd
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: HgC1l_6ySkc
+    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bd9964c68f941187e30eeb9760850360
+  - id: HgC1l_6ySkc.srt
+    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-32-quiz-3-review/HgC1l_6ySkc.srt
+    title: 3play caption file
+    type: null
+    uid: b30cd6e0d9325c04899133e39acb64b4
+  - id: HgC1l_6ySkc.pdf
+    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-32-quiz-3-review/HgC1l_6ySkc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5b675f448f72e8c01d2d0a1ed62b98df
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6e71ce0b0c5745958dfd4900e941b296
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0daa7e181d764d236486a8cee74a156d
+inline_embed_id: '42335213lecture32:quiz3review83951640'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-32-quiz-3-review
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-32-quiz-3-review
+title: 'Lecture 32: Quiz 3 review'
 transcript: >-
   <p><span m="7930">OK,</span> <span m="8450">here</span> <span
   m="8750">we</span> <span m="8860">go</span> <span m="9120">with,</span> <span
@@ -2595,79 +2667,7 @@ transcript: >-
   m="2814860">so</span> <span m="2815010">good</span> <span
   m="2815190">luck</span> <span m="2815430">on</span> <span
   m="2815550">the</span> <span m="2815680">quiz.</span></p>
-embedded_media:
-  - uid: cb9f019f78f3a2398ebd1957af672aed
-    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
-    id: 18.06_L32.jpg
-    title: 18.06_L32.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-32-quiz-3-review/18.06_L32.jpg
-  - uid: 7171c057b3608b9984d7563ea6e7c04d
-    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: HgC1l_6ySkc
-  - uid: 9c98e99d104f7a065e40edbbd9c286f4
-    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/HgC1l_6ySkc/default.jpg'
-  - uid: 56997b90b87dedcaea6813a1e8ff3793
-    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 9dd24e72b9e28d723212cc946733f2e5
-    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/32.mp4'
-  - uid: 7bedcb775511e13e2c3faf52a98b3d23
-    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: dd816ace22d401bb32fd915730e541dd
-    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: bd9964c68f941187e30eeb9760850360
-    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: HgC1l_6ySkc
-  - uid: b30cd6e0d9325c04899133e39acb64b4
-    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
-    id: HgC1l_6ySkc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-32-quiz-3-review/HgC1l_6ySkc.srt
-  - uid: 5b675f448f72e8c01d2d0a1ed62b98df
-    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
-    id: HgC1l_6ySkc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-32-quiz-3-review/HgC1l_6ySkc.pdf
-  - uid: 6e71ce0b0c5745958dfd4900e941b296
-    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0daa7e181d764d236486a8cee74a156d
-    parent_uid: f4caeb4f5cbc108c5335e31427987a7e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f4caeb4f5cbc108c5335e31427987a7e
 type: courses
 layout: video
 ---

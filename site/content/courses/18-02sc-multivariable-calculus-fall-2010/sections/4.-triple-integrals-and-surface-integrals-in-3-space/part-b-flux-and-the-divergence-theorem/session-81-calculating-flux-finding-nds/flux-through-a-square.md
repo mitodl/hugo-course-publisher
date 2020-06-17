@@ -1,13 +1,68 @@
 ---
-title: Flux Through Surfaces
-uid: b0c4e68e7188557e36976f635112f32d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '-PGcTRLh1u4'
+    parent_uid: b0c4e68e7188557e36976f635112f32d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 127ac238ee09a4451e97eb7c2e7c3080
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-PGcTRLh1u4/default.jpg'
+    parent_uid: b0c4e68e7188557e36976f635112f32d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f2e5ece53a391ab771819eb3546129e0
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_58_300k.mp4'
+    parent_uid: b0c4e68e7188557e36976f635112f32d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d32af2d0b46583b649b60fd92b68a43c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/flux-through-surfaces/id414355340?i=90322859
+    parent_uid: b0c4e68e7188557e36976f635112f32d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9bfd390a3d24d43c61a112e4f30d31cd
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: '-PGcTRLh1u4'
+    parent_uid: b0c4e68e7188557e36976f635112f32d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d14e016f7db8c9e30eb6a1dd5353c448
+  - id: '-PGcTRLh1u4.srt'
+    parent_uid: b0c4e68e7188557e36976f635112f32d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-81-calculating-flux-finding-nds/flux-through-a-square/-PGcTRLh1u4.srt
+    title: 3play caption file
+    type: null
+    uid: b64743b9022d7f91a4c4187dd9a1ff7b
+  - id: '-PGcTRLh1u4.pdf'
+    parent_uid: b0c4e68e7188557e36976f635112f32d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-81-calculating-flux-finding-nds/flux-through-a-square/-PGcTRLh1u4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3338f78b48ac4a52041ad0be4a06c313
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b0c4e68e7188557e36976f635112f32d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5becf4d6b941c826fbc89b1333027233
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b0c4e68e7188557e36976f635112f32d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f684458ef54188400fe454f980dc5b48
+inline_embed_id: 10968522fluxthroughasquare73846400
 parent_uid: 0dbd561e4c4face87b1afcf29eb32c91
+related_resources_text: ''
+short_url: flux-through-a-square
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-81-calculating-flux-finding-nds/flux-through-a-square
-short_url: flux-through-a-square
-inline_embed_id: 10968522fluxthroughasquare73846400
-about_this_resource_text: ''
-related_resources_text: ''
+title: Flux Through Surfaces
 transcript: >-
   <p><span m="7300">CHRISTINE BREINER: Welcome</span> <span m="7550">back</span>
   <span m="7750">to</span> <span m="7830">recitation.</span> <span
@@ -869,62 +924,7 @@ transcript: >-
   m="678590">I</span> <span m="678720">think</span> <span
   m="679420">that's</span> <span m="679600">where</span> <span
   m="679700">I'll</span> <span m="679750">stop.</span></p>
-embedded_media:
-  - uid: 127ac238ee09a4451e97eb7c2e7c3080
-    parent_uid: b0c4e68e7188557e36976f635112f32d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-PGcTRLh1u4'
-  - uid: f2e5ece53a391ab771819eb3546129e0
-    parent_uid: b0c4e68e7188557e36976f635112f32d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-PGcTRLh1u4/default.jpg'
-  - uid: d32af2d0b46583b649b60fd92b68a43c
-    parent_uid: b0c4e68e7188557e36976f635112f32d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_58_300k.mp4'
-  - uid: 9bfd390a3d24d43c61a112e4f30d31cd
-    parent_uid: b0c4e68e7188557e36976f635112f32d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/flux-through-surfaces/id414355340?i=90322859
-  - uid: d14e016f7db8c9e30eb6a1dd5353c448
-    parent_uid: b0c4e68e7188557e36976f635112f32d
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-PGcTRLh1u4'
-  - uid: b64743b9022d7f91a4c4187dd9a1ff7b
-    parent_uid: b0c4e68e7188557e36976f635112f32d
-    id: '-PGcTRLh1u4.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-81-calculating-flux-finding-nds/flux-through-a-square/-PGcTRLh1u4.srt
-  - uid: 3338f78b48ac4a52041ad0be4a06c313
-    parent_uid: b0c4e68e7188557e36976f635112f32d
-    id: '-PGcTRLh1u4.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-81-calculating-flux-finding-nds/flux-through-a-square/-PGcTRLh1u4.pdf
-  - uid: 5becf4d6b941c826fbc89b1333027233
-    parent_uid: b0c4e68e7188557e36976f635112f32d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f684458ef54188400fe454f980dc5b48
-    parent_uid: b0c4e68e7188557e36976f635112f32d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b0c4e68e7188557e36976f635112f32d
 type: courses
 layout: video
 ---

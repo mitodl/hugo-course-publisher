@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: The Variables'
-uid: 40c9147531cc4a480081accbdfb38bcd
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: HIIclMih_zQ
+    parent_uid: 40c9147531cc4a480081accbdfb38bcd
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4f3dde813f3283601f67d742a892206c
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: HIIclMih_zQ
+    parent_uid: 40c9147531cc4a480081accbdfb38bcd
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f50417944310567d9c1b1651692b518a
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/HIIclMih_zQ/default.jpg'
+    parent_uid: 40c9147531cc4a480081accbdfb38bcd
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 892886c9f12c481bba3d57d0092ca38b
+  - id: HIIclMih_zQ.srt
+    parent_uid: 40c9147531cc4a480081accbdfb38bcd
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-3-the-variables/video-3-the-variables-0/HIIclMih_zQ.srt
+    title: 3play caption file
+    type: null
+    uid: f4ac36d16820a1732397cdef627f129c
+  - id: HIIclMih_zQ.pdf
+    parent_uid: 40c9147531cc4a480081accbdfb38bcd
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-3-the-variables/video-3-the-variables-0/HIIclMih_zQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: a1688e59c55f6210fbd4cf15d1aee3b9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 40c9147531cc4a480081accbdfb38bcd
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 72bff8b3971ab5272db5ec5417f3cd1e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 40c9147531cc4a480081accbdfb38bcd
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3652f83321c3f954872713a9cc48d18a
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.3.05_300k.mp4
+    parent_uid: 40c9147531cc4a480081accbdfb38bcd
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 02be16de6b4cdbcda81cb7f028e025f6
+inline_embed_id: 28281553video3thevariables65178703
 parent_uid: f5fa573c282cd989480a6234fdec7162
+related_resources_text: ''
+short_url: video-3-the-variables-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-3-the-variables/video-3-the-variables-0
-short_url: video-3-the-variables-0
-inline_embed_id: 28281553video3thevariables65178703
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: The Variables'
 transcript: >-
   <p><span m='4500'>To</span> <span m='4801'>build</span> <span
   m='5102'>an</span> <span m='5403'>analytics</span> <span
@@ -261,56 +310,7 @@ transcript: >-
   m='320210'>are</span> <span m='320686'>candidates</span> <span
   m='321162'>for</span> <span m='321638'>case</span> <span
   m='322114'>management.</span> </p>
-embedded_media:
-  - uid: 4f3dde813f3283601f67d742a892206c
-    parent_uid: 40c9147531cc4a480081accbdfb38bcd
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: HIIclMih_zQ
-  - uid: f50417944310567d9c1b1651692b518a
-    parent_uid: 40c9147531cc4a480081accbdfb38bcd
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: HIIclMih_zQ
-  - uid: 892886c9f12c481bba3d57d0092ca38b
-    parent_uid: 40c9147531cc4a480081accbdfb38bcd
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/HIIclMih_zQ/default.jpg'
-  - uid: f4ac36d16820a1732397cdef627f129c
-    parent_uid: 40c9147531cc4a480081accbdfb38bcd
-    id: HIIclMih_zQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-3-the-variables/video-3-the-variables-0/HIIclMih_zQ.srt
-  - uid: a1688e59c55f6210fbd4cf15d1aee3b9
-    parent_uid: 40c9147531cc4a480081accbdfb38bcd
-    id: HIIclMih_zQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-3-the-variables/video-3-the-variables-0/HIIclMih_zQ.pdf
-  - uid: 72bff8b3971ab5272db5ec5417f3cd1e
-    parent_uid: 40c9147531cc4a480081accbdfb38bcd
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3652f83321c3f954872713a9cc48d18a
-    parent_uid: 40c9147531cc4a480081accbdfb38bcd
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 02be16de6b4cdbcda81cb7f028e025f6
-    parent_uid: 40c9147531cc4a480081accbdfb38bcd
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.3.05_300k.mp4
+uid: 40c9147531cc4a480081accbdfb38bcd
 type: courses
 layout: video
 ---

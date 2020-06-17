@@ -1,13 +1,67 @@
 ---
-title: Window Washer Free Body Diagrams
-uid: 03511e0bf3ae55aac546987125865ed7
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: XeTsZhYHY_E
+    parent_uid: 03511e0bf3ae55aac546987125865ed7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 852e0ac31c923e463f4eda02916b1576
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/XeTsZhYHY_E/default.jpg'
+    parent_uid: 03511e0bf3ae55aac546987125865ed7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7d0af070200e4d4c9e8d81f09b5b5f69
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: XeTsZhYHY_E
+    parent_uid: 03511e0bf3ae55aac546987125865ed7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a3ac6d22e235074814f5bdff88590d2c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 03511e0bf3ae55aac546987125865ed7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 69402905d12dea12fe9f1a51d7d31be6
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W02PS01v03_1_360p.mp4'
+    parent_uid: 03511e0bf3ae55aac546987125865ed7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 596f3a0b3220cd85541b79237124a714
+  - id: XeTsZhYHY_E.srt
+    parent_uid: 03511e0bf3ae55aac546987125865ed7
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.3-window-washer-problem/window-washer-free-body-diagrams/XeTsZhYHY_E.srt
+    title: 3play caption file
+    type: null
+    uid: 772cdc4361c6a9a8e96596fb5add272c
+  - id: XeTsZhYHY_E.pdf
+    parent_uid: 03511e0bf3ae55aac546987125865ed7
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.3-window-washer-problem/window-washer-free-body-diagrams/XeTsZhYHY_E.pdf
+    title: 3play pdf file
+    type: null
+    uid: 08ce7ff424ada7f63870dcdf95d25dcd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 03511e0bf3ae55aac546987125865ed7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8593e17504af385bc7fc14c326c8ea36
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 03511e0bf3ae55aac546987125865ed7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 96589ce128cb9aacef4886f8b0f7920a
+inline_embed_id: 45866059windowwasherfreebodydiagrams86054261
 parent_uid: 490e27c79c4c14bb971b8ce6ece1d220
+related_resources_text: ''
+short_url: window-washer-free-body-diagrams
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.3-window-washer-problem/window-washer-free-body-diagrams
-short_url: window-washer-free-body-diagrams
-inline_embed_id: 45866059windowwasherfreebodydiagrams86054261
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
+title: Window Washer Free Body Diagrams
 transcript: >-
   <p><span m='3460'>Let's consider what we call the window washer
   problem.</span> </p><p><span m='6430'>What we have is suspended from some
@@ -169,61 +223,7 @@ transcript: >-
   I'll use this as my system.</span> </p><p><span m='603510'>And I'll write down
   Newton's second law.</span> </p><p><span m='605380'>And we'll be able to solve
   this problem.</span> </p><p></p>
-embedded_media:
-  - uid: 852e0ac31c923e463f4eda02916b1576
-    parent_uid: 03511e0bf3ae55aac546987125865ed7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: XeTsZhYHY_E
-  - uid: 7d0af070200e4d4c9e8d81f09b5b5f69
-    parent_uid: 03511e0bf3ae55aac546987125865ed7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/XeTsZhYHY_E/default.jpg'
-  - uid: a3ac6d22e235074814f5bdff88590d2c
-    parent_uid: 03511e0bf3ae55aac546987125865ed7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: XeTsZhYHY_E
-  - uid: 69402905d12dea12fe9f1a51d7d31be6
-    parent_uid: 03511e0bf3ae55aac546987125865ed7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 596f3a0b3220cd85541b79237124a714
-    parent_uid: 03511e0bf3ae55aac546987125865ed7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W02PS01v03_1_360p.mp4'
-  - uid: 772cdc4361c6a9a8e96596fb5add272c
-    parent_uid: 03511e0bf3ae55aac546987125865ed7
-    id: XeTsZhYHY_E.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.3-window-washer-problem/window-washer-free-body-diagrams/XeTsZhYHY_E.srt
-  - uid: 08ce7ff424ada7f63870dcdf95d25dcd
-    parent_uid: 03511e0bf3ae55aac546987125865ed7
-    id: XeTsZhYHY_E.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.3-window-washer-problem/window-washer-free-body-diagrams/XeTsZhYHY_E.pdf
-  - uid: 8593e17504af385bc7fc14c326c8ea36
-    parent_uid: 03511e0bf3ae55aac546987125865ed7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 96589ce128cb9aacef4886f8b0f7920a
-    parent_uid: 03511e0bf3ae55aac546987125865ed7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 03511e0bf3ae55aac546987125865ed7
 type: courses
 layout: video
 ---

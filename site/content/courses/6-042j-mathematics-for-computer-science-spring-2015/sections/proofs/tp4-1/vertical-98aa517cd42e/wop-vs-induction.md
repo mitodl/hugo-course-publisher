@@ -1,13 +1,73 @@
 ---
-title: 'WOP vs Induction [optional]'
-uid: a1cf65b2d87dc878fad1569717aedc35
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: a1cf65b2d87dc878fad1569717aedc35
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: b1b93858ce02f3050495e3c07ee1b59c
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: a1cf65b2d87dc878fad1569717aedc35
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5de8e245d638e80a0cc3383bb9b8077c
+  - id: Video-YouTube-Stream
+    media_location: K8ZfzNN1miQ
+    parent_uid: a1cf65b2d87dc878fad1569717aedc35
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1ce8b9291d23e55f6f01d0efa1d2d1ae
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/K8ZfzNN1miQ/default.jpg'
+    parent_uid: a1cf65b2d87dc878fad1569717aedc35
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f2af7ed3243b8b7ed1ca641d109e1bdf
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: K8ZfzNN1miQ
+    parent_uid: a1cf65b2d87dc878fad1569717aedc35
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4de7ea2df9b783114cd6278241dc7b99
+  - id: K8ZfzNN1miQ.srt
+    parent_uid: a1cf65b2d87dc878fad1569717aedc35
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-98aa517cd42e/wop-vs-induction/K8ZfzNN1miQ.srt
+    title: 3play caption file
+    type: null
+    uid: 1fa2a2f38aaa2b90547b9bfda195c3c0
+  - id: K8ZfzNN1miQ.pdf
+    parent_uid: a1cf65b2d87dc878fad1569717aedc35
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-98aa517cd42e/wop-vs-induction/K8ZfzNN1miQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 50397e6b2713ab513e2a50d5f8d94ea6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a1cf65b2d87dc878fad1569717aedc35
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 50657efaf67b326493da094068f600e2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a1cf65b2d87dc878fad1569717aedc35
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3a43b61bcb0ae66c9acd565f068778aa
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_WOPvsInduction_ipod.mp4
+    parent_uid: a1cf65b2d87dc878fad1569717aedc35
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5c2d39ac09c4c9daa3dafcdb81784314
+inline_embed_id: 7008579wopvsinductionoptional2964861
 parent_uid: 5f6a10de78bd30e31029095bd5d73d7b
+related_resources_text: ''
+short_url: wop-vs-induction
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-98aa517cd42e/wop-vs-induction
-short_url: wop-vs-induction
-inline_embed_id: 7008579wopvsinductionoptional2964861
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'WOP vs Induction [optional]'
 transcript: >-
   <p><span m='1130'>PROFESSOR: So</span> <span m='1750'>we</span> <span
   m='1850'>come</span> <span m='2060'>to</span> <span m='2170'>the</span> <span
@@ -553,67 +613,7 @@ transcript: >-
   m='466430'>for</span> <span m='466870'>proving</span> <span
   m='467270'>things</span> <span m='467710'>about</span> <span
   m='468320'>non-negative</span> <span m='468970'>integers.</span> </p>
-embedded_media:
-  - uid: b1b93858ce02f3050495e3c07ee1b59c
-    parent_uid: a1cf65b2d87dc878fad1569717aedc35
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 5de8e245d638e80a0cc3383bb9b8077c
-    parent_uid: a1cf65b2d87dc878fad1569717aedc35
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 1ce8b9291d23e55f6f01d0efa1d2d1ae
-    parent_uid: a1cf65b2d87dc878fad1569717aedc35
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: K8ZfzNN1miQ
-  - uid: f2af7ed3243b8b7ed1ca641d109e1bdf
-    parent_uid: a1cf65b2d87dc878fad1569717aedc35
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/K8ZfzNN1miQ/default.jpg'
-  - uid: 4de7ea2df9b783114cd6278241dc7b99
-    parent_uid: a1cf65b2d87dc878fad1569717aedc35
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: K8ZfzNN1miQ
-  - uid: 1fa2a2f38aaa2b90547b9bfda195c3c0
-    parent_uid: a1cf65b2d87dc878fad1569717aedc35
-    id: K8ZfzNN1miQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-98aa517cd42e/wop-vs-induction/K8ZfzNN1miQ.srt
-  - uid: 50397e6b2713ab513e2a50d5f8d94ea6
-    parent_uid: a1cf65b2d87dc878fad1569717aedc35
-    id: K8ZfzNN1miQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-98aa517cd42e/wop-vs-induction/K8ZfzNN1miQ.pdf
-  - uid: 50657efaf67b326493da094068f600e2
-    parent_uid: a1cf65b2d87dc878fad1569717aedc35
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3a43b61bcb0ae66c9acd565f068778aa
-    parent_uid: a1cf65b2d87dc878fad1569717aedc35
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5c2d39ac09c4c9daa3dafcdb81784314
-    parent_uid: a1cf65b2d87dc878fad1569717aedc35
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_WOPvsInduction_ipod.mp4
+uid: a1cf65b2d87dc878fad1569717aedc35
 type: courses
 layout: video
 ---

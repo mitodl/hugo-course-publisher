@@ -1,13 +1,68 @@
 ---
-title: 'Video 1: The Importance of Food and Nutrition'
-uid: b64cfee7074b11d691552d2dd865000f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: rg0TYEdU0TA
+    parent_uid: b64cfee7074b11d691552d2dd865000f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 40309083a7efc8b78810e68a517fc4ec
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: rg0TYEdU0TA
+    parent_uid: b64cfee7074b11d691552d2dd865000f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 496af4d435303d31f566574ecd3bef35
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/rg0TYEdU0TA/default.jpg'
+    parent_uid: b64cfee7074b11d691552d2dd865000f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b5698bce16b17545c880fa1cac362489
+  - id: Y8dMlEv-epg.srt
+    parent_uid: b64cfee7074b11d691552d2dd865000f
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-1-the-importance-of-food-and-nutrition/video-1-the-importance-of-food-and-nutrition-0/Y8dMlEv-epg.srt
+    title: 3play caption file
+    type: null
+    uid: 7aeb80f076138797c9f0e74d77e01fc6
+  - id: Y8dMlEv-epg.pdf
+    parent_uid: b64cfee7074b11d691552d2dd865000f
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-1-the-importance-of-food-and-nutrition/video-1-the-importance-of-food-and-nutrition-0/Y8dMlEv-epg.pdf
+    title: 3play pdf file
+    type: null
+    uid: a684dd9f2bb25a5e70555cba868868d6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b64cfee7074b11d691552d2dd865000f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 94fcbbc3eb1dd97340af2b1074fc602a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b64cfee7074b11d691552d2dd865000f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e46ff2b3d6430108beba46c714657713
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.4.02_300k.mp4
+    parent_uid: b64cfee7074b11d691552d2dd865000f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 870afd4f02064be14f152597129d1752
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/rg0TYEdU0TA/default.jpg'
+    parent_uid: b64cfee7074b11d691552d2dd865000f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 82b4b815e95df0316a82a50af9e3032d
+inline_embed_id: 89468359video1theimportanceoffoodandnutrition91677778
 parent_uid: 4f44f3ee6d9f23a64a2062fef7b59b43
+related_resources_text: ''
+short_url: video-1-the-importance-of-food-and-nutrition-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-1-the-importance-of-food-and-nutrition/video-1-the-importance-of-food-and-nutrition-0
-short_url: video-1-the-importance-of-food-and-nutrition-0
-inline_embed_id: 89468359video1theimportanceoffoodandnutrition91677778
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: The Importance of Food and Nutrition'
 transcript: >-
   <p><span m='9700'>In</span> <span m='10000'>this</span> <span
   m='10300'>first</span> <span m='10600'>recitation,</span> <span
@@ -139,62 +194,7 @@ transcript: >-
   m='131448'>get</span> <span m='131897'>more</span> <span
   m='132345'>familiar</span> <span m='132794'>with</span> <span
   m='133242'>its</span> <span m='133691'>content.</span> </p>
-embedded_media:
-  - uid: 40309083a7efc8b78810e68a517fc4ec
-    parent_uid: b64cfee7074b11d691552d2dd865000f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: rg0TYEdU0TA
-  - uid: 496af4d435303d31f566574ecd3bef35
-    parent_uid: b64cfee7074b11d691552d2dd865000f
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: rg0TYEdU0TA
-  - uid: b5698bce16b17545c880fa1cac362489
-    parent_uid: b64cfee7074b11d691552d2dd865000f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rg0TYEdU0TA/default.jpg'
-  - uid: 7aeb80f076138797c9f0e74d77e01fc6
-    parent_uid: b64cfee7074b11d691552d2dd865000f
-    id: Y8dMlEv-epg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-1-the-importance-of-food-and-nutrition/video-1-the-importance-of-food-and-nutrition-0/Y8dMlEv-epg.srt
-  - uid: a684dd9f2bb25a5e70555cba868868d6
-    parent_uid: b64cfee7074b11d691552d2dd865000f
-    id: Y8dMlEv-epg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-1-the-importance-of-food-and-nutrition/video-1-the-importance-of-food-and-nutrition-0/Y8dMlEv-epg.pdf
-  - uid: 94fcbbc3eb1dd97340af2b1074fc602a
-    parent_uid: b64cfee7074b11d691552d2dd865000f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e46ff2b3d6430108beba46c714657713
-    parent_uid: b64cfee7074b11d691552d2dd865000f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 870afd4f02064be14f152597129d1752
-    parent_uid: b64cfee7074b11d691552d2dd865000f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.4.02_300k.mp4
-  - uid: 82b4b815e95df0316a82a50af9e3032d
-    parent_uid: b64cfee7074b11d691552d2dd865000f
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rg0TYEdU0TA/default.jpg'
+uid: b64cfee7074b11d691552d2dd865000f
 type: courses
 layout: video
 ---

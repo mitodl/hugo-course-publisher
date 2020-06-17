@@ -1,13 +1,73 @@
 ---
-title: Random Walks
-uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 856e92db3b652e293318172c53f8dbc3
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1d6600dc966cc8d6a1239aee753f522c
+  - id: Video-YouTube-Stream
+    media_location: '-j7MoM3P_J8'
+    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d84b8ca2cdfe95e25b920ccde52394d9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-j7MoM3P_J8/default.jpg'
+    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 335bc23e4f9fa5034c020f19b1c40cdc
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: '-j7MoM3P_J8'
+    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5691583c4c1f4d6be5aed5c0273d49d2
+  - id: '-j7MoM3P_J8.srt'
+    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/random-walks/-j7MoM3P_J8.srt
+    title: 3play caption file
+    type: null
+    uid: 56dda7508c25da41cfe1936495cbd599
+  - id: '-j7MoM3P_J8.pdf'
+    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/random-walks/-j7MoM3P_J8.pdf
+    title: 3play pdf file
+    type: null
+    uid: b7ac9c675a5b059eaa6407df83e339a2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cf41f138b350668796eefe0078ef1984
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f71a4c711a95379b2d8154a0778ab212
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_random_walks_ipod.mp4
+    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f81f36599edb4eeab1fe45f792d2e2db
+inline_embed_id: 57792533randomwalks76390244
 parent_uid: ec31be5e21ec45ab3eab7ab45d2e85b7
+related_resources_text: ''
+short_url: random-walks
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/random-walks
-short_url: random-walks
-inline_embed_id: 57792533randomwalks76390244
-about_this_resource_text: ''
-related_resources_text: ''
+title: Random Walks
 transcript: >-
   <p><span m='890'>PROFESSOR: Random</span> <span m='1340'>walks</span> <span
   m='1650'>provide</span> <span m='2200'>probabilistic</span> <span
@@ -801,67 +861,7 @@ transcript: >-
   m='630590'>reflects</span> <span m='631450'>the</span> <span
   m='631560'>structure</span> <span m='632550'>of</span> <span
   m='632790'>the</span> <span m='632920'>digraph.</span> </p>
-embedded_media:
-  - uid: 856e92db3b652e293318172c53f8dbc3
-    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 1d6600dc966cc8d6a1239aee753f522c
-    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: d84b8ca2cdfe95e25b920ccde52394d9
-    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-j7MoM3P_J8'
-  - uid: 335bc23e4f9fa5034c020f19b1c40cdc
-    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-j7MoM3P_J8/default.jpg'
-  - uid: 5691583c4c1f4d6be5aed5c0273d49d2
-    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-j7MoM3P_J8'
-  - uid: 56dda7508c25da41cfe1936495cbd599
-    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
-    id: '-j7MoM3P_J8.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/random-walks/-j7MoM3P_J8.srt
-  - uid: b7ac9c675a5b059eaa6407df83e339a2
-    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
-    id: '-j7MoM3P_J8.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/random-walks/-j7MoM3P_J8.pdf
-  - uid: cf41f138b350668796eefe0078ef1984
-    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f71a4c711a95379b2d8154a0778ab212
-    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f81f36599edb4eeab1fe45f792d2e2db
-    parent_uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_random_walks_ipod.mp4
+uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
 type: courses
 layout: video
 ---

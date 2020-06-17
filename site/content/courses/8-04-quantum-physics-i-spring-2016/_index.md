@@ -4,7 +4,8 @@ course_id: 8-04-quantum-physics-i-spring-2016
 course_title: Quantum Physics I
 course_image_url: >-
   https://open-learning-course-data-ci.s3.amazonaws.com/8-04-quantum-physics-i-spring-2016/458fa90d4ae8b2d71bca7578a12923af_8-04s16.jpg
-course_thumbnail_image_url: ''
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/8-04-quantum-physics-i-spring-2016/46c9e288fc6c91a1d2a0dca10ba03875_8-04s16-th.jpg
 course_image_alternate_text: Lines and boxes showing experimental set-up of a Mach-Zehnder interferometer.
 course_image_caption_text: >-
   <p>A Mach-Zehnder interferometer, with two beam splitters, two mirrors, and

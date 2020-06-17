@@ -1,13 +1,73 @@
 ---
-title: Nondegeneracy of bound states in 1D. Real solutions
-uid: eb542e1f66f8642af2fad86a42a095f6
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: EdXaUfRynx8
+    parent_uid: eb542e1f66f8642af2fad86a42a095f6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f047fbfecd9cc3c829ac28f5e156e1da
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/UqUCNhEKVZE/default.jpg'
+    parent_uid: eb542e1f66f8642af2fad86a42a095f6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8433f41d85d6e82fd54304993edff4eb
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: EdXaUfRynx8
+    parent_uid: eb542e1f66f8642af2fad86a42a095f6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fdeb6cd461d31c35d13602061de4c2e1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: eb542e1f66f8642af2fad86a42a095f6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6404238acdf0c933c8a5c0ec97c37c20
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec12_s1_300k.mp4'
+    parent_uid: eb542e1f66f8642af2fad86a42a095f6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4ad2b11c8b26c37c58795e08cdf3cf19
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/EdXaUfRynx8/default.jpg'
+    parent_uid: eb542e1f66f8642af2fad86a42a095f6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8ae0d1adf61275e685c8b10783af4437
+  - id: EdXaUfRynx8.srt
+    parent_uid: eb542e1f66f8642af2fad86a42a095f6
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/nondegeneracy-of-bound-states-in-1d.-real-solutions/EdXaUfRynx8.srt
+    title: 3play caption file
+    type: null
+    uid: 174ceed26a08538185c9090aec5c6a45
+  - id: EdXaUfRynx8.pdf
+    parent_uid: eb542e1f66f8642af2fad86a42a095f6
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/nondegeneracy-of-bound-states-in-1d.-real-solutions/EdXaUfRynx8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2018e06e0a86dc281f9b8925dba0015b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: eb542e1f66f8642af2fad86a42a095f6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e67f9bb51a6be7cd3819a77cad53bb03
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: eb542e1f66f8642af2fad86a42a095f6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9245650b103335c96e98df1b7fa99c66
+inline_embed_id: 43841962nondegeneracyofboundstatesin1d.realsolutions33629386
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: nondegeneracy-of-bound-states-in-1d.-real-solutions
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/nondegeneracy-of-bound-states-in-1d.-real-solutions
-short_url: nondegeneracy-of-bound-states-in-1d.-real-solutions
-inline_embed_id: 43841962nondegeneracyofboundstatesin1d.realsolutions33629386
-about_this_resource_text: ''
-related_resources_text: ''
+title: Nondegeneracy of bound states in 1D. Real solutions
 transcript: >-
   <p><span m='250'>PROFESSOR:</span> <span m='295'>You</span> <span
   m='990'>first</span> <span m='1390'>are</span> <span m='1530'>facing</span>
@@ -637,67 +697,7 @@ transcript: >-
   m='753690'>we</span> <span m='753780'>can</span> <span m='753990'>just</span>
   <span m='754230'>work</span> <span m='754680'>with</span> <span
   m='754980'>real</span> <span m='755280'>things.</span> </p>
-embedded_media:
-  - uid: f047fbfecd9cc3c829ac28f5e156e1da
-    parent_uid: eb542e1f66f8642af2fad86a42a095f6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: EdXaUfRynx8
-  - uid: 8433f41d85d6e82fd54304993edff4eb
-    parent_uid: eb542e1f66f8642af2fad86a42a095f6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/UqUCNhEKVZE/default.jpg'
-  - uid: fdeb6cd461d31c35d13602061de4c2e1
-    parent_uid: eb542e1f66f8642af2fad86a42a095f6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: EdXaUfRynx8
-  - uid: 6404238acdf0c933c8a5c0ec97c37c20
-    parent_uid: eb542e1f66f8642af2fad86a42a095f6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 4ad2b11c8b26c37c58795e08cdf3cf19
-    parent_uid: eb542e1f66f8642af2fad86a42a095f6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec12_s1_300k.mp4'
-  - uid: 8ae0d1adf61275e685c8b10783af4437
-    parent_uid: eb542e1f66f8642af2fad86a42a095f6
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/EdXaUfRynx8/default.jpg'
-  - uid: 174ceed26a08538185c9090aec5c6a45
-    parent_uid: eb542e1f66f8642af2fad86a42a095f6
-    id: EdXaUfRynx8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/nondegeneracy-of-bound-states-in-1d.-real-solutions/EdXaUfRynx8.srt
-  - uid: 2018e06e0a86dc281f9b8925dba0015b
-    parent_uid: eb542e1f66f8642af2fad86a42a095f6
-    id: EdXaUfRynx8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/nondegeneracy-of-bound-states-in-1d.-real-solutions/EdXaUfRynx8.pdf
-  - uid: e67f9bb51a6be7cd3819a77cad53bb03
-    parent_uid: eb542e1f66f8642af2fad86a42a095f6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9245650b103335c96e98df1b7fa99c66
-    parent_uid: eb542e1f66f8642af2fad86a42a095f6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: eb542e1f66f8642af2fad86a42a095f6
 type: courses
 layout: video
 ---

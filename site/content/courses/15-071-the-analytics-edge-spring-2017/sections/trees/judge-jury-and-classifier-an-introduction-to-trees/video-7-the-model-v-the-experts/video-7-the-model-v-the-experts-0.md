@@ -1,13 +1,62 @@
 ---
-title: 'Video 7: The Model v. The Experts'
-uid: a2d5bd5426fb55c61abd2e90d90d7c3c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: YaEufT_7EbU
+    parent_uid: a2d5bd5426fb55c61abd2e90d90d7c3c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b41d300b6f39c684b54bdf58fc352874
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: YaEufT_7EbU
+    parent_uid: a2d5bd5426fb55c61abd2e90d90d7c3c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3a25dc62c2401b1a93cf52fa3c007285
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/YaEufT_7EbU/default.jpg'
+    parent_uid: a2d5bd5426fb55c61abd2e90d90d7c3c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bb97be2cb10a60df5010ca045ea62955
+  - id: YaEufT_7EbU.srt
+    parent_uid: a2d5bd5426fb55c61abd2e90d90d7c3c
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-7-the-model-v-the-experts/video-7-the-model-v-the-experts-0/YaEufT_7EbU.srt
+    title: 3play caption file
+    type: null
+    uid: de71f70d6f8bcc877465c61f69dec5e0
+  - id: YaEufT_7EbU.pdf
+    parent_uid: a2d5bd5426fb55c61abd2e90d90d7c3c
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-7-the-model-v-the-experts/video-7-the-model-v-the-experts-0/YaEufT_7EbU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5e888b60062c060117a6146c01767bca
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a2d5bd5426fb55c61abd2e90d90d7c3c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e2015279d8142d95350f47d28c62497f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a2d5bd5426fb55c61abd2e90d90d7c3c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0f1edf19204fc23f01ce104c665a2765
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.2.13_300k.mp4
+    parent_uid: a2d5bd5426fb55c61abd2e90d90d7c3c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1858709eadd73e23250ae380ed9e8551
+inline_embed_id: 39110133video7themodelv.theexperts4846079
 parent_uid: 2ca2e4f174a66019fbe68e97bba87376
+related_resources_text: ''
+short_url: video-7-the-model-v-the-experts-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-7-the-model-v-the-experts/video-7-the-model-v-the-experts-0
-short_url: video-7-the-model-v-the-experts-0
-inline_embed_id: 39110133video7themodelv.theexperts4846079
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 7: The Model v. The Experts'
 transcript: >-
   <p><span m='4500'>So</span> <span m='4870'>can</span> <span m='5240'>a</span>
   <span m='5610'>CART</span> <span m='5980'>model</span> <span
@@ -377,56 +426,7 @@ transcript: >-
   m='330662'>can</span> <span m='331164'>provide</span> <span
   m='331665'>in</span> <span m='332167'>traditionally</span> <span
   m='332668'>qualitative</span> <span m='333170'>applications.</span> </p>
-embedded_media:
-  - uid: b41d300b6f39c684b54bdf58fc352874
-    parent_uid: a2d5bd5426fb55c61abd2e90d90d7c3c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: YaEufT_7EbU
-  - uid: 3a25dc62c2401b1a93cf52fa3c007285
-    parent_uid: a2d5bd5426fb55c61abd2e90d90d7c3c
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: YaEufT_7EbU
-  - uid: bb97be2cb10a60df5010ca045ea62955
-    parent_uid: a2d5bd5426fb55c61abd2e90d90d7c3c
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/YaEufT_7EbU/default.jpg'
-  - uid: de71f70d6f8bcc877465c61f69dec5e0
-    parent_uid: a2d5bd5426fb55c61abd2e90d90d7c3c
-    id: YaEufT_7EbU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-7-the-model-v-the-experts/video-7-the-model-v-the-experts-0/YaEufT_7EbU.srt
-  - uid: 5e888b60062c060117a6146c01767bca
-    parent_uid: a2d5bd5426fb55c61abd2e90d90d7c3c
-    id: YaEufT_7EbU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-7-the-model-v-the-experts/video-7-the-model-v-the-experts-0/YaEufT_7EbU.pdf
-  - uid: e2015279d8142d95350f47d28c62497f
-    parent_uid: a2d5bd5426fb55c61abd2e90d90d7c3c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0f1edf19204fc23f01ce104c665a2765
-    parent_uid: a2d5bd5426fb55c61abd2e90d90d7c3c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1858709eadd73e23250ae380ed9e8551
-    parent_uid: a2d5bd5426fb55c61abd2e90d90d7c3c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.2.13_300k.mp4
+uid: a2d5bd5426fb55c61abd2e90d90d7c3c
 type: courses
 layout: video
 ---

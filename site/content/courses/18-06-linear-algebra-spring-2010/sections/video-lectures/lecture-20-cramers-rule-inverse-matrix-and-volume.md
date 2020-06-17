@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 20: Cramer''s rule, inverse matrix, and volume'
-uid: 5092adda6bc7b604ee9d1077d5764166
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-20-cramers-rule-inverse-matrix-and-volume
-short_url: lecture-20-cramers-rule-inverse-matrix-and-volume
-inline_embed_id: '25911595lecture20:cramer''srule,inversematrix,andvolume79431093'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</div>
+embedded_media:
+  - id: 18.06_L20.jpg
+    parent_uid: 5092adda6bc7b604ee9d1077d5764166
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-20-cramers-rule-inverse-matrix-and-volume/18.06_L20.jpg
+    title: 18.06_L20.jpg
+    type: null
+    uid: a50f554253e366d752763e1debdb6819
+  - id: Video-YouTube-Stream
+    media_location: QNpj-gOXW9M
+    parent_uid: 5092adda6bc7b604ee9d1077d5764166
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 418518e8f6cc7a90a59cda5b2548eae6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QNpj-gOXW9M/default.jpg'
+    parent_uid: 5092adda6bc7b604ee9d1077d5764166
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8451fd10ad13ed29016adf8770adb830
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 5092adda6bc7b604ee9d1077d5764166
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 18a09c36af7c765bdebd0e85769a9074
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/20.mp4'
+    parent_uid: 5092adda6bc7b604ee9d1077d5764166
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f8c55099928f0c44fc0c44c0d2682fae
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 5092adda6bc7b604ee9d1077d5764166
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: af7a1af311d4b352fa82d3596038dc8c
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 5092adda6bc7b604ee9d1077d5764166
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: f2de6c704d4fa914f21d454c3f9f6096
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: QNpj-gOXW9M
+    parent_uid: 5092adda6bc7b604ee9d1077d5764166
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 445d3a08a657faf2ef57a1fdfc7aae19
+  - id: QNpj-gOXW9M.srt
+    parent_uid: 5092adda6bc7b604ee9d1077d5764166
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-20-cramers-rule-inverse-matrix-and-volume/QNpj-gOXW9M.srt
+    title: 3play caption file
+    type: null
+    uid: 658ae0a7a37e8982e4718a5b057f90e2
+  - id: QNpj-gOXW9M.pdf
+    parent_uid: 5092adda6bc7b604ee9d1077d5764166
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-20-cramers-rule-inverse-matrix-and-volume/QNpj-gOXW9M.pdf
+    title: 3play pdf file
+    type: null
+    uid: de52fa820f50feb22e656ebf77c26308
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5092adda6bc7b604ee9d1077d5764166
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a18978ce0b2380d3fdeac7e4af2b64ce
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5092adda6bc7b604ee9d1077d5764166
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c79da10f06678235cc0a6b9bd45b8481
+inline_embed_id: '25911595lecture20:cramer''srule,inversematrix,andvolume79431093'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-20-cramers-rule-inverse-matrix-and-volume
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-20-cramers-rule-inverse-matrix-and-volume
+title: 'Lecture 20: Cramer''s rule, inverse matrix, and volume'
 transcript: >-
   <p><span m="0">OK,</span> <span m="8240">this</span> <span m="8360">is</span>
   <span m="8730">lecture</span> <span m="9240">twenty.</span> <span
@@ -3008,79 +3080,7 @@ transcript: >-
   m="3045070">really</span> <span m="3045700">into</span> <span
   m="3046460">the</span> <span m="3047320">big</span> <span
   m="3047570">stuff.</span></p><p><span m="3047780">Thanks.</span></p>
-embedded_media:
-  - uid: a50f554253e366d752763e1debdb6819
-    parent_uid: 5092adda6bc7b604ee9d1077d5764166
-    id: 18.06_L20.jpg
-    title: 18.06_L20.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-20-cramers-rule-inverse-matrix-and-volume/18.06_L20.jpg
-  - uid: 418518e8f6cc7a90a59cda5b2548eae6
-    parent_uid: 5092adda6bc7b604ee9d1077d5764166
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QNpj-gOXW9M
-  - uid: 8451fd10ad13ed29016adf8770adb830
-    parent_uid: 5092adda6bc7b604ee9d1077d5764166
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QNpj-gOXW9M/default.jpg'
-  - uid: 18a09c36af7c765bdebd0e85769a9074
-    parent_uid: 5092adda6bc7b604ee9d1077d5764166
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: f8c55099928f0c44fc0c44c0d2682fae
-    parent_uid: 5092adda6bc7b604ee9d1077d5764166
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/20.mp4'
-  - uid: af7a1af311d4b352fa82d3596038dc8c
-    parent_uid: 5092adda6bc7b604ee9d1077d5764166
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: f2de6c704d4fa914f21d454c3f9f6096
-    parent_uid: 5092adda6bc7b604ee9d1077d5764166
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 445d3a08a657faf2ef57a1fdfc7aae19
-    parent_uid: 5092adda6bc7b604ee9d1077d5764166
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QNpj-gOXW9M
-  - uid: 658ae0a7a37e8982e4718a5b057f90e2
-    parent_uid: 5092adda6bc7b604ee9d1077d5764166
-    id: QNpj-gOXW9M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-20-cramers-rule-inverse-matrix-and-volume/QNpj-gOXW9M.srt
-  - uid: de52fa820f50feb22e656ebf77c26308
-    parent_uid: 5092adda6bc7b604ee9d1077d5764166
-    id: QNpj-gOXW9M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-20-cramers-rule-inverse-matrix-and-volume/QNpj-gOXW9M.pdf
-  - uid: a18978ce0b2380d3fdeac7e4af2b64ce
-    parent_uid: 5092adda6bc7b604ee9d1077d5764166
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c79da10f06678235cc0a6b9bd45b8481
-    parent_uid: 5092adda6bc7b604ee9d1077d5764166
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 5092adda6bc7b604ee9d1077d5764166
 type: courses
 layout: video
 ---

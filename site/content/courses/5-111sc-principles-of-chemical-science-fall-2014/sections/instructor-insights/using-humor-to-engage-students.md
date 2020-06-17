@@ -1,13 +1,67 @@
 ---
-title: Using Humor to Engage Students
-uid: f7297c940ac4058fbcee20b25649d385
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 739SB34oEyo
+    parent_uid: f7297c940ac4058fbcee20b25649d385
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ebe02c60132f17fc8f45584f59638740
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/739SB34oEyo/default.jpg'
+    parent_uid: f7297c940ac4058fbcee20b25649d385
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 13d5300ae9a3b549d69dd0caeecc1cc5
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 739SB34oEyo
+    parent_uid: f7297c940ac4058fbcee20b25649d385
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ec7345c69460af9d3d965b2a584d69c1
+  - id: 739SB34oEyo.srt
+    parent_uid: f7297c940ac4058fbcee20b25649d385
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/using-humor-to-engage-students/739SB34oEyo.srt
+    title: 3play caption file
+    type: null
+    uid: 8f0d30525bbbd3151258ba45736e786f
+  - id: 739SB34oEyo.pdf
+    parent_uid: f7297c940ac4058fbcee20b25649d385
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/using-humor-to-engage-students/739SB34oEyo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8ec90945e3ea285b258c9cd26d2783a5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f7297c940ac4058fbcee20b25649d385
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4006a2d1c99e2659c4635ba48db43318
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f7297c940ac4058fbcee20b25649d385
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8d00c952d2224b500537f48fa0b6eb1f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: f7297c940ac4058fbcee20b25649d385
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 607b992a50f1af5cf63bd20e82f42a6b
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_Humor_300k.mp4'
+    parent_uid: f7297c940ac4058fbcee20b25649d385
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5b6949dc1ed8e357443f90b81b98a520
+inline_embed_id: 52593192usinghumortoengagestudents71081514
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
+related_resources_text: ''
+short_url: using-humor-to-engage-students
 technical_location: >-
   https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/using-humor-to-engage-students
-short_url: using-humor-to-engage-students
-inline_embed_id: 52593192usinghumortoengagestudents71081514
-about_this_resource_text: ''
-related_resources_text: ''
+title: Using Humor to Engage Students
 transcript: >-
   <p><span m='8690'>CATHERINE DRENNAN: I of</span> <span m='8890'>course</span>
   <span m='9100'>want</span> <span m='9220'>my</span> <span
@@ -348,61 +402,7 @@ transcript: >-
   m='233290'>because</span> <span m='233530'>I</span> <span
   m='233650'>want</span> <span m='233920'>them</span> <span m='234040'>to</span>
   <span m='234160'>remember</span> <span m='234550'>that.</span> </p>
-embedded_media:
-  - uid: ebe02c60132f17fc8f45584f59638740
-    parent_uid: f7297c940ac4058fbcee20b25649d385
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 739SB34oEyo
-  - uid: 13d5300ae9a3b549d69dd0caeecc1cc5
-    parent_uid: f7297c940ac4058fbcee20b25649d385
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/739SB34oEyo/default.jpg'
-  - uid: ec7345c69460af9d3d965b2a584d69c1
-    parent_uid: f7297c940ac4058fbcee20b25649d385
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 739SB34oEyo
-  - uid: 8f0d30525bbbd3151258ba45736e786f
-    parent_uid: f7297c940ac4058fbcee20b25649d385
-    id: 739SB34oEyo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/using-humor-to-engage-students/739SB34oEyo.srt
-  - uid: 8ec90945e3ea285b258c9cd26d2783a5
-    parent_uid: f7297c940ac4058fbcee20b25649d385
-    id: 739SB34oEyo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/using-humor-to-engage-students/739SB34oEyo.pdf
-  - uid: 4006a2d1c99e2659c4635ba48db43318
-    parent_uid: f7297c940ac4058fbcee20b25649d385
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8d00c952d2224b500537f48fa0b6eb1f
-    parent_uid: f7297c940ac4058fbcee20b25649d385
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 607b992a50f1af5cf63bd20e82f42a6b
-    parent_uid: f7297c940ac4058fbcee20b25649d385
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 5b6949dc1ed8e357443f90b81b98a520
-    parent_uid: f7297c940ac4058fbcee20b25649d385
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_Humor_300k.mp4'
+uid: f7297c940ac4058fbcee20b25649d385
 type: courses
 layout: video
 ---

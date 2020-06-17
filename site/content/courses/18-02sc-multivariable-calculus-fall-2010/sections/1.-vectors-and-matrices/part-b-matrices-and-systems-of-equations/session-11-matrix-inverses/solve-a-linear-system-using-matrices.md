@@ -1,13 +1,68 @@
 ---
-title: Solve a Linear System Using Matrices
-uid: f3c44a691b13fba327ecfc6c554bf4d2
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 6T13yRjtd-o
+    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 89360fc3c7cdbaf0f8a0a9418fae309f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/6T13yRjtd-o/default.jpg'
+    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 52e61de737ced29be211fa072af067cb
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 6T13yRjtd-o
+    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 02c1f4ddfb6125d2e3a29f79230e3a83
+  - id: 6T13yRjtd-o.srt
+    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-11-matrix-inverses/solve-a-linear-system-using-matrices/6T13yRjtd-o.srt
+    title: 3play caption file
+    type: null
+    uid: d6c37ef2dd7f054e5db5e58b817fedae
+  - id: 6T13yRjtd-o.pdf
+    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-11-matrix-inverses/solve-a-linear-system-using-matrices/6T13yRjtd-o.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5fb58f7fba148f321ba30c44319bde06
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 00a4752676aee3aad030b5273dce949c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c0b584abda242d32d80706a2b0938fde
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/podcast/solve-linear-system-using/id414355340?i=90322830
+    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4bd11aba29e428c2ed2d61ee3e3851ee
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_09_300k.mp4'
+    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1b47f06a2aaa059136d0fbc662ff64aa
+inline_embed_id: 58871904solvealinearsystemusingmatrices94096632
 parent_uid: 1d9d5040576ea02c3a979204ca7b1e30
+related_resources_text: ''
+short_url: solve-a-linear-system-using-matrices
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-11-matrix-inverses/solve-a-linear-system-using-matrices
-short_url: solve-a-linear-system-using-matrices
-inline_embed_id: 58871904solvealinearsystemusingmatrices94096632
-about_this_resource_text: ''
-related_resources_text: ''
+title: Solve a Linear System Using Matrices
 transcript: >-
   <p><span m='7610'>CHRISTINE BREINER: Welcome</span> <span m='7970'>back</span>
   <span m='8120'>to</span> <span m='8210'>recitation.</span> <span
@@ -1493,62 +1548,7 @@ transcript: >-
   m='1085830'>I</span> <span m='1085890'>think</span> <span
   m='1086070'>I'll</span> <span m='1086150'>stop</span> <span
   m='1086370'>there.</span> </p>
-embedded_media:
-  - uid: 89360fc3c7cdbaf0f8a0a9418fae309f
-    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 6T13yRjtd-o
-  - uid: 52e61de737ced29be211fa072af067cb
-    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/6T13yRjtd-o/default.jpg'
-  - uid: 02c1f4ddfb6125d2e3a29f79230e3a83
-    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 6T13yRjtd-o
-  - uid: d6c37ef2dd7f054e5db5e58b817fedae
-    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
-    id: 6T13yRjtd-o.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-11-matrix-inverses/solve-a-linear-system-using-matrices/6T13yRjtd-o.srt
-  - uid: 5fb58f7fba148f321ba30c44319bde06
-    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
-    id: 6T13yRjtd-o.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-11-matrix-inverses/solve-a-linear-system-using-matrices/6T13yRjtd-o.pdf
-  - uid: 00a4752676aee3aad030b5273dce949c
-    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c0b584abda242d32d80706a2b0938fde
-    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4bd11aba29e428c2ed2d61ee3e3851ee
-    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/podcast/solve-linear-system-using/id414355340?i=90322830
-  - uid: 1b47f06a2aaa059136d0fbc662ff64aa
-    parent_uid: f3c44a691b13fba327ecfc6c554bf4d2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_09_300k.mp4'
+uid: f3c44a691b13fba327ecfc6c554bf4d2
 type: courses
 layout: video
 ---

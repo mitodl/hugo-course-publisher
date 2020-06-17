@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 11: Integer Arithmetic, Karatsuba Multiplication'
-uid: bf01629c2329ba5b7672f282b59f7c29
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-11-integer-arithmetic-karatsuba-multiplication
-short_url: lecture-11-integer-arithmetic-karatsuba-multiplication
-inline_embed_id: '87151594lecture11:integerarithmetic,karatsubamultiplication26650578'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This is the first of two lectures on
   numerics, covering irrational numbers, high-precision computation, and
   Karatsuba multiplication.</p> <p><strong>Instructor:</strong> Srini
   Devadas</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: eCaXlAaN2uE
+    parent_uid: bf01629c2329ba5b7672f282b59f7c29
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4d2548a208d09abbefceeae397249ec0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/eCaXlAaN2uE/default.jpg'
+    parent_uid: bf01629c2329ba5b7672f282b59f7c29
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 819bf6041ae76f7db043b63b5e7211a3
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-11-integer-arithmetic/id585700718?i=126127759
+    parent_uid: bf01629c2329ba5b7672f282b59f7c29
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3951b96fc521975124c0d6b622092953
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec11_300k.mp4'
+    parent_uid: bf01629c2329ba5b7672f282b59f7c29
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f7542e24d45985eebf51074c93f2a3e0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: eCaXlAaN2uE
+    parent_uid: bf01629c2329ba5b7672f282b59f7c29
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 54d882dacd967ea35fe72fb3481b3b22
+  - id: eCaXlAaN2uE.srt
+    parent_uid: bf01629c2329ba5b7672f282b59f7c29
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-11-integer-arithmetic-karatsuba-multiplication/eCaXlAaN2uE.srt
+    title: 3play caption file
+    type: null
+    uid: a85b12be3adab592b73238648c99650a
+  - id: eCaXlAaN2uE.pdf
+    parent_uid: bf01629c2329ba5b7672f282b59f7c29
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-11-integer-arithmetic-karatsuba-multiplication/eCaXlAaN2uE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 17798b54cc1a7fdba6972ecd681eaf1e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bf01629c2329ba5b7672f282b59f7c29
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d8d28705092b0630610f5c70f7d8e3b4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bf01629c2329ba5b7672f282b59f7c29
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 474924e97920a334f1d248e51c43d7e4
+inline_embed_id: '87151594lecture11:integerarithmetic,karatsubamultiplication26650578'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-11-integer-arithmetic-karatsuba-multiplication
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-11-integer-arithmetic-karatsuba-multiplication
+title: 'Lecture 11: Integer Arithmetic, Karatsuba Multiplication'
 transcript: >-
   <p><span m='80'>The</span> <span m='210'>following</span> <span
   m='640'>content</span> <span m='1240'>is</span> <span m='1350'>provided</span>
@@ -2647,62 +2702,7 @@ transcript: >-
   m='2838820'>lecture,</span> <span m='2840610'>and</span> <span
   m='2841030'>thanks</span> <span m='2841210'>for</span> <span
   m='2841510'>coming.</span> </p>
-embedded_media:
-  - uid: 4d2548a208d09abbefceeae397249ec0
-    parent_uid: bf01629c2329ba5b7672f282b59f7c29
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: eCaXlAaN2uE
-  - uid: 819bf6041ae76f7db043b63b5e7211a3
-    parent_uid: bf01629c2329ba5b7672f282b59f7c29
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/eCaXlAaN2uE/default.jpg'
-  - uid: 3951b96fc521975124c0d6b622092953
-    parent_uid: bf01629c2329ba5b7672f282b59f7c29
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-11-integer-arithmetic/id585700718?i=126127759
-  - uid: f7542e24d45985eebf51074c93f2a3e0
-    parent_uid: bf01629c2329ba5b7672f282b59f7c29
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec11_300k.mp4'
-  - uid: 54d882dacd967ea35fe72fb3481b3b22
-    parent_uid: bf01629c2329ba5b7672f282b59f7c29
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: eCaXlAaN2uE
-  - uid: a85b12be3adab592b73238648c99650a
-    parent_uid: bf01629c2329ba5b7672f282b59f7c29
-    id: eCaXlAaN2uE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-11-integer-arithmetic-karatsuba-multiplication/eCaXlAaN2uE.srt
-  - uid: 17798b54cc1a7fdba6972ecd681eaf1e
-    parent_uid: bf01629c2329ba5b7672f282b59f7c29
-    id: eCaXlAaN2uE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-11-integer-arithmetic-karatsuba-multiplication/eCaXlAaN2uE.pdf
-  - uid: d8d28705092b0630610f5c70f7d8e3b4
-    parent_uid: bf01629c2329ba5b7672f282b59f7c29
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 474924e97920a334f1d248e51c43d7e4
-    parent_uid: bf01629c2329ba5b7672f282b59f7c29
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: bf01629c2329ba5b7672f282b59f7c29
 type: courses
 layout: video
 ---

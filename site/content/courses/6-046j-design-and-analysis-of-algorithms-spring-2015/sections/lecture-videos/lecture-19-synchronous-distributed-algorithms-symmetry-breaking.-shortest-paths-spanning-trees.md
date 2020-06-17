@@ -1,20 +1,74 @@
 ---
-title: >-
-  Lecture 19: Synchronous Distributed Algorithms: Symmetry-Breaking.
-  Shortest-Paths Spanning Trees
-uid: cc27152a39adf9a64c6abc3166252a39
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-19-synchronous-distributed-algorithms-symmetry-breaking.-shortest-paths-spanning-trees
-short_url: >-
-  lecture-19-synchronous-distributed-algorithms-symmetry-breaking.-shortest-paths-spanning-trees
-inline_embed_id: >-
-  92260383lecture19:synchronousdistributedalgorithms:symmetry-breaking.shortest-pathsspanningtrees72982422
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Lynch introduces
   synchronous distributed algorithms.</p> <p><strong>Instructors:</strong> Nancy
   Ann Lynch</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: mUBmcbbJNf4
+    parent_uid: cc27152a39adf9a64c6abc3166252a39
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f6554e87e8d5941162a5245ef0b42921
+  - id: mUBmcbbJNf4.srt
+    parent_uid: cc27152a39adf9a64c6abc3166252a39
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-19-synchronous-distributed-algorithms-symmetry-breaking.-shortest-paths-spanning-trees/mUBmcbbJNf4.srt
+    title: 3play caption file
+    type: null
+    uid: 6a4484fb08a1bbcfb4fa9f5965641df1
+  - id: mUBmcbbJNf4.pdf
+    parent_uid: cc27152a39adf9a64c6abc3166252a39
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-19-synchronous-distributed-algorithms-symmetry-breaking.-shortest-paths-spanning-trees/mUBmcbbJNf4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 836cf86687c635e3566e26ab3c852f70
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cc27152a39adf9a64c6abc3166252a39
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8627345021e753277a772a0c32ff4627
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cc27152a39adf9a64c6abc3166252a39
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d41e0559489e6e8c637f154e6b9358ba
+  - id: Video-YouTube-MP4
+    media_location: mUBmcbbJNf4
+    parent_uid: cc27152a39adf9a64c6abc3166252a39
+    title: Video-YouTube-MP4
+    type: Video
+    uid: ec6673588d88f79a3b8c4161ef4177a5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/mUBmcbbJNf4/default.jpg'
+    parent_uid: cc27152a39adf9a64c6abc3166252a39
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d0cb791511f39b01129e29ada1c7e00b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: cc27152a39adf9a64c6abc3166252a39
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b740959afce7dcd1d5916832c4139865
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec19_300k.mp4'
+    parent_uid: cc27152a39adf9a64c6abc3166252a39
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0312b13118e18738650a5cbb9cdcf5ac
+inline_embed_id: >-
+  92260383lecture19:synchronousdistributedalgorithms:symmetry-breaking.shortest-pathsspanningtrees72982422
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: >-
+  lecture-19-synchronous-distributed-algorithms-symmetry-breaking.-shortest-paths-spanning-trees
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-19-synchronous-distributed-algorithms-symmetry-breaking.-shortest-paths-spanning-trees
+title: >-
+  Lecture 19: Synchronous Distributed Algorithms: Symmetry-Breaking.
+  Shortest-Paths Spanning Trees
 transcript: >-
   <p><span m="60">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -5527,61 +5581,7 @@ transcript: >-
   m="4645760">I'll</span> <span m="4645850">see</span> <span
   m="4646010">you</span> <span m="4646130">on</span> <span
   m="4646270">Thursday.</span></p>
-embedded_media:
-  - uid: f6554e87e8d5941162a5245ef0b42921
-    parent_uid: cc27152a39adf9a64c6abc3166252a39
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: mUBmcbbJNf4
-  - uid: 6a4484fb08a1bbcfb4fa9f5965641df1
-    parent_uid: cc27152a39adf9a64c6abc3166252a39
-    id: mUBmcbbJNf4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-19-synchronous-distributed-algorithms-symmetry-breaking.-shortest-paths-spanning-trees/mUBmcbbJNf4.srt
-  - uid: 836cf86687c635e3566e26ab3c852f70
-    parent_uid: cc27152a39adf9a64c6abc3166252a39
-    id: mUBmcbbJNf4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-19-synchronous-distributed-algorithms-symmetry-breaking.-shortest-paths-spanning-trees/mUBmcbbJNf4.pdf
-  - uid: 8627345021e753277a772a0c32ff4627
-    parent_uid: cc27152a39adf9a64c6abc3166252a39
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d41e0559489e6e8c637f154e6b9358ba
-    parent_uid: cc27152a39adf9a64c6abc3166252a39
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ec6673588d88f79a3b8c4161ef4177a5
-    parent_uid: cc27152a39adf9a64c6abc3166252a39
-    id: Video-YouTube-MP4
-    title: Video-YouTube-MP4
-    type: Video
-    media_location: mUBmcbbJNf4
-  - uid: d0cb791511f39b01129e29ada1c7e00b
-    parent_uid: cc27152a39adf9a64c6abc3166252a39
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/mUBmcbbJNf4/default.jpg'
-  - uid: b740959afce7dcd1d5916832c4139865
-    parent_uid: cc27152a39adf9a64c6abc3166252a39
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 0312b13118e18738650a5cbb9cdcf5ac
-    parent_uid: cc27152a39adf9a64c6abc3166252a39
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec19_300k.mp4'
+uid: cc27152a39adf9a64c6abc3166252a39
 type: courses
 layout: video
 ---

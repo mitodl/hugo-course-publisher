@@ -1,14 +1,68 @@
 ---
-title: 'Resources needed for the assignments: Annotation Studio, Tumblr, and YouTube'
-uid: 899f93eaecd20cb7609245b9f1f54fcb
-parent_uid: e7ab07a59bf478a18a95a815093ec211
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/copy2_of_day-1-part-3
-short_url: copy2_of_day-1-part-3
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 08b791bdc78240327c12c67e8faed0d9
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D01P3_300k.mp4'
+    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8510c01aabcce859b7770465b71e2e25
+  - id: Video-YouTube-Stream
+    media_location: aHygKFodPKg
+    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 958a6b307040b125fe4f266b13b10049
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: aHygKFodPKg
+    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 955fd6585a0bac38f376a9a50787c0c2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/aHygKFodPKg/default.jpg'
+    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 590c11d1048a4c1c64674a9896518aff
+  - id: aHygKFodPKg.srt
+    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/copy2_of_day-1-part-3/aHygKFodPKg.srt
+    title: 3play caption file
+    type: null
+    uid: bbecd42067369212295cda4bb0bbfc5c
+  - id: aHygKFodPKg.pdf
+    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/copy2_of_day-1-part-3/aHygKFodPKg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3f281960dd23c9fc30790ded753f962d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8a05ecaed6126ec2506f74cf3ef9dd20
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3ffc5b8ef64b8814fd5844b5be183417
 inline_embed_id: >-
   28989956resourcesneededfortheassignments:annotationstudio,tumblr,andyoutube52374856
-about_this_resource_text: ''
+parent_uid: e7ab07a59bf478a18a95a815093ec211
 related_resources_text: ''
+short_url: copy2_of_day-1-part-3
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/copy2_of_day-1-part-3
+title: 'Resources needed for the assignments: Annotation Studio, Tumblr, and YouTube'
 transcript: >-
   <p><span m="80">The</span> <span m="170">following</span> <span
   m="610">content</span> <span m="1120">is</span> <span m="1230">provided</span>
@@ -1497,61 +1551,7 @@ transcript: >-
   m="1202990">So</span> <span m="1203290">see</span> <span
   m="1203590">you</span> <span m="1203890">tomorrow</span> <span
   m="1204190">at</span> <span m="1204490">12:10.</span></p>
-embedded_media:
-  - uid: 08b791bdc78240327c12c67e8faed0d9
-    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 8510c01aabcce859b7770465b71e2e25
-    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D01P3_300k.mp4'
-  - uid: 958a6b307040b125fe4f266b13b10049
-    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: aHygKFodPKg
-  - uid: 955fd6585a0bac38f376a9a50787c0c2
-    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: aHygKFodPKg
-  - uid: 590c11d1048a4c1c64674a9896518aff
-    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/aHygKFodPKg/default.jpg'
-  - uid: bbecd42067369212295cda4bb0bbfc5c
-    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
-    id: aHygKFodPKg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/copy2_of_day-1-part-3/aHygKFodPKg.srt
-  - uid: 3f281960dd23c9fc30790ded753f962d
-    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
-    id: aHygKFodPKg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/copy2_of_day-1-part-3/aHygKFodPKg.pdf
-  - uid: 8a05ecaed6126ec2506f74cf3ef9dd20
-    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3ffc5b8ef64b8814fd5844b5be183417
-    parent_uid: 899f93eaecd20cb7609245b9f1f54fcb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 899f93eaecd20cb7609245b9f1f54fcb
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: Quantum mechanics as a framework. Defining linearity
-uid: 9d6cdfcd1798316c690284234f066a52
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: jANZxzetPaQ
+    parent_uid: 9d6cdfcd1798316c690284234f066a52
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 704a19a758a34ae7f13aa17e0cfe8694
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/jANZxzetPaQ/default.jpg'
+    parent_uid: 9d6cdfcd1798316c690284234f066a52
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: dccd2241dc846f3f1bdaef64a13190c5
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: jANZxzetPaQ
+    parent_uid: 9d6cdfcd1798316c690284234f066a52
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2e499418157b043a1505c133c7454dfb
+  - id: jANZxzetPaQ.srt
+    parent_uid: 9d6cdfcd1798316c690284234f066a52
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/quantum-mechanics-as-a-framework.-defining-linearity/jANZxzetPaQ.srt
+    title: 3play caption file
+    type: null
+    uid: fed63d8542256a1691ab719efc8807ba
+  - id: jANZxzetPaQ.pdf
+    parent_uid: 9d6cdfcd1798316c690284234f066a52
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/quantum-mechanics-as-a-framework.-defining-linearity/jANZxzetPaQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 05d9ae93346e82ce080953f6de2147d5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9d6cdfcd1798316c690284234f066a52
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: defbeba7ff5baf8ef556c139c14e17a4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9d6cdfcd1798316c690284234f066a52
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 56b95c3a04e0d6a903b6f2822e21c48d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 9d6cdfcd1798316c690284234f066a52
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9fb729db23ee2293d3fafbd5e67ed1f1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec01_s1_300k.mp4'
+    parent_uid: 9d6cdfcd1798316c690284234f066a52
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2208d7ce70ed7af97b097c377aa8b49d
+inline_embed_id: 79010025quantummechanicsasaframework.defininglinearity81691624
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: quantum-mechanics-as-a-framework.-defining-linearity
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/quantum-mechanics-as-a-framework.-defining-linearity
-short_url: quantum-mechanics-as-a-framework.-defining-linearity
-inline_embed_id: 79010025quantummechanicsasaframework.defininglinearity81691624
-about_this_resource_text: ''
-related_resources_text: ''
+title: Quantum mechanics as a framework. Defining linearity
 transcript: >-
   <p><span m='740'>PROFESSOR:</span> <span m='950'>Very</span> <span
   m='1160'>good.</span> <span m='2060'>So</span> <span m='2480'>it's</span>
@@ -790,61 +844,7 @@ transcript: >-
   <span m='1064410'>plus</span> <span m='1064800'>lu</span> <span
   m='1065030'>2.</span> <span m='1066780'>Please</span> <span
   m='1067180'>do</span> <span m='1067460'>it.</span> </p>
-embedded_media:
-  - uid: 704a19a758a34ae7f13aa17e0cfe8694
-    parent_uid: 9d6cdfcd1798316c690284234f066a52
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: jANZxzetPaQ
-  - uid: dccd2241dc846f3f1bdaef64a13190c5
-    parent_uid: 9d6cdfcd1798316c690284234f066a52
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/jANZxzetPaQ/default.jpg'
-  - uid: 2e499418157b043a1505c133c7454dfb
-    parent_uid: 9d6cdfcd1798316c690284234f066a52
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: jANZxzetPaQ
-  - uid: fed63d8542256a1691ab719efc8807ba
-    parent_uid: 9d6cdfcd1798316c690284234f066a52
-    id: jANZxzetPaQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/quantum-mechanics-as-a-framework.-defining-linearity/jANZxzetPaQ.srt
-  - uid: 05d9ae93346e82ce080953f6de2147d5
-    parent_uid: 9d6cdfcd1798316c690284234f066a52
-    id: jANZxzetPaQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/quantum-mechanics-as-a-framework.-defining-linearity/jANZxzetPaQ.pdf
-  - uid: defbeba7ff5baf8ef556c139c14e17a4
-    parent_uid: 9d6cdfcd1798316c690284234f066a52
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 56b95c3a04e0d6a903b6f2822e21c48d
-    parent_uid: 9d6cdfcd1798316c690284234f066a52
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9fb729db23ee2293d3fafbd5e67ed1f1
-    parent_uid: 9d6cdfcd1798316c690284234f066a52
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 2208d7ce70ed7af97b097c377aa8b49d
-    parent_uid: 9d6cdfcd1798316c690284234f066a52
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec01_s1_300k.mp4'
+uid: 9d6cdfcd1798316c690284234f066a52
 type: courses
 layout: video
 ---

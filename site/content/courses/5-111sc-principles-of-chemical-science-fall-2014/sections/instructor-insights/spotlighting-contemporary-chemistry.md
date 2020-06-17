@@ -1,13 +1,74 @@
 ---
-title: Spotlighting Contemporary Chemistry
-uid: 9f07f98a1bc6fdedf45b6820c7496e51
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '-Y8pOF1AgUY'
+    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0cd71a586a3b9f8d185f7966e0f182d6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-Y8pOF1AgUY/default.jpg'
+    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2e47e5f98772b3f6b8280f9d4129b5c1
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '-Y8pOF1AgUY'
+    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c7f17b0c0f710004af2649531bab2375
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 131962b8780ffdb28ed2d1590a2986a8
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT5.111F14/MIT5_111F14_SpotlightingContemporary_300k.mp4
+    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 63097269ec6f6861301d6c1c208dd8e8
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/-Y8pOF1AgUY/default.jpg'
+    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3f730fa761926636939ee776d0c5e9ef
+  - id: '-Y8pOF1AgUY.srt'
+    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/spotlighting-contemporary-chemistry/-Y8pOF1AgUY.srt
+    title: 3play caption file
+    type: null
+    uid: af964d6cd9575aebdd301fe6602b26da
+  - id: '-Y8pOF1AgUY.pdf'
+    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/spotlighting-contemporary-chemistry/-Y8pOF1AgUY.pdf
+    title: 3play pdf file
+    type: null
+    uid: e0e7523e5be8e9e207cbb48e280cc054
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 00b2a9f9c54e0dfed61fec5ed23302af
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fb56c0e194e41eda6dcc7bdd6357def7
+inline_embed_id: 96806612spotlightingcontemporarychemistry70526210
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
+related_resources_text: ''
+short_url: spotlighting-contemporary-chemistry
 technical_location: >-
   https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/spotlighting-contemporary-chemistry
-short_url: spotlighting-contemporary-chemistry
-inline_embed_id: 96806612spotlightingcontemporarychemistry70526210
-about_this_resource_text: ''
-related_resources_text: ''
+title: Spotlighting Contemporary Chemistry
 transcript: >-
   <p><span m='4380'>CATHERINE DRENNAN: For</span> <span m='4530'>5.111,</span>
   <span m='5220'>we</span> <span m='5340'>created</span> <span
@@ -252,68 +313,7 @@ transcript: >-
   <span m='162780'>see</span> <span m='163290'>the</span> <span
   m='163410'>power</span> <span m='164010'>of</span> <span
   m='164100'>chemistry.</span> </p>
-embedded_media:
-  - uid: 0cd71a586a3b9f8d185f7966e0f182d6
-    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-Y8pOF1AgUY'
-  - uid: 2e47e5f98772b3f6b8280f9d4129b5c1
-    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-Y8pOF1AgUY/default.jpg'
-  - uid: c7f17b0c0f710004af2649531bab2375
-    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-Y8pOF1AgUY'
-  - uid: 131962b8780ffdb28ed2d1590a2986a8
-    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 63097269ec6f6861301d6c1c208dd8e8
-    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT5.111F14/MIT5_111F14_SpotlightingContemporary_300k.mp4
-  - uid: 3f730fa761926636939ee776d0c5e9ef
-    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-Y8pOF1AgUY/default.jpg'
-  - uid: af964d6cd9575aebdd301fe6602b26da
-    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
-    id: '-Y8pOF1AgUY.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/spotlighting-contemporary-chemistry/-Y8pOF1AgUY.srt
-  - uid: e0e7523e5be8e9e207cbb48e280cc054
-    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
-    id: '-Y8pOF1AgUY.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/spotlighting-contemporary-chemistry/-Y8pOF1AgUY.pdf
-  - uid: 00b2a9f9c54e0dfed61fec5ed23302af
-    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fb56c0e194e41eda6dcc7bdd6357def7
-    parent_uid: 9f07f98a1bc6fdedf45b6820c7496e51
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9f07f98a1bc6fdedf45b6820c7496e51
 type: courses
 layout: video
 ---

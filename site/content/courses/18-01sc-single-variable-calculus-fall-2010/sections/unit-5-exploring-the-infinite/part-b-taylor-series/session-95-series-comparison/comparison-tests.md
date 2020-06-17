@@ -1,13 +1,67 @@
 ---
-title: Comparison Tests
-uid: 320a8ca55ca282ca055c621fda9a468c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: dGKvUUmMGoU
+    parent_uid: 320a8ca55ca282ca055c621fda9a468c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5df5980bdffadfae95e80442ccdb6fbb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/dGKvUUmMGoU/default.jpg'
+    parent_uid: 320a8ca55ca282ca055c621fda9a468c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a26a4d6ff33bf4032cbbe3114c157fa5
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/comparison-tests/id414308064?i=90320229'
+    parent_uid: 320a8ca55ca282ca055c621fda9a468c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6814967bcd41eae9e062a89bc34c9f04
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_73_300k.mp4'
+    parent_uid: 320a8ca55ca282ca055c621fda9a468c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9aca0ddac6ccef4a209373ff12903847
+  - id: 3Play-3PlayVideoid-MP4
+    media_location: '1424365'
+    parent_uid: 320a8ca55ca282ca055c621fda9a468c
+    title: 3Play-3Play Video id
+    type: 3Play
+    uid: 41d4f726a98cef296827ca16a8417121
+  - id: 1424365.srt
+    parent_uid: 320a8ca55ca282ca055c621fda9a468c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/comparison-tests/1424365.srt
+    title: 3play caption file
+    type: null
+    uid: c13d2e0e27a9f8196b11d5016b622324
+  - id: 1424365.pdf
+    parent_uid: 320a8ca55ca282ca055c621fda9a468c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/comparison-tests/1424365.pdf
+    title: 3play pdf file
+    type: null
+    uid: b743a17ffde5926a090a4f6e0fc5cfaa
+  - id: Caption-3Play Video id-SRT
+    parent_uid: 320a8ca55ca282ca055c621fda9a468c
+    title: Caption-3Play Video id-SRT-English - US
+    type: Caption
+    uid: dd623fc691e36055bc6b79082dcebc1b
+  - id: Transcript-3Play Video id-PDF
+    parent_uid: 320a8ca55ca282ca055c621fda9a468c
+    title: Transcript-3Play Video id-PDF-English - US
+    type: Transcript
+    uid: 837f6a0c1162914dae781ca7d8670f3b
+inline_embed_id: 99841700comparisontests19472025
 parent_uid: e6b5bcf01d4fe02cb8f15ed900b23542
+related_resources_text: ''
+short_url: comparison-tests
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/comparison-tests
-short_url: comparison-tests
-inline_embed_id: 99841700comparisontests19472025
-about_this_resource_text: ''
-related_resources_text: ''
+title: Comparison Tests
 transcript: >-
   <p><span m='7210'> Hi.</span> </p><p><span m='7715'>Welcome back to
   recitation.</span> </p><p><span m='9255'>In class, you've been learning about
@@ -264,61 +318,7 @@ transcript: >-
   series--</span> <span m='850055'>sorry, this third series--</span> <span
   m='851575'>also converges.</span> </p><p><span m='853515'>So I'll end
   there.</span> </p>
-embedded_media:
-  - uid: 5df5980bdffadfae95e80442ccdb6fbb
-    parent_uid: 320a8ca55ca282ca055c621fda9a468c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: dGKvUUmMGoU
-  - uid: a26a4d6ff33bf4032cbbe3114c157fa5
-    parent_uid: 320a8ca55ca282ca055c621fda9a468c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/dGKvUUmMGoU/default.jpg'
-  - uid: 6814967bcd41eae9e062a89bc34c9f04
-    parent_uid: 320a8ca55ca282ca055c621fda9a468c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/comparison-tests/id414308064?i=90320229'
-  - uid: 9aca0ddac6ccef4a209373ff12903847
-    parent_uid: 320a8ca55ca282ca055c621fda9a468c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_73_300k.mp4'
-  - uid: 41d4f726a98cef296827ca16a8417121
-    parent_uid: 320a8ca55ca282ca055c621fda9a468c
-    id: 3Play-3PlayVideoid-MP4
-    title: 3Play-3Play Video id
-    type: 3Play
-    media_location: '1424365'
-  - uid: c13d2e0e27a9f8196b11d5016b622324
-    parent_uid: 320a8ca55ca282ca055c621fda9a468c
-    id: 1424365.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/comparison-tests/1424365.srt
-  - uid: b743a17ffde5926a090a4f6e0fc5cfaa
-    parent_uid: 320a8ca55ca282ca055c621fda9a468c
-    id: 1424365.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/comparison-tests/1424365.pdf
-  - uid: dd623fc691e36055bc6b79082dcebc1b
-    parent_uid: 320a8ca55ca282ca055c621fda9a468c
-    id: Caption-3Play Video id-SRT
-    title: Caption-3Play Video id-SRT-English - US
-    type: Caption
-  - uid: 837f6a0c1162914dae781ca7d8670f3b
-    parent_uid: 320a8ca55ca282ca055c621fda9a468c
-    id: Transcript-3Play Video id-PDF
-    title: Transcript-3Play Video id-PDF-English - US
-    type: Transcript
+uid: 320a8ca55ca282ca055c621fda9a468c
 type: courses
 layout: video
 ---

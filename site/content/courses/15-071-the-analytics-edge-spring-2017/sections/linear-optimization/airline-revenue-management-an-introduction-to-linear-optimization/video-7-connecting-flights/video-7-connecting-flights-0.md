@@ -1,13 +1,62 @@
 ---
-title: 'Video 7: Connecting Flights'
-uid: 478a1336e5048cfd64883186f2240bf2
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: DCcPG4aS5I0
+    parent_uid: 478a1336e5048cfd64883186f2240bf2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1b8a0e1734e7022e949c5cf6b9611cf4
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: DCcPG4aS5I0
+    parent_uid: 478a1336e5048cfd64883186f2240bf2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a86bda99fdfef68ebc1388410cbea9cc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/DCcPG4aS5I0/default.jpg'
+    parent_uid: 478a1336e5048cfd64883186f2240bf2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7824d426e958b414fc3f62f570b484f4
+  - id: DCcPG4aS5I0.srt
+    parent_uid: 478a1336e5048cfd64883186f2240bf2
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-7-connecting-flights/video-7-connecting-flights-0/DCcPG4aS5I0.srt
+    title: 3play caption file
+    type: null
+    uid: 3f4602b6824c7d9ce16949623d9712dd
+  - id: DCcPG4aS5I0.pdf
+    parent_uid: 478a1336e5048cfd64883186f2240bf2
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-7-connecting-flights/video-7-connecting-flights-0/DCcPG4aS5I0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 136d701943f962b163525ed96741fe46
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 478a1336e5048cfd64883186f2240bf2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8d71096cc39deba5a09a1d684f91687c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 478a1336e5048cfd64883186f2240bf2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9c70123ebc50a324e22b63e5fb5ee2f9
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.2.12_300k.mp4
+    parent_uid: 478a1336e5048cfd64883186f2240bf2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7981cec799c06916ca520564956f46f0
+inline_embed_id: 23528354video7connectingflights54723045
 parent_uid: 80f150bc38fd0f8475f7ccfe876f7744
+related_resources_text: ''
+short_url: video-7-connecting-flights-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-7-connecting-flights/video-7-connecting-flights-0
-short_url: video-7-connecting-flights-0
-inline_embed_id: 23528354video7connectingflights54723045
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 7: Connecting Flights'
 transcript: >-
   <p><span m='9500'>So</span> <span m='9885'>far,</span> <span
   m='10270'>we've</span> <span m='10655'>only</span> <span
@@ -527,56 +576,7 @@ transcript: >-
   m='486022'>have</span> <span m='486400'>solved</span> <span
   m='486778'>as</span> <span m='487156'>easily</span> <span m='487534'>by</span>
   <span m='487912'>inspection.</span> </p>
-embedded_media:
-  - uid: 1b8a0e1734e7022e949c5cf6b9611cf4
-    parent_uid: 478a1336e5048cfd64883186f2240bf2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: DCcPG4aS5I0
-  - uid: a86bda99fdfef68ebc1388410cbea9cc
-    parent_uid: 478a1336e5048cfd64883186f2240bf2
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: DCcPG4aS5I0
-  - uid: 7824d426e958b414fc3f62f570b484f4
-    parent_uid: 478a1336e5048cfd64883186f2240bf2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/DCcPG4aS5I0/default.jpg'
-  - uid: 3f4602b6824c7d9ce16949623d9712dd
-    parent_uid: 478a1336e5048cfd64883186f2240bf2
-    id: DCcPG4aS5I0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-7-connecting-flights/video-7-connecting-flights-0/DCcPG4aS5I0.srt
-  - uid: 136d701943f962b163525ed96741fe46
-    parent_uid: 478a1336e5048cfd64883186f2240bf2
-    id: DCcPG4aS5I0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-7-connecting-flights/video-7-connecting-flights-0/DCcPG4aS5I0.pdf
-  - uid: 8d71096cc39deba5a09a1d684f91687c
-    parent_uid: 478a1336e5048cfd64883186f2240bf2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9c70123ebc50a324e22b63e5fb5ee2f9
-    parent_uid: 478a1336e5048cfd64883186f2240bf2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7981cec799c06916ca520564956f46f0
-    parent_uid: 478a1336e5048cfd64883186f2240bf2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.2.12_300k.mp4
+uid: 478a1336e5048cfd64883186f2240bf2
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Free Schrödinger equation
-uid: 60fe7d60cf50afdcf6b7960ecde83813
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 7euh_iwzSGo
+    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 35653c50ec3e251f7fd710a28dccc271
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/GFvaDBjJNTk/default.jpg'
+    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 22639eff8ad5edc00da2e55238834e45
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7euh_iwzSGo
+    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 56b33357216b8ed191a88025c0b43aa8
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 750bf8431a4a657b2a124bda8dfdf0ca
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec05_s2_300k.mp4'
+    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c3769988190fd0155b780e329c426bfd
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/7euh_iwzSGo/default.jpg'
+    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f4dfd295bbf370cd69dbda2d0a78b350
+  - id: 7euh_iwzSGo.srt
+    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/free-schroedinger-equation/7euh_iwzSGo.srt
+    title: 3play caption file
+    type: null
+    uid: 2aee9d43473c61078fc194268bf365bf
+  - id: 7euh_iwzSGo.pdf
+    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/free-schroedinger-equation/7euh_iwzSGo.pdf
+    title: 3play pdf file
+    type: null
+    uid: a8be9fae35af16675536f2a161b3b91a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cb761dcc0cc59a58896f57360d014a1e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f6d712eeb39310131c685fc9f77b6047
+inline_embed_id: 42097316freeschrdingerequation35594960
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: free-schroedinger-equation
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/free-schroedinger-equation
-short_url: free-schroedinger-equation
-inline_embed_id: 42097316freeschrdingerequation35594960
-about_this_resource_text: ''
-related_resources_text: ''
+title: Free Schrödinger equation
 transcript: >-
   <p><span m='140'>PROFESSOR:</span> <span m='230'>This</span> <span
   m='320'>is</span> <span m='500'>a</span> <span m='1200'>wonderful</span> <span
@@ -514,67 +574,7 @@ transcript: >-
   m='594370'>did</span> <span m='594700'>the</span> <span
   m='594820'>right</span> <span m='595150'>job</span> <span
   m='595690'>for</span> <span m='595930'>us.</span> </p>
-embedded_media:
-  - uid: 35653c50ec3e251f7fd710a28dccc271
-    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 7euh_iwzSGo
-  - uid: 22639eff8ad5edc00da2e55238834e45
-    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/GFvaDBjJNTk/default.jpg'
-  - uid: 56b33357216b8ed191a88025c0b43aa8
-    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7euh_iwzSGo
-  - uid: 750bf8431a4a657b2a124bda8dfdf0ca
-    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: c3769988190fd0155b780e329c426bfd
-    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec05_s2_300k.mp4'
-  - uid: f4dfd295bbf370cd69dbda2d0a78b350
-    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7euh_iwzSGo/default.jpg'
-  - uid: 2aee9d43473c61078fc194268bf365bf
-    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
-    id: 7euh_iwzSGo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/free-schroedinger-equation/7euh_iwzSGo.srt
-  - uid: a8be9fae35af16675536f2a161b3b91a
-    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
-    id: 7euh_iwzSGo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/free-schroedinger-equation/7euh_iwzSGo.pdf
-  - uid: cb761dcc0cc59a58896f57360d014a1e
-    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f6d712eeb39310131c685fc9f77b6047
-    parent_uid: 60fe7d60cf50afdcf6b7960ecde83813
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 60fe7d60cf50afdcf6b7960ecde83813
 type: courses
 layout: video
 ---

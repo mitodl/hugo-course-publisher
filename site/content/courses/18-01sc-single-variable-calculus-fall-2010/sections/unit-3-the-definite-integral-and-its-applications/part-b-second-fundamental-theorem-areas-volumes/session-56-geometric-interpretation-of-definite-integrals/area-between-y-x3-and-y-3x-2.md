@@ -1,13 +1,68 @@
 ---
-title: Area Between y=x3 and y=3x-2
-uid: ecedaefad64f4369b70d1217b88cc0a9
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: U3ebQ5Z4Jt8
+    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ba6e692e271d785d2777359cc1c7a722
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/U3ebQ5Z4Jt8/default.jpg'
+    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fece62a78331fe26234fd31e8f87913b
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: U3ebQ5Z4Jt8
+    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6db1fbf096b98622757aaecae18603f5
+  - id: U3ebQ5Z4Jt8.srt
+    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals/area-between-y-x3-and-y-3x-2/U3ebQ5Z4Jt8.srt
+    title: 3play caption file
+    type: null
+    uid: ad43188b9105582718fd847be4490d48
+  - id: U3ebQ5Z4Jt8.pdf
+    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals/area-between-y-x3-and-y-3x-2/U3ebQ5Z4Jt8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 59c6aac137e69d79f3346b7c68a248c3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: dc039d3d6454bfd0a08fe7c908a3d692
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e2decc74aac39e3ce1fd14535f6e5a92
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_43_300k.mp4'
+    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 35105c42d8f028830589f0e9ab69077a
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/area-between-y-x-3-and-y-3x-2/id414308064?i=90319645
+    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a3f94c93b4027cc20371d5dfe2733706
+inline_embed_id: 48978392areabetweeny=x3andy=3x-291363923
 parent_uid: ab02e80b2f16511d81481be8277cb20d
+related_resources_text: ''
+short_url: area-between-y-x3-and-y-3x-2
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals/area-between-y-x3-and-y-3x-2
-short_url: area-between-y-x3-and-y-3x-2
-inline_embed_id: 48978392areabetweeny=x3andy=3x-291363923
-about_this_resource_text: ''
-related_resources_text: ''
+title: Area Between y=x3 and y=3x-2
 transcript: >-
   <p><span m='6970'>PROFESSOR: Hi.</span> <span m='7360'>Welcome</span> <span
   m='7740'>back</span> <span m='7940'>to</span> <span
@@ -568,62 +623,7 @@ transcript: >-
   <span m='529190'>our</span> <span m='529300'>final</span> <span
   m='529770'>area.</span> <span m='530710'>So I'll end</span> <span
   m='531130'>there.</span> </p>
-embedded_media:
-  - uid: ba6e692e271d785d2777359cc1c7a722
-    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: U3ebQ5Z4Jt8
-  - uid: fece62a78331fe26234fd31e8f87913b
-    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/U3ebQ5Z4Jt8/default.jpg'
-  - uid: 6db1fbf096b98622757aaecae18603f5
-    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: U3ebQ5Z4Jt8
-  - uid: ad43188b9105582718fd847be4490d48
-    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
-    id: U3ebQ5Z4Jt8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals/area-between-y-x3-and-y-3x-2/U3ebQ5Z4Jt8.srt
-  - uid: 59c6aac137e69d79f3346b7c68a248c3
-    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
-    id: U3ebQ5Z4Jt8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals/area-between-y-x3-and-y-3x-2/U3ebQ5Z4Jt8.pdf
-  - uid: dc039d3d6454bfd0a08fe7c908a3d692
-    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e2decc74aac39e3ce1fd14535f6e5a92
-    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 35105c42d8f028830589f0e9ab69077a
-    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_43_300k.mp4'
-  - uid: a3f94c93b4027cc20371d5dfe2733706
-    parent_uid: ecedaefad64f4369b70d1217b88cc0a9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/area-between-y-x-3-and-y-3x-2/id414308064?i=90319645
+uid: ecedaefad64f4369b70d1217b88cc0a9
 type: courses
 layout: video
 ---

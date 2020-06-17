@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Volume of a Cauldron'
-uid: e47bcb5c665ab4627761ab3aef710feb
-parent_uid: 2a892d50ed0126e15d3603ad2d218d9e
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/clip-1-volume-of-a-cauldron
-short_url: clip-1-volume-of-a-cauldron
-inline_embed_id: '25984495clip1:volumeofacauldron90874548'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/f0b193847ca8f817a239ad783b26db15"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 22 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ShGBRUx2ub8
+    parent_uid: e47bcb5c665ab4627761ab3aef710feb
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8151f41bd2cd6228a062629cc9f644c1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ShGBRUx2ub8/default.jpg'
+    parent_uid: e47bcb5c665ab4627761ab3aef710feb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8d763953d35e5e813224121d29fc4acc
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: ShGBRUx2ub8
+    parent_uid: e47bcb5c665ab4627761ab3aef710feb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2d687285055ec387a33ab1dc9f319055
+  - id: ShGBRUx2ub8.srt
+    parent_uid: e47bcb5c665ab4627761ab3aef710feb
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/clip-1-volume-of-a-cauldron/ShGBRUx2ub8.srt
+    title: 3play caption file
+    type: null
+    uid: 80d170e6d4365d30c0bb1a6f7f065816
+  - id: ShGBRUx2ub8.pdf
+    parent_uid: e47bcb5c665ab4627761ab3aef710feb
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/clip-1-volume-of-a-cauldron/ShGBRUx2ub8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0cba8370260ba9288912cec5d1d908b8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e47bcb5c665ab4627761ab3aef710feb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ba0f541e1aa85452bbe95a180f33ae18
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e47bcb5c665ab4627761ab3aef710feb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 005dfaac857c5ad43349e6de4b0296b1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec22_300k.mp4'
+    parent_uid: e47bcb5c665ab4627761ab3aef710feb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 500731a00b1a51f44b20a70b261dc3d4
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: e47bcb5c665ab4627761ab3aef710feb
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 38101176fe86e2b1335c9dad5fd092e8
+inline_embed_id: '25984495clip1:volumeofacauldron90874548'
+parent_uid: 2a892d50ed0126e15d3603ad2d218d9e
 related_resources_text: ''
+short_url: clip-1-volume-of-a-cauldron
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/clip-1-volume-of-a-cauldron
+title: 'Clip 1: Volume of a Cauldron'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following</span> <span
   m='530'>content</span> <span m='1300'>is</span> <span m='1420'>provided</span>
@@ -2720,61 +2774,7 @@ transcript: >-
   it</span> <span m='2992780'>takes</span> <span m='2993900'>to</span> <span
   m='2994700'>boil</span> <span m='2995100'>the</span> <span
   m='2995160'>kettle.</span> </p>
-embedded_media:
-  - uid: 8151f41bd2cd6228a062629cc9f644c1
-    parent_uid: e47bcb5c665ab4627761ab3aef710feb
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ShGBRUx2ub8
-  - uid: 8d763953d35e5e813224121d29fc4acc
-    parent_uid: e47bcb5c665ab4627761ab3aef710feb
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ShGBRUx2ub8/default.jpg'
-  - uid: 2d687285055ec387a33ab1dc9f319055
-    parent_uid: e47bcb5c665ab4627761ab3aef710feb
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ShGBRUx2ub8
-  - uid: 80d170e6d4365d30c0bb1a6f7f065816
-    parent_uid: e47bcb5c665ab4627761ab3aef710feb
-    id: ShGBRUx2ub8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/clip-1-volume-of-a-cauldron/ShGBRUx2ub8.srt
-  - uid: 0cba8370260ba9288912cec5d1d908b8
-    parent_uid: e47bcb5c665ab4627761ab3aef710feb
-    id: ShGBRUx2ub8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/clip-1-volume-of-a-cauldron/ShGBRUx2ub8.pdf
-  - uid: ba0f541e1aa85452bbe95a180f33ae18
-    parent_uid: e47bcb5c665ab4627761ab3aef710feb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 005dfaac857c5ad43349e6de4b0296b1
-    parent_uid: e47bcb5c665ab4627761ab3aef710feb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 500731a00b1a51f44b20a70b261dc3d4
-    parent_uid: e47bcb5c665ab4627761ab3aef710feb
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec22_300k.mp4'
-  - uid: 38101176fe86e2b1335c9dad5fd092e8
-    parent_uid: e47bcb5c665ab4627761ab3aef710feb
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: e47bcb5c665ab4627761ab3aef710feb
 type: courses
 layout: video
 ---

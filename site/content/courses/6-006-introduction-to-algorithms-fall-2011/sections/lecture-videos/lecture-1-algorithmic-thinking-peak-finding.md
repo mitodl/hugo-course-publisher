@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 1: Algorithmic Thinking, Peak Finding'
-uid: c9d029dc32fdd36dfd22fdf26e2f990a
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-1-algorithmic-thinking-peak-finding
-short_url: lecture-1-algorithmic-thinking-peak-finding
-inline_embed_id: '53293808lecture1:algorithmicthinking,peakfinding94393560'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Overview of course content, including an
   motivating problem for each of the modules. The lecture then covers 1-D and
   2-D peak finding, using this problem to point out some issues involved in
   designing efficient algorithms.</p> <p><strong>Instructor:</strong> Srini
   Devadas</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: HtSuA80QTyo
+    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7ad63d88f0203991b1596181370176a8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/HtSuA80QTyo/default.jpg'
+    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5b44dfd7d19eb76613b386bd8e871ed4
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-1-algorithmic-thinking/id585700718?i=126126063
+    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9b31d5b137c2733574b0046000ca281d
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec01_300k.mp4'
+    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7c81065e8d0d353a65282002fdc0f6f9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: HtSuA80QTyo
+    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7811a436544e23048ba9c9e9e7ce7ebb
+  - id: HtSuA80QTyo.srt
+    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-1-algorithmic-thinking-peak-finding/HtSuA80QTyo.srt
+    title: 3play caption file
+    type: null
+    uid: 51b3556fd092b13f66e7860677241346
+  - id: HtSuA80QTyo.pdf
+    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-1-algorithmic-thinking-peak-finding/HtSuA80QTyo.pdf
+    title: 3play pdf file
+    type: null
+    uid: e0e15581a79266c52032ca8bb7733c5d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1a392c17289ae8cead2c61d7ee935d5c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1b511f64d3e9cc7b269479fcc65534e1
+inline_embed_id: '53293808lecture1:algorithmicthinking,peakfinding94393560'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-1-algorithmic-thinking-peak-finding
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-1-algorithmic-thinking-peak-finding
+title: 'Lecture 1: Algorithmic Thinking, Peak Finding'
 transcript: >-
   <p><span m='50'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -3195,62 +3250,7 @@ transcript: >-
   m='3198990'>And</span> <span m='3199390'>I</span> <span m='3199460'>owe</span>
   <span m='3199600'>that</span> <span m='3199750'>gentleman</span> <span
   m='3200100'>a cushion.</span> </p>
-embedded_media:
-  - uid: 7ad63d88f0203991b1596181370176a8
-    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: HtSuA80QTyo
-  - uid: 5b44dfd7d19eb76613b386bd8e871ed4
-    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/HtSuA80QTyo/default.jpg'
-  - uid: 9b31d5b137c2733574b0046000ca281d
-    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-1-algorithmic-thinking/id585700718?i=126126063
-  - uid: 7c81065e8d0d353a65282002fdc0f6f9
-    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec01_300k.mp4'
-  - uid: 7811a436544e23048ba9c9e9e7ce7ebb
-    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: HtSuA80QTyo
-  - uid: 51b3556fd092b13f66e7860677241346
-    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
-    id: HtSuA80QTyo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-1-algorithmic-thinking-peak-finding/HtSuA80QTyo.srt
-  - uid: e0e15581a79266c52032ca8bb7733c5d
-    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
-    id: HtSuA80QTyo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-1-algorithmic-thinking-peak-finding/HtSuA80QTyo.pdf
-  - uid: 1a392c17289ae8cead2c61d7ee935d5c
-    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1b511f64d3e9cc7b269479fcc65534e1
-    parent_uid: c9d029dc32fdd36dfd22fdf26e2f990a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c9d029dc32fdd36dfd22fdf26e2f990a
 type: courses
 layout: video
 ---

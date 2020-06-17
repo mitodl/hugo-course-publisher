@@ -1,13 +1,73 @@
 ---
-title: Interpretation of the wavefunction
-uid: 93be324286228ed979146844dc4a286f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: R-5hjmV-bdY
+    parent_uid: 93be324286228ed979146844dc4a286f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5b31fc9af700876ac50d86c591d4df57
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FYKvTiDikOk/default.jpg'
+    parent_uid: 93be324286228ed979146844dc4a286f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7eb5674fcdf2ee38cffc0554ec6d761e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: R-5hjmV-bdY
+    parent_uid: 93be324286228ed979146844dc4a286f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9784265a7d23a32ce1bbc1a08b34e561
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 93be324286228ed979146844dc4a286f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 22b6945bf4b9bcec0856e1c6421bbb7d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec05_s5_300k.mp4'
+    parent_uid: 93be324286228ed979146844dc4a286f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c8731f869c53807af23898b8e2412f9f
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/R-5hjmV-bdY/default.jpg'
+    parent_uid: 93be324286228ed979146844dc4a286f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6c2773fcdf05a6ef0dca984b1cce0bc6
+  - id: R-5hjmV-bdY.srt
+    parent_uid: 93be324286228ed979146844dc4a286f
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/interpretation-of-the-wavefunction/R-5hjmV-bdY.srt
+    title: 3play caption file
+    type: null
+    uid: ee7f893151b4a997e3d7463bc98f8f01
+  - id: R-5hjmV-bdY.pdf
+    parent_uid: 93be324286228ed979146844dc4a286f
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/interpretation-of-the-wavefunction/R-5hjmV-bdY.pdf
+    title: 3play pdf file
+    type: null
+    uid: a2512ca00352d04df460e3e2f62ace65
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 93be324286228ed979146844dc4a286f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 621e503856f66ba52c667ce9a2fd8b9d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 93be324286228ed979146844dc4a286f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 66de90f27f9561cb67298fed3592ba27
+inline_embed_id: 97331345interpretationofthewavefunction50281495
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: interpretation-of-the-wavefunction
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/interpretation-of-the-wavefunction
-short_url: interpretation-of-the-wavefunction
-inline_embed_id: 97331345interpretationofthewavefunction50281495
-about_this_resource_text: ''
-related_resources_text: ''
+title: Interpretation of the wavefunction
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='190'>interpretation</span> <span
   m='760'>of</span> <span m='1080'>the</span> <span m='1200'>wave</span> <span
@@ -390,67 +450,7 @@ transcript: >-
   m='478850'>will</span> <span m='479060'>still</span> <span
   m='479420'>be</span> <span m='479600'>a</span> <span
   m='479660'>probability</span> <span m='480260'>distribution.</span> </p>
-embedded_media:
-  - uid: 5b31fc9af700876ac50d86c591d4df57
-    parent_uid: 93be324286228ed979146844dc4a286f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: R-5hjmV-bdY
-  - uid: 7eb5674fcdf2ee38cffc0554ec6d761e
-    parent_uid: 93be324286228ed979146844dc4a286f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FYKvTiDikOk/default.jpg'
-  - uid: 9784265a7d23a32ce1bbc1a08b34e561
-    parent_uid: 93be324286228ed979146844dc4a286f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: R-5hjmV-bdY
-  - uid: 22b6945bf4b9bcec0856e1c6421bbb7d
-    parent_uid: 93be324286228ed979146844dc4a286f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: c8731f869c53807af23898b8e2412f9f
-    parent_uid: 93be324286228ed979146844dc4a286f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec05_s5_300k.mp4'
-  - uid: 6c2773fcdf05a6ef0dca984b1cce0bc6
-    parent_uid: 93be324286228ed979146844dc4a286f
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/R-5hjmV-bdY/default.jpg'
-  - uid: ee7f893151b4a997e3d7463bc98f8f01
-    parent_uid: 93be324286228ed979146844dc4a286f
-    id: R-5hjmV-bdY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/interpretation-of-the-wavefunction/R-5hjmV-bdY.srt
-  - uid: a2512ca00352d04df460e3e2f62ace65
-    parent_uid: 93be324286228ed979146844dc4a286f
-    id: R-5hjmV-bdY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/interpretation-of-the-wavefunction/R-5hjmV-bdY.pdf
-  - uid: 621e503856f66ba52c667ce9a2fd8b9d
-    parent_uid: 93be324286228ed979146844dc4a286f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 66de90f27f9561cb67298fed3592ba27
-    parent_uid: 93be324286228ed979146844dc4a286f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 93be324286228ed979146844dc4a286f
 type: courses
 layout: video
 ---

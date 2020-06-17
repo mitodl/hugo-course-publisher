@@ -1,13 +1,62 @@
 ---
-title: 'Video 8: Predicting Healthcare Costs in R'
-uid: 3f95c5adb13cf1d6c97b2ee6e111992a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: iJvEgQkLjow
+    parent_uid: 3f95c5adb13cf1d6c97b2ee6e111992a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2d79ed84819e071caacc6d9daaec5422
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: iJvEgQkLjow
+    parent_uid: 3f95c5adb13cf1d6c97b2ee6e111992a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 92caf85625bb4a183dc43d2fa4b39bed
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/iJvEgQkLjow/default.jpg'
+    parent_uid: 3f95c5adb13cf1d6c97b2ee6e111992a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6c6e442dff22a6a078bdd658b9a0614d
+  - id: iJvEgQkLjow.srt
+    parent_uid: 3f95c5adb13cf1d6c97b2ee6e111992a
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-8-predicting-healthcare-cost-in-r/video-8-predicting-healthcare-costs-in-r/iJvEgQkLjow.srt
+    title: 3play caption file
+    type: null
+    uid: 39fe3dc1da8ac0702f02c4c4dace83eb
+  - id: iJvEgQkLjow.pdf
+    parent_uid: 3f95c5adb13cf1d6c97b2ee6e111992a
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-8-predicting-healthcare-cost-in-r/video-8-predicting-healthcare-costs-in-r/iJvEgQkLjow.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3a7b16d69be991a0bbab097d12ac4535
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3f95c5adb13cf1d6c97b2ee6e111992a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4a223d944839d52c78c34d509ac84248
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3f95c5adb13cf1d6c97b2ee6e111992a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a351f2bb06bf01bb26dcbc85fb397d79
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.3.15_300k.mp4
+    parent_uid: 3f95c5adb13cf1d6c97b2ee6e111992a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a9f74f7cea24f202e05305f18f1eb172
+inline_embed_id: 23357306video8predictinghealthcarecostsinr28566615
 parent_uid: 42af8e9a43f3ab0e231be7ab1d08c0ca
+related_resources_text: ''
+short_url: video-8-predicting-healthcare-costs-in-r
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-8-predicting-healthcare-cost-in-r/video-8-predicting-healthcare-costs-in-r
-short_url: video-8-predicting-healthcare-costs-in-r
-inline_embed_id: 23357306video8predictinghealthcarecostsinr28566615
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 8: Predicting Healthcare Costs in R'
 transcript: >-
   <p><span m='4500'>In</span> <span m='4777'>this</span> <span
   m='5055'>video,</span> <span m='5332'>we'll</span> <span m='5610'>build</span>
@@ -462,56 +511,7 @@ transcript: >-
   m='562618'>how</span> <span m='563135'>analytics</span> <span
   m='563652'>can</span> <span m='564169'>provide</span> <span
   m='564686'>an</span> <span m='565203'>edge.</span> </p>
-embedded_media:
-  - uid: 2d79ed84819e071caacc6d9daaec5422
-    parent_uid: 3f95c5adb13cf1d6c97b2ee6e111992a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: iJvEgQkLjow
-  - uid: 92caf85625bb4a183dc43d2fa4b39bed
-    parent_uid: 3f95c5adb13cf1d6c97b2ee6e111992a
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: iJvEgQkLjow
-  - uid: 6c6e442dff22a6a078bdd658b9a0614d
-    parent_uid: 3f95c5adb13cf1d6c97b2ee6e111992a
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/iJvEgQkLjow/default.jpg'
-  - uid: 39fe3dc1da8ac0702f02c4c4dace83eb
-    parent_uid: 3f95c5adb13cf1d6c97b2ee6e111992a
-    id: iJvEgQkLjow.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-8-predicting-healthcare-cost-in-r/video-8-predicting-healthcare-costs-in-r/iJvEgQkLjow.srt
-  - uid: 3a7b16d69be991a0bbab097d12ac4535
-    parent_uid: 3f95c5adb13cf1d6c97b2ee6e111992a
-    id: iJvEgQkLjow.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-8-predicting-healthcare-cost-in-r/video-8-predicting-healthcare-costs-in-r/iJvEgQkLjow.pdf
-  - uid: 4a223d944839d52c78c34d509ac84248
-    parent_uid: 3f95c5adb13cf1d6c97b2ee6e111992a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a351f2bb06bf01bb26dcbc85fb397d79
-    parent_uid: 3f95c5adb13cf1d6c97b2ee6e111992a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a9f74f7cea24f202e05305f18f1eb172
-    parent_uid: 3f95c5adb13cf1d6c97b2ee6e111992a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.3.15_300k.mp4
+uid: 3f95c5adb13cf1d6c97b2ee6e111992a
 type: courses
 layout: video
 ---

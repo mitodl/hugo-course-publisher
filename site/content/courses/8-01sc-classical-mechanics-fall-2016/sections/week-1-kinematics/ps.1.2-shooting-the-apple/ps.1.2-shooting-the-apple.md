@@ -1,13 +1,67 @@
 ---
-title: PS.1.2 Shooting the Apple
-uid: e45630ac05638cf96c96b6ef7727451b
+about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: PQfYJ2TjpEU
+    parent_uid: e45630ac05638cf96c96b6ef7727451b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9cfc8fb9387f1e0fdd49d263d5156143
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/PQfYJ2TjpEU/default.jpg'
+    parent_uid: e45630ac05638cf96c96b6ef7727451b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 48321b2b7b4675176db34d1c849c5520
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: PQfYJ2TjpEU
+    parent_uid: e45630ac05638cf96c96b6ef7727451b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 469215e1eee9cef0af880c5985ce0011
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: e45630ac05638cf96c96b6ef7727451b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e8ddf666ceffb144875a167091bb5214
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W01PS02_360p.mp4'
+    parent_uid: e45630ac05638cf96c96b6ef7727451b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d24aa9224214a517aeebf230aa30d94a
+  - id: PQfYJ2TjpEU.srt
+    parent_uid: e45630ac05638cf96c96b6ef7727451b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.2-shooting-the-apple/ps.1.2-shooting-the-apple/PQfYJ2TjpEU.srt
+    title: 3play caption file
+    type: null
+    uid: ea6d80cc345a0554ed7394cc807ffaab
+  - id: PQfYJ2TjpEU.pdf
+    parent_uid: e45630ac05638cf96c96b6ef7727451b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.2-shooting-the-apple/ps.1.2-shooting-the-apple/PQfYJ2TjpEU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6a9f5c603b8820890953505071a59fd2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e45630ac05638cf96c96b6ef7727451b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 74fd9eb49a2199ee7f121d40cf771c46
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e45630ac05638cf96c96b6ef7727451b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6a145cb3acdc90115d2d487e1ae2d12b
+inline_embed_id: 35291035ps.1.2shootingtheapple60146114
 parent_uid: 3d4cf0c9ea1b525e0dda74b39d1080a8
+related_resources_text: ''
+short_url: ps.1.2-shooting-the-apple
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.2-shooting-the-apple/ps.1.2-shooting-the-apple
-short_url: ps.1.2-shooting-the-apple
-inline_embed_id: 35291035ps.1.2shootingtheapple60146114
-about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
-related_resources_text: ''
+title: PS.1.2 Shooting the Apple
 transcript: >-
   <p><span m='3750'>PROFESSOR:</span> <span m='3855'>So</span> <span
   m='3960'>in</span> <span m='4050'>this</span> <span m='4230'>example,</span>
@@ -631,61 +685,7 @@ transcript: >-
   m='612960'>that</span> <span m='613080'>would</span> <span
   m='613230'>change</span> <span m='613500'>your</span> <span
   m='613590'>answer.</span> </p>
-embedded_media:
-  - uid: 9cfc8fb9387f1e0fdd49d263d5156143
-    parent_uid: e45630ac05638cf96c96b6ef7727451b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: PQfYJ2TjpEU
-  - uid: 48321b2b7b4675176db34d1c849c5520
-    parent_uid: e45630ac05638cf96c96b6ef7727451b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/PQfYJ2TjpEU/default.jpg'
-  - uid: 469215e1eee9cef0af880c5985ce0011
-    parent_uid: e45630ac05638cf96c96b6ef7727451b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: PQfYJ2TjpEU
-  - uid: e8ddf666ceffb144875a167091bb5214
-    parent_uid: e45630ac05638cf96c96b6ef7727451b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: d24aa9224214a517aeebf230aa30d94a
-    parent_uid: e45630ac05638cf96c96b6ef7727451b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W01PS02_360p.mp4'
-  - uid: ea6d80cc345a0554ed7394cc807ffaab
-    parent_uid: e45630ac05638cf96c96b6ef7727451b
-    id: PQfYJ2TjpEU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.2-shooting-the-apple/ps.1.2-shooting-the-apple/PQfYJ2TjpEU.srt
-  - uid: 6a9f5c603b8820890953505071a59fd2
-    parent_uid: e45630ac05638cf96c96b6ef7727451b
-    id: PQfYJ2TjpEU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.2-shooting-the-apple/ps.1.2-shooting-the-apple/PQfYJ2TjpEU.pdf
-  - uid: 74fd9eb49a2199ee7f121d40cf771c46
-    parent_uid: e45630ac05638cf96c96b6ef7727451b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6a145cb3acdc90115d2d487e1ae2d12b
-    parent_uid: e45630ac05638cf96c96b6ef7727451b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e45630ac05638cf96c96b6ef7727451b
 type: courses
 layout: video
 ---

@@ -1,18 +1,72 @@
 ---
-title: 'Clip 5: Differentiable Implies Continuous'
-uid: d6ec5a089189b3a23a4041001bde72e0
-parent_uid: d0bc8735c3a450ca5aad8ed8059d679d
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-5-differentiable-implies-continuous
-short_url: clip-5-differentiable-implies-continuous
-inline_embed_id: '78757086clip5:differentiableimpliescontinuous43395597'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/80d39e825d96c3c4930171cb8c6e96fb"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 2 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
+    parent_uid: d6ec5a089189b3a23a4041001bde72e0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d6662358dc973bf9f75f8a7d53a7c7ae
+  - id: Video-YouTube-Stream
+    media_location: ryLdyDrBfvI
+    parent_uid: d6ec5a089189b3a23a4041001bde72e0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7266bc98eeba2e1f48f49f4d3ef13ac9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
+    parent_uid: d6ec5a089189b3a23a4041001bde72e0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5922fc4eff1db0044ae6bfc8dcd6c18f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ryLdyDrBfvI
+    parent_uid: d6ec5a089189b3a23a4041001bde72e0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5b5f5803de46dfcc7af9af0dcfc8db8a
+  - id: ryLdyDrBfvI.srt
+    parent_uid: d6ec5a089189b3a23a4041001bde72e0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-5-differentiable-implies-continuous/ryLdyDrBfvI.srt
+    title: 3play caption file
+    type: null
+    uid: f99931979fadca4dbf80314f1a626d00
+  - id: ryLdyDrBfvI.pdf
+    parent_uid: d6ec5a089189b3a23a4041001bde72e0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-5-differentiable-implies-continuous/ryLdyDrBfvI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2829b7d434aa36c33f83bd3c76a89f38
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d6ec5a089189b3a23a4041001bde72e0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e0ee5abb7a2a183b6bb04599c1b9dbfc
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d6ec5a089189b3a23a4041001bde72e0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5780a15cbb6d26d22f3c46f98cf4f05a
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: d6ec5a089189b3a23a4041001bde72e0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b07a04e1077e685cd0c4e652d844ea50
+inline_embed_id: '78757086clip5:differentiableimpliescontinuous43395597'
+parent_uid: d0bc8735c3a450ca5aad8ed8059d679d
 related_resources_text: ''
+short_url: clip-5-differentiable-implies-continuous
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-5-differentiable-implies-continuous
+title: 'Clip 5: Differentiable Implies Continuous'
 transcript: >-
   <p><span m="110">The</span> <span m="360">following</span> <span
   m="1410">content</span> <span m="1670">is provided</span> <span
@@ -2566,61 +2620,7 @@ transcript: >-
   m="3162770">me</span> <span m="3163230">other</span> <span
   m="3163430">stuff</span> <span m="3163770">after</span> <span
   m="3164070">lecture.</span></p>
-embedded_media:
-  - uid: d6662358dc973bf9f75f8a7d53a7c7ae
-    parent_uid: d6ec5a089189b3a23a4041001bde72e0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
-  - uid: 7266bc98eeba2e1f48f49f4d3ef13ac9
-    parent_uid: d6ec5a089189b3a23a4041001bde72e0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ryLdyDrBfvI
-  - uid: 5922fc4eff1db0044ae6bfc8dcd6c18f
-    parent_uid: d6ec5a089189b3a23a4041001bde72e0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
-  - uid: 5b5f5803de46dfcc7af9af0dcfc8db8a
-    parent_uid: d6ec5a089189b3a23a4041001bde72e0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ryLdyDrBfvI
-  - uid: f99931979fadca4dbf80314f1a626d00
-    parent_uid: d6ec5a089189b3a23a4041001bde72e0
-    id: ryLdyDrBfvI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-5-differentiable-implies-continuous/ryLdyDrBfvI.srt
-  - uid: 2829b7d434aa36c33f83bd3c76a89f38
-    parent_uid: d6ec5a089189b3a23a4041001bde72e0
-    id: ryLdyDrBfvI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-5-differentiable-implies-continuous/ryLdyDrBfvI.pdf
-  - uid: e0ee5abb7a2a183b6bb04599c1b9dbfc
-    parent_uid: d6ec5a089189b3a23a4041001bde72e0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5780a15cbb6d26d22f3c46f98cf4f05a
-    parent_uid: d6ec5a089189b3a23a4041001bde72e0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b07a04e1077e685cd0c4e652d844ea50
-    parent_uid: d6ec5a089189b3a23a4041001bde72e0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: d6ec5a089189b3a23a4041001bde72e0
 type: courses
 layout: video
 ---

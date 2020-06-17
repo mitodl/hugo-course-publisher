@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 1: Introduction and Scope'
-uid: 435aa7fed46735cc46cd5e485ee66a1b
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope
-short_url: lecture-1-introduction-and-scope
-inline_embed_id: '97283702lecture1:introductionandscope51129716'
 about_this_resource_text: >-
   <p><strong>Description: </strong>In this lecture, Prof. Winston introduces
   artificial intelligence and provides a brief history of the field.  The last
   ten minutes are devoted to information about the course at MIT.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TjZBTDzGeGg
+    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0bcabe8c4dbb1a67666f253c3f3858cc
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-1-introduction-scope/id765641080?i=194466712
+    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a4edbc711cc62f27035e05767ece2bc0
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec01_300k.mp4'
+    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4f4c65172993717040326d94cc18e5b5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TjZBTDzGeGg/default.jpg'
+    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0c709b7b167f07f7fae6106b8dc931e2
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TjZBTDzGeGg
+    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e4c2c30386091d2544a2eff96ad906af
+  - id: TjZBTDzGeGg.srt
+    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/TjZBTDzGeGg.srt
+    title: 3play caption file
+    type: null
+    uid: 19f3dc37bfa1f971be1be6d6f1bca974
+  - id: TjZBTDzGeGg.pdf
+    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/TjZBTDzGeGg.pdf
+    title: 3play pdf file
+    type: null
+    uid: b971a013f52a4c337fc0cf793e81b7b9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c725a2d1e387286ac415d1244389a037
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d893ba79b64556927fd8998361bcc1e0
+inline_embed_id: '97283702lecture1:introductionandscope51129716'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
+short_url: lecture-1-introduction-and-scope
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope
+title: 'Lecture 1: Introduction and Scope'
 transcript: >-
   <p><span m='18200'>PATRICK WINSTON: Welcome to 6034.</span> </p><p><span
   m='26190'>I don't know if I can deal with this microphone.</span> </p><p><span
@@ -824,62 +879,7 @@ transcript: >-
   </p><p><span m='2810640'>That concludes what we're going to do today.</span>
   </p><p><span m='2812470'>And as soon as you give us your form, we're
   through.</span> </p><p></p>
-embedded_media:
-  - uid: 0bcabe8c4dbb1a67666f253c3f3858cc
-    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TjZBTDzGeGg
-  - uid: a4edbc711cc62f27035e05767ece2bc0
-    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-1-introduction-scope/id765641080?i=194466712
-  - uid: 4f4c65172993717040326d94cc18e5b5
-    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec01_300k.mp4'
-  - uid: 0c709b7b167f07f7fae6106b8dc931e2
-    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TjZBTDzGeGg/default.jpg'
-  - uid: e4c2c30386091d2544a2eff96ad906af
-    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TjZBTDzGeGg
-  - uid: 19f3dc37bfa1f971be1be6d6f1bca974
-    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
-    id: TjZBTDzGeGg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/TjZBTDzGeGg.srt
-  - uid: b971a013f52a4c337fc0cf793e81b7b9
-    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
-    id: TjZBTDzGeGg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/TjZBTDzGeGg.pdf
-  - uid: c725a2d1e387286ac415d1244389a037
-    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d893ba79b64556927fd8998361bcc1e0
-    parent_uid: 435aa7fed46735cc46cd5e485ee66a1b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 435aa7fed46735cc46cd5e485ee66a1b
 type: courses
 layout: video
 ---

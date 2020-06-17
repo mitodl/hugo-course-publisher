@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 1: Periodic Oscillations, Harmonic Oscillators'
-uid: 7d8f688dff029eb64613586c94e209aa
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 4ysFC9vd3GE
+    parent_uid: 7d8f688dff029eb64613586c94e209aa
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c3d300961793e91ef3f628e776367af4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4ysFC9vd3GE/default.jpg'
+    parent_uid: 7d8f688dff029eb64613586c94e209aa
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0d7fcba78da8934edcc6edbab285b76b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 4ysFC9vd3GE
+    parent_uid: 7d8f688dff029eb64613586c94e209aa
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 49a66e4d181804c651e5ba080b966309
+  - id: 4ysFC9vd3GE.srt
+    parent_uid: 7d8f688dff029eb64613586c94e209aa
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-1-video/4ysFC9vd3GE.srt
+    title: 3play caption file
+    type: null
+    uid: d6115b54e65e919b5b425fb523bb6e66
+  - id: 4ysFC9vd3GE.pdf
+    parent_uid: 7d8f688dff029eb64613586c94e209aa
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-1-video/4ysFC9vd3GE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6c9bb00e37847c8252f4766852aebabe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7d8f688dff029eb64613586c94e209aa
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f87d879cd866ec96283cfcad93408bf5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7d8f688dff029eb64613586c94e209aa
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 49455b5fd05454eb1f41fd6090768394
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec01_300k.mp4'
+    parent_uid: 7d8f688dff029eb64613586c94e209aa
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e64873553c2f270aad368bac222d9885
+inline_embed_id: 12620402lecture1video75518772
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-1-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-1-video
-short_url: lecture-1-video
-inline_embed_id: 12620402lecture1video75518772
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 1: Periodic Oscillations, Harmonic Oscillators'
 transcript: >-
   <p><span m="2490">The</span> <span m="2580">following</span> <span
   m="3030">content</span> <span m="3510">is</span> <span
@@ -2809,55 +2857,7 @@ transcript: >-
   m="3409880">I'm</span> <span m="3410150">here</span> <span
   m="3410520">available</span> <span m="3413570">to</span> <span
   m="3413690">help</span> <span m="3413930">you.</span></p>
-embedded_media:
-  - uid: c3d300961793e91ef3f628e776367af4
-    parent_uid: 7d8f688dff029eb64613586c94e209aa
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4ysFC9vd3GE
-  - uid: 0d7fcba78da8934edcc6edbab285b76b
-    parent_uid: 7d8f688dff029eb64613586c94e209aa
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4ysFC9vd3GE/default.jpg'
-  - uid: 49a66e4d181804c651e5ba080b966309
-    parent_uid: 7d8f688dff029eb64613586c94e209aa
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4ysFC9vd3GE
-  - uid: d6115b54e65e919b5b425fb523bb6e66
-    parent_uid: 7d8f688dff029eb64613586c94e209aa
-    id: 4ysFC9vd3GE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-1-video/4ysFC9vd3GE.srt
-  - uid: 6c9bb00e37847c8252f4766852aebabe
-    parent_uid: 7d8f688dff029eb64613586c94e209aa
-    id: 4ysFC9vd3GE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-1-video/4ysFC9vd3GE.pdf
-  - uid: f87d879cd866ec96283cfcad93408bf5
-    parent_uid: 7d8f688dff029eb64613586c94e209aa
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 49455b5fd05454eb1f41fd6090768394
-    parent_uid: 7d8f688dff029eb64613586c94e209aa
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e64873553c2f270aad368bac222d9885
-    parent_uid: 7d8f688dff029eb64613586c94e209aa
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec01_300k.mp4'
+uid: 7d8f688dff029eb64613586c94e209aa
 type: courses
 layout: video
 ---

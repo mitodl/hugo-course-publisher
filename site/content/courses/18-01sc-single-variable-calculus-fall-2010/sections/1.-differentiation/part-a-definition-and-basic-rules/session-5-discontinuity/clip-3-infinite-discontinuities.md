@@ -1,18 +1,72 @@
 ---
-title: 'Clip 3: Infinite Discontinuities'
-uid: e979a0fdd57ca990be92384e90ea9a22
-parent_uid: d0bc8735c3a450ca5aad8ed8059d679d
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-3-infinite-discontinuities
-short_url: clip-3-infinite-discontinuities
-inline_embed_id: '89761176clip3:infinitediscontinuities65470651'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/08d1a256abcd86ac1a25dcb1b07a3516"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 2 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ryLdyDrBfvI
+    parent_uid: e979a0fdd57ca990be92384e90ea9a22
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ab48d4f95a624d1a111b29f83a91721c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
+    parent_uid: e979a0fdd57ca990be92384e90ea9a22
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c8562d702459e357ca510a2e18e24fcd
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
+    parent_uid: e979a0fdd57ca990be92384e90ea9a22
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0475739daa068850f7fd384956c218e4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ryLdyDrBfvI
+    parent_uid: e979a0fdd57ca990be92384e90ea9a22
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5e7c80ed131456d914316b483426460c
+  - id: ryLdyDrBfvI.srt
+    parent_uid: e979a0fdd57ca990be92384e90ea9a22
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-3-infinite-discontinuities/ryLdyDrBfvI.srt
+    title: 3play caption file
+    type: null
+    uid: 2bd1147a06d170b4bdd52a2b520851f1
+  - id: ryLdyDrBfvI.pdf
+    parent_uid: e979a0fdd57ca990be92384e90ea9a22
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-3-infinite-discontinuities/ryLdyDrBfvI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 380da7ab3201ce2017659bd8f3463abd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e979a0fdd57ca990be92384e90ea9a22
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 09d3ff51d8397a93eab7c77b00f6ad40
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e979a0fdd57ca990be92384e90ea9a22
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 89d58707ffbf8e07f496b7bde1770b70
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: e979a0fdd57ca990be92384e90ea9a22
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 57033668b40d7ab01574196e1ac12d7b
+inline_embed_id: '89761176clip3:infinitediscontinuities65470651'
+parent_uid: d0bc8735c3a450ca5aad8ed8059d679d
 related_resources_text: ''
+short_url: clip-3-infinite-discontinuities
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-3-infinite-discontinuities
+title: 'Clip 3: Infinite Discontinuities'
 transcript: >-
   <p><span m="110">The</span> <span m="360">following</span> <span
   m="1410">content</span> <span m="1670">is provided</span> <span
@@ -2566,61 +2620,7 @@ transcript: >-
   m="3162770">me</span> <span m="3163230">other</span> <span
   m="3163430">stuff</span> <span m="3163770">after</span> <span
   m="3164070">lecture.</span></p>
-embedded_media:
-  - uid: ab48d4f95a624d1a111b29f83a91721c
-    parent_uid: e979a0fdd57ca990be92384e90ea9a22
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ryLdyDrBfvI
-  - uid: c8562d702459e357ca510a2e18e24fcd
-    parent_uid: e979a0fdd57ca990be92384e90ea9a22
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
-  - uid: 0475739daa068850f7fd384956c218e4
-    parent_uid: e979a0fdd57ca990be92384e90ea9a22
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
-  - uid: 5e7c80ed131456d914316b483426460c
-    parent_uid: e979a0fdd57ca990be92384e90ea9a22
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ryLdyDrBfvI
-  - uid: 2bd1147a06d170b4bdd52a2b520851f1
-    parent_uid: e979a0fdd57ca990be92384e90ea9a22
-    id: ryLdyDrBfvI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-3-infinite-discontinuities/ryLdyDrBfvI.srt
-  - uid: 380da7ab3201ce2017659bd8f3463abd
-    parent_uid: e979a0fdd57ca990be92384e90ea9a22
-    id: ryLdyDrBfvI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-3-infinite-discontinuities/ryLdyDrBfvI.pdf
-  - uid: 09d3ff51d8397a93eab7c77b00f6ad40
-    parent_uid: e979a0fdd57ca990be92384e90ea9a22
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 89d58707ffbf8e07f496b7bde1770b70
-    parent_uid: e979a0fdd57ca990be92384e90ea9a22
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 57033668b40d7ab01574196e1ac12d7b
-    parent_uid: e979a0fdd57ca990be92384e90ea9a22
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: e979a0fdd57ca990be92384e90ea9a22
 type: courses
 layout: video
 ---

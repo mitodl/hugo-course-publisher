@@ -1,13 +1,62 @@
 ---
-title: 'Video 4: Logistic Regression Models'
-uid: a006fb509ea46226329f9975623c0c25
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: uo0EmonbUhU
+    parent_uid: a006fb509ea46226329f9975623c0c25
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8fdace1c48a9e7c174f81898a8824cd0
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: uo0EmonbUhU
+    parent_uid: a006fb509ea46226329f9975623c0c25
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f4a66ec83f4e6763683f08c6bb3d3b68
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/uo0EmonbUhU/default.jpg'
+    parent_uid: a006fb509ea46226329f9975623c0c25
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9dd71062a7b762523aa591dbce822bdb
+  - id: uo0EmonbUhU.srt
+    parent_uid: a006fb509ea46226329f9975623c0c25
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-4-logistic-regression-models/video-4-logistic-regression-models-0/uo0EmonbUhU.srt
+    title: 3play caption file
+    type: null
+    uid: e11705e913c56917b9f7083e69d7072f
+  - id: uo0EmonbUhU.pdf
+    parent_uid: a006fb509ea46226329f9975623c0c25
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-4-logistic-regression-models/video-4-logistic-regression-models-0/uo0EmonbUhU.pdf
+    title: 3play pdf file
+    type: null
+    uid: ef4048d59a0d18c5c882257e6cc2172a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a006fb509ea46226329f9975623c0c25
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: efb80bb5d6dc02a6b5e91c42d0c27e48
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a006fb509ea46226329f9975623c0c25
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fa1821d12eace6605e378c5509338672
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.4.05_300k.mp4
+    parent_uid: a006fb509ea46226329f9975623c0c25
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c2ebe62ed82c3bd62b22cc3fc5bba389
+inline_embed_id: 50448734video4logisticregressionmodels99889863
 parent_uid: 20d828736498be17a983f7473b292a08
+related_resources_text: ''
+short_url: video-4-logistic-regression-models-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-4-logistic-regression-models/video-4-logistic-regression-models-0
-short_url: video-4-logistic-regression-models-0
-inline_embed_id: 50448734video4logisticregressionmodels99889863
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 4: Logistic Regression Models'
 transcript: >-
   <p><span m='4600'>Now,</span> <span m='4961'>as</span> <span
   m='5322'>we</span> <span m='5683'>start</span> <span m='6044'>to</span> <span
@@ -564,56 +613,7 @@ transcript: >-
   <span m='475703'>our</span> <span m='476067'>predictions</span> <span
   m='476432'>on</span> <span m='476796'>the</span> <span
   m='477161'>testing</span> <span m='477525'>set.</span> </p>
-embedded_media:
-  - uid: 8fdace1c48a9e7c174f81898a8824cd0
-    parent_uid: a006fb509ea46226329f9975623c0c25
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: uo0EmonbUhU
-  - uid: f4a66ec83f4e6763683f08c6bb3d3b68
-    parent_uid: a006fb509ea46226329f9975623c0c25
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: uo0EmonbUhU
-  - uid: 9dd71062a7b762523aa591dbce822bdb
-    parent_uid: a006fb509ea46226329f9975623c0c25
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/uo0EmonbUhU/default.jpg'
-  - uid: e11705e913c56917b9f7083e69d7072f
-    parent_uid: a006fb509ea46226329f9975623c0c25
-    id: uo0EmonbUhU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-4-logistic-regression-models/video-4-logistic-regression-models-0/uo0EmonbUhU.srt
-  - uid: ef4048d59a0d18c5c882257e6cc2172a
-    parent_uid: a006fb509ea46226329f9975623c0c25
-    id: uo0EmonbUhU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-4-logistic-regression-models/video-4-logistic-regression-models-0/uo0EmonbUhU.pdf
-  - uid: efb80bb5d6dc02a6b5e91c42d0c27e48
-    parent_uid: a006fb509ea46226329f9975623c0c25
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fa1821d12eace6605e378c5509338672
-    parent_uid: a006fb509ea46226329f9975623c0c25
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c2ebe62ed82c3bd62b22cc3fc5bba389
-    parent_uid: a006fb509ea46226329f9975623c0c25
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.4.05_300k.mp4
+uid: a006fb509ea46226329f9975623c0c25
 type: courses
 layout: video
 ---

@@ -1,11 +1,4 @@
 ---
-title: Final Project
-uid: 69cf2824fede94bab9352c621e55fd61
-parent_uid: 265dbc3150c1a4e14686f6c614415b05
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/final-project
-short_url: final-project
-inline_embed_id: 61425411finalproject86951546
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   Commons BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: PPhxbP8oSfc
+    parent_uid: 69cf2824fede94bab9352c621e55fd61
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ec3a0abe2d91fef6c019dda973d677db
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/PPhxbP8oSfc/default.jpg'
+    parent_uid: 69cf2824fede94bab9352c621e55fd61
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cafb2d6f1fd12655ddd6ae27b2bd6bf0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: PPhxbP8oSfc
+    parent_uid: 69cf2824fede94bab9352c621e55fd61
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 82d850582314157feab2c1a4aac5ca1c
+  - id: PPhxbP8oSfc.srt
+    parent_uid: 69cf2824fede94bab9352c621e55fd61
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/final-project/PPhxbP8oSfc.srt
+    title: 3play caption file
+    type: null
+    uid: a6aadd8cf8d695267b7ce06cb208071c
+  - id: PPhxbP8oSfc.pdf
+    parent_uid: 69cf2824fede94bab9352c621e55fd61
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/final-project/PPhxbP8oSfc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0dc5936775642d2a846638a90a27bd31
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 69cf2824fede94bab9352c621e55fd61
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0f7a3434fa66a8bfdb6ca6144443eba2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 69cf2824fede94bab9352c621e55fd61
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2f9e01a810e57f1bcec50a9046a1716b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 69cf2824fede94bab9352c621e55fd61
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6ba11d7d2569ba0a179d9ea7d76556bd
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_PJ_D13_Final_Project_360p.mp4
+    parent_uid: 69cf2824fede94bab9352c621e55fd61
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f506b26677bd9ddfac60257af37830a0
+inline_embed_id: 61425411finalproject86951546
+parent_uid: 265dbc3150c1a4e14686f6c614415b05
 related_resources_text: ''
+short_url: final-project
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/final-project
+title: Final Project
 transcript: >-
   <p><span m="710">PROFESSOR: When</span> <span m="930">we</span> <span
   m="1010">take</span> <span m="1090">complex</span> <span
@@ -259,62 +314,7 @@ transcript: >-
   m="219030">we</span> <span m="219170">all</span> <span
   m="219450">already</span> <span m="219850">know.</span></p><p><span
   m="220150">[MUSIC PLAYING]</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: ec3a0abe2d91fef6c019dda973d677db
-    parent_uid: 69cf2824fede94bab9352c621e55fd61
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: PPhxbP8oSfc
-  - uid: cafb2d6f1fd12655ddd6ae27b2bd6bf0
-    parent_uid: 69cf2824fede94bab9352c621e55fd61
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/PPhxbP8oSfc/default.jpg'
-  - uid: 82d850582314157feab2c1a4aac5ca1c
-    parent_uid: 69cf2824fede94bab9352c621e55fd61
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: PPhxbP8oSfc
-  - uid: a6aadd8cf8d695267b7ce06cb208071c
-    parent_uid: 69cf2824fede94bab9352c621e55fd61
-    id: PPhxbP8oSfc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/final-project/PPhxbP8oSfc.srt
-  - uid: 0dc5936775642d2a846638a90a27bd31
-    parent_uid: 69cf2824fede94bab9352c621e55fd61
-    id: PPhxbP8oSfc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/final-project/PPhxbP8oSfc.pdf
-  - uid: 0f7a3434fa66a8bfdb6ca6144443eba2
-    parent_uid: 69cf2824fede94bab9352c621e55fd61
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2f9e01a810e57f1bcec50a9046a1716b
-    parent_uid: 69cf2824fede94bab9352c621e55fd61
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6ba11d7d2569ba0a179d9ea7d76556bd
-    parent_uid: 69cf2824fede94bab9352c621e55fd61
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: f506b26677bd9ddfac60257af37830a0
-    parent_uid: 69cf2824fede94bab9352c621e55fd61
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_PJ_D13_Final_Project_360p.mp4
+uid: 69cf2824fede94bab9352c621e55fd61
 type: courses
 layout: video
 ---

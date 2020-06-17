@@ -1,13 +1,68 @@
 ---
-title: On Teaching Complex Content
-uid: 6d1731c95f41d5c803dfac5d90e5d19d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-MP4
+    media_location: z_QOKNpEVro
+    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
+    title: Video-YouTube-MP4
+    type: Video
+    uid: f4bb86c25307d0d6c713741131a22b84
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/z_QOKNpEVro/default.jpg'
+    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f117d218bbcc2d703aa5d30a1c6dce86
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: z_QOKNpEVro
+    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2d20dd39828d5706d0c7c5af3ac32270
+  - id: z_QOKNpEVro.srt
+    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/on-teaching-complex-content/z_QOKNpEVro.srt
+    title: 3play caption file
+    type: null
+    uid: 10d389c148d0d5725f371b21f4ea6caa
+  - id: z_QOKNpEVro.pdf
+    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/on-teaching-complex-content/z_QOKNpEVro.pdf
+    title: 3play pdf file
+    type: null
+    uid: 69109039efc44cbecd9b50b8c8bde6ea
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c8bd88c22ec56668defb78cfe93dd905
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1ba7793a2b5c52d0194a7da9cbbd5ae7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2cde63a059213477b3d5d94b7a22806e
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.046JS15/MIT6_046JS15_complex_content_300k.mp4
+    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: fbd2e1d4703ff8b678c52c537c25c197
+inline_embed_id: 18885768onteachingcomplexcontent56949307
 parent_uid: 92d158be1dbd82a1c08d824bff9d0d79
+related_resources_text: ''
+short_url: on-teaching-complex-content
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/on-teaching-complex-content
-short_url: on-teaching-complex-content
-inline_embed_id: 18885768onteachingcomplexcontent56949307
-about_this_resource_text: ''
-related_resources_text: ''
+title: On Teaching Complex Content
 transcript: >-
   <p><span m='5346'>ERIK DEMAINE: I mean, there are</span> <span m='5840'>a
   couple of</span> <span m='6040'>different</span> <span
@@ -283,62 +338,7 @@ transcript: >-
   m='219600'>end</span> <span m='219750'>of</span> <span m='219980'>the</span>
   <span m='220150'>semester,</span> <span m='221350'>they</span> <span
   m='221460'>get</span> <span m='221760'>there.</span> </p>
-embedded_media:
-  - uid: f4bb86c25307d0d6c713741131a22b84
-    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
-    id: Video-YouTube-MP4
-    title: Video-YouTube-MP4
-    type: Video
-    media_location: z_QOKNpEVro
-  - uid: f117d218bbcc2d703aa5d30a1c6dce86
-    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/z_QOKNpEVro/default.jpg'
-  - uid: 2d20dd39828d5706d0c7c5af3ac32270
-    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: z_QOKNpEVro
-  - uid: 10d389c148d0d5725f371b21f4ea6caa
-    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
-    id: z_QOKNpEVro.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/on-teaching-complex-content/z_QOKNpEVro.srt
-  - uid: 69109039efc44cbecd9b50b8c8bde6ea
-    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
-    id: z_QOKNpEVro.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/on-teaching-complex-content/z_QOKNpEVro.pdf
-  - uid: c8bd88c22ec56668defb78cfe93dd905
-    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1ba7793a2b5c52d0194a7da9cbbd5ae7
-    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 2cde63a059213477b3d5d94b7a22806e
-    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: fbd2e1d4703ff8b678c52c537c25c197
-    parent_uid: 6d1731c95f41d5c803dfac5d90e5d19d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.046JS15/MIT6_046JS15_complex_content_300k.mp4
+uid: 6d1731c95f41d5c803dfac5d90e5d19d
 type: courses
 layout: video
 ---

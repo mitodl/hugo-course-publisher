@@ -1,17 +1,71 @@
 ---
-title: The Neutral Theory of Ecology
-uid: c1c02633735a261fcdfdf7f6d3f277b4
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/the-neutral-theory-of-ecology
-short_url: the-neutral-theory-of-ecology
-inline_embed_id: 12923663theneutraltheoryofecology58509753
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Jeff Gore asks why are
   some species abundant and others rare? Are there universal patterns at play?
   And what lead to these patterns?</p> <p><strong>Instructor:</strong> Prof.
   Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: m41DWardioc
+    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e833064bf94fe87b2b14d41e3948dfb8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/m41DWardioc/default.jpg'
+    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4bcdbb8a82aad0fe73a98e5957053a25
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4e6fc31e1275c66482e528edabab83b6
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec24_300k.mp4'
+    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 59f354c2a3a0e23e3280aa6a4fd55c56
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: m41DWardioc
+    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d9f7a891dc69abf72534ad148e4d5840
+  - id: m41DWardioc.srt
+    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/the-neutral-theory-of-ecology/m41DWardioc.srt
+    title: 3play caption file
+    type: null
+    uid: 1f4cd03197367a9e4152f401b767b822
+  - id: m41DWardioc.pdf
+    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/the-neutral-theory-of-ecology/m41DWardioc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 310d0b5671340d5eee3c474febb418d2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6bc94614b46ab38e303bd05b508a63bf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6104eccba66384278abc88bb4a04176c
+inline_embed_id: 12923663theneutraltheoryofecology58509753
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: the-neutral-theory-of-ecology
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/the-neutral-theory-of-ecology
+title: The Neutral Theory of Ecology
 transcript: >-
   <p><span m='80'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -4912,61 +4966,7 @@ transcript: >-
   m='4661560'>happy</span> <span m='4661860'>to meet</span> <span
   m='4662160'>up.</span> <span m='4662460'>Good luck</span> <span m='4662760'>on
   the</span> <span m='4663060'>final.</span> </p>
-embedded_media:
-  - uid: e833064bf94fe87b2b14d41e3948dfb8
-    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: m41DWardioc
-  - uid: 4bcdbb8a82aad0fe73a98e5957053a25
-    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/m41DWardioc/default.jpg'
-  - uid: 4e6fc31e1275c66482e528edabab83b6
-    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: 59f354c2a3a0e23e3280aa6a4fd55c56
-    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec24_300k.mp4'
-  - uid: d9f7a891dc69abf72534ad148e4d5840
-    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: m41DWardioc
-  - uid: 1f4cd03197367a9e4152f401b767b822
-    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
-    id: m41DWardioc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/the-neutral-theory-of-ecology/m41DWardioc.srt
-  - uid: 310d0b5671340d5eee3c474febb418d2
-    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
-    id: m41DWardioc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/the-neutral-theory-of-ecology/m41DWardioc.pdf
-  - uid: 6bc94614b46ab38e303bd05b508a63bf
-    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6104eccba66384278abc88bb4a04176c
-    parent_uid: c1c02633735a261fcdfdf7f6d3f277b4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c1c02633735a261fcdfdf7f6d3f277b4
 type: courses
 layout: video
 ---

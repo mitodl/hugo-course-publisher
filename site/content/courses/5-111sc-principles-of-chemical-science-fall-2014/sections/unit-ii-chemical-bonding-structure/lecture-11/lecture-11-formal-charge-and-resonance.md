@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 11: Lewis Structures: Breakdown of the Octet Rule'
-uid: 9681798e1d4dd3b386f12647217ddc80
-parent_uid: bbd6f3cbd22ba979f3c53baa993e82b8
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-11/lecture-11-formal-charge-and-resonance
-short_url: lecture-11-formal-charge-and-resonance
-inline_embed_id: 7991347lecture11formalchargeandresonance21461650
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: Radicals, expanded octets, and more, in this lecture
   about Lewis structures.</p> <p><strong>Instructor:</strong> Catherine
   Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Hc5ODj1Ml6c
+    parent_uid: 9681798e1d4dd3b386f12647217ddc80
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 84ed0cc8cb08eadaab82dad7f47fc7b9
+  - id: Hc5ODj1Ml6c.srt
+    parent_uid: 9681798e1d4dd3b386f12647217ddc80
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-11/lecture-11-formal-charge-and-resonance/Hc5ODj1Ml6c.srt
+    title: 3play caption file
+    type: null
+    uid: be2d563b006910741ad5c7fc4a1b1223
+  - id: Hc5ODj1Ml6c.pdf
+    parent_uid: 9681798e1d4dd3b386f12647217ddc80
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-11/lecture-11-formal-charge-and-resonance/Hc5ODj1Ml6c.pdf
+    title: 3play pdf file
+    type: null
+    uid: e18ade512589b19f86540ffb2245c5f5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9681798e1d4dd3b386f12647217ddc80
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c492c3bca33852b42eba261ee48e810b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9681798e1d4dd3b386f12647217ddc80
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a987d3a751234bb09264be6267a75e55
+  - id: Video-YouTube-Stream
+    media_location: Hc5ODj1Ml6c
+    parent_uid: 9681798e1d4dd3b386f12647217ddc80
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5c92a653f905adc76244782da887beb6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Hc5ODj1Ml6c/default.jpg'
+    parent_uid: 9681798e1d4dd3b386f12647217ddc80
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1b16845010b377feeba217bf80f7ad20
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 9681798e1d4dd3b386f12647217ddc80
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ca52f48eed34f4e7b7c32cb9551adedc
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L11_300k.mp4'
+    parent_uid: 9681798e1d4dd3b386f12647217ddc80
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d84865b3f5b8bb6851e8c0823cce2ee4
+inline_embed_id: 7991347lecture11formalchargeandresonance21461650
+parent_uid: bbd6f3cbd22ba979f3c53baa993e82b8
 related_resources_text: ''
+short_url: lecture-11-formal-charge-and-resonance
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-11/lecture-11-formal-charge-and-resonance
+title: 'Lecture 11: Lewis Structures: Breakdown of the Octet Rule'
 transcript: >-
   <p><span m="30">NARRATOR: The</span> <span m="130">following</span> <span
   m="600">content</span> <span m="1090">is</span> <span m="1200">provided</span>
@@ -1787,61 +1841,7 @@ transcript: >-
   <span m="1713060">don't</span> <span m="1713440">leave</span> <span
   m="1713670">it</span> <span m="1713780">to</span> <span m="1713910">the</span>
   <span m="1714000">last</span> <span m="1714390">minute.</span></p>
-embedded_media:
-  - uid: 84ed0cc8cb08eadaab82dad7f47fc7b9
-    parent_uid: 9681798e1d4dd3b386f12647217ddc80
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Hc5ODj1Ml6c
-  - uid: be2d563b006910741ad5c7fc4a1b1223
-    parent_uid: 9681798e1d4dd3b386f12647217ddc80
-    id: Hc5ODj1Ml6c.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-11/lecture-11-formal-charge-and-resonance/Hc5ODj1Ml6c.srt
-  - uid: e18ade512589b19f86540ffb2245c5f5
-    parent_uid: 9681798e1d4dd3b386f12647217ddc80
-    id: Hc5ODj1Ml6c.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-11/lecture-11-formal-charge-and-resonance/Hc5ODj1Ml6c.pdf
-  - uid: c492c3bca33852b42eba261ee48e810b
-    parent_uid: 9681798e1d4dd3b386f12647217ddc80
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a987d3a751234bb09264be6267a75e55
-    parent_uid: 9681798e1d4dd3b386f12647217ddc80
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5c92a653f905adc76244782da887beb6
-    parent_uid: 9681798e1d4dd3b386f12647217ddc80
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Hc5ODj1Ml6c
-  - uid: 1b16845010b377feeba217bf80f7ad20
-    parent_uid: 9681798e1d4dd3b386f12647217ddc80
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Hc5ODj1Ml6c/default.jpg'
-  - uid: ca52f48eed34f4e7b7c32cb9551adedc
-    parent_uid: 9681798e1d4dd3b386f12647217ddc80
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: d84865b3f5b8bb6851e8c0823cce2ee4
-    parent_uid: 9681798e1d4dd3b386f12647217ddc80
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L11_300k.mp4'
+uid: 9681798e1d4dd3b386f12647217ddc80
 type: courses
 layout: video
 ---

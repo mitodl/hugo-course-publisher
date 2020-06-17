@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Quotient Rule'
-uid: 151b73a159d06ba9999afb42037db4a9
-parent_uid: 94a0d0fdde324bb54b34d0ea12a6d94d
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/clip-1-quotient-rule
-short_url: clip-1-quotient-rule
-inline_embed_id: '74236276clip1:quotientrule25075448'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/709f6672888f18e22656ca8700218cb6"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 4 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 4sTKcvYMNxk
+    parent_uid: 151b73a159d06ba9999afb42037db4a9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: cd63cca36b07774fe2f6f83190401b0a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg'
+    parent_uid: 151b73a159d06ba9999afb42037db4a9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b694543534ae393e300a2068db7b8d98
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec04_300k.mp4'
+    parent_uid: 151b73a159d06ba9999afb42037db4a9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 540525ddeefb4bda845e389785273718
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 4sTKcvYMNxk
+    parent_uid: 151b73a159d06ba9999afb42037db4a9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2eabfdc6d0cfd40474f75d09dea03693
+  - id: 4sTKcvYMNxk.srt
+    parent_uid: 151b73a159d06ba9999afb42037db4a9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/clip-1-quotient-rule/4sTKcvYMNxk.srt
+    title: 3play caption file
+    type: null
+    uid: d9e51eb7ae11a077f976afd42562740c
+  - id: 4sTKcvYMNxk.pdf
+    parent_uid: 151b73a159d06ba9999afb42037db4a9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/clip-1-quotient-rule/4sTKcvYMNxk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 013a7c85e288e42d7d22ee519948ea00
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 151b73a159d06ba9999afb42037db4a9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8f2e179f6b50b308b7b261320d86a5b3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 151b73a159d06ba9999afb42037db4a9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: de456bef18c06a4c159c112428ee7727
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 151b73a159d06ba9999afb42037db4a9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ae565e93ca0f5e16f6ffb55ac1f7e5f2
+inline_embed_id: '74236276clip1:quotientrule25075448'
+parent_uid: 94a0d0fdde324bb54b34d0ea12a6d94d
 related_resources_text: ''
+short_url: clip-1-quotient-rule
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/clip-1-quotient-rule
+title: 'Clip 1: Quotient Rule'
 transcript: >-
   <p><span m="110">The</span> <span m="350">following</span> <span
   m="520">content</span> <span m="1260">is</span> <span m="1400">provided</span>
@@ -2120,61 +2174,7 @@ transcript: >-
   m="2755280">constant.</span> <span m="2756620">So</span> <span
   m="2756860">it's 0.</span></p><p><span m="2758180">Okay.</span> <span
   m="2758440">Thank</span> <span m="2758730">you.</span></p>
-embedded_media:
-  - uid: cd63cca36b07774fe2f6f83190401b0a
-    parent_uid: 151b73a159d06ba9999afb42037db4a9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4sTKcvYMNxk
-  - uid: b694543534ae393e300a2068db7b8d98
-    parent_uid: 151b73a159d06ba9999afb42037db4a9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg'
-  - uid: 540525ddeefb4bda845e389785273718
-    parent_uid: 151b73a159d06ba9999afb42037db4a9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec04_300k.mp4'
-  - uid: 2eabfdc6d0cfd40474f75d09dea03693
-    parent_uid: 151b73a159d06ba9999afb42037db4a9
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4sTKcvYMNxk
-  - uid: d9e51eb7ae11a077f976afd42562740c
-    parent_uid: 151b73a159d06ba9999afb42037db4a9
-    id: 4sTKcvYMNxk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/clip-1-quotient-rule/4sTKcvYMNxk.srt
-  - uid: 013a7c85e288e42d7d22ee519948ea00
-    parent_uid: 151b73a159d06ba9999afb42037db4a9
-    id: 4sTKcvYMNxk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/clip-1-quotient-rule/4sTKcvYMNxk.pdf
-  - uid: 8f2e179f6b50b308b7b261320d86a5b3
-    parent_uid: 151b73a159d06ba9999afb42037db4a9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: de456bef18c06a4c159c112428ee7727
-    parent_uid: 151b73a159d06ba9999afb42037db4a9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ae565e93ca0f5e16f6ffb55ac1f7e5f2
-    parent_uid: 151b73a159d06ba9999afb42037db4a9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 151b73a159d06ba9999afb42037db4a9
 type: courses
 layout: video
 ---

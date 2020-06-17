@@ -1,13 +1,68 @@
 ---
-title: Arc Length of y=x3/2
-uid: 4a85b6bccce1e65dc8d2190a38cc7a69
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: VOlbVNxyNfM
+    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e45d7c0dad0d57eaf1944dba3bfb8cd1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VOlbVNxyNfM/default.jpg'
+    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 90d7565c9857a7684502767912cf7746
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: VOlbVNxyNfM
+    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7a71cf1f90ff593cfc9ca0c323292898
+  - id: VOlbVNxyNfM.srt
+    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-78-computing-the-length-of-a-curve/arc-length-of-y-x3-2/VOlbVNxyNfM.srt
+    title: 3play caption file
+    type: null
+    uid: 6dd6f59cb2e65642b270f5d74d3aca78
+  - id: VOlbVNxyNfM.pdf
+    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-78-computing-the-length-of-a-curve/arc-length-of-y-x3-2/VOlbVNxyNfM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2f044499143128dfa0465afea33d0186
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 95948d63db85d91d2b86568d1337c564
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e5fbdb459c5c9ef5a480b4466818b105
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_58_300k.mp4'
+    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bf2d1eff8a2241e5cba8b7c0e320f6dc
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/arc-length-of-y-x-2-3/id414308064?i=90319632
+    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ec993286699ef247b7e7e5fb252993b4
+inline_embed_id: 45407854arclengthofy=x3/241712275
 parent_uid: 5c900cbf5c7bc84e4bc0086224a0a1bd
+related_resources_text: ''
+short_url: arc-length-of-y-x3-2
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-78-computing-the-length-of-a-curve/arc-length-of-y-x3-2
-short_url: arc-length-of-y-x3-2
-inline_embed_id: 45407854arclengthofy=x3/241712275
-about_this_resource_text: ''
-related_resources_text: ''
+title: Arc Length of y=x3/2
 transcript: >-
   <p><span m='6910'>Hi.</span> <span m='7360'>Welcome</span> <span
   m='7710'>back</span> <span m='7920'>to</span> <span
@@ -437,62 +492,7 @@ transcript: >-
   m='419550'>closed</span> <span m='419900'>form.</span> </p><p><span
   m='420630'>So I'll</span> <span m='420970'>stop</span> <span
   m='421140'>there.</span> </p>
-embedded_media:
-  - uid: e45d7c0dad0d57eaf1944dba3bfb8cd1
-    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VOlbVNxyNfM
-  - uid: 90d7565c9857a7684502767912cf7746
-    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VOlbVNxyNfM/default.jpg'
-  - uid: 7a71cf1f90ff593cfc9ca0c323292898
-    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VOlbVNxyNfM
-  - uid: 6dd6f59cb2e65642b270f5d74d3aca78
-    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
-    id: VOlbVNxyNfM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-78-computing-the-length-of-a-curve/arc-length-of-y-x3-2/VOlbVNxyNfM.srt
-  - uid: 2f044499143128dfa0465afea33d0186
-    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
-    id: VOlbVNxyNfM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-78-computing-the-length-of-a-curve/arc-length-of-y-x3-2/VOlbVNxyNfM.pdf
-  - uid: 95948d63db85d91d2b86568d1337c564
-    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e5fbdb459c5c9ef5a480b4466818b105
-    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: bf2d1eff8a2241e5cba8b7c0e320f6dc
-    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_58_300k.mp4'
-  - uid: ec993286699ef247b7e7e5fb252993b4
-    parent_uid: 4a85b6bccce1e65dc8d2190a38cc7a69
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/arc-length-of-y-x-2-3/id414308064?i=90319632
+uid: 4a85b6bccce1e65dc8d2190a38cc7a69
 type: courses
 layout: video
 ---

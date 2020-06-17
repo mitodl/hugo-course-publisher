@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Review for Exam II'
-uid: ff1c760623c82c73441e68dc6e4a8945
-parent_uid: e554ede2ce57704ea428384bd09a8e16
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/exam-2/session-41-review-for-exam-2/clip-1-review-for-exam-ii
-short_url: clip-1-review-for-exam-ii
-inline_embed_id: '86948845clip1:reviewforexamii98278484'
 about_this_resource_text: >-
   <p>&raquo; <a
   href="./resolveuid/e90f948a7163116b10b8f9a6c09fbf2e">Accompanying Notes
   (PDF)</a></p><p class="scholar_medsm">From Lecture 16 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 60VGKnYBpbg
+    parent_uid: ff1c760623c82c73441e68dc6e4a8945
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 50753907429b729409aeabc05609eadb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/60VGKnYBpbg/default.jpg'
+    parent_uid: ff1c760623c82c73441e68dc6e4a8945
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 21a6dcd3c49ea4769f635c2b0c1b75ca
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 60VGKnYBpbg
+    parent_uid: ff1c760623c82c73441e68dc6e4a8945
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: dbc10192114404e569d2f2ea86461155
+  - id: 60VGKnYBpbg.srt
+    parent_uid: ff1c760623c82c73441e68dc6e4a8945
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/exam-2/session-41-review-for-exam-2/clip-1-review-for-exam-ii/60VGKnYBpbg.srt
+    title: 3play caption file
+    type: null
+    uid: 528b7d730a1803bee781ed5ceea44058
+  - id: 60VGKnYBpbg.pdf
+    parent_uid: ff1c760623c82c73441e68dc6e4a8945
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/exam-2/session-41-review-for-exam-2/clip-1-review-for-exam-ii/60VGKnYBpbg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5254e55cd4b64e7573b26c3c4e20f9be
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ff1c760623c82c73441e68dc6e4a8945
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f45a215eb13e9b3ec9aceda0e3649d16
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ff1c760623c82c73441e68dc6e4a8945
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 60e7d4ce214a6eb313b8c6ce97bca08d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec16_300k.mp4'
+    parent_uid: ff1c760623c82c73441e68dc6e4a8945
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 999247cbf9ef303868e02cad1bb16270
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: ff1c760623c82c73441e68dc6e4a8945
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: de94e0128035a4820c42a895cf02ab51
+inline_embed_id: '86948845clip1:reviewforexamii98278484'
+parent_uid: e554ede2ce57704ea428384bd09a8e16
 related_resources_text: ''
+short_url: clip-1-review-for-exam-ii
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/exam-2/session-41-review-for-exam-2/clip-1-review-for-exam-ii
+title: 'Clip 1: Review for Exam II'
 transcript: >-
   <p><span m='50'>The following</span> <span m='520'>content</span> <span
   m='1000'>is</span> <span m='1310'>provided</span> <span m='1420'>under</span>
@@ -2374,61 +2428,7 @@ transcript: >-
   m='2722030'>the</span> <span m='2722120'>beginning</span> <span
   m='2722460'>when</span> <span m='2722560'>we</span> <span
   m='2722660'>did</span> <span m='2722960'>approximations.</span> </p>
-embedded_media:
-  - uid: 50753907429b729409aeabc05609eadb
-    parent_uid: ff1c760623c82c73441e68dc6e4a8945
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 60VGKnYBpbg
-  - uid: 21a6dcd3c49ea4769f635c2b0c1b75ca
-    parent_uid: ff1c760623c82c73441e68dc6e4a8945
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/60VGKnYBpbg/default.jpg'
-  - uid: dbc10192114404e569d2f2ea86461155
-    parent_uid: ff1c760623c82c73441e68dc6e4a8945
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 60VGKnYBpbg
-  - uid: 528b7d730a1803bee781ed5ceea44058
-    parent_uid: ff1c760623c82c73441e68dc6e4a8945
-    id: 60VGKnYBpbg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/exam-2/session-41-review-for-exam-2/clip-1-review-for-exam-ii/60VGKnYBpbg.srt
-  - uid: 5254e55cd4b64e7573b26c3c4e20f9be
-    parent_uid: ff1c760623c82c73441e68dc6e4a8945
-    id: 60VGKnYBpbg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/exam-2/session-41-review-for-exam-2/clip-1-review-for-exam-ii/60VGKnYBpbg.pdf
-  - uid: f45a215eb13e9b3ec9aceda0e3649d16
-    parent_uid: ff1c760623c82c73441e68dc6e4a8945
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 60e7d4ce214a6eb313b8c6ce97bca08d
-    parent_uid: ff1c760623c82c73441e68dc6e4a8945
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 999247cbf9ef303868e02cad1bb16270
-    parent_uid: ff1c760623c82c73441e68dc6e4a8945
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec16_300k.mp4'
-  - uid: de94e0128035a4820c42a895cf02ab51
-    parent_uid: ff1c760623c82c73441e68dc6e4a8945
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: ff1c760623c82c73441e68dc6e4a8945
 type: courses
 layout: video
 ---

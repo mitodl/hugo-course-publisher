@@ -1,18 +1,72 @@
 ---
-title: Interspecies Interactions
-uid: df70acfb667b4bb1e97f2c8a62b06432
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/interspecies-interactions
-short_url: interspecies-interactions
-inline_embed_id: 14319806interspeciesinteractions84074427
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture by Prof. Jeff Gore covers models
   and experiments of predator-prey interactions and oscillations. He begins with
   the Lokta-Volterra model, which has been called both &quot;bad&quot;
   (mathematically speaking) and &quot;profoundly important.&quot;</p>
   <p><strong>Instructor:</strong> Prof. Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: WTesORG5H-A
+    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c984dba483e27fd12b5f963d6f5d0964
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/WTesORG5H-A/default.jpg'
+    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7230991a9bf737dfdaf72c1856443557
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 33f2283d3a8926c5fecac32cff8cdd09
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec21_300k.mp4'
+    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2bdd785594bc8a8fcf914f3c91540821
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: WTesORG5H-A
+    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c6a79a556dbe98d7ea9f179a430cb070
+  - id: WTesORG5H-A.srt
+    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/interspecies-interactions/WTesORG5H-A.srt
+    title: 3play caption file
+    type: null
+    uid: 1475de8121b87c1375209c9eca437d29
+  - id: WTesORG5H-A.pdf
+    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/interspecies-interactions/WTesORG5H-A.pdf
+    title: 3play pdf file
+    type: null
+    uid: d2377b0b58c29f2027d316b3305d8f96
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 31ca1bb71bf0ccb07c9c397d85561bc3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c8f9f25ca72e1bf719e9556c89092d86
+inline_embed_id: 14319806interspeciesinteractions84074427
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: interspecies-interactions
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/interspecies-interactions
+title: Interspecies Interactions
 transcript: >-
   <p><span m="60">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4805,61 +4859,7 @@ transcript: >-
   a</span> <span m="4859800">good</span> <span m="4860000">Thanksgiving.</span>
   <span m="4860440">I'll see</span> <span m="4860660">you guys</span> <span
   m="4860960">on</span> <span m="4861260">Tuesday.</span></p>
-embedded_media:
-  - uid: c984dba483e27fd12b5f963d6f5d0964
-    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: WTesORG5H-A
-  - uid: 7230991a9bf737dfdaf72c1856443557
-    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/WTesORG5H-A/default.jpg'
-  - uid: 33f2283d3a8926c5fecac32cff8cdd09
-    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: 2bdd785594bc8a8fcf914f3c91540821
-    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec21_300k.mp4'
-  - uid: c6a79a556dbe98d7ea9f179a430cb070
-    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: WTesORG5H-A
-  - uid: 1475de8121b87c1375209c9eca437d29
-    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
-    id: WTesORG5H-A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/interspecies-interactions/WTesORG5H-A.srt
-  - uid: d2377b0b58c29f2027d316b3305d8f96
-    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
-    id: WTesORG5H-A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/interspecies-interactions/WTesORG5H-A.pdf
-  - uid: 31ca1bb71bf0ccb07c9c397d85561bc3
-    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c8f9f25ca72e1bf719e9556c89092d86
-    parent_uid: df70acfb667b4bb1e97f2c8a62b06432
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: df70acfb667b4bb1e97f2c8a62b06432
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: 'Instructor Interview: Digital Media Literacy'
-uid: 10bd67ad2f119e9b54374944dda4994a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 3ha4ROyWr9Q
+    parent_uid: 10bd67ad2f119e9b54374944dda4994a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6cc0a5a4db1c607e05041d89fdd5e3ca
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/3ha4ROyWr9Q/default.jpg'
+    parent_uid: 10bd67ad2f119e9b54374944dda4994a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8d014124273e8de4d9d33b3d02c6f063
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 3ha4ROyWr9Q
+    parent_uid: 10bd67ad2f119e9b54374944dda4994a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 098510cea6bc06bb199242efeb3872a4
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 10bd67ad2f119e9b54374944dda4994a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 72bced60c798c0c01a61a6d599fd7731
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_Digital_Literacy_300k.mp4
+    parent_uid: 10bd67ad2f119e9b54374944dda4994a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6ce3d8a9f95f4f0199b095d7b692ffb4
+  - id: 3ha4ROyWr9Q.srt
+    parent_uid: 10bd67ad2f119e9b54374944dda4994a
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-digital-media-literacy/3ha4ROyWr9Q.srt
+    title: 3play caption file
+    type: null
+    uid: 6fc96b110004b7c4aeea85fef191f6cc
+  - id: 3ha4ROyWr9Q.pdf
+    parent_uid: 10bd67ad2f119e9b54374944dda4994a
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-digital-media-literacy/3ha4ROyWr9Q.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6ddb4352197151d9a84c987e9a8aaabe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 10bd67ad2f119e9b54374944dda4994a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8ee71227154b139865f9216cb6425ab2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 10bd67ad2f119e9b54374944dda4994a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: cacc3ec65c50ebea986597ca3d8aa12c
+inline_embed_id: '31663061instructorinterview:digitalmedialiteracy70585679'
 parent_uid: 526193cf30dacdf1c6734faab57d51d7
+related_resources_text: ''
+short_url: instructor-interview-digital-media-literacy
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-digital-media-literacy
-short_url: instructor-interview-digital-media-literacy
-inline_embed_id: '31663061instructorinterview:digitalmedialiteracy70585679'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Instructor Interview: Digital Media Literacy'
 transcript: >-
   <p><span m='5220'>ELIZABETH CHOE: We</span> <span m='5360'>were</span> <span
   m='5450'>talking</span> <span m='5680'>about</span> <span
@@ -431,62 +486,7 @@ transcript: >-
   <span m='341880'>to</span> <span m='342020'>this</span> <span
   m='342800'>final</span> <span m='343200'>self</span> <span
   m='343490'>awareness</span> <span m='344280'>conclusion.</span> </p>
-embedded_media:
-  - uid: 6cc0a5a4db1c607e05041d89fdd5e3ca
-    parent_uid: 10bd67ad2f119e9b54374944dda4994a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 3ha4ROyWr9Q
-  - uid: 8d014124273e8de4d9d33b3d02c6f063
-    parent_uid: 10bd67ad2f119e9b54374944dda4994a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/3ha4ROyWr9Q/default.jpg'
-  - uid: 098510cea6bc06bb199242efeb3872a4
-    parent_uid: 10bd67ad2f119e9b54374944dda4994a
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 3ha4ROyWr9Q
-  - uid: 72bced60c798c0c01a61a6d599fd7731
-    parent_uid: 10bd67ad2f119e9b54374944dda4994a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 6ce3d8a9f95f4f0199b095d7b692ffb4
-    parent_uid: 10bd67ad2f119e9b54374944dda4994a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_Digital_Literacy_300k.mp4
-  - uid: 6fc96b110004b7c4aeea85fef191f6cc
-    parent_uid: 10bd67ad2f119e9b54374944dda4994a
-    id: 3ha4ROyWr9Q.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-digital-media-literacy/3ha4ROyWr9Q.srt
-  - uid: 6ddb4352197151d9a84c987e9a8aaabe
-    parent_uid: 10bd67ad2f119e9b54374944dda4994a
-    id: 3ha4ROyWr9Q.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-digital-media-literacy/3ha4ROyWr9Q.pdf
-  - uid: 8ee71227154b139865f9216cb6425ab2
-    parent_uid: 10bd67ad2f119e9b54374944dda4994a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: cacc3ec65c50ebea986597ca3d8aa12c
-    parent_uid: 10bd67ad2f119e9b54374944dda4994a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 10bd67ad2f119e9b54374944dda4994a
 type: courses
 layout: video
 ---

@@ -1,18 +1,90 @@
 ---
-title: 'Lecture 10: Curve Sketching'
-uid: 51576e19a6f32aa4f24ba9fee8bdd486
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-10-curve-sketching
-short_url: lecture-10-curve-sketching
-inline_embed_id: '13868120lecture10:curvesketching56307699'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Curve sketching</p>
   <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec10.jpg
+    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-10-curve-sketching/lec10.jpg
+    title: Lecture 10
+    type: null
+    uid: 2adf487a0a11bfd104f6f5a7ecbf9d65
+  - id: Video-YouTube-Stream
+    media_location: eRCN3daFCmU
+    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 75254b437746c194b67b07e45664c255
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/eRCN3daFCmU/default.jpg'
+    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 764dd3a49a17ec96c6668d9ebd1aea7e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 33a3eafe09eec2f35918f60602c17abd
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec10_300k.mp4'
+    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5dc477da3a61427d1dc1bf8657085655
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: a217bb5c3f95e1d6c81b2374790ab3b0
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 5b3a1a5a40c4925e7da67f7306ae6635
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: eRCN3daFCmU
+    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 12f8ef29ea8628f86f95e8e31d0e4a4b
+  - id: eRCN3daFCmU.srt
+    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-10-curve-sketching/eRCN3daFCmU.srt
+    title: 3play caption file
+    type: null
+    uid: fac0fbbd21ad5cb6a08af71547b598f4
+  - id: eRCN3daFCmU.pdf
+    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-10-curve-sketching/eRCN3daFCmU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3ac2d78dba1fadf12d6e8446c2a350e7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2effe19d37ae1a9edb5a83e7e3f78f61
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c33362682787b30b5046e52b16e71c19
+inline_embed_id: '13868120lecture10:curvesketching56307699'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/d41418f410d1e11d0e606a0fc8441b82">PDF -
   1.8MB</a>)</p></div>
+short_url: lecture-10-curve-sketching
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-10-curve-sketching
+title: 'Lecture 10: Curve Sketching'
 transcript: >-
   <p><span m='90'>The following</span> <span m='520'>content</span> <span
   m='1270'>is</span> <span m='1420'>provided</span> <span m='1680'>under
@@ -2966,79 +3038,7 @@ transcript: >-
   m='3100920'>Anyway,</span> <span m='3101410'>we'll</span> <span
   m='3101580'>talk</span> <span m='3101800'>about</span> <span
   m='3101960'>it</span> <span m='3102020'>next time.</span> </p>
-embedded_media:
-  - uid: 2adf487a0a11bfd104f6f5a7ecbf9d65
-    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
-    id: lec10.jpg
-    title: Lecture 10
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-10-curve-sketching/lec10.jpg
-  - uid: 75254b437746c194b67b07e45664c255
-    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: eRCN3daFCmU
-  - uid: 764dd3a49a17ec96c6668d9ebd1aea7e
-    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/eRCN3daFCmU/default.jpg'
-  - uid: 33a3eafe09eec2f35918f60602c17abd
-    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: 5dc477da3a61427d1dc1bf8657085655
-    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec10_300k.mp4'
-  - uid: a217bb5c3f95e1d6c81b2374790ab3b0
-    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 5b3a1a5a40c4925e7da67f7306ae6635
-    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 12f8ef29ea8628f86f95e8e31d0e4a4b
-    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: eRCN3daFCmU
-  - uid: fac0fbbd21ad5cb6a08af71547b598f4
-    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
-    id: eRCN3daFCmU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-10-curve-sketching/eRCN3daFCmU.srt
-  - uid: 3ac2d78dba1fadf12d6e8446c2a350e7
-    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
-    id: eRCN3daFCmU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-10-curve-sketching/eRCN3daFCmU.pdf
-  - uid: 2effe19d37ae1a9edb5a83e7e3f78f61
-    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c33362682787b30b5046e52b16e71c19
-    parent_uid: 51576e19a6f32aa4f24ba9fee8bdd486
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 51576e19a6f32aa4f24ba9fee8bdd486
 type: courses
 layout: video
 ---

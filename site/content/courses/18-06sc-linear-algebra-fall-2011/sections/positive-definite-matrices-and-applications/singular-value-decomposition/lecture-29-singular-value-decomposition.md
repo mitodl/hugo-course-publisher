@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 29: Singular Value Decomposition'
-uid: a4bc4161403c302048c04c1ee38834b0
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TX_vooSnhm8
+    parent_uid: a4bc4161403c302048c04c1ee38834b0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 981f6431d1e342152da656083d9141fe
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: a4bc4161403c302048c04c1ee38834b0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 27d908829c1e439ff5888d8973332081
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/29.mp4'
+    parent_uid: a4bc4161403c302048c04c1ee38834b0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 52fbe41307695082f613205c214d8e6f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TX_vooSnhm8
+    parent_uid: a4bc4161403c302048c04c1ee38834b0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fc31e2d04e6a14c5739f77dca2134657
+  - id: TX_vooSnhm8.srt
+    parent_uid: a4bc4161403c302048c04c1ee38834b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/singular-value-decomposition/lecture-29-singular-value-decomposition/TX_vooSnhm8.srt
+    title: 3play caption file
+    type: null
+    uid: e5d1ab682948afa1b932bd3e2e618942
+  - id: TX_vooSnhm8.pdf
+    parent_uid: a4bc4161403c302048c04c1ee38834b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/singular-value-decomposition/lecture-29-singular-value-decomposition/TX_vooSnhm8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6d3cc0942a8d806901fa2d66843652c6
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: a4bc4161403c302048c04c1ee38834b0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7a2529986d9d764fc4403d22f4ade9a2
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: a4bc4161403c302048c04c1ee38834b0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7615647d700db77b876e2ad556fda0a9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TX_vooSnhm8/default.jpg'
+    parent_uid: a4bc4161403c302048c04c1ee38834b0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: dfb3d0d17c633cef43e647554d7afe7a
+inline_embed_id: '57535613lecture29:singularvaluedecomposition76407682'
 parent_uid: 30164ec69f858d020a1378d8b9c366fe
+related_resources_text: ''
+short_url: lecture-29-singular-value-decomposition
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/singular-value-decomposition/lecture-29-singular-value-decomposition
-short_url: lecture-29-singular-value-decomposition
-inline_embed_id: '57535613lecture29:singularvaluedecomposition76407682'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 29: Singular Value Decomposition'
 transcript: >-
   <p><span m='14160'>Okay.</span> <span m='14860'>This</span> <span
   m='15360'>is</span> <span m='15610'>the</span> <span m='15810'>lecture</span>
@@ -2108,61 +2162,7 @@ transcript: >-
   m='2414360'>course.</span> </p><p><span m='2415260'>So</span> <span
   m='2415430'>there's</span> <span m='2415570'>the</span> <span
   m='2415620'>SVD.</span> </p><p><span m='2415740'>Thanks.</span> </p>
-embedded_media:
-  - uid: 981f6431d1e342152da656083d9141fe
-    parent_uid: a4bc4161403c302048c04c1ee38834b0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TX_vooSnhm8
-  - uid: 27d908829c1e439ff5888d8973332081
-    parent_uid: a4bc4161403c302048c04c1ee38834b0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 52fbe41307695082f613205c214d8e6f
-    parent_uid: a4bc4161403c302048c04c1ee38834b0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/29.mp4'
-  - uid: fc31e2d04e6a14c5739f77dca2134657
-    parent_uid: a4bc4161403c302048c04c1ee38834b0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TX_vooSnhm8
-  - uid: e5d1ab682948afa1b932bd3e2e618942
-    parent_uid: a4bc4161403c302048c04c1ee38834b0
-    id: TX_vooSnhm8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/singular-value-decomposition/lecture-29-singular-value-decomposition/TX_vooSnhm8.srt
-  - uid: 6d3cc0942a8d806901fa2d66843652c6
-    parent_uid: a4bc4161403c302048c04c1ee38834b0
-    id: TX_vooSnhm8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/singular-value-decomposition/lecture-29-singular-value-decomposition/TX_vooSnhm8.pdf
-  - uid: 7a2529986d9d764fc4403d22f4ade9a2
-    parent_uid: a4bc4161403c302048c04c1ee38834b0
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7615647d700db77b876e2ad556fda0a9
-    parent_uid: a4bc4161403c302048c04c1ee38834b0
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: dfb3d0d17c633cef43e647554d7afe7a
-    parent_uid: a4bc4161403c302048c04c1ee38834b0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TX_vooSnhm8/default.jpg'
+uid: a4bc4161403c302048c04c1ee38834b0
 type: courses
 layout: video
 ---

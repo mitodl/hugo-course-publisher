@@ -1,13 +1,61 @@
 ---
-title: Bell Labs Wave Machine
-uid: 5f6c52d57da03011a425d38f0d6113cb
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: QxemLb8-5AA
+    parent_uid: 5f6c52d57da03011a425d38f0d6113cb
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 840ddfee2676d9a9199247043a9d9070
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QxemLb8-5AA/default.jpg'
+    parent_uid: 5f6c52d57da03011a425d38f0d6113cb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2bcbb1a4a8e92a7d9a44f5d63f719611
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: QxemLb8-5AA
+    parent_uid: 5f6c52d57da03011a425d38f0d6113cb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e5065eed50a774283fc3f7503e831f47
+  - id: QxemLb8-5AA.srt
+    parent_uid: 5f6c52d57da03011a425d38f0d6113cb
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-13/copy_of_lecture-13-video/QxemLb8-5AA.srt
+    title: 3play caption file
+    type: null
+    uid: 36d885915e8c99d829c2197077393578
+  - id: QxemLb8-5AA.pdf
+    parent_uid: 5f6c52d57da03011a425d38f0d6113cb
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-13/copy_of_lecture-13-video/QxemLb8-5AA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 928a8afbcea7168a377f3326c13d7b33
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5f6c52d57da03011a425d38f0d6113cb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 09a7697619fe4a5832c511c26d41539c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5f6c52d57da03011a425d38f0d6113cb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 707b458d8c6de5f1aec74d974109334b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec13_300k.mp4'
+    parent_uid: 5f6c52d57da03011a425d38f0d6113cb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b81783074dc703bd3db38c5beb575c3d
+inline_embed_id: 38450926lecture13videop122039431
 parent_uid: f4a13423bdd7a17965ceb0f19b5833d3
+related_resources_text: ''
+short_url: copy_of_lecture-13-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-13/copy_of_lecture-13-video
-short_url: copy_of_lecture-13-video
-inline_embed_id: 38450926lecture13videop122039431
-about_this_resource_text: ''
-related_resources_text: ''
+title: Bell Labs Wave Machine
 transcript: >-
   <p><span m="2620">The</span> <span m="2710">following</span> <span
   m="3160">content</span> <span m="3640">is</span> <span
@@ -4015,55 +4063,7 @@ transcript: >-
   m="4395320">you</span> <span m="4395440">have</span> <span
   m="4395620">any</span> <span m="4395830">questions,</span> <span
   m="4397162">please</span> <span m="4397500">let me know.</span></p>
-embedded_media:
-  - uid: 840ddfee2676d9a9199247043a9d9070
-    parent_uid: 5f6c52d57da03011a425d38f0d6113cb
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QxemLb8-5AA
-  - uid: 2bcbb1a4a8e92a7d9a44f5d63f719611
-    parent_uid: 5f6c52d57da03011a425d38f0d6113cb
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QxemLb8-5AA/default.jpg'
-  - uid: e5065eed50a774283fc3f7503e831f47
-    parent_uid: 5f6c52d57da03011a425d38f0d6113cb
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QxemLb8-5AA
-  - uid: 36d885915e8c99d829c2197077393578
-    parent_uid: 5f6c52d57da03011a425d38f0d6113cb
-    id: QxemLb8-5AA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-13/copy_of_lecture-13-video/QxemLb8-5AA.srt
-  - uid: 928a8afbcea7168a377f3326c13d7b33
-    parent_uid: 5f6c52d57da03011a425d38f0d6113cb
-    id: QxemLb8-5AA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-13/copy_of_lecture-13-video/QxemLb8-5AA.pdf
-  - uid: 09a7697619fe4a5832c511c26d41539c
-    parent_uid: 5f6c52d57da03011a425d38f0d6113cb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 707b458d8c6de5f1aec74d974109334b
-    parent_uid: 5f6c52d57da03011a425d38f0d6113cb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b81783074dc703bd3db38c5beb575c3d
-    parent_uid: 5f6c52d57da03011a425d38f0d6113cb
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec13_300k.mp4'
+uid: 5f6c52d57da03011a425d38f0d6113cb
 type: courses
 layout: video
 ---

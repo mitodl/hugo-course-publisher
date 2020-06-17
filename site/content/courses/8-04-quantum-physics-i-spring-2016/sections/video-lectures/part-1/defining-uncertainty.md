@@ -1,13 +1,67 @@
 ---
-title: Defining uncertainty
-uid: ff4108aa9e2736d936ca07aff588ae3c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: rCRH9CTThlo
+    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: db48076c1203427483c4023b3138d122
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: rCRH9CTThlo
+    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7f8d739756eb93cee22ce1dc3fbddfa3
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2f40734a749385ffb7214dac3cf8813f
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec09_s5_300k.mp4'
+    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3f11bac7f1ceb140cd533f2c30aa3921
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/rCRH9CTThlo/default.jpg'
+    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3444296861a4660942e550a1a3a5cdc1
+  - id: rCRH9CTThlo.srt
+    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/defining-uncertainty/rCRH9CTThlo.srt
+    title: 3play caption file
+    type: null
+    uid: 91e880439b1c9568f81ae6fe32c2ae13
+  - id: rCRH9CTThlo.pdf
+    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/defining-uncertainty/rCRH9CTThlo.pdf
+    title: 3play pdf file
+    type: null
+    uid: c521c8c5ba83504d606c8362b0041fee
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2cafb7b33c7cb000422f42f5707ed352
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 10b5b471ee5636cd0a73e51149554375
+inline_embed_id: 64936768defininguncertainty25330696
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: defining-uncertainty
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/defining-uncertainty
-short_url: defining-uncertainty
-inline_embed_id: 64936768defininguncertainty25330696
-about_this_resource_text: ''
-related_resources_text: ''
+title: Defining uncertainty
 transcript: >-
   <p><span m='496'>PROFESSOR:</span> <span m='744'>Uncertainty.</span> <span
   m='6944'>When you</span> <span m='7440'>talk</span> <span
@@ -406,61 +460,7 @@ transcript: >-
   m='628470'>this</span> <span m='628790'>planes,</span> <span m='629210'>that
   we'll</span> <span m='629510'>elaborate</span> <span m='629810'>on</span>
   <span m='630110'>next time.</span> </p>
-embedded_media:
-  - uid: db48076c1203427483c4023b3138d122
-    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: rCRH9CTThlo
-  - uid: 7f8d739756eb93cee22ce1dc3fbddfa3
-    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: rCRH9CTThlo
-  - uid: 2f40734a749385ffb7214dac3cf8813f
-    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 3f11bac7f1ceb140cd533f2c30aa3921
-    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec09_s5_300k.mp4'
-  - uid: 3444296861a4660942e550a1a3a5cdc1
-    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rCRH9CTThlo/default.jpg'
-  - uid: 91e880439b1c9568f81ae6fe32c2ae13
-    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
-    id: rCRH9CTThlo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/defining-uncertainty/rCRH9CTThlo.srt
-  - uid: c521c8c5ba83504d606c8362b0041fee
-    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
-    id: rCRH9CTThlo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/defining-uncertainty/rCRH9CTThlo.pdf
-  - uid: 2cafb7b33c7cb000422f42f5707ed352
-    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 10b5b471ee5636cd0a73e51149554375
-    parent_uid: ff4108aa9e2736d936ca07aff588ae3c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: ff4108aa9e2736d936ca07aff588ae3c
 type: courses
 layout: video
 ---

@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 20: Solubility and Acid-Base Equilibrium'
-uid: d6637e6b3f97fce430adfd13c2b8ed0f
-parent_uid: 080258a791c4feab68e52d45cb5fd92e
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-20/lecture-20-solubility-and-acid-base-equilibrium
-short_url: lecture-20-solubility-and-acid-base-equilibrium
-inline_embed_id: 85409979lecture20solubilityandacidbaseequilibrium78404986
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: If you have ever tried to get a stain out of a
@@ -15,7 +8,68 @@ about_this_resource_text: >-
   removing greenhouse gases from the environment like Chemist Hector Hernandez,
   or if you simply want to get your apartment ready for a visit from your
   parents.</p> <p><strong>Instructor: </strong>Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: FJCVSswFXyE
+    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: dc1809654229354fa2a7c9672cd3e593
+  - id: FJCVSswFXyE.srt
+    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-20/lecture-20-solubility-and-acid-base-equilibrium/FJCVSswFXyE.srt
+    title: 3play caption file
+    type: null
+    uid: e19103ae2ce128e022165098e4e7ce1e
+  - id: FJCVSswFXyE.pdf
+    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-20/lecture-20-solubility-and-acid-base-equilibrium/FJCVSswFXyE.pdf
+    title: 3play pdf file
+    type: null
+    uid: d016654bce12c0dec3ad433d18cfdbfe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: df388ebbf040b5a767e874cfb13a7bb1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ebc8600d708f34a8fb1d086a224c3ecb
+  - id: Video-YouTube-Stream
+    media_location: FJCVSswFXyE
+    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0aea43a2066cbaf30f8a0e06354a2edd
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FJCVSswFXyE/default.jpg'
+    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 84f6000e5be2f084898654bc41d4f38d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 867cdf86e6d52231853a8a02632687cf
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L20_300k.mp4'
+    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: eb44fed3b6d844234c7ba3a7eb1b8e10
+inline_embed_id: 85409979lecture20solubilityandacidbaseequilibrium78404986
+parent_uid: 080258a791c4feab68e52d45cb5fd92e
 related_resources_text: ''
+short_url: lecture-20-solubility-and-acid-base-equilibrium
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-20/lecture-20-solubility-and-acid-base-equilibrium
+title: 'Lecture 20: Solubility and Acid-Base Equilibrium'
 transcript: >-
   <p><span m="30">The</span> <span m="130">following</span> <span
   m="600">content</span> <span m="1090">is</span> <span m="1210">provided</span>
@@ -2798,61 +2852,7 @@ transcript: >-
   m="2516760">Lewis</span> <span m="2517200">Acid</span> <span
   m="2517700">accepts</span> <span m="2518670">such</span> <span
   m="2519620">electrons.</span></p>
-embedded_media:
-  - uid: dc1809654229354fa2a7c9672cd3e593
-    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FJCVSswFXyE
-  - uid: e19103ae2ce128e022165098e4e7ce1e
-    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
-    id: FJCVSswFXyE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-20/lecture-20-solubility-and-acid-base-equilibrium/FJCVSswFXyE.srt
-  - uid: d016654bce12c0dec3ad433d18cfdbfe
-    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
-    id: FJCVSswFXyE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-20/lecture-20-solubility-and-acid-base-equilibrium/FJCVSswFXyE.pdf
-  - uid: df388ebbf040b5a767e874cfb13a7bb1
-    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ebc8600d708f34a8fb1d086a224c3ecb
-    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0aea43a2066cbaf30f8a0e06354a2edd
-    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FJCVSswFXyE
-  - uid: 84f6000e5be2f084898654bc41d4f38d
-    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FJCVSswFXyE/default.jpg'
-  - uid: 867cdf86e6d52231853a8a02632687cf
-    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: eb44fed3b6d844234c7ba3a7eb1b8e10
-    parent_uid: d6637e6b3f97fce430adfd13c2b8ed0f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L20_300k.mp4'
+uid: d6637e6b3f97fce430adfd13c2b8ed0f
 type: courses
 layout: video
 ---

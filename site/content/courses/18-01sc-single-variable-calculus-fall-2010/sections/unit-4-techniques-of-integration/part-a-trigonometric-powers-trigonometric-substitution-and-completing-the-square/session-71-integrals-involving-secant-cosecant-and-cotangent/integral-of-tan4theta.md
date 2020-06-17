@@ -1,13 +1,68 @@
 ---
-title: Integral of tan^4θ
-uid: b5372aa377e0b1f37d1987c6f879415e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 98X2TyxXQdU
+    parent_uid: b5372aa377e0b1f37d1987c6f879415e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 785ccdeb4792a1ccfc973f742de8537a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/98X2TyxXQdU/default.jpg'
+    parent_uid: b5372aa377e0b1f37d1987c6f879415e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 932c46f99e75457a9c4155e45b4c7d03
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 98X2TyxXQdU
+    parent_uid: b5372aa377e0b1f37d1987c6f879415e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c72d0f12bbc77408c1f950e8bf424950
+  - id: 98X2TyxXQdU.srt
+    parent_uid: b5372aa377e0b1f37d1987c6f879415e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-71-integrals-involving-secant-cosecant-and-cotangent/integral-of-tan4theta/98X2TyxXQdU.srt
+    title: 3play caption file
+    type: null
+    uid: 158e53131ddd9d2964ad0afe7595a059
+  - id: 98X2TyxXQdU.pdf
+    parent_uid: b5372aa377e0b1f37d1987c6f879415e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-71-integrals-involving-secant-cosecant-and-cotangent/integral-of-tan4theta/98X2TyxXQdU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 75ba0f7e5520271a33ddf5f3eadceaa5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b5372aa377e0b1f37d1987c6f879415e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 215cd5de2c335e8fd71d4631259ad505
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b5372aa377e0b1f37d1987c6f879415e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b5e88221d579ddb4e36994bbb0108fa9
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_52_300k.mp4'
+    parent_uid: b5372aa377e0b1f37d1987c6f879415e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f9a9e849e2e2a9752b9a3de538dd0a5b
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/integral-of-tan-4-theta/id414308064?i=90319627
+    parent_uid: b5372aa377e0b1f37d1987c6f879415e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 233dc65fdb87100773596e4288c2e69a
+inline_embed_id: 75345570integraloftan^4theta37078394
 parent_uid: 369ea1a042d34dea55d07a2b967f59af
+related_resources_text: ''
+short_url: integral-of-tan4theta
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-71-integrals-involving-secant-cosecant-and-cotangent/integral-of-tan4theta
-short_url: integral-of-tan4theta
-inline_embed_id: 75345570integraloftan^4theta37078394
-about_this_resource_text: ''
-related_resources_text: ''
+title: Integral of tan^4θ
 transcript: >-
   <p><span m="0">CHRISTINE BREINER:</span> <span m="6840">Welcome</span> <span
   m="7260">back</span> <span m="7440">to</span> <span
@@ -622,62 +677,7 @@ transcript: >-
   m="475030">and</span> <span m="476150">I</span> <span m="476250">hope</span>
   <span m="476390">you</span> <span m="476450">enjoyed</span> <span
   m="476710">it.</span></p>
-embedded_media:
-  - uid: 785ccdeb4792a1ccfc973f742de8537a
-    parent_uid: b5372aa377e0b1f37d1987c6f879415e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 98X2TyxXQdU
-  - uid: 932c46f99e75457a9c4155e45b4c7d03
-    parent_uid: b5372aa377e0b1f37d1987c6f879415e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/98X2TyxXQdU/default.jpg'
-  - uid: c72d0f12bbc77408c1f950e8bf424950
-    parent_uid: b5372aa377e0b1f37d1987c6f879415e
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 98X2TyxXQdU
-  - uid: 158e53131ddd9d2964ad0afe7595a059
-    parent_uid: b5372aa377e0b1f37d1987c6f879415e
-    id: 98X2TyxXQdU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-71-integrals-involving-secant-cosecant-and-cotangent/integral-of-tan4theta/98X2TyxXQdU.srt
-  - uid: 75ba0f7e5520271a33ddf5f3eadceaa5
-    parent_uid: b5372aa377e0b1f37d1987c6f879415e
-    id: 98X2TyxXQdU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-71-integrals-involving-secant-cosecant-and-cotangent/integral-of-tan4theta/98X2TyxXQdU.pdf
-  - uid: 215cd5de2c335e8fd71d4631259ad505
-    parent_uid: b5372aa377e0b1f37d1987c6f879415e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b5e88221d579ddb4e36994bbb0108fa9
-    parent_uid: b5372aa377e0b1f37d1987c6f879415e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f9a9e849e2e2a9752b9a3de538dd0a5b
-    parent_uid: b5372aa377e0b1f37d1987c6f879415e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_52_300k.mp4'
-  - uid: 233dc65fdb87100773596e4288c2e69a
-    parent_uid: b5372aa377e0b1f37d1987c6f879415e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/integral-of-tan-4-theta/id414308064?i=90319627
+uid: b5372aa377e0b1f37d1987c6f879415e
 type: courses
 layout: video
 ---

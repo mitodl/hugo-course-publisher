@@ -1,13 +1,73 @@
 ---
-title: Relational Mappings
-uid: 696f5c792d08b56e72477cd03dce3ef9
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 0a51fbc4d939ad43e035285b60bee4e2
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 76101ee78b082c72e48718f9c322e718
+  - id: Video-YouTube-Stream
+    media_location: gFD1Lp6zK3w
+    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 866b12e7c69db26c6b1eb0c1e02f8496
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/gFD1Lp6zK3w/default.jpg'
+    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 03023997e1a99256ed949c12bba2e54f
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: gFD1Lp6zK3w
+    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9b9f8edb5bda9cf0b038cb6c4579511b
+  - id: gFD1Lp6zK3w.srt
+    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/vertical-360a6e85d0f4/relational-mappings/gFD1Lp6zK3w.srt
+    title: 3play caption file
+    type: null
+    uid: 24448fe6482ed447b1b8532b8dfdbdf0
+  - id: gFD1Lp6zK3w.pdf
+    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/vertical-360a6e85d0f4/relational-mappings/gFD1Lp6zK3w.pdf
+    title: 3play pdf file
+    type: null
+    uid: a1c431761e4dcd719d062c94ff1a6a9e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ad3cdb8ed55a5c287a91e9c6e9a20cd9
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5554a93b913dc71c265bf782069164a0
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_mapping_lemma_ipod.mp4
+    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f121fd3fef86c19ba37920bbfbfa7f03
+inline_embed_id: 29832752relationalmappings28706027
 parent_uid: 4941b091a92c7ad57d473ac2e53ba426
+related_resources_text: ''
+short_url: relational-mappings
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/vertical-360a6e85d0f4/relational-mappings
-short_url: relational-mappings
-inline_embed_id: 29832752relationalmappings28706027
-about_this_resource_text: ''
-related_resources_text: ''
+title: Relational Mappings
 transcript: >-
   <p><span m='890'>PROFESSOR: So</span> <span m='1040'>in</span> <span
   m='1140'>this</span> <span m='1280'>short</span> <span
@@ -637,67 +697,7 @@ transcript: >-
   m='527460'>means</span> <span m='527910'>that</span> <span
   m='528100'>they're</span> <span m='528230'>the</span> <span
   m='528350'>same</span> <span m='528710'>size.</span> </p>
-embedded_media:
-  - uid: 0a51fbc4d939ad43e035285b60bee4e2
-    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 76101ee78b082c72e48718f9c322e718
-    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 866b12e7c69db26c6b1eb0c1e02f8496
-    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: gFD1Lp6zK3w
-  - uid: 03023997e1a99256ed949c12bba2e54f
-    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/gFD1Lp6zK3w/default.jpg'
-  - uid: 9b9f8edb5bda9cf0b038cb6c4579511b
-    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: gFD1Lp6zK3w
-  - uid: 24448fe6482ed447b1b8532b8dfdbdf0
-    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
-    id: gFD1Lp6zK3w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/vertical-360a6e85d0f4/relational-mappings/gFD1Lp6zK3w.srt
-  - uid: a1c431761e4dcd719d062c94ff1a6a9e
-    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
-    id: gFD1Lp6zK3w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/vertical-360a6e85d0f4/relational-mappings/gFD1Lp6zK3w.pdf
-  - uid: ad3cdb8ed55a5c287a91e9c6e9a20cd9
-    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5554a93b913dc71c265bf782069164a0
-    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f121fd3fef86c19ba37920bbfbfa7f03
-    parent_uid: 696f5c792d08b56e72477cd03dce3ef9
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_mapping_lemma_ipod.mp4
+uid: 696f5c792d08b56e72477cd03dce3ef9
 type: courses
 layout: video
 ---

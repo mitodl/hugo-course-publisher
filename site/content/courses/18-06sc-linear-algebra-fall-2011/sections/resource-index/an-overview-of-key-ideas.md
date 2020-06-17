@@ -1,13 +1,69 @@
 ---
-title: An Overview of Key Ideas
-uid: cc8802cd4ca64c21183d9eddb4454f3f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: OZxzHcW663g
+    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 43bbbb2c9cda1bdfeb3498aba2b5c513
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/an-overview-of-key-ideas/id488155309?i=108813457
+    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7a6ecf8a4018447099d436637e83c88d
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_M3_300k.mp4
+    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4ce4452d4164cf5ec3430fca5c6aaf74
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: OZxzHcW663g
+    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 15d8ff98484cbb3673e11e09c19b034f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/OZxzHcW663g/default.jpg'
+    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2907084bb6cdc216139b78ddc0a78782
+  - id: OZxzHcW663g.srt
+    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/an-overview-of-key-ideas/OZxzHcW663g.srt
+    title: 3play caption file
+    type: null
+    uid: 383028ad9dfd52928c388c5d569993c3
+  - id: OZxzHcW663g.pdf
+    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/an-overview-of-key-ideas/OZxzHcW663g.pdf
+    title: 3play pdf file
+    type: null
+    uid: 450f85bb4e265275a188eaae2939167c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8b82e8db9342ef6ccf73c21b844acdb7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8d423015b1faae6bb5dc2e0c15e0b0df
+inline_embed_id: 71231748anoverviewofkeyideas573915
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: an-overview-of-key-ideas
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/an-overview-of-key-ideas
-short_url: an-overview-of-key-ideas
-inline_embed_id: 71231748anoverviewofkeyideas573915
-about_this_resource_text: ''
-related_resources_text: ''
+title: An Overview of Key Ideas
 transcript: >-
   <p><span m='5200'>MARTINA BALAGOVIC: Welcome.</span> </p><p><span
   m='6300'>Today's</span> <span m='6760'>problem</span> <span
@@ -376,63 +432,7 @@ transcript: >-
   m='456870'>and</span> <span m='457460'>this</span> <span m='457620'>is</span>
   <span m='457740'>everything</span> <span m='458040'>that we</span> <span
   m='458340'>can say</span> <span m='458640'>about it.</span> </p>
-embedded_media:
-  - uid: 43bbbb2c9cda1bdfeb3498aba2b5c513
-    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: OZxzHcW663g
-  - uid: 7a6ecf8a4018447099d436637e83c88d
-    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/an-overview-of-key-ideas/id488155309?i=108813457
-  - uid: 4ce4452d4164cf5ec3430fca5c6aaf74
-    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_M3_300k.mp4
-  - uid: 15d8ff98484cbb3673e11e09c19b034f
-    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: OZxzHcW663g
-  - uid: 2907084bb6cdc216139b78ddc0a78782
-    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/OZxzHcW663g/default.jpg'
-  - uid: 383028ad9dfd52928c388c5d569993c3
-    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
-    id: OZxzHcW663g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/an-overview-of-key-ideas/OZxzHcW663g.srt
-  - uid: 450f85bb4e265275a188eaae2939167c
-    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
-    id: OZxzHcW663g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/an-overview-of-key-ideas/OZxzHcW663g.pdf
-  - uid: 8b82e8db9342ef6ccf73c21b844acdb7
-    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8d423015b1faae6bb5dc2e0c15e0b0df
-    parent_uid: cc8802cd4ca64c21183d9eddb4454f3f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: cc8802cd4ca64c21183d9eddb4454f3f
 type: courses
 layout: video
 ---

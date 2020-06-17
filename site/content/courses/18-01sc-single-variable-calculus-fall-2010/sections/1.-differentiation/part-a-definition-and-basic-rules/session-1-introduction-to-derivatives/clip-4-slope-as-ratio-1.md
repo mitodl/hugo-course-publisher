@@ -1,18 +1,72 @@
 ---
-title: 'Clip 4: Slope as Ratio'
-uid: 59a437995266d19439e922a4d0a243e7
-parent_uid: c25a5592cbb582539daea82e3aeeda33
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/clip-4-slope-as-ratio-1
-short_url: clip-4-slope-as-ratio-1
-inline_embed_id: '69990729clip4:slopeasratio37138003'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/aa7ab1728076df1db34ea18fabc4a6e1" title="Open
   in a new window." target="_blank">Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 1 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 7K1sB05pE0A
+    parent_uid: 59a437995266d19439e922a4d0a243e7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 89cbebd864a6b66b6a84c1a578addf5f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7K1sB05pE0A/default.jpg'
+    parent_uid: 59a437995266d19439e922a4d0a243e7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 04f6336be607342ddb959f30c90ddba1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec01_300k.mp4'
+    parent_uid: 59a437995266d19439e922a4d0a243e7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 372efce1c85f3f67bcca9318f5bc0422
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7K1sB05pE0A
+    parent_uid: 59a437995266d19439e922a4d0a243e7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 15c368815d59377dd456a148e1094dd0
+  - id: 7K1sB05pE0A.srt
+    parent_uid: 59a437995266d19439e922a4d0a243e7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/clip-4-slope-as-ratio-1/7K1sB05pE0A.srt
+    title: 3play caption file
+    type: null
+    uid: d647cc336a58290138e3af0cf6cdb4ea
+  - id: 7K1sB05pE0A.pdf
+    parent_uid: 59a437995266d19439e922a4d0a243e7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/clip-4-slope-as-ratio-1/7K1sB05pE0A.pdf
+    title: 3play pdf file
+    type: null
+    uid: ffb62aa212774eac9ededa9b51e9dadd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 59a437995266d19439e922a4d0a243e7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 33750afd7c116b4ee1055960d29f5a9a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 59a437995266d19439e922a4d0a243e7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c7a6a2b39f3080f68c3e2fc8dcff0e66
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 59a437995266d19439e922a4d0a243e7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7c6b5a7a7290abb6e73a4eebf0a8ef28
+inline_embed_id: '69990729clip4:slopeasratio37138003'
+parent_uid: c25a5592cbb582539daea82e3aeeda33
 related_resources_text: ''
+short_url: clip-4-slope-as-ratio-1
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/clip-4-slope-as-ratio-1
+title: 'Clip 4: Slope as Ratio'
 transcript: >-
   <p><span m="460">The</span> <span m="652">following</span> <span
   m="844">content</span> <span m="1036">is</span> <span m="1228">provided</span>
@@ -2482,61 +2536,7 @@ transcript: >-
   m="3087920">because</span> <span m="3088150">delta</span> <span m="3088240">x
   goes to 0.</span> <span m="3089910">OK,</span> <span m="3090740">see
   you</span> <span m="3090890">next</span> <span m="3091130">time.</span></p>
-embedded_media:
-  - uid: 89cbebd864a6b66b6a84c1a578addf5f
-    parent_uid: 59a437995266d19439e922a4d0a243e7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 7K1sB05pE0A
-  - uid: 04f6336be607342ddb959f30c90ddba1
-    parent_uid: 59a437995266d19439e922a4d0a243e7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7K1sB05pE0A/default.jpg'
-  - uid: 372efce1c85f3f67bcca9318f5bc0422
-    parent_uid: 59a437995266d19439e922a4d0a243e7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec01_300k.mp4'
-  - uid: 15c368815d59377dd456a148e1094dd0
-    parent_uid: 59a437995266d19439e922a4d0a243e7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7K1sB05pE0A
-  - uid: d647cc336a58290138e3af0cf6cdb4ea
-    parent_uid: 59a437995266d19439e922a4d0a243e7
-    id: 7K1sB05pE0A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/clip-4-slope-as-ratio-1/7K1sB05pE0A.srt
-  - uid: ffb62aa212774eac9ededa9b51e9dadd
-    parent_uid: 59a437995266d19439e922a4d0a243e7
-    id: 7K1sB05pE0A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/clip-4-slope-as-ratio-1/7K1sB05pE0A.pdf
-  - uid: 33750afd7c116b4ee1055960d29f5a9a
-    parent_uid: 59a437995266d19439e922a4d0a243e7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c7a6a2b39f3080f68c3e2fc8dcff0e66
-    parent_uid: 59a437995266d19439e922a4d0a243e7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7c6b5a7a7290abb6e73a4eebf0a8ef28
-    parent_uid: 59a437995266d19439e922a4d0a243e7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 59a437995266d19439e922a4d0a243e7
 type: courses
 layout: video
 ---

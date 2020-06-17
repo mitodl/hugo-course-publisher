@@ -1,13 +1,67 @@
 ---
-title: Window Washer Solution
-uid: b04dac832e14606491617bcefaab013d
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ozIdCgo5uI4
+    parent_uid: b04dac832e14606491617bcefaab013d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 99626e9c97085f08e841222cb10a5d44
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ozIdCgo5uI4/default.jpg'
+    parent_uid: b04dac832e14606491617bcefaab013d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6e227e6303965fff050f3a2ee3d8fb2f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ozIdCgo5uI4
+    parent_uid: b04dac832e14606491617bcefaab013d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1fb99fdb284d7b47b240a62064ec0102
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: b04dac832e14606491617bcefaab013d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f80f6a1bb7a0c4f44a5fac7bebb6bfc5
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W02PS01v03_2_360p.mp4'
+    parent_uid: b04dac832e14606491617bcefaab013d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 41b92321b8c85672d8b0a32b5d3d556a
+  - id: ozIdCgo5uI4.srt
+    parent_uid: b04dac832e14606491617bcefaab013d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.3-window-washer-problem/window-washer-solution/ozIdCgo5uI4.srt
+    title: 3play caption file
+    type: null
+    uid: b6e4230caee9853707d91e58013f306c
+  - id: ozIdCgo5uI4.pdf
+    parent_uid: b04dac832e14606491617bcefaab013d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.3-window-washer-problem/window-washer-solution/ozIdCgo5uI4.pdf
+    title: 3play pdf file
+    type: null
+    uid: d3761f23552dae516e125d7370e004fa
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b04dac832e14606491617bcefaab013d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8111c97915e389aef7d0056e2b166e63
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b04dac832e14606491617bcefaab013d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 349263656187cabe44f3e9c528c7f2da
+inline_embed_id: 50194006windowwashersolution46275350
 parent_uid: 490e27c79c4c14bb971b8ce6ece1d220
+related_resources_text: ''
+short_url: window-washer-solution
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.3-window-washer-problem/window-washer-solution
-short_url: window-washer-solution
-inline_embed_id: 50194006windowwashersolution46275350
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
+title: Window Washer Solution
 transcript: >-
   <p><span m='4010'>So now that we've combined pulley A, string 2,
   platform,</span> <span m='8200'>and washer as our system, we can now address
@@ -41,61 +95,7 @@ transcript: >-
   </p><p><span m='128110'>And so by thinking about how to choose a system,
   what</span> <span m='134420'>could be a very complicated problem,</span> <span
   m='136160'>with lots of equations, is simply one equation.</span> </p><p></p>
-embedded_media:
-  - uid: 99626e9c97085f08e841222cb10a5d44
-    parent_uid: b04dac832e14606491617bcefaab013d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ozIdCgo5uI4
-  - uid: 6e227e6303965fff050f3a2ee3d8fb2f
-    parent_uid: b04dac832e14606491617bcefaab013d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ozIdCgo5uI4/default.jpg'
-  - uid: 1fb99fdb284d7b47b240a62064ec0102
-    parent_uid: b04dac832e14606491617bcefaab013d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ozIdCgo5uI4
-  - uid: f80f6a1bb7a0c4f44a5fac7bebb6bfc5
-    parent_uid: b04dac832e14606491617bcefaab013d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 41b92321b8c85672d8b0a32b5d3d556a
-    parent_uid: b04dac832e14606491617bcefaab013d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W02PS01v03_2_360p.mp4'
-  - uid: b6e4230caee9853707d91e58013f306c
-    parent_uid: b04dac832e14606491617bcefaab013d
-    id: ozIdCgo5uI4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.3-window-washer-problem/window-washer-solution/ozIdCgo5uI4.srt
-  - uid: d3761f23552dae516e125d7370e004fa
-    parent_uid: b04dac832e14606491617bcefaab013d
-    id: ozIdCgo5uI4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.3-window-washer-problem/window-washer-solution/ozIdCgo5uI4.pdf
-  - uid: 8111c97915e389aef7d0056e2b166e63
-    parent_uid: b04dac832e14606491617bcefaab013d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 349263656187cabe44f3e9c528c7f2da
-    parent_uid: b04dac832e14606491617bcefaab013d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b04dac832e14606491617bcefaab013d
 type: courses
 layout: video
 ---

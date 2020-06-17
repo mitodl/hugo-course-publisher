@@ -1,18 +1,72 @@
 ---
-title: Feed-forward Loop Network Motif
-uid: 6a6e832207002ca3629d4ee9389b4631
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/feed-forward-loop-network-motif
-short_url: feed-forward-loop-network-motif
-inline_embed_id: 8840596feed-forwardloopnetworkmotif73890628
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Jeff Gore discusses
   the feed-forward loop (FFL) network motif. He covers coherent type 1 (C1) and
   the incoherent type 1 (I1) FFL motifs. This discussion of network motifs is
   extended to larger structures.</p> <p><strong>Instructor:</strong> Prof. Jeff
   Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: zJTVMkGe8-8
+    parent_uid: 6a6e832207002ca3629d4ee9389b4631
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 732b5efecb10780e6f04d360446902e8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/zJTVMkGe8-8/default.jpg'
+    parent_uid: 6a6e832207002ca3629d4ee9389b4631
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1ade8debe576c724b4b02a99acbaf365
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: 6a6e832207002ca3629d4ee9389b4631
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 923d36399afaa63f155fffbcf3fbf9ae
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec07_300k.mp4'
+    parent_uid: 6a6e832207002ca3629d4ee9389b4631
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: dde20edf400fe11fc55a5563a8a2dddf
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: zJTVMkGe8-8
+    parent_uid: 6a6e832207002ca3629d4ee9389b4631
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 972bd62ca7e6f7775cde0cb81c912952
+  - id: zJTVMkGe8-8.srt
+    parent_uid: 6a6e832207002ca3629d4ee9389b4631
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/feed-forward-loop-network-motif/zJTVMkGe8-8.srt
+    title: 3play caption file
+    type: null
+    uid: 15a2be564c2ad79acac4d5f489b4634d
+  - id: zJTVMkGe8-8.pdf
+    parent_uid: 6a6e832207002ca3629d4ee9389b4631
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/feed-forward-loop-network-motif/zJTVMkGe8-8.pdf
+    title: 3play pdf file
+    type: null
+    uid: b494a6d9fcace5ded29d53d0da5bb37f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6a6e832207002ca3629d4ee9389b4631
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c604032579a0daf14ac0542c504a36dc
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6a6e832207002ca3629d4ee9389b4631
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f4a81e71e37ef7a05be4813cd3809ccc
+inline_embed_id: 8840596feed-forwardloopnetworkmotif73890628
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: feed-forward-loop-network-motif
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/feed-forward-loop-network-motif
+title: Feed-forward Loop Network Motif
 transcript: >-
   <p><span m="70">NARRATOR: The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4741,61 +4795,7 @@ transcript: >-
   m="4886340">next</span> <span m="4886580">lecture.</span> <span
   m="4886880">All right.</span> <span m="4887180">Have a</span> <span
   m="4887480">good</span> <span m="4887780">weekend.</span></p>
-embedded_media:
-  - uid: 732b5efecb10780e6f04d360446902e8
-    parent_uid: 6a6e832207002ca3629d4ee9389b4631
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: zJTVMkGe8-8
-  - uid: 1ade8debe576c724b4b02a99acbaf365
-    parent_uid: 6a6e832207002ca3629d4ee9389b4631
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/zJTVMkGe8-8/default.jpg'
-  - uid: 923d36399afaa63f155fffbcf3fbf9ae
-    parent_uid: 6a6e832207002ca3629d4ee9389b4631
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: dde20edf400fe11fc55a5563a8a2dddf
-    parent_uid: 6a6e832207002ca3629d4ee9389b4631
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec07_300k.mp4'
-  - uid: 972bd62ca7e6f7775cde0cb81c912952
-    parent_uid: 6a6e832207002ca3629d4ee9389b4631
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: zJTVMkGe8-8
-  - uid: 15a2be564c2ad79acac4d5f489b4634d
-    parent_uid: 6a6e832207002ca3629d4ee9389b4631
-    id: zJTVMkGe8-8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/feed-forward-loop-network-motif/zJTVMkGe8-8.srt
-  - uid: b494a6d9fcace5ded29d53d0da5bb37f
-    parent_uid: 6a6e832207002ca3629d4ee9389b4631
-    id: zJTVMkGe8-8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/feed-forward-loop-network-motif/zJTVMkGe8-8.pdf
-  - uid: c604032579a0daf14ac0542c504a36dc
-    parent_uid: 6a6e832207002ca3629d4ee9389b4631
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f4a81e71e37ef7a05be4813cd3809ccc
-    parent_uid: 6a6e832207002ca3629d4ee9389b4631
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6a6e832207002ca3629d4ee9389b4631
 type: courses
 layout: video
 ---

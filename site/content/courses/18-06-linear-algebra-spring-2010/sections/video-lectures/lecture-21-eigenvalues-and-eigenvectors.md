@@ -1,17 +1,89 @@
 ---
-title: 'Lecture 21: Eigenvalues and eigenvectors'
-uid: 67a7b936c6ab017d69906a3d24837506
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-21-eigenvalues-and-eigenvectors
-short_url: lecture-21-eigenvalues-and-eigenvectors
-inline_embed_id: '32636945lecture21:eigenvaluesandeigenvectors74304287'
 about_this_resource_text: "<div class=\"vidpad\">\r\n<p>These video lectures of Professor Gilbert Strang teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to the current  edition of the textbook. However, this book is still the best reference  for more information on the topics covered in each lecture.</p>\r\n<p><a href=\"http://www.amazon.com/exec/obidos/ASIN/0980232775/ref=nosim/mitopencourse-20\"><img alt=\"Buy at Amazon\" src=\"/images/a_logo_17.gif\" align=\"absmiddle\" border=\"0\" /></a> Strang, Gilbert. <em>Introduction to Linear Algebra</em>. 5th ed. <a href=\"http://www.wellesleycambridge.com/\">Wellesley-Cambridge Press</a>, 2016. ISBN: 9780980232776.</p>\r\n<p><strong>Instructor/speaker:</strong> Prof. Gilbert Strang</p>\r\n</div>"
+embedded_media:
+  - id: 18.06_L21.jpg
+    parent_uid: 67a7b936c6ab017d69906a3d24837506
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-21-eigenvalues-and-eigenvectors/18.06_L21.jpg
+    title: 18.06_L21.jpg
+    type: null
+    uid: 790f6b2cd4f41c93f5187de068ce65dc
+  - id: Video-YouTube-Stream
+    media_location: cdZnhQjJu4I
+    parent_uid: 67a7b936c6ab017d69906a3d24837506
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1d60553389145465ba10e084b29314f3
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 67a7b936c6ab017d69906a3d24837506
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 477af2a84fdeb5f6221563f4b7606b4b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/21.mp4'
+    parent_uid: 67a7b936c6ab017d69906a3d24837506
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ade44066e1c8a76bb3472eda9904bdf3
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 67a7b936c6ab017d69906a3d24837506
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: ca63b2afe07e6cade7622cf3515ac39f
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 67a7b936c6ab017d69906a3d24837506
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 5d6b215c7c7f5c3db03e1a00841610bd
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: cdZnhQjJu4I
+    parent_uid: 67a7b936c6ab017d69906a3d24837506
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0bc6668f45060110fcc5690503ddf6fb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/cdZnhQjJu4I/default.jpg'
+    parent_uid: 67a7b936c6ab017d69906a3d24837506
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e556c4a7d2ec108e607e0a848f77e035
+  - id: cdZnhQjJu4I.srt
+    parent_uid: 67a7b936c6ab017d69906a3d24837506
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-21-eigenvalues-and-eigenvectors/cdZnhQjJu4I.srt
+    title: 3play caption file
+    type: null
+    uid: 791787ebee06650c2bfa1fc7297d3d82
+  - id: cdZnhQjJu4I.pdf
+    parent_uid: 67a7b936c6ab017d69906a3d24837506
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-21-eigenvalues-and-eigenvectors/cdZnhQjJu4I.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8d0f7baefcedee6596eaab43c55122fe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 67a7b936c6ab017d69906a3d24837506
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d1cc774bfd0fc081f22a94969826b5ee
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 67a7b936c6ab017d69906a3d24837506
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3c7114f70d0d983d7d70e0cb49c01695
+inline_embed_id: '32636945lecture21:eigenvaluesandeigenvectors74304287'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-21-eigenvalues-and-eigenvectors
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-21-eigenvalues-and-eigenvectors
+title: 'Lecture 21: Eigenvalues and eigenvectors'
 transcript: >-
   <p><span m='7380'>OK.</span> <span m='8230'>So</span> <span
   m='8680'>this</span> <span m='8880'>is</span> <span m='9710'>the</span> <span
@@ -2826,79 +2898,7 @@ transcript: >-
   m='3076640'>A</span> <span m='3077710'>real</span> <span
   m='3078790'>New</span> <span m='3079860'>England</span> <span
   m='3080930'>weekend.</span> </p>
-embedded_media:
-  - uid: 790f6b2cd4f41c93f5187de068ce65dc
-    parent_uid: 67a7b936c6ab017d69906a3d24837506
-    id: 18.06_L21.jpg
-    title: 18.06_L21.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-21-eigenvalues-and-eigenvectors/18.06_L21.jpg
-  - uid: 1d60553389145465ba10e084b29314f3
-    parent_uid: 67a7b936c6ab017d69906a3d24837506
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: cdZnhQjJu4I
-  - uid: 477af2a84fdeb5f6221563f4b7606b4b
-    parent_uid: 67a7b936c6ab017d69906a3d24837506
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: ade44066e1c8a76bb3472eda9904bdf3
-    parent_uid: 67a7b936c6ab017d69906a3d24837506
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/21.mp4'
-  - uid: ca63b2afe07e6cade7622cf3515ac39f
-    parent_uid: 67a7b936c6ab017d69906a3d24837506
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 5d6b215c7c7f5c3db03e1a00841610bd
-    parent_uid: 67a7b936c6ab017d69906a3d24837506
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 0bc6668f45060110fcc5690503ddf6fb
-    parent_uid: 67a7b936c6ab017d69906a3d24837506
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: cdZnhQjJu4I
-  - uid: e556c4a7d2ec108e607e0a848f77e035
-    parent_uid: 67a7b936c6ab017d69906a3d24837506
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/cdZnhQjJu4I/default.jpg'
-  - uid: 791787ebee06650c2bfa1fc7297d3d82
-    parent_uid: 67a7b936c6ab017d69906a3d24837506
-    id: cdZnhQjJu4I.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-21-eigenvalues-and-eigenvectors/cdZnhQjJu4I.srt
-  - uid: 8d0f7baefcedee6596eaab43c55122fe
-    parent_uid: 67a7b936c6ab017d69906a3d24837506
-    id: cdZnhQjJu4I.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-21-eigenvalues-and-eigenvectors/cdZnhQjJu4I.pdf
-  - uid: d1cc774bfd0fc081f22a94969826b5ee
-    parent_uid: 67a7b936c6ab017d69906a3d24837506
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3c7114f70d0d983d7d70e0cb49c01695
-    parent_uid: 67a7b936c6ab017d69906a3d24837506
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 67a7b936c6ab017d69906a3d24837506
 type: courses
 layout: video
 ---

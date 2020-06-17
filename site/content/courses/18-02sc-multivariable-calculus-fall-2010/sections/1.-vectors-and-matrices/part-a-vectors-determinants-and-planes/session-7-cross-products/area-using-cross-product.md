@@ -1,13 +1,68 @@
 ---
-title: Area Using Cross Product
-uid: 43d70b1dc0aa88ffd012d075086a795c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: QHaAoQQy07I
+    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 62f3558302f9c54e3d46566767e47307
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QHaAoQQy07I/default.jpg'
+    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2224a7c8644af35144b9bb95687a61aa
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: QHaAoQQy07I
+    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4f8178270c87c6423e17b0cb954918ff
+  - id: QHaAoQQy07I.srt
+    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-7-cross-products/area-using-cross-product/QHaAoQQy07I.srt
+    title: 3play caption file
+    type: null
+    uid: 37e73471d4d355aaf217c7c1d2c87be1
+  - id: QHaAoQQy07I.pdf
+    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-7-cross-products/area-using-cross-product/QHaAoQQy07I.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2cbcf90306322a8d8a8e4d9a83a3918c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 32af718fd380a1a6b40a5c24a48cfec0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 846e3390053d444fbc38f2098f684011
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/finding-area-using-cross-products/id414355340?i=90322850
+    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b0a03c917a496e6bf47b5f16a1fe93e4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_07_300k.mp4'
+    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bb6338bc7f4424099904a09c925e4f16
+inline_embed_id: 39883228areausingcrossproduct90621061
 parent_uid: 83e4aaa9ae8c110f1c2812e303bd3f4a
+related_resources_text: ''
+short_url: area-using-cross-product
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-7-cross-products/area-using-cross-product
-short_url: area-using-cross-product
-inline_embed_id: 39883228areausingcrossproduct90621061
-about_this_resource_text: ''
-related_resources_text: ''
+title: Area Using Cross Product
 transcript: >-
   <p><span m='7000'>DAVID JORDAN: Hello,</span> <span m='7200'>and</span> <span
   m='7290'>welcome</span> <span m='7530'>back</span> <span m='7720'>to</span>
@@ -268,62 +323,7 @@ transcript: >-
   m='302730'>OK?</span> <span m='302910'>And</span> <span m='303015'>I'll</span>
   <span m='303120'>leave</span> <span m='303290'>it</span> <span
   m='303360'>at</span> <span m='303490'>that.</span> </p>
-embedded_media:
-  - uid: 62f3558302f9c54e3d46566767e47307
-    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QHaAoQQy07I
-  - uid: 2224a7c8644af35144b9bb95687a61aa
-    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QHaAoQQy07I/default.jpg'
-  - uid: 4f8178270c87c6423e17b0cb954918ff
-    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QHaAoQQy07I
-  - uid: 37e73471d4d355aaf217c7c1d2c87be1
-    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
-    id: QHaAoQQy07I.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-7-cross-products/area-using-cross-product/QHaAoQQy07I.srt
-  - uid: 2cbcf90306322a8d8a8e4d9a83a3918c
-    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
-    id: QHaAoQQy07I.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-7-cross-products/area-using-cross-product/QHaAoQQy07I.pdf
-  - uid: 32af718fd380a1a6b40a5c24a48cfec0
-    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 846e3390053d444fbc38f2098f684011
-    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b0a03c917a496e6bf47b5f16a1fe93e4
-    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/finding-area-using-cross-products/id414355340?i=90322850
-  - uid: bb6338bc7f4424099904a09c925e4f16
-    parent_uid: 43d70b1dc0aa88ffd012d075086a795c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_07_300k.mp4'
+uid: 43d70b1dc0aa88ffd012d075086a795c
 type: courses
 layout: video
 ---

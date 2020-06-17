@@ -1,13 +1,61 @@
 ---
-title: Driven Cart on Air Track
-uid: ce46df52e78fe822fcb1d5402a637670
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: FCFpaKcpuXQ
+    parent_uid: ce46df52e78fe822fcb1d5402a637670
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f44cc651076a7bed63852abe602b44a1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FCFpaKcpuXQ/default.jpg'
+    parent_uid: ce46df52e78fe822fcb1d5402a637670
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e8407e07e49b6da9dfa9a9b9b5e46c75
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: FCFpaKcpuXQ
+    parent_uid: ce46df52e78fe822fcb1d5402a637670
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ca0746031b17d2becc31713d24bbf90e
+  - id: FCFpaKcpuXQ.srt
+    parent_uid: ce46df52e78fe822fcb1d5402a637670
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy_of_lecture-3-video/FCFpaKcpuXQ.srt
+    title: 3play caption file
+    type: null
+    uid: d506e2b37dfffd229b262953f31400e2
+  - id: FCFpaKcpuXQ.pdf
+    parent_uid: ce46df52e78fe822fcb1d5402a637670
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy_of_lecture-3-video/FCFpaKcpuXQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 58d6b06a605eed407bb40f0b52d469d3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ce46df52e78fe822fcb1d5402a637670
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 928fc540ff1b5fdb84d75c3dbe290acb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ce46df52e78fe822fcb1d5402a637670
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3f436265a109149f13daf292006246c0
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec03_300k.mp4'
+    parent_uid: ce46df52e78fe822fcb1d5402a637670
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8aa02807171393bf8d3314ece5da4597
+inline_embed_id: 81910399lecture3videop16005409
 parent_uid: f635ac92fa8971e368192518b537eb93
+related_resources_text: ''
+short_url: copy_of_lecture-3-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy_of_lecture-3-video
-short_url: copy_of_lecture-3-video
-inline_embed_id: 81910399lecture3videop16005409
-about_this_resource_text: ''
-related_resources_text: ''
+title: Driven Cart on Air Track
 transcript: >-
   <p><span m="2110">The</span> <span m="2230">following</span> <span
   m="2650">content</span> <span m="3160">is</span> <span
@@ -3938,55 +3986,7 @@ transcript: >-
   m="4610690">additional</span> <span m="4611170">questions</span> <span
   m="4612250">related</span> <span m="4612640">to the</span> <span
   m="4612800">lecture.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: f44cc651076a7bed63852abe602b44a1
-    parent_uid: ce46df52e78fe822fcb1d5402a637670
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FCFpaKcpuXQ
-  - uid: e8407e07e49b6da9dfa9a9b9b5e46c75
-    parent_uid: ce46df52e78fe822fcb1d5402a637670
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FCFpaKcpuXQ/default.jpg'
-  - uid: ca0746031b17d2becc31713d24bbf90e
-    parent_uid: ce46df52e78fe822fcb1d5402a637670
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FCFpaKcpuXQ
-  - uid: d506e2b37dfffd229b262953f31400e2
-    parent_uid: ce46df52e78fe822fcb1d5402a637670
-    id: FCFpaKcpuXQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy_of_lecture-3-video/FCFpaKcpuXQ.srt
-  - uid: 58d6b06a605eed407bb40f0b52d469d3
-    parent_uid: ce46df52e78fe822fcb1d5402a637670
-    id: FCFpaKcpuXQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy_of_lecture-3-video/FCFpaKcpuXQ.pdf
-  - uid: 928fc540ff1b5fdb84d75c3dbe290acb
-    parent_uid: ce46df52e78fe822fcb1d5402a637670
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3f436265a109149f13daf292006246c0
-    parent_uid: ce46df52e78fe822fcb1d5402a637670
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8aa02807171393bf8d3314ece5da4597
-    parent_uid: ce46df52e78fe822fcb1d5402a637670
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec03_300k.mp4'
+uid: ce46df52e78fe822fcb1d5402a637670
 type: courses
 layout: video
 ---

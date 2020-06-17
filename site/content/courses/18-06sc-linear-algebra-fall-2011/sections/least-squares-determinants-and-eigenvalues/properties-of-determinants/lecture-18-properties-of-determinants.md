@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 18: Properties of Determinants'
-uid: c98f623536a0969e6e0eb33ce42a84d8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: srxexLishgY
+    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d83b4bd15f10a965b79e9e9d3946a968
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/srxexLishgY/default.jpg'
+    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3b3c6ca87bc852acfada97a473303608
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 95dc1953fa67d7b39debf0ff1698036f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/18.mp4'
+    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b62e41dfd5c1bdff6badcee20196b23c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: srxexLishgY
+    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4149a0bd8f1158c76dbb960e00bb4483
+  - id: srxexLishgY.srt
+    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/properties-of-determinants/lecture-18-properties-of-determinants/srxexLishgY.srt
+    title: 3play caption file
+    type: null
+    uid: ada5ab655c7e899ffe0494d1285c6ab7
+  - id: srxexLishgY.pdf
+    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/properties-of-determinants/lecture-18-properties-of-determinants/srxexLishgY.pdf
+    title: 3play pdf file
+    type: null
+    uid: e004880d8554094799e4c0945f2c5fa8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bda232c3efdb2287cecc4739369bc94e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 51f22e81cf54c9380fc5a26bcbf1733a
+inline_embed_id: '12330400lecture18:propertiesofdeterminants83489963'
 parent_uid: db45d276fad6eb49f42e287aaa9e22b6
+related_resources_text: ''
+short_url: lecture-18-properties-of-determinants
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/properties-of-determinants/lecture-18-properties-of-determinants
-short_url: lecture-18-properties-of-determinants
-inline_embed_id: '12330400lecture18:propertiesofdeterminants83489963'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 18: Properties of Determinants'
 transcript: >-
   <p><span m='7730'>OK,</span> <span m='8210'>this</span> <span
   m='8620'>lecture</span> <span m='9210'>is</span> <span m='10160'>like</span>
@@ -2662,61 +2716,7 @@ transcript: >-
   m='2927710'>onto</span> <span m='2927720'>the</span> <span
   m='2927730'>web</span> <span m='2927740'>this</span> <span
   m='2927750'>afternoon.</span> <span m='2927890'>Thanks.</span> </p>
-embedded_media:
-  - uid: d83b4bd15f10a965b79e9e9d3946a968
-    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: srxexLishgY
-  - uid: 3b3c6ca87bc852acfada97a473303608
-    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/srxexLishgY/default.jpg'
-  - uid: 95dc1953fa67d7b39debf0ff1698036f
-    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: b62e41dfd5c1bdff6badcee20196b23c
-    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/18.mp4'
-  - uid: 4149a0bd8f1158c76dbb960e00bb4483
-    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: srxexLishgY
-  - uid: ada5ab655c7e899ffe0494d1285c6ab7
-    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
-    id: srxexLishgY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/properties-of-determinants/lecture-18-properties-of-determinants/srxexLishgY.srt
-  - uid: e004880d8554094799e4c0945f2c5fa8
-    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
-    id: srxexLishgY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/properties-of-determinants/lecture-18-properties-of-determinants/srxexLishgY.pdf
-  - uid: bda232c3efdb2287cecc4739369bc94e
-    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 51f22e81cf54c9380fc5a26bcbf1733a
-    parent_uid: c98f623536a0969e6e0eb33ce42a84d8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c98f623536a0969e6e0eb33ce42a84d8
 type: courses
 layout: video
 ---

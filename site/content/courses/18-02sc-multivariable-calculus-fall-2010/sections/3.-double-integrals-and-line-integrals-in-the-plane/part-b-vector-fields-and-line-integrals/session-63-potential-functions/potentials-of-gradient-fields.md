@@ -1,13 +1,68 @@
 ---
-title: Potentials of Gradient Fields
-uid: 5a3ddda222486dbe2ef8334fbef0d0e8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Tgk9wURblAw
+    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 50331b0c6a31a52eb07ba0caec21c584
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Tgk9wURblAw/default.jpg'
+    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3cadaa91095c2b53981a56233a763a1a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_44_300k.mp4'
+    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: db63b5498279b009522b4d3ef91511bc
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/potentials-gradient-fields/id414355340?i=90322840
+    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1ae205033aa7ed3fcdb6ae758318cfe4
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: Tgk9wURblAw
+    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3656ef7eb22d3355c46e9ba3f8a33a0a
+  - id: Tgk9wURblAw.srt
+    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-63-potential-functions/potentials-of-gradient-fields/Tgk9wURblAw.srt
+    title: 3play caption file
+    type: null
+    uid: 280968ff51741cee7d8f03934f0e5c9e
+  - id: Tgk9wURblAw.pdf
+    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-63-potential-functions/potentials-of-gradient-fields/Tgk9wURblAw.pdf
+    title: 3play pdf file
+    type: null
+    uid: f3036912b84068107c24ff28236761fe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0f9338dd1898715351c932e9ba658125
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bafe958f2ded0a9584093cfe44b2c6b3
+inline_embed_id: 47690204potentialsofgradientfields64882132
 parent_uid: d4f09bad1bc504b82a719aa7c3f72168
+related_resources_text: ''
+short_url: potentials-of-gradient-fields
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-63-potential-functions/potentials-of-gradient-fields
-short_url: potentials-of-gradient-fields
-inline_embed_id: 47690204potentialsofgradientfields64882132
-about_this_resource_text: ''
-related_resources_text: ''
+title: Potentials of Gradient Fields
 transcript: >-
   <p><span m='0'>CHRISTINE BREINER:</span> <span m='6990'>Welcome</span> <span
   m='7330'>back to</span> <span m='7530'>recitation.</span> <span
@@ -778,62 +833,7 @@ transcript: >-
   m='676990'>same.</span> <span m='678410'>So</span> <span
   m='678550'>that's</span> <span m='679370'>it.</span> <span m='679700'>I'll
   stop there.</span> </p>
-embedded_media:
-  - uid: 50331b0c6a31a52eb07ba0caec21c584
-    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Tgk9wURblAw
-  - uid: 3cadaa91095c2b53981a56233a763a1a
-    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Tgk9wURblAw/default.jpg'
-  - uid: db63b5498279b009522b4d3ef91511bc
-    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_44_300k.mp4'
-  - uid: 1ae205033aa7ed3fcdb6ae758318cfe4
-    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/potentials-gradient-fields/id414355340?i=90322840
-  - uid: 3656ef7eb22d3355c46e9ba3f8a33a0a
-    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Tgk9wURblAw
-  - uid: 280968ff51741cee7d8f03934f0e5c9e
-    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
-    id: Tgk9wURblAw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-63-potential-functions/potentials-of-gradient-fields/Tgk9wURblAw.srt
-  - uid: f3036912b84068107c24ff28236761fe
-    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
-    id: Tgk9wURblAw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-63-potential-functions/potentials-of-gradient-fields/Tgk9wURblAw.pdf
-  - uid: 0f9338dd1898715351c932e9ba658125
-    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bafe958f2ded0a9584093cfe44b2c6b3
-    parent_uid: 5a3ddda222486dbe2ef8334fbef0d0e8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 5a3ddda222486dbe2ef8334fbef0d0e8
 type: courses
 layout: video
 ---

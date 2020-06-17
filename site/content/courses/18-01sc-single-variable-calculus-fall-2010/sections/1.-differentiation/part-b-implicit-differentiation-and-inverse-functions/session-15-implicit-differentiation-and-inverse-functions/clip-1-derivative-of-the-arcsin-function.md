@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Derivative of the Arcsin Function'
-uid: 597e91dec65d5b29b42570984dd79e04
-parent_uid: 5668bfaf4a4849cdc9fb5962b4a18003
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/clip-1-derivative-of-the-arcsin-function
-short_url: clip-1-derivative-of-the-arcsin-function
-inline_embed_id: '63091258clip1:derivativeofthearcsinfunction56555535'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/857933bc947b1ed184c79a5710fc86bc"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 5 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 5q_3FDOkVRQ
+    parent_uid: 597e91dec65d5b29b42570984dd79e04
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e8703abec2bb313252579d2103ebec34
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/5q_3FDOkVRQ/default.jpg'
+    parent_uid: 597e91dec65d5b29b42570984dd79e04
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3992ca0afcfee63c145f8b973b879913
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec05_300k.mp4'
+    parent_uid: 597e91dec65d5b29b42570984dd79e04
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 68979b54c484aedf7f7915c33ff84035
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 5q_3FDOkVRQ
+    parent_uid: 597e91dec65d5b29b42570984dd79e04
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4ac854692186c7a4b849ee5ce6ba7a98
+  - id: 5q_3FDOkVRQ.srt
+    parent_uid: 597e91dec65d5b29b42570984dd79e04
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/clip-1-derivative-of-the-arcsin-function/5q_3FDOkVRQ.srt
+    title: 3play caption file
+    type: null
+    uid: afc8b2632d2bcfbc2b8400835b7cde85
+  - id: 5q_3FDOkVRQ.pdf
+    parent_uid: 597e91dec65d5b29b42570984dd79e04
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/clip-1-derivative-of-the-arcsin-function/5q_3FDOkVRQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 93795c93ad5c7ebf80024bc8df21ceb6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 597e91dec65d5b29b42570984dd79e04
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 505b8dbe31d39586f8f6d6a010baf94b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 597e91dec65d5b29b42570984dd79e04
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6164076278723099ee7665aaded44f61
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 597e91dec65d5b29b42570984dd79e04
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e17ca50f721fd834047a35f2f4aead27
+inline_embed_id: '63091258clip1:derivativeofthearcsinfunction56555535'
+parent_uid: 5668bfaf4a4849cdc9fb5962b4a18003
 related_resources_text: ''
+short_url: clip-1-derivative-of-the-arcsin-function
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/clip-1-derivative-of-the-arcsin-function
+title: 'Clip 1: Derivative of the Arcsin Function'
 transcript: >-
   <p><span m="110">The</span> <span m="360">following</span> <span
   m="520">content</span> <span m="1130">was created</span> <span
@@ -2479,61 +2533,7 @@ transcript: >-
   <span m="2934230">discussed in your text.</span></p><p><span
   m="2936030">So</span> <span m="2936250">we'll</span> <span m="2936520">stop
   here.</span></p>
-embedded_media:
-  - uid: e8703abec2bb313252579d2103ebec34
-    parent_uid: 597e91dec65d5b29b42570984dd79e04
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 5q_3FDOkVRQ
-  - uid: 3992ca0afcfee63c145f8b973b879913
-    parent_uid: 597e91dec65d5b29b42570984dd79e04
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/5q_3FDOkVRQ/default.jpg'
-  - uid: 68979b54c484aedf7f7915c33ff84035
-    parent_uid: 597e91dec65d5b29b42570984dd79e04
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec05_300k.mp4'
-  - uid: 4ac854692186c7a4b849ee5ce6ba7a98
-    parent_uid: 597e91dec65d5b29b42570984dd79e04
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 5q_3FDOkVRQ
-  - uid: afc8b2632d2bcfbc2b8400835b7cde85
-    parent_uid: 597e91dec65d5b29b42570984dd79e04
-    id: 5q_3FDOkVRQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/clip-1-derivative-of-the-arcsin-function/5q_3FDOkVRQ.srt
-  - uid: 93795c93ad5c7ebf80024bc8df21ceb6
-    parent_uid: 597e91dec65d5b29b42570984dd79e04
-    id: 5q_3FDOkVRQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/clip-1-derivative-of-the-arcsin-function/5q_3FDOkVRQ.pdf
-  - uid: 505b8dbe31d39586f8f6d6a010baf94b
-    parent_uid: 597e91dec65d5b29b42570984dd79e04
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6164076278723099ee7665aaded44f61
-    parent_uid: 597e91dec65d5b29b42570984dd79e04
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e17ca50f721fd834047a35f2f4aead27
-    parent_uid: 597e91dec65d5b29b42570984dd79e04
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 597e91dec65d5b29b42570984dd79e04
 type: courses
 layout: video
 ---

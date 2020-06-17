@@ -1,13 +1,67 @@
 ---
-title: PS.6.2 Snowplow Problem
-uid: 267cbedb874fa02855ccd677cdf8e7db
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: nWaoEjE8a8M
+    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 08780a2639e1d627cf82464cf4e69d63
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/nWaoEjE8a8M/default.jpg'
+    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e504c58bac377649eed4bb7b22d2c5ae
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: nWaoEjE8a8M
+    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 64539e68de7b1972ff02a8996c72179d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bb2a13280bcb7768ff72a6b1196e7154
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W06PS02_360p.mp4'
+    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a2ff65f2446c979f5f0f7b1fde7c3fa3
+  - id: nWaoEjE8a8M.srt
+    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem/ps.6.2-snowplow-problem/nWaoEjE8a8M.srt
+    title: 3play caption file
+    type: null
+    uid: 6213435e499e82eb146bb15e1f4164d7
+  - id: nWaoEjE8a8M.pdf
+    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem/ps.6.2-snowplow-problem/nWaoEjE8a8M.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9e98c1a566d79b3854041f7de331dbc3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1d3f28bfb3a49455574f3c2fb1425a60
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1e02c3634aa8690493afd7d58e8f1617
+inline_embed_id: 96398810ps.6.2snowplowproblem96202065
 parent_uid: a58a3ece6fdc129d75645ca98d437fce
+related_resources_text: ''
+short_url: ps.6.2-snowplow-problem
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem/ps.6.2-snowplow-problem
-short_url: ps.6.2-snowplow-problem
-inline_embed_id: 96398810ps.6.2snowplowproblem96202065
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
+title: PS.6.2 Snowplow Problem
 transcript: >-
   <p><span m='3520'>Let's consider another example of continuous mass
   transfer.</span> </p><p><span m='6710'>Suppose we have a truck, and that
@@ -125,61 +179,7 @@ transcript: >-
   m='478830'>This interval is an interval that's not hard to do,</span> <span
   m='482050'>that you should try as an exercise</span> <span m='484380'>in
   elementary calculus.</span> </p><p></p>
-embedded_media:
-  - uid: 08780a2639e1d627cf82464cf4e69d63
-    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: nWaoEjE8a8M
-  - uid: e504c58bac377649eed4bb7b22d2c5ae
-    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/nWaoEjE8a8M/default.jpg'
-  - uid: 64539e68de7b1972ff02a8996c72179d
-    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: nWaoEjE8a8M
-  - uid: bb2a13280bcb7768ff72a6b1196e7154
-    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: a2ff65f2446c979f5f0f7b1fde7c3fa3
-    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W06PS02_360p.mp4'
-  - uid: 6213435e499e82eb146bb15e1f4164d7
-    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
-    id: nWaoEjE8a8M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem/ps.6.2-snowplow-problem/nWaoEjE8a8M.srt
-  - uid: 9e98c1a566d79b3854041f7de331dbc3
-    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
-    id: nWaoEjE8a8M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem/ps.6.2-snowplow-problem/nWaoEjE8a8M.pdf
-  - uid: 1d3f28bfb3a49455574f3c2fb1425a60
-    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1e02c3634aa8690493afd7d58e8f1617
-    parent_uid: 267cbedb874fa02855ccd677cdf8e7db
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 267cbedb874fa02855ccd677cdf8e7db
 type: courses
 layout: video
 ---

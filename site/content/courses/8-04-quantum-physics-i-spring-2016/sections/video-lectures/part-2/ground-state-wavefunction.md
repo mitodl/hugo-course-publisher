@@ -1,13 +1,73 @@
 ---
-title: Ground state wavefunction
-uid: f0145cab9566cad3f0d1562a02f04ad1
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: vnyxYtj0mfE
+    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fb94c2b0fefd72e6ef16492e0699c770
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/myDJ2ZMs-3M/default.jpg'
+    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2ab71e6867ac140871bdd45ebb6888a5
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: vnyxYtj0mfE
+    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: eb46e82a45a3ea649fd8c0761085cedc
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b15fe5a91934f30cb6abbe2ebb48c224
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec14_s4_300k.mp4'
+    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6898fa5d1245762c1d9c93ac0713e2d4
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/vnyxYtj0mfE/default.jpg'
+    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2ce86ab5b59b8cd783760c0384eee5a2
+  - id: vnyxYtj0mfE.srt
+    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/ground-state-wavefunction/vnyxYtj0mfE.srt
+    title: 3play caption file
+    type: null
+    uid: bfd6f4173813b7da7fb65f09c935cd43
+  - id: vnyxYtj0mfE.pdf
+    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/ground-state-wavefunction/vnyxYtj0mfE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 90a27c1fbabeef7a80ed0ab80d5d72e9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e59ffbb7495659e4e5bfe3b9280c12f8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c352c2232b662cfa8093d7ca17ca59aa
+inline_embed_id: 32657037groundstatewavefunction21236055
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: ground-state-wavefunction
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/ground-state-wavefunction
-short_url: ground-state-wavefunction
-inline_embed_id: 32657037groundstatewavefunction21236055
-about_this_resource_text: ''
-related_resources_text: ''
+title: Ground state wavefunction
 transcript: >-
   <p><span m='390'>PROFESSOR:</span> <span m='525'>So</span> <span
   m='660'>let's</span> <span m='1020'>write</span> <span m='1410'>the
@@ -695,67 +755,7 @@ transcript: >-
   m='956160'>ground</span> <span m='956260'>state</span> <span
   m='956670'>or</span> <span m='957160'>the</span> <span
   m='957370'>[INAUDIBLE].</span> </p>
-embedded_media:
-  - uid: fb94c2b0fefd72e6ef16492e0699c770
-    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: vnyxYtj0mfE
-  - uid: 2ab71e6867ac140871bdd45ebb6888a5
-    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/myDJ2ZMs-3M/default.jpg'
-  - uid: eb46e82a45a3ea649fd8c0761085cedc
-    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: vnyxYtj0mfE
-  - uid: b15fe5a91934f30cb6abbe2ebb48c224
-    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 6898fa5d1245762c1d9c93ac0713e2d4
-    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec14_s4_300k.mp4'
-  - uid: 2ce86ab5b59b8cd783760c0384eee5a2
-    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/vnyxYtj0mfE/default.jpg'
-  - uid: bfd6f4173813b7da7fb65f09c935cd43
-    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
-    id: vnyxYtj0mfE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/ground-state-wavefunction/vnyxYtj0mfE.srt
-  - uid: 90a27c1fbabeef7a80ed0ab80d5d72e9
-    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
-    id: vnyxYtj0mfE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/ground-state-wavefunction/vnyxYtj0mfE.pdf
-  - uid: e59ffbb7495659e4e5bfe3b9280c12f8
-    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c352c2232b662cfa8093d7ca17ca59aa
-    parent_uid: f0145cab9566cad3f0d1562a02f04ad1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f0145cab9566cad3f0d1562a02f04ad1
 type: courses
 layout: video
 ---

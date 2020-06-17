@@ -1,16 +1,71 @@
 ---
-title: Black Box and Glass Box Testing
-uid: 86de73a066f01d7bf9e639a6c203849a
-parent_uid: c7d87e1179bbcaad0a2eedbc7c6c03c8
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7-video-solutions/black-box-and-glass-box-testing
-short_url: black-box-and-glass-box-testing
-inline_embed_id: 1135887blackboxandglassboxtesting2137330
 about_this_resource_text: >-
   <p><strong>Description:</strong> This in-class question explains aspects of
   testing, including path-completeness and boundary conditions.</p>
   <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 5McjE8e5gIg
+    parent_uid: 86de73a066f01d7bf9e639a6c203849a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ccbb96137570b9433451e910faad778f
+  - id: 5McjE8e5gIg.srt
+    parent_uid: 86de73a066f01d7bf9e639a6c203849a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7-video-solutions/black-box-and-glass-box-testing/5McjE8e5gIg.srt
+    title: 3play caption file
+    type: null
+    uid: 1202749cb2feaf4dcdaf6b0d8a1ad1e1
+  - id: 5McjE8e5gIg.pdf
+    parent_uid: 86de73a066f01d7bf9e639a6c203849a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7-video-solutions/black-box-and-glass-box-testing/5McjE8e5gIg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 385141ae56a3bd0bbd5cdc1d3437069f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 86de73a066f01d7bf9e639a6c203849a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 21417c60fec4e556cf66a7b89c767866
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 86de73a066f01d7bf9e639a6c203849a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 27bb0a5a60e9af95b4a1e4bdd8bd6b6a
+  - id: Video-YouTube-Stream
+    media_location: 5McjE8e5gIg
+    parent_uid: 86de73a066f01d7bf9e639a6c203849a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2d328130d789eacfcb5c36dd6d904eef
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/5McjE8e5gIg/default.jpg'
+    parent_uid: 86de73a066f01d7bf9e639a6c203849a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6f1f6469de142662612872d94b393646
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 86de73a066f01d7bf9e639a6c203849a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4885e97217391e06b00213a27bda55f7
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_07_exercise_01_300k.mp4
+    parent_uid: 86de73a066f01d7bf9e639a6c203849a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e20bffb37208ad290dc759372a544b26
+inline_embed_id: 1135887blackboxandglassboxtesting2137330
+parent_uid: c7d87e1179bbcaad0a2eedbc7c6c03c8
 related_resources_text: ''
+short_url: black-box-and-glass-box-testing
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7-video-solutions/black-box-and-glass-box-testing
+title: Black Box and Glass Box Testing
 transcript: >-
   <p><span m='790'>The</span> <span m='880'>following</span> <span
   m='1300'>content</span> <span m='1870'>is</span> <span
@@ -112,62 +167,7 @@ transcript: >-
   m='119980'>is</span> <span m='120370'>n</span> <span m='120490'>is</span>
   <span m='120610'>equal</span> <span m='120950'>to</span> <span
   m='121230'>0.</span> <span m='121450'>Perfect.</span> </p>
-embedded_media:
-  - uid: ccbb96137570b9433451e910faad778f
-    parent_uid: 86de73a066f01d7bf9e639a6c203849a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 5McjE8e5gIg
-  - uid: 1202749cb2feaf4dcdaf6b0d8a1ad1e1
-    parent_uid: 86de73a066f01d7bf9e639a6c203849a
-    id: 5McjE8e5gIg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7-video-solutions/black-box-and-glass-box-testing/5McjE8e5gIg.srt
-  - uid: 385141ae56a3bd0bbd5cdc1d3437069f
-    parent_uid: 86de73a066f01d7bf9e639a6c203849a
-    id: 5McjE8e5gIg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7-video-solutions/black-box-and-glass-box-testing/5McjE8e5gIg.pdf
-  - uid: 21417c60fec4e556cf66a7b89c767866
-    parent_uid: 86de73a066f01d7bf9e639a6c203849a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 27bb0a5a60e9af95b4a1e4bdd8bd6b6a
-    parent_uid: 86de73a066f01d7bf9e639a6c203849a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 2d328130d789eacfcb5c36dd6d904eef
-    parent_uid: 86de73a066f01d7bf9e639a6c203849a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 5McjE8e5gIg
-  - uid: 6f1f6469de142662612872d94b393646
-    parent_uid: 86de73a066f01d7bf9e639a6c203849a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/5McjE8e5gIg/default.jpg'
-  - uid: 4885e97217391e06b00213a27bda55f7
-    parent_uid: 86de73a066f01d7bf9e639a6c203849a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: e20bffb37208ad290dc759372a544b26
-    parent_uid: 86de73a066f01d7bf9e639a6c203849a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_07_exercise_01_300k.mp4
+uid: 86de73a066f01d7bf9e639a6c203849a
 type: courses
 layout: video
 ---

@@ -1,13 +1,61 @@
 ---
-title: Lecture 14 Video
-uid: 2620a894705dc0e83762002398ebb859
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: VGAlyJ7e0IQ
+    parent_uid: 2620a894705dc0e83762002398ebb859
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 93df8dc5d9c4274c43aa1e7906d61f8c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VGAlyJ7e0IQ/default.jpg'
+    parent_uid: 2620a894705dc0e83762002398ebb859
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4b6e7e1d2432a0caf21119772740a0e2
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: VGAlyJ7e0IQ
+    parent_uid: 2620a894705dc0e83762002398ebb859
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 94e0210b2ee0c05f8a16a1f67942cde9
+  - id: VGAlyJ7e0IQ.srt
+    parent_uid: 2620a894705dc0e83762002398ebb859
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-14/lecture-14-video/VGAlyJ7e0IQ.srt
+    title: 3play caption file
+    type: null
+    uid: fc3dd727c744194f4ac1e09536975db6
+  - id: VGAlyJ7e0IQ.pdf
+    parent_uid: 2620a894705dc0e83762002398ebb859
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-14/lecture-14-video/VGAlyJ7e0IQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9d692cb61a2fe7fde0c5bc7fe58882c8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2620a894705dc0e83762002398ebb859
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cae8ddf49f552f3b6d805963c976fef0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2620a894705dc0e83762002398ebb859
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1f856e093387f004bf09a7949b5a88d7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec14_300k.mp4'
+    parent_uid: 2620a894705dc0e83762002398ebb859
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5138fd9ae172bb3780677597dcc29c5d
+inline_embed_id: 17927045lecture14video94570462
 parent_uid: c1476a90000ba128f6d13a5e4049fafb
+related_resources_text: ''
+short_url: lecture-14-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-14/lecture-14-video
-short_url: lecture-14-video
-inline_embed_id: 17927045lecture14video94570462
-about_this_resource_text: ''
-related_resources_text: ''
+title: Lecture 14 Video
 transcript: >-
   <p><span m='2450'>The</span> <span m='2540'>following</span> <span
   m='2990'>content</span> <span m='3500'>is</span> <span
@@ -3995,55 +4043,7 @@ transcript: >-
   m='4646910'>know</span> <span m='4647060'>if</span> <span
   m='4647210'>you</span> <span m='4647300'>have</span> <span
   m='4647480'>any</span> <span m='4647660'>questions.</span> </p>
-embedded_media:
-  - uid: 93df8dc5d9c4274c43aa1e7906d61f8c
-    parent_uid: 2620a894705dc0e83762002398ebb859
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VGAlyJ7e0IQ
-  - uid: 4b6e7e1d2432a0caf21119772740a0e2
-    parent_uid: 2620a894705dc0e83762002398ebb859
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VGAlyJ7e0IQ/default.jpg'
-  - uid: 94e0210b2ee0c05f8a16a1f67942cde9
-    parent_uid: 2620a894705dc0e83762002398ebb859
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VGAlyJ7e0IQ
-  - uid: fc3dd727c744194f4ac1e09536975db6
-    parent_uid: 2620a894705dc0e83762002398ebb859
-    id: VGAlyJ7e0IQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-14/lecture-14-video/VGAlyJ7e0IQ.srt
-  - uid: 9d692cb61a2fe7fde0c5bc7fe58882c8
-    parent_uid: 2620a894705dc0e83762002398ebb859
-    id: VGAlyJ7e0IQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-14/lecture-14-video/VGAlyJ7e0IQ.pdf
-  - uid: cae8ddf49f552f3b6d805963c976fef0
-    parent_uid: 2620a894705dc0e83762002398ebb859
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1f856e093387f004bf09a7949b5a88d7
-    parent_uid: 2620a894705dc0e83762002398ebb859
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5138fd9ae172bb3780677597dcc29c5d
-    parent_uid: 2620a894705dc0e83762002398ebb859
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec14_300k.mp4'
+uid: 2620a894705dc0e83762002398ebb859
 type: courses
 layout: video
 ---

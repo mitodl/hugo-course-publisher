@@ -1,13 +1,67 @@
 ---
-title: 'Pizza Forums: Connecting with Students in a Large Lecture Class'
-uid: eb647a418c9bfc0191a9c746a7ef676c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: xB8xRCSyQlY
+    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3f6bc70dd7a6760e2e9718eed39d2ea4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/xB8xRCSyQlY/default.jpg'
+    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 88d911ea1063e8e2efd028f600b8e4f2
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: xB8xRCSyQlY
+    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5a6153d720c81bce04a17a7fe608abf3
+  - id: xB8xRCSyQlY.srt
+    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/pizza-forums-connecting-with-students-in-a-large-lecture-class/xB8xRCSyQlY.srt
+    title: 3play caption file
+    type: null
+    uid: e63fa73a7d8cbb080cffd228909fb4a3
+  - id: xB8xRCSyQlY.pdf
+    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/pizza-forums-connecting-with-students-in-a-large-lecture-class/xB8xRCSyQlY.pdf
+    title: 3play pdf file
+    type: null
+    uid: edf9a7bb997b71d9ffc3ce27c800fc86
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5e27a6657832cde08bee768bfc5541a3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e5da6eaa0b975876cf1cbf63cbfd9db1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 61e881ded2ebbbda1b98a491b2b87e78
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_Pizza_300k.mp4'
+    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2401a0dd1d1b178aca6877ee0902e5c2
+inline_embed_id: 6886102pizzaforumsconnectingwithstudentsinalargelectureclass78084914
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
+related_resources_text: ''
+short_url: pizza-forums-connecting-with-students-in-a-large-lecture-class
 technical_location: >-
   https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/pizza-forums-connecting-with-students-in-a-large-lecture-class
-short_url: pizza-forums-connecting-with-students-in-a-large-lecture-class
-inline_embed_id: 6886102pizzaforumsconnectingwithstudentsinalargelectureclass78084914
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Pizza Forums: Connecting with Students in a Large Lecture Class'
 transcript: >-
   <p><span m='4360'>CATHERINE DRENNAN: The</span> <span m='4470'>idea</span>
   <span m='4760'>was</span> <span m='5020'>in</span> <span m='5120'>a</span>
@@ -191,61 +245,7 @@ transcript: >-
   m='142410'>that</span> <span m='142690'>and</span> <span m='142990'>get</span>
   <span m='143160'>to</span> <span m='143270'>know</span> <span
   m='143500'>them.</span> </p>
-embedded_media:
-  - uid: 3f6bc70dd7a6760e2e9718eed39d2ea4
-    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: xB8xRCSyQlY
-  - uid: 88d911ea1063e8e2efd028f600b8e4f2
-    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/xB8xRCSyQlY/default.jpg'
-  - uid: 5a6153d720c81bce04a17a7fe608abf3
-    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: xB8xRCSyQlY
-  - uid: e63fa73a7d8cbb080cffd228909fb4a3
-    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
-    id: xB8xRCSyQlY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/pizza-forums-connecting-with-students-in-a-large-lecture-class/xB8xRCSyQlY.srt
-  - uid: edf9a7bb997b71d9ffc3ce27c800fc86
-    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
-    id: xB8xRCSyQlY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/pizza-forums-connecting-with-students-in-a-large-lecture-class/xB8xRCSyQlY.pdf
-  - uid: 5e27a6657832cde08bee768bfc5541a3
-    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e5da6eaa0b975876cf1cbf63cbfd9db1
-    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 61e881ded2ebbbda1b98a491b2b87e78
-    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 2401a0dd1d1b178aca6877ee0902e5c2
-    parent_uid: eb647a418c9bfc0191a9c746a7ef676c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_Pizza_300k.mp4'
+uid: eb647a418c9bfc0191a9c746a7ef676c
 type: courses
 layout: video
 ---

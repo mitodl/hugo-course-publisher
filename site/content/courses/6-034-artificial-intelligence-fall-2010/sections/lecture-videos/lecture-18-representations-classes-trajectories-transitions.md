@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 18: Representations: Classes, Trajectories, Transitions'
-uid: 6ec4e8a98402433915c74fc0cf8da9f3
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-18-representations-classes-trajectories-transitions
-short_url: lecture-18-representations-classes-trajectories-transitions
-inline_embed_id: '24717168lecture18:representations:classes,trajectories,transitions45627411'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, we consider the nature of
   human intelligence, including our ability to tell and understand stories. We
   discuss the most useful elements of our inner language: classification,
   transitions, trajectories, and story sequences.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: bQI0OmJPby4
+    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e9372081b2075db3b18f804ca2b170a3
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-18-representations/id765641080?i=194475736
+    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 31cf98a64714630ef73b9e6bcb830638
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec18_300k.mp4'
+    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5002062aa42546a8e086b272e217fee0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/bQI0OmJPby4/default.jpg'
+    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3b8b4fa2176dd7ded93a2ef84a19b91e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: bQI0OmJPby4
+    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2bb1a423789dc74fda379e2b0d571d47
+  - id: bQI0OmJPby4.srt
+    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-18-representations-classes-trajectories-transitions/bQI0OmJPby4.srt
+    title: 3play caption file
+    type: null
+    uid: 7d8bed3cfbc063c058e4d5a9c32ad585
+  - id: bQI0OmJPby4.pdf
+    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-18-representations-classes-trajectories-transitions/bQI0OmJPby4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0c98542b841b2aa8678b10de0db7487c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bcc842a667de769a4cc32f5080e2e6ce
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ad4d5a6167fa86ddf03abacbd1e6b576
+inline_embed_id: '24717168lecture18:representations:classes,trajectories,transitions45627411'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
+short_url: lecture-18-representations-classes-trajectories-transitions
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-18-representations-classes-trajectories-transitions
+title: 'Lecture 18: Representations: Classes, Trajectories, Transitions'
 transcript: >-
   <p><span m='15220'>PATRICK WINSTON: We might wonder a little bit about
   the</span> <span m='19340'>nature of human intelligence, and we might reflect
@@ -778,62 +833,7 @@ transcript: >-
   of things that put</span> <span m='2913280'>an unnecessary syntactic burden on
   the people who are</span> <span m='2915700'>reading your stuff.</span>
   </p><p></p>
-embedded_media:
-  - uid: e9372081b2075db3b18f804ca2b170a3
-    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: bQI0OmJPby4
-  - uid: 31cf98a64714630ef73b9e6bcb830638
-    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-18-representations/id765641080?i=194475736
-  - uid: 5002062aa42546a8e086b272e217fee0
-    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec18_300k.mp4'
-  - uid: 3b8b4fa2176dd7ded93a2ef84a19b91e
-    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/bQI0OmJPby4/default.jpg'
-  - uid: 2bb1a423789dc74fda379e2b0d571d47
-    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: bQI0OmJPby4
-  - uid: 7d8bed3cfbc063c058e4d5a9c32ad585
-    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
-    id: bQI0OmJPby4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-18-representations-classes-trajectories-transitions/bQI0OmJPby4.srt
-  - uid: 0c98542b841b2aa8678b10de0db7487c
-    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
-    id: bQI0OmJPby4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-18-representations-classes-trajectories-transitions/bQI0OmJPby4.pdf
-  - uid: bcc842a667de769a4cc32f5080e2e6ce
-    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ad4d5a6167fa86ddf03abacbd1e6b576
-    parent_uid: 6ec4e8a98402433915c74fc0cf8da9f3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6ec4e8a98402433915c74fc0cf8da9f3
 type: courses
 layout: video
 ---

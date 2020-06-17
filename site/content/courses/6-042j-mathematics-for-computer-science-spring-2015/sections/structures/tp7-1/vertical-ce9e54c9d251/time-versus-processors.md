@@ -1,13 +1,73 @@
 ---
-title: Time versus Processors
-uid: 40f030f8544233fdedf385a464827bc5
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 40f030f8544233fdedf385a464827bc5
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: e8e33491485e8ebcc2ae0885ba4d5980
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 40f030f8544233fdedf385a464827bc5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 07375e46a7ae6c0f8b6c9306fa159964
+  - id: Video-YouTube-Stream
+    media_location: cUYTlKA8jaw
+    parent_uid: 40f030f8544233fdedf385a464827bc5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b5db17ee289fbf9e507cd74a51a11e5d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/cUYTlKA8jaw/default.jpg'
+    parent_uid: 40f030f8544233fdedf385a464827bc5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1d325441bd7ecf0c0e5eb5a40289f880
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: cUYTlKA8jaw
+    parent_uid: 40f030f8544233fdedf385a464827bc5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: df2eb61ca074990e732ae70a57a83fde
+  - id: cUYTlKA8jaw.srt
+    parent_uid: 40f030f8544233fdedf385a464827bc5
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/vertical-ce9e54c9d251/time-versus-processors/cUYTlKA8jaw.srt
+    title: 3play caption file
+    type: null
+    uid: 8da04fe0c1249f7d6148bc331cca8e5d
+  - id: cUYTlKA8jaw.pdf
+    parent_uid: 40f030f8544233fdedf385a464827bc5
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/vertical-ce9e54c9d251/time-versus-processors/cUYTlKA8jaw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 36bd8ae725b6a10476b7aeca5c1f8ed3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 40f030f8544233fdedf385a464827bc5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bfcabd00ce80278beaf246974520d421
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 40f030f8544233fdedf385a464827bc5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 87d9bf9231e0a37f4b8f805026816aeb
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_paralleltime_ipod.mp4
+    parent_uid: 40f030f8544233fdedf385a464827bc5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: dcc60531f65f73ee701e024694c70264
+inline_embed_id: 24009338timeversusprocessors16008386
 parent_uid: 73fc19cef8be1c0516653a1d3df499ce
+related_resources_text: ''
+short_url: time-versus-processors
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/vertical-ce9e54c9d251/time-versus-processors
-short_url: time-versus-processors
-inline_embed_id: 24009338timeversusprocessors16008386
-about_this_resource_text: ''
-related_resources_text: ''
+title: Time versus Processors
 transcript: >-
   <p><span m='1060'>PROFESSOR: The</span> <span m='1280'>example</span> <span
   m='1690'>of</span> <span m='1790'>scheduling</span> <span
@@ -741,67 +801,7 @@ transcript: >-
   m='581650'>had</span> <span m='582000'>the</span> <span
   m='582120'>antichain</span> <span m='583130'>in</span> <span
   m='583290'>this</span> <span m='583480'>case.</span> </p>
-embedded_media:
-  - uid: e8e33491485e8ebcc2ae0885ba4d5980
-    parent_uid: 40f030f8544233fdedf385a464827bc5
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 07375e46a7ae6c0f8b6c9306fa159964
-    parent_uid: 40f030f8544233fdedf385a464827bc5
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: b5db17ee289fbf9e507cd74a51a11e5d
-    parent_uid: 40f030f8544233fdedf385a464827bc5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: cUYTlKA8jaw
-  - uid: 1d325441bd7ecf0c0e5eb5a40289f880
-    parent_uid: 40f030f8544233fdedf385a464827bc5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/cUYTlKA8jaw/default.jpg'
-  - uid: df2eb61ca074990e732ae70a57a83fde
-    parent_uid: 40f030f8544233fdedf385a464827bc5
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: cUYTlKA8jaw
-  - uid: 8da04fe0c1249f7d6148bc331cca8e5d
-    parent_uid: 40f030f8544233fdedf385a464827bc5
-    id: cUYTlKA8jaw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/vertical-ce9e54c9d251/time-versus-processors/cUYTlKA8jaw.srt
-  - uid: 36bd8ae725b6a10476b7aeca5c1f8ed3
-    parent_uid: 40f030f8544233fdedf385a464827bc5
-    id: cUYTlKA8jaw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/vertical-ce9e54c9d251/time-versus-processors/cUYTlKA8jaw.pdf
-  - uid: bfcabd00ce80278beaf246974520d421
-    parent_uid: 40f030f8544233fdedf385a464827bc5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 87d9bf9231e0a37f4b8f805026816aeb
-    parent_uid: 40f030f8544233fdedf385a464827bc5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: dcc60531f65f73ee701e024694c70264
-    parent_uid: 40f030f8544233fdedf385a464827bc5
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_paralleltime_ipod.mp4
+uid: 40f030f8544233fdedf385a464827bc5
 type: courses
 layout: video
 ---

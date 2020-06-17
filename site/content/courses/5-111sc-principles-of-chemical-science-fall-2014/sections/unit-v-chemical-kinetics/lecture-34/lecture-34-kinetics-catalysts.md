@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 34: Kinetics: Catalysts'
-uid: 22ebc33eae587e10abee2c7dafbdb90d
+about_this_resource_text: "<p><strong>Description:</strong> Embedded video, no tabs, this description appears on section page: A catalyst is a substrate that speeds up a reaction without being consumed. Catalysts lower the activation energy barrier for a reaction without changing the equilibrium constant. In this lecture, catalysts of different types are introduced, including Nature's catalysts, enzymes. We also hear from Chemist Jingnan Lu about why knowledge of kinetics is important for the development of biofuels.</p>\r\n<p><strong>Instructor:</strong> Catherine Drennan</p>"
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: p8AAjZXr5dg
+    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 952757c62110d5a3cccd04aaf60bf796
+  - id: p8AAjZXr5dg.srt
+    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-34/lecture-34-kinetics-catalysts/p8AAjZXr5dg.srt
+    title: 3play caption file
+    type: null
+    uid: e5366c8c4f3618e1c15a9a9f7576c8ee
+  - id: p8AAjZXr5dg.pdf
+    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-34/lecture-34-kinetics-catalysts/p8AAjZXr5dg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7374e3bbd45a2f40c04ceb4ab5095e79
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0eda5f792d4d10593102131fabc9fd06
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 106ed8e3dc52f3dfcb91896cbd5489f3
+  - id: Video-YouTube-Stream
+    media_location: p8AAjZXr5dg
+    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 153511ff7c4f42d54cf74eeccedbb682
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/p8AAjZXr5dg/default.jpg'
+    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3a07936fc09912a0c8119b0480d9899d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 167828b45fe018e690a33e42285b0520
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L34_300k.mp4'
+    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 940c4e96fbdd66f72743034d3bbb8cf7
+inline_embed_id: 43016653lecture34kineticscatalysts51977494
 parent_uid: 105db3eea1cd57ff7cf174d083c0cfb3
+related_resources_text: ''
+short_url: lecture-34-kinetics-catalysts
 technical_location: >-
   https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-34/lecture-34-kinetics-catalysts
-short_url: lecture-34-kinetics-catalysts
-inline_embed_id: 43016653lecture34kineticscatalysts51977494
-about_this_resource_text: "<p><strong>Description:</strong> Embedded video, no tabs, this description appears on section page: A catalyst is a substrate that speeds up a reaction without being consumed. Catalysts lower the activation energy barrier for a reaction without changing the equilibrium constant. In this lecture, catalysts of different types are introduced, including Nature's catalysts, enzymes. We also hear from Chemist Jingnan Lu about why knowledge of kinetics is important for the development of biofuels.</p>\r\n<p><strong>Instructor:</strong> Catherine Drennan</p>"
-related_resources_text: ''
+title: 'Lecture 34: Kinetics: Catalysts'
 transcript: >-
   <p><span m="30">The</span> <span m="130">following</span> <span
   m="600">content</span> <span m="1090">is</span> <span m="1200">provided</span>
@@ -2648,61 +2702,7 @@ transcript: >-
   m="2461150">make</span> <span m="2461530">useful</span> <span
   m="2462110">molecules.</span></p><p><span m="2462410">[END
   PLAYBACK]</span></p>
-embedded_media:
-  - uid: 952757c62110d5a3cccd04aaf60bf796
-    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: p8AAjZXr5dg
-  - uid: e5366c8c4f3618e1c15a9a9f7576c8ee
-    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
-    id: p8AAjZXr5dg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-34/lecture-34-kinetics-catalysts/p8AAjZXr5dg.srt
-  - uid: 7374e3bbd45a2f40c04ceb4ab5095e79
-    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
-    id: p8AAjZXr5dg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-34/lecture-34-kinetics-catalysts/p8AAjZXr5dg.pdf
-  - uid: 0eda5f792d4d10593102131fabc9fd06
-    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 106ed8e3dc52f3dfcb91896cbd5489f3
-    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 153511ff7c4f42d54cf74eeccedbb682
-    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: p8AAjZXr5dg
-  - uid: 3a07936fc09912a0c8119b0480d9899d
-    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/p8AAjZXr5dg/default.jpg'
-  - uid: 167828b45fe018e690a33e42285b0520
-    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 940c4e96fbdd66f72743034d3bbb8cf7
-    parent_uid: 22ebc33eae587e10abee2c7dafbdb90d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L34_300k.mp4'
+uid: 22ebc33eae587e10abee2c7dafbdb90d
 type: courses
 layout: video
 ---

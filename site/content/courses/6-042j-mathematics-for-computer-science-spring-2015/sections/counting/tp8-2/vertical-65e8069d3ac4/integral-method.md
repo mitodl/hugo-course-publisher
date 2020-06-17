@@ -1,13 +1,73 @@
 ---
-title: Integral Method
-uid: e6368d6c376441d81a08321f9587ea40
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: e6368d6c376441d81a08321f9587ea40
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 6758e4e1b6a4ab25f6a7bd2dcdfef857
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: e6368d6c376441d81a08321f9587ea40
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5526815dc3e948e3950f0f4c1afc97b1
+  - id: Video-YouTube-Stream
+    media_location: EegG5TPL29c
+    parent_uid: e6368d6c376441d81a08321f9587ea40
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ffe41e0a26d68ff40fba93bdbf500169
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/EegG5TPL29c/default.jpg'
+    parent_uid: e6368d6c376441d81a08321f9587ea40
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 68ba4350c5395d9e4cfcd6c8699783c5
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: EegG5TPL29c
+    parent_uid: e6368d6c376441d81a08321f9587ea40
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b66fe355dc28f468e7887f7280922721
+  - id: EegG5TPL29c.srt
+    parent_uid: e6368d6c376441d81a08321f9587ea40
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-65e8069d3ac4/integral-method/EegG5TPL29c.srt
+    title: 3play caption file
+    type: null
+    uid: c6c3fb0df590f256ea3969dbf907878f
+  - id: EegG5TPL29c.pdf
+    parent_uid: e6368d6c376441d81a08321f9587ea40
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-65e8069d3ac4/integral-method/EegG5TPL29c.pdf
+    title: 3play pdf file
+    type: null
+    uid: 85a5ca59a78ab0b4ffdea0f566d5cafd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e6368d6c376441d81a08321f9587ea40
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 47d12bf0a7bf5d4de283b8747615764c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e6368d6c376441d81a08321f9587ea40
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1df1b26ebc9af74eadbd0225781ec541
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_integralsum_video_ipod.mp4
+    parent_uid: e6368d6c376441d81a08321f9587ea40
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 551d28edb8de1e282a38b1d49eed14c8
+inline_embed_id: 68754164integralmethod96280001
 parent_uid: 5ad4adabcbfd96519c29e15788beb6c4
+related_resources_text: ''
+short_url: integral-method
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-65e8069d3ac4/integral-method
-short_url: integral-method
-inline_embed_id: 68754164integralmethod96280001
-about_this_resource_text: ''
-related_resources_text: ''
+title: Integral Method
 transcript: >-
   <p><span m='335'>PROFESSOR:</span> <span m='670'>So</span> <span
   m='880'>we</span> <span m='1010'>figured</span> <span m='1360'>out</span>
@@ -728,67 +788,7 @@ transcript: >-
   m='570960'>the</span> <span m='571170'>growth</span> <span
   m='571530'>rate</span> <span m='571750'>of</span> <span
   m='571820'>sums.</span> </p>
-embedded_media:
-  - uid: 6758e4e1b6a4ab25f6a7bd2dcdfef857
-    parent_uid: e6368d6c376441d81a08321f9587ea40
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 5526815dc3e948e3950f0f4c1afc97b1
-    parent_uid: e6368d6c376441d81a08321f9587ea40
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: ffe41e0a26d68ff40fba93bdbf500169
-    parent_uid: e6368d6c376441d81a08321f9587ea40
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: EegG5TPL29c
-  - uid: 68ba4350c5395d9e4cfcd6c8699783c5
-    parent_uid: e6368d6c376441d81a08321f9587ea40
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/EegG5TPL29c/default.jpg'
-  - uid: b66fe355dc28f468e7887f7280922721
-    parent_uid: e6368d6c376441d81a08321f9587ea40
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: EegG5TPL29c
-  - uid: c6c3fb0df590f256ea3969dbf907878f
-    parent_uid: e6368d6c376441d81a08321f9587ea40
-    id: EegG5TPL29c.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-65e8069d3ac4/integral-method/EegG5TPL29c.srt
-  - uid: 85a5ca59a78ab0b4ffdea0f566d5cafd
-    parent_uid: e6368d6c376441d81a08321f9587ea40
-    id: EegG5TPL29c.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-65e8069d3ac4/integral-method/EegG5TPL29c.pdf
-  - uid: 47d12bf0a7bf5d4de283b8747615764c
-    parent_uid: e6368d6c376441d81a08321f9587ea40
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1df1b26ebc9af74eadbd0225781ec541
-    parent_uid: e6368d6c376441d81a08321f9587ea40
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 551d28edb8de1e282a38b1d49eed14c8
-    parent_uid: e6368d6c376441d81a08321f9587ea40
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_integralsum_video_ipod.mp4
+uid: e6368d6c376441d81a08321f9587ea40
 type: courses
 layout: video
 ---

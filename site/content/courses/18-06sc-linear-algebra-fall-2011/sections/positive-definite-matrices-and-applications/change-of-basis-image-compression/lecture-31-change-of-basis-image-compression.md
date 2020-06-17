@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 31: Change of Basis; Image Compression'
-uid: 96c54e1c761100c4b2587ddaf4f876b2
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0h43aV4aH7I
+    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 07407b7f782b6bdcd5caf7572ffdc2b1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bbe44ae599b2dfca836e7c71f0f207d6
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/31.mp4'
+    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 42651fa85578a1034e1ffe1b196cec61
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0h43aV4aH7I
+    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 89b98c729003438edabeb629064d1785
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/0h43aV4aH7I/default.jpg'
+    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 302152cfaf9bbe085e5ea597261e5f08
+  - id: 0h43aV4aH7I.srt
+    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/change-of-basis-image-compression/lecture-31-change-of-basis-image-compression/0h43aV4aH7I.srt
+    title: 3play caption file
+    type: null
+    uid: a9652bc6b7e9fd002e625a7bc634e927
+  - id: 0h43aV4aH7I.pdf
+    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/change-of-basis-image-compression/lecture-31-change-of-basis-image-compression/0h43aV4aH7I.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2c2725cfd10398f6bd17434648b447fc
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0c6524467edd76d43c1242270c97bd10
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7bfd510fd2b20e5db0a766d144f6e117
+inline_embed_id: '39126816lecture31:changeofbasis;imagecompression5997844'
 parent_uid: 7b90bea0f6ce9bfdc750ada6103da88c
+related_resources_text: ''
+short_url: lecture-31-change-of-basis-image-compression
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/change-of-basis-image-compression/lecture-31-change-of-basis-image-compression
-short_url: lecture-31-change-of-basis-image-compression
-inline_embed_id: '39126816lecture31:changeofbasis;imagecompression5997844'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 31: Change of Basis; Image Compression'
 transcript: >-
   <p><span m='7560'>OK.</span> <span m='8640'>So,</span> <span
   m='9540'>coming</span> <span m='9910'>nearer</span> <span m='10330'>the</span>
@@ -2771,61 +2825,7 @@ transcript: >-
   m='3000730'>on</span> <span m='3001310'>Wednesday,</span> <span
   m='3001940'>all</span> <span m='3002270'>day.</span> </p><p><span
   m='3004490'>Thanks.</span> </p>
-embedded_media:
-  - uid: 07407b7f782b6bdcd5caf7572ffdc2b1
-    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0h43aV4aH7I
-  - uid: bbe44ae599b2dfca836e7c71f0f207d6
-    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 42651fa85578a1034e1ffe1b196cec61
-    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/31.mp4'
-  - uid: 89b98c729003438edabeb629064d1785
-    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0h43aV4aH7I
-  - uid: 302152cfaf9bbe085e5ea597261e5f08
-    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0h43aV4aH7I/default.jpg'
-  - uid: a9652bc6b7e9fd002e625a7bc634e927
-    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
-    id: 0h43aV4aH7I.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/change-of-basis-image-compression/lecture-31-change-of-basis-image-compression/0h43aV4aH7I.srt
-  - uid: 2c2725cfd10398f6bd17434648b447fc
-    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
-    id: 0h43aV4aH7I.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/change-of-basis-image-compression/lecture-31-change-of-basis-image-compression/0h43aV4aH7I.pdf
-  - uid: 0c6524467edd76d43c1242270c97bd10
-    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7bfd510fd2b20e5db0a766d144f6e117
-    parent_uid: 96c54e1c761100c4b2587ddaf4f876b2
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 96c54e1c761100c4b2587ddaf4f876b2
 type: courses
 layout: video
 ---

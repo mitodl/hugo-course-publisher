@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 23: Cache-Oblivious Algorithms: Medians & Matrices'
-uid: 36de4aed40b6873c5a4130464bacc185
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-23-cache-oblivious-algorithms-medians-matrices
-short_url: lecture-23-cache-oblivious-algorithms-medians-matrices
-inline_embed_id: '2385965lecture23:cache-obliviousalgorithms:medians&matrices63009284'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Demaine introduces
   cache-oblivious algorithms.</p> <p><strong>Instructors:</strong> Erik
   Demaine</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: CSqbjfCCLrU
+    parent_uid: 36de4aed40b6873c5a4130464bacc185
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fb2cf7e7bb5f22323312f371921fe715
+  - id: 3Play-3PlayVideoid-Stream
+    media_location: '1409658'
+    parent_uid: 36de4aed40b6873c5a4130464bacc185
+    title: 3Play-3Play Video id
+    type: 3Play
+    uid: ad4a8580f61d23dc68c288182ef4de53
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 36de4aed40b6873c5a4130464bacc185
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8c508c97a65937466bb4bc01a6c96f5d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec23_300k.mp4'
+    parent_uid: 36de4aed40b6873c5a4130464bacc185
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 67980301b3fb56f9632b957e299f586f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CSqbjfCCLrU/default.jpg'
+    parent_uid: 36de4aed40b6873c5a4130464bacc185
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e65f672d59120099b06b05c11eac25d6
+  - id: 1409658.srt
+    parent_uid: 36de4aed40b6873c5a4130464bacc185
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-23-cache-oblivious-algorithms-medians-matrices/1409658.srt
+    title: 3play caption file
+    type: null
+    uid: 57dc5b503ddae94672b07382b51fdb8d
+  - id: 1409658.pdf
+    parent_uid: 36de4aed40b6873c5a4130464bacc185
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-23-cache-oblivious-algorithms-medians-matrices/1409658.pdf
+    title: 3play pdf file
+    type: null
+    uid: b93568c747321a13d79ef7721be6d50e
+  - id: Caption-3Play Video id-SRT
+    parent_uid: 36de4aed40b6873c5a4130464bacc185
+    title: Caption-3Play Video id-SRT-English - US
+    type: Caption
+    uid: 60e9e2dc7243df9f00b91a25c2217bc0
+  - id: Transcript-3Play Video id-PDF
+    parent_uid: 36de4aed40b6873c5a4130464bacc185
+    title: Transcript-3Play Video id-PDF-English - US
+    type: Transcript
+    uid: b1a838f99cad3a2f0e8939ead2dc0f57
+inline_embed_id: '2385965lecture23:cache-obliviousalgorithms:medians&matrices63009284'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-23-cache-oblivious-algorithms-medians-matrices
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-23-cache-oblivious-algorithms-medians-matrices
+title: 'Lecture 23: Cache-Oblivious Algorithms: Medians & Matrices'
 transcript: >-
   <p><span m='60'> The following content is provided under a Creative</span>
   <span m='2500'>Commons license.</span> </p><p><span m='4010'>Your support will
@@ -1447,61 +1501,7 @@ transcript: >-
   this theorem?</span> </p><p><span m='4822080'>Tomorrow?</span> </p><p><span
   m='4822680'>Or, Thursday?</span> </p><p><span m='4824120'>Yes.</span>
   </p><p><span m='4824620'>OK, we'll cover it on Thursday.</span> </p>
-embedded_media:
-  - uid: fb2cf7e7bb5f22323312f371921fe715
-    parent_uid: 36de4aed40b6873c5a4130464bacc185
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CSqbjfCCLrU
-  - uid: ad4a8580f61d23dc68c288182ef4de53
-    parent_uid: 36de4aed40b6873c5a4130464bacc185
-    id: 3Play-3PlayVideoid-Stream
-    title: 3Play-3Play Video id
-    type: 3Play
-    media_location: '1409658'
-  - uid: 8c508c97a65937466bb4bc01a6c96f5d
-    parent_uid: 36de4aed40b6873c5a4130464bacc185
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 67980301b3fb56f9632b957e299f586f
-    parent_uid: 36de4aed40b6873c5a4130464bacc185
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec23_300k.mp4'
-  - uid: e65f672d59120099b06b05c11eac25d6
-    parent_uid: 36de4aed40b6873c5a4130464bacc185
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CSqbjfCCLrU/default.jpg'
-  - uid: 57dc5b503ddae94672b07382b51fdb8d
-    parent_uid: 36de4aed40b6873c5a4130464bacc185
-    id: 1409658.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-23-cache-oblivious-algorithms-medians-matrices/1409658.srt
-  - uid: b93568c747321a13d79ef7721be6d50e
-    parent_uid: 36de4aed40b6873c5a4130464bacc185
-    id: 1409658.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-23-cache-oblivious-algorithms-medians-matrices/1409658.pdf
-  - uid: 60e9e2dc7243df9f00b91a25c2217bc0
-    parent_uid: 36de4aed40b6873c5a4130464bacc185
-    id: Caption-3Play Video id-SRT
-    title: Caption-3Play Video id-SRT-English - US
-    type: Caption
-  - uid: b1a838f99cad3a2f0e8939ead2dc0f57
-    parent_uid: 36de4aed40b6873c5a4130464bacc185
-    id: Transcript-3Play Video id-PDF
-    title: Transcript-3Play Video id-PDF-English - US
-    type: Transcript
+uid: 36de4aed40b6873c5a4130464bacc185
 type: courses
 layout: video
 ---

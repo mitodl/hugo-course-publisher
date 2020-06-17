@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 26: Complex matrices; fast fourier transform'
-uid: 7da4985ac0765564c8aa3eccb1a1e97e
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-26-complex-matrices-fast-fourier-transform
-short_url: lecture-26-complex-matrices-fast-fourier-transform
-inline_embed_id: '38265417lecture26:complexmatrices;fastfouriertransform5485792'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L26.jpg
+    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-26-complex-matrices-fast-fourier-transform/18.06_L26.jpg
+    title: 18.06_L26.jpg
+    type: null
+    uid: a8c49f44efc6179967c8710a4a3303cf
+  - id: Video-YouTube-Stream
+    media_location: M0Sa8fLOajA
+    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3b58b475af7ba46364dc9de03921f3f2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/M0Sa8fLOajA/default.jpg'
+    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 630fe1181d41dd6b96ad0376750c297d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8b5193ef691e89b5e9735c42b91bc892
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/26.mp4'
+    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3fc5df69000cf902de3958c6f0f3e9f7
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 46c4f959fb4eae177d11dd4e19c10751
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 3c0e1d75e52e5e0a25bc866178dcaad7
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: M0Sa8fLOajA
+    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 63d6ebbf223198f70c1e125e58cdf83e
+  - id: M0Sa8fLOajA.srt
+    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-26-complex-matrices-fast-fourier-transform/M0Sa8fLOajA.srt
+    title: 3play caption file
+    type: null
+    uid: 59bec61e06184b127882cf10bf4cde96
+  - id: M0Sa8fLOajA.pdf
+    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-26-complex-matrices-fast-fourier-transform/M0Sa8fLOajA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 68440cfc1e8760b75bddc09bc8d374d6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 054b3bf3c487f1fd62bea577d53a0726
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d56dcd515282780c36a1daa11e4a6df6
+inline_embed_id: '38265417lecture26:complexmatrices;fastfouriertransform5485792'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-26-complex-matrices-fast-fourier-transform
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-26-complex-matrices-fast-fourier-transform
+title: 'Lecture 26: Complex matrices; fast fourier transform'
 transcript: >-
   <p><span m="8750">Okay.</span> <span m="9310">This</span> <span
   m="9700">is</span> <span m="9870">a</span> <span m="10000">lecture</span>
@@ -2746,79 +2818,7 @@ transcript: >-
   m="2860860">see</span> <span m="2861160">you</span> <span
   m="2861250">next</span> <span m="2861490">time.</span></p><p><span
   m="2866240">Thanks.</span></p>
-embedded_media:
-  - uid: a8c49f44efc6179967c8710a4a3303cf
-    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
-    id: 18.06_L26.jpg
-    title: 18.06_L26.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-26-complex-matrices-fast-fourier-transform/18.06_L26.jpg
-  - uid: 3b58b475af7ba46364dc9de03921f3f2
-    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: M0Sa8fLOajA
-  - uid: 630fe1181d41dd6b96ad0376750c297d
-    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/M0Sa8fLOajA/default.jpg'
-  - uid: 8b5193ef691e89b5e9735c42b91bc892
-    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 3fc5df69000cf902de3958c6f0f3e9f7
-    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/26.mp4'
-  - uid: 46c4f959fb4eae177d11dd4e19c10751
-    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 3c0e1d75e52e5e0a25bc866178dcaad7
-    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 63d6ebbf223198f70c1e125e58cdf83e
-    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: M0Sa8fLOajA
-  - uid: 59bec61e06184b127882cf10bf4cde96
-    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
-    id: M0Sa8fLOajA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-26-complex-matrices-fast-fourier-transform/M0Sa8fLOajA.srt
-  - uid: 68440cfc1e8760b75bddc09bc8d374d6
-    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
-    id: M0Sa8fLOajA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-26-complex-matrices-fast-fourier-transform/M0Sa8fLOajA.pdf
-  - uid: 054b3bf3c487f1fd62bea577d53a0726
-    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d56dcd515282780c36a1daa11e4a6df6
-    parent_uid: 7da4985ac0765564c8aa3eccb1a1e97e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7da4985ac0765564c8aa3eccb1a1e97e
 type: courses
 layout: video
 ---

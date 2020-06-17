@@ -1,13 +1,73 @@
 ---
-title: Partial Orders
-uid: 6bae2a87b353aca1ad7099de86deb422
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 6bae2a87b353aca1ad7099de86deb422
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 4f5760847df3b513d5ed8834fd7ce610
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 6bae2a87b353aca1ad7099de86deb422
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 52573f9630ef776616c44c30ae7395b0
+  - id: Video-YouTube-Stream
+    media_location: 0w9luYcxHrw
+    parent_uid: 6bae2a87b353aca1ad7099de86deb422
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0ecb225ac1e25397c61175c68f81d499
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0w9luYcxHrw/default.jpg'
+    parent_uid: 6bae2a87b353aca1ad7099de86deb422
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 24e93173aad0b08b27450c780c692878
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 0w9luYcxHrw
+    parent_uid: 6bae2a87b353aca1ad7099de86deb422
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2535df94a83e4c32dc6d59d66aea1e5e
+  - id: 0w9luYcxHrw.srt
+    parent_uid: 6bae2a87b353aca1ad7099de86deb422
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/partial-orders/0w9luYcxHrw.srt
+    title: 3play caption file
+    type: null
+    uid: 66ae6e92b7a2aae7b3657cd0923757e1
+  - id: 0w9luYcxHrw.pdf
+    parent_uid: 6bae2a87b353aca1ad7099de86deb422
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/partial-orders/0w9luYcxHrw.pdf
+    title: 3play pdf file
+    type: null
+    uid: c7638d1001bcad0a4cd7103de0e3ddcf
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6bae2a87b353aca1ad7099de86deb422
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f31d6c4a12e8d17a0146688ece3a593a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6bae2a87b353aca1ad7099de86deb422
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 772b4e6da85529a5932d5c324cf94245
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_partialorderpt_ipod.mp4
+    parent_uid: 6bae2a87b353aca1ad7099de86deb422
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e7fe3320a66c76368b1e2b87ff4c2f49
+inline_embed_id: 36485738partialorders36335330
 parent_uid: e3bcfae1ff3e4391a255e7aa0a942756
+related_resources_text: ''
+short_url: partial-orders
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/partial-orders
-short_url: partial-orders
-inline_embed_id: 36485738partialorders36335330
-about_this_resource_text: ''
-related_resources_text: ''
+title: Partial Orders
 transcript: >-
   <p><span m='1110'>PROFESSOR: Partial</span> <span m='1550'>orders</span> <span
   m='1950'>are</span> <span m='2040'>another</span> <span m='2370'>way</span>
@@ -698,67 +758,7 @@ transcript: >-
   m='629720'>some</span> <span m='630020'>DAG,</span> <span
   m='630480'>including</span> <span m='631130'>length</span> <span
   m='631400'>zero</span> <span m='631960'>walks.</span> </p>
-embedded_media:
-  - uid: 4f5760847df3b513d5ed8834fd7ce610
-    parent_uid: 6bae2a87b353aca1ad7099de86deb422
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 52573f9630ef776616c44c30ae7395b0
-    parent_uid: 6bae2a87b353aca1ad7099de86deb422
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 0ecb225ac1e25397c61175c68f81d499
-    parent_uid: 6bae2a87b353aca1ad7099de86deb422
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0w9luYcxHrw
-  - uid: 24e93173aad0b08b27450c780c692878
-    parent_uid: 6bae2a87b353aca1ad7099de86deb422
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0w9luYcxHrw/default.jpg'
-  - uid: 2535df94a83e4c32dc6d59d66aea1e5e
-    parent_uid: 6bae2a87b353aca1ad7099de86deb422
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0w9luYcxHrw
-  - uid: 66ae6e92b7a2aae7b3657cd0923757e1
-    parent_uid: 6bae2a87b353aca1ad7099de86deb422
-    id: 0w9luYcxHrw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/partial-orders/0w9luYcxHrw.srt
-  - uid: c7638d1001bcad0a4cd7103de0e3ddcf
-    parent_uid: 6bae2a87b353aca1ad7099de86deb422
-    id: 0w9luYcxHrw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/partial-orders/0w9luYcxHrw.pdf
-  - uid: f31d6c4a12e8d17a0146688ece3a593a
-    parent_uid: 6bae2a87b353aca1ad7099de86deb422
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 772b4e6da85529a5932d5c324cf94245
-    parent_uid: 6bae2a87b353aca1ad7099de86deb422
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e7fe3320a66c76368b1e2b87ff4c2f49
-    parent_uid: 6bae2a87b353aca1ad7099de86deb422
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_partialorderpt_ipod.mp4
+uid: 6bae2a87b353aca1ad7099de86deb422
 type: courses
 layout: video
 ---

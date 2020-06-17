@@ -1,13 +1,73 @@
 ---
-title: Eigenfunctions of a Hermitian operator
-uid: 2dafd7afb397d070bf2fa6dd6304b1cf
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: K3WI62VJqVo
+    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 45bc7e3132960985cd5cb425b5f3f93c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/a9iyhoWdETw/default.jpg'
+    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d36ae7bb93024ea4f0db31522354d42a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: K3WI62VJqVo
+    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 44fec5f050e23e293cb7cc1002d03c44
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3b2e10453e028af09431149a390992e0
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec09_s2_300k.mp4'
+    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 28f4935554e14a5cd9f56ea179adde65
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/K3WI62VJqVo/default.jpg'
+    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a2d2ebee58d4b07f2f812a14ce5e1535
+  - id: K3WI62VJqVo.srt
+    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/eigenfunctions-of-a-hermitian-operator/K3WI62VJqVo.srt
+    title: 3play caption file
+    type: null
+    uid: 36ae4e38e705bce16f4b174526f7bef0
+  - id: K3WI62VJqVo.pdf
+    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/eigenfunctions-of-a-hermitian-operator/K3WI62VJqVo.pdf
+    title: 3play pdf file
+    type: null
+    uid: ee1c39ef55a9cfb5c63807d28f484404
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5a462751028ca65c6043cb309f3c7c04
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 00572a5702c2cfb55b244742613a6efb
+inline_embed_id: 15809925eigenfunctionsofahermitianoperator7984396
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: eigenfunctions-of-a-hermitian-operator
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/eigenfunctions-of-a-hermitian-operator
-short_url: eigenfunctions-of-a-hermitian-operator
-inline_embed_id: 15809925eigenfunctionsofahermitianoperator7984396
-about_this_resource_text: ''
-related_resources_text: ''
+title: Eigenfunctions of a Hermitian operator
 transcript: >-
   <p><span m='1410'>PROFESSOR:</span> <span m='1640'>So</span> <span
   m='1870'>here</span> <span m='2170'>comes</span> <span m='2850'>the</span>
@@ -553,67 +613,7 @@ transcript: >-
   m='782040'>eigenvectors</span> <span m='783830'>to</span> <span
   m='783940'>span</span> <span m='784440'>the</span> <span
   m='784550'>space.</span> </p>
-embedded_media:
-  - uid: 45bc7e3132960985cd5cb425b5f3f93c
-    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: K3WI62VJqVo
-  - uid: d36ae7bb93024ea4f0db31522354d42a
-    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/a9iyhoWdETw/default.jpg'
-  - uid: 44fec5f050e23e293cb7cc1002d03c44
-    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: K3WI62VJqVo
-  - uid: 3b2e10453e028af09431149a390992e0
-    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 28f4935554e14a5cd9f56ea179adde65
-    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec09_s2_300k.mp4'
-  - uid: a2d2ebee58d4b07f2f812a14ce5e1535
-    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/K3WI62VJqVo/default.jpg'
-  - uid: 36ae4e38e705bce16f4b174526f7bef0
-    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
-    id: K3WI62VJqVo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/eigenfunctions-of-a-hermitian-operator/K3WI62VJqVo.srt
-  - uid: ee1c39ef55a9cfb5c63807d28f484404
-    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
-    id: K3WI62VJqVo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/eigenfunctions-of-a-hermitian-operator/K3WI62VJqVo.pdf
-  - uid: 5a462751028ca65c6043cb309f3c7c04
-    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 00572a5702c2cfb55b244742613a6efb
-    parent_uid: 2dafd7afb397d070bf2fa6dd6304b1cf
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2dafd7afb397d070bf2fa6dd6304b1cf
 type: courses
 layout: video
 ---

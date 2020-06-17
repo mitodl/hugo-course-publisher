@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 3: Driven Oscillators, Transient Phenomena, Resonance'
-uid: 2f96695d24241c3cef42f37c3a3116c8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: FCFpaKcpuXQ
+    parent_uid: 2f96695d24241c3cef42f37c3a3116c8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c8cc543fe33c06ffffbf7699698040c1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FCFpaKcpuXQ/default.jpg'
+    parent_uid: 2f96695d24241c3cef42f37c3a3116c8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6d9c778a25d7f0434fe7d60b3a173996
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: FCFpaKcpuXQ
+    parent_uid: 2f96695d24241c3cef42f37c3a3116c8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8c2f1ec1f186fb8782e4755e0353c1cf
+  - id: FCFpaKcpuXQ.srt
+    parent_uid: 2f96695d24241c3cef42f37c3a3116c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-3-video/FCFpaKcpuXQ.srt
+    title: 3play caption file
+    type: null
+    uid: 8e6470f071f0bec7139c9affa9e20343
+  - id: FCFpaKcpuXQ.pdf
+    parent_uid: 2f96695d24241c3cef42f37c3a3116c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-3-video/FCFpaKcpuXQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: ccbd771ea7448ce244aa519cfa68d051
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2f96695d24241c3cef42f37c3a3116c8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f9502acd07d31c42532318dd1df12064
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2f96695d24241c3cef42f37c3a3116c8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 83aa85f26dd990e47321cf8fc0b4a24a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec03_300k.mp4'
+    parent_uid: 2f96695d24241c3cef42f37c3a3116c8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 11fafdc470652948722ca82c3a46d241
+inline_embed_id: 8446909lecture3video85724965
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-3-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-3-video
-short_url: lecture-3-video
-inline_embed_id: 8446909lecture3video85724965
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 3: Driven Oscillators, Transient Phenomena, Resonance'
 transcript: >-
   <p><span m="2110">The</span> <span m="2230">following</span> <span
   m="2650">content</span> <span m="3160">is</span> <span
@@ -3938,55 +3986,7 @@ transcript: >-
   m="4610690">additional</span> <span m="4611170">questions</span> <span
   m="4612250">related</span> <span m="4612640">to the</span> <span
   m="4612800">lecture.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: c8cc543fe33c06ffffbf7699698040c1
-    parent_uid: 2f96695d24241c3cef42f37c3a3116c8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FCFpaKcpuXQ
-  - uid: 6d9c778a25d7f0434fe7d60b3a173996
-    parent_uid: 2f96695d24241c3cef42f37c3a3116c8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FCFpaKcpuXQ/default.jpg'
-  - uid: 8c2f1ec1f186fb8782e4755e0353c1cf
-    parent_uid: 2f96695d24241c3cef42f37c3a3116c8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FCFpaKcpuXQ
-  - uid: 8e6470f071f0bec7139c9affa9e20343
-    parent_uid: 2f96695d24241c3cef42f37c3a3116c8
-    id: FCFpaKcpuXQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-3-video/FCFpaKcpuXQ.srt
-  - uid: ccbd771ea7448ce244aa519cfa68d051
-    parent_uid: 2f96695d24241c3cef42f37c3a3116c8
-    id: FCFpaKcpuXQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-3-video/FCFpaKcpuXQ.pdf
-  - uid: f9502acd07d31c42532318dd1df12064
-    parent_uid: 2f96695d24241c3cef42f37c3a3116c8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 83aa85f26dd990e47321cf8fc0b4a24a
-    parent_uid: 2f96695d24241c3cef42f37c3a3116c8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 11fafdc470652948722ca82c3a46d241
-    parent_uid: 2f96695d24241c3cef42f37c3a3116c8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec03_300k.mp4'
+uid: 2f96695d24241c3cef42f37c3a3116c8
 type: courses
 layout: video
 ---

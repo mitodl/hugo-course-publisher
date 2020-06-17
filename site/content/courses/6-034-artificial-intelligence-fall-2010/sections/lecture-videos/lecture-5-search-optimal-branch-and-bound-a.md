@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 5: Search: Optimal, Branch and Bound, A*'
-uid: 559f4256c248c62f1030af5edcd5895c
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-5-search-optimal-branch-and-bound-a
-short_url: lecture-5-search-optimal-branch-and-bound-a
-inline_embed_id: '50358744lecture5:search:optimal,branchandbound,a*52762460'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture covers strategies for finding
   the shortest path.  We discuss branch and bound, which can be refined by using
   an extended list or an admissible heuristic, or both (known as A*).  We end
   with an example where the heuristic must be consistent.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: gGQ-vAmdAOI
+    parent_uid: 559f4256c248c62f1030af5edcd5895c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e4cb4f8e3ebbe4f49d715bc762e97df6
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-5-search-optimal-branch/id765641080?i=194470723
+    parent_uid: 559f4256c248c62f1030af5edcd5895c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 013070cf27d09d78c7b7625d4a66b5bc
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec05_300k.mp4'
+    parent_uid: 559f4256c248c62f1030af5edcd5895c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f5db8f1d3dbbb3e341fa4d225a58a6af
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/gGQ-vAmdAOI/default.jpg'
+    parent_uid: 559f4256c248c62f1030af5edcd5895c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: be2e1fffa137f89afe4872bb58f5bfbf
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: gGQ-vAmdAOI
+    parent_uid: 559f4256c248c62f1030af5edcd5895c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 57ce56817f633fc58f0f323ad331c4d8
+  - id: gGQ-vAmdAOI.srt
+    parent_uid: 559f4256c248c62f1030af5edcd5895c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-5-search-optimal-branch-and-bound-a/gGQ-vAmdAOI.srt
+    title: 3play caption file
+    type: null
+    uid: 6d19c6d6ac3eee6874fb0d3f36bf6397
+  - id: gGQ-vAmdAOI.pdf
+    parent_uid: 559f4256c248c62f1030af5edcd5895c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-5-search-optimal-branch-and-bound-a/gGQ-vAmdAOI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3c419a58126d8c55a9417664b1437dc2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 559f4256c248c62f1030af5edcd5895c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 96e5094b937f994193019f6124b33430
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 559f4256c248c62f1030af5edcd5895c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dbb93ba6e0e9e5ada479490ed20d9955
+inline_embed_id: '50358744lecture5:search:optimal,branchandbound,a*52762460'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
+short_url: lecture-5-search-optimal-branch-and-bound-a
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-5-search-optimal-branch-and-bound-a
+title: 'Lecture 5: Search: Optimal, Branch and Bound, A*'
 transcript: >-
   <p><span m='8982'>PROFESSOR: It was written about Route 66, which used
   to</span> <span m='12180'>be the main highway between Chicago, Illinois and
@@ -807,62 +862,7 @@ transcript: >-
   we'll conclude there since our time is up.</span> </p><p><span m='2899880'>And
   Elliot, you can ask a question after class.</span> </p><p><span
   m='2901590'>Why don't you come up and ask it now?</span> </p><p></p>
-embedded_media:
-  - uid: e4cb4f8e3ebbe4f49d715bc762e97df6
-    parent_uid: 559f4256c248c62f1030af5edcd5895c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: gGQ-vAmdAOI
-  - uid: 013070cf27d09d78c7b7625d4a66b5bc
-    parent_uid: 559f4256c248c62f1030af5edcd5895c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-5-search-optimal-branch/id765641080?i=194470723
-  - uid: f5db8f1d3dbbb3e341fa4d225a58a6af
-    parent_uid: 559f4256c248c62f1030af5edcd5895c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec05_300k.mp4'
-  - uid: be2e1fffa137f89afe4872bb58f5bfbf
-    parent_uid: 559f4256c248c62f1030af5edcd5895c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/gGQ-vAmdAOI/default.jpg'
-  - uid: 57ce56817f633fc58f0f323ad331c4d8
-    parent_uid: 559f4256c248c62f1030af5edcd5895c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: gGQ-vAmdAOI
-  - uid: 6d19c6d6ac3eee6874fb0d3f36bf6397
-    parent_uid: 559f4256c248c62f1030af5edcd5895c
-    id: gGQ-vAmdAOI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-5-search-optimal-branch-and-bound-a/gGQ-vAmdAOI.srt
-  - uid: 3c419a58126d8c55a9417664b1437dc2
-    parent_uid: 559f4256c248c62f1030af5edcd5895c
-    id: gGQ-vAmdAOI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-5-search-optimal-branch-and-bound-a/gGQ-vAmdAOI.pdf
-  - uid: 96e5094b937f994193019f6124b33430
-    parent_uid: 559f4256c248c62f1030af5edcd5895c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dbb93ba6e0e9e5ada479490ed20d9955
-    parent_uid: 559f4256c248c62f1030af5edcd5895c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 559f4256c248c62f1030af5edcd5895c
 type: courses
 layout: video
 ---

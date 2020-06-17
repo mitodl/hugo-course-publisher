@@ -1,13 +1,68 @@
 ---
-title: Quadratic Approximation of a Product
-uid: 55564a46467697e39819e54963fcb5ae
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0YGiDaUOse4
+    parent_uid: 55564a46467697e39819e54963fcb5ae
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ec50e714e7abfba095f462a2b1cb6ef7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0YGiDaUOse4/default.jpg'
+    parent_uid: 55564a46467697e39819e54963fcb5ae
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3b2968b2992e4aeb40623dfafd0d5476
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/quadratic-approximation-product/id414308064?i=90319002
+    parent_uid: 55564a46467697e39819e54963fcb5ae
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 487cdb0219b1c62ecbcb1ff9fa7ef383
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_18_300k.mp4'
+    parent_uid: 55564a46467697e39819e54963fcb5ae
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bf385c30c04904d83929b1467de5d960
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0YGiDaUOse4
+    parent_uid: 55564a46467697e39819e54963fcb5ae
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 51b18c460a1c4285b5d9ca559612c95f
+  - id: 0YGiDaUOse4.srt
+    parent_uid: 55564a46467697e39819e54963fcb5ae
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-26-using-quadratic-approximations/quadratic-approximation-of-a-product/0YGiDaUOse4.srt
+    title: 3play caption file
+    type: null
+    uid: 0f3d3932a9e4720aac49e1706c310c55
+  - id: 0YGiDaUOse4.pdf
+    parent_uid: 55564a46467697e39819e54963fcb5ae
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-26-using-quadratic-approximations/quadratic-approximation-of-a-product/0YGiDaUOse4.pdf
+    title: 3play pdf file
+    type: null
+    uid: a4ba651c7fa46e73636320e155d1c38a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 55564a46467697e39819e54963fcb5ae
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bd5d9e69b6f662f02ed09cc72534b602
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 55564a46467697e39819e54963fcb5ae
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b4d6efa3584f92c82d7188f5c3cdc142
+inline_embed_id: 3121315quadraticapproximationofaproduct88559158
 parent_uid: 83a48b57d3d2a4086881aa5771dbfcba
+related_resources_text: ''
+short_url: quadratic-approximation-of-a-product
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-26-using-quadratic-approximations/quadratic-approximation-of-a-product
-short_url: quadratic-approximation-of-a-product
-inline_embed_id: 3121315quadraticapproximationofaproduct88559158
-about_this_resource_text: ''
-related_resources_text: ''
+title: Quadratic Approximation of a Product
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='7080'>Welcome</span> <span
   m='7480'>back</span> <span m='7670'>to</span> <span
@@ -1031,62 +1086,7 @@ transcript: >-
   m='838640'>that.</span> </p><p><span m='839630'>So</span> <span
   m='839810'>I</span> <span m='839870'>think</span> <span m='840020'>I'll</span>
   <span m='840100'>stop</span> <span m='840310'>there.</span> </p>
-embedded_media:
-  - uid: ec50e714e7abfba095f462a2b1cb6ef7
-    parent_uid: 55564a46467697e39819e54963fcb5ae
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0YGiDaUOse4
-  - uid: 3b2968b2992e4aeb40623dfafd0d5476
-    parent_uid: 55564a46467697e39819e54963fcb5ae
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0YGiDaUOse4/default.jpg'
-  - uid: 487cdb0219b1c62ecbcb1ff9fa7ef383
-    parent_uid: 55564a46467697e39819e54963fcb5ae
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/quadratic-approximation-product/id414308064?i=90319002
-  - uid: bf385c30c04904d83929b1467de5d960
-    parent_uid: 55564a46467697e39819e54963fcb5ae
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_18_300k.mp4'
-  - uid: 51b18c460a1c4285b5d9ca559612c95f
-    parent_uid: 55564a46467697e39819e54963fcb5ae
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0YGiDaUOse4
-  - uid: 0f3d3932a9e4720aac49e1706c310c55
-    parent_uid: 55564a46467697e39819e54963fcb5ae
-    id: 0YGiDaUOse4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-26-using-quadratic-approximations/quadratic-approximation-of-a-product/0YGiDaUOse4.srt
-  - uid: a4ba651c7fa46e73636320e155d1c38a
-    parent_uid: 55564a46467697e39819e54963fcb5ae
-    id: 0YGiDaUOse4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-26-using-quadratic-approximations/quadratic-approximation-of-a-product/0YGiDaUOse4.pdf
-  - uid: bd5d9e69b6f662f02ed09cc72534b602
-    parent_uid: 55564a46467697e39819e54963fcb5ae
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b4d6efa3584f92c82d7188f5c3cdc142
-    parent_uid: 55564a46467697e39819e54963fcb5ae
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 55564a46467697e39819e54963fcb5ae
 type: courses
 layout: video
 ---

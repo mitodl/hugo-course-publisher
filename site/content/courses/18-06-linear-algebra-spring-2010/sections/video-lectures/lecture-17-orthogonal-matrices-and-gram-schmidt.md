@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 17: Orthogonal matrices and Gram-Schmidt'
-uid: 5e46844bdff61befcf306324290ba71c
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-17-orthogonal-matrices-and-gram-schmidt
-short_url: lecture-17-orthogonal-matrices-and-gram-schmidt
-inline_embed_id: '61505861lecture17:orthogonalmatricesandgram-schmidt96842689'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L17.jpg
+    parent_uid: 5e46844bdff61befcf306324290ba71c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-17-orthogonal-matrices-and-gram-schmidt/18.06_L17.jpg
+    title: 18.06_L17.jpg
+    type: null
+    uid: 62aed92b9a25ab3a18d4cfbdd8aa7b57
+  - id: Video-YouTube-Stream
+    media_location: 0MtwqhIwdrI
+    parent_uid: 5e46844bdff61befcf306324290ba71c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 285b724998a80110e4596faf6ae5fbb1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 5e46844bdff61befcf306324290ba71c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f8b9e3e05f11ea19394e03c0f0f52d53
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/17.mp4'
+    parent_uid: 5e46844bdff61befcf306324290ba71c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9b5c5de803f76484547367168dab77d0
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 5e46844bdff61befcf306324290ba71c
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 8f6e35dceef25694bfe1a24aa889550a
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 5e46844bdff61befcf306324290ba71c
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: b3aa99ca092bb145833f18d09b473764
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0MtwqhIwdrI
+    parent_uid: 5e46844bdff61befcf306324290ba71c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bd18ee80ef47fecbd51debbdd44e7a2a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0MtwqhIwdrI/default.jpg'
+    parent_uid: 5e46844bdff61befcf306324290ba71c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8ff1c423d5f88d7df266492cc3b6df80
+  - id: 0MtwqhIwdrI.srt
+    parent_uid: 5e46844bdff61befcf306324290ba71c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-17-orthogonal-matrices-and-gram-schmidt/0MtwqhIwdrI.srt
+    title: 3play caption file
+    type: null
+    uid: 110c980c9d6e32d514c682d8b06b0e21
+  - id: 0MtwqhIwdrI.pdf
+    parent_uid: 5e46844bdff61befcf306324290ba71c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-17-orthogonal-matrices-and-gram-schmidt/0MtwqhIwdrI.pdf
+    title: 3play pdf file
+    type: null
+    uid: e87f2914b2eb2f53e38688040c04b9b1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5e46844bdff61befcf306324290ba71c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6c4eb4ba68f6cbea24a51aab155ce775
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5e46844bdff61befcf306324290ba71c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c8b4841c2f0accce4a92cfd75ccc332c
+inline_embed_id: '61505861lecture17:orthogonalmatricesandgram-schmidt96842689'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-17-orthogonal-matrices-and-gram-schmidt
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-17-orthogonal-matrices-and-gram-schmidt
+title: 'Lecture 17: Orthogonal matrices and Gram-Schmidt'
 transcript: >-
   <p><span m='7270'>OK,</span> <span m='7797'>here's</span> <span
   m='8324'>the</span> <span m='8851'>last</span> <span m='9378'>lecture</span>
@@ -2695,79 +2767,7 @@ transcript: >-
   m='2935567'>more</span> <span m='2935978'>time.</span> </p><p><span
   m='2936390'>OK.</span> </p><p><span m='2936930'>Thanks,</span> <span
   m='2937676'>that's</span> <span m='2938423'>great.</span> </p>
-embedded_media:
-  - uid: 62aed92b9a25ab3a18d4cfbdd8aa7b57
-    parent_uid: 5e46844bdff61befcf306324290ba71c
-    id: 18.06_L17.jpg
-    title: 18.06_L17.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-17-orthogonal-matrices-and-gram-schmidt/18.06_L17.jpg
-  - uid: 285b724998a80110e4596faf6ae5fbb1
-    parent_uid: 5e46844bdff61befcf306324290ba71c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0MtwqhIwdrI
-  - uid: f8b9e3e05f11ea19394e03c0f0f52d53
-    parent_uid: 5e46844bdff61befcf306324290ba71c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 9b5c5de803f76484547367168dab77d0
-    parent_uid: 5e46844bdff61befcf306324290ba71c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/17.mp4'
-  - uid: 8f6e35dceef25694bfe1a24aa889550a
-    parent_uid: 5e46844bdff61befcf306324290ba71c
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: b3aa99ca092bb145833f18d09b473764
-    parent_uid: 5e46844bdff61befcf306324290ba71c
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: bd18ee80ef47fecbd51debbdd44e7a2a
-    parent_uid: 5e46844bdff61befcf306324290ba71c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0MtwqhIwdrI
-  - uid: 8ff1c423d5f88d7df266492cc3b6df80
-    parent_uid: 5e46844bdff61befcf306324290ba71c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0MtwqhIwdrI/default.jpg'
-  - uid: 110c980c9d6e32d514c682d8b06b0e21
-    parent_uid: 5e46844bdff61befcf306324290ba71c
-    id: 0MtwqhIwdrI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-17-orthogonal-matrices-and-gram-schmidt/0MtwqhIwdrI.srt
-  - uid: e87f2914b2eb2f53e38688040c04b9b1
-    parent_uid: 5e46844bdff61befcf306324290ba71c
-    id: 0MtwqhIwdrI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-17-orthogonal-matrices-and-gram-schmidt/0MtwqhIwdrI.pdf
-  - uid: 6c4eb4ba68f6cbea24a51aab155ce775
-    parent_uid: 5e46844bdff61befcf306324290ba71c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c8b4841c2f0accce4a92cfd75ccc332c
-    parent_uid: 5e46844bdff61befcf306324290ba71c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 5e46844bdff61befcf306324290ba71c
 type: courses
 layout: video
 ---

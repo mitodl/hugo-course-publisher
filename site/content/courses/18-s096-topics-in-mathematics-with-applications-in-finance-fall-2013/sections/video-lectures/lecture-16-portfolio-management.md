@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 16: Portfolio Management'
-uid: 30b5b5b869e14f4f3531198b93597988
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-16-portfolio-management
-short_url: lecture-16-portfolio-management
-inline_embed_id: '60400286lecture16:portfoliomanagement19256931'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture focuses on portfolio management,
   including portfolio construction, portfolio theory, risk parity portfolios,
   and their limitations.</p> <p><strong>Instructor:</strong> Dr. Jake Xia</p>
+embedded_media:
+  - id: Video-YouTube-MP4
+    media_location: 8TJQhQ2GZ0Y
+    parent_uid: 30b5b5b869e14f4f3531198b93597988
+    title: Video-YouTube-MP4
+    type: Video
+    uid: a67469cc9b267cd3baa7d7a5b1792d29
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/8TJQhQ2GZ0Y/default.jpg'
+    parent_uid: 30b5b5b869e14f4f3531198b93597988
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 37b1e00ee09a02d8a4a975845aad5617
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: 30b5b5b869e14f4f3531198b93597988
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bfa917c0d91f850688f578c07b74fbb0
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec16_300k.mp4'
+    parent_uid: 30b5b5b869e14f4f3531198b93597988
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 02c6d8625b1c60534efca8e5c5c07fcb
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 8TJQhQ2GZ0Y
+    parent_uid: 30b5b5b869e14f4f3531198b93597988
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 54545693ff8497deed9219817710ef64
+  - id: 8TJQhQ2GZ0Y.srt
+    parent_uid: 30b5b5b869e14f4f3531198b93597988
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-16-portfolio-management/8TJQhQ2GZ0Y.srt
+    title: 3play caption file
+    type: null
+    uid: 3e38a9d2c868d3c9129453bd910bda84
+  - id: 8TJQhQ2GZ0Y.pdf
+    parent_uid: 30b5b5b869e14f4f3531198b93597988
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-16-portfolio-management/8TJQhQ2GZ0Y.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2aa2fec3d040b7d3746ca7ba5c192041
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 30b5b5b869e14f4f3531198b93597988
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4ef568ca349b4594871b5afdec5c2d6a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 30b5b5b869e14f4f3531198b93597988
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9f47f77c0b1f10353d0384f3b9a2e918
+inline_embed_id: '60400286lecture16:portfoliomanagement19256931'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-16-portfolio-management
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-16-portfolio-management
+title: 'Lecture 16: Portfolio Management'
 transcript: >-
   <p><span m='80'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -4360,61 +4414,7 @@ transcript: >-
   m='5309370'>yeah,</span> <span m='5310570'>OK.</span> <span
   m='5311050'>All</span> <span m='5311140'>right,</span> <span
   m='5311320'>thank</span> <span m='5311550'>you.</span> </p>
-embedded_media:
-  - uid: a67469cc9b267cd3baa7d7a5b1792d29
-    parent_uid: 30b5b5b869e14f4f3531198b93597988
-    id: Video-YouTube-MP4
-    title: Video-YouTube-MP4
-    type: Video
-    media_location: 8TJQhQ2GZ0Y
-  - uid: 37b1e00ee09a02d8a4a975845aad5617
-    parent_uid: 30b5b5b869e14f4f3531198b93597988
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8TJQhQ2GZ0Y/default.jpg'
-  - uid: bfa917c0d91f850688f578c07b74fbb0
-    parent_uid: 30b5b5b869e14f4f3531198b93597988
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: 02c6d8625b1c60534efca8e5c5c07fcb
-    parent_uid: 30b5b5b869e14f4f3531198b93597988
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec16_300k.mp4'
-  - uid: 54545693ff8497deed9219817710ef64
-    parent_uid: 30b5b5b869e14f4f3531198b93597988
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8TJQhQ2GZ0Y
-  - uid: 3e38a9d2c868d3c9129453bd910bda84
-    parent_uid: 30b5b5b869e14f4f3531198b93597988
-    id: 8TJQhQ2GZ0Y.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-16-portfolio-management/8TJQhQ2GZ0Y.srt
-  - uid: 2aa2fec3d040b7d3746ca7ba5c192041
-    parent_uid: 30b5b5b869e14f4f3531198b93597988
-    id: 8TJQhQ2GZ0Y.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-16-portfolio-management/8TJQhQ2GZ0Y.pdf
-  - uid: 4ef568ca349b4594871b5afdec5c2d6a
-    parent_uid: 30b5b5b869e14f4f3531198b93597988
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9f47f77c0b1f10353d0384f3b9a2e918
-    parent_uid: 30b5b5b869e14f4f3531198b93597988
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 30b5b5b869e14f4f3531198b93597988
 type: courses
 layout: video
 ---

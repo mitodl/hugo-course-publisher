@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 15: Uncertainty Principle, 2D Waves'
-uid: 9191e96889bfd179b9f5787270a89d4d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: In0E5_JrPpo
+    parent_uid: 9191e96889bfd179b9f5787270a89d4d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c63b9a43bed8c2cdc4a26f5f61265fbd
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/In0E5_JrPpo/default.jpg'
+    parent_uid: 9191e96889bfd179b9f5787270a89d4d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4ce1472f5777e78d2868576c15557d01
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: In0E5_JrPpo
+    parent_uid: 9191e96889bfd179b9f5787270a89d4d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6000a3b06d7034e5eb294668a612d5b8
+  - id: In0E5_JrPpo.srt
+    parent_uid: 9191e96889bfd179b9f5787270a89d4d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-15-video/In0E5_JrPpo.srt
+    title: 3play caption file
+    type: null
+    uid: 097e0ba1ea4a3f6d5e1c895f576278a3
+  - id: In0E5_JrPpo.pdf
+    parent_uid: 9191e96889bfd179b9f5787270a89d4d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-15-video/In0E5_JrPpo.pdf
+    title: 3play pdf file
+    type: null
+    uid: f39dc1fc9548754e160bc17847cb8b56
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9191e96889bfd179b9f5787270a89d4d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1dac67e4b1155c2d9a1d66f4dc5afb41
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9191e96889bfd179b9f5787270a89d4d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 29edb7538c696fbb319c012e062eb7cc
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec15_300k.mp4'
+    parent_uid: 9191e96889bfd179b9f5787270a89d4d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e1d4bd21b69cd1101d7ff95ad066ef72
+inline_embed_id: 92333753lecture15video85575097
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-15-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-15-video
-short_url: lecture-15-video
-inline_embed_id: 92333753lecture15video85575097
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 15: Uncertainty Principle, 2D Waves'
 transcript: >-
   <p><span m="2420">The</span> <span m="2510">following</span> <span
   m="2960">content</span> <span m="3440">is</span> <span
@@ -3714,55 +3762,7 @@ transcript: >-
   m="4431060">those</span> <span m="4431300">demos</span> <span
   m="4431820">if</span> <span m="4431930">you</span> <span
   m="4432040">want.</span></p>
-embedded_media:
-  - uid: c63b9a43bed8c2cdc4a26f5f61265fbd
-    parent_uid: 9191e96889bfd179b9f5787270a89d4d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: In0E5_JrPpo
-  - uid: 4ce1472f5777e78d2868576c15557d01
-    parent_uid: 9191e96889bfd179b9f5787270a89d4d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/In0E5_JrPpo/default.jpg'
-  - uid: 6000a3b06d7034e5eb294668a612d5b8
-    parent_uid: 9191e96889bfd179b9f5787270a89d4d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: In0E5_JrPpo
-  - uid: 097e0ba1ea4a3f6d5e1c895f576278a3
-    parent_uid: 9191e96889bfd179b9f5787270a89d4d
-    id: In0E5_JrPpo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-15-video/In0E5_JrPpo.srt
-  - uid: f39dc1fc9548754e160bc17847cb8b56
-    parent_uid: 9191e96889bfd179b9f5787270a89d4d
-    id: In0E5_JrPpo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-15-video/In0E5_JrPpo.pdf
-  - uid: 1dac67e4b1155c2d9a1d66f4dc5afb41
-    parent_uid: 9191e96889bfd179b9f5787270a89d4d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 29edb7538c696fbb319c012e062eb7cc
-    parent_uid: 9191e96889bfd179b9f5787270a89d4d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e1d4bd21b69cd1101d7ff95ad066ef72
-    parent_uid: 9191e96889bfd179b9f5787270a89d4d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec15_300k.mp4'
+uid: 9191e96889bfd179b9f5787270a89d4d
 type: courses
 layout: video
 ---

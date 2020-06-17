@@ -1,15 +1,69 @@
 ---
-title: 'Lecture 6: Monte Carlo Simulation'
-uid: 3b6faf20eeba568fc5be9de82cdee0b4
-parent_uid: dfe2b9f5ab127795415ac86facf4a535
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-6-monte-carlo-simulation
-short_url: lecture-6-monte-carlo-simulation
-inline_embed_id: 11708672lecture6montecarlosimulation25351546
 about_this_resource_text: >-
   <p><strong>Description:</strong> Prof. Guttag discusses the Monte Carlo
   simulation, Roulette.</p><p><strong>Instructor:</strong> John Guttag</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: OgO1gpXSUzU
+    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 19634d5a77e82948b63cbf37bf015cde
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/OgO1gpXSUzU/default.jpg'
+    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 58f549d3c2e2454e56865f148756da0c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: OgO1gpXSUzU
+    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fa800ecaba29d691e52f05a1f803e926
+  - id: OgO1gpXSUzU.srt
+    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-6-monte-carlo-simulation/OgO1gpXSUzU.srt
+    title: 3play caption file
+    type: null
+    uid: ed6ee2ae9abdeb19d62baa3992fbd38d
+  - id: OgO1gpXSUzU.pdf
+    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-6-monte-carlo-simulation/OgO1gpXSUzU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 151e6f3b485d7153f373129690094717
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f3a4d77eeede869d0fdb570011e111a9
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0c12d309ab576bf6b5b2f64c28806fc6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
+    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1eb4a5df9766610fc0c19313a2da2847
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec06_300k.mp4'
+    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: aab5f3975776e9ddaa17413f660b6ba8
+inline_embed_id: 11708672lecture6montecarlosimulation25351546
+parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
+short_url: lecture-6-monte-carlo-simulation
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-6-monte-carlo-simulation
+title: 'Lecture 6: Monte Carlo Simulation'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1330">content</span> <span m="1810">is</span> <span
@@ -3046,61 +3100,7 @@ transcript: >-
   m="2993280">a</span> <span m="2993340">normal</span> <span
   m="2993640">distribution</span> <span m="2994270">to</span> <span
   m="2994390">start</span> <span m="2994690">with?</span></p>
-embedded_media:
-  - uid: 19634d5a77e82948b63cbf37bf015cde
-    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: OgO1gpXSUzU
-  - uid: 58f549d3c2e2454e56865f148756da0c
-    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/OgO1gpXSUzU/default.jpg'
-  - uid: fa800ecaba29d691e52f05a1f803e926
-    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: OgO1gpXSUzU
-  - uid: ed6ee2ae9abdeb19d62baa3992fbd38d
-    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
-    id: OgO1gpXSUzU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-6-monte-carlo-simulation/OgO1gpXSUzU.srt
-  - uid: 151e6f3b485d7153f373129690094717
-    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
-    id: OgO1gpXSUzU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-6-monte-carlo-simulation/OgO1gpXSUzU.pdf
-  - uid: f3a4d77eeede869d0fdb570011e111a9
-    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0c12d309ab576bf6b5b2f64c28806fc6
-    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1eb4a5df9766610fc0c19313a2da2847
-    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
-  - uid: aab5f3975776e9ddaa17413f660b6ba8
-    parent_uid: 3b6faf20eeba568fc5be9de82cdee0b4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec06_300k.mp4'
+uid: 3b6faf20eeba568fc5be9de82cdee0b4
 type: courses
 layout: video
 ---

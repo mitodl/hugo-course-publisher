@@ -1,13 +1,67 @@
 ---
-title: 'Clip 2: Geometric Interpretation of Differentiation'
-uid: c792b8c67c9d5e162de270472fc10cbc
+about_this_resource_text: "<p>&raquo; <a href=\"./resolveuid/acf917af6fb88659fe64f36e2b7c5d57\" title=\"Open in a new window.\" target=\"_blank\">Accompanying Notes (PDF)</a></p>\r\n<p class=\"scholar_medsm\">From Lecture 1 of <a href=\"http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/\"><em>18.01 Single Variable Calculus, Fall 2006</em></a></p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 7K1sB05pE0A
+    parent_uid: c792b8c67c9d5e162de270472fc10cbc
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8bd70eabc1a3fc5df7c884198264c947
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7K1sB05pE0A/default.jpg'
+    parent_uid: c792b8c67c9d5e162de270472fc10cbc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 80c2e241bc9142b9aa207aa5ba1812af
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec01_300k.mp4'
+    parent_uid: c792b8c67c9d5e162de270472fc10cbc
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c8337c81da7db88b266114f704025e9f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7K1sB05pE0A
+    parent_uid: c792b8c67c9d5e162de270472fc10cbc
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 01584eb221e5718d45b5e252e02ca331
+  - id: 7K1sB05pE0A.srt
+    parent_uid: c792b8c67c9d5e162de270472fc10cbc
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/clip-2-geometric-interpretation-of-differentiation-1/7K1sB05pE0A.srt
+    title: 3play caption file
+    type: null
+    uid: 0fab265b935c889a550262fb0f4bedf8
+  - id: 7K1sB05pE0A.pdf
+    parent_uid: c792b8c67c9d5e162de270472fc10cbc
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/clip-2-geometric-interpretation-of-differentiation-1/7K1sB05pE0A.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4e1930a8dfbfaebd7cf85c61d4676500
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c792b8c67c9d5e162de270472fc10cbc
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f66f1e57946c19491aa3227d7953457a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c792b8c67c9d5e162de270472fc10cbc
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a6a1565aac72ee4376b6971e47f54f7c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: c792b8c67c9d5e162de270472fc10cbc
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ce9c67a15779c1e176365c611e6aa554
+inline_embed_id: '78431954clip2:geometricinterpretationofdifferentiation83177530'
 parent_uid: c25a5592cbb582539daea82e3aeeda33
+related_resources_text: ''
+short_url: clip-2-geometric-interpretation-of-differentiation-1
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/clip-2-geometric-interpretation-of-differentiation-1
-short_url: clip-2-geometric-interpretation-of-differentiation-1
-inline_embed_id: '78431954clip2:geometricinterpretationofdifferentiation83177530'
-about_this_resource_text: "<p>&raquo; <a href=\"./resolveuid/acf917af6fb88659fe64f36e2b7c5d57\" title=\"Open in a new window.\" target=\"_blank\">Accompanying Notes (PDF)</a></p>\r\n<p class=\"scholar_medsm\">From Lecture 1 of <a href=\"http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/\"><em>18.01 Single Variable Calculus, Fall 2006</em></a></p>"
-related_resources_text: ''
+title: 'Clip 2: Geometric Interpretation of Differentiation'
 transcript: >-
   <p><span m="460">The</span> <span m="652">following</span> <span
   m="844">content</span> <span m="1036">is</span> <span m="1228">provided</span>
@@ -2477,61 +2531,7 @@ transcript: >-
   m="3087920">because</span> <span m="3088150">delta</span> <span m="3088240">x
   goes to 0.</span> <span m="3089910">OK,</span> <span m="3090740">see
   you</span> <span m="3090890">next</span> <span m="3091130">time.</span></p>
-embedded_media:
-  - uid: 8bd70eabc1a3fc5df7c884198264c947
-    parent_uid: c792b8c67c9d5e162de270472fc10cbc
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 7K1sB05pE0A
-  - uid: 80c2e241bc9142b9aa207aa5ba1812af
-    parent_uid: c792b8c67c9d5e162de270472fc10cbc
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7K1sB05pE0A/default.jpg'
-  - uid: c8337c81da7db88b266114f704025e9f
-    parent_uid: c792b8c67c9d5e162de270472fc10cbc
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec01_300k.mp4'
-  - uid: 01584eb221e5718d45b5e252e02ca331
-    parent_uid: c792b8c67c9d5e162de270472fc10cbc
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7K1sB05pE0A
-  - uid: 0fab265b935c889a550262fb0f4bedf8
-    parent_uid: c792b8c67c9d5e162de270472fc10cbc
-    id: 7K1sB05pE0A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/clip-2-geometric-interpretation-of-differentiation-1/7K1sB05pE0A.srt
-  - uid: 4e1930a8dfbfaebd7cf85c61d4676500
-    parent_uid: c792b8c67c9d5e162de270472fc10cbc
-    id: 7K1sB05pE0A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/clip-2-geometric-interpretation-of-differentiation-1/7K1sB05pE0A.pdf
-  - uid: f66f1e57946c19491aa3227d7953457a
-    parent_uid: c792b8c67c9d5e162de270472fc10cbc
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a6a1565aac72ee4376b6971e47f54f7c
-    parent_uid: c792b8c67c9d5e162de270472fc10cbc
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ce9c67a15779c1e176365c611e6aa554
-    parent_uid: c792b8c67c9d5e162de270472fc10cbc
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: c792b8c67c9d5e162de270472fc10cbc
 type: courses
 layout: video
 ---

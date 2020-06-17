@@ -1,13 +1,68 @@
 ---
-title: Explanation of Simpson's Rule
-uid: 3f93839d9f460a25b64b99e79eaadd7f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: uc4xJsi99bk
+    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3964ac9c7526abc021cee60a2e86e79a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/uc4xJsi99bk/default.jpg'
+    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3b7ca0f6d95591bcbd6a4b3354a4b364
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: uc4xJsi99bk
+    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8a101111e7eab825856c0b41e5728862
+  - id: uc4xJsi99bk.srt
+    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration/explanation-of-simpsons-rule/uc4xJsi99bk.srt
+    title: 3play caption file
+    type: null
+    uid: 4306f2c76edaedc71fd6c8b55aa22381
+  - id: uc4xJsi99bk.pdf
+    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration/explanation-of-simpsons-rule/uc4xJsi99bk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4c6f69e8536da53a127ccf4434f9dbc7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 06d01ec38c53a1f77a60d4499d30decd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 22398414da18d8fcd0d2f3612e943d47
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_48_300k.mp4'
+    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b8a4bc6aeac4b19a069804ceb126755e
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/explanation-of-simpsons-rule/id414308064?i=90319640
+    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 96ee6cf2f72d5e5cde308708a066000c
+inline_embed_id: 21642421explanationofsimpson'srule90305915
 parent_uid: be07f2bde3305a676f66884dbf8397d1
+related_resources_text: ''
+short_url: explanation-of-simpsons-rule
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration/explanation-of-simpsons-rule
-short_url: explanation-of-simpsons-rule
-inline_embed_id: 21642421explanationofsimpson'srule90305915
-about_this_resource_text: ''
-related_resources_text: ''
+title: Explanation of Simpson's Rule
 transcript: >-
   <p><span m='0'>CHRISTINE BREINER:</span> <span m='7160'>Welcome</span> <span
   m='7540'>back</span> <span m='7700'>to</span> <span
@@ -1009,62 +1064,7 @@ transcript: >-
   m='887860'>you.</span> <span m='888390'>And</span> <span m='888610'>I</span>
   <span m='888670'>think</span> <span m='888830'>I'll</span> <span
   m='888920'>stop</span> <span m='889120'>there.</span> </p>
-embedded_media:
-  - uid: 3964ac9c7526abc021cee60a2e86e79a
-    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: uc4xJsi99bk
-  - uid: 3b7ca0f6d95591bcbd6a4b3354a4b364
-    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/uc4xJsi99bk/default.jpg'
-  - uid: 8a101111e7eab825856c0b41e5728862
-    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: uc4xJsi99bk
-  - uid: 4306f2c76edaedc71fd6c8b55aa22381
-    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
-    id: uc4xJsi99bk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration/explanation-of-simpsons-rule/uc4xJsi99bk.srt
-  - uid: 4c6f69e8536da53a127ccf4434f9dbc7
-    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
-    id: uc4xJsi99bk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration/explanation-of-simpsons-rule/uc4xJsi99bk.pdf
-  - uid: 06d01ec38c53a1f77a60d4499d30decd
-    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 22398414da18d8fcd0d2f3612e943d47
-    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b8a4bc6aeac4b19a069804ceb126755e
-    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_48_300k.mp4'
-  - uid: 96ee6cf2f72d5e5cde308708a066000c
-    parent_uid: 3f93839d9f460a25b64b99e79eaadd7f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/explanation-of-simpsons-rule/id414308064?i=90319640
+uid: 3f93839d9f460a25b64b99e79eaadd7f
 type: courses
 layout: video
 ---

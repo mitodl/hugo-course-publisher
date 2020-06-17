@@ -1,13 +1,73 @@
 ---
-title: Mating Ritual
-uid: 591bd140f1b1301098f4fc6b99444f4f
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 1e99f6829c6450addbd828009f67fa78
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 09b0ec49ee4ab63592e1671f87adfe8e
+  - id: Video-YouTube-Stream
+    media_location: 6vgHIImFwHo
+    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: dead06fc576d41e7b6c480e5cecac518
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/6vgHIImFwHo/default.jpg'
+    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9c6bdd31801f8d3a718a96419069dd6b
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 6vgHIImFwHo
+    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 392a809035699cbe591860df4b97dc49
+  - id: 6vgHIImFwHo.srt
+    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/matching-ritual-video/mating-ritual/6vgHIImFwHo.srt
+    title: 3play caption file
+    type: null
+    uid: 0c705bff5326f6c51aac663b717ae2c4
+  - id: 6vgHIImFwHo.pdf
+    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/matching-ritual-video/mating-ritual/6vgHIImFwHo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1d7049523de81c9f81c36754040117df
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b30ca17df40faa78e503a424b477a441
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b865a9815c236b48d8ab62e1c7777952
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_stableritual_video_ipod.mp4
+    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0ad3f64364eb4f5d688dc99f5863cc54
+inline_embed_id: 11667271matingritual68356989
 parent_uid: d3855955a7364b6beffb27d6d59b1b8f
+related_resources_text: ''
+short_url: mating-ritual
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/matching-ritual-video/mating-ritual
-short_url: mating-ritual
-inline_embed_id: 11667271matingritual68356989
-about_this_resource_text: ''
-related_resources_text: ''
+title: Mating Ritual
 transcript: >-
   <p><span m='336'>PROFESSOR: OK.</span> <span m='1010'>So</span> <span
   m='1250'>how</span> <span m='1380'>do</span> <span m='1450'>we</span> <span
@@ -675,67 +735,7 @@ transcript: >-
   m='554190'>And</span> <span m='554560'>indeed,</span> <span
   m='555340'>there</span> <span m='555580'>are</span> <span m='555760'>no</span>
   <span m='556530'>rogue</span> <span m='556900'>couples.</span> </p>
-embedded_media:
-  - uid: 1e99f6829c6450addbd828009f67fa78
-    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 09b0ec49ee4ab63592e1671f87adfe8e
-    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: dead06fc576d41e7b6c480e5cecac518
-    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 6vgHIImFwHo
-  - uid: 9c6bdd31801f8d3a718a96419069dd6b
-    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/6vgHIImFwHo/default.jpg'
-  - uid: 392a809035699cbe591860df4b97dc49
-    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 6vgHIImFwHo
-  - uid: 0c705bff5326f6c51aac663b717ae2c4
-    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
-    id: 6vgHIImFwHo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/matching-ritual-video/mating-ritual/6vgHIImFwHo.srt
-  - uid: 1d7049523de81c9f81c36754040117df
-    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
-    id: 6vgHIImFwHo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/matching-ritual-video/mating-ritual/6vgHIImFwHo.pdf
-  - uid: b30ca17df40faa78e503a424b477a441
-    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b865a9815c236b48d8ab62e1c7777952
-    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0ad3f64364eb4f5d688dc99f5863cc54
-    parent_uid: 591bd140f1b1301098f4fc6b99444f4f
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_stableritual_video_ipod.mp4
+uid: 591bd140f1b1301098f4fc6b99444f4f
 type: courses
 layout: video
 ---

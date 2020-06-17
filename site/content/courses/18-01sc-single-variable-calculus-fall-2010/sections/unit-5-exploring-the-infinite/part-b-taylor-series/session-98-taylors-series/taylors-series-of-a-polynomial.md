@@ -1,13 +1,68 @@
 ---
-title: Taylor's Series of a Polynomial
-uid: 4148c44b846d05d1d938188ff3d052c4
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 19x213y_uk4
+    parent_uid: 4148c44b846d05d1d938188ff3d052c4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a2bd75123aafa4c9f08320d86b66903b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/19x213y_uk4/default.jpg'
+    parent_uid: 4148c44b846d05d1d938188ff3d052c4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cd49a720c413a89092662c29d842baa2
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 19x213y_uk4
+    parent_uid: 4148c44b846d05d1d938188ff3d052c4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 33a56a45ae1fbc3863e26c768951d3b1
+  - id: 19x213y_uk4.srt
+    parent_uid: 4148c44b846d05d1d938188ff3d052c4
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series/taylors-series-of-a-polynomial/19x213y_uk4.srt
+    title: 3play caption file
+    type: null
+    uid: eb45a3abf4d30a0f24fb38cfd21ffb88
+  - id: 19x213y_uk4.pdf
+    parent_uid: 4148c44b846d05d1d938188ff3d052c4
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series/taylors-series-of-a-polynomial/19x213y_uk4.pdf
+    title: 3play pdf file
+    type: null
+    uid: e1f03a7f2ee2d823d25ddb45475a9741
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4148c44b846d05d1d938188ff3d052c4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5e3cd71170bd82b4f1341abe3ff0f60b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4148c44b846d05d1d938188ff3d052c4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 440d6aa87d9fde826b2f1778b1a70537
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_80_300k.mp4'
+    parent_uid: 4148c44b846d05d1d938188ff3d052c4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 129bb10820911055f1780eb9647e44d8
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/taylors-series-polynomial/id414308064?i=90320232
+    parent_uid: 4148c44b846d05d1d938188ff3d052c4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ae648de7822f14fef64a8ecaee884566
+inline_embed_id: 67054243taylor'sseriesofapolynomial98988180
 parent_uid: 30f32e825b1a1974da6c98b8de0aafd3
+related_resources_text: ''
+short_url: taylors-series-of-a-polynomial
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series/taylors-series-of-a-polynomial
-short_url: taylors-series-of-a-polynomial
-inline_embed_id: 67054243taylor'sseriesofapolynomial98988180
-about_this_resource_text: ''
-related_resources_text: ''
+title: Taylor's Series of a Polynomial
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='6910'>Welcome</span> <span
   m='7240'>back</span> <span m='7420'>to</span> <span
@@ -482,62 +537,7 @@ transcript: >-
   m='424260'>again.</span> <span m='425950'>All</span> <span
   m='426070'>right,</span> <span m='426300'>that's</span> <span
   m='426470'>where</span> <span m='426570'>I'll stop.</span> </p>
-embedded_media:
-  - uid: a2bd75123aafa4c9f08320d86b66903b
-    parent_uid: 4148c44b846d05d1d938188ff3d052c4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 19x213y_uk4
-  - uid: cd49a720c413a89092662c29d842baa2
-    parent_uid: 4148c44b846d05d1d938188ff3d052c4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/19x213y_uk4/default.jpg'
-  - uid: 33a56a45ae1fbc3863e26c768951d3b1
-    parent_uid: 4148c44b846d05d1d938188ff3d052c4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 19x213y_uk4
-  - uid: eb45a3abf4d30a0f24fb38cfd21ffb88
-    parent_uid: 4148c44b846d05d1d938188ff3d052c4
-    id: 19x213y_uk4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series/taylors-series-of-a-polynomial/19x213y_uk4.srt
-  - uid: e1f03a7f2ee2d823d25ddb45475a9741
-    parent_uid: 4148c44b846d05d1d938188ff3d052c4
-    id: 19x213y_uk4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series/taylors-series-of-a-polynomial/19x213y_uk4.pdf
-  - uid: 5e3cd71170bd82b4f1341abe3ff0f60b
-    parent_uid: 4148c44b846d05d1d938188ff3d052c4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 440d6aa87d9fde826b2f1778b1a70537
-    parent_uid: 4148c44b846d05d1d938188ff3d052c4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 129bb10820911055f1780eb9647e44d8
-    parent_uid: 4148c44b846d05d1d938188ff3d052c4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_80_300k.mp4'
-  - uid: ae648de7822f14fef64a8ecaee884566
-    parent_uid: 4148c44b846d05d1d938188ff3d052c4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/taylors-series-polynomial/id414308064?i=90320232
+uid: 4148c44b846d05d1d938188ff3d052c4
 type: courses
 layout: video
 ---

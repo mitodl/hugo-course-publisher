@@ -1,13 +1,73 @@
 ---
-title: Stirling's Formula
-uid: 2815be1852320861419d3c669703b64d
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 2815be1852320861419d3c669703b64d
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 292c6bef79cfbc189b292d70cb6d046a
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 2815be1852320861419d3c669703b64d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 17b9c5c11ffeb13cead818a9baa7d563
+  - id: Video-YouTube-Stream
+    media_location: lU_QT5GSuxI
+    parent_uid: 2815be1852320861419d3c669703b64d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1a34c1329fa376e5195d4adca1ccb54d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/lU_QT5GSuxI/default.jpg'
+    parent_uid: 2815be1852320861419d3c669703b64d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3a190de0734d6310309c5f48b05f3d7c
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: lU_QT5GSuxI
+    parent_uid: 2815be1852320861419d3c669703b64d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c44829f7e5ee344085f39f472d22d94c
+  - id: lU_QT5GSuxI.srt
+    parent_uid: 2815be1852320861419d3c669703b64d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-356e14210c43/stirling-s-formula/lU_QT5GSuxI.srt
+    title: 3play caption file
+    type: null
+    uid: 11530a12f6b21098bdcb68f82988b9ea
+  - id: lU_QT5GSuxI.pdf
+    parent_uid: 2815be1852320861419d3c669703b64d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-356e14210c43/stirling-s-formula/lU_QT5GSuxI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 08a560bb7b3a14d52db27e5ea5a295a4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2815be1852320861419d3c669703b64d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fe9c4f12514aeb2ab1f57907c384a6e0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2815be1852320861419d3c669703b64d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: cfba190ba41c361c981468eeb8578666
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_stirling_video_ipod.mp4
+    parent_uid: 2815be1852320861419d3c669703b64d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b0a75ec1d79822dd95e84df41b3fdb62
+inline_embed_id: 82262283stirlingsformula86315150
 parent_uid: ed053e6a9bff7d1628dca28615458c2e
+related_resources_text: ''
+short_url: stirling-s-formula
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-356e14210c43/stirling-s-formula
-short_url: stirling-s-formula
-inline_embed_id: 82262283stirlingsformula86315150
-about_this_resource_text: ''
-related_resources_text: ''
+title: Stirling's Formula
 transcript: >-
   <p><span m='1350'>PROFESSOR: Our</span> <span m='1480'>method</span> <span
   m='1830'>for</span> <span m='1990'>estimating</span> <span
@@ -440,67 +500,7 @@ transcript: >-
   m='346950'>sheets</span> <span m='347600'>if</span> <span
   m='347870'>you</span> <span m='348000'>haven't</span> <span
   m='348380'>memorized</span> <span m='349010'>it.</span> </p>
-embedded_media:
-  - uid: 292c6bef79cfbc189b292d70cb6d046a
-    parent_uid: 2815be1852320861419d3c669703b64d
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 17b9c5c11ffeb13cead818a9baa7d563
-    parent_uid: 2815be1852320861419d3c669703b64d
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 1a34c1329fa376e5195d4adca1ccb54d
-    parent_uid: 2815be1852320861419d3c669703b64d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lU_QT5GSuxI
-  - uid: 3a190de0734d6310309c5f48b05f3d7c
-    parent_uid: 2815be1852320861419d3c669703b64d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lU_QT5GSuxI/default.jpg'
-  - uid: c44829f7e5ee344085f39f472d22d94c
-    parent_uid: 2815be1852320861419d3c669703b64d
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lU_QT5GSuxI
-  - uid: 11530a12f6b21098bdcb68f82988b9ea
-    parent_uid: 2815be1852320861419d3c669703b64d
-    id: lU_QT5GSuxI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-356e14210c43/stirling-s-formula/lU_QT5GSuxI.srt
-  - uid: 08a560bb7b3a14d52db27e5ea5a295a4
-    parent_uid: 2815be1852320861419d3c669703b64d
-    id: lU_QT5GSuxI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-356e14210c43/stirling-s-formula/lU_QT5GSuxI.pdf
-  - uid: fe9c4f12514aeb2ab1f57907c384a6e0
-    parent_uid: 2815be1852320861419d3c669703b64d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: cfba190ba41c361c981468eeb8578666
-    parent_uid: 2815be1852320861419d3c669703b64d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b0a75ec1d79822dd95e84df41b3fdb62
-    parent_uid: 2815be1852320861419d3c669703b64d
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_stirling_video_ipod.mp4
+uid: 2815be1852320861419d3c669703b64d
 type: courses
 layout: video
 ---

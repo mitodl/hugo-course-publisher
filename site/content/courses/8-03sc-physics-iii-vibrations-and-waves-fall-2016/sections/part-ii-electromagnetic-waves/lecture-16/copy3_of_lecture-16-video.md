@@ -1,13 +1,61 @@
 ---
-title: Oscillating Soap Film
-uid: d11af7b988c9df4a8303a0df4a808886
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: _kKIQ1h9UuA
+    parent_uid: d11af7b988c9df4a8303a0df4a808886
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0ecc96ff14d4a2c99c84c19082aa2c3c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_kKIQ1h9UuA/default.jpg'
+    parent_uid: d11af7b988c9df4a8303a0df4a808886
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bb48a069cc0094c9184a71e94c48a6a5
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: _kKIQ1h9UuA
+    parent_uid: d11af7b988c9df4a8303a0df4a808886
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1a452e1f9eb0a23e1522cdd47bbed896
+  - id: kKIQ1h9UuA.srt
+    parent_uid: d11af7b988c9df4a8303a0df4a808886
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-16/copy3_of_lecture-16-video/kKIQ1h9UuA.srt
+    title: 3play caption file
+    type: null
+    uid: 8433f121a5be4ac18d9edde2dc2bf0e7
+  - id: kKIQ1h9UuA.pdf
+    parent_uid: d11af7b988c9df4a8303a0df4a808886
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-16/copy3_of_lecture-16-video/kKIQ1h9UuA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3a2cb9a7cafeb604dc99209492b20c2c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d11af7b988c9df4a8303a0df4a808886
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0adc7688ef58932d6c72c26513c0f89b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d11af7b988c9df4a8303a0df4a808886
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 739bf6dc4a604987d1f7385ca46fd60e
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec16_300k.mp4'
+    parent_uid: d11af7b988c9df4a8303a0df4a808886
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 759c17df32e79e7efb2bc9ee2285d406
+inline_embed_id: 99236311lecture16videop346940180
 parent_uid: c84dbaf357b2e84b1aa1aa8cea794c86
+related_resources_text: ''
+short_url: copy3_of_lecture-16-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-16/copy3_of_lecture-16-video
-short_url: copy3_of_lecture-16-video
-inline_embed_id: 99236311lecture16videop346940180
-about_this_resource_text: ''
-related_resources_text: ''
+title: Oscillating Soap Film
 transcript: >-
   <p><span m="2520">The</span> <span m="2610">following</span> <span
   m="3060">content</span> <span m="3540">is</span> <span
@@ -4373,55 +4421,7 @@ transcript: >-
   m="4891010">longer</span> <span m="4891990">wavelengths</span> <span
   m="4893640">of</span> <span m="4893940">the</span> <span
   m="4894240">normal</span> <span m="4894540">modes.</span></p>
-embedded_media:
-  - uid: 0ecc96ff14d4a2c99c84c19082aa2c3c
-    parent_uid: d11af7b988c9df4a8303a0df4a808886
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _kKIQ1h9UuA
-  - uid: bb48a069cc0094c9184a71e94c48a6a5
-    parent_uid: d11af7b988c9df4a8303a0df4a808886
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_kKIQ1h9UuA/default.jpg'
-  - uid: 1a452e1f9eb0a23e1522cdd47bbed896
-    parent_uid: d11af7b988c9df4a8303a0df4a808886
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _kKIQ1h9UuA
-  - uid: 8433f121a5be4ac18d9edde2dc2bf0e7
-    parent_uid: d11af7b988c9df4a8303a0df4a808886
-    id: kKIQ1h9UuA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-16/copy3_of_lecture-16-video/kKIQ1h9UuA.srt
-  - uid: 3a2cb9a7cafeb604dc99209492b20c2c
-    parent_uid: d11af7b988c9df4a8303a0df4a808886
-    id: kKIQ1h9UuA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-16/copy3_of_lecture-16-video/kKIQ1h9UuA.pdf
-  - uid: 0adc7688ef58932d6c72c26513c0f89b
-    parent_uid: d11af7b988c9df4a8303a0df4a808886
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 739bf6dc4a604987d1f7385ca46fd60e
-    parent_uid: d11af7b988c9df4a8303a0df4a808886
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 759c17df32e79e7efb2bc9ee2285d406
-    parent_uid: d11af7b988c9df4a8303a0df4a808886
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec16_300k.mp4'
+uid: d11af7b988c9df4a8303a0df4a808886
 type: courses
 layout: video
 ---

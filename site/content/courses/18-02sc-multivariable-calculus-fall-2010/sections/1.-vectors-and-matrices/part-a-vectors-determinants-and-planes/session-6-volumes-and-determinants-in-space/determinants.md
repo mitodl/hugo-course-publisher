@@ -1,13 +1,67 @@
 ---
-title: Determinants
-uid: 7be43a00d3c8502c1dbfb6eaa6207974
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: PxkEoEbCJT8
+    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3856ce8ba60a04543f161f6d32d7aab4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/PxkEoEbCJT8/default.jpg'
+    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 47193b19a35fe8210491007b77d8dd9a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: PxkEoEbCJT8
+    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 199849a8900daa0f18376b05e8c3e764
+  - id: PxkEoEbCJT8.srt
+    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-6-volumes-and-determinants-in-space/determinants/PxkEoEbCJT8.srt
+    title: 3play caption file
+    type: null
+    uid: d01274e1a80abaed2b16b588e740ea78
+  - id: PxkEoEbCJT8.pdf
+    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-6-volumes-and-determinants-in-space/determinants/PxkEoEbCJT8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0863fab6b2912df5f3658f5289b5b886
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 78bc99d462e8744bc4f902fe0380eb44
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1fd5d1f3533c23027ec98870de038872
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/determinants/id414355340?i=90322818'
+    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d3a2b7ac6d3888179bf9f71e9ec550a9
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_05_300k.mp4'
+    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b6114c1e9f8cffc46c0bcb49ffcdeca6
+inline_embed_id: 35389535determinants33292101
 parent_uid: bb78c434746c4a7d4c1a369991a0b5d2
+related_resources_text: ''
+short_url: determinants
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-6-volumes-and-determinants-in-space/determinants
-short_url: determinants
-inline_embed_id: 35389535determinants33292101
-about_this_resource_text: ''
-related_resources_text: ''
+title: Determinants
 transcript: >-
   <p><span m='6520'>DAVID JORDAN: Hello,</span> <span m='7010'>and</span> <span
   m='7157'>welcome</span> <span m='7600'>back</span> <span m='7940'>to</span>
@@ -250,61 +304,7 @@ transcript: >-
   <span m='281280'>leave</span> <span m='281440'>it</span> <span
   m='281520'>at</span> <span m='281650'>that.</span> <span
   m='282300'>Thank</span> <span m='282490'>you.</span> </p>
-embedded_media:
-  - uid: 3856ce8ba60a04543f161f6d32d7aab4
-    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: PxkEoEbCJT8
-  - uid: 47193b19a35fe8210491007b77d8dd9a
-    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/PxkEoEbCJT8/default.jpg'
-  - uid: 199849a8900daa0f18376b05e8c3e764
-    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: PxkEoEbCJT8
-  - uid: d01274e1a80abaed2b16b588e740ea78
-    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
-    id: PxkEoEbCJT8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-6-volumes-and-determinants-in-space/determinants/PxkEoEbCJT8.srt
-  - uid: 0863fab6b2912df5f3658f5289b5b886
-    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
-    id: PxkEoEbCJT8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-6-volumes-and-determinants-in-space/determinants/PxkEoEbCJT8.pdf
-  - uid: 78bc99d462e8744bc4f902fe0380eb44
-    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1fd5d1f3533c23027ec98870de038872
-    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d3a2b7ac6d3888179bf9f71e9ec550a9
-    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/determinants/id414355340?i=90322818'
-  - uid: b6114c1e9f8cffc46c0bcb49ffcdeca6
-    parent_uid: 7be43a00d3c8502c1dbfb6eaa6207974
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_05_300k.mp4'
+uid: 7be43a00d3c8502c1dbfb6eaa6207974
 type: courses
 layout: video
 ---

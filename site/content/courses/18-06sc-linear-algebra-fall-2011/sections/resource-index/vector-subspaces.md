@@ -1,13 +1,69 @@
 ---
-title: Vector Subspaces
-uid: 1096ba09771964a95295a5e322a54990
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: S8DQZjE4V8U
+    parent_uid: 1096ba09771964a95295a5e322a54990
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f97f4a800e13c616b542fab7b36d9d45
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: S8DQZjE4V8U
+    parent_uid: 1096ba09771964a95295a5e322a54990
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: cbfb3958d9806c63ee16c3509dfe94ea
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/vector-subspaces/id488155309?i=108454350
+    parent_uid: 1096ba09771964a95295a5e322a54990
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: cae73de9a1fb201fedefa8f43df99362
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_N2_300k.mp4
+    parent_uid: 1096ba09771964a95295a5e322a54990
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 61cbaf05bc46817d2abf43a09a8a1548
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/S8DQZjE4V8U/default.jpg'
+    parent_uid: 1096ba09771964a95295a5e322a54990
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 552acfea5aa3b5357fba40ba962ff324
+  - id: S8DQZjE4V8U.srt
+    parent_uid: 1096ba09771964a95295a5e322a54990
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/vector-subspaces/S8DQZjE4V8U.srt
+    title: 3play caption file
+    type: null
+    uid: 3f4421b38edc4efe546cfbe588abb6a9
+  - id: S8DQZjE4V8U.pdf
+    parent_uid: 1096ba09771964a95295a5e322a54990
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/vector-subspaces/S8DQZjE4V8U.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4e0355e8346c55c7b7193202067a533c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1096ba09771964a95295a5e322a54990
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7237a819ff71bf7e8810680c5ece22c7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1096ba09771964a95295a5e322a54990
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5cd17122632938bb66422586db32a97f
+inline_embed_id: 84064946vectorsubspaces20123551
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: vector-subspaces
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/vector-subspaces
-short_url: vector-subspaces
-inline_embed_id: 84064946vectorsubspaces20123551
-about_this_resource_text: ''
-related_resources_text: ''
+title: Vector Subspaces
 transcript: >-
   <p><span m='7240'>NIKOLA KAMBUROV: Hi everyone.</span> <span
   m='8290'>In</span> <span m='8880'>this</span> <span m='9180'>video,</span>
@@ -403,63 +459,7 @@ transcript: >-
   <span m='520350'>subspaces.</span> <span m='522380'>I'll</span> <span
   m='522480'>see</span> <span m='522679'>you</span> <span m='522770'>guys</span>
   <span m='523000'>later.</span> </p>
-embedded_media:
-  - uid: f97f4a800e13c616b542fab7b36d9d45
-    parent_uid: 1096ba09771964a95295a5e322a54990
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: S8DQZjE4V8U
-  - uid: cbfb3958d9806c63ee16c3509dfe94ea
-    parent_uid: 1096ba09771964a95295a5e322a54990
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: S8DQZjE4V8U
-  - uid: cae73de9a1fb201fedefa8f43df99362
-    parent_uid: 1096ba09771964a95295a5e322a54990
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/vector-subspaces/id488155309?i=108454350
-  - uid: 61cbaf05bc46817d2abf43a09a8a1548
-    parent_uid: 1096ba09771964a95295a5e322a54990
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_N2_300k.mp4
-  - uid: 552acfea5aa3b5357fba40ba962ff324
-    parent_uid: 1096ba09771964a95295a5e322a54990
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/S8DQZjE4V8U/default.jpg'
-  - uid: 3f4421b38edc4efe546cfbe588abb6a9
-    parent_uid: 1096ba09771964a95295a5e322a54990
-    id: S8DQZjE4V8U.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/vector-subspaces/S8DQZjE4V8U.srt
-  - uid: 4e0355e8346c55c7b7193202067a533c
-    parent_uid: 1096ba09771964a95295a5e322a54990
-    id: S8DQZjE4V8U.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/vector-subspaces/S8DQZjE4V8U.pdf
-  - uid: 7237a819ff71bf7e8810680c5ece22c7
-    parent_uid: 1096ba09771964a95295a5e322a54990
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5cd17122632938bb66422586db32a97f
-    parent_uid: 1096ba09771964a95295a5e322a54990
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 1096ba09771964a95295a5e322a54990
 type: courses
 layout: video
 ---

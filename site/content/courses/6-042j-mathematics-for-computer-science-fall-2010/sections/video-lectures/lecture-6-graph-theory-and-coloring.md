@@ -1,16 +1,71 @@
 ---
-title: 'Lecture 6: Graph Theory and Coloring'
-uid: fcb5da11f57cafc8587e051bab93f81f
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-6-graph-theory-and-coloring
-short_url: lecture-6-graph-theory-and-coloring
-inline_embed_id: '3707640lecture6:graphtheoryandcoloring8293570'
 about_this_resource_text: >-
   <p><strong>Description:</strong> An introduction to graph theory basics and
   intuition with applications to scheduling, coloring, and even sexual
   promiscuity.</p> <p><strong>Speaker:</strong> Tom Leighton</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: h9wxtqoa1jY
+    parent_uid: fcb5da11f57cafc8587e051bab93f81f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 906de4d5f1ee615be516f64ab3358298
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/h9wxtqoa1jY/default.jpg'
+    parent_uid: fcb5da11f57cafc8587e051bab93f81f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 649a59d40ddbb880994a3766f9429a73
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-6-graph-theory-coloring/id503873536?i=110644981
+    parent_uid: fcb5da11f57cafc8587e051bab93f81f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 52939491a775d735acd23a90c4ad414c
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec06_300k.mp4'
+    parent_uid: fcb5da11f57cafc8587e051bab93f81f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: fcc746986575b07bd25a8941fdf491d4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: h9wxtqoa1jY
+    parent_uid: fcb5da11f57cafc8587e051bab93f81f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a4d2915b26643075a6a7406a1de9f01a
+  - id: h9wxtqoa1jY.srt
+    parent_uid: fcb5da11f57cafc8587e051bab93f81f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-6-graph-theory-and-coloring/h9wxtqoa1jY.srt
+    title: 3play caption file
+    type: null
+    uid: 2a9e9914b10f21e20a7024f7bdce4922
+  - id: h9wxtqoa1jY.pdf
+    parent_uid: fcb5da11f57cafc8587e051bab93f81f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-6-graph-theory-and-coloring/h9wxtqoa1jY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1ccaf180bcd244fddd32e60789fa922f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fcb5da11f57cafc8587e051bab93f81f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 86e478d9b2380822f82bcad02f460d6f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fcb5da11f57cafc8587e051bab93f81f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a283abd83b432d100843ebb6665b036a
+inline_embed_id: '3707640lecture6:graphtheoryandcoloring8293570'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-6-graph-theory-and-coloring
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-6-graph-theory-and-coloring
+title: 'Lecture 6: Graph Theory and Coloring'
 transcript: >-
   <p><span m='340'>The</span> <span m='450'>following</span> <span
   m='890'>content</span> <span m='1480'>is</span> <span m='1600'>provided</span>
@@ -4952,62 +5007,7 @@ transcript: >-
   m='4964930'>disguise.</span> <span m='4965960'>OK</span> <span
   m='4966250'>that's</span> <span m='4966500'>it</span> <span
   m='4966600'>for</span> <span m='4966700'>today.</span> </p><p></p>
-embedded_media:
-  - uid: 906de4d5f1ee615be516f64ab3358298
-    parent_uid: fcb5da11f57cafc8587e051bab93f81f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: h9wxtqoa1jY
-  - uid: 649a59d40ddbb880994a3766f9429a73
-    parent_uid: fcb5da11f57cafc8587e051bab93f81f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/h9wxtqoa1jY/default.jpg'
-  - uid: 52939491a775d735acd23a90c4ad414c
-    parent_uid: fcb5da11f57cafc8587e051bab93f81f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-6-graph-theory-coloring/id503873536?i=110644981
-  - uid: fcc746986575b07bd25a8941fdf491d4
-    parent_uid: fcb5da11f57cafc8587e051bab93f81f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec06_300k.mp4'
-  - uid: a4d2915b26643075a6a7406a1de9f01a
-    parent_uid: fcb5da11f57cafc8587e051bab93f81f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: h9wxtqoa1jY
-  - uid: 2a9e9914b10f21e20a7024f7bdce4922
-    parent_uid: fcb5da11f57cafc8587e051bab93f81f
-    id: h9wxtqoa1jY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-6-graph-theory-and-coloring/h9wxtqoa1jY.srt
-  - uid: 1ccaf180bcd244fddd32e60789fa922f
-    parent_uid: fcb5da11f57cafc8587e051bab93f81f
-    id: h9wxtqoa1jY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-6-graph-theory-and-coloring/h9wxtqoa1jY.pdf
-  - uid: 86e478d9b2380822f82bcad02f460d6f
-    parent_uid: fcb5da11f57cafc8587e051bab93f81f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a283abd83b432d100843ebb6665b036a
-    parent_uid: fcb5da11f57cafc8587e051bab93f81f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: fcb5da11f57cafc8587e051bab93f81f
 type: courses
 layout: video
 ---

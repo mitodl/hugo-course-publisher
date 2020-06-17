@@ -1,13 +1,62 @@
 ---
-title: 'Video 2: One-Variable Linear Regression'
-uid: 91ac06a2616cf560504c554da554adf0
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: wT3Y2K-fxXw
+    parent_uid: 91ac06a2616cf560504c554da554adf0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 79a9951b811759f401f6ce97e3390588
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: wT3Y2K-fxXw
+    parent_uid: 91ac06a2616cf560504c554da554adf0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d7c3687b0dc3978f74f9fa22b065d5e5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/wT3Y2K-fxXw/default.jpg'
+    parent_uid: 91ac06a2616cf560504c554da554adf0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 18ed726effab68c539c8aa33b19246e4
+  - id: wT3Y2K-fxXw.srt
+    parent_uid: 91ac06a2616cf560504c554da554adf0
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-2-one-variable-linear-regression/video-2-one-variable-linear-regression-0/wT3Y2K-fxXw.srt
+    title: 3play caption file
+    type: null
+    uid: 956ab7f187b9cc446b4340a997b8575b
+  - id: wT3Y2K-fxXw.pdf
+    parent_uid: 91ac06a2616cf560504c554da554adf0
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-2-one-variable-linear-regression/video-2-one-variable-linear-regression-0/wT3Y2K-fxXw.pdf
+    title: 3play pdf file
+    type: null
+    uid: c143126bee93d78c262c3c01beff3e01
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 91ac06a2616cf560504c554da554adf0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5af959076f3995c7349589002fc2e8db
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 91ac06a2616cf560504c554da554adf0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7665eefb4b1a0c11a59eefb1b97cfaa9
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.2.03_300k.mp4
+    parent_uid: 91ac06a2616cf560504c554da554adf0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b125465502f524aac41c806528754a38
+inline_embed_id: 84808658video2onevariablelinearregression97646894
 parent_uid: 1f0b61bba29b5ee75d265ed940cc2d1d
+related_resources_text: ''
+short_url: video-2-one-variable-linear-regression-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-2-one-variable-linear-regression/video-2-one-variable-linear-regression-0
-short_url: video-2-one-variable-linear-regression-0
-inline_embed_id: 84808658video2onevariablelinearregression97646894
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: One-Variable Linear Regression'
 transcript: >-
   <p><span m='8019'>Let's</span> <span m='8497'>discuss</span> <span
   m='8975'>the</span> <span m='9454'>method</span> <span
@@ -533,56 +582,7 @@ transcript: >-
   m='523615'>examples</span> <span m='523955'>of</span> <span
   m='524296'>both</span> <span m='524637'>types</span> <span
   m='524978'>of</span> <span m='525319'>problems.</span> </p>
-embedded_media:
-  - uid: 79a9951b811759f401f6ce97e3390588
-    parent_uid: 91ac06a2616cf560504c554da554adf0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: wT3Y2K-fxXw
-  - uid: d7c3687b0dc3978f74f9fa22b065d5e5
-    parent_uid: 91ac06a2616cf560504c554da554adf0
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: wT3Y2K-fxXw
-  - uid: 18ed726effab68c539c8aa33b19246e4
-    parent_uid: 91ac06a2616cf560504c554da554adf0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/wT3Y2K-fxXw/default.jpg'
-  - uid: 956ab7f187b9cc446b4340a997b8575b
-    parent_uid: 91ac06a2616cf560504c554da554adf0
-    id: wT3Y2K-fxXw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-2-one-variable-linear-regression/video-2-one-variable-linear-regression-0/wT3Y2K-fxXw.srt
-  - uid: c143126bee93d78c262c3c01beff3e01
-    parent_uid: 91ac06a2616cf560504c554da554adf0
-    id: wT3Y2K-fxXw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-2-one-variable-linear-regression/video-2-one-variable-linear-regression-0/wT3Y2K-fxXw.pdf
-  - uid: 5af959076f3995c7349589002fc2e8db
-    parent_uid: 91ac06a2616cf560504c554da554adf0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7665eefb4b1a0c11a59eefb1b97cfaa9
-    parent_uid: 91ac06a2616cf560504c554da554adf0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b125465502f524aac41c806528754a38
-    parent_uid: 91ac06a2616cf560504c554da554adf0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.2.03_300k.mp4
+uid: 91ac06a2616cf560504c554da554adf0
 type: courses
 layout: video
 ---

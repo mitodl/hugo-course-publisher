@@ -1,13 +1,62 @@
 ---
-title: 'Video 7: Predicting Sentiment'
-uid: dd79612c793ade86be8b59116072ba4c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: CaLv-IWX5vo
+    parent_uid: dd79612c793ade86be8b59116072ba4c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f3309c74184764f6406693a741c93625
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: CaLv-IWX5vo
+    parent_uid: dd79612c793ade86be8b59116072ba4c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c191559b682f52823c65cabe938a7417
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CaLv-IWX5vo/default.jpg'
+    parent_uid: dd79612c793ade86be8b59116072ba4c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: dd2e5493977380c19ac6f025acc2f5ab
+  - id: CaLv-IWX5vo.srt
+    parent_uid: dd79612c793ade86be8b59116072ba4c
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-7-predicting-sentiment/video-7-predicting-sentiment-0/CaLv-IWX5vo.srt
+    title: 3play caption file
+    type: null
+    uid: 3f065d6069eb48d6b0c252ba7e1dcc72
+  - id: CaLv-IWX5vo.pdf
+    parent_uid: dd79612c793ade86be8b59116072ba4c
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-7-predicting-sentiment/video-7-predicting-sentiment-0/CaLv-IWX5vo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 520e51606d7438adc3fc0d78e8211543
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: dd79612c793ade86be8b59116072ba4c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ba526e94aaf4c3254c800c0fbae042cd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: dd79612c793ade86be8b59116072ba4c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6f675dcaa40fee3b3d9c3befa4c5b630
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.2.12_300k.mp4
+    parent_uid: dd79612c793ade86be8b59116072ba4c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5b0f03a926c37d0b1b0954f47dd3252e
+inline_embed_id: 48305729video7predictingsentiment94947110
 parent_uid: 6faa3dc62c17bf81844bb5d994e997d9
+related_resources_text: ''
+short_url: video-7-predicting-sentiment-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-7-predicting-sentiment/video-7-predicting-sentiment-0
-short_url: video-7-predicting-sentiment-0
-inline_embed_id: 48305729video7predictingsentiment94947110
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 7: Predicting Sentiment'
 transcript: >-
   <p><span m='4490'>Now</span> <span m='4741'>that</span> <span
   m='4992'>we've</span> <span m='5244'>prepared</span> <span m='5495'>our</span>
@@ -378,56 +427,7 @@ transcript: >-
   <span m='398804'>relatively</span> <span m='399251'>small</span> <span
   m='399699'>data</span> <span m='400147'>set</span> <span m='400594'>of</span>
   <span m='401042'>tweets.</span> </p>
-embedded_media:
-  - uid: f3309c74184764f6406693a741c93625
-    parent_uid: dd79612c793ade86be8b59116072ba4c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CaLv-IWX5vo
-  - uid: c191559b682f52823c65cabe938a7417
-    parent_uid: dd79612c793ade86be8b59116072ba4c
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CaLv-IWX5vo
-  - uid: dd2e5493977380c19ac6f025acc2f5ab
-    parent_uid: dd79612c793ade86be8b59116072ba4c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CaLv-IWX5vo/default.jpg'
-  - uid: 3f065d6069eb48d6b0c252ba7e1dcc72
-    parent_uid: dd79612c793ade86be8b59116072ba4c
-    id: CaLv-IWX5vo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-7-predicting-sentiment/video-7-predicting-sentiment-0/CaLv-IWX5vo.srt
-  - uid: 520e51606d7438adc3fc0d78e8211543
-    parent_uid: dd79612c793ade86be8b59116072ba4c
-    id: CaLv-IWX5vo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-7-predicting-sentiment/video-7-predicting-sentiment-0/CaLv-IWX5vo.pdf
-  - uid: ba526e94aaf4c3254c800c0fbae042cd
-    parent_uid: dd79612c793ade86be8b59116072ba4c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6f675dcaa40fee3b3d9c3befa4c5b630
-    parent_uid: dd79612c793ade86be8b59116072ba4c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5b0f03a926c37d0b1b0954f47dd3252e
-    parent_uid: dd79612c793ade86be8b59116072ba4c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.2.12_300k.mp4
+uid: dd79612c793ade86be8b59116072ba4c
 type: courses
 layout: video
 ---

@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: Introduction'
-uid: 17461d990a6be67c33527c2e1681898e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: JAmiDL8pBhg
+    parent_uid: 17461d990a6be67c33527c2e1681898e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0b2a0930ccb9bf794debcc8a468c3060
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: JAmiDL8pBhg
+    parent_uid: 17461d990a6be67c33527c2e1681898e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b6b7aa7d2c05b057140bd68a77ab4e66
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/JAmiDL8pBhg/default.jpg'
+    parent_uid: 17461d990a6be67c33527c2e1681898e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a206437d7ffa1dee2b84ff904bbcccb2
+  - id: JAmiDL8pBhg.srt
+    parent_uid: 17461d990a6be67c33527c2e1681898e
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-1-introduction/video-1-introduction-0/JAmiDL8pBhg.srt
+    title: 3play caption file
+    type: null
+    uid: b1c32de168b81a7c1a57a0ef4626c6e6
+  - id: JAmiDL8pBhg.pdf
+    parent_uid: 17461d990a6be67c33527c2e1681898e
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-1-introduction/video-1-introduction-0/JAmiDL8pBhg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 917b34981f348944d5c723f60ae936e7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 17461d990a6be67c33527c2e1681898e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d5d9eeb8ca81ca9baec28bde6d6acab7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 17461d990a6be67c33527c2e1681898e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e6a207cca73701c50d73de7a2ea3f193
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.4.02_300k.mp4
+    parent_uid: 17461d990a6be67c33527c2e1681898e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cd6eaa8e00efe2032816d3ef3489284c
+inline_embed_id: 97944362video1introduction6016646
 parent_uid: 8d5ffa6bd6d68dfae0e2c923557e22af
+related_resources_text: ''
+short_url: video-1-introduction-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-1-introduction/video-1-introduction-0
-short_url: video-1-introduction-0
-inline_embed_id: 97944362video1introduction6016646
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: Introduction'
 transcript: >-
   <p><span m='4500'>The</span> <span m='4841'>good,</span> <span
   m='5182'>the</span> <span m='5524'>bad,</span> <span m='5865'>and</span> <span
@@ -152,56 +201,7 @@ transcript: >-
   m='129395'>visualization</span> <span m='129669'>and</span> <span
   m='130231'>a</span> <span m='130794'>bad</span> <span
   m='131357'>visualization.</span> </p>
-embedded_media:
-  - uid: 0b2a0930ccb9bf794debcc8a468c3060
-    parent_uid: 17461d990a6be67c33527c2e1681898e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: JAmiDL8pBhg
-  - uid: b6b7aa7d2c05b057140bd68a77ab4e66
-    parent_uid: 17461d990a6be67c33527c2e1681898e
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: JAmiDL8pBhg
-  - uid: a206437d7ffa1dee2b84ff904bbcccb2
-    parent_uid: 17461d990a6be67c33527c2e1681898e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/JAmiDL8pBhg/default.jpg'
-  - uid: b1c32de168b81a7c1a57a0ef4626c6e6
-    parent_uid: 17461d990a6be67c33527c2e1681898e
-    id: JAmiDL8pBhg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-1-introduction/video-1-introduction-0/JAmiDL8pBhg.srt
-  - uid: 917b34981f348944d5c723f60ae936e7
-    parent_uid: 17461d990a6be67c33527c2e1681898e
-    id: JAmiDL8pBhg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-1-introduction/video-1-introduction-0/JAmiDL8pBhg.pdf
-  - uid: d5d9eeb8ca81ca9baec28bde6d6acab7
-    parent_uid: 17461d990a6be67c33527c2e1681898e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e6a207cca73701c50d73de7a2ea3f193
-    parent_uid: 17461d990a6be67c33527c2e1681898e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: cd6eaa8e00efe2032816d3ef3489284c
-    parent_uid: 17461d990a6be67c33527c2e1681898e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.4.02_300k.mp4
+uid: 17461d990a6be67c33527c2e1681898e
 type: courses
 layout: video
 ---

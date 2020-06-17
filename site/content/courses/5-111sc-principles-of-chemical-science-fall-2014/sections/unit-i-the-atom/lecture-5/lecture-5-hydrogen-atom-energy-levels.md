@@ -1,18 +1,72 @@
 ---
-title: 'Lecture 5: Hydrogen atom energy levels'
-uid: 4ae9565189e654fedede9f98ea377bc9
-parent_uid: 19bd276c98fb61bc72af22c0567e02a2
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-5/lecture-5-hydrogen-atom-energy-levels
-short_url: lecture-5-hydrogen-atom-energy-levels
-inline_embed_id: 66085186lecture5hydrogenatomenergylevels1631193
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: In this lecture, we look at the visible spectrum
   produced by the hydrogen atom. A series of lines of different colors appear
   and we consider why the hydrogen atom produces this particular spectrum.</p>
   <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: kO0VmaLkgj8
+    parent_uid: 4ae9565189e654fedede9f98ea377bc9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1ef9dadd1a6e99f9faafba5922556bb1
+  - id: kO0VmaLkgj8.srt
+    parent_uid: 4ae9565189e654fedede9f98ea377bc9
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-5/lecture-5-hydrogen-atom-energy-levels/kO0VmaLkgj8.srt
+    title: 3play caption file
+    type: null
+    uid: d9ebd8450196696f1b8190b87b60ccf0
+  - id: kO0VmaLkgj8.pdf
+    parent_uid: 4ae9565189e654fedede9f98ea377bc9
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-5/lecture-5-hydrogen-atom-energy-levels/kO0VmaLkgj8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 78b2586e6ccc607459c82fc9172c968c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4ae9565189e654fedede9f98ea377bc9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4dc1cc8fff858c3bfa14457fdb547c9e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4ae9565189e654fedede9f98ea377bc9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 972f03be4cda8ba875d73cceb3438cc0
+  - id: Video-YouTube-Stream
+    media_location: kO0VmaLkgj8
+    parent_uid: 4ae9565189e654fedede9f98ea377bc9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 843bd8afe6b6c676e6fb1510a2e1a3e0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/kO0VmaLkgj8/default.jpg'
+    parent_uid: 4ae9565189e654fedede9f98ea377bc9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8cb33b4ab1960c34e7a30771ded4eddb
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L05_300k.mp4'
+    parent_uid: 4ae9565189e654fedede9f98ea377bc9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 596cb48e4bba92612c1bc94525201654
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 4ae9565189e654fedede9f98ea377bc9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0b48821effd304bfdf8574ea185178b4
+inline_embed_id: 66085186lecture5hydrogenatomenergylevels1631193
+parent_uid: 19bd276c98fb61bc72af22c0567e02a2
 related_resources_text: ''
+short_url: lecture-5-hydrogen-atom-energy-levels
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-5/lecture-5-hydrogen-atom-energy-levels
+title: 'Lecture 5: Hydrogen atom energy levels'
 transcript: >-
   <p><span m="30">The</span> <span m="130">following</span> <span
   m="600">content</span> <span m="1090">is</span> <span m="1210">provided</span>
@@ -2318,61 +2372,7 @@ transcript: >-
   m="2487140">competition.</span> <span m="2490530">Have</span> <span
   m="2490740">a</span> <span m="2490790">great</span> <span
   m="2491090">weekend,</span> <span m="2491490">everybody.</span></p>
-embedded_media:
-  - uid: 1ef9dadd1a6e99f9faafba5922556bb1
-    parent_uid: 4ae9565189e654fedede9f98ea377bc9
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: kO0VmaLkgj8
-  - uid: d9ebd8450196696f1b8190b87b60ccf0
-    parent_uid: 4ae9565189e654fedede9f98ea377bc9
-    id: kO0VmaLkgj8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-5/lecture-5-hydrogen-atom-energy-levels/kO0VmaLkgj8.srt
-  - uid: 78b2586e6ccc607459c82fc9172c968c
-    parent_uid: 4ae9565189e654fedede9f98ea377bc9
-    id: kO0VmaLkgj8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-5/lecture-5-hydrogen-atom-energy-levels/kO0VmaLkgj8.pdf
-  - uid: 4dc1cc8fff858c3bfa14457fdb547c9e
-    parent_uid: 4ae9565189e654fedede9f98ea377bc9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 972f03be4cda8ba875d73cceb3438cc0
-    parent_uid: 4ae9565189e654fedede9f98ea377bc9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 843bd8afe6b6c676e6fb1510a2e1a3e0
-    parent_uid: 4ae9565189e654fedede9f98ea377bc9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: kO0VmaLkgj8
-  - uid: 8cb33b4ab1960c34e7a30771ded4eddb
-    parent_uid: 4ae9565189e654fedede9f98ea377bc9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/kO0VmaLkgj8/default.jpg'
-  - uid: 596cb48e4bba92612c1bc94525201654
-    parent_uid: 4ae9565189e654fedede9f98ea377bc9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L05_300k.mp4'
-  - uid: 0b48821effd304bfdf8574ea185178b4
-    parent_uid: 4ae9565189e654fedede9f98ea377bc9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+uid: 4ae9565189e654fedede9f98ea377bc9
 type: courses
 layout: video
 ---

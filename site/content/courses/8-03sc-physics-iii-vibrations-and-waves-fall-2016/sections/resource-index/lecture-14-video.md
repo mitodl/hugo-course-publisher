@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 14: Fourier Transform, AM Radio'
-uid: c0287a4174a9feba0471aafbf3c82e67
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: VGAlyJ7e0IQ
+    parent_uid: c0287a4174a9feba0471aafbf3c82e67
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4f9ffc433a1b70549e0d2ee1cb283811
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VGAlyJ7e0IQ/default.jpg'
+    parent_uid: c0287a4174a9feba0471aafbf3c82e67
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1e6a309261aaea5ecb99d0b64eb5de93
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: VGAlyJ7e0IQ
+    parent_uid: c0287a4174a9feba0471aafbf3c82e67
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ccecfb5f61222eeb226f7ac28d5a85dd
+  - id: VGAlyJ7e0IQ.srt
+    parent_uid: c0287a4174a9feba0471aafbf3c82e67
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-14-video/VGAlyJ7e0IQ.srt
+    title: 3play caption file
+    type: null
+    uid: 10274279807dafb80e304c1e1ba9da74
+  - id: VGAlyJ7e0IQ.pdf
+    parent_uid: c0287a4174a9feba0471aafbf3c82e67
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-14-video/VGAlyJ7e0IQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 737302431414d911487ba6f94ea882c5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c0287a4174a9feba0471aafbf3c82e67
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 810296a340e6d4abe8b40eed9c2c08f9
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c0287a4174a9feba0471aafbf3c82e67
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 23b466ef1bf3756b8969e66a3b7650df
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec14_300k.mp4'
+    parent_uid: c0287a4174a9feba0471aafbf3c82e67
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b404472e9e4d9d1bb0f8e4a898b95a8c
+inline_embed_id: 72619671lecture14video46905976
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-14-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-14-video
-short_url: lecture-14-video
-inline_embed_id: 72619671lecture14video46905976
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 14: Fourier Transform, AM Radio'
 transcript: >-
   <p><span m="2450">The</span> <span m="2540">following</span> <span
   m="2990">content</span> <span m="3500">is</span> <span
@@ -4000,55 +4048,7 @@ transcript: >-
   m="4646910">know</span> <span m="4647060">if</span> <span
   m="4647210">you</span> <span m="4647300">have</span> <span
   m="4647480">any</span> <span m="4647660">questions.</span></p>
-embedded_media:
-  - uid: 4f9ffc433a1b70549e0d2ee1cb283811
-    parent_uid: c0287a4174a9feba0471aafbf3c82e67
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VGAlyJ7e0IQ
-  - uid: 1e6a309261aaea5ecb99d0b64eb5de93
-    parent_uid: c0287a4174a9feba0471aafbf3c82e67
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VGAlyJ7e0IQ/default.jpg'
-  - uid: ccecfb5f61222eeb226f7ac28d5a85dd
-    parent_uid: c0287a4174a9feba0471aafbf3c82e67
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VGAlyJ7e0IQ
-  - uid: 10274279807dafb80e304c1e1ba9da74
-    parent_uid: c0287a4174a9feba0471aafbf3c82e67
-    id: VGAlyJ7e0IQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-14-video/VGAlyJ7e0IQ.srt
-  - uid: 737302431414d911487ba6f94ea882c5
-    parent_uid: c0287a4174a9feba0471aafbf3c82e67
-    id: VGAlyJ7e0IQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-14-video/VGAlyJ7e0IQ.pdf
-  - uid: 810296a340e6d4abe8b40eed9c2c08f9
-    parent_uid: c0287a4174a9feba0471aafbf3c82e67
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 23b466ef1bf3756b8969e66a3b7650df
-    parent_uid: c0287a4174a9feba0471aafbf3c82e67
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b404472e9e4d9d1bb0f8e4a898b95a8c
-    parent_uid: c0287a4174a9feba0471aafbf3c82e67
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec14_300k.mp4'
+uid: c0287a4174a9feba0471aafbf3c82e67
 type: courses
 layout: video
 ---

@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 8: Hashing with Chaining'
-uid: 7eee5a3e15d709b9e817dd1773352056
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-8-hashing-with-chaining
-short_url: lecture-8-hashing-with-chaining
-inline_embed_id: '49460327lecture8:hashingwithchaining50456703'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture starts with dictionaries in
   Python, considers the problems with using a direct-access table, and
   introduces hashing. The lecture discusses hashing with chaining, which is one
   way of dealing with collisions.</p> <p><strong>Instructor:</strong> Erik
   Demaine</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0M_kIqhwbFo
+    parent_uid: 7eee5a3e15d709b9e817dd1773352056
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 47ba535c062888dcb1b67fa3cb9d46f1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0M_kIqhwbFo/default.jpg'
+    parent_uid: 7eee5a3e15d709b9e817dd1773352056
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 343b98be4b7fb0b82bafd40d9982542c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-8-hashing-chaining/id585700718?i=126127729
+    parent_uid: 7eee5a3e15d709b9e817dd1773352056
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2fd0d35984da2e6f33d5b0c3ea2bdd4f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec08_300k.mp4'
+    parent_uid: 7eee5a3e15d709b9e817dd1773352056
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b4bfe97e66346549fea741e67dc8ce0c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0M_kIqhwbFo
+    parent_uid: 7eee5a3e15d709b9e817dd1773352056
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 21cb064dfe7ad06e8b9eb2fb2c53754c
+  - id: 0M_kIqhwbFo.srt
+    parent_uid: 7eee5a3e15d709b9e817dd1773352056
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-8-hashing-with-chaining/0M_kIqhwbFo.srt
+    title: 3play caption file
+    type: null
+    uid: 224d95e69d1b99366a683f6fd222d0f3
+  - id: 0M_kIqhwbFo.pdf
+    parent_uid: 7eee5a3e15d709b9e817dd1773352056
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-8-hashing-with-chaining/0M_kIqhwbFo.pdf
+    title: 3play pdf file
+    type: null
+    uid: d70981f6772f565f0919bb1a31b57142
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7eee5a3e15d709b9e817dd1773352056
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 14806ae8e0a11dd888c7deb0ade909d7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7eee5a3e15d709b9e817dd1773352056
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 774bfdf04635f9101182cdc07be27001
+inline_embed_id: '49460327lecture8:hashingwithchaining50456703'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-8-hashing-with-chaining
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-8-hashing-with-chaining
+title: 'Lecture 8: Hashing with Chaining'
 transcript: >-
   <p><span m='50'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -3215,62 +3270,7 @@ transcript: >-
   m='3072870'>other</span> <span m='3073000'>ways</span> <span
   m='3073200'>do</span> <span m='3073310'>hashing</span> <span
   m='3073710'>next</span> <span m='3073940'>class.</span> </p>
-embedded_media:
-  - uid: 47ba535c062888dcb1b67fa3cb9d46f1
-    parent_uid: 7eee5a3e15d709b9e817dd1773352056
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0M_kIqhwbFo
-  - uid: 343b98be4b7fb0b82bafd40d9982542c
-    parent_uid: 7eee5a3e15d709b9e817dd1773352056
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0M_kIqhwbFo/default.jpg'
-  - uid: 2fd0d35984da2e6f33d5b0c3ea2bdd4f
-    parent_uid: 7eee5a3e15d709b9e817dd1773352056
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-8-hashing-chaining/id585700718?i=126127729
-  - uid: b4bfe97e66346549fea741e67dc8ce0c
-    parent_uid: 7eee5a3e15d709b9e817dd1773352056
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec08_300k.mp4'
-  - uid: 21cb064dfe7ad06e8b9eb2fb2c53754c
-    parent_uid: 7eee5a3e15d709b9e817dd1773352056
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0M_kIqhwbFo
-  - uid: 224d95e69d1b99366a683f6fd222d0f3
-    parent_uid: 7eee5a3e15d709b9e817dd1773352056
-    id: 0M_kIqhwbFo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-8-hashing-with-chaining/0M_kIqhwbFo.srt
-  - uid: d70981f6772f565f0919bb1a31b57142
-    parent_uid: 7eee5a3e15d709b9e817dd1773352056
-    id: 0M_kIqhwbFo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-8-hashing-with-chaining/0M_kIqhwbFo.pdf
-  - uid: 14806ae8e0a11dd888c7deb0ade909d7
-    parent_uid: 7eee5a3e15d709b9e817dd1773352056
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 774bfdf04635f9101182cdc07be27001
-    parent_uid: 7eee5a3e15d709b9e817dd1773352056
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7eee5a3e15d709b9e817dd1773352056
 type: courses
 layout: video
 ---

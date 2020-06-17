@@ -1,13 +1,67 @@
 ---
-title: 'Lecture: Elimination with Matrices'
-uid: 7b6181f494ae16e84a42295992694b23
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: QVKj3LADCnA
+    parent_uid: 7b6181f494ae16e84a42295992694b23
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 11dd267108556d2c9c88e26f7c29ef17
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QVKj3LADCnA/default.jpg'
+    parent_uid: 7b6181f494ae16e84a42295992694b23
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 98c2ae08d37eab61f5ceb892e9aee6b4
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 7b6181f494ae16e84a42295992694b23
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 43c2e6d6550077bf83e0705cf5b1cf49
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/02.mp4'
+    parent_uid: 7b6181f494ae16e84a42295992694b23
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 69357a23040e872580f65709da4ed92c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: QVKj3LADCnA
+    parent_uid: 7b6181f494ae16e84a42295992694b23
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b5e70dc7f36d385e879625a763b9003d
+  - id: QVKj3LADCnA.srt
+    parent_uid: 7b6181f494ae16e84a42295992694b23
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/elimination-with-matrices/QVKj3LADCnA.srt
+    title: 3play caption file
+    type: null
+    uid: 2aec6a8502754a265505a398d7f81976
+  - id: QVKj3LADCnA.pdf
+    parent_uid: 7b6181f494ae16e84a42295992694b23
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/elimination-with-matrices/QVKj3LADCnA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 454334e7d4fcc0b38df4085e9b7e83e3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7b6181f494ae16e84a42295992694b23
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3ee1b8c86206843f0c8c3091b9989053
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7b6181f494ae16e84a42295992694b23
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f2884341685e35862aba9a4abd1503bb
+inline_embed_id: 72056776lectureeliminationwithmatrices63294710
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: elimination-with-matrices
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/elimination-with-matrices
-short_url: elimination-with-matrices
-inline_embed_id: 72056776lectureeliminationwithmatrices63294710
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture: Elimination with Matrices'
 transcript: >-
   <p><span m="0">2</span> <span m="9640">times</span> <span
   m="10650">this</span> <span m="11350">equation,</span> <span
@@ -2694,61 +2748,7 @@ transcript: >-
   m="2840060">Monday.</span></p><p><span m="2840660">So,</span> <span
   m="2841140">see</span> <span m="2841380">you</span> <span
   m="2841500">Monday.</span></p>
-embedded_media:
-  - uid: 11dd267108556d2c9c88e26f7c29ef17
-    parent_uid: 7b6181f494ae16e84a42295992694b23
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QVKj3LADCnA
-  - uid: 98c2ae08d37eab61f5ceb892e9aee6b4
-    parent_uid: 7b6181f494ae16e84a42295992694b23
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QVKj3LADCnA/default.jpg'
-  - uid: 43c2e6d6550077bf83e0705cf5b1cf49
-    parent_uid: 7b6181f494ae16e84a42295992694b23
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 69357a23040e872580f65709da4ed92c
-    parent_uid: 7b6181f494ae16e84a42295992694b23
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/02.mp4'
-  - uid: b5e70dc7f36d385e879625a763b9003d
-    parent_uid: 7b6181f494ae16e84a42295992694b23
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QVKj3LADCnA
-  - uid: 2aec6a8502754a265505a398d7f81976
-    parent_uid: 7b6181f494ae16e84a42295992694b23
-    id: QVKj3LADCnA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/elimination-with-matrices/QVKj3LADCnA.srt
-  - uid: 454334e7d4fcc0b38df4085e9b7e83e3
-    parent_uid: 7b6181f494ae16e84a42295992694b23
-    id: QVKj3LADCnA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/elimination-with-matrices/QVKj3LADCnA.pdf
-  - uid: 3ee1b8c86206843f0c8c3091b9989053
-    parent_uid: 7b6181f494ae16e84a42295992694b23
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f2884341685e35862aba9a4abd1503bb
-    parent_uid: 7b6181f494ae16e84a42295992694b23
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7b6181f494ae16e84a42295992694b23
 type: courses
 layout: video
 ---

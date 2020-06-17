@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 21: Eigenvalues and Eigenvectors'
-uid: fec5dff8f78667ba0f9ee801f434d996
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: cdZnhQjJu4I
+    parent_uid: fec5dff8f78667ba0f9ee801f434d996
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ff46d778469392fb0af4bf7917592e61
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: fec5dff8f78667ba0f9ee801f434d996
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7f4ab26ee555304fc06aa7e8db89b116
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/21.mp4'
+    parent_uid: fec5dff8f78667ba0f9ee801f434d996
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 73590d4ebec1bfa2dc1e62136471b611
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: cdZnhQjJu4I
+    parent_uid: fec5dff8f78667ba0f9ee801f434d996
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8e453ffda87f90838c5f818e3bc6edb8
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/cdZnhQjJu4I/default.jpg'
+    parent_uid: fec5dff8f78667ba0f9ee801f434d996
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 50a32e4367243a4ba4edb95059d0c29a
+  - id: cdZnhQjJu4I.srt
+    parent_uid: fec5dff8f78667ba0f9ee801f434d996
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/lecture-21-eigenvalues-and-eigenvectors/cdZnhQjJu4I.srt
+    title: 3play caption file
+    type: null
+    uid: f58143abab979b9033349b9d8dab5c5f
+  - id: cdZnhQjJu4I.pdf
+    parent_uid: fec5dff8f78667ba0f9ee801f434d996
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/lecture-21-eigenvalues-and-eigenvectors/cdZnhQjJu4I.pdf
+    title: 3play pdf file
+    type: null
+    uid: e55ee86450e5eeff8c331750e8d46448
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: fec5dff8f78667ba0f9ee801f434d996
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6d3b0218ca0e6c303598c4bfadff4980
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: fec5dff8f78667ba0f9ee801f434d996
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f6e359c5e8c877f54249f111f0096331
+inline_embed_id: '13350392lecture21:eigenvaluesandeigenvectors53807290'
 parent_uid: 3d8f60a80fef5e0fbd7a13ad5eb457f7
+related_resources_text: ''
+short_url: lecture-21-eigenvalues-and-eigenvectors
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/lecture-21-eigenvalues-and-eigenvectors
-short_url: lecture-21-eigenvalues-and-eigenvectors
-inline_embed_id: '13350392lecture21:eigenvaluesandeigenvectors53807290'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 21: Eigenvalues and Eigenvectors'
 transcript: >-
   <p><span m='7380'>OK.</span> <span m='8230'>So</span> <span
   m='8680'>this</span> <span m='8880'>is</span> <span m='9710'>the</span> <span
@@ -2822,61 +2876,7 @@ transcript: >-
   m='3076640'>A</span> <span m='3077710'>real</span> <span
   m='3078790'>New</span> <span m='3079860'>England</span> <span
   m='3080930'>weekend.</span> </p>
-embedded_media:
-  - uid: ff46d778469392fb0af4bf7917592e61
-    parent_uid: fec5dff8f78667ba0f9ee801f434d996
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: cdZnhQjJu4I
-  - uid: 7f4ab26ee555304fc06aa7e8db89b116
-    parent_uid: fec5dff8f78667ba0f9ee801f434d996
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 73590d4ebec1bfa2dc1e62136471b611
-    parent_uid: fec5dff8f78667ba0f9ee801f434d996
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/21.mp4'
-  - uid: 8e453ffda87f90838c5f818e3bc6edb8
-    parent_uid: fec5dff8f78667ba0f9ee801f434d996
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: cdZnhQjJu4I
-  - uid: 50a32e4367243a4ba4edb95059d0c29a
-    parent_uid: fec5dff8f78667ba0f9ee801f434d996
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/cdZnhQjJu4I/default.jpg'
-  - uid: f58143abab979b9033349b9d8dab5c5f
-    parent_uid: fec5dff8f78667ba0f9ee801f434d996
-    id: cdZnhQjJu4I.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/lecture-21-eigenvalues-and-eigenvectors/cdZnhQjJu4I.srt
-  - uid: e55ee86450e5eeff8c331750e8d46448
-    parent_uid: fec5dff8f78667ba0f9ee801f434d996
-    id: cdZnhQjJu4I.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/lecture-21-eigenvalues-and-eigenvectors/cdZnhQjJu4I.pdf
-  - uid: 6d3b0218ca0e6c303598c4bfadff4980
-    parent_uid: fec5dff8f78667ba0f9ee801f434d996
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f6e359c5e8c877f54249f111f0096331
-    parent_uid: fec5dff8f78667ba0f9ee801f434d996
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: fec5dff8f78667ba0f9ee801f434d996
 type: courses
 layout: video
 ---

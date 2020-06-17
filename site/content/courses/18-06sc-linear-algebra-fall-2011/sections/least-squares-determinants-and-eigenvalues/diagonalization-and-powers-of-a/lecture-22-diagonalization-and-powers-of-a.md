@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 22: Diagonalization and Powers of A'
-uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 13r9QY6cmjc
+    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: be948a8ddfeb997a414a50973492b435
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/13r9QY6cmjc/default.jpg'
+    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2da037198ae2f92f5a80279462d66c5e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 87dc7b7b8f87dff1ec6f742a2f5ce0d3
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/22.mp4'
+    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8a9df75c47e69eeee4d209a4350018a6
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 13r9QY6cmjc
+    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e2eab3f4ecf5329b3665e99b4385de05
+  - id: 13r9QY6cmjc.srt
+    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/lecture-22-diagonalization-and-powers-of-a/13r9QY6cmjc.srt
+    title: 3play caption file
+    type: null
+    uid: 6af7a00b6851cbcf891dd4aa24bdba94
+  - id: 13r9QY6cmjc.pdf
+    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/lecture-22-diagonalization-and-powers-of-a/13r9QY6cmjc.pdf
+    title: 3play pdf file
+    type: null
+    uid: d404622e0a39f004d40ef4bea4c52929
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3489fac390a4f3066803870e351ad570
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5f3a1c2970e3099cb6a1fbc00818de87
+inline_embed_id: '78473552lecture22:diagonalizationandpowersofa55536407'
 parent_uid: dcb9a660b4e1e1d4837bad83344a716e
+related_resources_text: ''
+short_url: lecture-22-diagonalization-and-powers-of-a
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/lecture-22-diagonalization-and-powers-of-a
-short_url: lecture-22-diagonalization-and-powers-of-a
-inline_embed_id: '78473552lecture22:diagonalizationandpowersofa55536407'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 22: Diagonalization and Powers of A'
 transcript: >-
   <p><span m='10810'>OK.</span> <span m='11010'>Shall</span> <span
   m='11080'>we</span> <span m='11180'>start?</span> <span m='11380'>This</span>
@@ -2926,61 +2980,7 @@ transcript: >-
   m='3104490'>will</span> <span m='3105590'>be</span> <span
   m='3106690'>differential</span> <span m='3107800'>equations.</span>
   </p><p><span m='3108900'>Thanks.</span> </p>
-embedded_media:
-  - uid: be948a8ddfeb997a414a50973492b435
-    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 13r9QY6cmjc
-  - uid: 2da037198ae2f92f5a80279462d66c5e
-    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/13r9QY6cmjc/default.jpg'
-  - uid: 87dc7b7b8f87dff1ec6f742a2f5ce0d3
-    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 8a9df75c47e69eeee4d209a4350018a6
-    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/22.mp4'
-  - uid: e2eab3f4ecf5329b3665e99b4385de05
-    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 13r9QY6cmjc
-  - uid: 6af7a00b6851cbcf891dd4aa24bdba94
-    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
-    id: 13r9QY6cmjc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/lecture-22-diagonalization-and-powers-of-a/13r9QY6cmjc.srt
-  - uid: d404622e0a39f004d40ef4bea4c52929
-    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
-    id: 13r9QY6cmjc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/lecture-22-diagonalization-and-powers-of-a/13r9QY6cmjc.pdf
-  - uid: 3489fac390a4f3066803870e351ad570
-    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5f3a1c2970e3099cb6a1fbc00818de87
-    parent_uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 8c6b1d8e1f8fc4fc78a54ed63c2aa1d3
 type: courses
 layout: video
 ---

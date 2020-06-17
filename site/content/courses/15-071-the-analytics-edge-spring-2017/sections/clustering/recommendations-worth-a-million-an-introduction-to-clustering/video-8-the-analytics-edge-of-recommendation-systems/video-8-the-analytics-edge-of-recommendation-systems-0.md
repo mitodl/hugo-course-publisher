@@ -1,13 +1,62 @@
 ---
-title: 'Video 8: The Analytics Edge of Recommendation Systems'
-uid: cf64e584327667aadaf2c2990defe523
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: sJalJ1A9NDg
+    parent_uid: cf64e584327667aadaf2c2990defe523
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b2b2ae424626e5f5a770467e1a793140
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: sJalJ1A9NDg
+    parent_uid: cf64e584327667aadaf2c2990defe523
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b3bc0b9bb3aa5577b9bebda7ba85e541
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/sJalJ1A9NDg/default.jpg'
+    parent_uid: cf64e584327667aadaf2c2990defe523
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3b6bf17faae3eeb00ae2fb8fa95b4b22
+  - id: sJalJ1A9NDg.srt
+    parent_uid: cf64e584327667aadaf2c2990defe523
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-8-the-analytics-edge-of-recommendation-systems/video-8-the-analytics-edge-of-recommendation-systems-0/sJalJ1A9NDg.srt
+    title: 3play caption file
+    type: null
+    uid: 275f503a4e9a5938d82b2392eccc848f
+  - id: sJalJ1A9NDg.pdf
+    parent_uid: cf64e584327667aadaf2c2990defe523
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-8-the-analytics-edge-of-recommendation-systems/video-8-the-analytics-edge-of-recommendation-systems-0/sJalJ1A9NDg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8b8c8c3a7eb8764bfa0a3586da6fb7da
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cf64e584327667aadaf2c2990defe523
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 905ec65a5c4ed826cc886d5a305ae149
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cf64e584327667aadaf2c2990defe523
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a886176d132355793eeecdee65fbce14
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.2.15_300k.mp4
+    parent_uid: cf64e584327667aadaf2c2990defe523
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d319908825b6634b86273e1670e939b1
+inline_embed_id: 78148057video8theanalyticsedgeofrecommendationsystems68737656
 parent_uid: 9e0e5a2571bbafdaded101bdcdce7158
+related_resources_text: ''
+short_url: video-8-the-analytics-edge-of-recommendation-systems-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-8-the-analytics-edge-of-recommendation-systems/video-8-the-analytics-edge-of-recommendation-systems-0
-short_url: video-8-the-analytics-edge-of-recommendation-systems-0
-inline_embed_id: 78148057video8theanalyticsedgeofrecommendationsystems68737656
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 8: The Analytics Edge of Recommendation Systems'
 transcript: >-
   <p><span m='9580'>Recommendation</span> <span m='10042'>systems</span> <span
   m='10505'>are</span> <span m='10967'>used</span> <span m='11430'>in</span>
@@ -192,56 +241,7 @@ transcript: >-
   m='194807'>the</span> <span m='195225'>predictive</span> <span
   m='195642'>ability</span> <span m='196060'>of</span> <span
   m='196923'>classification</span> <span m='197786'>methods.</span> </p>
-embedded_media:
-  - uid: b2b2ae424626e5f5a770467e1a793140
-    parent_uid: cf64e584327667aadaf2c2990defe523
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: sJalJ1A9NDg
-  - uid: b3bc0b9bb3aa5577b9bebda7ba85e541
-    parent_uid: cf64e584327667aadaf2c2990defe523
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: sJalJ1A9NDg
-  - uid: 3b6bf17faae3eeb00ae2fb8fa95b4b22
-    parent_uid: cf64e584327667aadaf2c2990defe523
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/sJalJ1A9NDg/default.jpg'
-  - uid: 275f503a4e9a5938d82b2392eccc848f
-    parent_uid: cf64e584327667aadaf2c2990defe523
-    id: sJalJ1A9NDg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-8-the-analytics-edge-of-recommendation-systems/video-8-the-analytics-edge-of-recommendation-systems-0/sJalJ1A9NDg.srt
-  - uid: 8b8c8c3a7eb8764bfa0a3586da6fb7da
-    parent_uid: cf64e584327667aadaf2c2990defe523
-    id: sJalJ1A9NDg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-8-the-analytics-edge-of-recommendation-systems/video-8-the-analytics-edge-of-recommendation-systems-0/sJalJ1A9NDg.pdf
-  - uid: 905ec65a5c4ed826cc886d5a305ae149
-    parent_uid: cf64e584327667aadaf2c2990defe523
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a886176d132355793eeecdee65fbce14
-    parent_uid: cf64e584327667aadaf2c2990defe523
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d319908825b6634b86273e1670e939b1
-    parent_uid: cf64e584327667aadaf2c2990defe523
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.2.15_300k.mp4
+uid: cf64e584327667aadaf2c2990defe523
 type: courses
 layout: video
 ---

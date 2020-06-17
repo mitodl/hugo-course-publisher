@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: The Story of D2Hawkeye'
-uid: 594ee19b332f6b1a7f2df85bdf2638c5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: D-9R7zfUTWw
+    parent_uid: 594ee19b332f6b1a7f2df85bdf2638c5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e3bbe4a53aa747d9ebfdf9be0d462cdd
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: D-9R7zfUTWw
+    parent_uid: 594ee19b332f6b1a7f2df85bdf2638c5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0d8f899032ab501770525cbe664f468f
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/D-9R7zfUTWw/default.jpg'
+    parent_uid: 594ee19b332f6b1a7f2df85bdf2638c5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 946f68a11e046cb2c3b3fe41355c91f4
+  - id: D-9R7zfUTWw.srt
+    parent_uid: 594ee19b332f6b1a7f2df85bdf2638c5
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-1-the-story-of-d2hawkeye-0/D-9R7zfUTWw.srt
+    title: 3play caption file
+    type: null
+    uid: f9d8137ae0a27be0413d80bc516f9080
+  - id: D-9R7zfUTWw.pdf
+    parent_uid: 594ee19b332f6b1a7f2df85bdf2638c5
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-1-the-story-of-d2hawkeye-0/D-9R7zfUTWw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 934aa17f83cb7f96495cdfc09136d1e4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 594ee19b332f6b1a7f2df85bdf2638c5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0fc6cff0c97827ac68d1dc51945c91e1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 594ee19b332f6b1a7f2df85bdf2638c5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4f2e9c98dc2093388aadc0c3232341a7
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.3.01_300k.mp4
+    parent_uid: 594ee19b332f6b1a7f2df85bdf2638c5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 19375fe3f58a7665c1d905bf081e41ff
+inline_embed_id: 6930032video1thestoryofd2hawkeye35264141
 parent_uid: 52a221ddc01190a445b1a393b15cb810
+related_resources_text: ''
+short_url: video-1-the-story-of-d2hawkeye-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-1-the-story-of-d2hawkeye-0
-short_url: video-1-the-story-of-d2hawkeye-0
-inline_embed_id: 6930032video1thestoryofd2hawkeye35264141
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: The Story of D2Hawkeye'
 transcript: >-
   <p><span m='9490'>This</span> <span m='9848'>is</span> <span
   m='10206'>a</span> <span m='10564'>story</span> <span m='10922'>of</span>
@@ -181,56 +230,7 @@ transcript: >-
   m='231535'>lecture</span> <span m='231840'>is</span> <span
   m='232243'>"Can</span> <span m='232646'>we</span> <span m='233050'>use</span>
   <span m='233453'>analytics</span> <span m='233856'>instead?"</span> </p>
-embedded_media:
-  - uid: e3bbe4a53aa747d9ebfdf9be0d462cdd
-    parent_uid: 594ee19b332f6b1a7f2df85bdf2638c5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: D-9R7zfUTWw
-  - uid: 0d8f899032ab501770525cbe664f468f
-    parent_uid: 594ee19b332f6b1a7f2df85bdf2638c5
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: D-9R7zfUTWw
-  - uid: 946f68a11e046cb2c3b3fe41355c91f4
-    parent_uid: 594ee19b332f6b1a7f2df85bdf2638c5
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/D-9R7zfUTWw/default.jpg'
-  - uid: f9d8137ae0a27be0413d80bc516f9080
-    parent_uid: 594ee19b332f6b1a7f2df85bdf2638c5
-    id: D-9R7zfUTWw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-1-the-story-of-d2hawkeye-0/D-9R7zfUTWw.srt
-  - uid: 934aa17f83cb7f96495cdfc09136d1e4
-    parent_uid: 594ee19b332f6b1a7f2df85bdf2638c5
-    id: D-9R7zfUTWw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-1-the-story-of-d2hawkeye-0/D-9R7zfUTWw.pdf
-  - uid: 0fc6cff0c97827ac68d1dc51945c91e1
-    parent_uid: 594ee19b332f6b1a7f2df85bdf2638c5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4f2e9c98dc2093388aadc0c3232341a7
-    parent_uid: 594ee19b332f6b1a7f2df85bdf2638c5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 19375fe3f58a7665c1d905bf081e41ff
-    parent_uid: 594ee19b332f6b1a7f2df85bdf2638c5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.3.01_300k.mp4
+uid: 594ee19b332f6b1a7f2df85bdf2638c5
 type: courses
 layout: video
 ---

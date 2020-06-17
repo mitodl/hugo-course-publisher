@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 6: AVL Trees, AVL Sort'
-uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-6-avl-trees-avl-sort
-short_url: lecture-6-avl-trees-avl-sort
-inline_embed_id: '87169865lecture6:avltrees,avlsort48833804'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture covers AVL trees, including how
   to insert elements and rebalance the tree, and then discusses the difference
   between abstract data types and data structures.</p>
   <p><strong>Instructor:</strong> Erik Demaine</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: FNeL18KsWPc
+    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 068767809a9bd3fca2b7c9cd2717e433
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FNeL18KsWPc/default.jpg'
+    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9758703e71426559d4b62e83550b1f53
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-6-avl-trees-avl-sort/id585700718?i=126127751
+    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 52befa41d8f3ab1eae0e9de067f49af2
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec06_300k.mp4'
+    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5bc8b37300a6d2461d2c46fb54a9fae1
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: FNeL18KsWPc
+    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8491dd8d8cba737868bb39a9556a69b7
+  - id: FNeL18KsWPc.srt
+    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-6-avl-trees-avl-sort/FNeL18KsWPc.srt
+    title: 3play caption file
+    type: null
+    uid: 6e9fdfa3e0fb585ecc9138c860b7189b
+  - id: FNeL18KsWPc.pdf
+    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-6-avl-trees-avl-sort/FNeL18KsWPc.pdf
+    title: 3play pdf file
+    type: null
+    uid: c1bb118f7b07d4e7cd684505708d3808
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6788999ea3cb8e5505acc1e94b878bfa
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e3918c118cb2ec643ae62079bdc93892
+inline_embed_id: '87169865lecture6:avltrees,avlsort48833804'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-6-avl-trees-avl-sort
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-6-avl-trees-avl-sort
+title: 'Lecture 6: AVL Trees, AVL Sort'
 transcript: >-
   <p><span m='80'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -3180,62 +3235,7 @@ transcript: >-
   m='3114570'>log</span> <span m='3114650'>n.</span> <span
   m='3116680'>And</span> <span m='3117220'>I'll</span> <span
   m='3117690'>stop</span> <span m='3117940'>there.</span> </p>
-embedded_media:
-  - uid: 068767809a9bd3fca2b7c9cd2717e433
-    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FNeL18KsWPc
-  - uid: 9758703e71426559d4b62e83550b1f53
-    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FNeL18KsWPc/default.jpg'
-  - uid: 52befa41d8f3ab1eae0e9de067f49af2
-    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-6-avl-trees-avl-sort/id585700718?i=126127751
-  - uid: 5bc8b37300a6d2461d2c46fb54a9fae1
-    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec06_300k.mp4'
-  - uid: 8491dd8d8cba737868bb39a9556a69b7
-    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FNeL18KsWPc
-  - uid: 6e9fdfa3e0fb585ecc9138c860b7189b
-    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
-    id: FNeL18KsWPc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-6-avl-trees-avl-sort/FNeL18KsWPc.srt
-  - uid: c1bb118f7b07d4e7cd684505708d3808
-    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
-    id: FNeL18KsWPc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-6-avl-trees-avl-sort/FNeL18KsWPc.pdf
-  - uid: 6788999ea3cb8e5505acc1e94b878bfa
-    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e3918c118cb2ec643ae62079bdc93892
-    parent_uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
 type: courses
 layout: video
 ---

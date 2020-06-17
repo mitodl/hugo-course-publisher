@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Powers of a Matrix'
-uid: 0ca07bc0f2637a1f75121e1427de5513
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 5IGTFgPqlkw
+    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9f7b64c3fe19516efb58b917714f469c
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: 5IGTFgPqlkw
+    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1d8ded25811a5ef3bf97b5338f53e377
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/powers-of-a-matrix/id488155309?i=108454330
+    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bfbccc4f03889a699196600fde7fee7c
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110531_B2_300k.mp4
+    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4c8cfc0e8a3a4aef7d4bb0dcee9ffb78
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/5IGTFgPqlkw/default.jpg'
+    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cbf7b0b9da9b997866ea64fe003d75ef
+  - id: 5IGTFgPqlkw.srt
+    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-powers-of-a-matrix/5IGTFgPqlkw.srt
+    title: 3play caption file
+    type: null
+    uid: 1b8a2dfc8219edb9b163c699f3d0d27a
+  - id: 5IGTFgPqlkw.pdf
+    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-powers-of-a-matrix/5IGTFgPqlkw.pdf
+    title: 3play pdf file
+    type: null
+    uid: a1896ecfb760056166628ff87dd25156
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 703177323b7268fd64049b512e2ceb32
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 06db3fddf78e7352bbdd73c32418dcbe
+inline_embed_id: 75499268problemsolvingpowersofamatrix75090879
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: problem-solving-powers-of-a-matrix
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-powers-of-a-matrix
-short_url: problem-solving-powers-of-a-matrix
-inline_embed_id: 75499268problemsolvingpowersofamatrix75090879
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Powers of a Matrix'
 transcript: >-
   <p><span m='8320'>PROFESSOR: Hi,</span> <span m='8770'>and</span> <span
   m='9040'>welcome.</span> <span m='10260'>Today,</span> <span
@@ -416,63 +472,7 @@ transcript: >-
   m='543910'>powers</span> <span m='544390'>of</span> <span
   m='544530'>the</span> <span m='544600'>diagonal</span> <span
   m='545080'>matrix.</span> </p>
-embedded_media:
-  - uid: 9f7b64c3fe19516efb58b917714f469c
-    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 5IGTFgPqlkw
-  - uid: 1d8ded25811a5ef3bf97b5338f53e377
-    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 5IGTFgPqlkw
-  - uid: bfbccc4f03889a699196600fde7fee7c
-    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/powers-of-a-matrix/id488155309?i=108454330
-  - uid: 4c8cfc0e8a3a4aef7d4bb0dcee9ffb78
-    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110531_B2_300k.mp4
-  - uid: cbf7b0b9da9b997866ea64fe003d75ef
-    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/5IGTFgPqlkw/default.jpg'
-  - uid: 1b8a2dfc8219edb9b163c699f3d0d27a
-    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
-    id: 5IGTFgPqlkw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-powers-of-a-matrix/5IGTFgPqlkw.srt
-  - uid: a1896ecfb760056166628ff87dd25156
-    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
-    id: 5IGTFgPqlkw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-powers-of-a-matrix/5IGTFgPqlkw.pdf
-  - uid: 703177323b7268fd64049b512e2ceb32
-    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 06db3fddf78e7352bbdd73c32418dcbe
-    parent_uid: 0ca07bc0f2637a1f75121e1427de5513
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 0ca07bc0f2637a1f75121e1427de5513
 type: courses
 layout: video
 ---

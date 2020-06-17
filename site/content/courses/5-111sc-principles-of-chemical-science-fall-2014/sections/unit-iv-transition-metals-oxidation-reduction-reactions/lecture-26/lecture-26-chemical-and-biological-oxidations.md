@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 26: Chemical and Biological Oxidations'
-uid: f19c0c30bba3ecd0e09fa752c8e7fe13
-parent_uid: 177e7d2c285d8b804e37ccce474cee78
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26/lecture-26-chemical-and-biological-oxidations
-short_url: lecture-26-chemical-and-biological-oxidations
-inline_embed_id: 20481874lecture26chemicalandbiologicaloxidations13342553
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: Viewers are introduced to agents of oxidation and
@@ -14,7 +7,68 @@ about_this_resource_text: >-
   oxidation-reduction. Oxidizing agents can protect us from disease but can also
   damage our genetic material. Friend or foe, you decide.</p>
   <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: f6Z99Gu6XEE
+    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 476aff9596e0bc3a2ec160038384fb8e
+  - id: f6Z99Gu6XEE.srt
+    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26/lecture-26-chemical-and-biological-oxidations/f6Z99Gu6XEE.srt
+    title: 3play caption file
+    type: null
+    uid: 6fdb35f1372993c93c0ce900485c9c21
+  - id: f6Z99Gu6XEE.pdf
+    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26/lecture-26-chemical-and-biological-oxidations/f6Z99Gu6XEE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4716a5af11f887229c4147cb9df4ad4d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 35b7447e28d035c6795a47fc84e593b0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 410124614c56ff8a5b93db7b58c88e48
+  - id: Video-YouTube-Stream
+    media_location: f6Z99Gu6XEE
+    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 70759c99cd737a81cba910027a4783d6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/f6Z99Gu6XEE/default.jpg'
+    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 05654acd00db7f4992fd9bab61a301ab
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 36d009507a8d5d2c44a235a4bf3287a7
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L26_300k.mp4'
+    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4130ec4a0fc6427efa173556b7009ffb
+inline_embed_id: 20481874lecture26chemicalandbiologicaloxidations13342553
+parent_uid: 177e7d2c285d8b804e37ccce474cee78
 related_resources_text: ''
+short_url: lecture-26-chemical-and-biological-oxidations
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26/lecture-26-chemical-and-biological-oxidations
+title: 'Lecture 26: Chemical and Biological Oxidations'
 transcript: >-
   <p><span m='90'>The</span> <span m='180'>following</span> <span
   m='630'>content</span> <span m='1110'>is</span> <span m='1230'>provided</span>
@@ -2749,61 +2803,7 @@ transcript: >-
   m='2618200'>and</span> <span m='2618320'>all</span> <span
   m='2618470'>sorts</span> <span m='2618770'>of</span> <span
   m='2618860'>things.</span> </p>
-embedded_media:
-  - uid: 476aff9596e0bc3a2ec160038384fb8e
-    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: f6Z99Gu6XEE
-  - uid: 6fdb35f1372993c93c0ce900485c9c21
-    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
-    id: f6Z99Gu6XEE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26/lecture-26-chemical-and-biological-oxidations/f6Z99Gu6XEE.srt
-  - uid: 4716a5af11f887229c4147cb9df4ad4d
-    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
-    id: f6Z99Gu6XEE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26/lecture-26-chemical-and-biological-oxidations/f6Z99Gu6XEE.pdf
-  - uid: 35b7447e28d035c6795a47fc84e593b0
-    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 410124614c56ff8a5b93db7b58c88e48
-    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 70759c99cd737a81cba910027a4783d6
-    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: f6Z99Gu6XEE
-  - uid: 05654acd00db7f4992fd9bab61a301ab
-    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/f6Z99Gu6XEE/default.jpg'
-  - uid: 36d009507a8d5d2c44a235a4bf3287a7
-    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 4130ec4a0fc6427efa173556b7009ffb
-    parent_uid: f19c0c30bba3ecd0e09fa752c8e7fe13
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L26_300k.mp4'
+uid: f19c0c30bba3ecd0e09fa752c8e7fe13
 type: courses
 layout: video
 ---

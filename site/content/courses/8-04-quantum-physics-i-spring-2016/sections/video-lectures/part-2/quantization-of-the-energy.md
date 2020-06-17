@@ -1,13 +1,73 @@
 ---
-title: Quantization of the energy
-uid: 6728d7da72ba0c4b14fa286c88471a37
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Y6Ma-zn4Olk
+    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fba900bbcf069b395da7ae665bef86dc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/d8E0ZWYsGrQ/default.jpg'
+    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: df6b9966438084fc6d67bd3615a86b8d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Y6Ma-zn4Olk
+    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 97ba0041fc9c4175da304bf0cc9b7ce3
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1995401c9db5015d30f94fd79122f424
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec14_s2_300k.mp4'
+    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8d3b9ff1752c0c7ac3634631f9f68703
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/Y6Ma-zn4Olk/default.jpg'
+    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: aad69a2edf1a88722b35338306069069
+  - id: Y6Ma-zn4Olk.srt
+    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/quantization-of-the-energy/Y6Ma-zn4Olk.srt
+    title: 3play caption file
+    type: null
+    uid: cc99fb3415fa2f6f9b8b56042d0fac0e
+  - id: Y6Ma-zn4Olk.pdf
+    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/quantization-of-the-energy/Y6Ma-zn4Olk.pdf
+    title: 3play pdf file
+    type: null
+    uid: b45592d33e84ed46424c748086360352
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f048d325ff2cf116af7e417fa48e65e6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 12353e4427a3c519e889315c7b7661af
+inline_embed_id: 32957312quantizationoftheenergy44069785
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: quantization-of-the-energy
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/quantization-of-the-energy
-short_url: quantization-of-the-energy
-inline_embed_id: 32957312quantizationoftheenergy44069785
-about_this_resource_text: ''
-related_resources_text: ''
+title: Quantization of the energy
 transcript: >-
   <p><span m='250'>PROFESSOR:</span> <span m='395'>We</span> <span
   m='540'>have</span> <span m='870'>to</span> <span m='1050'>ask</span> <span
@@ -1088,67 +1148,7 @@ transcript: >-
   m='1400420'>it</span> <span m='1400960'>just</span> <span
   m='1401230'>goes</span> <span m='1401450'>on</span> <span
   m='1401750'>like</span> <span m='1402050'>that.</span> </p>
-embedded_media:
-  - uid: fba900bbcf069b395da7ae665bef86dc
-    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Y6Ma-zn4Olk
-  - uid: df6b9966438084fc6d67bd3615a86b8d
-    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/d8E0ZWYsGrQ/default.jpg'
-  - uid: 97ba0041fc9c4175da304bf0cc9b7ce3
-    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Y6Ma-zn4Olk
-  - uid: 1995401c9db5015d30f94fd79122f424
-    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 8d3b9ff1752c0c7ac3634631f9f68703
-    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec14_s2_300k.mp4'
-  - uid: aad69a2edf1a88722b35338306069069
-    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Y6Ma-zn4Olk/default.jpg'
-  - uid: cc99fb3415fa2f6f9b8b56042d0fac0e
-    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
-    id: Y6Ma-zn4Olk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/quantization-of-the-energy/Y6Ma-zn4Olk.srt
-  - uid: b45592d33e84ed46424c748086360352
-    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
-    id: Y6Ma-zn4Olk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/quantization-of-the-energy/Y6Ma-zn4Olk.pdf
-  - uid: f048d325ff2cf116af7e417fa48e65e6
-    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 12353e4427a3c519e889315c7b7661af
-    parent_uid: 6728d7da72ba0c4b14fa286c88471a37
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6728d7da72ba0c4b14fa286c88471a37
 type: courses
 layout: video
 ---

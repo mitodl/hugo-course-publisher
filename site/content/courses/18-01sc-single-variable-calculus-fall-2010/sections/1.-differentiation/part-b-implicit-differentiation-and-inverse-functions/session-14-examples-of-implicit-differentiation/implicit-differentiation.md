@@ -1,13 +1,68 @@
 ---
-title: Implicit Differentiation
-uid: 6c084b12593294b8fde120dc2bfd26a1
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: fK6cu99OSEU
+    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: db2404016cef026eaa78e0a94292bfa4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/fK6cu99OSEU/default.jpg'
+    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a7eb2aabde5cc67b4f35f3db669dbcef
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_10_300k.mp4'
+    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1b7a8f97d3d81e06057a5a94cbe79a0b
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/implicit-differentiation/id414308064?i=90318993
+    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 55837ac4e8e1f6069bff43a8608c8043
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: fK6cu99OSEU
+    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 24c440e36366f6a1cd48b864cb7dd09a
+  - id: fK6cu99OSEU.srt
+    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/implicit-differentiation/fK6cu99OSEU.srt
+    title: 3play caption file
+    type: null
+    uid: f408a726e83fb433e0681f5c96b1d0f2
+  - id: fK6cu99OSEU.pdf
+    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/implicit-differentiation/fK6cu99OSEU.pdf
+    title: 3play pdf file
+    type: null
+    uid: d09153f4cdba0d8e5bd7fe8cc14d646c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4aed0ee015260d085f6666c6c7578470
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b4c423b4da9ccc3140bc60b3101c3f52
+inline_embed_id: 51817182implicitdifferentiation29714418
 parent_uid: 331d135eb8244bc35069e7f2d86beb59
+related_resources_text: ''
+short_url: implicit-differentiation
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/implicit-differentiation
-short_url: implicit-differentiation
-inline_embed_id: 51817182implicitdifferentiation29714418
-about_this_resource_text: ''
-related_resources_text: ''
+title: Implicit Differentiation
 transcript: >-
   <p><span m='7250'>PROFESSOR: Hi.</span> <span m='7690'>Welcome</span> <span
   m='8030'>back</span> <span m='8210'>to</span> <span
@@ -512,62 +567,7 @@ transcript: >-
   <span m='490290'>bigger</span> <span m='490490'>than</span> <span
   m='490610'>1.</span> <span m='492150'>Great.</span> <span m='493220'>So</span>
   <span m='493360'>that's</span> <span m='493540'>that.</span> </p>
-embedded_media:
-  - uid: db2404016cef026eaa78e0a94292bfa4
-    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: fK6cu99OSEU
-  - uid: a7eb2aabde5cc67b4f35f3db669dbcef
-    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/fK6cu99OSEU/default.jpg'
-  - uid: 1b7a8f97d3d81e06057a5a94cbe79a0b
-    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_10_300k.mp4'
-  - uid: 55837ac4e8e1f6069bff43a8608c8043
-    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/implicit-differentiation/id414308064?i=90318993
-  - uid: 24c440e36366f6a1cd48b864cb7dd09a
-    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: fK6cu99OSEU
-  - uid: f408a726e83fb433e0681f5c96b1d0f2
-    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
-    id: fK6cu99OSEU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/implicit-differentiation/fK6cu99OSEU.srt
-  - uid: d09153f4cdba0d8e5bd7fe8cc14d646c
-    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
-    id: fK6cu99OSEU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/implicit-differentiation/fK6cu99OSEU.pdf
-  - uid: 4aed0ee015260d085f6666c6c7578470
-    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b4c423b4da9ccc3140bc60b3101c3f52
-    parent_uid: 6c084b12593294b8fde120dc2bfd26a1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6c084b12593294b8fde120dc2bfd26a1
 type: courses
 layout: video
 ---

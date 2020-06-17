@@ -1,13 +1,69 @@
 ---
-title: Problem 2a-b Solution Video
-uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: FWkzErtrlIw
+    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a819686c2d77f0ed7eec18f340a34f97
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FWkzErtrlIw/default.jpg'
+    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3a346142b6b7e1e864954224c600f994
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: FWkzErtrlIw
+    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9b6975c70aba25a9c8389dd32da4d49f
+  - id: FWkzErtrlIw.srt
+    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/problem-set-8/problem-2a-b-solution-video/FWkzErtrlIw.srt
+    title: 3play caption file
+    type: null
+    uid: 5953e44eb9d58340b4a93b60fb4f5c7c
+  - id: FWkzErtrlIw.pdf
+    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/problem-set-8/problem-2a-b-solution-video/FWkzErtrlIw.pdf
+    title: 3play pdf file
+    type: null
+    uid: bf7127eecf00106bb4669f0c4101fe95
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 29955b93a6b24a0d2b0ef8ccc0db8889
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 66b4a46a79a3960b5a21b59b2e52223a
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_problem_8-2_300k.mp4
+    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bf4b19ff03c2fcdc0acee839ad278003
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/problem-set-8-problem-2a-b/id496265654?i=109892743
+    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7008df4b4d4740ee9f5d29a0c541ef64
+inline_embed_id: 31784515problem2absolutionvideo73435374
 parent_uid: 47ca36a0a20ee6659b17161226427ca7
+related_resources_text: ''
+short_url: problem-2a-b-solution-video
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/problem-set-8/problem-2a-b-solution-video
-short_url: problem-2a-b-solution-video
-inline_embed_id: 31784515problem2absolutionvideo73435374
-about_this_resource_text: ''
-related_resources_text: ''
+title: Problem 2a-b Solution Video
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -964,63 +1020,7 @@ transcript: >-
   m='948720'>I</span> <span m='948750'>hope</span> <span m='948940'>you</span>
   <span m='949040'>found</span> <span m='949230'>this</span> <span
   m='949370'>part</span> <span m='949560'>helpful.</span> </p>
-embedded_media:
-  - uid: a819686c2d77f0ed7eec18f340a34f97
-    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FWkzErtrlIw
-  - uid: 3a346142b6b7e1e864954224c600f994
-    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FWkzErtrlIw/default.jpg'
-  - uid: 9b6975c70aba25a9c8389dd32da4d49f
-    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FWkzErtrlIw
-  - uid: 5953e44eb9d58340b4a93b60fb4f5c7c
-    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
-    id: FWkzErtrlIw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/problem-set-8/problem-2a-b-solution-video/FWkzErtrlIw.srt
-  - uid: bf7127eecf00106bb4669f0c4101fe95
-    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
-    id: FWkzErtrlIw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/problem-set-8/problem-2a-b-solution-video/FWkzErtrlIw.pdf
-  - uid: 29955b93a6b24a0d2b0ef8ccc0db8889
-    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 66b4a46a79a3960b5a21b59b2e52223a
-    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: bf4b19ff03c2fcdc0acee839ad278003
-    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_problem_8-2_300k.mp4
-  - uid: 7008df4b4d4740ee9f5d29a0c541ef64
-    parent_uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/problem-set-8-problem-2a-b/id496265654?i=109892743
+uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
 type: courses
 layout: video
 ---

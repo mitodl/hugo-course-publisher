@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Example: f(x)= x2'
-uid: 1665590e2f91c22d8eca5c45365999d7
-parent_uid: 9f42b86cbcb7812f84f2846c3d7ce9f5
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-44-adding-areas-of-rectangles/clip-1-example-f-x-x2
-short_url: clip-1-example-f-x-x2
-inline_embed_id: '55729741clip1:example:f(x)=x264305121'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/3cdcdfc7dedd0c6b31c3d76a3df67841"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 18 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: hjZhPczMkL4
+    parent_uid: 1665590e2f91c22d8eca5c45365999d7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5ce227a07ee2d024ddc5dc4fde41fe9a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/hjZhPczMkL4/default.jpg'
+    parent_uid: 1665590e2f91c22d8eca5c45365999d7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 235c8ba9807ddbc3327ae2e988175ecc
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: hjZhPczMkL4
+    parent_uid: 1665590e2f91c22d8eca5c45365999d7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a901cd5654f4a6ab1a5faeab40220308
+  - id: hjZhPczMkL4.srt
+    parent_uid: 1665590e2f91c22d8eca5c45365999d7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-44-adding-areas-of-rectangles/clip-1-example-f-x-x2/hjZhPczMkL4.srt
+    title: 3play caption file
+    type: null
+    uid: c711c6d65cff48c1f763e3f389a43449
+  - id: hjZhPczMkL4.pdf
+    parent_uid: 1665590e2f91c22d8eca5c45365999d7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-44-adding-areas-of-rectangles/clip-1-example-f-x-x2/hjZhPczMkL4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 282359867b78e8bff22463cfb8a6b875
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1665590e2f91c22d8eca5c45365999d7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c29958710b23f6542297e28ca00ea4ec
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1665590e2f91c22d8eca5c45365999d7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 336182c0c112d7b717d95fef1c71b2bf
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec18_300k.mp4'
+    parent_uid: 1665590e2f91c22d8eca5c45365999d7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 60ba931fe12c9dd3ee01fca45fc479de
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 1665590e2f91c22d8eca5c45365999d7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d08fadb2acd16b92caf0c3dec4315242
+inline_embed_id: '55729741clip1:example:f(x)=x264305121'
+parent_uid: 9f42b86cbcb7812f84f2846c3d7ce9f5
 related_resources_text: ''
+short_url: clip-1-example-f-x-x2
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-44-adding-areas-of-rectangles/clip-1-example-f-x-x2
+title: 'Clip 1: Example: f(x)= x2'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1020'>is</span> <span m='1130'>provided under
@@ -2398,61 +2452,7 @@ transcript: >-
   m='2829470'>think</span> <span m='2829770'>about</span> <span
   m='2830110'>questions</span> <span m='2830640'>that you'll ask</span> <span
   m='2830820'>next</span> <span m='2831560'>time.</span> </p>
-embedded_media:
-  - uid: 5ce227a07ee2d024ddc5dc4fde41fe9a
-    parent_uid: 1665590e2f91c22d8eca5c45365999d7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: hjZhPczMkL4
-  - uid: 235c8ba9807ddbc3327ae2e988175ecc
-    parent_uid: 1665590e2f91c22d8eca5c45365999d7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/hjZhPczMkL4/default.jpg'
-  - uid: a901cd5654f4a6ab1a5faeab40220308
-    parent_uid: 1665590e2f91c22d8eca5c45365999d7
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: hjZhPczMkL4
-  - uid: c711c6d65cff48c1f763e3f389a43449
-    parent_uid: 1665590e2f91c22d8eca5c45365999d7
-    id: hjZhPczMkL4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-44-adding-areas-of-rectangles/clip-1-example-f-x-x2/hjZhPczMkL4.srt
-  - uid: 282359867b78e8bff22463cfb8a6b875
-    parent_uid: 1665590e2f91c22d8eca5c45365999d7
-    id: hjZhPczMkL4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-44-adding-areas-of-rectangles/clip-1-example-f-x-x2/hjZhPczMkL4.pdf
-  - uid: c29958710b23f6542297e28ca00ea4ec
-    parent_uid: 1665590e2f91c22d8eca5c45365999d7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 336182c0c112d7b717d95fef1c71b2bf
-    parent_uid: 1665590e2f91c22d8eca5c45365999d7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 60ba931fe12c9dd3ee01fca45fc479de
-    parent_uid: 1665590e2f91c22d8eca5c45365999d7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec18_300k.mp4'
-  - uid: d08fadb2acd16b92caf0c3dec4315242
-    parent_uid: 1665590e2f91c22d8eca5c45365999d7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 1665590e2f91c22d8eca5c45365999d7
 type: courses
 layout: video
 ---

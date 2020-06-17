@@ -1,13 +1,68 @@
 ---
-title: Antidifferentiation by Substitution
-uid: 08f54a2d610c5ef23a5f1455a5e26ff3
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: W7sNkRpcydk
+    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 79e77329a431c836988e20907e44bc53
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/W7sNkRpcydk/default.jpg'
+    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: eaba825c50c0e72701ee7e68d5aa8ae9
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: W7sNkRpcydk
+    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 45ff7af0b0b02e98f4e944a4d4644590
+  - id: W7sNkRpcydk.srt
+    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-38-integration-by-substitution/antidifferentiation-by-substitution/W7sNkRpcydk.srt
+    title: 3play caption file
+    type: null
+    uid: 8d5c10829be6003729133c449cc7e165
+  - id: W7sNkRpcydk.pdf
+    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-38-integration-by-substitution/antidifferentiation-by-substitution/W7sNkRpcydk.pdf
+    title: 3play pdf file
+    type: null
+    uid: ded66f9da9dc9cea5f9f105d6d194d32
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0d101a9a4530683d7ce0a52f8368f8ee
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d25cff28f3fd87402de89f350f88ce7a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_32_300k.mp4'
+    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c36819d4ea74f29ba8de8d26a539645c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/antidifferentiation-by-substitution/id414308064?i=90319186
+    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9a5f8a804ec2d3cb060ec7046b540251
+inline_embed_id: 48408922antidifferentiationbysubstitution12219339
 parent_uid: def23901ebbad92ea90a23199cbba444
+related_resources_text: ''
+short_url: antidifferentiation-by-substitution
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-38-integration-by-substitution/antidifferentiation-by-substitution
-short_url: antidifferentiation-by-substitution
-inline_embed_id: 48408922antidifferentiationbysubstitution12219339
-about_this_resource_text: ''
-related_resources_text: ''
+title: Antidifferentiation by Substitution
 transcript: >-
   <p><span m='6970'>PROFESSOR: Hi.</span> <span m='7390'>Welcome</span> <span
   m='7700'>back</span> <span m='7920'>to</span> <span
@@ -613,62 +668,7 @@ transcript: >-
   m='606070'>So</span> <span m='606270'>I'll</span> <span
   m='606370'>leave</span> <span m='606550'>you</span> <span
   m='606650'>with</span> <span m='606800'>that.</span> </p>
-embedded_media:
-  - uid: 79e77329a431c836988e20907e44bc53
-    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: W7sNkRpcydk
-  - uid: eaba825c50c0e72701ee7e68d5aa8ae9
-    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/W7sNkRpcydk/default.jpg'
-  - uid: 45ff7af0b0b02e98f4e944a4d4644590
-    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: W7sNkRpcydk
-  - uid: 8d5c10829be6003729133c449cc7e165
-    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
-    id: W7sNkRpcydk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-38-integration-by-substitution/antidifferentiation-by-substitution/W7sNkRpcydk.srt
-  - uid: ded66f9da9dc9cea5f9f105d6d194d32
-    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
-    id: W7sNkRpcydk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-38-integration-by-substitution/antidifferentiation-by-substitution/W7sNkRpcydk.pdf
-  - uid: 0d101a9a4530683d7ce0a52f8368f8ee
-    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d25cff28f3fd87402de89f350f88ce7a
-    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c36819d4ea74f29ba8de8d26a539645c
-    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_32_300k.mp4'
-  - uid: 9a5f8a804ec2d3cb060ec7046b540251
-    parent_uid: 08f54a2d610c5ef23a5f1455a5e26ff3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/antidifferentiation-by-substitution/id414308064?i=90319186
+uid: 08f54a2d610c5ef23a5f1455a5e26ff3
 type: courses
 layout: video
 ---

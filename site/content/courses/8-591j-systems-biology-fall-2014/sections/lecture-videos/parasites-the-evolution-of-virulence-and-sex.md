@@ -1,17 +1,71 @@
 ---
-title: 'Parasites, the Evolution of Virulence and Sex'
-uid: a2944a86d73a7780b037e7fbb4865668
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/parasites-the-evolution-of-virulence-and-sex
-short_url: parasites-the-evolution-of-virulence-and-sex
-inline_embed_id: '87167468parasites,theevolutionofvirulenceandsex42998347'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture by Prof. Jeff Gore covers two
   topics. The first is the evolution of virulence, and how to model
   host-parasite interactions. The second is the evolutionary benefit of sex.</p>
   <p><strong>Instructor:</strong> Prof. Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Cn5K8R8cEiI
+    parent_uid: a2944a86d73a7780b037e7fbb4865668
+    title: Video-YouTube-Stream
+    type: Video
+    uid: db41cb20ef064c2e1b0527acf697e588
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Cn5K8R8cEiI/default.jpg'
+    parent_uid: a2944a86d73a7780b037e7fbb4865668
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e9965c5458d7f990744123df763fe131
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: a2944a86d73a7780b037e7fbb4865668
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e5050a12b8e50f01873230f7bd4f9728
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec20_300k.mp4'
+    parent_uid: a2944a86d73a7780b037e7fbb4865668
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8280b5ae759b374f838e2c7e76c76206
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Cn5K8R8cEiI
+    parent_uid: a2944a86d73a7780b037e7fbb4865668
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d0cb27250a8db9aca0bc9aee60a1f178
+  - id: Cn5K8R8cEiI.srt
+    parent_uid: a2944a86d73a7780b037e7fbb4865668
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/parasites-the-evolution-of-virulence-and-sex/Cn5K8R8cEiI.srt
+    title: 3play caption file
+    type: null
+    uid: 879a170b4719114549b97b125f2a1f68
+  - id: Cn5K8R8cEiI.pdf
+    parent_uid: a2944a86d73a7780b037e7fbb4865668
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/parasites-the-evolution-of-virulence-and-sex/Cn5K8R8cEiI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 595cf1b24910d881c89505595d91e497
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a2944a86d73a7780b037e7fbb4865668
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 37de70d2523644ea961271429cf0a176
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a2944a86d73a7780b037e7fbb4865668
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: cf6aa5e9f0799dfeb0a36106c73251e9
+inline_embed_id: '87167468parasites,theevolutionofvirulenceandsex42998347'
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: parasites-the-evolution-of-virulence-and-sex
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/parasites-the-evolution-of-virulence-and-sex
+title: 'Parasites, the Evolution of Virulence and Sex'
 transcript: >-
   <p><span m="60">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4670,61 +4724,7 @@ transcript: >-
   <span m="4717770">with you.</span> <span m="4718570">And</span> <span
   m="4718790">then,</span> <span m="4720520">we'll</span> <span m="4721520">meet
   on</span> <span m="4721820">Tuesday,</span> <span m="4722120">OK?</span></p>
-embedded_media:
-  - uid: db41cb20ef064c2e1b0527acf697e588
-    parent_uid: a2944a86d73a7780b037e7fbb4865668
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Cn5K8R8cEiI
-  - uid: e9965c5458d7f990744123df763fe131
-    parent_uid: a2944a86d73a7780b037e7fbb4865668
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Cn5K8R8cEiI/default.jpg'
-  - uid: e5050a12b8e50f01873230f7bd4f9728
-    parent_uid: a2944a86d73a7780b037e7fbb4865668
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: 8280b5ae759b374f838e2c7e76c76206
-    parent_uid: a2944a86d73a7780b037e7fbb4865668
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec20_300k.mp4'
-  - uid: d0cb27250a8db9aca0bc9aee60a1f178
-    parent_uid: a2944a86d73a7780b037e7fbb4865668
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Cn5K8R8cEiI
-  - uid: 879a170b4719114549b97b125f2a1f68
-    parent_uid: a2944a86d73a7780b037e7fbb4865668
-    id: Cn5K8R8cEiI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/parasites-the-evolution-of-virulence-and-sex/Cn5K8R8cEiI.srt
-  - uid: 595cf1b24910d881c89505595d91e497
-    parent_uid: a2944a86d73a7780b037e7fbb4865668
-    id: Cn5K8R8cEiI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/parasites-the-evolution-of-virulence-and-sex/Cn5K8R8cEiI.pdf
-  - uid: 37de70d2523644ea961271429cf0a176
-    parent_uid: a2944a86d73a7780b037e7fbb4865668
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: cf6aa5e9f0799dfeb0a36106c73251e9
-    parent_uid: a2944a86d73a7780b037e7fbb4865668
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a2944a86d73a7780b037e7fbb4865668
 type: courses
 layout: video
 ---

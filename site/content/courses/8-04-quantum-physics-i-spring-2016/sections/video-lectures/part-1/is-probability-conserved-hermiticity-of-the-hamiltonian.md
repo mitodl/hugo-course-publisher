@@ -1,13 +1,73 @@
 ---
-title: Is probability conserved? Hermiticity of the Hamiltonian
-uid: da8ac9fbe344185339dd1788e2ccce1a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 5L4QfjbK87M
+    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bb8d3b25909f9e8cfcfa2884fa8cf2ac
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/cIlKsqWxle0/default.jpg'
+    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: aecff6592bcfd3a925ab7755c425fde9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 5L4QfjbK87M
+    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b26ec36443580c7e94b6f64d4679a565
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 602da5cce83572f1560f0c59a9bb47a9
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec06_s2_300k.mp4'
+    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4636e39a2dc1246b681bbdbc23154a4f
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/5L4QfjbK87M/default.jpg'
+    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4261e9db45974e2fbd7175a87e8c9e91
+  - id: 5L4QfjbK87M.srt
+    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/is-probability-conserved-hermiticity-of-the-hamiltonian/5L4QfjbK87M.srt
+    title: 3play caption file
+    type: null
+    uid: a284178c7985409630fc0773fd90b3d2
+  - id: 5L4QfjbK87M.pdf
+    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/is-probability-conserved-hermiticity-of-the-hamiltonian/5L4QfjbK87M.pdf
+    title: 3play pdf file
+    type: null
+    uid: a7a20a1ed427850176aa02b66d95d743
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 482994a0bd631ea3776c6923cbff5451
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: df843cbede56eacc7d9d728be7a6df15
+inline_embed_id: 75899474isprobabilityconservedhermiticityofthehamiltonian60573414
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: is-probability-conserved-hermiticity-of-the-hamiltonian
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/is-probability-conserved-hermiticity-of-the-hamiltonian
-short_url: is-probability-conserved-hermiticity-of-the-hamiltonian
-inline_embed_id: 75899474isprobabilityconservedhermiticityofthehamiltonian60573414
-about_this_resource_text: ''
-related_resources_text: ''
+title: Is probability conserved? Hermiticity of the Hamiltonian
 transcript: >-
   <p><span m='300'>PROFESSOR:</span> <span m='450'>Let's</span> <span
   m='600'>do</span> <span m='810'>a work</span> <span m='1080'>check.</span>
@@ -866,67 +926,7 @@ transcript: >-
   m='1235270'>saying</span> <span m='1235780'>here.</span> <span
   m='1236800'>This</span> <span m='1237160'>is</span> <span m='1237330'>a</span>
   <span m='1237460'>Hermitian</span> <span m='1238060'>operator.</span> </p>
-embedded_media:
-  - uid: bb8d3b25909f9e8cfcfa2884fa8cf2ac
-    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 5L4QfjbK87M
-  - uid: aecff6592bcfd3a925ab7755c425fde9
-    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/cIlKsqWxle0/default.jpg'
-  - uid: b26ec36443580c7e94b6f64d4679a565
-    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 5L4QfjbK87M
-  - uid: 602da5cce83572f1560f0c59a9bb47a9
-    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 4636e39a2dc1246b681bbdbc23154a4f
-    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec06_s2_300k.mp4'
-  - uid: 4261e9db45974e2fbd7175a87e8c9e91
-    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/5L4QfjbK87M/default.jpg'
-  - uid: a284178c7985409630fc0773fd90b3d2
-    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
-    id: 5L4QfjbK87M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/is-probability-conserved-hermiticity-of-the-hamiltonian/5L4QfjbK87M.srt
-  - uid: a7a20a1ed427850176aa02b66d95d743
-    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
-    id: 5L4QfjbK87M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/is-probability-conserved-hermiticity-of-the-hamiltonian/5L4QfjbK87M.pdf
-  - uid: 482994a0bd631ea3776c6923cbff5451
-    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: df843cbede56eacc7d9d728be7a6df15
-    parent_uid: da8ac9fbe344185339dd1788e2ccce1a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: da8ac9fbe344185339dd1788e2ccce1a
 type: courses
 layout: video
 ---

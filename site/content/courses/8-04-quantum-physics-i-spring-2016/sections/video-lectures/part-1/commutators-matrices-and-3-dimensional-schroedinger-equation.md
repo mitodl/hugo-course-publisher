@@ -1,13 +1,73 @@
 ---
-title: 'Commutators, matrices, and 3-dimensional Schrödinger equation'
-uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: m7UT2Hr465o
+    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 56e5b673c45ea3095df1cf8605cfb4f5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0Tgu4LLPqvU/default.jpg'
+    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5431aa63ff7a124c2d67cc2395d32811
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: m7UT2Hr465o
+    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bc7d9c9f71b79a6fe3eab63a4c419699
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a77c302430b3b497b2a01530453c84df
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec05_s4_300k.mp4'
+    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0e27dabfd1afbc5f3f576a2ac62a609f
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/m7UT2Hr465o/default.jpg'
+    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 57f7f3370ea1ad7ccd3a90972a2bbd57
+  - id: m7UT2Hr465o.srt
+    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/commutators-matrices-and-3-dimensional-schroedinger-equation/m7UT2Hr465o.srt
+    title: 3play caption file
+    type: null
+    uid: 91d2b446527da8d5ef6a831cc33aa32e
+  - id: m7UT2Hr465o.pdf
+    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/commutators-matrices-and-3-dimensional-schroedinger-equation/m7UT2Hr465o.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6a2b09e8b0f52b89a0ac5440965bf216
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7ef16a5635fea0f1861b97c3ad04fdff
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6fa6f4f48cd5d0d8b41b319947555584
+inline_embed_id: 10475517commutatorsmatricesand3dimensionalschrdingerequation57251959
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: commutators-matrices-and-3-dimensional-schroedinger-equation
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/commutators-matrices-and-3-dimensional-schroedinger-equation
-short_url: commutators-matrices-and-3-dimensional-schroedinger-equation
-inline_embed_id: 10475517commutatorsmatricesand3dimensionalschrdingerequation57251959
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Commutators, matrices, and 3-dimensional Schrödinger equation'
 transcript: >-
   <p><span m='300'>PROFESSOR:</span> <span m='375'>This</span> <span
   m='450'>is</span> <span m='1110'>very</span> <span m='1500'>important.</span>
@@ -761,67 +821,7 @@ transcript: >-
   m='970230'>what</span> <span m='970440'>the</span> <span
   m='970590'>wave</span> <span m='970830'>function</span> <span
   m='971340'>means.</span> </p>
-embedded_media:
-  - uid: 56e5b673c45ea3095df1cf8605cfb4f5
-    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: m7UT2Hr465o
-  - uid: 5431aa63ff7a124c2d67cc2395d32811
-    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0Tgu4LLPqvU/default.jpg'
-  - uid: bc7d9c9f71b79a6fe3eab63a4c419699
-    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: m7UT2Hr465o
-  - uid: a77c302430b3b497b2a01530453c84df
-    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 0e27dabfd1afbc5f3f576a2ac62a609f
-    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec05_s4_300k.mp4'
-  - uid: 57f7f3370ea1ad7ccd3a90972a2bbd57
-    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/m7UT2Hr465o/default.jpg'
-  - uid: 91d2b446527da8d5ef6a831cc33aa32e
-    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
-    id: m7UT2Hr465o.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/commutators-matrices-and-3-dimensional-schroedinger-equation/m7UT2Hr465o.srt
-  - uid: 6a2b09e8b0f52b89a0ac5440965bf216
-    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
-    id: m7UT2Hr465o.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/commutators-matrices-and-3-dimensional-schroedinger-equation/m7UT2Hr465o.pdf
-  - uid: 7ef16a5635fea0f1861b97c3ad04fdff
-    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6fa6f4f48cd5d0d8b41b319947555584
-    parent_uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
 type: courses
 layout: video
 ---

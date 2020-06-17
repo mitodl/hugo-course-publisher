@@ -1,13 +1,68 @@
 ---
-title: Graphing Surfaces
-uid: 0c7d1ff298648917feeb74e348d3eb98
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: f2KsJBClJ1g
+    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4e2115620b110e5c60cbfacf86a92b4a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/f2KsJBClJ1g/default.jpg'
+    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7fb37ef89c45227c424b281dccc2d3d7
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: f2KsJBClJ1g
+    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 30718e6c52542bc5324963fa94165b5d
+  - id: f2KsJBClJ1g.srt
+    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-24-functions-of-two-variables-graphs/graphing-surfaces/f2KsJBClJ1g.srt
+    title: 3play caption file
+    type: null
+    uid: 190f86055f43e2df6e2b3eb112934657
+  - id: f2KsJBClJ1g.pdf
+    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-24-functions-of-two-variables-graphs/graphing-surfaces/f2KsJBClJ1g.pdf
+    title: 3play pdf file
+    type: null
+    uid: fbfacca9c78f3434c0a38b512f30bd15
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8c6cc93834d8a0ad45dcf10956b9f57b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f08ed44f575b4ce488773f4064acc98c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/graphing-surfaces/id414355340?i=90322823
+    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 655974fee090e9d31afe4544112607dc
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_17_300k.mp4'
+    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 75582f08ee962b24baef6c2e7b0d11e8
+inline_embed_id: 52099312graphingsurfaces35468591
 parent_uid: c2cc5b937ffbca979260841317394439
+related_resources_text: ''
+short_url: graphing-surfaces
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-24-functions-of-two-variables-graphs/graphing-surfaces
-short_url: graphing-surfaces
-inline_embed_id: 52099312graphingsurfaces35468591
-about_this_resource_text: ''
-related_resources_text: ''
+title: Graphing Surfaces
 transcript: >-
   <p><span m='0'>DAVID JORDAN:</span> <span m='7220'>Hello,</span> <span
   m='7480'>and</span> <span m='7570'>welcome</span> <span m='7800'>back
@@ -461,62 +516,7 @@ transcript: >-
   <span m='469810'>I'll</span> <span m='469970'>leave</span> <span
   m='470120'>it</span> <span m='470190'>at</span> <span m='470280'>that.</span>
   </p>
-embedded_media:
-  - uid: 4e2115620b110e5c60cbfacf86a92b4a
-    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: f2KsJBClJ1g
-  - uid: 7fb37ef89c45227c424b281dccc2d3d7
-    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/f2KsJBClJ1g/default.jpg'
-  - uid: 30718e6c52542bc5324963fa94165b5d
-    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: f2KsJBClJ1g
-  - uid: 190f86055f43e2df6e2b3eb112934657
-    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
-    id: f2KsJBClJ1g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-24-functions-of-two-variables-graphs/graphing-surfaces/f2KsJBClJ1g.srt
-  - uid: fbfacca9c78f3434c0a38b512f30bd15
-    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
-    id: f2KsJBClJ1g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-24-functions-of-two-variables-graphs/graphing-surfaces/f2KsJBClJ1g.pdf
-  - uid: 8c6cc93834d8a0ad45dcf10956b9f57b
-    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f08ed44f575b4ce488773f4064acc98c
-    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 655974fee090e9d31afe4544112607dc
-    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/graphing-surfaces/id414355340?i=90322823
-  - uid: 75582f08ee962b24baef6c2e7b0d11e8
-    parent_uid: 0c7d1ff298648917feeb74e348d3eb98
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_17_300k.mp4'
+uid: 0c7d1ff298648917feeb74e348d3eb98
 type: courses
 layout: video
 ---

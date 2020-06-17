@@ -1,13 +1,67 @@
 ---
-title: 'Session 1, Part 1: Introduction and Overview of Business Plans'
-uid: edaa1d3e8efa6406102f1b1162d31663
+about_this_resource_text: '<p><strong>Speaker:</strong> Joe Hadzima</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ZcPNcoTbkIU
+    parent_uid: edaa1d3e8efa6406102f1b1162d31663
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 958ad18e7e3ba4fe406565d55341d05b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ZcPNcoTbkIU/default.jpg'
+    parent_uid: edaa1d3e8efa6406102f1b1162d31663
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c34630fa2efcccb75654167a454529b1
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ZcPNcoTbkIU
+    parent_uid: edaa1d3e8efa6406102f1b1162d31663
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0cca3cd0157069def7f72cbefbc9acc3
+  - id: ZcPNcoTbkIU.srt
+    parent_uid: edaa1d3e8efa6406102f1b1162d31663
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-1-introduction-and-overview-of-business-plans/ZcPNcoTbkIU.srt
+    title: 3play caption file
+    type: null
+    uid: dfb762b715e3526b473fee1c0189360e
+  - id: ZcPNcoTbkIU.pdf
+    parent_uid: edaa1d3e8efa6406102f1b1162d31663
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-1-introduction-and-overview-of-business-plans/ZcPNcoTbkIU.pdf
+    title: 3play pdf file
+    type: null
+    uid: eadfd6bd2977261970ccee334ec6cb1f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: edaa1d3e8efa6406102f1b1162d31663
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1dda928526ca10fda484606738e480fe
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: edaa1d3e8efa6406102f1b1162d31663
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 92d7645bb7164a4cc8cd8e4cdca81f4c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1122123562'
+    parent_uid: edaa1d3e8efa6406102f1b1162d31663
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8d8a2691a8aa5b33152168e747608791
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT15.S21IAP14/MIT15_S21IAP14_S1P1_300k.mp4'
+    parent_uid: edaa1d3e8efa6406102f1b1162d31663
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f6ba691f76fbb3f3fb69063d7273bd24
+inline_embed_id: '56260892part1:introductionandoverviewofbusinessplans71893977'
 parent_uid: 7425dbab24bd40b9d0c0c704cab7eab2
+related_resources_text: ''
+short_url: part-1-introduction-and-overview-of-business-plans
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-1-introduction-and-overview-of-business-plans
-short_url: part-1-introduction-and-overview-of-business-plans
-inline_embed_id: '56260892part1:introductionandoverviewofbusinessplans71893977'
-about_this_resource_text: '<p><strong>Speaker:</strong> Joe Hadzima</p>'
-related_resources_text: ''
+title: 'Session 1, Part 1: Introduction and Overview of Business Plans'
 transcript: >-
   <p><span m='70'>The</span> <span m='170'>following</span> <span
   m='610'>content</span> <span m='1120'>is</span> <span m='1230'>provided</span>
@@ -4503,61 +4557,7 @@ transcript: >-
   m='3601500'>7:15,</span> <span m='3603920'>give</span> <span
   m='3604343'>you</span> <span m='3604766'>eight</span> <span
   m='3605190'>minutes.</span> </p>
-embedded_media:
-  - uid: 958ad18e7e3ba4fe406565d55341d05b
-    parent_uid: edaa1d3e8efa6406102f1b1162d31663
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ZcPNcoTbkIU
-  - uid: c34630fa2efcccb75654167a454529b1
-    parent_uid: edaa1d3e8efa6406102f1b1162d31663
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ZcPNcoTbkIU/default.jpg'
-  - uid: 0cca3cd0157069def7f72cbefbc9acc3
-    parent_uid: edaa1d3e8efa6406102f1b1162d31663
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ZcPNcoTbkIU
-  - uid: dfb762b715e3526b473fee1c0189360e
-    parent_uid: edaa1d3e8efa6406102f1b1162d31663
-    id: ZcPNcoTbkIU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-1-introduction-and-overview-of-business-plans/ZcPNcoTbkIU.srt
-  - uid: eadfd6bd2977261970ccee334ec6cb1f
-    parent_uid: edaa1d3e8efa6406102f1b1162d31663
-    id: ZcPNcoTbkIU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-1-introduction-and-overview-of-business-plans/ZcPNcoTbkIU.pdf
-  - uid: 1dda928526ca10fda484606738e480fe
-    parent_uid: edaa1d3e8efa6406102f1b1162d31663
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 92d7645bb7164a4cc8cd8e4cdca81f4c
-    parent_uid: edaa1d3e8efa6406102f1b1162d31663
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8d8a2691a8aa5b33152168e747608791
-    parent_uid: edaa1d3e8efa6406102f1b1162d31663
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1122123562'
-  - uid: f6ba691f76fbb3f3fb69063d7273bd24
-    parent_uid: edaa1d3e8efa6406102f1b1162d31663
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT15.S21IAP14/MIT15_S21IAP14_S1P1_300k.mp4'
+uid: edaa1d3e8efa6406102f1b1162d31663
 type: courses
 layout: video
 ---

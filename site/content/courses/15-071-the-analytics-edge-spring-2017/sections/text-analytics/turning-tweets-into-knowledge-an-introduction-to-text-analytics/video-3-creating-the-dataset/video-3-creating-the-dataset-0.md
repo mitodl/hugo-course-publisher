@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: Creating the Dataset'
-uid: fe903a774e04cd284db618d4b9c9b53a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: n19qLvOY-rc
+    parent_uid: fe903a774e04cd284db618d4b9c9b53a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0dcb438a0679972cdfb53df4e9a11c71
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: n19qLvOY-rc
+    parent_uid: fe903a774e04cd284db618d4b9c9b53a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0a9508fdb0fb5586bcb3ff93fee590bc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/n19qLvOY-rc/default.jpg'
+    parent_uid: fe903a774e04cd284db618d4b9c9b53a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b9dbc7e224c8830ade70230af62e0bbc
+  - id: n19qLvOY-rc.srt
+    parent_uid: fe903a774e04cd284db618d4b9c9b53a
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-3-creating-the-dataset/video-3-creating-the-dataset-0/n19qLvOY-rc.srt
+    title: 3play caption file
+    type: null
+    uid: 58f0ade185f08b9aa7d2e07e0e974853
+  - id: n19qLvOY-rc.pdf
+    parent_uid: fe903a774e04cd284db618d4b9c9b53a
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-3-creating-the-dataset/video-3-creating-the-dataset-0/n19qLvOY-rc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6fe713019c86aedfe0d5d7c3a4df82b4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fe903a774e04cd284db618d4b9c9b53a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f6469873763e8661fbb138c5cf8ade76
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fe903a774e04cd284db618d4b9c9b53a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 62e41beefdf873b090f2eb5a0296b42c
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.2.04_300k.mp4
+    parent_uid: fe903a774e04cd284db618d4b9c9b53a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: feee2e0872666f6a00e9d556ce986f5d
+inline_embed_id: 88578179video3creatingthedataset12357829
 parent_uid: f8520c5ec3cf3c3fe04672b8a73ae3a5
+related_resources_text: ''
+short_url: video-3-creating-the-dataset-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-3-creating-the-dataset/video-3-creating-the-dataset-0
-short_url: video-3-creating-the-dataset-0
-inline_embed_id: 88578179video3creatingthedataset12357829
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: Creating the Dataset'
 transcript: >-
   <p><span m='4500'>In</span> <span m='4850'>this</span> <span
   m='5200'>lecture,</span> <span m='5550'>we'll</span> <span m='5900'>be</span>
@@ -301,56 +350,7 @@ transcript: >-
   <span m='261530'>that</span> <span m='261960'>transforms</span> <span
   m='262390'>text</span> <span m='262820'>into</span> <span
   m='263670'>independent</span> <span m='264520'>variables.</span> </p>
-embedded_media:
-  - uid: 0dcb438a0679972cdfb53df4e9a11c71
-    parent_uid: fe903a774e04cd284db618d4b9c9b53a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: n19qLvOY-rc
-  - uid: 0a9508fdb0fb5586bcb3ff93fee590bc
-    parent_uid: fe903a774e04cd284db618d4b9c9b53a
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: n19qLvOY-rc
-  - uid: b9dbc7e224c8830ade70230af62e0bbc
-    parent_uid: fe903a774e04cd284db618d4b9c9b53a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/n19qLvOY-rc/default.jpg'
-  - uid: 58f0ade185f08b9aa7d2e07e0e974853
-    parent_uid: fe903a774e04cd284db618d4b9c9b53a
-    id: n19qLvOY-rc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-3-creating-the-dataset/video-3-creating-the-dataset-0/n19qLvOY-rc.srt
-  - uid: 6fe713019c86aedfe0d5d7c3a4df82b4
-    parent_uid: fe903a774e04cd284db618d4b9c9b53a
-    id: n19qLvOY-rc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-3-creating-the-dataset/video-3-creating-the-dataset-0/n19qLvOY-rc.pdf
-  - uid: f6469873763e8661fbb138c5cf8ade76
-    parent_uid: fe903a774e04cd284db618d4b9c9b53a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 62e41beefdf873b090f2eb5a0296b42c
-    parent_uid: fe903a774e04cd284db618d4b9c9b53a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: feee2e0872666f6a00e9d556ce986f5d
-    parent_uid: fe903a774e04cd284db618d4b9c9b53a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.2.04_300k.mp4
+uid: fe903a774e04cd284db618d4b9c9b53a
 type: courses
 layout: video
 ---

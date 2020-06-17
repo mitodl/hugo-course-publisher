@@ -1,13 +1,61 @@
 ---
-title: Polarization of Microwaves
-uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TjxR7lAwWhI
+    parent_uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0f6a5d82d836f05ec75d075693d6c59d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TjxR7lAwWhI/default.jpg'
+    parent_uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ec15aead08a2ab1dd6503b5f31980c74
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TjxR7lAwWhI
+    parent_uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 93d3f348063e835a510630c8fa1d5372
+  - id: TjxR7lAwWhI.srt
+    parent_uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-17/copy3_of_lecture-17-video/TjxR7lAwWhI.srt
+    title: 3play caption file
+    type: null
+    uid: 9857bcb40461e46d4b100585269fe954
+  - id: TjxR7lAwWhI.pdf
+    parent_uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-17/copy3_of_lecture-17-video/TjxR7lAwWhI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 334b8880f1a184a80162d592cbf9a621
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 72483b99bdb822e3ece1227ce079a5ea
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a8db202aaaec2410d293d9a638fe891a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec17_300k.mp4'
+    parent_uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 09ddb467ddc23cf58f58fa8081d80834
+inline_embed_id: 12083081lecture17videop33861267
 parent_uid: 4fe00c6712412ec83b0f40f5818b9a6d
+related_resources_text: ''
+short_url: copy3_of_lecture-17-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-17/copy3_of_lecture-17-video
-short_url: copy3_of_lecture-17-video
-inline_embed_id: 12083081lecture17videop33861267
-about_this_resource_text: ''
-related_resources_text: ''
+title: Polarization of Microwaves
 transcript: >-
   <p><span m="2125">SPEAKER:</span> <span m="2550">The</span> <span
   m="2640">following</span> <span m="3090">content</span> <span
@@ -3908,55 +3956,7 @@ transcript: >-
   m="4379600">let</span> <span m="4379880">me</span> <span
   m="4380180">know.</span></p><p><span m="4382280">AUDIENCE:</span> <span
   m="4382580">[INAUDIBLE]</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 0f6a5d82d836f05ec75d075693d6c59d
-    parent_uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TjxR7lAwWhI
-  - uid: ec15aead08a2ab1dd6503b5f31980c74
-    parent_uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TjxR7lAwWhI/default.jpg'
-  - uid: 93d3f348063e835a510630c8fa1d5372
-    parent_uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TjxR7lAwWhI
-  - uid: 9857bcb40461e46d4b100585269fe954
-    parent_uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
-    id: TjxR7lAwWhI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-17/copy3_of_lecture-17-video/TjxR7lAwWhI.srt
-  - uid: 334b8880f1a184a80162d592cbf9a621
-    parent_uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
-    id: TjxR7lAwWhI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-17/copy3_of_lecture-17-video/TjxR7lAwWhI.pdf
-  - uid: 72483b99bdb822e3ece1227ce079a5ea
-    parent_uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a8db202aaaec2410d293d9a638fe891a
-    parent_uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 09ddb467ddc23cf58f58fa8081d80834
-    parent_uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec17_300k.mp4'
+uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
 type: courses
 layout: video
 ---

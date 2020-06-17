@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 24: Cache-Oblivious Algorithms: Searching & Sorting'
-uid: efc8b80e509595eb8d26e020f63b3e70
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-24-cache-oblivious-algorithms-searching-sorting
-short_url: lecture-24-cache-oblivious-algorithms-searching-sorting
-inline_embed_id: '10178267lecture24:cache-obliviousalgorithms:searching&sorting55611357'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Demaine continues
   with cache-oblivious algorithms, including their applications in searching and
   sorting.</p> <p><strong>Instructors:</strong> Erik Demaine</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: C6EWVBNCxsc
+    parent_uid: efc8b80e509595eb8d26e020f63b3e70
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 02334f1ca7d98f301063bd35922e549d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/C6EWVBNCxsc/default.jpg'
+    parent_uid: efc8b80e509595eb8d26e020f63b3e70
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 62a394296d79b0956cbda58cf33bcea3
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: efc8b80e509595eb8d26e020f63b3e70
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: df8cba2c113ce62c070f8c97731823d4
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec24_300k.mp4'
+    parent_uid: efc8b80e509595eb8d26e020f63b3e70
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bb327828e2f216f0d295eae76202ef32
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: C6EWVBNCxsc
+    parent_uid: efc8b80e509595eb8d26e020f63b3e70
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 36f077216afa3e40fd0eb070a7ff0437
+  - id: C6EWVBNCxsc.srt
+    parent_uid: efc8b80e509595eb8d26e020f63b3e70
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-24-cache-oblivious-algorithms-searching-sorting/C6EWVBNCxsc.srt
+    title: 3play caption file
+    type: null
+    uid: 981d44d03ebef1f0e9ac66e2a09f116a
+  - id: C6EWVBNCxsc.pdf
+    parent_uid: efc8b80e509595eb8d26e020f63b3e70
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-24-cache-oblivious-algorithms-searching-sorting/C6EWVBNCxsc.pdf
+    title: 3play pdf file
+    type: null
+    uid: ca375002d1545daab813c10dec23fab8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: efc8b80e509595eb8d26e020f63b3e70
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 08e8672e870379b6ea8c0b04c84d2c1c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: efc8b80e509595eb8d26e020f63b3e70
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2dae1b0ccc2d0a64583d6f82538decf7
+inline_embed_id: '10178267lecture24:cache-obliviousalgorithms:searching&sorting55611357'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-24-cache-oblivious-algorithms-searching-sorting
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-24-cache-oblivious-algorithms-searching-sorting
+title: 'Lecture 24: Cache-Oblivious Algorithms: Searching & Sorting'
 transcript: >-
   <p><span m='80'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -5133,61 +5187,7 @@ transcript: >-
   m='4657190'>fun</span> <span m='4657420'>on</span> <span m='4657530'>the
   final</span> <span m='4657830'>exam.</span> </p><p><span
   m='4658430'>[APPLAUSE]</span> </p><p></p>
-embedded_media:
-  - uid: 02334f1ca7d98f301063bd35922e549d
-    parent_uid: efc8b80e509595eb8d26e020f63b3e70
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: C6EWVBNCxsc
-  - uid: 62a394296d79b0956cbda58cf33bcea3
-    parent_uid: efc8b80e509595eb8d26e020f63b3e70
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/C6EWVBNCxsc/default.jpg'
-  - uid: df8cba2c113ce62c070f8c97731823d4
-    parent_uid: efc8b80e509595eb8d26e020f63b3e70
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: bb327828e2f216f0d295eae76202ef32
-    parent_uid: efc8b80e509595eb8d26e020f63b3e70
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec24_300k.mp4'
-  - uid: 36f077216afa3e40fd0eb070a7ff0437
-    parent_uid: efc8b80e509595eb8d26e020f63b3e70
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: C6EWVBNCxsc
-  - uid: 981d44d03ebef1f0e9ac66e2a09f116a
-    parent_uid: efc8b80e509595eb8d26e020f63b3e70
-    id: C6EWVBNCxsc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-24-cache-oblivious-algorithms-searching-sorting/C6EWVBNCxsc.srt
-  - uid: ca375002d1545daab813c10dec23fab8
-    parent_uid: efc8b80e509595eb8d26e020f63b3e70
-    id: C6EWVBNCxsc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-24-cache-oblivious-algorithms-searching-sorting/C6EWVBNCxsc.pdf
-  - uid: 08e8672e870379b6ea8c0b04c84d2c1c
-    parent_uid: efc8b80e509595eb8d26e020f63b3e70
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2dae1b0ccc2d0a64583d6f82538decf7
-    parent_uid: efc8b80e509595eb8d26e020f63b3e70
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: efc8b80e509595eb8d26e020f63b3e70
 type: courses
 layout: video
 ---

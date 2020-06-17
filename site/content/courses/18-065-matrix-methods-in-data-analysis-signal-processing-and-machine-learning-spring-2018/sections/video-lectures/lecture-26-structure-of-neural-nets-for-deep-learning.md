@@ -1,13 +1,62 @@
 ---
-title: 'Lecture 26: Structure of Neural Nets for Deep Learning'
-uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
+about_this_resource_text: "<h2 class=\"subhead\"><strong>Description</strong></h2>\r\n<p>This lecture is about the central structure of deep neural networks, which are a major force in machine learning. The aim is to find the function that’s constructed to learn the training data and then apply it to the test data.</p>\r\n<h2 class=\"subhead\"><strong>Summary</strong></h2><p>The net has layers of nodes. Layer zero is the data.<br />\r\nWe choose matrix of &quot;weights&quot; from layer to layer.<br />\r\nNonlinear step at each layer! Negative values become zero!<br />\r\nWe know correct class for the training data.<br />\r\nWeights optimized to (usually) output that correct class.</p>\r\n<p>Related section in textbook: VII.1</p>\r\n<p><strong>Instructor:</strong> Prof. Gilbert Strang</p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: sx00s7nYmRM
+    parent_uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 12a0e0c2cf7909615d871fa85f85f268
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/sx00s7nYmRM/default.jpg'
+    parent_uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d8429a53c9e417a9a5496ccb565375eb
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: sx00s7nYmRM
+    parent_uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fd8fd601b78543a48f10204e5e19adec
+  - id: sx00s7nYmRM.srt
+    parent_uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-26-structure-of-neural-nets-for-deep-learning/sx00s7nYmRM.srt
+    title: 3play caption file
+    type: null
+    uid: 0e4b6ebed6d87dc2010d6403626803d8
+  - id: sx00s7nYmRM.pdf
+    parent_uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-26-structure-of-neural-nets-for-deep-learning/sx00s7nYmRM.pdf
+    title: 3play pdf file
+    type: null
+    uid: a9535204dab31ed87499c11cd579c49d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 720e39a3a9300d38f357540a44fb21f3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b3f37e4fa003325231e2498c3a68f539
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://ia801404.us.archive.org/25/items/MIT18.065S18/MIT18_065S18_Lecture26_300k.mp4
+    parent_uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1cafd81288d77d653caf0500dfee1d85
+inline_embed_id: 39745636lecture26structureofneuralnetsfordeeplearning44312604
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
+related_resources_text: ''
+short_url: lecture-26-structure-of-neural-nets-for-deep-learning
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-26-structure-of-neural-nets-for-deep-learning
-short_url: lecture-26-structure-of-neural-nets-for-deep-learning
-inline_embed_id: 39745636lecture26structureofneuralnetsfordeeplearning44312604
-about_this_resource_text: "<h2 class=\"subhead\"><strong>Description</strong></h2>\r\n<p>This lecture is about the central structure of deep neural networks, which are a major force in machine learning. The aim is to find the function that’s constructed to learn the training data and then apply it to the test data.</p>\r\n<h2 class=\"subhead\"><strong>Summary</strong></h2><p>The net has layers of nodes. Layer zero is the data.<br />\r\nWe choose matrix of &quot;weights&quot; from layer to layer.<br />\r\nNonlinear step at each layer! Negative values become zero!<br />\r\nWe know correct class for the training data.<br />\r\nWeights optimized to (usually) output that correct class.</p>\r\n<p>Related section in textbook: VII.1</p>\r\n<p><strong>Instructor:</strong> Prof. Gilbert Strang</p>"
-related_resources_text: ''
+title: 'Lecture 26: Structure of Neural Nets for Deep Learning'
 transcript: >-
   <p><span m='1550'>The</span> <span m='1640'>following</span> <span
   m='2090'>content</span> <span m='2600'>is</span> <span
@@ -2576,56 +2625,7 @@ transcript: >-
   m='3192150'>very</span> <span m='3192420'>much.</span> <span
   m='3194040'>7.1</span> <span m='3194940'>is</span> <span
   m='3195240'>done.</span> </p>
-embedded_media:
-  - uid: 12a0e0c2cf7909615d871fa85f85f268
-    parent_uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: sx00s7nYmRM
-  - uid: d8429a53c9e417a9a5496ccb565375eb
-    parent_uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/sx00s7nYmRM/default.jpg'
-  - uid: fd8fd601b78543a48f10204e5e19adec
-    parent_uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: sx00s7nYmRM
-  - uid: 0e4b6ebed6d87dc2010d6403626803d8
-    parent_uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
-    id: sx00s7nYmRM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-26-structure-of-neural-nets-for-deep-learning/sx00s7nYmRM.srt
-  - uid: a9535204dab31ed87499c11cd579c49d
-    parent_uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
-    id: sx00s7nYmRM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-26-structure-of-neural-nets-for-deep-learning/sx00s7nYmRM.pdf
-  - uid: 720e39a3a9300d38f357540a44fb21f3
-    parent_uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b3f37e4fa003325231e2498c3a68f539
-    parent_uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1cafd81288d77d653caf0500dfee1d85
-    parent_uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://ia801404.us.archive.org/25/items/MIT18.065S18/MIT18_065S18_Lecture26_300k.mp4
+uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
 type: courses
 layout: video
 ---

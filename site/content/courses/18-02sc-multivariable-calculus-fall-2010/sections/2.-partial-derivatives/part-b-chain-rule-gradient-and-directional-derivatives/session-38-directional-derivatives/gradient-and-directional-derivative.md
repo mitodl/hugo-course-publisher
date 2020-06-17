@@ -1,13 +1,68 @@
 ---
-title: Gradient and Directional Derivative
-uid: 54d78b3747b27d8b481e220220bcd068
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: XZ1QwS1IKgw
+    parent_uid: 54d78b3747b27d8b481e220220bcd068
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 26a73e2910300b76b5cc3a0c6a482e40
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/XZ1QwS1IKgw/default.jpg'
+    parent_uid: 54d78b3747b27d8b481e220220bcd068
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d6d69c3346f7aa8964a5fd6ac50e60de
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: XZ1QwS1IKgw
+    parent_uid: 54d78b3747b27d8b481e220220bcd068
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7842d37133f96bf039dbb93233ddc812
+  - id: XZ1QwS1IKgw.srt
+    parent_uid: 54d78b3747b27d8b481e220220bcd068
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-38-directional-derivatives/gradient-and-directional-derivative/XZ1QwS1IKgw.srt
+    title: 3play caption file
+    type: null
+    uid: 99502ddc22ba736536d6198140b98cb6
+  - id: XZ1QwS1IKgw.pdf
+    parent_uid: 54d78b3747b27d8b481e220220bcd068
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-38-directional-derivatives/gradient-and-directional-derivative/XZ1QwS1IKgw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3f6329d89fcad9df0486059975fef43c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 54d78b3747b27d8b481e220220bcd068
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fd5643cce156570ae03bc1a930a2278e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 54d78b3747b27d8b481e220220bcd068
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 73e5884c7cc87c5654d58f178ba2babb
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_27_300k.mp4'
+    parent_uid: 54d78b3747b27d8b481e220220bcd068
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5d75f151e887d6c00f1c5a3c21c463c4
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/gradient-directional-derivative/id414355340?i=90322811
+    parent_uid: 54d78b3747b27d8b481e220220bcd068
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8b80ce9453e4216e1493d99c3ca90304
+inline_embed_id: 77349852gradientanddirectionalderivative10919181
 parent_uid: 39fb1a7a22ea5009fdbd92b8775e6362
+related_resources_text: ''
+short_url: gradient-and-directional-derivative
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-38-directional-derivatives/gradient-and-directional-derivative
-short_url: gradient-and-directional-derivative
-inline_embed_id: 77349852gradientanddirectionalderivative10919181
-about_this_resource_text: ''
-related_resources_text: ''
+title: Gradient and Directional Derivative
 transcript: >-
   <p><span m='7120'>JOEL LEWIS: Hi.</span> <span m='7650'>Welcome</span> <span
   m='7990'>back</span> <span m='8200'>to</span> <span
@@ -871,62 +926,7 @@ transcript: >-
   m='809490'>from</span> <span m='809700'>gradients.</span> <span
   m='810920'>So</span> <span m='811250'>I'll</span> <span m='811460'>end</span>
   <span m='811730'>there.</span> </p>
-embedded_media:
-  - uid: 26a73e2910300b76b5cc3a0c6a482e40
-    parent_uid: 54d78b3747b27d8b481e220220bcd068
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: XZ1QwS1IKgw
-  - uid: d6d69c3346f7aa8964a5fd6ac50e60de
-    parent_uid: 54d78b3747b27d8b481e220220bcd068
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/XZ1QwS1IKgw/default.jpg'
-  - uid: 7842d37133f96bf039dbb93233ddc812
-    parent_uid: 54d78b3747b27d8b481e220220bcd068
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: XZ1QwS1IKgw
-  - uid: 99502ddc22ba736536d6198140b98cb6
-    parent_uid: 54d78b3747b27d8b481e220220bcd068
-    id: XZ1QwS1IKgw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-38-directional-derivatives/gradient-and-directional-derivative/XZ1QwS1IKgw.srt
-  - uid: 3f6329d89fcad9df0486059975fef43c
-    parent_uid: 54d78b3747b27d8b481e220220bcd068
-    id: XZ1QwS1IKgw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-38-directional-derivatives/gradient-and-directional-derivative/XZ1QwS1IKgw.pdf
-  - uid: fd5643cce156570ae03bc1a930a2278e
-    parent_uid: 54d78b3747b27d8b481e220220bcd068
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 73e5884c7cc87c5654d58f178ba2babb
-    parent_uid: 54d78b3747b27d8b481e220220bcd068
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5d75f151e887d6c00f1c5a3c21c463c4
-    parent_uid: 54d78b3747b27d8b481e220220bcd068
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_27_300k.mp4'
-  - uid: 8b80ce9453e4216e1493d99c3ca90304
-    parent_uid: 54d78b3747b27d8b481e220220bcd068
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/gradient-directional-derivative/id414355340?i=90322811
+uid: 54d78b3747b27d8b481e220220bcd068
 type: courses
 layout: video
 ---

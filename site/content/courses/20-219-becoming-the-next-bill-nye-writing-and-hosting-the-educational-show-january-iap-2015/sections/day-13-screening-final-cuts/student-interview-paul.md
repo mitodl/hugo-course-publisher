@@ -1,13 +1,67 @@
 ---
-title: 'Student Interview: Paul'
-uid: 1cb6db6889e0ee625573d103020df823
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: PfbifHBnFJA
+    parent_uid: 1cb6db6889e0ee625573d103020df823
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a8442dd69ab62e960e4483b1cefd41bb
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: PfbifHBnFJA
+    parent_uid: 1cb6db6889e0ee625573d103020df823
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6e3ca5bfb077e90cca2566e7c076a63c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 1cb6db6889e0ee625573d103020df823
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 03bacf89343b92cdf7d7cd1621ef9454
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D13P1_300k.mp4'
+    parent_uid: 1cb6db6889e0ee625573d103020df823
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0fa0ad4e77e428a2d6c9430628576dda
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/PfbifHBnFJA/default.jpg'
+    parent_uid: 1cb6db6889e0ee625573d103020df823
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a64931f00ff88697d88078c04ffbd528
+  - id: PfbifHBnFJA.srt
+    parent_uid: 1cb6db6889e0ee625573d103020df823
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-paul/PfbifHBnFJA.srt
+    title: 3play caption file
+    type: null
+    uid: 709370ae0eb1ddce6bb38bb5f24f839e
+  - id: PfbifHBnFJA.pdf
+    parent_uid: 1cb6db6889e0ee625573d103020df823
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-paul/PfbifHBnFJA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8f32c0b9048ca17a8e622d6b4c1628cf
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1cb6db6889e0ee625573d103020df823
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 32f43b68caae0a07250cd7c4179ab7ad
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1cb6db6889e0ee625573d103020df823
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0572268ef2d26b7f331e1d266bb0152f
+inline_embed_id: '99478664studentinterview:paul94723300'
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
+related_resources_text: ''
+short_url: student-interview-paul
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-paul
-short_url: student-interview-paul
-inline_embed_id: '99478664studentinterview:paul94723300'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Student Interview: Paul'
 transcript: >-
   <p><span m='5580'>PROFESSOR: How</span> <span m='5840'>you</span> <span
   m='5980'>feeling,</span> <span m='6355'>Paul?</span> </p><p><span
@@ -157,61 +211,7 @@ transcript: >-
   </p><p><span m='186290'>PAUL FOLINO: I'm</span> <span
   m='186420'>excited</span> <span m='186810'>to see</span> <span
   m='187030'>everyone's</span> <span m='187330'>videos.</span> </p>
-embedded_media:
-  - uid: a8442dd69ab62e960e4483b1cefd41bb
-    parent_uid: 1cb6db6889e0ee625573d103020df823
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: PfbifHBnFJA
-  - uid: 6e3ca5bfb077e90cca2566e7c076a63c
-    parent_uid: 1cb6db6889e0ee625573d103020df823
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: PfbifHBnFJA
-  - uid: 03bacf89343b92cdf7d7cd1621ef9454
-    parent_uid: 1cb6db6889e0ee625573d103020df823
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 0fa0ad4e77e428a2d6c9430628576dda
-    parent_uid: 1cb6db6889e0ee625573d103020df823
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D13P1_300k.mp4'
-  - uid: a64931f00ff88697d88078c04ffbd528
-    parent_uid: 1cb6db6889e0ee625573d103020df823
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/PfbifHBnFJA/default.jpg'
-  - uid: 709370ae0eb1ddce6bb38bb5f24f839e
-    parent_uid: 1cb6db6889e0ee625573d103020df823
-    id: PfbifHBnFJA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-paul/PfbifHBnFJA.srt
-  - uid: 8f32c0b9048ca17a8e622d6b4c1628cf
-    parent_uid: 1cb6db6889e0ee625573d103020df823
-    id: PfbifHBnFJA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-paul/PfbifHBnFJA.pdf
-  - uid: 32f43b68caae0a07250cd7c4179ab7ad
-    parent_uid: 1cb6db6889e0ee625573d103020df823
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0572268ef2d26b7f331e1d266bb0152f
-    parent_uid: 1cb6db6889e0ee625573d103020df823
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 1cb6db6889e0ee625573d103020df823
 type: courses
 layout: video
 ---

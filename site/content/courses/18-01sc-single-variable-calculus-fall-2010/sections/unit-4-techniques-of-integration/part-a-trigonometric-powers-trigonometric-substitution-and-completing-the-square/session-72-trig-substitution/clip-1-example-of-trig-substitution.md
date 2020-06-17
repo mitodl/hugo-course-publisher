@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Example of Trig Substitution'
-uid: bc3b478f8ba1a899213dd9ecf563005a
-parent_uid: 9894378ce8db90173778fc7a13cad022
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-72-trig-substitution/clip-1-example-of-trig-substitution
-short_url: clip-1-example-of-trig-substitution
-inline_embed_id: '17122040clip1:exampleoftrigsubstitution84231719'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/fed451b06b0f0f2fdd3b680f8ba5ca70"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 28 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: CXKoCMVqM9s
+    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7eeaa0aa9596ae86ed85db937f191e71
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CXKoCMVqM9s/default.jpg'
+    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d345d202f58c8afc959bb6a40ad223e9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: CXKoCMVqM9s
+    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b33c217847ce0a5d7d90ed17f7d1f510
+  - id: CXKoCMVqM9s.srt
+    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-72-trig-substitution/clip-1-example-of-trig-substitution/CXKoCMVqM9s.srt
+    title: 3play caption file
+    type: null
+    uid: bc46cc680406d081fbbe01a82a13fd8d
+  - id: CXKoCMVqM9s.pdf
+    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-72-trig-substitution/clip-1-example-of-trig-substitution/CXKoCMVqM9s.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0ad83b01f4c2b3d906d6504f1263b100
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4c582848b9e9d18ac782845c71fe1cb6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 221f54efc45a1042c7c5e3424cc9049a
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec28_300k.mp4'
+    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9606e3b1d1b550535830333ad7195964
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8aa0c1e78e82a6c2732ec3dd999ff37f
+inline_embed_id: '17122040clip1:exampleoftrigsubstitution84231719'
+parent_uid: 9894378ce8db90173778fc7a13cad022
 related_resources_text: ''
+short_url: clip-1-example-of-trig-substitution
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-72-trig-substitution/clip-1-example-of-trig-substitution
+title: 'Clip 1: Example of Trig Substitution'
 transcript: >-
   <p><span m='0'>The</span> <span m='30'>following</span> <span
   m='510'>content</span> <span m='1010'>is</span> <span m='1130'>provided</span>
@@ -2533,61 +2587,7 @@ transcript: >-
   class</span> <span m='2905880'>doesn't</span> <span m='2906030'>meet</span>
   <span m='2906190'>on</span> <span m='2906320'>Monday</span> <span
   m='2906580'>anyway.</span> <span m='2907320'>Bye.</span> </p>
-embedded_media:
-  - uid: 7eeaa0aa9596ae86ed85db937f191e71
-    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CXKoCMVqM9s
-  - uid: d345d202f58c8afc959bb6a40ad223e9
-    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CXKoCMVqM9s/default.jpg'
-  - uid: b33c217847ce0a5d7d90ed17f7d1f510
-    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CXKoCMVqM9s
-  - uid: bc46cc680406d081fbbe01a82a13fd8d
-    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
-    id: CXKoCMVqM9s.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-72-trig-substitution/clip-1-example-of-trig-substitution/CXKoCMVqM9s.srt
-  - uid: 0ad83b01f4c2b3d906d6504f1263b100
-    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
-    id: CXKoCMVqM9s.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-72-trig-substitution/clip-1-example-of-trig-substitution/CXKoCMVqM9s.pdf
-  - uid: 4c582848b9e9d18ac782845c71fe1cb6
-    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 221f54efc45a1042c7c5e3424cc9049a
-    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9606e3b1d1b550535830333ad7195964
-    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec28_300k.mp4'
-  - uid: 8aa0c1e78e82a6c2732ec3dd999ff37f
-    parent_uid: bc3b478f8ba1a899213dd9ecf563005a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: bc3b478f8ba1a899213dd9ecf563005a
 type: courses
 layout: video
 ---

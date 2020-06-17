@@ -1,13 +1,81 @@
 ---
-title: An Interview with Gilbert Strang on Teaching Linear Algebra
-uid: e21b71ff0fa975bfa9acb2a155aafc1d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 7UJ4CFRGd-U
+    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6493ebd45e1379ce8efb4b938e5fcbb0
+  - id: 18.06.jpg
+    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/instructor-insights/an-interview-with-gilbert-strang-on-teaching-linear-algebra/18.06.jpg
+    title: 18.06.jpg
+    type: null
+    uid: f777380de6feec2c42ab6e159e05ddf2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7UJ4CFRGd-U/default.jpg'
+    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7cd0685535147aebd9d7c2e98dc68afd
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7UJ4CFRGd-U
+    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1a4939b55949ff498029f426b3cd65a0
+  - id: 7UJ4CFRGd-U.srt
+    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/instructor-insights/an-interview-with-gilbert-strang-on-teaching-linear-algebra/7UJ4CFRGd-U.srt
+    title: 3play caption file
+    type: null
+    uid: 9dbd5e22e2379a1bb4e844757c445dfd
+  - id: 7UJ4CFRGd-U.pdf
+    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/instructor-insights/an-interview-with-gilbert-strang-on-teaching-linear-algebra/7UJ4CFRGd-U.pdf
+    title: 3play pdf file
+    type: null
+    uid: 24f7f9a2b23f81003dfdf6c146e123b7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 63f512d905780635f927ea8c8213d931
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 35855be8a01c2fa168c6958236002449
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT18.06SCF11/MIT18_06SCF11_Educator_Video_300k.mp4
+    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1b83251e5054a23919a59f55e38b2d9d
+  - id: 18.06Edu.jpg
+    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/instructor-insights/an-interview-with-gilbert-strang-on-teaching-linear-algebra/18.06Edu.jpg
+    title: 18.06Edu.jpg
+    type: null
+    uid: 59804af3c6b40990c76b91d0d7d6d7b6
+  - id: BackgroundImage-OCW-JPG
+    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 620d929464b644bfe934db02f4376a24
+inline_embed_id: 12700054aninterviewwithgilbertstrangonteachinglinearalgebra63021644
 parent_uid: 3f3b7835cf477d3ba10b05fbe03cbffa
+related_resources_text: ''
+short_url: an-interview-with-gilbert-strang-on-teaching-linear-algebra
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/instructor-insights/an-interview-with-gilbert-strang-on-teaching-linear-algebra
-short_url: an-interview-with-gilbert-strang-on-teaching-linear-algebra
-inline_embed_id: 12700054aninterviewwithgilbertstrangonteachinglinearalgebra63021644
-about_this_resource_text: ''
-related_resources_text: ''
+title: An Interview with Gilbert Strang on Teaching Linear Algebra
 transcript: >-
   <p><span m='6840'>SARAH HANSEN:</span> <span m='7005'>Well,</span> <span
   m='7590'>you</span> <span m='7770'>have</span> <span m='8340'>a</span> <span
@@ -433,75 +501,7 @@ transcript: >-
   m='449200'>joining</span> <span m='449580'>the</span> <span
   m='449700'>class.</span> <span m='452270'>Thank</span> <span
   m='452540'>you.</span> </p>
-embedded_media:
-  - uid: 6493ebd45e1379ce8efb4b938e5fcbb0
-    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 7UJ4CFRGd-U
-  - uid: f777380de6feec2c42ab6e159e05ddf2
-    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
-    id: 18.06.jpg
-    title: 18.06.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/instructor-insights/an-interview-with-gilbert-strang-on-teaching-linear-algebra/18.06.jpg
-  - uid: 7cd0685535147aebd9d7c2e98dc68afd
-    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7UJ4CFRGd-U/default.jpg'
-  - uid: 1a4939b55949ff498029f426b3cd65a0
-    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7UJ4CFRGd-U
-  - uid: 9dbd5e22e2379a1bb4e844757c445dfd
-    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
-    id: 7UJ4CFRGd-U.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/instructor-insights/an-interview-with-gilbert-strang-on-teaching-linear-algebra/7UJ4CFRGd-U.srt
-  - uid: 24f7f9a2b23f81003dfdf6c146e123b7
-    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
-    id: 7UJ4CFRGd-U.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/instructor-insights/an-interview-with-gilbert-strang-on-teaching-linear-algebra/7UJ4CFRGd-U.pdf
-  - uid: 63f512d905780635f927ea8c8213d931
-    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 35855be8a01c2fa168c6958236002449
-    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1b83251e5054a23919a59f55e38b2d9d
-    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT18.06SCF11/MIT18_06SCF11_Educator_Video_300k.mp4
-  - uid: 59804af3c6b40990c76b91d0d7d6d7b6
-    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
-    id: 18.06Edu.jpg
-    title: 18.06Edu.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/instructor-insights/an-interview-with-gilbert-strang-on-teaching-linear-algebra/18.06Edu.jpg
-  - uid: 620d929464b644bfe934db02f4376a24
-    parent_uid: e21b71ff0fa975bfa9acb2a155aafc1d
-    id: BackgroundImage-OCW-JPG
-    title: Background Image-OCW-JPG
-    type: Background Image
+uid: e21b71ff0fa975bfa9acb2a155aafc1d
 type: courses
 layout: video
 ---

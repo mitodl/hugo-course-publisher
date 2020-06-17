@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Linear Transformations'
-uid: c42458bf080365d87384374b7e7b3a38
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2uDvRUowBzg
+    parent_uid: c42458bf080365d87384374b7e7b3a38
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6460c9546800ef993d482418682312f3
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: 2uDvRUowBzg
+    parent_uid: c42458bf080365d87384374b7e7b3a38
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c54167e306c30d07e4413633dbdc25bb
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/linear-transformations/id488155309?i=108454333
+    parent_uid: c42458bf080365d87384374b7e7b3a38
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f685154af82f2f1ac06b133b7b47c664
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_N2_300k.mp4
+    parent_uid: c42458bf080365d87384374b7e7b3a38
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c855492c97d0ce10c25bf7bddae311c6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2uDvRUowBzg/default.jpg'
+    parent_uid: c42458bf080365d87384374b7e7b3a38
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3b5c9e011f40074c476a654625da7622
+  - id: 2uDvRUowBzg.srt
+    parent_uid: c42458bf080365d87384374b7e7b3a38
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/linear-transformations-and-their-matrices/problem-solving-linear-transformations/2uDvRUowBzg.srt
+    title: 3play caption file
+    type: null
+    uid: 6fb918c656018cce4d12ff9ca351376f
+  - id: 2uDvRUowBzg.pdf
+    parent_uid: c42458bf080365d87384374b7e7b3a38
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/linear-transformations-and-their-matrices/problem-solving-linear-transformations/2uDvRUowBzg.pdf
+    title: 3play pdf file
+    type: null
+    uid: e70c3934dc6123a02195e95efe70cffa
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c42458bf080365d87384374b7e7b3a38
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 74376d5303b6502797a92100875ef8ae
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c42458bf080365d87384374b7e7b3a38
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4d5a8563cf1ca9fb231bf6b0addcc1a6
+inline_embed_id: '35903247problemsolving:lineartransformations70655354'
 parent_uid: 9b3392d99bebd11047c36d07bc404bbc
+related_resources_text: ''
+short_url: problem-solving-linear-transformations
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/linear-transformations-and-their-matrices/problem-solving-linear-transformations
-short_url: problem-solving-linear-transformations
-inline_embed_id: '35903247problemsolving:lineartransformations70655354'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Linear Transformations'
 transcript: >-
   <p><span m='6460'>PROFESSOR: Hi,</span> <span m='6710'>everyone.</span> <span
   m='7370'>Today,</span> <span m='7750'>we're</span> <span m='7940'>going</span>
@@ -432,63 +488,7 @@ transcript: >-
   m='642590'>T.</span> <span m='643380'>So</span> <span m='643580'>I'll</span>
   <span m='643750'>leave</span> <span m='643940'>it</span> <span
   m='644040'>at</span> <span m='644160'>that.</span> </p>
-embedded_media:
-  - uid: 6460c9546800ef993d482418682312f3
-    parent_uid: c42458bf080365d87384374b7e7b3a38
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2uDvRUowBzg
-  - uid: c54167e306c30d07e4413633dbdc25bb
-    parent_uid: c42458bf080365d87384374b7e7b3a38
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2uDvRUowBzg
-  - uid: f685154af82f2f1ac06b133b7b47c664
-    parent_uid: c42458bf080365d87384374b7e7b3a38
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/linear-transformations/id488155309?i=108454333
-  - uid: c855492c97d0ce10c25bf7bddae311c6
-    parent_uid: c42458bf080365d87384374b7e7b3a38
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_N2_300k.mp4
-  - uid: 3b5c9e011f40074c476a654625da7622
-    parent_uid: c42458bf080365d87384374b7e7b3a38
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2uDvRUowBzg/default.jpg'
-  - uid: 6fb918c656018cce4d12ff9ca351376f
-    parent_uid: c42458bf080365d87384374b7e7b3a38
-    id: 2uDvRUowBzg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/linear-transformations-and-their-matrices/problem-solving-linear-transformations/2uDvRUowBzg.srt
-  - uid: e70c3934dc6123a02195e95efe70cffa
-    parent_uid: c42458bf080365d87384374b7e7b3a38
-    id: 2uDvRUowBzg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/linear-transformations-and-their-matrices/problem-solving-linear-transformations/2uDvRUowBzg.pdf
-  - uid: 74376d5303b6502797a92100875ef8ae
-    parent_uid: c42458bf080365d87384374b7e7b3a38
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4d5a8563cf1ca9fb231bf6b0addcc1a6
-    parent_uid: c42458bf080365d87384374b7e7b3a38
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c42458bf080365d87384374b7e7b3a38
 type: courses
 layout: video
 ---

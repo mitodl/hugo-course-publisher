@@ -1,13 +1,73 @@
 ---
-title: Fourier transforms and delta functions
-uid: eae7119d8ce4b23ee8ca37c056fd99d8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8abBLKEZLaI
+    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 149ed8848ed0dd940e4fc63eb358d40b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/SzCLjQKEo9o/default.jpg'
+    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 76569e0bd88c32dc86525c056075a2c4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 8abBLKEZLaI
+    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 22497de29735c401ec312fb745faa5cb
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7b9bcfe95dadc1203fbbb1bfd6192da6
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec08_s1_300k.mp4'
+    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6f2a1cb5c1d0428c48b9cce38e03a205
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/8abBLKEZLaI/default.jpg'
+    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 12ce2027073558b83cde2d64509fcfa7
+  - id: 8abBLKEZLaI.srt
+    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/fourier-transforms-and-delta-functions/8abBLKEZLaI.srt
+    title: 3play caption file
+    type: null
+    uid: 7302d7c7b84f861c85c0cce58a5c220e
+  - id: 8abBLKEZLaI.pdf
+    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/fourier-transforms-and-delta-functions/8abBLKEZLaI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 68fba66a2aadc2d9773e04ca558d171c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2f767a2990f26f605f71f07f5e8942a5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 65e5990563026f975e52cab02d72e37b
+inline_embed_id: 47536501wavepacketsandfourierrepresentation37969374
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: fourier-transforms-and-delta-functions
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/fourier-transforms-and-delta-functions
-short_url: fourier-transforms-and-delta-functions
-inline_embed_id: 47536501wavepacketsandfourierrepresentation37969374
-about_this_resource_text: ''
-related_resources_text: ''
+title: Fourier transforms and delta functions
 transcript: >-
   <p><span m='1070'>BARTON ZWIEBACH:</span> <span m='1295'>Today's</span> <span
   m='1520'>subject</span> <span m='2360'>is</span> <span
@@ -661,67 +721,7 @@ transcript: >-
   m='834690'>this</span> <span m='834900'>integral</span> <span
   m='835370'>representation</span> <span m='836340'>to</span> <span
   m='836490'>show</span> <span m='836850'>them.</span> </p>
-embedded_media:
-  - uid: 149ed8848ed0dd940e4fc63eb358d40b
-    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8abBLKEZLaI
-  - uid: 76569e0bd88c32dc86525c056075a2c4
-    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/SzCLjQKEo9o/default.jpg'
-  - uid: 22497de29735c401ec312fb745faa5cb
-    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8abBLKEZLaI
-  - uid: 7b9bcfe95dadc1203fbbb1bfd6192da6
-    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 6f2a1cb5c1d0428c48b9cce38e03a205
-    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec08_s1_300k.mp4'
-  - uid: 12ce2027073558b83cde2d64509fcfa7
-    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8abBLKEZLaI/default.jpg'
-  - uid: 7302d7c7b84f861c85c0cce58a5c220e
-    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
-    id: 8abBLKEZLaI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/fourier-transforms-and-delta-functions/8abBLKEZLaI.srt
-  - uid: 68fba66a2aadc2d9773e04ca558d171c
-    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
-    id: 8abBLKEZLaI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/fourier-transforms-and-delta-functions/8abBLKEZLaI.pdf
-  - uid: 2f767a2990f26f605f71f07f5e8942a5
-    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 65e5990563026f975e52cab02d72e37b
-    parent_uid: eae7119d8ce4b23ee8ca37c056fd99d8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: eae7119d8ce4b23ee8ca37c056fd99d8
 type: courses
 layout: video
 ---

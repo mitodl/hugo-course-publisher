@@ -1,13 +1,69 @@
 ---
-title: Problem 3 Solution Video
-uid: 765bf87dd700a3abe736e698385c9771
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: qRkAq_G_9cs
+    parent_uid: 765bf87dd700a3abe736e698385c9771
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7698cb53216372c1f10c1051b9e2322b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/qRkAq_G_9cs/default.jpg'
+    parent_uid: 765bf87dd700a3abe736e698385c9771
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c6cf5febd7bcaa347a256bc3f18f5826
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: qRkAq_G_9cs
+    parent_uid: 765bf87dd700a3abe736e698385c9771
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2e3c997847300ed80ccc72c5f658e11a
+  - id: qRkAq_G_9cs.srt
+    parent_uid: 765bf87dd700a3abe736e698385c9771
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/problem-set-4/problem-3-solution-video/qRkAq_G_9cs.srt
+    title: 3play caption file
+    type: null
+    uid: 147713470437a0a23a3ae0bb848056d6
+  - id: qRkAq_G_9cs.pdf
+    parent_uid: 765bf87dd700a3abe736e698385c9771
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/problem-set-4/problem-3-solution-video/qRkAq_G_9cs.pdf
+    title: 3play pdf file
+    type: null
+    uid: 644d8de91136c312a14f275fafece644
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 765bf87dd700a3abe736e698385c9771
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 51f5cfea6e9f446b1b18c93292be12af
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 765bf87dd700a3abe736e698385c9771
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2e7a7b9250a0a4d800cc33e4a8239993
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_problem_4-3_300k.mp4
+    parent_uid: 765bf87dd700a3abe736e698385c9771
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0861c4d021bfb4ba131518c4eab5c52e
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/problem-set-4-problem-3/id496265654?i=109892741
+    parent_uid: 765bf87dd700a3abe736e698385c9771
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8318a401a39bb92e2b20e0d2bafa5a51
+inline_embed_id: 11038737problem3solutionvideo75857202
 parent_uid: 7202f9bf94b433fc7f690ef73b511c93
+related_resources_text: ''
+short_url: problem-3-solution-video
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/problem-set-4/problem-3-solution-video
-short_url: problem-3-solution-video
-inline_embed_id: 11038737problem3solutionvideo75857202
-about_this_resource_text: ''
-related_resources_text: ''
+title: Problem 3 Solution Video
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -788,63 +844,7 @@ transcript: >-
   <span m='891310'>produce</span> <span m='891630'>a</span> <span
   m='891690'>certain</span> <span m='891960'>amount</span> <span
   m='892170'>of</span> <span m='892260'>quantity.</span> </p>
-embedded_media:
-  - uid: 7698cb53216372c1f10c1051b9e2322b
-    parent_uid: 765bf87dd700a3abe736e698385c9771
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: qRkAq_G_9cs
-  - uid: c6cf5febd7bcaa347a256bc3f18f5826
-    parent_uid: 765bf87dd700a3abe736e698385c9771
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/qRkAq_G_9cs/default.jpg'
-  - uid: 2e3c997847300ed80ccc72c5f658e11a
-    parent_uid: 765bf87dd700a3abe736e698385c9771
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: qRkAq_G_9cs
-  - uid: 147713470437a0a23a3ae0bb848056d6
-    parent_uid: 765bf87dd700a3abe736e698385c9771
-    id: qRkAq_G_9cs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/problem-set-4/problem-3-solution-video/qRkAq_G_9cs.srt
-  - uid: 644d8de91136c312a14f275fafece644
-    parent_uid: 765bf87dd700a3abe736e698385c9771
-    id: qRkAq_G_9cs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/problem-set-4/problem-3-solution-video/qRkAq_G_9cs.pdf
-  - uid: 51f5cfea6e9f446b1b18c93292be12af
-    parent_uid: 765bf87dd700a3abe736e698385c9771
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2e7a7b9250a0a4d800cc33e4a8239993
-    parent_uid: 765bf87dd700a3abe736e698385c9771
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0861c4d021bfb4ba131518c4eab5c52e
-    parent_uid: 765bf87dd700a3abe736e698385c9771
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_problem_4-3_300k.mp4
-  - uid: 8318a401a39bb92e2b20e0d2bafa5a51
-    parent_uid: 765bf87dd700a3abe736e698385c9771
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/problem-set-4-problem-3/id496265654?i=109892741
+uid: 765bf87dd700a3abe736e698385c9771
 type: courses
 layout: video
 ---

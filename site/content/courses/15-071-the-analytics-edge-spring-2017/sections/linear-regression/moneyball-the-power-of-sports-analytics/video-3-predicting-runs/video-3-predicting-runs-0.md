@@ -1,13 +1,68 @@
 ---
-title: 'Video 3: Predicting Runs'
-uid: fa46e82d615a31eec8896b6e74afc1f5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: mwL__eKs3fI
+    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c7b2be4b79011b39ad7ff7d44fe0f122
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: mwL__eKs3fI
+    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3b54e9819e4090d330fac152af863935
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/mwL__eKs3fI/default.jpg'
+    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4960319d5949ad895624fc62126204b8
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.3.05_300k.mp4
+    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4987982b65e37786f95082653bf815d9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: mwL__eKs3fI
+    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 052f8f7ab892ddcf23ca338297a893a3
+  - id: mwL__eKs3fI.srt
+    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-3-predicting-runs/video-3-predicting-runs-0/mwL__eKs3fI.srt
+    title: 3play caption file
+    type: null
+    uid: 65c29376f6c5de9513fd3f5bf968d733
+  - id: mwL__eKs3fI.pdf
+    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-3-predicting-runs/video-3-predicting-runs-0/mwL__eKs3fI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8c137425f13ca90d665694ae873dc27e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 78e1c112b1a971462c6f783c953d2164
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 503add7ddf8257d07c32328103d4ed1c
+inline_embed_id: 71479150video3predictingruns53597795
 parent_uid: bf2dc78df3180c13511a832922454f59
+related_resources_text: ''
+short_url: video-3-predicting-runs-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-3-predicting-runs/video-3-predicting-runs-0
-short_url: video-3-predicting-runs-0
-inline_embed_id: 71479150video3predictingruns53597795
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: Predicting Runs'
 transcript: >-
   <p><span m='4570'>ALLISON O'HAIR:</span> <span m='4765'>--previous</span>
   <span m='4960'>video,</span> <span m='5740'>we</span> <span
@@ -359,62 +414,7 @@ transcript: >-
   m='344420'>not</span> <span m='344870'>a</span> <span m='344960'>team</span>
   <span m='345500'>will</span> <span m='345620'>make</span> <span
   m='345920'>the</span> <span m='346010'>playoffs.</span> </p>
-embedded_media:
-  - uid: c7b2be4b79011b39ad7ff7d44fe0f122
-    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: mwL__eKs3fI
-  - uid: 3b54e9819e4090d330fac152af863935
-    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: mwL__eKs3fI
-  - uid: 4960319d5949ad895624fc62126204b8
-    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/mwL__eKs3fI/default.jpg'
-  - uid: 4987982b65e37786f95082653bf815d9
-    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.3.05_300k.mp4
-  - uid: 052f8f7ab892ddcf23ca338297a893a3
-    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: mwL__eKs3fI
-  - uid: 65c29376f6c5de9513fd3f5bf968d733
-    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
-    id: mwL__eKs3fI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-3-predicting-runs/video-3-predicting-runs-0/mwL__eKs3fI.srt
-  - uid: 8c137425f13ca90d665694ae873dc27e
-    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
-    id: mwL__eKs3fI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-3-predicting-runs/video-3-predicting-runs-0/mwL__eKs3fI.pdf
-  - uid: 78e1c112b1a971462c6f783c953d2164
-    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 503add7ddf8257d07c32328103d4ed1c
-    parent_uid: fa46e82d615a31eec8896b6e74afc1f5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: fa46e82d615a31eec8896b6e74afc1f5
 type: courses
 layout: video
 ---

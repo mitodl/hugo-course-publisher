@@ -1,13 +1,68 @@
 ---
-title: Extended Green's Theorem
-uid: 01c74ce0a150caad5cb31428c8215218
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: sy7dx_qzQak
+    parent_uid: 01c74ce0a150caad5cb31428c8215218
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 78cd05389ee1f14225f596aafdba2d58
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/sy7dx_qzQak/default.jpg'
+    parent_uid: 01c74ce0a150caad5cb31428c8215218
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 54b0586147898a24f345fc33406a7d93
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/extended-greens-theorem/id414355340?i=90322832
+    parent_uid: 01c74ce0a150caad5cb31428c8215218
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8419fde2850218939f517d59ed8b12a0
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_49_300k.mp4'
+    parent_uid: 01c74ce0a150caad5cb31428c8215218
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a21366286f3146c9c4053ec979d62e8a
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: sy7dx_qzQak
+    parent_uid: 01c74ce0a150caad5cb31428c8215218
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ab325f73cd74b7e7b6e333d3ad04395a
+  - id: sy7dx_qzQak.srt
+    parent_uid: 01c74ce0a150caad5cb31428c8215218
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-71-extended-greens-theorem-boundaries-with-multiple-pieces/extended-greens-theorem/sy7dx_qzQak.srt
+    title: 3play caption file
+    type: null
+    uid: 60489686fa3a60e63c4b860ae3852fc5
+  - id: sy7dx_qzQak.pdf
+    parent_uid: 01c74ce0a150caad5cb31428c8215218
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-71-extended-greens-theorem-boundaries-with-multiple-pieces/extended-greens-theorem/sy7dx_qzQak.pdf
+    title: 3play pdf file
+    type: null
+    uid: 44511bd468c7c601d420ed122a3f24ef
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 01c74ce0a150caad5cb31428c8215218
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4548bf3a0190fa22ba77c3a08170e491
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 01c74ce0a150caad5cb31428c8215218
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e98d363dbe5c0774223dbf2a58389d49
+inline_embed_id: 76854373extendedgreen'stheorem64902541
 parent_uid: 5bbb4de2941a4319bca341074dd6e5f3
+related_resources_text: ''
+short_url: extended-greens-theorem
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-71-extended-greens-theorem-boundaries-with-multiple-pieces/extended-greens-theorem
-short_url: extended-greens-theorem
-inline_embed_id: 76854373extendedgreen'stheorem64902541
-about_this_resource_text: ''
-related_resources_text: ''
+title: Extended Green's Theorem
 transcript: >-
   <p><span m='7760'>CHRISTINE BREINER: Welcome</span> <span m='8030'>back</span>
   <span m='8110'>to</span> <span m='8330'>recitation.</span> <span
@@ -1880,62 +1935,7 @@ transcript: >-
   m='1394480'>is</span> <span m='1394610'>where</span> <span
   m='1394790'>I</span> <span m='1394830'>will</span> <span
   m='1394870'>stop.</span> </p>
-embedded_media:
-  - uid: 78cd05389ee1f14225f596aafdba2d58
-    parent_uid: 01c74ce0a150caad5cb31428c8215218
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: sy7dx_qzQak
-  - uid: 54b0586147898a24f345fc33406a7d93
-    parent_uid: 01c74ce0a150caad5cb31428c8215218
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/sy7dx_qzQak/default.jpg'
-  - uid: 8419fde2850218939f517d59ed8b12a0
-    parent_uid: 01c74ce0a150caad5cb31428c8215218
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/extended-greens-theorem/id414355340?i=90322832
-  - uid: a21366286f3146c9c4053ec979d62e8a
-    parent_uid: 01c74ce0a150caad5cb31428c8215218
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_49_300k.mp4'
-  - uid: ab325f73cd74b7e7b6e333d3ad04395a
-    parent_uid: 01c74ce0a150caad5cb31428c8215218
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: sy7dx_qzQak
-  - uid: 60489686fa3a60e63c4b860ae3852fc5
-    parent_uid: 01c74ce0a150caad5cb31428c8215218
-    id: sy7dx_qzQak.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-71-extended-greens-theorem-boundaries-with-multiple-pieces/extended-greens-theorem/sy7dx_qzQak.srt
-  - uid: 44511bd468c7c601d420ed122a3f24ef
-    parent_uid: 01c74ce0a150caad5cb31428c8215218
-    id: sy7dx_qzQak.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-71-extended-greens-theorem-boundaries-with-multiple-pieces/extended-greens-theorem/sy7dx_qzQak.pdf
-  - uid: 4548bf3a0190fa22ba77c3a08170e491
-    parent_uid: 01c74ce0a150caad5cb31428c8215218
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e98d363dbe5c0774223dbf2a58389d49
-    parent_uid: 01c74ce0a150caad5cb31428c8215218
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 01c74ce0a150caad5cb31428c8215218
 type: courses
 layout: video
 ---

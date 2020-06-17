@@ -1,13 +1,62 @@
 ---
-title: 'Video 5: Data Analysis - Summary Statistics and Scatterplots'
-uid: 1735c9a4aef3d551427a00030f28f2e6
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Goo1EUY-Y8M
+    parent_uid: 1735c9a4aef3d551427a00030f28f2e6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4c9164ddfffefe234ebe5896e2ffef80
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: Goo1EUY-Y8M
+    parent_uid: 1735c9a4aef3d551427a00030f28f2e6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b1e7fa38158c0349ea18fc88907a795f
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/Goo1EUY-Y8M/default.jpg'
+    parent_uid: 1735c9a4aef3d551427a00030f28f2e6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 71bc2c28eabe2312e57a374e6386c6de
+  - id: Goo1EUY-Y8M.srt
+    parent_uid: 1735c9a4aef3d551427a00030f28f2e6
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-5-data-analysis-summary-statistics-and-scatterplots/video-5-data-analysis-summary-statistics-and-scatterplots-0/Goo1EUY-Y8M.srt
+    title: 3play caption file
+    type: null
+    uid: 3fecbb55ce0ceacec85a9b6d750785f8
+  - id: Goo1EUY-Y8M.pdf
+    parent_uid: 1735c9a4aef3d551427a00030f28f2e6
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-5-data-analysis-summary-statistics-and-scatterplots/video-5-data-analysis-summary-statistics-and-scatterplots-0/Goo1EUY-Y8M.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8a4868b1675ea7784eaf603df499afee
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1735c9a4aef3d551427a00030f28f2e6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 712e5a0afe46be425be62b8614429405
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1735c9a4aef3d551427a00030f28f2e6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 81a51e6f4803c97b2ef972aa4efc66c9
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.3.10_300k.mp4
+    parent_uid: 1735c9a4aef3d551427a00030f28f2e6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d8fe190e7ba04b08e086afb2c3c870d0
+inline_embed_id: 92591890video5dataanalysissummarystatisticsandscatterplots10470142
 parent_uid: eeb22344b68207d4d7b6e8fcc1cd06b6
+related_resources_text: ''
+short_url: video-5-data-analysis-summary-statistics-and-scatterplots-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-5-data-analysis-summary-statistics-and-scatterplots/video-5-data-analysis-summary-statistics-and-scatterplots-0
-short_url: video-5-data-analysis-summary-statistics-and-scatterplots-0
-inline_embed_id: 92591890video5dataanalysissummarystatisticsandscatterplots10470142
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 5: Data Analysis - Summary Statistics and Scatterplots'
 transcript: >-
   <p><span m='4500'>In</span> <span m='4902'>this</span> <span
   m='5304'>video,</span> <span m='5706'>we'll</span> <span m='6108'>do</span>
@@ -427,56 +476,7 @@ transcript: >-
   <span m='473137'>and</span> <span m='473451'>then</span> <span
   m='473766'>build</span> <span m='474080'>some</span> <span
   m='474395'>summary</span> <span m='474710'>tables.</span> </p>
-embedded_media:
-  - uid: 4c9164ddfffefe234ebe5896e2ffef80
-    parent_uid: 1735c9a4aef3d551427a00030f28f2e6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Goo1EUY-Y8M
-  - uid: b1e7fa38158c0349ea18fc88907a795f
-    parent_uid: 1735c9a4aef3d551427a00030f28f2e6
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Goo1EUY-Y8M
-  - uid: 71bc2c28eabe2312e57a374e6386c6de
-    parent_uid: 1735c9a4aef3d551427a00030f28f2e6
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Goo1EUY-Y8M/default.jpg'
-  - uid: 3fecbb55ce0ceacec85a9b6d750785f8
-    parent_uid: 1735c9a4aef3d551427a00030f28f2e6
-    id: Goo1EUY-Y8M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-5-data-analysis-summary-statistics-and-scatterplots/video-5-data-analysis-summary-statistics-and-scatterplots-0/Goo1EUY-Y8M.srt
-  - uid: 8a4868b1675ea7784eaf603df499afee
-    parent_uid: 1735c9a4aef3d551427a00030f28f2e6
-    id: Goo1EUY-Y8M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-5-data-analysis-summary-statistics-and-scatterplots/video-5-data-analysis-summary-statistics-and-scatterplots-0/Goo1EUY-Y8M.pdf
-  - uid: 712e5a0afe46be425be62b8614429405
-    parent_uid: 1735c9a4aef3d551427a00030f28f2e6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 81a51e6f4803c97b2ef972aa4efc66c9
-    parent_uid: 1735c9a4aef3d551427a00030f28f2e6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d8fe190e7ba04b08e086afb2c3c870d0
-    parent_uid: 1735c9a4aef3d551427a00030f28f2e6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.3.10_300k.mp4
+uid: 1735c9a4aef3d551427a00030f28f2e6
 type: courses
 layout: video
 ---

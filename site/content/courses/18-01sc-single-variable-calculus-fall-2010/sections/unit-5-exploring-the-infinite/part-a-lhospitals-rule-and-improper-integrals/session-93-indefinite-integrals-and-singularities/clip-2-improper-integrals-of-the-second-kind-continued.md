@@ -1,13 +1,67 @@
 ---
-title: 'Clip 2: Improper Integrals of the Second Kind, Continued'
-uid: 12a328393346d21eee573e96f334cac7
+about_this_resource_text: "<p>&raquo; <a href=\"./resolveuid/d19310b79b987c8698b3e1727e9cd2f7\" title=\"Open in a new window.\" target=\"_blank\">Accompanying Notes (PDF)</a></p>\r\n<p class=\"scholar_medsm\">From Lecture 37 of <a href=\"http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/\"><em>18.01 Single Variable Calculus, Fall 2006</em></a></p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: MK_0QHbUnIA
+    parent_uid: 12a328393346d21eee573e96f334cac7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9b9282daa4d312aaec4f07493e369f6e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/MK_0QHbUnIA/default.jpg'
+    parent_uid: 12a328393346d21eee573e96f334cac7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: db3e5e5056e6060d68452977a9414fe2
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: MK_0QHbUnIA
+    parent_uid: 12a328393346d21eee573e96f334cac7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4f7ab40baffa73ea56f0aefb54800145
+  - id: MK_0QHbUnIA.srt
+    parent_uid: 12a328393346d21eee573e96f334cac7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-93-indefinite-integrals-and-singularities/clip-2-improper-integrals-of-the-second-kind-continued/MK_0QHbUnIA.srt
+    title: 3play caption file
+    type: null
+    uid: 8b5146a95622f30bb859412fdeaf1481
+  - id: MK_0QHbUnIA.pdf
+    parent_uid: 12a328393346d21eee573e96f334cac7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-93-indefinite-integrals-and-singularities/clip-2-improper-integrals-of-the-second-kind-continued/MK_0QHbUnIA.pdf
+    title: 3play pdf file
+    type: null
+    uid: bf88a10d266a9853df82d9ee4f5b821c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 12a328393346d21eee573e96f334cac7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1a046b5790dc22a4bc2fbbbecc4e7199
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 12a328393346d21eee573e96f334cac7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 64cb33d61932915030ecdbb1e3048262
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec37_300k.mp4'
+    parent_uid: 12a328393346d21eee573e96f334cac7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5bdce903acaffcba049c68617b04792c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 12a328393346d21eee573e96f334cac7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e8a906d217cd07b3238fd8286b2de4b6
+inline_embed_id: '76358570clip2:improperintegralsofthesecondkind,continued93598934'
 parent_uid: f502f183c03e6d5e51e824f9afc4cf8c
+related_resources_text: ''
+short_url: clip-2-improper-integrals-of-the-second-kind-continued
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-93-indefinite-integrals-and-singularities/clip-2-improper-integrals-of-the-second-kind-continued
-short_url: clip-2-improper-integrals-of-the-second-kind-continued
-inline_embed_id: '76358570clip2:improperintegralsofthesecondkind,continued93598934'
-about_this_resource_text: "<p>&raquo; <a href=\"./resolveuid/d19310b79b987c8698b3e1727e9cd2f7\" title=\"Open in a new window.\" target=\"_blank\">Accompanying Notes (PDF)</a></p>\r\n<p class=\"scholar_medsm\">From Lecture 37 of <a href=\"http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/\"><em>18.01 Single Variable Calculus, Fall 2006</em></a></p>"
-related_resources_text: ''
+title: 'Clip 2: Improper Integrals of the Second Kind, Continued'
 transcript: >-
   <p><span m='0'>The</span> <span m='1270'>following</span> <span
   m='1420'>content</span> <span m='1680'>is</span> <span
@@ -2873,61 +2927,7 @@ transcript: >-
   m='3007240'>can</span> <span m='3007420'>get</span> <span
   m='3008270'>with</span> <span m='3008460'>this</span> <span
   m='3009350'>next</span> <span m='3009630'>time.</span> </p>
-embedded_media:
-  - uid: 9b9282daa4d312aaec4f07493e369f6e
-    parent_uid: 12a328393346d21eee573e96f334cac7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MK_0QHbUnIA
-  - uid: db3e5e5056e6060d68452977a9414fe2
-    parent_uid: 12a328393346d21eee573e96f334cac7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MK_0QHbUnIA/default.jpg'
-  - uid: 4f7ab40baffa73ea56f0aefb54800145
-    parent_uid: 12a328393346d21eee573e96f334cac7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MK_0QHbUnIA
-  - uid: 8b5146a95622f30bb859412fdeaf1481
-    parent_uid: 12a328393346d21eee573e96f334cac7
-    id: MK_0QHbUnIA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-93-indefinite-integrals-and-singularities/clip-2-improper-integrals-of-the-second-kind-continued/MK_0QHbUnIA.srt
-  - uid: bf88a10d266a9853df82d9ee4f5b821c
-    parent_uid: 12a328393346d21eee573e96f334cac7
-    id: MK_0QHbUnIA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-93-indefinite-integrals-and-singularities/clip-2-improper-integrals-of-the-second-kind-continued/MK_0QHbUnIA.pdf
-  - uid: 1a046b5790dc22a4bc2fbbbecc4e7199
-    parent_uid: 12a328393346d21eee573e96f334cac7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 64cb33d61932915030ecdbb1e3048262
-    parent_uid: 12a328393346d21eee573e96f334cac7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5bdce903acaffcba049c68617b04792c
-    parent_uid: 12a328393346d21eee573e96f334cac7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec37_300k.mp4'
-  - uid: e8a906d217cd07b3238fd8286b2de4b6
-    parent_uid: 12a328393346d21eee573e96f334cac7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 12a328393346d21eee573e96f334cac7
 type: courses
 layout: video
 ---

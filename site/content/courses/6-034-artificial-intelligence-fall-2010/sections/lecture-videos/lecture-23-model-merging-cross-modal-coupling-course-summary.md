@@ -1,17 +1,68 @@
 ---
-title: 'Lecture 23: Model Merging, Cross-Modal Coupling, Course Summary'
-uid: 6935aafeaacb73b5a7440332422a5b20
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-23-model-merging-cross-modal-coupling-course-summary
-short_url: lecture-23-model-merging-cross-modal-coupling-course-summary
-inline_embed_id: '34741736lecture23:modelmerging,cross-modalcoupling,coursesummary11423884'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture begins with a brief discussion
   of cross-modal coupling. Prof. Winston then reviews big ideas of the course,
   suggests possible next courses, and demonstrates how a story can be understood
   from multiple points of view at a conceptual level.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: XPEJg_6Cg6o
+    parent_uid: 6935aafeaacb73b5a7440332422a5b20
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5f13902d850b1748b95cda90c48c42bc
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-23-model-merging-cross/id765641080?i=194480730
+    parent_uid: 6935aafeaacb73b5a7440332422a5b20
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 91d0d207288e102d6da190ff21e1adb3
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec23_300k.mp4'
+    parent_uid: 6935aafeaacb73b5a7440332422a5b20
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e579a47e4bde9f52883ee94eab03b94d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/XPEJg_6Cg6o/default.jpg'
+    parent_uid: 6935aafeaacb73b5a7440332422a5b20
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3e664f542f4b1d00752933c761d315aa
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: XPEJg_6Cg6o
+    parent_uid: 6935aafeaacb73b5a7440332422a5b20
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bcc9a03984f8a96d8e2dd03d87da1281
+  - id: XPEJg_6Cg6o.srt
+    parent_uid: 6935aafeaacb73b5a7440332422a5b20
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-23-model-merging-cross-modal-coupling-course-summary/XPEJg_6Cg6o.srt
+    title: 3play caption file
+    type: null
+    uid: 24802a8dba2b3cd8ff0bde1734b28859
+  - id: XPEJg_6Cg6o.pdf
+    parent_uid: 6935aafeaacb73b5a7440332422a5b20
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-23-model-merging-cross-modal-coupling-course-summary/XPEJg_6Cg6o.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9d1c962f61b4229105425bc5ff930982
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6935aafeaacb73b5a7440332422a5b20
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5ddd45c042035ff0e6b0e0110a2d328d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6935aafeaacb73b5a7440332422a5b20
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f6b67343fb00c7e33774052ab2359aa6
+inline_embed_id: '34741736lecture23:modelmerging,cross-modalcoupling,coursesummary11423884'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: >-
   <p>Coen, Michael. &quot;<a
   href="http://people.csail.mit.edu/mhcoen/Papers/birdsong.pdf"
@@ -20,6 +71,10 @@ related_resources_text: >-
   &quot;<a href="http://dspace.mit.edu/handle/1721.1/34022"
   target="_blank">Multimodal Dynamics: Self-Supervised Learning in Perceptual
   and Motor Systems</a>.&quot; PhD thesis, MIT, 2006.</p>
+short_url: lecture-23-model-merging-cross-modal-coupling-course-summary
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-23-model-merging-cross-modal-coupling-course-summary
+title: 'Lecture 23: Model Merging, Cross-Modal Coupling, Course Summary'
 transcript: >-
   <p><span m='9290'>PATRICK WINSTON: Well, don't stop.</span> </p><p><span
   m='10590'>Shoot.</span> </p><p><span m='12710'>I guess we've got to
@@ -939,62 +994,7 @@ transcript: >-
   solstice hibernation period</span> <span m='2945350'>after that.</span>
   </p><p><span m='2947270'>And that is the end of the story.</span> </p><p><span
   m='2950420'>And we hope you live happily ever after.</span> </p><p></p>
-embedded_media:
-  - uid: 5f13902d850b1748b95cda90c48c42bc
-    parent_uid: 6935aafeaacb73b5a7440332422a5b20
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: XPEJg_6Cg6o
-  - uid: 91d0d207288e102d6da190ff21e1adb3
-    parent_uid: 6935aafeaacb73b5a7440332422a5b20
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-23-model-merging-cross/id765641080?i=194480730
-  - uid: e579a47e4bde9f52883ee94eab03b94d
-    parent_uid: 6935aafeaacb73b5a7440332422a5b20
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec23_300k.mp4'
-  - uid: 3e664f542f4b1d00752933c761d315aa
-    parent_uid: 6935aafeaacb73b5a7440332422a5b20
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/XPEJg_6Cg6o/default.jpg'
-  - uid: bcc9a03984f8a96d8e2dd03d87da1281
-    parent_uid: 6935aafeaacb73b5a7440332422a5b20
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: XPEJg_6Cg6o
-  - uid: 24802a8dba2b3cd8ff0bde1734b28859
-    parent_uid: 6935aafeaacb73b5a7440332422a5b20
-    id: XPEJg_6Cg6o.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-23-model-merging-cross-modal-coupling-course-summary/XPEJg_6Cg6o.srt
-  - uid: 9d1c962f61b4229105425bc5ff930982
-    parent_uid: 6935aafeaacb73b5a7440332422a5b20
-    id: XPEJg_6Cg6o.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-23-model-merging-cross-modal-coupling-course-summary/XPEJg_6Cg6o.pdf
-  - uid: 5ddd45c042035ff0e6b0e0110a2d328d
-    parent_uid: 6935aafeaacb73b5a7440332422a5b20
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f6b67343fb00c7e33774052ab2359aa6
-    parent_uid: 6935aafeaacb73b5a7440332422a5b20
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6935aafeaacb73b5a7440332422a5b20
 type: courses
 layout: video
 ---

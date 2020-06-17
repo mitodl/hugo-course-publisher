@@ -1,16 +1,71 @@
 ---
-title: For Loops With Strings
-uid: 1ee521e6b1400a3012d0f70c2a8334ce
-parent_uid: 6f345174e0dcc7e81d42cb983600c3b0
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-3/for-loops-with-strings
-short_url: for-loops-with-strings
-inline_embed_id: 36645476forloopswithstrings25925485
 about_this_resource_text: >-
   <p><strong>Description:</strong> This in-class question demonstrates how loops
   can be used with strings in Python.</p> <p><strong>Instructor:</strong> Dr.
   Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 4WtaFLayz_w
+    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bdfc146d4c0ccb2ad1f0c5a4fded6bdb
+  - id: 4WtaFLayz_w.srt
+    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-3/for-loops-with-strings/4WtaFLayz_w.srt
+    title: 3play caption file
+    type: null
+    uid: 18dc3aaddb9d790b36afaebd659e9da7
+  - id: 4WtaFLayz_w.pdf
+    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-3/for-loops-with-strings/4WtaFLayz_w.pdf
+    title: 3play pdf file
+    type: null
+    uid: 04a7dce7569d2cb05144aab86c1165e7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1e75b60c1085477b3b63c52ffc256f88
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7bc0259de4cc567f15fe9ef4d2bdd426
+  - id: Video-YouTube-Stream
+    media_location: 4WtaFLayz_w
+    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bf7137ae829e76a7d5ccb676369e9c9b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4WtaFLayz_w/default.jpg'
+    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6b94480f659f7c9debe7be3c7721f752
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: cf4cb055182a3f6bacaf5d3f76735ace
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_03_exercise_02_300k.mp4
+    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 649fcb25023caf9b8e93c3afcf58d55f
+inline_embed_id: 36645476forloopswithstrings25925485
+parent_uid: 6f345174e0dcc7e81d42cb983600c3b0
 related_resources_text: ''
+short_url: for-loops-with-strings
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-3/for-loops-with-strings
+title: For Loops With Strings
 transcript: >-
   <p><span m='790'>The</span> <span m='880'>following</span> <span
   m='1300'>content</span> <span m='1870'>is</span> <span
@@ -278,62 +333,7 @@ transcript: >-
   m='255240'>you</span> <span m='255330'>understand</span> <span
   m='255720'>exactly</span> <span m='256200'>what's</span> <span
   m='256350'>happening.</span> <span m='256950'>OK.</span> </p>
-embedded_media:
-  - uid: bdfc146d4c0ccb2ad1f0c5a4fded6bdb
-    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4WtaFLayz_w
-  - uid: 18dc3aaddb9d790b36afaebd659e9da7
-    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
-    id: 4WtaFLayz_w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-3/for-loops-with-strings/4WtaFLayz_w.srt
-  - uid: 04a7dce7569d2cb05144aab86c1165e7
-    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
-    id: 4WtaFLayz_w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-3/for-loops-with-strings/4WtaFLayz_w.pdf
-  - uid: 1e75b60c1085477b3b63c52ffc256f88
-    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7bc0259de4cc567f15fe9ef4d2bdd426
-    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: bf7137ae829e76a7d5ccb676369e9c9b
-    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4WtaFLayz_w
-  - uid: 6b94480f659f7c9debe7be3c7721f752
-    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4WtaFLayz_w/default.jpg'
-  - uid: cf4cb055182a3f6bacaf5d3f76735ace
-    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: 649fcb25023caf9b8e93c3afcf58d55f
-    parent_uid: 1ee521e6b1400a3012d0f70c2a8334ce
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_03_exercise_02_300k.mp4
+uid: 1ee521e6b1400a3012d0f70c2a8334ce
 type: courses
 layout: video
 ---

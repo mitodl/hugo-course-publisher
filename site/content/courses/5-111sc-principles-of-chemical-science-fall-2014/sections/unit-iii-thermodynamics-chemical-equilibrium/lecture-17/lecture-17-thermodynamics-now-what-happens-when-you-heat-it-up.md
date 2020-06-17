@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 17: Thermodynamics: Now What Happens When You Heat It Up?'
-uid: 186fbfaa444f5f39e0592f3a9707720a
-parent_uid: 74d44776ec127476168be0f074e4269b
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-17/lecture-17-thermodynamics-now-what-happens-when-you-heat-it-up
-short_url: lecture-17-thermodynamics-now-what-happens-when-you-heat-it-up
-inline_embed_id: 68885198lecture17thermodynamicsnowwhathappenswhenyouheatitup88736385
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: Chemistry is part of everyday life whether we realize
@@ -14,7 +7,68 @@ about_this_resource_text: >-
   organisms, and we hear from researcher Lourdes Aleman about the importance of
   weak interactions known as hydrogen bonds.</p> <p><strong>Instructor:</strong>
   Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: awdQqF9CFt0
+    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 76a2a35f388e7be13f040b471d9b68d5
+  - id: awdQqF9CFt0.srt
+    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-17/lecture-17-thermodynamics-now-what-happens-when-you-heat-it-up/awdQqF9CFt0.srt
+    title: 3play caption file
+    type: null
+    uid: 4aea600e8cbc0e64fdf94df095f31b97
+  - id: awdQqF9CFt0.pdf
+    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-17/lecture-17-thermodynamics-now-what-happens-when-you-heat-it-up/awdQqF9CFt0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 211d1dcb90c019b93926abfa1b46dc87
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e50cab0497fb4dde00123cc05d64ec0b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0fb57d8cec120d2f5f857711c2406fe0
+  - id: Video-YouTube-Stream
+    media_location: awdQqF9CFt0
+    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6b201888098dc163cf97f04870a7d1e3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/awdQqF9CFt0/default.jpg'
+    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e76639fdf1e1ad5bc41861b394b600b0
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b1a15257d49a33e73bb3fdd9b491cb26
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L17_300k.mp4'
+    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 58645a45538586c95d2fdf6d8ecdd0f6
+inline_embed_id: 68885198lecture17thermodynamicsnowwhathappenswhenyouheatitup88736385
+parent_uid: 74d44776ec127476168be0f074e4269b
 related_resources_text: ''
+short_url: lecture-17-thermodynamics-now-what-happens-when-you-heat-it-up
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-17/lecture-17-thermodynamics-now-what-happens-when-you-heat-it-up
+title: 'Lecture 17: Thermodynamics: Now What Happens When You Heat It Up?'
 transcript: >-
   <p><span m="30">The</span> <span m="130">following</span> <span
   m="600">content</span> <span m="1090">is</span> <span m="1210">provided</span>
@@ -1950,61 +2004,7 @@ transcript: >-
   m="1941680">can</span> <span m="1941890">use</span> <span
   m="1942260">it</span> <span m="1942560">as</span> <span m="1942850">an</span>
   <span m="1942950">energy</span> <span m="1943450">storage.</span></p>
-embedded_media:
-  - uid: 76a2a35f388e7be13f040b471d9b68d5
-    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: awdQqF9CFt0
-  - uid: 4aea600e8cbc0e64fdf94df095f31b97
-    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
-    id: awdQqF9CFt0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-17/lecture-17-thermodynamics-now-what-happens-when-you-heat-it-up/awdQqF9CFt0.srt
-  - uid: 211d1dcb90c019b93926abfa1b46dc87
-    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
-    id: awdQqF9CFt0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-17/lecture-17-thermodynamics-now-what-happens-when-you-heat-it-up/awdQqF9CFt0.pdf
-  - uid: e50cab0497fb4dde00123cc05d64ec0b
-    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0fb57d8cec120d2f5f857711c2406fe0
-    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6b201888098dc163cf97f04870a7d1e3
-    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: awdQqF9CFt0
-  - uid: e76639fdf1e1ad5bc41861b394b600b0
-    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/awdQqF9CFt0/default.jpg'
-  - uid: b1a15257d49a33e73bb3fdd9b491cb26
-    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 58645a45538586c95d2fdf6d8ecdd0f6
-    parent_uid: 186fbfaa444f5f39e0592f3a9707720a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L17_300k.mp4'
+uid: 186fbfaa444f5f39e0592f3a9707720a
 type: courses
 layout: video
 ---

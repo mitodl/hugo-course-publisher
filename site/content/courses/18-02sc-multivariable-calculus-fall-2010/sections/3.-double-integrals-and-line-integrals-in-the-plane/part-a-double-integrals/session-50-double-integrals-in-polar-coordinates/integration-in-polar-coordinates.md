@@ -1,13 +1,68 @@
 ---
-title: Integration in Polar Coordinates
-uid: 15ca60dfdfe8faddf8c951758562e008
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: I2Z6K_g5kpc
+    parent_uid: 15ca60dfdfe8faddf8c951758562e008
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 14363d6f8e23e8401ef04e17dd700d36
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/I2Z6K_g5kpc/default.jpg'
+    parent_uid: 15ca60dfdfe8faddf8c951758562e008
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 54382118bbc75b4ff12e7de7551599b1
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_34_300k.mp4'
+    parent_uid: 15ca60dfdfe8faddf8c951758562e008
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b08d1560332f640859be65bb68087b88
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/integration-in-polar-coordinates/id414355340?i=90322831
+    parent_uid: 15ca60dfdfe8faddf8c951758562e008
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d2d2b7265bdad0fc408d9b1aa3cb39b6
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: I2Z6K_g5kpc
+    parent_uid: 15ca60dfdfe8faddf8c951758562e008
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bd957d38b63dc9cf867cf3c18ebd3cd6
+  - id: I2Z6K_g5kpc.srt
+    parent_uid: 15ca60dfdfe8faddf8c951758562e008
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-50-double-integrals-in-polar-coordinates/integration-in-polar-coordinates/I2Z6K_g5kpc.srt
+    title: 3play caption file
+    type: null
+    uid: b4106295c964b2300cf0516ee454d3ab
+  - id: I2Z6K_g5kpc.pdf
+    parent_uid: 15ca60dfdfe8faddf8c951758562e008
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-50-double-integrals-in-polar-coordinates/integration-in-polar-coordinates/I2Z6K_g5kpc.pdf
+    title: 3play pdf file
+    type: null
+    uid: cdcbce2b7b3d91fbc9f7a0e0c5e9be6a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 15ca60dfdfe8faddf8c951758562e008
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e6202054b4abb4b2eb65f33f4a3e2fa7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 15ca60dfdfe8faddf8c951758562e008
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 25e3e91245720b31a9e6faff2550b304
+inline_embed_id: 97445713integrationinpolarcoordinates25804557
 parent_uid: 526fb43eaa2051870cb72c769f2c80ae
+related_resources_text: ''
+short_url: integration-in-polar-coordinates
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-50-double-integrals-in-polar-coordinates/integration-in-polar-coordinates
-short_url: integration-in-polar-coordinates
-inline_embed_id: 97445713integrationinpolarcoordinates25804557
-about_this_resource_text: ''
-related_resources_text: ''
+title: Integration in Polar Coordinates
 transcript: >-
   <p><span m='6910'>DAVID JORDAN: Hello,</span> <span m='7230'>and</span> <span
   m='7330'>welcome</span> <span m='7570'>back</span> <span m='7675'>to</span>
@@ -935,62 +990,7 @@ transcript: >-
   m='1050716'>And</span> <span m='1051110'>I'll</span> <span
   m='1051250'>leave</span> <span m='1051440'>it</span> <span
   m='1051500'>at</span> <span m='1051580'>that.</span> </p>
-embedded_media:
-  - uid: 14363d6f8e23e8401ef04e17dd700d36
-    parent_uid: 15ca60dfdfe8faddf8c951758562e008
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: I2Z6K_g5kpc
-  - uid: 54382118bbc75b4ff12e7de7551599b1
-    parent_uid: 15ca60dfdfe8faddf8c951758562e008
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/I2Z6K_g5kpc/default.jpg'
-  - uid: b08d1560332f640859be65bb68087b88
-    parent_uid: 15ca60dfdfe8faddf8c951758562e008
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_34_300k.mp4'
-  - uid: d2d2b7265bdad0fc408d9b1aa3cb39b6
-    parent_uid: 15ca60dfdfe8faddf8c951758562e008
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/integration-in-polar-coordinates/id414355340?i=90322831
-  - uid: bd957d38b63dc9cf867cf3c18ebd3cd6
-    parent_uid: 15ca60dfdfe8faddf8c951758562e008
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: I2Z6K_g5kpc
-  - uid: b4106295c964b2300cf0516ee454d3ab
-    parent_uid: 15ca60dfdfe8faddf8c951758562e008
-    id: I2Z6K_g5kpc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-50-double-integrals-in-polar-coordinates/integration-in-polar-coordinates/I2Z6K_g5kpc.srt
-  - uid: cdcbce2b7b3d91fbc9f7a0e0c5e9be6a
-    parent_uid: 15ca60dfdfe8faddf8c951758562e008
-    id: I2Z6K_g5kpc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-50-double-integrals-in-polar-coordinates/integration-in-polar-coordinates/I2Z6K_g5kpc.pdf
-  - uid: e6202054b4abb4b2eb65f33f4a3e2fa7
-    parent_uid: 15ca60dfdfe8faddf8c951758562e008
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 25e3e91245720b31a9e6faff2550b304
-    parent_uid: 15ca60dfdfe8faddf8c951758562e008
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 15ca60dfdfe8faddf8c951758562e008
 type: courses
 layout: video
 ---

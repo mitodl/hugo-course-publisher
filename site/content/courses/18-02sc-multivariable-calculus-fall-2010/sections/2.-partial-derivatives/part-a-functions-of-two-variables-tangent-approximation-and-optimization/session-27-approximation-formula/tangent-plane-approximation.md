@@ -1,13 +1,68 @@
 ---
-title: Tangent Plane Approximation
-uid: cf6d568c35b6d26c288827895cdeb26f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: idNIKTaBEaI
+    parent_uid: cf6d568c35b6d26c288827895cdeb26f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b550147eabd42c0649f6e2832181ddf0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/idNIKTaBEaI/default.jpg'
+    parent_uid: cf6d568c35b6d26c288827895cdeb26f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 44ff48889227f1ff1430e1af26b5389f
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: idNIKTaBEaI
+    parent_uid: cf6d568c35b6d26c288827895cdeb26f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 224bff63003fde74a678c8b4d478475d
+  - id: idNIKTaBEaI.srt
+    parent_uid: cf6d568c35b6d26c288827895cdeb26f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-27-approximation-formula/tangent-plane-approximation/idNIKTaBEaI.srt
+    title: 3play caption file
+    type: null
+    uid: bc3ea6b8fff322f1f72d225556e369ea
+  - id: idNIKTaBEaI.pdf
+    parent_uid: cf6d568c35b6d26c288827895cdeb26f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-27-approximation-formula/tangent-plane-approximation/idNIKTaBEaI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 011e86938c5dd072183df24445ba25c1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cf6d568c35b6d26c288827895cdeb26f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1591639e8c1e229b48cace6d4c0fee07
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cf6d568c35b6d26c288827895cdeb26f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 708f264c2b87444efbe7f346b644c2bb
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/tangent-plane-approximation/id414355340?i=90322813
+    parent_uid: cf6d568c35b6d26c288827895cdeb26f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 05870d783c938c2a6ac87ef3db39dabd
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_21_300k.mp4'
+    parent_uid: cf6d568c35b6d26c288827895cdeb26f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8f041d2113a1c4947d4a685c399f2835
+inline_embed_id: 32083658tangentplaneapproximation55493564
 parent_uid: 137654825c1e9afc7157b73f07e97db6
+related_resources_text: ''
+short_url: tangent-plane-approximation
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-27-approximation-formula/tangent-plane-approximation
-short_url: tangent-plane-approximation
-inline_embed_id: 32083658tangentplaneapproximation55493564
-about_this_resource_text: ''
-related_resources_text: ''
+title: Tangent Plane Approximation
 transcript: >-
   <p><span m='0'>CHRISTINE BREINER:</span> <span m='7430'>Welcome</span> <span
   m='7820'>back</span> <span m='8000'>to</span> <span
@@ -497,62 +552,7 @@ transcript: >-
   m='412860'>think</span> <span m='413110'>that's</span> <span
   m='413280'>where</span> <span m='413390'>I'll</span> <span
   m='413510'>stop.</span> </p>
-embedded_media:
-  - uid: b550147eabd42c0649f6e2832181ddf0
-    parent_uid: cf6d568c35b6d26c288827895cdeb26f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: idNIKTaBEaI
-  - uid: 44ff48889227f1ff1430e1af26b5389f
-    parent_uid: cf6d568c35b6d26c288827895cdeb26f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/idNIKTaBEaI/default.jpg'
-  - uid: 224bff63003fde74a678c8b4d478475d
-    parent_uid: cf6d568c35b6d26c288827895cdeb26f
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: idNIKTaBEaI
-  - uid: bc3ea6b8fff322f1f72d225556e369ea
-    parent_uid: cf6d568c35b6d26c288827895cdeb26f
-    id: idNIKTaBEaI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-27-approximation-formula/tangent-plane-approximation/idNIKTaBEaI.srt
-  - uid: 011e86938c5dd072183df24445ba25c1
-    parent_uid: cf6d568c35b6d26c288827895cdeb26f
-    id: idNIKTaBEaI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-27-approximation-formula/tangent-plane-approximation/idNIKTaBEaI.pdf
-  - uid: 1591639e8c1e229b48cace6d4c0fee07
-    parent_uid: cf6d568c35b6d26c288827895cdeb26f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 708f264c2b87444efbe7f346b644c2bb
-    parent_uid: cf6d568c35b6d26c288827895cdeb26f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 05870d783c938c2a6ac87ef3db39dabd
-    parent_uid: cf6d568c35b6d26c288827895cdeb26f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/tangent-plane-approximation/id414355340?i=90322813
-  - uid: 8f041d2113a1c4947d4a685c399f2835
-    parent_uid: cf6d568c35b6d26c288827895cdeb26f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_21_300k.mp4'
+uid: cf6d568c35b6d26c288827895cdeb26f
 type: courses
 layout: video
 ---

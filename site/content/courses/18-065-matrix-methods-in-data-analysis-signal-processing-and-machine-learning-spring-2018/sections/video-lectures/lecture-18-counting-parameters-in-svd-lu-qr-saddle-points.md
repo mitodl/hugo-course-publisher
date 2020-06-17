@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 18: Counting Parameters in SVD, LU, QR, Saddle Points'
-uid: 372ba2977de951f257035e929fb72095
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-18-counting-parameters-in-svd-lu-qr-saddle-points
-short_url: lecture-18-counting-parameters-in-svd-lu-qr-saddle-points
-inline_embed_id: 86917761lecture18countingparametersinsvdluqrsaddlepoints19530502
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>In this lecture, Professor Strang
   reviews counting the free parameters in a variety of key matrices. He then
@@ -16,7 +9,62 @@ about_this_resource_text: >-
   <strong>Topic 2:</strong> Find saddle points from constraints and Lagrange
   multipliers</p> <p>Related section in textbook: III.2</p>
   <p><strong>Instructor:</strong> Prof. Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: xaSL8yFgqig
+    parent_uid: 372ba2977de951f257035e929fb72095
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 27323aa67de54939a69305605eb0f6fd
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/xaSL8yFgqig/default.jpg'
+    parent_uid: 372ba2977de951f257035e929fb72095
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2c34c5d8c5ce4ba5bd90044f41ee2f46
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: xaSL8yFgqig
+    parent_uid: 372ba2977de951f257035e929fb72095
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2893f282b9473dca0f9e8f0c6d3c77f8
+  - id: xaSL8yFgqig.srt
+    parent_uid: 372ba2977de951f257035e929fb72095
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-18-counting-parameters-in-svd-lu-qr-saddle-points/xaSL8yFgqig.srt
+    title: 3play caption file
+    type: null
+    uid: 2f69ef7bdb136a4508cb2aaf0f820965
+  - id: xaSL8yFgqig.pdf
+    parent_uid: 372ba2977de951f257035e929fb72095
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-18-counting-parameters-in-svd-lu-qr-saddle-points/xaSL8yFgqig.pdf
+    title: 3play pdf file
+    type: null
+    uid: ade37003589b2c2d0030ea38cea605b0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 372ba2977de951f257035e929fb72095
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8067c10b53a42c13a4d43d7808ae22f6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 372ba2977de951f257035e929fb72095
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e4e4b95c6089963b6c66bfc445f12124
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture18_300k.mp4'
+    parent_uid: 372ba2977de951f257035e929fb72095
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b986b2a53560cb1f179d2bb21837827c
+inline_embed_id: 86917761lecture18countingparametersinsvdluqrsaddlepoints19530502
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-18-counting-parameters-in-svd-lu-qr-saddle-points
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-18-counting-parameters-in-svd-lu-qr-saddle-points
+title: 'Lecture 18: Counting Parameters in SVD, LU, QR, Saddle Points'
 transcript: >-
   <p><span m='1550'>The</span> <span m='1640'>following</span> <span
   m='2090'>content</span> <span m='2600'>is</span> <span
@@ -2652,55 +2700,7 @@ transcript: >-
   m='2936830'>Thanks.</span> <span m='2937190'>So</span> <span
   m='2937370'>I'll</span> <span m='2937460'>see</span> <span
   m='2937700'>you</span> <span m='2937820'>Wednesday.</span> </p>
-embedded_media:
-  - uid: 27323aa67de54939a69305605eb0f6fd
-    parent_uid: 372ba2977de951f257035e929fb72095
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: xaSL8yFgqig
-  - uid: 2c34c5d8c5ce4ba5bd90044f41ee2f46
-    parent_uid: 372ba2977de951f257035e929fb72095
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/xaSL8yFgqig/default.jpg'
-  - uid: 2893f282b9473dca0f9e8f0c6d3c77f8
-    parent_uid: 372ba2977de951f257035e929fb72095
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: xaSL8yFgqig
-  - uid: 2f69ef7bdb136a4508cb2aaf0f820965
-    parent_uid: 372ba2977de951f257035e929fb72095
-    id: xaSL8yFgqig.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-18-counting-parameters-in-svd-lu-qr-saddle-points/xaSL8yFgqig.srt
-  - uid: ade37003589b2c2d0030ea38cea605b0
-    parent_uid: 372ba2977de951f257035e929fb72095
-    id: xaSL8yFgqig.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-18-counting-parameters-in-svd-lu-qr-saddle-points/xaSL8yFgqig.pdf
-  - uid: 8067c10b53a42c13a4d43d7808ae22f6
-    parent_uid: 372ba2977de951f257035e929fb72095
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e4e4b95c6089963b6c66bfc445f12124
-    parent_uid: 372ba2977de951f257035e929fb72095
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b986b2a53560cb1f179d2bb21837827c
-    parent_uid: 372ba2977de951f257035e929fb72095
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture18_300k.mp4'
+uid: 372ba2977de951f257035e929fb72095
 type: courses
 layout: video
 ---

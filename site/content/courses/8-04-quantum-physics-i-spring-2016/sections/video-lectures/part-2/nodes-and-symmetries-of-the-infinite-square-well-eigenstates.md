@@ -1,13 +1,73 @@
 ---
-title: Nodes and symmetries of the infinite square well eigenstates
-uid: 69495ebfecdd317a5e39cec0c6dcab93
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: x_ngaeI00qU
+    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 60b62faa848a6949f3b09457638a55b4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/HvHr-YnvFTM/default.jpg'
+    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: af89930c8b06d33d7e9a85f7d7a0ab86
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: x_ngaeI00qU
+    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 241344f478017ed2de64b662d65fad4f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2ff33c6ab19adf3eb0985e3a4dcc2834
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec11_s3_300k.mp4'
+    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 68626999db7aab90bff7aef6d5f314ec
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/x_ngaeI00qU/default.jpg'
+    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1747197a7c7db68b3e22d9438fecd979
+  - id: x_ngaeI00qU.srt
+    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/nodes-and-symmetries-of-the-infinite-square-well-eigenstates/x_ngaeI00qU.srt
+    title: 3play caption file
+    type: null
+    uid: bcaac8b1e3fff7eb6cc0b4009b4c5f1d
+  - id: x_ngaeI00qU.pdf
+    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/nodes-and-symmetries-of-the-infinite-square-well-eigenstates/x_ngaeI00qU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 40578812b240664be038c7b1f8fa9345
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 94554ec489bb9cfc12d341a02b10b45f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6a46a4c8ec33b83db2a5e363f0d6de5e
+inline_embed_id: 28506075nodesandsymmetriesoftheinfinitesquarewelleigenstates95782192
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: nodes-and-symmetries-of-the-infinite-square-well-eigenstates
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/nodes-and-symmetries-of-the-infinite-square-well-eigenstates
-short_url: nodes-and-symmetries-of-the-infinite-square-well-eigenstates
-inline_embed_id: 28506075nodesandsymmetriesoftheinfinitesquarewelleigenstates95782192
-about_this_resource_text: ''
-related_resources_text: ''
+title: Nodes and symmetries of the infinite square well eigenstates
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='390'>Here</span> <span
   m='660'>is</span> <span m='1680'>x.</span> <span m='5698'>And</span> <span
@@ -476,67 +536,7 @@ transcript: >-
   m='580350'>are</span> <span m='580660'>either</span> <span
   m='581080'>even</span> <span m='581620'>or</span> <span m='582010'>odd.</span>
   </p>
-embedded_media:
-  - uid: 60b62faa848a6949f3b09457638a55b4
-    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: x_ngaeI00qU
-  - uid: af89930c8b06d33d7e9a85f7d7a0ab86
-    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/HvHr-YnvFTM/default.jpg'
-  - uid: 241344f478017ed2de64b662d65fad4f
-    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: x_ngaeI00qU
-  - uid: 2ff33c6ab19adf3eb0985e3a4dcc2834
-    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 68626999db7aab90bff7aef6d5f314ec
-    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec11_s3_300k.mp4'
-  - uid: 1747197a7c7db68b3e22d9438fecd979
-    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/x_ngaeI00qU/default.jpg'
-  - uid: bcaac8b1e3fff7eb6cc0b4009b4c5f1d
-    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
-    id: x_ngaeI00qU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/nodes-and-symmetries-of-the-infinite-square-well-eigenstates/x_ngaeI00qU.srt
-  - uid: 40578812b240664be038c7b1f8fa9345
-    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
-    id: x_ngaeI00qU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/nodes-and-symmetries-of-the-infinite-square-well-eigenstates/x_ngaeI00qU.pdf
-  - uid: 94554ec489bb9cfc12d341a02b10b45f
-    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6a46a4c8ec33b83db2a5e363f0d6de5e
-    parent_uid: 69495ebfecdd317a5e39cec0c6dcab93
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 69495ebfecdd317a5e39cec0c6dcab93
 type: courses
 layout: video
 ---

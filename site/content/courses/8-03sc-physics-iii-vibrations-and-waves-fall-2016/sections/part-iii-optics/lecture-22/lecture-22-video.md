@@ -1,13 +1,61 @@
 ---
-title: Lecture 22 Video
-uid: 2ee9cbeaa2d7816784afd29ebf30a08e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: FY6iXM9X5Fo
+    parent_uid: 2ee9cbeaa2d7816784afd29ebf30a08e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c42481f556f14195d0ef81dabb4e421e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FY6iXM9X5Fo/default.jpg'
+    parent_uid: 2ee9cbeaa2d7816784afd29ebf30a08e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3cec21c55257a59a7eca7941cd257852
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: FY6iXM9X5Fo
+    parent_uid: 2ee9cbeaa2d7816784afd29ebf30a08e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e870a660c0f0de1addffaee093addf75
+  - id: FY6iXM9X5Fo.srt
+    parent_uid: 2ee9cbeaa2d7816784afd29ebf30a08e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-22/lecture-22-video/FY6iXM9X5Fo.srt
+    title: 3play caption file
+    type: null
+    uid: 1ea091370bd07331a3cae3ad1cc714fe
+  - id: FY6iXM9X5Fo.pdf
+    parent_uid: 2ee9cbeaa2d7816784afd29ebf30a08e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-22/lecture-22-video/FY6iXM9X5Fo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5af9c41fdccba16a92c2994a0521c14b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2ee9cbeaa2d7816784afd29ebf30a08e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a7412e9e8ac8e2501f2233289fb2ea59
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2ee9cbeaa2d7816784afd29ebf30a08e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 377819339924884c2bea66daf99e7296
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec22_300k.mp4'
+    parent_uid: 2ee9cbeaa2d7816784afd29ebf30a08e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: fb23e5fc6ae838826144ff0bb123111c
+inline_embed_id: 54069221lecture22video66469046
 parent_uid: 3bf321ed8bb261b14279a2276aff6f51
+related_resources_text: ''
+short_url: lecture-22-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-22/lecture-22-video
-short_url: lecture-22-video
-inline_embed_id: 54069221lecture22video66469046
-about_this_resource_text: ''
-related_resources_text: ''
+title: Lecture 22 Video
 transcript: >-
   <p><span m='2490'>The</span> <span m='2610'>following</span> <span
   m='3060'>content</span> <span m='3540'>is</span> <span
@@ -3682,55 +3730,7 @@ transcript: >-
   m='4398830'>I</span> <span m='4398950'>hope</span> <span
   m='4399260'>you</span> <span m='4399470'>enjoyed</span> <span
   m='4400010'>this</span> <span m='4400250'>lecture.</span> </p>
-embedded_media:
-  - uid: c42481f556f14195d0ef81dabb4e421e
-    parent_uid: 2ee9cbeaa2d7816784afd29ebf30a08e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FY6iXM9X5Fo
-  - uid: 3cec21c55257a59a7eca7941cd257852
-    parent_uid: 2ee9cbeaa2d7816784afd29ebf30a08e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FY6iXM9X5Fo/default.jpg'
-  - uid: e870a660c0f0de1addffaee093addf75
-    parent_uid: 2ee9cbeaa2d7816784afd29ebf30a08e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FY6iXM9X5Fo
-  - uid: 1ea091370bd07331a3cae3ad1cc714fe
-    parent_uid: 2ee9cbeaa2d7816784afd29ebf30a08e
-    id: FY6iXM9X5Fo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-22/lecture-22-video/FY6iXM9X5Fo.srt
-  - uid: 5af9c41fdccba16a92c2994a0521c14b
-    parent_uid: 2ee9cbeaa2d7816784afd29ebf30a08e
-    id: FY6iXM9X5Fo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-22/lecture-22-video/FY6iXM9X5Fo.pdf
-  - uid: a7412e9e8ac8e2501f2233289fb2ea59
-    parent_uid: 2ee9cbeaa2d7816784afd29ebf30a08e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 377819339924884c2bea66daf99e7296
-    parent_uid: 2ee9cbeaa2d7816784afd29ebf30a08e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: fb23e5fc6ae838826144ff0bb123111c
-    parent_uid: 2ee9cbeaa2d7816784afd29ebf30a08e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec22_300k.mp4'
+uid: 2ee9cbeaa2d7816784afd29ebf30a08e
 type: courses
 layout: video
 ---

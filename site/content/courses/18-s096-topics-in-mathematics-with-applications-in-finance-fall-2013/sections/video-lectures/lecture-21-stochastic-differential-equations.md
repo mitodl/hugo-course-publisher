@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 21: Stochastic Differential Equations'
-uid: bd90017963c3d6eb9b51a8acdf4e0102
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-21-stochastic-differential-equations
-short_url: lecture-21-stochastic-differential-equations
-inline_embed_id: '34880733lecture21:stochasticdifferentialequations98221299'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture covers the topic of stochastic
   differential equations, linking probablity theory with ordinary and partial
   differential equations.</p> <p><strong>Instructor:</strong> Dr. Choongbum
   Lee</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: qdbkvD4N-us
+    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2ac8591223bb4ecdc517696f4b82b52f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/qdbkvD4N-us/default.jpg'
+    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bc9ff3880fe849237afdf35c876df944
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 38b4ae4eed6e1fadee823750a5097222
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec21_300k.mp4'
+    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8e838defaca4902181f61d0bca0d1c4a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: qdbkvD4N-us
+    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 33e40ab5d130c9ce8cc9ae64c495ba5b
+  - id: qdbkvD4N-us.srt
+    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-21-stochastic-differential-equations/qdbkvD4N-us.srt
+    title: 3play caption file
+    type: null
+    uid: a0063b02732ef3bcf60c20c509a7d1d7
+  - id: qdbkvD4N-us.pdf
+    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-21-stochastic-differential-equations/qdbkvD4N-us.pdf
+    title: 3play pdf file
+    type: null
+    uid: 74a46222ca5c89217c141f6da7156d76
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: feb9068491d9bdc843dd805fda39a6d6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9bdf1cf4e454d258307ca7be5503b396
+inline_embed_id: '34880733lecture21:stochasticdifferentialequations98221299'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-21-stochastic-differential-equations
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-21-stochastic-differential-equations
+title: 'Lecture 21: Stochastic Differential Equations'
 transcript: >-
   <p><span m='60'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -2522,61 +2576,7 @@ transcript: >-
   m='3361570'>hard</span> <span m='3361840'>work.</span> <span
   m='3362300'>Now</span> <span m='3362610'>it's</span> <span m='3362905'>time
   to</span> <span m='3363200'>enjoy.</span> </p>
-embedded_media:
-  - uid: 2ac8591223bb4ecdc517696f4b82b52f
-    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: qdbkvD4N-us
-  - uid: bc9ff3880fe849237afdf35c876df944
-    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/qdbkvD4N-us/default.jpg'
-  - uid: 38b4ae4eed6e1fadee823750a5097222
-    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: 8e838defaca4902181f61d0bca0d1c4a
-    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec21_300k.mp4'
-  - uid: 33e40ab5d130c9ce8cc9ae64c495ba5b
-    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: qdbkvD4N-us
-  - uid: a0063b02732ef3bcf60c20c509a7d1d7
-    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
-    id: qdbkvD4N-us.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-21-stochastic-differential-equations/qdbkvD4N-us.srt
-  - uid: 74a46222ca5c89217c141f6da7156d76
-    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
-    id: qdbkvD4N-us.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-21-stochastic-differential-equations/qdbkvD4N-us.pdf
-  - uid: feb9068491d9bdc843dd805fda39a6d6
-    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9bdf1cf4e454d258307ca7be5503b396
-    parent_uid: bd90017963c3d6eb9b51a8acdf4e0102
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: bd90017963c3d6eb9b51a8acdf4e0102
 type: courses
 layout: video
 ---

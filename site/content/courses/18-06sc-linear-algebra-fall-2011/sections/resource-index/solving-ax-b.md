@@ -1,13 +1,68 @@
 ---
-title: Solving Ax=b
-uid: 1ad97ac8333f714a3920ef04ed7eb0c8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: fjsPjh0B2tU
+    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 339c9305291df5d49fcac89b200b892c
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: fjsPjh0B2tU
+    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 59a3afa235511b401de0590f2a18de9f
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/itunes-u/solving-ax-b/id488155309?i=108454357'
+    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8f3133d912726938382c3980234d9435
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_M3_300k.mp4
+    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2e471e35640d5cf8fa2952dbe7593308
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/fjsPjh0B2tU/default.jpg'
+    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 19a90f53bbea5c2ca83945cc2b24563a
+  - id: fjsPjh0B2tU.srt
+    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/solving-ax-b/fjsPjh0B2tU.srt
+    title: 3play caption file
+    type: null
+    uid: 121fa4e640cc2616fc457f56b8513dee
+  - id: fjsPjh0B2tU.pdf
+    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/solving-ax-b/fjsPjh0B2tU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 74db2b04ac874e21aaf88c92c3ac5fae
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e98077972585232d107f0e8cdef91838
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 299112283d30ef27425db15b9073fed2
+inline_embed_id: 76855487solvingaxb37814532
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: solving-ax-b
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/solving-ax-b
-short_url: solving-ax-b
-inline_embed_id: 76855487solvingaxb37814532
-about_this_resource_text: ''
-related_resources_text: ''
+title: Solving Ax=b
 transcript: >-
   <p><span m='7040'>MARTINA BALAGOVIC: Hi.</span> <span m='7580'>Welcome.</span>
   </p><p><span m='8500'>Today's</span> <span m='8910'>problem</span> <span
@@ -406,62 +461,7 @@ transcript: >-
   m='540770'>all</span> <span m='540880'>I</span> <span m='540950'>wanted</span>
   <span m='541210'>to</span> <span m='541280'>say</span> <span
   m='541580'>today.</span> </p>
-embedded_media:
-  - uid: 339c9305291df5d49fcac89b200b892c
-    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: fjsPjh0B2tU
-  - uid: 59a3afa235511b401de0590f2a18de9f
-    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: fjsPjh0B2tU
-  - uid: 8f3133d912726938382c3980234d9435
-    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/itunes-u/solving-ax-b/id488155309?i=108454357'
-  - uid: 2e471e35640d5cf8fa2952dbe7593308
-    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_M3_300k.mp4
-  - uid: 19a90f53bbea5c2ca83945cc2b24563a
-    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/fjsPjh0B2tU/default.jpg'
-  - uid: 121fa4e640cc2616fc457f56b8513dee
-    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
-    id: fjsPjh0B2tU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/solving-ax-b/fjsPjh0B2tU.srt
-  - uid: 74db2b04ac874e21aaf88c92c3ac5fae
-    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
-    id: fjsPjh0B2tU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/solving-ax-b/fjsPjh0B2tU.pdf
-  - uid: e98077972585232d107f0e8cdef91838
-    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 299112283d30ef27425db15b9073fed2
-    parent_uid: 1ad97ac8333f714a3920ef04ed7eb0c8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 1ad97ac8333f714a3920ef04ed7eb0c8
 type: courses
 layout: video
 ---

@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 4: Stochastic Thinking'
-uid: 35d527fedf9e66525ed3a905f4c66e66
-parent_uid: dfe2b9f5ab127795415ac86facf4a535
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-4-stochastic-thinking
-short_url: lecture-4-stochastic-thinking
-inline_embed_id: 42860741lecture4stochasticthinking93413630
 about_this_resource_text: >-
   <p><strong>Description:</strong> Prof. Guttag introduces stochastic processes
   and basic probability theory.</p><p><strong>Instructor:</strong> John
   Guttag</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '-1BnXEwHUok'
+    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 138272af03206e9516596c3cf1c13e97
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-1BnXEwHUok/default.jpg'
+    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b0798c390dcf3e011b9ee5c9547cf3c3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '-1BnXEwHUok'
+    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ff27fd7e0ee8eea859b7801e4933267e
+  - id: '-1BnXEwHUok.srt'
+    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-4-stochastic-thinking/-1BnXEwHUok.srt
+    title: 3play caption file
+    type: null
+    uid: 54f3ffe5584818dd319c464427923c25
+  - id: '-1BnXEwHUok.pdf'
+    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-4-stochastic-thinking/-1BnXEwHUok.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7adcba0777b9ae0161a8631ecf6d9060
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7fae24dffe8508cba8c2bfa693a68a63
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 11af2d83149b30c5b619358cafe5ec61
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
+    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 21f529f702da1b0e3c2c2277d9adb867
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec04_300k.mp4'
+    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2e5207fe16133137d0c2bc1f31aad3d8
+inline_embed_id: 42860741lecture4stochasticthinking93413630
+parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
+short_url: lecture-4-stochastic-thinking
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-4-stochastic-thinking
+title: 'Lecture 4: Stochastic Thinking'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1330">content</span> <span m="1810">is</span> <span
@@ -2868,61 +2922,7 @@ transcript: >-
   m="2977370">stop.</span> <span m="2978120">And</span> <span
   m="2978690">see</span> <span m="2978870">you</span> <span
   m="2979050">guys</span> <span m="2979290">soon.</span></p>
-embedded_media:
-  - uid: 138272af03206e9516596c3cf1c13e97
-    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-1BnXEwHUok'
-  - uid: b0798c390dcf3e011b9ee5c9547cf3c3
-    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-1BnXEwHUok/default.jpg'
-  - uid: ff27fd7e0ee8eea859b7801e4933267e
-    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-1BnXEwHUok'
-  - uid: 54f3ffe5584818dd319c464427923c25
-    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
-    id: '-1BnXEwHUok.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-4-stochastic-thinking/-1BnXEwHUok.srt
-  - uid: 7adcba0777b9ae0161a8631ecf6d9060
-    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
-    id: '-1BnXEwHUok.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-4-stochastic-thinking/-1BnXEwHUok.pdf
-  - uid: 7fae24dffe8508cba8c2bfa693a68a63
-    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 11af2d83149b30c5b619358cafe5ec61
-    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 21f529f702da1b0e3c2c2277d9adb867
-    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
-  - uid: 2e5207fe16133137d0c2bc1f31aad3d8
-    parent_uid: 35d527fedf9e66525ed3a905f4c66e66
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec04_300k.mp4'
+uid: 35d527fedf9e66525ed3a905f4c66e66
 type: courses
 layout: video
 ---

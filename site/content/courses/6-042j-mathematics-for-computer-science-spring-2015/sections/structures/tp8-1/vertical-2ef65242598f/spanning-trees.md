@@ -1,13 +1,73 @@
 ---
-title: Spanning Trees
-uid: ae23d3e67827122ec683b53d87011009
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: ae23d3e67827122ec683b53d87011009
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 0b65333afdc7524ca0d4cb95068f83f3
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: ae23d3e67827122ec683b53d87011009
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: eae88c57a521055ba5b1b207d888bfe3
+  - id: Video-YouTube-Stream
+    media_location: _RqqzyWDVMA
+    parent_uid: ae23d3e67827122ec683b53d87011009
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b5e73a68b884c088ccc47874379c267e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_RqqzyWDVMA/default.jpg'
+    parent_uid: ae23d3e67827122ec683b53d87011009
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 81038fb990e314e03ba4a8a32571251e
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: _RqqzyWDVMA
+    parent_uid: ae23d3e67827122ec683b53d87011009
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6d49aaa07285cc5605d0264d444a250d
+  - id: RqqzyWDVMA.srt
+    parent_uid: ae23d3e67827122ec683b53d87011009
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-2ef65242598f/spanning-trees/RqqzyWDVMA.srt
+    title: 3play caption file
+    type: null
+    uid: 2889ca07e1ecbf5d6f9d1f6501b6ce62
+  - id: RqqzyWDVMA.pdf
+    parent_uid: ae23d3e67827122ec683b53d87011009
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-2ef65242598f/spanning-trees/RqqzyWDVMA.pdf
+    title: 3play pdf file
+    type: null
+    uid: f02d4335ff1944b721825945b3986bc8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ae23d3e67827122ec683b53d87011009
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c5e40eb921946d5b2b01a9ab690cc4de
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ae23d3e67827122ec683b53d87011009
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a918879677217ad408804e0f5c5d77e3
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_spanningtrees_video_ipod.mp4
+    parent_uid: ae23d3e67827122ec683b53d87011009
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f8dc59e6e7f08d1cb73623d59c227c4a
+inline_embed_id: 46036211spanningtrees79979764
 parent_uid: 40d3294715d82fe5f91a1450343afbca
+related_resources_text: ''
+short_url: spanning-trees
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-2ef65242598f/spanning-trees
-short_url: spanning-trees
-inline_embed_id: 46036211spanningtrees79979764
-about_this_resource_text: ''
-related_resources_text: ''
+title: Spanning Trees
 transcript: >-
   <p><span m='870'>One</span> <span m='1110'>of</span> <span m='1200'>the</span>
   <span m='1270'>multiple</span> <span m='1720'>definitions</span> <span
@@ -842,67 +902,7 @@ transcript: >-
   m='634150'>to</span> <span m='634310'>finding</span> <span
   m='634880'>minimum</span> <span m='635230'>weight</span> <span
   m='635460'>spanning</span> <span m='635890'>trees.</span> </p>
-embedded_media:
-  - uid: 0b65333afdc7524ca0d4cb95068f83f3
-    parent_uid: ae23d3e67827122ec683b53d87011009
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: eae88c57a521055ba5b1b207d888bfe3
-    parent_uid: ae23d3e67827122ec683b53d87011009
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: b5e73a68b884c088ccc47874379c267e
-    parent_uid: ae23d3e67827122ec683b53d87011009
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _RqqzyWDVMA
-  - uid: 81038fb990e314e03ba4a8a32571251e
-    parent_uid: ae23d3e67827122ec683b53d87011009
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_RqqzyWDVMA/default.jpg'
-  - uid: 6d49aaa07285cc5605d0264d444a250d
-    parent_uid: ae23d3e67827122ec683b53d87011009
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _RqqzyWDVMA
-  - uid: 2889ca07e1ecbf5d6f9d1f6501b6ce62
-    parent_uid: ae23d3e67827122ec683b53d87011009
-    id: RqqzyWDVMA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-2ef65242598f/spanning-trees/RqqzyWDVMA.srt
-  - uid: f02d4335ff1944b721825945b3986bc8
-    parent_uid: ae23d3e67827122ec683b53d87011009
-    id: RqqzyWDVMA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-2ef65242598f/spanning-trees/RqqzyWDVMA.pdf
-  - uid: c5e40eb921946d5b2b01a9ab690cc4de
-    parent_uid: ae23d3e67827122ec683b53d87011009
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a918879677217ad408804e0f5c5d77e3
-    parent_uid: ae23d3e67827122ec683b53d87011009
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f8dc59e6e7f08d1cb73623d59c227c4a
-    parent_uid: ae23d3e67827122ec683b53d87011009
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_spanningtrees_video_ipod.mp4
+uid: ae23d3e67827122ec683b53d87011009
 type: courses
 layout: video
 ---

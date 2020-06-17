@@ -1,13 +1,68 @@
 ---
-title: xy'=(x2+x)(y2+1)
-uid: be498b0d9f8809c4b6e93a17ac0e9038
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: HaOHUfymsuk
+    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
+    title: Video-YouTube-Stream
+    type: Video
+    uid: cf1bfd13a7f7e93ad3f3e3da4aa6b4e4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/HaOHUfymsuk/default.jpg'
+    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f2f07f9f1ab913f98aecaf5150779d3a
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: HaOHUfymsuk
+    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ce816d2b04f63db747c1d7f1a6a9abf0
+  - id: HaOHUfymsuk.srt
+    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-40-separation-of-variables/xy-x2-x-y2-1/HaOHUfymsuk.srt
+    title: 3play caption file
+    type: null
+    uid: 6d1bc7ac3be71e3b92a7e6fc8dcc5dc5
+  - id: HaOHUfymsuk.pdf
+    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-40-separation-of-variables/xy-x2-x-y2-1/HaOHUfymsuk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 42190074376fcf3a91cd261bbd49f82f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f29586db1777357a75ec1cd5cc7a1b3e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b47b57d34b4c24b2d89525de6b7fc8a2
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_33_300k.mp4'
+    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 682e494a0348f4de899911f42c0cf010
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/differential-equation/id414308064?i=90319190
+    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 75804c583d758bf2caf7c492337d9baf
+inline_embed_id: 4754619xy'=(x2+x)(y2+1)32798347
 parent_uid: 6e674d24154a95a2d7b4dac2db7d6427
+related_resources_text: ''
+short_url: xy-x2-x-y2-1
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-40-separation-of-variables/xy-x2-x-y2-1
-short_url: xy-x2-x-y2-1
-inline_embed_id: 4754619xy'=(x2+x)(y2+1)32798347
-about_this_resource_text: ''
-related_resources_text: ''
+title: xy'=(x2+x)(y2+1)
 transcript: >-
   <p><span m='7280'>PROFESSOR: Welcome</span> <span m='7650'>back</span> <span
   m='7820'>to</span> <span m='7910'>recitation.</span> <span m='9110'>In</span>
@@ -230,62 +285,7 @@ transcript: >-
   m='201180'>to</span> <span m='201250'>get.</span> <span m='202220'>But</span>
   <span m='202360'>I'll</span> <span m='202450'>stop</span> <span
   m='202680'>there.</span> </p>
-embedded_media:
-  - uid: cf1bfd13a7f7e93ad3f3e3da4aa6b4e4
-    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: HaOHUfymsuk
-  - uid: f2f07f9f1ab913f98aecaf5150779d3a
-    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/HaOHUfymsuk/default.jpg'
-  - uid: ce816d2b04f63db747c1d7f1a6a9abf0
-    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: HaOHUfymsuk
-  - uid: 6d1bc7ac3be71e3b92a7e6fc8dcc5dc5
-    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
-    id: HaOHUfymsuk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-40-separation-of-variables/xy-x2-x-y2-1/HaOHUfymsuk.srt
-  - uid: 42190074376fcf3a91cd261bbd49f82f
-    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
-    id: HaOHUfymsuk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-40-separation-of-variables/xy-x2-x-y2-1/HaOHUfymsuk.pdf
-  - uid: f29586db1777357a75ec1cd5cc7a1b3e
-    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b47b57d34b4c24b2d89525de6b7fc8a2
-    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 682e494a0348f4de899911f42c0cf010
-    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_33_300k.mp4'
-  - uid: 75804c583d758bf2caf7c492337d9baf
-    parent_uid: be498b0d9f8809c4b6e93a17ac0e9038
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/differential-equation/id414308064?i=90319190
+uid: be498b0d9f8809c4b6e93a17ac0e9038
 type: courses
 layout: video
 ---

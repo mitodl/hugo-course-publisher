@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 12: The Shapes of Molecules: VSEPR Theory'
-uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
-parent_uid: 657cf6250ea3965b75075d66ee3cb607
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-12/lecture-12-the-shapes-of-molecules-vsepr-theory
-short_url: lecture-12-the-shapes-of-molecules-vsepr-theory
-inline_embed_id: 63117917lecture12theshapesofmoleculesvseprtheory97266932
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: Valence shell electron pair repulsion or VSEPR theory
@@ -15,7 +8,68 @@ about_this_resource_text: >-
   Sydlik tells us how she uses VSEPR theory to design sensors that are capable
   of detecting landmines.</p> <p><strong>Instructor:</strong> Catherine
   Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Ja9eEQQzTic
+    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6dcd88b7ff68b953633f859046572002
+  - id: Ja9eEQQzTic.srt
+    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-12/lecture-12-the-shapes-of-molecules-vsepr-theory/Ja9eEQQzTic.srt
+    title: 3play caption file
+    type: null
+    uid: 458c76664d0ed8f06e72021cae18e610
+  - id: Ja9eEQQzTic.pdf
+    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-12/lecture-12-the-shapes-of-molecules-vsepr-theory/Ja9eEQQzTic.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9e5ad892bfddaca32ebadb598c5daeff
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 181d1bda43372d0b127f6e5578a5ffba
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4977321c5fbc3e5053a51cec667e130c
+  - id: Video-YouTube-Stream
+    media_location: Ja9eEQQzTic
+    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2824c2119fff47ec64c33a87c59d93db
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Ja9eEQQzTic/default.jpg'
+    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1316cb07734a927c5af5a6d69fdf3532
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3e50fadff039f9af3543bb991085c97b
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L12_300k.mp4'
+    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: aac3b79a2601ab1d5e5527016802a8bc
+inline_embed_id: 63117917lecture12theshapesofmoleculesvseprtheory97266932
+parent_uid: 657cf6250ea3965b75075d66ee3cb607
 related_resources_text: ''
+short_url: lecture-12-the-shapes-of-molecules-vsepr-theory
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-12/lecture-12-the-shapes-of-molecules-vsepr-theory
+title: 'Lecture 12: The Shapes of Molecules: VSEPR Theory'
 transcript: >-
   <p><span m="30">The</span> <span m="130">following</span> <span
   m="600">content</span> <span m="1090">is</span> <span m="1210">provided</span>
@@ -2909,61 +2963,7 @@ transcript: >-
   m="2703400">right,</span> <span m="2703720">see</span> <span
   m="2703910">everybody</span> <span m="2704520">on</span> <span
   m="2704710">Monday.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 6dcd88b7ff68b953633f859046572002
-    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Ja9eEQQzTic
-  - uid: 458c76664d0ed8f06e72021cae18e610
-    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
-    id: Ja9eEQQzTic.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-12/lecture-12-the-shapes-of-molecules-vsepr-theory/Ja9eEQQzTic.srt
-  - uid: 9e5ad892bfddaca32ebadb598c5daeff
-    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
-    id: Ja9eEQQzTic.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-12/lecture-12-the-shapes-of-molecules-vsepr-theory/Ja9eEQQzTic.pdf
-  - uid: 181d1bda43372d0b127f6e5578a5ffba
-    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4977321c5fbc3e5053a51cec667e130c
-    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 2824c2119fff47ec64c33a87c59d93db
-    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Ja9eEQQzTic
-  - uid: 1316cb07734a927c5af5a6d69fdf3532
-    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Ja9eEQQzTic/default.jpg'
-  - uid: 3e50fadff039f9af3543bb991085c97b
-    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: aac3b79a2601ab1d5e5527016802a8bc
-    parent_uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L12_300k.mp4'
+uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
 type: courses
 layout: video
 ---

@@ -1,18 +1,72 @@
 ---
-title: 'Clip 3: Newton''s Method: What Could Go Wrong?'
-uid: a3c4543cc1d88ba39dda2cd165ce78b9
-parent_uid: 08bcebd887ee223af84741f0fef4d632
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method/clip-3-newtons-method-what-could-go-wrong
-short_url: clip-3-newtons-method-what-could-go-wrong
-inline_embed_id: '43475206clip3:newton''smethod:whatcouldgowrong?80583116'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/d424c9a8f0fc24e28d42206a1fd63df1" title="Open
   in a new window." target="_blank">Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 14 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 4Q37iOyBq44
+    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b06138b3a8caac3f4524348234f111ce
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4Q37iOyBq44/default.jpg'
+    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cff8b0d190720b7e64b998a1d42c9fd9
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec14_300k.mp4'
+    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 266ce08e103256d3df5550a3db765193
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b8db1b2604fb7dc680a2e93f73977d40
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 4Q37iOyBq44
+    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c20c2173f3d5a0b9dd73300a33f87f47
+  - id: 4Q37iOyBq44.srt
+    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method/clip-3-newtons-method-what-could-go-wrong/4Q37iOyBq44.srt
+    title: 3play caption file
+    type: null
+    uid: f3f1fb72da694314d9026d20e2fbd91e
+  - id: 4Q37iOyBq44.pdf
+    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method/clip-3-newtons-method-what-could-go-wrong/4Q37iOyBq44.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1eb3b6158e4eab3b5f7acd2f0fb7fff4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9196656f394cb7edd8547f74aec86e6f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d078f93e66f9234820fe172a05248492
+inline_embed_id: '43475206clip3:newton''smethod:whatcouldgowrong?80583116'
+parent_uid: 08bcebd887ee223af84741f0fef4d632
 related_resources_text: ''
+short_url: clip-3-newtons-method-what-could-go-wrong
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method/clip-3-newtons-method-what-could-go-wrong
+title: 'Clip 3: Newton''s Method: What Could Go Wrong?'
 transcript: >-
   <p><span m='0'>The</span> <span m='90'>following</span> <span
   m='520'>content</span> <span m='1270'>is</span> <span m='1420'>provided</span>
@@ -2507,61 +2561,7 @@ transcript: >-
   m='2979500'>at</span> <span m='2979580'>the</span> <span
   m='2979740'>end</span> <span m='2979920'>of</span> <span m='2979990'>the
   course.</span> </p>
-embedded_media:
-  - uid: b06138b3a8caac3f4524348234f111ce
-    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4Q37iOyBq44
-  - uid: cff8b0d190720b7e64b998a1d42c9fd9
-    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4Q37iOyBq44/default.jpg'
-  - uid: 266ce08e103256d3df5550a3db765193
-    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec14_300k.mp4'
-  - uid: b8db1b2604fb7dc680a2e93f73977d40
-    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
-  - uid: c20c2173f3d5a0b9dd73300a33f87f47
-    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4Q37iOyBq44
-  - uid: f3f1fb72da694314d9026d20e2fbd91e
-    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
-    id: 4Q37iOyBq44.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method/clip-3-newtons-method-what-could-go-wrong/4Q37iOyBq44.srt
-  - uid: 1eb3b6158e4eab3b5f7acd2f0fb7fff4
-    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
-    id: 4Q37iOyBq44.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method/clip-3-newtons-method-what-could-go-wrong/4Q37iOyBq44.pdf
-  - uid: 9196656f394cb7edd8547f74aec86e6f
-    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d078f93e66f9234820fe172a05248492
-    parent_uid: a3c4543cc1d88ba39dda2cd165ce78b9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a3c4543cc1d88ba39dda2cd165ce78b9
 type: courses
 layout: video
 ---

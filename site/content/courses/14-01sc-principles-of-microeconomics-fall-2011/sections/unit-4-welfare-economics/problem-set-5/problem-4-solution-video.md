@@ -1,13 +1,69 @@
 ---
-title: Problem 4 Solution Video
-uid: c545274e6f27a7205f54cb1cb928bf8a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Offa8tyTRQE
+    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 74080c269eb16b3754def57e0ea8d02f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Offa8tyTRQE/default.jpg'
+    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 652a7831814390f6b926fc424fa77999
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Offa8tyTRQE
+    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 09d797661dd7d361929ee5f012659d7f
+  - id: Offa8tyTRQE.srt
+    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-4-welfare-economics/problem-set-5/problem-4-solution-video/Offa8tyTRQE.srt
+    title: 3play caption file
+    type: null
+    uid: cc8d8668940d68b32f7c99ac7223687b
+  - id: Offa8tyTRQE.pdf
+    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-4-welfare-economics/problem-set-5/problem-4-solution-video/Offa8tyTRQE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 19671bb355236bab36422e03957398bd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 11002d1e40243aa8e99149c0bc3eb658
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 75ea4faad98e6a911ea5033368c28228
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_problem_5-4_300k.mp4
+    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 48a8b50a068ef65e1abe1d40ed996f85
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/problem-set-5-problem-4e-h/id496265654?i=109892731
+    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 83406e5c18c933e7c61def40a0d1f08b
+inline_embed_id: 26527916problem4solutionvideo36707500
 parent_uid: 8853fb2e2f47a6f16c5b5b422b69abeb
+related_resources_text: ''
+short_url: problem-4-solution-video
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-4-welfare-economics/problem-set-5/problem-4-solution-video
-short_url: problem-4-solution-video
-inline_embed_id: 26527916problem4solutionvideo36707500
-about_this_resource_text: ''
-related_resources_text: ''
+title: Problem 4 Solution Video
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -968,63 +1024,7 @@ transcript: >-
   m='852540'>3</span> <span m='852830'>for</span> <span m='852980'>help</span>
   <span m='853190'>on</span> <span m='853290'>those</span> <span
   m='853480'>problems.</span> </p>
-embedded_media:
-  - uid: 74080c269eb16b3754def57e0ea8d02f
-    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Offa8tyTRQE
-  - uid: 652a7831814390f6b926fc424fa77999
-    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Offa8tyTRQE/default.jpg'
-  - uid: 09d797661dd7d361929ee5f012659d7f
-    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Offa8tyTRQE
-  - uid: cc8d8668940d68b32f7c99ac7223687b
-    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
-    id: Offa8tyTRQE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-4-welfare-economics/problem-set-5/problem-4-solution-video/Offa8tyTRQE.srt
-  - uid: 19671bb355236bab36422e03957398bd
-    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
-    id: Offa8tyTRQE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-4-welfare-economics/problem-set-5/problem-4-solution-video/Offa8tyTRQE.pdf
-  - uid: 11002d1e40243aa8e99149c0bc3eb658
-    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 75ea4faad98e6a911ea5033368c28228
-    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 48a8b50a068ef65e1abe1d40ed996f85
-    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_problem_5-4_300k.mp4
-  - uid: 83406e5c18c933e7c61def40a0d1f08b
-    parent_uid: c545274e6f27a7205f54cb1cb928bf8a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/problem-set-5-problem-4e-h/id496265654?i=109892731
+uid: c545274e6f27a7205f54cb1cb928bf8a
 type: courses
 layout: video
 ---

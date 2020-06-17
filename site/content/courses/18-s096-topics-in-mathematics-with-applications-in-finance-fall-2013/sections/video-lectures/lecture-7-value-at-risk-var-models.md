@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 7: Value At Risk (VAR) Models'
-uid: 66928378cbe814dd6699527a82b7a045
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-7-value-at-risk-var-models
-short_url: lecture-7-value-at-risk-var-models
-inline_embed_id: '48659305lecture7:valueatrisk(var)models52889752'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This is an applications lecture on Value At
   Risk (VAR) models, and how financial institutions manage market risk.</p>
   <p><strong>Instructor:</strong> Kenneth Abbott</p>
+embedded_media:
+  - id: Video-YouTube-MP4
+    media_location: 92WaNz9mPeY
+    parent_uid: 66928378cbe814dd6699527a82b7a045
+    title: Video-YouTube-MP4
+    type: Video
+    uid: 14a4f632e7788701e95bafcc13d03e8c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/92WaNz9mPeY/default.jpg'
+    parent_uid: 66928378cbe814dd6699527a82b7a045
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a65fbcf45a48be76a17ec13a59909102
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: 66928378cbe814dd6699527a82b7a045
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 35f930da699e6146770f69d084ca0b23
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec07_300k.mp4'
+    parent_uid: 66928378cbe814dd6699527a82b7a045
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 18a47facc162d6859f7c4f5710d5c0c1
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 92WaNz9mPeY
+    parent_uid: 66928378cbe814dd6699527a82b7a045
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6b197e860a7867a4948dbf1eba610b05
+  - id: 92WaNz9mPeY.srt
+    parent_uid: 66928378cbe814dd6699527a82b7a045
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-7-value-at-risk-var-models/92WaNz9mPeY.srt
+    title: 3play caption file
+    type: null
+    uid: 1f3df93474054bebe6dc2b351eee7ce5
+  - id: 92WaNz9mPeY.pdf
+    parent_uid: 66928378cbe814dd6699527a82b7a045
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-7-value-at-risk-var-models/92WaNz9mPeY.pdf
+    title: 3play pdf file
+    type: null
+    uid: b75eea7a3809f49267f2d8ab1e5b64c6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 66928378cbe814dd6699527a82b7a045
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e6ced98f362b1644420ebe26362f9a05
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 66928378cbe814dd6699527a82b7a045
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d33695f8dbb61eda98de286f99f8f2d0
+inline_embed_id: '48659305lecture7:valueatrisk(var)models52889752'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-7-value-at-risk-var-models
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-7-value-at-risk-var-models
+title: 'Lecture 7: Value At Risk (VAR) Models'
 transcript: >-
   <p><span m='60'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -5481,61 +5535,7 @@ transcript: >-
   m='4871840'>know</span> <span m='4872070'>it's</span> <span
   m='4872290'>there.</span> <span m='4872890'>All right?</span> <span
   m='4873790'>Go home.</span> </p>
-embedded_media:
-  - uid: 14a4f632e7788701e95bafcc13d03e8c
-    parent_uid: 66928378cbe814dd6699527a82b7a045
-    id: Video-YouTube-MP4
-    title: Video-YouTube-MP4
-    type: Video
-    media_location: 92WaNz9mPeY
-  - uid: a65fbcf45a48be76a17ec13a59909102
-    parent_uid: 66928378cbe814dd6699527a82b7a045
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/92WaNz9mPeY/default.jpg'
-  - uid: 35f930da699e6146770f69d084ca0b23
-    parent_uid: 66928378cbe814dd6699527a82b7a045
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: 18a47facc162d6859f7c4f5710d5c0c1
-    parent_uid: 66928378cbe814dd6699527a82b7a045
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec07_300k.mp4'
-  - uid: 6b197e860a7867a4948dbf1eba610b05
-    parent_uid: 66928378cbe814dd6699527a82b7a045
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 92WaNz9mPeY
-  - uid: 1f3df93474054bebe6dc2b351eee7ce5
-    parent_uid: 66928378cbe814dd6699527a82b7a045
-    id: 92WaNz9mPeY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-7-value-at-risk-var-models/92WaNz9mPeY.srt
-  - uid: b75eea7a3809f49267f2d8ab1e5b64c6
-    parent_uid: 66928378cbe814dd6699527a82b7a045
-    id: 92WaNz9mPeY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-7-value-at-risk-var-models/92WaNz9mPeY.pdf
-  - uid: e6ced98f362b1644420ebe26362f9a05
-    parent_uid: 66928378cbe814dd6699527a82b7a045
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d33695f8dbb61eda98de286f99f8f2d0
-    parent_uid: 66928378cbe814dd6699527a82b7a045
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 66928378cbe814dd6699527a82b7a045
 type: courses
 layout: video
 ---

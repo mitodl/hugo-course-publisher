@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Proof of the Second Fundamental Theorem of Calculus'
-uid: 4396dc9b442a91199079f97d58dd045c
-parent_uid: 593f157526f1927fd6ea05e37c3d4475
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-52-proving-the-fundamental-theorem-of-calculus/clip-1-proof-of-the-second-fundamental-theorem-of-calculus
-short_url: clip-1-proof-of-the-second-fundamental-theorem-of-calculus
-inline_embed_id: '10209895clip1:proofofthesecondfundamentaltheoremofcalculus38021485'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/187c62fbcf12465228af0685b7afacc1"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 20 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Pd2xP5zDsRw
+    parent_uid: 4396dc9b442a91199079f97d58dd045c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7d798e3c3b76480901aaa070ae0913c4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Pd2xP5zDsRw/default.jpg'
+    parent_uid: 4396dc9b442a91199079f97d58dd045c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4ef4b61fcfd6156353780c068b649346
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: Pd2xP5zDsRw
+    parent_uid: 4396dc9b442a91199079f97d58dd045c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 97fab312d2a8bc4db16ba554adc31e18
+  - id: Pd2xP5zDsRw.srt
+    parent_uid: 4396dc9b442a91199079f97d58dd045c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-52-proving-the-fundamental-theorem-of-calculus/clip-1-proof-of-the-second-fundamental-theorem-of-calculus/Pd2xP5zDsRw.srt
+    title: 3play caption file
+    type: null
+    uid: 5a03c0bfb68d065c33676894acc0c823
+  - id: Pd2xP5zDsRw.pdf
+    parent_uid: 4396dc9b442a91199079f97d58dd045c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-52-proving-the-fundamental-theorem-of-calculus/clip-1-proof-of-the-second-fundamental-theorem-of-calculus/Pd2xP5zDsRw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 580cf9aba8bfb382596b481c261d2355
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4396dc9b442a91199079f97d58dd045c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8659a086e730b0db5bd718d595b730dd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4396dc9b442a91199079f97d58dd045c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1b1c9c1e6e08a7d1803a4b5062602636
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec20_300k.mp4'
+    parent_uid: 4396dc9b442a91199079f97d58dd045c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3c97624255989c09c35cdc0140262d0d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 4396dc9b442a91199079f97d58dd045c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d914e6bba7b89ee1e19235a6ee40265d
+inline_embed_id: '10209895clip1:proofofthesecondfundamentaltheoremofcalculus38021485'
+parent_uid: 593f157526f1927fd6ea05e37c3d4475
 related_resources_text: ''
+short_url: clip-1-proof-of-the-second-fundamental-theorem-of-calculus
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-52-proving-the-fundamental-theorem-of-calculus/clip-1-proof-of-the-second-fundamental-theorem-of-calculus
+title: 'Clip 1: Proof of the Second Fundamental Theorem of Calculus'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='520'>content</span> <span m='1020'>is</span> <span m='1130'>provided</span>
@@ -2593,61 +2647,7 @@ transcript: >-
   m='2965760'>and</span> <span m='2965870'>engineering.</span> <span
   m='2966730'>So,</span> <span m='2967940'>see you</span> <span
   m='2968110'>next</span> <span m='2968360'>time.</span> </p>
-embedded_media:
-  - uid: 7d798e3c3b76480901aaa070ae0913c4
-    parent_uid: 4396dc9b442a91199079f97d58dd045c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Pd2xP5zDsRw
-  - uid: 4ef4b61fcfd6156353780c068b649346
-    parent_uid: 4396dc9b442a91199079f97d58dd045c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Pd2xP5zDsRw/default.jpg'
-  - uid: 97fab312d2a8bc4db16ba554adc31e18
-    parent_uid: 4396dc9b442a91199079f97d58dd045c
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Pd2xP5zDsRw
-  - uid: 5a03c0bfb68d065c33676894acc0c823
-    parent_uid: 4396dc9b442a91199079f97d58dd045c
-    id: Pd2xP5zDsRw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-52-proving-the-fundamental-theorem-of-calculus/clip-1-proof-of-the-second-fundamental-theorem-of-calculus/Pd2xP5zDsRw.srt
-  - uid: 580cf9aba8bfb382596b481c261d2355
-    parent_uid: 4396dc9b442a91199079f97d58dd045c
-    id: Pd2xP5zDsRw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-52-proving-the-fundamental-theorem-of-calculus/clip-1-proof-of-the-second-fundamental-theorem-of-calculus/Pd2xP5zDsRw.pdf
-  - uid: 8659a086e730b0db5bd718d595b730dd
-    parent_uid: 4396dc9b442a91199079f97d58dd045c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1b1c9c1e6e08a7d1803a4b5062602636
-    parent_uid: 4396dc9b442a91199079f97d58dd045c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3c97624255989c09c35cdc0140262d0d
-    parent_uid: 4396dc9b442a91199079f97d58dd045c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec20_300k.mp4'
-  - uid: d914e6bba7b89ee1e19235a6ee40265d
-    parent_uid: 4396dc9b442a91199079f97d58dd045c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 4396dc9b442a91199079f97d58dd045c
 type: courses
 layout: video
 ---

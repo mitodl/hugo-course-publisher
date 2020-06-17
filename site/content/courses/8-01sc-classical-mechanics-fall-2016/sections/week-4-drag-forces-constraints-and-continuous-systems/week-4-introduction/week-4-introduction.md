@@ -1,13 +1,67 @@
 ---
-title: Week 4 Introduction
-uid: 0add57792a24e0aee2b187916361674b
+about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0mGd0JUmgm8
+    parent_uid: 0add57792a24e0aee2b187916361674b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c0217e0bc6d103dc56c5e823851348c0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0mGd0JUmgm8/default.jpg'
+    parent_uid: 0add57792a24e0aee2b187916361674b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 54a98e9d72b3c2ec0e111f3be2c0add6
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0mGd0JUmgm8
+    parent_uid: 0add57792a24e0aee2b187916361674b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3297377515ce1996205dd515522347b0
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 0add57792a24e0aee2b187916361674b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6f70d3c91b469b39747df3f16d9f4e95
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W04Intro_360p.mp4'
+    parent_uid: 0add57792a24e0aee2b187916361674b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4b57365b7c843544afaf2ca28caa705d
+  - id: 0mGd0JUmgm8.srt
+    parent_uid: 0add57792a24e0aee2b187916361674b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-4-drag-forces-constraints-and-continuous-systems/week-4-introduction/week-4-introduction/0mGd0JUmgm8.srt
+    title: 3play caption file
+    type: null
+    uid: 01bdcc34fb93caaafe512310dc21e764
+  - id: 0mGd0JUmgm8.pdf
+    parent_uid: 0add57792a24e0aee2b187916361674b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-4-drag-forces-constraints-and-continuous-systems/week-4-introduction/week-4-introduction/0mGd0JUmgm8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 44d5388b6ced7d746cf62af3f26520d1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0add57792a24e0aee2b187916361674b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d93b588f80d5646916e9c7cfe2ae59bc
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0add57792a24e0aee2b187916361674b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2b4d5545e2424c0ef94d7b4acb556dc8
+inline_embed_id: 58660031week4introduction60991182
 parent_uid: e7847b2b6f8efc5ed22d745b96a68bd1
+related_resources_text: ''
+short_url: week-4-introduction
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-4-drag-forces-constraints-and-continuous-systems/week-4-introduction/week-4-introduction
-short_url: week-4-introduction
-inline_embed_id: 58660031week4introduction60991182
-about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
-related_resources_text: ''
+title: Week 4 Introduction
 transcript: >-
   <p><span m='499'>This week, we will examine some more advanced topics</span>
   <span m='3170'>in the application of Newton's laws of motion.</span>
@@ -54,61 +108,7 @@ transcript: >-
   motion,</span> <span m='126470'>but the situations will require a more
   sophisticated treatment</span> <span m='129240'>to what has come
   before.</span> </p><p></p>
-embedded_media:
-  - uid: c0217e0bc6d103dc56c5e823851348c0
-    parent_uid: 0add57792a24e0aee2b187916361674b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0mGd0JUmgm8
-  - uid: 54a98e9d72b3c2ec0e111f3be2c0add6
-    parent_uid: 0add57792a24e0aee2b187916361674b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0mGd0JUmgm8/default.jpg'
-  - uid: 3297377515ce1996205dd515522347b0
-    parent_uid: 0add57792a24e0aee2b187916361674b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0mGd0JUmgm8
-  - uid: 6f70d3c91b469b39747df3f16d9f4e95
-    parent_uid: 0add57792a24e0aee2b187916361674b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 4b57365b7c843544afaf2ca28caa705d
-    parent_uid: 0add57792a24e0aee2b187916361674b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W04Intro_360p.mp4'
-  - uid: 01bdcc34fb93caaafe512310dc21e764
-    parent_uid: 0add57792a24e0aee2b187916361674b
-    id: 0mGd0JUmgm8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-4-drag-forces-constraints-and-continuous-systems/week-4-introduction/week-4-introduction/0mGd0JUmgm8.srt
-  - uid: 44d5388b6ced7d746cf62af3f26520d1
-    parent_uid: 0add57792a24e0aee2b187916361674b
-    id: 0mGd0JUmgm8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-4-drag-forces-constraints-and-continuous-systems/week-4-introduction/week-4-introduction/0mGd0JUmgm8.pdf
-  - uid: d93b588f80d5646916e9c7cfe2ae59bc
-    parent_uid: 0add57792a24e0aee2b187916361674b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2b4d5545e2424c0ef94d7b4acb556dc8
-    parent_uid: 0add57792a24e0aee2b187916361674b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 0add57792a24e0aee2b187916361674b
 type: courses
 layout: video
 ---

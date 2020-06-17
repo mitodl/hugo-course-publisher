@@ -1,13 +1,68 @@
 ---
-title: Extended Gauss' Theorem
-uid: 57faf95ee8e71453d7e78401d09e355c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: WwBaQCy4jfk
+    parent_uid: 57faf95ee8e71453d7e78401d09e355c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 55c6dc911905e1d68992a854be3ec75f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/WwBaQCy4jfk/default.jpg'
+    parent_uid: 57faf95ee8e71453d7e78401d09e355c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2e547fa84bd3f95cb5a8f1bde96e334c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/extended-gauss-theorem/id414355340?i=90323145
+    parent_uid: 57faf95ee8e71453d7e78401d09e355c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b62cbbc444a60064c7a71c3775439312
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_61_300k.mp4'
+    parent_uid: 57faf95ee8e71453d7e78401d09e355c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c7d9ac0b0e9ebd996441097ad200e8cc
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: WwBaQCy4jfk
+    parent_uid: 57faf95ee8e71453d7e78401d09e355c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4f8c7f4adfca670843b64b829b2d6b3b
+  - id: WwBaQCy4jfk.srt
+    parent_uid: 57faf95ee8e71453d7e78401d09e355c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-84-divergence-theorem/extended-gauss-theorem/WwBaQCy4jfk.srt
+    title: 3play caption file
+    type: null
+    uid: 8278458b2941b1a6bd8bbc152ad23950
+  - id: WwBaQCy4jfk.pdf
+    parent_uid: 57faf95ee8e71453d7e78401d09e355c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-84-divergence-theorem/extended-gauss-theorem/WwBaQCy4jfk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4bb78d4bd76f655bbc8ccf389763bcd5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 57faf95ee8e71453d7e78401d09e355c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: eca176e14494f3f2e7bd5d7983f1c93f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 57faf95ee8e71453d7e78401d09e355c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b8385f86160ab10ba4ebed4bd2ef0a05
+inline_embed_id: 56673256extendedgauss'theorem52555895
 parent_uid: d088492f402f9db5c30dcd82be2c37a6
+related_resources_text: ''
+short_url: extended-gauss-theorem
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-84-divergence-theorem/extended-gauss-theorem
-short_url: extended-gauss-theorem
-inline_embed_id: 56673256extendedgauss'theorem52555895
-about_this_resource_text: ''
-related_resources_text: ''
+title: Extended Gauss' Theorem
 transcript: >-
   <p><span m='7880'>JOEL LEWIS: Hi.</span> <span m='8330'>Welcome</span> <span
   m='8630'>back</span> <span m='8820'>to</span> <span
@@ -1308,62 +1363,7 @@ transcript: >-
   m='1127760'>equal</span> <span m='1128140'>to</span> <span
   m='1128972'>4*pi.</span> <span m='1130220'>I'll</span> <span
   m='1130410'>stop</span> <span m='1130760'>there.</span> </p>
-embedded_media:
-  - uid: 55c6dc911905e1d68992a854be3ec75f
-    parent_uid: 57faf95ee8e71453d7e78401d09e355c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: WwBaQCy4jfk
-  - uid: 2e547fa84bd3f95cb5a8f1bde96e334c
-    parent_uid: 57faf95ee8e71453d7e78401d09e355c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/WwBaQCy4jfk/default.jpg'
-  - uid: b62cbbc444a60064c7a71c3775439312
-    parent_uid: 57faf95ee8e71453d7e78401d09e355c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/extended-gauss-theorem/id414355340?i=90323145
-  - uid: c7d9ac0b0e9ebd996441097ad200e8cc
-    parent_uid: 57faf95ee8e71453d7e78401d09e355c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_61_300k.mp4'
-  - uid: 4f8c7f4adfca670843b64b829b2d6b3b
-    parent_uid: 57faf95ee8e71453d7e78401d09e355c
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: WwBaQCy4jfk
-  - uid: 8278458b2941b1a6bd8bbc152ad23950
-    parent_uid: 57faf95ee8e71453d7e78401d09e355c
-    id: WwBaQCy4jfk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-84-divergence-theorem/extended-gauss-theorem/WwBaQCy4jfk.srt
-  - uid: 4bb78d4bd76f655bbc8ccf389763bcd5
-    parent_uid: 57faf95ee8e71453d7e78401d09e355c
-    id: WwBaQCy4jfk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-84-divergence-theorem/extended-gauss-theorem/WwBaQCy4jfk.pdf
-  - uid: eca176e14494f3f2e7bd5d7983f1c93f
-    parent_uid: 57faf95ee8e71453d7e78401d09e355c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b8385f86160ab10ba4ebed4bd2ef0a05
-    parent_uid: 57faf95ee8e71453d7e78401d09e355c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 57faf95ee8e71453d7e78401d09e355c
 type: courses
 layout: video
 ---

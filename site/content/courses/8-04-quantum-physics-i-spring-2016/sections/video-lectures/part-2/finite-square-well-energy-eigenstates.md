@@ -1,13 +1,73 @@
 ---
-title: Finite square well energy eigenstates
-uid: f4cce89ace15852da75d487ce796b15c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: jd4es6Bo600
+    parent_uid: f4cce89ace15852da75d487ce796b15c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 657a31dbbc303e635be16512603ea18d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/OgUtZ5DpwPA/default.jpg'
+    parent_uid: f4cce89ace15852da75d487ce796b15c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e46475f78c1deb8dca0c78f6b0c2d947
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: jd4es6Bo600
+    parent_uid: f4cce89ace15852da75d487ce796b15c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fd709e0a4433c81fc7570e7afe0f721b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: f4cce89ace15852da75d487ce796b15c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7f6b1102fcba4c5ed4a74a7da34a0c1d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec11_s5_300k.mp4'
+    parent_uid: f4cce89ace15852da75d487ce796b15c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9cdd16568c093be56ca77330fd6f7a8b
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/jd4es6Bo600/default.jpg'
+    parent_uid: f4cce89ace15852da75d487ce796b15c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6d262e3a48aabe5319ab62c4bb895034
+  - id: jd4es6Bo600.srt
+    parent_uid: f4cce89ace15852da75d487ce796b15c
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/finite-square-well-energy-eigenstates/jd4es6Bo600.srt
+    title: 3play caption file
+    type: null
+    uid: a296ecc88dd116ac6806dfb49d32a2c5
+  - id: jd4es6Bo600.pdf
+    parent_uid: f4cce89ace15852da75d487ce796b15c
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/finite-square-well-energy-eigenstates/jd4es6Bo600.pdf
+    title: 3play pdf file
+    type: null
+    uid: 72ac28349f841f8d2a77a911cbdae21e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f4cce89ace15852da75d487ce796b15c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f256c47e0f48f27c1fd1e66ad0a58580
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f4cce89ace15852da75d487ce796b15c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b530a6e788ee0660a8af295b01944b7c
+inline_embed_id: 50100023finitesquarewellenergyeigenstates42697830
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: finite-square-well-energy-eigenstates
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/finite-square-well-energy-eigenstates
-short_url: finite-square-well-energy-eigenstates
-inline_embed_id: 50100023finitesquarewellenergyeigenstates42697830
-about_this_resource_text: ''
-related_resources_text: ''
+title: Finite square well energy eigenstates
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='175'>Find</span> <span
   m='700'>our</span> <span m='1120'>final</span> <span m='1630'>solution,</span>
@@ -484,67 +544,7 @@ transcript: >-
   m='636440'>equations,</span> <span m='637160'>and</span> <span
   m='637290'>you</span> <span m='637470'>need</span> <span m='637980'>a</span>
   <span m='638280'>computer to</span> <span m='638580'>solve.</span> </p>
-embedded_media:
-  - uid: 657a31dbbc303e635be16512603ea18d
-    parent_uid: f4cce89ace15852da75d487ce796b15c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: jd4es6Bo600
-  - uid: e46475f78c1deb8dca0c78f6b0c2d947
-    parent_uid: f4cce89ace15852da75d487ce796b15c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/OgUtZ5DpwPA/default.jpg'
-  - uid: fd709e0a4433c81fc7570e7afe0f721b
-    parent_uid: f4cce89ace15852da75d487ce796b15c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: jd4es6Bo600
-  - uid: 7f6b1102fcba4c5ed4a74a7da34a0c1d
-    parent_uid: f4cce89ace15852da75d487ce796b15c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 9cdd16568c093be56ca77330fd6f7a8b
-    parent_uid: f4cce89ace15852da75d487ce796b15c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec11_s5_300k.mp4'
-  - uid: 6d262e3a48aabe5319ab62c4bb895034
-    parent_uid: f4cce89ace15852da75d487ce796b15c
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/jd4es6Bo600/default.jpg'
-  - uid: a296ecc88dd116ac6806dfb49d32a2c5
-    parent_uid: f4cce89ace15852da75d487ce796b15c
-    id: jd4es6Bo600.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/finite-square-well-energy-eigenstates/jd4es6Bo600.srt
-  - uid: 72ac28349f841f8d2a77a911cbdae21e
-    parent_uid: f4cce89ace15852da75d487ce796b15c
-    id: jd4es6Bo600.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/finite-square-well-energy-eigenstates/jd4es6Bo600.pdf
-  - uid: f256c47e0f48f27c1fd1e66ad0a58580
-    parent_uid: f4cce89ace15852da75d487ce796b15c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b530a6e788ee0660a8af295b01944b7c
-    parent_uid: f4cce89ace15852da75d487ce796b15c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f4cce89ace15852da75d487ce796b15c
 type: courses
 layout: video
 ---

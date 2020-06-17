@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 24: Linear Programming and Two-Person Games'
-uid: aad61155b6deef238baf2022c1b8b5af
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-24-linear-programming-and-two-person-games
-short_url: lecture-24-linear-programming-and-two-person-games
-inline_embed_id: 61766072lecture24linearprogrammingandtwopersongames90658573
 about_this_resource_text: >-
   <h2 class="subhead"><strong>Description</strong></h2> <p>This lecture focuses
   on several topics that are specific parts of optimization.  These include
@@ -18,7 +11,62 @@ about_this_resource_text: >-
   \(X\) chooses rows of payoff matrix, \(Y\) chooses columns.</p> <p>Related
   sections in textbook: VI.2&ndash;VI.3</p> <p><strong>Instructor:</strong>
   Prof. Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: feb9j65Iz4w
+    parent_uid: aad61155b6deef238baf2022c1b8b5af
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d4a18bc641ad22e88307e3d959713079
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/feb9j65Iz4w/default.jpg'
+    parent_uid: aad61155b6deef238baf2022c1b8b5af
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 81f55f1a913056dd96d6fe0e39241323
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: feb9j65Iz4w
+    parent_uid: aad61155b6deef238baf2022c1b8b5af
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3d3f2aec61ac9bf507947110ba08ba68
+  - id: feb9j65Iz4w.srt
+    parent_uid: aad61155b6deef238baf2022c1b8b5af
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-24-linear-programming-and-two-person-games/feb9j65Iz4w.srt
+    title: 3play caption file
+    type: null
+    uid: 02a708b20f224bcbaacc3771500e0365
+  - id: feb9j65Iz4w.pdf
+    parent_uid: aad61155b6deef238baf2022c1b8b5af
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-24-linear-programming-and-two-person-games/feb9j65Iz4w.pdf
+    title: 3play pdf file
+    type: null
+    uid: cf7eca3de91e09982c70d097de07d25a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: aad61155b6deef238baf2022c1b8b5af
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0ff7709ab5576316e0ac68477151c402
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: aad61155b6deef238baf2022c1b8b5af
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 40c64dc6451fbeeabb3c89571b888813
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture24_300k.mp4'
+    parent_uid: aad61155b6deef238baf2022c1b8b5af
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 93ca0e762c2a3905f4fd7339c987c392
+inline_embed_id: 61766072lecture24linearprogrammingandtwopersongames90658573
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-24-linear-programming-and-two-person-games
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-24-linear-programming-and-two-person-games
+title: 'Lecture 24: Linear Programming and Two-Person Games'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2780,55 +2828,7 @@ transcript: >-
   m="3209160">stochastic</span> <span m="3210000">gradient</span> <span
   m="3210540">descent.</span> <span m="3211200">Good.</span> <span
   m="3211800">Thanks.</span></p>
-embedded_media:
-  - uid: d4a18bc641ad22e88307e3d959713079
-    parent_uid: aad61155b6deef238baf2022c1b8b5af
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: feb9j65Iz4w
-  - uid: 81f55f1a913056dd96d6fe0e39241323
-    parent_uid: aad61155b6deef238baf2022c1b8b5af
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/feb9j65Iz4w/default.jpg'
-  - uid: 3d3f2aec61ac9bf507947110ba08ba68
-    parent_uid: aad61155b6deef238baf2022c1b8b5af
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: feb9j65Iz4w
-  - uid: 02a708b20f224bcbaacc3771500e0365
-    parent_uid: aad61155b6deef238baf2022c1b8b5af
-    id: feb9j65Iz4w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-24-linear-programming-and-two-person-games/feb9j65Iz4w.srt
-  - uid: cf7eca3de91e09982c70d097de07d25a
-    parent_uid: aad61155b6deef238baf2022c1b8b5af
-    id: feb9j65Iz4w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-24-linear-programming-and-two-person-games/feb9j65Iz4w.pdf
-  - uid: 0ff7709ab5576316e0ac68477151c402
-    parent_uid: aad61155b6deef238baf2022c1b8b5af
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 40c64dc6451fbeeabb3c89571b888813
-    parent_uid: aad61155b6deef238baf2022c1b8b5af
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 93ca0e762c2a3905f4fd7339c987c392
-    parent_uid: aad61155b6deef238baf2022c1b8b5af
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture24_300k.mp4'
+uid: aad61155b6deef238baf2022c1b8b5af
 type: courses
 layout: video
 ---

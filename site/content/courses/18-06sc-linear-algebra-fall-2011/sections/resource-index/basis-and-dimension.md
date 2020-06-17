@@ -1,13 +1,68 @@
 ---
-title: Basis and Dimension
-uid: 05d2e1307b104087e511dd9025828128
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: MMWqGD4Urso
+    parent_uid: 05d2e1307b104087e511dd9025828128
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ae622c0ed081583270591038e1824e70
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: MMWqGD4Urso
+    parent_uid: 05d2e1307b104087e511dd9025828128
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: cf1e6cb27448d5f6df9126b0fc69150f
+  - id: Video-iTunesU-MP4
+    media_location: "http://itunes.apple.com/us/itunes-u/basis-and-dimension/id488155309?i=108454355\t"
+    parent_uid: 05d2e1307b104087e511dd9025828128
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: df86165c951dd8fde400eddc13c87af8
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110526_A2_300k.mp4
+    parent_uid: 05d2e1307b104087e511dd9025828128
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ba88f65d05971755658dadc9d20d63fb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/MMWqGD4Urso/default.jpg'
+    parent_uid: 05d2e1307b104087e511dd9025828128
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 30b94d34fc73d7e5e1d8e7215687b610
+  - id: MMWqGD4Urso.srt
+    parent_uid: 05d2e1307b104087e511dd9025828128
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/basis-and-dimension/MMWqGD4Urso.srt
+    title: 3play caption file
+    type: null
+    uid: f9e395c503e5a3549dd7c4959cac95d8
+  - id: MMWqGD4Urso.pdf
+    parent_uid: 05d2e1307b104087e511dd9025828128
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/basis-and-dimension/MMWqGD4Urso.pdf
+    title: 3play pdf file
+    type: null
+    uid: e74ce06b1d1161001a180c18c9d5a060
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 05d2e1307b104087e511dd9025828128
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fec6d89096247badac23bac8ffc1d5e5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 05d2e1307b104087e511dd9025828128
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 05c0839e5d25033a6a26c5b0cb1b73e3
+inline_embed_id: 9899105basisanddimension16789922
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: basis-and-dimension
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/basis-and-dimension
-short_url: basis-and-dimension
-inline_embed_id: 9899105basisanddimension16789922
-about_this_resource_text: ''
-related_resources_text: ''
+title: Basis and Dimension
 transcript: >-
   <p><span m='7065'>PROFESSOR: Hi</span> <span m='7540'>there.</span> <span
   m='7920'>Welcome</span> <span m='8189'>back</span> <span m='8360'>to</span>
@@ -470,62 +525,7 @@ transcript: >-
   m='486420'>All</span> <span m='486610'>right.</span> <span
   m='487100'>We're</span> <span m='487250'>done.</span> <span
   m='488040'>Thank</span> <span m='488270'>you.</span> </p>
-embedded_media:
-  - uid: ae622c0ed081583270591038e1824e70
-    parent_uid: 05d2e1307b104087e511dd9025828128
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MMWqGD4Urso
-  - uid: cf1e6cb27448d5f6df9126b0fc69150f
-    parent_uid: 05d2e1307b104087e511dd9025828128
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MMWqGD4Urso
-  - uid: df86165c951dd8fde400eddc13c87af8
-    parent_uid: 05d2e1307b104087e511dd9025828128
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: "http://itunes.apple.com/us/itunes-u/basis-and-dimension/id488155309?i=108454355\t"
-  - uid: ba88f65d05971755658dadc9d20d63fb
-    parent_uid: 05d2e1307b104087e511dd9025828128
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110526_A2_300k.mp4
-  - uid: 30b94d34fc73d7e5e1d8e7215687b610
-    parent_uid: 05d2e1307b104087e511dd9025828128
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MMWqGD4Urso/default.jpg'
-  - uid: f9e395c503e5a3549dd7c4959cac95d8
-    parent_uid: 05d2e1307b104087e511dd9025828128
-    id: MMWqGD4Urso.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/basis-and-dimension/MMWqGD4Urso.srt
-  - uid: e74ce06b1d1161001a180c18c9d5a060
-    parent_uid: 05d2e1307b104087e511dd9025828128
-    id: MMWqGD4Urso.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/basis-and-dimension/MMWqGD4Urso.pdf
-  - uid: fec6d89096247badac23bac8ffc1d5e5
-    parent_uid: 05d2e1307b104087e511dd9025828128
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 05c0839e5d25033a6a26c5b0cb1b73e3
-    parent_uid: 05d2e1307b104087e511dd9025828128
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 05d2e1307b104087e511dd9025828128
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: Using the Integral Test for Estimation
-uid: 9da4dde880bb2ef0f2884ee46a2efca0
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: QEBkT-Pgqos
+    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3440d8c2d770f4c066bc1d1dc856e2db
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QEBkT-Pgqos/default.jpg'
+    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ee936de4e4d3d868b61e0bb24973726c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/integral-test-as-estimation/id414308064?i=90333663
+    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 90a77ccc00945f5a952c6fd099c376c7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_76_300k.mp4'
+    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c288b3aaa96efde56339381dcc6ec3fc
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: QEBkT-Pgqos
+    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e488ff0b0d9f1b068af1d2b36c27efe4
+  - id: QEBkT-Pgqos.srt
+    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/using-the-integral-test-for-estimation/QEBkT-Pgqos.srt
+    title: 3play caption file
+    type: null
+    uid: 3598ba87f269c54aba429c99842db505
+  - id: QEBkT-Pgqos.pdf
+    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/using-the-integral-test-for-estimation/QEBkT-Pgqos.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7430ba1e8f6f96592d9a1bc41214058d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1768c9999a76b4c0aaf6117b41527206
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6396024ef87a592957b6618ea82ba03d
+inline_embed_id: 3392526usingtheintegraltestforestimation63019021
 parent_uid: e6b5bcf01d4fe02cb8f15ed900b23542
+related_resources_text: ''
+short_url: using-the-integral-test-for-estimation
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/using-the-integral-test-for-estimation
-short_url: using-the-integral-test-for-estimation
-inline_embed_id: 3392526usingtheintegraltestforestimation63019021
-about_this_resource_text: ''
-related_resources_text: ''
+title: Using the Integral Test for Estimation
 transcript: >-
   <p><span m='7000'>Hi.</span> <span m='7410'>Welcome</span> <span
   m='7800'>back</span> <span m='8010'>to</span> <span
@@ -966,62 +1021,7 @@ transcript: >-
   m='910160'>or</span> <span m='910350'>whatever.</span> </p><p><span
   m='911990'>So</span> <span m='912260'>I'll</span> <span m='912410'>stop</span>
   <span m='912790'>there.</span> </p>
-embedded_media:
-  - uid: 3440d8c2d770f4c066bc1d1dc856e2db
-    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QEBkT-Pgqos
-  - uid: ee936de4e4d3d868b61e0bb24973726c
-    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QEBkT-Pgqos/default.jpg'
-  - uid: 90a77ccc00945f5a952c6fd099c376c7
-    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/integral-test-as-estimation/id414308064?i=90333663
-  - uid: c288b3aaa96efde56339381dcc6ec3fc
-    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_76_300k.mp4'
-  - uid: e488ff0b0d9f1b068af1d2b36c27efe4
-    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QEBkT-Pgqos
-  - uid: 3598ba87f269c54aba429c99842db505
-    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
-    id: QEBkT-Pgqos.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/using-the-integral-test-for-estimation/QEBkT-Pgqos.srt
-  - uid: 7430ba1e8f6f96592d9a1bc41214058d
-    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
-    id: QEBkT-Pgqos.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/using-the-integral-test-for-estimation/QEBkT-Pgqos.pdf
-  - uid: 1768c9999a76b4c0aaf6117b41527206
-    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6396024ef87a592957b6618ea82ba03d
-    parent_uid: 9da4dde880bb2ef0f2884ee46a2efca0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9da4dde880bb2ef0f2884ee46a2efca0
 type: courses
 layout: video
 ---

@@ -1,13 +1,61 @@
 ---
-title: Polarization in a Sugar Solution
-uid: 0af396dc268d043d122a58c69aa013b2
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Dlhma3z57SA
+    parent_uid: 0af396dc268d043d122a58c69aa013b2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0139018031e3dfca5100c9c437a9045d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Dlhma3z57SA/default.jpg'
+    parent_uid: 0af396dc268d043d122a58c69aa013b2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7e11ca91fbd493a7ea9f493d4b213eb1
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Dlhma3z57SA
+    parent_uid: 0af396dc268d043d122a58c69aa013b2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 24e0ef4fa8394a4d8b102f0af6eed339
+  - id: Dlhma3z57SA.srt
+    parent_uid: 0af396dc268d043d122a58c69aa013b2
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-18/copy3_of_lecture-18-video/Dlhma3z57SA.srt
+    title: 3play caption file
+    type: null
+    uid: fbeecd11219cab2792a843850c1a49ea
+  - id: Dlhma3z57SA.pdf
+    parent_uid: 0af396dc268d043d122a58c69aa013b2
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-18/copy3_of_lecture-18-video/Dlhma3z57SA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2a4ca0c8b6d5139f584c73dcdbf15fe9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0af396dc268d043d122a58c69aa013b2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0ffbddbe74055506cc82765a63c15196
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0af396dc268d043d122a58c69aa013b2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fdf39e0c7e3cd19bcb2dd19b95e5e149
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec18_300k.mp4'
+    parent_uid: 0af396dc268d043d122a58c69aa013b2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f5edbd2bea4a162d04fbcb39ad55d07f
+inline_embed_id: 40304483lecture18videop329980777
 parent_uid: 7d3296b3f48fd48abef124b6a4fa4305
+related_resources_text: ''
+short_url: copy3_of_lecture-18-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-18/copy3_of_lecture-18-video
-short_url: copy3_of_lecture-18-video
-inline_embed_id: 40304483lecture18videop329980777
-about_this_resource_text: ''
-related_resources_text: ''
+title: Polarization in a Sugar Solution
 transcript: >-
   <p><span m="2490">The</span> <span m="2580">following</span> <span
   m="3030">content</span> <span m="3510">is</span> <span
@@ -4848,55 +4896,7 @@ transcript: >-
   m="5045870">we</span> <span m="5045920">have</span> <span
   m="5046070">done</span> <span m="5046540">in</span> <span
   m="5046840">class.</span></p>
-embedded_media:
-  - uid: 0139018031e3dfca5100c9c437a9045d
-    parent_uid: 0af396dc268d043d122a58c69aa013b2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Dlhma3z57SA
-  - uid: 7e11ca91fbd493a7ea9f493d4b213eb1
-    parent_uid: 0af396dc268d043d122a58c69aa013b2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Dlhma3z57SA/default.jpg'
-  - uid: 24e0ef4fa8394a4d8b102f0af6eed339
-    parent_uid: 0af396dc268d043d122a58c69aa013b2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Dlhma3z57SA
-  - uid: fbeecd11219cab2792a843850c1a49ea
-    parent_uid: 0af396dc268d043d122a58c69aa013b2
-    id: Dlhma3z57SA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-18/copy3_of_lecture-18-video/Dlhma3z57SA.srt
-  - uid: 2a4ca0c8b6d5139f584c73dcdbf15fe9
-    parent_uid: 0af396dc268d043d122a58c69aa013b2
-    id: Dlhma3z57SA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-18/copy3_of_lecture-18-video/Dlhma3z57SA.pdf
-  - uid: 0ffbddbe74055506cc82765a63c15196
-    parent_uid: 0af396dc268d043d122a58c69aa013b2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fdf39e0c7e3cd19bcb2dd19b95e5e149
-    parent_uid: 0af396dc268d043d122a58c69aa013b2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f5edbd2bea4a162d04fbcb39ad55d07f
-    parent_uid: 0af396dc268d043d122a58c69aa013b2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec18_300k.mp4'
+uid: 0af396dc268d043d122a58c69aa013b2
 type: courses
 layout: video
 ---

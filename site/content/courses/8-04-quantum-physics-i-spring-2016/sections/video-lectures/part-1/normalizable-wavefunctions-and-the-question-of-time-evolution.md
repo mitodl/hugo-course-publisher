@@ -1,13 +1,73 @@
 ---
-title: Normalizable wavefunctions and the question of time evolution
-uid: 307c9811af7d9b8a5157c9c269bd346f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: d4skxu7MpFI
+    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1f86d800b2979d5acfdfc55d069fa104
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/yLM34DugWvw/default.jpg'
+    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 389e328a80b988fbdf785d061541d96a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: d4skxu7MpFI
+    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b64341b74313d29232ce54742a142d19
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 38b9a72893e4f53e5436ab72e6238015
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec06_s1_300k.mp4'
+    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8e2e63ed895cccbf0c5fb0db6f316a50
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/d4skxu7MpFI/default.jpg'
+    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: eeb08c22bbcb606d3569a38074fe4762
+  - id: d4skxu7MpFI.srt
+    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/normalizable-wavefunctions-and-the-question-of-time-evolution/d4skxu7MpFI.srt
+    title: 3play caption file
+    type: null
+    uid: b6bc35d8256893bf898118d30ffcde99
+  - id: d4skxu7MpFI.pdf
+    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/normalizable-wavefunctions-and-the-question-of-time-evolution/d4skxu7MpFI.pdf
+    title: 3play pdf file
+    type: null
+    uid: ceb707a47519f50a80034475bc7c2661
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8cf3461c743b054d29ac03ff7d87c741
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8480c1ecc3733b5f78bad7108dfb96d7
+inline_embed_id: 87520578normalizablewavefunctionsandthequestionoftimeevolution17257460
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: normalizable-wavefunctions-and-the-question-of-time-evolution
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/normalizable-wavefunctions-and-the-question-of-time-evolution
-short_url: normalizable-wavefunctions-and-the-question-of-time-evolution
-inline_embed_id: 87520578normalizablewavefunctionsandthequestionoftimeevolution17257460
-about_this_resource_text: ''
-related_resources_text: ''
+title: Normalizable wavefunctions and the question of time evolution
 transcript: >-
   <p><span m='1730'>BARTON ZWIEBACH:</span> <span m='1850'>We</span> <span
   m='1970'>were</span> <span m='2180'>faced</span> <span m='3110'>last</span>
@@ -772,67 +832,7 @@ transcript: >-
   m='1007260'>normalization</span> <span m='1008820'>and</span> <span
   m='1009030'>how</span> <span m='1009330'>does it</span> <span
   m='1009630'>do</span> <span m='1009930'>that?</span> </p>
-embedded_media:
-  - uid: 1f86d800b2979d5acfdfc55d069fa104
-    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: d4skxu7MpFI
-  - uid: 389e328a80b988fbdf785d061541d96a
-    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/yLM34DugWvw/default.jpg'
-  - uid: b64341b74313d29232ce54742a142d19
-    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: d4skxu7MpFI
-  - uid: 38b9a72893e4f53e5436ab72e6238015
-    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 8e2e63ed895cccbf0c5fb0db6f316a50
-    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec06_s1_300k.mp4'
-  - uid: eeb08c22bbcb606d3569a38074fe4762
-    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/d4skxu7MpFI/default.jpg'
-  - uid: b6bc35d8256893bf898118d30ffcde99
-    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
-    id: d4skxu7MpFI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/normalizable-wavefunctions-and-the-question-of-time-evolution/d4skxu7MpFI.srt
-  - uid: ceb707a47519f50a80034475bc7c2661
-    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
-    id: d4skxu7MpFI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/normalizable-wavefunctions-and-the-question-of-time-evolution/d4skxu7MpFI.pdf
-  - uid: 8cf3461c743b054d29ac03ff7d87c741
-    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8480c1ecc3733b5f78bad7108dfb96d7
-    parent_uid: 307c9811af7d9b8a5157c9c269bd346f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 307c9811af7d9b8a5157c9c269bd346f
 type: courses
 layout: video
 ---

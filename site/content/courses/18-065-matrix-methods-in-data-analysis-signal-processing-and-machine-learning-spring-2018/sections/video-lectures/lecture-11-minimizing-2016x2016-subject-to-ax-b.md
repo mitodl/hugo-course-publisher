@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 11: Minimizing ‖x‖ Subject to Ax = b '
-uid: 57520c261eb1b9cabc4460a953a67428
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-11-minimizing-2016x2016-subject-to-ax-b
-short_url: lecture-11-minimizing-2016x2016-subject-to-ax-b
-inline_embed_id: 40586369lecture11minimizingxsubjecttoaxb20769343
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>In this lecture, Professor Strang
   revisits the ways to solve least squares problems.  In particular, he focuses
@@ -16,7 +9,62 @@ about_this_resource_text: >-
   QR\)<br /> Orthogonal vectors in \(Q\) from independent vectors in \(A\)</p>
   <p>Related section in textbook: I.11</p> <p><strong>Instructor:</strong> Prof.
   Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: MuEW9pG9oxE
+    parent_uid: 57520c261eb1b9cabc4460a953a67428
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 39073ce4f624422116d9321f263d49b5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/MuEW9pG9oxE/default.jpg'
+    parent_uid: 57520c261eb1b9cabc4460a953a67428
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2ca3817a791cc5eca1c88c9eaf0c782a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: MuEW9pG9oxE
+    parent_uid: 57520c261eb1b9cabc4460a953a67428
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6eefaae57401f7c2e293a024581e1caa
+  - id: MuEW9pG9oxE.srt
+    parent_uid: 57520c261eb1b9cabc4460a953a67428
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-11-minimizing-2016x2016-subject-to-ax-b/MuEW9pG9oxE.srt
+    title: 3play caption file
+    type: null
+    uid: cce9309d9b9cb43fa3db0b8df4bb0177
+  - id: MuEW9pG9oxE.pdf
+    parent_uid: 57520c261eb1b9cabc4460a953a67428
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-11-minimizing-2016x2016-subject-to-ax-b/MuEW9pG9oxE.pdf
+    title: 3play pdf file
+    type: null
+    uid: f8ece4b5c1f0a1c6d1ff79a17e0162e2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 57520c261eb1b9cabc4460a953a67428
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3fae858f032508d9a7cd9cb0eb425780
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 57520c261eb1b9cabc4460a953a67428
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c26c670d2cde94674cc3a591534bc7aa
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture11_300k.mp4'
+    parent_uid: 57520c261eb1b9cabc4460a953a67428
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 085f1b8a63d185bda736defcb5a6bb96
+inline_embed_id: 40586369lecture11minimizingxsubjecttoaxb20769343
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-11-minimizing-2016x2016-subject-to-ax-b
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-11-minimizing-2016x2016-subject-to-ax-b
+title: 'Lecture 11: Minimizing ‖x‖ Subject to Ax = b '
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2683,55 +2731,7 @@ transcript: >-
   m="3018190">do</span> <span m="3018460">with</span> <span
   m="3018850">really,</span> <span m="3019370">really</span> <span
   m="3019690">large</span> <span m="3020050">matrices.</span></p>
-embedded_media:
-  - uid: 39073ce4f624422116d9321f263d49b5
-    parent_uid: 57520c261eb1b9cabc4460a953a67428
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MuEW9pG9oxE
-  - uid: 2ca3817a791cc5eca1c88c9eaf0c782a
-    parent_uid: 57520c261eb1b9cabc4460a953a67428
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MuEW9pG9oxE/default.jpg'
-  - uid: 6eefaae57401f7c2e293a024581e1caa
-    parent_uid: 57520c261eb1b9cabc4460a953a67428
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MuEW9pG9oxE
-  - uid: cce9309d9b9cb43fa3db0b8df4bb0177
-    parent_uid: 57520c261eb1b9cabc4460a953a67428
-    id: MuEW9pG9oxE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-11-minimizing-2016x2016-subject-to-ax-b/MuEW9pG9oxE.srt
-  - uid: f8ece4b5c1f0a1c6d1ff79a17e0162e2
-    parent_uid: 57520c261eb1b9cabc4460a953a67428
-    id: MuEW9pG9oxE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-11-minimizing-2016x2016-subject-to-ax-b/MuEW9pG9oxE.pdf
-  - uid: 3fae858f032508d9a7cd9cb0eb425780
-    parent_uid: 57520c261eb1b9cabc4460a953a67428
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c26c670d2cde94674cc3a591534bc7aa
-    parent_uid: 57520c261eb1b9cabc4460a953a67428
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 085f1b8a63d185bda736defcb5a6bb96
-    parent_uid: 57520c261eb1b9cabc4460a953a67428
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture11_300k.mp4'
+uid: 57520c261eb1b9cabc4460a953a67428
 type: courses
 layout: video
 ---

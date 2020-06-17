@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Introduction to Power Series'
-uid: 8abae4c8256b7cd511dc2c87f9c36087
-parent_uid: bcbb45fdbe1b69cc80a82c9f73ca8d5d
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/clip-1-introduction-to-power-series
-short_url: clip-1-introduction-to-power-series
-inline_embed_id: '51708265clip1:introductiontopowerseries51639856'
 about_this_resource_text: >-
   <p>&raquo; <a title="Open in a new window." target="_blank"
   href="./resolveuid/62c02f6a6b27c4b59766647cb8f423ca">Accompanying Notes
   (PDF)</a></p> <p class="scholar_medsm">From Lecture 38 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: wOHrNt9ScYs
+    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0fb427414f387ca91a7d4afa2e6d2bc7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/wOHrNt9ScYs/default.jpg'
+    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b9db20c9f20a0e5d735e48d377e27112
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec38_300k.mp4'
+    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 55bb03d72ee5a304d1bfa4a3ef4297e8
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: wOHrNt9ScYs
+    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1e09d8e99aceb0f473ab5669edcf0d20
+  - id: wOHrNt9ScYs.srt
+    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/clip-1-introduction-to-power-series/wOHrNt9ScYs.srt
+    title: 3play caption file
+    type: null
+    uid: 1fe56f1374585c15c7af492fefccf195
+  - id: wOHrNt9ScYs.pdf
+    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/clip-1-introduction-to-power-series/wOHrNt9ScYs.pdf
+    title: 3play pdf file
+    type: null
+    uid: acaac0d4c1d4d1e49ab04524c6d5d200
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 464fbbbb1827d77706d59a17cd9f8e33
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a092dd01865f473fd70115aa97242b01
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9c2537816c08f312bfb2e222f048dca6
+inline_embed_id: '51708265clip1:introductiontopowerseries51639856'
+parent_uid: bcbb45fdbe1b69cc80a82c9f73ca8d5d
 related_resources_text: ''
+short_url: clip-1-introduction-to-power-series
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/clip-1-introduction-to-power-series
+title: 'Clip 1: Introduction to Power Series'
 transcript: >-
   <p><span m="0">The following</span> <span m="1270">content is</span> <span
   m="1420">provided</span> <span m="1680">under a</span> <span
@@ -2765,61 +2819,7 @@ transcript: >-
   m="2846860">luck,</span> <span m="2847170">everybody.</span> <span
   m="2847570">I'll</span> <span m="2847820">talk</span> <span m="2848050">to
   you</span> <span m="2848690">individually.</span></p>
-embedded_media:
-  - uid: 0fb427414f387ca91a7d4afa2e6d2bc7
-    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: wOHrNt9ScYs
-  - uid: b9db20c9f20a0e5d735e48d377e27112
-    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/wOHrNt9ScYs/default.jpg'
-  - uid: 55bb03d72ee5a304d1bfa4a3ef4297e8
-    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec38_300k.mp4'
-  - uid: 1e09d8e99aceb0f473ab5669edcf0d20
-    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: wOHrNt9ScYs
-  - uid: 1fe56f1374585c15c7af492fefccf195
-    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
-    id: wOHrNt9ScYs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/clip-1-introduction-to-power-series/wOHrNt9ScYs.srt
-  - uid: acaac0d4c1d4d1e49ab04524c6d5d200
-    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
-    id: wOHrNt9ScYs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/clip-1-introduction-to-power-series/wOHrNt9ScYs.pdf
-  - uid: 464fbbbb1827d77706d59a17cd9f8e33
-    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a092dd01865f473fd70115aa97242b01
-    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9c2537816c08f312bfb2e222f048dca6
-    parent_uid: 8abae4c8256b7cd511dc2c87f9c36087
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 8abae4c8256b7cd511dc2c87f9c36087
 type: courses
 layout: video
 ---

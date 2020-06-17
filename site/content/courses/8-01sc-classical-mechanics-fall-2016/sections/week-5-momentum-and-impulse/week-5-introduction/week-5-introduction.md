@@ -1,13 +1,67 @@
 ---
-title: Week 5 Introduction
-uid: 62a4747b9feca09295d454652b687b2b
+about_this_resource_text: '<p><strong>Instructor</strong>: Prof. Deepto Chakrabarty</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: n1cXiw3s72k
+    parent_uid: 62a4747b9feca09295d454652b687b2b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7f601c5a1a427648d3fdb86bf8726094
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/n1cXiw3s72k/default.jpg'
+    parent_uid: 62a4747b9feca09295d454652b687b2b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ae3a83ea6113a46fa670e1cf05a3d4e1
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: n1cXiw3s72k
+    parent_uid: 62a4747b9feca09295d454652b687b2b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ab506285ce97e8110a372062c46ee983
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 62a4747b9feca09295d454652b687b2b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7a602ad4ff4265c3fbd6ba7f74d54d5c
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W05Intro_360p.mp4'
+    parent_uid: 62a4747b9feca09295d454652b687b2b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6ede001eecc208f88a525c4cf9309d4c
+  - id: n1cXiw3s72k.srt
+    parent_uid: 62a4747b9feca09295d454652b687b2b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-5-momentum-and-impulse/week-5-introduction/week-5-introduction/n1cXiw3s72k.srt
+    title: 3play caption file
+    type: null
+    uid: c526da7f049601dc5ce6c32f68cae8be
+  - id: n1cXiw3s72k.pdf
+    parent_uid: 62a4747b9feca09295d454652b687b2b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-5-momentum-and-impulse/week-5-introduction/week-5-introduction/n1cXiw3s72k.pdf
+    title: 3play pdf file
+    type: null
+    uid: 95685f043a087e46cfaf95cea27449e0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 62a4747b9feca09295d454652b687b2b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4c1afd9455f8fd9a5b6a61120a16de5d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 62a4747b9feca09295d454652b687b2b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 238c4e198f7c8ed454f38cbb9a805685
+inline_embed_id: 60114337week5introduction77579335
 parent_uid: 7a7ef11d6a6afd90c8bac360dbead3ef
+related_resources_text: ''
+short_url: week-5-introduction
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-5-momentum-and-impulse/week-5-introduction/week-5-introduction
-short_url: week-5-introduction
-inline_embed_id: 60114337week5introduction77579335
-about_this_resource_text: '<p><strong>Instructor</strong>: Prof. Deepto Chakrabarty</p>'
-related_resources_text: ''
+title: Week 5 Introduction
 transcript: >-
   <p><span m='1220'>Up until now, we have analyzed the motion of objects</span>
   <span m='4340'>that we treated as so-called point masses, where
@@ -58,61 +112,7 @@ transcript: >-
   calculation.</span> </p><p><span m='138620'>We will see how this can be used
   to our advantage</span> <span m='140720'>in understanding what will
   happen.</span> </p><p></p>
-embedded_media:
-  - uid: 7f601c5a1a427648d3fdb86bf8726094
-    parent_uid: 62a4747b9feca09295d454652b687b2b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: n1cXiw3s72k
-  - uid: ae3a83ea6113a46fa670e1cf05a3d4e1
-    parent_uid: 62a4747b9feca09295d454652b687b2b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/n1cXiw3s72k/default.jpg'
-  - uid: ab506285ce97e8110a372062c46ee983
-    parent_uid: 62a4747b9feca09295d454652b687b2b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: n1cXiw3s72k
-  - uid: 7a602ad4ff4265c3fbd6ba7f74d54d5c
-    parent_uid: 62a4747b9feca09295d454652b687b2b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 6ede001eecc208f88a525c4cf9309d4c
-    parent_uid: 62a4747b9feca09295d454652b687b2b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W05Intro_360p.mp4'
-  - uid: c526da7f049601dc5ce6c32f68cae8be
-    parent_uid: 62a4747b9feca09295d454652b687b2b
-    id: n1cXiw3s72k.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-5-momentum-and-impulse/week-5-introduction/week-5-introduction/n1cXiw3s72k.srt
-  - uid: 95685f043a087e46cfaf95cea27449e0
-    parent_uid: 62a4747b9feca09295d454652b687b2b
-    id: n1cXiw3s72k.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-5-momentum-and-impulse/week-5-introduction/week-5-introduction/n1cXiw3s72k.pdf
-  - uid: 4c1afd9455f8fd9a5b6a61120a16de5d
-    parent_uid: 62a4747b9feca09295d454652b687b2b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 238c4e198f7c8ed454f38cbb9a805685
-    parent_uid: 62a4747b9feca09295d454652b687b2b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 62a4747b9feca09295d454652b687b2b
 type: courses
 layout: video
 ---

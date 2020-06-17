@@ -1,11 +1,4 @@
 ---
-title: Day 3 Trailer
-uid: 5cba30d15ae469750f9f36b6aee5dd34
-parent_uid: 32b67e5b521005d4f8119b60fb7ee964
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/day-3-trailer-1
-short_url: day-3-trailer-1
-inline_embed_id: 14133616day3trailer65574600
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: RMRI-Q3PMLE
+    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f47cb9902fc5462a21cd0916e19fa88e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/RMRI-Q3PMLE/default.jpg'
+    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bfbc4167e66f8065ce14009a944a196c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: RMRI-Q3PMLE
+    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c79d072f8fdba208d8d434ec02e0d4d5
+  - id: RMRI-Q3PMLE.srt
+    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/day-3-trailer-1/RMRI-Q3PMLE.srt
+    title: 3play caption file
+    type: null
+    uid: 797151f6d414d7a14dea542eaeb333ba
+  - id: RMRI-Q3PMLE.pdf
+    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/day-3-trailer-1/RMRI-Q3PMLE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3b68c59266aa310b425a2d0eefd56a73
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 849c22b9ca48c068dee99d60e32f02f7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ce26c5b08eb698027eb309c0d2df773b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 141cc3d4c8c2147674a5ffadb2ef2528
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_JC_D03_Pitch_360p.mp4
+    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 876b112dc5e69a0ce02d84fd3a7ca523
+inline_embed_id: 14133616day3trailer65574600
+parent_uid: 32b67e5b521005d4f8119b60fb7ee964
 related_resources_text: ''
+short_url: day-3-trailer-1
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/day-3-trailer-1
+title: Day 3 Trailer
 transcript: >-
   <p><span m="1120">PROFESSOR: Hi.</span> <span m="1270">Do</span> <span
   m="1390">you</span> <span m="1490">know</span> <span m="1630">that</span>
@@ -199,62 +254,7 @@ transcript: >-
   m="157460">I</span> <span m="157520">want</span> <span m="157710">to</span>
   <span m="157750">get</span> <span m="157960">out of</span> <span
   m="158240">the</span> <span m="158390">video.</span></p>
-embedded_media:
-  - uid: f47cb9902fc5462a21cd0916e19fa88e
-    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: RMRI-Q3PMLE
-  - uid: bfbc4167e66f8065ce14009a944a196c
-    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/RMRI-Q3PMLE/default.jpg'
-  - uid: c79d072f8fdba208d8d434ec02e0d4d5
-    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: RMRI-Q3PMLE
-  - uid: 797151f6d414d7a14dea542eaeb333ba
-    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
-    id: RMRI-Q3PMLE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/day-3-trailer-1/RMRI-Q3PMLE.srt
-  - uid: 3b68c59266aa310b425a2d0eefd56a73
-    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
-    id: RMRI-Q3PMLE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/day-3-trailer-1/RMRI-Q3PMLE.pdf
-  - uid: 849c22b9ca48c068dee99d60e32f02f7
-    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ce26c5b08eb698027eb309c0d2df773b
-    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 141cc3d4c8c2147674a5ffadb2ef2528
-    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 876b112dc5e69a0ce02d84fd3a7ca523
-    parent_uid: 5cba30d15ae469750f9f36b6aee5dd34
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_JC_D03_Pitch_360p.mp4
+uid: 5cba30d15ae469750f9f36b6aee5dd34
 type: courses
 layout: video
 ---

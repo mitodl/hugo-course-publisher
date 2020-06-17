@@ -1,13 +1,73 @@
 ---
-title: Binomial Theorem
-uid: 5390315c3d860a991081bf7905629cbe
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 5390315c3d860a991081bf7905629cbe
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 1d80526f4c79e4d0fe7383089ab5e872
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 5390315c3d860a991081bf7905629cbe
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 13ca68733c869c857080734fa0d9ed08
+  - id: Video-YouTube-Stream
+    media_location: jwjDj4GoSV0
+    parent_uid: 5390315c3d860a991081bf7905629cbe
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6828d3296864c42a2e5abb197d2d3e10
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/jwjDj4GoSV0/default.jpg'
+    parent_uid: 5390315c3d860a991081bf7905629cbe
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c0b147e77e5290a83e0848eedbdaddda
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: jwjDj4GoSV0
+    parent_uid: 5390315c3d860a991081bf7905629cbe
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bb669927ae94e4c2f2aaadbf7f8b66d9
+  - id: jwjDj4GoSV0.srt
+    parent_uid: 5390315c3d860a991081bf7905629cbe
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-a7fe1b9ddc0c/binomial-theorem/jwjDj4GoSV0.srt
+    title: 3play caption file
+    type: null
+    uid: 737fab2594b5d8fc8483bda61420f741
+  - id: jwjDj4GoSV0.pdf
+    parent_uid: 5390315c3d860a991081bf7905629cbe
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-a7fe1b9ddc0c/binomial-theorem/jwjDj4GoSV0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9574e80c2765ad3fb16830e6bff3045a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5390315c3d860a991081bf7905629cbe
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b60ee927d65fc54f4dc6b4f8d4a43b66
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5390315c3d860a991081bf7905629cbe
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6f7e082bdbc8e5ffe6d0faf39561f247
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_binomialtheorem_ipod.mp4
+    parent_uid: 5390315c3d860a991081bf7905629cbe
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3bdd59b7df193b125baa66b8b65ebe50
+inline_embed_id: 21160844binomialtheorem5680628
 parent_uid: e6c64653596baf6af0c203a1421a1e7a
+related_resources_text: ''
+short_url: binomial-theorem
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-a7fe1b9ddc0c/binomial-theorem
-short_url: binomial-theorem
-inline_embed_id: 21160844binomialtheorem5680628
-about_this_resource_text: ''
-related_resources_text: ''
+title: Binomial Theorem
 transcript: >-
   <p><span m='700'>PROFESSOR: We're</span> <span m='870'>going</span> <span
   m='1030'>to</span> <span m='1110'>spend</span> <span m='1410'>a</span> <span
@@ -409,67 +469,7 @@ transcript: >-
   m='333600'>sigma</span> <span m='333980'>notation.</span> <span
   m='335040'>That</span> <span m='335720'>is</span> <span m='336120'>the</span>
   <span m='336190'>binomial</span> <span m='336840'>formula.</span> </p>
-embedded_media:
-  - uid: 1d80526f4c79e4d0fe7383089ab5e872
-    parent_uid: 5390315c3d860a991081bf7905629cbe
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 13ca68733c869c857080734fa0d9ed08
-    parent_uid: 5390315c3d860a991081bf7905629cbe
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 6828d3296864c42a2e5abb197d2d3e10
-    parent_uid: 5390315c3d860a991081bf7905629cbe
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: jwjDj4GoSV0
-  - uid: c0b147e77e5290a83e0848eedbdaddda
-    parent_uid: 5390315c3d860a991081bf7905629cbe
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/jwjDj4GoSV0/default.jpg'
-  - uid: bb669927ae94e4c2f2aaadbf7f8b66d9
-    parent_uid: 5390315c3d860a991081bf7905629cbe
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: jwjDj4GoSV0
-  - uid: 737fab2594b5d8fc8483bda61420f741
-    parent_uid: 5390315c3d860a991081bf7905629cbe
-    id: jwjDj4GoSV0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-a7fe1b9ddc0c/binomial-theorem/jwjDj4GoSV0.srt
-  - uid: 9574e80c2765ad3fb16830e6bff3045a
-    parent_uid: 5390315c3d860a991081bf7905629cbe
-    id: jwjDj4GoSV0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-a7fe1b9ddc0c/binomial-theorem/jwjDj4GoSV0.pdf
-  - uid: b60ee927d65fc54f4dc6b4f8d4a43b66
-    parent_uid: 5390315c3d860a991081bf7905629cbe
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6f7e082bdbc8e5ffe6d0faf39561f247
-    parent_uid: 5390315c3d860a991081bf7905629cbe
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3bdd59b7df193b125baa66b8b65ebe50
-    parent_uid: 5390315c3d860a991081bf7905629cbe
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_binomialtheorem_ipod.mp4
+uid: 5390315c3d860a991081bf7905629cbe
 type: courses
 layout: video
 ---

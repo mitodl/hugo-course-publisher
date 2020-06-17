@@ -1,19 +1,81 @@
 ---
-title: 'Lecture 3: Strong Induction'
-uid: a5d908a733cae6fd511694b5e53c197c
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-3-strong-induction
-short_url: lecture-3-strong-induction
-inline_embed_id: '97365562lecture3:stronginduction78517960'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Covers strong induction as a tool for proofs.
   Introduction to invariants with different games, including the n&ndash;block
   game and grid puzzles.</p> <p><strong>Speaker:</strong> Tom Leighton</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: NuGDkmwEObM
+    parent_uid: a5d908a733cae6fd511694b5e53c197c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d5be80ebc30c59011aa2f43e1bf0d439
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/NuGDkmwEObM/default.jpg'
+    parent_uid: a5d908a733cae6fd511694b5e53c197c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: da0c078ca948bff6581d26c19575b690
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-3-strong-induction/id503873536?i=110644967
+    parent_uid: a5d908a733cae6fd511694b5e53c197c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 34fbdaa962aa8d978fc2bc3485f9e1d7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec03_300k.mp4'
+    parent_uid: a5d908a733cae6fd511694b5e53c197c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 79c51925f6c3043a059597329168e27b
+  - id: MIT6_042JF10_proof.pdf
+    parent_uid: a5d908a733cae6fd511694b5e53c197c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-3-strong-induction/MIT6_042JF10_proof.pdf
+    title: MIT6_042JF10_proof.pdf
+    type: null
+    uid: 9f565760fc876e8ce22f822e7471faa9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: NuGDkmwEObM
+    parent_uid: a5d908a733cae6fd511694b5e53c197c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c5574240b3ed065352506d2aee1afe67
+  - id: NuGDkmwEObM.srt
+    parent_uid: a5d908a733cae6fd511694b5e53c197c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-3-strong-induction/NuGDkmwEObM.srt
+    title: 3play caption file
+    type: null
+    uid: 7bae69997647bdd756afd4d6bb40d2dc
+  - id: NuGDkmwEObM.pdf
+    parent_uid: a5d908a733cae6fd511694b5e53c197c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-3-strong-induction/NuGDkmwEObM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 45f6debd41091c3e1a78c3d72be1d8cb
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a5d908a733cae6fd511694b5e53c197c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8650401e5f7ed41b3963534ebbea8344
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a5d908a733cae6fd511694b5e53c197c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6319b93fbba997521e38694521b90a7c
+inline_embed_id: '97365562lecture3:stronginduction78517960'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: >-
   <p>Top Ten Proof Techniques Not Allowed in 6.042 (<a
   href="./resolveuid/9f565760fc876e8ce22f822e7471faa9"
   target="_blank">PDF</a>)</p>
+short_url: lecture-3-strong-induction
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-3-strong-induction
+title: 'Lecture 3: Strong Induction'
 transcript: >-
   <p><span m='570'>The</span> <span m='680'>following</span> <span
   m='1120'>content</span> <span m='1710'>is</span> <span
@@ -4292,69 +4354,7 @@ transcript: >-
   m='4914010'>very</span> <span m='4914270'>good,</span> <span
   m='4914460'>that's</span> <span m='4914950'>it</span> <span
   m='4915150'>for</span> <span m='4915270'>today.</span> </p>
-embedded_media:
-  - uid: d5be80ebc30c59011aa2f43e1bf0d439
-    parent_uid: a5d908a733cae6fd511694b5e53c197c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: NuGDkmwEObM
-  - uid: da0c078ca948bff6581d26c19575b690
-    parent_uid: a5d908a733cae6fd511694b5e53c197c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/NuGDkmwEObM/default.jpg'
-  - uid: 34fbdaa962aa8d978fc2bc3485f9e1d7
-    parent_uid: a5d908a733cae6fd511694b5e53c197c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-3-strong-induction/id503873536?i=110644967
-  - uid: 79c51925f6c3043a059597329168e27b
-    parent_uid: a5d908a733cae6fd511694b5e53c197c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec03_300k.mp4'
-  - uid: 9f565760fc876e8ce22f822e7471faa9
-    parent_uid: a5d908a733cae6fd511694b5e53c197c
-    id: MIT6_042JF10_proof.pdf
-    title: MIT6_042JF10_proof.pdf
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-3-strong-induction/MIT6_042JF10_proof.pdf
-  - uid: c5574240b3ed065352506d2aee1afe67
-    parent_uid: a5d908a733cae6fd511694b5e53c197c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: NuGDkmwEObM
-  - uid: 7bae69997647bdd756afd4d6bb40d2dc
-    parent_uid: a5d908a733cae6fd511694b5e53c197c
-    id: NuGDkmwEObM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-3-strong-induction/NuGDkmwEObM.srt
-  - uid: 45f6debd41091c3e1a78c3d72be1d8cb
-    parent_uid: a5d908a733cae6fd511694b5e53c197c
-    id: NuGDkmwEObM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-3-strong-induction/NuGDkmwEObM.pdf
-  - uid: 8650401e5f7ed41b3963534ebbea8344
-    parent_uid: a5d908a733cae6fd511694b5e53c197c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6319b93fbba997521e38694521b90a7c
-    parent_uid: a5d908a733cae6fd511694b5e53c197c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a5d908a733cae6fd511694b5e53c197c
 type: courses
 layout: video
 ---

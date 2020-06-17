@@ -1,13 +1,73 @@
 ---
-title: Asymptotic Properties
-uid: d69ccd43e66912224e0dbac10b67e72e
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: d69ccd43e66912224e0dbac10b67e72e
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 3d44cf2ae03882086693067ce02ccb73
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: d69ccd43e66912224e0dbac10b67e72e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 60c3a4ffeaea0b8b4b19f02acd97a44b
+  - id: Video-YouTube-Stream
+    media_location: HeyEK0TWiBw
+    parent_uid: d69ccd43e66912224e0dbac10b67e72e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ab8c49a0a0969c5ec311a499ba23fd56
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/HeyEK0TWiBw/default.jpg'
+    parent_uid: d69ccd43e66912224e0dbac10b67e72e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 39c3e3206b1a99f1b0136c47cc88640b
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: HeyEK0TWiBw
+    parent_uid: d69ccd43e66912224e0dbac10b67e72e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3cc0433c5040b3bf1b1e56ef1f5d1666
+  - id: HeyEK0TWiBw.srt
+    parent_uid: d69ccd43e66912224e0dbac10b67e72e
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-e35ce9684389/asymptotic-properties/HeyEK0TWiBw.srt
+    title: 3play caption file
+    type: null
+    uid: 70476ef0a919090a629638ea2a7ee8f2
+  - id: HeyEK0TWiBw.pdf
+    parent_uid: d69ccd43e66912224e0dbac10b67e72e
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-e35ce9684389/asymptotic-properties/HeyEK0TWiBw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3d8172bbcc4817c265375acdde046b0d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d69ccd43e66912224e0dbac10b67e72e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 18861221d9645c554ec6cd2430a37361
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d69ccd43e66912224e0dbac10b67e72e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ea8915bf8ba7d4d45ad44d19dbc60095
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_asymptoticproperties_ipod.mp4
+    parent_uid: d69ccd43e66912224e0dbac10b67e72e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 839cbda63930eb9bc286febc408bbdd8
+inline_embed_id: 99966756asymptoticproperties44981459
 parent_uid: f5736212af2cef408c06bbea00eb25c6
+related_resources_text: ''
+short_url: asymptotic-properties
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-e35ce9684389/asymptotic-properties
-short_url: asymptotic-properties
-inline_embed_id: 99966756asymptoticproperties44981459
-about_this_resource_text: ''
-related_resources_text: ''
+title: Asymptotic Properties
 transcript: >-
   <p><span m='315'>PROFESSOR: An</span> <span m='630'>advantage</span> <span
   m='1570'>of</span> <span m='1740'>expressing</span> <span m='2740'>the</span>
@@ -748,67 +808,7 @@ transcript: >-
   <span m='607540'>a</span> <span m='607660'>proof</span> <span
   m='608010'>of</span> <span m='608120'>that</span> <span
   m='608360'>fact.</span> </p>
-embedded_media:
-  - uid: 3d44cf2ae03882086693067ce02ccb73
-    parent_uid: d69ccd43e66912224e0dbac10b67e72e
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 60c3a4ffeaea0b8b4b19f02acd97a44b
-    parent_uid: d69ccd43e66912224e0dbac10b67e72e
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: ab8c49a0a0969c5ec311a499ba23fd56
-    parent_uid: d69ccd43e66912224e0dbac10b67e72e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: HeyEK0TWiBw
-  - uid: 39c3e3206b1a99f1b0136c47cc88640b
-    parent_uid: d69ccd43e66912224e0dbac10b67e72e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/HeyEK0TWiBw/default.jpg'
-  - uid: 3cc0433c5040b3bf1b1e56ef1f5d1666
-    parent_uid: d69ccd43e66912224e0dbac10b67e72e
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: HeyEK0TWiBw
-  - uid: 70476ef0a919090a629638ea2a7ee8f2
-    parent_uid: d69ccd43e66912224e0dbac10b67e72e
-    id: HeyEK0TWiBw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-e35ce9684389/asymptotic-properties/HeyEK0TWiBw.srt
-  - uid: 3d8172bbcc4817c265375acdde046b0d
-    parent_uid: d69ccd43e66912224e0dbac10b67e72e
-    id: HeyEK0TWiBw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-e35ce9684389/asymptotic-properties/HeyEK0TWiBw.pdf
-  - uid: 18861221d9645c554ec6cd2430a37361
-    parent_uid: d69ccd43e66912224e0dbac10b67e72e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ea8915bf8ba7d4d45ad44d19dbc60095
-    parent_uid: d69ccd43e66912224e0dbac10b67e72e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 839cbda63930eb9bc286febc408bbdd8
-    parent_uid: d69ccd43e66912224e0dbac10b67e72e
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_asymptoticproperties_ipod.mp4
+uid: d69ccd43e66912224e0dbac10b67e72e
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: Average Velocity
-uid: e9972d48350ba200ed454b0d7f9e5102
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Psks_KK0YZ8
+    parent_uid: e9972d48350ba200ed454b0d7f9e5102
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 83b4301d039d6a339f960e78c383fa5f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Psks_KK0YZ8/default.jpg'
+    parent_uid: e9972d48350ba200ed454b0d7f9e5102
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ef88b172ad0b3f7d14fba07091157ba6
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: Psks_KK0YZ8
+    parent_uid: e9972d48350ba200ed454b0d7f9e5102
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d31e87aaab4e5b699bce04cffc4fd688
+  - id: Psks_KK0YZ8.srt
+    parent_uid: e9972d48350ba200ed454b0d7f9e5102
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-60-integrals-and-averages/average-velocity/Psks_KK0YZ8.srt
+    title: 3play caption file
+    type: null
+    uid: 3e6c7e7832a956aac2012aa7534a9223
+  - id: Psks_KK0YZ8.pdf
+    parent_uid: e9972d48350ba200ed454b0d7f9e5102
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-60-integrals-and-averages/average-velocity/Psks_KK0YZ8.pdf
+    title: 3play pdf file
+    type: null
+    uid: fb457283d8487b2a79a278e4871ff22d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e9972d48350ba200ed454b0d7f9e5102
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: aedb20d9e5a35d5c60447f31deb38366
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e9972d48350ba200ed454b0d7f9e5102
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 01064779f3770a2b3d37343d94b5dbd4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_46_300k.mp4'
+    parent_uid: e9972d48350ba200ed454b0d7f9e5102
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d537a51c51b2ce87ad33d7707f1e79dc
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/average-velocity/id414308064?i=90319643'
+    parent_uid: e9972d48350ba200ed454b0d7f9e5102
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: dd1db7c934c334502d4421b6c564b7d9
+inline_embed_id: 62459406averagevelocity25953008
 parent_uid: 7e226a8ff6296ef690524c46584132b9
+related_resources_text: ''
+short_url: average-velocity
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-60-integrals-and-averages/average-velocity
-short_url: average-velocity
-inline_embed_id: 62459406averagevelocity25953008
-about_this_resource_text: ''
-related_resources_text: ''
+title: Average Velocity
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='5240'>Hi.</span> <span
   m='5820'>Welcome</span> <span m='6130'>back</span> <span m='6330'>to</span>
@@ -525,61 +579,7 @@ transcript: >-
   m='437030'>there</span> <span m='437210'>you</span> <span
   m='437280'>go.</span> <span m='437600'>I'll</span> <span
   m='437970'>stop</span> <span m='438360'>there.</span> </p>
-embedded_media:
-  - uid: 83b4301d039d6a339f960e78c383fa5f
-    parent_uid: e9972d48350ba200ed454b0d7f9e5102
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Psks_KK0YZ8
-  - uid: ef88b172ad0b3f7d14fba07091157ba6
-    parent_uid: e9972d48350ba200ed454b0d7f9e5102
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Psks_KK0YZ8/default.jpg'
-  - uid: d31e87aaab4e5b699bce04cffc4fd688
-    parent_uid: e9972d48350ba200ed454b0d7f9e5102
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Psks_KK0YZ8
-  - uid: 3e6c7e7832a956aac2012aa7534a9223
-    parent_uid: e9972d48350ba200ed454b0d7f9e5102
-    id: Psks_KK0YZ8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-60-integrals-and-averages/average-velocity/Psks_KK0YZ8.srt
-  - uid: fb457283d8487b2a79a278e4871ff22d
-    parent_uid: e9972d48350ba200ed454b0d7f9e5102
-    id: Psks_KK0YZ8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-60-integrals-and-averages/average-velocity/Psks_KK0YZ8.pdf
-  - uid: aedb20d9e5a35d5c60447f31deb38366
-    parent_uid: e9972d48350ba200ed454b0d7f9e5102
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 01064779f3770a2b3d37343d94b5dbd4
-    parent_uid: e9972d48350ba200ed454b0d7f9e5102
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d537a51c51b2ce87ad33d7707f1e79dc
-    parent_uid: e9972d48350ba200ed454b0d7f9e5102
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_46_300k.mp4'
-  - uid: dd1db7c934c334502d4421b6c564b7d9
-    parent_uid: e9972d48350ba200ed454b0d7f9e5102
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/average-velocity/id414308064?i=90319643'
+uid: e9972d48350ba200ed454b0d7f9e5102
 type: courses
 layout: video
 ---

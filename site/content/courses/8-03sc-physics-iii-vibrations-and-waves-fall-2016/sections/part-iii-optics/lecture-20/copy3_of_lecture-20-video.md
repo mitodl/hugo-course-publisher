@@ -1,13 +1,61 @@
 ---
-title: Reflection off a Soap Film
-uid: e6ea40aacffe3ce8bec3e7274bc1cafb
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: VkbtIDSHfSc
+    parent_uid: e6ea40aacffe3ce8bec3e7274bc1cafb
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 621754a81df748e911093cad7d1125c1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VkbtIDSHfSc/default.jpg'
+    parent_uid: e6ea40aacffe3ce8bec3e7274bc1cafb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 97cbb1e4a18cce0586030c0e5cd26cc4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: VkbtIDSHfSc
+    parent_uid: e6ea40aacffe3ce8bec3e7274bc1cafb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e3f5524600c0971a248c0378e5ad7185
+  - id: VkbtIDSHfSc.srt
+    parent_uid: e6ea40aacffe3ce8bec3e7274bc1cafb
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-20/copy3_of_lecture-20-video/VkbtIDSHfSc.srt
+    title: 3play caption file
+    type: null
+    uid: 88c665261ee93d4100a5c9fac443aa0b
+  - id: VkbtIDSHfSc.pdf
+    parent_uid: e6ea40aacffe3ce8bec3e7274bc1cafb
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-20/copy3_of_lecture-20-video/VkbtIDSHfSc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4d31724b37cb5c7ba860cfbececf199d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e6ea40aacffe3ce8bec3e7274bc1cafb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 74442117c8c027c689666f1536cb2e75
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e6ea40aacffe3ce8bec3e7274bc1cafb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 908899b0ccc4f4775a47eef76d073e73
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec20_300k.mp4'
+    parent_uid: e6ea40aacffe3ce8bec3e7274bc1cafb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bdcaf4108fba699a97ccf78bc2352257
+inline_embed_id: 92636544lecture20videop383777825
 parent_uid: 421db63c9b50ba466bc29ae6df431a14
+related_resources_text: ''
+short_url: copy3_of_lecture-20-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-20/copy3_of_lecture-20-video
-short_url: copy3_of_lecture-20-video
-inline_embed_id: 92636544lecture20videop383777825
-about_this_resource_text: ''
-related_resources_text: ''
+title: Reflection off a Soap Film
 transcript: >-
   <p><span m="2550">The</span> <span m="2640">following</span> <span
   m="3090">content</span> <span m="3600">is</span> <span
@@ -4172,55 +4220,7 @@ transcript: >-
   m="4929730">colorful</span> <span m="4930540">pattern</span> <span
   m="4930875">develop</span> <span m="4931680">from</span> <span
   m="4931920">this</span> <span m="4932160">experiment.</span></p>
-embedded_media:
-  - uid: 621754a81df748e911093cad7d1125c1
-    parent_uid: e6ea40aacffe3ce8bec3e7274bc1cafb
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VkbtIDSHfSc
-  - uid: 97cbb1e4a18cce0586030c0e5cd26cc4
-    parent_uid: e6ea40aacffe3ce8bec3e7274bc1cafb
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VkbtIDSHfSc/default.jpg'
-  - uid: e3f5524600c0971a248c0378e5ad7185
-    parent_uid: e6ea40aacffe3ce8bec3e7274bc1cafb
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VkbtIDSHfSc
-  - uid: 88c665261ee93d4100a5c9fac443aa0b
-    parent_uid: e6ea40aacffe3ce8bec3e7274bc1cafb
-    id: VkbtIDSHfSc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-20/copy3_of_lecture-20-video/VkbtIDSHfSc.srt
-  - uid: 4d31724b37cb5c7ba860cfbececf199d
-    parent_uid: e6ea40aacffe3ce8bec3e7274bc1cafb
-    id: VkbtIDSHfSc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-20/copy3_of_lecture-20-video/VkbtIDSHfSc.pdf
-  - uid: 74442117c8c027c689666f1536cb2e75
-    parent_uid: e6ea40aacffe3ce8bec3e7274bc1cafb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 908899b0ccc4f4775a47eef76d073e73
-    parent_uid: e6ea40aacffe3ce8bec3e7274bc1cafb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: bdcaf4108fba699a97ccf78bc2352257
-    parent_uid: e6ea40aacffe3ce8bec3e7274bc1cafb
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec20_300k.mp4'
+uid: e6ea40aacffe3ce8bec3e7274bc1cafb
 type: courses
 layout: video
 ---

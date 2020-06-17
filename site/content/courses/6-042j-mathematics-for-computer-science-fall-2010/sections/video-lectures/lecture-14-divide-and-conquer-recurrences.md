@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 14: Divide and Conquer Recurrences'
-uid: 098ba0041cbb6df383f0decb5057952b
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-14-divide-and-conquer-recurrences
-short_url: lecture-14-divide-and-conquer-recurrences
-inline_embed_id: '73619078lecture14:divideandconquerrecurrences14180388'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Introduces the concept of recursion applied
   to various recurrence problems, such as the Towers of Hanoi and the Merge Sort
   algorithm, as well as their asymptotic analysis using the Akra&ndash;Bazzi
   method.</p> <p><strong>Speaker:</strong> Tom Leighton</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Kqf0uO0oV6s
+    parent_uid: 098ba0041cbb6df383f0decb5057952b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ead8e99696d73cfbb04303db278b44a8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Kqf0uO0oV6s/default.jpg'
+    parent_uid: 098ba0041cbb6df383f0decb5057952b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e27730fa2de811a77ab7ab42d3fe7724
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-14-divide-conquer/id503873536?i=110644962
+    parent_uid: 098ba0041cbb6df383f0decb5057952b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7d2dbdbec0c7b727671210eecacdb567
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec14_300k.mp4'
+    parent_uid: 098ba0041cbb6df383f0decb5057952b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0eb323b99fae0580ba8d70a0104a4eb9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Kqf0uO0oV6s
+    parent_uid: 098ba0041cbb6df383f0decb5057952b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5f5ea7726e1082da99abcdf4f07c0cee
+  - id: Kqf0uO0oV6s.srt
+    parent_uid: 098ba0041cbb6df383f0decb5057952b
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-14-divide-and-conquer-recurrences/Kqf0uO0oV6s.srt
+    title: 3play caption file
+    type: null
+    uid: bf4a09c73e07f514cc2135413dbeb797
+  - id: Kqf0uO0oV6s.pdf
+    parent_uid: 098ba0041cbb6df383f0decb5057952b
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-14-divide-and-conquer-recurrences/Kqf0uO0oV6s.pdf
+    title: 3play pdf file
+    type: null
+    uid: fa1c71923e2802c8415a16fadb541bb0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 098ba0041cbb6df383f0decb5057952b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 796d65a6d1ef2fa3932f061f2171ab03
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 098ba0041cbb6df383f0decb5057952b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 74dab3432978ca9c880dd0fb9b4e9335
+inline_embed_id: '73619078lecture14:divideandconquerrecurrences14180388'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-14-divide-and-conquer-recurrences
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-14-divide-and-conquer-recurrences
+title: 'Lecture 14: Divide and Conquer Recurrences'
 transcript: >-
   <p><span m='360'>The</span> <span m='490'>following</span> <span
   m='940'>content</span> <span m='1530'>is</span> <span m='1650'>provided</span>
@@ -4386,62 +4441,7 @@ transcript: >-
   m='4959650'>But</span> <span m='4959910'>study</span> <span
   m='4960250'>session</span> <span m='4960640'>is</span> <span
   m='4960750'>there.</span> </p>
-embedded_media:
-  - uid: ead8e99696d73cfbb04303db278b44a8
-    parent_uid: 098ba0041cbb6df383f0decb5057952b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Kqf0uO0oV6s
-  - uid: e27730fa2de811a77ab7ab42d3fe7724
-    parent_uid: 098ba0041cbb6df383f0decb5057952b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Kqf0uO0oV6s/default.jpg'
-  - uid: 7d2dbdbec0c7b727671210eecacdb567
-    parent_uid: 098ba0041cbb6df383f0decb5057952b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-14-divide-conquer/id503873536?i=110644962
-  - uid: 0eb323b99fae0580ba8d70a0104a4eb9
-    parent_uid: 098ba0041cbb6df383f0decb5057952b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec14_300k.mp4'
-  - uid: 5f5ea7726e1082da99abcdf4f07c0cee
-    parent_uid: 098ba0041cbb6df383f0decb5057952b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Kqf0uO0oV6s
-  - uid: bf4a09c73e07f514cc2135413dbeb797
-    parent_uid: 098ba0041cbb6df383f0decb5057952b
-    id: Kqf0uO0oV6s.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-14-divide-and-conquer-recurrences/Kqf0uO0oV6s.srt
-  - uid: fa1c71923e2802c8415a16fadb541bb0
-    parent_uid: 098ba0041cbb6df383f0decb5057952b
-    id: Kqf0uO0oV6s.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-14-divide-and-conquer-recurrences/Kqf0uO0oV6s.pdf
-  - uid: 796d65a6d1ef2fa3932f061f2171ab03
-    parent_uid: 098ba0041cbb6df383f0decb5057952b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 74dab3432978ca9c880dd0fb9b4e9335
-    parent_uid: 098ba0041cbb6df383f0decb5057952b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 098ba0041cbb6df383f0decb5057952b
 type: courses
 layout: video
 ---

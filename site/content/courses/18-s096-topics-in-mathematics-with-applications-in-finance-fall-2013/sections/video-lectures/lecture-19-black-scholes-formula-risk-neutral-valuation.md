@@ -1,16 +1,70 @@
 ---
-title: 'Lecture  19: Black-Scholes Formula, Risk-neutral Valuation'
-uid: 9b6e0e7955ed6dede9cb1596c955d5c7
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-19-black-scholes-formula-risk-neutral-valuation
-short_url: lecture-19-black-scholes-formula-risk-neutral-valuation
-inline_embed_id: '65182823lecture19:black-scholesformula,risk-neutralvaluation12721025'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This is a lecture on risk-neutral pricing,
   featuring the Black-Scholes formula and risk-neutral valuation.</p>
   <p><strong>Instructor:</strong> Dr. Vasily Strela</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TnS8kI_KuJc
+    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8530489a5f059a09d7293fd2a4c2f77a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TnS8kI_KuJc/default.jpg'
+    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 092f71b08159dc73248807bc28741426
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1288cf726b08a7ce70f802d4cba018f6
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec19_300k.mp4'
+    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 17304b78310bc709629ba9fe409c23cd
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TnS8kI_KuJc
+    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a9adb817d378a5216c8c7813504e7df8
+  - id: TnS8kI_KuJc.srt
+    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-19-black-scholes-formula-risk-neutral-valuation/TnS8kI_KuJc.srt
+    title: 3play caption file
+    type: null
+    uid: d0e437a0d18d3b5f69e4bea95ac627b7
+  - id: TnS8kI_KuJc.pdf
+    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-19-black-scholes-formula-risk-neutral-valuation/TnS8kI_KuJc.pdf
+    title: 3play pdf file
+    type: null
+    uid: e7f5a44f61593657a8215a9b824a705b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: df5835be909cb0e438953ea483a420cf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3217306b129204aaaf8dda7719b958ad
+inline_embed_id: '65182823lecture19:black-scholesformula,risk-neutralvaluation12721025'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-19-black-scholes-formula-risk-neutral-valuation
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-19-black-scholes-formula-risk-neutral-valuation
+title: 'Lecture  19: Black-Scholes Formula, Risk-neutral Valuation'
 transcript: >-
   <p><span m='60'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -2573,61 +2627,7 @@ transcript: >-
   m='2986410'>how</span> <span m='2986985'>you</span> <span
   m='2987300'>basically</span> <span m='2989790'>reduce</span> <span
   m='2990020'>the risks.</span> </p>
-embedded_media:
-  - uid: 8530489a5f059a09d7293fd2a4c2f77a
-    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TnS8kI_KuJc
-  - uid: 092f71b08159dc73248807bc28741426
-    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TnS8kI_KuJc/default.jpg'
-  - uid: 1288cf726b08a7ce70f802d4cba018f6
-    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: 17304b78310bc709629ba9fe409c23cd
-    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec19_300k.mp4'
-  - uid: a9adb817d378a5216c8c7813504e7df8
-    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TnS8kI_KuJc
-  - uid: d0e437a0d18d3b5f69e4bea95ac627b7
-    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
-    id: TnS8kI_KuJc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-19-black-scholes-formula-risk-neutral-valuation/TnS8kI_KuJc.srt
-  - uid: e7f5a44f61593657a8215a9b824a705b
-    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
-    id: TnS8kI_KuJc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-19-black-scholes-formula-risk-neutral-valuation/TnS8kI_KuJc.pdf
-  - uid: df5835be909cb0e438953ea483a420cf
-    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3217306b129204aaaf8dda7719b958ad
-    parent_uid: 9b6e0e7955ed6dede9cb1596c955d5c7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9b6e0e7955ed6dede9cb1596c955d5c7
 type: courses
 layout: video
 ---

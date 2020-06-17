@@ -1,13 +1,62 @@
 ---
-title: Students’ Common Misconceptions
-uid: cf726a1284cdfa24ed9b0f23255aac2e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: GUgIh6ff86Y
+    parent_uid: cf726a1284cdfa24ed9b0f23255aac2e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2e81983cb25a8343508f18cde5f87c4a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/GUgIh6ff86Y/default.jpg'
+    parent_uid: cf726a1284cdfa24ed9b0f23255aac2e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4a4b13438cc498678d4c48399cfc760c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: GUgIh6ff86Y
+    parent_uid: cf726a1284cdfa24ed9b0f23255aac2e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1877c69cdf4ca4fe67760703d38c80a4
+  - id: GUgIh6ff86Y.srt
+    parent_uid: cf726a1284cdfa24ed9b0f23255aac2e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/students2019-common-misconceptions/GUgIh6ff86Y.srt
+    title: 3play caption file
+    type: null
+    uid: 2550fa760c2c21ab89a25b29f5a25778
+  - id: GUgIh6ff86Y.pdf
+    parent_uid: cf726a1284cdfa24ed9b0f23255aac2e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/students2019-common-misconceptions/GUgIh6ff86Y.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9b8e10dd634ed68c795d19ac6e2d0ebb
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cf726a1284cdfa24ed9b0f23255aac2e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c43c56cb743d57684002b44a11715c5d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cf726a1284cdfa24ed9b0f23255aac2e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 79e66f69c828d8a5201396882eb1c13c
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator01_Common_Misconceptions_300k.mp4
+    parent_uid: cf726a1284cdfa24ed9b0f23255aac2e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: dabf045654405bdb9cc4aa7b2b6124f4
+inline_embed_id: 72522221studentscommonmisconceptions8300155
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
+related_resources_text: ''
+short_url: students2019-common-misconceptions
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/students2019-common-misconceptions
-short_url: students2019-common-misconceptions
-inline_embed_id: 72522221studentscommonmisconceptions8300155
-about_this_resource_text: ''
-related_resources_text: ''
+title: Students’ Common Misconceptions
 transcript: >-
   <p><span m='5580'>YEN-JIE LEE:</span> <span m='5722'>Before</span> <span
   m='6870'>people</span> <span m='7260'>take</span> <span m='7860'>8.03</span>
@@ -79,56 +128,7 @@ transcript: >-
   m='85200'>symmetry,</span> <span m='85900'>which</span> <span
   m='85980'>we</span> <span m='86160'>introduce</span> <span m='86850'>in</span>
   <span m='87720'>8.03.</span> </p>
-embedded_media:
-  - uid: 2e81983cb25a8343508f18cde5f87c4a
-    parent_uid: cf726a1284cdfa24ed9b0f23255aac2e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: GUgIh6ff86Y
-  - uid: 4a4b13438cc498678d4c48399cfc760c
-    parent_uid: cf726a1284cdfa24ed9b0f23255aac2e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/GUgIh6ff86Y/default.jpg'
-  - uid: 1877c69cdf4ca4fe67760703d38c80a4
-    parent_uid: cf726a1284cdfa24ed9b0f23255aac2e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: GUgIh6ff86Y
-  - uid: 2550fa760c2c21ab89a25b29f5a25778
-    parent_uid: cf726a1284cdfa24ed9b0f23255aac2e
-    id: GUgIh6ff86Y.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/students2019-common-misconceptions/GUgIh6ff86Y.srt
-  - uid: 9b8e10dd634ed68c795d19ac6e2d0ebb
-    parent_uid: cf726a1284cdfa24ed9b0f23255aac2e
-    id: GUgIh6ff86Y.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/students2019-common-misconceptions/GUgIh6ff86Y.pdf
-  - uid: c43c56cb743d57684002b44a11715c5d
-    parent_uid: cf726a1284cdfa24ed9b0f23255aac2e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 79e66f69c828d8a5201396882eb1c13c
-    parent_uid: cf726a1284cdfa24ed9b0f23255aac2e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: dabf045654405bdb9cc4aa7b2b6124f4
-    parent_uid: cf726a1284cdfa24ed9b0f23255aac2e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator01_Common_Misconceptions_300k.mp4
+uid: cf726a1284cdfa24ed9b0f23255aac2e
 type: courses
 layout: video
 ---

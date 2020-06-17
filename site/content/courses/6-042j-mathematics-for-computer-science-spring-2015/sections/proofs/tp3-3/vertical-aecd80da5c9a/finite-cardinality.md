@@ -1,13 +1,73 @@
 ---
-title: Finite Cardinality
-uid: 77930173dd6bda53d119ff6eaf54bd03
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: bc7e32afbd96a7293a1025d3ce3fe2b7
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 603cac4b448e20a5ec1ceb2fcaadab98
+  - id: Video-YouTube-Stream
+    media_location: fpy5Hsz5t6E
+    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b2bc07d45e28c6909a4359de16322675
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/fpy5Hsz5t6E/default.jpg'
+    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 354ca4ba01704f439d910e6521d409ca
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: fpy5Hsz5t6E
+    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e712b4953b290613aac8377f34b774b2
+  - id: fpy5Hsz5t6E.srt
+    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/vertical-aecd80da5c9a/finite-cardinality/fpy5Hsz5t6E.srt
+    title: 3play caption file
+    type: null
+    uid: ab315f77c95ee9a6bd687d3c3cf20085
+  - id: fpy5Hsz5t6E.pdf
+    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/vertical-aecd80da5c9a/finite-cardinality/fpy5Hsz5t6E.pdf
+    title: 3play pdf file
+    type: null
+    uid: 758d01e2f806b380c70a37033c5379b2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1a260a21776fc762649fdb464353255b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6b67b8ac3aa04f62434f90e7185378f3
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_finitecardinality_ipod.mp4
+    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e4182a8b0f716bab7d879b50ed473069
+inline_embed_id: 47783212finitecardinality38029172
 parent_uid: 704aebfd21aaf26247ff8b18917e1143
+related_resources_text: ''
+short_url: finite-cardinality
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/vertical-aecd80da5c9a/finite-cardinality
-short_url: finite-cardinality
-inline_embed_id: 47783212finitecardinality38029172
-about_this_resource_text: ''
-related_resources_text: ''
+title: Finite Cardinality
 transcript: >-
   <p><span m='880'>PROFESSOR: So</span> <span m='1030'>we're</span> <span
   m='1140'>finally</span> <span m='1460'>ready</span> <span m='1690'>to</span>
@@ -813,67 +873,7 @@ transcript: >-
   <span m='654230'>in</span> <span m='654350'>a</span> <span
   m='654400'>few</span> <span m='654580'>more</span> <span
   m='654740'>lectures.</span> </p>
-embedded_media:
-  - uid: bc7e32afbd96a7293a1025d3ce3fe2b7
-    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 603cac4b448e20a5ec1ceb2fcaadab98
-    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: b2bc07d45e28c6909a4359de16322675
-    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: fpy5Hsz5t6E
-  - uid: 354ca4ba01704f439d910e6521d409ca
-    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/fpy5Hsz5t6E/default.jpg'
-  - uid: e712b4953b290613aac8377f34b774b2
-    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: fpy5Hsz5t6E
-  - uid: ab315f77c95ee9a6bd687d3c3cf20085
-    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
-    id: fpy5Hsz5t6E.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/vertical-aecd80da5c9a/finite-cardinality/fpy5Hsz5t6E.srt
-  - uid: 758d01e2f806b380c70a37033c5379b2
-    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
-    id: fpy5Hsz5t6E.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/vertical-aecd80da5c9a/finite-cardinality/fpy5Hsz5t6E.pdf
-  - uid: 1a260a21776fc762649fdb464353255b
-    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6b67b8ac3aa04f62434f90e7185378f3
-    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e4182a8b0f716bab7d879b50ed473069
-    parent_uid: 77930173dd6bda53d119ff6eaf54bd03
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_finitecardinality_ipod.mp4
+uid: 77930173dd6bda53d119ff6eaf54bd03
 type: courses
 layout: video
 ---

@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 28: Transition Metals: Crystal Field Theory Part I'
-uid: cea5735d3ed5ba463b11ea6575b9ea5e
-parent_uid: 2b3c40e870194d11c257ec00379e8c86
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28/lecture-28-transition-metals-crystal-field-theory-part-i
-short_url: lecture-28-transition-metals-crystal-field-theory-part-i
-inline_embed_id: 87798575lecture28transitionmetalscrystalfieldtheoryparti39541092
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: Crystal field theory was developed to explain the
@@ -15,7 +8,68 @@ about_this_resource_text: >-
   we can change the color of a paper flower dipped in an octahedral cobalt
   chloride complex just by adding water.</p> <p><strong>Instructor:</strong>
   Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: lLdPSLNxDqA
+    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4157cc0e33993f49826aa18e999bb95d
+  - id: lLdPSLNxDqA.srt
+    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28/lecture-28-transition-metals-crystal-field-theory-part-i/lLdPSLNxDqA.srt
+    title: 3play caption file
+    type: null
+    uid: f8d9339f72e45c3abdf357a2c409f6e9
+  - id: lLdPSLNxDqA.pdf
+    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28/lecture-28-transition-metals-crystal-field-theory-part-i/lLdPSLNxDqA.pdf
+    title: 3play pdf file
+    type: null
+    uid: b55051934db9fd9eb9a88e009cdca165
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 44fbdb6cf7499e30982c5cb5b96aaeeb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ef970a8806b8b423047c58f634a64127
+  - id: Video-YouTube-Stream
+    media_location: lLdPSLNxDqA
+    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 244903298903446ae08708c38f267c37
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/lLdPSLNxDqA/default.jpg'
+    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 26471b8a1b896c9d270876c25288dd8a
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L28_300k.mp4'
+    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a79452105924a234b58bb3b41b59cef1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 46b328ec203539887328885bcd706e92
+inline_embed_id: 87798575lecture28transitionmetalscrystalfieldtheoryparti39541092
+parent_uid: 2b3c40e870194d11c257ec00379e8c86
 related_resources_text: ''
+short_url: lecture-28-transition-metals-crystal-field-theory-part-i
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28/lecture-28-transition-metals-crystal-field-theory-part-i
+title: 'Lecture 28: Transition Metals: Crystal Field Theory Part I'
 transcript: >-
   <p><span m="90">The</span> <span m="180">following</span> <span
   m="630">content</span> <span m="1110">is</span> <span m="1230">provided</span>
@@ -3752,61 +3806,7 @@ transcript: >-
   m="3204060">in</span> <span m="3204150">this</span> <span
   m="3204300">time</span> <span m="3204540">of</span> <span
   m="3204670">year.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 4157cc0e33993f49826aa18e999bb95d
-    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lLdPSLNxDqA
-  - uid: f8d9339f72e45c3abdf357a2c409f6e9
-    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
-    id: lLdPSLNxDqA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28/lecture-28-transition-metals-crystal-field-theory-part-i/lLdPSLNxDqA.srt
-  - uid: b55051934db9fd9eb9a88e009cdca165
-    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
-    id: lLdPSLNxDqA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28/lecture-28-transition-metals-crystal-field-theory-part-i/lLdPSLNxDqA.pdf
-  - uid: 44fbdb6cf7499e30982c5cb5b96aaeeb
-    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ef970a8806b8b423047c58f634a64127
-    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 244903298903446ae08708c38f267c37
-    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lLdPSLNxDqA
-  - uid: 26471b8a1b896c9d270876c25288dd8a
-    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lLdPSLNxDqA/default.jpg'
-  - uid: a79452105924a234b58bb3b41b59cef1
-    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L28_300k.mp4'
-  - uid: 46b328ec203539887328885bcd706e92
-    parent_uid: cea5735d3ed5ba463b11ea6575b9ea5e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+uid: cea5735d3ed5ba463b11ea6575b9ea5e
 type: courses
 layout: video
 ---

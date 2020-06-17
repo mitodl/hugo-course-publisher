@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Questions on Exam III'
-uid: 6860e51f44f26502d468b264a800dc5a
-parent_uid: 28c8d6e8c2c0dfa62a9b458789417a05
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/exam-3/review-for-exam-3/clip-1-questions-on-exam-iii
-short_url: clip-1-questions-on-exam-iii
-inline_embed_id: '18763080clip1:questionsonexamiii76393478'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/bd410c3debd2ef06f041db5d0a55c56f"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 25 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: zUEuKrxgHws
+    parent_uid: 6860e51f44f26502d468b264a800dc5a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c2ba835e2d58e8ec0cfdffe784aeb43a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/zUEuKrxgHws/default.jpg'
+    parent_uid: 6860e51f44f26502d468b264a800dc5a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f7548526c714474f3e78025370289026
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: zUEuKrxgHws
+    parent_uid: 6860e51f44f26502d468b264a800dc5a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2fd62f95e31b8c705b9661f8c0818e1a
+  - id: zUEuKrxgHws.srt
+    parent_uid: 6860e51f44f26502d468b264a800dc5a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/exam-3/review-for-exam-3/clip-1-questions-on-exam-iii/zUEuKrxgHws.srt
+    title: 3play caption file
+    type: null
+    uid: 342ba15abcc1c3a9cd6eb81d6528330d
+  - id: zUEuKrxgHws.pdf
+    parent_uid: 6860e51f44f26502d468b264a800dc5a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/exam-3/review-for-exam-3/clip-1-questions-on-exam-iii/zUEuKrxgHws.pdf
+    title: 3play pdf file
+    type: null
+    uid: 141bf6288738c01f77da01f83e19d72e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6860e51f44f26502d468b264a800dc5a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b4db80f65af7bc4cb49c51c20f64ba57
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6860e51f44f26502d468b264a800dc5a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a402054394636f3004500f5586cee8ca
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec25_300k.mp4'
+    parent_uid: 6860e51f44f26502d468b264a800dc5a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a6c0c5c58efe0aa98010630c94d6618a
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 6860e51f44f26502d468b264a800dc5a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a6fd4bcc328f395972dbdd652c152b56
+inline_embed_id: '18763080clip1:questionsonexamiii76393478'
+parent_uid: 28c8d6e8c2c0dfa62a9b458789417a05
 related_resources_text: ''
+short_url: clip-1-questions-on-exam-iii
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/exam-3/review-for-exam-3/clip-1-questions-on-exam-iii
+title: 'Clip 1: Questions on Exam III'
 transcript: >-
   <p><span m='60'>The</span> <span m='520'>following content</span> <span
   m='1300'>is</span> <span m='1680'>provided</span> <span m='1743'>under</span>
@@ -2727,61 +2781,7 @@ transcript: >-
   m='2953910'>do</span> <span m='2954040'>the</span> <span
   m='2954180'>other</span> <span m='2954350'>way.</span> <span m='2954670'>Good
   luck,</span> <span m='2956240'>folks.</span> </p>
-embedded_media:
-  - uid: c2ba835e2d58e8ec0cfdffe784aeb43a
-    parent_uid: 6860e51f44f26502d468b264a800dc5a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: zUEuKrxgHws
-  - uid: f7548526c714474f3e78025370289026
-    parent_uid: 6860e51f44f26502d468b264a800dc5a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/zUEuKrxgHws/default.jpg'
-  - uid: 2fd62f95e31b8c705b9661f8c0818e1a
-    parent_uid: 6860e51f44f26502d468b264a800dc5a
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: zUEuKrxgHws
-  - uid: 342ba15abcc1c3a9cd6eb81d6528330d
-    parent_uid: 6860e51f44f26502d468b264a800dc5a
-    id: zUEuKrxgHws.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/exam-3/review-for-exam-3/clip-1-questions-on-exam-iii/zUEuKrxgHws.srt
-  - uid: 141bf6288738c01f77da01f83e19d72e
-    parent_uid: 6860e51f44f26502d468b264a800dc5a
-    id: zUEuKrxgHws.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/exam-3/review-for-exam-3/clip-1-questions-on-exam-iii/zUEuKrxgHws.pdf
-  - uid: b4db80f65af7bc4cb49c51c20f64ba57
-    parent_uid: 6860e51f44f26502d468b264a800dc5a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a402054394636f3004500f5586cee8ca
-    parent_uid: 6860e51f44f26502d468b264a800dc5a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a6c0c5c58efe0aa98010630c94d6618a
-    parent_uid: 6860e51f44f26502d468b264a800dc5a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec25_300k.mp4'
-  - uid: a6fd4bcc328f395972dbdd652c152b56
-    parent_uid: 6860e51f44f26502d468b264a800dc5a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 6860e51f44f26502d468b264a800dc5a
 type: courses
 layout: video
 ---

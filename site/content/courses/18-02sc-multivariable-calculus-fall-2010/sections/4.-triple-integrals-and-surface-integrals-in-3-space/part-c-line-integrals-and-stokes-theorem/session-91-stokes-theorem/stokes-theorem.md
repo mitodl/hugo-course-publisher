@@ -1,13 +1,67 @@
 ---
-title: Stokes' Theorem
-uid: 079c829fd16cbb1c7f208f883f412385
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2ieG1ka5pBw
+    parent_uid: 079c829fd16cbb1c7f208f883f412385
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f05a7609c8f92fedde38c6318a85cc91
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2ieG1ka5pBw/default.jpg'
+    parent_uid: 079c829fd16cbb1c7f208f883f412385
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2eefb4002dfad10f35a6658e48cb569c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 2ieG1ka5pBw
+    parent_uid: 079c829fd16cbb1c7f208f883f412385
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b994938e248260ced776c979474fbda8
+  - id: 2ieG1ka5pBw.srt
+    parent_uid: 079c829fd16cbb1c7f208f883f412385
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-91-stokes-theorem/stokes-theorem/2ieG1ka5pBw.srt
+    title: 3play caption file
+    type: null
+    uid: a9fbb3d60d4216d88d1042af33097a06
+  - id: 2ieG1ka5pBw.pdf
+    parent_uid: 079c829fd16cbb1c7f208f883f412385
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-91-stokes-theorem/stokes-theorem/2ieG1ka5pBw.pdf
+    title: 3play pdf file
+    type: null
+    uid: a0cf1dd75b7d487a430f0d0828367ce1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 079c829fd16cbb1c7f208f883f412385
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c9616adfd306bf0c6d39c7f54e410705
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 079c829fd16cbb1c7f208f883f412385
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ef1b1b2b936a0c126aaee794cd20ac4d
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/stokes-theorem/id414355340?i=90323147'
+    parent_uid: 079c829fd16cbb1c7f208f883f412385
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3cc52471a07a6a3cf96b20a19b75abb4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_65_300k.mp4'
+    parent_uid: 079c829fd16cbb1c7f208f883f412385
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5aebbffdbc15e1c6e720c395ec528088
+inline_embed_id: 95631076stokes'theorem27153246
 parent_uid: 369a5a9d53f8ab4da9f478cd9a5ab7c7
+related_resources_text: ''
+short_url: stokes-theorem
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-91-stokes-theorem/stokes-theorem
-short_url: stokes-theorem
-inline_embed_id: 95631076stokes'theorem27153246
-about_this_resource_text: ''
-related_resources_text: ''
+title: Stokes' Theorem
 transcript: >-
   <p><span m='7220'>JOEL LEWIS: Hi.</span> <span m='7690'>Welcome</span> <span
   m='8020'>back</span> <span m='8250'>to</span> <span
@@ -1195,61 +1249,7 @@ transcript: >-
   m='1050080'>for</span> <span m='1050423'>us.</span> <span
   m='1050766'>I'll</span> <span m='1050880'>end</span> <span
   m='1050995'>there.</span> </p>
-embedded_media:
-  - uid: f05a7609c8f92fedde38c6318a85cc91
-    parent_uid: 079c829fd16cbb1c7f208f883f412385
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2ieG1ka5pBw
-  - uid: 2eefb4002dfad10f35a6658e48cb569c
-    parent_uid: 079c829fd16cbb1c7f208f883f412385
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2ieG1ka5pBw/default.jpg'
-  - uid: b994938e248260ced776c979474fbda8
-    parent_uid: 079c829fd16cbb1c7f208f883f412385
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2ieG1ka5pBw
-  - uid: a9fbb3d60d4216d88d1042af33097a06
-    parent_uid: 079c829fd16cbb1c7f208f883f412385
-    id: 2ieG1ka5pBw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-91-stokes-theorem/stokes-theorem/2ieG1ka5pBw.srt
-  - uid: a0cf1dd75b7d487a430f0d0828367ce1
-    parent_uid: 079c829fd16cbb1c7f208f883f412385
-    id: 2ieG1ka5pBw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-91-stokes-theorem/stokes-theorem/2ieG1ka5pBw.pdf
-  - uid: c9616adfd306bf0c6d39c7f54e410705
-    parent_uid: 079c829fd16cbb1c7f208f883f412385
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ef1b1b2b936a0c126aaee794cd20ac4d
-    parent_uid: 079c829fd16cbb1c7f208f883f412385
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3cc52471a07a6a3cf96b20a19b75abb4
-    parent_uid: 079c829fd16cbb1c7f208f883f412385
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/stokes-theorem/id414355340?i=90323147'
-  - uid: 5aebbffdbc15e1c6e720c395ec528088
-    parent_uid: 079c829fd16cbb1c7f208f883f412385
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_65_300k.mp4'
+uid: 079c829fd16cbb1c7f208f883f412385
 type: courses
 layout: video
 ---

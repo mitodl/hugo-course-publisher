@@ -1,13 +1,73 @@
 ---
-title: Mean Time To Failure
-uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 7575397ddfeeef5beeaad5db2b48d981
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 708c6877965231eb7bedbe69031373e2
+  - id: Video-YouTube-Stream
+    media_location: Dqx56lZ_icg
+    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ee4d407c9be5cd4d0cc6ec22fa947097
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Dqx56lZ_icg/default.jpg'
+    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 68b376ae99151bc70435e53c71593406
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: Dqx56lZ_icg
+    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0ec3133340024b945e07ce52612e26ce
+  - id: Dqx56lZ_icg.srt
+    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-e8dee31ddd76/mean-time-to-failure/Dqx56lZ_icg.srt
+    title: 3play caption file
+    type: null
+    uid: cae81b6d5fac19a46221223cf68379fe
+  - id: Dqx56lZ_icg.pdf
+    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-e8dee31ddd76/mean-time-to-failure/Dqx56lZ_icg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5f2093237048c94996b704090eb5f8b0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 68c7aa9e4077cd3451aec5152642cb43
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 08175e683ef3fec42d9006396f86e1db
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_expectfail_video_ipod.mp4
+    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ab68e7e94291613c466ab81a2ae49ecc
+inline_embed_id: 68202161meantimetofailure59083403
 parent_uid: 55648eb42206ad2fd86df7a74b886ba5
+related_resources_text: ''
+short_url: mean-time-to-failure
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-e8dee31ddd76/mean-time-to-failure
-short_url: mean-time-to-failure
-inline_embed_id: 68202161meantimetofailure59083403
-about_this_resource_text: ''
-related_resources_text: ''
+title: Mean Time To Failure
 transcript: >-
   <p><span m='1210'>PROFESSOR: We're</span> <span m='1410'>constantly</span>
   <span m='2050'>asking</span> <span m='2420'>how</span> <span
@@ -827,67 +887,7 @@ transcript: >-
   m='680040'>that</span> <span m='680180'>I</span> <span m='680300'>hope</span>
   <span m='680580'>you</span> <span m='680660'>will</span> <span
   m='680810'>remember.</span> </p>
-embedded_media:
-  - uid: 7575397ddfeeef5beeaad5db2b48d981
-    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 708c6877965231eb7bedbe69031373e2
-    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: ee4d407c9be5cd4d0cc6ec22fa947097
-    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Dqx56lZ_icg
-  - uid: 68b376ae99151bc70435e53c71593406
-    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Dqx56lZ_icg/default.jpg'
-  - uid: 0ec3133340024b945e07ce52612e26ce
-    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Dqx56lZ_icg
-  - uid: cae81b6d5fac19a46221223cf68379fe
-    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
-    id: Dqx56lZ_icg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-e8dee31ddd76/mean-time-to-failure/Dqx56lZ_icg.srt
-  - uid: 5f2093237048c94996b704090eb5f8b0
-    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
-    id: Dqx56lZ_icg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-e8dee31ddd76/mean-time-to-failure/Dqx56lZ_icg.pdf
-  - uid: 68c7aa9e4077cd3451aec5152642cb43
-    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 08175e683ef3fec42d9006396f86e1db
-    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ab68e7e94291613c466ab81a2ae49ecc
-    parent_uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_expectfail_video_ipod.mp4
+uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
 type: courses
 layout: video
 ---

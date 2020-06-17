@@ -1,13 +1,67 @@
 ---
-title: Average Height
-uid: 43cb70e4c5d06ec83b891cc12229a72b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: cbSkFpO2jgQ
+    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 68dff27719069a6f490e5386859b62be
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/cbSkFpO2jgQ/default.jpg'
+    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0b285a0928104f6d68c2e90e5ffb7d3a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_52_300k.mp4'
+    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7c3842cc7282d5fef711460f9e4f45dc
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/average-height/id414355340?i=90322837'
+    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ae54890cf4213c3bc232051cbb0ef706
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: cbSkFpO2jgQ
+    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: adda7c142dad7fb00755118a17060f59
+  - id: cbSkFpO2jgQ.srt
+    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-75-applications-and-examples/average-height/cbSkFpO2jgQ.srt
+    title: 3play caption file
+    type: null
+    uid: 42d7088b6e732b40898d61ea44cd514a
+  - id: cbSkFpO2jgQ.pdf
+    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-75-applications-and-examples/average-height/cbSkFpO2jgQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 53e2b9bccaadff70ce2b4be036cdea24
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3fcf2ddf36dad6f00c9b317dc57f9ed5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2c1a3d12975d58d5f41de53a93ecc575
+inline_embed_id: 41649183averageheight90605869
 parent_uid: c4da9711508e8f11a356167da3376cd3
+related_resources_text: ''
+short_url: average-height
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-75-applications-and-examples/average-height
-short_url: average-height
-inline_embed_id: 41649183averageheight90605869
-about_this_resource_text: ''
-related_resources_text: ''
+title: Average Height
 transcript: >-
   <p><span m='7080'>JOEL LEWIS: Hi.</span> <span m='7540'>Welcome</span> <span
   m='7850'>back</span> <span m='7990'>to</span> <span
@@ -1039,61 +1093,7 @@ transcript: >-
   m='877250'>and</span> <span m='877370'>working</span> <span
   m='877640'>our</span> <span m='877780'>way</span> <span m='878040'>out.</span>
   </p>
-embedded_media:
-  - uid: 68dff27719069a6f490e5386859b62be
-    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: cbSkFpO2jgQ
-  - uid: 0b285a0928104f6d68c2e90e5ffb7d3a
-    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/cbSkFpO2jgQ/default.jpg'
-  - uid: 7c3842cc7282d5fef711460f9e4f45dc
-    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_52_300k.mp4'
-  - uid: ae54890cf4213c3bc232051cbb0ef706
-    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/average-height/id414355340?i=90322837'
-  - uid: adda7c142dad7fb00755118a17060f59
-    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: cbSkFpO2jgQ
-  - uid: 42d7088b6e732b40898d61ea44cd514a
-    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
-    id: cbSkFpO2jgQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-75-applications-and-examples/average-height/cbSkFpO2jgQ.srt
-  - uid: 53e2b9bccaadff70ce2b4be036cdea24
-    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
-    id: cbSkFpO2jgQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-75-applications-and-examples/average-height/cbSkFpO2jgQ.pdf
-  - uid: 3fcf2ddf36dad6f00c9b317dc57f9ed5
-    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2c1a3d12975d58d5f41de53a93ecc575
-    parent_uid: 43cb70e4c5d06ec83b891cc12229a72b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 43cb70e4c5d06ec83b891cc12229a72b
 type: courses
 layout: video
 ---

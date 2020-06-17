@@ -1,13 +1,62 @@
 ---
-title: 'Video 5: Pre-Processing in R'
-uid: 27420fff8abacd00e9e0b59405fc71cc
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: FqiB9tmtdSc
+    parent_uid: 27420fff8abacd00e9e0b59405fc71cc
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7aefb061054e3342a4d1e99b77cd4ead
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: FqiB9tmtdSc
+    parent_uid: 27420fff8abacd00e9e0b59405fc71cc
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 093bff397c3d2d0c4f0036659ecb30e9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FqiB9tmtdSc/default.jpg'
+    parent_uid: 27420fff8abacd00e9e0b59405fc71cc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ff163fad53cb624607f5faf34a17d1ab
+  - id: FqiB9tmtdSc.srt
+    parent_uid: 27420fff8abacd00e9e0b59405fc71cc
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-5-pre-processing-in-r/video-5-pre-processing-in-r-0/FqiB9tmtdSc.srt
+    title: 3play caption file
+    type: null
+    uid: d6e279a2009694ca30f6945b5d5fa725
+  - id: FqiB9tmtdSc.pdf
+    parent_uid: 27420fff8abacd00e9e0b59405fc71cc
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-5-pre-processing-in-r/video-5-pre-processing-in-r-0/FqiB9tmtdSc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 867a7c7a9a67a95b44d2b690e3268d35
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 27420fff8abacd00e9e0b59405fc71cc
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d6f9ec29fa4b10d0a2443883c71859a5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 27420fff8abacd00e9e0b59405fc71cc
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ed4047453d7b66c5537b3e9b13821b92
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.2.08_300k.mp4
+    parent_uid: 27420fff8abacd00e9e0b59405fc71cc
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1f4f937f0275917a8a0329fde03978ad
+inline_embed_id: 33473008video5preprocessinginr23283771
 parent_uid: 6cb54a0c457feabde1b7dd4d95399d8c
+related_resources_text: ''
+short_url: video-5-pre-processing-in-r-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-5-pre-processing-in-r/video-5-pre-processing-in-r-0
-short_url: video-5-pre-processing-in-r-0
-inline_embed_id: 33473008video5preprocessinginr23283771
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 5: Pre-Processing in R'
 transcript: >-
   <p><span m='4500'>Pre-processing</span> <span m='4938'>the</span> <span
   m='5376'>data</span> <span m='5815'>can</span> <span m='6253'>be</span> <span
@@ -455,56 +504,7 @@ transcript: >-
   m='475810'>prepare</span> <span m='476260'>it</span> <span
   m='476710'>for</span> <span m='477160'>our</span> <span
   m='477610'>prediction</span> <span m='478060'>problem.</span> </p>
-embedded_media:
-  - uid: 7aefb061054e3342a4d1e99b77cd4ead
-    parent_uid: 27420fff8abacd00e9e0b59405fc71cc
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FqiB9tmtdSc
-  - uid: 093bff397c3d2d0c4f0036659ecb30e9
-    parent_uid: 27420fff8abacd00e9e0b59405fc71cc
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FqiB9tmtdSc
-  - uid: ff163fad53cb624607f5faf34a17d1ab
-    parent_uid: 27420fff8abacd00e9e0b59405fc71cc
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FqiB9tmtdSc/default.jpg'
-  - uid: d6e279a2009694ca30f6945b5d5fa725
-    parent_uid: 27420fff8abacd00e9e0b59405fc71cc
-    id: FqiB9tmtdSc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-5-pre-processing-in-r/video-5-pre-processing-in-r-0/FqiB9tmtdSc.srt
-  - uid: 867a7c7a9a67a95b44d2b690e3268d35
-    parent_uid: 27420fff8abacd00e9e0b59405fc71cc
-    id: FqiB9tmtdSc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-5-pre-processing-in-r/video-5-pre-processing-in-r-0/FqiB9tmtdSc.pdf
-  - uid: d6f9ec29fa4b10d0a2443883c71859a5
-    parent_uid: 27420fff8abacd00e9e0b59405fc71cc
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ed4047453d7b66c5537b3e9b13821b92
-    parent_uid: 27420fff8abacd00e9e0b59405fc71cc
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1f4f937f0275917a8a0329fde03978ad
-    parent_uid: 27420fff8abacd00e9e0b59405fc71cc
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.2.08_300k.mp4
+uid: 27420fff8abacd00e9e0b59405fc71cc
 type: courses
 layout: video
 ---

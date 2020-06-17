@@ -1,13 +1,68 @@
 ---
-title: Increasing or Decreasing
-uid: cbe1bbf45b554105deab8c04852e12f3
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: z1FRDkxlmg8
+    parent_uid: cbe1bbf45b554105deab8c04852e12f3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: db1e3d568db97e7763623750682bb6cd
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/z1FRDkxlmg8/default.jpg'
+    parent_uid: cbe1bbf45b554105deab8c04852e12f3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b9445d53cf59a642876ea9d76b9a37f7
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/mean-value-theorem/id414308064?i=90318988
+    parent_uid: cbe1bbf45b554105deab8c04852e12f3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 20f26f54bf20be512bc33e877b5e811c
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_27_300k.mp4'
+    parent_uid: cbe1bbf45b554105deab8c04852e12f3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 085c95d7b4b3e5e8b144cce36a3b359c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: z1FRDkxlmg8
+    parent_uid: cbe1bbf45b554105deab8c04852e12f3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 765b3d63c2a284e16952fd57552dd556
+  - id: z1FRDkxlmg8.srt
+    parent_uid: cbe1bbf45b554105deab8c04852e12f3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-34-introduction-to-the-mean-value-theorem/increasing-or-decreasing/z1FRDkxlmg8.srt
+    title: 3play caption file
+    type: null
+    uid: bdb4aab7a955e2039e1b5cdee9af0a57
+  - id: z1FRDkxlmg8.pdf
+    parent_uid: cbe1bbf45b554105deab8c04852e12f3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-34-introduction-to-the-mean-value-theorem/increasing-or-decreasing/z1FRDkxlmg8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8119be09a195d4ef6d2ede351890fa85
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cbe1bbf45b554105deab8c04852e12f3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c1f9b3e105fc03ea58a010db93e91d00
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cbe1bbf45b554105deab8c04852e12f3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d9896f0254c890f292735e574040c98e
+inline_embed_id: 49555388increasingordecreasing53515164
 parent_uid: 7a88ceaa20502ee6fbc4c0ceeb51122e
+related_resources_text: ''
+short_url: increasing-or-decreasing
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-34-introduction-to-the-mean-value-theorem/increasing-or-decreasing
-short_url: increasing-or-decreasing
-inline_embed_id: 49555388increasingordecreasing53515164
-about_this_resource_text: ''
-related_resources_text: ''
+title: Increasing or Decreasing
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='7150'>Welcome</span> <span
   m='7510'>back</span> <span m='7690'>to</span> <span
@@ -267,62 +322,7 @@ transcript: >-
   m='200180'>So</span> <span m='200330'>I</span> <span m='200390'>think</span>
   <span m='200560'>we'll</span> <span m='200700'>stop</span> <span
   m='200830'>there.</span> </p>
-embedded_media:
-  - uid: db1e3d568db97e7763623750682bb6cd
-    parent_uid: cbe1bbf45b554105deab8c04852e12f3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: z1FRDkxlmg8
-  - uid: b9445d53cf59a642876ea9d76b9a37f7
-    parent_uid: cbe1bbf45b554105deab8c04852e12f3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/z1FRDkxlmg8/default.jpg'
-  - uid: 20f26f54bf20be512bc33e877b5e811c
-    parent_uid: cbe1bbf45b554105deab8c04852e12f3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/mean-value-theorem/id414308064?i=90318988
-  - uid: 085c95d7b4b3e5e8b144cce36a3b359c
-    parent_uid: cbe1bbf45b554105deab8c04852e12f3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_27_300k.mp4'
-  - uid: 765b3d63c2a284e16952fd57552dd556
-    parent_uid: cbe1bbf45b554105deab8c04852e12f3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: z1FRDkxlmg8
-  - uid: bdb4aab7a955e2039e1b5cdee9af0a57
-    parent_uid: cbe1bbf45b554105deab8c04852e12f3
-    id: z1FRDkxlmg8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-34-introduction-to-the-mean-value-theorem/increasing-or-decreasing/z1FRDkxlmg8.srt
-  - uid: 8119be09a195d4ef6d2ede351890fa85
-    parent_uid: cbe1bbf45b554105deab8c04852e12f3
-    id: z1FRDkxlmg8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-34-introduction-to-the-mean-value-theorem/increasing-or-decreasing/z1FRDkxlmg8.pdf
-  - uid: c1f9b3e105fc03ea58a010db93e91d00
-    parent_uid: cbe1bbf45b554105deab8c04852e12f3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d9896f0254c890f292735e574040c98e
-    parent_uid: cbe1bbf45b554105deab8c04852e12f3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: cbe1bbf45b554105deab8c04852e12f3
 type: courses
 layout: video
 ---

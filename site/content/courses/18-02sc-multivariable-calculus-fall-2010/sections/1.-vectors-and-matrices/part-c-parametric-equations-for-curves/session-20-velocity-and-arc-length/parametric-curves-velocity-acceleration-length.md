@@ -1,13 +1,68 @@
 ---
-title: 'Parametric Curves: Velocity, Acceleration, Length'
-uid: 1e0633a6847e236bf9b7c51d04eacf89
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: u9YrIxLZJ6s
+    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0d6b8023d77eb6527862fcbdf1f77d3f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/u9YrIxLZJ6s/default.jpg'
+    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5ad9f9c400c380af25dea5e847d51d34
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: u9YrIxLZJ6s
+    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9f3202e54dde34214a5f86930b9935e8
+  - id: u9YrIxLZJ6s.srt
+    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-20-velocity-and-arc-length/parametric-curves-velocity-acceleration-length/u9YrIxLZJ6s.srt
+    title: 3play caption file
+    type: null
+    uid: 20dc850f0654fb9c66e1c00a9931bc47
+  - id: u9YrIxLZJ6s.pdf
+    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-20-velocity-and-arc-length/parametric-curves-velocity-acceleration-length/u9YrIxLZJ6s.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2ee8913f9295ea33882703017a5d91a8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ec0397ffff0d58ab6d81a91b85418582
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 568fa2ec797f5027652777a415810bbb
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/parametric-curves-velocity/id414355340?i=90322846
+    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3d2661ce20f49325a5743a97385b4425
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_16_300k.mp4'
+    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1354b8bce685574de3161591211ed888
+inline_embed_id: '76515221parametriccurves:velocity,acceleration,length16025002'
 parent_uid: 25cd5a91eff0444d5fd85ec6178eef45
+related_resources_text: ''
+short_url: parametric-curves-velocity-acceleration-length
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-20-velocity-and-arc-length/parametric-curves-velocity-acceleration-length
-short_url: parametric-curves-velocity-acceleration-length
-inline_embed_id: '76515221parametriccurves:velocity,acceleration,length16025002'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Parametric Curves: Velocity, Acceleration, Length'
 transcript: >-
   <p><span m='0'>CHRISTINE BREINER:</span> <span m='7560'>Welcome</span> <span
   m='7910'>back</span> <span m='8090'>to</span> <span
@@ -581,62 +636,7 @@ transcript: >-
   m='496100'>another.</span> <span m='497190'>So</span> <span
   m='497360'>I'll</span> <span m='497470'>stop</span> <span
   m='497700'>there.</span> </p>
-embedded_media:
-  - uid: 0d6b8023d77eb6527862fcbdf1f77d3f
-    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: u9YrIxLZJ6s
-  - uid: 5ad9f9c400c380af25dea5e847d51d34
-    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/u9YrIxLZJ6s/default.jpg'
-  - uid: 9f3202e54dde34214a5f86930b9935e8
-    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: u9YrIxLZJ6s
-  - uid: 20dc850f0654fb9c66e1c00a9931bc47
-    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
-    id: u9YrIxLZJ6s.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-20-velocity-and-arc-length/parametric-curves-velocity-acceleration-length/u9YrIxLZJ6s.srt
-  - uid: 2ee8913f9295ea33882703017a5d91a8
-    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
-    id: u9YrIxLZJ6s.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-20-velocity-and-arc-length/parametric-curves-velocity-acceleration-length/u9YrIxLZJ6s.pdf
-  - uid: ec0397ffff0d58ab6d81a91b85418582
-    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 568fa2ec797f5027652777a415810bbb
-    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3d2661ce20f49325a5743a97385b4425
-    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/parametric-curves-velocity/id414355340?i=90322846
-  - uid: 1354b8bce685574de3161591211ed888
-    parent_uid: 1e0633a6847e236bf9b7c51d04eacf89
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_16_300k.mp4'
+uid: 1e0633a6847e236bf9b7c51d04eacf89
 type: courses
 layout: video
 ---

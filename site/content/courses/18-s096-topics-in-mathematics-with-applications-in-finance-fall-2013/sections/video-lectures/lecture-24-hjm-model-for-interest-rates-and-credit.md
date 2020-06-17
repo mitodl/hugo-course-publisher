@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 24: HJM Model for Interest Rates and Credit'
-uid: e8422b26855ccf77d27f157dce64c7aa
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-24-hjm-model-for-interest-rates-and-credit
-short_url: lecture-24-hjm-model-for-interest-rates-and-credit
-inline_embed_id: '12687146lecture24:hjmmodelforinterestratesandcredit9623541'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This is a guest lecture that describes the
   HJM model for interest rates and credit, including hedging risk on interest
   and credit rate derivatives.</p> <p><strong>Instructor:</strong>  Denis
   Gorokhov</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: D2Jn1VrqjWI
+    parent_uid: e8422b26855ccf77d27f157dce64c7aa
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c884792fe1ce733d074d281c68cb2e24
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/D2Jn1VrqjWI/default.jpg'
+    parent_uid: e8422b26855ccf77d27f157dce64c7aa
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0ca8b1fabf047019b036deb02a921772
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: e8422b26855ccf77d27f157dce64c7aa
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 38435c1481423457243b4e1d2db30ef1
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec24_300k.mp4'
+    parent_uid: e8422b26855ccf77d27f157dce64c7aa
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d43a142669753f95f3e157b75d08ec3f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: D2Jn1VrqjWI
+    parent_uid: e8422b26855ccf77d27f157dce64c7aa
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 323a28ef46530862a3a90b6362714dee
+  - id: D2Jn1VrqjWI.srt
+    parent_uid: e8422b26855ccf77d27f157dce64c7aa
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-24-hjm-model-for-interest-rates-and-credit/D2Jn1VrqjWI.srt
+    title: 3play caption file
+    type: null
+    uid: e26da7058b1478a0dfbd5af6c7d74f72
+  - id: D2Jn1VrqjWI.pdf
+    parent_uid: e8422b26855ccf77d27f157dce64c7aa
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-24-hjm-model-for-interest-rates-and-credit/D2Jn1VrqjWI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7de6baa299a49d621b2725b9af5a4e0e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e8422b26855ccf77d27f157dce64c7aa
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9e5e0ee3087c8ab70245151ae4917063
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e8422b26855ccf77d27f157dce64c7aa
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 80058d1db7c09034c39c414ddbb175b7
+inline_embed_id: '12687146lecture24:hjmmodelforinterestratesandcredit9623541'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-24-hjm-model-for-interest-rates-and-credit
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-24-hjm-model-for-interest-rates-and-credit
+title: 'Lecture 24: HJM Model for Interest Rates and Credit'
 transcript: >-
   <p><span m='70'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -6268,61 +6322,7 @@ transcript: >-
   afterwards</span> <span m='6432330'>for--</span> </p><p><span
   m='6432930'>[APPLAUSE]</span> </p><p><span m='6433530'>DENIS GOROKHOV: Thank
   you.</span> </p>
-embedded_media:
-  - uid: c884792fe1ce733d074d281c68cb2e24
-    parent_uid: e8422b26855ccf77d27f157dce64c7aa
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: D2Jn1VrqjWI
-  - uid: 0ca8b1fabf047019b036deb02a921772
-    parent_uid: e8422b26855ccf77d27f157dce64c7aa
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/D2Jn1VrqjWI/default.jpg'
-  - uid: 38435c1481423457243b4e1d2db30ef1
-    parent_uid: e8422b26855ccf77d27f157dce64c7aa
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: d43a142669753f95f3e157b75d08ec3f
-    parent_uid: e8422b26855ccf77d27f157dce64c7aa
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec24_300k.mp4'
-  - uid: 323a28ef46530862a3a90b6362714dee
-    parent_uid: e8422b26855ccf77d27f157dce64c7aa
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: D2Jn1VrqjWI
-  - uid: e26da7058b1478a0dfbd5af6c7d74f72
-    parent_uid: e8422b26855ccf77d27f157dce64c7aa
-    id: D2Jn1VrqjWI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-24-hjm-model-for-interest-rates-and-credit/D2Jn1VrqjWI.srt
-  - uid: 7de6baa299a49d621b2725b9af5a4e0e
-    parent_uid: e8422b26855ccf77d27f157dce64c7aa
-    id: D2Jn1VrqjWI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-24-hjm-model-for-interest-rates-and-credit/D2Jn1VrqjWI.pdf
-  - uid: 9e5e0ee3087c8ab70245151ae4917063
-    parent_uid: e8422b26855ccf77d27f157dce64c7aa
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 80058d1db7c09034c39c414ddbb175b7
-    parent_uid: e8422b26855ccf77d27f157dce64c7aa
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e8422b26855ccf77d27f157dce64c7aa
 type: courses
 layout: video
 ---

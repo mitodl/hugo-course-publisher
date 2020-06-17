@@ -1,13 +1,72 @@
 ---
-title: 'Intro to Proofs: Part 1'
-uid: 9fdcd69cdc60a24f2a977390725f5d26
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: ed9d57474b261db31263f095d1fd3198
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3d572e4c4e77a0134eb903adf44d8256
+  - id: Video-YouTube-Stream
+    media_location: GyFVgJZ0hIs
+    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9ceefb7705604b9cd5230590e6e2df91
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/GyFVgJZ0hIs/default.jpg'
+    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1b773bf8d8d6f3d2c597402642ec4a01
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: GyFVgJZ0hIs
+    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1a90a989c93c151b4558376747428f8c
+  - id: GyFVgJZ0hIs.srt
+    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/intro-to-proofs-part-1-video/intro-to-proofs-part-1/GyFVgJZ0hIs.srt
+    title: 3play caption file
+    type: null
+    uid: f8a596edcbb0ad6ac8a539112833210e
+  - id: GyFVgJZ0hIs.pdf
+    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/intro-to-proofs-part-1-video/intro-to-proofs-part-1/GyFVgJZ0hIs.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4b0d4f1640daf4970cb9dabc6515262d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ed068601bc249e08627bbcdcb7636058
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 89544f6a6a71273141d90df445c3b1e0
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_proof1_ipod.mp4'
+    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3f48faf87c58672ce797ae8016174329
+inline_embed_id: 70265658introtoproofspart168812276
 parent_uid: ccbdec3d0e06f1862adab772b269ba99
+related_resources_text: ''
+short_url: intro-to-proofs-part-1
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/intro-to-proofs-part-1-video/intro-to-proofs-part-1
-short_url: intro-to-proofs-part-1
-inline_embed_id: 70265658introtoproofspart168812276
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Intro to Proofs: Part 1'
 transcript: >-
   <p><span m='395'>PROFESSOR: In</span> <span m='790'>6.042,</span> <span
   m='1740'>we're</span> <span m='1850'>going</span> <span m='1980'>to</span>
@@ -726,66 +785,7 @@ transcript: >-
   m='568310'>that</span> <span m='568570'>some</span> <span m='568780'>of</span>
   <span m='568860'>these</span> <span m='569180'>proofs</span> <span
   m='569480'>[? by picture. ?]</span> </p>
-embedded_media:
-  - uid: ed9d57474b261db31263f095d1fd3198
-    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 3d572e4c4e77a0134eb903adf44d8256
-    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 9ceefb7705604b9cd5230590e6e2df91
-    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: GyFVgJZ0hIs
-  - uid: 1b773bf8d8d6f3d2c597402642ec4a01
-    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/GyFVgJZ0hIs/default.jpg'
-  - uid: 1a90a989c93c151b4558376747428f8c
-    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: GyFVgJZ0hIs
-  - uid: f8a596edcbb0ad6ac8a539112833210e
-    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
-    id: GyFVgJZ0hIs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/intro-to-proofs-part-1-video/intro-to-proofs-part-1/GyFVgJZ0hIs.srt
-  - uid: 4b0d4f1640daf4970cb9dabc6515262d
-    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
-    id: GyFVgJZ0hIs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/intro-to-proofs-part-1-video/intro-to-proofs-part-1/GyFVgJZ0hIs.pdf
-  - uid: ed068601bc249e08627bbcdcb7636058
-    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 89544f6a6a71273141d90df445c3b1e0
-    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3f48faf87c58672ce797ae8016174329
-    parent_uid: 9fdcd69cdc60a24f2a977390725f5d26
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_proof1_ipod.mp4'
+uid: 9fdcd69cdc60a24f2a977390725f5d26
 type: courses
 layout: video
 ---

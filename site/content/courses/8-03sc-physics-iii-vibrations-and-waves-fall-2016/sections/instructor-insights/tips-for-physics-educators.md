@@ -1,13 +1,62 @@
 ---
-title: Tips for Physics Educators
-uid: fac6c1ba73f291ce6c9d40ad753b41e2
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8P2AvGGtm_A
+    parent_uid: fac6c1ba73f291ce6c9d40ad753b41e2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: dcd13a362d6d53e804ef5bafed5aad5e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/8P2AvGGtm_A/default.jpg'
+    parent_uid: fac6c1ba73f291ce6c9d40ad753b41e2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8b3f647df866cca86c3132525bab0e33
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 8P2AvGGtm_A
+    parent_uid: fac6c1ba73f291ce6c9d40ad753b41e2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fef877e3ad0bd615cb91f6cfe44dc347
+  - id: 8P2AvGGtm_A.srt
+    parent_uid: fac6c1ba73f291ce6c9d40ad753b41e2
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/tips-for-physics-educators/8P2AvGGtm_A.srt
+    title: 3play caption file
+    type: null
+    uid: 1de63025848a1c0719d028db216d7207
+  - id: 8P2AvGGtm_A.pdf
+    parent_uid: fac6c1ba73f291ce6c9d40ad753b41e2
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/tips-for-physics-educators/8P2AvGGtm_A.pdf
+    title: 3play pdf file
+    type: null
+    uid: d1fba8b750f7e65507d9b7db4538011c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fac6c1ba73f291ce6c9d40ad753b41e2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1759e1afeef0062699a6530580152219
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fac6c1ba73f291ce6c9d40ad753b41e2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4eecd5c35910e226feaed5fb84ca3913
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator11_Tips_for_Physics_Educators_300k.mp4
+    parent_uid: fac6c1ba73f291ce6c9d40ad753b41e2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1d770e4556dc39336833fc2fc823c03e
+inline_embed_id: 27367235tipsforphysicseducators72301173
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
+related_resources_text: ''
+short_url: tips-for-physics-educators
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/tips-for-physics-educators
-short_url: tips-for-physics-educators
-inline_embed_id: 27367235tipsforphysicseducators72301173
-about_this_resource_text: ''
-related_resources_text: ''
+title: Tips for Physics Educators
 transcript: >-
   <p><span m='5610'>YEN-JIE LEE:</span> <span m='5700'>I</span> <span
   m='5790'>think</span> <span m='6300'>for</span> <span m='6450'>the</span>
@@ -139,56 +188,7 @@ transcript: >-
   m='127640'>when</span> <span m='127820'>you're</span> <span
   m='127920'>teaching</span> <span m='128340'>in the</span> <span
   m='128640'>classroom.</span> </p>
-embedded_media:
-  - uid: dcd13a362d6d53e804ef5bafed5aad5e
-    parent_uid: fac6c1ba73f291ce6c9d40ad753b41e2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8P2AvGGtm_A
-  - uid: 8b3f647df866cca86c3132525bab0e33
-    parent_uid: fac6c1ba73f291ce6c9d40ad753b41e2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8P2AvGGtm_A/default.jpg'
-  - uid: fef877e3ad0bd615cb91f6cfe44dc347
-    parent_uid: fac6c1ba73f291ce6c9d40ad753b41e2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8P2AvGGtm_A
-  - uid: 1de63025848a1c0719d028db216d7207
-    parent_uid: fac6c1ba73f291ce6c9d40ad753b41e2
-    id: 8P2AvGGtm_A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/tips-for-physics-educators/8P2AvGGtm_A.srt
-  - uid: d1fba8b750f7e65507d9b7db4538011c
-    parent_uid: fac6c1ba73f291ce6c9d40ad753b41e2
-    id: 8P2AvGGtm_A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/tips-for-physics-educators/8P2AvGGtm_A.pdf
-  - uid: 1759e1afeef0062699a6530580152219
-    parent_uid: fac6c1ba73f291ce6c9d40ad753b41e2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4eecd5c35910e226feaed5fb84ca3913
-    parent_uid: fac6c1ba73f291ce6c9d40ad753b41e2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1d770e4556dc39336833fc2fc823c03e
-    parent_uid: fac6c1ba73f291ce6c9d40ad753b41e2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator11_Tips_for_Physics_Educators_300k.mp4
+uid: fac6c1ba73f291ce6c9d40ad753b41e2
 type: courses
 layout: video
 ---

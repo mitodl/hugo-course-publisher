@@ -1,20 +1,74 @@
 ---
-title: >-
-  Recitation 1: Divide & Conquer: Smarter Interval Scheduling, Master Theorem,
-  Strassen's Algorithm
-uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
-parent_uid: 8c671299aae36eba669ca13490c21dec
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-1-divide-conquer-smarter-interval-scheduling-master-theorem-strassens-algorithm
-short_url: >-
-  recitation-1-divide-conquer-smarter-interval-scheduling-master-theorem-strassens-algorithm
-inline_embed_id: >-
-  79578250recitation1:divide&conquer:smarterintervalscheduling,mastertheorem,strassen'salgorithm99226528
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this recitation, problems related to
   matrix multiplication and weighted interval scheduling are
   discussed.</p><p><strong>Instructors:</strong> Ling Ren</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 09vU-wVwW3U
+    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 419c81e494351a24a0cc8c4121c202ec
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/09vU-wVwW3U/default.jpg'
+    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3f04355f4818b608a6fda214fa1c07a7
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 09vU-wVwW3U
+    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c65996d20849000ec53e59e30501704d
+  - id: 09vU-wVwW3U.srt
+    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-1-divide-conquer-smarter-interval-scheduling-master-theorem-strassens-algorithm/09vU-wVwW3U.srt
+    title: 3play caption file
+    type: null
+    uid: 7f7e30e9b7dfd3fbd09dba4edfa98719
+  - id: 09vU-wVwW3U.pdf
+    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-1-divide-conquer-smarter-interval-scheduling-master-theorem-strassens-algorithm/09vU-wVwW3U.pdf
+    title: 3play pdf file
+    type: null
+    uid: e476c627f9e1b70a400494b13702e59d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 75e38b2d98428a1cf555ca118c0fa155
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: cb42ad5832c466732cb1ebeecd312616
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: dbc241630daf27bbdcf4aa04368856fb
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec01_300k.mp4'
+    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0f32fe8c1c9dd97a27efb1ffb48298b1
+inline_embed_id: >-
+  79578250recitation1:divide&conquer:smarterintervalscheduling,mastertheorem,strassen'salgorithm99226528
+parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
+short_url: >-
+  recitation-1-divide-conquer-smarter-interval-scheduling-master-theorem-strassens-algorithm
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-1-divide-conquer-smarter-interval-scheduling-master-theorem-strassens-algorithm
+title: >-
+  Recitation 1: Divide & Conquer: Smarter Interval Scheduling, Master Theorem,
+  Strassen's Algorithm
 transcript: >-
   <p><span m="90">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -2474,61 +2528,7 @@ transcript: >-
   <span m="3216550">recursion.</span> <span m="3219350">OK,</span> <span
   m="3220050">thanks,</span> <span m="3220260">everyone,</span> <span
   m="3220550">for</span> <span m="3220660">coming.</span></p>
-embedded_media:
-  - uid: 419c81e494351a24a0cc8c4121c202ec
-    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 09vU-wVwW3U
-  - uid: 3f04355f4818b608a6fda214fa1c07a7
-    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/09vU-wVwW3U/default.jpg'
-  - uid: c65996d20849000ec53e59e30501704d
-    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 09vU-wVwW3U
-  - uid: 7f7e30e9b7dfd3fbd09dba4edfa98719
-    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
-    id: 09vU-wVwW3U.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-1-divide-conquer-smarter-interval-scheduling-master-theorem-strassens-algorithm/09vU-wVwW3U.srt
-  - uid: e476c627f9e1b70a400494b13702e59d
-    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
-    id: 09vU-wVwW3U.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-1-divide-conquer-smarter-interval-scheduling-master-theorem-strassens-algorithm/09vU-wVwW3U.pdf
-  - uid: 75e38b2d98428a1cf555ca118c0fa155
-    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: cb42ad5832c466732cb1ebeecd312616
-    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: dbc241630daf27bbdcf4aa04368856fb
-    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 0f32fe8c1c9dd97a27efb1ffb48298b1
-    parent_uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec01_300k.mp4'
+uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
 type: courses
 layout: video
 ---

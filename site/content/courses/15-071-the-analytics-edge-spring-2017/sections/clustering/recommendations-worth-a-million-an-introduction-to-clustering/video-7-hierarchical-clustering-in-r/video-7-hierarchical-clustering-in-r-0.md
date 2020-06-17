@@ -1,13 +1,62 @@
 ---
-title: 'Video 7: Hierarchical Clustering in R'
-uid: 586e592dafc455b019b27dd6d67ab5bb
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: GPOUGpF-Sno
+    parent_uid: 586e592dafc455b019b27dd6d67ab5bb
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2570c84053a27f8ce9f98b82c5cc88dc
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: GPOUGpF-Sno
+    parent_uid: 586e592dafc455b019b27dd6d67ab5bb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: aacde8195ff28cdaeae6bb4b5302d497
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/GPOUGpF-Sno/default.jpg'
+    parent_uid: 586e592dafc455b019b27dd6d67ab5bb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 98c371913024fabbdc1ebc4689a9117f
+  - id: GPOUGpF-Sno.srt
+    parent_uid: 586e592dafc455b019b27dd6d67ab5bb
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-7-hierarchical-clustering-in-r/video-7-hierarchical-clustering-in-r-0/GPOUGpF-Sno.srt
+    title: 3play caption file
+    type: null
+    uid: 9c4409f8786fc785db68701b7f1edbba
+  - id: GPOUGpF-Sno.pdf
+    parent_uid: 586e592dafc455b019b27dd6d67ab5bb
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-7-hierarchical-clustering-in-r/video-7-hierarchical-clustering-in-r-0/GPOUGpF-Sno.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8a3d9959e01d608d9601ef7db4cc4769
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 586e592dafc455b019b27dd6d67ab5bb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7e03c64f84a9fd46e4570efaf4174b56
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 586e592dafc455b019b27dd6d67ab5bb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 08cc81b478499255cdf993381526418a
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.2.13_300k.mp4
+    parent_uid: 586e592dafc455b019b27dd6d67ab5bb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6b7ae2b689bbe45b4ab825ce115b945b
+inline_embed_id: 48407547video7hierarchicalclusteringinr38618455
 parent_uid: c0ef063dc722b998a530922a135bd19e
+related_resources_text: ''
+short_url: video-7-hierarchical-clustering-in-r-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-7-hierarchical-clustering-in-r/video-7-hierarchical-clustering-in-r-0
-short_url: video-7-hierarchical-clustering-in-r-0
-inline_embed_id: 48407547video7hierarchicalclusteringinr38618455
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 7: Hierarchical Clustering in R'
 transcript: >-
   <p><span m='4490'>In</span> <span m='4971'>this</span> <span
   m='5452'>video</span> <span m='5934'>we'll</span> <span m='6415'>use</span>
@@ -510,56 +559,7 @@ transcript: >-
   m='514100'>winning</span> <span m='514450'>the</span> <span
   m='514800'>million</span> <span m='515150'>dollar</span> <span
   m='515500'>Netflix</span> <span m='515850'>prize.</span> </p>
-embedded_media:
-  - uid: 2570c84053a27f8ce9f98b82c5cc88dc
-    parent_uid: 586e592dafc455b019b27dd6d67ab5bb
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: GPOUGpF-Sno
-  - uid: aacde8195ff28cdaeae6bb4b5302d497
-    parent_uid: 586e592dafc455b019b27dd6d67ab5bb
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: GPOUGpF-Sno
-  - uid: 98c371913024fabbdc1ebc4689a9117f
-    parent_uid: 586e592dafc455b019b27dd6d67ab5bb
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/GPOUGpF-Sno/default.jpg'
-  - uid: 9c4409f8786fc785db68701b7f1edbba
-    parent_uid: 586e592dafc455b019b27dd6d67ab5bb
-    id: GPOUGpF-Sno.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-7-hierarchical-clustering-in-r/video-7-hierarchical-clustering-in-r-0/GPOUGpF-Sno.srt
-  - uid: 8a3d9959e01d608d9601ef7db4cc4769
-    parent_uid: 586e592dafc455b019b27dd6d67ab5bb
-    id: GPOUGpF-Sno.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-7-hierarchical-clustering-in-r/video-7-hierarchical-clustering-in-r-0/GPOUGpF-Sno.pdf
-  - uid: 7e03c64f84a9fd46e4570efaf4174b56
-    parent_uid: 586e592dafc455b019b27dd6d67ab5bb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 08cc81b478499255cdf993381526418a
-    parent_uid: 586e592dafc455b019b27dd6d67ab5bb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6b7ae2b689bbe45b4ab825ce115b945b
-    parent_uid: 586e592dafc455b019b27dd6d67ab5bb
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.2.13_300k.mp4
+uid: 586e592dafc455b019b27dd6d67ab5bb
 type: courses
 layout: video
 ---

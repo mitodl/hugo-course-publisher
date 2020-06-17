@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 1: The Column Space of A Contains All Vectors Ax '
-uid: 716f1f5e7707703a956048aae98c3fd5
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-1-the-column-space-of-a-contains-all-vectors-ax
-short_url: lecture-1-the-column-space-of-a-contains-all-vectors-ax
-inline_embed_id: 59617895lecture1thecolumnspaceofacontainsallvectorsax44184714
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>In this first lecture, Professor
   Strang introduces the linear algebra principles critical for understanding the
@@ -15,7 +8,62 @@ about_this_resource_text: >-
   space<br /> Rank = number of independent columns<br /> \(A = CR\) leads to:
   Row rank equals column rank</p> <p>Related section in textbook: I.1</p>
   <p><strong>Instructor:</strong> Prof. Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: YiqIkSHSmyc
+    parent_uid: 716f1f5e7707703a956048aae98c3fd5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9b522f2f9bce1fbbdab6d5443b985c61
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/YiqIkSHSmyc/default.jpg'
+    parent_uid: 716f1f5e7707703a956048aae98c3fd5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a89323a670a4780a70e6e46a90cffc24
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: YiqIkSHSmyc
+    parent_uid: 716f1f5e7707703a956048aae98c3fd5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 88301f0caa63f54a5943b22d9c7d31ae
+  - id: YiqIkSHSmyc.srt
+    parent_uid: 716f1f5e7707703a956048aae98c3fd5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-1-the-column-space-of-a-contains-all-vectors-ax/YiqIkSHSmyc.srt
+    title: 3play caption file
+    type: null
+    uid: 0d25417bbdce4b511a57862dcd44f96a
+  - id: YiqIkSHSmyc.pdf
+    parent_uid: 716f1f5e7707703a956048aae98c3fd5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-1-the-column-space-of-a-contains-all-vectors-ax/YiqIkSHSmyc.pdf
+    title: 3play pdf file
+    type: null
+    uid: b8b5f468f28090f3a308a28757612bbe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 716f1f5e7707703a956048aae98c3fd5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 797f0525dbf0e148477cfed734f67286
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 716f1f5e7707703a956048aae98c3fd5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bc85d2039fd2a9abf21161d0ae556d44
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture01_300k.mp4'
+    parent_uid: 716f1f5e7707703a956048aae98c3fd5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c3aa6488f78920e71fd4d7cf2c3a4ad7
+inline_embed_id: 59617895lecture1thecolumnspaceofacontainsallvectorsax44184714
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-1-the-column-space-of-a-contains-all-vectors-ax
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-1-the-column-space-of-a-contains-all-vectors-ax
+title: 'Lecture 1: The Column Space of A Contains All Vectors Ax '
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2917,55 +2965,7 @@ transcript: >-
   m="3131250">algebra</span> <span m="3131640">on</span> <span
   m="3131790">Friday.</span> <span m="3132570">Thank</span> <span
   m="3132810">you.</span></p>
-embedded_media:
-  - uid: 9b522f2f9bce1fbbdab6d5443b985c61
-    parent_uid: 716f1f5e7707703a956048aae98c3fd5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: YiqIkSHSmyc
-  - uid: a89323a670a4780a70e6e46a90cffc24
-    parent_uid: 716f1f5e7707703a956048aae98c3fd5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/YiqIkSHSmyc/default.jpg'
-  - uid: 88301f0caa63f54a5943b22d9c7d31ae
-    parent_uid: 716f1f5e7707703a956048aae98c3fd5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: YiqIkSHSmyc
-  - uid: 0d25417bbdce4b511a57862dcd44f96a
-    parent_uid: 716f1f5e7707703a956048aae98c3fd5
-    id: YiqIkSHSmyc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-1-the-column-space-of-a-contains-all-vectors-ax/YiqIkSHSmyc.srt
-  - uid: b8b5f468f28090f3a308a28757612bbe
-    parent_uid: 716f1f5e7707703a956048aae98c3fd5
-    id: YiqIkSHSmyc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-1-the-column-space-of-a-contains-all-vectors-ax/YiqIkSHSmyc.pdf
-  - uid: 797f0525dbf0e148477cfed734f67286
-    parent_uid: 716f1f5e7707703a956048aae98c3fd5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bc85d2039fd2a9abf21161d0ae556d44
-    parent_uid: 716f1f5e7707703a956048aae98c3fd5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c3aa6488f78920e71fd4d7cf2c3a4ad7
-    parent_uid: 716f1f5e7707703a956048aae98c3fd5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture01_300k.mp4'
+uid: 716f1f5e7707703a956048aae98c3fd5
 type: courses
 layout: video
 ---

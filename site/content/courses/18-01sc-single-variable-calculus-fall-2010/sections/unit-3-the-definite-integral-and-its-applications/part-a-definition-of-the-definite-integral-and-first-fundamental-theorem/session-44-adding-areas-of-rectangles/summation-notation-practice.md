@@ -1,13 +1,68 @@
 ---
-title: Summation Notation Practice
-uid: a1b9d71775394f8b70a343209da7b424
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: iHErQuZ8M-I
+    parent_uid: a1b9d71775394f8b70a343209da7b424
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6f3abb6ffb010b05221fd6b93443d285
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/iHErQuZ8M-I/default.jpg'
+    parent_uid: a1b9d71775394f8b70a343209da7b424
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 51c567d5832b0acaebe28b6295d2efe9
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: iHErQuZ8M-I
+    parent_uid: a1b9d71775394f8b70a343209da7b424
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 069ee5caf404800c997f89cf6d3b135f
+  - id: iHErQuZ8M-I.srt
+    parent_uid: a1b9d71775394f8b70a343209da7b424
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-44-adding-areas-of-rectangles/summation-notation-practice/iHErQuZ8M-I.srt
+    title: 3play caption file
+    type: null
+    uid: 71016b73b5f2db13e0b45a543613d514
+  - id: iHErQuZ8M-I.pdf
+    parent_uid: a1b9d71775394f8b70a343209da7b424
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-44-adding-areas-of-rectangles/summation-notation-practice/iHErQuZ8M-I.pdf
+    title: 3play pdf file
+    type: null
+    uid: 80be2141043181e93a49521b33936016
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a1b9d71775394f8b70a343209da7b424
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 463f3d07cb13daaaf20076243e821569
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a1b9d71775394f8b70a343209da7b424
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c3274be6e09fb8740c283c1d3d7aca6a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_35_300k.mp4'
+    parent_uid: a1b9d71775394f8b70a343209da7b424
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5d14af6cf1833a378fe1a3835460e133
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/summation-notation-practice/id414308064?i=90319184/id414308064?i=90319182
+    parent_uid: a1b9d71775394f8b70a343209da7b424
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6dab835a184564585e9c821f546f5777
+inline_embed_id: 81318518summationnotationpractice69993981
 parent_uid: 9f42b86cbcb7812f84f2846c3d7ce9f5
+related_resources_text: ''
+short_url: summation-notation-practice
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-44-adding-areas-of-rectangles/summation-notation-practice
-short_url: summation-notation-practice
-inline_embed_id: 81318518summationnotationpractice69993981
-about_this_resource_text: ''
-related_resources_text: ''
+title: Summation Notation Practice
 transcript: >-
   <p><span m='7390'>PROFESSOR: Welcome</span> <span m='7760'>back</span> <span
   m='7940'>to</span> <span m='8020'>recitation.</span> <span m='9110'>In</span>
@@ -1121,62 +1176,7 @@ transcript: >-
   <span m='856700'>on</span> <span m='856830'>them.</span> <span
   m='857630'>That's</span> <span m='857820'>where I'll</span> <span
   m='858010'>stop.</span> </p>
-embedded_media:
-  - uid: 6f3abb6ffb010b05221fd6b93443d285
-    parent_uid: a1b9d71775394f8b70a343209da7b424
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: iHErQuZ8M-I
-  - uid: 51c567d5832b0acaebe28b6295d2efe9
-    parent_uid: a1b9d71775394f8b70a343209da7b424
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/iHErQuZ8M-I/default.jpg'
-  - uid: 069ee5caf404800c997f89cf6d3b135f
-    parent_uid: a1b9d71775394f8b70a343209da7b424
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: iHErQuZ8M-I
-  - uid: 71016b73b5f2db13e0b45a543613d514
-    parent_uid: a1b9d71775394f8b70a343209da7b424
-    id: iHErQuZ8M-I.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-44-adding-areas-of-rectangles/summation-notation-practice/iHErQuZ8M-I.srt
-  - uid: 80be2141043181e93a49521b33936016
-    parent_uid: a1b9d71775394f8b70a343209da7b424
-    id: iHErQuZ8M-I.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-44-adding-areas-of-rectangles/summation-notation-practice/iHErQuZ8M-I.pdf
-  - uid: 463f3d07cb13daaaf20076243e821569
-    parent_uid: a1b9d71775394f8b70a343209da7b424
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c3274be6e09fb8740c283c1d3d7aca6a
-    parent_uid: a1b9d71775394f8b70a343209da7b424
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5d14af6cf1833a378fe1a3835460e133
-    parent_uid: a1b9d71775394f8b70a343209da7b424
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_35_300k.mp4'
-  - uid: 6dab835a184564585e9c821f546f5777
-    parent_uid: a1b9d71775394f8b70a343209da7b424
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/summation-notation-practice/id414308064?i=90319184/id414308064?i=90319182
+uid: a1b9d71775394f8b70a343209da7b424
 type: courses
 layout: video
 ---

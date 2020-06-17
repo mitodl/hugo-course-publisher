@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Integral of cos2(x)'
-uid: 5f7dd9802debaa6cd92d7937e74b95a6
-parent_uid: 60fd16b3d72fefca72098904f15c0f02
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-69-integral-of-sin-n-x-cos-m-x-even-exponents/clip-1-integral-of-cos2-x
-short_url: clip-1-integral-of-cos2-x
-inline_embed_id: '98709812clip1:integralofcos2(x)62793746'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/6cdd1829fb6fd7393cf913c012551d7f"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 27 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Bv9kVDcj7yo
+    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 278c491c8a7d02d4471f0d330b5fdeaf
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Bv9kVDcj7yo/default.jpg'
+    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9255853f1786afc6642e9ca2e31419c5
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: Bv9kVDcj7yo
+    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 12d813136d16fa2a7b30b8816251e29a
+  - id: Bv9kVDcj7yo.srt
+    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-69-integral-of-sin-n-x-cos-m-x-even-exponents/clip-1-integral-of-cos2-x/Bv9kVDcj7yo.srt
+    title: 3play caption file
+    type: null
+    uid: a7ac29a761ac874346d72ab03814b458
+  - id: Bv9kVDcj7yo.pdf
+    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-69-integral-of-sin-n-x-cos-m-x-even-exponents/clip-1-integral-of-cos2-x/Bv9kVDcj7yo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3db747d5a4bbe239d12307fe4039e39d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4c44e2b3db9df6741d87740920d32f0f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2df2c0289a4e24ff7754132dddd561fa
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec27_300k.mp4'
+    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 983a7dfcc80b5237b3d0b24d1e7a81aa
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a7d6c1acde6d3ca405007950ada463e9
+inline_embed_id: '98709812clip1:integralofcos2(x)62793746'
+parent_uid: 60fd16b3d72fefca72098904f15c0f02
 related_resources_text: ''
+short_url: clip-1-integral-of-cos2-x
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-69-integral-of-sin-n-x-cos-m-x-even-exponents/clip-1-integral-of-cos2-x
+title: 'Clip 1: Integral of cos2(x)'
 transcript: >-
   <p><span m="0">The</span> <span m="120">following</span> <span m="530">content
   is provided</span> <span m="1900">under a Creative</span> <span
@@ -2345,61 +2399,7 @@ transcript: >-
   m="2801790">us</span> <span m="2801900">to</span> <span
   m="2802020">quit</span> <span m="2802220">for</span> <span
   m="2802370">today.</span></p>
-embedded_media:
-  - uid: 278c491c8a7d02d4471f0d330b5fdeaf
-    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Bv9kVDcj7yo
-  - uid: 9255853f1786afc6642e9ca2e31419c5
-    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Bv9kVDcj7yo/default.jpg'
-  - uid: 12d813136d16fa2a7b30b8816251e29a
-    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Bv9kVDcj7yo
-  - uid: a7ac29a761ac874346d72ab03814b458
-    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
-    id: Bv9kVDcj7yo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-69-integral-of-sin-n-x-cos-m-x-even-exponents/clip-1-integral-of-cos2-x/Bv9kVDcj7yo.srt
-  - uid: 3db747d5a4bbe239d12307fe4039e39d
-    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
-    id: Bv9kVDcj7yo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-69-integral-of-sin-n-x-cos-m-x-even-exponents/clip-1-integral-of-cos2-x/Bv9kVDcj7yo.pdf
-  - uid: 4c44e2b3db9df6741d87740920d32f0f
-    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2df2c0289a4e24ff7754132dddd561fa
-    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 983a7dfcc80b5237b3d0b24d1e7a81aa
-    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec27_300k.mp4'
-  - uid: a7d6c1acde6d3ca405007950ada463e9
-    parent_uid: 5f7dd9802debaa6cd92d7937e74b95a6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 5f7dd9802debaa6cd92d7937e74b95a6
 type: courses
 layout: video
 ---

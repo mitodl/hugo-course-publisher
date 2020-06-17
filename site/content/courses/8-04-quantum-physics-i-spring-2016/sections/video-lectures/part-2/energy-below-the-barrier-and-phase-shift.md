@@ -1,13 +1,67 @@
 ---
-title: Energy below the barrier and phase shift
-uid: 17ee7bd0df0dc3d7f8b038f00639b328
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: EkpbxgEslE4
+    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 57c599f488c469b054d343bfd59ac16d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/EkpbxgEslE4/default.jpg'
+    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 477c0fbc263b10df1c1f35353cb2ec0e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: EkpbxgEslE4
+    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a3725b0baf700159e5fb1029530ed5d7
+  - id: EkpbxgEslE4.srt
+    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/energy-below-the-barrier-and-phase-shift/EkpbxgEslE4.srt
+    title: 3play caption file
+    type: null
+    uid: 0e665da39b12e2bd2033c965af990ba1
+  - id: EkpbxgEslE4.pdf
+    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/energy-below-the-barrier-and-phase-shift/EkpbxgEslE4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4394a653e33383e06a2ee0173d9d56ea
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b519fc60e2f1338ecf4b4f44baddc3bd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: befa9f8800b1fd44a75074b520ba4333
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3f9120ffe1d53b87cd773c455450cb70
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec16_s3_300k.mp4'
+    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 39bd466bca58d0b78ea7b33bee0c7896
+inline_embed_id: 33661419energybelowthebarrierandphaseshift62127372
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: energy-below-the-barrier-and-phase-shift
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/energy-below-the-barrier-and-phase-shift
-short_url: energy-below-the-barrier-and-phase-shift
-inline_embed_id: 33661419energybelowthebarrierandphaseshift62127372
-about_this_resource_text: ''
-related_resources_text: ''
+title: Energy below the barrier and phase shift
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='480'>Let's</span> <span
   m='1060'>do</span> <span m='1830'>E</span> <span m='2250'>less</span> <span
@@ -870,61 +924,7 @@ transcript: >-
   m='1117730'>direction.</span> <span m='1118300'>That's</span> <span
   m='1118510'>how</span> <span m='1118720'>it</span> <span
   m='1118840'>behaves.</span> </p>
-embedded_media:
-  - uid: 57c599f488c469b054d343bfd59ac16d
-    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: EkpbxgEslE4
-  - uid: 477c0fbc263b10df1c1f35353cb2ec0e
-    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/EkpbxgEslE4/default.jpg'
-  - uid: a3725b0baf700159e5fb1029530ed5d7
-    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: EkpbxgEslE4
-  - uid: 0e665da39b12e2bd2033c965af990ba1
-    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
-    id: EkpbxgEslE4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/energy-below-the-barrier-and-phase-shift/EkpbxgEslE4.srt
-  - uid: 4394a653e33383e06a2ee0173d9d56ea
-    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
-    id: EkpbxgEslE4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/energy-below-the-barrier-and-phase-shift/EkpbxgEslE4.pdf
-  - uid: b519fc60e2f1338ecf4b4f44baddc3bd
-    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: befa9f8800b1fd44a75074b520ba4333
-    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3f9120ffe1d53b87cd773c455450cb70
-    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 39bd466bca58d0b78ea7b33bee0c7896
-    parent_uid: 17ee7bd0df0dc3d7f8b038f00639b328
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec16_s3_300k.mp4'
+uid: 17ee7bd0df0dc3d7f8b038f00639b328
 type: courses
 layout: video
 ---

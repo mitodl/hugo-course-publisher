@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: Hierarchical Clustering'
-uid: 4c75ada9d638803de8ff2006e93353bd
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: t8nLB1AmUgE
+    parent_uid: 4c75ada9d638803de8ff2006e93353bd
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 017aeab5e81c1bf9ebbb648f6cf26c1a
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: t8nLB1AmUgE
+    parent_uid: 4c75ada9d638803de8ff2006e93353bd
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e9fef96512a9a3bfab13e39ac177d6b8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/t8nLB1AmUgE/default.jpg'
+    parent_uid: 4c75ada9d638803de8ff2006e93353bd
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e4dcff93e2415c6feb250581f5ce9662
+  - id: t8nLB1AmUgE.srt
+    parent_uid: 4c75ada9d638803de8ff2006e93353bd
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-3-hierarchical-clustering/video-3-hierarchical-clustering-0/t8nLB1AmUgE.srt
+    title: 3play caption file
+    type: null
+    uid: f41f7ea149f56cfe6145dd8e6f4764fa
+  - id: t8nLB1AmUgE.pdf
+    parent_uid: 4c75ada9d638803de8ff2006e93353bd
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-3-hierarchical-clustering/video-3-hierarchical-clustering-0/t8nLB1AmUgE.pdf
+    title: 3play pdf file
+    type: null
+    uid: bb82add35de286fa7bcd7db4e27241ff
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4c75ada9d638803de8ff2006e93353bd
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6e860a81c9b8bef2fef569c5b22d99ce
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4c75ada9d638803de8ff2006e93353bd
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 86be4e17730f29c65f88de5f0db91c1c
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.4.04_300k.mp4
+    parent_uid: 4c75ada9d638803de8ff2006e93353bd
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: da903e5266f6eb83f96920de5a27153f
+inline_embed_id: 58176018video3hierarchicalclustering50922973
 parent_uid: 3b86be20f4841eecced880565b48fc62
+related_resources_text: ''
+short_url: video-3-hierarchical-clustering-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-3-hierarchical-clustering/video-3-hierarchical-clustering-0
-short_url: video-3-hierarchical-clustering-0
-inline_embed_id: 58176018video3hierarchicalclustering50922973
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: Hierarchical Clustering'
 transcript: >-
   <p><span m='4500'>In</span> <span m='4837'>our</span> <span
   m='5175'>previous</span> <span m='5513'>video,</span> <span m='5851'>we</span>
@@ -544,56 +593,7 @@ transcript: >-
   m='459397'>has</span> <span m='459760'>a</span> <span m='460278'>much,</span>
   <span m='460796'>much</span> <span m='461314'>higher</span> <span
   m='461832'>resolution.</span> </p>
-embedded_media:
-  - uid: 017aeab5e81c1bf9ebbb648f6cf26c1a
-    parent_uid: 4c75ada9d638803de8ff2006e93353bd
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: t8nLB1AmUgE
-  - uid: e9fef96512a9a3bfab13e39ac177d6b8
-    parent_uid: 4c75ada9d638803de8ff2006e93353bd
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: t8nLB1AmUgE
-  - uid: e4dcff93e2415c6feb250581f5ce9662
-    parent_uid: 4c75ada9d638803de8ff2006e93353bd
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/t8nLB1AmUgE/default.jpg'
-  - uid: f41f7ea149f56cfe6145dd8e6f4764fa
-    parent_uid: 4c75ada9d638803de8ff2006e93353bd
-    id: t8nLB1AmUgE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-3-hierarchical-clustering/video-3-hierarchical-clustering-0/t8nLB1AmUgE.srt
-  - uid: bb82add35de286fa7bcd7db4e27241ff
-    parent_uid: 4c75ada9d638803de8ff2006e93353bd
-    id: t8nLB1AmUgE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-3-hierarchical-clustering/video-3-hierarchical-clustering-0/t8nLB1AmUgE.pdf
-  - uid: 6e860a81c9b8bef2fef569c5b22d99ce
-    parent_uid: 4c75ada9d638803de8ff2006e93353bd
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 86be4e17730f29c65f88de5f0db91c1c
-    parent_uid: 4c75ada9d638803de8ff2006e93353bd
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: da903e5266f6eb83f96920de5a27153f
-    parent_uid: 4c75ada9d638803de8ff2006e93353bd
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.4.04_300k.mp4
+uid: 4c75ada9d638803de8ff2006e93353bd
 type: courses
 layout: video
 ---

@@ -1,11 +1,4 @@
 ---
-title: Final Project
-uid: 07877a94158ab10f584d0dfc3ad591fa
-parent_uid: 1d079dd5c0b4174a4773f2520a5e0743
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/andrea-desrosierss-project/final-project-1
-short_url: final-project-1
-inline_embed_id: 67863368finalproject52944536
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   Commons BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: QSkVGto19SA
+    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6b12ce0af8473711c7680c14ea27a2e8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QSkVGto19SA/default.jpg'
+    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9160a388cd40cdb2996fbb1278dc2d00
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: QSkVGto19SA
+    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a8be9e61575d5baa824b40e742874d4e
+  - id: QSkVGto19SA.srt
+    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/andrea-desrosierss-project/final-project-1/QSkVGto19SA.srt
+    title: 3play caption file
+    type: null
+    uid: bd38c34258b84d2ea7fda14743fa6203
+  - id: QSkVGto19SA.pdf
+    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/andrea-desrosierss-project/final-project-1/QSkVGto19SA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7fd53a7e6b808c7daf67e88d454a8d85
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1933367c3f9b8b4d47f14521bcf8bfc9
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 35967a384c6629a34fe0438fd4f9885f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d3433ca1200f04eab9c029d14fb9e5d6
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_AD_D13_Final_Project_360p.mp4
+    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8fe910cee0cc9b21a221f0c29d70eb02
+inline_embed_id: 67863368finalproject52944536
+parent_uid: 1d079dd5c0b4174a4773f2520a5e0743
 related_resources_text: ''
+short_url: final-project-1
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/andrea-desrosierss-project/final-project-1
+title: Final Project
 transcript: >-
   <p><span m="130">PROFESSOR: Eating</span> <span m="770">is</span> <span
   m="1000">one</span> <span m="1160">of</span> <span m="1240">the</span> <span
@@ -194,62 +249,7 @@ transcript: >-
   m="140670">we</span> <span m="140790">be</span> <span m="141000">more</span>
   <span m="141300">machine</span> <span m="142110">than</span> <span
   m="142330">human?</span></p>
-embedded_media:
-  - uid: 6b12ce0af8473711c7680c14ea27a2e8
-    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QSkVGto19SA
-  - uid: 9160a388cd40cdb2996fbb1278dc2d00
-    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QSkVGto19SA/default.jpg'
-  - uid: a8be9e61575d5baa824b40e742874d4e
-    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QSkVGto19SA
-  - uid: bd38c34258b84d2ea7fda14743fa6203
-    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
-    id: QSkVGto19SA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/andrea-desrosierss-project/final-project-1/QSkVGto19SA.srt
-  - uid: 7fd53a7e6b808c7daf67e88d454a8d85
-    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
-    id: QSkVGto19SA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/andrea-desrosierss-project/final-project-1/QSkVGto19SA.pdf
-  - uid: 1933367c3f9b8b4d47f14521bcf8bfc9
-    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 35967a384c6629a34fe0438fd4f9885f
-    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d3433ca1200f04eab9c029d14fb9e5d6
-    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 8fe910cee0cc9b21a221f0c29d70eb02
-    parent_uid: 07877a94158ab10f584d0dfc3ad591fa
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_AD_D13_Final_Project_360p.mp4
+uid: 07877a94158ab10f584d0dfc3ad591fa
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: Lagrange Multipliers (3 Variables)
-uid: f1908be4ad3f5c171840a903edfbb545
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: nDuS5uQ7-lo
+    parent_uid: f1908be4ad3f5c171840a903edfbb545
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 88adf0c8a46315d3244591263db2efe5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/nDuS5uQ7-lo/default.jpg'
+    parent_uid: f1908be4ad3f5c171840a903edfbb545
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 05638f52bc3c20f688677a7912506ded
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: nDuS5uQ7-lo
+    parent_uid: f1908be4ad3f5c171840a903edfbb545
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ad8503a929fcdb6aa3e0b9bf3538fb8c
+  - id: nDuS5uQ7-lo.srt
+    parent_uid: f1908be4ad3f5c171840a903edfbb545
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-41-advanced-example/lagrange-multipliers-3-variables/nDuS5uQ7-lo.srt
+    title: 3play caption file
+    type: null
+    uid: 6b18c54817ecbff64139f497ed50fc0b
+  - id: nDuS5uQ7-lo.pdf
+    parent_uid: f1908be4ad3f5c171840a903edfbb545
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-41-advanced-example/lagrange-multipliers-3-variables/nDuS5uQ7-lo.pdf
+    title: 3play pdf file
+    type: null
+    uid: aed05433c53a3400c6c200d2e0f819b8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f1908be4ad3f5c171840a903edfbb545
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b9b003d5bb82fb4ca931a25120f39e4b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f1908be4ad3f5c171840a903edfbb545
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dadba2e58634ed3f8b61629a334bd9f3
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_29_300k.mp4'
+    parent_uid: f1908be4ad3f5c171840a903edfbb545
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ecbcff91f77c3266f5d9f4caae819509
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/lagrange-multipliers-3-variables/id414355340?i=90322861
+    parent_uid: f1908be4ad3f5c171840a903edfbb545
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c661a273eb3fb80c9a50514d4dd71f22
+inline_embed_id: 30366752lagrangemultipliers(3variables)82048566
 parent_uid: 9ebd1d32024e0a868958b6ad334b76ad
+related_resources_text: ''
+short_url: lagrange-multipliers-3-variables
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-41-advanced-example/lagrange-multipliers-3-variables
-short_url: lagrange-multipliers-3-variables
-inline_embed_id: 30366752lagrangemultipliers(3variables)82048566
-about_this_resource_text: ''
-related_resources_text: ''
+title: Lagrange Multipliers (3 Variables)
 transcript: >-
   <p><span m='7200'>JOEL LEWIS: Hi.</span> <span m='7660'>Welcome</span> <span
   m='7970'>back</span> <span m='8190'>to</span> <span
@@ -973,62 +1028,7 @@ transcript: >-
   m='793280'>problems</span> <span m='793750'>as</span> <span
   m='793890'>well.</span> <span m='794370'>I'll</span> <span
   m='794600'>end</span> <span m='794830'>there.</span> </p>
-embedded_media:
-  - uid: 88adf0c8a46315d3244591263db2efe5
-    parent_uid: f1908be4ad3f5c171840a903edfbb545
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: nDuS5uQ7-lo
-  - uid: 05638f52bc3c20f688677a7912506ded
-    parent_uid: f1908be4ad3f5c171840a903edfbb545
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/nDuS5uQ7-lo/default.jpg'
-  - uid: ad8503a929fcdb6aa3e0b9bf3538fb8c
-    parent_uid: f1908be4ad3f5c171840a903edfbb545
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: nDuS5uQ7-lo
-  - uid: 6b18c54817ecbff64139f497ed50fc0b
-    parent_uid: f1908be4ad3f5c171840a903edfbb545
-    id: nDuS5uQ7-lo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-41-advanced-example/lagrange-multipliers-3-variables/nDuS5uQ7-lo.srt
-  - uid: aed05433c53a3400c6c200d2e0f819b8
-    parent_uid: f1908be4ad3f5c171840a903edfbb545
-    id: nDuS5uQ7-lo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-41-advanced-example/lagrange-multipliers-3-variables/nDuS5uQ7-lo.pdf
-  - uid: b9b003d5bb82fb4ca931a25120f39e4b
-    parent_uid: f1908be4ad3f5c171840a903edfbb545
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dadba2e58634ed3f8b61629a334bd9f3
-    parent_uid: f1908be4ad3f5c171840a903edfbb545
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ecbcff91f77c3266f5d9f4caae819509
-    parent_uid: f1908be4ad3f5c171840a903edfbb545
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_29_300k.mp4'
-  - uid: c661a273eb3fb80c9a50514d4dd71f22
-    parent_uid: f1908be4ad3f5c171840a903edfbb545
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/lagrange-multipliers-3-variables/id414355340?i=90322861
+uid: f1908be4ad3f5c171840a903edfbb545
 type: courses
 layout: video
 ---

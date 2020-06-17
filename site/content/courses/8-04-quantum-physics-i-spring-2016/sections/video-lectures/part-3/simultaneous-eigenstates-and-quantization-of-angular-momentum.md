@@ -1,13 +1,67 @@
 ---
-title: Simultaneous eigenstates and quantization of angular momentum
-uid: 6a99382a34de817d5f0cfd223176de49
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: lWTUcojZ_gQ
+    parent_uid: 6a99382a34de817d5f0cfd223176de49
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2c104458b85694178d6c35fdc3e4a45a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/lWTUcojZ_gQ/default.jpg'
+    parent_uid: 6a99382a34de817d5f0cfd223176de49
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a3c32c389b2e27835b423bc94ef7831e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: lWTUcojZ_gQ
+    parent_uid: 6a99382a34de817d5f0cfd223176de49
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 45a4cd30e9a3fae2c6a2ea6680a88377
+  - id: lWTUcojZ_gQ.srt
+    parent_uid: 6a99382a34de817d5f0cfd223176de49
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/simultaneous-eigenstates-and-quantization-of-angular-momentum/lWTUcojZ_gQ.srt
+    title: 3play caption file
+    type: null
+    uid: 0e5f0ac86cf371ad824c45b5787344b4
+  - id: lWTUcojZ_gQ.pdf
+    parent_uid: 6a99382a34de817d5f0cfd223176de49
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/simultaneous-eigenstates-and-quantization-of-angular-momentum/lWTUcojZ_gQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 286a93ba93dfb6a6e428824fc1372f66
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6a99382a34de817d5f0cfd223176de49
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 062a11071cda639011059130c76ac84d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6a99382a34de817d5f0cfd223176de49
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4e09d3e0a7a950e2a36045caeaba90e4
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 6a99382a34de817d5f0cfd223176de49
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: cdfae672b04fa06cba5f587f634a686b
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec20_s4_300k.mp4'
+    parent_uid: 6a99382a34de817d5f0cfd223176de49
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b531e23598459d91ccd4e8ae22d02523
+inline_embed_id: 94135121simultaneouseigenstatesandquantizationofangularmomentum68741289
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: simultaneous-eigenstates-and-quantization-of-angular-momentum
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/simultaneous-eigenstates-and-quantization-of-angular-momentum
-short_url: simultaneous-eigenstates-and-quantization-of-angular-momentum
-inline_embed_id: 94135121simultaneouseigenstatesandquantizationofangularmomentum68741289
-about_this_resource_text: ''
-related_resources_text: ''
+title: Simultaneous eigenstates and quantization of angular momentum
 transcript: >-
   <p><span m='260'>PROFESSOR:</span> <span m='520'>Simultaneous</span> <span
   m='1570'>eigenstates.</span> <span m='15680'>So</span> <span
@@ -1082,61 +1136,7 @@ transcript: >-
   m='1473010'>on</span> <span m='1473220'>the</span> <span
   m='1473340'>eigenvalues</span> <span m='1474240'>of</span> <span
   m='1474390'>the</span> <span m='1474690'>operator.</span> </p>
-embedded_media:
-  - uid: 2c104458b85694178d6c35fdc3e4a45a
-    parent_uid: 6a99382a34de817d5f0cfd223176de49
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lWTUcojZ_gQ
-  - uid: a3c32c389b2e27835b423bc94ef7831e
-    parent_uid: 6a99382a34de817d5f0cfd223176de49
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lWTUcojZ_gQ/default.jpg'
-  - uid: 45a4cd30e9a3fae2c6a2ea6680a88377
-    parent_uid: 6a99382a34de817d5f0cfd223176de49
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lWTUcojZ_gQ
-  - uid: 0e5f0ac86cf371ad824c45b5787344b4
-    parent_uid: 6a99382a34de817d5f0cfd223176de49
-    id: lWTUcojZ_gQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/simultaneous-eigenstates-and-quantization-of-angular-momentum/lWTUcojZ_gQ.srt
-  - uid: 286a93ba93dfb6a6e428824fc1372f66
-    parent_uid: 6a99382a34de817d5f0cfd223176de49
-    id: lWTUcojZ_gQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/simultaneous-eigenstates-and-quantization-of-angular-momentum/lWTUcojZ_gQ.pdf
-  - uid: 062a11071cda639011059130c76ac84d
-    parent_uid: 6a99382a34de817d5f0cfd223176de49
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4e09d3e0a7a950e2a36045caeaba90e4
-    parent_uid: 6a99382a34de817d5f0cfd223176de49
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: cdfae672b04fa06cba5f587f634a686b
-    parent_uid: 6a99382a34de817d5f0cfd223176de49
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: b531e23598459d91ccd4e8ae22d02523
-    parent_uid: 6a99382a34de817d5f0cfd223176de49
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec20_s4_300k.mp4'
+uid: 6a99382a34de817d5f0cfd223176de49
 type: courses
 layout: video
 ---

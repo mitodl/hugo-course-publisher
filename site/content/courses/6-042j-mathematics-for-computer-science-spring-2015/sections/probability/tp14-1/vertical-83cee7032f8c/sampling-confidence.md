@@ -1,13 +1,73 @@
 ---
-title: Sampling &amp; Confidence
-uid: 4f8c26c593b96abb75dd6d9dae48a27a
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 59bc315a8b006eff3dc6478cee516359
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: aac089d7806cd8c41882f854e8855285
+  - id: Video-YouTube-Stream
+    media_location: Q-6Cw8tYVeY
+    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: db7734446eb3d64c44baf7b97eaa6e1b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Q-6Cw8tYVeY/default.jpg'
+    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 99145120bb62c000144b02fd8560306f
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: Q-6Cw8tYVeY
+    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fc830a6a283b6490873625ba4d757784
+  - id: Q-6Cw8tYVeY.srt
+    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/vertical-83cee7032f8c/sampling-confidence/Q-6Cw8tYVeY.srt
+    title: 3play caption file
+    type: null
+    uid: 6f23d22c003aea4a7a8bd5cf2f0e052f
+  - id: Q-6Cw8tYVeY.pdf
+    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/vertical-83cee7032f8c/sampling-confidence/Q-6Cw8tYVeY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 27881ca528b167fe38a7fef678c5f0fa
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a61ac95010d5ac7ab57d7f5f3eefd2c6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 44a923c4b58ec1733facd8c3ca94e5f0
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_confidence_video_ipod.mp4
+    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1d3691f8a15ccb818fa8287ff5c076d1
+inline_embed_id: 62698139samplingampconfidence1642085
 parent_uid: 9d75474b6827a0564145140fa2e737ef
+related_resources_text: ''
+short_url: sampling-confidence
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/vertical-83cee7032f8c/sampling-confidence
-short_url: sampling-confidence
-inline_embed_id: 62698139samplingampconfidence1642085
-about_this_resource_text: ''
-related_resources_text: ''
+title: Sampling &amp; Confidence
 transcript: >-
   <p><span m='1280'>Now</span> <span m='1450'>let's</span> <span
   m='1650'>work</span> <span m='1880'>out</span> <span m='2009'>an</span> <span
@@ -907,67 +967,7 @@ transcript: >-
   m='770780'>beans</span> <span m='771530'>at</span> <span m='771780'>the</span>
   <span m='771850'>95%</span> <span m='773250'>confidence</span> <span
   m='773800'>level.</span> </p>
-embedded_media:
-  - uid: 59bc315a8b006eff3dc6478cee516359
-    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: aac089d7806cd8c41882f854e8855285
-    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: db7734446eb3d64c44baf7b97eaa6e1b
-    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Q-6Cw8tYVeY
-  - uid: 99145120bb62c000144b02fd8560306f
-    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Q-6Cw8tYVeY/default.jpg'
-  - uid: fc830a6a283b6490873625ba4d757784
-    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Q-6Cw8tYVeY
-  - uid: 6f23d22c003aea4a7a8bd5cf2f0e052f
-    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
-    id: Q-6Cw8tYVeY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/vertical-83cee7032f8c/sampling-confidence/Q-6Cw8tYVeY.srt
-  - uid: 27881ca528b167fe38a7fef678c5f0fa
-    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
-    id: Q-6Cw8tYVeY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/vertical-83cee7032f8c/sampling-confidence/Q-6Cw8tYVeY.pdf
-  - uid: a61ac95010d5ac7ab57d7f5f3eefd2c6
-    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 44a923c4b58ec1733facd8c3ca94e5f0
-    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1d3691f8a15ccb818fa8287ff5c076d1
-    parent_uid: 4f8c26c593b96abb75dd6d9dae48a27a
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_confidence_video_ipod.mp4
+uid: 4f8c26c593b96abb75dd6d9dae48a27a
 type: courses
 layout: video
 ---

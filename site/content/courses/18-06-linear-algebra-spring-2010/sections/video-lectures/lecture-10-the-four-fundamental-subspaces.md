@@ -1,17 +1,89 @@
 ---
-title: 'Lecture 10: The four fundamental subspaces'
-uid: b39b3ec50faab61ab04d8285b5fd89d8
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-10-the-four-fundamental-subspaces
-short_url: lecture-10-the-four-fundamental-subspaces
-inline_embed_id: '83446600lecture10:thefourfundamentalsubspaces53786006'
 about_this_resource_text: "<div class=\"vidpad\">\r\n<p>These video lectures of Professor Gilbert Strang teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to the current  edition of the textbook. However, this book is still the best reference  for more information on the topics covered in each lecture.</p>\r\n<p><a href=\"http://www.amazon.com/exec/obidos/ASIN/0980232775/ref=nosim/mitopencourse-20\"><img alt=\"Buy at Amazon\" src=\"/images/a_logo_17.gif\" align=\"absmiddle\" border=\"0\" /></a> Strang, Gilbert. <em>Introduction to Linear Algebra</em>. 5th ed. <a href=\"http://www.wellesleycambridge.com/\">Wellesley-Cambridge Press</a>, 2016. ISBN: 9780980232776.</p>\r\n<p><strong>Instructor/speaker:</strong> Prof. Gilbert Strang</p>\r\n</div>"
+embedded_media:
+  - id: 18.06_L10.jpg
+    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-10-the-four-fundamental-subspaces/18.06_L10.jpg
+    title: 18.06_L10.jpg
+    type: null
+    uid: b2274f89024b38384889f9ac4f480b6e
+  - id: Video-YouTube-Stream
+    media_location: nHlE7EgJFds
+    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6e1357bdb775b149af0c0f4c063954e9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/nHlE7EgJFds/default.jpg'
+    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: af73d463e1ce3cdc635a251e78e17563
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b1e6e2d33c1e0b9d2b463ac951da7f48
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/10.mp4'
+    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 36bbee346c5e90c254561ea7c3ae87b5
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: f7cca7d4c5f31055e45fbb9ea2a41c0b
+  - id: Thumbnail-OCW-JPG
+    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 73c593f2877be3cb6f75436b7bbb4ab8
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: nHlE7EgJFds
+    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 018ecc7aab1f0ed93ac9ab4bf8967e45
+  - id: nHlE7EgJFds.srt
+    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-10-the-four-fundamental-subspaces/nHlE7EgJFds.srt
+    title: 3play caption file
+    type: null
+    uid: 6002a7f39e5848ad960ec2c4f8895bc4
+  - id: nHlE7EgJFds.pdf
+    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-10-the-four-fundamental-subspaces/nHlE7EgJFds.pdf
+    title: 3play pdf file
+    type: null
+    uid: 55c07f16c1f8592e3f0457652ab11634
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0eaac2219a09265f35bc07571be74ab4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bdd7fb218940d522fc8a03c95747801a
+inline_embed_id: '83446600lecture10:thefourfundamentalsubspaces53786006'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-10-the-four-fundamental-subspaces
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-10-the-four-fundamental-subspaces
+title: 'Lecture 10: The four fundamental subspaces'
 transcript: >-
   <p><span m="9760">OK,</span> <span m="10160">here</span> <span
   m="10560">is</span> <span m="10700">lecture</span> <span m="11130">ten</span>
@@ -2751,79 +2823,7 @@ transcript: >-
   m="2947550">OK,</span> <span m="2947980">thank</span> <span
   m="2948340">you.</span></p><p><span m="2949380">That's</span> <span
   m="2949720">lecture</span> <span m="2950380">ten.</span></p>
-embedded_media:
-  - uid: b2274f89024b38384889f9ac4f480b6e
-    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
-    id: 18.06_L10.jpg
-    title: 18.06_L10.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-10-the-four-fundamental-subspaces/18.06_L10.jpg
-  - uid: 6e1357bdb775b149af0c0f4c063954e9
-    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: nHlE7EgJFds
-  - uid: af73d463e1ce3cdc635a251e78e17563
-    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/nHlE7EgJFds/default.jpg'
-  - uid: b1e6e2d33c1e0b9d2b463ac951da7f48
-    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 36bbee346c5e90c254561ea7c3ae87b5
-    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/10.mp4'
-  - uid: f7cca7d4c5f31055e45fbb9ea2a41c0b
-    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 73c593f2877be3cb6f75436b7bbb4ab8
-    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 018ecc7aab1f0ed93ac9ab4bf8967e45
-    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: nHlE7EgJFds
-  - uid: 6002a7f39e5848ad960ec2c4f8895bc4
-    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
-    id: nHlE7EgJFds.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-10-the-four-fundamental-subspaces/nHlE7EgJFds.srt
-  - uid: 55c07f16c1f8592e3f0457652ab11634
-    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
-    id: nHlE7EgJFds.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-10-the-four-fundamental-subspaces/nHlE7EgJFds.pdf
-  - uid: 0eaac2219a09265f35bc07571be74ab4
-    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bdd7fb218940d522fc8a03c95747801a
-    parent_uid: b39b3ec50faab61ab04d8285b5fd89d8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b39b3ec50faab61ab04d8285b5fd89d8
 type: courses
 layout: video
 ---

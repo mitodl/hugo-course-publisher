@@ -1,13 +1,73 @@
 ---
-title: Die Hard Primes
-uid: 026d47eb6c930cb709fe61c2f6eafda3
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 32dff0d8464eb64743f4f08ee26a313d
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 346cbc64ef025e0dc7268a0df2789491
+  - id: Video-YouTube-Stream
+    media_location: c3qNBNl1h8g
+    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 30f42ae90065f1f012166b59552cc0d0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/c3qNBNl1h8g/default.jpg'
+    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 21489b582d19eb93d7b2326f0496bfb6
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: c3qNBNl1h8g
+    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 84e059c84623e126d1eed70dce22052b
+  - id: c3qNBNl1h8g.srt
+    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/revisiting-die-hard-video/die-hard-primes/c3qNBNl1h8g.srt
+    title: 3play caption file
+    type: null
+    uid: 8efcdd004ba0de674b046d2c9e0a30fd
+  - id: c3qNBNl1h8g.pdf
+    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/revisiting-die-hard-video/die-hard-primes/c3qNBNl1h8g.pdf
+    title: 3play pdf file
+    type: null
+    uid: dc2c816ef1931874a21731dec06cdce2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6d7b95d0eef20ff63a8b71117db1ca8c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4a3e79fd372e536ed84e1176712c4fb5
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_diehardprimes_ipod.mp4
+    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 98cfc9adc9f1bbb047e9c91ebaeb745d
+inline_embed_id: 20702261diehardprimes3586135
 parent_uid: 14b2703457c6fbfdf20f417b00878d32
+related_resources_text: ''
+short_url: die-hard-primes
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/revisiting-die-hard-video/die-hard-primes
-short_url: die-hard-primes
-inline_embed_id: 20702261diehardprimes3586135
-about_this_resource_text: ''
-related_resources_text: ''
+title: Die Hard Primes
 transcript: >-
   <p><span m='710'>PROFESSOR: So now</span> <span m='850'>we're</span> <span
   m='1020'>ready</span> <span m='1280'>to</span> <span m='1810'>put</span> <span
@@ -336,67 +396,7 @@ transcript: >-
   m='313180'>want.</span> <span m='313940'>And</span> <span
   m='314670'>then</span> <span m='314900'>you're</span> <span
   m='315040'>done.</span> </p>
-embedded_media:
-  - uid: 32dff0d8464eb64743f4f08ee26a313d
-    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 346cbc64ef025e0dc7268a0df2789491
-    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 30f42ae90065f1f012166b59552cc0d0
-    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: c3qNBNl1h8g
-  - uid: 21489b582d19eb93d7b2326f0496bfb6
-    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/c3qNBNl1h8g/default.jpg'
-  - uid: 84e059c84623e126d1eed70dce22052b
-    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: c3qNBNl1h8g
-  - uid: 8efcdd004ba0de674b046d2c9e0a30fd
-    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
-    id: c3qNBNl1h8g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/revisiting-die-hard-video/die-hard-primes/c3qNBNl1h8g.srt
-  - uid: dc2c816ef1931874a21731dec06cdce2
-    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
-    id: c3qNBNl1h8g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/revisiting-die-hard-video/die-hard-primes/c3qNBNl1h8g.pdf
-  - uid: 6d7b95d0eef20ff63a8b71117db1ca8c
-    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4a3e79fd372e536ed84e1176712c4fb5
-    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 98cfc9adc9f1bbb047e9c91ebaeb745d
-    parent_uid: 026d47eb6c930cb709fe61c2f6eafda3
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_diehardprimes_ipod.mp4
+uid: 026d47eb6c930cb709fe61c2f6eafda3
 type: courses
 layout: video
 ---

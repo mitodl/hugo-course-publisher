@@ -1,13 +1,62 @@
 ---
-title: Welcome to Unit 8
-uid: 92d4983707212eb468802b2929ad74b0
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: VDtL2g9Viik
+    parent_uid: 92d4983707212eb468802b2929ad74b0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0b525a23c421ba5b3b113709e96b5267
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: VDtL2g9Viik
+    parent_uid: 92d4983707212eb468802b2929ad74b0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d42c8691979f7d42ff174ebcd062f718
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VDtL2g9Viik/default.jpg'
+    parent_uid: 92d4983707212eb468802b2929ad74b0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 18ed3840d725b60900e76adab92e9ec6
+  - id: VDtL2g9Viik.srt
+    parent_uid: 92d4983707212eb468802b2929ad74b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/welcome-to-unit-8/welcome-to-unit-8-1/VDtL2g9Viik.srt
+    title: 3play caption file
+    type: null
+    uid: b7cc3ad9c57bd6030467b5d082b6630a
+  - id: VDtL2g9Viik.pdf
+    parent_uid: 92d4983707212eb468802b2929ad74b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/welcome-to-unit-8/welcome-to-unit-8-1/VDtL2g9Viik.pdf
+    title: 3play pdf file
+    type: null
+    uid: 695e7aea4dfb5738857eef5f7158a785
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 92d4983707212eb468802b2929ad74b0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b8b443f092e76c07684aee9a54dad46b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 92d4983707212eb468802b2929ad74b0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: cc39b07a456cf9e4eff59b16f3c09ad5
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.1.01_300k.mp4
+    parent_uid: 92d4983707212eb468802b2929ad74b0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ee302602468bfd1b877a4ec6c047406a
+inline_embed_id: 80478194welcometounit849984442
 parent_uid: 006d219b491802343c9c2e5dce950c20
+related_resources_text: ''
+short_url: welcome-to-unit-8-1
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/welcome-to-unit-8/welcome-to-unit-8-1
-short_url: welcome-to-unit-8-1
-inline_embed_id: 80478194welcometounit849984442
-about_this_resource_text: ''
-related_resources_text: ''
+title: Welcome to Unit 8
 transcript: >-
   <p><span m='4500'>Hello.</span> </p><p><span m='5160'>This</span> <span
   m='5447'>week</span> <span m='5734'>we'll</span> <span m='6021'>discuss</span>
@@ -38,56 +87,7 @@ transcript: >-
   <span m='29207'>radiation</span> <span m='29628'>therapy</span> <span
   m='30050'>treatments.</span> </p><p><span m='31310'>Let's</span> <span
   m='31990'>get</span> <span m='32670'>started.</span> </p>
-embedded_media:
-  - uid: 0b525a23c421ba5b3b113709e96b5267
-    parent_uid: 92d4983707212eb468802b2929ad74b0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VDtL2g9Viik
-  - uid: d42c8691979f7d42ff174ebcd062f718
-    parent_uid: 92d4983707212eb468802b2929ad74b0
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VDtL2g9Viik
-  - uid: 18ed3840d725b60900e76adab92e9ec6
-    parent_uid: 92d4983707212eb468802b2929ad74b0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VDtL2g9Viik/default.jpg'
-  - uid: b7cc3ad9c57bd6030467b5d082b6630a
-    parent_uid: 92d4983707212eb468802b2929ad74b0
-    id: VDtL2g9Viik.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/welcome-to-unit-8/welcome-to-unit-8-1/VDtL2g9Viik.srt
-  - uid: 695e7aea4dfb5738857eef5f7158a785
-    parent_uid: 92d4983707212eb468802b2929ad74b0
-    id: VDtL2g9Viik.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/welcome-to-unit-8/welcome-to-unit-8-1/VDtL2g9Viik.pdf
-  - uid: b8b443f092e76c07684aee9a54dad46b
-    parent_uid: 92d4983707212eb468802b2929ad74b0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: cc39b07a456cf9e4eff59b16f3c09ad5
-    parent_uid: 92d4983707212eb468802b2929ad74b0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ee302602468bfd1b877a4ec6c047406a
-    parent_uid: 92d4983707212eb468802b2929ad74b0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.1.01_300k.mp4
+uid: 92d4983707212eb468802b2929ad74b0
 type: courses
 layout: video
 ---

@@ -1,13 +1,69 @@
 ---
-title: 'Video 1: Introduction'
-uid: 4bff4d846d9019dd1fb2acf6f4bb6691
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: AByfsx3Dkek
+    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f093c9c38515159644c2240ee473ef98
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: AByfsx3Dkek
+    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ca388154009c4af9f51d817c81c4c9db
+  - id: Video--MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.02_300k.mp4
+    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
+    title: Video--MP4
+    type: Video
+    uid: 920efe04ce2d52dd05478bcd6fa2ad40
+  - id: AByfsx3Dkek.srt
+    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-1-introduction-8/video-1-introduction-9/AByfsx3Dkek.srt
+    title: 3play caption file
+    type: null
+    uid: c150df8a679e4fb6beaea8a4bf2bc40e
+  - id: AByfsx3Dkek.pdf
+    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-1-introduction-8/video-1-introduction-9/AByfsx3Dkek.pdf
+    title: 3play pdf file
+    type: null
+    uid: e89771d12479e8087466a15266ca9870
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3d8984b4c5c1a089a73ee92914aa2864
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 238ab822cbc6b9a2bfe9239c9a2c3c36
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/AByfsx3Dkek/default.jpg'
+    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a91a6e56e539783ad2615aca7db04d78
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.02_300k.mp4
+    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: dc1bab09ef0df90686bb75afc367d167
+inline_embed_id: 56913358video1introduction31766057
 parent_uid: 51ed3daac148e3d07b469713f381a97e
+related_resources_text: ''
+short_url: video-1-introduction-9
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-1-introduction-8/video-1-introduction-9
-short_url: video-1-introduction-9
-inline_embed_id: 56913358video1introduction31766057
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: Introduction'
 transcript: >-
   <p><span m='9490'>In</span> <span m='9800'>this</span> <span
   m='10110'>recitation,</span> <span m='10420'>we'll</span> <span
@@ -338,63 +394,7 @@ transcript: >-
   m='279649'>the</span> <span m='280109'>components</span> <span
   m='280569'>of</span> <span m='281029'>the</span> <span
   m='281489'>AdWords</span> <span m='281949'>system.</span> </p>
-embedded_media:
-  - uid: f093c9c38515159644c2240ee473ef98
-    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: AByfsx3Dkek
-  - uid: ca388154009c4af9f51d817c81c4c9db
-    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: AByfsx3Dkek
-  - uid: 920efe04ce2d52dd05478bcd6fa2ad40
-    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
-    id: Video--MP4
-    title: Video--MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.02_300k.mp4
-  - uid: c150df8a679e4fb6beaea8a4bf2bc40e
-    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
-    id: AByfsx3Dkek.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-1-introduction-8/video-1-introduction-9/AByfsx3Dkek.srt
-  - uid: e89771d12479e8087466a15266ca9870
-    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
-    id: AByfsx3Dkek.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-1-introduction-8/video-1-introduction-9/AByfsx3Dkek.pdf
-  - uid: 3d8984b4c5c1a089a73ee92914aa2864
-    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 238ab822cbc6b9a2bfe9239c9a2c3c36
-    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a91a6e56e539783ad2615aca7db04d78
-    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/AByfsx3Dkek/default.jpg'
-  - uid: dc1bab09ef0df90686bb75afc367d167
-    parent_uid: 4bff4d846d9019dd1fb2acf6f4bb6691
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.02_300k.mp4
+uid: 4bff4d846d9019dd1fb2acf6f4bb6691
 type: courses
 layout: video
 ---

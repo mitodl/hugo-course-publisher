@@ -4,9 +4,14 @@ course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 course_title: Introduction to Biological Engineering Design
 course_image_url: >-
   https://open-learning-course-data-ci.s3.amazonaws.com/20-020-introduction-to-biological-engineering-design-spring-2009/9cd08e0573573f60c97b19038c3b678b_20-020s09.jpg
-course_thumbnail_image_url: ''
-course_image_alternate_text: ''
-course_image_caption_text: ''
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/20-020-introduction-to-biological-engineering-design-spring-2009/5df425bed50f162e651a5537a8379a3e_20-020s09-th.jpg
+course_image_alternate_text: Colorful stylized cartoon of a woman looking at a synthetic biology creation.
+course_image_caption_text: >-
+
+  <p>This class is Course 20's project-based introduction to the engineering of
+  synthetic biological systems. (Image courtesy of Justin Lo. Used with
+  permission.)</p>
 course_description: >-
 
   <P>This class is a project-based introduction to the engineering of synthetic

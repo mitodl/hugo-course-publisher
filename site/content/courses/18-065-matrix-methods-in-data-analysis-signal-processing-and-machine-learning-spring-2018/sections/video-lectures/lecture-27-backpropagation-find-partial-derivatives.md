@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 27: Backpropagation: Find Partial Derivatives'
-uid: a11969b72781922397269718da7c7cb1
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-27-backpropagation-find-partial-derivatives
-short_url: lecture-27-backpropagation-find-partial-derivatives
-inline_embed_id: 67655889lecture27backpropagationtofindderivativeofthelearningfunction9008456
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>In this lecture, Professor Strang
   presents Professor Sra&rsquo;s theorem which proves the convergence of
@@ -17,7 +10,62 @@ about_this_resource_text: >-
   The key step to optimizing weights is backprop + stoch grad descent.</p>
   <p>Related section in textbook: VII.3</p> <p><strong>Instructor:</strong>
   Prof. Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: lZrIPRnoGQQ
+    parent_uid: a11969b72781922397269718da7c7cb1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 159228789a0d5923e3179cd2d1b51b99
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/lZrIPRnoGQQ/default.jpg'
+    parent_uid: a11969b72781922397269718da7c7cb1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 524a599f9672eddf70cd6f03a12424eb
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: lZrIPRnoGQQ
+    parent_uid: a11969b72781922397269718da7c7cb1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 01674cf5262cccd1fd75bc3b7d76a2a9
+  - id: lZrIPRnoGQQ.srt
+    parent_uid: a11969b72781922397269718da7c7cb1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-27-backpropagation-find-partial-derivatives/lZrIPRnoGQQ.srt
+    title: 3play caption file
+    type: null
+    uid: 5321a785355053ef3b9d34e674db319d
+  - id: lZrIPRnoGQQ.pdf
+    parent_uid: a11969b72781922397269718da7c7cb1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-27-backpropagation-find-partial-derivatives/lZrIPRnoGQQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: f746508a6b1dd40c702cc4424382c7ba
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a11969b72781922397269718da7c7cb1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ca722b15b0f823c38e036c5d886de9a3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a11969b72781922397269718da7c7cb1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bd7a951d4335dae7a346b446f2b7c93a
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture27_300k.mp4'
+    parent_uid: a11969b72781922397269718da7c7cb1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 48ba78d192ddab76dc8e7667a2200d6d
+inline_embed_id: 67655889lecture27backpropagationtofindderivativeofthelearningfunction9008456
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-27-backpropagation-find-partial-derivatives
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-27-backpropagation-find-partial-derivatives
+title: 'Lecture 27: Backpropagation: Find Partial Derivatives'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2455,55 +2503,7 @@ transcript: >-
   m="3155490">Give</span> <span m="3155730">him</span> <span
   m="3155910">a</span> <span m="3156030">good</span> <span
   m="3156330">welcome.</span></p>
-embedded_media:
-  - uid: 159228789a0d5923e3179cd2d1b51b99
-    parent_uid: a11969b72781922397269718da7c7cb1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lZrIPRnoGQQ
-  - uid: 524a599f9672eddf70cd6f03a12424eb
-    parent_uid: a11969b72781922397269718da7c7cb1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lZrIPRnoGQQ/default.jpg'
-  - uid: 01674cf5262cccd1fd75bc3b7d76a2a9
-    parent_uid: a11969b72781922397269718da7c7cb1
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lZrIPRnoGQQ
-  - uid: 5321a785355053ef3b9d34e674db319d
-    parent_uid: a11969b72781922397269718da7c7cb1
-    id: lZrIPRnoGQQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-27-backpropagation-find-partial-derivatives/lZrIPRnoGQQ.srt
-  - uid: f746508a6b1dd40c702cc4424382c7ba
-    parent_uid: a11969b72781922397269718da7c7cb1
-    id: lZrIPRnoGQQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-27-backpropagation-find-partial-derivatives/lZrIPRnoGQQ.pdf
-  - uid: ca722b15b0f823c38e036c5d886de9a3
-    parent_uid: a11969b72781922397269718da7c7cb1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bd7a951d4335dae7a346b446f2b7c93a
-    parent_uid: a11969b72781922397269718da7c7cb1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 48ba78d192ddab76dc8e7667a2200d6d
-    parent_uid: a11969b72781922397269718da7c7cb1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture27_300k.mp4'
+uid: a11969b72781922397269718da7c7cb1
 type: courses
 layout: video
 ---

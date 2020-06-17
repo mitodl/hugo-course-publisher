@@ -1,18 +1,72 @@
 ---
-title: Life at Low Reynold’s Number
-uid: df45d2d2a58dc50b8ea2da80c06f6bc0
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/life-at-low-reynold2019s-number
-short_url: life-at-low-reynold2019s-number
-inline_embed_id: 72722957lifeatlowreynold’snumber16325968
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Jeff Gore discusses
   bacteria. He asks, and answers, questions like how do bacteria find food? How
   do they know which direction to swim, and how do they swim? All of these
   questions relate to the low Reynold's number regime in which bacteria
   live.</p> <p><strong>Instructor:</strong> Prof. Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TuXFwKrWQg8
+    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2ff60facf5feb571421d8126e1053997
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TuXFwKrWQg8/default.jpg'
+    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: aacbd660c7928fb5f5b23bf7cb6bc1e3
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 98079409081c8a79e7d8cbc05d94379e
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec11_300k.mp4'
+    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 56d1b85d40b0789bed889bb99550b602
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TuXFwKrWQg8
+    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5bf200e5e7a1d6e7d60bf445006e4d65
+  - id: TuXFwKrWQg8.srt
+    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/life-at-low-reynold2019s-number/TuXFwKrWQg8.srt
+    title: 3play caption file
+    type: null
+    uid: defcbb3f026198a42326da7b58df5165
+  - id: TuXFwKrWQg8.pdf
+    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/life-at-low-reynold2019s-number/TuXFwKrWQg8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8b7c688dc1a9db3a505baf7f7b8ccb9e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f2c7a9d1c3cd60405798913bd9c6e763
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 660f2f3ea75b3756873d2f530e69bfd0
+inline_embed_id: 72722957lifeatlowreynold’snumber16325968
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: life-at-low-reynold2019s-number
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/life-at-low-reynold2019s-number
+title: Life at Low Reynold’s Number
 transcript: >-
   <p><span m="40">The</span> <span m="170">following</span> <span
   m="620">content</span> <span m="1210">is</span> <span m="1320">provided</span>
@@ -4422,61 +4476,7 @@ transcript: >-
   m="4748920">talked</span> <span m="4749090">about,</span> <span
   m="4749390">please come</span> <span m="4749690">on</span> <span
   m="4749990">up.</span></p>
-embedded_media:
-  - uid: 2ff60facf5feb571421d8126e1053997
-    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TuXFwKrWQg8
-  - uid: aacbd660c7928fb5f5b23bf7cb6bc1e3
-    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TuXFwKrWQg8/default.jpg'
-  - uid: 98079409081c8a79e7d8cbc05d94379e
-    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: 56d1b85d40b0789bed889bb99550b602
-    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec11_300k.mp4'
-  - uid: 5bf200e5e7a1d6e7d60bf445006e4d65
-    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TuXFwKrWQg8
-  - uid: defcbb3f026198a42326da7b58df5165
-    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
-    id: TuXFwKrWQg8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/life-at-low-reynold2019s-number/TuXFwKrWQg8.srt
-  - uid: 8b7c688dc1a9db3a505baf7f7b8ccb9e
-    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
-    id: TuXFwKrWQg8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/life-at-low-reynold2019s-number/TuXFwKrWQg8.pdf
-  - uid: f2c7a9d1c3cd60405798913bd9c6e763
-    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 660f2f3ea75b3756873d2f530e69bfd0
-    parent_uid: df45d2d2a58dc50b8ea2da80c06f6bc0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: df45d2d2a58dc50b8ea2da80c06f6bc0
 type: courses
 layout: video
 ---

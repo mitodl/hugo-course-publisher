@@ -1,18 +1,72 @@
 ---
-title: Stochastic Modeling
-uid: a84a49e74da72edc1088dcd34c1649d5
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/stochastic-modeling
-short_url: stochastic-modeling
-inline_embed_id: 57962098stochasticmodeling48579739
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Jeff Gore discusses
   modeling stochastic systems. The discussion of the master equation continues
   from last lecture. Then he talks about the Gillespie algorithm, an exact way
   to simulate stochastic systems. He then moves on to the Fokker-Planck
   equation.</p> <p><strong>Instructor:</strong> Prof. Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: EXBO08-78IU
+    parent_uid: a84a49e74da72edc1088dcd34c1649d5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: dee26ebf711531bfec886ca24721e23b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/EXBO08-78IU/default.jpg'
+    parent_uid: a84a49e74da72edc1088dcd34c1649d5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 45a8898c9e23045458f9e7ddc12578bc
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: a84a49e74da72edc1088dcd34c1649d5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 26fa6a73b1a3df5e815dad77960fd9cb
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec10_300k.mp4'
+    parent_uid: a84a49e74da72edc1088dcd34c1649d5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 38e3f0a7556890b929b583e12257ca4f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: EXBO08-78IU
+    parent_uid: a84a49e74da72edc1088dcd34c1649d5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f7f0865c50ad17577936ab2e1ce2fb03
+  - id: EXBO08-78IU.srt
+    parent_uid: a84a49e74da72edc1088dcd34c1649d5
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/stochastic-modeling/EXBO08-78IU.srt
+    title: 3play caption file
+    type: null
+    uid: e60310e66ffa54d9d6697c7306f6ac6f
+  - id: EXBO08-78IU.pdf
+    parent_uid: a84a49e74da72edc1088dcd34c1649d5
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/stochastic-modeling/EXBO08-78IU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7b1cc0c5e4ed2aebca0c3cd32a7736a4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a84a49e74da72edc1088dcd34c1649d5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2cb2e67063cf01bdb83fbd2bb4ff8e4d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a84a49e74da72edc1088dcd34c1649d5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a12db6737b5ae11160f1789ea4d6a155
+inline_embed_id: 57962098stochasticmodeling48579739
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: stochastic-modeling
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/stochastic-modeling
+title: Stochastic Modeling
 transcript: >-
   <p><span m="70">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4847,61 +4901,7 @@ transcript: >-
   m="4907960">hour</span> <span m="4908170">if anybody</span> <span
   m="4908460">has</span> <span m="4908760">any questions.</span> <span
   m="4909360">Thanks.</span></p>
-embedded_media:
-  - uid: dee26ebf711531bfec886ca24721e23b
-    parent_uid: a84a49e74da72edc1088dcd34c1649d5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: EXBO08-78IU
-  - uid: 45a8898c9e23045458f9e7ddc12578bc
-    parent_uid: a84a49e74da72edc1088dcd34c1649d5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/EXBO08-78IU/default.jpg'
-  - uid: 26fa6a73b1a3df5e815dad77960fd9cb
-    parent_uid: a84a49e74da72edc1088dcd34c1649d5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: 38e3f0a7556890b929b583e12257ca4f
-    parent_uid: a84a49e74da72edc1088dcd34c1649d5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec10_300k.mp4'
-  - uid: f7f0865c50ad17577936ab2e1ce2fb03
-    parent_uid: a84a49e74da72edc1088dcd34c1649d5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: EXBO08-78IU
-  - uid: e60310e66ffa54d9d6697c7306f6ac6f
-    parent_uid: a84a49e74da72edc1088dcd34c1649d5
-    id: EXBO08-78IU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/stochastic-modeling/EXBO08-78IU.srt
-  - uid: 7b1cc0c5e4ed2aebca0c3cd32a7736a4
-    parent_uid: a84a49e74da72edc1088dcd34c1649d5
-    id: EXBO08-78IU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/stochastic-modeling/EXBO08-78IU.pdf
-  - uid: 2cb2e67063cf01bdb83fbd2bb4ff8e4d
-    parent_uid: a84a49e74da72edc1088dcd34c1649d5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a12db6737b5ae11160f1789ea4d6a155
-    parent_uid: a84a49e74da72edc1088dcd34c1649d5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a84a49e74da72edc1088dcd34c1649d5
 type: courses
 layout: video
 ---

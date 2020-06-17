@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 15: Matrices A(t) Depending on t, Derivative = dA/dt '
-uid: 3f21d4df9b2f4e82d09f7d32496dc46d
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-15-matrices-a-t-depending-on-t-derivative-da-dt
-short_url: lecture-15-matrices-a-t-depending-on-t-derivative-da-dt
-inline_embed_id: 29082949lecture15matricesatdependingontderivativedadt47088211
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>This lecture is about changes in
   eigenvalues and changes in singular values. When matrices move, their
@@ -16,7 +9,62 @@ about_this_resource_text: >-
   \(y\) = eigenvector of transpose of \(A\)<br /> Eigenvalues from adding
   rank-one matrix are interlaced.</p> <p>Related section in textbook:
   III.1-2</p> <p><strong>Instructor:</strong> Prof. Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: z3SmljnD_nQ
+    parent_uid: 3f21d4df9b2f4e82d09f7d32496dc46d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 573bc21ac34ad59047b1cc118a9a30ed
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/z3SmljnD_nQ/default.jpg'
+    parent_uid: 3f21d4df9b2f4e82d09f7d32496dc46d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: febdb3f6a86605ac2341e35044b7da42
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: z3SmljnD_nQ
+    parent_uid: 3f21d4df9b2f4e82d09f7d32496dc46d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fee4a6ea8148d4d4c953c30b34a45403
+  - id: z3SmljnD_nQ.srt
+    parent_uid: 3f21d4df9b2f4e82d09f7d32496dc46d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-15-matrices-a-t-depending-on-t-derivative-da-dt/z3SmljnD_nQ.srt
+    title: 3play caption file
+    type: null
+    uid: 62ff7e185cca25a5db900591f1a6e3cb
+  - id: z3SmljnD_nQ.pdf
+    parent_uid: 3f21d4df9b2f4e82d09f7d32496dc46d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-15-matrices-a-t-depending-on-t-derivative-da-dt/z3SmljnD_nQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: aa56e3ef8432ecf9d89c93d75efa05a1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3f21d4df9b2f4e82d09f7d32496dc46d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e97efdded0330aba04ab229f8014031d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3f21d4df9b2f4e82d09f7d32496dc46d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: cff4bf0dc09fe722657a97fe7a59dece
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture15_300k.mp4'
+    parent_uid: 3f21d4df9b2f4e82d09f7d32496dc46d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5763cdb3580e34f9abdb13d1b0cd7e60
+inline_embed_id: 29082949lecture15matricesatdependingontderivativedadt47088211
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-15-matrices-a-t-depending-on-t-derivative-da-dt
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-15-matrices-a-t-depending-on-t-derivative-da-dt
+title: 'Lecture 15: Matrices A(t) Depending on t, Derivative = dA/dt '
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2693,55 +2741,7 @@ transcript: >-
   m="3047100">topic</span> <span m="3047490">2.</span> <span
   m="3047910">Good.</span> <span m="3048300">Thank</span> <span
   m="3048600">you.</span></p>
-embedded_media:
-  - uid: 573bc21ac34ad59047b1cc118a9a30ed
-    parent_uid: 3f21d4df9b2f4e82d09f7d32496dc46d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: z3SmljnD_nQ
-  - uid: febdb3f6a86605ac2341e35044b7da42
-    parent_uid: 3f21d4df9b2f4e82d09f7d32496dc46d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/z3SmljnD_nQ/default.jpg'
-  - uid: fee4a6ea8148d4d4c953c30b34a45403
-    parent_uid: 3f21d4df9b2f4e82d09f7d32496dc46d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: z3SmljnD_nQ
-  - uid: 62ff7e185cca25a5db900591f1a6e3cb
-    parent_uid: 3f21d4df9b2f4e82d09f7d32496dc46d
-    id: z3SmljnD_nQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-15-matrices-a-t-depending-on-t-derivative-da-dt/z3SmljnD_nQ.srt
-  - uid: aa56e3ef8432ecf9d89c93d75efa05a1
-    parent_uid: 3f21d4df9b2f4e82d09f7d32496dc46d
-    id: z3SmljnD_nQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-15-matrices-a-t-depending-on-t-derivative-da-dt/z3SmljnD_nQ.pdf
-  - uid: e97efdded0330aba04ab229f8014031d
-    parent_uid: 3f21d4df9b2f4e82d09f7d32496dc46d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: cff4bf0dc09fe722657a97fe7a59dece
-    parent_uid: 3f21d4df9b2f4e82d09f7d32496dc46d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5763cdb3580e34f9abdb13d1b0cd7e60
-    parent_uid: 3f21d4df9b2f4e82d09f7d32496dc46d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture15_300k.mp4'
+uid: 3f21d4df9b2f4e82d09f7d32496dc46d
 type: courses
 layout: video
 ---

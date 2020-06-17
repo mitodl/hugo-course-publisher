@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 4: Decomposition, Abstraction, and Functions'
-uid: 143cd66d44d6ee166bfc8eef90d7af0e
-parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-4-decomposition-abstraction-and-functions
-short_url: lecture-4-decomposition-abstraction-and-functions
-inline_embed_id: 11885844lecture4decompositionabstractionandfunctions94004287
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Dr. Bell discusses program
   structuring, functions, specifications, scoping, and the difference between
   the &quot;return&quot; and &quot;print&quot; keywords in Python.</p>
   <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: MjbuarJ7SE0
+    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 80c9344b8d19b659f305380bc434476b
+  - id: MjbuarJ7SE0.srt
+    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-4-decomposition-abstraction-and-functions/MjbuarJ7SE0.srt
+    title: 3play caption file
+    type: null
+    uid: e57c28dc4eeec681d686777b8555c4f1
+  - id: MjbuarJ7SE0.pdf
+    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-4-decomposition-abstraction-and-functions/MjbuarJ7SE0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2cd211c4c7f47153bbc413099ae2d2e1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c717e3f0680c6b0e2d06fe82dd5b9c4a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5883ce088263ea2ff482a46dd9d95bdd
+  - id: Video-YouTube-Stream
+    media_location: MjbuarJ7SE0
+    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 02641541f830c5d60d878fca7ab21ae8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/MjbuarJ7SE0/default.jpg'
+    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 028f52880e706fd41f2e3ff91edc2a23
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f9b66b75ab46d346ca20300b57fe4a93
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_04_300k.mp4'
+    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 96e19bb907bac2c876eb82f74dbf58d0
+inline_embed_id: 11885844lecture4decompositionabstractionandfunctions94004287
+parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
+short_url: lecture-4-decomposition-abstraction-and-functions
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-4-decomposition-abstraction-and-functions
+title: 'Lecture 4: Decomposition, Abstraction, and Functions'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1300">content</span> <span m="1870">is</span> <span
@@ -2987,61 +3041,7 @@ transcript: >-
   m="2456320">multiple</span> <span m="2456680">times.</span> <span
   m="2458090">All</span> <span m="2458180">right</span> <span
   m="2458900">thanks</span> <span m="2459140">everyone.</span></p>
-embedded_media:
-  - uid: 80c9344b8d19b659f305380bc434476b
-    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MjbuarJ7SE0
-  - uid: e57c28dc4eeec681d686777b8555c4f1
-    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
-    id: MjbuarJ7SE0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-4-decomposition-abstraction-and-functions/MjbuarJ7SE0.srt
-  - uid: 2cd211c4c7f47153bbc413099ae2d2e1
-    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
-    id: MjbuarJ7SE0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-4-decomposition-abstraction-and-functions/MjbuarJ7SE0.pdf
-  - uid: c717e3f0680c6b0e2d06fe82dd5b9c4a
-    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5883ce088263ea2ff482a46dd9d95bdd
-    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 02641541f830c5d60d878fca7ab21ae8
-    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MjbuarJ7SE0
-  - uid: 028f52880e706fd41f2e3ff91edc2a23
-    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MjbuarJ7SE0/default.jpg'
-  - uid: f9b66b75ab46d346ca20300b57fe4a93
-    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: 96e19bb907bac2c876eb82f74dbf58d0
-    parent_uid: 143cd66d44d6ee166bfc8eef90d7af0e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_04_300k.mp4'
+uid: 143cd66d44d6ee166bfc8eef90d7af0e
 type: courses
 layout: video
 ---

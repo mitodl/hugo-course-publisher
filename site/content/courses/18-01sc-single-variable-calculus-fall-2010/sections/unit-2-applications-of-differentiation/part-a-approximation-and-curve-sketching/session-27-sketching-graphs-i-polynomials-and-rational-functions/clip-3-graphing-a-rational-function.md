@@ -1,18 +1,72 @@
 ---
-title: 'Clip 3: Graphing a Rational Function'
-uid: 886021db8e2f9eee60adba70195ba44f
-parent_uid: 9e376e9f57362241223df5e959ea707e
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions/clip-3-graphing-a-rational-function
-short_url: clip-3-graphing-a-rational-function
-inline_embed_id: '18997053clip3:graphingarationalfunction42696680'
 about_this_resource_text: >-
   <p>&raquo;<a target="_blank"
   href="./resolveuid/aa735916c7f7fcc1fa45ec8592c2085a"> Accompanying Notes
   (PDF)</a></p> <p class="scholar_medsm">From Lecture 11 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: twzGBqPeW0M
+    parent_uid: 886021db8e2f9eee60adba70195ba44f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fa5aa6bebcf9f0af52e79f879a5b20c7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/twzGBqPeW0M/default.jpg'
+    parent_uid: 886021db8e2f9eee60adba70195ba44f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 006b973182c0eccd631192ad5e20babf
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec11_300k.mp4'
+    parent_uid: 886021db8e2f9eee60adba70195ba44f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 47060ae13d136bca79202228d10b21cd
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: twzGBqPeW0M
+    parent_uid: 886021db8e2f9eee60adba70195ba44f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9a09d89fbf089ef584dc7cf319f6199b
+  - id: twzGBqPeW0M.srt
+    parent_uid: 886021db8e2f9eee60adba70195ba44f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions/clip-3-graphing-a-rational-function/twzGBqPeW0M.srt
+    title: 3play caption file
+    type: null
+    uid: f5f04c6171004cf55b3af61806e6129f
+  - id: twzGBqPeW0M.pdf
+    parent_uid: 886021db8e2f9eee60adba70195ba44f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions/clip-3-graphing-a-rational-function/twzGBqPeW0M.pdf
+    title: 3play pdf file
+    type: null
+    uid: ce364c79c9795b9dec4c923c6621f433
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 886021db8e2f9eee60adba70195ba44f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b2f1b3ebe68266cf32fab7c7a6363945
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 886021db8e2f9eee60adba70195ba44f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f09ba389fec7d04b742628b8eb300e8b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 886021db8e2f9eee60adba70195ba44f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4be297a938cecfe10bf4d0ce1901d739
+inline_embed_id: '18997053clip3:graphingarationalfunction42696680'
+parent_uid: 9e376e9f57362241223df5e959ea707e
 related_resources_text: ''
+short_url: clip-3-graphing-a-rational-function
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions/clip-3-graphing-a-rational-function
+title: 'Clip 3: Graphing a Rational Function'
 transcript: >-
   <p><span m="0">The</span> <span m="30">following</span> <span
   m="530">content</span> <span m="1270">is</span> <span m="1420">provided</span>
@@ -2547,61 +2601,7 @@ transcript: >-
   m="2978230">do</span> <span m="2978430">a</span> <span m="2978520">few</span>
   <span m="2978720">examples</span> <span m="2979250">of</span> <span
   m="2979330">that next time.</span></p>
-embedded_media:
-  - uid: fa5aa6bebcf9f0af52e79f879a5b20c7
-    parent_uid: 886021db8e2f9eee60adba70195ba44f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: twzGBqPeW0M
-  - uid: 006b973182c0eccd631192ad5e20babf
-    parent_uid: 886021db8e2f9eee60adba70195ba44f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/twzGBqPeW0M/default.jpg'
-  - uid: 47060ae13d136bca79202228d10b21cd
-    parent_uid: 886021db8e2f9eee60adba70195ba44f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec11_300k.mp4'
-  - uid: 9a09d89fbf089ef584dc7cf319f6199b
-    parent_uid: 886021db8e2f9eee60adba70195ba44f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: twzGBqPeW0M
-  - uid: f5f04c6171004cf55b3af61806e6129f
-    parent_uid: 886021db8e2f9eee60adba70195ba44f
-    id: twzGBqPeW0M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions/clip-3-graphing-a-rational-function/twzGBqPeW0M.srt
-  - uid: ce364c79c9795b9dec4c923c6621f433
-    parent_uid: 886021db8e2f9eee60adba70195ba44f
-    id: twzGBqPeW0M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions/clip-3-graphing-a-rational-function/twzGBqPeW0M.pdf
-  - uid: b2f1b3ebe68266cf32fab7c7a6363945
-    parent_uid: 886021db8e2f9eee60adba70195ba44f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f09ba389fec7d04b742628b8eb300e8b
-    parent_uid: 886021db8e2f9eee60adba70195ba44f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4be297a938cecfe10bf4d0ce1901d739
-    parent_uid: 886021db8e2f9eee60adba70195ba44f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 886021db8e2f9eee60adba70195ba44f
 type: courses
 layout: video
 ---

@@ -1,13 +1,72 @@
 ---
-title: 'Set Theory Axioms [Optional]'
-uid: 9caa0aca18e78863f1ec507bfbf67365
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: e7b0113863fd46f64ebf1f6a17479bd2
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 430365eb8784ed128acd02db05b41cc4
+  - id: Video-YouTube-Stream
+    media_location: zcvsyL7GtH4
+    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2119f5377ed25d2cb3e7d10e7de0b2db
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/zcvsyL7GtH4/default.jpg'
+    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 37ad8d5adfa19deaf88301fdfb986370
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: zcvsyL7GtH4
+    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 18d3b270163f189a005d13d6a0856b76
+  - id: zcvsyL7GtH4.srt
+    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/set-theory-axioms-video-optional/set-theory-axioms-optional/zcvsyL7GtH4.srt
+    title: 3play caption file
+    type: null
+    uid: 2466a69c5b67d8c7fb46ee3792452575
+  - id: zcvsyL7GtH4.pdf
+    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/set-theory-axioms-video-optional/set-theory-axioms-optional/zcvsyL7GtH4.pdf
+    title: 3play pdf file
+    type: null
+    uid: c03c1ea3a64a7bd132dfa53de5f63fcb
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ae6dc0205cbb0b91945666599857e7ed
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 44f0ff7d5e4d92f03c6723517468ed28
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_ZF_ipod.mp4'
+    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 17aa642c91af004f6ae0573cb5c19cfc
+inline_embed_id: 16414240settheoryaxiomsoptional38773982
 parent_uid: 7fd2a22681a4a25f35529450789f87f4
+related_resources_text: ''
+short_url: set-theory-axioms-optional
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/set-theory-axioms-video-optional/set-theory-axioms-optional
-short_url: set-theory-axioms-optional
-inline_embed_id: 16414240settheoryaxiomsoptional38773982
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Set Theory Axioms [Optional]'
 transcript: >-
   <p><span m='440'>PROFESSOR: Let's</span> <span m='740'>take</span> <span
   m='960'>a</span> <span m='1010'>quick</span> <span m='1340'>look</span> <span
@@ -649,66 +708,7 @@ transcript: >-
   m='554420'>Foundation</span> <span m='554990'>Axiom</span> <span
   m='555820'>resolves</span> <span m='557160'>the</span> <span
   m='557300'>Russell</span> <span m='557640'>paradox.</span> </p>
-embedded_media:
-  - uid: e7b0113863fd46f64ebf1f6a17479bd2
-    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 430365eb8784ed128acd02db05b41cc4
-    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 2119f5377ed25d2cb3e7d10e7de0b2db
-    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: zcvsyL7GtH4
-  - uid: 37ad8d5adfa19deaf88301fdfb986370
-    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/zcvsyL7GtH4/default.jpg'
-  - uid: 18d3b270163f189a005d13d6a0856b76
-    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: zcvsyL7GtH4
-  - uid: 2466a69c5b67d8c7fb46ee3792452575
-    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
-    id: zcvsyL7GtH4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/set-theory-axioms-video-optional/set-theory-axioms-optional/zcvsyL7GtH4.srt
-  - uid: c03c1ea3a64a7bd132dfa53de5f63fcb
-    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
-    id: zcvsyL7GtH4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/set-theory-axioms-video-optional/set-theory-axioms-optional/zcvsyL7GtH4.pdf
-  - uid: ae6dc0205cbb0b91945666599857e7ed
-    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 44f0ff7d5e4d92f03c6723517468ed28
-    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 17aa642c91af004f6ae0573cb5c19cfc
-    parent_uid: 9caa0aca18e78863f1ec507bfbf67365
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_ZF_ipod.mp4'
+uid: 9caa0aca18e78863f1ec507bfbf67365
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 19: Determinant Formulas and Cofactors'
-uid: a1abd37bdb843609de291dd0ff7465c8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 23LLB9mNJvc
+    parent_uid: a1abd37bdb843609de291dd0ff7465c8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 091f72b12f4a97c61d68c9d4e956ba31
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/23LLB9mNJvc/default.jpg'
+    parent_uid: a1abd37bdb843609de291dd0ff7465c8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0150330651b0638c07eabeb17005803c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: a1abd37bdb843609de291dd0ff7465c8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f5f87e1da18eb96528057249041a320c
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/19.mp4'
+    parent_uid: a1abd37bdb843609de291dd0ff7465c8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c6f6a22ac630bf2f7aae112008de5722
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 23LLB9mNJvc
+    parent_uid: a1abd37bdb843609de291dd0ff7465c8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: acbef074702b92e0ef751ddf3011977a
+  - id: 23LLB9mNJvc.srt
+    parent_uid: a1abd37bdb843609de291dd0ff7465c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/lecture-19-determinant-formulas-and-cofactors/23LLB9mNJvc.srt
+    title: 3play caption file
+    type: null
+    uid: 3186ab763e720406a8e38301bd894790
+  - id: 23LLB9mNJvc.pdf
+    parent_uid: a1abd37bdb843609de291dd0ff7465c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/lecture-19-determinant-formulas-and-cofactors/23LLB9mNJvc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9b2324e23193d05afe3a6f1a555f60f5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a1abd37bdb843609de291dd0ff7465c8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 207f83e344e96089b88126e61aa5130d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a1abd37bdb843609de291dd0ff7465c8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 545eaf379cefe7e09cc2a5f88ef260cc
+inline_embed_id: '34064915lecture19:determinantformulasandcofactors19938777'
 parent_uid: 172571ec14688c38e3a602925af8e7d9
+related_resources_text: ''
+short_url: lecture-19-determinant-formulas-and-cofactors
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/lecture-19-determinant-formulas-and-cofactors
-short_url: lecture-19-determinant-formulas-and-cofactors
-inline_embed_id: '34064915lecture19:determinantformulasandcofactors19938777'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 19: Determinant Formulas and Cofactors'
 transcript: >-
   <p><span m='8150'>OK,</span> <span m='8730'>this</span> <span
   m='9110'>is</span> <span m='10090'>the</span> <span m='10900'>second</span>
@@ -3350,61 +3404,7 @@ transcript: >-
   m='3182360'>determinant.</span> </p><p><span m='3184640'>Thanks.</span> <span
   m='3185520'>See</span> <span m='3186040'>you</span> <span
   m='3186240'>on</span> <span m='3186710'>Wednesday.</span> </p>
-embedded_media:
-  - uid: 091f72b12f4a97c61d68c9d4e956ba31
-    parent_uid: a1abd37bdb843609de291dd0ff7465c8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 23LLB9mNJvc
-  - uid: 0150330651b0638c07eabeb17005803c
-    parent_uid: a1abd37bdb843609de291dd0ff7465c8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/23LLB9mNJvc/default.jpg'
-  - uid: f5f87e1da18eb96528057249041a320c
-    parent_uid: a1abd37bdb843609de291dd0ff7465c8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: c6f6a22ac630bf2f7aae112008de5722
-    parent_uid: a1abd37bdb843609de291dd0ff7465c8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/19.mp4'
-  - uid: acbef074702b92e0ef751ddf3011977a
-    parent_uid: a1abd37bdb843609de291dd0ff7465c8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 23LLB9mNJvc
-  - uid: 3186ab763e720406a8e38301bd894790
-    parent_uid: a1abd37bdb843609de291dd0ff7465c8
-    id: 23LLB9mNJvc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/lecture-19-determinant-formulas-and-cofactors/23LLB9mNJvc.srt
-  - uid: 9b2324e23193d05afe3a6f1a555f60f5
-    parent_uid: a1abd37bdb843609de291dd0ff7465c8
-    id: 23LLB9mNJvc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/lecture-19-determinant-formulas-and-cofactors/23LLB9mNJvc.pdf
-  - uid: 207f83e344e96089b88126e61aa5130d
-    parent_uid: a1abd37bdb843609de291dd0ff7465c8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 545eaf379cefe7e09cc2a5f88ef260cc
-    parent_uid: a1abd37bdb843609de291dd0ff7465c8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a1abd37bdb843609de291dd0ff7465c8
 type: courses
 layout: video
 ---

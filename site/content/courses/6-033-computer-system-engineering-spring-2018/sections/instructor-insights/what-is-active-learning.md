@@ -1,13 +1,61 @@
 ---
-title: What is Active Learning
-uid: e63c00a2e24c93cc522335b0a5f1e647
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: r2_-2KW76ec
+    parent_uid: e63c00a2e24c93cc522335b0a5f1e647
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 707e55cdbff55f916c50888c82e94cdb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/r2_-2KW76ec/default.jpg'
+    parent_uid: e63c00a2e24c93cc522335b0a5f1e647
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8d0afffb8e1fbad135ade56b7b74cd7f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: r2_-2KW76ec
+    parent_uid: e63c00a2e24c93cc522335b0a5f1e647
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 60fcb19be2710eddad5bcd7eb1b3a3cc
+  - id: r2_-2KW76ec.srt
+    parent_uid: e63c00a2e24c93cc522335b0a5f1e647
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/what-is-active-learning/r2_-2KW76ec.srt
+    title: 3play caption file
+    type: null
+    uid: 55774ef750c76ef6be97160d3ab611fb
+  - id: r2_-2KW76ec.pdf
+    parent_uid: e63c00a2e24c93cc522335b0a5f1e647
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/what-is-active-learning/r2_-2KW76ec.pdf
+    title: 3play pdf file
+    type: null
+    uid: 20ca5cb8efd0a97263e8db41c689a0f6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e63c00a2e24c93cc522335b0a5f1e647
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bfde667eb0d56c9a25835c68c8a2c55a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e63c00a2e24c93cc522335b0a5f1e647
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 90a7e27cf366e1d931e6c4bac1446842
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.033S18/MIT6_033S18_DUET_Lecture_300k.mp4'
+    parent_uid: e63c00a2e24c93cc522335b0a5f1e647
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d661b527e3206bf06a182abaa073951f
+inline_embed_id: 87590836whatisactivelearning76086016
 parent_uid: e75a8c08e11786c535031b5e10f0fe19
+related_resources_text: ''
+short_url: what-is-active-learning
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/what-is-active-learning
-short_url: what-is-active-learning
-inline_embed_id: 87590836whatisactivelearning76086016
-about_this_resource_text: ''
-related_resources_text: ''
+title: What is Active Learning
 transcript: >-
   <p><span m="1645">The</span> <span m="1690">following</span> <span
   m="2110">content</span> <span m="2680">is</span> <span
@@ -4623,55 +4671,7 @@ transcript: >-
   m="3139010">off</span> <span m="3139310">to</span> <span
   m="3139490">Jesse</span> <span m="3139940">and</span> <span
   m="3140270">Karen.</span></p>
-embedded_media:
-  - uid: 707e55cdbff55f916c50888c82e94cdb
-    parent_uid: e63c00a2e24c93cc522335b0a5f1e647
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: r2_-2KW76ec
-  - uid: 8d0afffb8e1fbad135ade56b7b74cd7f
-    parent_uid: e63c00a2e24c93cc522335b0a5f1e647
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/r2_-2KW76ec/default.jpg'
-  - uid: 60fcb19be2710eddad5bcd7eb1b3a3cc
-    parent_uid: e63c00a2e24c93cc522335b0a5f1e647
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: r2_-2KW76ec
-  - uid: 55774ef750c76ef6be97160d3ab611fb
-    parent_uid: e63c00a2e24c93cc522335b0a5f1e647
-    id: r2_-2KW76ec.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/what-is-active-learning/r2_-2KW76ec.srt
-  - uid: 20ca5cb8efd0a97263e8db41c689a0f6
-    parent_uid: e63c00a2e24c93cc522335b0a5f1e647
-    id: r2_-2KW76ec.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/what-is-active-learning/r2_-2KW76ec.pdf
-  - uid: bfde667eb0d56c9a25835c68c8a2c55a
-    parent_uid: e63c00a2e24c93cc522335b0a5f1e647
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 90a7e27cf366e1d931e6c4bac1446842
-    parent_uid: e63c00a2e24c93cc522335b0a5f1e647
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d661b527e3206bf06a182abaa073951f
-    parent_uid: e63c00a2e24c93cc522335b0a5f1e647
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.033S18/MIT6_033S18_DUET_Lecture_300k.mp4'
+uid: e63c00a2e24c93cc522335b0a5f1e647
 type: courses
 layout: video
 ---

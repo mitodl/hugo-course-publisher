@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: Solving the Problem'
-uid: 9969df461a30e94797859b83eb2e7ad4
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ayrdDJPAD5M
+    parent_uid: 9969df461a30e94797859b83eb2e7ad4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 56e0c08eb51eeae7ab6c23bbd7a08a12
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: ayrdDJPAD5M
+    parent_uid: 9969df461a30e94797859b83eb2e7ad4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f9a8d06cfb81f4029d8b443b1825f9ed
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/ayrdDJPAD5M/default.jpg'
+    parent_uid: 9969df461a30e94797859b83eb2e7ad4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9743c6905ba75020915194547f90dc97
+  - id: ayrdDJPAD5M.srt
+    parent_uid: 9969df461a30e94797859b83eb2e7ad4
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-3-solving-the-problem-5/video-3-solving-the-problem-6/ayrdDJPAD5M.srt
+    title: 3play caption file
+    type: null
+    uid: 930c114e6903197d3cdc202607c69044
+  - id: ayrdDJPAD5M.pdf
+    parent_uid: 9969df461a30e94797859b83eb2e7ad4
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-3-solving-the-problem-5/video-3-solving-the-problem-6/ayrdDJPAD5M.pdf
+    title: 3play pdf file
+    type: null
+    uid: 695d595d9288066852e2d0dd2ee72337
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9969df461a30e94797859b83eb2e7ad4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4ba1bb8cc5cfec45d785928c98dac7b3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9969df461a30e94797859b83eb2e7ad4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7a4413a8c2fb30db9f8e64dd3070b475
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_9.4.04_300k.mp4
+    parent_uid: 9969df461a30e94797859b83eb2e7ad4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ef4c7db64ca704e17ccbc4ea13d6a70d
+inline_embed_id: 1922289video3solvingtheproblem85993226
 parent_uid: 162e5921904a950780e7596c005168c3
+related_resources_text: ''
+short_url: video-3-solving-the-problem-6
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-3-solving-the-problem-5/video-3-solving-the-problem-6
-short_url: video-3-solving-the-problem-6
-inline_embed_id: 1922289video3solvingtheproblem85993226
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: Solving the Problem'
 transcript: >-
   <p><span m='4720'>Here</span> <span m='5072'>we</span> <span
   m='5425'>are</span> <span m='5778'>in</span> <span
@@ -859,56 +908,7 @@ transcript: >-
   m='918290'>some</span> <span m='918660'>of</span> <span m='919030'>the</span>
   <span m='919400'>numbers</span> <span m='919770'>in</span> <span
   m='920140'>the</span> <span m='920510'>problem.</span> </p>
-embedded_media:
-  - uid: 56e0c08eb51eeae7ab6c23bbd7a08a12
-    parent_uid: 9969df461a30e94797859b83eb2e7ad4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ayrdDJPAD5M
-  - uid: f9a8d06cfb81f4029d8b443b1825f9ed
-    parent_uid: 9969df461a30e94797859b83eb2e7ad4
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ayrdDJPAD5M
-  - uid: 9743c6905ba75020915194547f90dc97
-    parent_uid: 9969df461a30e94797859b83eb2e7ad4
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ayrdDJPAD5M/default.jpg'
-  - uid: 930c114e6903197d3cdc202607c69044
-    parent_uid: 9969df461a30e94797859b83eb2e7ad4
-    id: ayrdDJPAD5M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-3-solving-the-problem-5/video-3-solving-the-problem-6/ayrdDJPAD5M.srt
-  - uid: 695d595d9288066852e2d0dd2ee72337
-    parent_uid: 9969df461a30e94797859b83eb2e7ad4
-    id: ayrdDJPAD5M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-3-solving-the-problem-5/video-3-solving-the-problem-6/ayrdDJPAD5M.pdf
-  - uid: 4ba1bb8cc5cfec45d785928c98dac7b3
-    parent_uid: 9969df461a30e94797859b83eb2e7ad4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7a4413a8c2fb30db9f8e64dd3070b475
-    parent_uid: 9969df461a30e94797859b83eb2e7ad4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ef4c7db64ca704e17ccbc4ea13d6a70d
-    parent_uid: 9969df461a30e94797859b83eb2e7ad4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_9.4.04_300k.mp4
+uid: 9969df461a30e94797859b83eb2e7ad4
 type: courses
 layout: video
 ---

@@ -1,13 +1,62 @@
 ---
-title: 'Video 2: Building the Dataset'
-uid: a366c4f34d869a7669ccc095cd8ed1ab
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: iq7cPtJzgZM
+    parent_uid: a366c4f34d869a7669ccc095cd8ed1ab
+    title: Video-YouTube-Stream
+    type: Video
+    uid: eeaf48c68ad76893bedf59080a017c92
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: iq7cPtJzgZM
+    parent_uid: a366c4f34d869a7669ccc095cd8ed1ab
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7d7952120e207e387c0917afece49bc0
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.2.02_300k.mp4
+    parent_uid: a366c4f34d869a7669ccc095cd8ed1ab
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6da68a50f073449f46136421d9e37e6f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/iq7cPtJzgZM/default.jpg'
+    parent_uid: a366c4f34d869a7669ccc095cd8ed1ab
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ce7dadb0875e2ed7ff888fde79c6fe2e
+  - id: iq7cPtJzgZM.srt
+    parent_uid: a366c4f34d869a7669ccc095cd8ed1ab
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-2-building-the-dataset/video-2-building-the-dataset-0/iq7cPtJzgZM.srt
+    title: 3play caption file
+    type: null
+    uid: 1175063998d59b72db9190726ac884f2
+  - id: iq7cPtJzgZM.pdf
+    parent_uid: a366c4f34d869a7669ccc095cd8ed1ab
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-2-building-the-dataset/video-2-building-the-dataset-0/iq7cPtJzgZM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 36e3f254248f8f1efd3c8c9653f42527
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a366c4f34d869a7669ccc095cd8ed1ab
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2ffd6f83141f3610fd216aef430aa1fe
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a366c4f34d869a7669ccc095cd8ed1ab
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 121c9dd797bef0fda6cbd507efbc28bf
+inline_embed_id: 49990455video2buildingthedataset46085751
 parent_uid: a92dcb88eddd40ad72c0d5bc2288c90e
+related_resources_text: ''
+short_url: video-2-building-the-dataset-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-2-building-the-dataset/video-2-building-the-dataset-0
-short_url: video-2-building-the-dataset-0
-inline_embed_id: 49990455video2buildingthedataset46085751
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: Building the Dataset'
 transcript: >-
   <p><span m='4810'>So</span> <span m='5363'>let</span> <span m='5917'>us</span>
   <span m='6471'>explain</span> <span m='7025'>what</span> <span
@@ -196,56 +245,7 @@ transcript: >-
   m='217280'>In</span> <span m='217810'>our</span> <span m='218340'>case,</span>
   <span m='218870'>0</span> <span m='219400'>or</span> <span
   m='219930'>1.</span> </p>
-embedded_media:
-  - uid: eeaf48c68ad76893bedf59080a017c92
-    parent_uid: a366c4f34d869a7669ccc095cd8ed1ab
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: iq7cPtJzgZM
-  - uid: 7d7952120e207e387c0917afece49bc0
-    parent_uid: a366c4f34d869a7669ccc095cd8ed1ab
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: iq7cPtJzgZM
-  - uid: 6da68a50f073449f46136421d9e37e6f
-    parent_uid: a366c4f34d869a7669ccc095cd8ed1ab
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.2.02_300k.mp4
-  - uid: ce7dadb0875e2ed7ff888fde79c6fe2e
-    parent_uid: a366c4f34d869a7669ccc095cd8ed1ab
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/iq7cPtJzgZM/default.jpg'
-  - uid: 1175063998d59b72db9190726ac884f2
-    parent_uid: a366c4f34d869a7669ccc095cd8ed1ab
-    id: iq7cPtJzgZM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-2-building-the-dataset/video-2-building-the-dataset-0/iq7cPtJzgZM.srt
-  - uid: 36e3f254248f8f1efd3c8c9653f42527
-    parent_uid: a366c4f34d869a7669ccc095cd8ed1ab
-    id: iq7cPtJzgZM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-2-building-the-dataset/video-2-building-the-dataset-0/iq7cPtJzgZM.pdf
-  - uid: 2ffd6f83141f3610fd216aef430aa1fe
-    parent_uid: a366c4f34d869a7669ccc095cd8ed1ab
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 121c9dd797bef0fda6cbd507efbc28bf
-    parent_uid: a366c4f34d869a7669ccc095cd8ed1ab
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a366c4f34d869a7669ccc095cd8ed1ab
 type: courses
 layout: video
 ---

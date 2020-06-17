@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 18: Properties of Determinants'
-uid: 3b1713a864fd0a8e1f0a91771d82c7dc
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: srxexLishgY
+    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 66c1363c6d22d4ed6fa9428fe1896bb1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/srxexLishgY/default.jpg'
+    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 82d1dacf3c4f5d5ca1111060550a00a5
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7905b262129e9b3e813310cc0fd2fd63
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/18.mp4'
+    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d536719124ea04ad2900c57c04779d67
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: srxexLishgY
+    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c7e099e1a0e9998fe2771efa5124394e
+  - id: srxexLishgY.srt
+    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-18-properties-of-determinants/srxexLishgY.srt
+    title: 3play caption file
+    type: null
+    uid: 4fe170abc8ab58101be7f0344375aae6
+  - id: srxexLishgY.pdf
+    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-18-properties-of-determinants/srxexLishgY.pdf
+    title: 3play pdf file
+    type: null
+    uid: a0868deb1ff458a02e5d65259ef0f4c4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 07647ddb19e1c4830f9da29e9ce4899f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 01df74c4834b32edc92283068c70d384
+inline_embed_id: 24039608lecture18propertiesofdeterminants29215561
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: lecture-18-properties-of-determinants
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-18-properties-of-determinants
-short_url: lecture-18-properties-of-determinants
-inline_embed_id: 24039608lecture18propertiesofdeterminants29215561
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 18: Properties of Determinants'
 transcript: >-
   <p><span m="7730">OK,</span> <span m="8210">this</span> <span
   m="8620">lecture</span> <span m="9210">is</span> <span m="10160">like</span>
@@ -2662,61 +2716,7 @@ transcript: >-
   m="2927710">onto</span> <span m="2927720">the</span> <span
   m="2927730">web</span> <span m="2927740">this</span> <span
   m="2927750">afternoon.</span> <span m="2927890">Thanks.</span></p>
-embedded_media:
-  - uid: 66c1363c6d22d4ed6fa9428fe1896bb1
-    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: srxexLishgY
-  - uid: 82d1dacf3c4f5d5ca1111060550a00a5
-    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/srxexLishgY/default.jpg'
-  - uid: 7905b262129e9b3e813310cc0fd2fd63
-    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: d536719124ea04ad2900c57c04779d67
-    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/18.mp4'
-  - uid: c7e099e1a0e9998fe2771efa5124394e
-    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: srxexLishgY
-  - uid: 4fe170abc8ab58101be7f0344375aae6
-    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
-    id: srxexLishgY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-18-properties-of-determinants/srxexLishgY.srt
-  - uid: a0868deb1ff458a02e5d65259ef0f4c4
-    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
-    id: srxexLishgY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-18-properties-of-determinants/srxexLishgY.pdf
-  - uid: 07647ddb19e1c4830f9da29e9ce4899f
-    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 01df74c4834b32edc92283068c70d384
-    parent_uid: 3b1713a864fd0a8e1f0a91771d82c7dc
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3b1713a864fd0a8e1f0a91771d82c7dc
 type: courses
 layout: video
 ---

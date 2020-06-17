@@ -1,13 +1,73 @@
 ---
-title: 'Random Variables: Uniform &amp; Binomial'
-uid: 985788317dbed7e7520f8170d2a61c95
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 985788317dbed7e7520f8170d2a61c95
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: b53103993e82c6797697a3c58db2f5fe
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 985788317dbed7e7520f8170d2a61c95
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b1ac775caaf6834d97f4ab7901580157
+  - id: Video-YouTube-Stream
+    media_location: L2yOSFsMvnc
+    parent_uid: 985788317dbed7e7520f8170d2a61c95
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0a6096f491f4085a6dcb4a354659afe7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/L2yOSFsMvnc/default.jpg'
+    parent_uid: 985788317dbed7e7520f8170d2a61c95
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 43bb1d8643e88a2dcd32d3177a8ec8b6
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: L2yOSFsMvnc
+    parent_uid: 985788317dbed7e7520f8170d2a61c95
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 40bd2ee289841ad745370f838dea7d78
+  - id: L2yOSFsMvnc.srt
+    parent_uid: 985788317dbed7e7520f8170d2a61c95
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3/vertical-c596d4103fc3/random-variables-uniform-binomial/L2yOSFsMvnc.srt
+    title: 3play caption file
+    type: null
+    uid: ad95bf12c7e53f4ddcbe5744b2cae454
+  - id: L2yOSFsMvnc.pdf
+    parent_uid: 985788317dbed7e7520f8170d2a61c95
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3/vertical-c596d4103fc3/random-variables-uniform-binomial/L2yOSFsMvnc.pdf
+    title: 3play pdf file
+    type: null
+    uid: c2c66a381ae520fc77fa7f44a462a059
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 985788317dbed7e7520f8170d2a61c95
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 86e769450799e875d974fe70147d03d6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 985788317dbed7e7520f8170d2a61c95
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2be441a29651987ff2686287eb1537b0
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_ranvarbinom_video_ipod.mp4
+    parent_uid: 985788317dbed7e7520f8170d2a61c95
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 081d8c3a107e18f7ffffd875fc370831
+inline_embed_id: 40993795randomvariablesuniformampbinomial42167793
 parent_uid: 1fb607b45df4521a0d3b7a236157f428
+related_resources_text: ''
+short_url: random-variables-uniform-binomial
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3/vertical-c596d4103fc3/random-variables-uniform-binomial
-short_url: random-variables-uniform-binomial
-inline_embed_id: 40993795randomvariablesuniformampbinomial42167793
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Random Variables: Uniform &amp; Binomial'
 transcript: >-
   <p><span m='840'>PROFESSOR: Certain</span> <span m='1140'>kinds</span> <span
   m='1460'>of</span> <span m='1580'>random</span> <span
@@ -807,67 +867,7 @@ transcript: >-
   m='690030'>the</span> <span m='690130'>sample</span> <span
   m='690500'>space</span> <span m='691260'>to</span> <span
   m='691490'>values.</span> </p>
-embedded_media:
-  - uid: b53103993e82c6797697a3c58db2f5fe
-    parent_uid: 985788317dbed7e7520f8170d2a61c95
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: b1ac775caaf6834d97f4ab7901580157
-    parent_uid: 985788317dbed7e7520f8170d2a61c95
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 0a6096f491f4085a6dcb4a354659afe7
-    parent_uid: 985788317dbed7e7520f8170d2a61c95
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: L2yOSFsMvnc
-  - uid: 43bb1d8643e88a2dcd32d3177a8ec8b6
-    parent_uid: 985788317dbed7e7520f8170d2a61c95
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/L2yOSFsMvnc/default.jpg'
-  - uid: 40bd2ee289841ad745370f838dea7d78
-    parent_uid: 985788317dbed7e7520f8170d2a61c95
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: L2yOSFsMvnc
-  - uid: ad95bf12c7e53f4ddcbe5744b2cae454
-    parent_uid: 985788317dbed7e7520f8170d2a61c95
-    id: L2yOSFsMvnc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3/vertical-c596d4103fc3/random-variables-uniform-binomial/L2yOSFsMvnc.srt
-  - uid: c2c66a381ae520fc77fa7f44a462a059
-    parent_uid: 985788317dbed7e7520f8170d2a61c95
-    id: L2yOSFsMvnc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3/vertical-c596d4103fc3/random-variables-uniform-binomial/L2yOSFsMvnc.pdf
-  - uid: 86e769450799e875d974fe70147d03d6
-    parent_uid: 985788317dbed7e7520f8170d2a61c95
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2be441a29651987ff2686287eb1537b0
-    parent_uid: 985788317dbed7e7520f8170d2a61c95
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 081d8c3a107e18f7ffffd875fc370831
-    parent_uid: 985788317dbed7e7520f8170d2a61c95
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_ranvarbinom_video_ipod.mp4
+uid: 985788317dbed7e7520f8170d2a61c95
 type: courses
 layout: video
 ---

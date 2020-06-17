@@ -1,13 +1,62 @@
 ---
-title: 'Video 6: Bag of Words in R'
-uid: a9f646f5ca977eeaa267504c5cbef773
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: JcAB1JeDs8Y
+    parent_uid: a9f646f5ca977eeaa267504c5cbef773
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 670d3ef731ef6393654a280b20f62640
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: JcAB1JeDs8Y
+    parent_uid: a9f646f5ca977eeaa267504c5cbef773
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0e5538db804f76ccb0c7cad37fe88d78
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/JcAB1JeDs8Y/default.jpg'
+    parent_uid: a9f646f5ca977eeaa267504c5cbef773
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d200ac26f6fc812947786864db2d248e
+  - id: JcAB1JeDs8Y.srt
+    parent_uid: a9f646f5ca977eeaa267504c5cbef773
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-6-bag-of-words-in-r/video-6-bag-of-words-in-r-0/JcAB1JeDs8Y.srt
+    title: 3play caption file
+    type: null
+    uid: e3fd203942fbf532a1c70fb99eb51a41
+  - id: JcAB1JeDs8Y.pdf
+    parent_uid: a9f646f5ca977eeaa267504c5cbef773
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-6-bag-of-words-in-r/video-6-bag-of-words-in-r-0/JcAB1JeDs8Y.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1e725c0b608ae5dc42b33b497a546a98
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a9f646f5ca977eeaa267504c5cbef773
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6628f504dedfb0ac6488914ba133f9e1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a9f646f5ca977eeaa267504c5cbef773
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 37607fdd785e5f073ca75e711cf4f9e8
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.2.10_300k.mp4
+    parent_uid: a9f646f5ca977eeaa267504c5cbef773
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a598e76bfb7a82caa4a96a45d629d62c
+inline_embed_id: 29274325video6bagofwordsinr25075963
 parent_uid: b8c9ec4867a6977eb31db490c342ef38
+related_resources_text: ''
+short_url: video-6-bag-of-words-in-r-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-6-bag-of-words-in-r/video-6-bag-of-words-in-r-0
-short_url: video-6-bag-of-words-in-r-0
-inline_embed_id: 29274325video6bagofwordsinr25075963
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 6: Bag of Words in R'
 transcript: >-
   <p><span m='4490'>In</span> <span m='4903'>the</span> <span
   m='5317'>previous</span> <span m='5731'>video,</span> <span m='6145'>we</span>
@@ -361,56 +410,7 @@ transcript: >-
   <span m='402914'>logistic</span> <span m='403292'>regression</span> <span
   m='403670'>to</span> <span m='404232'>predict</span> <span
   m='404795'>negative</span> <span m='405357'>sentiment.</span> </p>
-embedded_media:
-  - uid: 670d3ef731ef6393654a280b20f62640
-    parent_uid: a9f646f5ca977eeaa267504c5cbef773
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: JcAB1JeDs8Y
-  - uid: 0e5538db804f76ccb0c7cad37fe88d78
-    parent_uid: a9f646f5ca977eeaa267504c5cbef773
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: JcAB1JeDs8Y
-  - uid: d200ac26f6fc812947786864db2d248e
-    parent_uid: a9f646f5ca977eeaa267504c5cbef773
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/JcAB1JeDs8Y/default.jpg'
-  - uid: e3fd203942fbf532a1c70fb99eb51a41
-    parent_uid: a9f646f5ca977eeaa267504c5cbef773
-    id: JcAB1JeDs8Y.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-6-bag-of-words-in-r/video-6-bag-of-words-in-r-0/JcAB1JeDs8Y.srt
-  - uid: 1e725c0b608ae5dc42b33b497a546a98
-    parent_uid: a9f646f5ca977eeaa267504c5cbef773
-    id: JcAB1JeDs8Y.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-6-bag-of-words-in-r/video-6-bag-of-words-in-r-0/JcAB1JeDs8Y.pdf
-  - uid: 6628f504dedfb0ac6488914ba133f9e1
-    parent_uid: a9f646f5ca977eeaa267504c5cbef773
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 37607fdd785e5f073ca75e711cf4f9e8
-    parent_uid: a9f646f5ca977eeaa267504c5cbef773
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a598e76bfb7a82caa4a96a45d629d62c
-    parent_uid: a9f646f5ca977eeaa267504c5cbef773
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.2.10_300k.mp4
+uid: a9f646f5ca977eeaa267504c5cbef773
 type: courses
 layout: video
 ---

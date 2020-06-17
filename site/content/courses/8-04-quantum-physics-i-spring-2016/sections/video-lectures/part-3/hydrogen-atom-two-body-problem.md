@@ -1,13 +1,67 @@
 ---
-title: Hydrogen atom two-body problem
-uid: 6be39c12a734abb6ecab5351b4d03c78
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 7q32Wnm4dEw
+    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
+    title: Video-YouTube-Stream
+    type: Video
+    uid: af136404d4ed83d9febb2d4150df383e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7q32Wnm4dEw/default.jpg'
+    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 77c545e40b238b8472b810b9077e6e1b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7q32Wnm4dEw
+    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 375b71a2ae56fe0e96c7c144cb05af65
+  - id: 7q32Wnm4dEw.srt
+    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/hydrogen-atom-two-body-problem/7q32Wnm4dEw.srt
+    title: 3play caption file
+    type: null
+    uid: 404575d8cee7a5cfd9e2bb693008d3d2
+  - id: 7q32Wnm4dEw.pdf
+    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/hydrogen-atom-two-body-problem/7q32Wnm4dEw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 250fae7ec67aeb8800454d50f4135318
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ba1ef126533e151dd1997fa7d122f188
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fc5ae5114898b798404bd906715851f0
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 60243f5ab9b3d5351c607c6ec38b949a
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec21_s4_300k.mp4'
+    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 89436efd7a8d273df5a8dc90c8ab26e6
+inline_embed_id: 78951693hydrogenatomtwobodyproblem44333420
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: hydrogen-atom-two-body-problem
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/hydrogen-atom-two-body-problem
-short_url: hydrogen-atom-two-body-problem
-inline_embed_id: 78951693hydrogenatomtwobodyproblem44333420
-about_this_resource_text: ''
-related_resources_text: ''
+title: Hydrogen atom two-body problem
 transcript: >-
   <p><span m='446'>BARTON ZWIEBACH:</span> <span m='669'>Hydrogen</span> <span
   m='1338'>atom</span> <span m='2230'>is the beginning</span> <span
@@ -1065,61 +1119,7 @@ transcript: >-
   m='1499280'>do</span> <span m='1499510'>the</span> <span
   m='1499810'>punchline</span> <span m='1500540'>next</span> <span
   m='1500840'>time.</span> </p>
-embedded_media:
-  - uid: af136404d4ed83d9febb2d4150df383e
-    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 7q32Wnm4dEw
-  - uid: 77c545e40b238b8472b810b9077e6e1b
-    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7q32Wnm4dEw/default.jpg'
-  - uid: 375b71a2ae56fe0e96c7c144cb05af65
-    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7q32Wnm4dEw
-  - uid: 404575d8cee7a5cfd9e2bb693008d3d2
-    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
-    id: 7q32Wnm4dEw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/hydrogen-atom-two-body-problem/7q32Wnm4dEw.srt
-  - uid: 250fae7ec67aeb8800454d50f4135318
-    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
-    id: 7q32Wnm4dEw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/hydrogen-atom-two-body-problem/7q32Wnm4dEw.pdf
-  - uid: ba1ef126533e151dd1997fa7d122f188
-    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fc5ae5114898b798404bd906715851f0
-    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 60243f5ab9b3d5351c607c6ec38b949a
-    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 89436efd7a8d273df5a8dc90c8ab26e6
-    parent_uid: 6be39c12a734abb6ecab5351b4d03c78
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec21_s4_300k.mp4'
+uid: 6be39c12a734abb6ecab5351b4d03c78
 type: courses
 layout: video
 ---

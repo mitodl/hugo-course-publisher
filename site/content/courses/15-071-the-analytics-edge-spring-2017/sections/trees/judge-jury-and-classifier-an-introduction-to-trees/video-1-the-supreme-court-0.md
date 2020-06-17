@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: The Supreme Court'
-uid: a191f0227c32a83498979461dc407176
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: CLaRAzHxJGo
+    parent_uid: a191f0227c32a83498979461dc407176
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2a6fea5bb39ce72c8f2a62352cdfd044
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: CLaRAzHxJGo
+    parent_uid: a191f0227c32a83498979461dc407176
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c3e517000adfe4bd78edd6509e8d47fa
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.2.01_300k.mp4
+    parent_uid: a191f0227c32a83498979461dc407176
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 95aa6716279cc0fcf74de4bcaa22ed47
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CLaRAzHxJGo/default.jpg'
+    parent_uid: a191f0227c32a83498979461dc407176
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 27c7f3c20d04dc8e79862a64a3e8b4e8
+  - id: CLaRAzHxJGo.srt
+    parent_uid: a191f0227c32a83498979461dc407176
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-1-the-supreme-court-0/CLaRAzHxJGo.srt
+    title: 3play caption file
+    type: null
+    uid: 0f7db0fd8b39e68e9df1c1dfbf96d0aa
+  - id: CLaRAzHxJGo.pdf
+    parent_uid: a191f0227c32a83498979461dc407176
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-1-the-supreme-court-0/CLaRAzHxJGo.pdf
+    title: 3play pdf file
+    type: null
+    uid: a499c1fc9ea851f637f8d7e2b674bc60
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a191f0227c32a83498979461dc407176
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5b8feaf7c0317574a0d9383c5951e438
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a191f0227c32a83498979461dc407176
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 41a7d898f5eae63c9349887c043e5bfa
+inline_embed_id: 66108291video1thesupremecourt1505165
 parent_uid: 11f9b44dc2960689414b8c313764a18d
+related_resources_text: ''
+short_url: video-1-the-supreme-court-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-1-the-supreme-court-0
-short_url: video-1-the-supreme-court-0
-inline_embed_id: 66108291video1thesupremecourt1505165
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: The Supreme Court'
 transcript: >-
   <p><span m='9490'>In</span> <span m='9812'>this</span> <span
   m='10135'>lecture,</span> <span m='10458'>we'll</span> <span
@@ -372,56 +421,7 @@ transcript: >-
   m='338013'>the</span> <span m='338486'>outcome</span> <span
   m='338960'>of</span> <span m='339433'>Supreme</span> <span
   m='339906'>Court</span> <span m='340380'>cases.</span> </p>
-embedded_media:
-  - uid: 2a6fea5bb39ce72c8f2a62352cdfd044
-    parent_uid: a191f0227c32a83498979461dc407176
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CLaRAzHxJGo
-  - uid: c3e517000adfe4bd78edd6509e8d47fa
-    parent_uid: a191f0227c32a83498979461dc407176
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CLaRAzHxJGo
-  - uid: 95aa6716279cc0fcf74de4bcaa22ed47
-    parent_uid: a191f0227c32a83498979461dc407176
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.2.01_300k.mp4
-  - uid: 27c7f3c20d04dc8e79862a64a3e8b4e8
-    parent_uid: a191f0227c32a83498979461dc407176
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CLaRAzHxJGo/default.jpg'
-  - uid: 0f7db0fd8b39e68e9df1c1dfbf96d0aa
-    parent_uid: a191f0227c32a83498979461dc407176
-    id: CLaRAzHxJGo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-1-the-supreme-court-0/CLaRAzHxJGo.srt
-  - uid: a499c1fc9ea851f637f8d7e2b674bc60
-    parent_uid: a191f0227c32a83498979461dc407176
-    id: CLaRAzHxJGo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-1-the-supreme-court-0/CLaRAzHxJGo.pdf
-  - uid: 5b8feaf7c0317574a0d9383c5951e438
-    parent_uid: a191f0227c32a83498979461dc407176
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 41a7d898f5eae63c9349887c043e5bfa
-    parent_uid: a191f0227c32a83498979461dc407176
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a191f0227c32a83498979461dc407176
 type: courses
 layout: video
 ---

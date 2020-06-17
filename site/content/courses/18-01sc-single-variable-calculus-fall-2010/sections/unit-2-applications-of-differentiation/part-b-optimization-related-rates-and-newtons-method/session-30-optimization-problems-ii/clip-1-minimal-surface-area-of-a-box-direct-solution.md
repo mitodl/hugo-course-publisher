@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Minimal Surface Area of a Box: Direct Solution'
-uid: b548a56b38c58b31e5a3436f177c1ab9
-parent_uid: 1adc3400c6b37f82e7f65de33469e2b6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-30-optimization-problems-ii/clip-1-minimal-surface-area-of-a-box-direct-solution
-short_url: clip-1-minimal-surface-area-of-a-box-direct-solution
-inline_embed_id: '23931786clip1:minimalsurfaceareaofabox:directsolution67162824'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/cfe6429026ae441c61a097904ccda0cb" title="Open
   in a new window." target="_blank">Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 12 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: YN7k_bXXggY
+    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3d2ac6c8d682cf6675e87d4a1fa571ef
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/YN7k_bXXggY/default.jpg'
+    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a43931d851f7ee89a12c060f8d573138
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec12_300k.mp4'
+    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6852238ac4504e35700d1a87472172eb
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: YN7k_bXXggY
+    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ce1a948602ebdedbc58825576d0af670
+  - id: YN7k_bXXggY.srt
+    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-30-optimization-problems-ii/clip-1-minimal-surface-area-of-a-box-direct-solution/YN7k_bXXggY.srt
+    title: 3play caption file
+    type: null
+    uid: 2da3312603719362e58151cd310dc8c7
+  - id: YN7k_bXXggY.pdf
+    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-30-optimization-problems-ii/clip-1-minimal-surface-area-of-a-box-direct-solution/YN7k_bXXggY.pdf
+    title: 3play pdf file
+    type: null
+    uid: b675e5962a416c9614fec38ac7a0db92
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 88f469f9006f4b6ca4430e877870393f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fc6996dd62adf9cf69af04e491f959ab
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 70df89e9205b3c1e1ba833fd6d81f3a9
+inline_embed_id: '23931786clip1:minimalsurfaceareaofabox:directsolution67162824'
+parent_uid: 1adc3400c6b37f82e7f65de33469e2b6
 related_resources_text: ''
+short_url: clip-1-minimal-surface-area-of-a-box-direct-solution
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-30-optimization-problems-ii/clip-1-minimal-surface-area-of-a-box-direct-solution
+title: 'Clip 1: Minimal Surface Area of a Box: Direct Solution'
 transcript: >-
   <p><span m="0">The</span> <span m="1270">following</span> <span
   m="1420">content</span> <span m="1980">is</span> <span m="2720">provided
@@ -2573,61 +2627,7 @@ transcript: >-
   m="2991270">together</span> <span m="2991730">and</span> <span
   m="2992090">compute</span> <span m="2993000">dx</span> <span
   m="2993150">/</span> <span m="2993760">dt.</span></p>
-embedded_media:
-  - uid: 3d2ac6c8d682cf6675e87d4a1fa571ef
-    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: YN7k_bXXggY
-  - uid: a43931d851f7ee89a12c060f8d573138
-    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/YN7k_bXXggY/default.jpg'
-  - uid: 6852238ac4504e35700d1a87472172eb
-    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec12_300k.mp4'
-  - uid: ce1a948602ebdedbc58825576d0af670
-    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: YN7k_bXXggY
-  - uid: 2da3312603719362e58151cd310dc8c7
-    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
-    id: YN7k_bXXggY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-30-optimization-problems-ii/clip-1-minimal-surface-area-of-a-box-direct-solution/YN7k_bXXggY.srt
-  - uid: b675e5962a416c9614fec38ac7a0db92
-    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
-    id: YN7k_bXXggY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-30-optimization-problems-ii/clip-1-minimal-surface-area-of-a-box-direct-solution/YN7k_bXXggY.pdf
-  - uid: 88f469f9006f4b6ca4430e877870393f
-    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fc6996dd62adf9cf69af04e491f959ab
-    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 70df89e9205b3c1e1ba833fd6d81f3a9
-    parent_uid: b548a56b38c58b31e5a3436f177c1ab9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: b548a56b38c58b31e5a3436f177c1ab9
 type: courses
 layout: video
 ---

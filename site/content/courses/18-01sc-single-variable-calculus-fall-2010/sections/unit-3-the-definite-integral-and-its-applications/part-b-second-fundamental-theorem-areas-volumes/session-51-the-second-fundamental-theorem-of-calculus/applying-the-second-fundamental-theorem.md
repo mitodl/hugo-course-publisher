@@ -1,13 +1,68 @@
 ---
-title: Applying the Second Fundamental Theorem
-uid: 9667e6c935fc2d3554c5988f8d8a656f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TQTDkpZP02A
+    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a9617335d98caa2772b7b9eaaa77acf7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TQTDkpZP02A/default.jpg'
+    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 38e7b5984cb7f50fe81dbb7645214243
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: TQTDkpZP02A
+    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d9a495f8a6490883ee01b733bbd7089a
+  - id: TQTDkpZP02A.srt
+    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus/applying-the-second-fundamental-theorem/TQTDkpZP02A.srt
+    title: 3play caption file
+    type: null
+    uid: 14abd4a64e9733bfd7705d3903eb9017
+  - id: TQTDkpZP02A.pdf
+    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus/applying-the-second-fundamental-theorem/TQTDkpZP02A.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6127905cce46c4269eb87a7cc2e3933a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c45348c6ebf7298eae32dc23a024e4a4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 77986598e6cad82a5606523d39ebb5f9
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_40_300k.mp4'
+    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ce6599283bc76ed70198c2a1df32c7c6
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/applying-second-fundamental/id414308064?i=90319637
+    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f133d1a99a30470abc319ff77976efbf
+inline_embed_id: 58592223applyingthesecondfundamentaltheorem26459504
 parent_uid: 9b4c6b77599861b820e8c804596b8c24
+related_resources_text: ''
+short_url: applying-the-second-fundamental-theorem
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus/applying-the-second-fundamental-theorem
-short_url: applying-the-second-fundamental-theorem
-inline_embed_id: 58592223applyingthesecondfundamentaltheorem26459504
-about_this_resource_text: ''
-related_resources_text: ''
+title: Applying the Second Fundamental Theorem
 transcript: >-
   <p><span m='7620'>PROFESSOR: Welcome</span> <span m='8020'>back</span> <span
   m='8210'>to</span> <span m='8300'>recitation.</span> <span m='9570'>In</span>
@@ -273,62 +328,7 @@ transcript: >-
   m='253290'>So</span> <span m='253440'>I</span> <span m='253510'>think</span>
   <span m='253680'>I'll</span> <span m='253780'>stop</span> <span
   m='253990'>there.</span> </p>
-embedded_media:
-  - uid: a9617335d98caa2772b7b9eaaa77acf7
-    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TQTDkpZP02A
-  - uid: 38e7b5984cb7f50fe81dbb7645214243
-    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TQTDkpZP02A/default.jpg'
-  - uid: d9a495f8a6490883ee01b733bbd7089a
-    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TQTDkpZP02A
-  - uid: 14abd4a64e9733bfd7705d3903eb9017
-    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
-    id: TQTDkpZP02A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus/applying-the-second-fundamental-theorem/TQTDkpZP02A.srt
-  - uid: 6127905cce46c4269eb87a7cc2e3933a
-    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
-    id: TQTDkpZP02A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus/applying-the-second-fundamental-theorem/TQTDkpZP02A.pdf
-  - uid: c45348c6ebf7298eae32dc23a024e4a4
-    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 77986598e6cad82a5606523d39ebb5f9
-    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ce6599283bc76ed70198c2a1df32c7c6
-    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_40_300k.mp4'
-  - uid: f133d1a99a30470abc319ff77976efbf
-    parent_uid: 9667e6c935fc2d3554c5988f8d8a656f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/applying-second-fundamental/id414308064?i=90319637
+uid: 9667e6c935fc2d3554c5988f8d8a656f
 type: courses
 layout: video
 ---

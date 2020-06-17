@@ -1,17 +1,71 @@
 ---
-title: Robustness and Bacterial Chemotaxis
-uid: 54f8900e6178c7df4b62e01b7c810f9c
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/robustness-and-bacterial-chemotaxis
-short_url: robustness-and-bacterial-chemotaxis
-inline_embed_id: 83192004robustnessandbacterialchemotaxis87555935
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Jeff Gore continues
   his discussion of bacterial chemotaxis, or how bacteria find food. The
   principle is a biased random walk of runs and tumbles, and is shown to display
   perfect adaptation.</p> <p><strong>Instructor:</strong> Prof. Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: cT855rpX8bc
+    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a4b187d0bdcefb0c2a87ea8c86fb2c86
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/cT855rpX8bc/default.jpg'
+    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ae38abb284e894dd96c1f0497d1dc8fa
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 215881d9fc03bbe59a0ab6db87d36a69
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec12_300k.mp4'
+    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5228a9a751beba68745ecaa6ef9cc819
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: cT855rpX8bc
+    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5fa8c800b737b46aa0fe58fa9b124ed2
+  - id: cT855rpX8bc.srt
+    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/robustness-and-bacterial-chemotaxis/cT855rpX8bc.srt
+    title: 3play caption file
+    type: null
+    uid: 8b8a5a638bb7443f633f6fa6580eaae0
+  - id: cT855rpX8bc.pdf
+    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/robustness-and-bacterial-chemotaxis/cT855rpX8bc.pdf
+    title: 3play pdf file
+    type: null
+    uid: e1caf0d5f91fe859a8f98f7aed7551f2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0c142db5143bd3b835abcf3157907ea8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 89d6f7126371d0ea56ce63daddbcfd83
+inline_embed_id: 83192004robustnessandbacterialchemotaxis87555935
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: robustness-and-bacterial-chemotaxis
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/robustness-and-bacterial-chemotaxis
+title: Robustness and Bacterial Chemotaxis
 transcript: >-
   <p><span m="70">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4708,61 +4762,7 @@ transcript: >-
   m="4718780">I'll</span> <span m="4718950">see</span> <span
   m="4719100">you</span> <span m="4719150">guys</span> <span m="4719450">on
   Tuesday.</span></p>
-embedded_media:
-  - uid: a4b187d0bdcefb0c2a87ea8c86fb2c86
-    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: cT855rpX8bc
-  - uid: ae38abb284e894dd96c1f0497d1dc8fa
-    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/cT855rpX8bc/default.jpg'
-  - uid: 215881d9fc03bbe59a0ab6db87d36a69
-    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: 5228a9a751beba68745ecaa6ef9cc819
-    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec12_300k.mp4'
-  - uid: 5fa8c800b737b46aa0fe58fa9b124ed2
-    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: cT855rpX8bc
-  - uid: 8b8a5a638bb7443f633f6fa6580eaae0
-    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
-    id: cT855rpX8bc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/robustness-and-bacterial-chemotaxis/cT855rpX8bc.srt
-  - uid: e1caf0d5f91fe859a8f98f7aed7551f2
-    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
-    id: cT855rpX8bc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/robustness-and-bacterial-chemotaxis/cT855rpX8bc.pdf
-  - uid: 0c142db5143bd3b835abcf3157907ea8
-    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 89d6f7126371d0ea56ce63daddbcfd83
-    parent_uid: 54f8900e6178c7df4b62e01b7c810f9c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 54f8900e6178c7df4b62e01b7c810f9c
 type: courses
 layout: video
 ---

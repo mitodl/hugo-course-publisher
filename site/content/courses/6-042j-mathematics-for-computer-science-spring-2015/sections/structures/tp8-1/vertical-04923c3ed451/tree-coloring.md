@@ -1,13 +1,73 @@
 ---
-title: Tree Coloring
-uid: b32f0d34062495a5077ea440bdf97a6a
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: b32f0d34062495a5077ea440bdf97a6a
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 03d00e2bacf2c6c84a0b45f5ff270284
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: b32f0d34062495a5077ea440bdf97a6a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6918da02fd67b0fe2d240e7bd24e198c
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_treecoloring_video_ipod.mp4
+    parent_uid: b32f0d34062495a5077ea440bdf97a6a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1eaffd0f04f34c8ae233f7de04b759ba
+  - id: Video-YouTube-Stream
+    media_location: g2mOvmC1TKc
+    parent_uid: b32f0d34062495a5077ea440bdf97a6a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f31b624537acd7fb5436aaeb273ffa84
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/g2mOvmC1TKc/default.jpg'
+    parent_uid: b32f0d34062495a5077ea440bdf97a6a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 80c65453b3d9a9e88e8bb9486c9b6d13
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: g2mOvmC1TKc
+    parent_uid: b32f0d34062495a5077ea440bdf97a6a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2292f21c781da34037ee4cad19c7b5e9
+  - id: g2mOvmC1TKc.srt
+    parent_uid: b32f0d34062495a5077ea440bdf97a6a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-04923c3ed451/tree-coloring/g2mOvmC1TKc.srt
+    title: 3play caption file
+    type: null
+    uid: 03a11080b381428423786761aa522242
+  - id: g2mOvmC1TKc.pdf
+    parent_uid: b32f0d34062495a5077ea440bdf97a6a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-04923c3ed451/tree-coloring/g2mOvmC1TKc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 232757ce7390aec68ebe5a2eb083c496
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b32f0d34062495a5077ea440bdf97a6a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7573c67f07f9a21beb17769eb3e6a717
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b32f0d34062495a5077ea440bdf97a6a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: decdd2bb46622b78d5c606f451351a55
+inline_embed_id: 26222269treecoloring72947568
 parent_uid: f27baedbb7ff1c6b93c780ab901b300c
+related_resources_text: ''
+short_url: tree-coloring
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-04923c3ed451/tree-coloring
-short_url: tree-coloring
-inline_embed_id: 26222269treecoloring72947568
-about_this_resource_text: ''
-related_resources_text: ''
+title: Tree Coloring
 transcript: >-
   <p><span m='1310'>PROFESSOR: Now</span> <span m='1450'>we</span> <span
   m='1570'>can</span> <span m='1720'>use</span> <span m='1980'>the</span> <span
@@ -150,67 +210,7 @@ transcript: >-
   m='116780'>makes</span> <span m='117050'>it</span> <span
   m='117650'>2-colorable</span> <span m='118380'>for</span> <span
   m='118560'>sure.</span> </p>
-embedded_media:
-  - uid: 03d00e2bacf2c6c84a0b45f5ff270284
-    parent_uid: b32f0d34062495a5077ea440bdf97a6a
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 6918da02fd67b0fe2d240e7bd24e198c
-    parent_uid: b32f0d34062495a5077ea440bdf97a6a
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 1eaffd0f04f34c8ae233f7de04b759ba
-    parent_uid: b32f0d34062495a5077ea440bdf97a6a
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_treecoloring_video_ipod.mp4
-  - uid: f31b624537acd7fb5436aaeb273ffa84
-    parent_uid: b32f0d34062495a5077ea440bdf97a6a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: g2mOvmC1TKc
-  - uid: 80c65453b3d9a9e88e8bb9486c9b6d13
-    parent_uid: b32f0d34062495a5077ea440bdf97a6a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/g2mOvmC1TKc/default.jpg'
-  - uid: 2292f21c781da34037ee4cad19c7b5e9
-    parent_uid: b32f0d34062495a5077ea440bdf97a6a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: g2mOvmC1TKc
-  - uid: 03a11080b381428423786761aa522242
-    parent_uid: b32f0d34062495a5077ea440bdf97a6a
-    id: g2mOvmC1TKc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-04923c3ed451/tree-coloring/g2mOvmC1TKc.srt
-  - uid: 232757ce7390aec68ebe5a2eb083c496
-    parent_uid: b32f0d34062495a5077ea440bdf97a6a
-    id: g2mOvmC1TKc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-04923c3ed451/tree-coloring/g2mOvmC1TKc.pdf
-  - uid: 7573c67f07f9a21beb17769eb3e6a717
-    parent_uid: b32f0d34062495a5077ea440bdf97a6a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: decdd2bb46622b78d5c606f451351a55
-    parent_uid: b32f0d34062495a5077ea440bdf97a6a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b32f0d34062495a5077ea440bdf97a6a
 type: courses
 layout: video
 ---

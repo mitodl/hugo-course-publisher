@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 15: Projections onto Subspaces'
-uid: 589c5ac11ea4aa831408f79335bf898c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Y_Ac6KiQ1t0
+    parent_uid: 589c5ac11ea4aa831408f79335bf898c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 44fc5a36afea5c5dd974fdfeaa267c95
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Y_Ac6KiQ1t0/default.jpg'
+    parent_uid: 589c5ac11ea4aa831408f79335bf898c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8976cb5ca38820773c30e55984b7ca5d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 589c5ac11ea4aa831408f79335bf898c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 24572daff3a341d1f23e70cad7f93992
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/15.mp4'
+    parent_uid: 589c5ac11ea4aa831408f79335bf898c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f9a93fb56ce7c08126352beceda099f4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Y_Ac6KiQ1t0
+    parent_uid: 589c5ac11ea4aa831408f79335bf898c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5230f000ae1704275dffa8eec65b2195
+  - id: Y_Ac6KiQ1t0.srt
+    parent_uid: 589c5ac11ea4aa831408f79335bf898c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projections-onto-subspaces/lecture-15-projections-onto-subspaces/Y_Ac6KiQ1t0.srt
+    title: 3play caption file
+    type: null
+    uid: 2418ddf82ab49f4d25238c12836453d4
+  - id: Y_Ac6KiQ1t0.pdf
+    parent_uid: 589c5ac11ea4aa831408f79335bf898c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projections-onto-subspaces/lecture-15-projections-onto-subspaces/Y_Ac6KiQ1t0.pdf
+    title: 3play pdf file
+    type: null
+    uid: cb182109450623ef94def421583f1bb4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 589c5ac11ea4aa831408f79335bf898c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cb575ff516e0ff1fb31240356390cd2b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 589c5ac11ea4aa831408f79335bf898c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ed854c34567ad397e0a58ea8fc6f8240
+inline_embed_id: '40314206lecture15:projectionsontosubspaces13347893'
 parent_uid: 1ff24ba867b5ac72fcad41dcf3e79e10
+related_resources_text: ''
+short_url: lecture-15-projections-onto-subspaces
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projections-onto-subspaces/lecture-15-projections-onto-subspaces
-short_url: lecture-15-projections-onto-subspaces
-inline_embed_id: '40314206lecture15:projectionsontosubspaces13347893'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 15: Projections onto Subspaces'
 transcript: >-
   <p><span m='10240'>OK,</span> <span m='10690'>guys</span> <span
   m='10780'>the</span> <span m='10840'>--</span> <span m='10940'>we're</span>
@@ -2623,61 +2677,7 @@ transcript: >-
   m='2925500'>all</span> <span m='2926250'>letters,</span> <span
   m='2927000'>numbers</span> <span m='2927750'>next</span> <span
   m='2928500'>time.</span> </p><p><span m='2929250'>Thanks.</span> </p>
-embedded_media:
-  - uid: 44fc5a36afea5c5dd974fdfeaa267c95
-    parent_uid: 589c5ac11ea4aa831408f79335bf898c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Y_Ac6KiQ1t0
-  - uid: 8976cb5ca38820773c30e55984b7ca5d
-    parent_uid: 589c5ac11ea4aa831408f79335bf898c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Y_Ac6KiQ1t0/default.jpg'
-  - uid: 24572daff3a341d1f23e70cad7f93992
-    parent_uid: 589c5ac11ea4aa831408f79335bf898c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: f9a93fb56ce7c08126352beceda099f4
-    parent_uid: 589c5ac11ea4aa831408f79335bf898c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/15.mp4'
-  - uid: 5230f000ae1704275dffa8eec65b2195
-    parent_uid: 589c5ac11ea4aa831408f79335bf898c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Y_Ac6KiQ1t0
-  - uid: 2418ddf82ab49f4d25238c12836453d4
-    parent_uid: 589c5ac11ea4aa831408f79335bf898c
-    id: Y_Ac6KiQ1t0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projections-onto-subspaces/lecture-15-projections-onto-subspaces/Y_Ac6KiQ1t0.srt
-  - uid: cb182109450623ef94def421583f1bb4
-    parent_uid: 589c5ac11ea4aa831408f79335bf898c
-    id: Y_Ac6KiQ1t0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projections-onto-subspaces/lecture-15-projections-onto-subspaces/Y_Ac6KiQ1t0.pdf
-  - uid: cb575ff516e0ff1fb31240356390cd2b
-    parent_uid: 589c5ac11ea4aa831408f79335bf898c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ed854c34567ad397e0a58ea8fc6f8240
-    parent_uid: 589c5ac11ea4aa831408f79335bf898c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 589c5ac11ea4aa831408f79335bf898c
 type: courses
 layout: video
 ---

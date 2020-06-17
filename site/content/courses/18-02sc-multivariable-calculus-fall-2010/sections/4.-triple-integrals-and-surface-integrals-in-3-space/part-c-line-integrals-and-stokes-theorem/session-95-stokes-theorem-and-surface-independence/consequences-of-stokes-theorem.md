@@ -1,13 +1,68 @@
 ---
-title: Consequences of Stokes' Theorem
-uid: 966d9fdfe18616ddae43e675b0b56d79
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2B7e19xi4Sw
+    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a5db8807839d4457a7e9a806251e225e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2B7e19xi4Sw/default.jpg'
+    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0211ae911c083e533317dcc95e2e7920
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 2B7e19xi4Sw
+    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 57be7e8c01c15e89d430ab11fea75873
+  - id: 2B7e19xi4Sw.srt
+    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-95-stokes-theorem-and-surface-independence/consequences-of-stokes-theorem/2B7e19xi4Sw.srt
+    title: 3play caption file
+    type: null
+    uid: 88e0763123570fb3ea1c42d56ed40c31
+  - id: 2B7e19xi4Sw.pdf
+    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-95-stokes-theorem-and-surface-independence/consequences-of-stokes-theorem/2B7e19xi4Sw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9c64152da000f3eaa36b24c02632a16e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 00f90fd928048c007d9d5cf69098975f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f11b434be82781ca5ad7b8e86392bb7a
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/podcast/consequences-stokes-theorem/id414355340?i=90323146
+    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: afa8c6675b2d389743ac856a570eecb2
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_69_300k.mp4'
+    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d22e843debbef9cb375464486ea6c0f4
+inline_embed_id: 77776328consequencesofstokes'theorem38509573
 parent_uid: f551eb109c522f31323984495ef23ce8
+related_resources_text: ''
+short_url: consequences-of-stokes-theorem
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-95-stokes-theorem-and-surface-independence/consequences-of-stokes-theorem
-short_url: consequences-of-stokes-theorem
-inline_embed_id: 77776328consequencesofstokes'theorem38509573
-about_this_resource_text: ''
-related_resources_text: ''
+title: Consequences of Stokes' Theorem
 transcript: >-
   <p><span m='7090'>JOEL LEWIS: Hi.</span> <span m='7540'>Welcome</span> <span
   m='7910'>back</span> <span m='8150'>to</span> <span
@@ -756,62 +811,7 @@ transcript: >-
   m='668970'>going</span> <span m='669120'>to</span> <span m='669200'>be</span>
   <span m='669350'>curls.</span> </p><p><span m='670380'>I'll</span> <span
   m='670570'>stop</span> <span m='670940'>there.</span> </p>
-embedded_media:
-  - uid: a5db8807839d4457a7e9a806251e225e
-    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2B7e19xi4Sw
-  - uid: 0211ae911c083e533317dcc95e2e7920
-    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2B7e19xi4Sw/default.jpg'
-  - uid: 57be7e8c01c15e89d430ab11fea75873
-    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2B7e19xi4Sw
-  - uid: 88e0763123570fb3ea1c42d56ed40c31
-    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
-    id: 2B7e19xi4Sw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-95-stokes-theorem-and-surface-independence/consequences-of-stokes-theorem/2B7e19xi4Sw.srt
-  - uid: 9c64152da000f3eaa36b24c02632a16e
-    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
-    id: 2B7e19xi4Sw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-95-stokes-theorem-and-surface-independence/consequences-of-stokes-theorem/2B7e19xi4Sw.pdf
-  - uid: 00f90fd928048c007d9d5cf69098975f
-    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f11b434be82781ca5ad7b8e86392bb7a
-    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: afa8c6675b2d389743ac856a570eecb2
-    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/podcast/consequences-stokes-theorem/id414355340?i=90323146
-  - uid: d22e843debbef9cb375464486ea6c0f4
-    parent_uid: 966d9fdfe18616ddae43e675b0b56d79
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_69_300k.mp4'
+uid: 966d9fdfe18616ddae43e675b0b56d79
 type: courses
 layout: video
 ---

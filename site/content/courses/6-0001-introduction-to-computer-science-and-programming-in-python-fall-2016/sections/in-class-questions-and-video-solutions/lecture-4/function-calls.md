@@ -1,16 +1,71 @@
 ---
-title: Function Calls
-uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
-parent_uid: 828237fdefb50c6943b83bf16ff40267
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-4/function-calls
-short_url: function-calls
-inline_embed_id: 21631378functioncalls89561854
 about_this_resource_text: >-
   <p><strong>Description:</strong> This in-class question demonstrates the
   differences between Print and Return statements in function construction in
   Python.</p> <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 4gPwo38MNss
+    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e472cb02195e0298bbb7c099c0a61018
+  - id: 4gPwo38MNss.srt
+    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-4/function-calls/4gPwo38MNss.srt
+    title: 3play caption file
+    type: null
+    uid: 9d448576799cc792b82fd8f065261288
+  - id: 4gPwo38MNss.pdf
+    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-4/function-calls/4gPwo38MNss.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7741b28fedbfcfca89e76e58a8b80ebe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a7c56ec5af7b6295e56b8fb1c14200ff
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 497d6394bbd7e8e4cd0c183774e88ef7
+  - id: Video-YouTube-Stream
+    media_location: 4gPwo38MNss
+    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ad7bac900cf70d4439810f0defcf8186
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4gPwo38MNss/default.jpg'
+    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 29b5545e04b4fc25d9a1e71bc7315080
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4359d682129ebcc8906e6c8c395d5cd0
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_04_exercise_01_300k.mp4
+    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e55af12c209252844276812c2069acf0
+inline_embed_id: 21631378functioncalls89561854
+parent_uid: 828237fdefb50c6943b83bf16ff40267
 related_resources_text: ''
+short_url: function-calls
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-4/function-calls
+title: Function Calls
 transcript: >-
   <p><span m='790'>The</span> <span m='880'>following</span> <span
   m='1300'>content</span> <span m='1870'>is</span> <span
@@ -176,62 +231,7 @@ transcript: >-
   m='150540'>the</span> <span m='150630'>last</span> <span m='150930'>one</span>
   <span m='151110'>being</span> <span m='151350'>this</span> <span
   m='151560'>none.</span> </p>
-embedded_media:
-  - uid: e472cb02195e0298bbb7c099c0a61018
-    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4gPwo38MNss
-  - uid: 9d448576799cc792b82fd8f065261288
-    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
-    id: 4gPwo38MNss.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-4/function-calls/4gPwo38MNss.srt
-  - uid: 7741b28fedbfcfca89e76e58a8b80ebe
-    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
-    id: 4gPwo38MNss.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-4/function-calls/4gPwo38MNss.pdf
-  - uid: a7c56ec5af7b6295e56b8fb1c14200ff
-    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 497d6394bbd7e8e4cd0c183774e88ef7
-    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ad7bac900cf70d4439810f0defcf8186
-    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4gPwo38MNss
-  - uid: 29b5545e04b4fc25d9a1e71bc7315080
-    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4gPwo38MNss/default.jpg'
-  - uid: 4359d682129ebcc8906e6c8c395d5cd0
-    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: e55af12c209252844276812c2069acf0
-    parent_uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_04_exercise_01_300k.mp4
+uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
 type: courses
 layout: video
 ---

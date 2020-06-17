@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Alternate Definition of Natural Log'
-uid: a75698d1344c16cda8fec73f90c2d090
-parent_uid: 435c91b08acc9a35fc0748ce22a11bfe
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x/clip-1-alternate-definition-of-natural-log
-short_url: clip-1-alternate-definition-of-natural-log
-inline_embed_id: '82130940clip1:alternatedefinitionofnaturallog86031349'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/911e69c6592174f6865767e3db049f35"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 21 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec21_300k.mp4'
+    parent_uid: a75698d1344c16cda8fec73f90c2d090
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f935eb6c2d5107490d4f039ba7bcbabc
+  - id: Video-YouTube-Stream
+    media_location: _JXPe2J069c
+    parent_uid: a75698d1344c16cda8fec73f90c2d090
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6a52f08c0613a91750ea286afa0123aa
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_JXPe2J069c/default.jpg'
+    parent_uid: a75698d1344c16cda8fec73f90c2d090
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 78952a50e6518c9b179a1fe9796a5fab
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: _JXPe2J069c
+    parent_uid: a75698d1344c16cda8fec73f90c2d090
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: cfdfae7e2431f2c003d71ebeb03e94ac
+  - id: JXPe2J069c.srt
+    parent_uid: a75698d1344c16cda8fec73f90c2d090
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x/clip-1-alternate-definition-of-natural-log/JXPe2J069c.srt
+    title: 3play caption file
+    type: null
+    uid: 0568665fd8b345b5191602d3ee9586cf
+  - id: JXPe2J069c.pdf
+    parent_uid: a75698d1344c16cda8fec73f90c2d090
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x/clip-1-alternate-definition-of-natural-log/JXPe2J069c.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2ff7290cfdfbe1c20fdf102a645d456b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a75698d1344c16cda8fec73f90c2d090
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0ed7ec3743b3899025bbe16907925f10
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a75698d1344c16cda8fec73f90c2d090
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ec43f02f9f6d50f35e4e3f2100b55332
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: a75698d1344c16cda8fec73f90c2d090
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 090d8410108417a6945e928def22e0ae
+inline_embed_id: '82130940clip1:alternatedefinitionofnaturallog86031349'
+parent_uid: 435c91b08acc9a35fc0748ce22a11bfe
 related_resources_text: ''
+short_url: clip-1-alternate-definition-of-natural-log
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x/clip-1-alternate-definition-of-natural-log
+title: 'Clip 1: Alternate Definition of Natural Log'
 transcript: >-
   <p><span m='0'>The</span> <span m='1290'>following</span> <span
   m='1900'>content</span> <span m='2330'>is provided under</span> <span
@@ -2815,61 +2869,7 @@ transcript: >-
   m='3012470'>more</span> <span m='3012670'>things,</span> <span
   m='3012960'>including</span> <span m='3013640'>three</span> <span
   m='3013820'>dimensions.</span> </p>
-embedded_media:
-  - uid: f935eb6c2d5107490d4f039ba7bcbabc
-    parent_uid: a75698d1344c16cda8fec73f90c2d090
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec21_300k.mp4'
-  - uid: 6a52f08c0613a91750ea286afa0123aa
-    parent_uid: a75698d1344c16cda8fec73f90c2d090
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _JXPe2J069c
-  - uid: 78952a50e6518c9b179a1fe9796a5fab
-    parent_uid: a75698d1344c16cda8fec73f90c2d090
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_JXPe2J069c/default.jpg'
-  - uid: cfdfae7e2431f2c003d71ebeb03e94ac
-    parent_uid: a75698d1344c16cda8fec73f90c2d090
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _JXPe2J069c
-  - uid: 0568665fd8b345b5191602d3ee9586cf
-    parent_uid: a75698d1344c16cda8fec73f90c2d090
-    id: JXPe2J069c.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x/clip-1-alternate-definition-of-natural-log/JXPe2J069c.srt
-  - uid: 2ff7290cfdfbe1c20fdf102a645d456b
-    parent_uid: a75698d1344c16cda8fec73f90c2d090
-    id: JXPe2J069c.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x/clip-1-alternate-definition-of-natural-log/JXPe2J069c.pdf
-  - uid: 0ed7ec3743b3899025bbe16907925f10
-    parent_uid: a75698d1344c16cda8fec73f90c2d090
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ec43f02f9f6d50f35e4e3f2100b55332
-    parent_uid: a75698d1344c16cda8fec73f90c2d090
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 090d8410108417a6945e928def22e0ae
-    parent_uid: a75698d1344c16cda8fec73f90c2d090
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: a75698d1344c16cda8fec73f90c2d090
 type: courses
 layout: video
 ---

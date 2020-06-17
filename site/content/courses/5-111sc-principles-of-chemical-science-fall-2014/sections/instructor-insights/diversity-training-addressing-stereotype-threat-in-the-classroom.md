@@ -1,13 +1,62 @@
 ---
-title: 'Diversity Training: Addressing Stereotype Threat in the Classroom'
-uid: 3e8f5e36eb1904474437a209b2f13504
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: pSIAK5hzJeI
+    parent_uid: 3e8f5e36eb1904474437a209b2f13504
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a3df4f30953d09e6be3bdb56e9266665
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: pSIAK5hzJeI
+    parent_uid: 3e8f5e36eb1904474437a209b2f13504
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 44d463a82b160db349293591afccce0d
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/mitdiversitytraining/MIT_diversity_training_stereotype_300k.mp4
+    parent_uid: 3e8f5e36eb1904474437a209b2f13504
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7b1e659b80d6f92efa1a164f6dd0d681
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/pSIAK5hzJeI/default.jpg'
+    parent_uid: 3e8f5e36eb1904474437a209b2f13504
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f941f10a2188ebebe1bc1bdd308d7459
+  - id: pSIAK5hzJeI.srt
+    parent_uid: 3e8f5e36eb1904474437a209b2f13504
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/diversity-training-addressing-stereotype-threat-in-the-classroom/pSIAK5hzJeI.srt
+    title: 3play caption file
+    type: null
+    uid: 45425778f85470887b897a33ccd47be3
+  - id: pSIAK5hzJeI.pdf
+    parent_uid: 3e8f5e36eb1904474437a209b2f13504
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/diversity-training-addressing-stereotype-threat-in-the-classroom/pSIAK5hzJeI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1dc487fb76c25f4dd7f6ad77bc43e9b6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3e8f5e36eb1904474437a209b2f13504
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9bda97bdb05335e2ad039417199ee333
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3e8f5e36eb1904474437a209b2f13504
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 522929d95f61de9c718b9be23555811f
+inline_embed_id: 15330568diversitytrainingaddressingstereotypethreatintheclassroom40641276
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
+related_resources_text: ''
+short_url: diversity-training-addressing-stereotype-threat-in-the-classroom
 technical_location: >-
   https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/diversity-training-addressing-stereotype-threat-in-the-classroom
-short_url: diversity-training-addressing-stereotype-threat-in-the-classroom
-inline_embed_id: 15330568diversitytrainingaddressingstereotypethreatintheclassroom40641276
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Diversity Training: Addressing Stereotype Threat in the Classroom'
 transcript: >-
   <p><span m='0'>[NO AUDIO]</span> </p><p></p><p><span m='9150'>CATHY L.
   DRENNAN:</span> <span m='9245'>So</span> <span m='9340'>welcome</span> <span
@@ -7571,56 +7620,7 @@ transcript: >-
   m='5538040'>a</span> <span m='5538100'>wonderful</span> <span
   m='5538580'>semester.</span> </p><p><span m='5540080'>[APPLAUSE]</span>
   </p><p></p>
-embedded_media:
-  - uid: a3df4f30953d09e6be3bdb56e9266665
-    parent_uid: 3e8f5e36eb1904474437a209b2f13504
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: pSIAK5hzJeI
-  - uid: 44d463a82b160db349293591afccce0d
-    parent_uid: 3e8f5e36eb1904474437a209b2f13504
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: pSIAK5hzJeI
-  - uid: 7b1e659b80d6f92efa1a164f6dd0d681
-    parent_uid: 3e8f5e36eb1904474437a209b2f13504
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/mitdiversitytraining/MIT_diversity_training_stereotype_300k.mp4
-  - uid: f941f10a2188ebebe1bc1bdd308d7459
-    parent_uid: 3e8f5e36eb1904474437a209b2f13504
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/pSIAK5hzJeI/default.jpg'
-  - uid: 45425778f85470887b897a33ccd47be3
-    parent_uid: 3e8f5e36eb1904474437a209b2f13504
-    id: pSIAK5hzJeI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/diversity-training-addressing-stereotype-threat-in-the-classroom/pSIAK5hzJeI.srt
-  - uid: 1dc487fb76c25f4dd7f6ad77bc43e9b6
-    parent_uid: 3e8f5e36eb1904474437a209b2f13504
-    id: pSIAK5hzJeI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/diversity-training-addressing-stereotype-threat-in-the-classroom/pSIAK5hzJeI.pdf
-  - uid: 9bda97bdb05335e2ad039417199ee333
-    parent_uid: 3e8f5e36eb1904474437a209b2f13504
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 522929d95f61de9c718b9be23555811f
-    parent_uid: 3e8f5e36eb1904474437a209b2f13504
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3e8f5e36eb1904474437a209b2f13504
 type: courses
 layout: video
 ---

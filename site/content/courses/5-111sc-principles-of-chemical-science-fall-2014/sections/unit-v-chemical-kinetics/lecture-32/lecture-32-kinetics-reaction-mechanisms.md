@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 32: Kinetics: Reaction Mechanisms'
-uid: 58624e6ae2f05c68053bf3334baa8c0b
-parent_uid: 31564d9d89a99686791240b6ed37ef6f
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-32/lecture-32-kinetics-reaction-mechanisms
-short_url: lecture-32-kinetics-reaction-mechanisms
-inline_embed_id: 66281754lecture32kineticsreactionmechanisms67104785
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: Chemists experimentally determine rate laws and then
@@ -15,7 +8,68 @@ about_this_resource_text: >-
   rate-determining step. Learn how to predict reaction mechanisms using the
   steady-state approximation as well as information about fast and slow
   steps.</p> <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 4q0T9c7jotw
+    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9fd2b6dcfcc105ec900db9d1ef318b3c
+  - id: 4q0T9c7jotw.srt
+    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-32/lecture-32-kinetics-reaction-mechanisms/4q0T9c7jotw.srt
+    title: 3play caption file
+    type: null
+    uid: 952251b4af89b425b203641a6f72f30e
+  - id: 4q0T9c7jotw.pdf
+    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-32/lecture-32-kinetics-reaction-mechanisms/4q0T9c7jotw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 323d5f7e28e2a81ebb2c58e64664d0b1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cca8290664ac8263e05c7f7cf7caae4f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5c497fabe06e0acf5f166fa5adea2aa0
+  - id: Video-YouTube-Stream
+    media_location: 4q0T9c7jotw
+    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2d2f2c99f832a363504937ca2af40bc9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4q0T9c7jotw/default.jpg'
+    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 88af1af0c8f693b4f33c3e365e2340a4
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 02fa9628cb17640dd2f757c699ace6d8
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L32_300k.mp4'
+    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b15c2ce855930df03429e7d84750938d
+inline_embed_id: 66281754lecture32kineticsreactionmechanisms67104785
+parent_uid: 31564d9d89a99686791240b6ed37ef6f
 related_resources_text: ''
+short_url: lecture-32-kinetics-reaction-mechanisms
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-32/lecture-32-kinetics-reaction-mechanisms
+title: 'Lecture 32: Kinetics: Reaction Mechanisms'
 transcript: >-
   <p><span m="90">The</span> <span m="180">following</span> <span
   m="630">content</span> <span m="1110">is</span> <span m="1230">provided</span>
@@ -3001,61 +3055,7 @@ transcript: >-
   m="2778890">of</span> <span m="2779200">the</span> <span
   m="2779510">year</span> <span m="2780180">before</span> <span
   m="2780660">the</span> <span m="2780810">finals.</span></p>
-embedded_media:
-  - uid: 9fd2b6dcfcc105ec900db9d1ef318b3c
-    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4q0T9c7jotw
-  - uid: 952251b4af89b425b203641a6f72f30e
-    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
-    id: 4q0T9c7jotw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-32/lecture-32-kinetics-reaction-mechanisms/4q0T9c7jotw.srt
-  - uid: 323d5f7e28e2a81ebb2c58e64664d0b1
-    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
-    id: 4q0T9c7jotw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-32/lecture-32-kinetics-reaction-mechanisms/4q0T9c7jotw.pdf
-  - uid: cca8290664ac8263e05c7f7cf7caae4f
-    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5c497fabe06e0acf5f166fa5adea2aa0
-    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 2d2f2c99f832a363504937ca2af40bc9
-    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4q0T9c7jotw
-  - uid: 88af1af0c8f693b4f33c3e365e2340a4
-    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4q0T9c7jotw/default.jpg'
-  - uid: 02fa9628cb17640dd2f757c699ace6d8
-    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: b15c2ce855930df03429e7d84750938d
-    parent_uid: 58624e6ae2f05c68053bf3334baa8c0b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L32_300k.mp4'
+uid: 58624e6ae2f05c68053bf3334baa8c0b
 type: courses
 layout: video
 ---

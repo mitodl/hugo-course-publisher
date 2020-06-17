@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 13: Breadth-First Search (BFS)'
-uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-13-breadth-first-search-bfs
-short_url: lecture-13-breadth-first-search-bfs
-inline_embed_id: '85030642lecture13:breadth-firstsearch(bfs)42156202'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture begins with a review of graphs
   and applications of graph search, discusses graph representations such as
   adjacency lists, and covers breadth-first search.</p>
   <p><strong>Instructor:</strong> Erik Demaine</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: s-CYnVz-uh4
+    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 42fddc3e5c34f2fad24d1b6acb4aa421
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/s-CYnVz-uh4/default.jpg'
+    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9110c90794b1477d9d50c62c04da3a8a
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-13-breadth-first-search/id585700718?i=126127766
+    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2815d689d523edcbd6648dc3bde1905e
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec13_300k.mp4'
+    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ffcf46decba1837d70c8d6ecee6f29ef
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: s-CYnVz-uh4
+    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3df3e7a87c93ab06e6027a7e237b33fb
+  - id: s-CYnVz-uh4.srt
+    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-13-breadth-first-search-bfs/s-CYnVz-uh4.srt
+    title: 3play caption file
+    type: null
+    uid: 48fc4f7fbda53bb1f794910d6fe87f0d
+  - id: s-CYnVz-uh4.pdf
+    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-13-breadth-first-search-bfs/s-CYnVz-uh4.pdf
+    title: 3play pdf file
+    type: null
+    uid: e8b259b758c98d918d9e86aaecf368f8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 94a330d6a35180cd54ba52126bc53cf5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 24d637b65c931a49c3417e24796b2885
+inline_embed_id: '85030642lecture13:breadth-firstsearch(bfs)42156202'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-13-breadth-first-search-bfs
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-13-breadth-first-search-bfs
+title: 'Lecture 13: Breadth-First Search (BFS)'
 transcript: >-
   <p><span m='50'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -3132,62 +3187,7 @@ transcript: >-
   m='3044340'>class.</span> <span m='3045040'>That's</span> <span
   m='3045250'>it</span> <span m='3045400'>for</span> <span
   m='3045540'>BFS.</span> </p>
-embedded_media:
-  - uid: 42fddc3e5c34f2fad24d1b6acb4aa421
-    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: s-CYnVz-uh4
-  - uid: 9110c90794b1477d9d50c62c04da3a8a
-    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/s-CYnVz-uh4/default.jpg'
-  - uid: 2815d689d523edcbd6648dc3bde1905e
-    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-13-breadth-first-search/id585700718?i=126127766
-  - uid: ffcf46decba1837d70c8d6ecee6f29ef
-    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec13_300k.mp4'
-  - uid: 3df3e7a87c93ab06e6027a7e237b33fb
-    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: s-CYnVz-uh4
-  - uid: 48fc4f7fbda53bb1f794910d6fe87f0d
-    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
-    id: s-CYnVz-uh4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-13-breadth-first-search-bfs/s-CYnVz-uh4.srt
-  - uid: e8b259b758c98d918d9e86aaecf368f8
-    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
-    id: s-CYnVz-uh4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-13-breadth-first-search-bfs/s-CYnVz-uh4.pdf
-  - uid: 94a330d6a35180cd54ba52126bc53cf5
-    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 24d637b65c931a49c3417e24796b2885
-    parent_uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
 type: courses
 layout: video
 ---

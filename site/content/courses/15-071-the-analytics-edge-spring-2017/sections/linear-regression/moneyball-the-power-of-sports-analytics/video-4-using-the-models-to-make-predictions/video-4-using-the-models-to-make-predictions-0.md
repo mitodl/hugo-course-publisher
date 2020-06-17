@@ -1,13 +1,62 @@
 ---
-title: 'Video 4: Using the Models to Make Predictions'
-uid: bc7fa05d0334caed00adfb3a9dc65c8d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: j9sl8e7wLnc
+    parent_uid: bc7fa05d0334caed00adfb3a9dc65c8d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8e8492d90570726cd69a503a9ef663b1
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: j9sl8e7wLnc
+    parent_uid: bc7fa05d0334caed00adfb3a9dc65c8d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ab50d39fb64e1fb8df2a5cfd1d64c579
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.3.07_300k.mp4
+    parent_uid: bc7fa05d0334caed00adfb3a9dc65c8d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 018ec22abc93a4fcf4245c867a17319a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/j9sl8e7wLnc/default.jpg'
+    parent_uid: bc7fa05d0334caed00adfb3a9dc65c8d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a6394d0c8448c246cc8e4c802d02cefd
+  - id: j9sl8e7wLnc.srt
+    parent_uid: bc7fa05d0334caed00adfb3a9dc65c8d
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-4-using-the-models-to-make-predictions/video-4-using-the-models-to-make-predictions-0/j9sl8e7wLnc.srt
+    title: 3play caption file
+    type: null
+    uid: 80e51fef1ba3ea46fa0bb0f70da2a8ad
+  - id: j9sl8e7wLnc.pdf
+    parent_uid: bc7fa05d0334caed00adfb3a9dc65c8d
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-4-using-the-models-to-make-predictions/video-4-using-the-models-to-make-predictions-0/j9sl8e7wLnc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4997ec2e43f39215261a2143363a124f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bc7fa05d0334caed00adfb3a9dc65c8d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d8604b976c735b9e46e848761c84eecc
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bc7fa05d0334caed00adfb3a9dc65c8d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9847bb03f6f0f072c56a40cef7093758
+inline_embed_id: 46486851video4usingthemodelstomakepredictions96291564
 parent_uid: 6f7a2882de1167a26875fd353266fee4
+related_resources_text: ''
+short_url: video-4-using-the-models-to-make-predictions-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-4-using-the-models-to-make-predictions/video-4-using-the-models-to-make-predictions-0
-short_url: video-4-using-the-models-to-make-predictions-0
-inline_embed_id: 46486851video4usingthemodelstomakepredictions96291564
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 4: Using the Models to Make Predictions'
 transcript: >-
   <p><span m='4580'>Using</span> <span m='4908'>our</span> <span
   m='5236'>regression</span> <span m='5565'>models,</span> <span
@@ -252,56 +301,7 @@ transcript: >-
   <span m='255147'>to</span> <span m='255550'>the</span> <span
   m='255952'>playoffs</span> <span m='256355'>once</span> <span
   m='256757'>again.</span> </p>
-embedded_media:
-  - uid: 8e8492d90570726cd69a503a9ef663b1
-    parent_uid: bc7fa05d0334caed00adfb3a9dc65c8d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: j9sl8e7wLnc
-  - uid: ab50d39fb64e1fb8df2a5cfd1d64c579
-    parent_uid: bc7fa05d0334caed00adfb3a9dc65c8d
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: j9sl8e7wLnc
-  - uid: 018ec22abc93a4fcf4245c867a17319a
-    parent_uid: bc7fa05d0334caed00adfb3a9dc65c8d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.3.07_300k.mp4
-  - uid: a6394d0c8448c246cc8e4c802d02cefd
-    parent_uid: bc7fa05d0334caed00adfb3a9dc65c8d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/j9sl8e7wLnc/default.jpg'
-  - uid: 80e51fef1ba3ea46fa0bb0f70da2a8ad
-    parent_uid: bc7fa05d0334caed00adfb3a9dc65c8d
-    id: j9sl8e7wLnc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-4-using-the-models-to-make-predictions/video-4-using-the-models-to-make-predictions-0/j9sl8e7wLnc.srt
-  - uid: 4997ec2e43f39215261a2143363a124f
-    parent_uid: bc7fa05d0334caed00adfb3a9dc65c8d
-    id: j9sl8e7wLnc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-4-using-the-models-to-make-predictions/video-4-using-the-models-to-make-predictions-0/j9sl8e7wLnc.pdf
-  - uid: d8604b976c735b9e46e848761c84eecc
-    parent_uid: bc7fa05d0334caed00adfb3a9dc65c8d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9847bb03f6f0f072c56a40cef7093758
-    parent_uid: bc7fa05d0334caed00adfb3a9dc65c8d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: bc7fa05d0334caed00adfb3a9dc65c8d
 type: courses
 layout: video
 ---

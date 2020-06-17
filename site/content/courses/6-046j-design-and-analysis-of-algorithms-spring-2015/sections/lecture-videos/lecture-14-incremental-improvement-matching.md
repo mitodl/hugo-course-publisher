@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 14: Incremental Improvement: Matching'
-uid: d9b44004b3aa7adef3a48f66ca560492
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-14-incremental-improvement-matching
-short_url: lecture-14-incremental-improvement-matching
-inline_embed_id: '99478090lecture14:incrementalimprovement:matching67643823'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Devadas continues
   with the topic of network flow.</p> <p><strong>Instructors:</strong> Srinivas
   Devadas</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 8C_T4iTzPCU
+    parent_uid: d9b44004b3aa7adef3a48f66ca560492
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ea25314892573ae3855b7c93dde49165
+  - id: 8C_T4iTzPCU.srt
+    parent_uid: d9b44004b3aa7adef3a48f66ca560492
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-14-incremental-improvement-matching/8C_T4iTzPCU.srt
+    title: 3play caption file
+    type: null
+    uid: cfcef24f2da259e828febc189e1ee50e
+  - id: 8C_T4iTzPCU.pdf
+    parent_uid: d9b44004b3aa7adef3a48f66ca560492
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-14-incremental-improvement-matching/8C_T4iTzPCU.pdf
+    title: 3play pdf file
+    type: null
+    uid: b1d4ec314fc893f7fcb93f882f0f09d2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d9b44004b3aa7adef3a48f66ca560492
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c45c83c710c726a5ec28a9761349df96
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d9b44004b3aa7adef3a48f66ca560492
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f1bca915ef76ed6f74a1af73781dd2e6
+  - id: Video-YouTube-Stream
+    media_location: 8C_T4iTzPCU
+    parent_uid: d9b44004b3aa7adef3a48f66ca560492
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a74ab5989e420559971a536ac0f13276
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/8C_T4iTzPCU/default.jpg'
+    parent_uid: d9b44004b3aa7adef3a48f66ca560492
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8f6f81af5f52c62b111be4177cfd996a
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: d9b44004b3aa7adef3a48f66ca560492
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 93855be4c2f671479b5e1ac21b049a73
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec14_300k.mp4'
+    parent_uid: d9b44004b3aa7adef3a48f66ca560492
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9af605d3e56424a172d7348c1ba0cf44
+inline_embed_id: '99478090lecture14:incrementalimprovement:matching67643823'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-14-incremental-improvement-matching
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-14-incremental-improvement-matching
+title: 'Lecture 14: Incremental Improvement: Matching'
 transcript: >-
   <p><span m="70">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4303,61 +4357,7 @@ transcript: >-
   m="4949580">I'll</span> <span m="4949810">stick</span> <span
   m="4949920">around</span> <span m="4950070">here</span> <span
   m="4950370">for</span> <span m="4950670">questions.</span></p>
-embedded_media:
-  - uid: ea25314892573ae3855b7c93dde49165
-    parent_uid: d9b44004b3aa7adef3a48f66ca560492
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8C_T4iTzPCU
-  - uid: cfcef24f2da259e828febc189e1ee50e
-    parent_uid: d9b44004b3aa7adef3a48f66ca560492
-    id: 8C_T4iTzPCU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-14-incremental-improvement-matching/8C_T4iTzPCU.srt
-  - uid: b1d4ec314fc893f7fcb93f882f0f09d2
-    parent_uid: d9b44004b3aa7adef3a48f66ca560492
-    id: 8C_T4iTzPCU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-14-incremental-improvement-matching/8C_T4iTzPCU.pdf
-  - uid: c45c83c710c726a5ec28a9761349df96
-    parent_uid: d9b44004b3aa7adef3a48f66ca560492
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f1bca915ef76ed6f74a1af73781dd2e6
-    parent_uid: d9b44004b3aa7adef3a48f66ca560492
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a74ab5989e420559971a536ac0f13276
-    parent_uid: d9b44004b3aa7adef3a48f66ca560492
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8C_T4iTzPCU
-  - uid: 8f6f81af5f52c62b111be4177cfd996a
-    parent_uid: d9b44004b3aa7adef3a48f66ca560492
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8C_T4iTzPCU/default.jpg'
-  - uid: 93855be4c2f671479b5e1ac21b049a73
-    parent_uid: d9b44004b3aa7adef3a48f66ca560492
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 9af605d3e56424a172d7348c1ba0cf44
-    parent_uid: d9b44004b3aa7adef3a48f66ca560492
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec14_300k.mp4'
+uid: d9b44004b3aa7adef3a48f66ca560492
 type: courses
 layout: video
 ---

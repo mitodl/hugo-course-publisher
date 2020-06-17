@@ -1,13 +1,73 @@
 ---
-title: 'Momentum operator, energy operator, and a differential equation'
-uid: 9c288a7b540078baa05a1a02d1e3f985
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ELBh60GU5yE
+    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a21c80436f9a2a78bfcaf7367aeacf85
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/dGD_3d90oug/default.jpg'
+    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d5f0ef7631210e0a413f71e2d8f7797f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ELBh60GU5yE
+    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 29f162f09185f977241766b822ecedac
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a36659a6838ae5b38bb169a65a5efd46
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec05_s1_300k.mp4'
+    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0d9eabc14c405a33fed048dba516390c
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/ELBh60GU5yE/default.jpg'
+    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a4ac79742be732026ab54bf28295e72c
+  - id: ELBh60GU5yE.srt
+    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/momentum-operator-energy-operator-and-a-differential-equation/ELBh60GU5yE.srt
+    title: 3play caption file
+    type: null
+    uid: 8df7b4675a1b9adfc3f55804fc82ebe5
+  - id: ELBh60GU5yE.pdf
+    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/momentum-operator-energy-operator-and-a-differential-equation/ELBh60GU5yE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 62b59e55f23b80f387d409e77eff5c80
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c35710d76a0ea222d642708e6d91abbe
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3fe795be1dc70fea3f2087fb5599b48c
+inline_embed_id: 27695388momentumoperatorenergyoperatorandadifferentialequation21243978
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: momentum-operator-energy-operator-and-a-differential-equation
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/momentum-operator-energy-operator-and-a-differential-equation
-short_url: momentum-operator-energy-operator-and-a-differential-equation
-inline_embed_id: 27695388momentumoperatorenergyoperatorandadifferentialequation21243978
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Momentum operator, energy operator, and a differential equation'
 transcript: >-
   <p><span m='970'>PROFESSOR:</span> <span m='1135'>Last</span> <span
   m='1300'>time,</span> <span m='1630'>we</span> <span m='1750'>talked</span>
@@ -942,67 +1002,7 @@ transcript: >-
   m='1221560'>over</span> <span m='1222070'>2m</span> <span m='1223500'>d</span>
   <span m='1223900'>second</span> <span m='1224620'>dx</span> <span
   m='1225230'>squared</span> <span m='1226980'>psi.</span> </p>
-embedded_media:
-  - uid: a21c80436f9a2a78bfcaf7367aeacf85
-    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ELBh60GU5yE
-  - uid: d5f0ef7631210e0a413f71e2d8f7797f
-    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/dGD_3d90oug/default.jpg'
-  - uid: 29f162f09185f977241766b822ecedac
-    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ELBh60GU5yE
-  - uid: a36659a6838ae5b38bb169a65a5efd46
-    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 0d9eabc14c405a33fed048dba516390c
-    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec05_s1_300k.mp4'
-  - uid: a4ac79742be732026ab54bf28295e72c
-    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ELBh60GU5yE/default.jpg'
-  - uid: 8df7b4675a1b9adfc3f55804fc82ebe5
-    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
-    id: ELBh60GU5yE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/momentum-operator-energy-operator-and-a-differential-equation/ELBh60GU5yE.srt
-  - uid: 62b59e55f23b80f387d409e77eff5c80
-    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
-    id: ELBh60GU5yE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/momentum-operator-energy-operator-and-a-differential-equation/ELBh60GU5yE.pdf
-  - uid: c35710d76a0ea222d642708e6d91abbe
-    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3fe795be1dc70fea3f2087fb5599b48c
-    parent_uid: 9c288a7b540078baa05a1a02d1e3f985
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9c288a7b540078baa05a1a02d1e3f985
 type: courses
 layout: video
 ---

@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 29: Transition Metals: Crystal Field Theory Part II'
-uid: 0c05aa4a3cdad9bb73f8e338fac01285
-parent_uid: ddc6ceab131130089df1db9d631a91d2
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-29/lecture-29-transition-metals-crystal-field-theory-part-ii
-short_url: lecture-29-transition-metals-crystal-field-theory-part-ii
-inline_embed_id: 49425822lecture29transitionmetalscrystalfieldtheorypartii89418294
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: This lecture starts with a challenge: can you
@@ -14,7 +7,68 @@ about_this_resource_text: >-
   compounds. We also try to predict the geometry of an unknown nickel site on an
   enzyme based on its magnetic properties. See if you are up to the
   challenge.</p> <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: CFPnZ66nge4
+    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9d467ba9beacd0efa322b7f5590396e2
+  - id: CFPnZ66nge4.srt
+    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-29/lecture-29-transition-metals-crystal-field-theory-part-ii/CFPnZ66nge4.srt
+    title: 3play caption file
+    type: null
+    uid: 41bc66c757d86aed393a816f5cd33ec2
+  - id: CFPnZ66nge4.pdf
+    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-29/lecture-29-transition-metals-crystal-field-theory-part-ii/CFPnZ66nge4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 26f2864597bb0d4bc782467268ce6088
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4ef9f7942caa1598afde5ab6ca4a7a72
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c32516f9f6725b8178f5d329ce010f41
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L29_300k.mp4'
+    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 57c63fb270a278c35df6aebf8486ce83
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ffea70f958e368fc0d8e0ee2b6174869
+  - id: Video-YouTube-Stream
+    media_location: CFPnZ66nge4
+    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3d70f265af54be23acc51acf8f0d66cd
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CFPnZ66nge4/default.jpg'
+    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f8a54880d9809fb3a0be72dc9174fa46
+inline_embed_id: 49425822lecture29transitionmetalscrystalfieldtheorypartii89418294
+parent_uid: ddc6ceab131130089df1db9d631a91d2
 related_resources_text: ''
+short_url: lecture-29-transition-metals-crystal-field-theory-part-ii
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-29/lecture-29-transition-metals-crystal-field-theory-part-ii
+title: 'Lecture 29: Transition Metals: Crystal Field Theory Part II'
 transcript: >-
   <p><span m="90">The</span> <span m="180">following</span> <span
   m="630">content</span> <span m="1110">is</span> <span m="1230">provided</span>
@@ -2328,61 +2382,7 @@ transcript: >-
   m="2098680">struggle</span> <span m="2099160">to</span> <span
   m="2099310">be</span> <span m="2099430">able</span> <span m="2099730">to
   do.</span></p>
-embedded_media:
-  - uid: 9d467ba9beacd0efa322b7f5590396e2
-    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CFPnZ66nge4
-  - uid: 41bc66c757d86aed393a816f5cd33ec2
-    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
-    id: CFPnZ66nge4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-29/lecture-29-transition-metals-crystal-field-theory-part-ii/CFPnZ66nge4.srt
-  - uid: 26f2864597bb0d4bc782467268ce6088
-    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
-    id: CFPnZ66nge4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-29/lecture-29-transition-metals-crystal-field-theory-part-ii/CFPnZ66nge4.pdf
-  - uid: 4ef9f7942caa1598afde5ab6ca4a7a72
-    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c32516f9f6725b8178f5d329ce010f41
-    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 57c63fb270a278c35df6aebf8486ce83
-    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L29_300k.mp4'
-  - uid: ffea70f958e368fc0d8e0ee2b6174869
-    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 3d70f265af54be23acc51acf8f0d66cd
-    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CFPnZ66nge4
-  - uid: f8a54880d9809fb3a0be72dc9174fa46
-    parent_uid: 0c05aa4a3cdad9bb73f8e338fac01285
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CFPnZ66nge4/default.jpg'
+uid: 0c05aa4a3cdad9bb73f8e338fac01285
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: Radius of Convergence
-uid: b5ffa9ac41a4bed43028590a0f1d186e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: oTTo3qP0Z-I
+    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: aaf06a073a1663448bdda601c240c5ca
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/oTTo3qP0Z-I/default.jpg'
+    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6e01cf98fb7cdbba6796c83a6c11a3f9
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/ratio-test-radius-convergence/id414308064?i=90320225
+    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2952c5873eea3eaf802d22b5573dd0af
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_77_300k.mp4'
+    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 751511445392877da944c07671cfb287
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: oTTo3qP0Z-I
+    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e64454a5290a870d76b7fe7069c086f3
+  - id: oTTo3qP0Z-I.srt
+    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/radius-of-convergence/oTTo3qP0Z-I.srt
+    title: 3play caption file
+    type: null
+    uid: 0f4e36a306155adb3f444b4f53d0d1ad
+  - id: oTTo3qP0Z-I.pdf
+    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/radius-of-convergence/oTTo3qP0Z-I.pdf
+    title: 3play pdf file
+    type: null
+    uid: da86e5f3846a66ff672c12cf75a4ee10
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 69d955b9c36e5d02c4500f45cc356dcb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e1e7ed2b9b63869d6d84b29b0659c99d
+inline_embed_id: 96924929radiusofconvergence15365501
 parent_uid: bcbb45fdbe1b69cc80a82c9f73ca8d5d
+related_resources_text: ''
+short_url: radius-of-convergence
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/radius-of-convergence
-short_url: radius-of-convergence
-inline_embed_id: 96924929radiusofconvergence15365501
-about_this_resource_text: ''
-related_resources_text: ''
+title: Radius of Convergence
 transcript: >-
   <p><span m='7130'>PROFESSOR: Welcome</span> <span m='7530'>back</span> <span
   m='7700'>to</span> <span m='7780'>recitation.</span> <span m='8800'>In</span>
@@ -1388,62 +1443,7 @@ transcript: >-
   m='1077630'>stop,</span> <span m='1078650'>and I</span> <span
   m='1078770'>hope</span> <span m='1078970'>this</span> <span
   m='1079120'>was</span> <span m='1079400'>informative.</span> </p>
-embedded_media:
-  - uid: aaf06a073a1663448bdda601c240c5ca
-    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: oTTo3qP0Z-I
-  - uid: 6e01cf98fb7cdbba6796c83a6c11a3f9
-    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/oTTo3qP0Z-I/default.jpg'
-  - uid: 2952c5873eea3eaf802d22b5573dd0af
-    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/ratio-test-radius-convergence/id414308064?i=90320225
-  - uid: 751511445392877da944c07671cfb287
-    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_77_300k.mp4'
-  - uid: e64454a5290a870d76b7fe7069c086f3
-    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: oTTo3qP0Z-I
-  - uid: 0f4e36a306155adb3f444b4f53d0d1ad
-    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
-    id: oTTo3qP0Z-I.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/radius-of-convergence/oTTo3qP0Z-I.srt
-  - uid: da86e5f3846a66ff672c12cf75a4ee10
-    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
-    id: oTTo3qP0Z-I.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/radius-of-convergence/oTTo3qP0Z-I.pdf
-  - uid: 69d955b9c36e5d02c4500f45cc356dcb
-    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e1e7ed2b9b63869d6d84b29b0659c99d
-    parent_uid: b5ffa9ac41a4bed43028590a0f1d186e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b5ffa9ac41a4bed43028590a0f1d186e
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: 'Problem Solving: Determinants'
-uid: 16f1f706f40df168153c42311ff35cbf
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: B17h10EF59g
+    parent_uid: 16f1f706f40df168153c42311ff35cbf
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b928d842ce965cbd86edf429bafbcef4
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: B17h10EF59g
+    parent_uid: 16f1f706f40df168153c42311ff35cbf
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 75f2dc0e4bf748d697b10d3299bf3375
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/itunes-u/determinants/id488155309?i=108454354'
+    parent_uid: 16f1f706f40df168153c42311ff35cbf
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 92c617fbb73414dfde80d6ead60833d6
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110526_L1_300k.mp4
+    parent_uid: 16f1f706f40df168153c42311ff35cbf
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 455dfd396e8e46ff1f60761373cbbe70
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/B17h10EF59g/default.jpg'
+    parent_uid: 16f1f706f40df168153c42311ff35cbf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6b7d7d8eed690db1cdafc87093fa7cdc
+  - id: B17h10EF59g.srt
+    parent_uid: 16f1f706f40df168153c42311ff35cbf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/problem-solving-determinants/B17h10EF59g.srt
+    title: 3play caption file
+    type: null
+    uid: 93780a20470c61ac9aaf94e9d3495b02
+  - id: B17h10EF59g.pdf
+    parent_uid: 16f1f706f40df168153c42311ff35cbf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/problem-solving-determinants/B17h10EF59g.pdf
+    title: 3play pdf file
+    type: null
+    uid: ebf27cc8b4bcaf3d8678bc5159f59d3e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 16f1f706f40df168153c42311ff35cbf
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c7b4396af582025642e3badf7df465db
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 16f1f706f40df168153c42311ff35cbf
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2d92d5d4d30353a3df7c49068e534789
+inline_embed_id: '70935519problemsolving:determinants96553407'
 parent_uid: 172571ec14688c38e3a602925af8e7d9
+related_resources_text: ''
+short_url: problem-solving-determinants
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/problem-solving-determinants
-short_url: problem-solving-determinants
-inline_embed_id: '70935519problemsolving:determinants96553407'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Determinants'
 transcript: >-
   <p><span m='6310'>LINAN CHEN: Hi</span> <span m='6530'>everyone.</span> <span
   m='7350'>I'm</span> <span m='7590'>Linan.</span> <span m='8300'>Welcome</span>
@@ -665,62 +720,7 @@ transcript: >-
   m='764800'>looking</span> <span m='765100'>forward</span> <span
   m='765330'>to</span> <span m='765430'>see you</span> <span
   m='765730'>soon.</span> </p>
-embedded_media:
-  - uid: b928d842ce965cbd86edf429bafbcef4
-    parent_uid: 16f1f706f40df168153c42311ff35cbf
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: B17h10EF59g
-  - uid: 75f2dc0e4bf748d697b10d3299bf3375
-    parent_uid: 16f1f706f40df168153c42311ff35cbf
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: B17h10EF59g
-  - uid: 92c617fbb73414dfde80d6ead60833d6
-    parent_uid: 16f1f706f40df168153c42311ff35cbf
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/itunes-u/determinants/id488155309?i=108454354'
-  - uid: 455dfd396e8e46ff1f60761373cbbe70
-    parent_uid: 16f1f706f40df168153c42311ff35cbf
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110526_L1_300k.mp4
-  - uid: 6b7d7d8eed690db1cdafc87093fa7cdc
-    parent_uid: 16f1f706f40df168153c42311ff35cbf
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/B17h10EF59g/default.jpg'
-  - uid: 93780a20470c61ac9aaf94e9d3495b02
-    parent_uid: 16f1f706f40df168153c42311ff35cbf
-    id: B17h10EF59g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/problem-solving-determinants/B17h10EF59g.srt
-  - uid: ebf27cc8b4bcaf3d8678bc5159f59d3e
-    parent_uid: 16f1f706f40df168153c42311ff35cbf
-    id: B17h10EF59g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/problem-solving-determinants/B17h10EF59g.pdf
-  - uid: c7b4396af582025642e3badf7df465db
-    parent_uid: 16f1f706f40df168153c42311ff35cbf
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2d92d5d4d30353a3df7c49068e534789
-    parent_uid: 16f1f706f40df168153c42311ff35cbf
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 16f1f706f40df168153c42311ff35cbf
 type: courses
 layout: video
 ---

@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Introduction of Product and Quotient Rules'
-uid: 681df52e99aa508f4eb722fe8b53e58b
-parent_uid: d35aadf5c6d2e1543aee74e2dfdda970
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/clip-1-introduction-of-product-and-quotient-rules
-short_url: clip-1-introduction-of-product-and-quotient-rules
-inline_embed_id: '44767193clip1:introductionofproductandquotientrules31325176'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/b248c90cb7620c873e1781f41b217049"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 3 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: kCPVBl953eY
+    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 03294390113f7d3355041944e4ad47e3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/kCPVBl953eY/default.jpg'
+    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2b1dcdf3770b491e09c56390d41ed402
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec03_300k.mp4'
+    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8d21a186277c4013091294776a7c366f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: kCPVBl953eY
+    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 65e803fa16ea5b94b79b74365e1ece88
+  - id: kCPVBl953eY.srt
+    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/clip-1-introduction-of-product-and-quotient-rules/kCPVBl953eY.srt
+    title: 3play caption file
+    type: null
+    uid: cc24a57ba633cbc45952c1b254af8e5a
+  - id: kCPVBl953eY.pdf
+    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/clip-1-introduction-of-product-and-quotient-rules/kCPVBl953eY.pdf
+    title: 3play pdf file
+    type: null
+    uid: fe665ad9ddb8ad0f825f89d70189e51f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cdde34a21fb7e2bfc075c1931c805864
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c09872dbe61c12dba43e07fe924e4265
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e4e6a00061f027661d48e9022244afa6
+inline_embed_id: '44767193clip1:introductionofproductandquotientrules31325176'
+parent_uid: d35aadf5c6d2e1543aee74e2dfdda970
 related_resources_text: ''
+short_url: clip-1-introduction-of-product-and-quotient-rules
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/clip-1-introduction-of-product-and-quotient-rules
+title: 'Clip 1: Introduction of Product and Quotient Rules'
 transcript: >-
   <p><span m="370">The following</span> <span m="1070">is</span> <span
   m="1310">provided</span> <span m="1400">under</span> <span m="1670">a</span>
@@ -2679,61 +2733,7 @@ transcript: >-
   m="2991080">responsible</span> <span m="2991810">for</span> <span
   m="2991940">these</span> <span m="2992170">kinds</span> <span
   m="2992430">of</span> <span m="2992510">proofs.</span></p>
-embedded_media:
-  - uid: 03294390113f7d3355041944e4ad47e3
-    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: kCPVBl953eY
-  - uid: 2b1dcdf3770b491e09c56390d41ed402
-    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/kCPVBl953eY/default.jpg'
-  - uid: 8d21a186277c4013091294776a7c366f
-    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec03_300k.mp4'
-  - uid: 65e803fa16ea5b94b79b74365e1ece88
-    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: kCPVBl953eY
-  - uid: cc24a57ba633cbc45952c1b254af8e5a
-    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
-    id: kCPVBl953eY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/clip-1-introduction-of-product-and-quotient-rules/kCPVBl953eY.srt
-  - uid: fe665ad9ddb8ad0f825f89d70189e51f
-    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
-    id: kCPVBl953eY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/clip-1-introduction-of-product-and-quotient-rules/kCPVBl953eY.pdf
-  - uid: cdde34a21fb7e2bfc075c1931c805864
-    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c09872dbe61c12dba43e07fe924e4265
-    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e4e6a00061f027661d48e9022244afa6
-    parent_uid: 681df52e99aa508f4eb722fe8b53e58b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 681df52e99aa508f4eb722fe8b53e58b
 type: courses
 layout: video
 ---

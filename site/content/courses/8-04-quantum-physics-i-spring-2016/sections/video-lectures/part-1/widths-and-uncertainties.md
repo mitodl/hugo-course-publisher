@@ -1,13 +1,73 @@
 ---
-title: Widths and uncertainties
-uid: 23bdc3fe549cd69da1672c78e9bbbf70
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: vWGP5dogNm8
+    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 223da0bd460916a8ef9ce81e70a7f459
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TNial8A4yac/default.jpg'
+    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ab2dfd9fa22bc690b05e80a3e70093c0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: vWGP5dogNm8
+    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9d5759ad61739e83651005315cdaf855
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 05c7e120df6a22a486933040f8388047
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec07_s3_300k.mp4'
+    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c6e268c6d650c9bbb6a9fa968a478527
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/vWGP5dogNm8/default.jpg'
+    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 630103b50568eee61f1b4715e84a8bbe
+  - id: vWGP5dogNm8.srt
+    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/widths-and-uncertainties/vWGP5dogNm8.srt
+    title: 3play caption file
+    type: null
+    uid: 2916899673b8ee74b9877bc02ff2d615
+  - id: vWGP5dogNm8.pdf
+    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/widths-and-uncertainties/vWGP5dogNm8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 61056453c541a8a96b242dc088e7c7ae
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 59f0278bc142c3f0650d43952a025a68
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8ef17b89f33292059f95c1d39523232c
+inline_embed_id: 12433280widthsanduncertainties47815622
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: widths-and-uncertainties
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/widths-and-uncertainties
-short_url: widths-and-uncertainties
-inline_embed_id: 12433280widthsanduncertainties47815622
-about_this_resource_text: ''
-related_resources_text: ''
+title: Widths and uncertainties
 transcript: >-
   <p><span m='1170'>PROFESSOR:</span> <span m='1275'>So</span> <span
   m='1380'>we</span> <span m='1560'>go</span> <span m='1830'>back</span> <span
@@ -699,67 +759,7 @@ transcript: >-
   m='1147300'>x</span> <span m='1148450'>is</span> <span
   m='1148790'>about</span> <span m='1149290'>2</span> <span
   m='1149500'>pi.</span> </p>
-embedded_media:
-  - uid: 223da0bd460916a8ef9ce81e70a7f459
-    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: vWGP5dogNm8
-  - uid: ab2dfd9fa22bc690b05e80a3e70093c0
-    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TNial8A4yac/default.jpg'
-  - uid: 9d5759ad61739e83651005315cdaf855
-    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: vWGP5dogNm8
-  - uid: 05c7e120df6a22a486933040f8388047
-    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: c6e268c6d650c9bbb6a9fa968a478527
-    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec07_s3_300k.mp4'
-  - uid: 630103b50568eee61f1b4715e84a8bbe
-    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/vWGP5dogNm8/default.jpg'
-  - uid: 2916899673b8ee74b9877bc02ff2d615
-    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
-    id: vWGP5dogNm8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/widths-and-uncertainties/vWGP5dogNm8.srt
-  - uid: 61056453c541a8a96b242dc088e7c7ae
-    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
-    id: vWGP5dogNm8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/widths-and-uncertainties/vWGP5dogNm8.pdf
-  - uid: 59f0278bc142c3f0650d43952a025a68
-    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8ef17b89f33292059f95c1d39523232c
-    parent_uid: 23bdc3fe549cd69da1672c78e9bbbf70
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 23bdc3fe549cd69da1672c78e9bbbf70
 type: courses
 layout: video
 ---

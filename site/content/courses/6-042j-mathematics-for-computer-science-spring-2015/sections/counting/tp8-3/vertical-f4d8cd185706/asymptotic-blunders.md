@@ -1,13 +1,79 @@
 ---
-title: Asymptotic Blunders
-uid: 2bbeed2d7cef90a0e17ad806eee542dc
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: f3c97f8cc4a9e46ddfa4c76a3fcd9419
+  - id: Video-YouTube-Stream
+    media_location: Y9Blo_G-Mvg
+    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f986699902196816224a4410f3a8562b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Y9Blo_G-Mvg/default.jpg'
+    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0ec40b536e8a23f081cbc2f238cc2f6b
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: Y9Blo_G-Mvg
+    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6cfbd40d9cb3b490b3c46232e38a4516
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/Y9Blo_G-Mvg/default.jpg'
+    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fa5b858e3d8733da2018186b48b4a60e
+  - id: Y9Blo_G-Mvg.srt
+    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-f4d8cd185706/asymptotic-blunders/Y9Blo_G-Mvg.srt
+    title: 3play caption file
+    type: null
+    uid: e3abbe6229b8bc136954da0394b9e424
+  - id: Y9Blo_G-Mvg.pdf
+    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-f4d8cd185706/asymptotic-blunders/Y9Blo_G-Mvg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4f6fe3ce81cd43936add2ac8aff824cf
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e27d32eabecf0f3dfc60f8aa05428df6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 928c18a99bfb3914b1775697202dccfd
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6d93e692895c562ff8b5c1f509cd987f
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_asymptoticblunders_video_ipod.mp4
+    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ba5b079e8ef63ebeab3fc3840e88e322
+inline_embed_id: 3886335asymptoticblunders44216085
 parent_uid: 6874492c98166ab01d32ee77315bd540
+related_resources_text: ''
+short_url: asymptotic-blunders
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-f4d8cd185706/asymptotic-blunders
-short_url: asymptotic-blunders
-inline_embed_id: 3886335asymptoticblunders44216085
-about_this_resource_text: ''
-related_resources_text: ''
+title: Asymptotic Blunders
 transcript: >-
   <p><span m='475'>ALBERT R. MEYER:</span> <span m='950'>Let's</span> <span
   m='1200'>take</span> <span m='1420'>a</span> <span m='1470'>quick</span> <span
@@ -354,73 +420,7 @@ transcript: >-
   m='269280'>part</span> <span m='269570'>of</span> <span m='269660'>the</span>
   <span m='269730'>name</span> <span m='270040'>of</span> <span
   m='270170'>a</span> <span m='270220'>relation.</span> </p>
-embedded_media:
-  - uid: f3c97f8cc4a9e46ddfa4c76a3fcd9419
-    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: f986699902196816224a4410f3a8562b
-    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Y9Blo_G-Mvg
-  - uid: 0ec40b536e8a23f081cbc2f238cc2f6b
-    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Y9Blo_G-Mvg/default.jpg'
-  - uid: 6cfbd40d9cb3b490b3c46232e38a4516
-    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Y9Blo_G-Mvg
-  - uid: fa5b858e3d8733da2018186b48b4a60e
-    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Y9Blo_G-Mvg/default.jpg'
-  - uid: e3abbe6229b8bc136954da0394b9e424
-    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
-    id: Y9Blo_G-Mvg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-f4d8cd185706/asymptotic-blunders/Y9Blo_G-Mvg.srt
-  - uid: 4f6fe3ce81cd43936add2ac8aff824cf
-    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
-    id: Y9Blo_G-Mvg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-f4d8cd185706/asymptotic-blunders/Y9Blo_G-Mvg.pdf
-  - uid: e27d32eabecf0f3dfc60f8aa05428df6
-    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 928c18a99bfb3914b1775697202dccfd
-    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6d93e692895c562ff8b5c1f509cd987f
-    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: ba5b079e8ef63ebeab3fc3840e88e322
-    parent_uid: 2bbeed2d7cef90a0e17ad806eee542dc
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_asymptoticblunders_video_ipod.mp4
+uid: 2bbeed2d7cef90a0e17ad806eee542dc
 type: courses
 layout: video
 ---

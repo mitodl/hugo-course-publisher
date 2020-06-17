@@ -1,13 +1,62 @@
 ---
-title: 'Video 7: Using Line Charts Instead'
-uid: caa81b71b1ff585dd1b0d5d9b652f0b0
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-MP4
+    media_location: JtIa7ofeXIY
+    parent_uid: caa81b71b1ff585dd1b0d5d9b652f0b0
+    title: Video-YouTube-MP4
+    type: Video
+    uid: 6d1ae2eb5575d61854d87f332de8b78e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/JtIa7ofeXIY/default.jpg'
+    parent_uid: caa81b71b1ff585dd1b0d5d9b652f0b0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: db7644211ead918c78326c2a244f4289
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: JtIa7ofeXIY
+    parent_uid: caa81b71b1ff585dd1b0d5d9b652f0b0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 518788adf311204178c8e19f7f90a77c
+  - id: JtIa7ofeXIY.srt
+    parent_uid: caa81b71b1ff585dd1b0d5d9b652f0b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-7-using-line-charts-instead/video-7-using-line-charts-instead-0/JtIa7ofeXIY.srt
+    title: 3play caption file
+    type: null
+    uid: 55f192b87379f316220603de62e587b9
+  - id: JtIa7ofeXIY.pdf
+    parent_uid: caa81b71b1ff585dd1b0d5d9b652f0b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-7-using-line-charts-instead/video-7-using-line-charts-instead-0/JtIa7ofeXIY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3399ebbd565e8367afa2ef71c9bf9185
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: caa81b71b1ff585dd1b0d5d9b652f0b0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b4bec1137970fedab16ce96cb5f6d2ca
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: caa81b71b1ff585dd1b0d5d9b652f0b0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 917dac3894cda122409684e930444fb4
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.4.08_300k.mp4
+    parent_uid: caa81b71b1ff585dd1b0d5d9b652f0b0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 53f0ad875a753e9648b3b41a471b8e02
+inline_embed_id: 8158971video7usinglinechartsinstead35942445
 parent_uid: 5d57bafe1422b8d9a742d6339058ab65
+related_resources_text: ''
+short_url: video-7-using-line-charts-instead-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-7-using-line-charts-instead/video-7-using-line-charts-instead-0
-short_url: video-7-using-line-charts-instead-0
-inline_embed_id: 8158971video7usinglinechartsinstead35942445
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 7: Using Line Charts Instead'
 transcript: >-
   <p><span m='4500'>First,</span> <span m='4990'>let's</span> <span
   m='5480'>make</span> <span m='5970'>sure</span> <span m='6460'>we</span> <span
@@ -316,56 +365,7 @@ transcript: >-
   m='343690'>a</span> <span m='344085'>little</span> <span m='344480'>bit</span>
   <span m='344875'>more.</span> </p><p><span m='345270'>Thanks</span> <span
   m='345893'>for</span> <span m='346516'>watching.</span> </p>
-embedded_media:
-  - uid: 6d1ae2eb5575d61854d87f332de8b78e
-    parent_uid: caa81b71b1ff585dd1b0d5d9b652f0b0
-    id: Video-YouTube-MP4
-    title: Video-YouTube-MP4
-    type: Video
-    media_location: JtIa7ofeXIY
-  - uid: db7644211ead918c78326c2a244f4289
-    parent_uid: caa81b71b1ff585dd1b0d5d9b652f0b0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/JtIa7ofeXIY/default.jpg'
-  - uid: 518788adf311204178c8e19f7f90a77c
-    parent_uid: caa81b71b1ff585dd1b0d5d9b652f0b0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: JtIa7ofeXIY
-  - uid: 55f192b87379f316220603de62e587b9
-    parent_uid: caa81b71b1ff585dd1b0d5d9b652f0b0
-    id: JtIa7ofeXIY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-7-using-line-charts-instead/video-7-using-line-charts-instead-0/JtIa7ofeXIY.srt
-  - uid: 3399ebbd565e8367afa2ef71c9bf9185
-    parent_uid: caa81b71b1ff585dd1b0d5d9b652f0b0
-    id: JtIa7ofeXIY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-7-using-line-charts-instead/video-7-using-line-charts-instead-0/JtIa7ofeXIY.pdf
-  - uid: b4bec1137970fedab16ce96cb5f6d2ca
-    parent_uid: caa81b71b1ff585dd1b0d5d9b652f0b0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 917dac3894cda122409684e930444fb4
-    parent_uid: caa81b71b1ff585dd1b0d5d9b652f0b0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 53f0ad875a753e9648b3b41a471b8e02
-    parent_uid: caa81b71b1ff585dd1b0d5d9b652f0b0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.4.08_300k.mp4
+uid: caa81b71b1ff585dd1b0d5d9b652f0b0
 type: courses
 layout: video
 ---

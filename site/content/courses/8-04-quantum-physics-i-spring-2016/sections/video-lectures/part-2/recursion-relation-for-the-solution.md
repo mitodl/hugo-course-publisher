@@ -1,13 +1,73 @@
 ---
-title: Recursion relation for the solution
-uid: 5eb09ee64d6f1e9af787330114969181
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: RxWfrE3o-9k
+    parent_uid: 5eb09ee64d6f1e9af787330114969181
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6aab9bc034d986f0af804f2359e2eee5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/UNnO_0akb0M/default.jpg'
+    parent_uid: 5eb09ee64d6f1e9af787330114969181
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1f800b332de0f6c6b9fe2762ad40c3ab
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: RxWfrE3o-9k
+    parent_uid: 5eb09ee64d6f1e9af787330114969181
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 737dbaae8362a2b00603945c5b53499a
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 5eb09ee64d6f1e9af787330114969181
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ea996f9b09f84f9978bf26bfe212bc66
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec14_s1_300k.mp4'
+    parent_uid: 5eb09ee64d6f1e9af787330114969181
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6848b1a50cfea5badd1ba0bbd8e3f769
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/RxWfrE3o-9k/default.jpg'
+    parent_uid: 5eb09ee64d6f1e9af787330114969181
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ff805b650a020fb2d3ff70165c434ca5
+  - id: RxWfrE3o-9k.srt
+    parent_uid: 5eb09ee64d6f1e9af787330114969181
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/recursion-relation-for-the-solution/RxWfrE3o-9k.srt
+    title: 3play caption file
+    type: null
+    uid: beb2bbb6acd6f404e14c4171d5d11400
+  - id: RxWfrE3o-9k.pdf
+    parent_uid: 5eb09ee64d6f1e9af787330114969181
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/recursion-relation-for-the-solution/RxWfrE3o-9k.pdf
+    title: 3play pdf file
+    type: null
+    uid: 87c4a8090bccf2b799eb77be45424773
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5eb09ee64d6f1e9af787330114969181
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0b6c95424a6b6b7e8e4230ccc49207a3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5eb09ee64d6f1e9af787330114969181
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 33f59e201f119b68e1015b800b728af3
+inline_embed_id: 8825006recursionrelationforthesolution41137848
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: recursion-relation-for-the-solution
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/recursion-relation-for-the-solution
-short_url: recursion-relation-for-the-solution
-inline_embed_id: 8825006recursionrelationforthesolution41137848
-about_this_resource_text: ''
-related_resources_text: ''
+title: Recursion relation for the solution
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='63'>This</span> <span m='380'>was
   a</span> <span m='760'>differential</span> <span m='1430'>equation</span>
@@ -533,67 +593,7 @@ transcript: >-
   ones.</span> </p><p><span m='741640'>So</span> <span m='742690'>all</span>
   <span m='743350'>looks</span> <span m='744160'>pretty</span> <span
   m='744370'>much</span> <span m='744670'>OK.</span> </p>
-embedded_media:
-  - uid: 6aab9bc034d986f0af804f2359e2eee5
-    parent_uid: 5eb09ee64d6f1e9af787330114969181
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: RxWfrE3o-9k
-  - uid: 1f800b332de0f6c6b9fe2762ad40c3ab
-    parent_uid: 5eb09ee64d6f1e9af787330114969181
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/UNnO_0akb0M/default.jpg'
-  - uid: 737dbaae8362a2b00603945c5b53499a
-    parent_uid: 5eb09ee64d6f1e9af787330114969181
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: RxWfrE3o-9k
-  - uid: ea996f9b09f84f9978bf26bfe212bc66
-    parent_uid: 5eb09ee64d6f1e9af787330114969181
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 6848b1a50cfea5badd1ba0bbd8e3f769
-    parent_uid: 5eb09ee64d6f1e9af787330114969181
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec14_s1_300k.mp4'
-  - uid: ff805b650a020fb2d3ff70165c434ca5
-    parent_uid: 5eb09ee64d6f1e9af787330114969181
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/RxWfrE3o-9k/default.jpg'
-  - uid: beb2bbb6acd6f404e14c4171d5d11400
-    parent_uid: 5eb09ee64d6f1e9af787330114969181
-    id: RxWfrE3o-9k.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/recursion-relation-for-the-solution/RxWfrE3o-9k.srt
-  - uid: 87c4a8090bccf2b799eb77be45424773
-    parent_uid: 5eb09ee64d6f1e9af787330114969181
-    id: RxWfrE3o-9k.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/recursion-relation-for-the-solution/RxWfrE3o-9k.pdf
-  - uid: 0b6c95424a6b6b7e8e4230ccc49207a3
-    parent_uid: 5eb09ee64d6f1e9af787330114969181
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 33f59e201f119b68e1015b800b728af3
-    parent_uid: 5eb09ee64d6f1e9af787330114969181
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 5eb09ee64d6f1e9af787330114969181
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: Scales of the hydrogen atom
-uid: 96ca2287e2a3edc080dd37ef35eb3552
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: GWMeYKUvj7Y
+    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 828358fdfab6a48fda0e20ca1a13cf99
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/GWMeYKUvj7Y/default.jpg'
+    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 403164d7f78fdc6bcfa1b7b756aeeb5d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: GWMeYKUvj7Y
+    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7bdaba27f8001883a1eaef3fa39749a5
+  - id: GWMeYKUvj7Y.srt
+    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/scales-of-the-hydrogen-atom/GWMeYKUvj7Y.srt
+    title: 3play caption file
+    type: null
+    uid: 2cdc98fc3ae4f14ca66260f3d9b40275
+  - id: GWMeYKUvj7Y.pdf
+    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/scales-of-the-hydrogen-atom/GWMeYKUvj7Y.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4c8d838dc645a811b2494e85bd76aff3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e2086166cabe5f5662418567555752d0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1152274b75270f85d1e3bea53e2836f4
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: acfae8b6ab2eb590675f97c25ca7de96
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec22_s2_300k.mp4'
+    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 57c9ab89897ce9f3431705ea3c0029c7
+inline_embed_id: 97870995scalesofthehydrogenatom98854127
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: scales-of-the-hydrogen-atom
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/scales-of-the-hydrogen-atom
-short_url: scales-of-the-hydrogen-atom
-inline_embed_id: 97870995scalesofthehydrogenatom98854127
-about_this_resource_text: ''
-related_resources_text: ''
+title: Scales of the hydrogen atom
 transcript: >-
   <p><span m='420'>PROFESSOR:</span> <span m='577'>Hydrogen</span> <span
   m='735'>atom,</span> <span m='11680'>the</span> <span m='11800'>first</span>
@@ -448,61 +502,7 @@ transcript: >-
   m='592770'>energies</span> <span m='593280'>that</span> <span
   m='593430'>we're</span> <span m='593610'>supposed</span> <span
   m='593970'>to</span> <span m='594090'>get.</span> </p>
-embedded_media:
-  - uid: 828358fdfab6a48fda0e20ca1a13cf99
-    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: GWMeYKUvj7Y
-  - uid: 403164d7f78fdc6bcfa1b7b756aeeb5d
-    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/GWMeYKUvj7Y/default.jpg'
-  - uid: 7bdaba27f8001883a1eaef3fa39749a5
-    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: GWMeYKUvj7Y
-  - uid: 2cdc98fc3ae4f14ca66260f3d9b40275
-    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
-    id: GWMeYKUvj7Y.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/scales-of-the-hydrogen-atom/GWMeYKUvj7Y.srt
-  - uid: 4c8d838dc645a811b2494e85bd76aff3
-    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
-    id: GWMeYKUvj7Y.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/scales-of-the-hydrogen-atom/GWMeYKUvj7Y.pdf
-  - uid: e2086166cabe5f5662418567555752d0
-    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1152274b75270f85d1e3bea53e2836f4
-    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: acfae8b6ab2eb590675f97c25ca7de96
-    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 57c9ab89897ce9f3431705ea3c0029c7
-    parent_uid: 96ca2287e2a3edc080dd37ef35eb3552
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec22_s2_300k.mp4'
+uid: 96ca2287e2a3edc080dd37ef35eb3552
 type: courses
 layout: video
 ---

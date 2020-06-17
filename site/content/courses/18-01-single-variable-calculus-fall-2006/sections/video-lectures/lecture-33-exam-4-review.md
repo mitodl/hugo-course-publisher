@@ -1,18 +1,90 @@
 ---
-title: 'Lecture 33: Exam 4 Review'
-uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-33-exam-4-review
-short_url: lecture-33-exam-4-review
-inline_embed_id: '48556110lecture33:exam4review50132127'
 about_this_resource_text: >-
   <div class="vidpad"><p><em>Note: Lecture 34 was an exam session. No video was
   recorded.</em></p><p><strong>Topics covered:</strong> Exam 4 review</p>
   <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec33.jpg
+    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-33-exam-4-review/lec33.jpg
+    title: Lecture 33
+    type: null
+    uid: fac249efe63c2df4a34f574b32161c0d
+  - id: Video-YouTube-Stream
+    media_location: BGE3wb7H2PA
+    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6c1a008ad99714deb100c0c3ad08b3f8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BGE3wb7H2PA/default.jpg'
+    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7e186fe327c55b9bfc5de0efafee7e2b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f672b35fbae50505644b68916884ea4a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec33_300k.mp4'
+    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 600a2f57cd5f34e8ff68130a0cd45c1f
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 95e41320fd38f3b4f847d49859b253e2
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 19d02979d6a24254e107730eb978b91b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BGE3wb7H2PA
+    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 496e0be795e9c9cb62d2c85379d32c32
+  - id: BGE3wb7H2PA.srt
+    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-33-exam-4-review/BGE3wb7H2PA.srt
+    title: 3play caption file
+    type: null
+    uid: 517f89d8517f2961ae6bab4943b7da7f
+  - id: BGE3wb7H2PA.pdf
+    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-33-exam-4-review/BGE3wb7H2PA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 966e55f267816d6dbdcead88ca3a2240
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 56234d179b40845ab609e3680057912a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0106224b41537e778c3d601be0a799c4
+inline_embed_id: '48556110lecture33:exam4review50132127'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/0202fa3893049a6a502c4f7079eca657">PDF</a>)</p></div>
+short_url: lecture-33-exam-4-review
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-33-exam-4-review
+title: 'Lecture 33: Exam 4 Review'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following</span> <span
   m='530'>content</span> <span m='1270'>is</span> <span m='1420'>provided</span>
@@ -2724,79 +2796,7 @@ transcript: >-
   m='2943540'>just</span> <span m='2943900'>keep</span> <span
   m='2944090'>that</span> <span m='2944290'>in</span> <span
   m='2944370'>mind.</span> </p>
-embedded_media:
-  - uid: fac249efe63c2df4a34f574b32161c0d
-    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
-    id: lec33.jpg
-    title: Lecture 33
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-33-exam-4-review/lec33.jpg
-  - uid: 6c1a008ad99714deb100c0c3ad08b3f8
-    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BGE3wb7H2PA
-  - uid: 7e186fe327c55b9bfc5de0efafee7e2b
-    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BGE3wb7H2PA/default.jpg'
-  - uid: f672b35fbae50505644b68916884ea4a
-    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: 600a2f57cd5f34e8ff68130a0cd45c1f
-    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec33_300k.mp4'
-  - uid: 95e41320fd38f3b4f847d49859b253e2
-    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 19d02979d6a24254e107730eb978b91b
-    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 496e0be795e9c9cb62d2c85379d32c32
-    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BGE3wb7H2PA
-  - uid: 517f89d8517f2961ae6bab4943b7da7f
-    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
-    id: BGE3wb7H2PA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-33-exam-4-review/BGE3wb7H2PA.srt
-  - uid: 966e55f267816d6dbdcead88ca3a2240
-    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
-    id: BGE3wb7H2PA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-33-exam-4-review/BGE3wb7H2PA.pdf
-  - uid: 56234d179b40845ab609e3680057912a
-    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0106224b41537e778c3d601be0a799c4
-    parent_uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
 type: courses
 layout: video
 ---

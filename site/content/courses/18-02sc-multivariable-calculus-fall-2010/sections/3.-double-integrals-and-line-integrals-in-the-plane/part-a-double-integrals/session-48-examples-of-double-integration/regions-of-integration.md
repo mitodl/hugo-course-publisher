@@ -1,13 +1,68 @@
 ---
-title: Regions of Integration
-uid: 61c4eae457fa3a716932006a41a5c820
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BefxsWy1HqY
+    parent_uid: 61c4eae457fa3a716932006a41a5c820
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 963b72a9927866c7903329d89f728a5f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BefxsWy1HqY/default.jpg'
+    parent_uid: 61c4eae457fa3a716932006a41a5c820
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8847c3dfddf1ac292c53368846be53e3
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_32_300k.mp4'
+    parent_uid: 61c4eae457fa3a716932006a41a5c820
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 15d4cd6413aea70e0962cc5f1c1a5ab9
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/regions-of-integration/id414355340?i=90322860
+    parent_uid: 61c4eae457fa3a716932006a41a5c820
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3676039e28ce78a35f761f84ed1bacb9
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: BefxsWy1HqY
+    parent_uid: 61c4eae457fa3a716932006a41a5c820
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 54080a29e49a13408cc6affbdc3ef82e
+  - id: BefxsWy1HqY.srt
+    parent_uid: 61c4eae457fa3a716932006a41a5c820
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-48-examples-of-double-integration/regions-of-integration/BefxsWy1HqY.srt
+    title: 3play caption file
+    type: null
+    uid: 6153ceda716b5e8785e3b3bc4ce098af
+  - id: BefxsWy1HqY.pdf
+    parent_uid: 61c4eae457fa3a716932006a41a5c820
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-48-examples-of-double-integration/regions-of-integration/BefxsWy1HqY.pdf
+    title: 3play pdf file
+    type: null
+    uid: ac9d07a8eabb6669a3fbc7d59c8eee17
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 61c4eae457fa3a716932006a41a5c820
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0ed506e48fb69d29440186ce558e87d6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 61c4eae457fa3a716932006a41a5c820
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d9fd43de9873b0b3501380a0f59a3fa2
+inline_embed_id: 4146036regionsofintegration31869937
 parent_uid: 3ad461149d5e6097256336b54cf159d4
+related_resources_text: ''
+short_url: regions-of-integration
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-48-examples-of-double-integration/regions-of-integration
-short_url: regions-of-integration
-inline_embed_id: 4146036regionsofintegration31869937
-about_this_resource_text: ''
-related_resources_text: ''
+title: Regions of Integration
 transcript: >-
   <p><span m='7030'>JOEL LEWIS: Hi.</span> <span m='7490'>Welcome</span> <span
   m='7780'>back</span> <span m='7895'>to</span> <span
@@ -1340,62 +1395,7 @@ transcript: >-
   m='1063210'>was.</span> <span m='1063780'>I</span> <span
   m='1064130'>think</span> <span m='1064370'>I'll</span> <span
   m='1064460'>end</span> <span m='1064565'>there.</span> </p>
-embedded_media:
-  - uid: 963b72a9927866c7903329d89f728a5f
-    parent_uid: 61c4eae457fa3a716932006a41a5c820
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BefxsWy1HqY
-  - uid: 8847c3dfddf1ac292c53368846be53e3
-    parent_uid: 61c4eae457fa3a716932006a41a5c820
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BefxsWy1HqY/default.jpg'
-  - uid: 15d4cd6413aea70e0962cc5f1c1a5ab9
-    parent_uid: 61c4eae457fa3a716932006a41a5c820
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_32_300k.mp4'
-  - uid: 3676039e28ce78a35f761f84ed1bacb9
-    parent_uid: 61c4eae457fa3a716932006a41a5c820
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/regions-of-integration/id414355340?i=90322860
-  - uid: 54080a29e49a13408cc6affbdc3ef82e
-    parent_uid: 61c4eae457fa3a716932006a41a5c820
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BefxsWy1HqY
-  - uid: 6153ceda716b5e8785e3b3bc4ce098af
-    parent_uid: 61c4eae457fa3a716932006a41a5c820
-    id: BefxsWy1HqY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-48-examples-of-double-integration/regions-of-integration/BefxsWy1HqY.srt
-  - uid: ac9d07a8eabb6669a3fbc7d59c8eee17
-    parent_uid: 61c4eae457fa3a716932006a41a5c820
-    id: BefxsWy1HqY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-48-examples-of-double-integration/regions-of-integration/BefxsWy1HqY.pdf
-  - uid: 0ed506e48fb69d29440186ce558e87d6
-    parent_uid: 61c4eae457fa3a716932006a41a5c820
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d9fd43de9873b0b3501380a0f59a3fa2
-    parent_uid: 61c4eae457fa3a716932006a41a5c820
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 61c4eae457fa3a716932006a41a5c820
 type: courses
 layout: video
 ---

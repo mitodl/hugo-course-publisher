@@ -1,15 +1,69 @@
 ---
-title: 'Lecture 15: Linear Programming: LP, reductions, Simplex'
-uid: 384a024ba2b3cd026f49bed9647ba8ba
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-15-linear-programming-lp-reductions-simplex
-short_url: lecture-15-linear-programming-lp-reductions-simplex
-inline_embed_id: '62867694lecture15:linearprogramming:lp,reductions,simplex17824343'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Devadas introduces
   linear programming.</p> <p><strong>Instructors:</strong> Srinivas Devadas</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: WwMz2fJwUCg
+    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6437758749e3302bc37a64198fe491dd
+  - id: WwMz2fJwUCg.srt
+    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-15-linear-programming-lp-reductions-simplex/WwMz2fJwUCg.srt
+    title: 3play caption file
+    type: null
+    uid: e27b8948ceb654fc31677a98652cbfa9
+  - id: WwMz2fJwUCg.pdf
+    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-15-linear-programming-lp-reductions-simplex/WwMz2fJwUCg.pdf
+    title: 3play pdf file
+    type: null
+    uid: d7ca543a0cdf37de9a29f0033bac7d99
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e453e0a5908b74b52f99ead63bbad2ba
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dbf61151b1efe2d786619082e7ad737d
+  - id: Video-YouTube-Stream
+    media_location: WwMz2fJwUCg
+    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5cee35388ac978ac5b0e163da33a10cf
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/WwMz2fJwUCg/default.jpg'
+    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6d2f91873c0c06e498b569bed8c20d02
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8bd5cbea1a5a9c109ea412ad0b030820
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec15_300k.mp4'
+    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2e77d4d00bd6dc5ac97103d5196998b1
+inline_embed_id: '62867694lecture15:linearprogramming:lp,reductions,simplex17824343'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-15-linear-programming-lp-reductions-simplex
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-15-linear-programming-lp-reductions-simplex
+title: 'Lecture 15: Linear Programming: LP, reductions, Simplex'
 transcript: >-
   <p><span m="70">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4729,61 +4783,7 @@ transcript: >-
   m="4943110">value is</span> <span m="4943450">30.</span> <span
   m="4944350">See</span> <span m="4944650">you</span> <span m="4944950">next
   time.</span></p>
-embedded_media:
-  - uid: 6437758749e3302bc37a64198fe491dd
-    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: WwMz2fJwUCg
-  - uid: e27b8948ceb654fc31677a98652cbfa9
-    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
-    id: WwMz2fJwUCg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-15-linear-programming-lp-reductions-simplex/WwMz2fJwUCg.srt
-  - uid: d7ca543a0cdf37de9a29f0033bac7d99
-    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
-    id: WwMz2fJwUCg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-15-linear-programming-lp-reductions-simplex/WwMz2fJwUCg.pdf
-  - uid: e453e0a5908b74b52f99ead63bbad2ba
-    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dbf61151b1efe2d786619082e7ad737d
-    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5cee35388ac978ac5b0e163da33a10cf
-    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: WwMz2fJwUCg
-  - uid: 6d2f91873c0c06e498b569bed8c20d02
-    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/WwMz2fJwUCg/default.jpg'
-  - uid: 8bd5cbea1a5a9c109ea412ad0b030820
-    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 2e77d4d00bd6dc5ac97103d5196998b1
-    parent_uid: 384a024ba2b3cd026f49bed9647ba8ba
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec15_300k.mp4'
+uid: 384a024ba2b3cd026f49bed9647ba8ba
 type: courses
 layout: video
 ---

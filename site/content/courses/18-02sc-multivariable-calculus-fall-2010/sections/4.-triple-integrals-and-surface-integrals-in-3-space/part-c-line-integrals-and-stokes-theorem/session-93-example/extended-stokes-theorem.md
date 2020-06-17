@@ -1,13 +1,68 @@
 ---
-title: Extended Stokes' Theorem
-uid: 623446bb74ecadab2bec45ea17d9df19
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 7w1qqEUwn2k
+    parent_uid: 623446bb74ecadab2bec45ea17d9df19
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 593d27aec7e53cb5f50998268aa34947
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7w1qqEUwn2k/default.jpg'
+    parent_uid: 623446bb74ecadab2bec45ea17d9df19
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: dbe7607f29804cb6b183ececf1880d47
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7w1qqEUwn2k
+    parent_uid: 623446bb74ecadab2bec45ea17d9df19
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 83af1b7fbe310da1cd27e3b116d812a3
+  - id: 7w1qqEUwn2k.srt
+    parent_uid: 623446bb74ecadab2bec45ea17d9df19
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-93-example/extended-stokes-theorem/7w1qqEUwn2k.srt
+    title: 3play caption file
+    type: null
+    uid: 166f0217dbad2212b9ce1be530eba4a8
+  - id: 7w1qqEUwn2k.pdf
+    parent_uid: 623446bb74ecadab2bec45ea17d9df19
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-93-example/extended-stokes-theorem/7w1qqEUwn2k.pdf
+    title: 3play pdf file
+    type: null
+    uid: d77f0e20fe3af0f6a07189e4273ebd20
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 623446bb74ecadab2bec45ea17d9df19
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a2ba0cb08418c2b3b8eaa7880deb92e0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 623446bb74ecadab2bec45ea17d9df19
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e3702117bdeec5511c8b0c13b30b5f69
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/extended-stokes-theorem/id414355340?i=90323144
+    parent_uid: 623446bb74ecadab2bec45ea17d9df19
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f4518c83b1777e6e5ba9a5ccaad622ad
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_66_300k.mp4'
+    parent_uid: 623446bb74ecadab2bec45ea17d9df19
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: dfd8f376d94756ba877563824202627d
+inline_embed_id: 27518354extendedstokes'theorem12129425
 parent_uid: 2135423b6b5a305e81a91b1358ec262c
+related_resources_text: ''
+short_url: extended-stokes-theorem
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-93-example/extended-stokes-theorem
-short_url: extended-stokes-theorem
-inline_embed_id: 27518354extendedstokes'theorem12129425
-about_this_resource_text: ''
-related_resources_text: ''
+title: Extended Stokes' Theorem
 transcript: >-
   <p><span m='7650'>JOEL LEWIS: Hi.</span> <span m='8120'>Welcome</span> <span
   m='8450'>back</span> <span m='8660'>to</span> <span
@@ -976,62 +1031,7 @@ transcript: >-
   m='936930'>answer,</span> <span m='937620'>and</span> <span
   m='937790'>I'll</span> <span m='937830'>end</span> <span
   m='937870'>there.</span> </p>
-embedded_media:
-  - uid: 593d27aec7e53cb5f50998268aa34947
-    parent_uid: 623446bb74ecadab2bec45ea17d9df19
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 7w1qqEUwn2k
-  - uid: dbe7607f29804cb6b183ececf1880d47
-    parent_uid: 623446bb74ecadab2bec45ea17d9df19
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7w1qqEUwn2k/default.jpg'
-  - uid: 83af1b7fbe310da1cd27e3b116d812a3
-    parent_uid: 623446bb74ecadab2bec45ea17d9df19
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7w1qqEUwn2k
-  - uid: 166f0217dbad2212b9ce1be530eba4a8
-    parent_uid: 623446bb74ecadab2bec45ea17d9df19
-    id: 7w1qqEUwn2k.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-93-example/extended-stokes-theorem/7w1qqEUwn2k.srt
-  - uid: d77f0e20fe3af0f6a07189e4273ebd20
-    parent_uid: 623446bb74ecadab2bec45ea17d9df19
-    id: 7w1qqEUwn2k.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-93-example/extended-stokes-theorem/7w1qqEUwn2k.pdf
-  - uid: a2ba0cb08418c2b3b8eaa7880deb92e0
-    parent_uid: 623446bb74ecadab2bec45ea17d9df19
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e3702117bdeec5511c8b0c13b30b5f69
-    parent_uid: 623446bb74ecadab2bec45ea17d9df19
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f4518c83b1777e6e5ba9a5ccaad622ad
-    parent_uid: 623446bb74ecadab2bec45ea17d9df19
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/extended-stokes-theorem/id414355340?i=90323144
-  - uid: dfd8f376d94756ba877563824202627d
-    parent_uid: 623446bb74ecadab2bec45ea17d9df19
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_66_300k.mp4'
+uid: 623446bb74ecadab2bec45ea17d9df19
 type: courses
 layout: video
 ---

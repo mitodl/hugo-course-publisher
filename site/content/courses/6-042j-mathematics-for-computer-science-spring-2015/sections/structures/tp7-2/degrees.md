@@ -1,13 +1,73 @@
 ---
-title: Degrees
-uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 4ae9f2f16c0a80fadb207fc8ad247ee3
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: dcc5fa5c550610efd5c5af8c5e86dbd8
+  - id: Video-YouTube-Stream
+    media_location: TIpnudrzvgg
+    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6d532824eaf4b769ad5fe6d49f3f78ba
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TIpnudrzvgg/default.jpg'
+    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9495207013e5d3a08db87b28188663f5
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: TIpnudrzvgg
+    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3a5d65eb9c293478b9c345e1afaf18e8
+  - id: TIpnudrzvgg.srt
+    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/degrees/TIpnudrzvgg.srt
+    title: 3play caption file
+    type: null
+    uid: eb77bc1c704fea507f1e5d1f32a3965b
+  - id: TIpnudrzvgg.pdf
+    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/degrees/TIpnudrzvgg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 15579579cd0a723cd7b4adff4855b8b9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b5322c431088c47fd86319013dab0bf7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d0b17c3d109245e98699ef5677f4b991
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_simpledegrees_video_ipod.mp4
+    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6adc50c0fbe04ec8aa0deb24d47483e8
+inline_embed_id: 35884914degrees4094829
 parent_uid: a3d452862b8219138b1e93f45114b315
+related_resources_text: ''
+short_url: degrees
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/degrees
-short_url: degrees
-inline_embed_id: 35884914degrees4094829
-about_this_resource_text: ''
-related_resources_text: ''
+title: Degrees
 transcript: >-
   <p><span m='1280'>PROFESSOR: So</span> <span m='1720'>now</span> <span
   m='1990'>we</span> <span m='2110'>start</span> <span m='2430'>on</span> <span
@@ -865,67 +925,7 @@ transcript: >-
   <span m='675340'>longer</span> <span m='675750'>be</span> <span
   m='675920'>fooled</span> <span m='676330'>by</span> <span
   m='676510'>such</span> <span m='676850'>nonsense.</span> </p>
-embedded_media:
-  - uid: 4ae9f2f16c0a80fadb207fc8ad247ee3
-    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: dcc5fa5c550610efd5c5af8c5e86dbd8
-    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 6d532824eaf4b769ad5fe6d49f3f78ba
-    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TIpnudrzvgg
-  - uid: 9495207013e5d3a08db87b28188663f5
-    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TIpnudrzvgg/default.jpg'
-  - uid: 3a5d65eb9c293478b9c345e1afaf18e8
-    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TIpnudrzvgg
-  - uid: eb77bc1c704fea507f1e5d1f32a3965b
-    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
-    id: TIpnudrzvgg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/degrees/TIpnudrzvgg.srt
-  - uid: 15579579cd0a723cd7b4adff4855b8b9
-    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
-    id: TIpnudrzvgg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/degrees/TIpnudrzvgg.pdf
-  - uid: b5322c431088c47fd86319013dab0bf7
-    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d0b17c3d109245e98699ef5677f4b991
-    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6adc50c0fbe04ec8aa0deb24d47483e8
-    parent_uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_simpledegrees_video_ipod.mp4
+uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
 type: courses
 layout: video
 ---

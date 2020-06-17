@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Volume of a Sphere'
-uid: 6126c8ea5afaa806f5cd1f11bf0653e3
-parent_uid: ea17c591946bebd5f9a9889e9e6fa3ee
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-58-volume-of-a-sphere-revolving-about-x-axis/clip-1-volume-of-a-sphere
-short_url: clip-1-volume-of-a-sphere
-inline_embed_id: '11672417clip1:volumeofasphere9239699'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/c25d26b04ffe46ac331b9c63c760048b"
   target="_blank"> Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 22 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ShGBRUx2ub8
+    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0d37d0ad5df953c428375d713be0d803
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ShGBRUx2ub8/default.jpg'
+    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c3522ab155fbcde552f67d239f889f8d
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: ShGBRUx2ub8
+    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 542ca24311b2dacf353bfcc37a0c0b45
+  - id: ShGBRUx2ub8.srt
+    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-58-volume-of-a-sphere-revolving-about-x-axis/clip-1-volume-of-a-sphere/ShGBRUx2ub8.srt
+    title: 3play caption file
+    type: null
+    uid: b29cf1f9e67a99405ef39150386fe434
+  - id: ShGBRUx2ub8.pdf
+    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-58-volume-of-a-sphere-revolving-about-x-axis/clip-1-volume-of-a-sphere/ShGBRUx2ub8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 22a7d82e01ec950b8e1580a29a816720
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4e00af0fa7db91ae6c64756d9d2a7f64
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 374daa574ad4db47c3e448258604b4a5
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec22_300k.mp4'
+    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d9e9fb8ac4ddef4b51f524dfcba6f14e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5d0e25b4216d8df109d8dab67c200978
+inline_embed_id: '11672417clip1:volumeofasphere9239699'
+parent_uid: ea17c591946bebd5f9a9889e9e6fa3ee
 related_resources_text: ''
+short_url: clip-1-volume-of-a-sphere
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-58-volume-of-a-sphere-revolving-about-x-axis/clip-1-volume-of-a-sphere
+title: 'Clip 1: Volume of a Sphere'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following</span> <span
   m='530'>content</span> <span m='1300'>is</span> <span m='1420'>provided</span>
@@ -2720,61 +2774,7 @@ transcript: >-
   it</span> <span m='2992780'>takes</span> <span m='2993900'>to</span> <span
   m='2994700'>boil</span> <span m='2995100'>the</span> <span
   m='2995160'>kettle.</span> </p>
-embedded_media:
-  - uid: 0d37d0ad5df953c428375d713be0d803
-    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ShGBRUx2ub8
-  - uid: c3522ab155fbcde552f67d239f889f8d
-    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ShGBRUx2ub8/default.jpg'
-  - uid: 542ca24311b2dacf353bfcc37a0c0b45
-    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ShGBRUx2ub8
-  - uid: b29cf1f9e67a99405ef39150386fe434
-    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
-    id: ShGBRUx2ub8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-58-volume-of-a-sphere-revolving-about-x-axis/clip-1-volume-of-a-sphere/ShGBRUx2ub8.srt
-  - uid: 22a7d82e01ec950b8e1580a29a816720
-    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
-    id: ShGBRUx2ub8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-58-volume-of-a-sphere-revolving-about-x-axis/clip-1-volume-of-a-sphere/ShGBRUx2ub8.pdf
-  - uid: 4e00af0fa7db91ae6c64756d9d2a7f64
-    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 374daa574ad4db47c3e448258604b4a5
-    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d9e9fb8ac4ddef4b51f524dfcba6f14e
-    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec22_300k.mp4'
-  - uid: 5d0e25b4216d8df109d8dab67c200978
-    parent_uid: 6126c8ea5afaa806f5cd1f11bf0653e3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 6126c8ea5afaa806f5cd1f11bf0653e3
 type: courses
 layout: video
 ---

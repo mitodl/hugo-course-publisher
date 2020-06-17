@@ -1,13 +1,67 @@
 ---
-title: 'In-class activity: Educational video analysis'
-uid: 242450b0043db7bffa1955be9e8a09c2
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 242450b0043db7bffa1955be9e8a09c2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 079ab6371c58e4714bf96ea3d96ead46
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D01P1_300k.mp4'
+    parent_uid: 242450b0043db7bffa1955be9e8a09c2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f3f8e2e3b5ba255c7329fea81dc21640
+  - id: Video-YouTube-Stream
+    media_location: VBgVRviSKek
+    parent_uid: 242450b0043db7bffa1955be9e8a09c2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e2443f267ac298d19e6545e5536d9c62
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: VBgVRviSKek
+    parent_uid: 242450b0043db7bffa1955be9e8a09c2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f43e30a5063b4f28e39aa737004110fb
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/VBgVRviSKek/default.jpg'
+    parent_uid: 242450b0043db7bffa1955be9e8a09c2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6cf9ff25af41ada0b9b46a957d91fbb1
+  - id: VBgVRviSKek.srt
+    parent_uid: 242450b0043db7bffa1955be9e8a09c2
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/copy4_of_day-1-part-1/VBgVRviSKek.srt
+    title: 3play caption file
+    type: null
+    uid: 6e855d4de75d4622aacbf3ad039bb1b0
+  - id: VBgVRviSKek.pdf
+    parent_uid: 242450b0043db7bffa1955be9e8a09c2
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/copy4_of_day-1-part-1/VBgVRviSKek.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7c44d52984c83bf86f418e76d6f53755
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: 242450b0043db7bffa1955be9e8a09c2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5c21d9a044d7c3581220e7dff3d89df7
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: 242450b0043db7bffa1955be9e8a09c2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5442ee8f0ecfc102c15d773751f460f9
+inline_embed_id: '39882094in-classactivity:educationalvideoanalysis75288718'
 parent_uid: e7ab07a59bf478a18a95a815093ec211
+related_resources_text: ''
+short_url: copy4_of_day-1-part-1
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/copy4_of_day-1-part-1
-short_url: copy4_of_day-1-part-1
-inline_embed_id: '39882094in-classactivity:educationalvideoanalysis75288718'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'In-class activity: Educational video analysis'
 transcript: >-
   <p><span m="90">The</span> <span m="170">following</span> <span
   m="610">content</span> <span m="1120">is</span> <span m="1230">provided</span>
@@ -6373,61 +6427,7 @@ transcript: >-
   m="5312510">Chris,</span> <span m="5313220">I will</span> <span
   m="5313270">let</span> <span m="5313500">you</span> <span
   m="5313570">take</span> <span m="5313740">over.</span></p>
-embedded_media:
-  - uid: 079ab6371c58e4714bf96ea3d96ead46
-    parent_uid: 242450b0043db7bffa1955be9e8a09c2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: f3f8e2e3b5ba255c7329fea81dc21640
-    parent_uid: 242450b0043db7bffa1955be9e8a09c2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D01P1_300k.mp4'
-  - uid: e2443f267ac298d19e6545e5536d9c62
-    parent_uid: 242450b0043db7bffa1955be9e8a09c2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VBgVRviSKek
-  - uid: f43e30a5063b4f28e39aa737004110fb
-    parent_uid: 242450b0043db7bffa1955be9e8a09c2
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VBgVRviSKek
-  - uid: 6cf9ff25af41ada0b9b46a957d91fbb1
-    parent_uid: 242450b0043db7bffa1955be9e8a09c2
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VBgVRviSKek/default.jpg'
-  - uid: 6e855d4de75d4622aacbf3ad039bb1b0
-    parent_uid: 242450b0043db7bffa1955be9e8a09c2
-    id: VBgVRviSKek.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/copy4_of_day-1-part-1/VBgVRviSKek.srt
-  - uid: 7c44d52984c83bf86f418e76d6f53755
-    parent_uid: 242450b0043db7bffa1955be9e8a09c2
-    id: VBgVRviSKek.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/copy4_of_day-1-part-1/VBgVRviSKek.pdf
-  - uid: 5c21d9a044d7c3581220e7dff3d89df7
-    parent_uid: 242450b0043db7bffa1955be9e8a09c2
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5442ee8f0ecfc102c15d773751f460f9
-    parent_uid: 242450b0043db7bffa1955be9e8a09c2
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 242450b0043db7bffa1955be9e8a09c2
 type: courses
 layout: video
 ---

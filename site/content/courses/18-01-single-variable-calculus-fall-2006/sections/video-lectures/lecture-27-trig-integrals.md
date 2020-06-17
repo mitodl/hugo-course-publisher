@@ -1,20 +1,92 @@
 ---
-title: 'Lecture 27: Trig Integrals'
-uid: e33009e8365fe67def33a653dea6368f
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-27-trig-integrals
-short_url: lecture-27-trig-integrals
-inline_embed_id: '50082439lecture27:trigintegrals84626598'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Trigonometric
   integrals and substitution</p> <p>Note: This video lecture was recorded in the
   Fall of 2007 and corresponds to the lecture notes for lecture 26 taught in the
   Fall of 2006.</p> <p><strong>Instructor:</strong> Prof. David
   Jerison</p></div>
+embedded_media:
+  - id: lec27.jpg
+    parent_uid: e33009e8365fe67def33a653dea6368f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-27-trig-integrals/lec27.jpg
+    title: Lecture 27
+    type: null
+    uid: 0b9114256a50ac7f7dcb15369177bb1f
+  - id: Video-YouTube-Stream
+    media_location: Bv9kVDcj7yo
+    parent_uid: e33009e8365fe67def33a653dea6368f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8350b1d4b693172c17ca8072a04549cc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Bv9kVDcj7yo/default.jpg'
+    parent_uid: e33009e8365fe67def33a653dea6368f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bbe860c8e74b7600ea7057d360a06eaa
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: e33009e8365fe67def33a653dea6368f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6a405c805682aef225aece7145c7f08b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec27_300k.mp4'
+    parent_uid: e33009e8365fe67def33a653dea6368f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d6d54820684185f648969adf4e2dce20
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: e33009e8365fe67def33a653dea6368f
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 10a303720c007e3f9d27ad0f550c7ada
+  - id: Thumbnail-OCW-JPG
+    parent_uid: e33009e8365fe67def33a653dea6368f
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 308b91c6ec99e4614a24889dec560b02
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Bv9kVDcj7yo
+    parent_uid: e33009e8365fe67def33a653dea6368f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9feef06398d0f53ef3197b7ab9ccc85c
+  - id: Bv9kVDcj7yo.srt
+    parent_uid: e33009e8365fe67def33a653dea6368f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-27-trig-integrals/Bv9kVDcj7yo.srt
+    title: 3play caption file
+    type: null
+    uid: 73c209cd6af1cc9ee51c1708940d6e1b
+  - id: Bv9kVDcj7yo.pdf
+    parent_uid: e33009e8365fe67def33a653dea6368f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-27-trig-integrals/Bv9kVDcj7yo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5100140a351e3023da19821777890a3c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e33009e8365fe67def33a653dea6368f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8955964df6aba8b60c851e3be63b9146
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e33009e8365fe67def33a653dea6368f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d5b577d4e4c7d18d22b829db4e494d65
+inline_embed_id: '50082439lecture27:trigintegrals84626598'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/b25e2ddd293746020ae78af50cb30372">PDF</a>)</p></div>
+short_url: lecture-27-trig-integrals
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-27-trig-integrals
+title: 'Lecture 27: Trig Integrals'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following</span> <span m='530'>content
   is provided</span> <span m='1900'>under a Creative</span> <span
@@ -2346,79 +2418,7 @@ transcript: >-
   m='2801790'>us</span> <span m='2801900'>to</span> <span
   m='2802020'>quit</span> <span m='2802220'>for</span> <span
   m='2802370'>today.</span> </p>
-embedded_media:
-  - uid: 0b9114256a50ac7f7dcb15369177bb1f
-    parent_uid: e33009e8365fe67def33a653dea6368f
-    id: lec27.jpg
-    title: Lecture 27
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-27-trig-integrals/lec27.jpg
-  - uid: 8350b1d4b693172c17ca8072a04549cc
-    parent_uid: e33009e8365fe67def33a653dea6368f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Bv9kVDcj7yo
-  - uid: bbe860c8e74b7600ea7057d360a06eaa
-    parent_uid: e33009e8365fe67def33a653dea6368f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Bv9kVDcj7yo/default.jpg'
-  - uid: 6a405c805682aef225aece7145c7f08b
-    parent_uid: e33009e8365fe67def33a653dea6368f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: d6d54820684185f648969adf4e2dce20
-    parent_uid: e33009e8365fe67def33a653dea6368f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec27_300k.mp4'
-  - uid: 10a303720c007e3f9d27ad0f550c7ada
-    parent_uid: e33009e8365fe67def33a653dea6368f
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 308b91c6ec99e4614a24889dec560b02
-    parent_uid: e33009e8365fe67def33a653dea6368f
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 9feef06398d0f53ef3197b7ab9ccc85c
-    parent_uid: e33009e8365fe67def33a653dea6368f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Bv9kVDcj7yo
-  - uid: 73c209cd6af1cc9ee51c1708940d6e1b
-    parent_uid: e33009e8365fe67def33a653dea6368f
-    id: Bv9kVDcj7yo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-27-trig-integrals/Bv9kVDcj7yo.srt
-  - uid: 5100140a351e3023da19821777890a3c
-    parent_uid: e33009e8365fe67def33a653dea6368f
-    id: Bv9kVDcj7yo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-27-trig-integrals/Bv9kVDcj7yo.pdf
-  - uid: 8955964df6aba8b60c851e3be63b9146
-    parent_uid: e33009e8365fe67def33a653dea6368f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d5b577d4e4c7d18d22b829db4e494d65
-    parent_uid: e33009e8365fe67def33a653dea6368f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e33009e8365fe67def33a653dea6368f
 type: courses
 layout: video
 ---

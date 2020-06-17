@@ -1,13 +1,73 @@
 ---
-title: Probability current and current conservation
-uid: 1622e088d308d15782be4a5e2a42b51b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: J2ltXyByPJA
+    parent_uid: 1622e088d308d15782be4a5e2a42b51b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ae9b1b34d705f6dab01e78f5733761e9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/I7EHPDYGnn0/default.jpg'
+    parent_uid: 1622e088d308d15782be4a5e2a42b51b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f578a2c5329d7a5cd59a0eaaab67a76d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: J2ltXyByPJA
+    parent_uid: 1622e088d308d15782be4a5e2a42b51b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 71736168523d11fe98b88d8d84697e73
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 1622e088d308d15782be4a5e2a42b51b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3a532f993d180e5d5b97e8a7261edded
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec06_s3_300k.mp4'
+    parent_uid: 1622e088d308d15782be4a5e2a42b51b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c45ff4c0dcd3a90c30e249d9be1755c1
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/J2ltXyByPJA/default.jpg'
+    parent_uid: 1622e088d308d15782be4a5e2a42b51b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a38768fa37f5e1608337349c876a6cdc
+  - id: J2ltXyByPJA.srt
+    parent_uid: 1622e088d308d15782be4a5e2a42b51b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/probability-current-and-current-conservation/J2ltXyByPJA.srt
+    title: 3play caption file
+    type: null
+    uid: fa2a3b4ed912be145d664d46de1f7206
+  - id: J2ltXyByPJA.pdf
+    parent_uid: 1622e088d308d15782be4a5e2a42b51b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/probability-current-and-current-conservation/J2ltXyByPJA.pdf
+    title: 3play pdf file
+    type: null
+    uid: eccc424f4e7cdd7d9f7eca2968b37bfb
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1622e088d308d15782be4a5e2a42b51b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 76789a0fa9678fc1ffdb8e1df1302a17
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1622e088d308d15782be4a5e2a42b51b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a7a0f3a638ff8033e68b834075d01512
+inline_embed_id: 16300824probabilitycurrentandcurrentconservation61387490
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: probability-current-and-current-conservation
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/probability-current-and-current-conservation
-short_url: probability-current-and-current-conservation
-inline_embed_id: 16300824probabilitycurrentandcurrentconservation61387490
-about_this_resource_text: ''
-related_resources_text: ''
+title: Probability current and current conservation
 transcript: >-
   <p><span m='300'>BARTON ZWIEBACH:</span> <span m='495'>After</span> <span
   m='690'>this</span> <span m='930'>long</span> <span m='1460'>detour,</span>
@@ -588,67 +648,7 @@ transcript: >-
   m='903190'>So</span> <span m='904650'>probability</span> <span
   m='907970'>per</span> <span m='908690'>unit</span> <span
   m='911090'>time.</span> </p>
-embedded_media:
-  - uid: ae9b1b34d705f6dab01e78f5733761e9
-    parent_uid: 1622e088d308d15782be4a5e2a42b51b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: J2ltXyByPJA
-  - uid: f578a2c5329d7a5cd59a0eaaab67a76d
-    parent_uid: 1622e088d308d15782be4a5e2a42b51b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/I7EHPDYGnn0/default.jpg'
-  - uid: 71736168523d11fe98b88d8d84697e73
-    parent_uid: 1622e088d308d15782be4a5e2a42b51b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: J2ltXyByPJA
-  - uid: 3a532f993d180e5d5b97e8a7261edded
-    parent_uid: 1622e088d308d15782be4a5e2a42b51b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: c45ff4c0dcd3a90c30e249d9be1755c1
-    parent_uid: 1622e088d308d15782be4a5e2a42b51b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec06_s3_300k.mp4'
-  - uid: a38768fa37f5e1608337349c876a6cdc
-    parent_uid: 1622e088d308d15782be4a5e2a42b51b
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/J2ltXyByPJA/default.jpg'
-  - uid: fa2a3b4ed912be145d664d46de1f7206
-    parent_uid: 1622e088d308d15782be4a5e2a42b51b
-    id: J2ltXyByPJA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/probability-current-and-current-conservation/J2ltXyByPJA.srt
-  - uid: eccc424f4e7cdd7d9f7eca2968b37bfb
-    parent_uid: 1622e088d308d15782be4a5e2a42b51b
-    id: J2ltXyByPJA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/probability-current-and-current-conservation/J2ltXyByPJA.pdf
-  - uid: 76789a0fa9678fc1ffdb8e1df1302a17
-    parent_uid: 1622e088d308d15782be4a5e2a42b51b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a7a0f3a638ff8033e68b834075d01512
-    parent_uid: 1622e088d308d15782be4a5e2a42b51b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 1622e088d308d15782be4a5e2a42b51b
 type: courses
 layout: video
 ---

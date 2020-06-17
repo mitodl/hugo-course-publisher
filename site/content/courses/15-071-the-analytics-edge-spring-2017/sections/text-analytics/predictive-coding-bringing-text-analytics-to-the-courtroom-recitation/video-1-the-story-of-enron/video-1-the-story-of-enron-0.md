@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: The Story of Enron'
-uid: 78bf586e906b7d1a3d904f3f1f51c210
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: hqiH39PShmA
+    parent_uid: 78bf586e906b7d1a3d904f3f1f51c210
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 539bdd87a69731740094633483fd5e18
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: hqiH39PShmA
+    parent_uid: 78bf586e906b7d1a3d904f3f1f51c210
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 84168ea5befe5e5c9aecd4064879d107
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/hqiH39PShmA/default.jpg'
+    parent_uid: 78bf586e906b7d1a3d904f3f1f51c210
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8fb986d0cdf6731e63a8794e440e230e
+  - id: hqiH39PShmA.srt
+    parent_uid: 78bf586e906b7d1a3d904f3f1f51c210
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-1-the-story-of-enron/video-1-the-story-of-enron-0/hqiH39PShmA.srt
+    title: 3play caption file
+    type: null
+    uid: f4e1ea9f76b60fd2579aaf0a39246b84
+  - id: hqiH39PShmA.pdf
+    parent_uid: 78bf586e906b7d1a3d904f3f1f51c210
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-1-the-story-of-enron/video-1-the-story-of-enron-0/hqiH39PShmA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 708c8a3d5201f0153be0ace779dfdacd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 78bf586e906b7d1a3d904f3f1f51c210
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 26e053d42d33a6ddc38350bb23a9120c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 78bf586e906b7d1a3d904f3f1f51c210
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6c688b28a9b44ae04f55f99da92f28ef
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.4.02_300k.mp4
+    parent_uid: 78bf586e906b7d1a3d904f3f1f51c210
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: becb593d6f31fba0db4b6c9ceda9c6e4
+inline_embed_id: 52830050video1thestoryofenron94336659
 parent_uid: 035dbca412401abd0c08bb9c1c3c233d
+related_resources_text: ''
+short_url: video-1-the-story-of-enron-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-1-the-story-of-enron/video-1-the-story-of-enron-0
-short_url: video-1-the-story-of-enron-0
-inline_embed_id: 52830050video1thestoryofenron94336659
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: The Story of Enron'
 transcript: >-
   <p><span m='9500'>In</span> <span m='9754'>this</span> <span
   m='10008'>recitation,</span> <span m='10262'>we're</span> <span
@@ -230,56 +279,7 @@ transcript: >-
   m='201530'>legal</span> <span m='202116'>track,</span> <span
   m='202703'>a</span> <span m='203290'>predictive</span> <span
   m='203876'>coding</span> <span m='204463'>competition.</span> </p>
-embedded_media:
-  - uid: 539bdd87a69731740094633483fd5e18
-    parent_uid: 78bf586e906b7d1a3d904f3f1f51c210
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: hqiH39PShmA
-  - uid: 84168ea5befe5e5c9aecd4064879d107
-    parent_uid: 78bf586e906b7d1a3d904f3f1f51c210
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: hqiH39PShmA
-  - uid: 8fb986d0cdf6731e63a8794e440e230e
-    parent_uid: 78bf586e906b7d1a3d904f3f1f51c210
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/hqiH39PShmA/default.jpg'
-  - uid: f4e1ea9f76b60fd2579aaf0a39246b84
-    parent_uid: 78bf586e906b7d1a3d904f3f1f51c210
-    id: hqiH39PShmA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-1-the-story-of-enron/video-1-the-story-of-enron-0/hqiH39PShmA.srt
-  - uid: 708c8a3d5201f0153be0ace779dfdacd
-    parent_uid: 78bf586e906b7d1a3d904f3f1f51c210
-    id: hqiH39PShmA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-1-the-story-of-enron/video-1-the-story-of-enron-0/hqiH39PShmA.pdf
-  - uid: 26e053d42d33a6ddc38350bb23a9120c
-    parent_uid: 78bf586e906b7d1a3d904f3f1f51c210
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6c688b28a9b44ae04f55f99da92f28ef
-    parent_uid: 78bf586e906b7d1a3d904f3f1f51c210
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: becb593d6f31fba0db4b6c9ceda9c6e4
-    parent_uid: 78bf586e906b7d1a3d904f3f1f51c210
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.4.02_300k.mp4
+uid: 78bf586e906b7d1a3d904f3f1f51c210
 type: courses
 layout: video
 ---

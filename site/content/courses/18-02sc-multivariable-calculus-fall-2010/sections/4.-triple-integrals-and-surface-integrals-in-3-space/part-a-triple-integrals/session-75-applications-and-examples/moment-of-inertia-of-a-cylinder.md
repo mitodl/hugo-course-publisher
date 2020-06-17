@@ -1,13 +1,68 @@
 ---
-title: Moment of Inertia of a Cylinder
-uid: f62b8bd914ee48c1f34b1349278520e3
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: iYFogDTPlRo
+    parent_uid: f62b8bd914ee48c1f34b1349278520e3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fc7a146130a64785f899087809b6f205
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/iYFogDTPlRo/default.jpg'
+    parent_uid: f62b8bd914ee48c1f34b1349278520e3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7275fc8d516f755097cb6e4dcdecae3d
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_53_300k.mp4'
+    parent_uid: f62b8bd914ee48c1f34b1349278520e3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6446bb2d55bca3aedb096f913957f5d8
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/moment-inertia-cylinder/id414355340?i=90322836
+    parent_uid: f62b8bd914ee48c1f34b1349278520e3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3ec9806e9e38f71c30407681f707a698
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: iYFogDTPlRo
+    parent_uid: f62b8bd914ee48c1f34b1349278520e3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1a1808ceafee20cde00f56cf4f8dcab0
+  - id: iYFogDTPlRo.srt
+    parent_uid: f62b8bd914ee48c1f34b1349278520e3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-75-applications-and-examples/moment-of-inertia-of-a-cylinder/iYFogDTPlRo.srt
+    title: 3play caption file
+    type: null
+    uid: 9a2bed24fcd99e2a418426f522b40d59
+  - id: iYFogDTPlRo.pdf
+    parent_uid: f62b8bd914ee48c1f34b1349278520e3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-75-applications-and-examples/moment-of-inertia-of-a-cylinder/iYFogDTPlRo.pdf
+    title: 3play pdf file
+    type: null
+    uid: db096a1a6327c52f7793879f3432aed9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f62b8bd914ee48c1f34b1349278520e3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 32b9f881bfc7c34d16192d8ea5d822fe
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f62b8bd914ee48c1f34b1349278520e3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 04550b6b2a3e7c813eb339107cbcc3a7
+inline_embed_id: 93110933momentofinertiaofacylinder17481932
 parent_uid: c4da9711508e8f11a356167da3376cd3
+related_resources_text: ''
+short_url: moment-of-inertia-of-a-cylinder
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-75-applications-and-examples/moment-of-inertia-of-a-cylinder
-short_url: moment-of-inertia-of-a-cylinder
-inline_embed_id: 93110933momentofinertiaofacylinder17481932
-about_this_resource_text: ''
-related_resources_text: ''
+title: Moment of Inertia of a Cylinder
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='7850'>Hi,</span> <span
   m='8300'>welcome</span> <span m='8600'>back to</span> <span
@@ -643,62 +698,7 @@ transcript: >-
   <span m='595350'>compute.</span> <span m='596190'>So</span> <span
   m='597080'>I'll</span> <span m='597390'>stop</span> <span
   m='597750'>there.</span> </p>
-embedded_media:
-  - uid: fc7a146130a64785f899087809b6f205
-    parent_uid: f62b8bd914ee48c1f34b1349278520e3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: iYFogDTPlRo
-  - uid: 7275fc8d516f755097cb6e4dcdecae3d
-    parent_uid: f62b8bd914ee48c1f34b1349278520e3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/iYFogDTPlRo/default.jpg'
-  - uid: 6446bb2d55bca3aedb096f913957f5d8
-    parent_uid: f62b8bd914ee48c1f34b1349278520e3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_53_300k.mp4'
-  - uid: 3ec9806e9e38f71c30407681f707a698
-    parent_uid: f62b8bd914ee48c1f34b1349278520e3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/moment-inertia-cylinder/id414355340?i=90322836
-  - uid: 1a1808ceafee20cde00f56cf4f8dcab0
-    parent_uid: f62b8bd914ee48c1f34b1349278520e3
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: iYFogDTPlRo
-  - uid: 9a2bed24fcd99e2a418426f522b40d59
-    parent_uid: f62b8bd914ee48c1f34b1349278520e3
-    id: iYFogDTPlRo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-75-applications-and-examples/moment-of-inertia-of-a-cylinder/iYFogDTPlRo.srt
-  - uid: db096a1a6327c52f7793879f3432aed9
-    parent_uid: f62b8bd914ee48c1f34b1349278520e3
-    id: iYFogDTPlRo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-75-applications-and-examples/moment-of-inertia-of-a-cylinder/iYFogDTPlRo.pdf
-  - uid: 32b9f881bfc7c34d16192d8ea5d822fe
-    parent_uid: f62b8bd914ee48c1f34b1349278520e3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 04550b6b2a3e7c813eb339107cbcc3a7
-    parent_uid: f62b8bd914ee48c1f34b1349278520e3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f62b8bd914ee48c1f34b1349278520e3
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Monty Hall Conditional Confusions
-uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 2cd029e51b9105e64260b40781939f1b
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b8bf6d488f0df2f9f32fa822cf731c2b
+  - id: Video-YouTube-Stream
+    media_location: BEAv82FinM0
+    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2534c005948bc18ff71c5b6f884fe1fc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BEAv82FinM0/default.jpg'
+    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ff6faac8767797bbc3e4a8c82b3ecda2
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: BEAv82FinM0
+    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d320e44dbe7025e8ee13b5d936924060
+  - id: BEAv82FinM0.srt
+    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-038350815734/monty-hall-conditional-confusions/BEAv82FinM0.srt
+    title: 3play caption file
+    type: null
+    uid: 1825899963b654fdbf135308d950e20a
+  - id: BEAv82FinM0.pdf
+    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-038350815734/monty-hall-conditional-confusions/BEAv82FinM0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2ef8b32fcb7c522016ba983affa2c245
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d97e1ddebb4bb444b7a720325a62fd25
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 05c0535c55b45faedc3911ee763cf673
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_probcondmonty_video_ipod.mp4
+    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a487374e512184f462b304614151efc7
+inline_embed_id: 40254349montyhallconditionalconfusions2618017
 parent_uid: e9ff977a008f11e6cad8d3e13b3f1b62
+related_resources_text: ''
+short_url: monty-hall-conditional-confusions
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-038350815734/monty-hall-conditional-confusions
-short_url: monty-hall-conditional-confusions
-inline_embed_id: 40254349montyhallconditionalconfusions2618017
-about_this_resource_text: ''
-related_resources_text: ''
+title: Monty Hall Conditional Confusions
 transcript: >-
   <p><span m='940'>Now,</span> <span m='1090'>conditional</span> <span
   m='1540'>probability</span> <span m='2180'>will</span> <span
@@ -642,67 +702,7 @@ transcript: >-
   m='517010'>these</span> <span m='517220'>kinds</span> <span
   m='517500'>of</span> <span m='517620'>confusing</span> <span
   m='518200'>situations.</span> </p>
-embedded_media:
-  - uid: 2cd029e51b9105e64260b40781939f1b
-    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: b8bf6d488f0df2f9f32fa822cf731c2b
-    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 2534c005948bc18ff71c5b6f884fe1fc
-    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BEAv82FinM0
-  - uid: ff6faac8767797bbc3e4a8c82b3ecda2
-    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BEAv82FinM0/default.jpg'
-  - uid: d320e44dbe7025e8ee13b5d936924060
-    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BEAv82FinM0
-  - uid: 1825899963b654fdbf135308d950e20a
-    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
-    id: BEAv82FinM0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-038350815734/monty-hall-conditional-confusions/BEAv82FinM0.srt
-  - uid: 2ef8b32fcb7c522016ba983affa2c245
-    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
-    id: BEAv82FinM0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-038350815734/monty-hall-conditional-confusions/BEAv82FinM0.pdf
-  - uid: d97e1ddebb4bb444b7a720325a62fd25
-    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 05c0535c55b45faedc3911ee763cf673
-    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a487374e512184f462b304614151efc7
-    parent_uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_probcondmonty_video_ipod.mp4
+uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
 type: courses
 layout: video
 ---

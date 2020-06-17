@@ -1,13 +1,61 @@
 ---
-title: Coupled Tunning Forks
-uid: 8187008439105e11a04e9c33a7654176
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: I0YACDaY-ww
+    parent_uid: 8187008439105e11a04e9c33a7654176
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 353b07d18379ed4772f6525418c0fcb3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/I0YACDaY-ww/default.jpg'
+    parent_uid: 8187008439105e11a04e9c33a7654176
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ac4e419aee720e6319c8c9cd4b730fbf
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: I0YACDaY-ww
+    parent_uid: 8187008439105e11a04e9c33a7654176
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e5e969d9433715e86c98998c74e76b1e
+  - id: I0YACDaY-ww.srt
+    parent_uid: 8187008439105e11a04e9c33a7654176
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-5/copy4_of_lecture-5-video/I0YACDaY-ww.srt
+    title: 3play caption file
+    type: null
+    uid: df8e3dba07e8c679cfbe583671963d30
+  - id: I0YACDaY-ww.pdf
+    parent_uid: 8187008439105e11a04e9c33a7654176
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-5/copy4_of_lecture-5-video/I0YACDaY-ww.pdf
+    title: 3play pdf file
+    type: null
+    uid: 55497d57f05f1255633cabfa8f606650
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8187008439105e11a04e9c33a7654176
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f21049b54b6000fc65ba0116cd766d20
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8187008439105e11a04e9c33a7654176
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: de6c60297bc83302189e72fce294bded
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec05_300k.mp4'
+    parent_uid: 8187008439105e11a04e9c33a7654176
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 08af136a7e8b1e5735770a0bc0b7d0a5
+inline_embed_id: 7920558lecture5videop485322245
 parent_uid: 9bc913321f00f35265f3aede3364abeb
+related_resources_text: ''
+short_url: copy4_of_lecture-5-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-5/copy4_of_lecture-5-video
-short_url: copy4_of_lecture-5-video
-inline_embed_id: 7920558lecture5videop485322245
-about_this_resource_text: ''
-related_resources_text: ''
+title: Coupled Tunning Forks
 transcript: >-
   <p><span m="2165">The</span> <span m="2210">following</span> <span
   m="2660">content</span> <span m="3140">is</span> <span
@@ -4535,55 +4583,7 @@ transcript: >-
   m="4796190">continue</span> <span m="4796610">with</span> <span
   m="4796760">forced</span> <span m="4797170">oscillators.</span> <span
   m="4799570">All right?</span> <span m="4799870">Thank you.</span></p>
-embedded_media:
-  - uid: 353b07d18379ed4772f6525418c0fcb3
-    parent_uid: 8187008439105e11a04e9c33a7654176
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: I0YACDaY-ww
-  - uid: ac4e419aee720e6319c8c9cd4b730fbf
-    parent_uid: 8187008439105e11a04e9c33a7654176
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/I0YACDaY-ww/default.jpg'
-  - uid: e5e969d9433715e86c98998c74e76b1e
-    parent_uid: 8187008439105e11a04e9c33a7654176
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: I0YACDaY-ww
-  - uid: df8e3dba07e8c679cfbe583671963d30
-    parent_uid: 8187008439105e11a04e9c33a7654176
-    id: I0YACDaY-ww.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-5/copy4_of_lecture-5-video/I0YACDaY-ww.srt
-  - uid: 55497d57f05f1255633cabfa8f606650
-    parent_uid: 8187008439105e11a04e9c33a7654176
-    id: I0YACDaY-ww.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-5/copy4_of_lecture-5-video/I0YACDaY-ww.pdf
-  - uid: f21049b54b6000fc65ba0116cd766d20
-    parent_uid: 8187008439105e11a04e9c33a7654176
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: de6c60297bc83302189e72fce294bded
-    parent_uid: 8187008439105e11a04e9c33a7654176
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 08af136a7e8b1e5735770a0bc0b7d0a5
-    parent_uid: 8187008439105e11a04e9c33a7654176
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec05_300k.mp4'
+uid: 8187008439105e11a04e9c33a7654176
 type: courses
 layout: video
 ---

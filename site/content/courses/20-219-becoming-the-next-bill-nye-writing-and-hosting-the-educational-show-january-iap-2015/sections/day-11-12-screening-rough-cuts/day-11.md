@@ -1,13 +1,67 @@
 ---
-title: Day 11
-uid: d12846379bdf0c55ccfdcd996cc1134a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: VQi6t2NfWig
+    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c12653c6bf135d7c8c2614c89ae8fee4
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: VQi6t2NfWig
+    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 35a28fc6afcfde493b921b3e9b3bb5e0
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5a34e4e505b6f1c8ebbcff6d19b957e7
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D11_300k.mp4'
+    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: add8da65e82a58a9e79d99dc9a357616
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VQi6t2NfWig/default.jpg'
+    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bde80389d57de0bb4efd019b54e2215b
+  - id: VQi6t2NfWig.srt
+    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-11-12-screening-rough-cuts/day-11/VQi6t2NfWig.srt
+    title: 3play caption file
+    type: null
+    uid: 11b6aef1b425ab37e2b52dfd74a8fa14
+  - id: VQi6t2NfWig.pdf
+    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-11-12-screening-rough-cuts/day-11/VQi6t2NfWig.pdf
+    title: 3play pdf file
+    type: null
+    uid: 810a11448c652ba710e7c9c7c528d1a8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 974b835cefc7d7e154eaaf11d0f4251e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 88270c8048bda2cef15eb41e09e4bc09
+inline_embed_id: 46980923day1196745260
 parent_uid: 91a83a5a9923d001da64fbbcd37341cb
+related_resources_text: ''
+short_url: day-11
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-11-12-screening-rough-cuts/day-11
-short_url: day-11
-inline_embed_id: 46980923day1196745260
-about_this_resource_text: ''
-related_resources_text: ''
+title: Day 11
 transcript: >-
   <p><span m='80'>The</span> <span m='170'>following</span> <span
   m='610'>content</span> <span m='1120'>is</span> <span m='1230'>provided</span>
@@ -6929,61 +6983,7 @@ transcript: >-
   m='6144690'>going</span> <span m='6144980'>to</span> <span
   m='6145060'>Thursday,</span> <span m='6146640'>it'll</span> <span
   m='6146760'>be</span> <span m='6146920'>easier.</span> </p><p></p>
-embedded_media:
-  - uid: c12653c6bf135d7c8c2614c89ae8fee4
-    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VQi6t2NfWig
-  - uid: 35a28fc6afcfde493b921b3e9b3bb5e0
-    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VQi6t2NfWig
-  - uid: 5a34e4e505b6f1c8ebbcff6d19b957e7
-    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: add8da65e82a58a9e79d99dc9a357616
-    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D11_300k.mp4'
-  - uid: bde80389d57de0bb4efd019b54e2215b
-    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VQi6t2NfWig/default.jpg'
-  - uid: 11b6aef1b425ab37e2b52dfd74a8fa14
-    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
-    id: VQi6t2NfWig.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-11-12-screening-rough-cuts/day-11/VQi6t2NfWig.srt
-  - uid: 810a11448c652ba710e7c9c7c528d1a8
-    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
-    id: VQi6t2NfWig.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-11-12-screening-rough-cuts/day-11/VQi6t2NfWig.pdf
-  - uid: 974b835cefc7d7e154eaaf11d0f4251e
-    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 88270c8048bda2cef15eb41e09e4bc09
-    parent_uid: d12846379bdf0c55ccfdcd996cc1134a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: d12846379bdf0c55ccfdcd996cc1134a
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Russell's Paradox
-uid: 9cc22f7e2abee336d5730f025c6633e9
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: bed56e6e336e355ed4e06c9be32864ee
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 590da382f8d1d71680051998ac9fe2a1
+  - id: Video-YouTube-Stream
+    media_location: 5hETv64GIuE
+    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e96283bddf0f76b719c838035aaab526
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/5hETv64GIuE/default.jpg'
+    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 24fe807ae96a35eb83815fbdf948f873
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 5hETv64GIuE
+    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4cc1edbb1151b4e2e13671c5b3f89bca
+  - id: 5hETv64GIuE.srt
+    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-f1f52e8d7024/russell-s-paradox/5hETv64GIuE.srt
+    title: 3play caption file
+    type: null
+    uid: 9800cda10f8bf1942d703765f9d5b7bc
+  - id: 5hETv64GIuE.pdf
+    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-f1f52e8d7024/russell-s-paradox/5hETv64GIuE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 82a7081a8a928648938afc12193319c7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b97860b3e6698070661f6e3d13f4a5fc
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3538a981eacb36005bc49e675def1665
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_Russell_paradox_ipod.mp4
+    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 517ccc7b23df38c6a66b8af9cfc95fe4
+inline_embed_id: 34941607russellsparadox96018411
 parent_uid: 6cc03e5eec8176fbb79f4590cb8aeb8d
+related_resources_text: ''
+short_url: russell-s-paradox
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-f1f52e8d7024/russell-s-paradox
-short_url: russell-s-paradox
-inline_embed_id: 34941607russellsparadox96018411
-about_this_resource_text: ''
-related_resources_text: ''
+title: Russell's Paradox
 transcript: >-
   <p><span m='1060'>PROFESSOR: So</span> <span m='1230'>in</span> <span
   m='1340'>this</span> <span m='1550'>final</span> <span m='1920'>segment</span>
@@ -930,67 +990,7 @@ transcript: >-
   m='802320'>the</span> <span m='802370'>Zermelo-Fraenkel</span> <span
   m='803680'>set</span> <span m='804000'>theory</span> <span
   m='804290'>axiom.</span> </p>
-embedded_media:
-  - uid: bed56e6e336e355ed4e06c9be32864ee
-    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 590da382f8d1d71680051998ac9fe2a1
-    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: e96283bddf0f76b719c838035aaab526
-    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 5hETv64GIuE
-  - uid: 24fe807ae96a35eb83815fbdf948f873
-    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/5hETv64GIuE/default.jpg'
-  - uid: 4cc1edbb1151b4e2e13671c5b3f89bca
-    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 5hETv64GIuE
-  - uid: 9800cda10f8bf1942d703765f9d5b7bc
-    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
-    id: 5hETv64GIuE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-f1f52e8d7024/russell-s-paradox/5hETv64GIuE.srt
-  - uid: 82a7081a8a928648938afc12193319c7
-    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
-    id: 5hETv64GIuE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-f1f52e8d7024/russell-s-paradox/5hETv64GIuE.pdf
-  - uid: b97860b3e6698070661f6e3d13f4a5fc
-    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3538a981eacb36005bc49e675def1665
-    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 517ccc7b23df38c6a66b8af9cfc95fe4
-    parent_uid: 9cc22f7e2abee336d5730f025c6633e9
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_Russell_paradox_ipod.mp4
+uid: 9cc22f7e2abee336d5730f025c6633e9
 type: courses
 layout: video
 ---

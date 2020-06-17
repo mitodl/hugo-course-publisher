@@ -1,18 +1,72 @@
 ---
-title: 'Clip 2: Derivative of cos(x)'
-uid: f01976589b8116464c52be16e5adc44a
-parent_uid: 118fc2aa2f82b0483267f66bf76b6ba7
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/clip-2-derivative-of-cos-x
-short_url: clip-2-derivative-of-cos-x
-inline_embed_id: '40960345clip2:derivativeofcos(x)11969180'
 about_this_resource_text: >-
   <p>&raquo;<a target="_blank"
   href="./resolveuid/5e568f34e774d2a56b3fbc07335a5fbb"> Accompanying Notes
   (PDF)</a></p> <p class="scholar_medsm">From Lecture 3 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: kCPVBl953eY
+    parent_uid: f01976589b8116464c52be16e5adc44a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 47c9a6bf6b85b2282904bf1ae9581169
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/kCPVBl953eY/default.jpg'
+    parent_uid: f01976589b8116464c52be16e5adc44a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e5017eee50ed6f97e12e777d3a0d01c7
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec03_300k.mp4'
+    parent_uid: f01976589b8116464c52be16e5adc44a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b8ef788f063cf7f0b630e3fbeb296c65
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: kCPVBl953eY
+    parent_uid: f01976589b8116464c52be16e5adc44a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 182bd1e31ca12101c29f014531984aea
+  - id: kCPVBl953eY.srt
+    parent_uid: f01976589b8116464c52be16e5adc44a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/clip-2-derivative-of-cos-x/kCPVBl953eY.srt
+    title: 3play caption file
+    type: null
+    uid: 7d295d93c5ef3e7e284d97bd2317aca4
+  - id: kCPVBl953eY.pdf
+    parent_uid: f01976589b8116464c52be16e5adc44a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/clip-2-derivative-of-cos-x/kCPVBl953eY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4031c59a80261b01f51b283c19e65365
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f01976589b8116464c52be16e5adc44a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 52ed935219cadc07da61993de9639421
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f01976589b8116464c52be16e5adc44a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9a876a5cbaf8630b1d6be4346955a76a
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: f01976589b8116464c52be16e5adc44a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e6806be12e928d88a8f1c3eb33eac3df
+inline_embed_id: '40960345clip2:derivativeofcos(x)11969180'
+parent_uid: 118fc2aa2f82b0483267f66bf76b6ba7
 related_resources_text: ''
+short_url: clip-2-derivative-of-cos-x
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/clip-2-derivative-of-cos-x
+title: 'Clip 2: Derivative of cos(x)'
 transcript: >-
   <p><span m="370">The following</span> <span m="1070">is</span> <span
   m="1310">provided</span> <span m="1400">under</span> <span m="1670">a</span>
@@ -2679,61 +2733,7 @@ transcript: >-
   m="2991080">responsible</span> <span m="2991810">for</span> <span
   m="2991940">these</span> <span m="2992170">kinds</span> <span
   m="2992430">of</span> <span m="2992510">proofs.</span></p>
-embedded_media:
-  - uid: 47c9a6bf6b85b2282904bf1ae9581169
-    parent_uid: f01976589b8116464c52be16e5adc44a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: kCPVBl953eY
-  - uid: e5017eee50ed6f97e12e777d3a0d01c7
-    parent_uid: f01976589b8116464c52be16e5adc44a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/kCPVBl953eY/default.jpg'
-  - uid: b8ef788f063cf7f0b630e3fbeb296c65
-    parent_uid: f01976589b8116464c52be16e5adc44a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec03_300k.mp4'
-  - uid: 182bd1e31ca12101c29f014531984aea
-    parent_uid: f01976589b8116464c52be16e5adc44a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: kCPVBl953eY
-  - uid: 7d295d93c5ef3e7e284d97bd2317aca4
-    parent_uid: f01976589b8116464c52be16e5adc44a
-    id: kCPVBl953eY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/clip-2-derivative-of-cos-x/kCPVBl953eY.srt
-  - uid: 4031c59a80261b01f51b283c19e65365
-    parent_uid: f01976589b8116464c52be16e5adc44a
-    id: kCPVBl953eY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/clip-2-derivative-of-cos-x/kCPVBl953eY.pdf
-  - uid: 52ed935219cadc07da61993de9639421
-    parent_uid: f01976589b8116464c52be16e5adc44a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9a876a5cbaf8630b1d6be4346955a76a
-    parent_uid: f01976589b8116464c52be16e5adc44a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e6806be12e928d88a8f1c3eb33eac3df
-    parent_uid: f01976589b8116464c52be16e5adc44a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: f01976589b8116464c52be16e5adc44a
 type: courses
 layout: video
 ---

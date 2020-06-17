@@ -1,13 +1,61 @@
 ---
-title: Polarizing Filters and Light
-uid: a8390ae9a00710b3b931b9ba8b42c54d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Dlhma3z57SA
+    parent_uid: a8390ae9a00710b3b931b9ba8b42c54d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3bc7a76a6c22d5ac89a69b79e333efea
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Dlhma3z57SA/default.jpg'
+    parent_uid: a8390ae9a00710b3b931b9ba8b42c54d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4ba410e0f2882500540355eb20ec2202
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Dlhma3z57SA
+    parent_uid: a8390ae9a00710b3b931b9ba8b42c54d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ee636972e89b165f59744fde9b70e8aa
+  - id: Dlhma3z57SA.srt
+    parent_uid: a8390ae9a00710b3b931b9ba8b42c54d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-18/copy_of_lecture-18-video/Dlhma3z57SA.srt
+    title: 3play caption file
+    type: null
+    uid: 5863846b3230b92447998efb4cb2bdd1
+  - id: Dlhma3z57SA.pdf
+    parent_uid: a8390ae9a00710b3b931b9ba8b42c54d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-18/copy_of_lecture-18-video/Dlhma3z57SA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 347bed6a809f0dbe6d06a0809524afaf
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a8390ae9a00710b3b931b9ba8b42c54d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 90983f7dbbacdd3056c886169aee51b2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a8390ae9a00710b3b931b9ba8b42c54d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7ce3579d18fdd771f982b15c1652101a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec18_300k.mp4'
+    parent_uid: a8390ae9a00710b3b931b9ba8b42c54d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c05ec507df705fc70c0f016167fcb205
+inline_embed_id: 98212088lecture18videop140911046
 parent_uid: 7d3296b3f48fd48abef124b6a4fa4305
+related_resources_text: ''
+short_url: copy_of_lecture-18-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-18/copy_of_lecture-18-video
-short_url: copy_of_lecture-18-video
-inline_embed_id: 98212088lecture18videop140911046
-about_this_resource_text: ''
-related_resources_text: ''
+title: Polarizing Filters and Light
 transcript: >-
   <p><span m="2490">The</span> <span m="2580">following</span> <span
   m="3030">content</span> <span m="3510">is</span> <span
@@ -4848,55 +4896,7 @@ transcript: >-
   m="5045870">we</span> <span m="5045920">have</span> <span
   m="5046070">done</span> <span m="5046540">in</span> <span
   m="5046840">class.</span></p>
-embedded_media:
-  - uid: 3bc7a76a6c22d5ac89a69b79e333efea
-    parent_uid: a8390ae9a00710b3b931b9ba8b42c54d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Dlhma3z57SA
-  - uid: 4ba410e0f2882500540355eb20ec2202
-    parent_uid: a8390ae9a00710b3b931b9ba8b42c54d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Dlhma3z57SA/default.jpg'
-  - uid: ee636972e89b165f59744fde9b70e8aa
-    parent_uid: a8390ae9a00710b3b931b9ba8b42c54d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Dlhma3z57SA
-  - uid: 5863846b3230b92447998efb4cb2bdd1
-    parent_uid: a8390ae9a00710b3b931b9ba8b42c54d
-    id: Dlhma3z57SA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-18/copy_of_lecture-18-video/Dlhma3z57SA.srt
-  - uid: 347bed6a809f0dbe6d06a0809524afaf
-    parent_uid: a8390ae9a00710b3b931b9ba8b42c54d
-    id: Dlhma3z57SA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-18/copy_of_lecture-18-video/Dlhma3z57SA.pdf
-  - uid: 90983f7dbbacdd3056c886169aee51b2
-    parent_uid: a8390ae9a00710b3b931b9ba8b42c54d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7ce3579d18fdd771f982b15c1652101a
-    parent_uid: a8390ae9a00710b3b931b9ba8b42c54d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c05ec507df705fc70c0f016167fcb205
-    parent_uid: a8390ae9a00710b3b931b9ba8b42c54d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec18_300k.mp4'
+uid: a8390ae9a00710b3b931b9ba8b42c54d
 type: courses
 layout: video
 ---

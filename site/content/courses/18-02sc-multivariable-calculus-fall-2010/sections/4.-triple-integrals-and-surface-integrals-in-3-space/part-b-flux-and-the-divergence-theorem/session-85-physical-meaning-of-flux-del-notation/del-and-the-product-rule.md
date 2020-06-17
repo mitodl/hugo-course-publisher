@@ -1,13 +1,68 @@
 ---
-title: Del and the Product Rule
-uid: b13f0b62700c79968a4a3006b6b81aaa
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: _5fpxkVFQUw
+    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7cc67b9d3ef60ba54b023918275be191
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_5fpxkVFQUw/default.jpg'
+    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0426de741a929e9c59fe2be45d5daa5c
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_62_300k.mp4'
+    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6858564eedd79da250d410df092adb68
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/del-and-the-product-rule/id414355340?i=90322847
+    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 962fc6b77c1cc2e23fdfd1ef0d19eb3f
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: _5fpxkVFQUw
+    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: af8a3b77d383ee51333797ddf84d19ba
+  - id: 5fpxkVFQUw.srt
+    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-85-physical-meaning-of-flux-del-notation/del-and-the-product-rule/5fpxkVFQUw.srt
+    title: 3play caption file
+    type: null
+    uid: 20d740b7d8c04aa847c100de16987792
+  - id: 5fpxkVFQUw.pdf
+    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-85-physical-meaning-of-flux-del-notation/del-and-the-product-rule/5fpxkVFQUw.pdf
+    title: 3play pdf file
+    type: null
+    uid: da930a5193e28b250be03322108e00f2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f020117ea4716df960e5f76d6e749f0b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fa37fca8148d32fbf4a1d537be522b0d
+inline_embed_id: 78631339delandtheproductrule3806456
 parent_uid: 249236df69e4092033efe2787a0cd1ad
+related_resources_text: ''
+short_url: del-and-the-product-rule
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-85-physical-meaning-of-flux-del-notation/del-and-the-product-rule
-short_url: del-and-the-product-rule
-inline_embed_id: 78631339delandtheproductrule3806456
-about_this_resource_text: ''
-related_resources_text: ''
+title: Del and the Product Rule
 transcript: >-
   <p><span m='7040'>Welcome</span> <span m='7350'>back</span> <span
   m='7520'>to</span> <span m='7620'>recitation.</span> <span m='8670'>In</span>
@@ -639,62 +694,7 @@ transcript: >-
   m='506940'>So</span> <span m='507110'>that's</span> <span
   m='507300'>where</span> <span m='507400'>I'll</span> <span
   m='507500'>stop.</span> </p>
-embedded_media:
-  - uid: 7cc67b9d3ef60ba54b023918275be191
-    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _5fpxkVFQUw
-  - uid: 0426de741a929e9c59fe2be45d5daa5c
-    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_5fpxkVFQUw/default.jpg'
-  - uid: 6858564eedd79da250d410df092adb68
-    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_62_300k.mp4'
-  - uid: 962fc6b77c1cc2e23fdfd1ef0d19eb3f
-    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/del-and-the-product-rule/id414355340?i=90322847
-  - uid: af8a3b77d383ee51333797ddf84d19ba
-    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _5fpxkVFQUw
-  - uid: 20d740b7d8c04aa847c100de16987792
-    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
-    id: 5fpxkVFQUw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-85-physical-meaning-of-flux-del-notation/del-and-the-product-rule/5fpxkVFQUw.srt
-  - uid: da930a5193e28b250be03322108e00f2
-    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
-    id: 5fpxkVFQUw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-85-physical-meaning-of-flux-del-notation/del-and-the-product-rule/5fpxkVFQUw.pdf
-  - uid: f020117ea4716df960e5f76d6e749f0b
-    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fa37fca8148d32fbf4a1d537be522b0d
-    parent_uid: b13f0b62700c79968a4a3006b6b81aaa
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b13f0b62700c79968a4a3006b6b81aaa
 type: courses
 layout: video
 ---

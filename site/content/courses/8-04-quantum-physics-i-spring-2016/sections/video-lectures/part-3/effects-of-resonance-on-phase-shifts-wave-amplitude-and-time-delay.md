@@ -1,13 +1,67 @@
 ---
-title: 'Effects of resonance on phase shifts, wave amplitude and time delay'
-uid: 7f1958aff9cce5777544b90888a45b96
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: VY-_xLxHQbA
+    parent_uid: 7f1958aff9cce5777544b90888a45b96
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d3a25d6247f1b66186191410fbf6c0b1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VY-_xLxHQbA/default.jpg'
+    parent_uid: 7f1958aff9cce5777544b90888a45b96
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: dcd2352bcd9c8fd3e682a4865949e669
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: VY-_xLxHQbA
+    parent_uid: 7f1958aff9cce5777544b90888a45b96
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d10d57da144bf7018cd6e884ce2a3155
+  - id: VY-_xLxHQbA.srt
+    parent_uid: 7f1958aff9cce5777544b90888a45b96
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/effects-of-resonance-on-phase-shifts-wave-amplitude-and-time-delay/VY-_xLxHQbA.srt
+    title: 3play caption file
+    type: null
+    uid: a27c62bdca327ec43ccd7cb50bc24d1f
+  - id: VY-_xLxHQbA.pdf
+    parent_uid: 7f1958aff9cce5777544b90888a45b96
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/effects-of-resonance-on-phase-shifts-wave-amplitude-and-time-delay/VY-_xLxHQbA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1b01120889db1e5857dcb4a3ca667c38
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7f1958aff9cce5777544b90888a45b96
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 923b342e6d260fb0160e9fa0bd48b5a4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7f1958aff9cce5777544b90888a45b96
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 012d786e2946c5b00be8bc222c12275e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 7f1958aff9cce5777544b90888a45b96
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b9c9813673574481ac934f100ab1c0ba
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec19_s2_300k.mp4'
+    parent_uid: 7f1958aff9cce5777544b90888a45b96
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 588b47394859de885708164ab08ac49b
+inline_embed_id: 73825847effectsofresonanceonphaseshiftswaveamplitudeandtimedelay82853083
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: effects-of-resonance-on-phase-shifts-wave-amplitude-and-time-delay
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/effects-of-resonance-on-phase-shifts-wave-amplitude-and-time-delay
-short_url: effects-of-resonance-on-phase-shifts-wave-amplitude-and-time-delay
-inline_embed_id: 73825847effectsofresonanceonphaseshiftswaveamplitudeandtimedelay82853083
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Effects of resonance on phase shifts, wave amplitude and time delay'
 transcript: >-
   <p><span m='750'>PROFESSOR:</span> <span m='870'>This</span> <span
   m='990'>is</span> <span m='1140'>the</span> <span m='1290'>answer.</span>
@@ -613,61 +667,7 @@ transcript: >-
   m='881854'>in</span> <span m='882330'>the</span> <span
   m='882810'>amplitude</span> <span m='884710'>inside</span> <span
   m='885010'>the</span> <span m='885310'>well.</span> </p>
-embedded_media:
-  - uid: d3a25d6247f1b66186191410fbf6c0b1
-    parent_uid: 7f1958aff9cce5777544b90888a45b96
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VY-_xLxHQbA
-  - uid: dcd2352bcd9c8fd3e682a4865949e669
-    parent_uid: 7f1958aff9cce5777544b90888a45b96
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VY-_xLxHQbA/default.jpg'
-  - uid: d10d57da144bf7018cd6e884ce2a3155
-    parent_uid: 7f1958aff9cce5777544b90888a45b96
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VY-_xLxHQbA
-  - uid: a27c62bdca327ec43ccd7cb50bc24d1f
-    parent_uid: 7f1958aff9cce5777544b90888a45b96
-    id: VY-_xLxHQbA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/effects-of-resonance-on-phase-shifts-wave-amplitude-and-time-delay/VY-_xLxHQbA.srt
-  - uid: 1b01120889db1e5857dcb4a3ca667c38
-    parent_uid: 7f1958aff9cce5777544b90888a45b96
-    id: VY-_xLxHQbA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/effects-of-resonance-on-phase-shifts-wave-amplitude-and-time-delay/VY-_xLxHQbA.pdf
-  - uid: 923b342e6d260fb0160e9fa0bd48b5a4
-    parent_uid: 7f1958aff9cce5777544b90888a45b96
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 012d786e2946c5b00be8bc222c12275e
-    parent_uid: 7f1958aff9cce5777544b90888a45b96
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b9c9813673574481ac934f100ab1c0ba
-    parent_uid: 7f1958aff9cce5777544b90888a45b96
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 588b47394859de885708164ab08ac49b
-    parent_uid: 7f1958aff9cce5777544b90888a45b96
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec19_s2_300k.mp4'
+uid: 7f1958aff9cce5777544b90888a45b96
 type: courses
 layout: video
 ---

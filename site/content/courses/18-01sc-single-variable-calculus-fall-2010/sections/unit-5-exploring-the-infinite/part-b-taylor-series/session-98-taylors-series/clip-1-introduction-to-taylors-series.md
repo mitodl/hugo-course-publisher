@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Introduction to Taylor''s Series'
-uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
-parent_uid: 30f32e825b1a1974da6c98b8de0aafd3
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series/clip-1-introduction-to-taylors-series
-short_url: clip-1-introduction-to-taylors-series
-inline_embed_id: '23486113clip1:introductiontotaylor''sseries42621044'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/1f7a71d62dea7f3b637daedb410854a0"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 38 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: wOHrNt9ScYs
+    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a20bb388c8456a16cee5a4e173585c86
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/wOHrNt9ScYs/default.jpg'
+    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f71a09d569496307cc79494d88f91178
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: wOHrNt9ScYs
+    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d50ca7154e80e0785833292b9722e78e
+  - id: wOHrNt9ScYs.srt
+    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series/clip-1-introduction-to-taylors-series/wOHrNt9ScYs.srt
+    title: 3play caption file
+    type: null
+    uid: 41858d51bc4acb6b8385b4952d576711
+  - id: wOHrNt9ScYs.pdf
+    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series/clip-1-introduction-to-taylors-series/wOHrNt9ScYs.pdf
+    title: 3play pdf file
+    type: null
+    uid: eea8a915e0107cc83b4bfeded74af66e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bc2ae18ffdce0688835c14be31840421
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f2ef1cc0f438c6d0a585d1912511e6a7
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec38_300k.mp4'
+    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0047f02e3ec2b2e6194869db1e80aba5
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6030bf94e18f6962ba7e4b00a2236d94
+inline_embed_id: '23486113clip1:introductiontotaylor''sseries42621044'
+parent_uid: 30f32e825b1a1974da6c98b8de0aafd3
 related_resources_text: ''
+short_url: clip-1-introduction-to-taylors-series
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series/clip-1-introduction-to-taylors-series
+title: 'Clip 1: Introduction to Taylor''s Series'
 transcript: >-
   <p><span m='0'>The following</span> <span m='1270'>content is</span> <span
   m='1420'>provided</span> <span m='1680'>under a</span> <span
@@ -2764,61 +2818,7 @@ transcript: >-
   m='2846860'>luck,</span> <span m='2847170'>everybody.</span> <span
   m='2847570'>I'll</span> <span m='2847820'>talk</span> <span m='2848050'>to
   you</span> <span m='2848690'>individually.</span> </p>
-embedded_media:
-  - uid: a20bb388c8456a16cee5a4e173585c86
-    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: wOHrNt9ScYs
-  - uid: f71a09d569496307cc79494d88f91178
-    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/wOHrNt9ScYs/default.jpg'
-  - uid: d50ca7154e80e0785833292b9722e78e
-    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: wOHrNt9ScYs
-  - uid: 41858d51bc4acb6b8385b4952d576711
-    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
-    id: wOHrNt9ScYs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series/clip-1-introduction-to-taylors-series/wOHrNt9ScYs.srt
-  - uid: eea8a915e0107cc83b4bfeded74af66e
-    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
-    id: wOHrNt9ScYs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series/clip-1-introduction-to-taylors-series/wOHrNt9ScYs.pdf
-  - uid: bc2ae18ffdce0688835c14be31840421
-    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f2ef1cc0f438c6d0a585d1912511e6a7
-    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0047f02e3ec2b2e6194869db1e80aba5
-    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec38_300k.mp4'
-  - uid: 6030bf94e18f6962ba7e4b00a2236d94
-    parent_uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
 type: courses
 layout: video
 ---

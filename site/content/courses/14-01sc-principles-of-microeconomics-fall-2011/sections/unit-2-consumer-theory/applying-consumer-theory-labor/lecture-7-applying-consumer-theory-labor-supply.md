@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 7: Applying Consumer Theory: Labor Supply'
-uid: 08a84aae8961aa0d6ea2798e975825fa
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '-5XT0Mzl72E'
+    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4c4c45d542efaefbd38cd5626cce1931
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-5XT0Mzl72E/default.jpg'
+    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 04b2e12cdec718cfad89effdbdd28e84
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '-5XT0Mzl72E'
+    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 607ee58b60ecbf940dbb8ceaf200dabb
+  - id: '-5XT0Mzl72E.srt'
+    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/applying-consumer-theory-labor/lecture-7-applying-consumer-theory-labor-supply/-5XT0Mzl72E.srt
+    title: 3play caption file
+    type: null
+    uid: 3ed87ebf54faf145d9285f9f35d7c538
+  - id: '-5XT0Mzl72E.pdf'
+    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/applying-consumer-theory-labor/lecture-7-applying-consumer-theory-labor-supply/-5XT0Mzl72E.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3b3bb97a86c9282b2ade1ce8eb19c529
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 74574f8b51184ae7b5f6d3f77a325a7d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5a332090c2f3e3fe6f40d466259fc628
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec07_300k.mp4'
+    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 98db4ea929281f5330c98846f494e66b
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-7-applying-consumer/id496265654?i=109892753
+    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5e4ea367c7a8eac6dea2caebc5184c8d
+inline_embed_id: 58529489lecture7applyingconsumertheorylaborsupply54441355
 parent_uid: 52d96c2f56aa990be3ea69526d59464b
+related_resources_text: ''
+short_url: lecture-7-applying-consumer-theory-labor-supply
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/applying-consumer-theory-labor/lecture-7-applying-consumer-theory-labor-supply
-short_url: lecture-7-applying-consumer-theory-labor-supply
-inline_embed_id: 58529489lecture7applyingconsumertheorylaborsupply54441355
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 7: Applying Consumer Theory: Labor Supply'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3755,62 +3810,7 @@ transcript: >-
   m='3019350'>will</span> <span m='3019560'>cover</span> <span
   m='3022490'>through</span> <span m='3023870'>my</span> <span
   m='3023980'>next</span> <span m='3024260'>lecture.</span> </p>
-embedded_media:
-  - uid: 4c4c45d542efaefbd38cd5626cce1931
-    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-5XT0Mzl72E'
-  - uid: 04b2e12cdec718cfad89effdbdd28e84
-    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-5XT0Mzl72E/default.jpg'
-  - uid: 607ee58b60ecbf940dbb8ceaf200dabb
-    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-5XT0Mzl72E'
-  - uid: 3ed87ebf54faf145d9285f9f35d7c538
-    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
-    id: '-5XT0Mzl72E.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/applying-consumer-theory-labor/lecture-7-applying-consumer-theory-labor-supply/-5XT0Mzl72E.srt
-  - uid: 3b3bb97a86c9282b2ade1ce8eb19c529
-    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
-    id: '-5XT0Mzl72E.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/applying-consumer-theory-labor/lecture-7-applying-consumer-theory-labor-supply/-5XT0Mzl72E.pdf
-  - uid: 74574f8b51184ae7b5f6d3f77a325a7d
-    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5a332090c2f3e3fe6f40d466259fc628
-    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 98db4ea929281f5330c98846f494e66b
-    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec07_300k.mp4'
-  - uid: 5e4ea367c7a8eac6dea2caebc5184c8d
-    parent_uid: 08a84aae8961aa0d6ea2798e975825fa
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-7-applying-consumer/id496265654?i=109892753
+uid: 08a84aae8961aa0d6ea2798e975825fa
 type: courses
 layout: video
 ---

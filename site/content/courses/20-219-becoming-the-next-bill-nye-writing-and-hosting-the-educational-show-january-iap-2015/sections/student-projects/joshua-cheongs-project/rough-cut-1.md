@@ -1,11 +1,4 @@
 ---
-title: Rough Cut
-uid: 72d868a641ecc22a61b3a53e3da94cc4
-parent_uid: 32b67e5b521005d4f8119b60fb7ee964
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/rough-cut-1
-short_url: rough-cut-1
-inline_embed_id: 10832404roughcut3452003
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: W7LI4nNxk64
+    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 04e09cdfb2cd46ace77e53a27b7d0b47
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/W7LI4nNxk64/default.jpg'
+    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a622d71b8cf8e50356423603d3b463fa
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: W7LI4nNxk64
+    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5e0ffa2afc732e568adc455c5426de1a
+  - id: W7LI4nNxk64.srt
+    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/rough-cut-1/W7LI4nNxk64.srt
+    title: 3play caption file
+    type: null
+    uid: a7382f9f36daf672caf7ad81040710dd
+  - id: W7LI4nNxk64.pdf
+    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/rough-cut-1/W7LI4nNxk64.pdf
+    title: 3play pdf file
+    type: null
+    uid: b16c17d553b73dc354617bb26c1a6f64
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 30ad7714915e201038aec6392c7a2d8a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: afc61fa417bd50d3b2a8837b89953082
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1c08c23de1f1980a1e15806d78cbfb12
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_JC_D11_Rough_Cut_360p.mp4
+    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1a83413f2f9be398554a7a7d7a4f435f
+inline_embed_id: 10832404roughcut3452003
+parent_uid: 32b67e5b521005d4f8119b60fb7ee964
 related_resources_text: ''
+short_url: rough-cut-1
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/rough-cut-1
+title: Rough Cut
 transcript: >-
   <p><span m="820">PROFESSOR: Hi.</span> <span m="1050">Have you</span> <span
   m="1350">found</span> <span m="1600">it</span> <span
@@ -219,62 +274,7 @@ transcript: >-
   m="175780">that's</span> <span m="176130">where</span> <span
   m="176280">my</span> <span m="176420">gloves</span> <span
   m="176790">are.</span></p>
-embedded_media:
-  - uid: 04e09cdfb2cd46ace77e53a27b7d0b47
-    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: W7LI4nNxk64
-  - uid: a622d71b8cf8e50356423603d3b463fa
-    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/W7LI4nNxk64/default.jpg'
-  - uid: 5e0ffa2afc732e568adc455c5426de1a
-    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: W7LI4nNxk64
-  - uid: a7382f9f36daf672caf7ad81040710dd
-    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
-    id: W7LI4nNxk64.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/rough-cut-1/W7LI4nNxk64.srt
-  - uid: b16c17d553b73dc354617bb26c1a6f64
-    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
-    id: W7LI4nNxk64.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/rough-cut-1/W7LI4nNxk64.pdf
-  - uid: 30ad7714915e201038aec6392c7a2d8a
-    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: afc61fa417bd50d3b2a8837b89953082
-    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1c08c23de1f1980a1e15806d78cbfb12
-    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 1a83413f2f9be398554a7a7d7a4f435f
-    parent_uid: 72d868a641ecc22a61b3a53e3da94cc4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_JC_D11_Rough_Cut_360p.mp4
+uid: 72d868a641ecc22a61b3a53e3da94cc4
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: PS.10.1 Blocks and Massive Pulley
-uid: 5cf00389a0ba8028bf27d129a2a4d39e
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: IWD-Aue6aIk
+    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 93c7c222717a267afbb70062dd98ccf8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/IWD-Aue6aIk/default.jpg'
+    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a0552d765e719547b6812212c95b3aa2
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: IWD-Aue6aIk
+    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 039e85706c4a95f39e292f8bf089a08f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f1e44fd947b274e9277f96015d45b5dc
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W10PS01_360p.mp4'
+    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 883e78c4265ae794986d77b705ca49e0
+  - id: IWD-Aue6aIk.srt
+    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-10-rotational-motion/ps.10.1-blocks-and-massive-pulley/ps.10.1-blocks-and-massive-pulley/IWD-Aue6aIk.srt
+    title: 3play caption file
+    type: null
+    uid: b5c7a1e7ccf78e30de1358aff82b531d
+  - id: IWD-Aue6aIk.pdf
+    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-10-rotational-motion/ps.10.1-blocks-and-massive-pulley/ps.10.1-blocks-and-massive-pulley/IWD-Aue6aIk.pdf
+    title: 3play pdf file
+    type: null
+    uid: b26df9de8c4dedf9961ad7ddc7660da5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 469462ee3b505b12c90ee6449c6ee5d8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 967795c6bc1c1702d1ae1bd638005918
+inline_embed_id: 61997242ps.10.1blocksandmassivepulley78071225
 parent_uid: 1ea17804f8617e6c0bcee9e83c087d94
+related_resources_text: ''
+short_url: ps.10.1-blocks-and-massive-pulley
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-10-rotational-motion/ps.10.1-blocks-and-massive-pulley/ps.10.1-blocks-and-massive-pulley
-short_url: ps.10.1-blocks-and-massive-pulley
-inline_embed_id: 61997242ps.10.1blocksandmassivepulley78071225
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
+title: PS.10.1 Blocks and Massive Pulley
 transcript: >-
   <p><span m='3550'>DR. PETER DOURMASHKIN:</span> <span m='3595'>I</span> <span
   m='3640'>would</span> <span m='4000'>like</span> <span m='4210'>to</span>
@@ -958,61 +1012,7 @@ transcript: >-
   m='960590'>care,</span> <span m='961490'>but</span> <span
   m='962060'>we've</span> <span m='962180'>done</span> <span
   m='962370'>it.</span> </p>
-embedded_media:
-  - uid: 93c7c222717a267afbb70062dd98ccf8
-    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: IWD-Aue6aIk
-  - uid: a0552d765e719547b6812212c95b3aa2
-    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/IWD-Aue6aIk/default.jpg'
-  - uid: 039e85706c4a95f39e292f8bf089a08f
-    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: IWD-Aue6aIk
-  - uid: f1e44fd947b274e9277f96015d45b5dc
-    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 883e78c4265ae794986d77b705ca49e0
-    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W10PS01_360p.mp4'
-  - uid: b5c7a1e7ccf78e30de1358aff82b531d
-    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
-    id: IWD-Aue6aIk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-10-rotational-motion/ps.10.1-blocks-and-massive-pulley/ps.10.1-blocks-and-massive-pulley/IWD-Aue6aIk.srt
-  - uid: b26df9de8c4dedf9961ad7ddc7660da5
-    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
-    id: IWD-Aue6aIk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-10-rotational-motion/ps.10.1-blocks-and-massive-pulley/ps.10.1-blocks-and-massive-pulley/IWD-Aue6aIk.pdf
-  - uid: 469462ee3b505b12c90ee6449c6ee5d8
-    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 967795c6bc1c1702d1ae1bd638005918
-    parent_uid: 5cf00389a0ba8028bf27d129a2a4d39e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 5cf00389a0ba8028bf27d129a2a4d39e
 type: courses
 layout: video
 ---

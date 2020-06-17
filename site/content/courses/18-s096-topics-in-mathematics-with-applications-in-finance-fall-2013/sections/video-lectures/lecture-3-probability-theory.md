@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 3: Probability Theory'
-uid: e63d7e6eb103a5e3235a14c0652e75aa
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-3-probability-theory
-short_url: lecture-3-probability-theory
-inline_embed_id: '63238428lecture3:probabilitytheory54161886'
 about_this_resource_text: >-
   <p><strong>Description: </strong>This lecture is a review of the probability
   theory needed for the course, including random variables, probability
   distributions, and the Central Limit Theorem.</p>
   <p><strong>Instructor:</strong> Dr. Choongbum Lee</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: f9XFM8YLccg
+    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 07e80ca8fc43abd35f6a125ddc3b4216
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/f9XFM8YLccg/default.jpg'
+    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 17eb881e644211f56253b5dd97160a69
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 787afc4dcaad30b28c076beec519a924
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec03_300k.mp4'
+    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c2ba5d40ffdf5b4ddb65b04d8a3eac06
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: f9XFM8YLccg
+    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1c6e496b1d4afb107ef8b05b811b8501
+  - id: f9XFM8YLccg.srt
+    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-3-probability-theory/f9XFM8YLccg.srt
+    title: 3play caption file
+    type: null
+    uid: 454f585140adbc61bd16f0f40e9e6bdf
+  - id: f9XFM8YLccg.pdf
+    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-3-probability-theory/f9XFM8YLccg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6ccec1c3613c5e9072e0908088920256
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5b1c263e4d880b9db55cca075da5f87a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0c29c6568a6113d6c9e777410427e805
+inline_embed_id: '63238428lecture3:probabilitytheory54161886'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-3-probability-theory
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-3-probability-theory
+title: 'Lecture 3: Probability Theory'
 transcript: >-
   <p><span m='60'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -3115,61 +3169,7 @@ transcript: >-
   m='4702020'>will</span> <span m='4702150'>get</span> <span
   m='4702300'>really</span> <span m='4702450'>close</span> <span
   m='4702950'>really</span> <span m='4703450'>fast.</span> </p>
-embedded_media:
-  - uid: 07e80ca8fc43abd35f6a125ddc3b4216
-    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: f9XFM8YLccg
-  - uid: 17eb881e644211f56253b5dd97160a69
-    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/f9XFM8YLccg/default.jpg'
-  - uid: 787afc4dcaad30b28c076beec519a924
-    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: c2ba5d40ffdf5b4ddb65b04d8a3eac06
-    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec03_300k.mp4'
-  - uid: 1c6e496b1d4afb107ef8b05b811b8501
-    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: f9XFM8YLccg
-  - uid: 454f585140adbc61bd16f0f40e9e6bdf
-    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
-    id: f9XFM8YLccg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-3-probability-theory/f9XFM8YLccg.srt
-  - uid: 6ccec1c3613c5e9072e0908088920256
-    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
-    id: f9XFM8YLccg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-3-probability-theory/f9XFM8YLccg.pdf
-  - uid: 5b1c263e4d880b9db55cca075da5f87a
-    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0c29c6568a6113d6c9e777410427e805
-    parent_uid: e63d7e6eb103a5e3235a14c0652e75aa
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e63d7e6eb103a5e3235a14c0652e75aa
 type: courses
 layout: video
 ---

@@ -1,18 +1,72 @@
 ---
-title: 'Clip 2: Introduction to General Rules for Differentiation'
-uid: 0668c0749a3c95c9b0e962b71556ffbf
-parent_uid: d35aadf5c6d2e1543aee74e2dfdda970
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/clip-2-introduction-to-general-rules-for-differentiation
-short_url: clip-2-introduction-to-general-rules-for-differentiation
-inline_embed_id: '43231602clip2:introductiontogeneralrulesfordifferentiation55940807'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/371b2467a3bb3b18e1e2cb1a83091968"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 4 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 4sTKcvYMNxk
+    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a8dac4b4e0507518abce786a0bf42b3d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg'
+    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 39121b3b6c49799555b53f6bbb3d18df
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec04_300k.mp4'
+    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 51c84ca05946b0d8234cbdcc28f8d2c6
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 4sTKcvYMNxk
+    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4fb2221eee9d3f46a4ce448bfed7c9b0
+  - id: 4sTKcvYMNxk.srt
+    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/clip-2-introduction-to-general-rules-for-differentiation/4sTKcvYMNxk.srt
+    title: 3play caption file
+    type: null
+    uid: cdb916491c80357f485bf079f4724b43
+  - id: 4sTKcvYMNxk.pdf
+    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/clip-2-introduction-to-general-rules-for-differentiation/4sTKcvYMNxk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8d37193e8735cfd399c21e84f92e4d42
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c392509d5c32adec015673b3e2386de6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c77f9aa13932fc57eec1eaf06cc7e1d7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 860eba9304e99e396d88db44800bc9c6
+inline_embed_id: '43231602clip2:introductiontogeneralrulesfordifferentiation55940807'
+parent_uid: d35aadf5c6d2e1543aee74e2dfdda970
 related_resources_text: ''
+short_url: clip-2-introduction-to-general-rules-for-differentiation
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/clip-2-introduction-to-general-rules-for-differentiation
+title: 'Clip 2: Introduction to General Rules for Differentiation'
 transcript: >-
   <p><span m="110">The</span> <span m="350">following</span> <span
   m="520">content</span> <span m="1260">is</span> <span m="1400">provided</span>
@@ -2120,61 +2174,7 @@ transcript: >-
   m="2755280">constant.</span> <span m="2756620">So</span> <span
   m="2756860">it's 0.</span></p><p><span m="2758180">Okay.</span> <span
   m="2758440">Thank</span> <span m="2758730">you.</span></p>
-embedded_media:
-  - uid: a8dac4b4e0507518abce786a0bf42b3d
-    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4sTKcvYMNxk
-  - uid: 39121b3b6c49799555b53f6bbb3d18df
-    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg'
-  - uid: 51c84ca05946b0d8234cbdcc28f8d2c6
-    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec04_300k.mp4'
-  - uid: 4fb2221eee9d3f46a4ce448bfed7c9b0
-    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4sTKcvYMNxk
-  - uid: cdb916491c80357f485bf079f4724b43
-    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
-    id: 4sTKcvYMNxk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/clip-2-introduction-to-general-rules-for-differentiation/4sTKcvYMNxk.srt
-  - uid: 8d37193e8735cfd399c21e84f92e4d42
-    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
-    id: 4sTKcvYMNxk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/clip-2-introduction-to-general-rules-for-differentiation/4sTKcvYMNxk.pdf
-  - uid: c392509d5c32adec015673b3e2386de6
-    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c77f9aa13932fc57eec1eaf06cc7e1d7
-    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 860eba9304e99e396d88db44800bc9c6
-    parent_uid: 0668c0749a3c95c9b0e962b71556ffbf
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 0668c0749a3c95c9b0e962b71556ffbf
 type: courses
 layout: video
 ---

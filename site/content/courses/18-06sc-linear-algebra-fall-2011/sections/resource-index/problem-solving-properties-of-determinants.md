@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Properties of Determinants'
-uid: 86dc064f1b3de4acce850f7bd52303ab
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 55AoWKZZtww
+    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
+    title: Video-YouTube-Stream
+    type: Video
+    uid: def936134abf30d616567a6dbc0aaf59
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: 55AoWKZZtww
+    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: be870d4527a3ee5fbab5fa47bbadaded
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/properties-of-determinants/id488155309?i=108454346
+    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9fe82eee25aaaa9f13fb10663289daf4
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110531_A2_300k.mp4
+    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3f0ff4791e2ca954084b12f2ef495fc2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/55AoWKZZtww/default.jpg'
+    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e5ed2c4829721e78d0e7f252fe7e9b1b
+  - id: 55AoWKZZtww.srt
+    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-properties-of-determinants/55AoWKZZtww.srt
+    title: 3play caption file
+    type: null
+    uid: 930be13c82400f4e111f1abb0eab5e1d
+  - id: 55AoWKZZtww.pdf
+    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-properties-of-determinants/55AoWKZZtww.pdf
+    title: 3play pdf file
+    type: null
+    uid: 99502471b977f207a8b5a2c89b2e218f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 94b729e845cdf5141354019e9259ef24
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e7f524d437468e5ae09e312d996313ff
+inline_embed_id: 7858155problemsolvingpropertiesofdeterminants38459701
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: problem-solving-properties-of-determinants
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-properties-of-determinants
-short_url: problem-solving-properties-of-determinants
-inline_embed_id: 7858155problemsolvingpropertiesofdeterminants38459701
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Properties of Determinants'
 transcript: >-
   <p><span m='6910'>ANA RITA PIRES: Hi.</span> <span m='7530'>Welcome</span>
   <span m='7840'>back</span> <span m='8050'>to</span> <span
@@ -543,63 +599,7 @@ transcript: >-
   m='592640'>done</span> <span m='592830'>for</span> <span
   m='592960'>today.</span> <span m='593500'>Thank</span> <span
   m='593730'>you.</span> </p>
-embedded_media:
-  - uid: def936134abf30d616567a6dbc0aaf59
-    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 55AoWKZZtww
-  - uid: be870d4527a3ee5fbab5fa47bbadaded
-    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 55AoWKZZtww
-  - uid: 9fe82eee25aaaa9f13fb10663289daf4
-    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/properties-of-determinants/id488155309?i=108454346
-  - uid: 3f0ff4791e2ca954084b12f2ef495fc2
-    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110531_A2_300k.mp4
-  - uid: e5ed2c4829721e78d0e7f252fe7e9b1b
-    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/55AoWKZZtww/default.jpg'
-  - uid: 930be13c82400f4e111f1abb0eab5e1d
-    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
-    id: 55AoWKZZtww.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-properties-of-determinants/55AoWKZZtww.srt
-  - uid: 99502471b977f207a8b5a2c89b2e218f
-    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
-    id: 55AoWKZZtww.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-properties-of-determinants/55AoWKZZtww.pdf
-  - uid: 94b729e845cdf5141354019e9259ef24
-    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e7f524d437468e5ae09e312d996313ff
-    parent_uid: 86dc064f1b3de4acce850f7bd52303ab
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 86dc064f1b3de4acce850f7bd52303ab
 type: courses
 layout: video
 ---

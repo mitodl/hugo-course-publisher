@@ -1,13 +1,73 @@
 ---
-title: Stable Matching
-uid: 781e6bc86f7eeaec971e17bc4e037f96
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: d5fc47c1b34c31667845c1e75521b508
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b20f55e3242d51d64ee3afa4c30f673e
+  - id: Video-YouTube-Stream
+    media_location: RE5PmdGNgj0
+    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8d89faec6faa8d070961072b81042535
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/RE5PmdGNgj0/default.jpg'
+    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0817893fb7d233d532480d5826de7e89
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: RE5PmdGNgj0
+    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 750ee71a80352d8ce50e5b3f6439bc78
+  - id: RE5PmdGNgj0.srt
+    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/stable-matching-0/RE5PmdGNgj0.srt
+    title: 3play caption file
+    type: null
+    uid: b7aa8711ef220053b2028c52a7402536
+  - id: RE5PmdGNgj0.pdf
+    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/stable-matching-0/RE5PmdGNgj0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 03c504efa6564817cf33c3e2d7b31605
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8fcd2b8ec50fd1c1b6ab8a6c9bec714d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 62609c45ec5fce03a98974c7a19e2f23
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_stablematch_video2_ipod.mp4
+    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c6d327ed18443518e31ae6333de3dea3
+inline_embed_id: 87036519stablematching18039231
 parent_uid: 47305688cc389e2f9dc3019a395b3b37
+related_resources_text: ''
+short_url: stable-matching-0
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/stable-matching-0
-short_url: stable-matching-0
-inline_embed_id: 87036519stablematching18039231
-about_this_resource_text: ''
-related_resources_text: ''
+title: Stable Matching
 transcript: >-
   <p><span m='1150'>We've</span> <span m='1340'>seen</span> <span
   m='3130'>graphs</span> <span m='3540'>involving</span> <span
@@ -870,67 +930,7 @@ transcript: >-
   m='675650'>actually</span> <span m='675980'>being</span> <span
   m='676180'>used</span> <span m='676510'>by</span> <span m='676630'>that</span>
   <span m='676870'>group.</span> </p>
-embedded_media:
-  - uid: d5fc47c1b34c31667845c1e75521b508
-    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: b20f55e3242d51d64ee3afa4c30f673e
-    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 8d89faec6faa8d070961072b81042535
-    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: RE5PmdGNgj0
-  - uid: 0817893fb7d233d532480d5826de7e89
-    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/RE5PmdGNgj0/default.jpg'
-  - uid: 750ee71a80352d8ce50e5b3f6439bc78
-    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: RE5PmdGNgj0
-  - uid: b7aa8711ef220053b2028c52a7402536
-    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
-    id: RE5PmdGNgj0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/stable-matching-0/RE5PmdGNgj0.srt
-  - uid: 03c504efa6564817cf33c3e2d7b31605
-    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
-    id: RE5PmdGNgj0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/stable-matching-0/RE5PmdGNgj0.pdf
-  - uid: 8fcd2b8ec50fd1c1b6ab8a6c9bec714d
-    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 62609c45ec5fce03a98974c7a19e2f23
-    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c6d327ed18443518e31ae6333de3dea3
-    parent_uid: 781e6bc86f7eeaec971e17bc4e037f96
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_stablematch_video2_ipod.mp4
+uid: 781e6bc86f7eeaec971e17bc4e037f96
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 21: Capital Supply and Markets I'
-uid: 7f6a63f63bab1afa29b67f8cafbaebbb
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: eeauylMvOvA
+    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8742b06242e568cb3480fdb5e237e2ef
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/eeauylMvOvA/default.jpg'
+    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 225e4a0baeb913b3bb60e255ac0178c2
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: eeauylMvOvA
+    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 700dbda26c8b122d4f5f6943b8795b9c
+  - id: eeauylMvOvA.srt
+    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/capital-supply-and-markets-i/lecture-21-capital-supply-and-markets-i/eeauylMvOvA.srt
+    title: 3play caption file
+    type: null
+    uid: bcf8ff0a346d027893e3ef0cfc55a864
+  - id: eeauylMvOvA.pdf
+    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/capital-supply-and-markets-i/lecture-21-capital-supply-and-markets-i/eeauylMvOvA.pdf
+    title: 3play pdf file
+    type: null
+    uid: a3680aab9d8586c2dfdb6d4c27144269
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b2e31ed185704e0540b530f5986f8234
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6a5cbfbd65f58b480041570036f9cd6b
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-21-capital-supply/id496265654?i=110157705
+    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: caf3d0ca5e3f812df127cb986a92f259
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec21_300k.mp4'
+    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0e2afb6f62dd91d6e485d0f36dc3c8d4
+inline_embed_id: 95593032lecture21capitalsupplyandmarketsi66211907
 parent_uid: 1540ea6931861f855d35b82c66e44bec
+related_resources_text: ''
+short_url: lecture-21-capital-supply-and-markets-i
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/capital-supply-and-markets-i/lecture-21-capital-supply-and-markets-i
-short_url: lecture-21-capital-supply-and-markets-i
-inline_embed_id: 95593032lecture21capitalsupplyandmarketsi66211907
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 21: Capital Supply and Markets I'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3505,62 +3560,7 @@ transcript: >-
   m='2899360'>capital</span> <span m='2899680'>markets</span> <span
   m='2900030'>and</span> <span m='2900130'>people's</span> <span
   m='2900350'>savings</span> <span m='2900700'>decisions.</span> </p>
-embedded_media:
-  - uid: 8742b06242e568cb3480fdb5e237e2ef
-    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: eeauylMvOvA
-  - uid: 225e4a0baeb913b3bb60e255ac0178c2
-    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/eeauylMvOvA/default.jpg'
-  - uid: 700dbda26c8b122d4f5f6943b8795b9c
-    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: eeauylMvOvA
-  - uid: bcf8ff0a346d027893e3ef0cfc55a864
-    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
-    id: eeauylMvOvA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/capital-supply-and-markets-i/lecture-21-capital-supply-and-markets-i/eeauylMvOvA.srt
-  - uid: a3680aab9d8586c2dfdb6d4c27144269
-    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
-    id: eeauylMvOvA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/capital-supply-and-markets-i/lecture-21-capital-supply-and-markets-i/eeauylMvOvA.pdf
-  - uid: b2e31ed185704e0540b530f5986f8234
-    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6a5cbfbd65f58b480041570036f9cd6b
-    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: caf3d0ca5e3f812df127cb986a92f259
-    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-21-capital-supply/id496265654?i=110157705
-  - uid: 0e2afb6f62dd91d6e485d0f36dc3c8d4
-    parent_uid: 7f6a63f63bab1afa29b67f8cafbaebbb
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec21_300k.mp4'
+uid: 7f6a63f63bab1afa29b67f8cafbaebbb
 type: courses
 layout: video
 ---

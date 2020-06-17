@@ -1,13 +1,73 @@
 ---
-title: Consistency condition. Particle on a circle
-uid: 178cef1c9c7c3f745d29f4c57380474b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: _jPVD45YYlk
+    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2fd86739a1e61a4716a0bf30558f7850
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BkZni0e5-Rw/default.jpg'
+    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 625bd84a2598f360cf65ca597bf8b398
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: _jPVD45YYlk
+    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9ceff034047459dff8c0116465d27809
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e6571993b55d0765383c6b5e5f5dde7d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec09_s4_300k.mp4'
+    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 172471dba8c2685f52c74b292d685262
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/_jPVD45YYlk/default.jpg'
+    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fb0f42da9dda3ea3248a0508923f3f71
+  - id: jPVD45YYlk.srt
+    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/consistency-condition.-particle-on-a-circle/jPVD45YYlk.srt
+    title: 3play caption file
+    type: null
+    uid: f44ac13ea09287f8c0b593bb70ab336c
+  - id: jPVD45YYlk.pdf
+    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/consistency-condition.-particle-on-a-circle/jPVD45YYlk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 14cfbf39c9bb7d007988daca10494f41
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1fdba00eb7d4136254c6d2a6b3966bc1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 188283d2e1f687ec26ac2e611a4fa06d
+inline_embed_id: 25461183consistencycondition.particleonacircle28762712
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: consistency-condition.-particle-on-a-circle
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/consistency-condition.-particle-on-a-circle
-short_url: consistency-condition.-particle-on-a-circle
-inline_embed_id: 25461183consistencycondition.particleonacircle28762712
-about_this_resource_text: ''
-related_resources_text: ''
+title: Consistency condition. Particle on a circle
 transcript: >-
   <p><span m='570'>PROFESSOR:</span> <span m='675'>Let</span> <span
   m='780'>me</span> <span m='930'>do</span> <span m='1590'>a</span> <span
@@ -768,67 +828,7 @@ transcript: >-
   m='1064140'>You</span> <span m='1064260'>can</span> <span
   m='1064470'>do</span> <span m='1064670'>anything</span> <span
   m='1064970'>you</span> <span m='1065270'>want.</span> </p>
-embedded_media:
-  - uid: 2fd86739a1e61a4716a0bf30558f7850
-    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _jPVD45YYlk
-  - uid: 625bd84a2598f360cf65ca597bf8b398
-    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BkZni0e5-Rw/default.jpg'
-  - uid: 9ceff034047459dff8c0116465d27809
-    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _jPVD45YYlk
-  - uid: e6571993b55d0765383c6b5e5f5dde7d
-    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 172471dba8c2685f52c74b292d685262
-    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec09_s4_300k.mp4'
-  - uid: fb0f42da9dda3ea3248a0508923f3f71
-    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_jPVD45YYlk/default.jpg'
-  - uid: f44ac13ea09287f8c0b593bb70ab336c
-    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
-    id: jPVD45YYlk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/consistency-condition.-particle-on-a-circle/jPVD45YYlk.srt
-  - uid: 14cfbf39c9bb7d007988daca10494f41
-    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
-    id: jPVD45YYlk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/consistency-condition.-particle-on-a-circle/jPVD45YYlk.pdf
-  - uid: 1fdba00eb7d4136254c6d2a6b3966bc1
-    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 188283d2e1f687ec26ac2e611a4fa06d
-    parent_uid: 178cef1c9c7c3f745d29f4c57380474b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 178cef1c9c7c3f745d29f4c57380474b
 type: courses
 layout: video
 ---

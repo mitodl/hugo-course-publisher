@@ -1,13 +1,67 @@
 ---
-title: Building a Team of Teaching Assistants
-uid: d280d577dba6293f28221912acd276ab
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: S5UKjrfJiL8
+    parent_uid: d280d577dba6293f28221912acd276ab
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3b380acdaffa60f849abf9c6e598b983
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/S5UKjrfJiL8/default.jpg'
+    parent_uid: d280d577dba6293f28221912acd276ab
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d322f068383ab067c1cd1477679ed7cf
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: S5UKjrfJiL8
+    parent_uid: d280d577dba6293f28221912acd276ab
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 38220422a17a0b8aa0b193e56f957e86
+  - id: S5UKjrfJiL8.srt
+    parent_uid: d280d577dba6293f28221912acd276ab
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/building-a-team-of-teaching-assistants/S5UKjrfJiL8.srt
+    title: 3play caption file
+    type: null
+    uid: ebf889ee66e37c99ff34895fc76468aa
+  - id: S5UKjrfJiL8.pdf
+    parent_uid: d280d577dba6293f28221912acd276ab
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/building-a-team-of-teaching-assistants/S5UKjrfJiL8.pdf
+    title: 3play pdf file
+    type: null
+    uid: c097560a20c4a37804ab90a4952af8ef
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d280d577dba6293f28221912acd276ab
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ffb89d77e9514ce54c8a058eb4911078
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d280d577dba6293f28221912acd276ab
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0536cbd7966583cc36e93350fe18e84a
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: d280d577dba6293f28221912acd276ab
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 86b748ec4913d1bd5f12c0ce14c80c0a
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_TeachingTeam_300k.mp4'
+    parent_uid: d280d577dba6293f28221912acd276ab
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0992b66972540aa3ccca9f2c920e7e92
+inline_embed_id: 24520105buildingateamofteachingassistants45828622
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
+related_resources_text: ''
+short_url: building-a-team-of-teaching-assistants
 technical_location: >-
   https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/building-a-team-of-teaching-assistants
-short_url: building-a-team-of-teaching-assistants
-inline_embed_id: 24520105buildingateamofteachingassistants45828622
-about_this_resource_text: ''
-related_resources_text: ''
+title: Building a Team of Teaching Assistants
 transcript: >-
   <p><span m='4350'>CATHERINE DRENNAN: One</span> <span m='4560'>of</span> <span
   m='4650'>the</span> <span m='4730'>big</span> <span m='5140'>challenges</span>
@@ -267,61 +321,7 @@ transcript: >-
   m='182310'>which</span> <span m='182520'>made</span> <span
   m='182710'>me</span> <span m='182850'>really</span> <span
   m='183150'>very</span> <span m='183430'>happy.</span> </p>
-embedded_media:
-  - uid: 3b380acdaffa60f849abf9c6e598b983
-    parent_uid: d280d577dba6293f28221912acd276ab
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: S5UKjrfJiL8
-  - uid: d322f068383ab067c1cd1477679ed7cf
-    parent_uid: d280d577dba6293f28221912acd276ab
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/S5UKjrfJiL8/default.jpg'
-  - uid: 38220422a17a0b8aa0b193e56f957e86
-    parent_uid: d280d577dba6293f28221912acd276ab
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: S5UKjrfJiL8
-  - uid: ebf889ee66e37c99ff34895fc76468aa
-    parent_uid: d280d577dba6293f28221912acd276ab
-    id: S5UKjrfJiL8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/building-a-team-of-teaching-assistants/S5UKjrfJiL8.srt
-  - uid: c097560a20c4a37804ab90a4952af8ef
-    parent_uid: d280d577dba6293f28221912acd276ab
-    id: S5UKjrfJiL8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/building-a-team-of-teaching-assistants/S5UKjrfJiL8.pdf
-  - uid: ffb89d77e9514ce54c8a058eb4911078
-    parent_uid: d280d577dba6293f28221912acd276ab
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0536cbd7966583cc36e93350fe18e84a
-    parent_uid: d280d577dba6293f28221912acd276ab
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 86b748ec4913d1bd5f12c0ce14c80c0a
-    parent_uid: d280d577dba6293f28221912acd276ab
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 0992b66972540aa3ccca9f2c920e7e92
-    parent_uid: d280d577dba6293f28221912acd276ab
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_TeachingTeam_300k.mp4'
+uid: d280d577dba6293f28221912acd276ab
 type: courses
 layout: video
 ---

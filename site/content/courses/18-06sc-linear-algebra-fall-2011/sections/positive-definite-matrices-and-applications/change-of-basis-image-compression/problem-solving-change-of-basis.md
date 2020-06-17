@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Change of Basis'
-uid: f8d7b2452e7d3cfd273c771a2e623e34
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: rMv2rDiOTsI
+    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 323819367cacf5410c1a3db5616dd856
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: rMv2rDiOTsI
+    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 85ef2401312dc29dc9b54b0ab88059a7
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/change-of-basis/id488155309?i=108454303
+    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3c65f320547487b33be38c7a19fac986
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_M1_300k.mp4
+    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 56669a27c61400f835153dcf1c2d65f6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/rMv2rDiOTsI/default.jpg'
+    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 37915b48dce86b77bda4a61e76d6dfee
+  - id: rMv2rDiOTsI.srt
+    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/change-of-basis-image-compression/problem-solving-change-of-basis/rMv2rDiOTsI.srt
+    title: 3play caption file
+    type: null
+    uid: da4b7e23d06e6fc5e4191a667b78e886
+  - id: rMv2rDiOTsI.pdf
+    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/change-of-basis-image-compression/problem-solving-change-of-basis/rMv2rDiOTsI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 69b441b154a30aeebf1fc42fff8001ce
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8d703c814b9d507cec6fccc76f9fe157
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7148d5a5a6d5a32af3bb23e948331e32
+inline_embed_id: '85271125problemsolving:changeofbasis8298380'
 parent_uid: 7b90bea0f6ce9bfdc750ada6103da88c
+related_resources_text: ''
+short_url: problem-solving-change-of-basis
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/change-of-basis-image-compression/problem-solving-change-of-basis
-short_url: problem-solving-change-of-basis
-inline_embed_id: '85271125problemsolving:changeofbasis8298380'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Change of Basis'
 transcript: >-
   <p><span m='6140'>MARTINA BALAGOVIC: Hi.</span> <span m='6480'>Welcome</span>
   <span m='7000'>to</span> <span m='7070'>recitation.</span> </p><p><span
@@ -691,63 +747,7 @@ transcript: >-
   m='742630'>that's</span> <span m='742830'>all</span> <span m='742940'>I</span>
   <span m='742980'>wanted</span> <span m='743230'>to</span> <span
   m='743290'>say</span> <span m='743590'>today.</span> </p>
-embedded_media:
-  - uid: 323819367cacf5410c1a3db5616dd856
-    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: rMv2rDiOTsI
-  - uid: 85ef2401312dc29dc9b54b0ab88059a7
-    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: rMv2rDiOTsI
-  - uid: 3c65f320547487b33be38c7a19fac986
-    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/change-of-basis/id488155309?i=108454303
-  - uid: 56669a27c61400f835153dcf1c2d65f6
-    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_M1_300k.mp4
-  - uid: 37915b48dce86b77bda4a61e76d6dfee
-    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rMv2rDiOTsI/default.jpg'
-  - uid: da4b7e23d06e6fc5e4191a667b78e886
-    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
-    id: rMv2rDiOTsI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/change-of-basis-image-compression/problem-solving-change-of-basis/rMv2rDiOTsI.srt
-  - uid: 69b441b154a30aeebf1fc42fff8001ce
-    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
-    id: rMv2rDiOTsI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/change-of-basis-image-compression/problem-solving-change-of-basis/rMv2rDiOTsI.pdf
-  - uid: 8d703c814b9d507cec6fccc76f9fe157
-    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7148d5a5a6d5a32af3bb23e948331e32
-    parent_uid: f8d7b2452e7d3cfd273c771a2e623e34
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f8d7b2452e7d3cfd273c771a2e623e34
 type: courses
 layout: video
 ---

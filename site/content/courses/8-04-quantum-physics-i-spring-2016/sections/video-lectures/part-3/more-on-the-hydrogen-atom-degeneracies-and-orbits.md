@@ -1,13 +1,67 @@
 ---
-title: More on the hydrogen atom degeneracies and orbits
-uid: f026afa26cac37b643103eae46dc0704
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: fXlzY2l1-4w
+    parent_uid: f026afa26cac37b643103eae46dc0704
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a0f7b247c077b63f7a2225d4b53fba0b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/fXlzY2l1-4w/default.jpg'
+    parent_uid: f026afa26cac37b643103eae46dc0704
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 955aba202de00572dc69974c2e87242c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: fXlzY2l1-4w
+    parent_uid: f026afa26cac37b643103eae46dc0704
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ed27b115d8961512cca55781492c0e83
+  - id: fXlzY2l1-4w.srt
+    parent_uid: f026afa26cac37b643103eae46dc0704
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/more-on-the-hydrogen-atom-degeneracies-and-orbits/fXlzY2l1-4w.srt
+    title: 3play caption file
+    type: null
+    uid: 6c8e12af86826b25922bc4d7fe5a695d
+  - id: fXlzY2l1-4w.pdf
+    parent_uid: f026afa26cac37b643103eae46dc0704
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/more-on-the-hydrogen-atom-degeneracies-and-orbits/fXlzY2l1-4w.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5f762ab73c124de816b8961e4eeb505a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f026afa26cac37b643103eae46dc0704
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0572e6923ff22064bcadd0e33cea1104
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f026afa26cac37b643103eae46dc0704
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 05c2176793bf3fe3c454bb3b4630d4f6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: f026afa26cac37b643103eae46dc0704
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1d326b20544b356266f3fb0333052a4b
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec24_s1_300k.mp4'
+    parent_uid: f026afa26cac37b643103eae46dc0704
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1ac560eb67c83217f2bd82aaaef209d1
+inline_embed_id: 68617594moreonthehydrogenatomdegeneraciesandorbits92012367
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: more-on-the-hydrogen-atom-degeneracies-and-orbits
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/more-on-the-hydrogen-atom-degeneracies-and-orbits
-short_url: more-on-the-hydrogen-atom-degeneracies-and-orbits
-inline_embed_id: 68617594moreonthehydrogenatomdegeneraciesandorbits92012367
-about_this_resource_text: ''
-related_resources_text: ''
+title: More on the hydrogen atom degeneracies and orbits
 transcript: >-
   <p><span m='150'>PROFESSOR:</span> <span m='225'>We</span> <span
   m='300'>spoke</span> <span m='910'>about</span> <span m='1450'>the</span>
@@ -1077,61 +1131,7 @@ transcript: >-
   m='1399240'>don't</span> <span m='1399510'>represent</span> <span
   m='1400170'>it</span> <span m='1400290'>in</span> <span m='1400420'>a</span>
   <span m='1400520'>figure.</span> </p>
-embedded_media:
-  - uid: a0f7b247c077b63f7a2225d4b53fba0b
-    parent_uid: f026afa26cac37b643103eae46dc0704
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: fXlzY2l1-4w
-  - uid: 955aba202de00572dc69974c2e87242c
-    parent_uid: f026afa26cac37b643103eae46dc0704
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/fXlzY2l1-4w/default.jpg'
-  - uid: ed27b115d8961512cca55781492c0e83
-    parent_uid: f026afa26cac37b643103eae46dc0704
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: fXlzY2l1-4w
-  - uid: 6c8e12af86826b25922bc4d7fe5a695d
-    parent_uid: f026afa26cac37b643103eae46dc0704
-    id: fXlzY2l1-4w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/more-on-the-hydrogen-atom-degeneracies-and-orbits/fXlzY2l1-4w.srt
-  - uid: 5f762ab73c124de816b8961e4eeb505a
-    parent_uid: f026afa26cac37b643103eae46dc0704
-    id: fXlzY2l1-4w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/more-on-the-hydrogen-atom-degeneracies-and-orbits/fXlzY2l1-4w.pdf
-  - uid: 0572e6923ff22064bcadd0e33cea1104
-    parent_uid: f026afa26cac37b643103eae46dc0704
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 05c2176793bf3fe3c454bb3b4630d4f6
-    parent_uid: f026afa26cac37b643103eae46dc0704
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1d326b20544b356266f3fb0333052a4b
-    parent_uid: f026afa26cac37b643103eae46dc0704
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 1ac560eb67c83217f2bd82aaaef209d1
-    parent_uid: f026afa26cac37b643103eae46dc0704
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec24_s1_300k.mp4'
+uid: f026afa26cac37b643103eae46dc0704
 type: courses
 layout: video
 ---

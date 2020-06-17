@@ -1,17 +1,71 @@
 ---
-title: Clonal Interference and the Distribution of Beneficial Mutations
-uid: 6bb72263531a40624e88118c575bbf24
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/clonal-interference-and-the-distribution-of-beneficial-mutations
-short_url: clonal-interference-and-the-distribution-of-beneficial-mutations
-inline_embed_id: 26192312clonalinterferenceandthedistributionofbeneficialmutations45300343
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Jeff Gore covers the
   principles of the scientific article &quot;An Equivalence Principle for the
   Incorporation of Favorable Mutations in Asexual Populations.&quot;</p>
   <p><strong>Instructor:</strong> Prof. Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 6PxncdxIXNE
+    parent_uid: 6bb72263531a40624e88118c575bbf24
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5db646e390b6f05cdab13537b05f9bb1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/6PxncdxIXNE/default.jpg'
+    parent_uid: 6bb72263531a40624e88118c575bbf24
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 46cec48dd164b097b49f78aaaed8e095
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: 6bb72263531a40624e88118c575bbf24
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8021af74dbcdaeddd071c639e76ba0cd
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec16_300k.mp4'
+    parent_uid: 6bb72263531a40624e88118c575bbf24
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c7243049f07474d3daca54ddeaa3e69b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 6PxncdxIXNE
+    parent_uid: 6bb72263531a40624e88118c575bbf24
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2311a2959f1f04329ca5db767132fc0e
+  - id: 6PxncdxIXNE.srt
+    parent_uid: 6bb72263531a40624e88118c575bbf24
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/clonal-interference-and-the-distribution-of-beneficial-mutations/6PxncdxIXNE.srt
+    title: 3play caption file
+    type: null
+    uid: 61758a079de5d3bd243da8aad4557371
+  - id: 6PxncdxIXNE.pdf
+    parent_uid: 6bb72263531a40624e88118c575bbf24
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/clonal-interference-and-the-distribution-of-beneficial-mutations/6PxncdxIXNE.pdf
+    title: 3play pdf file
+    type: null
+    uid: ca778a86041fac4f56be1eb50a165b30
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6bb72263531a40624e88118c575bbf24
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3957e9100b32613dbe91b52aadbd08b5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6bb72263531a40624e88118c575bbf24
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fc81525ded268a51aca3b244f194a5dd
+inline_embed_id: 26192312clonalinterferenceandthedistributionofbeneficialmutations45300343
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: clonal-interference-and-the-distribution-of-beneficial-mutations
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/clonal-interference-and-the-distribution-of-beneficial-mutations
+title: Clonal Interference and the Distribution of Beneficial Mutations
 transcript: >-
   <p><span m="60">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4591,61 +4645,7 @@ transcript: >-
   m="4862250">said,</span> <span m="4862530">please</span> <span
   m="4862830">come</span> <span m="4862930">on</span> <span
   m="4863030">up.</span></p>
-embedded_media:
-  - uid: 5db646e390b6f05cdab13537b05f9bb1
-    parent_uid: 6bb72263531a40624e88118c575bbf24
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 6PxncdxIXNE
-  - uid: 46cec48dd164b097b49f78aaaed8e095
-    parent_uid: 6bb72263531a40624e88118c575bbf24
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/6PxncdxIXNE/default.jpg'
-  - uid: 8021af74dbcdaeddd071c639e76ba0cd
-    parent_uid: 6bb72263531a40624e88118c575bbf24
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: c7243049f07474d3daca54ddeaa3e69b
-    parent_uid: 6bb72263531a40624e88118c575bbf24
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec16_300k.mp4'
-  - uid: 2311a2959f1f04329ca5db767132fc0e
-    parent_uid: 6bb72263531a40624e88118c575bbf24
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 6PxncdxIXNE
-  - uid: 61758a079de5d3bd243da8aad4557371
-    parent_uid: 6bb72263531a40624e88118c575bbf24
-    id: 6PxncdxIXNE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/clonal-interference-and-the-distribution-of-beneficial-mutations/6PxncdxIXNE.srt
-  - uid: ca778a86041fac4f56be1eb50a165b30
-    parent_uid: 6bb72263531a40624e88118c575bbf24
-    id: 6PxncdxIXNE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/clonal-interference-and-the-distribution-of-beneficial-mutations/6PxncdxIXNE.pdf
-  - uid: 3957e9100b32613dbe91b52aadbd08b5
-    parent_uid: 6bb72263531a40624e88118c575bbf24
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fc81525ded268a51aca3b244f194a5dd
-    parent_uid: 6bb72263531a40624e88118c575bbf24
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6bb72263531a40624e88118c575bbf24
 type: courses
 layout: video
 ---

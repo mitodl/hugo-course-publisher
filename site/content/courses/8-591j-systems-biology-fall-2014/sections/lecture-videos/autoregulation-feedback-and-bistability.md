@@ -1,18 +1,72 @@
 ---
-title: 'Autoregulation, Feedback and Bistability'
-uid: 6b503d8f9074f1967c543a385a4ad57b
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/autoregulation-feedback-and-bistability
-short_url: autoregulation-feedback-and-bistability
-inline_embed_id: '6414594autoregulation,feedbackandbistability74565420'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Jeff Gore continues
   his discussion of gene expression, this time with a focus on autoregulation
   (when a gene regulates its own expression). He begins by discussing the
   network motif, then moves on to both negative and positive autoregulation.</p>
   <p><strong>Instructor:</strong> Prof. Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: sJ7p2AuOYlA
+    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: cba871526542c1e8db32233a2756b1de
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/sJ7p2AuOYlA/default.jpg'
+    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 873c2a1972e345c83d85af02d3a82bf4
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e49b3ce90a7b2134ea2b0b3744993b61
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec03_300k.mp4'
+    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a26d755e3f7e925ec5e8429bca5b8dc9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: sJ7p2AuOYlA
+    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 998023103f8bf650320bf9baf227f34a
+  - id: sJ7p2AuOYlA.srt
+    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/autoregulation-feedback-and-bistability/sJ7p2AuOYlA.srt
+    title: 3play caption file
+    type: null
+    uid: fbae699325edb4668491839c5a1ef666
+  - id: sJ7p2AuOYlA.pdf
+    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/autoregulation-feedback-and-bistability/sJ7p2AuOYlA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6ef636defd1616cd6483f32999941c39
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a705d8b96bb45c51a3d67e3b02e0f079
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7ad0f921ccea98be8e6acd8d46c3ad09
+inline_embed_id: '6414594autoregulation,feedbackandbistability74565420'
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: autoregulation-feedback-and-bistability
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/autoregulation-feedback-and-bistability
+title: 'Autoregulation, Feedback and Bistability'
 transcript: >-
   <p><span m="60">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4396,61 +4450,7 @@ transcript: >-
   m="4716940">problem</span> <span m="4717220">set,</span> <span
   m="4717410">and</span> <span m="4717550">I'll see you</span> <span
   m="4717940">on</span> <span m="4718160">Tuesday.</span></p>
-embedded_media:
-  - uid: cba871526542c1e8db32233a2756b1de
-    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: sJ7p2AuOYlA
-  - uid: 873c2a1972e345c83d85af02d3a82bf4
-    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/sJ7p2AuOYlA/default.jpg'
-  - uid: e49b3ce90a7b2134ea2b0b3744993b61
-    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: a26d755e3f7e925ec5e8429bca5b8dc9
-    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec03_300k.mp4'
-  - uid: 998023103f8bf650320bf9baf227f34a
-    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: sJ7p2AuOYlA
-  - uid: fbae699325edb4668491839c5a1ef666
-    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
-    id: sJ7p2AuOYlA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/autoregulation-feedback-and-bistability/sJ7p2AuOYlA.srt
-  - uid: 6ef636defd1616cd6483f32999941c39
-    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
-    id: sJ7p2AuOYlA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/autoregulation-feedback-and-bistability/sJ7p2AuOYlA.pdf
-  - uid: a705d8b96bb45c51a3d67e3b02e0f079
-    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7ad0f921ccea98be8e6acd8d46c3ad09
-    parent_uid: 6b503d8f9074f1967c543a385a4ad57b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6b503d8f9074f1967c543a385a4ad57b
 type: courses
 layout: video
 ---

@@ -1,17 +1,71 @@
 ---
-title: Dynamics of Populations in Space
-uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/dynamics-of-populations-in-space
-short_url: dynamics-of-populations-in-space
-inline_embed_id: 10697457dynamicsofpopulationsinspace33441847
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Jeff Gore finishes the
   discussion of the Lotka-Volterra competition model. He then moves on to the
   topic of non-transitive interactions, what he calls rock-paper-scissor
   interactions.</p> <p><strong>Instructor:</strong> Prof. Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 3eIzIJ6QncY
+    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ca0e54a27a7688ff9f7a00d08e70dd26
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/3eIzIJ6QncY/default.jpg'
+    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 29d1dde347b4ac7048c33a20208ec3e5
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 72dfcbfc0fabd23fd478c05bcf59282f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec23_300k.mp4'
+    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 57158338db9595d5a91d0a67dbdc7c69
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 3eIzIJ6QncY
+    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6fab79ea7e1ddfff0d099e422ac43e69
+  - id: 3eIzIJ6QncY.srt
+    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/dynamics-of-populations-in-space/3eIzIJ6QncY.srt
+    title: 3play caption file
+    type: null
+    uid: 8b469cbcabdad685ec251981280b2dc8
+  - id: 3eIzIJ6QncY.pdf
+    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/dynamics-of-populations-in-space/3eIzIJ6QncY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 84fc45d756bc031a2f52ab2bba936454
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1001d4e4d617cf0e17891e300fbd121a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f3d4226f17f30d2553ae56e7469e4318
+inline_embed_id: 10697457dynamicsofpopulationsinspace33441847
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: dynamics-of-populations-in-space
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/dynamics-of-populations-in-space
+title: Dynamics of Populations in Space
 transcript: >-
   <p><span m="80">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4713,61 +4767,7 @@ transcript: >-
   m="4841200">neutral</span> <span m="4841630">theory</span> <span
   m="4841950">in</span> <span m="4842240">ecology.</span> <span
   m="4842500">Thanks.</span></p>
-embedded_media:
-  - uid: ca0e54a27a7688ff9f7a00d08e70dd26
-    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 3eIzIJ6QncY
-  - uid: 29d1dde347b4ac7048c33a20208ec3e5
-    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/3eIzIJ6QncY/default.jpg'
-  - uid: 72dfcbfc0fabd23fd478c05bcf59282f
-    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: 57158338db9595d5a91d0a67dbdc7c69
-    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec23_300k.mp4'
-  - uid: 6fab79ea7e1ddfff0d099e422ac43e69
-    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 3eIzIJ6QncY
-  - uid: 8b469cbcabdad685ec251981280b2dc8
-    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
-    id: 3eIzIJ6QncY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/dynamics-of-populations-in-space/3eIzIJ6QncY.srt
-  - uid: 84fc45d756bc031a2f52ab2bba936454
-    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
-    id: 3eIzIJ6QncY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/dynamics-of-populations-in-space/3eIzIJ6QncY.pdf
-  - uid: 1001d4e4d617cf0e17891e300fbd121a
-    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f3d4226f17f30d2553ae56e7469e4318
-    parent_uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
 type: courses
 layout: video
 ---

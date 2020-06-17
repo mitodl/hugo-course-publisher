@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Review of Taylor''s Series'
-uid: b8086018243d998c105a5a2921f16fc3
-parent_uid: 9714534fbc6217589e4ab69f5ad147a4
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-99-taylors-series-continued/clip-1-review-of-taylors-series
-short_url: clip-1-review-of-taylors-series
-inline_embed_id: '33416323clip1:reviewoftaylor''sseries12982736'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/2fb58393243807032b7905cbd6e8ce42"
   target="_blank">Accompanying Notes (PDF)</a></p> <p class="scholar_medsm">From
   Lecture 39 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '--lPz7VFnKI'
+    parent_uid: b8086018243d998c105a5a2921f16fc3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 717b64a8b35204f61a5bb56925fe6225
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/--lPz7VFnKI/default.jpg'
+    parent_uid: b8086018243d998c105a5a2921f16fc3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bcaf81c8b78e60250092f280f1fe1de9
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec39_300k.mp4'
+    parent_uid: b8086018243d998c105a5a2921f16fc3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c0797a92122aa280425151b6a64f14a7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: b8086018243d998c105a5a2921f16fc3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f174507edcac4e7974669975b01a8626
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '--lPz7VFnKI'
+    parent_uid: b8086018243d998c105a5a2921f16fc3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d27f60e16d8b89254f7c369aafa4d40e
+  - id: '--lPz7VFnKI.srt'
+    parent_uid: b8086018243d998c105a5a2921f16fc3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-99-taylors-series-continued/clip-1-review-of-taylors-series/--lPz7VFnKI.srt
+    title: 3play caption file
+    type: null
+    uid: 461728567d11fa49f06241dabcb14c6b
+  - id: '--lPz7VFnKI.pdf'
+    parent_uid: b8086018243d998c105a5a2921f16fc3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-99-taylors-series-continued/clip-1-review-of-taylors-series/--lPz7VFnKI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 318a93441f1883de2fed265d86d7ab41
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b8086018243d998c105a5a2921f16fc3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 09e4724b39b12039ef8f065bdae18e1a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b8086018243d998c105a5a2921f16fc3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 114185a260de414ca8133488ba11a748
+inline_embed_id: '33416323clip1:reviewoftaylor''sseries12982736'
+parent_uid: 9714534fbc6217589e4ab69f5ad147a4
 related_resources_text: ''
+short_url: clip-1-review-of-taylors-series
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-99-taylors-series-continued/clip-1-review-of-taylors-series
+title: 'Clip 1: Review of Taylor''s Series'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following</span> <span
   m='530'>content</span> <span m='1270'>is</span> <span m='1420'>provided</span>
@@ -2262,61 +2316,7 @@ transcript: >-
   m='2343830'>the</span> <span m='2343930'>points</span> <span
   m='2344200'>home</span> <span m='2344470'>forcefully,</span> <span
   m='2344563'>I</span> <span m='2344656'>think.</span> </p>
-embedded_media:
-  - uid: 717b64a8b35204f61a5bb56925fe6225
-    parent_uid: b8086018243d998c105a5a2921f16fc3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '--lPz7VFnKI'
-  - uid: bcaf81c8b78e60250092f280f1fe1de9
-    parent_uid: b8086018243d998c105a5a2921f16fc3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/--lPz7VFnKI/default.jpg'
-  - uid: c0797a92122aa280425151b6a64f14a7
-    parent_uid: b8086018243d998c105a5a2921f16fc3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec39_300k.mp4'
-  - uid: f174507edcac4e7974669975b01a8626
-    parent_uid: b8086018243d998c105a5a2921f16fc3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
-  - uid: d27f60e16d8b89254f7c369aafa4d40e
-    parent_uid: b8086018243d998c105a5a2921f16fc3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '--lPz7VFnKI'
-  - uid: 461728567d11fa49f06241dabcb14c6b
-    parent_uid: b8086018243d998c105a5a2921f16fc3
-    id: '--lPz7VFnKI.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-99-taylors-series-continued/clip-1-review-of-taylors-series/--lPz7VFnKI.srt
-  - uid: 318a93441f1883de2fed265d86d7ab41
-    parent_uid: b8086018243d998c105a5a2921f16fc3
-    id: '--lPz7VFnKI.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-99-taylors-series-continued/clip-1-review-of-taylors-series/--lPz7VFnKI.pdf
-  - uid: 09e4724b39b12039ef8f065bdae18e1a
-    parent_uid: b8086018243d998c105a5a2921f16fc3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 114185a260de414ca8133488ba11a748
-    parent_uid: b8086018243d998c105a5a2921f16fc3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b8086018243d998c105a5a2921f16fc3
 type: courses
 layout: video
 ---

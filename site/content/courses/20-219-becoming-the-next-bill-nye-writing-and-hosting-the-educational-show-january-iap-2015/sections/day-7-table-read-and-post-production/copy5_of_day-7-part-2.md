@@ -1,13 +1,67 @@
 ---
-title: 'Introduction to post-production: Killing your darlings'
-uid: 9ce29cff80b61e2ed308b3f8b156d861
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Docl3KOqnHI
+    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 35b6f0fe9b872e7105922ee743a400fa
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: Docl3KOqnHI
+    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 13ed484d1a4a0051baea33ae8c0cb2d5
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fc3771496e03e7dfb93a93b03c2a5f9f
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D07P2_300k.mp4'
+    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d37c44c1c16999814ddb404df6153dab
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Docl3KOqnHI/default.jpg'
+    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e9665a7b2cb4c63cb301f3ef33168ad0
+  - id: Docl3KOqnHI.srt
+    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-7-table-read-and-post-production/copy5_of_day-7-part-2/Docl3KOqnHI.srt
+    title: 3play caption file
+    type: null
+    uid: 3365721f37c75dde72368973058f400a
+  - id: Docl3KOqnHI.pdf
+    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-7-table-read-and-post-production/copy5_of_day-7-part-2/Docl3KOqnHI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 440a13ac18058d3e0bb8e5a064c90342
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4e8b87ba49f51af92ba140b56cf3d8c5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7300af03717e28bc03728e31576c62f0
+inline_embed_id: '11123971introductiontopost-production:killingyourdarlings16377232'
 parent_uid: d8c0d81b2a38c0d7c4ff4a8cfacacb2d
+related_resources_text: ''
+short_url: copy5_of_day-7-part-2
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-7-table-read-and-post-production/copy5_of_day-7-part-2
-short_url: copy5_of_day-7-part-2
-inline_embed_id: '11123971introductiontopost-production:killingyourdarlings16377232'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Introduction to post-production: Killing your darlings'
 transcript: >-
   <p><span m="80">The</span> <span m="170">following</span> <span
   m="610">content</span> <span m="1120">is</span> <span m="1230">provided</span>
@@ -7453,61 +7507,7 @@ transcript: >-
   m="6217850">wait</span> <span m="6218000">to</span> <span
   m="6218080">see</span> <span m="6218220">your</span> <span
   m="6218350">videos.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 35b6f0fe9b872e7105922ee743a400fa
-    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Docl3KOqnHI
-  - uid: 13ed484d1a4a0051baea33ae8c0cb2d5
-    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Docl3KOqnHI
-  - uid: fc3771496e03e7dfb93a93b03c2a5f9f
-    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: d37c44c1c16999814ddb404df6153dab
-    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D07P2_300k.mp4'
-  - uid: e9665a7b2cb4c63cb301f3ef33168ad0
-    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Docl3KOqnHI/default.jpg'
-  - uid: 3365721f37c75dde72368973058f400a
-    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
-    id: Docl3KOqnHI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-7-table-read-and-post-production/copy5_of_day-7-part-2/Docl3KOqnHI.srt
-  - uid: 440a13ac18058d3e0bb8e5a064c90342
-    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
-    id: Docl3KOqnHI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-7-table-read-and-post-production/copy5_of_day-7-part-2/Docl3KOqnHI.pdf
-  - uid: 4e8b87ba49f51af92ba140b56cf3d8c5
-    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7300af03717e28bc03728e31576c62f0
-    parent_uid: 9ce29cff80b61e2ed308b3f8b156d861
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9ce29cff80b61e2ed308b3f8b156d861
 type: courses
 layout: video
 ---

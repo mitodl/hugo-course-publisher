@@ -1,13 +1,61 @@
 ---
-title: Standing Sound Waves in a Glass Tube
-uid: e07b1d77dd4ab141478116e3e63df4d9
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: RhIh1zw0-BM
+    parent_uid: e07b1d77dd4ab141478116e3e63df4d9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3fc0382c6d5913fcd274972efec8186f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/RhIh1zw0-BM/default.jpg'
+    parent_uid: e07b1d77dd4ab141478116e3e63df4d9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f314c4ded3a8e7e8f9fbb313151c0b41
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: RhIh1zw0-BM
+    parent_uid: e07b1d77dd4ab141478116e3e63df4d9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2c9afde2079a63d71d526eb8b240f78a
+  - id: RhIh1zw0-BM.srt
+    parent_uid: e07b1d77dd4ab141478116e3e63df4d9
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-11/copy_of_lecture-11-video/RhIh1zw0-BM.srt
+    title: 3play caption file
+    type: null
+    uid: 9f892a9e8f36b56f42b364fc2e9509c6
+  - id: RhIh1zw0-BM.pdf
+    parent_uid: e07b1d77dd4ab141478116e3e63df4d9
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-11/copy_of_lecture-11-video/RhIh1zw0-BM.pdf
+    title: 3play pdf file
+    type: null
+    uid: f905e2159e1872dd9324bf643882ab6e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e07b1d77dd4ab141478116e3e63df4d9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5afb2998f9515d8713e8aa553f7651a8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e07b1d77dd4ab141478116e3e63df4d9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b3211226b5ffd6c5d9fec3a7c1338e77
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec11_300k.mp4'
+    parent_uid: e07b1d77dd4ab141478116e3e63df4d9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2c8e2897ba77f35a731f3e0bb65ab596
+inline_embed_id: 4210658lecture11videop167655518
 parent_uid: 255269d470c4990b3edd8effa5e8213a
+related_resources_text: ''
+short_url: copy_of_lecture-11-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-11/copy_of_lecture-11-video
-short_url: copy_of_lecture-11-video
-inline_embed_id: 4210658lecture11videop167655518
-about_this_resource_text: ''
-related_resources_text: ''
+title: Standing Sound Waves in a Glass Tube
 transcript: >-
   <p><span m="2550">The</span> <span m="2640">following</span> <span
   m="3090">content</span> <span m="3600">is</span> <span
@@ -3634,55 +3682,7 @@ transcript: >-
   m="4393740">will</span> <span m="4393870">see</span> <span
   m="4394110">you</span> <span m="4394800">next</span> <span
   m="4395370">week.</span></p>
-embedded_media:
-  - uid: 3fc0382c6d5913fcd274972efec8186f
-    parent_uid: e07b1d77dd4ab141478116e3e63df4d9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: RhIh1zw0-BM
-  - uid: f314c4ded3a8e7e8f9fbb313151c0b41
-    parent_uid: e07b1d77dd4ab141478116e3e63df4d9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/RhIh1zw0-BM/default.jpg'
-  - uid: 2c9afde2079a63d71d526eb8b240f78a
-    parent_uid: e07b1d77dd4ab141478116e3e63df4d9
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: RhIh1zw0-BM
-  - uid: 9f892a9e8f36b56f42b364fc2e9509c6
-    parent_uid: e07b1d77dd4ab141478116e3e63df4d9
-    id: RhIh1zw0-BM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-11/copy_of_lecture-11-video/RhIh1zw0-BM.srt
-  - uid: f905e2159e1872dd9324bf643882ab6e
-    parent_uid: e07b1d77dd4ab141478116e3e63df4d9
-    id: RhIh1zw0-BM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-11/copy_of_lecture-11-video/RhIh1zw0-BM.pdf
-  - uid: 5afb2998f9515d8713e8aa553f7651a8
-    parent_uid: e07b1d77dd4ab141478116e3e63df4d9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b3211226b5ffd6c5d9fec3a7c1338e77
-    parent_uid: e07b1d77dd4ab141478116e3e63df4d9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 2c8e2897ba77f35a731f3e0bb65ab596
-    parent_uid: e07b1d77dd4ab141478116e3e63df4d9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec11_300k.mp4'
+uid: e07b1d77dd4ab141478116e3e63df4d9
 type: courses
 layout: video
 ---

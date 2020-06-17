@@ -1,16 +1,71 @@
 ---
-title: "Shell vs. Editor\t"
-uid: 9fa9dd0c078c0527cd9d278c902a9570
-parent_uid: 021d8a0e70c64737bc1f315eea727f84
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-1/shell-vs.-editor
-short_url: shell-vs.-editor
-inline_embed_id: 21698707shellvs.editor15238187
 about_this_resource_text: >-
   <p><strong>Description:</strong> This in-class question explains the
   difference between the IDLE python environment and the shell.</p>
   <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Y6J8I056Ffw
+    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 10857a4241afa79353e8491f0608e123
+  - id: Y6J8I056Ffw.srt
+    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-1/shell-vs.-editor/Y6J8I056Ffw.srt
+    title: 3play caption file
+    type: null
+    uid: 94c9a08cfcfc0b5e91c51c776d4cdfc0
+  - id: Y6J8I056Ffw.pdf
+    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-1/shell-vs.-editor/Y6J8I056Ffw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4b42a90262becb77fd1c2a3cc3cb6599
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e5922cbd561d72627fe83225f13cd66b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1aabda7b3bc91b7485e8295d68cd8252
+  - id: Video-YouTube-Stream
+    media_location: Y6J8I056Ffw
+    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3c7c440fc0c531d57f6f8839041026f2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Y6J8I056Ffw/default.jpg'
+    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 33f20445eb178b9ec911895e3f668ced
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 74891417da2d3c93bea871f27d0a3940
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_01_exercise_01_300k.mp4
+    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 790d08e1554424e39238b421d95cffec
+inline_embed_id: 21698707shellvs.editor15238187
+parent_uid: 021d8a0e70c64737bc1f315eea727f84
 related_resources_text: ''
+short_url: shell-vs.-editor
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-1/shell-vs.-editor
+title: "Shell vs. Editor\t"
 transcript: >-
   <p><span m='790'>The</span> <span m='850'>following</span> <span
   m='1300'>content</span> <span m='1870'>is</span> <span
@@ -99,62 +154,7 @@ transcript: >-
   m='76910'>you</span> <span m='77000'>need</span> <span m='77120'>to</span>
   <span m='77210'>use</span> <span m='77360'>a</span> <span
   m='77420'>print</span> <span m='77590'>statement.</span> </p>
-embedded_media:
-  - uid: 10857a4241afa79353e8491f0608e123
-    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Y6J8I056Ffw
-  - uid: 94c9a08cfcfc0b5e91c51c776d4cdfc0
-    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
-    id: Y6J8I056Ffw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-1/shell-vs.-editor/Y6J8I056Ffw.srt
-  - uid: 4b42a90262becb77fd1c2a3cc3cb6599
-    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
-    id: Y6J8I056Ffw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-1/shell-vs.-editor/Y6J8I056Ffw.pdf
-  - uid: e5922cbd561d72627fe83225f13cd66b
-    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1aabda7b3bc91b7485e8295d68cd8252
-    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3c7c440fc0c531d57f6f8839041026f2
-    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Y6J8I056Ffw
-  - uid: 33f20445eb178b9ec911895e3f668ced
-    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Y6J8I056Ffw/default.jpg'
-  - uid: 74891417da2d3c93bea871f27d0a3940
-    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: 790d08e1554424e39238b421d95cffec
-    parent_uid: 9fa9dd0c078c0527cd9d278c902a9570
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_01_exercise_01_300k.mp4
+uid: 9fa9dd0c078c0527cd9d278c902a9570
 type: courses
 layout: video
 ---

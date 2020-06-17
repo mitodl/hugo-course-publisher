@@ -1,17 +1,89 @@
 ---
-title: 'Lecture 23: Differential equations and exp(At)'
-uid: 1568af1ffb9ec83bdfedb41742aab02b
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-23-differential-equations-and-exp-at
-short_url: lecture-23-differential-equations-and-exp-at
-inline_embed_id: '62761771lecture23:differentialequationsandexp(at)88170060'
 about_this_resource_text: "<div class=\"vidpad\">\r\n<p>These video lectures of Professor Gilbert Strang teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to the current  edition of the textbook. However, this book is still the best reference  for more information on the topics covered in each lecture.</p>\r\n<p><a href=\"http://www.amazon.com/exec/obidos/ASIN/0980232775/ref=nosim/mitopencourse-20\"><img alt=\"Buy at Amazon\" src=\"/images/a_logo_17.gif\" align=\"absmiddle\" border=\"0\" /></a> Strang, Gilbert. <em>Introduction to Linear Algebra</em>. 5th ed. <a href=\"http://www.wellesleycambridge.com/\">Wellesley-Cambridge Press</a>, 2016. ISBN: 9780980232776.</p>\r\n<p><strong>Instructor/speaker:</strong> Prof. Gilbert Strang</p>\r\n</div>"
+embedded_media:
+  - id: 18.06_L23.jpg
+    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-23-differential-equations-and-exp-at/18.06_L23.jpg
+    title: 18.06_L23.jpg
+    type: null
+    uid: df0b753c94f7498786f508d2de12bfa4
+  - id: Video-YouTube-Stream
+    media_location: IZqwi0wJovM
+    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 48d6699df15e08c04c170ab701ff0cc9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/IZqwi0wJovM/default.jpg'
+    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 16d23266d639494109f0099db7418cc7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1279caf7329722bef019e0f919bb5727
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/23.mp4'
+    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: fdad43800d43e7813d9b7e48c9f581ba
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: c19314bfb71ad0223027ec1e6da9a9d5
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: b022341473b1cafdd484a21bc71272a8
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: IZqwi0wJovM
+    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 35424fa742b185d51f206134e9a8a526
+  - id: IZqwi0wJovM.srt
+    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-23-differential-equations-and-exp-at/IZqwi0wJovM.srt
+    title: 3play caption file
+    type: null
+    uid: d711ec4e384172f228e0aeef457c36b2
+  - id: IZqwi0wJovM.pdf
+    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-23-differential-equations-and-exp-at/IZqwi0wJovM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6d67704459268b5517f5f800a2aae300
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8aaf0060dd98148b89ca22769b04341c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6d2964d5b47a45dd87f41ee31a4ab7dd
+inline_embed_id: '62761771lecture23:differentialequationsandexp(at)88170060'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-23-differential-equations-and-exp-at
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-23-differential-equations-and-exp-at
+title: 'Lecture 23: Differential equations and exp(At)'
 transcript: >-
   <p><span m="0">--</span> <span m="8560">and</span> <span
   m="9030">lift-off</span> <span m="9640">on</span> <span
@@ -3052,79 +3124,7 @@ transcript: >-
   m="3049890">we</span> <span m="3050180">can</span> <span
   m="3050350">now</span> <span m="3050560">do</span> <span
   m="3050810">exponentials.</span></p><p><span m="3052060">Thanks.</span></p>
-embedded_media:
-  - uid: df0b753c94f7498786f508d2de12bfa4
-    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
-    id: 18.06_L23.jpg
-    title: 18.06_L23.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-23-differential-equations-and-exp-at/18.06_L23.jpg
-  - uid: 48d6699df15e08c04c170ab701ff0cc9
-    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: IZqwi0wJovM
-  - uid: 16d23266d639494109f0099db7418cc7
-    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/IZqwi0wJovM/default.jpg'
-  - uid: 1279caf7329722bef019e0f919bb5727
-    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: fdad43800d43e7813d9b7e48c9f581ba
-    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/23.mp4'
-  - uid: c19314bfb71ad0223027ec1e6da9a9d5
-    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: b022341473b1cafdd484a21bc71272a8
-    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 35424fa742b185d51f206134e9a8a526
-    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: IZqwi0wJovM
-  - uid: d711ec4e384172f228e0aeef457c36b2
-    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
-    id: IZqwi0wJovM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-23-differential-equations-and-exp-at/IZqwi0wJovM.srt
-  - uid: 6d67704459268b5517f5f800a2aae300
-    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
-    id: IZqwi0wJovM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-23-differential-equations-and-exp-at/IZqwi0wJovM.pdf
-  - uid: 8aaf0060dd98148b89ca22769b04341c
-    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6d2964d5b47a45dd87f41ee31a4ab7dd
-    parent_uid: 1568af1ffb9ec83bdfedb41742aab02b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 1568af1ffb9ec83bdfedb41742aab02b
 type: courses
 layout: video
 ---

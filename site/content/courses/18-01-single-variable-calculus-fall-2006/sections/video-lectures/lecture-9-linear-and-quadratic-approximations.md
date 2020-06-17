@@ -1,18 +1,90 @@
 ---
-title: 'Lecture 9: Linear and Quadratic Approximations'
-uid: 47b035d9bd94cbaf3357860b87c1ba47
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-9-linear-and-quadratic-approximations
-short_url: lecture-9-linear-and-quadratic-approximations
-inline_embed_id: '98906319lecture9:linearandquadraticapproximations90148725'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Linear and quadratic
   approximations</p> <p><strong>Instructor:</strong> Prof. David
   Jerison</p></div>
+embedded_media:
+  - id: lec09.jpg
+    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-9-linear-and-quadratic-approximations/lec09.jpg
+    title: Lecture 9
+    type: null
+    uid: a4ba97827926efd1973fc15356213ba8
+  - id: Video-YouTube-Stream
+    media_location: BSAA0akmPEU
+    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 69bcf203eb7e2219d3bca164ba06c6ac
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BSAA0akmPEU/default.jpg'
+    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2fffbf5b21009316d471d17656e732d0
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2d865d572b44d8034f0b81742f15786a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec09_300k.mp4'
+    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b61c88258006c1bf74fea3b6b51b52c6
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 276fd25738e1248e6fa0d467176021e7
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: d63f64d8324727f81a3def7d057efff7
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BSAA0akmPEU
+    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 10a97c4c260ead3da0d7972c1a635674
+  - id: BSAA0akmPEU.srt
+    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-9-linear-and-quadratic-approximations/BSAA0akmPEU.srt
+    title: 3play caption file
+    type: null
+    uid: a31c91fb7fea40f0836a076e8a1bb2d9
+  - id: BSAA0akmPEU.pdf
+    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-9-linear-and-quadratic-approximations/BSAA0akmPEU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9b19fad75bf28a70452a6ed167932e00
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c13a61cd5e329731c3b334fbd0ad6ff7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 731405e3b8118a7d349b5f8c12429935
+inline_embed_id: '98906319lecture9:linearandquadraticapproximations90148725'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/40cb41807e6d67373f3299ce87c4d9b3">PDF</a>)</p></div>
+short_url: lecture-9-linear-and-quadratic-approximations
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-9-linear-and-quadratic-approximations
+title: 'Lecture 9: Linear and Quadratic Approximations'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following</span> <span
   m='1890'>content is provided</span> <span m='2330'>under a Creative</span>
@@ -2459,79 +2531,7 @@ transcript: >-
   m='2805070'>we'll</span> <span m='2805190'>do</span> <span
   m='2805320'>these</span> <span m='2805540'>next</span> <span
   m='2805860'>time.</span> </p>
-embedded_media:
-  - uid: a4ba97827926efd1973fc15356213ba8
-    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
-    id: lec09.jpg
-    title: Lecture 9
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-9-linear-and-quadratic-approximations/lec09.jpg
-  - uid: 69bcf203eb7e2219d3bca164ba06c6ac
-    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BSAA0akmPEU
-  - uid: 2fffbf5b21009316d471d17656e732d0
-    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BSAA0akmPEU/default.jpg'
-  - uid: 2d865d572b44d8034f0b81742f15786a
-    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: b61c88258006c1bf74fea3b6b51b52c6
-    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec09_300k.mp4'
-  - uid: 276fd25738e1248e6fa0d467176021e7
-    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: d63f64d8324727f81a3def7d057efff7
-    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 10a97c4c260ead3da0d7972c1a635674
-    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BSAA0akmPEU
-  - uid: a31c91fb7fea40f0836a076e8a1bb2d9
-    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
-    id: BSAA0akmPEU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-9-linear-and-quadratic-approximations/BSAA0akmPEU.srt
-  - uid: 9b19fad75bf28a70452a6ed167932e00
-    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
-    id: BSAA0akmPEU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-9-linear-and-quadratic-approximations/BSAA0akmPEU.pdf
-  - uid: c13a61cd5e329731c3b334fbd0ad6ff7
-    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 731405e3b8118a7d349b5f8c12429935
-    parent_uid: 47b035d9bd94cbaf3357860b87c1ba47
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 47b035d9bd94cbaf3357860b87c1ba47
 type: courses
 layout: video
 ---

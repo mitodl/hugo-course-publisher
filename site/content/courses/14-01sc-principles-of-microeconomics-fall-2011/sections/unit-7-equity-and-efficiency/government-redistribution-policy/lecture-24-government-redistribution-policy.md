@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 24: Government Redistribution Policy'
-uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ni0aX0tUAd0
+    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d4f583432e59f754226db89ba1bc207d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ni0aX0tUAd0/default.jpg'
+    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 92087379054679a6d7d782d322b3621b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ni0aX0tUAd0
+    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fcc529d3bb38ce7ed100136bf1071a38
+  - id: ni0aX0tUAd0.srt
+    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/government-redistribution-policy/lecture-24-government-redistribution-policy/ni0aX0tUAd0.srt
+    title: 3play caption file
+    type: null
+    uid: 74ac04f537ccf939622d31f8ee41a373
+  - id: ni0aX0tUAd0.pdf
+    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/government-redistribution-policy/lecture-24-government-redistribution-policy/ni0aX0tUAd0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 64da4d515e390d2e865b1993d47e2621
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c8227eaf65f8d56d51fd3e5482149fe2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2fdc063a9d45cb544c880e50ecbe254a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec24_300k.mp4'
+    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7643eb868d2b17d8209264f948729dfb
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-24-government-redistribution/id496265654?i=110157707
+    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fdd24b32acad2df6a7ffac7a9b7a27df
+inline_embed_id: 57942359lecture24governmentredistributionpolicy3044171
 parent_uid: b3df47062059ac3f7af88832de93e0fb
+related_resources_text: ''
+short_url: lecture-24-government-redistribution-policy
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/government-redistribution-policy/lecture-24-government-redistribution-policy
-short_url: lecture-24-government-redistribution-policy
-inline_embed_id: 57942359lecture24governmentredistributionpolicy3044171
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 24: Government Redistribution Policy'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3661,62 +3716,7 @@ transcript: >-
   m='2949810'>work,</span> <span m='2949990'>who the</span> <span
   m='2950160'>people</span> <span m='2950390'>are who</span> <span
   m='2950570'>can't</span> <span m='2950800'>work.</span> </p>
-embedded_media:
-  - uid: d4f583432e59f754226db89ba1bc207d
-    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ni0aX0tUAd0
-  - uid: 92087379054679a6d7d782d322b3621b
-    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ni0aX0tUAd0/default.jpg'
-  - uid: fcc529d3bb38ce7ed100136bf1071a38
-    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ni0aX0tUAd0
-  - uid: 74ac04f537ccf939622d31f8ee41a373
-    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
-    id: ni0aX0tUAd0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/government-redistribution-policy/lecture-24-government-redistribution-policy/ni0aX0tUAd0.srt
-  - uid: 64da4d515e390d2e865b1993d47e2621
-    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
-    id: ni0aX0tUAd0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/government-redistribution-policy/lecture-24-government-redistribution-policy/ni0aX0tUAd0.pdf
-  - uid: c8227eaf65f8d56d51fd3e5482149fe2
-    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2fdc063a9d45cb544c880e50ecbe254a
-    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7643eb868d2b17d8209264f948729dfb
-    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec24_300k.mp4'
-  - uid: fdd24b32acad2df6a7ffac7a9b7a27df
-    parent_uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-24-government-redistribution/id496265654?i=110157707
+uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
 type: courses
 layout: video
 ---

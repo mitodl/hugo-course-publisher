@@ -1,13 +1,69 @@
 ---
-title: Diffusion of a Chemical
-uid: 128211cde4959162d2a935a3325ead1e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: rqkvDrYmKcc
+    parent_uid: 128211cde4959162d2a935a3325ead1e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1d11577380f5a180c217f7f661dbd104
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/rqkvDrYmKcc/default.jpg'
+    parent_uid: 128211cde4959162d2a935a3325ead1e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 28ed10a1417f80e4873c307c2f39dd19
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: rqkvDrYmKcc
+    parent_uid: 128211cde4959162d2a935a3325ead1e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ea4acdc58e408ae101218defd7e81797
+  - id: rqkvDrYmKcc.srt
+    parent_uid: 128211cde4959162d2a935a3325ead1e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/diffusion-of-a-chemical/rqkvDrYmKcc.srt
+    title: 3play caption file
+    type: null
+    uid: 5f3af0a1bbf577179279b551cb933411
+  - id: rqkvDrYmKcc.pdf
+    parent_uid: 128211cde4959162d2a935a3325ead1e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/diffusion-of-a-chemical/rqkvDrYmKcc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5d3bc895ce8a9b7fe2c1fe76b6908ba4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 128211cde4959162d2a935a3325ead1e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e116fba0d56b910341da689dc9a35eee
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 128211cde4959162d2a935a3325ead1e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dcb593a7b47f9ca60bd5494cb19e86c6
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_37a_300k.mp4
+    parent_uid: 128211cde4959162d2a935a3325ead1e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b24f67248d9f79e709ae97bc3aac226a
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/4j3-diffusion-of-a-chemical/id414308064?i=90332463
+    parent_uid: 128211cde4959162d2a935a3325ead1e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 17cc7afc8396e909aa4e1374d4a11b8f
+inline_embed_id: 73232130diffusionofachemical11556885
 parent_uid: d5e0c7a6f17252a3c694d627faf12123
+related_resources_text: ''
+short_url: diffusion-of-a-chemical
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/diffusion-of-a-chemical
-short_url: diffusion-of-a-chemical
-inline_embed_id: 73232130diffusionofachemical11556885
-about_this_resource_text: ''
-related_resources_text: ''
+title: Diffusion of a Chemical
 transcript: >-
   <p><span m='6970'>PROFESSOR: Welcome</span> <span m='7410'>back</span> <span
   m='7580'>to</span> <span m='7670'>recitation.</span> <span m='8910'>In</span>
@@ -856,63 +912,7 @@ transcript: >-
   m='739380'>I</span> <span m='739510'>think</span> <span m='739720'>I</span>
   <span m='739790'>will</span> <span m='739910'>stop</span> <span
   m='740140'>there.</span> </p>
-embedded_media:
-  - uid: 1d11577380f5a180c217f7f661dbd104
-    parent_uid: 128211cde4959162d2a935a3325ead1e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: rqkvDrYmKcc
-  - uid: 28ed10a1417f80e4873c307c2f39dd19
-    parent_uid: 128211cde4959162d2a935a3325ead1e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rqkvDrYmKcc/default.jpg'
-  - uid: ea4acdc58e408ae101218defd7e81797
-    parent_uid: 128211cde4959162d2a935a3325ead1e
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: rqkvDrYmKcc
-  - uid: 5f3af0a1bbf577179279b551cb933411
-    parent_uid: 128211cde4959162d2a935a3325ead1e
-    id: rqkvDrYmKcc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/diffusion-of-a-chemical/rqkvDrYmKcc.srt
-  - uid: 5d3bc895ce8a9b7fe2c1fe76b6908ba4
-    parent_uid: 128211cde4959162d2a935a3325ead1e
-    id: rqkvDrYmKcc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/diffusion-of-a-chemical/rqkvDrYmKcc.pdf
-  - uid: e116fba0d56b910341da689dc9a35eee
-    parent_uid: 128211cde4959162d2a935a3325ead1e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dcb593a7b47f9ca60bd5494cb19e86c6
-    parent_uid: 128211cde4959162d2a935a3325ead1e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b24f67248d9f79e709ae97bc3aac226a
-    parent_uid: 128211cde4959162d2a935a3325ead1e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_37a_300k.mp4
-  - uid: 17cc7afc8396e909aa4e1374d4a11b8f
-    parent_uid: 128211cde4959162d2a935a3325ead1e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/4j3-diffusion-of-a-chemical/id414308064?i=90332463
+uid: 128211cde4959162d2a935a3325ead1e
 type: courses
 layout: video
 ---

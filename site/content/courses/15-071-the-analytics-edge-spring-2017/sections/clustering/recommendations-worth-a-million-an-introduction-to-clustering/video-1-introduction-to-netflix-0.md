@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: Introduction to Netflix'
-uid: da5550ffe197c76e29367d90b0747760
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: WTuwV-rWxUc
+    parent_uid: da5550ffe197c76e29367d90b0747760
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e4a4dd23640d318e8a0bc296e77ab2b1
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: WTuwV-rWxUc
+    parent_uid: da5550ffe197c76e29367d90b0747760
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b36827d8d6d47a081b638e1225392ac8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/WTuwV-rWxUc/default.jpg'
+    parent_uid: da5550ffe197c76e29367d90b0747760
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 50a4674d98481a52b1167a8930429a8d
+  - id: WTuwV-rWxUc.srt
+    parent_uid: da5550ffe197c76e29367d90b0747760
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-1-introduction-to-netflix-0/WTuwV-rWxUc.srt
+    title: 3play caption file
+    type: null
+    uid: 738bc630d8dbfff51aea798fbd92d931
+  - id: WTuwV-rWxUc.pdf
+    parent_uid: da5550ffe197c76e29367d90b0747760
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-1-introduction-to-netflix-0/WTuwV-rWxUc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1d53e0ed6fd229fc52592b00641d32af
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: da5550ffe197c76e29367d90b0747760
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 36a9b3edc6c4aca5d2bfb9beaa58b763
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: da5550ffe197c76e29367d90b0747760
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fe5523c5dfb0f2703ae9228abdc34210
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.2.01_300k.mp4
+    parent_uid: da5550ffe197c76e29367d90b0747760
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: caffce421f9702ac8f916640e560d885
+inline_embed_id: 3394041video1introductiontonetflix89159569
 parent_uid: b091b1bec85a85e060a83b7905c9dcce
+related_resources_text: ''
+short_url: video-1-introduction-to-netflix-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-1-introduction-to-netflix-0
-short_url: video-1-introduction-to-netflix-0
-inline_embed_id: 3394041video1introductiontonetflix89159569
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: Introduction to Netflix'
 transcript: >-
   <p><span m='9500'>In</span> <span m='9891'>this</span> <span
   m='10282'>lecture,</span> <span m='10673'>we'll</span> <span
@@ -257,56 +306,7 @@ transcript: >-
   m='255825'>discuss</span> <span m='256256'>how</span> <span
   m='256687'>recommendation</span> <span m='257118'>systems</span> <span
   m='257550'>generally</span> <span m='258560'>work.</span> </p>
-embedded_media:
-  - uid: e4a4dd23640d318e8a0bc296e77ab2b1
-    parent_uid: da5550ffe197c76e29367d90b0747760
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: WTuwV-rWxUc
-  - uid: b36827d8d6d47a081b638e1225392ac8
-    parent_uid: da5550ffe197c76e29367d90b0747760
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: WTuwV-rWxUc
-  - uid: 50a4674d98481a52b1167a8930429a8d
-    parent_uid: da5550ffe197c76e29367d90b0747760
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/WTuwV-rWxUc/default.jpg'
-  - uid: 738bc630d8dbfff51aea798fbd92d931
-    parent_uid: da5550ffe197c76e29367d90b0747760
-    id: WTuwV-rWxUc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-1-introduction-to-netflix-0/WTuwV-rWxUc.srt
-  - uid: 1d53e0ed6fd229fc52592b00641d32af
-    parent_uid: da5550ffe197c76e29367d90b0747760
-    id: WTuwV-rWxUc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-1-introduction-to-netflix-0/WTuwV-rWxUc.pdf
-  - uid: 36a9b3edc6c4aca5d2bfb9beaa58b763
-    parent_uid: da5550ffe197c76e29367d90b0747760
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fe5523c5dfb0f2703ae9228abdc34210
-    parent_uid: da5550ffe197c76e29367d90b0747760
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: caffce421f9702ac8f916640e560d885
-    parent_uid: da5550ffe197c76e29367d90b0747760
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.2.01_300k.mp4
+uid: da5550ffe197c76e29367d90b0747760
 type: courses
 layout: video
 ---

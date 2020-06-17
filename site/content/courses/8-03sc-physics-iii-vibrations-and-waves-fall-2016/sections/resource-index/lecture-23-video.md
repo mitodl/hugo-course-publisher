@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 23: Quantum Waves and Gravitational Waves'
-uid: 66973b174371a9a745fb190852402f3d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Roj7FVjl-gw
+    parent_uid: 66973b174371a9a745fb190852402f3d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a9ef26cd59f444f50ddb2d735139bc7e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Roj7FVjl-gw/default.jpg'
+    parent_uid: 66973b174371a9a745fb190852402f3d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1c3343c68f2a4168dbe5c46ed8d7189a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Roj7FVjl-gw
+    parent_uid: 66973b174371a9a745fb190852402f3d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9ae02b3d07d5a3f660b0b45fe9ec3225
+  - id: Roj7FVjl-gw.srt
+    parent_uid: 66973b174371a9a745fb190852402f3d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-23-video/Roj7FVjl-gw.srt
+    title: 3play caption file
+    type: null
+    uid: b3b031237a513e5988c05da1f06917e2
+  - id: Roj7FVjl-gw.pdf
+    parent_uid: 66973b174371a9a745fb190852402f3d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-23-video/Roj7FVjl-gw.pdf
+    title: 3play pdf file
+    type: null
+    uid: f12a3499d48518f478c752face84d493
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 66973b174371a9a745fb190852402f3d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1c3032263ec0b802d15dd3558bfbf2e5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 66973b174371a9a745fb190852402f3d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6fb715bb55e4b0bd26322e3f9010e5e4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec23_300k.mp4'
+    parent_uid: 66973b174371a9a745fb190852402f3d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c71c764e3c624a0ecb6e010c9aa522ee
+inline_embed_id: 70222681lecture23video28718636
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-23-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-23-video
-short_url: lecture-23-video
-inline_embed_id: 70222681lecture23video28718636
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 23: Quantum Waves and Gravitational Waves'
 transcript: >-
   <p><span m="1665">The</span> <span m="1710">following</span> <span
   m="2160">content</span> <span m="2640">is</span> <span
@@ -3837,55 +3885,7 @@ transcript: >-
   m="4508630">Tuesday.</span> <span m="4509190">Thank you.</span></p><p><span
   m="4509790">[APPLAUSE]</span></p><p>&nbsp;</p><p><span m="4513090">Thank
   you</span> <span m="4513390">very much.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: a9ef26cd59f444f50ddb2d735139bc7e
-    parent_uid: 66973b174371a9a745fb190852402f3d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Roj7FVjl-gw
-  - uid: 1c3343c68f2a4168dbe5c46ed8d7189a
-    parent_uid: 66973b174371a9a745fb190852402f3d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Roj7FVjl-gw/default.jpg'
-  - uid: 9ae02b3d07d5a3f660b0b45fe9ec3225
-    parent_uid: 66973b174371a9a745fb190852402f3d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Roj7FVjl-gw
-  - uid: b3b031237a513e5988c05da1f06917e2
-    parent_uid: 66973b174371a9a745fb190852402f3d
-    id: Roj7FVjl-gw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-23-video/Roj7FVjl-gw.srt
-  - uid: f12a3499d48518f478c752face84d493
-    parent_uid: 66973b174371a9a745fb190852402f3d
-    id: Roj7FVjl-gw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-23-video/Roj7FVjl-gw.pdf
-  - uid: 1c3032263ec0b802d15dd3558bfbf2e5
-    parent_uid: 66973b174371a9a745fb190852402f3d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6fb715bb55e4b0bd26322e3f9010e5e4
-    parent_uid: 66973b174371a9a745fb190852402f3d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c71c764e3c624a0ecb6e010c9aa522ee
-    parent_uid: 66973b174371a9a745fb190852402f3d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec23_300k.mp4'
+uid: 66973b174371a9a745fb190852402f3d
 type: courses
 layout: video
 ---

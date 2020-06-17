@@ -1,13 +1,73 @@
 ---
-title: Expectation values on stationary states
-uid: 3aee2946ae96ea080738df1413820dfb
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: M2i8R6kMXKA
+    parent_uid: 3aee2946ae96ea080738df1413820dfb
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a81bc595c761fc0ba4043889c8206c07
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/J-B8rF-hUgE/default.jpg'
+    parent_uid: 3aee2946ae96ea080738df1413820dfb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6ebdb8c8205d555b5dd902e1ad34fe25
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: M2i8R6kMXKA
+    parent_uid: 3aee2946ae96ea080738df1413820dfb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 979bc74dcb3a0f11038666ae752d49b7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 3aee2946ae96ea080738df1413820dfb
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5cde7452c87d405d1ead74d52395b1c6
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec10_s3_300k.mp4'
+    parent_uid: 3aee2946ae96ea080738df1413820dfb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2f4807705fdff2c5a697b2e1eb63d0b7
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/M2i8R6kMXKA/default.jpg'
+    parent_uid: 3aee2946ae96ea080738df1413820dfb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: daf0b0f059021eb9dddc29484f06981b
+  - id: M2i8R6kMXKA.srt
+    parent_uid: 3aee2946ae96ea080738df1413820dfb
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/expectation-values-on-stationary-states/M2i8R6kMXKA.srt
+    title: 3play caption file
+    type: null
+    uid: 535b10df52d260c78b2df44c689344ca
+  - id: M2i8R6kMXKA.pdf
+    parent_uid: 3aee2946ae96ea080738df1413820dfb
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/expectation-values-on-stationary-states/M2i8R6kMXKA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4668200c2faee652c76e169791d5a8ce
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3aee2946ae96ea080738df1413820dfb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7de8f526bfa57deef596f9579b387994
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3aee2946ae96ea080738df1413820dfb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 96205f8685d85a98879b259e5d08e080
+inline_embed_id: 19216008expectationvaluesonstationarystates56767854
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: expectation-values-on-stationary-states
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/expectation-values-on-stationary-states
-short_url: expectation-values-on-stationary-states
-inline_embed_id: 19216008expectationvaluesonstationarystates56767854
-about_this_resource_text: ''
-related_resources_text: ''
+title: Expectation values on stationary states
 transcript: >-
   <p><span m='886'>PROFESSOR:</span> <span m='1108'>How</span> <span
   m='1330'>about</span> <span m='3480'>the</span> <span
@@ -349,67 +409,7 @@ transcript: >-
   <span m='537540'>get</span> <span m='537840'>the</span> <span
   m='538140'>most</span> <span m='538440'>[INAUDIBLE]</span> <span
   m='538740'>equation.</span> </p>
-embedded_media:
-  - uid: a81bc595c761fc0ba4043889c8206c07
-    parent_uid: 3aee2946ae96ea080738df1413820dfb
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: M2i8R6kMXKA
-  - uid: 6ebdb8c8205d555b5dd902e1ad34fe25
-    parent_uid: 3aee2946ae96ea080738df1413820dfb
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/J-B8rF-hUgE/default.jpg'
-  - uid: 979bc74dcb3a0f11038666ae752d49b7
-    parent_uid: 3aee2946ae96ea080738df1413820dfb
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: M2i8R6kMXKA
-  - uid: 5cde7452c87d405d1ead74d52395b1c6
-    parent_uid: 3aee2946ae96ea080738df1413820dfb
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 2f4807705fdff2c5a697b2e1eb63d0b7
-    parent_uid: 3aee2946ae96ea080738df1413820dfb
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec10_s3_300k.mp4'
-  - uid: daf0b0f059021eb9dddc29484f06981b
-    parent_uid: 3aee2946ae96ea080738df1413820dfb
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/M2i8R6kMXKA/default.jpg'
-  - uid: 535b10df52d260c78b2df44c689344ca
-    parent_uid: 3aee2946ae96ea080738df1413820dfb
-    id: M2i8R6kMXKA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/expectation-values-on-stationary-states/M2i8R6kMXKA.srt
-  - uid: 4668200c2faee652c76e169791d5a8ce
-    parent_uid: 3aee2946ae96ea080738df1413820dfb
-    id: M2i8R6kMXKA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/expectation-values-on-stationary-states/M2i8R6kMXKA.pdf
-  - uid: 7de8f526bfa57deef596f9579b387994
-    parent_uid: 3aee2946ae96ea080738df1413820dfb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 96205f8685d85a98879b259e5d08e080
-    parent_uid: 3aee2946ae96ea080738df1413820dfb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3aee2946ae96ea080738df1413820dfb
 type: courses
 layout: video
 ---

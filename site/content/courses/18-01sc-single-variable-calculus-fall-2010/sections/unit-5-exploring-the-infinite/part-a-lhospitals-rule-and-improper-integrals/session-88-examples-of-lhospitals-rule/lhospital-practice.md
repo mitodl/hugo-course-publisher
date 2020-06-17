@@ -1,13 +1,68 @@
 ---
-title: L'Hospital Practice
-uid: 209a6a9663987c22aa7696627b30548b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ycO0Vn_w9Q0
+    parent_uid: 209a6a9663987c22aa7696627b30548b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b108146a074efcb5d329099c7b5d8b39
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ycO0Vn_w9Q0/default.jpg'
+    parent_uid: 209a6a9663987c22aa7696627b30548b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 87215bb103495014790fff445ed8d874
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/lhospital-practice/id414308064?i=90320242
+    parent_uid: 209a6a9663987c22aa7696627b30548b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fa2aacd7448de1e740265fe99fe6445c
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_67_300k.mp4'
+    parent_uid: 209a6a9663987c22aa7696627b30548b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4c4675306fc9771bb56e2af0ff7a0885
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ycO0Vn_w9Q0
+    parent_uid: 209a6a9663987c22aa7696627b30548b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1579e7ccb565f28d3e9c59ab4e4458ae
+  - id: ycO0Vn_w9Q0.srt
+    parent_uid: 209a6a9663987c22aa7696627b30548b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule/lhospital-practice/ycO0Vn_w9Q0.srt
+    title: 3play caption file
+    type: null
+    uid: 12a518014187726947f859d6b6b692f3
+  - id: ycO0Vn_w9Q0.pdf
+    parent_uid: 209a6a9663987c22aa7696627b30548b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule/lhospital-practice/ycO0Vn_w9Q0.pdf
+    title: 3play pdf file
+    type: null
+    uid: cb46a680f81f0edafe3a16418dcdebd5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 209a6a9663987c22aa7696627b30548b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cfb13330dd69899dc5c9b5011c9792fa
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 209a6a9663987c22aa7696627b30548b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1c1169e2537fbf9f6ab9afe0a50a0bb6
+inline_embed_id: 83549612l'hospitalpractice58714652
 parent_uid: 7a8cdab56a9e46b35225a2bc22295a0f
+related_resources_text: ''
+short_url: lhospital-practice
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule/lhospital-practice
-short_url: lhospital-practice
-inline_embed_id: 83549612l'hospitalpractice58714652
-about_this_resource_text: ''
-related_resources_text: ''
+title: L'Hospital Practice
 transcript: >-
   <p><span m='6920'>PROFESSOR: Hi.</span> <span m='7410'>Welcome</span> <span
   m='7830'>back to</span> <span m='8090'>recitation.</span> <span
@@ -718,62 +773,7 @@ transcript: >-
   <span m='644120'>to</span> <span m='644200'>say</span> <span
   m='644340'>about</span> <span m='644560'>that.</span> <span m='644860'>So
   I'll</span> <span m='645150'>end</span> <span m='645310'>there.</span> </p>
-embedded_media:
-  - uid: b108146a074efcb5d329099c7b5d8b39
-    parent_uid: 209a6a9663987c22aa7696627b30548b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ycO0Vn_w9Q0
-  - uid: 87215bb103495014790fff445ed8d874
-    parent_uid: 209a6a9663987c22aa7696627b30548b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ycO0Vn_w9Q0/default.jpg'
-  - uid: fa2aacd7448de1e740265fe99fe6445c
-    parent_uid: 209a6a9663987c22aa7696627b30548b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/lhospital-practice/id414308064?i=90320242
-  - uid: 4c4675306fc9771bb56e2af0ff7a0885
-    parent_uid: 209a6a9663987c22aa7696627b30548b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_67_300k.mp4'
-  - uid: 1579e7ccb565f28d3e9c59ab4e4458ae
-    parent_uid: 209a6a9663987c22aa7696627b30548b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ycO0Vn_w9Q0
-  - uid: 12a518014187726947f859d6b6b692f3
-    parent_uid: 209a6a9663987c22aa7696627b30548b
-    id: ycO0Vn_w9Q0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule/lhospital-practice/ycO0Vn_w9Q0.srt
-  - uid: cb46a680f81f0edafe3a16418dcdebd5
-    parent_uid: 209a6a9663987c22aa7696627b30548b
-    id: ycO0Vn_w9Q0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule/lhospital-practice/ycO0Vn_w9Q0.pdf
-  - uid: cfb13330dd69899dc5c9b5011c9792fa
-    parent_uid: 209a6a9663987c22aa7696627b30548b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1c1169e2537fbf9f6ab9afe0a50a0bb6
-    parent_uid: 209a6a9663987c22aa7696627b30548b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 209a6a9663987c22aa7696627b30548b
 type: courses
 layout: video
 ---

@@ -1,18 +1,72 @@
 ---
-title: Evolution in Finite Populations
-uid: 0a5eef946f4006ee8fb84f80badfd67e
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/evolution-in-finite-populations
-short_url: evolution-in-finite-populations
-inline_embed_id: 79585986evolutioninfinitepopulations37066295
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture by Prof. Jeff Gore is on the
   topic of evolution in finite populations. Several aspects are covered,
   including the Moran process, neutral and non-neutral evolution, and stochastic
   extinction of beneficial mutants.</p> <p><strong>Instructor:</strong> Prof.
   Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: KLrPm-BEEOI
+    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 11c5f1653e99d3336585789667b2beb1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/KLrPm-BEEOI/default.jpg'
+    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: dbef0648a0573c23afcff14ffd9c38a6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: cf3ca481cc78c21247b53c8177cd7fe7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec15_300k.mp4'
+    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f1de9bc7cc77d1c243a23d12b2c288b6
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: KLrPm-BEEOI
+    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b65b0575963ee51e9356d50be4cb0060
+  - id: KLrPm-BEEOI.srt
+    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/evolution-in-finite-populations/KLrPm-BEEOI.srt
+    title: 3play caption file
+    type: null
+    uid: c72bbdd38f0614a711696310f23eeb6e
+  - id: KLrPm-BEEOI.pdf
+    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/evolution-in-finite-populations/KLrPm-BEEOI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 71ee6d98ea7050f2059b327410f32b13
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fc5171cbd4da6e5f949f4745f768db6a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1f679fda81158bf6f3b02316dd42be68
+inline_embed_id: 79585986evolutioninfinitepopulations37066295
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: evolution-in-finite-populations
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/evolution-in-finite-populations
+title: Evolution in Finite Populations
 transcript: >-
   <p><span m="90">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4668,61 +4722,7 @@ transcript: >-
   m="4852900">that</span> <span m="4853020">would</span> <span
   m="4853100">otherwise</span> <span m="4854000">accumulate</span> <span
   m="4854300">in the</span> <span m="4854600">population.</span></p>
-embedded_media:
-  - uid: 11c5f1653e99d3336585789667b2beb1
-    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: KLrPm-BEEOI
-  - uid: dbef0648a0573c23afcff14ffd9c38a6
-    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/KLrPm-BEEOI/default.jpg'
-  - uid: cf3ca481cc78c21247b53c8177cd7fe7
-    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: f1de9bc7cc77d1c243a23d12b2c288b6
-    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec15_300k.mp4'
-  - uid: b65b0575963ee51e9356d50be4cb0060
-    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: KLrPm-BEEOI
-  - uid: c72bbdd38f0614a711696310f23eeb6e
-    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
-    id: KLrPm-BEEOI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/evolution-in-finite-populations/KLrPm-BEEOI.srt
-  - uid: 71ee6d98ea7050f2059b327410f32b13
-    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
-    id: KLrPm-BEEOI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/evolution-in-finite-populations/KLrPm-BEEOI.pdf
-  - uid: fc5171cbd4da6e5f949f4745f768db6a
-    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1f679fda81158bf6f3b02316dd42be68
-    parent_uid: 0a5eef946f4006ee8fb84f80badfd67e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 0a5eef946f4006ee8fb84f80badfd67e
 type: courses
 layout: video
 ---

@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 9: Understanding Experimental Data'
-uid: cff712af630e9da564f47de2e684462c
-parent_uid: dfe2b9f5ab127795415ac86facf4a535
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-9-understanding-experimental-data
-short_url: lecture-9-understanding-experimental-data
-inline_embed_id: 40738544lecture9understandingexperimentaldata93332342
 about_this_resource_text: >-
   <p><strong>Description:</strong> Prof. Grimson talks about how to model
   experimental data in a way that gives a sense of the underlying mechanism and
   to predict behaviour in new settings.</p><p><strong>Instructor:</strong> Eric
   Grimson</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: vIFKGFl1Cn8
+    parent_uid: cff712af630e9da564f47de2e684462c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bc830fc7a200a814a78913f2de24dcb8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/vIFKGFl1Cn8/default.jpg'
+    parent_uid: cff712af630e9da564f47de2e684462c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 176dd913316910be42a3fc20f2f88ca9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: vIFKGFl1Cn8
+    parent_uid: cff712af630e9da564f47de2e684462c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3720361a91c755d2cf4aea30dc6c3119
+  - id: vIFKGFl1Cn8.srt
+    parent_uid: cff712af630e9da564f47de2e684462c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-9-understanding-experimental-data/vIFKGFl1Cn8.srt
+    title: 3play caption file
+    type: null
+    uid: de3dd67eeb5fb095f42c1edac0a071dd
+  - id: vIFKGFl1Cn8.pdf
+    parent_uid: cff712af630e9da564f47de2e684462c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-9-understanding-experimental-data/vIFKGFl1Cn8.pdf
+    title: 3play pdf file
+    type: null
+    uid: fd02a955348a2e08f706b6ce75ea8792
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cff712af630e9da564f47de2e684462c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0ee51da583dd2d39105cf46c7751749a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cff712af630e9da564f47de2e684462c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a07df7c44a69e9566504f74974a4b489
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
+    parent_uid: cff712af630e9da564f47de2e684462c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b6f668a9e2627b5d9aca016d53ab3d4e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec09_300k.mp4'
+    parent_uid: cff712af630e9da564f47de2e684462c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6c6f282a087eec7fd7bb854e0644950c
+inline_embed_id: 40738544lecture9understandingexperimentaldata93332342
+parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
+short_url: lecture-9-understanding-experimental-data
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-9-understanding-experimental-data
+title: 'Lecture 9: Understanding Experimental Data'
 transcript: >-
   <p><span m="740">The</span> <span m="830">following</span> <span
   m="1280">content</span> <span m="1760">is</span> <span
@@ -3942,61 +3996,7 @@ transcript: >-
   m="2814730">Have</span> <span m="2814750">a</span> <span
   m="2814810">great</span> <span m="2815020">Thanksgiving</span> <span
   m="2815560">break.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: bc830fc7a200a814a78913f2de24dcb8
-    parent_uid: cff712af630e9da564f47de2e684462c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: vIFKGFl1Cn8
-  - uid: 176dd913316910be42a3fc20f2f88ca9
-    parent_uid: cff712af630e9da564f47de2e684462c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/vIFKGFl1Cn8/default.jpg'
-  - uid: 3720361a91c755d2cf4aea30dc6c3119
-    parent_uid: cff712af630e9da564f47de2e684462c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: vIFKGFl1Cn8
-  - uid: de3dd67eeb5fb095f42c1edac0a071dd
-    parent_uid: cff712af630e9da564f47de2e684462c
-    id: vIFKGFl1Cn8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-9-understanding-experimental-data/vIFKGFl1Cn8.srt
-  - uid: fd02a955348a2e08f706b6ce75ea8792
-    parent_uid: cff712af630e9da564f47de2e684462c
-    id: vIFKGFl1Cn8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-9-understanding-experimental-data/vIFKGFl1Cn8.pdf
-  - uid: 0ee51da583dd2d39105cf46c7751749a
-    parent_uid: cff712af630e9da564f47de2e684462c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a07df7c44a69e9566504f74974a4b489
-    parent_uid: cff712af630e9da564f47de2e684462c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b6f668a9e2627b5d9aca016d53ab3d4e
-    parent_uid: cff712af630e9da564f47de2e684462c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
-  - uid: 6c6f282a087eec7fd7bb854e0644950c
-    parent_uid: cff712af630e9da564f47de2e684462c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec09_300k.mp4'
+uid: cff712af630e9da564f47de2e684462c
 type: courses
 layout: video
 ---

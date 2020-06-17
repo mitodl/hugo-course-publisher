@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Lecture Video 17: Polarization, Polarizer Video'
-uid: 6f026ff97d15161d147e6d4b415cc0da
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TjxR7lAwWhI
+    parent_uid: 6f026ff97d15161d147e6d4b415cc0da
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b50b07ec0c9dfd935173c0b3f62f27f5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TjxR7lAwWhI/default.jpg'
+    parent_uid: 6f026ff97d15161d147e6d4b415cc0da
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f3c2da12ea0e79a054bc84dcb94ae4cb
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TjxR7lAwWhI
+    parent_uid: 6f026ff97d15161d147e6d4b415cc0da
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e1582f8b70f539df497f5a2db5df2abc
+  - id: TjxR7lAwWhI.srt
+    parent_uid: 6f026ff97d15161d147e6d4b415cc0da
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-17-video/TjxR7lAwWhI.srt
+    title: 3play caption file
+    type: null
+    uid: cbe55a9bd716db8326c387a95a4abf77
+  - id: TjxR7lAwWhI.pdf
+    parent_uid: 6f026ff97d15161d147e6d4b415cc0da
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-17-video/TjxR7lAwWhI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7e73bee0c8bafdbd3d748e70758929e3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6f026ff97d15161d147e6d4b415cc0da
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bce642ee3cd9146b87f13860a906bf3c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6f026ff97d15161d147e6d4b415cc0da
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f8c611fc69d4d0284ff3b7e700808aff
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec17_300k.mp4'
+    parent_uid: 6f026ff97d15161d147e6d4b415cc0da
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bbb747f2fa61d32fdaab412aacbee134
+inline_embed_id: 11594048lecture17video47136785
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-17-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-17-video
-short_url: lecture-17-video
-inline_embed_id: 11594048lecture17video47136785
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Lecture Video 17: Polarization, Polarizer Video'
 transcript: >-
   <p><span m="2125">SPEAKER:</span> <span m="2550">The</span> <span
   m="2640">following</span> <span m="3090">content</span> <span
@@ -3908,55 +3956,7 @@ transcript: >-
   m="4379600">let</span> <span m="4379880">me</span> <span
   m="4380180">know.</span></p><p><span m="4382280">AUDIENCE:</span> <span
   m="4382580">[INAUDIBLE]</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: b50b07ec0c9dfd935173c0b3f62f27f5
-    parent_uid: 6f026ff97d15161d147e6d4b415cc0da
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TjxR7lAwWhI
-  - uid: f3c2da12ea0e79a054bc84dcb94ae4cb
-    parent_uid: 6f026ff97d15161d147e6d4b415cc0da
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TjxR7lAwWhI/default.jpg'
-  - uid: e1582f8b70f539df497f5a2db5df2abc
-    parent_uid: 6f026ff97d15161d147e6d4b415cc0da
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TjxR7lAwWhI
-  - uid: cbe55a9bd716db8326c387a95a4abf77
-    parent_uid: 6f026ff97d15161d147e6d4b415cc0da
-    id: TjxR7lAwWhI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-17-video/TjxR7lAwWhI.srt
-  - uid: 7e73bee0c8bafdbd3d748e70758929e3
-    parent_uid: 6f026ff97d15161d147e6d4b415cc0da
-    id: TjxR7lAwWhI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-17-video/TjxR7lAwWhI.pdf
-  - uid: bce642ee3cd9146b87f13860a906bf3c
-    parent_uid: 6f026ff97d15161d147e6d4b415cc0da
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f8c611fc69d4d0284ff3b7e700808aff
-    parent_uid: 6f026ff97d15161d147e6d4b415cc0da
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: bbb747f2fa61d32fdaab412aacbee134
-    parent_uid: 6f026ff97d15161d147e6d4b415cc0da
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec17_300k.mp4'
+uid: 6f026ff97d15161d147e6d4b415cc0da
 type: courses
 layout: video
 ---

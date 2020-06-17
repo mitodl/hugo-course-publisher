@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: What is Data Visualization?'
-uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2wtc5Su-fZA
+    parent_uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 554a4a991f21902f13100445bc0ae558
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 2wtc5Su-fZA
+    parent_uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5856a41a5cdfec734ed526c81f6f6141
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2wtc5Su-fZA/default.jpg'
+    parent_uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ff646095027a295063b89e379c57a635
+  - id: 2wtc5Su-fZA.srt
+    parent_uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/visualizing-the-world-an-introduction-to-visualization/video-3-what-is-data-visualization/video-3-what-is-data-visualization-0/2wtc5Su-fZA.srt
+    title: 3play caption file
+    type: null
+    uid: 447ed338ef1b0444291d99825ae465d8
+  - id: 2wtc5Su-fZA.pdf
+    parent_uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/visualizing-the-world-an-introduction-to-visualization/video-3-what-is-data-visualization/video-3-what-is-data-visualization-0/2wtc5Su-fZA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 63a96c1230b4308b64ba3dd6f0b87f39
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b7de47020d75502c2dc439764fb774e3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 41d907241e862c4028b19e4599c5ef90
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.2.05_300k.mp4
+    parent_uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 47239dc5d5777aa44c1ce9c05b231470
+inline_embed_id: 66120466video3whatisdatavisualization65816662
 parent_uid: c8e9fd0fcbd8682cff60a63c2596b948
+related_resources_text: ''
+short_url: video-3-what-is-data-visualization-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/visualizing-the-world-an-introduction-to-visualization/video-3-what-is-data-visualization/video-3-what-is-data-visualization-0
-short_url: video-3-what-is-data-visualization-0
-inline_embed_id: 66120466video3whatisdatavisualization65816662
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: What is Data Visualization?'
 transcript: >-
   <p><span m='9660'>In</span> <span m='10113'>this</span> <span
   m='10566'>video,</span> <span m='11019'>we'll</span> <span
@@ -297,56 +346,7 @@ transcript: >-
   <span m='292085'>some</span> <span m='292718'>data</span> <span
   m='293351'>visualizations</span> <span m='293984'>using</span> <span
   m='294617'>ggplot.</span> </p>
-embedded_media:
-  - uid: 554a4a991f21902f13100445bc0ae558
-    parent_uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2wtc5Su-fZA
-  - uid: 5856a41a5cdfec734ed526c81f6f6141
-    parent_uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2wtc5Su-fZA
-  - uid: ff646095027a295063b89e379c57a635
-    parent_uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2wtc5Su-fZA/default.jpg'
-  - uid: 447ed338ef1b0444291d99825ae465d8
-    parent_uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
-    id: 2wtc5Su-fZA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/visualizing-the-world-an-introduction-to-visualization/video-3-what-is-data-visualization/video-3-what-is-data-visualization-0/2wtc5Su-fZA.srt
-  - uid: 63a96c1230b4308b64ba3dd6f0b87f39
-    parent_uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
-    id: 2wtc5Su-fZA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/visualizing-the-world-an-introduction-to-visualization/video-3-what-is-data-visualization/video-3-what-is-data-visualization-0/2wtc5Su-fZA.pdf
-  - uid: b7de47020d75502c2dc439764fb774e3
-    parent_uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 41d907241e862c4028b19e4599c5ef90
-    parent_uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 47239dc5d5777aa44c1ce9c05b231470
-    parent_uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.2.05_300k.mp4
+uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
 type: courses
 layout: video
 ---

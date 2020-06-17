@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Limits'
-uid: 73fb7bba1d80d790a7ec8068b12ccc28
-parent_uid: 5878551f3d21546e5d3abcc5b156e7d2
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-4-limits-and-continuity/clip-1-limits
-short_url: clip-1-limits
-inline_embed_id: '49471731clip1:limits96954086'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/7055d8a331cd9aef85193146a52943b2"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 2 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ryLdyDrBfvI
+    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2ddd19ded884b0b746210fb7f78ef875
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
+    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4055a05e705f8acc036f741240d0d667
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
+    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8c7d80aad598618291c14d2489679d2e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ryLdyDrBfvI
+    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 62532a6413b349c83616a61a519f7c4a
+  - id: ryLdyDrBfvI.srt
+    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-4-limits-and-continuity/clip-1-limits/ryLdyDrBfvI.srt
+    title: 3play caption file
+    type: null
+    uid: 10bc32cb264a94ec5deb2e4a3119551e
+  - id: ryLdyDrBfvI.pdf
+    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-4-limits-and-continuity/clip-1-limits/ryLdyDrBfvI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 45b6c745a470b54c38fd3686a910e220
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0057875ba3a87335ab39551965f7e112
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 09b9cf968535b973f72fd760dfc93fc7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5da0cbc2a4d7cd7b7836a349198017c3
+inline_embed_id: '49471731clip1:limits96954086'
+parent_uid: 5878551f3d21546e5d3abcc5b156e7d2
 related_resources_text: ''
+short_url: clip-1-limits
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-4-limits-and-continuity/clip-1-limits
+title: 'Clip 1: Limits'
 transcript: >-
   <p><span m="110">The</span> <span m="360">following</span> <span
   m="1410">content</span> <span m="1670">is provided</span> <span
@@ -2566,61 +2620,7 @@ transcript: >-
   m="3162770">me</span> <span m="3163230">other</span> <span
   m="3163430">stuff</span> <span m="3163770">after</span> <span
   m="3164070">lecture.</span></p>
-embedded_media:
-  - uid: 2ddd19ded884b0b746210fb7f78ef875
-    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ryLdyDrBfvI
-  - uid: 4055a05e705f8acc036f741240d0d667
-    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
-  - uid: 8c7d80aad598618291c14d2489679d2e
-    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
-  - uid: 62532a6413b349c83616a61a519f7c4a
-    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ryLdyDrBfvI
-  - uid: 10bc32cb264a94ec5deb2e4a3119551e
-    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
-    id: ryLdyDrBfvI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-4-limits-and-continuity/clip-1-limits/ryLdyDrBfvI.srt
-  - uid: 45b6c745a470b54c38fd3686a910e220
-    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
-    id: ryLdyDrBfvI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-4-limits-and-continuity/clip-1-limits/ryLdyDrBfvI.pdf
-  - uid: 0057875ba3a87335ab39551965f7e112
-    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 09b9cf968535b973f72fd760dfc93fc7
-    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5da0cbc2a4d7cd7b7836a349198017c3
-    parent_uid: 73fb7bba1d80d790a7ec8068b12ccc28
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 73fb7bba1d80d790a7ec8068b12ccc28
 type: courses
 layout: video
 ---

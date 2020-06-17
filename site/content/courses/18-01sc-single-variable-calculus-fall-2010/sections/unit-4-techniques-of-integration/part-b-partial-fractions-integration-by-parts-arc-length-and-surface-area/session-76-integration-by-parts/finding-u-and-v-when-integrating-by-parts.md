@@ -1,13 +1,68 @@
 ---
-title: Finding u and v' When Integrating by Parts
-uid: 4a1c1d342b0352534bab3a6fa63f10d0
+about_this_resource_text: ''
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: pWXh5t-37Qg
+    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 805c543f26e780ba9bf3dae8a5c0073a
+  - id: pWXh5t-37Qg.srt
+    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-76-integration-by-parts/finding-u-and-v-when-integrating-by-parts/pWXh5t-37Qg.srt
+    title: 3play caption file
+    type: null
+    uid: db264af998e7696bd9546394594ad967
+  - id: pWXh5t-37Qg.pdf
+    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-76-integration-by-parts/finding-u-and-v-when-integrating-by-parts/pWXh5t-37Qg.pdf
+    title: 3play pdf file
+    type: null
+    uid: f7f5cd50f849fd872fe5a364747ec02f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c1e46521bc6a22cf2dc93bab315397e3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 975a7ac3b4ba1ff99d1678c21f8cd220
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_56_300k.mp4'
+    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 390d214059cc43781abc489dd5997230
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/finding-u-v-when-integrating/id414308064?i=90319633
+    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9db0248fd83cdf78525ca21f0f1be228
+  - id: Video-YouTube-Stream
+    media_location: pWXh5t-37Qg
+    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 716548ceefe3762e841ea48426f30af2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/pWXh5t-37Qg/default.jpg'
+    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a657f539d0339a0ccce21dd66a13729a
+inline_embed_id: 89253321findinguandv'whenintegratingbyparts42654968
 parent_uid: b196b3d2413fa8015d43695883cc671a
+related_resources_text: ''
+short_url: finding-u-and-v-when-integrating-by-parts
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-76-integration-by-parts/finding-u-and-v-when-integrating-by-parts
-short_url: finding-u-and-v-when-integrating-by-parts
-inline_embed_id: 89253321findinguandv'whenintegratingbyparts42654968
-about_this_resource_text: ''
-related_resources_text: ''
+title: Finding u and v' When Integrating by Parts
 transcript: >-
   <p><span m='0'>CHRISTINE BREINER:</span> <span m='7110'>Welcome</span> <span
   m='7500'>back</span> <span m='7660'>to</span> <span
@@ -861,62 +916,7 @@ transcript: >-
   <span m='695880'>think</span> <span m='696100'>I</span> <span
   m='696170'>will</span> <span m='696360'>stop</span> <span
   m='696520'>there.</span> </p>
-embedded_media:
-  - uid: 805c543f26e780ba9bf3dae8a5c0073a
-    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: pWXh5t-37Qg
-  - uid: db264af998e7696bd9546394594ad967
-    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
-    id: pWXh5t-37Qg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-76-integration-by-parts/finding-u-and-v-when-integrating-by-parts/pWXh5t-37Qg.srt
-  - uid: f7f5cd50f849fd872fe5a364747ec02f
-    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
-    id: pWXh5t-37Qg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-76-integration-by-parts/finding-u-and-v-when-integrating-by-parts/pWXh5t-37Qg.pdf
-  - uid: c1e46521bc6a22cf2dc93bab315397e3
-    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 975a7ac3b4ba1ff99d1678c21f8cd220
-    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 390d214059cc43781abc489dd5997230
-    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_56_300k.mp4'
-  - uid: 9db0248fd83cdf78525ca21f0f1be228
-    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/finding-u-v-when-integrating/id414308064?i=90319633
-  - uid: 716548ceefe3762e841ea48426f30af2
-    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: pWXh5t-37Qg
-  - uid: a657f539d0339a0ccce21dd66a13729a
-    parent_uid: 4a1c1d342b0352534bab3a6fa63f10d0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/pWXh5t-37Qg/default.jpg'
+uid: 4a1c1d342b0352534bab3a6fa63f10d0
 type: courses
 layout: video
 ---

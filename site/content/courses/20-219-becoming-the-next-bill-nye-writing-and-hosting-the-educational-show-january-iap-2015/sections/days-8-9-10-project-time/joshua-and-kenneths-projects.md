@@ -1,13 +1,67 @@
 ---
-title: Joshua and Kenneth's projects
-uid: 2e89dc55cf6c490c57a96d00bcd6d13f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: kQnA60blp6o
+    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8058deeb0655d71662c0430690cd0901
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: kQnA60blp6o
+    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4ec1aec8ec6b3473a0a3e3126cf90c4b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d3beed784326e2e5c1360624d493c2fd
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D10P2_300k.mp4'
+    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a5e0e21d0af75067872d1666cf5d3981
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/kQnA60blp6o/default.jpg'
+    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 977a04cfa76519a3892d60152e457d87
+  - id: kQnA60blp6o.srt
+    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/days-8-9-10-project-time/joshua-and-kenneths-projects/kQnA60blp6o.srt
+    title: 3play caption file
+    type: null
+    uid: dcfd3af3b8d8622e6a8ddb2e0d6babb7
+  - id: kQnA60blp6o.pdf
+    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/days-8-9-10-project-time/joshua-and-kenneths-projects/kQnA60blp6o.pdf
+    title: 3play pdf file
+    type: null
+    uid: b68cfc518d5993f76aa2dcfb139d310d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3cb220201ed585507c781f8142683165
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 583e2869747c79e8db4dd853b283b2b6
+inline_embed_id: 50357431joshuaandkenneth'sprojects81186613
 parent_uid: dd2e906439f582927c78a9141317dcc6
+related_resources_text: ''
+short_url: joshua-and-kenneths-projects
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/days-8-9-10-project-time/joshua-and-kenneths-projects
-short_url: joshua-and-kenneths-projects
-inline_embed_id: 50357431joshuaandkenneth'sprojects81186613
-about_this_resource_text: ''
-related_resources_text: ''
+title: Joshua and Kenneth's projects
 transcript: >-
   <p><span m="40">The</span> <span m="140">following</span> <span
   m="610">content</span> <span m="1100">is</span> <span m="1220">provided</span>
@@ -3489,61 +3543,7 @@ transcript: >-
   <span m="3075510">let me</span> <span m="3075820">know if</span> <span
   m="3076160">there's</span> <span m="3076630">anything</span> <span
   m="3077100">else.</span></p>
-embedded_media:
-  - uid: 8058deeb0655d71662c0430690cd0901
-    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: kQnA60blp6o
-  - uid: 4ec1aec8ec6b3473a0a3e3126cf90c4b
-    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: kQnA60blp6o
-  - uid: d3beed784326e2e5c1360624d493c2fd
-    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: a5e0e21d0af75067872d1666cf5d3981
-    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D10P2_300k.mp4'
-  - uid: 977a04cfa76519a3892d60152e457d87
-    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/kQnA60blp6o/default.jpg'
-  - uid: dcfd3af3b8d8622e6a8ddb2e0d6babb7
-    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
-    id: kQnA60blp6o.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/days-8-9-10-project-time/joshua-and-kenneths-projects/kQnA60blp6o.srt
-  - uid: b68cfc518d5993f76aa2dcfb139d310d
-    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
-    id: kQnA60blp6o.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/days-8-9-10-project-time/joshua-and-kenneths-projects/kQnA60blp6o.pdf
-  - uid: 3cb220201ed585507c781f8142683165
-    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 583e2869747c79e8db4dd853b283b2b6
-    parent_uid: 2e89dc55cf6c490c57a96d00bcd6d13f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2e89dc55cf6c490c57a96d00bcd6d13f
 type: courses
 layout: video
 ---

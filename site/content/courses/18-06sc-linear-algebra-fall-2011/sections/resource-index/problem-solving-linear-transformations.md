@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Linear Transformations'
-uid: 404c6cb4d8322dab5b88c00c2aea12a3
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2uDvRUowBzg
+    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8f4854660cce3e26351d78c11433c805
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: 2uDvRUowBzg
+    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f2f518e15710deac19a10346586d2ef7
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/linear-transformations/id488155309?i=108454333
+    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 381b2dcd8a7f23d3fc8a33e48f3f45e2
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_N2_300k.mp4
+    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e6e61c0dda6c40068f67e7c136ab52e7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2uDvRUowBzg/default.jpg'
+    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b17f2c6efa8282abd38139d88539476e
+  - id: 2uDvRUowBzg.srt
+    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-linear-transformations/2uDvRUowBzg.srt
+    title: 3play caption file
+    type: null
+    uid: 4328f15f3c502d290afdddd4ae103a6d
+  - id: 2uDvRUowBzg.pdf
+    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-linear-transformations/2uDvRUowBzg.pdf
+    title: 3play pdf file
+    type: null
+    uid: ba37cda59a77cb70a283aabd357f0c6e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0a143797535a4a336d58ffce610abbd3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d835672f619e3e8c859ca16868a26c99
+inline_embed_id: 93317783problemsolvinglineartransformations87607578
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: problem-solving-linear-transformations
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-linear-transformations
-short_url: problem-solving-linear-transformations
-inline_embed_id: 93317783problemsolvinglineartransformations87607578
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Linear Transformations'
 transcript: >-
   <p><span m='6460'>PROFESSOR: Hi,</span> <span m='6710'>everyone.</span> <span
   m='7370'>Today,</span> <span m='7750'>we're</span> <span m='7940'>going</span>
@@ -432,63 +488,7 @@ transcript: >-
   m='642590'>T.</span> <span m='643380'>So</span> <span m='643580'>I'll</span>
   <span m='643750'>leave</span> <span m='643940'>it</span> <span
   m='644040'>at</span> <span m='644160'>that.</span> </p>
-embedded_media:
-  - uid: 8f4854660cce3e26351d78c11433c805
-    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2uDvRUowBzg
-  - uid: f2f518e15710deac19a10346586d2ef7
-    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2uDvRUowBzg
-  - uid: 381b2dcd8a7f23d3fc8a33e48f3f45e2
-    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/linear-transformations/id488155309?i=108454333
-  - uid: e6e61c0dda6c40068f67e7c136ab52e7
-    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_N2_300k.mp4
-  - uid: b17f2c6efa8282abd38139d88539476e
-    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2uDvRUowBzg/default.jpg'
-  - uid: 4328f15f3c502d290afdddd4ae103a6d
-    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
-    id: 2uDvRUowBzg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-linear-transformations/2uDvRUowBzg.srt
-  - uid: ba37cda59a77cb70a283aabd357f0c6e
-    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
-    id: 2uDvRUowBzg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-linear-transformations/2uDvRUowBzg.pdf
-  - uid: 0a143797535a4a336d58ffce610abbd3
-    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d835672f619e3e8c859ca16868a26c99
-    parent_uid: 404c6cb4d8322dab5b88c00c2aea12a3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 404c6cb4d8322dab5b88c00c2aea12a3
 type: courses
 layout: video
 ---

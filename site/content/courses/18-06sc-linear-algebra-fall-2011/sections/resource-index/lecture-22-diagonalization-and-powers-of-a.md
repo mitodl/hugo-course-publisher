@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 22: Diagonalization and Powers of A'
-uid: fe80c90560e90865eea64d6cec42aab8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 13r9QY6cmjc
+    parent_uid: fe80c90560e90865eea64d6cec42aab8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2a5460e3f8c1b260955991dd0e183d2b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/13r9QY6cmjc/default.jpg'
+    parent_uid: fe80c90560e90865eea64d6cec42aab8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fb3273581787249e1a19f1730810fbb6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: fe80c90560e90865eea64d6cec42aab8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e221d55e4890194862e259ca1b70c90a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/22.mp4'
+    parent_uid: fe80c90560e90865eea64d6cec42aab8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 01fc3780d2815be85557b2363fa73da5
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 13r9QY6cmjc
+    parent_uid: fe80c90560e90865eea64d6cec42aab8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e3bd89c8837a8b36c753d1497d0c694a
+  - id: 13r9QY6cmjc.srt
+    parent_uid: fe80c90560e90865eea64d6cec42aab8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-22-diagonalization-and-powers-of-a/13r9QY6cmjc.srt
+    title: 3play caption file
+    type: null
+    uid: 610efabdf621ca4218f289ae6c1a1b55
+  - id: 13r9QY6cmjc.pdf
+    parent_uid: fe80c90560e90865eea64d6cec42aab8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-22-diagonalization-and-powers-of-a/13r9QY6cmjc.pdf
+    title: 3play pdf file
+    type: null
+    uid: f4413747eac747af40856ef3e3f24d4e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fe80c90560e90865eea64d6cec42aab8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f7259ffe1c97cd64991d9112b321c894
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fe80c90560e90865eea64d6cec42aab8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7c012ba7fe08222c77a01af5e7f24129
+inline_embed_id: 64923579lecture22diagonalizationandpowersofa26036205
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: lecture-22-diagonalization-and-powers-of-a
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-22-diagonalization-and-powers-of-a
-short_url: lecture-22-diagonalization-and-powers-of-a
-inline_embed_id: 64923579lecture22diagonalizationandpowersofa26036205
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 22: Diagonalization and Powers of A'
 transcript: >-
   <p><span m="10810">OK.</span> <span m="11010">Shall</span> <span
   m="11080">we</span> <span m="11180">start?</span> <span m="11380">This</span>
@@ -2934,61 +2988,7 @@ transcript: >-
   m="3104490">will</span> <span m="3105590">be</span> <span
   m="3106690">differential</span> <span
   m="3107800">equations.</span></p><p><span m="3108900">Thanks.</span></p>
-embedded_media:
-  - uid: 2a5460e3f8c1b260955991dd0e183d2b
-    parent_uid: fe80c90560e90865eea64d6cec42aab8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 13r9QY6cmjc
-  - uid: fb3273581787249e1a19f1730810fbb6
-    parent_uid: fe80c90560e90865eea64d6cec42aab8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/13r9QY6cmjc/default.jpg'
-  - uid: e221d55e4890194862e259ca1b70c90a
-    parent_uid: fe80c90560e90865eea64d6cec42aab8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 01fc3780d2815be85557b2363fa73da5
-    parent_uid: fe80c90560e90865eea64d6cec42aab8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/22.mp4'
-  - uid: e3bd89c8837a8b36c753d1497d0c694a
-    parent_uid: fe80c90560e90865eea64d6cec42aab8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 13r9QY6cmjc
-  - uid: 610efabdf621ca4218f289ae6c1a1b55
-    parent_uid: fe80c90560e90865eea64d6cec42aab8
-    id: 13r9QY6cmjc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-22-diagonalization-and-powers-of-a/13r9QY6cmjc.srt
-  - uid: f4413747eac747af40856ef3e3f24d4e
-    parent_uid: fe80c90560e90865eea64d6cec42aab8
-    id: 13r9QY6cmjc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-22-diagonalization-and-powers-of-a/13r9QY6cmjc.pdf
-  - uid: f7259ffe1c97cd64991d9112b321c894
-    parent_uid: fe80c90560e90865eea64d6cec42aab8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7c012ba7fe08222c77a01af5e7f24129
-    parent_uid: fe80c90560e90865eea64d6cec42aab8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: fe80c90560e90865eea64d6cec42aab8
 type: courses
 layout: video
 ---

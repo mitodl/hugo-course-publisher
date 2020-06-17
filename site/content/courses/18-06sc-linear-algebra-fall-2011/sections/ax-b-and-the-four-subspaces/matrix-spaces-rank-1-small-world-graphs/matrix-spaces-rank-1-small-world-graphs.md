@@ -1,13 +1,67 @@
 ---
-title: Matrix Spaces; Rank 1; Small World Graphs
-uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2IdtqGM6KWU
+    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d5556e0fdc4f137358fc7c8bd459501b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2IdtqGM6KWU/default.jpg'
+    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9555e23a93c623d88de27cf0d5765ad2
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/11.mp4'
+    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 38f7f0f0c406e15c2b75e1ce603a6b54
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bc0570cbdf8dba91c5e5b628582833d0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 2IdtqGM6KWU
+    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fff5ddb17fb06c4dfca6cbadc7307ecf
+  - id: 2IdtqGM6KWU.srt
+    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/matrix-spaces-rank-1-small-world-graphs/2IdtqGM6KWU.srt
+    title: 3play caption file
+    type: null
+    uid: 44aff9c4aaf70eefc12b7dc110a355a4
+  - id: 2IdtqGM6KWU.pdf
+    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/matrix-spaces-rank-1-small-world-graphs/2IdtqGM6KWU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0165be6d5715e8b1d4b77bef22e614d5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 33669adf2b92116724cef4ce8570ce94
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 38fadc5d375239e2fdccd95ab6600640
+inline_embed_id: 66112807matrixspaces;rank1;smallworldgraphs17001536
 parent_uid: edaea805267ac1a39a73e8d7f348edba
+related_resources_text: ''
+short_url: matrix-spaces-rank-1-small-world-graphs
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/matrix-spaces-rank-1-small-world-graphs
-short_url: matrix-spaces-rank-1-small-world-graphs
-inline_embed_id: 66112807matrixspaces;rank1;smallworldgraphs17001536
-about_this_resource_text: ''
-related_resources_text: ''
+title: Matrix Spaces; Rank 1; Small World Graphs
 transcript: >-
   <p><span m='10740'>OK.</span> <span m='11700'>This</span> <span
   m='12250'>is</span> <span m='13440'>linear</span> <span
@@ -2411,61 +2465,7 @@ transcript: >-
   m='2740940'>and</span> <span m='2741010'>see</span> <span
   m='2741060'>you</span> <span m='2741120'>on</span> <span
   m='2741190'>Monday.</span> </p>
-embedded_media:
-  - uid: d5556e0fdc4f137358fc7c8bd459501b
-    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2IdtqGM6KWU
-  - uid: 9555e23a93c623d88de27cf0d5765ad2
-    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2IdtqGM6KWU/default.jpg'
-  - uid: 38f7f0f0c406e15c2b75e1ce603a6b54
-    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/11.mp4'
-  - uid: bc0570cbdf8dba91c5e5b628582833d0
-    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: fff5ddb17fb06c4dfca6cbadc7307ecf
-    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2IdtqGM6KWU
-  - uid: 44aff9c4aaf70eefc12b7dc110a355a4
-    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
-    id: 2IdtqGM6KWU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/matrix-spaces-rank-1-small-world-graphs/2IdtqGM6KWU.srt
-  - uid: 0165be6d5715e8b1d4b77bef22e614d5
-    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
-    id: 2IdtqGM6KWU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/matrix-spaces-rank-1-small-world-graphs/2IdtqGM6KWU.pdf
-  - uid: 33669adf2b92116724cef4ce8570ce94
-    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 38fadc5d375239e2fdccd95ab6600640
-    parent_uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 0ac8efbd0c16073c4c34e5e79fe9a56a
 type: courses
 layout: video
 ---

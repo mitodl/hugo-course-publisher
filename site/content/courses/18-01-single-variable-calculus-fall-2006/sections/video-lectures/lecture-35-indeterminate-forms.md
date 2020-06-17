@@ -1,19 +1,91 @@
 ---
-title: 'Lecture 35: Indeterminate Forms'
-uid: 404d18803757bb0bde3f5103b4618f82
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-35-indeterminate-forms
-short_url: lecture-35-indeterminate-forms
-inline_embed_id: '77415982lecture35:indeterminateforms90887035'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Indeterminate forms -
   L'Hôspital's rule</p>  <p>Note: This video lecture was recorded in the Fall of
   2007 and corresponds to the lecture notes for lecture 34 taught in the Fall of
   2006.</p> <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec35.jpg
+    parent_uid: 404d18803757bb0bde3f5103b4618f82
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-35-indeterminate-forms/lec35.jpg
+    title: Lecture 35
+    type: null
+    uid: ad69964e0e808920976fc5683c2fc7d6
+  - id: Video-YouTube-Stream
+    media_location: PNTnmH6jsRI
+    parent_uid: 404d18803757bb0bde3f5103b4618f82
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 22591e15cd8f4bb371e1fc29bc4227c4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/PNTnmH6jsRI/default.jpg'
+    parent_uid: 404d18803757bb0bde3f5103b4618f82
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 25b85b63d33e6cb0518d26365fa897b7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 404d18803757bb0bde3f5103b4618f82
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c615e66fe16e59ac1f6bcbe36c1d1c9f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec35_300k.mp4'
+    parent_uid: 404d18803757bb0bde3f5103b4618f82
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b734feb10d5fb10dfd05401626597309
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 404d18803757bb0bde3f5103b4618f82
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: d58a5d508166adec2f6d1c3b545623c4
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 404d18803757bb0bde3f5103b4618f82
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 767079cd0f24d010e007ba003ee8b890
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: PNTnmH6jsRI
+    parent_uid: 404d18803757bb0bde3f5103b4618f82
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b426ee382b9019a1345a07d910062c1e
+  - id: PNTnmH6jsRI.srt
+    parent_uid: 404d18803757bb0bde3f5103b4618f82
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-35-indeterminate-forms/PNTnmH6jsRI.srt
+    title: 3play caption file
+    type: null
+    uid: e4cef308edfc82f81d676a051525f39e
+  - id: PNTnmH6jsRI.pdf
+    parent_uid: 404d18803757bb0bde3f5103b4618f82
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-35-indeterminate-forms/PNTnmH6jsRI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0bc0687c8025c7220f9e1af60a4fea14
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 404d18803757bb0bde3f5103b4618f82
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c3f49355546bdea57029d98937a98c24
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 404d18803757bb0bde3f5103b4618f82
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9462a333517652533e6b75a83812e05d
+inline_embed_id: '77415982lecture35:indeterminateforms90887035'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/fa89a691b7182cbd44829cd38ecf2693">PDF</a>)</p></div>
+short_url: lecture-35-indeterminate-forms
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-35-indeterminate-forms
+title: 'Lecture 35: Indeterminate Forms'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following</span> <span
   m='1270'>content</span> <span m='1420'>is</span> <span m='1680'>provided under
@@ -2478,79 +2550,7 @@ transcript: >-
   m='2918470'>use</span> <span m='2919060'>L'Hôpital's</span> <span
   m='2919680'>Rule.</span> <span m='2920640'>OK,</span> <span m='2921120'>see
   you</span> <span m='2921260'>next</span> <span m='2921510'>time.</span> </p>
-embedded_media:
-  - uid: ad69964e0e808920976fc5683c2fc7d6
-    parent_uid: 404d18803757bb0bde3f5103b4618f82
-    id: lec35.jpg
-    title: Lecture 35
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-35-indeterminate-forms/lec35.jpg
-  - uid: 22591e15cd8f4bb371e1fc29bc4227c4
-    parent_uid: 404d18803757bb0bde3f5103b4618f82
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: PNTnmH6jsRI
-  - uid: 25b85b63d33e6cb0518d26365fa897b7
-    parent_uid: 404d18803757bb0bde3f5103b4618f82
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/PNTnmH6jsRI/default.jpg'
-  - uid: c615e66fe16e59ac1f6bcbe36c1d1c9f
-    parent_uid: 404d18803757bb0bde3f5103b4618f82
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: b734feb10d5fb10dfd05401626597309
-    parent_uid: 404d18803757bb0bde3f5103b4618f82
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec35_300k.mp4'
-  - uid: d58a5d508166adec2f6d1c3b545623c4
-    parent_uid: 404d18803757bb0bde3f5103b4618f82
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 767079cd0f24d010e007ba003ee8b890
-    parent_uid: 404d18803757bb0bde3f5103b4618f82
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: b426ee382b9019a1345a07d910062c1e
-    parent_uid: 404d18803757bb0bde3f5103b4618f82
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: PNTnmH6jsRI
-  - uid: e4cef308edfc82f81d676a051525f39e
-    parent_uid: 404d18803757bb0bde3f5103b4618f82
-    id: PNTnmH6jsRI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-35-indeterminate-forms/PNTnmH6jsRI.srt
-  - uid: 0bc0687c8025c7220f9e1af60a4fea14
-    parent_uid: 404d18803757bb0bde3f5103b4618f82
-    id: PNTnmH6jsRI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-35-indeterminate-forms/PNTnmH6jsRI.pdf
-  - uid: c3f49355546bdea57029d98937a98c24
-    parent_uid: 404d18803757bb0bde3f5103b4618f82
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9462a333517652533e6b75a83812e05d
-    parent_uid: 404d18803757bb0bde3f5103b4618f82
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 404d18803757bb0bde3f5103b4618f82
 type: courses
 layout: video
 ---

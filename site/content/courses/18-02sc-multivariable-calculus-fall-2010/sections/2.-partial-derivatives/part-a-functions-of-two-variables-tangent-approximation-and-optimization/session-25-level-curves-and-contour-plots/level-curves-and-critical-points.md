@@ -1,13 +1,68 @@
 ---
-title: Level Curves and Critical Points
-uid: 8846484437e6aeade6e1349bd62467f8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: gzbWF-IdscE
+    parent_uid: 8846484437e6aeade6e1349bd62467f8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2c688ff9efde15a8e2d40bc58ed3ec0c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/gzbWF-IdscE/default.jpg'
+    parent_uid: 8846484437e6aeade6e1349bd62467f8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 85db7a7e2d15d9de91bb7c8a82b11545
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: gzbWF-IdscE
+    parent_uid: 8846484437e6aeade6e1349bd62467f8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 522f8f500c84cd67eaac5bae17917930
+  - id: gzbWF-IdscE.srt
+    parent_uid: 8846484437e6aeade6e1349bd62467f8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-25-level-curves-and-contour-plots/level-curves-and-critical-points/gzbWF-IdscE.srt
+    title: 3play caption file
+    type: null
+    uid: 630bffd4e48a3916f8c8648be7a2fda8
+  - id: gzbWF-IdscE.pdf
+    parent_uid: 8846484437e6aeade6e1349bd62467f8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-25-level-curves-and-contour-plots/level-curves-and-critical-points/gzbWF-IdscE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 09e259f8e2b1290fcb52d5b9c94559d5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8846484437e6aeade6e1349bd62467f8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 17762322b078b9a9843d4f610d44e067
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8846484437e6aeade6e1349bd62467f8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6794144ab2b05df7fd5bd4fccbc6ab30
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/level-curves-critical-points/id414355340?i=90322871
+    parent_uid: 8846484437e6aeade6e1349bd62467f8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8c9179c4e423434878b6bf9ab6b010af
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_19_300k.mp4'
+    parent_uid: 8846484437e6aeade6e1349bd62467f8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4d547f9603153c5b6b029daebffb3ee9
+inline_embed_id: 24589680levelcurvesandcriticalpoints48786452
 parent_uid: 1d6472489b24f4368ee8e9e8a2dd7c81
+related_resources_text: ''
+short_url: level-curves-and-critical-points
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-25-level-curves-and-contour-plots/level-curves-and-critical-points
-short_url: level-curves-and-critical-points
-inline_embed_id: 24589680levelcurvesandcriticalpoints48786452
-about_this_resource_text: ''
-related_resources_text: ''
+title: Level Curves and Critical Points
 transcript: >-
   <p><span m='0'>DAVID JORDAN:</span> <span m='7040'>Hello,</span> <span
   m='7260'>and</span> <span m='7360'>welcome</span> <span m='7580'>back</span>
@@ -512,62 +567,7 @@ transcript: >-
   <span m='500980'>think</span> <span m='501160'>I'll</span> <span
   m='501260'>leave</span> <span m='501420'>it</span> <span m='501490'>at</span>
   <span m='501590'>that.</span> </p>
-embedded_media:
-  - uid: 2c688ff9efde15a8e2d40bc58ed3ec0c
-    parent_uid: 8846484437e6aeade6e1349bd62467f8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: gzbWF-IdscE
-  - uid: 85db7a7e2d15d9de91bb7c8a82b11545
-    parent_uid: 8846484437e6aeade6e1349bd62467f8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/gzbWF-IdscE/default.jpg'
-  - uid: 522f8f500c84cd67eaac5bae17917930
-    parent_uid: 8846484437e6aeade6e1349bd62467f8
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: gzbWF-IdscE
-  - uid: 630bffd4e48a3916f8c8648be7a2fda8
-    parent_uid: 8846484437e6aeade6e1349bd62467f8
-    id: gzbWF-IdscE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-25-level-curves-and-contour-plots/level-curves-and-critical-points/gzbWF-IdscE.srt
-  - uid: 09e259f8e2b1290fcb52d5b9c94559d5
-    parent_uid: 8846484437e6aeade6e1349bd62467f8
-    id: gzbWF-IdscE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-25-level-curves-and-contour-plots/level-curves-and-critical-points/gzbWF-IdscE.pdf
-  - uid: 17762322b078b9a9843d4f610d44e067
-    parent_uid: 8846484437e6aeade6e1349bd62467f8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6794144ab2b05df7fd5bd4fccbc6ab30
-    parent_uid: 8846484437e6aeade6e1349bd62467f8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8c9179c4e423434878b6bf9ab6b010af
-    parent_uid: 8846484437e6aeade6e1349bd62467f8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/level-curves-critical-points/id414355340?i=90322871
-  - uid: 4d547f9603153c5b6b029daebffb3ee9
-    parent_uid: 8846484437e6aeade6e1349bd62467f8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_19_300k.mp4'
+uid: 8846484437e6aeade6e1349bd62467f8
 type: courses
 layout: video
 ---

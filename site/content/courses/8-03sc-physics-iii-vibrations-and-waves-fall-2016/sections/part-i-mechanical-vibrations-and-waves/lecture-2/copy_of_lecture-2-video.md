@@ -1,13 +1,61 @@
 ---
-title: Oscillating Steel Ball on a Track
-uid: cf505a3a0c1e2a7300f67c7ec37372d4
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: T2n6fVybLcU
+    parent_uid: cf505a3a0c1e2a7300f67c7ec37372d4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f7d70f73f4e9aaa949ff4d870445801b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/T2n6fVybLcU/default.jpg'
+    parent_uid: cf505a3a0c1e2a7300f67c7ec37372d4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3830ce6332c7a6ebe813b2cef8f56bee
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: T2n6fVybLcU
+    parent_uid: cf505a3a0c1e2a7300f67c7ec37372d4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a48be3377eb795d8fdb9ba7bac573a1d
+  - id: T2n6fVybLcU.srt
+    parent_uid: cf505a3a0c1e2a7300f67c7ec37372d4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/copy_of_lecture-2-video/T2n6fVybLcU.srt
+    title: 3play caption file
+    type: null
+    uid: 037b819c383cf9c279747eb999ebcce7
+  - id: T2n6fVybLcU.pdf
+    parent_uid: cf505a3a0c1e2a7300f67c7ec37372d4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/copy_of_lecture-2-video/T2n6fVybLcU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 97ecb9eed4c8a48698d9e8d7fba57179
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cf505a3a0c1e2a7300f67c7ec37372d4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 80b005ecbf784df42fa3c5eccc4e5c44
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cf505a3a0c1e2a7300f67c7ec37372d4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2a105dea351f5519ba1d671dee5838c7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec02_300k.mp4'
+    parent_uid: cf505a3a0c1e2a7300f67c7ec37372d4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0424a2f625a1383c06626e25093bc811
+inline_embed_id: 90785362lecture2videop1182353511
 parent_uid: de60ad23ec34c2de5ad0d3eca23fb1e5
+related_resources_text: ''
+short_url: copy_of_lecture-2-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/copy_of_lecture-2-video
-short_url: copy_of_lecture-2-video
-inline_embed_id: 90785362lecture2videop1182353511
-about_this_resource_text: ''
-related_resources_text: ''
+title: Oscillating Steel Ball on a Track
 transcript: >-
   <p><span m="2195">The</span> <span m="2240">following</span> <span
   m="2690">content</span> <span m="3200">is</span> <span
@@ -3986,55 +4034,7 @@ transcript: >-
   m="4582860">to</span> <span m="4583040">drive</span> <span
   m="4583310">the</span> <span m="4583510">oscillator.</span> <span
   m="4584770">Bye-bye.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: f7d70f73f4e9aaa949ff4d870445801b
-    parent_uid: cf505a3a0c1e2a7300f67c7ec37372d4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: T2n6fVybLcU
-  - uid: 3830ce6332c7a6ebe813b2cef8f56bee
-    parent_uid: cf505a3a0c1e2a7300f67c7ec37372d4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/T2n6fVybLcU/default.jpg'
-  - uid: a48be3377eb795d8fdb9ba7bac573a1d
-    parent_uid: cf505a3a0c1e2a7300f67c7ec37372d4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: T2n6fVybLcU
-  - uid: 037b819c383cf9c279747eb999ebcce7
-    parent_uid: cf505a3a0c1e2a7300f67c7ec37372d4
-    id: T2n6fVybLcU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/copy_of_lecture-2-video/T2n6fVybLcU.srt
-  - uid: 97ecb9eed4c8a48698d9e8d7fba57179
-    parent_uid: cf505a3a0c1e2a7300f67c7ec37372d4
-    id: T2n6fVybLcU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/copy_of_lecture-2-video/T2n6fVybLcU.pdf
-  - uid: 80b005ecbf784df42fa3c5eccc4e5c44
-    parent_uid: cf505a3a0c1e2a7300f67c7ec37372d4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2a105dea351f5519ba1d671dee5838c7
-    parent_uid: cf505a3a0c1e2a7300f67c7ec37372d4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0424a2f625a1383c06626e25093bc811
-    parent_uid: cf505a3a0c1e2a7300f67c7ec37372d4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec02_300k.mp4'
+uid: cf505a3a0c1e2a7300f67c7ec37372d4
 type: courses
 layout: video
 ---

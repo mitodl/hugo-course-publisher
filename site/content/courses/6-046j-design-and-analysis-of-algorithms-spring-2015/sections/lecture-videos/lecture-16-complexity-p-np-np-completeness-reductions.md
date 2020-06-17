@@ -1,15 +1,69 @@
 ---
-title: 'Lecture 16: Complexity: P, NP, NP-completeness, Reductions'
-uid: 66adf7af367162d6bd07836a1700cd03
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-16-complexity-p-np-np-completeness-reductions
-short_url: lecture-16-complexity-p-np-np-completeness-reductions
-inline_embed_id: '13699014lecture16:complexity:p,np,np-completeness,reductions53336196'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Demaine introduces
   NP-completeness.</p> <p><strong>Instructors:</strong> Erik Demaine</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: eHZifpgyH_4
+    parent_uid: 66adf7af367162d6bd07836a1700cd03
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4917bbc300ec906bf20bb933bf308777
+  - id: Video-YouTube-Stream
+    media_location: eHZifpgyH_4
+    parent_uid: 66adf7af367162d6bd07836a1700cd03
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1dcf494992b23f25f129fac4f448b569
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 66adf7af367162d6bd07836a1700cd03
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 99aeecca6cdb8be87a1a1342bd08184a
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec16_300k.mp4'
+    parent_uid: 66adf7af367162d6bd07836a1700cd03
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 384692b602053debccbee47c9e995acc
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/eHZifpgyH_4/default.jpg'
+    parent_uid: 66adf7af367162d6bd07836a1700cd03
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6ad7245435e0eaebf86e3ff0d4ad5ba0
+  - id: eHZifpgyH_4.srt
+    parent_uid: 66adf7af367162d6bd07836a1700cd03
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-16-complexity-p-np-np-completeness-reductions/eHZifpgyH_4.srt
+    title: 3play caption file
+    type: null
+    uid: dc85648702c30ebab4df4ab1c5d0a59d
+  - id: eHZifpgyH_4.pdf
+    parent_uid: 66adf7af367162d6bd07836a1700cd03
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-16-complexity-p-np-np-completeness-reductions/eHZifpgyH_4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9ccf3a4c0821d97d93073e217880f94d
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: 66adf7af367162d6bd07836a1700cd03
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 914edea78ae39e3fd4940b232a062c07
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: 66adf7af367162d6bd07836a1700cd03
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fc2b51f7e7fbd080c3a100d6f202e291
+inline_embed_id: '13699014lecture16:complexity:p,np,np-completeness,reductions53336196'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-16-complexity-p-np-np-completeness-reductions
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-16-complexity-p-np-np-completeness-reductions
+title: 'Lecture 16: Complexity: P, NP, NP-completeness, Reductions'
 transcript: >-
   <p><span m='40'>The</span> <span m='170'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1320'>provided</span>
@@ -5559,61 +5613,7 @@ transcript: >-
   m='5113350'>love,</span> <span m='5113970'>are</span> <span
   m='5114130'>NP-complete.</span> <span m='5115220'>That's</span> <span
   m='5115520'>it.</span> </p>
-embedded_media:
-  - uid: 4917bbc300ec906bf20bb933bf308777
-    parent_uid: 66adf7af367162d6bd07836a1700cd03
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: eHZifpgyH_4
-  - uid: 1dcf494992b23f25f129fac4f448b569
-    parent_uid: 66adf7af367162d6bd07836a1700cd03
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: eHZifpgyH_4
-  - uid: 99aeecca6cdb8be87a1a1342bd08184a
-    parent_uid: 66adf7af367162d6bd07836a1700cd03
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 384692b602053debccbee47c9e995acc
-    parent_uid: 66adf7af367162d6bd07836a1700cd03
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec16_300k.mp4'
-  - uid: 6ad7245435e0eaebf86e3ff0d4ad5ba0
-    parent_uid: 66adf7af367162d6bd07836a1700cd03
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/eHZifpgyH_4/default.jpg'
-  - uid: dc85648702c30ebab4df4ab1c5d0a59d
-    parent_uid: 66adf7af367162d6bd07836a1700cd03
-    id: eHZifpgyH_4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-16-complexity-p-np-np-completeness-reductions/eHZifpgyH_4.srt
-  - uid: 9ccf3a4c0821d97d93073e217880f94d
-    parent_uid: 66adf7af367162d6bd07836a1700cd03
-    id: eHZifpgyH_4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-16-complexity-p-np-np-completeness-reductions/eHZifpgyH_4.pdf
-  - uid: 914edea78ae39e3fd4940b232a062c07
-    parent_uid: 66adf7af367162d6bd07836a1700cd03
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fc2b51f7e7fbd080c3a100d6f202e291
-    parent_uid: 66adf7af367162d6bd07836a1700cd03
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 66adf7af367162d6bd07836a1700cd03
 type: courses
 layout: video
 ---

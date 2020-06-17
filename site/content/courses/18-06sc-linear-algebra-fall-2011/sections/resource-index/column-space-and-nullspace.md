@@ -1,13 +1,67 @@
 ---
-title: Column Space and Nullspace
-uid: 9a8388c4041596c765ab6e004fa06e3a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8o5Cmfpeo6g
+    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: acedc3b7114dfb7182583b28c5982a48
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/8o5Cmfpeo6g/default.jpg'
+    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 797845168b1dadebb1efa229e2a573c5
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 222ff0898c460c918170a27a3d1b9588
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/06.mp4'
+    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c1a1232635b01a6f694b18f5b516ac41
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 8o5Cmfpeo6g
+    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: cf6675d81a09ba6a9ae9242d140bbd4a
+  - id: 8o5Cmfpeo6g.srt
+    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/column-space-and-nullspace/8o5Cmfpeo6g.srt
+    title: 3play caption file
+    type: null
+    uid: c07620f418dcc36b32cfa5541408489a
+  - id: 8o5Cmfpeo6g.pdf
+    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/column-space-and-nullspace/8o5Cmfpeo6g.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0909fbd8d8d5c1853d19717781ea1332
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3814af48807a825dc6246fa11d6f4396
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: eb96873d73d26721ccc2d14a38d624cc
+inline_embed_id: 45578274columnspaceandnullspace10397362
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: column-space-and-nullspace
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/column-space-and-nullspace
-short_url: column-space-and-nullspace
-inline_embed_id: 45578274columnspaceandnullspace10397362
-about_this_resource_text: ''
-related_resources_text: ''
+title: Column Space and Nullspace
 transcript: >-
   <p><span m="9070">Okay.</span> <span m="9660">This</span> <span
   m="9990">is</span> <span m="10490">lecture</span> <span m="11290">six</span>
@@ -2602,61 +2656,7 @@ transcript: >-
   m="2745960">Okay.</span></p><p><span m="2748770">See</span> <span
   m="2751580">you</span> <span m="2754380">Wednesday.</span></p><p><span
   m="2757190">Thanks.</span></p>
-embedded_media:
-  - uid: acedc3b7114dfb7182583b28c5982a48
-    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8o5Cmfpeo6g
-  - uid: 797845168b1dadebb1efa229e2a573c5
-    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8o5Cmfpeo6g/default.jpg'
-  - uid: 222ff0898c460c918170a27a3d1b9588
-    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: c1a1232635b01a6f694b18f5b516ac41
-    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/06.mp4'
-  - uid: cf6675d81a09ba6a9ae9242d140bbd4a
-    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8o5Cmfpeo6g
-  - uid: c07620f418dcc36b32cfa5541408489a
-    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
-    id: 8o5Cmfpeo6g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/column-space-and-nullspace/8o5Cmfpeo6g.srt
-  - uid: 0909fbd8d8d5c1853d19717781ea1332
-    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
-    id: 8o5Cmfpeo6g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/column-space-and-nullspace/8o5Cmfpeo6g.pdf
-  - uid: 3814af48807a825dc6246fa11d6f4396
-    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: eb96873d73d26721ccc2d14a38d624cc
-    parent_uid: 9a8388c4041596c765ab6e004fa06e3a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9a8388c4041596c765ab6e004fa06e3a
 type: courses
 layout: video
 ---

@@ -1,13 +1,61 @@
 ---
-title: 'Lecture 16: Derivatives of Inverse and Singular Values'
-uid: d1fbe34c24214c5093b79e4e3d36008f
+about_this_resource_text: "<h2 class=\"subhead\">Description</h2> <p>In this lecture, Professor Strang reviews how to find the derivatives of inverse and singular values. Later in the lecture, he discusses LASSO optimization, the nuclear norm, matrix completion, and compressed sensing.</p> <h2 class=\"subhead\">Summary</h2> <p>Derivative of \\(A^2\\) is \\(A(dA/dt)+(dA/dt)A\\): NOT \\(2A(dA/dt)\\).<br /> The inverse of \\(A\\) has derivative \\(-A^{-1}(dA/dt)A^{-1}\\).<br /> Derivative of singular values \\(= u(dA/dt)v^{\\mathtt{T}} \\) \t<br /> Interlacing of eigenvalues / Weyl inequalities</p> <p>Related section in textbook: III.1-2</p> <p><strong>Instructor:</strong> Prof. Gilbert Strang</p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: AdTvkFsqcDc
+    parent_uid: d1fbe34c24214c5093b79e4e3d36008f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ba907acb08af0c781c97bd419ac76166
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/AdTvkFsqcDc/default.jpg'
+    parent_uid: d1fbe34c24214c5093b79e4e3d36008f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7425d5b5c06056e8fa0e4a1b855eb30c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: AdTvkFsqcDc
+    parent_uid: d1fbe34c24214c5093b79e4e3d36008f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bd4a36c9b34444fb15aa85ec5e68659c
+  - id: AdTvkFsqcDc.srt
+    parent_uid: d1fbe34c24214c5093b79e4e3d36008f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-16-derivatives-of-inverse-and-singular-values/AdTvkFsqcDc.srt
+    title: 3play caption file
+    type: null
+    uid: e619e9415d12bc8b6e9b35cca8e18968
+  - id: AdTvkFsqcDc.pdf
+    parent_uid: d1fbe34c24214c5093b79e4e3d36008f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-16-derivatives-of-inverse-and-singular-values/AdTvkFsqcDc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 87d2bf2cf421d8afdf9c09a55291322e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d1fbe34c24214c5093b79e4e3d36008f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e82e59f3842c6f6ea9711a6b1832fd71
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d1fbe34c24214c5093b79e4e3d36008f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0d640e7973f95e199acd64adaffa7bb1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture16_300k.mp4'
+    parent_uid: d1fbe34c24214c5093b79e4e3d36008f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a3491a2a4fe253d5fac2b90320d33a39
+inline_embed_id: 79610982lecture16derivativesofinverseandsingularvalues3001613
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
+related_resources_text: ''
+short_url: lecture-16-derivatives-of-inverse-and-singular-values
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-16-derivatives-of-inverse-and-singular-values
-short_url: lecture-16-derivatives-of-inverse-and-singular-values
-inline_embed_id: 79610982lecture16derivativesofinverseandsingularvalues3001613
-about_this_resource_text: "<h2 class=\"subhead\">Description</h2> <p>In this lecture, Professor Strang reviews how to find the derivatives of inverse and singular values. Later in the lecture, he discusses LASSO optimization, the nuclear norm, matrix completion, and compressed sensing.</p> <h2 class=\"subhead\">Summary</h2> <p>Derivative of \\(A^2\\) is \\(A(dA/dt)+(dA/dt)A\\): NOT \\(2A(dA/dt)\\).<br /> The inverse of \\(A\\) has derivative \\(-A^{-1}(dA/dt)A^{-1}\\).<br /> Derivative of singular values \\(= u(dA/dt)v^{\\mathtt{T}} \\) \t<br /> Interlacing of eigenvalues / Weyl inequalities</p> <p>Related section in textbook: III.1-2</p> <p><strong>Instructor:</strong> Prof. Gilbert Strang</p>"
-related_resources_text: ''
+title: 'Lecture 16: Derivatives of Inverse and Singular Values'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2214,55 +2262,7 @@ transcript: >-
   m="2585410">And</span> <span m="2585590">he'll</span> <span
   m="2585800">be</span> <span m="2585950">here</span> <span
   m="2586130">too.</span></p>
-embedded_media:
-  - uid: ba907acb08af0c781c97bd419ac76166
-    parent_uid: d1fbe34c24214c5093b79e4e3d36008f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: AdTvkFsqcDc
-  - uid: 7425d5b5c06056e8fa0e4a1b855eb30c
-    parent_uid: d1fbe34c24214c5093b79e4e3d36008f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/AdTvkFsqcDc/default.jpg'
-  - uid: bd4a36c9b34444fb15aa85ec5e68659c
-    parent_uid: d1fbe34c24214c5093b79e4e3d36008f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: AdTvkFsqcDc
-  - uid: e619e9415d12bc8b6e9b35cca8e18968
-    parent_uid: d1fbe34c24214c5093b79e4e3d36008f
-    id: AdTvkFsqcDc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-16-derivatives-of-inverse-and-singular-values/AdTvkFsqcDc.srt
-  - uid: 87d2bf2cf421d8afdf9c09a55291322e
-    parent_uid: d1fbe34c24214c5093b79e4e3d36008f
-    id: AdTvkFsqcDc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-16-derivatives-of-inverse-and-singular-values/AdTvkFsqcDc.pdf
-  - uid: e82e59f3842c6f6ea9711a6b1832fd71
-    parent_uid: d1fbe34c24214c5093b79e4e3d36008f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0d640e7973f95e199acd64adaffa7bb1
-    parent_uid: d1fbe34c24214c5093b79e4e3d36008f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a3491a2a4fe253d5fac2b90320d33a39
-    parent_uid: d1fbe34c24214c5093b79e4e3d36008f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture16_300k.mp4'
+uid: d1fbe34c24214c5093b79e4e3d36008f
 type: courses
 layout: video
 ---

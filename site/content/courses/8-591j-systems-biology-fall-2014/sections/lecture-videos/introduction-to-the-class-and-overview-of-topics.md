@@ -1,13 +1,67 @@
 ---
-title: Introduction to the Class and Overview of Topics
-uid: 2d56d1e569c77968d0077c6c6f1d4ffc
+about_this_resource_text: "<p><strong>Description:</strong> In this lecture, Prof. Jeff Gore introduces the topics of the course, which broadly include gene networks and cellular decision-making, evolutionary systems biology, and ecological systems biology.</p>\r\n<p><strong>Instructor:</strong> Prof. Jeff Gore</p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: gc3O2sKIsX4
+    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1fbd668d2f09590e7beb1138e4694e2c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/gc3O2sKIsX4/default.jpg'
+    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d052fd3f6a3dd62ea72155efd97c1480
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a2ea576e243e5e3ffad82477d3f70a02
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec01_300k.mp4'
+    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c01478c15f6a7e33c8238dcb9efeaae7
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: gc3O2sKIsX4
+    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b312a07f272d9e49ea79dcfb2d48fca0
+  - id: gc3O2sKIsX4.srt
+    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/introduction-to-the-class-and-overview-of-topics/gc3O2sKIsX4.srt
+    title: 3play caption file
+    type: null
+    uid: dbaa65fbf02af24e5cfb31b4292180b4
+  - id: gc3O2sKIsX4.pdf
+    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/introduction-to-the-class-and-overview-of-topics/gc3O2sKIsX4.pdf
+    title: 3play pdf file
+    type: null
+    uid: c0a16cc343e965ecfae6739f23edb9e1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4cebb8a876494c558407f11ddad776e6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0cd0fdff38b16d720939af9316bac073
+inline_embed_id: 89027204introductiontotheclassandoverviewoftopics97113749
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
+related_resources_text: ''
+short_url: introduction-to-the-class-and-overview-of-topics
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/introduction-to-the-class-and-overview-of-topics
-short_url: introduction-to-the-class-and-overview-of-topics
-inline_embed_id: 89027204introductiontotheclassandoverviewoftopics97113749
-about_this_resource_text: "<p><strong>Description:</strong> In this lecture, Prof. Jeff Gore introduces the topics of the course, which broadly include gene networks and cellular decision-making, evolutionary systems biology, and ecological systems biology.</p>\r\n<p><strong>Instructor:</strong> Prof. Jeff Gore</p>"
-related_resources_text: ''
+title: Introduction to the Class and Overview of Topics
 transcript: >-
   <p><span m='70'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -5230,61 +5284,7 @@ transcript: >-
   m='3990900'>again,</span> <span m='3992700'>do not book</span> <span
   m='3993000'>your tickets</span> <span m='3993300'>before</span> <span
   m='3993600'>then.</span> </p>
-embedded_media:
-  - uid: 1fbd668d2f09590e7beb1138e4694e2c
-    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: gc3O2sKIsX4
-  - uid: d052fd3f6a3dd62ea72155efd97c1480
-    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/gc3O2sKIsX4/default.jpg'
-  - uid: a2ea576e243e5e3ffad82477d3f70a02
-    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: c01478c15f6a7e33c8238dcb9efeaae7
-    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec01_300k.mp4'
-  - uid: b312a07f272d9e49ea79dcfb2d48fca0
-    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: gc3O2sKIsX4
-  - uid: dbaa65fbf02af24e5cfb31b4292180b4
-    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
-    id: gc3O2sKIsX4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/introduction-to-the-class-and-overview-of-topics/gc3O2sKIsX4.srt
-  - uid: c0a16cc343e965ecfae6739f23edb9e1
-    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
-    id: gc3O2sKIsX4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/introduction-to-the-class-and-overview-of-topics/gc3O2sKIsX4.pdf
-  - uid: 4cebb8a876494c558407f11ddad776e6
-    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0cd0fdff38b16d720939af9316bac073
-    parent_uid: 2d56d1e569c77968d0077c6c6f1d4ffc
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2d56d1e569c77968d0077c6c6f1d4ffc
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: Series Calculation Using a Riemann Sum
-uid: 0ca5f4527e591328e338c6ff69d5a7ac
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: zcuYFf5R0NU
+    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2e1899fb33c74d5fc9f6d8a465a46ad2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/zcuYFf5R0NU/default.jpg'
+    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 51da61739baac59fd1bde589d208405f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: zcuYFf5R0NU
+    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1d0b649f5d776a30c65ed4e14e87f1a8
+  - id: zcuYFf5R0NU.srt
+    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/series-calculation-using-a-riemann-sum/zcuYFf5R0NU.srt
+    title: 3play caption file
+    type: null
+    uid: 40ebd427f0636ed173227b8f4b5d727e
+  - id: zcuYFf5R0NU.pdf
+    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/series-calculation-using-a-riemann-sum/zcuYFf5R0NU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 706b5a90504386ab4a678e58f60480d7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3266299b9c815dd9b153c7b827db2570
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 341ff12c8b0924094f19691a0f5902c9
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_83_300k.mp4'
+    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ba51d30eff8479015d6fb0b04448621f
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/series-calculation-using-riemann/id414308064?i=90320238
+    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8788f4c0ea76093ef4fd1d3c280bcafa
+inline_embed_id: 48303739seriescalculationusingariemannsum75987060
 parent_uid: c22c320788f09de5fe78a6e305cad2b4
+related_resources_text: ''
+short_url: series-calculation-using-a-riemann-sum
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/series-calculation-using-a-riemann-sum
-short_url: series-calculation-using-a-riemann-sum
-inline_embed_id: 48303739seriescalculationusingariemannsum75987060
-about_this_resource_text: ''
-related_resources_text: ''
+title: Series Calculation Using a Riemann Sum
 transcript: >-
   <p><span m='6890'>PROFESSOR: Welcome</span> <span m='7240'>back</span> <span
   m='7420'>to</span> <span m='7540'>recitation.</span> <span m='8520'>In</span>
@@ -990,62 +1045,7 @@ transcript: >-
   m='804150'>that.</span> <span m='804570'>So</span> <span
   m='804740'>that's</span> <span m='804930'>where</span> <span
   m='805060'>I'll</span> <span m='805150'>stop.</span> </p>
-embedded_media:
-  - uid: 2e1899fb33c74d5fc9f6d8a465a46ad2
-    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: zcuYFf5R0NU
-  - uid: 51da61739baac59fd1bde589d208405f
-    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/zcuYFf5R0NU/default.jpg'
-  - uid: 1d0b649f5d776a30c65ed4e14e87f1a8
-    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: zcuYFf5R0NU
-  - uid: 40ebd427f0636ed173227b8f4b5d727e
-    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
-    id: zcuYFf5R0NU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/series-calculation-using-a-riemann-sum/zcuYFf5R0NU.srt
-  - uid: 706b5a90504386ab4a678e58f60480d7
-    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
-    id: zcuYFf5R0NU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/series-calculation-using-a-riemann-sum/zcuYFf5R0NU.pdf
-  - uid: 3266299b9c815dd9b153c7b827db2570
-    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 341ff12c8b0924094f19691a0f5902c9
-    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ba51d30eff8479015d6fb0b04448621f
-    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_83_300k.mp4'
-  - uid: 8788f4c0ea76093ef4fd1d3c280bcafa
-    parent_uid: 0ca5f4527e591328e338c6ff69d5a7ac
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/series-calculation-using-riemann/id414308064?i=90320238
+uid: 0ca5f4527e591328e338c6ff69d5a7ac
 type: courses
 layout: video
 ---

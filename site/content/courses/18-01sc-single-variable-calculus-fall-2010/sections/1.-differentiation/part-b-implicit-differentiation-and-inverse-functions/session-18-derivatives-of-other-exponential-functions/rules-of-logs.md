@@ -1,13 +1,67 @@
 ---
-title: Rules of Logs
-uid: 783f5f4e9439755780721f88403883fa
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 9YgOmJdom6o
+    parent_uid: 783f5f4e9439755780721f88403883fa
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a794fe2db2edc5888b16894fe6aba67d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9YgOmJdom6o/default.jpg'
+    parent_uid: 783f5f4e9439755780721f88403883fa
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 73c05949f9e175eb8bc1486a0adcee91
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/rules-of-logs/id414308064?i=90318994'
+    parent_uid: 783f5f4e9439755780721f88403883fa
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 53ecd25a90078df9ba662fb179ebc1ab
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_14_300k.mp4'
+    parent_uid: 783f5f4e9439755780721f88403883fa
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: eee365617dd0b2ecfc6ef61ce5677745
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 9YgOmJdom6o
+    parent_uid: 783f5f4e9439755780721f88403883fa
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a35ae3f7660be8663ea88fde4bd2508c
+  - id: 9YgOmJdom6o.srt
+    parent_uid: 783f5f4e9439755780721f88403883fa
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-18-derivatives-of-other-exponential-functions/rules-of-logs/9YgOmJdom6o.srt
+    title: 3play caption file
+    type: null
+    uid: f8cfae8fd533c87d2755cc16f6dc58c0
+  - id: 9YgOmJdom6o.pdf
+    parent_uid: 783f5f4e9439755780721f88403883fa
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-18-derivatives-of-other-exponential-functions/rules-of-logs/9YgOmJdom6o.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0246497df327e648930934a5b9797738
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 783f5f4e9439755780721f88403883fa
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 494127b2b2eab4e819a472d55b78cf91
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 783f5f4e9439755780721f88403883fa
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7ccdb15bed42697a7c9758cdd54f4ffb
+inline_embed_id: 22097142rulesoflogs71780445
 parent_uid: 0cf2fa75aeb682dbf14c169c98cd1a15
+related_resources_text: ''
+short_url: rules-of-logs
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-18-derivatives-of-other-exponential-functions/rules-of-logs
-short_url: rules-of-logs
-inline_embed_id: 22097142rulesoflogs71780445
-about_this_resource_text: ''
-related_resources_text: ''
+title: Rules of Logs
 transcript: >-
   <p><span m='0'>CHRISTINE BREINER:</span> <span m='7300'>Welcome</span> <span
   m='7660'>back</span> <span m='7890'>to</span> <span
@@ -739,61 +793,7 @@ transcript: >-
   m='545730'>So</span> <span m='546050'>I</span> <span m='546170'>guess</span>
   <span m='546380'>I'll</span> <span m='546490'>stop</span> <span
   m='546680'>there.</span> </p>
-embedded_media:
-  - uid: a794fe2db2edc5888b16894fe6aba67d
-    parent_uid: 783f5f4e9439755780721f88403883fa
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9YgOmJdom6o
-  - uid: 73c05949f9e175eb8bc1486a0adcee91
-    parent_uid: 783f5f4e9439755780721f88403883fa
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9YgOmJdom6o/default.jpg'
-  - uid: 53ecd25a90078df9ba662fb179ebc1ab
-    parent_uid: 783f5f4e9439755780721f88403883fa
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/rules-of-logs/id414308064?i=90318994'
-  - uid: eee365617dd0b2ecfc6ef61ce5677745
-    parent_uid: 783f5f4e9439755780721f88403883fa
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_14_300k.mp4'
-  - uid: a35ae3f7660be8663ea88fde4bd2508c
-    parent_uid: 783f5f4e9439755780721f88403883fa
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9YgOmJdom6o
-  - uid: f8cfae8fd533c87d2755cc16f6dc58c0
-    parent_uid: 783f5f4e9439755780721f88403883fa
-    id: 9YgOmJdom6o.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-18-derivatives-of-other-exponential-functions/rules-of-logs/9YgOmJdom6o.srt
-  - uid: 0246497df327e648930934a5b9797738
-    parent_uid: 783f5f4e9439755780721f88403883fa
-    id: 9YgOmJdom6o.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-18-derivatives-of-other-exponential-functions/rules-of-logs/9YgOmJdom6o.pdf
-  - uid: 494127b2b2eab4e819a472d55b78cf91
-    parent_uid: 783f5f4e9439755780721f88403883fa
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7ccdb15bed42697a7c9758cdd54f4ffb
-    parent_uid: 783f5f4e9439755780721f88403883fa
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 783f5f4e9439755780721f88403883fa
 type: courses
 layout: video
 ---

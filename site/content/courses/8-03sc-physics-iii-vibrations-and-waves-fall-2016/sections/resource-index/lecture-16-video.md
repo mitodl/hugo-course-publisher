@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 16: 2D and 3D Waves, Snell’s Law'
-uid: b412225b142eef573f06d8e04ca72069
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: _kKIQ1h9UuA
+    parent_uid: b412225b142eef573f06d8e04ca72069
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 56da43ad6c06ee2d01edf6cd2be7f27b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_kKIQ1h9UuA/default.jpg'
+    parent_uid: b412225b142eef573f06d8e04ca72069
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e7754b2485cb7f234f03f466afbe5d65
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: _kKIQ1h9UuA
+    parent_uid: b412225b142eef573f06d8e04ca72069
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ad1579e7922418eb9aacc39f4641f141
+  - id: kKIQ1h9UuA.srt
+    parent_uid: b412225b142eef573f06d8e04ca72069
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-16-video/kKIQ1h9UuA.srt
+    title: 3play caption file
+    type: null
+    uid: 80773edea1be7c391dc450cf9e6d3827
+  - id: kKIQ1h9UuA.pdf
+    parent_uid: b412225b142eef573f06d8e04ca72069
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-16-video/kKIQ1h9UuA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 89a1c10c637a00326de4f9615fff8095
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b412225b142eef573f06d8e04ca72069
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9d6ae562c6effa08a182114e964b8d52
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b412225b142eef573f06d8e04ca72069
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 06dbebb10c0f749713ec055f034d8a19
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec16_300k.mp4'
+    parent_uid: b412225b142eef573f06d8e04ca72069
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1b3e3d7d337c988514af547bfe1fd9e2
+inline_embed_id: 33330407lecture16video13061202
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-16-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-16-video
-short_url: lecture-16-video
-inline_embed_id: 33330407lecture16video13061202
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 16: 2D and 3D Waves, Snell’s Law'
 transcript: >-
   <p><span m="2520">The</span> <span m="2610">following</span> <span
   m="3060">content</span> <span m="3540">is</span> <span
@@ -4373,55 +4421,7 @@ transcript: >-
   m="4891010">longer</span> <span m="4891990">wavelengths</span> <span
   m="4893640">of</span> <span m="4893940">the</span> <span
   m="4894240">normal</span> <span m="4894540">modes.</span></p>
-embedded_media:
-  - uid: 56da43ad6c06ee2d01edf6cd2be7f27b
-    parent_uid: b412225b142eef573f06d8e04ca72069
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _kKIQ1h9UuA
-  - uid: e7754b2485cb7f234f03f466afbe5d65
-    parent_uid: b412225b142eef573f06d8e04ca72069
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_kKIQ1h9UuA/default.jpg'
-  - uid: ad1579e7922418eb9aacc39f4641f141
-    parent_uid: b412225b142eef573f06d8e04ca72069
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _kKIQ1h9UuA
-  - uid: 80773edea1be7c391dc450cf9e6d3827
-    parent_uid: b412225b142eef573f06d8e04ca72069
-    id: kKIQ1h9UuA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-16-video/kKIQ1h9UuA.srt
-  - uid: 89a1c10c637a00326de4f9615fff8095
-    parent_uid: b412225b142eef573f06d8e04ca72069
-    id: kKIQ1h9UuA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-16-video/kKIQ1h9UuA.pdf
-  - uid: 9d6ae562c6effa08a182114e964b8d52
-    parent_uid: b412225b142eef573f06d8e04ca72069
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 06dbebb10c0f749713ec055f034d8a19
-    parent_uid: b412225b142eef573f06d8e04ca72069
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1b3e3d7d337c988514af547bfe1fd9e2
-    parent_uid: b412225b142eef573f06d8e04ca72069
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec16_300k.mp4'
+uid: b412225b142eef573f06d8e04ca72069
 type: courses
 layout: video
 ---

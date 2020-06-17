@@ -1,11 +1,4 @@
 ---
-title: 'Input Function, Michaelis-Menten kinetics, and Cooperativity'
-uid: c7a5a2c23a3785151762cdded4d47a17
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/input-function-michaelis-menten-kinetics-and-cooperativity
-short_url: input-function-michaelis-menten-kinetics-and-cooperativity
-inline_embed_id: '48799677inputfunction,michaelis-mentenkinetics,andcooperativity48136760'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Jeff Gore discusses
   the kinetics of gene expression. The lecture begins with simple input-output
@@ -13,7 +6,68 @@ about_this_resource_text: >-
   for stable proteins. He finishes with ultrasensitivity: cooperative binding or
   multimer molecular titration.</p> <p><strong>Instructor:</strong> Prof. Jeff
   Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: lLY1u2aghIQ
+    parent_uid: c7a5a2c23a3785151762cdded4d47a17
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6ec66e03d32bd6092966fb49ce7dde43
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/lLY1u2aghIQ/default.jpg'
+    parent_uid: c7a5a2c23a3785151762cdded4d47a17
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6befeec561f4cdc7a6e5c38b6a76e08b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: c7a5a2c23a3785151762cdded4d47a17
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e1415c946fee933ca3375b5def42f387
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec02_300k.mp4'
+    parent_uid: c7a5a2c23a3785151762cdded4d47a17
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cce67402d24c38b9c2a48486cc55002b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: lLY1u2aghIQ
+    parent_uid: c7a5a2c23a3785151762cdded4d47a17
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 03b4c5e204e72b1f4f47f1886b14050f
+  - id: lLY1u2aghIQ.srt
+    parent_uid: c7a5a2c23a3785151762cdded4d47a17
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/input-function-michaelis-menten-kinetics-and-cooperativity/lLY1u2aghIQ.srt
+    title: 3play caption file
+    type: null
+    uid: 5627af1cd2fc6e2183ea04650ce7fd81
+  - id: lLY1u2aghIQ.pdf
+    parent_uid: c7a5a2c23a3785151762cdded4d47a17
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/input-function-michaelis-menten-kinetics-and-cooperativity/lLY1u2aghIQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0a6e12661e96fb7add90879e99e0e4ce
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c7a5a2c23a3785151762cdded4d47a17
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: abdb72f548468dc1329e83ba20e84602
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c7a5a2c23a3785151762cdded4d47a17
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bdc94f2468fa78fb170e029c0af462cc
+inline_embed_id: '48799677inputfunction,michaelis-mentenkinetics,andcooperativity48136760'
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: input-function-michaelis-menten-kinetics-and-cooperativity
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/input-function-michaelis-menten-kinetics-and-cooperativity
+title: 'Input Function, Michaelis-Menten kinetics, and Cooperativity'
 transcript: >-
   <p><span m="70">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4501,61 +4555,7 @@ transcript: >-
   m="4662430">that,</span> <span m="4662730">why don't</span> <span
   m="4663030">we go ahead</span> <span m="4663330">and</span> <span
   m="4663630">quit.</span></p>
-embedded_media:
-  - uid: 6ec66e03d32bd6092966fb49ce7dde43
-    parent_uid: c7a5a2c23a3785151762cdded4d47a17
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lLY1u2aghIQ
-  - uid: 6befeec561f4cdc7a6e5c38b6a76e08b
-    parent_uid: c7a5a2c23a3785151762cdded4d47a17
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lLY1u2aghIQ/default.jpg'
-  - uid: e1415c946fee933ca3375b5def42f387
-    parent_uid: c7a5a2c23a3785151762cdded4d47a17
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: cce67402d24c38b9c2a48486cc55002b
-    parent_uid: c7a5a2c23a3785151762cdded4d47a17
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec02_300k.mp4'
-  - uid: 03b4c5e204e72b1f4f47f1886b14050f
-    parent_uid: c7a5a2c23a3785151762cdded4d47a17
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lLY1u2aghIQ
-  - uid: 5627af1cd2fc6e2183ea04650ce7fd81
-    parent_uid: c7a5a2c23a3785151762cdded4d47a17
-    id: lLY1u2aghIQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/input-function-michaelis-menten-kinetics-and-cooperativity/lLY1u2aghIQ.srt
-  - uid: 0a6e12661e96fb7add90879e99e0e4ce
-    parent_uid: c7a5a2c23a3785151762cdded4d47a17
-    id: lLY1u2aghIQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/input-function-michaelis-menten-kinetics-and-cooperativity/lLY1u2aghIQ.pdf
-  - uid: abdb72f548468dc1329e83ba20e84602
-    parent_uid: c7a5a2c23a3785151762cdded4d47a17
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bdc94f2468fa78fb170e029c0af462cc
-    parent_uid: c7a5a2c23a3785151762cdded4d47a17
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c7a5a2c23a3785151762cdded4d47a17
 type: courses
 layout: video
 ---

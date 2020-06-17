@@ -1,13 +1,62 @@
 ---
-title: 'Video 5: K-Means Clustering'
-uid: c68a133ea0ede0465f27c34e81c180f2
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: WIKsL9tPoAE
+    parent_uid: c68a133ea0ede0465f27c34e81c180f2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6e43d0518dc8198a6893acdc0d71763e
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: WIKsL9tPoAE
+    parent_uid: c68a133ea0ede0465f27c34e81c180f2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1628228af0cef86c88f19fae594ee1c8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/WIKsL9tPoAE/default.jpg'
+    parent_uid: c68a133ea0ede0465f27c34e81c180f2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3f73d73649b2acb6162d4c18cefa5ab2
+  - id: WIKsL9tPoAE.srt
+    parent_uid: c68a133ea0ede0465f27c34e81c180f2
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-5-k-means-clustering/video-5-k-means-clustering-0/WIKsL9tPoAE.srt
+    title: 3play caption file
+    type: null
+    uid: c6a933ecb1aced990583b89afb1f2a00
+  - id: WIKsL9tPoAE.pdf
+    parent_uid: c68a133ea0ede0465f27c34e81c180f2
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-5-k-means-clustering/video-5-k-means-clustering-0/WIKsL9tPoAE.pdf
+    title: 3play pdf file
+    type: null
+    uid: cc21b30fcf1ddf379a5f59fa6a2a3a56
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c68a133ea0ede0465f27c34e81c180f2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 800121af239e954def8c11a41719ceb7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c68a133ea0ede0465f27c34e81c180f2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3458f6430e2c6a42bfb94f3c396f3306
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.4.07_300k.mp4
+    parent_uid: c68a133ea0ede0465f27c34e81c180f2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8b836addc67a0fe657f492ae7955a2db
+inline_embed_id: 86641707video5kmeansclustering4804050
 parent_uid: 463ba1ca1b89e0017fa87ebc26673bd4
+related_resources_text: ''
+short_url: video-5-k-means-clustering-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-5-k-means-clustering/video-5-k-means-clustering-0
-short_url: video-5-k-means-clustering-0
-inline_embed_id: 86641707video5kmeansclustering4804050
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 5: K-Means Clustering'
 transcript: >-
   <p><span m='5050'>Recall</span> <span m='5354'>from</span> <span
   m='5659'>our</span> <span m='5963'>last</span> <span m='6268'>video</span>
@@ -465,56 +514,7 @@ transcript: >-
   m='393436'>possible</span> <span m='393831'>in</span> <span
   m='394225'>the</span> <span m='394620'>next</span> <span
   m='395014'>video.</span> </p>
-embedded_media:
-  - uid: 6e43d0518dc8198a6893acdc0d71763e
-    parent_uid: c68a133ea0ede0465f27c34e81c180f2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: WIKsL9tPoAE
-  - uid: 1628228af0cef86c88f19fae594ee1c8
-    parent_uid: c68a133ea0ede0465f27c34e81c180f2
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: WIKsL9tPoAE
-  - uid: 3f73d73649b2acb6162d4c18cefa5ab2
-    parent_uid: c68a133ea0ede0465f27c34e81c180f2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/WIKsL9tPoAE/default.jpg'
-  - uid: c6a933ecb1aced990583b89afb1f2a00
-    parent_uid: c68a133ea0ede0465f27c34e81c180f2
-    id: WIKsL9tPoAE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-5-k-means-clustering/video-5-k-means-clustering-0/WIKsL9tPoAE.srt
-  - uid: cc21b30fcf1ddf379a5f59fa6a2a3a56
-    parent_uid: c68a133ea0ede0465f27c34e81c180f2
-    id: WIKsL9tPoAE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-5-k-means-clustering/video-5-k-means-clustering-0/WIKsL9tPoAE.pdf
-  - uid: 800121af239e954def8c11a41719ceb7
-    parent_uid: c68a133ea0ede0465f27c34e81c180f2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3458f6430e2c6a42bfb94f3c396f3306
-    parent_uid: c68a133ea0ede0465f27c34e81c180f2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8b836addc67a0fe657f492ae7955a2db
-    parent_uid: c68a133ea0ede0465f27c34e81c180f2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.4.07_300k.mp4
+uid: c68a133ea0ede0465f27c34e81c180f2
 type: courses
 layout: video
 ---

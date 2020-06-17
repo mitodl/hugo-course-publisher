@@ -1,13 +1,67 @@
 ---
-title: Fitness Landscapes and Sequence Spaces
-uid: 01b6ad789974003b9f88522862525446
+about_this_resource_text: "<p><strong>Description:</strong> In this lecture, Prof. Jeff Gore continues his discussion of clonal interference and the equivalence principle from the last lecture. He discussed clonal interference and the rate of evolution. And finally he thinks about evolution from the perspective of rugged fitness landscapes.</p>\r\n<p><strong>Instructor:</strong> Prof. Jeff Gore</p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: EFXjKHdbi6A
+    parent_uid: 01b6ad789974003b9f88522862525446
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c3966b64a390a2f0f85421da26213f59
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/EFXjKHdbi6A/default.jpg'
+    parent_uid: 01b6ad789974003b9f88522862525446
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8c06e893a95faa0f278ada7642a51a44
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: 01b6ad789974003b9f88522862525446
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 047b9dfc6c4a72537a3c578a8413f38f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec17_300k.mp4'
+    parent_uid: 01b6ad789974003b9f88522862525446
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bf832d4571b3fe4d4f51d4c408bc0ec0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: EFXjKHdbi6A
+    parent_uid: 01b6ad789974003b9f88522862525446
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2678dd04e3a9336dc1e009323734e392
+  - id: EFXjKHdbi6A.srt
+    parent_uid: 01b6ad789974003b9f88522862525446
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/fitness-landscapes-and-sequence-spaces/EFXjKHdbi6A.srt
+    title: 3play caption file
+    type: null
+    uid: cbc8bd7da157c8e954935815e8756509
+  - id: EFXjKHdbi6A.pdf
+    parent_uid: 01b6ad789974003b9f88522862525446
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/fitness-landscapes-and-sequence-spaces/EFXjKHdbi6A.pdf
+    title: 3play pdf file
+    type: null
+    uid: d27ead20178f5b31f2af9589076fa884
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 01b6ad789974003b9f88522862525446
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8bdc0835f4bf6dc932845b4c56a9fd2b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 01b6ad789974003b9f88522862525446
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 18c7b8e74cc32d0c1f27e594abba9fe7
+inline_embed_id: 34993455fitnesslandscapesandsequencespaces81168485
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
+related_resources_text: ''
+short_url: fitness-landscapes-and-sequence-spaces
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/fitness-landscapes-and-sequence-spaces
-short_url: fitness-landscapes-and-sequence-spaces
-inline_embed_id: 34993455fitnesslandscapesandsequencespaces81168485
-about_this_resource_text: "<p><strong>Description:</strong> In this lecture, Prof. Jeff Gore continues his discussion of clonal interference and the equivalence principle from the last lecture. He discussed clonal interference and the rate of evolution. And finally he thinks about evolution from the perspective of rugged fitness landscapes.</p>\r\n<p><strong>Instructor:</strong> Prof. Jeff Gore</p>"
-related_resources_text: ''
+title: Fitness Landscapes and Sequence Spaces
 transcript: >-
   <p><span m="80">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4408,61 +4462,7 @@ transcript: >-
   m="4721060">up</span> <span m="4721290">and</span> <span
   m="4722410">ask</span> <span m="4722890">them.</span> <span m="4723190">All
   right?</span> <span m="4723790">Thanks.</span></p>
-embedded_media:
-  - uid: c3966b64a390a2f0f85421da26213f59
-    parent_uid: 01b6ad789974003b9f88522862525446
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: EFXjKHdbi6A
-  - uid: 8c06e893a95faa0f278ada7642a51a44
-    parent_uid: 01b6ad789974003b9f88522862525446
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/EFXjKHdbi6A/default.jpg'
-  - uid: 047b9dfc6c4a72537a3c578a8413f38f
-    parent_uid: 01b6ad789974003b9f88522862525446
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: bf832d4571b3fe4d4f51d4c408bc0ec0
-    parent_uid: 01b6ad789974003b9f88522862525446
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec17_300k.mp4'
-  - uid: 2678dd04e3a9336dc1e009323734e392
-    parent_uid: 01b6ad789974003b9f88522862525446
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: EFXjKHdbi6A
-  - uid: cbc8bd7da157c8e954935815e8756509
-    parent_uid: 01b6ad789974003b9f88522862525446
-    id: EFXjKHdbi6A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/fitness-landscapes-and-sequence-spaces/EFXjKHdbi6A.srt
-  - uid: d27ead20178f5b31f2af9589076fa884
-    parent_uid: 01b6ad789974003b9f88522862525446
-    id: EFXjKHdbi6A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/fitness-landscapes-and-sequence-spaces/EFXjKHdbi6A.pdf
-  - uid: 8bdc0835f4bf6dc932845b4c56a9fd2b
-    parent_uid: 01b6ad789974003b9f88522862525446
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 18c7b8e74cc32d0c1f27e594abba9fe7
-    parent_uid: 01b6ad789974003b9f88522862525446
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 01b6ad789974003b9f88522862525446
 type: courses
 layout: video
 ---

@@ -1,13 +1,72 @@
 ---
-title: DAGs
-uid: 65e786428b76a391305a67a28a230fa1
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 65e786428b76a391305a67a28a230fa1
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 8547136fc4410d770795e42abbe5d4da
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 65e786428b76a391305a67a28a230fa1
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: aed781566c4688a3dbc71176cc1722ca
+  - id: Video-YouTube-Stream
+    media_location: Sdw8_0RDZuw
+    parent_uid: 65e786428b76a391305a67a28a230fa1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 044b672c6d04c911ddf2d47aea6888b4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Sdw8_0RDZuw/default.jpg'
+    parent_uid: 65e786428b76a391305a67a28a230fa1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ca21656d20b9ce478cd2262edc133a2d
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: Sdw8_0RDZuw
+    parent_uid: 65e786428b76a391305a67a28a230fa1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7c9f9e525aa1be3ba57de87109f4bdf0
+  - id: Sdw8_0RDZuw.srt
+    parent_uid: 65e786428b76a391305a67a28a230fa1
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/digraphs-dags/Sdw8_0RDZuw.srt
+    title: 3play caption file
+    type: null
+    uid: 68dbb2409d7c2a3e491aefad0554fade
+  - id: Sdw8_0RDZuw.pdf
+    parent_uid: 65e786428b76a391305a67a28a230fa1
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/digraphs-dags/Sdw8_0RDZuw.pdf
+    title: 3play pdf file
+    type: null
+    uid: c7fa13518c97a54fe09d2d8c6bc7aa24
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 65e786428b76a391305a67a28a230fa1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c1a410a47f24f7c12c69bda388392720
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 65e786428b76a391305a67a28a230fa1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9a32ea5707cd64db5ff65d2ab81752e2
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_dags_video_ipod.mp4'
+    parent_uid: 65e786428b76a391305a67a28a230fa1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 247415baa51b6fbabfacbee373cdd1a9
+inline_embed_id: 58911887dags43834136
 parent_uid: 30a03ec26577751dfb8c5b6d0813ce12
+related_resources_text: ''
+short_url: digraphs-dags
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/digraphs-dags
-short_url: digraphs-dags
-inline_embed_id: 58911887dags43834136
-about_this_resource_text: ''
-related_resources_text: ''
+title: DAGs
 transcript: >-
   <p><span m='1040'>PROFESSOR: Directed</span> <span m='1610'>acyclic</span>
   <span m='2240'>graphs</span> <span m='3230'>are</span> <span m='3780'>a</span>
@@ -890,66 +949,7 @@ transcript: >-
   m='680220'>relation</span> <span m='680740'>in</span> <span
   m='680850'>terms</span> <span m='681180'>of</span> <span m='681280'>a</span>
   <span m='681320'>DAG.</span> </p>
-embedded_media:
-  - uid: 8547136fc4410d770795e42abbe5d4da
-    parent_uid: 65e786428b76a391305a67a28a230fa1
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: aed781566c4688a3dbc71176cc1722ca
-    parent_uid: 65e786428b76a391305a67a28a230fa1
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 044b672c6d04c911ddf2d47aea6888b4
-    parent_uid: 65e786428b76a391305a67a28a230fa1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Sdw8_0RDZuw
-  - uid: ca21656d20b9ce478cd2262edc133a2d
-    parent_uid: 65e786428b76a391305a67a28a230fa1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Sdw8_0RDZuw/default.jpg'
-  - uid: 7c9f9e525aa1be3ba57de87109f4bdf0
-    parent_uid: 65e786428b76a391305a67a28a230fa1
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Sdw8_0RDZuw
-  - uid: 68dbb2409d7c2a3e491aefad0554fade
-    parent_uid: 65e786428b76a391305a67a28a230fa1
-    id: Sdw8_0RDZuw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/digraphs-dags/Sdw8_0RDZuw.srt
-  - uid: c7fa13518c97a54fe09d2d8c6bc7aa24
-    parent_uid: 65e786428b76a391305a67a28a230fa1
-    id: Sdw8_0RDZuw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/digraphs-dags/Sdw8_0RDZuw.pdf
-  - uid: c1a410a47f24f7c12c69bda388392720
-    parent_uid: 65e786428b76a391305a67a28a230fa1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9a32ea5707cd64db5ff65d2ab81752e2
-    parent_uid: 65e786428b76a391305a67a28a230fa1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 247415baa51b6fbabfacbee373cdd1a9
-    parent_uid: 65e786428b76a391305a67a28a230fa1
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_dags_video_ipod.mp4'
+uid: 65e786428b76a391305a67a28a230fa1
 type: courses
 layout: video
 ---

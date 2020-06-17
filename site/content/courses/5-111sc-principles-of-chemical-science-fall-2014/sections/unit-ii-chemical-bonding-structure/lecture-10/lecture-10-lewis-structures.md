@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 10: Introduction to Lewis Structures'
-uid: 5a75b7ff300e6deaa16d151272e69ffa
-parent_uid: 5f89679faa0fab38a4eca4a166b9093f
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-10/lecture-10-lewis-structures
-short_url: lecture-10-lewis-structures
-inline_embed_id: 97244095lecture10lewisstructures79418893
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: Lewis structures are simplistic views of molecular
@@ -16,7 +9,68 @@ about_this_resource_text: >-
   writing a Lewis structure is a lot easier than solving the Schrödinger
   equation, so we recommend that you watch this lecture.</p>
   <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ed_XR1BzuQs
+    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fd1d2bbdabebfd6049283d5436d9688b
+  - id: ed_XR1BzuQs.srt
+    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-10/lecture-10-lewis-structures/ed_XR1BzuQs.srt
+    title: 3play caption file
+    type: null
+    uid: d5d325b5451b9c3ab751acc0aef1e019
+  - id: ed_XR1BzuQs.pdf
+    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-10/lecture-10-lewis-structures/ed_XR1BzuQs.pdf
+    title: 3play pdf file
+    type: null
+    uid: 936820da3b611fb4ec1dc702a54ce64d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 33ffe0941edd190eea5ebfe00e086d80
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2d9b5673aefaf726d40b0699e15d6ecb
+  - id: Video-YouTube-Stream
+    media_location: ed_XR1BzuQs
+    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1342d80dca3c7b1faf2023b0c1ad125c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ed_XR1BzuQs/default.jpg'
+    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 80b29fbe579aa99167372c1472433652
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L10_300k.mp4'
+    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 69420c1b027de87ddc2114b43dd54e52
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2e456841b2f7afb60408a284773bacea
+inline_embed_id: 97244095lecture10lewisstructures79418893
+parent_uid: 5f89679faa0fab38a4eca4a166b9093f
 related_resources_text: ''
+short_url: lecture-10-lewis-structures
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-10/lecture-10-lewis-structures
+title: 'Lecture 10: Introduction to Lewis Structures'
 transcript: >-
   <p><span m="90">The</span> <span m="180">following</span> <span
   m="630">content</span> <span m="1110">is</span> <span m="1230">provided</span>
@@ -2804,61 +2858,7 @@ transcript: >-
   m="2604780">have</span> <span m="2605140">different</span> <span
   m="2605530">arrangements</span> <span m="2606160">of</span> <span
   m="2606340">electrons.</span></p>
-embedded_media:
-  - uid: fd1d2bbdabebfd6049283d5436d9688b
-    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ed_XR1BzuQs
-  - uid: d5d325b5451b9c3ab751acc0aef1e019
-    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
-    id: ed_XR1BzuQs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-10/lecture-10-lewis-structures/ed_XR1BzuQs.srt
-  - uid: 936820da3b611fb4ec1dc702a54ce64d
-    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
-    id: ed_XR1BzuQs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-10/lecture-10-lewis-structures/ed_XR1BzuQs.pdf
-  - uid: 33ffe0941edd190eea5ebfe00e086d80
-    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2d9b5673aefaf726d40b0699e15d6ecb
-    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1342d80dca3c7b1faf2023b0c1ad125c
-    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ed_XR1BzuQs
-  - uid: 80b29fbe579aa99167372c1472433652
-    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ed_XR1BzuQs/default.jpg'
-  - uid: 69420c1b027de87ddc2114b43dd54e52
-    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L10_300k.mp4'
-  - uid: 2e456841b2f7afb60408a284773bacea
-    parent_uid: 5a75b7ff300e6deaa16d151272e69ffa
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+uid: 5a75b7ff300e6deaa16d151272e69ffa
 type: courses
 layout: video
 ---

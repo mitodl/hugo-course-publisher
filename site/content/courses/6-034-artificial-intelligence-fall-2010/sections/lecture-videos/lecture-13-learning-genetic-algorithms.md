@@ -1,22 +1,77 @@
 ---
-title: 'Lecture 13: Learning: Genetic Algorithms'
-uid: 94a831264c372f49131ba025945d85ee
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-13-learning-genetic-algorithms
-short_url: lecture-13-learning-genetic-algorithms
-inline_embed_id: '12248760lecture13:learning:geneticalgorithms72266030'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture explores genetic algorithms at a
   conceptual level. We consider three approaches to how a population evolves
   towards desirable traits, ending with ranks of both fitness and diversity. We
   briefly discuss how this space is rich with solutions.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: kHyNqSnzP8Y
+    parent_uid: 94a831264c372f49131ba025945d85ee
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 668514e7b1a64e1e1f935bb1baa284ef
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-13-learning-genetic/id765641080?i=194473730
+    parent_uid: 94a831264c372f49131ba025945d85ee
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6d5a92ca72080c7ac1e157981f56dee7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec13_300k.mp4'
+    parent_uid: 94a831264c372f49131ba025945d85ee
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ac7e3f21b05c249fde9c3c377dc7add0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/kHyNqSnzP8Y/default.jpg'
+    parent_uid: 94a831264c372f49131ba025945d85ee
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7fd8801fd850a0223a0207b816a4ab55
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: kHyNqSnzP8Y
+    parent_uid: 94a831264c372f49131ba025945d85ee
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e8c11f95a6b56e0113dec9d5132a023a
+  - id: kHyNqSnzP8Y.srt
+    parent_uid: 94a831264c372f49131ba025945d85ee
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-13-learning-genetic-algorithms/kHyNqSnzP8Y.srt
+    title: 3play caption file
+    type: null
+    uid: 63e437417a6556ad0522cea854cc1021
+  - id: kHyNqSnzP8Y.pdf
+    parent_uid: 94a831264c372f49131ba025945d85ee
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-13-learning-genetic-algorithms/kHyNqSnzP8Y.pdf
+    title: 3play pdf file
+    type: null
+    uid: f3326dde6b810a04b82d3b87ed3a6f15
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 94a831264c372f49131ba025945d85ee
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 288a073db511399783969b4781694301
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 94a831264c372f49131ba025945d85ee
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d1bed54eeec49e0f60dfbfad12276bdc
+inline_embed_id: '12248760lecture13:learning:geneticalgorithms72266030'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: >-
   <p>More information about <a
   href="http://www.karlsims.com/evolved-virtual-creatures.html"
   target="_blank">Evolved Virtual Creatures</a>, which is shown at the end of
   the lecture.</p>
+short_url: lecture-13-learning-genetic-algorithms
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-13-learning-genetic-algorithms
+title: 'Lecture 13: Learning: Genetic Algorithms'
 transcript: >-
   <p><span m='15584'>PATRICK WINSTON: I have extremely bad news.</span>
   </p><p><span m='18820'>Halloween falls this year on a Sunday.</span>
@@ -800,62 +855,7 @@ transcript: >-
   the</span> <span m='2812880'>richness of the space and in the intelligence of
   the</span> <span m='2815250'>programmer, not necessarily in the idea of
   genetic</span> <span m='2818000'>algorithms.</span> </p><p></p>
-embedded_media:
-  - uid: 668514e7b1a64e1e1f935bb1baa284ef
-    parent_uid: 94a831264c372f49131ba025945d85ee
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: kHyNqSnzP8Y
-  - uid: 6d5a92ca72080c7ac1e157981f56dee7
-    parent_uid: 94a831264c372f49131ba025945d85ee
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-13-learning-genetic/id765641080?i=194473730
-  - uid: ac7e3f21b05c249fde9c3c377dc7add0
-    parent_uid: 94a831264c372f49131ba025945d85ee
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec13_300k.mp4'
-  - uid: 7fd8801fd850a0223a0207b816a4ab55
-    parent_uid: 94a831264c372f49131ba025945d85ee
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/kHyNqSnzP8Y/default.jpg'
-  - uid: e8c11f95a6b56e0113dec9d5132a023a
-    parent_uid: 94a831264c372f49131ba025945d85ee
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: kHyNqSnzP8Y
-  - uid: 63e437417a6556ad0522cea854cc1021
-    parent_uid: 94a831264c372f49131ba025945d85ee
-    id: kHyNqSnzP8Y.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-13-learning-genetic-algorithms/kHyNqSnzP8Y.srt
-  - uid: f3326dde6b810a04b82d3b87ed3a6f15
-    parent_uid: 94a831264c372f49131ba025945d85ee
-    id: kHyNqSnzP8Y.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-13-learning-genetic-algorithms/kHyNqSnzP8Y.pdf
-  - uid: 288a073db511399783969b4781694301
-    parent_uid: 94a831264c372f49131ba025945d85ee
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d1bed54eeec49e0f60dfbfad12276bdc
-    parent_uid: 94a831264c372f49131ba025945d85ee
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 94a831264c372f49131ba025945d85ee
 type: courses
 layout: video
 ---

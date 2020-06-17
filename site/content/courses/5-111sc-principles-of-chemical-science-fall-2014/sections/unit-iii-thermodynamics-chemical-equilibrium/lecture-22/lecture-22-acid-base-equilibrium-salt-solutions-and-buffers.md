@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 22: Acid-Base Equilibrium: Salt Solutions and Buffers'
-uid: d67e9fa2ff5992d57e3ca98cb72df2ec
-parent_uid: 3967bba5a7b0073acd9ac713fa2d59eb
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-22/lecture-22-acid-base-equilibrium-salt-solutions-and-buffers
-short_url: lecture-22-acid-base-equilibrium-salt-solutions-and-buffers
-inline_embed_id: 76220967lecture22acidbaseequilibriumsaltsolutionsandbuffers64110196
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: A buffer helps to maintain a constant pH. Our blood
@@ -15,7 +8,68 @@ about_this_resource_text: >-
   solution. At dinner if you put table salt in your water glass, how would the
   pH of the water change? or would it change?</p>
   <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: caonmXHGB60
+    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a7f5076fa293865592788ec8f5aa223d
+  - id: caonmXHGB60.srt
+    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-22/lecture-22-acid-base-equilibrium-salt-solutions-and-buffers/caonmXHGB60.srt
+    title: 3play caption file
+    type: null
+    uid: f63ce4e538483e138bc32d175793e750
+  - id: caonmXHGB60.pdf
+    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-22/lecture-22-acid-base-equilibrium-salt-solutions-and-buffers/caonmXHGB60.pdf
+    title: 3play pdf file
+    type: null
+    uid: 01fe21eed48df22c6de4bcbda7acf65e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1a4294c949dfed10a19b307e2ea07889
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a54801e8f6c63775cdc94ad29e65d714
+  - id: Video-YouTube-Stream
+    media_location: caonmXHGB60
+    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e4f2489910a4e0e8ab7d2f960fbe722e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/caonmXHGB60/default.jpg'
+    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fbf3d38f336788f66255da89ceea92d7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1959ffd3bcc65b762ab12a04dafa7189
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L22_300k.mp4'
+    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ec3b20b40dc715cb4d41d35af70ce500
+inline_embed_id: 76220967lecture22acidbaseequilibriumsaltsolutionsandbuffers64110196
+parent_uid: 3967bba5a7b0073acd9ac713fa2d59eb
 related_resources_text: ''
+short_url: lecture-22-acid-base-equilibrium-salt-solutions-and-buffers
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-22/lecture-22-acid-base-equilibrium-salt-solutions-and-buffers
+title: 'Lecture 22: Acid-Base Equilibrium: Salt Solutions and Buffers'
 transcript: >-
   <p><span m="30">NARRATOR:</span> <span m="80">The</span> <span
   m="130">following</span> <span m="600">content</span> <span m="1090">is</span>
@@ -3462,61 +3516,7 @@ transcript: >-
   m="3021210">to</span> <span m="3021330">avoid</span> <span
   m="3021760">both</span> <span m="3022120">of</span> <span
   m="3022210">those</span> <span m="3022500">pitfalls.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: a7f5076fa293865592788ec8f5aa223d
-    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: caonmXHGB60
-  - uid: f63ce4e538483e138bc32d175793e750
-    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
-    id: caonmXHGB60.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-22/lecture-22-acid-base-equilibrium-salt-solutions-and-buffers/caonmXHGB60.srt
-  - uid: 01fe21eed48df22c6de4bcbda7acf65e
-    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
-    id: caonmXHGB60.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-22/lecture-22-acid-base-equilibrium-salt-solutions-and-buffers/caonmXHGB60.pdf
-  - uid: 1a4294c949dfed10a19b307e2ea07889
-    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a54801e8f6c63775cdc94ad29e65d714
-    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e4f2489910a4e0e8ab7d2f960fbe722e
-    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: caonmXHGB60
-  - uid: fbf3d38f336788f66255da89ceea92d7
-    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/caonmXHGB60/default.jpg'
-  - uid: 1959ffd3bcc65b762ab12a04dafa7189
-    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: ec3b20b40dc715cb4d41d35af70ce500
-    parent_uid: d67e9fa2ff5992d57e3ca98cb72df2ec
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L22_300k.mp4'
+uid: d67e9fa2ff5992d57e3ca98cb72df2ec
 type: courses
 layout: video
 ---

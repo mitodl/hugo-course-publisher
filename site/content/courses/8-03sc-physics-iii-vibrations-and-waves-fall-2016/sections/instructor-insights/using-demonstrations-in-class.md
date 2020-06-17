@@ -1,13 +1,62 @@
 ---
-title: Using Demonstrations in Class
-uid: 543f393ef3dc45da3aa21cf113a499ce
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 9Dwl2FbEc5E
+    parent_uid: 543f393ef3dc45da3aa21cf113a499ce
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 94496e9080bc52c61f06895c56c43447
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9Dwl2FbEc5E/default.jpg'
+    parent_uid: 543f393ef3dc45da3aa21cf113a499ce
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5056b716c11dfa8a3dc8fac395fd908e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 9Dwl2FbEc5E
+    parent_uid: 543f393ef3dc45da3aa21cf113a499ce
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 50df1e1bfc01ddef9e86affd3475667d
+  - id: 9Dwl2FbEc5E.srt
+    parent_uid: 543f393ef3dc45da3aa21cf113a499ce
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/using-demonstrations-in-class/9Dwl2FbEc5E.srt
+    title: 3play caption file
+    type: null
+    uid: 5a2ad8030836714c35cedd7dcb14049a
+  - id: 9Dwl2FbEc5E.pdf
+    parent_uid: 543f393ef3dc45da3aa21cf113a499ce
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/using-demonstrations-in-class/9Dwl2FbEc5E.pdf
+    title: 3play pdf file
+    type: null
+    uid: 14ceed044a3c647ce8c6e43b5850b71f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 543f393ef3dc45da3aa21cf113a499ce
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c3f633970ba5412ee77555df2057c321
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 543f393ef3dc45da3aa21cf113a499ce
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 776107f0185f6d5f21794a9ad825b4b1
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator04_Using_Demos_in_Class_300k.mp4
+    parent_uid: 543f393ef3dc45da3aa21cf113a499ce
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7be8f143f2c931aeaa6d33369b636403
+inline_embed_id: 80500206usingdemonstrationsinclass10410174
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
+related_resources_text: ''
+short_url: using-demonstrations-in-class
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/using-demonstrations-in-class
-short_url: using-demonstrations-in-class
-inline_embed_id: 80500206usingdemonstrationsinclass10410174
-about_this_resource_text: ''
-related_resources_text: ''
+title: Using Demonstrations in Class
 transcript: >-
   <p><span m='6280'>YEN-JIE LEE:</span> <span m='6355'>I</span> <span
   m='6430'>decided</span> <span m='7000'>to</span> <span m='7180'>include</span>
@@ -143,56 +192,7 @@ transcript: >-
   m='157530'>also</span> <span m='158740'>interested</span> <span
   m='159310'>in</span> <span m='159460'>that</span> <span m='159850'>demo</span>
   <span m='160150'>very, very</span> <span m='160630'>much.</span> </p>
-embedded_media:
-  - uid: 94496e9080bc52c61f06895c56c43447
-    parent_uid: 543f393ef3dc45da3aa21cf113a499ce
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9Dwl2FbEc5E
-  - uid: 5056b716c11dfa8a3dc8fac395fd908e
-    parent_uid: 543f393ef3dc45da3aa21cf113a499ce
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9Dwl2FbEc5E/default.jpg'
-  - uid: 50df1e1bfc01ddef9e86affd3475667d
-    parent_uid: 543f393ef3dc45da3aa21cf113a499ce
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9Dwl2FbEc5E
-  - uid: 5a2ad8030836714c35cedd7dcb14049a
-    parent_uid: 543f393ef3dc45da3aa21cf113a499ce
-    id: 9Dwl2FbEc5E.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/using-demonstrations-in-class/9Dwl2FbEc5E.srt
-  - uid: 14ceed044a3c647ce8c6e43b5850b71f
-    parent_uid: 543f393ef3dc45da3aa21cf113a499ce
-    id: 9Dwl2FbEc5E.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/using-demonstrations-in-class/9Dwl2FbEc5E.pdf
-  - uid: c3f633970ba5412ee77555df2057c321
-    parent_uid: 543f393ef3dc45da3aa21cf113a499ce
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 776107f0185f6d5f21794a9ad825b4b1
-    parent_uid: 543f393ef3dc45da3aa21cf113a499ce
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7be8f143f2c931aeaa6d33369b636403
-    parent_uid: 543f393ef3dc45da3aa21cf113a499ce
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator04_Using_Demos_in_Class_300k.mp4
+uid: 543f393ef3dc45da3aa21cf113a499ce
 type: courses
 layout: video
 ---

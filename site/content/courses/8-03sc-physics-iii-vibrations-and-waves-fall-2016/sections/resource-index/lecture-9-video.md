@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 9: Wave Equation, Standing Waves, Fourier Series'
-uid: 43ffe82b1837588b69f6fbd0edc51654
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 1JeBWHzrRD4
+    parent_uid: 43ffe82b1837588b69f6fbd0edc51654
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ad3444f2d158175b7e8eded4ead0e65c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/1JeBWHzrRD4/default.jpg'
+    parent_uid: 43ffe82b1837588b69f6fbd0edc51654
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 893d0a789679ee4bae572e7d19c06d14
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 1JeBWHzrRD4
+    parent_uid: 43ffe82b1837588b69f6fbd0edc51654
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 66140587744a02f1689e7313679e7969
+  - id: 1JeBWHzrRD4.srt
+    parent_uid: 43ffe82b1837588b69f6fbd0edc51654
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-9-video/1JeBWHzrRD4.srt
+    title: 3play caption file
+    type: null
+    uid: b5936f9408b024d463fe710d14333401
+  - id: 1JeBWHzrRD4.pdf
+    parent_uid: 43ffe82b1837588b69f6fbd0edc51654
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-9-video/1JeBWHzrRD4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 711b6b6d20224c226e2eb71d82b058c7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 43ffe82b1837588b69f6fbd0edc51654
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4ab56d63a9e6898807714a3aa99c95d1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 43ffe82b1837588b69f6fbd0edc51654
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f0eeaa2d663bcfd298d0dfa1bc88659f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec09_300k.mp4'
+    parent_uid: 43ffe82b1837588b69f6fbd0edc51654
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e8b790c356116e7d43d1945579a13372
+inline_embed_id: 42510221lecture9video47945109
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-9-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-9-video
-short_url: lecture-9-video
-inline_embed_id: 42510221lecture9video47945109
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 9: Wave Equation, Standing Waves, Fourier Series'
 transcript: >-
   <p><span m="2120">The</span> <span m="2210">following</span> <span
   m="2660">content</span> <span m="3140">is</span> <span
@@ -3874,55 +3922,7 @@ transcript: >-
   m="4537120">you</span> <span m="4537390">in</span> <span
   m="4538290">the</span> <span m="4538740">office</span> <span
   m="4539110">hour</span> <span m="4539410">tomorrow.</span></p>
-embedded_media:
-  - uid: ad3444f2d158175b7e8eded4ead0e65c
-    parent_uid: 43ffe82b1837588b69f6fbd0edc51654
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 1JeBWHzrRD4
-  - uid: 893d0a789679ee4bae572e7d19c06d14
-    parent_uid: 43ffe82b1837588b69f6fbd0edc51654
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/1JeBWHzrRD4/default.jpg'
-  - uid: 66140587744a02f1689e7313679e7969
-    parent_uid: 43ffe82b1837588b69f6fbd0edc51654
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 1JeBWHzrRD4
-  - uid: b5936f9408b024d463fe710d14333401
-    parent_uid: 43ffe82b1837588b69f6fbd0edc51654
-    id: 1JeBWHzrRD4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-9-video/1JeBWHzrRD4.srt
-  - uid: 711b6b6d20224c226e2eb71d82b058c7
-    parent_uid: 43ffe82b1837588b69f6fbd0edc51654
-    id: 1JeBWHzrRD4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-9-video/1JeBWHzrRD4.pdf
-  - uid: 4ab56d63a9e6898807714a3aa99c95d1
-    parent_uid: 43ffe82b1837588b69f6fbd0edc51654
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f0eeaa2d663bcfd298d0dfa1bc88659f
-    parent_uid: 43ffe82b1837588b69f6fbd0edc51654
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e8b790c356116e7d43d1945579a13372
-    parent_uid: 43ffe82b1837588b69f6fbd0edc51654
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec09_300k.mp4'
+uid: 43ffe82b1837588b69f6fbd0edc51654
 type: courses
 layout: video
 ---

@@ -1,16 +1,71 @@
 ---
-title: 'Lecture 25: Random Walks'
-uid: db334a5e76cc98b14e66f2c6004ec744
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-25-random-walks
-short_url: lecture-25-random-walks
-inline_embed_id: '10267170lecture25:randomwalks56929324'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Discusses random walks and their
   non&ndash;intuitive effect on systems, such as gambling at roulette and
   gambler's ruin.</p> <p><strong>Speaker:</strong> Tom Leighton</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 56iFMY8QW2k
+    parent_uid: db334a5e76cc98b14e66f2c6004ec744
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b78bf4cd4e98a05e73633df04397242e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/56iFMY8QW2k/default.jpg'
+    parent_uid: db334a5e76cc98b14e66f2c6004ec744
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a2f44b43b0a47920c0af67a39adf82e3
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-25-random-walks/id503873536?i=110644958
+    parent_uid: db334a5e76cc98b14e66f2c6004ec744
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9a373767a875a2b13183c73a4ae0e7f5
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec25_300k.mp4'
+    parent_uid: db334a5e76cc98b14e66f2c6004ec744
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d96ca1d1164ce644b0729203a7ca2603
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 56iFMY8QW2k
+    parent_uid: db334a5e76cc98b14e66f2c6004ec744
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 04128ab5a308d46484ea6aa95fbdddba
+  - id: 56iFMY8QW2k.srt
+    parent_uid: db334a5e76cc98b14e66f2c6004ec744
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-25-random-walks/56iFMY8QW2k.srt
+    title: 3play caption file
+    type: null
+    uid: a35b3fa4df665c8abba154fb0f6e1a45
+  - id: 56iFMY8QW2k.pdf
+    parent_uid: db334a5e76cc98b14e66f2c6004ec744
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-25-random-walks/56iFMY8QW2k.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1d5106863bee19ab21a7ac49503d3403
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: db334a5e76cc98b14e66f2c6004ec744
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: db508a7cc975035573874d7592237d30
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: db334a5e76cc98b14e66f2c6004ec744
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 783cd8ae4547d7c4870a2569662facaa
+inline_embed_id: '10267170lecture25:randomwalks56929324'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-25-random-walks
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-25-random-walks
+title: 'Lecture 25: Random Walks'
 transcript: >-
   <p><span m='400'>The</span> <span m='520'>following</span> <span
   m='950'>content</span> <span m='1550'>is</span> <span m='1660'>provided</span>
@@ -4317,62 +4372,7 @@ transcript: >-
   m='4667610'>a</span> <span m='4667670'>great</span> <span
   m='4667970'>class</span> <span m='4668270'>this year.</span> </p><p><span
   m='4669170'>[APPLAUSE]</span> </p><p></p>
-embedded_media:
-  - uid: b78bf4cd4e98a05e73633df04397242e
-    parent_uid: db334a5e76cc98b14e66f2c6004ec744
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 56iFMY8QW2k
-  - uid: a2f44b43b0a47920c0af67a39adf82e3
-    parent_uid: db334a5e76cc98b14e66f2c6004ec744
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/56iFMY8QW2k/default.jpg'
-  - uid: 9a373767a875a2b13183c73a4ae0e7f5
-    parent_uid: db334a5e76cc98b14e66f2c6004ec744
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-25-random-walks/id503873536?i=110644958
-  - uid: d96ca1d1164ce644b0729203a7ca2603
-    parent_uid: db334a5e76cc98b14e66f2c6004ec744
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec25_300k.mp4'
-  - uid: 04128ab5a308d46484ea6aa95fbdddba
-    parent_uid: db334a5e76cc98b14e66f2c6004ec744
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 56iFMY8QW2k
-  - uid: a35b3fa4df665c8abba154fb0f6e1a45
-    parent_uid: db334a5e76cc98b14e66f2c6004ec744
-    id: 56iFMY8QW2k.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-25-random-walks/56iFMY8QW2k.srt
-  - uid: 1d5106863bee19ab21a7ac49503d3403
-    parent_uid: db334a5e76cc98b14e66f2c6004ec744
-    id: 56iFMY8QW2k.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-25-random-walks/56iFMY8QW2k.pdf
-  - uid: db508a7cc975035573874d7592237d30
-    parent_uid: db334a5e76cc98b14e66f2c6004ec744
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 783cd8ae4547d7c4870a2569662facaa
-    parent_uid: db334a5e76cc98b14e66f2c6004ec744
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: db334a5e76cc98b14e66f2c6004ec744
 type: courses
 layout: video
 ---

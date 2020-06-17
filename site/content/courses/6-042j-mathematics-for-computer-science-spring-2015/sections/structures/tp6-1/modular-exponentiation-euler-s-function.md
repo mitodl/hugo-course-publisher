@@ -1,13 +1,72 @@
 ---
-title: Modular Exponentiation Euler's Function
-uid: f07df703a4bf9d823e1072e4d2a7277e
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 5ae9b62c2a71c92a8c52dc866cbd812f
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ed6b42fd2e84cf02c6f00a92c87b65f4
+  - id: Video-YouTube-Stream
+    media_location: TeRYL7kkhqs
+    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: dc73089418859ff4912e1230eff7bbbb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TeRYL7kkhqs/default.jpg'
+    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 218c83207a5726e42bc0ae872e0724d1
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: TeRYL7kkhqs
+    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fd910ce4f614cf29618328a7867e2521
+  - id: TeRYL7kkhqs.srt
+    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/modular-exponentiation-euler-s-function/TeRYL7kkhqs.srt
+    title: 3play caption file
+    type: null
+    uid: 62dea13895403bf85d1e5b41afc54797
+  - id: TeRYL7kkhqs.pdf
+    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/modular-exponentiation-euler-s-function/TeRYL7kkhqs.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8aee02b15b9374f8cae8128a21d8548d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 97d0ddb5dae13fb6b7c0ca81f5a7b0b8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 84bcea278c062b634869286667e38116
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_phi_ipod.mp4'
+    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 196d009511556d985b210eee8532998b
+inline_embed_id: 55326488modularexponentiationeulersfunction49413975
 parent_uid: 8083cb558a36eb8dad32920ceb95cfdb
+related_resources_text: ''
+short_url: modular-exponentiation-euler-s-function
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/modular-exponentiation-euler-s-function
-short_url: modular-exponentiation-euler-s-function
-inline_embed_id: 55326488modularexponentiationeulersfunction49413975
-about_this_resource_text: ''
-related_resources_text: ''
+title: Modular Exponentiation Euler's Function
 transcript: >-
   <p><span m='580'>PROFESSOR: The</span> <span m='740'>elements</span> <span
   m='1280'>that</span> <span m='1420'>have</span> <span m='1700'>inverses</span>
@@ -428,66 +487,7 @@ transcript: >-
   <span m='366470'>at</span> <span m='366690'>the</span> <span
   m='366770'>proof</span> <span m='367480'>of</span> <span
   m='367940'>Euler's</span> <span m='368410'>theorem.</span> </p>
-embedded_media:
-  - uid: 5ae9b62c2a71c92a8c52dc866cbd812f
-    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: ed6b42fd2e84cf02c6f00a92c87b65f4
-    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: dc73089418859ff4912e1230eff7bbbb
-    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TeRYL7kkhqs
-  - uid: 218c83207a5726e42bc0ae872e0724d1
-    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TeRYL7kkhqs/default.jpg'
-  - uid: fd910ce4f614cf29618328a7867e2521
-    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TeRYL7kkhqs
-  - uid: 62dea13895403bf85d1e5b41afc54797
-    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
-    id: TeRYL7kkhqs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/modular-exponentiation-euler-s-function/TeRYL7kkhqs.srt
-  - uid: 8aee02b15b9374f8cae8128a21d8548d
-    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
-    id: TeRYL7kkhqs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/modular-exponentiation-euler-s-function/TeRYL7kkhqs.pdf
-  - uid: 97d0ddb5dae13fb6b7c0ca81f5a7b0b8
-    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 84bcea278c062b634869286667e38116
-    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 196d009511556d985b210eee8532998b
-    parent_uid: f07df703a4bf9d823e1072e4d2a7277e
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_phi_ipod.mp4'
+uid: f07df703a4bf9d823e1072e4d2a7277e
 type: courses
 layout: video
 ---

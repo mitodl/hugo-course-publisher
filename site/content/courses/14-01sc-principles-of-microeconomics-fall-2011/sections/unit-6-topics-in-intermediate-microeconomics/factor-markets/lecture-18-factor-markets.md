@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 18: Factor Markets'
-uid: 3ae2c458766aab9b97e3d966ea9539dd
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: IuQjBqzmUKA
+    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0d38ea08fa80b1dadb1d0e4aa942507c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/IuQjBqzmUKA/default.jpg'
+    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 963246a05b4536d664766aa0b92518fc
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: IuQjBqzmUKA
+    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c4fbdf519572dab1a8c05756291a0e5d
+  - id: IuQjBqzmUKA.srt
+    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/factor-markets/lecture-18-factor-markets/IuQjBqzmUKA.srt
+    title: 3play caption file
+    type: null
+    uid: 9e102db7c4409f1dd9227ce056d06191
+  - id: IuQjBqzmUKA.pdf
+    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/factor-markets/lecture-18-factor-markets/IuQjBqzmUKA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3ca3ceeb019dba89af880bb5a97f2e65
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 53a71c31c32f58e33f033af523a86b07
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ef0fc18f4ce14e716e6b5a422acc9eb9
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec18_300k.mp4'
+    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ccb74322b7811e4a9bbe532ca15102d2
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-18-factor-markets/id496265654?i=110157704
+    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9fe79bf906d2dbf6c6fbd3721584e8a2
+inline_embed_id: 26067233lecture18factormarkets81196311
 parent_uid: 9af143892f78d160e3b7064bcdef0053
+related_resources_text: ''
+short_url: lecture-18-factor-markets
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/factor-markets/lecture-18-factor-markets
-short_url: lecture-18-factor-markets
-inline_embed_id: 26067233lecture18factormarkets81196311
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 18: Factor Markets'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3452,62 +3507,7 @@ transcript: >-
   it's</span> <span m='2795080'>good.</span> <span m='2795550'>But we'll</span>
   <span m='2795730'>talk</span> <span m='2795880'>about</span> <span
   m='2796070'>why.</span> </p>
-embedded_media:
-  - uid: 0d38ea08fa80b1dadb1d0e4aa942507c
-    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: IuQjBqzmUKA
-  - uid: 963246a05b4536d664766aa0b92518fc
-    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/IuQjBqzmUKA/default.jpg'
-  - uid: c4fbdf519572dab1a8c05756291a0e5d
-    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: IuQjBqzmUKA
-  - uid: 9e102db7c4409f1dd9227ce056d06191
-    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
-    id: IuQjBqzmUKA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/factor-markets/lecture-18-factor-markets/IuQjBqzmUKA.srt
-  - uid: 3ca3ceeb019dba89af880bb5a97f2e65
-    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
-    id: IuQjBqzmUKA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/factor-markets/lecture-18-factor-markets/IuQjBqzmUKA.pdf
-  - uid: 53a71c31c32f58e33f033af523a86b07
-    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ef0fc18f4ce14e716e6b5a422acc9eb9
-    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ccb74322b7811e4a9bbe532ca15102d2
-    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec18_300k.mp4'
-  - uid: 9fe79bf906d2dbf6c6fbd3721584e8a2
-    parent_uid: 3ae2c458766aab9b97e3d966ea9539dd
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-18-factor-markets/id496265654?i=110157704
+uid: 3ae2c458766aab9b97e3d966ea9539dd
 type: courses
 layout: video
 ---

@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 17: Counting Rules II'
-uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-17-counting-rules-ii
-short_url: lecture-17-counting-rules-ii
-inline_embed_id: '57059465lecture17:countingrulesii27613688'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Covers computing cardinality of sets with
   inclusion&ndash;exclusion, the bookkeeper rule, the subset rule, and poker
   hands with applications to probability and counting.</p>
   <p><strong>Speaker:</strong> Marten van Dijk</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 09yIb3VHhMI
+    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6163c7c2b42f25494ba2d2a7dabaee08
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/09yIb3VHhMI/default.jpg'
+    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3be06770c5f633a47874c633d06f74a7
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-17-counting-rules-ii/id503873536?i=110644964
+    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 81976f6aecee7657e6487138d91f72ab
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec17_300k.mp4'
+    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0971f65a191b06b11d64162f368cdd0f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 09yIb3VHhMI
+    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b03578ceb6caacf4c56b6ae8b977bf41
+  - id: 09yIb3VHhMI.srt
+    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-17-counting-rules-ii/09yIb3VHhMI.srt
+    title: 3play caption file
+    type: null
+    uid: ec815d75c9002c932d159d4726620705
+  - id: 09yIb3VHhMI.pdf
+    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-17-counting-rules-ii/09yIb3VHhMI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 545c0e4f7df07d15c4fbf6d3d0ed77dc
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 586965dd2301dca35fc1de8b2e48c77d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 079d43e42cfd38d76b7be71df1d15b54
+inline_embed_id: '57059465lecture17:countingrulesii27613688'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-17-counting-rules-ii
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-17-counting-rules-ii
+title: 'Lecture 17: Counting Rules II'
 transcript: >-
   <p><span m='390'>The</span> <span m='520'>following</span> <span
   m='950'>content</span> <span m='1550'>is</span> <span m='1660'>provided</span>
@@ -4614,62 +4669,7 @@ transcript: >-
   m='5111940'>see</span> <span m='5112600'>combinatorial</span> <span
   m='5113250'>proof.</span> <span m='5115630'>Thank</span> <span
   m='5116130'>you.</span> </p>
-embedded_media:
-  - uid: 6163c7c2b42f25494ba2d2a7dabaee08
-    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 09yIb3VHhMI
-  - uid: 3be06770c5f633a47874c633d06f74a7
-    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/09yIb3VHhMI/default.jpg'
-  - uid: 81976f6aecee7657e6487138d91f72ab
-    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-17-counting-rules-ii/id503873536?i=110644964
-  - uid: 0971f65a191b06b11d64162f368cdd0f
-    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec17_300k.mp4'
-  - uid: b03578ceb6caacf4c56b6ae8b977bf41
-    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 09yIb3VHhMI
-  - uid: ec815d75c9002c932d159d4726620705
-    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
-    id: 09yIb3VHhMI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-17-counting-rules-ii/09yIb3VHhMI.srt
-  - uid: 545c0e4f7df07d15c4fbf6d3d0ed77dc
-    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
-    id: 09yIb3VHhMI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-17-counting-rules-ii/09yIb3VHhMI.pdf
-  - uid: 586965dd2301dca35fc1de8b2e48c77d
-    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 079d43e42cfd38d76b7be71df1d15b54
-    parent_uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
 type: courses
 layout: video
 ---

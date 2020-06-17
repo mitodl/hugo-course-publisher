@@ -1,13 +1,68 @@
 ---
-title: Average x-Coordinate in a Region
-uid: f9ed3aacf6aa84bed514c0264d85d760
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-MP4
+    media_location: _UBh66KVAJI
+    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
+    title: Video-YouTube-MP4
+    type: Video
+    uid: 8e556e643819adf11fec58a95fbb6c30
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_UBh66KVAJI/default.jpg'
+    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 92a352b1260f84762d77a002c6b2d267
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: _UBh66KVAJI
+    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ae87967556cbbda0c3d7d0bb3baa2eff
+  - id: UBh66KVAJI.srt
+    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/average-x-coordinate-in-a-region/UBh66KVAJI.srt
+    title: 3play caption file
+    type: null
+    uid: 08cddbbad61913fe4e3faffa5b403b10
+  - id: UBh66KVAJI.pdf
+    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/average-x-coordinate-in-a-region/UBh66KVAJI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 32a144504b070fefab9deadad03d6472
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6401c0392bfbcc520b035af9cea54549
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c8ca4744c02e0a12d37a92110122fb03
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_47_300k.mp4'
+    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4ce0ba54e45b99c4a87de2509a722474
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/average-x-coordinate-in-region/id414308064?i=90319626
+    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0c80aff61cad07fce96dd5881b7f0546
+inline_embed_id: 20663279averagex-coordinateinaregion18803326
 parent_uid: 1fa09ca81711139c23be618aa2768257
+related_resources_text: ''
+short_url: average-x-coordinate-in-a-region
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/average-x-coordinate-in-a-region
-short_url: average-x-coordinate-in-a-region
-inline_embed_id: 20663279averagex-coordinateinaregion18803326
-about_this_resource_text: ''
-related_resources_text: ''
+title: Average x-Coordinate in a Region
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='6920'>Hi.</span> <span
   m='7310'>Welcome</span> <span m='7670'>back</span> <span m='7880'>to</span>
@@ -651,62 +706,7 @@ transcript: >-
   <span m='636500'>the</span> <span m='636620'>total</span> <span
   m='636890'>area.</span> <span m='637820'>So I'll</span> <span
   m='638050'>end</span> <span m='638300'>there.</span> </p>
-embedded_media:
-  - uid: 8e556e643819adf11fec58a95fbb6c30
-    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
-    id: Video-YouTube-MP4
-    title: Video-YouTube-MP4
-    type: Video
-    media_location: _UBh66KVAJI
-  - uid: 92a352b1260f84762d77a002c6b2d267
-    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_UBh66KVAJI/default.jpg'
-  - uid: ae87967556cbbda0c3d7d0bb3baa2eff
-    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _UBh66KVAJI
-  - uid: 08cddbbad61913fe4e3faffa5b403b10
-    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
-    id: UBh66KVAJI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/average-x-coordinate-in-a-region/UBh66KVAJI.srt
-  - uid: 32a144504b070fefab9deadad03d6472
-    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
-    id: UBh66KVAJI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/average-x-coordinate-in-a-region/UBh66KVAJI.pdf
-  - uid: 6401c0392bfbcc520b035af9cea54549
-    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c8ca4744c02e0a12d37a92110122fb03
-    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4ce0ba54e45b99c4a87de2509a722474
-    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_47_300k.mp4'
-  - uid: 0c80aff61cad07fce96dd5881b7f0546
-    parent_uid: f9ed3aacf6aa84bed514c0264d85d760
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/average-x-coordinate-in-region/id414308064?i=90319626
+uid: f9ed3aacf6aa84bed514c0264d85d760
 type: courses
 layout: video
 ---

@@ -1,22 +1,77 @@
 ---
-title: 'Lecture 22: Probabilistic Inference II'
-uid: 307ce222e2cf5554fd41c4ff21964cea
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-22-probabilistic-inference-ii
-short_url: lecture-22-probabilistic-inference-ii
-inline_embed_id: '56460713lecture22:probabilisticinferenceii83241882'
 about_this_resource_text: >-
   <p><strong>Description:</strong> We begin with a review of inference nets,
   then discuss how to use experimental data to develop a model, which can be
   used to perform simulations. If we have two competing models, we can use
   Bayes' rule to determine which is more likely to be accurate.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: EC6bf8JCpDQ
+    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 819cfb3719701b4a7cf3ea4072e17dd6
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-22-probabilistic-inference/id765641080?i=194480724
+    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8cff65f79b82813c7a69fbd9bfdb1729
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec22_300k.mp4'
+    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 064d93cc196714ec3cedddba225cf75c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/EC6bf8JCpDQ/default.jpg'
+    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 268705b176e8a92efd3959b5ebe52b29
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: EC6bf8JCpDQ
+    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 18ba4173d9564dd391ec9e347fa4ab06
+  - id: EC6bf8JCpDQ.srt
+    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-22-probabilistic-inference-ii/EC6bf8JCpDQ.srt
+    title: 3play caption file
+    type: null
+    uid: 0b25c3f4bbf49c5e02a437209c51d93a
+  - id: EC6bf8JCpDQ.pdf
+    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-22-probabilistic-inference-ii/EC6bf8JCpDQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 07185cb70f029720049b46505a90f396
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 01b41550361145984b2b747f1236819e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 52a1d198d93cac8d041c73c3e1aee64d
+inline_embed_id: '56460713lecture22:probabilisticinferenceii83241882'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: >-
   <p>Specifically developed for this lecture are the <a
   href="./resolveuid/3e6200ca84af05d95712045abedce9e9"
   target="_blank">probabilistic inference notes (PDF)</a>, which are also listed
   among the readings for this course.</p>
+short_url: lecture-22-probabilistic-inference-ii
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-22-probabilistic-inference-ii
+title: 'Lecture 22: Probabilistic Inference II'
 transcript: >-
   <p><span m='9890'>PROFESSOR PATRICK WINSTON: I was in Washington for most
   of</span> <span m='11320'>the week prospecting for gold.</span> </p><p><span
@@ -881,62 +936,7 @@ transcript: >-
   next, that sort of thing to finish off</span> <span m='2908870'>the
   subject.</span> </p><p><span m='2909420'>And that's the end of the story for
   today.</span> </p><p></p>
-embedded_media:
-  - uid: 819cfb3719701b4a7cf3ea4072e17dd6
-    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: EC6bf8JCpDQ
-  - uid: 8cff65f79b82813c7a69fbd9bfdb1729
-    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-22-probabilistic-inference/id765641080?i=194480724
-  - uid: 064d93cc196714ec3cedddba225cf75c
-    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec22_300k.mp4'
-  - uid: 268705b176e8a92efd3959b5ebe52b29
-    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/EC6bf8JCpDQ/default.jpg'
-  - uid: 18ba4173d9564dd391ec9e347fa4ab06
-    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: EC6bf8JCpDQ
-  - uid: 0b25c3f4bbf49c5e02a437209c51d93a
-    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
-    id: EC6bf8JCpDQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-22-probabilistic-inference-ii/EC6bf8JCpDQ.srt
-  - uid: 07185cb70f029720049b46505a90f396
-    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
-    id: EC6bf8JCpDQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-22-probabilistic-inference-ii/EC6bf8JCpDQ.pdf
-  - uid: 01b41550361145984b2b747f1236819e
-    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 52a1d198d93cac8d041c73c3e1aee64d
-    parent_uid: 307ce222e2cf5554fd41c4ff21964cea
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 307ce222e2cf5554fd41c4ff21964cea
 type: courses
 layout: video
 ---

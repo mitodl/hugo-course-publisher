@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 23: Expectation II'
-uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-23-expectation-ii
-short_url: lecture-23-expectation-ii
-inline_embed_id: '37177022lecture23:expectationii59556567'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Continues exploring expectation with a
   discussion of likelihood in cases of card games, bit transmission errors, and
   algorithms, and concludes with definitions of variance and standard deviation
   for random variables.</p> <p><strong>Speaker:</strong> Tom Leighton</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: oI9fMUqgfxY
+    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 00cc25ea9d045ee384206da5483679a8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/oI9fMUqgfxY/default.jpg'
+    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 46e816daac7c1e62a5e127410640dca3
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-23-expectation-ii/id503873536?i=110644971
+    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: adf6e3b665c8cad1bdf8f9a4eea7bbaf
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec23_300k.mp4'
+    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8b7f04e5735d047ffbb7d214b18d400e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: oI9fMUqgfxY
+    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6c3faef93f8c6b0e0001a4289ad64146
+  - id: oI9fMUqgfxY.srt
+    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-23-expectation-ii/oI9fMUqgfxY.srt
+    title: 3play caption file
+    type: null
+    uid: d6af25e59476fede9a1a2dda059b5a26
+  - id: oI9fMUqgfxY.pdf
+    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-23-expectation-ii/oI9fMUqgfxY.pdf
+    title: 3play pdf file
+    type: null
+    uid: dc4f198af215cde514be1c46c806d063
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c9f2099beba6be5202a5b05babb6b449
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0cba4e7a01329ab9a414f3e238c531c5
+inline_embed_id: '37177022lecture23:expectationii59556567'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-23-expectation-ii
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-23-expectation-ii
+title: 'Lecture 23: Expectation II'
 transcript: >-
   <p><span m='380'>The</span> <span m='510'>following</span> <span
   m='950'>content</span> <span m='1540'>is</span> <span m='1660'>provided</span>
@@ -4614,62 +4669,7 @@ transcript: >-
   m='5017490'>do</span> <span m='5017610'>more of</span> <span
   m='5017930'>this</span> <span m='5018290'>tomorrow</span> <span
   m='5018550'>on</span> <span m='5018660'>recitation.</span> </p><p></p>
-embedded_media:
-  - uid: 00cc25ea9d045ee384206da5483679a8
-    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: oI9fMUqgfxY
-  - uid: 46e816daac7c1e62a5e127410640dca3
-    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/oI9fMUqgfxY/default.jpg'
-  - uid: adf6e3b665c8cad1bdf8f9a4eea7bbaf
-    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-23-expectation-ii/id503873536?i=110644971
-  - uid: 8b7f04e5735d047ffbb7d214b18d400e
-    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec23_300k.mp4'
-  - uid: 6c3faef93f8c6b0e0001a4289ad64146
-    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: oI9fMUqgfxY
-  - uid: d6af25e59476fede9a1a2dda059b5a26
-    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
-    id: oI9fMUqgfxY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-23-expectation-ii/oI9fMUqgfxY.srt
-  - uid: dc4f198af215cde514be1c46c806d063
-    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
-    id: oI9fMUqgfxY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-23-expectation-ii/oI9fMUqgfxY.pdf
-  - uid: c9f2099beba6be5202a5b05babb6b449
-    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0cba4e7a01329ab9a414f3e238c531c5
-    parent_uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
 type: courses
 layout: video
 ---

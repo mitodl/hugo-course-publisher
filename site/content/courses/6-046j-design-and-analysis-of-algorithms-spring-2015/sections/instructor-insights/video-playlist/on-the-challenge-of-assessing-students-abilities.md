@@ -1,15 +1,69 @@
 ---
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-MP4
+    media_location: xnEZqVz7iy4
+    parent_uid: 9842f0824f0740ce72ec128200613f32
+    title: Video-YouTube-MP4
+    type: Video
+    uid: f77740ddabf218cf397ffe61ebbe8fa5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/xnEZqVz7iy4/default.jpg'
+    parent_uid: 9842f0824f0740ce72ec128200613f32
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1c053f913554d2b11e72ecf57b730173
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: xnEZqVz7iy4
+    parent_uid: 9842f0824f0740ce72ec128200613f32
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 75a98baf688efeb1e0a2ab1c64739b8d
+  - id: xnEZqVz7iy4.srt
+    parent_uid: 9842f0824f0740ce72ec128200613f32
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/on-the-challenge-of-assessing-students-abilities/xnEZqVz7iy4.srt
+    title: 3play caption file
+    type: null
+    uid: cc21d88e5b8718c58946f412220d0790
+  - id: xnEZqVz7iy4.pdf
+    parent_uid: 9842f0824f0740ce72ec128200613f32
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/on-the-challenge-of-assessing-students-abilities/xnEZqVz7iy4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 55d402a39ca1049f92af4682613ac351
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9842f0824f0740ce72ec128200613f32
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: af733d74f5a182657b3e90054324811e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9842f0824f0740ce72ec128200613f32
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 14fea1449e9206d265e3ec6369e410d6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 9842f0824f0740ce72ec128200613f32
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 59e890fca28ae708751b484b2c8e80b7
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_assessment_300k.mp4'
+    parent_uid: 9842f0824f0740ce72ec128200613f32
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6a49346e6a5706c7bbf151ece4355a4f
+inline_embed_id: 33120855onthechallengeofassessingstudents'abilities84624750
+parent_uid: 92d158be1dbd82a1c08d824bff9d0d79
+related_resources_text: ''
+short_url: on-the-challenge-of-assessing-students-abilities
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/on-the-challenge-of-assessing-students-abilities
 title: >-
   On the Challenge of Assessing Students' Abilities to Apply Algorithms in New
   and Creative Ways
-uid: 9842f0824f0740ce72ec128200613f32
-parent_uid: 92d158be1dbd82a1c08d824bff9d0d79
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/on-the-challenge-of-assessing-students-abilities
-short_url: on-the-challenge-of-assessing-students-abilities
-inline_embed_id: 33120855onthechallengeofassessingstudents'abilities84624750
-about_this_resource_text: ''
-related_resources_text: ''
 transcript: >-
   <p><span m="4920">ERIK DEMAINE: Algorithms</span> <span m="5520">is</span>
   <span m="5670">an</span> <span m="5790">interesting</span> <span
@@ -196,61 +250,7 @@ transcript: >-
   m="153460">the</span> <span m="153590">techniques</span> <span
   m="154070">in</span> <span m="154430">new and</span> <span
   m="154710">creative</span> <span m="155050">ways.</span></p>
-embedded_media:
-  - uid: f77740ddabf218cf397ffe61ebbe8fa5
-    parent_uid: 9842f0824f0740ce72ec128200613f32
-    id: Video-YouTube-MP4
-    title: Video-YouTube-MP4
-    type: Video
-    media_location: xnEZqVz7iy4
-  - uid: 1c053f913554d2b11e72ecf57b730173
-    parent_uid: 9842f0824f0740ce72ec128200613f32
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/xnEZqVz7iy4/default.jpg'
-  - uid: 75a98baf688efeb1e0a2ab1c64739b8d
-    parent_uid: 9842f0824f0740ce72ec128200613f32
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: xnEZqVz7iy4
-  - uid: cc21d88e5b8718c58946f412220d0790
-    parent_uid: 9842f0824f0740ce72ec128200613f32
-    id: xnEZqVz7iy4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/on-the-challenge-of-assessing-students-abilities/xnEZqVz7iy4.srt
-  - uid: 55d402a39ca1049f92af4682613ac351
-    parent_uid: 9842f0824f0740ce72ec128200613f32
-    id: xnEZqVz7iy4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/on-the-challenge-of-assessing-students-abilities/xnEZqVz7iy4.pdf
-  - uid: af733d74f5a182657b3e90054324811e
-    parent_uid: 9842f0824f0740ce72ec128200613f32
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 14fea1449e9206d265e3ec6369e410d6
-    parent_uid: 9842f0824f0740ce72ec128200613f32
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 59e890fca28ae708751b484b2c8e80b7
-    parent_uid: 9842f0824f0740ce72ec128200613f32
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 6a49346e6a5706c7bbf151ece4355a4f
-    parent_uid: 9842f0824f0740ce72ec128200613f32
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_assessment_300k.mp4'
+uid: 9842f0824f0740ce72ec128200613f32
 type: courses
 layout: video
 ---

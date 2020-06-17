@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 25: Symmetric matrices and positive definiteness'
-uid: c1a00d74b214d09a59cef50cd2cec554
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-25-symmetric-matrices-and-positive-definiteness
-short_url: lecture-25-symmetric-matrices-and-positive-definiteness
-inline_embed_id: '54692929lecture25:symmetricmatricesandpositivedefiniteness65884547'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L25.jpg
+    parent_uid: c1a00d74b214d09a59cef50cd2cec554
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-25-symmetric-matrices-and-positive-definiteness/18.06_L25.jpg
+    title: 18.06_L25.jpg
+    type: null
+    uid: 3b9c52240a328ca1453d75c3b310635e
+  - id: Video-YouTube-Stream
+    media_location: UCc9q_cAhho
+    parent_uid: c1a00d74b214d09a59cef50cd2cec554
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6a505978122cd7f82ab36e5ae87fd809
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: c1a00d74b214d09a59cef50cd2cec554
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: da66676101c469df575c526fb7a92a5f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/25.mp4'
+    parent_uid: c1a00d74b214d09a59cef50cd2cec554
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 15f3ae3c798b64114f78449096c585cc
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: c1a00d74b214d09a59cef50cd2cec554
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: ba2fd941c11af55658c5ecf772316d95
+  - id: Thumbnail-OCW-JPG
+    parent_uid: c1a00d74b214d09a59cef50cd2cec554
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 6bc88f10ac682127812c1375f1066584
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: UCc9q_cAhho
+    parent_uid: c1a00d74b214d09a59cef50cd2cec554
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 51db431c6f7f119b0eaae9a9155a869d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/UCc9q_cAhho/default.jpg'
+    parent_uid: c1a00d74b214d09a59cef50cd2cec554
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6d9bb16aeaa82213abf85dca26f1be10
+  - id: UCc9q_cAhho.srt
+    parent_uid: c1a00d74b214d09a59cef50cd2cec554
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-25-symmetric-matrices-and-positive-definiteness/UCc9q_cAhho.srt
+    title: 3play caption file
+    type: null
+    uid: 54bf889c2916dc00e06065c90a50c621
+  - id: UCc9q_cAhho.pdf
+    parent_uid: c1a00d74b214d09a59cef50cd2cec554
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-25-symmetric-matrices-and-positive-definiteness/UCc9q_cAhho.pdf
+    title: 3play pdf file
+    type: null
+    uid: e92d794482d7b331dfa7f9324f2f5150
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c1a00d74b214d09a59cef50cd2cec554
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6d5a47e5faf6b16e88bc99af197cb1f2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c1a00d74b214d09a59cef50cd2cec554
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ee50d4d78d7761b0179ebb5dc363d57b
+inline_embed_id: '54692929lecture25:symmetricmatricesandpositivedefiniteness65884547'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-25-symmetric-matrices-and-positive-definiteness
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-25-symmetric-matrices-and-positive-definiteness
+title: 'Lecture 25: Symmetric matrices and positive definiteness'
 transcript: >-
   <p><span m='0'>--</span> <span m='9010'>one</span> <span m='9460'>and</span>
   <span m='10270'>--</span> <span m='11200'>the</span> <span
@@ -2485,79 +2557,7 @@ transcript: >-
   m='2618000'>and</span> <span m='2618720'>don't</span> <span
   m='2618970'>forget</span> <span m='2619330'>symmetric</span> <span
   m='2619830'>matrixes.</span> </p><p><span m='2620710'>Thanks.</span> </p>
-embedded_media:
-  - uid: 3b9c52240a328ca1453d75c3b310635e
-    parent_uid: c1a00d74b214d09a59cef50cd2cec554
-    id: 18.06_L25.jpg
-    title: 18.06_L25.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-25-symmetric-matrices-and-positive-definiteness/18.06_L25.jpg
-  - uid: 6a505978122cd7f82ab36e5ae87fd809
-    parent_uid: c1a00d74b214d09a59cef50cd2cec554
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: UCc9q_cAhho
-  - uid: da66676101c469df575c526fb7a92a5f
-    parent_uid: c1a00d74b214d09a59cef50cd2cec554
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 15f3ae3c798b64114f78449096c585cc
-    parent_uid: c1a00d74b214d09a59cef50cd2cec554
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/25.mp4'
-  - uid: ba2fd941c11af55658c5ecf772316d95
-    parent_uid: c1a00d74b214d09a59cef50cd2cec554
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 6bc88f10ac682127812c1375f1066584
-    parent_uid: c1a00d74b214d09a59cef50cd2cec554
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 51db431c6f7f119b0eaae9a9155a869d
-    parent_uid: c1a00d74b214d09a59cef50cd2cec554
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: UCc9q_cAhho
-  - uid: 6d9bb16aeaa82213abf85dca26f1be10
-    parent_uid: c1a00d74b214d09a59cef50cd2cec554
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/UCc9q_cAhho/default.jpg'
-  - uid: 54bf889c2916dc00e06065c90a50c621
-    parent_uid: c1a00d74b214d09a59cef50cd2cec554
-    id: UCc9q_cAhho.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-25-symmetric-matrices-and-positive-definiteness/UCc9q_cAhho.srt
-  - uid: e92d794482d7b331dfa7f9324f2f5150
-    parent_uid: c1a00d74b214d09a59cef50cd2cec554
-    id: UCc9q_cAhho.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-25-symmetric-matrices-and-positive-definiteness/UCc9q_cAhho.pdf
-  - uid: 6d5a47e5faf6b16e88bc99af197cb1f2
-    parent_uid: c1a00d74b214d09a59cef50cd2cec554
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ee50d4d78d7761b0179ebb5dc363d57b
-    parent_uid: c1a00d74b214d09a59cef50cd2cec554
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c1a00d74b214d09a59cef50cd2cec554
 type: courses
 layout: video
 ---

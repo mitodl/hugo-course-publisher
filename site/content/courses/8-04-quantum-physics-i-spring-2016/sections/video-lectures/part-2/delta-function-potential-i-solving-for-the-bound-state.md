@@ -1,13 +1,73 @@
 ---
-title: 'Delta function potential I: Solving for the bound state'
-uid: b23d3b896a9f4d52348e875f3dbe22ac
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 1dW_izzvfOk
+    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b7164d65acd48aa7ea88390462470f20
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/vI17i3oZutY/default.jpg'
+    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9acfd90e7c940a2726897c51e205e07e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 1dW_izzvfOk
+    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e56db2e0f67c6b1fbd1f55679e1d4908
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 070deabc3fd459c6f6d00b1348e866c7
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec13_s2_300k.mp4'
+    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 176f5fc14b00d5abb6696122e2ebc799
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/1dW_izzvfOk/default.jpg'
+    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e2623d54ccceaec573e5dc8cd63af9d4
+  - id: 1dW_izzvfOk.srt
+    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/delta-function-potential-i-solving-for-the-bound-state/1dW_izzvfOk.srt
+    title: 3play caption file
+    type: null
+    uid: 2a1b8aaba48da6f9c9a3629f4b216d05
+  - id: 1dW_izzvfOk.pdf
+    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/delta-function-potential-i-solving-for-the-bound-state/1dW_izzvfOk.pdf
+    title: 3play pdf file
+    type: null
+    uid: d31eba51afde06c8fc29f7a8785e6fe5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 79cbfdf046e0b9b1292cfa584cf0090c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b6d46813f8f5f47b1673a77795282089
+inline_embed_id: 25626914deltafunctionpotentialisolvingfortheboundstate57701217
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: delta-function-potential-i-solving-for-the-bound-state
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/delta-function-potential-i-solving-for-the-bound-state
-short_url: delta-function-potential-i-solving-for-the-bound-state
-inline_embed_id: 25626914deltafunctionpotentialisolvingfortheboundstate57701217
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Delta function potential I: Solving for the bound state'
 transcript: >-
   <p><span m='270'>PROFESSOR:</span> <span m='360'>So,</span> <span
   m='450'>what</span> <span m='750'>is</span> <span m='900'>the</span> <span
@@ -755,67 +815,7 @@ transcript: >-
   <span m='918590'>investigate</span> <span m='919280'>the</span> <span
   m='919430'>two</span> <span m='919630'>delta</span> <span
   m='920030'>function</span> <span m='920330'>cases.</span> </p>
-embedded_media:
-  - uid: b7164d65acd48aa7ea88390462470f20
-    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 1dW_izzvfOk
-  - uid: 9acfd90e7c940a2726897c51e205e07e
-    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/vI17i3oZutY/default.jpg'
-  - uid: e56db2e0f67c6b1fbd1f55679e1d4908
-    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 1dW_izzvfOk
-  - uid: 070deabc3fd459c6f6d00b1348e866c7
-    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 176f5fc14b00d5abb6696122e2ebc799
-    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec13_s2_300k.mp4'
-  - uid: e2623d54ccceaec573e5dc8cd63af9d4
-    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/1dW_izzvfOk/default.jpg'
-  - uid: 2a1b8aaba48da6f9c9a3629f4b216d05
-    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
-    id: 1dW_izzvfOk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/delta-function-potential-i-solving-for-the-bound-state/1dW_izzvfOk.srt
-  - uid: d31eba51afde06c8fc29f7a8785e6fe5
-    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
-    id: 1dW_izzvfOk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/delta-function-potential-i-solving-for-the-bound-state/1dW_izzvfOk.pdf
-  - uid: 79cbfdf046e0b9b1292cfa584cf0090c
-    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b6d46813f8f5f47b1673a77795282089
-    parent_uid: b23d3b896a9f4d52348e875f3dbe22ac
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b23d3b896a9f4d52348e875f3dbe22ac
 type: courses
 layout: video
 ---

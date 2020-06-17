@@ -1,13 +1,73 @@
 ---
-title: Expectation value of Hermitian operators
-uid: b1dd9100a68e6be3948839f31e8f4ff6
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: qP6y2edM6Ms
+    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b51f2fc1334ffc57b09a7b6ce381d42b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/3F3kx8oi74U/default.jpg'
+    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c63dffac8a48dbe9aaf8ee8bd28e52ff
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: qP6y2edM6Ms
+    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e2a69cccb680afea81dcc2c22ff94aca
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f76d0e178082d9d65401fcd3707865a0
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec09_s1_300k.mp4'
+    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: fede19c388dcd1aa9ea3f78a77b43602
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/qP6y2edM6Ms/default.jpg'
+    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 741d46291a6aedafbd9fdadafaca9e77
+  - id: qP6y2edM6Ms.srt
+    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/expectation-value-of-hermitian-operators/qP6y2edM6Ms.srt
+    title: 3play caption file
+    type: null
+    uid: 1b0af5bfa39f3c12eae584e3ecce2636
+  - id: qP6y2edM6Ms.pdf
+    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/expectation-value-of-hermitian-operators/qP6y2edM6Ms.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7bc6f94c1c8274a4051f3a15df267376
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 30229d2ae4364c29d62eb2fd7669909d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2f790fe0fa1068dd46d6404a3b48de97
+inline_embed_id: 74978146expectationvalueofhermitianoperators78636349
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: expectation-value-of-hermitian-operators
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/expectation-value-of-hermitian-operators
-short_url: expectation-value-of-hermitian-operators
-inline_embed_id: 74978146expectationvalueofhermitianoperators78636349
-about_this_resource_text: ''
-related_resources_text: ''
+title: Expectation value of Hermitian operators
 transcript: >-
   <p><span m='340'>PROFESSOR:</span> <span m='515'>Today</span> <span
   m='690'>we'll</span> <span m='870'>talk</span> <span m='1170'>about</span>
@@ -668,67 +728,7 @@ transcript: >-
   m='996520'>precisely</span> <span m='997210'>equal</span> <span
   m='997810'>to</span> <span m='998110'>the</span> <span
   m='998410'>eigenvalue.</span> </p>
-embedded_media:
-  - uid: b51f2fc1334ffc57b09a7b6ce381d42b
-    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: qP6y2edM6Ms
-  - uid: c63dffac8a48dbe9aaf8ee8bd28e52ff
-    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/3F3kx8oi74U/default.jpg'
-  - uid: e2a69cccb680afea81dcc2c22ff94aca
-    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: qP6y2edM6Ms
-  - uid: f76d0e178082d9d65401fcd3707865a0
-    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: fede19c388dcd1aa9ea3f78a77b43602
-    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec09_s1_300k.mp4'
-  - uid: 741d46291a6aedafbd9fdadafaca9e77
-    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/qP6y2edM6Ms/default.jpg'
-  - uid: 1b0af5bfa39f3c12eae584e3ecce2636
-    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
-    id: qP6y2edM6Ms.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/expectation-value-of-hermitian-operators/qP6y2edM6Ms.srt
-  - uid: 7bc6f94c1c8274a4051f3a15df267376
-    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
-    id: qP6y2edM6Ms.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/expectation-value-of-hermitian-operators/qP6y2edM6Ms.pdf
-  - uid: 30229d2ae4364c29d62eb2fd7669909d
-    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2f790fe0fa1068dd46d6404a3b48de97
-    parent_uid: b1dd9100a68e6be3948839f31e8f4ff6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b1dd9100a68e6be3948839f31e8f4ff6
 type: courses
 layout: video
 ---

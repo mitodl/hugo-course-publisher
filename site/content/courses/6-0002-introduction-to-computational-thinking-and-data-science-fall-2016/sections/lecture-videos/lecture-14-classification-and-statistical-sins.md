@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 14: Classification and Statistical Sins'
-uid: 535b4338fc2ec0e61d42abc109f94b42
-parent_uid: dfe2b9f5ab127795415ac86facf4a535
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-14-classification-and-statistical-sins
-short_url: lecture-14-classification-and-statistical-sins
-inline_embed_id: 83571784lecture14classificationandstatisticalsins22431195
 about_this_resource_text: >-
   <p><strong>Description:</strong> Prof. Guttag finishes discussing
   classification and introduces common statistical fallacies and
   pitfalls.</p><p><strong>Instructor:</strong> John Guttag</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: K2SC-WPdT6k
+    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b54c6553f28249dfde59fd1b72978c0d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/K2SC-WPdT6k/default.jpg'
+    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: da66f9df358c64ecf9a1dd446b6b9ed7
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: K2SC-WPdT6k
+    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4ecf623287ed3c7c0e22ef0d18f3e343
+  - id: K2SC-WPdT6k.srt
+    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-14-classification-and-statistical-sins/K2SC-WPdT6k.srt
+    title: 3play caption file
+    type: null
+    uid: 4f8eb3da10a2faad7d0d11ee63f0b641
+  - id: K2SC-WPdT6k.pdf
+    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-14-classification-and-statistical-sins/K2SC-WPdT6k.pdf
+    title: 3play pdf file
+    type: null
+    uid: d131f5cfbd1c1234acef86bbbb1b9656
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4b96a92257f374f798cf2e217c6dae34
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d096455a0dce9956bb40521f503330fc
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
+    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7d4bf76c5f693b7403a6430daf2d4625
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec14_300k.mp4'
+    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 447dfb86c2383f887cf2609146df025e
+inline_embed_id: 83571784lecture14classificationandstatisticalsins22431195
+parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
+short_url: lecture-14-classification-and-statistical-sins
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-14-classification-and-statistical-sins
+title: 'Lecture 14: Classification and Statistical Sins'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1330">content</span> <span m="1810">is</span> <span
@@ -2870,61 +2924,7 @@ transcript: >-
   m="2953010">good</span> <span m="2953190">final.</span> <span
   m="2954450">See</span> <span m="2954570">you</span> <span
   m="2954720">Wednesday.</span></p>
-embedded_media:
-  - uid: b54c6553f28249dfde59fd1b72978c0d
-    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: K2SC-WPdT6k
-  - uid: da66f9df358c64ecf9a1dd446b6b9ed7
-    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/K2SC-WPdT6k/default.jpg'
-  - uid: 4ecf623287ed3c7c0e22ef0d18f3e343
-    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: K2SC-WPdT6k
-  - uid: 4f8eb3da10a2faad7d0d11ee63f0b641
-    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
-    id: K2SC-WPdT6k.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-14-classification-and-statistical-sins/K2SC-WPdT6k.srt
-  - uid: d131f5cfbd1c1234acef86bbbb1b9656
-    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
-    id: K2SC-WPdT6k.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-14-classification-and-statistical-sins/K2SC-WPdT6k.pdf
-  - uid: 4b96a92257f374f798cf2e217c6dae34
-    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d096455a0dce9956bb40521f503330fc
-    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7d4bf76c5f693b7403a6430daf2d4625
-    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
-  - uid: 447dfb86c2383f887cf2609146df025e
-    parent_uid: 535b4338fc2ec0e61d42abc109f94b42
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec14_300k.mp4'
+uid: 535b4338fc2ec0e61d42abc109f94b42
 type: courses
 layout: video
 ---

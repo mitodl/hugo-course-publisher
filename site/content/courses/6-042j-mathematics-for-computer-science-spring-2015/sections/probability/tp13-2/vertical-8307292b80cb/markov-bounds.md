@@ -1,13 +1,73 @@
 ---
-title: 'Markov Bounds: Video'
-uid: 3e6ab375d48f3e8ce99076036dc50b7e
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 5ed794c9c84aac80940376e3ffa386e0
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1421730ac810dcd3d698dd38a5f66507
+  - id: Video-YouTube-Stream
+    media_location: m07lrb7m0D0
+    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 813e80d86fd17edb4782b0477367debf
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/m07lrb7m0D0/default.jpg'
+    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7ea159c1613c16f7e85a0048b618fff6
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: m07lrb7m0D0
+    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b1568d046128ce2b41922a2b550928fc
+  - id: m07lrb7m0D0.srt
+    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-8307292b80cb/markov-bounds/m07lrb7m0D0.srt
+    title: 3play caption file
+    type: null
+    uid: 1514036c3722c2c6abfc0311f0d30421
+  - id: m07lrb7m0D0.pdf
+    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-8307292b80cb/markov-bounds/m07lrb7m0D0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 21185c10c5aecf3e495de123daa67127
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b4027dcc8ace630e225589fd87b2ef26
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ee155fb9f2440c811852c040becfee26
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_deviationmarkov_video_ipod.mp4
+    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: efa3f13a7a3b1d3c6a8acaed585238ab
+inline_embed_id: 89196972markovboundsvideo91210697
 parent_uid: f72196b0fb5125ce246847fc86beda90
+related_resources_text: ''
+short_url: markov-bounds
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-8307292b80cb/markov-bounds
-short_url: markov-bounds
-inline_embed_id: 89196972markovboundsvideo91210697
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Markov Bounds: Video'
 transcript: >-
   <p><span m='325'>PROFESSOR:</span> <span m='650'>The</span> <span
   m='720'>simplest</span> <span m='1230'>bound</span> <span m='1680'>that</span>
@@ -633,67 +693,7 @@ transcript: >-
   <span m='523100'>apply</span> <span m='523600'>Markov's</span> <span
   m='524070'>bound</span> <span m='524600'>to</span> <span m='524770'>it.</span>
   </p>
-embedded_media:
-  - uid: 5ed794c9c84aac80940376e3ffa386e0
-    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 1421730ac810dcd3d698dd38a5f66507
-    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 813e80d86fd17edb4782b0477367debf
-    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: m07lrb7m0D0
-  - uid: 7ea159c1613c16f7e85a0048b618fff6
-    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/m07lrb7m0D0/default.jpg'
-  - uid: b1568d046128ce2b41922a2b550928fc
-    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: m07lrb7m0D0
-  - uid: 1514036c3722c2c6abfc0311f0d30421
-    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
-    id: m07lrb7m0D0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-8307292b80cb/markov-bounds/m07lrb7m0D0.srt
-  - uid: 21185c10c5aecf3e495de123daa67127
-    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
-    id: m07lrb7m0D0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-8307292b80cb/markov-bounds/m07lrb7m0D0.pdf
-  - uid: b4027dcc8ace630e225589fd87b2ef26
-    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ee155fb9f2440c811852c040becfee26
-    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: efa3f13a7a3b1d3c6a8acaed585238ab
-    parent_uid: 3e6ab375d48f3e8ce99076036dc50b7e
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_deviationmarkov_video_ipod.mp4
+uid: 3e6ab375d48f3e8ce99076036dc50b7e
 type: courses
 layout: video
 ---

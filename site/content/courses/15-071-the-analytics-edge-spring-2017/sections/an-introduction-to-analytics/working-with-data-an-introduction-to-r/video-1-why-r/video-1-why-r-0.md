@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: Why R?'
-uid: 5bdfa3294d68f5b05fe2356a47334e4d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: d2CfWJkklvo
+    parent_uid: 5bdfa3294d68f5b05fe2356a47334e4d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1b08bfd2855430e0698a2c6781b16fee
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: d2CfWJkklvo
+    parent_uid: 5bdfa3294d68f5b05fe2356a47334e4d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4ad057f1b908dd744c5d83f8d8bb529b
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/d2CfWJkklvo/default.jpg'
+    parent_uid: 5bdfa3294d68f5b05fe2356a47334e4d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 572a88596d0cc0f6ef9a47f437c4cdc9
+  - id: d2CfWJkklvo.srt
+    parent_uid: 5bdfa3294d68f5b05fe2356a47334e4d
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-1-why-r/video-1-why-r-0/d2CfWJkklvo.srt
+    title: 3play caption file
+    type: null
+    uid: 1373c6d033287840a17aaf5f13d0bd50
+  - id: d2CfWJkklvo.pdf
+    parent_uid: 5bdfa3294d68f5b05fe2356a47334e4d
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-1-why-r/video-1-why-r-0/d2CfWJkklvo.pdf
+    title: 3play pdf file
+    type: null
+    uid: ad6ec2748895889e1c7158975cb78a09
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5bdfa3294d68f5b05fe2356a47334e4d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 038c6d51f08813a9d7bfe8853f378b01
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5bdfa3294d68f5b05fe2356a47334e4d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f2a94bd21777ddbace4a6eab00db3bf5
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.3.02_300k.mp4
+    parent_uid: 5bdfa3294d68f5b05fe2356a47334e4d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 420f6256019b5a913bc0c2fecf6e63d7
+inline_embed_id: 5563233video1whyr967131
 parent_uid: 147b0a1bf22a4f9b0fd1d3a28f92f6da
+related_resources_text: ''
+short_url: video-1-why-r-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-1-why-r/video-1-why-r-0
-short_url: video-1-why-r-0
-inline_embed_id: 5563233video1whyr967131
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: Why R?'
 transcript: >-
   <p><span m='9500'>In</span> <span m='9810'>this</span> <span
   m='10121'>class,</span> <span m='10432'>we'll</span> <span m='10743'>be</span>
@@ -202,56 +251,7 @@ transcript: >-
   m='192661'>let's</span> <span m='193062'>get</span> <span
   m='193464'>started</span> <span m='193865'>working</span> <span
   m='194267'>in</span> <span m='194668'>R.</span> </p>
-embedded_media:
-  - uid: 1b08bfd2855430e0698a2c6781b16fee
-    parent_uid: 5bdfa3294d68f5b05fe2356a47334e4d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: d2CfWJkklvo
-  - uid: 4ad057f1b908dd744c5d83f8d8bb529b
-    parent_uid: 5bdfa3294d68f5b05fe2356a47334e4d
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: d2CfWJkklvo
-  - uid: 572a88596d0cc0f6ef9a47f437c4cdc9
-    parent_uid: 5bdfa3294d68f5b05fe2356a47334e4d
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/d2CfWJkklvo/default.jpg'
-  - uid: 1373c6d033287840a17aaf5f13d0bd50
-    parent_uid: 5bdfa3294d68f5b05fe2356a47334e4d
-    id: d2CfWJkklvo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-1-why-r/video-1-why-r-0/d2CfWJkklvo.srt
-  - uid: ad6ec2748895889e1c7158975cb78a09
-    parent_uid: 5bdfa3294d68f5b05fe2356a47334e4d
-    id: d2CfWJkklvo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-1-why-r/video-1-why-r-0/d2CfWJkklvo.pdf
-  - uid: 038c6d51f08813a9d7bfe8853f378b01
-    parent_uid: 5bdfa3294d68f5b05fe2356a47334e4d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f2a94bd21777ddbace4a6eab00db3bf5
-    parent_uid: 5bdfa3294d68f5b05fe2356a47334e4d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 420f6256019b5a913bc0c2fecf6e63d7
-    parent_uid: 5bdfa3294d68f5b05fe2356a47334e4d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.3.02_300k.mp4
+uid: 5bdfa3294d68f5b05fe2356a47334e4d
 type: courses
 layout: video
 ---

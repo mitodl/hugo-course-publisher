@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 16: Projection Matrices and Least Squares'
-uid: 983528fc6ab849077d5be1252652f08e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: osh80YCg_GM
+    parent_uid: 983528fc6ab849077d5be1252652f08e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6b9d65e2d09537ee95b02ccc80a54a2d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/osh80YCg_GM/default.jpg'
+    parent_uid: 983528fc6ab849077d5be1252652f08e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 55b6ad80f4d91711cbc8459a2f53225d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 983528fc6ab849077d5be1252652f08e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4dc3ed5d28873d0a4077adb24344133a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/16.mp4'
+    parent_uid: 983528fc6ab849077d5be1252652f08e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7c3e1d37135e273bf49c3869994ad410
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: osh80YCg_GM
+    parent_uid: 983528fc6ab849077d5be1252652f08e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b0ba7a57fd72a1cbbfd454674e38852f
+  - id: osh80YCg_GM.srt
+    parent_uid: 983528fc6ab849077d5be1252652f08e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/lecture-16-projection-matrices-and-least-squares/osh80YCg_GM.srt
+    title: 3play caption file
+    type: null
+    uid: bd917ba38f7d2ee56b5ab40591f7ab37
+  - id: osh80YCg_GM.pdf
+    parent_uid: 983528fc6ab849077d5be1252652f08e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/lecture-16-projection-matrices-and-least-squares/osh80YCg_GM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0874a421068b100dbc6aa592d0ab6d10
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 983528fc6ab849077d5be1252652f08e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3fd9ead72944b1c711852d906309efde
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 983528fc6ab849077d5be1252652f08e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b67dc74bf6e7ec5297fe71bbc591453a
+inline_embed_id: '33715977lecture16:projectionmatricesandleastsquares36398853'
 parent_uid: 5f12aef90a3ea658e59ce968a672c0c2
+related_resources_text: ''
+short_url: lecture-16-projection-matrices-and-least-squares
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/lecture-16-projection-matrices-and-least-squares
-short_url: lecture-16-projection-matrices-and-least-squares
-inline_embed_id: '33715977lecture16:projectionmatricesandleastsquares36398853'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 16: Projection Matrices and Least Squares'
 transcript: >-
   <p><span m='7460'>OK.</span> <span m='9910'>Here's</span> <span
   m='10550'>lecture</span> <span m='11220'>sixteen</span> <span
@@ -2606,61 +2660,7 @@ transcript: >-
   m='2867340'>right</span> <span m='2867620'>basis.</span> <span
   m='2869530'>OK,</span> <span m='2869750'>see</span> <span
   m='2870130'>you.</span> </p><p><span m='2877070'>Thanks.</span> </p>
-embedded_media:
-  - uid: 6b9d65e2d09537ee95b02ccc80a54a2d
-    parent_uid: 983528fc6ab849077d5be1252652f08e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: osh80YCg_GM
-  - uid: 55b6ad80f4d91711cbc8459a2f53225d
-    parent_uid: 983528fc6ab849077d5be1252652f08e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/osh80YCg_GM/default.jpg'
-  - uid: 4dc3ed5d28873d0a4077adb24344133a
-    parent_uid: 983528fc6ab849077d5be1252652f08e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 7c3e1d37135e273bf49c3869994ad410
-    parent_uid: 983528fc6ab849077d5be1252652f08e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/16.mp4'
-  - uid: b0ba7a57fd72a1cbbfd454674e38852f
-    parent_uid: 983528fc6ab849077d5be1252652f08e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: osh80YCg_GM
-  - uid: bd917ba38f7d2ee56b5ab40591f7ab37
-    parent_uid: 983528fc6ab849077d5be1252652f08e
-    id: osh80YCg_GM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/lecture-16-projection-matrices-and-least-squares/osh80YCg_GM.srt
-  - uid: 0874a421068b100dbc6aa592d0ab6d10
-    parent_uid: 983528fc6ab849077d5be1252652f08e
-    id: osh80YCg_GM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/lecture-16-projection-matrices-and-least-squares/osh80YCg_GM.pdf
-  - uid: 3fd9ead72944b1c711852d906309efde
-    parent_uid: 983528fc6ab849077d5be1252652f08e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b67dc74bf6e7ec5297fe71bbc591453a
-    parent_uid: 983528fc6ab849077d5be1252652f08e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 983528fc6ab849077d5be1252652f08e
 type: courses
 layout: video
 ---

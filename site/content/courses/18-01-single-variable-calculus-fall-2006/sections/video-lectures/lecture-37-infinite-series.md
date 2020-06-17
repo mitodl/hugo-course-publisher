@@ -1,20 +1,93 @@
 ---
-title: 'Lecture 37: Infinite Series'
-uid: 683b9253cbbf4999519046ff05e10658
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-37-infinite-series
-short_url: lecture-37-infinite-series
-inline_embed_id: '79611879lecture37:infiniteseries77834575'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Infinite series and
   convergence tests</p>  <p>Note: This video lecture was recorded in the Fall of
   2007 and corresponds to the lecture notes for lecture 36 taught in the Fall of
   2006.</p> <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec37.jpg
+    parent_uid: 683b9253cbbf4999519046ff05e10658
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-37-infinite-series/lec37.jpg
+    title: Lecture 37
+    type: null
+    uid: 76981c98cd5f249fc188fcdd9dcdbe7e
+  - id: Video-YouTube-Stream
+    media_location: MK_0QHbUnIA
+    parent_uid: 683b9253cbbf4999519046ff05e10658
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d90f56c095fca7cdc562de48665f1367
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/MK_0QHbUnIA/default.jpg'
+    parent_uid: 683b9253cbbf4999519046ff05e10658
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 11a65732cf140a1cd55475aaa8c79deb
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/single-variable-calculus/id354869053?mt=10
+    parent_uid: 683b9253cbbf4999519046ff05e10658
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3c90b42d6fb2e03bdc86b6355b27caef
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec37_300k.mp4'
+    parent_uid: 683b9253cbbf4999519046ff05e10658
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8971813341f336c0e249073136814bb9
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 683b9253cbbf4999519046ff05e10658
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 545128da5b1480277a3e856a262c85c7
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 683b9253cbbf4999519046ff05e10658
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 9f4171b200e1aa6fe7685142bee6e585
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: MK_0QHbUnIA
+    parent_uid: 683b9253cbbf4999519046ff05e10658
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f16967823ca90bac4552859ac9d0748e
+  - id: MK_0QHbUnIA.srt
+    parent_uid: 683b9253cbbf4999519046ff05e10658
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-37-infinite-series/MK_0QHbUnIA.srt
+    title: 3play caption file
+    type: null
+    uid: 607448bf0c97829a0236cb1aecfc17c2
+  - id: MK_0QHbUnIA.pdf
+    parent_uid: 683b9253cbbf4999519046ff05e10658
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-37-infinite-series/MK_0QHbUnIA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4c94bc71ca3950ce8909675e367d6a5c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 683b9253cbbf4999519046ff05e10658
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 082203b0247e95b7ffc73fb6700cf6ac
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 683b9253cbbf4999519046ff05e10658
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fa9e126e5a3a2a6006aa623b49a56aa6
+inline_embed_id: '79611879lecture37:infiniteseries77834575'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/ba5ce991638cf6285e431937132e5b32">PDF -
   1.4MB</a>)</p></div>
+short_url: lecture-37-infinite-series
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-37-infinite-series
+title: 'Lecture 37: Infinite Series'
 transcript: >-
   <p><span m='0'>The</span> <span m='1270'>following</span> <span
   m='1420'>content</span> <span m='1680'>is</span> <span
@@ -2880,80 +2953,7 @@ transcript: >-
   m='3007240'>can</span> <span m='3007420'>get</span> <span
   m='3008270'>with</span> <span m='3008460'>this</span> <span
   m='3009350'>next</span> <span m='3009630'>time.</span> </p>
-embedded_media:
-  - uid: 76981c98cd5f249fc188fcdd9dcdbe7e
-    parent_uid: 683b9253cbbf4999519046ff05e10658
-    id: lec37.jpg
-    title: Lecture 37
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-37-infinite-series/lec37.jpg
-  - uid: d90f56c095fca7cdc562de48665f1367
-    parent_uid: 683b9253cbbf4999519046ff05e10658
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MK_0QHbUnIA
-  - uid: 11a65732cf140a1cd55475aaa8c79deb
-    parent_uid: 683b9253cbbf4999519046ff05e10658
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MK_0QHbUnIA/default.jpg'
-  - uid: 3c90b42d6fb2e03bdc86b6355b27caef
-    parent_uid: 683b9253cbbf4999519046ff05e10658
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/single-variable-calculus/id354869053?mt=10
-  - uid: 8971813341f336c0e249073136814bb9
-    parent_uid: 683b9253cbbf4999519046ff05e10658
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec37_300k.mp4'
-  - uid: 545128da5b1480277a3e856a262c85c7
-    parent_uid: 683b9253cbbf4999519046ff05e10658
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 9f4171b200e1aa6fe7685142bee6e585
-    parent_uid: 683b9253cbbf4999519046ff05e10658
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: f16967823ca90bac4552859ac9d0748e
-    parent_uid: 683b9253cbbf4999519046ff05e10658
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MK_0QHbUnIA
-  - uid: 607448bf0c97829a0236cb1aecfc17c2
-    parent_uid: 683b9253cbbf4999519046ff05e10658
-    id: MK_0QHbUnIA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-37-infinite-series/MK_0QHbUnIA.srt
-  - uid: 4c94bc71ca3950ce8909675e367d6a5c
-    parent_uid: 683b9253cbbf4999519046ff05e10658
-    id: MK_0QHbUnIA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-37-infinite-series/MK_0QHbUnIA.pdf
-  - uid: 082203b0247e95b7ffc73fb6700cf6ac
-    parent_uid: 683b9253cbbf4999519046ff05e10658
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fa9e126e5a3a2a6006aa623b49a56aa6
-    parent_uid: 683b9253cbbf4999519046ff05e10658
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 683b9253cbbf4999519046ff05e10658
 type: courses
 layout: video
 ---

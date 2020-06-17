@@ -1,18 +1,72 @@
 ---
-title: 'Lecture 3: Wave-Particle Duality of Light'
-uid: 448f5ca629c8679a6e0ad413794ad85e
-parent_uid: bac5bfe23ea5e2c1fbfbf345a7d17bda
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-3/lecture-3-wave-particle-duality-of-light
-short_url: lecture-3-wave-particle-duality-of-light
-inline_embed_id: 60241250lecture3waveparticledualityoflight93562468
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: The idea that light is both a wave and a particle is
   introduced. The properties of waves are described and the applications of
   diffraction are presented.</p> <p><strong>Instructor:</strong> Catherine
   Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: _U6YamvF7BE
+    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2522ace26e4aa24840d63ec7b890d85b
+  - id: U6YamvF7BE.srt
+    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-3/lecture-3-wave-particle-duality-of-light/U6YamvF7BE.srt
+    title: 3play caption file
+    type: null
+    uid: f5154bc14e151c735d5efd2f8a0d1d27
+  - id: U6YamvF7BE.pdf
+    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-3/lecture-3-wave-particle-duality-of-light/U6YamvF7BE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8df2e49f039d4cb84f776e9bdabf2487
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 52a9992fa0e71c67ee8a4a4dda79ce45
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6323c2cc0941a94bad6fa27cf6519193
+  - id: Video-YouTube-Stream
+    media_location: _U6YamvF7BE
+    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 44bbc70bbf5342ac8eab88f6f6eb2cb8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_U6YamvF7BE/default.jpg'
+    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b2f794a3eb890efe876c65aeb4a63d55
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L03_300k.mp4'
+    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 36355f6f950b9e78e809801d0b3cc5e6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 41afa875926701b1c968e9ca8adcd51d
+inline_embed_id: 60241250lecture3waveparticledualityoflight93562468
+parent_uid: bac5bfe23ea5e2c1fbfbf345a7d17bda
 related_resources_text: ''
+short_url: lecture-3-wave-particle-duality-of-light
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-3/lecture-3-wave-particle-duality-of-light
+title: 'Lecture 3: Wave-Particle Duality of Light'
 transcript: >-
   <p><span m="90">The</span> <span m="180">following</span> <span
   m="630">content</span> <span m="1110">is</span> <span m="1230">provided</span>
@@ -2917,61 +2971,7 @@ transcript: >-
   <span m="2738500">demo</span> <span m="2739190">of</span> <span
   m="2739320">the</span> <span m="2739400">photoelectric</span> <span
   m="2740270">effect.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 2522ace26e4aa24840d63ec7b890d85b
-    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _U6YamvF7BE
-  - uid: f5154bc14e151c735d5efd2f8a0d1d27
-    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
-    id: U6YamvF7BE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-3/lecture-3-wave-particle-duality-of-light/U6YamvF7BE.srt
-  - uid: 8df2e49f039d4cb84f776e9bdabf2487
-    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
-    id: U6YamvF7BE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-3/lecture-3-wave-particle-duality-of-light/U6YamvF7BE.pdf
-  - uid: 52a9992fa0e71c67ee8a4a4dda79ce45
-    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6323c2cc0941a94bad6fa27cf6519193
-    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 44bbc70bbf5342ac8eab88f6f6eb2cb8
-    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _U6YamvF7BE
-  - uid: b2f794a3eb890efe876c65aeb4a63d55
-    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_U6YamvF7BE/default.jpg'
-  - uid: 36355f6f950b9e78e809801d0b3cc5e6
-    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L03_300k.mp4'
-  - uid: 41afa875926701b1c968e9ca8adcd51d
-    parent_uid: 448f5ca629c8679a6e0ad413794ad85e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+uid: 448f5ca629c8679a6e0ad413794ad85e
 type: courses
 layout: video
 ---

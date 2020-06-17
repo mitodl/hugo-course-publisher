@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 6: Randomization: Matrix Multiply, Quicksort'
-uid: 8484e787729f4e732109065f90f0f5d9
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-6-randomization-matrix-multiply-quicksort
-short_url: lecture-6-randomization-matrix-multiply-quicksort
-inline_embed_id: '37251591lecture6:randomization:matrixmultiply,quicksort90602828'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Devadas introduces
   randomized algorithms, looking at solving sorting problems with this new
   tool.</p><p><strong>Instructors:</strong> Srinivas Devadas</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: cNB2lADK3_s
+    parent_uid: 8484e787729f4e732109065f90f0f5d9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5f0365dc8d1883f141c5ecf829df3939
+  - id: cNB2lADK3_s.srt
+    parent_uid: 8484e787729f4e732109065f90f0f5d9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-6-randomization-matrix-multiply-quicksort/cNB2lADK3_s.srt
+    title: 3play caption file
+    type: null
+    uid: 52af1f90386b6dc7bdd07e7cc8e159f3
+  - id: cNB2lADK3_s.pdf
+    parent_uid: 8484e787729f4e732109065f90f0f5d9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-6-randomization-matrix-multiply-quicksort/cNB2lADK3_s.pdf
+    title: 3play pdf file
+    type: null
+    uid: c8888f8cb42e1d6e1a2f11f9f71d5d5e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8484e787729f4e732109065f90f0f5d9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f6e0342b8db12bf0a99d5a288a4ae808
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8484e787729f4e732109065f90f0f5d9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 48929fae8de0059bb7c95394b8bd1359
+  - id: Video-YouTube-Stream
+    media_location: cNB2lADK3_s
+    parent_uid: 8484e787729f4e732109065f90f0f5d9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 884103e11027033102f317f2c171680b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/cNB2lADK3_s/default.jpg'
+    parent_uid: 8484e787729f4e732109065f90f0f5d9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2b696dfafeba8642104ac6220909980f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 8484e787729f4e732109065f90f0f5d9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: eacb8cd1ea1e3194b7f4d268fd34daac
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec06_300k.mp4'
+    parent_uid: 8484e787729f4e732109065f90f0f5d9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f0c05704fd6dc34aedb2ef9cb0e168f0
+inline_embed_id: '37251591lecture6:randomization:matrixmultiply,quicksort90602828'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-6-randomization-matrix-multiply-quicksort
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-6-randomization-matrix-multiply-quicksort
+title: 'Lecture 6: Randomization: Matrix Multiply, Quicksort'
 transcript: >-
   <p><span m="90">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -5237,61 +5291,7 @@ transcript: >-
   m="4908470">So</span> <span m="4909360">see</span> <span
   m="4909470">you</span> <span m="4909530">next</span> <span
   m="4909750">time.</span></p>
-embedded_media:
-  - uid: 5f0365dc8d1883f141c5ecf829df3939
-    parent_uid: 8484e787729f4e732109065f90f0f5d9
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: cNB2lADK3_s
-  - uid: 52af1f90386b6dc7bdd07e7cc8e159f3
-    parent_uid: 8484e787729f4e732109065f90f0f5d9
-    id: cNB2lADK3_s.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-6-randomization-matrix-multiply-quicksort/cNB2lADK3_s.srt
-  - uid: c8888f8cb42e1d6e1a2f11f9f71d5d5e
-    parent_uid: 8484e787729f4e732109065f90f0f5d9
-    id: cNB2lADK3_s.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-6-randomization-matrix-multiply-quicksort/cNB2lADK3_s.pdf
-  - uid: f6e0342b8db12bf0a99d5a288a4ae808
-    parent_uid: 8484e787729f4e732109065f90f0f5d9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 48929fae8de0059bb7c95394b8bd1359
-    parent_uid: 8484e787729f4e732109065f90f0f5d9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 884103e11027033102f317f2c171680b
-    parent_uid: 8484e787729f4e732109065f90f0f5d9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: cNB2lADK3_s
-  - uid: 2b696dfafeba8642104ac6220909980f
-    parent_uid: 8484e787729f4e732109065f90f0f5d9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/cNB2lADK3_s/default.jpg'
-  - uid: eacb8cd1ea1e3194b7f4d268fd34daac
-    parent_uid: 8484e787729f4e732109065f90f0f5d9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: f0c05704fd6dc34aedb2ef9cb0e168f0
-    parent_uid: 8484e787729f4e732109065f90f0f5d9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec06_300k.mp4'
+uid: 8484e787729f4e732109065f90f0f5d9
 type: courses
 layout: video
 ---

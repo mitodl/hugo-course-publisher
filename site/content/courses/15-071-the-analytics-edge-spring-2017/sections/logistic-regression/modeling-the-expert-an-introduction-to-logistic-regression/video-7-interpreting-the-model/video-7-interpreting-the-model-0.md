@@ -1,13 +1,62 @@
 ---
-title: 'Video 7: Interpreting the Model'
-uid: e30631f5f09bd7cab66e35e0070ceb75
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: o8Zdk_3wVSo
+    parent_uid: e30631f5f09bd7cab66e35e0070ceb75
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 237f37a270bfb2081afdda0824cfeb74
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: o8Zdk_3wVSo
+    parent_uid: e30631f5f09bd7cab66e35e0070ceb75
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9508901e2861632cee8a786e15695d27
+  - id: o8Zdk_3wVSo.srt
+    parent_uid: e30631f5f09bd7cab66e35e0070ceb75
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-7-interpreting-the-model/video-7-interpreting-the-model-0/o8Zdk_3wVSo.srt
+    title: 3play caption file
+    type: null
+    uid: 2d3e5bd6bae2437a1fdb2bdd9086710a
+  - id: o8Zdk_3wVSo.pdf
+    parent_uid: e30631f5f09bd7cab66e35e0070ceb75
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-7-interpreting-the-model/video-7-interpreting-the-model-0/o8Zdk_3wVSo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 33a661f0c2e2aac34f8f852c8533d1a2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e30631f5f09bd7cab66e35e0070ceb75
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ffd2206aa85caf450cef4f89a42baf79
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e30631f5f09bd7cab66e35e0070ceb75
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f236b8050fefd4cb55d5cea3673f76b8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/o8Zdk_3wVSo/default.jpg'
+    parent_uid: e30631f5f09bd7cab66e35e0070ceb75
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cfd22e965e39f35ca9e652ff42a313c0
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.2.12_300k.mp4
+    parent_uid: e30631f5f09bd7cab66e35e0070ceb75
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ebe0e4072d3c736a5d91edb6e5552399
+inline_embed_id: 77999570video7interpretingthemodel9465308
 parent_uid: 1e61720ecc150a7b0c5eb3fe60c5ffa1
+related_resources_text: ''
+short_url: video-7-interpreting-the-model-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-7-interpreting-the-model/video-7-interpreting-the-model-0
-short_url: video-7-interpreting-the-model-0
-inline_embed_id: 77999570video7interpretingthemodel9465308
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 7: Interpreting the Model'
 transcript: >-
   <p><span m='4500'>Let</span> <span m='4942'>us</span> <span
   m='5384'>examine</span> <span m='5826'>how</span> <span m='6268'>to</span>
@@ -417,56 +466,7 @@ transcript: >-
   <span m='509285'>more</span> <span m='509802'>intelligent</span> <span
   m='510320'>in</span> <span m='510837'>capturing</span> <span
   m='511355'>these</span> <span m='511872'>effects.</span> </p>
-embedded_media:
-  - uid: 237f37a270bfb2081afdda0824cfeb74
-    parent_uid: e30631f5f09bd7cab66e35e0070ceb75
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: o8Zdk_3wVSo
-  - uid: 9508901e2861632cee8a786e15695d27
-    parent_uid: e30631f5f09bd7cab66e35e0070ceb75
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: o8Zdk_3wVSo
-  - uid: 2d3e5bd6bae2437a1fdb2bdd9086710a
-    parent_uid: e30631f5f09bd7cab66e35e0070ceb75
-    id: o8Zdk_3wVSo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-7-interpreting-the-model/video-7-interpreting-the-model-0/o8Zdk_3wVSo.srt
-  - uid: 33a661f0c2e2aac34f8f852c8533d1a2
-    parent_uid: e30631f5f09bd7cab66e35e0070ceb75
-    id: o8Zdk_3wVSo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-7-interpreting-the-model/video-7-interpreting-the-model-0/o8Zdk_3wVSo.pdf
-  - uid: ffd2206aa85caf450cef4f89a42baf79
-    parent_uid: e30631f5f09bd7cab66e35e0070ceb75
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f236b8050fefd4cb55d5cea3673f76b8
-    parent_uid: e30631f5f09bd7cab66e35e0070ceb75
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: cfd22e965e39f35ca9e652ff42a313c0
-    parent_uid: e30631f5f09bd7cab66e35e0070ceb75
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/o8Zdk_3wVSo/default.jpg'
-  - uid: ebe0e4072d3c736a5d91edb6e5552399
-    parent_uid: e30631f5f09bd7cab66e35e0070ceb75
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.2.12_300k.mp4
+uid: e30631f5f09bd7cab66e35e0070ceb75
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: 'Solving Ax = b: Row Reduced Form R'
-uid: a2acf17d78561e524b0ff9919ff2c261
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 9Q1q7s1jTzU
+    parent_uid: a2acf17d78561e524b0ff9919ff2c261
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7716c08364fe00b00ad5d8a599437c23
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9Q1q7s1jTzU/default.jpg'
+    parent_uid: a2acf17d78561e524b0ff9919ff2c261
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 78e9cae357fba5a6c53557a57cc3ffe0
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: a2acf17d78561e524b0ff9919ff2c261
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b61dd9ae9a435677e371d03e915e9809
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/08.mp4'
+    parent_uid: a2acf17d78561e524b0ff9919ff2c261
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a8cb7fd3ef0483fc2a4febed0d29435b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 9Q1q7s1jTzU
+    parent_uid: a2acf17d78561e524b0ff9919ff2c261
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a69a035dc8efdfbea5a74c05ff681179
+  - id: 9Q1q7s1jTzU.srt
+    parent_uid: a2acf17d78561e524b0ff9919ff2c261
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-b-row-reduced-form-r/solving-ax-b-row-reduced-form-r/9Q1q7s1jTzU.srt
+    title: 3play caption file
+    type: null
+    uid: 94f97beebd039bd55237a1cd52113849
+  - id: 9Q1q7s1jTzU.pdf
+    parent_uid: a2acf17d78561e524b0ff9919ff2c261
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-b-row-reduced-form-r/solving-ax-b-row-reduced-form-r/9Q1q7s1jTzU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6a682e0506398c57dc7d2fa81a36fb01
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a2acf17d78561e524b0ff9919ff2c261
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 35d30d1f631242a63782c7bc75bca5a5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a2acf17d78561e524b0ff9919ff2c261
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dab4dff51aa23511001119db68ab1437
+inline_embed_id: '17110045solvingax=b:rowreducedformr1513875'
 parent_uid: 5fa61a8acb4bace2b291fa9364395075
+related_resources_text: ''
+short_url: solving-ax-b-row-reduced-form-r
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-b-row-reduced-form-r/solving-ax-b-row-reduced-form-r
-short_url: solving-ax-b-row-reduced-form-r
-inline_embed_id: '17110045solvingax=b:rowreducedformr1513875'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Solving Ax = b: Row Reduced Form R'
 transcript: >-
   <p><span m='5870'>OK,</span> <span m='6570'>when</span> <span
   m='6780'>the</span> <span m='6890'>camera</span> <span m='7310'>says,</span>
@@ -2517,61 +2571,7 @@ transcript: >-
   m='2826200'>I'll</span> <span m='2826340'>see</span> <span
   m='2826630'>you</span> <span m='2826810'>on</span> <span
   m='2827220'>Monday.</span> </p>
-embedded_media:
-  - uid: 7716c08364fe00b00ad5d8a599437c23
-    parent_uid: a2acf17d78561e524b0ff9919ff2c261
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9Q1q7s1jTzU
-  - uid: 78e9cae357fba5a6c53557a57cc3ffe0
-    parent_uid: a2acf17d78561e524b0ff9919ff2c261
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9Q1q7s1jTzU/default.jpg'
-  - uid: b61dd9ae9a435677e371d03e915e9809
-    parent_uid: a2acf17d78561e524b0ff9919ff2c261
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: a8cb7fd3ef0483fc2a4febed0d29435b
-    parent_uid: a2acf17d78561e524b0ff9919ff2c261
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/08.mp4'
-  - uid: a69a035dc8efdfbea5a74c05ff681179
-    parent_uid: a2acf17d78561e524b0ff9919ff2c261
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9Q1q7s1jTzU
-  - uid: 94f97beebd039bd55237a1cd52113849
-    parent_uid: a2acf17d78561e524b0ff9919ff2c261
-    id: 9Q1q7s1jTzU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-b-row-reduced-form-r/solving-ax-b-row-reduced-form-r/9Q1q7s1jTzU.srt
-  - uid: 6a682e0506398c57dc7d2fa81a36fb01
-    parent_uid: a2acf17d78561e524b0ff9919ff2c261
-    id: 9Q1q7s1jTzU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-b-row-reduced-form-r/solving-ax-b-row-reduced-form-r/9Q1q7s1jTzU.pdf
-  - uid: 35d30d1f631242a63782c7bc75bca5a5
-    parent_uid: a2acf17d78561e524b0ff9919ff2c261
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dab4dff51aa23511001119db68ab1437
-    parent_uid: a2acf17d78561e524b0ff9919ff2c261
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a2acf17d78561e524b0ff9919ff2c261
 type: courses
 layout: video
 ---

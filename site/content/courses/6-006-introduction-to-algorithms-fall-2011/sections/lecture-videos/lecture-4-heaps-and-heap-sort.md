@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 4: Heaps and Heap Sort'
-uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-4-heaps-and-heap-sort
-short_url: lecture-4-heaps-and-heap-sort
-inline_embed_id: '8919313lecture4:heapsandheapsort82572908'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Priority queues are introduced as a
   motivation for heaps.  The lecture then covers heap operations and concludes
   with a discussion of heapsort.</p> <p><strong>Instructor:</strong> Srini
   Devadas</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: B7hVxCmfPtM
+    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b34f8ca237676c64d4b43490b768539f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/B7hVxCmfPtM/default.jpg'
+    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2f116deafad4d095b291b82edbb2dee1
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-4-heaps-and-heap-sort/id585700718?i=126127727
+    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5783ebc11c5ba9df511177a97782212a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec04_300k.mp4'
+    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 409ae46052436c2783730c6e05811a39
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: B7hVxCmfPtM
+    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c8779ce9ea64fb066a147bca3ff0bc07
+  - id: B7hVxCmfPtM.srt
+    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-4-heaps-and-heap-sort/B7hVxCmfPtM.srt
+    title: 3play caption file
+    type: null
+    uid: e64d248bcd96fe0da5349a9017243e25
+  - id: B7hVxCmfPtM.pdf
+    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-4-heaps-and-heap-sort/B7hVxCmfPtM.pdf
+    title: 3play pdf file
+    type: null
+    uid: ebf9f8cb1129d112a39066990693ca6f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0ba4adee3550e57cfeed411acba323c4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5ccc14327adba02c76d875f403bf0a83
+inline_embed_id: '8919313lecture4:heapsandheapsort82572908'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-4-heaps-and-heap-sort
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-4-heaps-and-heap-sort
+title: 'Lecture 4: Heaps and Heap Sort'
 transcript: >-
   <p><span m='80'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -2939,62 +2994,7 @@ transcript: >-
   m='3149750'>questions.</span> <span m='3150690'>See</span> <span
   m='3150830'>you</span> <span m='3150880'>next</span> <span
   m='3151090'>time.</span> </p>
-embedded_media:
-  - uid: b34f8ca237676c64d4b43490b768539f
-    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: B7hVxCmfPtM
-  - uid: 2f116deafad4d095b291b82edbb2dee1
-    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/B7hVxCmfPtM/default.jpg'
-  - uid: 5783ebc11c5ba9df511177a97782212a
-    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-4-heaps-and-heap-sort/id585700718?i=126127727
-  - uid: 409ae46052436c2783730c6e05811a39
-    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec04_300k.mp4'
-  - uid: c8779ce9ea64fb066a147bca3ff0bc07
-    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: B7hVxCmfPtM
-  - uid: e64d248bcd96fe0da5349a9017243e25
-    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
-    id: B7hVxCmfPtM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-4-heaps-and-heap-sort/B7hVxCmfPtM.srt
-  - uid: ebf9f8cb1129d112a39066990693ca6f
-    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
-    id: B7hVxCmfPtM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-4-heaps-and-heap-sort/B7hVxCmfPtM.pdf
-  - uid: 0ba4adee3550e57cfeed411acba323c4
-    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5ccc14327adba02c76d875f403bf0a83
-    parent_uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: eb2c951fdceb6cd4ebe6516b9c5bf6e0
 type: courses
 layout: video
 ---

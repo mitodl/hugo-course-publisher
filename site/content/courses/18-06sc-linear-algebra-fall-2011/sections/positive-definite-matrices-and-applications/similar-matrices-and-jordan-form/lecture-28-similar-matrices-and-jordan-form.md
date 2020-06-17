@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 28: Similar Matrices and Jordan Form'
-uid: 5fca0aa3ca0a09455e1208883f302be6
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TSdXJw83kyA
+    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d64061403807e918540715e7cb0b449a
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 999c7150953dd6e2a99e1307be983efe
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/28.mp4'
+    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 932a37095856aec5ad0647438c9dd0b2
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TSdXJw83kyA
+    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 75f3508f1ba94539e9b5023272ac0792
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/TSdXJw83kyA/default.jpg'
+    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 37699f3e7f52ba9c323a50dd98a33dfe
+  - id: TSdXJw83kyA.srt
+    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/similar-matrices-and-jordan-form/lecture-28-similar-matrices-and-jordan-form/TSdXJw83kyA.srt
+    title: 3play caption file
+    type: null
+    uid: 52d7b60d3a29364a570f4bd4c3ef14b5
+  - id: TSdXJw83kyA.pdf
+    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/similar-matrices-and-jordan-form/lecture-28-similar-matrices-and-jordan-form/TSdXJw83kyA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6dba2d879d4f00b41cdcfca2fde10a3c
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 09f617b5748a1385295cddabd7f391ad
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 09dcdb866667f7277813abe0c3ba44f8
+inline_embed_id: '27147771lecture28:similarmatricesandjordanform53824137'
 parent_uid: b358f2d2863654b7503b47b34cc0953a
+related_resources_text: ''
+short_url: lecture-28-similar-matrices-and-jordan-form
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/similar-matrices-and-jordan-form/lecture-28-similar-matrices-and-jordan-form
-short_url: lecture-28-similar-matrices-and-jordan-form
-inline_embed_id: '27147771lecture28:similarmatricesandjordanform53824137'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 28: Similar Matrices and Jordan Form'
 transcript: >-
   <p><span m='8280'>Okay.</span> <span m='9650'>This</span> <span
   m='10790'>lecture</span> <span m='11270'>is</span> <span
@@ -2586,61 +2640,7 @@ transcript: >-
   m='2742800'>have</span> <span m='2742870'>a</span> <span
   m='2742890'>great</span> <span m='2742990'>weekend.</span> </p><p><span
   m='2743130'>Bye.</span> </p>
-embedded_media:
-  - uid: d64061403807e918540715e7cb0b449a
-    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TSdXJw83kyA
-  - uid: 999c7150953dd6e2a99e1307be983efe
-    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 932a37095856aec5ad0647438c9dd0b2
-    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/28.mp4'
-  - uid: 75f3508f1ba94539e9b5023272ac0792
-    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TSdXJw83kyA
-  - uid: 37699f3e7f52ba9c323a50dd98a33dfe
-    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TSdXJw83kyA/default.jpg'
-  - uid: 52d7b60d3a29364a570f4bd4c3ef14b5
-    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
-    id: TSdXJw83kyA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/similar-matrices-and-jordan-form/lecture-28-similar-matrices-and-jordan-form/TSdXJw83kyA.srt
-  - uid: 6dba2d879d4f00b41cdcfca2fde10a3c
-    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
-    id: TSdXJw83kyA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/similar-matrices-and-jordan-form/lecture-28-similar-matrices-and-jordan-form/TSdXJw83kyA.pdf
-  - uid: 09f617b5748a1385295cddabd7f391ad
-    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 09dcdb866667f7277813abe0c3ba44f8
-    parent_uid: 5fca0aa3ca0a09455e1208883f302be6
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 5fca0aa3ca0a09455e1208883f302be6
 type: courses
 layout: video
 ---

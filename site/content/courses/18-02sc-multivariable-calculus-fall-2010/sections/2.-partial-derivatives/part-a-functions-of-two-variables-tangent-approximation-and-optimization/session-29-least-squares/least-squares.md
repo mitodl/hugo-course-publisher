@@ -1,13 +1,67 @@
 ---
-title: Least Squares
-uid: bfae7fb1a37a280fcb08b50cd9e75adf
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: YwZYSTQs-Hk
+    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 09c4b82b8d9c72f3369067efd069c28d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/YwZYSTQs-Hk/default.jpg'
+    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8cbacc2c2d9565b03532c80f20861c48
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: YwZYSTQs-Hk
+    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 82b9d9ee3d4862bb856b934034593e16
+  - id: YwZYSTQs-Hk.srt
+    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-29-least-squares/least-squares/YwZYSTQs-Hk.srt
+    title: 3play caption file
+    type: null
+    uid: e30524947e411ee66ddd8341304bef5c
+  - id: YwZYSTQs-Hk.pdf
+    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-29-least-squares/least-squares/YwZYSTQs-Hk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 61c5905776efc793a925cd1e076abf52
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d3a9ed6eb47bad750b86bf299b66e40d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ca4746212a1441f6c9db4f85d06753d3
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/least-squares/id414355340?i=90322829'
+    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 77d4335aca181419a8020dfedc142f71
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_22_300k.mp4'
+    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ac80a1b139b6b90ac972c0c1816862bc
+inline_embed_id: 76290827leastsquares51738586
 parent_uid: 4dee8231f05e53cc79cbf731a6390b29
+related_resources_text: ''
+short_url: least-squares
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-29-least-squares/least-squares
-short_url: least-squares
-inline_embed_id: 76290827leastsquares51738586
-about_this_resource_text: ''
-related_resources_text: ''
+title: Least Squares
 transcript: >-
   <p><span m='0'>CHRISTINE BREINER:</span> <span m='6890'>Welcome</span> <span
   m='7240'>back to</span> <span m='7420'>recitation.</span> <span
@@ -695,61 +749,7 @@ transcript: >-
   m='540680'>data</span> <span m='540900'>points.</span> <span
   m='541930'>So</span> <span m='542160'>that's</span> <span m='542380'>where
   I'll end</span> <span m='542490'>it.</span> </p>
-embedded_media:
-  - uid: 09c4b82b8d9c72f3369067efd069c28d
-    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: YwZYSTQs-Hk
-  - uid: 8cbacc2c2d9565b03532c80f20861c48
-    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/YwZYSTQs-Hk/default.jpg'
-  - uid: 82b9d9ee3d4862bb856b934034593e16
-    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: YwZYSTQs-Hk
-  - uid: e30524947e411ee66ddd8341304bef5c
-    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
-    id: YwZYSTQs-Hk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-29-least-squares/least-squares/YwZYSTQs-Hk.srt
-  - uid: 61c5905776efc793a925cd1e076abf52
-    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
-    id: YwZYSTQs-Hk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-29-least-squares/least-squares/YwZYSTQs-Hk.pdf
-  - uid: d3a9ed6eb47bad750b86bf299b66e40d
-    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ca4746212a1441f6c9db4f85d06753d3
-    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 77d4335aca181419a8020dfedc142f71
-    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/least-squares/id414355340?i=90322829'
-  - uid: ac80a1b139b6b90ac972c0c1816862bc
-    parent_uid: bfae7fb1a37a280fcb08b50cd9e75adf
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_22_300k.mp4'
+uid: bfae7fb1a37a280fcb08b50cd9e75adf
 type: courses
 layout: video
 ---

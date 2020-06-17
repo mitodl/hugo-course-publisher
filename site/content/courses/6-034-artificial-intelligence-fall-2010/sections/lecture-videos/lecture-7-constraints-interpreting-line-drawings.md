@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 7: Constraints: Interpreting Line Drawings'
-uid: 610d4a009bca99ce1e2875664719d4a3
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-7-constraints-interpreting-line-drawings
-short_url: lecture-7-constraints-interpreting-line-drawings
-inline_embed_id: '69130231lecture7:constraints:interpretinglinedrawings1061405'
 about_this_resource_text: >-
   <p><strong>Description:</strong> How can we recognize the number of objects in
   a line drawing?  We consider how Guzman, Huffman, and Waltz approached this
   problem.  We then solve an example using a method based on constraint
   propagation, with a limited set of junction and line labels.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: l-tzjenXrvI
+    parent_uid: 610d4a009bca99ce1e2875664719d4a3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4cd9a9c1c5324186544e82fb74e0ee2a
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-7-constraints-interpreting/id765641080?i=194470739
+    parent_uid: 610d4a009bca99ce1e2875664719d4a3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fc1397f3f7e11abadafa63dddd7a235f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec07_300k.mp4'
+    parent_uid: 610d4a009bca99ce1e2875664719d4a3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 48f929442870a952a38a35087aeffd69
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/l-tzjenXrvI/default.jpg'
+    parent_uid: 610d4a009bca99ce1e2875664719d4a3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 81d98f041959b26b0de5651cc1441f1f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: l-tzjenXrvI
+    parent_uid: 610d4a009bca99ce1e2875664719d4a3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 781f70835b89eef5ae41b396cd0128d0
+  - id: l-tzjenXrvI.srt
+    parent_uid: 610d4a009bca99ce1e2875664719d4a3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-7-constraints-interpreting-line-drawings/l-tzjenXrvI.srt
+    title: 3play caption file
+    type: null
+    uid: 6427260b5a0fd526add2d0cb22f8f9df
+  - id: l-tzjenXrvI.pdf
+    parent_uid: 610d4a009bca99ce1e2875664719d4a3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-7-constraints-interpreting-line-drawings/l-tzjenXrvI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 489a6a3a25a6c4341a11fc91929e83fe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 610d4a009bca99ce1e2875664719d4a3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7cd15cdc918821bb9c58b940b0ff7614
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 610d4a009bca99ce1e2875664719d4a3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 54d93cb4740061df31d4ebc6ea5af55f
+inline_embed_id: '69130231lecture7:constraints:interpretinglinedrawings1061405'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
+short_url: lecture-7-constraints-interpreting-line-drawings
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-7-constraints-interpreting-line-drawings
+title: 'Lecture 7: Constraints: Interpreting Line Drawings'
 transcript: >-
   <p><span m='10110'>PATRICK WINSTON: Many of you, maybe most of you, will
   never</span> <span m='12660'>have to work another search problem by hand in
@@ -852,62 +907,7 @@ transcript: >-
   who cares about map coloring?</span> </p><p><span m='2938970'>People who do
   scheduling, because that turns out to be</span> <span m='2941100'>the same
   problem.</span> </p><p></p>
-embedded_media:
-  - uid: 4cd9a9c1c5324186544e82fb74e0ee2a
-    parent_uid: 610d4a009bca99ce1e2875664719d4a3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: l-tzjenXrvI
-  - uid: fc1397f3f7e11abadafa63dddd7a235f
-    parent_uid: 610d4a009bca99ce1e2875664719d4a3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-7-constraints-interpreting/id765641080?i=194470739
-  - uid: 48f929442870a952a38a35087aeffd69
-    parent_uid: 610d4a009bca99ce1e2875664719d4a3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec07_300k.mp4'
-  - uid: 81d98f041959b26b0de5651cc1441f1f
-    parent_uid: 610d4a009bca99ce1e2875664719d4a3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/l-tzjenXrvI/default.jpg'
-  - uid: 781f70835b89eef5ae41b396cd0128d0
-    parent_uid: 610d4a009bca99ce1e2875664719d4a3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: l-tzjenXrvI
-  - uid: 6427260b5a0fd526add2d0cb22f8f9df
-    parent_uid: 610d4a009bca99ce1e2875664719d4a3
-    id: l-tzjenXrvI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-7-constraints-interpreting-line-drawings/l-tzjenXrvI.srt
-  - uid: 489a6a3a25a6c4341a11fc91929e83fe
-    parent_uid: 610d4a009bca99ce1e2875664719d4a3
-    id: l-tzjenXrvI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-7-constraints-interpreting-line-drawings/l-tzjenXrvI.pdf
-  - uid: 7cd15cdc918821bb9c58b940b0ff7614
-    parent_uid: 610d4a009bca99ce1e2875664719d4a3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 54d93cb4740061df31d4ebc6ea5af55f
-    parent_uid: 610d4a009bca99ce1e2875664719d4a3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 610d4a009bca99ce1e2875664719d4a3
 type: courses
 layout: video
 ---

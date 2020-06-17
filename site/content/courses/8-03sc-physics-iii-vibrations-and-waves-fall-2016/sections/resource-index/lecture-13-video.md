@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 13: Dispersive Medium, Phase Velocity, Group Velocity'
-uid: 1852b25a92e7ed0297f65149bb01f20d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: QxemLb8-5AA
+    parent_uid: 1852b25a92e7ed0297f65149bb01f20d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0c6fee3b633f430221138164c1f0367c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QxemLb8-5AA/default.jpg'
+    parent_uid: 1852b25a92e7ed0297f65149bb01f20d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f381df0ff5c59309fa8282c9668da127
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: QxemLb8-5AA
+    parent_uid: 1852b25a92e7ed0297f65149bb01f20d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e1e63ed637043d98612e068b3ad7fba9
+  - id: QxemLb8-5AA.srt
+    parent_uid: 1852b25a92e7ed0297f65149bb01f20d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-13-video/QxemLb8-5AA.srt
+    title: 3play caption file
+    type: null
+    uid: 4da823cea7284255db848a8b0dbd5bf1
+  - id: QxemLb8-5AA.pdf
+    parent_uid: 1852b25a92e7ed0297f65149bb01f20d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-13-video/QxemLb8-5AA.pdf
+    title: 3play pdf file
+    type: null
+    uid: afdad67abafdd95687062a1a7b376048
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1852b25a92e7ed0297f65149bb01f20d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0ca97a0a42d823f12513144110cd1112
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1852b25a92e7ed0297f65149bb01f20d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: aa17539625ae92d50cd1ede75d056e92
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec13_300k.mp4'
+    parent_uid: 1852b25a92e7ed0297f65149bb01f20d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 39ee9e71cf3d66f1dafd02aaea82b5fa
+inline_embed_id: 57628529lecture13video68938149
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-13-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-13-video
-short_url: lecture-13-video
-inline_embed_id: 57628529lecture13video68938149
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 13: Dispersive Medium, Phase Velocity, Group Velocity'
 transcript: >-
   <p><span m="2620">The</span> <span m="2710">following</span> <span
   m="3160">content</span> <span m="3640">is</span> <span
@@ -4015,55 +4063,7 @@ transcript: >-
   m="4395320">you</span> <span m="4395440">have</span> <span
   m="4395620">any</span> <span m="4395830">questions,</span> <span
   m="4397162">please</span> <span m="4397500">let me know.</span></p>
-embedded_media:
-  - uid: 0c6fee3b633f430221138164c1f0367c
-    parent_uid: 1852b25a92e7ed0297f65149bb01f20d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QxemLb8-5AA
-  - uid: f381df0ff5c59309fa8282c9668da127
-    parent_uid: 1852b25a92e7ed0297f65149bb01f20d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QxemLb8-5AA/default.jpg'
-  - uid: e1e63ed637043d98612e068b3ad7fba9
-    parent_uid: 1852b25a92e7ed0297f65149bb01f20d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QxemLb8-5AA
-  - uid: 4da823cea7284255db848a8b0dbd5bf1
-    parent_uid: 1852b25a92e7ed0297f65149bb01f20d
-    id: QxemLb8-5AA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-13-video/QxemLb8-5AA.srt
-  - uid: afdad67abafdd95687062a1a7b376048
-    parent_uid: 1852b25a92e7ed0297f65149bb01f20d
-    id: QxemLb8-5AA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-13-video/QxemLb8-5AA.pdf
-  - uid: 0ca97a0a42d823f12513144110cd1112
-    parent_uid: 1852b25a92e7ed0297f65149bb01f20d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: aa17539625ae92d50cd1ede75d056e92
-    parent_uid: 1852b25a92e7ed0297f65149bb01f20d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 39ee9e71cf3d66f1dafd02aaea82b5fa
-    parent_uid: 1852b25a92e7ed0297f65149bb01f20d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec13_300k.mp4'
+uid: 1852b25a92e7ed0297f65149bb01f20d
 type: courses
 layout: video
 ---

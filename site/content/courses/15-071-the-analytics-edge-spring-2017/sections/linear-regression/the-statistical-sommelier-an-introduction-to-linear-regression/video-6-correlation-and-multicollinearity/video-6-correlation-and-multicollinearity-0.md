@@ -1,13 +1,62 @@
 ---
-title: 'Video 6: Correlation and Multicollinearity'
-uid: b1f84e0e4096e15fc254e782612a2cea
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: gE1wRDQMR8E
+    parent_uid: b1f84e0e4096e15fc254e782612a2cea
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 004aa480fc57a6c0c0bce3a6a99528f2
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: gE1wRDQMR8E
+    parent_uid: b1f84e0e4096e15fc254e782612a2cea
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2bdafea0707d3c0e3c752a1db70ebdf2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/gE1wRDQMR8E/default.jpg'
+    parent_uid: b1f84e0e4096e15fc254e782612a2cea
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a63999263ac8a79b54106f7f56f0f06d
+  - id: gE1wRDQMR8E.srt
+    parent_uid: b1f84e0e4096e15fc254e782612a2cea
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-6-correlation-and-multicollinearity/video-6-correlation-and-multicollinearity-0/gE1wRDQMR8E.srt
+    title: 3play caption file
+    type: null
+    uid: f6b2b7d63608d969714350de2c776520
+  - id: gE1wRDQMR8E.pdf
+    parent_uid: b1f84e0e4096e15fc254e782612a2cea
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-6-correlation-and-multicollinearity/video-6-correlation-and-multicollinearity-0/gE1wRDQMR8E.pdf
+    title: 3play pdf file
+    type: null
+    uid: 120783a44b4668f1b093e9e1fa689cbb
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b1f84e0e4096e15fc254e782612a2cea
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f3f0d9642c52186eabffd9f274d97540
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b1f84e0e4096e15fc254e782612a2cea
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c99bc9af40db0b16fb4aaeb225211e62
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.2.11_300k.mp4
+    parent_uid: b1f84e0e4096e15fc254e782612a2cea
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f1385d1a900d4b94731789ef99e67020
+inline_embed_id: 11313674video6correlationandmulticollinearity27448499
 parent_uid: 1ab830be7abc5468421c996f95e8e252
+related_resources_text: ''
+short_url: video-6-correlation-and-multicollinearity-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-6-correlation-and-multicollinearity/video-6-correlation-and-multicollinearity-0
-short_url: video-6-correlation-and-multicollinearity-0
-inline_embed_id: 11313674video6correlationandmulticollinearity27448499
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 6: Correlation and Multicollinearity'
 transcript: >-
   <p><span m='4500'>In</span> <span m='4863'>the</span> <span
   m='5226'>previous</span> <span m='5590'>video,</span> <span m='5953'>we</span>
@@ -432,56 +481,7 @@ transcript: >-
   m='441300'>WinterRain,</span> <span m='441921'>and</span> <span
   m='442542'>Age</span> <span m='443164'>as</span> <span m='443785'>the</span>
   <span m='444407'>independent</span> <span m='445028'>variables.</span> </p>
-embedded_media:
-  - uid: 004aa480fc57a6c0c0bce3a6a99528f2
-    parent_uid: b1f84e0e4096e15fc254e782612a2cea
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: gE1wRDQMR8E
-  - uid: 2bdafea0707d3c0e3c752a1db70ebdf2
-    parent_uid: b1f84e0e4096e15fc254e782612a2cea
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: gE1wRDQMR8E
-  - uid: a63999263ac8a79b54106f7f56f0f06d
-    parent_uid: b1f84e0e4096e15fc254e782612a2cea
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/gE1wRDQMR8E/default.jpg'
-  - uid: f6b2b7d63608d969714350de2c776520
-    parent_uid: b1f84e0e4096e15fc254e782612a2cea
-    id: gE1wRDQMR8E.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-6-correlation-and-multicollinearity/video-6-correlation-and-multicollinearity-0/gE1wRDQMR8E.srt
-  - uid: 120783a44b4668f1b093e9e1fa689cbb
-    parent_uid: b1f84e0e4096e15fc254e782612a2cea
-    id: gE1wRDQMR8E.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-6-correlation-and-multicollinearity/video-6-correlation-and-multicollinearity-0/gE1wRDQMR8E.pdf
-  - uid: f3f0d9642c52186eabffd9f274d97540
-    parent_uid: b1f84e0e4096e15fc254e782612a2cea
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c99bc9af40db0b16fb4aaeb225211e62
-    parent_uid: b1f84e0e4096e15fc254e782612a2cea
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f1385d1a900d4b94731789ef99e67020
-    parent_uid: b1f84e0e4096e15fc254e782612a2cea
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.2.11_300k.mp4
+uid: b1f84e0e4096e15fc254e782612a2cea
 type: courses
 layout: video
 ---

@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: Solving the Problem'
-uid: b0a067b1f56c20184be028a4f9d79d43
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: UjbutTp3z3I
+    parent_uid: b0a067b1f56c20184be028a4f9d79d43
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5df89d88abd1a77d7782d742fcfb702c
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: UjbutTp3z3I
+    parent_uid: b0a067b1f56c20184be028a4f9d79d43
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 705c129ad3d4cd41a0e20c1c6142ea25
+  - id: UjbutTp3z3I.srt
+    parent_uid: b0a067b1f56c20184be028a4f9d79d43
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-3-solving-the-problem/video-3-solving-the-problem-0/UjbutTp3z3I.srt
+    title: 3play caption file
+    type: null
+    uid: 33b77fb111838a4541543a99cd7f8e0f
+  - id: UjbutTp3z3I.pdf
+    parent_uid: b0a067b1f56c20184be028a4f9d79d43
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-3-solving-the-problem/video-3-solving-the-problem-0/UjbutTp3z3I.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8e1057806401b723b5bbbd7120b8c4ba
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b0a067b1f56c20184be028a4f9d79d43
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9f0b4df63e40e02c2fd63dc537567215
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b0a067b1f56c20184be028a4f9d79d43
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 097382262b8c24cccaf21d9edae51111
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/UjbutTp3z3I/default.jpg'
+    parent_uid: b0a067b1f56c20184be028a4f9d79d43
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9170bd00c967146446ac5b5130b33abc
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.3.05_300k.mp4
+    parent_uid: b0a067b1f56c20184be028a4f9d79d43
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e498bd6dabb0692734fd33d9b66eb38e
+inline_embed_id: 67047392video3solvingtheproblem51384177
 parent_uid: 45f1617526496ba1fed2d4528a0cc423
+related_resources_text: ''
+short_url: video-3-solving-the-problem-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-3-solving-the-problem/video-3-solving-the-problem-0
-short_url: video-3-solving-the-problem-0
-inline_embed_id: 67047392video3solvingtheproblem51384177
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: Solving the Problem'
 transcript: >-
   <p><span m='4500'>In</span> <span m='4985'>this</span> <span
   m='5470'>video,</span> <span m='5955'>we'll</span> <span m='6440'>solve</span>
@@ -513,56 +562,7 @@ transcript: >-
   m='491664'>is</span> <span m='492065'>on</span> <span m='492466'>an</span>
   <span m='492867'>actual</span> <span m='493268'>tumor</span> <span
   m='493669'>case.</span> </p>
-embedded_media:
-  - uid: 5df89d88abd1a77d7782d742fcfb702c
-    parent_uid: b0a067b1f56c20184be028a4f9d79d43
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: UjbutTp3z3I
-  - uid: 705c129ad3d4cd41a0e20c1c6142ea25
-    parent_uid: b0a067b1f56c20184be028a4f9d79d43
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: UjbutTp3z3I
-  - uid: 33b77fb111838a4541543a99cd7f8e0f
-    parent_uid: b0a067b1f56c20184be028a4f9d79d43
-    id: UjbutTp3z3I.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-3-solving-the-problem/video-3-solving-the-problem-0/UjbutTp3z3I.srt
-  - uid: 8e1057806401b723b5bbbd7120b8c4ba
-    parent_uid: b0a067b1f56c20184be028a4f9d79d43
-    id: UjbutTp3z3I.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-3-solving-the-problem/video-3-solving-the-problem-0/UjbutTp3z3I.pdf
-  - uid: 9f0b4df63e40e02c2fd63dc537567215
-    parent_uid: b0a067b1f56c20184be028a4f9d79d43
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 097382262b8c24cccaf21d9edae51111
-    parent_uid: b0a067b1f56c20184be028a4f9d79d43
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9170bd00c967146446ac5b5130b33abc
-    parent_uid: b0a067b1f56c20184be028a4f9d79d43
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/UjbutTp3z3I/default.jpg'
-  - uid: e498bd6dabb0692734fd33d9b66eb38e
-    parent_uid: b0a067b1f56c20184be028a4f9d79d43
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.3.05_300k.mp4
+uid: b0a067b1f56c20184be028a4f9d79d43
 type: courses
 layout: video
 ---

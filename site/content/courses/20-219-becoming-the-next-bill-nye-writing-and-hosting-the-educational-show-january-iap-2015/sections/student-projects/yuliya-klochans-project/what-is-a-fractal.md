@@ -1,11 +1,4 @@
 ---
-title: What Is A Fractal?
-uid: 6594298b14f3b172be086831319ae826
-parent_uid: 199a8a68327fee7d62ee54642710c541
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/what-is-a-fractal
-short_url: what-is-a-fractal
-inline_embed_id: 47987530whatisafractal?92230816
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,63 @@ about_this_resource_text: >-
   Commons BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: WFtTdf3I6Ug
+    parent_uid: 6594298b14f3b172be086831319ae826
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fdef53c1ad7b2a0495c16228765e4bed
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/WFtTdf3I6Ug/default.jpg'
+    parent_uid: 6594298b14f3b172be086831319ae826
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 15c5d77f8a7aa8de06c3fe9b3a3490a1
+  - id: what_is_a_fractal.srt
+    parent_uid: 6594298b14f3b172be086831319ae826
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/what-is-a-fractal/what_is_a_fractal.srt
+    title: what_is_a_fractal.srt
+    type: null
+    uid: 6588e3377f62d83e58010154fa354a3e
+  - id: Caption-OCW-SRT
+    parent_uid: 6594298b14f3b172be086831319ae826
+    title: Caption-OCW-SRT-English - US
+    type: Caption
+    uid: a7eec2b0e9dac2e7df8d31bc6018b7c1
+  - id: what_is_a_fractal.pdf
+    parent_uid: 6594298b14f3b172be086831319ae826
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/what-is-a-fractal/what_is_a_fractal.pdf
+    title: what_is_a_fractal.srt
+    type: null
+    uid: e3e1e19db481bf1d39ebdec23adfdaae
+  - id: Transcript-OCW-PDF
+    parent_uid: 6594298b14f3b172be086831319ae826
+    title: Transcript-OCW-PDF-English - US
+    type: Transcript
+    uid: 1638266e7bc1f37e84835e115e118881
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 6594298b14f3b172be086831319ae826
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a35c2238db43a7c139bd49cc42a59df5
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_YK_SOL_What_Is_A_Fractal_360p.mp4
+    parent_uid: 6594298b14f3b172be086831319ae826
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c8cab4f2f91010c302841ff5bc3cdbdd
+inline_embed_id: 47987530whatisafractal?92230816
+parent_uid: 199a8a68327fee7d62ee54642710c541
 related_resources_text: ''
+short_url: what-is-a-fractal
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/what-is-a-fractal
+title: What Is A Fractal?
 transcript: >-
   <p>[MUSIC PLAYING] <br /><br />[SINGING] Science out loud.<br /><br />What do
   snowflakes and cellphones have in common?<br /><br />The answer is never
@@ -77,56 +126,7 @@ transcript: >-
   />Thanks for watching &quot;Science Out Loud.&quot; Check out these other
   awesome videos, and visit our website.<br /><br />Good.<br /><br />Now wait
   for it.<br /><br />OK.<br /><br />That's it.</p>
-embedded_media:
-  - uid: fdef53c1ad7b2a0495c16228765e4bed
-    parent_uid: 6594298b14f3b172be086831319ae826
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: WFtTdf3I6Ug
-  - uid: 15c5d77f8a7aa8de06c3fe9b3a3490a1
-    parent_uid: 6594298b14f3b172be086831319ae826
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/WFtTdf3I6Ug/default.jpg'
-  - uid: 6588e3377f62d83e58010154fa354a3e
-    parent_uid: 6594298b14f3b172be086831319ae826
-    id: what_is_a_fractal.srt
-    title: what_is_a_fractal.srt
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/what-is-a-fractal/what_is_a_fractal.srt
-  - uid: a7eec2b0e9dac2e7df8d31bc6018b7c1
-    parent_uid: 6594298b14f3b172be086831319ae826
-    id: Caption-OCW-SRT
-    title: Caption-OCW-SRT-English - US
-    type: Caption
-  - uid: e3e1e19db481bf1d39ebdec23adfdaae
-    parent_uid: 6594298b14f3b172be086831319ae826
-    id: what_is_a_fractal.pdf
-    title: what_is_a_fractal.srt
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/what-is-a-fractal/what_is_a_fractal.pdf
-  - uid: 1638266e7bc1f37e84835e115e118881
-    parent_uid: 6594298b14f3b172be086831319ae826
-    id: Transcript-OCW-PDF
-    title: Transcript-OCW-PDF-English - US
-    type: Transcript
-  - uid: a35c2238db43a7c139bd49cc42a59df5
-    parent_uid: 6594298b14f3b172be086831319ae826
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: c8cab4f2f91010c302841ff5bc3cdbdd
-    parent_uid: 6594298b14f3b172be086831319ae826
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_YK_SOL_What_Is_A_Fractal_360p.mp4
+uid: 6594298b14f3b172be086831319ae826
 type: courses
 layout: video
 ---

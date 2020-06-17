@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 13: Randomized Matrix Multiplication'
-uid: 2bb8ddfac31fb6dec6c925e041b98efd
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-13-randomized-matrix-multiplication
-short_url: lecture-13-randomized-matrix-multiplication
-inline_embed_id: 75368087lecture13randomizedmatrixmanipulation16325157
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>This lecture focuses on randomized
   linear algebra, specifically on randomized matrix multiplication. This process
@@ -17,7 +10,62 @@ about_this_resource_text: >-
   /> Mean&nbsp;\(= AB\) (correct) and&nbsp;variance to be minimized</p>
   <p>Related section in textbook: II.4</p> <p><strong>Instructor:</strong> Prof.
   Gilbert Strang</p>
+embedded_media:
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture13_300k.mp4'
+    parent_uid: 2bb8ddfac31fb6dec6c925e041b98efd
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5ba2fec570de9f5c7cfce1136e1b7c9f
+  - id: Video-YouTube-Stream
+    media_location: z0ykhV15wLw
+    parent_uid: 2bb8ddfac31fb6dec6c925e041b98efd
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7eb93782a81e03d562a7f93b8daef8ee
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/z0ykhV15wLw/default.jpg'
+    parent_uid: 2bb8ddfac31fb6dec6c925e041b98efd
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9580183cb835589374efb1122f3ba40a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: z0ykhV15wLw
+    parent_uid: 2bb8ddfac31fb6dec6c925e041b98efd
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 06ae7e642dd7e192723de485248ded62
+  - id: z0ykhV15wLw.srt
+    parent_uid: 2bb8ddfac31fb6dec6c925e041b98efd
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-13-randomized-matrix-multiplication/z0ykhV15wLw.srt
+    title: 3play caption file
+    type: null
+    uid: f8906e3e06012cced5f75153a6d31bd9
+  - id: z0ykhV15wLw.pdf
+    parent_uid: 2bb8ddfac31fb6dec6c925e041b98efd
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-13-randomized-matrix-multiplication/z0ykhV15wLw.pdf
+    title: 3play pdf file
+    type: null
+    uid: befc992075599da81462604db72bdab3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2bb8ddfac31fb6dec6c925e041b98efd
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b366b6ca1edcb463cbade29e3f66958b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2bb8ddfac31fb6dec6c925e041b98efd
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a8ad0acf5210502b9aac07f66ff4e301
+inline_embed_id: 75368087lecture13randomizedmatrixmanipulation16325157
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-13-randomized-matrix-multiplication
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-13-randomized-matrix-multiplication
+title: 'Lecture 13: Randomized Matrix Multiplication'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2673,55 +2721,7 @@ transcript: >-
   m="3139370">much</span> <span m="3139670">more</span> <span
   m="3139940">seriously</span> <span m="3140910">OK,</span> <span
   m="3141320">thank</span> <span m="3141620">you.</span></p>
-embedded_media:
-  - uid: 5ba2fec570de9f5c7cfce1136e1b7c9f
-    parent_uid: 2bb8ddfac31fb6dec6c925e041b98efd
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture13_300k.mp4'
-  - uid: 7eb93782a81e03d562a7f93b8daef8ee
-    parent_uid: 2bb8ddfac31fb6dec6c925e041b98efd
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: z0ykhV15wLw
-  - uid: 9580183cb835589374efb1122f3ba40a
-    parent_uid: 2bb8ddfac31fb6dec6c925e041b98efd
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/z0ykhV15wLw/default.jpg'
-  - uid: 06ae7e642dd7e192723de485248ded62
-    parent_uid: 2bb8ddfac31fb6dec6c925e041b98efd
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: z0ykhV15wLw
-  - uid: f8906e3e06012cced5f75153a6d31bd9
-    parent_uid: 2bb8ddfac31fb6dec6c925e041b98efd
-    id: z0ykhV15wLw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-13-randomized-matrix-multiplication/z0ykhV15wLw.srt
-  - uid: befc992075599da81462604db72bdab3
-    parent_uid: 2bb8ddfac31fb6dec6c925e041b98efd
-    id: z0ykhV15wLw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-13-randomized-matrix-multiplication/z0ykhV15wLw.pdf
-  - uid: b366b6ca1edcb463cbade29e3f66958b
-    parent_uid: 2bb8ddfac31fb6dec6c925e041b98efd
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a8ad0acf5210502b9aac07f66ff4e301
-    parent_uid: 2bb8ddfac31fb6dec6c925e041b98efd
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2bb8ddfac31fb6dec6c925e041b98efd
 type: courses
 layout: video
 ---

@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 18: Wave Plates, Radiation'
-uid: e5b491408e370115032e2e536ec08815
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Dlhma3z57SA
+    parent_uid: e5b491408e370115032e2e536ec08815
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7d41458dcf5c9e607d7f4727ed6ef3e7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Dlhma3z57SA/default.jpg'
+    parent_uid: e5b491408e370115032e2e536ec08815
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 67644838010c5894a2279338383ced0b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Dlhma3z57SA
+    parent_uid: e5b491408e370115032e2e536ec08815
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ff2937e5b8b9704edd75dd357312ec1a
+  - id: Dlhma3z57SA.srt
+    parent_uid: e5b491408e370115032e2e536ec08815
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-18-video/Dlhma3z57SA.srt
+    title: 3play caption file
+    type: null
+    uid: 1edf0671d16d38e0aded047b793d5f7f
+  - id: Dlhma3z57SA.pdf
+    parent_uid: e5b491408e370115032e2e536ec08815
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-18-video/Dlhma3z57SA.pdf
+    title: 3play pdf file
+    type: null
+    uid: d05408585fd2f008892a2f61a07655fd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e5b491408e370115032e2e536ec08815
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: af1f0627bd66501bb2bef6400cc18aae
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e5b491408e370115032e2e536ec08815
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: db6d7568791a04d56f5ecd04ffa12e79
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec18_300k.mp4'
+    parent_uid: e5b491408e370115032e2e536ec08815
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9892f1df12cfa2ca420fb970e4948c9f
+inline_embed_id: 39446509lecture18video54267491
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-18-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-18-video
-short_url: lecture-18-video
-inline_embed_id: 39446509lecture18video54267491
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 18: Wave Plates, Radiation'
 transcript: >-
   <p><span m="2490">The</span> <span m="2580">following</span> <span
   m="3030">content</span> <span m="3510">is</span> <span
@@ -4848,55 +4896,7 @@ transcript: >-
   m="5045870">we</span> <span m="5045920">have</span> <span
   m="5046070">done</span> <span m="5046540">in</span> <span
   m="5046840">class.</span></p>
-embedded_media:
-  - uid: 7d41458dcf5c9e607d7f4727ed6ef3e7
-    parent_uid: e5b491408e370115032e2e536ec08815
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Dlhma3z57SA
-  - uid: 67644838010c5894a2279338383ced0b
-    parent_uid: e5b491408e370115032e2e536ec08815
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Dlhma3z57SA/default.jpg'
-  - uid: ff2937e5b8b9704edd75dd357312ec1a
-    parent_uid: e5b491408e370115032e2e536ec08815
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Dlhma3z57SA
-  - uid: 1edf0671d16d38e0aded047b793d5f7f
-    parent_uid: e5b491408e370115032e2e536ec08815
-    id: Dlhma3z57SA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-18-video/Dlhma3z57SA.srt
-  - uid: d05408585fd2f008892a2f61a07655fd
-    parent_uid: e5b491408e370115032e2e536ec08815
-    id: Dlhma3z57SA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-18-video/Dlhma3z57SA.pdf
-  - uid: af1f0627bd66501bb2bef6400cc18aae
-    parent_uid: e5b491408e370115032e2e536ec08815
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: db6d7568791a04d56f5ecd04ffa12e79
-    parent_uid: e5b491408e370115032e2e536ec08815
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9892f1df12cfa2ca420fb970e4948c9f
-    parent_uid: e5b491408e370115032e2e536ec08815
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec18_300k.mp4'
+uid: e5b491408e370115032e2e536ec08815
 type: courses
 layout: video
 ---

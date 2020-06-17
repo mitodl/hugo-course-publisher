@@ -1,13 +1,68 @@
 ---
-title: Solving Ax=0
-uid: 2188d301df19f1088846bba4385ce874
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 3cMyj8EKFGo
+    parent_uid: 2188d301df19f1088846bba4385ce874
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2575e606be5ca83d75aae22643a0c365
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: 3cMyj8EKFGo
+    parent_uid: 2188d301df19f1088846bba4385ce874
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f21086e394cb6475b1ff135b8a273ba4
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/itunes-u/solving-ax-0/id488155309?i=108454337'
+    parent_uid: 2188d301df19f1088846bba4385ce874
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f1728c26feaa0bee598115d35dffc257
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_M2_300k.mp4
+    parent_uid: 2188d301df19f1088846bba4385ce874
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ffa2d493538a8ce4ce6e98008e77d5b9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/3cMyj8EKFGo/default.jpg'
+    parent_uid: 2188d301df19f1088846bba4385ce874
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bade4aada2527de9d2a3140cead65f6f
+  - id: 3cMyj8EKFGo.srt
+    parent_uid: 2188d301df19f1088846bba4385ce874
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/solving-ax-0/3cMyj8EKFGo.srt
+    title: 3play caption file
+    type: null
+    uid: e90fdb554efcc5eb4c6cfd9cad60a815
+  - id: 3cMyj8EKFGo.pdf
+    parent_uid: 2188d301df19f1088846bba4385ce874
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/solving-ax-0/3cMyj8EKFGo.pdf
+    title: 3play pdf file
+    type: null
+    uid: e48cdbd12025cad3a61600319f38f19e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2188d301df19f1088846bba4385ce874
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6b44b3df02233ada9b1259cfcaf83251
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2188d301df19f1088846bba4385ce874
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4df45ba4654b02345067f22a6a01662b
+inline_embed_id: 90457214solvingax=059312119
 parent_uid: 0689e9a0f66ba169b57a71e60e59cfa2
+related_resources_text: ''
+short_url: solving-ax-0
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/solving-ax-0
-short_url: solving-ax-0
-inline_embed_id: 90457214solvingax=059312119
-about_this_resource_text: ''
-related_resources_text: ''
+title: Solving Ax=0
 transcript: >-
   <p><span m='8180'>MARTINA BALAGOVIC: Hi.</span> <span m='8560'>Welcome</span>
   <span m='8970'>back.</span> </p><p><span m='9740'>Today's</span> <span
@@ -561,62 +616,7 @@ transcript: >-
   <span m='599720'>half</span> <span m='599960'>of</span> <span
   m='600080'>the</span> <span m='600160'>board.</span> </p><p><span
   m='600870'>Thank</span> <span m='601080'>you.</span> </p>
-embedded_media:
-  - uid: 2575e606be5ca83d75aae22643a0c365
-    parent_uid: 2188d301df19f1088846bba4385ce874
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 3cMyj8EKFGo
-  - uid: f21086e394cb6475b1ff135b8a273ba4
-    parent_uid: 2188d301df19f1088846bba4385ce874
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 3cMyj8EKFGo
-  - uid: f1728c26feaa0bee598115d35dffc257
-    parent_uid: 2188d301df19f1088846bba4385ce874
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/itunes-u/solving-ax-0/id488155309?i=108454337'
-  - uid: ffa2d493538a8ce4ce6e98008e77d5b9
-    parent_uid: 2188d301df19f1088846bba4385ce874
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_M2_300k.mp4
-  - uid: bade4aada2527de9d2a3140cead65f6f
-    parent_uid: 2188d301df19f1088846bba4385ce874
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/3cMyj8EKFGo/default.jpg'
-  - uid: e90fdb554efcc5eb4c6cfd9cad60a815
-    parent_uid: 2188d301df19f1088846bba4385ce874
-    id: 3cMyj8EKFGo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/solving-ax-0/3cMyj8EKFGo.srt
-  - uid: e48cdbd12025cad3a61600319f38f19e
-    parent_uid: 2188d301df19f1088846bba4385ce874
-    id: 3cMyj8EKFGo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/solving-ax-0/3cMyj8EKFGo.pdf
-  - uid: 6b44b3df02233ada9b1259cfcaf83251
-    parent_uid: 2188d301df19f1088846bba4385ce874
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4df45ba4654b02345067f22a6a01662b
-    parent_uid: 2188d301df19f1088846bba4385ce874
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2188d301df19f1088846bba4385ce874
 type: courses
 layout: video
 ---

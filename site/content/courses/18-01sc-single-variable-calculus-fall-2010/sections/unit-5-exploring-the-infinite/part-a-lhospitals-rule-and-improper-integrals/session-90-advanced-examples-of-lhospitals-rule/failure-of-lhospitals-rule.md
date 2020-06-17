@@ -1,13 +1,68 @@
 ---
-title: Failure of L'Hospital's Rule
-uid: 23df603fd6c79a16488d6b9ae507e8da
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: QKXAd2PhZGY
+    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2e26c2e055797191bdd3c230686f4206
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QKXAd2PhZGY/default.jpg'
+    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0a393e9b0d27991d94f6abb462c75c9b
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/failure-of-lhospitals-rule/id414308064?i=90320237
+    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: de2d18a88a9c0e0e92b985c30173754b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_68_300k.mp4'
+    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d11dfff1f4f329982835219ba2d2aff6
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: QKXAd2PhZGY
+    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ed0c1d879f06b2ad06cd67ff5edae4df
+  - id: QKXAd2PhZGY.srt
+    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/failure-of-lhospitals-rule/QKXAd2PhZGY.srt
+    title: 3play caption file
+    type: null
+    uid: 72fe732822f61af71733a5f9243b7f99
+  - id: QKXAd2PhZGY.pdf
+    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/failure-of-lhospitals-rule/QKXAd2PhZGY.pdf
+    title: 3play pdf file
+    type: null
+    uid: dd26a069564906158791b3b58770af34
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0fadb46159e5eb73e033c81e96f205b1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: eae0e76c6eb90f0375e8ec754838325e
+inline_embed_id: 94551339failureofl'hospital'srule69092265
 parent_uid: 6cc72b08f8717a2d7b737df7f698c876
+related_resources_text: ''
+short_url: failure-of-lhospitals-rule
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/failure-of-lhospitals-rule
-short_url: failure-of-lhospitals-rule
-inline_embed_id: 94551339failureofl'hospital'srule69092265
-about_this_resource_text: ''
-related_resources_text: ''
+title: Failure of L'Hospital's Rule
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='6950'>Hi,</span> <span
   m='7380'>welcome</span> <span m='7690'>back</span> <span m='7880'>to</span>
@@ -428,62 +483,7 @@ transcript: >-
   m='352980'>the</span> <span m='353090'>limit</span> <span m='353330'>in</span>
   <span m='353400'>question.</span> <span m='354330'>So</span> <span
   m='354560'>I'll end there.</span> </p>
-embedded_media:
-  - uid: 2e26c2e055797191bdd3c230686f4206
-    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QKXAd2PhZGY
-  - uid: 0a393e9b0d27991d94f6abb462c75c9b
-    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QKXAd2PhZGY/default.jpg'
-  - uid: de2d18a88a9c0e0e92b985c30173754b
-    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/failure-of-lhospitals-rule/id414308064?i=90320237
-  - uid: d11dfff1f4f329982835219ba2d2aff6
-    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_68_300k.mp4'
-  - uid: ed0c1d879f06b2ad06cd67ff5edae4df
-    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QKXAd2PhZGY
-  - uid: 72fe732822f61af71733a5f9243b7f99
-    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
-    id: QKXAd2PhZGY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/failure-of-lhospitals-rule/QKXAd2PhZGY.srt
-  - uid: dd26a069564906158791b3b58770af34
-    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
-    id: QKXAd2PhZGY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/failure-of-lhospitals-rule/QKXAd2PhZGY.pdf
-  - uid: 0fadb46159e5eb73e033c81e96f205b1
-    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: eae0e76c6eb90f0375e8ec754838325e
-    parent_uid: 23df603fd6c79a16488d6b9ae507e8da
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 23df603fd6c79a16488d6b9ae507e8da
 type: courses
 layout: video
 ---

@@ -1,15 +1,69 @@
 ---
-title: 'Lecture 25: Ross Recovery Theorem'
-uid: f891df1551a756f8896f269b14c4a827
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-25-ross-recovery-theorem
-short_url: lecture-25-ross-recovery-theorem
-inline_embed_id: '77770939lecture25:rossrecoverytheorem1878505'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This guest lecture features the Ross Recovery
   Theorem.</p> <p><strong>Instructor:</strong> Peter Carr</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: vc5dotshPZc
+    parent_uid: f891df1551a756f8896f269b14c4a827
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f63ae0d310d0dbca9778109e051a5328
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/vc5dotshPZc/default.jpg'
+    parent_uid: f891df1551a756f8896f269b14c4a827
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3689199e9160328ae44a5273d85a77ef
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: f891df1551a756f8896f269b14c4a827
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9e0e0f47ca8c478e17f2e58d10e081bf
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec25_300k.mp4'
+    parent_uid: f891df1551a756f8896f269b14c4a827
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2c078e10db506862ed8f3bbdc6c05560
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: vc5dotshPZc
+    parent_uid: f891df1551a756f8896f269b14c4a827
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2b66b2f3b4227fb2481c56bd290ea6b6
+  - id: vc5dotshPZc.srt
+    parent_uid: f891df1551a756f8896f269b14c4a827
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-25-ross-recovery-theorem/vc5dotshPZc.srt
+    title: 3play caption file
+    type: null
+    uid: 291a18add2234d0c5a83a2bfe31893b6
+  - id: vc5dotshPZc.pdf
+    parent_uid: f891df1551a756f8896f269b14c4a827
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-25-ross-recovery-theorem/vc5dotshPZc.pdf
+    title: 3play pdf file
+    type: null
+    uid: cd62b78e8387fd565da5ac25c75b7782
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f891df1551a756f8896f269b14c4a827
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7ec8851f7eab1f3b0fe0e69fe9004593
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f891df1551a756f8896f269b14c4a827
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0b7296bb8face98655d1705994ca960f
+inline_embed_id: '77770939lecture25:rossrecoverytheorem1878505'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-25-ross-recovery-theorem
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-25-ross-recovery-theorem
+title: 'Lecture 25: Ross Recovery Theorem'
 transcript: >-
   <p><span m='60'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -5308,61 +5362,7 @@ transcript: >-
   m='5262340'>I</span> <span m='5262390'>wanted</span> <span
   m='5262610'>to</span> <span m='5262650'>say</span> <span
   m='5262980'>today.</span> <span m='5263410'>Thanks.</span> </p>
-embedded_media:
-  - uid: f63ae0d310d0dbca9778109e051a5328
-    parent_uid: f891df1551a756f8896f269b14c4a827
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: vc5dotshPZc
-  - uid: 3689199e9160328ae44a5273d85a77ef
-    parent_uid: f891df1551a756f8896f269b14c4a827
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/vc5dotshPZc/default.jpg'
-  - uid: 9e0e0f47ca8c478e17f2e58d10e081bf
-    parent_uid: f891df1551a756f8896f269b14c4a827
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: 2c078e10db506862ed8f3bbdc6c05560
-    parent_uid: f891df1551a756f8896f269b14c4a827
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec25_300k.mp4'
-  - uid: 2b66b2f3b4227fb2481c56bd290ea6b6
-    parent_uid: f891df1551a756f8896f269b14c4a827
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: vc5dotshPZc
-  - uid: 291a18add2234d0c5a83a2bfe31893b6
-    parent_uid: f891df1551a756f8896f269b14c4a827
-    id: vc5dotshPZc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-25-ross-recovery-theorem/vc5dotshPZc.srt
-  - uid: cd62b78e8387fd565da5ac25c75b7782
-    parent_uid: f891df1551a756f8896f269b14c4a827
-    id: vc5dotshPZc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-25-ross-recovery-theorem/vc5dotshPZc.pdf
-  - uid: 7ec8851f7eab1f3b0fe0e69fe9004593
-    parent_uid: f891df1551a756f8896f269b14c4a827
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0b7296bb8face98655d1705994ca960f
-    parent_uid: f891df1551a756f8896f269b14c4a827
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f891df1551a756f8896f269b14c4a827
 type: courses
 layout: video
 ---

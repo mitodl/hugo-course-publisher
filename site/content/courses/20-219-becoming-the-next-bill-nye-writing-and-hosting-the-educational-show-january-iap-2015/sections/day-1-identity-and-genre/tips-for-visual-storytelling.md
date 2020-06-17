@@ -1,13 +1,67 @@
 ---
-title: Tips for visual storytelling
-uid: 9dd406014e765fac156b92788ddde331
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 17uL1VoaWTQ
+    parent_uid: 9dd406014e765fac156b92788ddde331
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4d77014c55001eb2601308b81602f633
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/17uL1VoaWTQ/default.jpg'
+    parent_uid: 9dd406014e765fac156b92788ddde331
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8723b832576983403eaa0bb540090973
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 17uL1VoaWTQ
+    parent_uid: 9dd406014e765fac156b92788ddde331
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d987fc7443a5df2d3a45030e460caba7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 9dd406014e765fac156b92788ddde331
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8cb2c6df5e9f8c601cb0964584a73911
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D01P2_300k.mp4'
+    parent_uid: 9dd406014e765fac156b92788ddde331
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4b0b16a8787a2c6acd3c170b3a8a5080
+  - id: 17uL1VoaWTQ.srt
+    parent_uid: 9dd406014e765fac156b92788ddde331
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/tips-for-visual-storytelling/17uL1VoaWTQ.srt
+    title: 3play caption file
+    type: null
+    uid: 20680a95089581a58f776d1c09606f7a
+  - id: 17uL1VoaWTQ.pdf
+    parent_uid: 9dd406014e765fac156b92788ddde331
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/tips-for-visual-storytelling/17uL1VoaWTQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2225a651a2f1fc10f6e68d69da5081e0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9dd406014e765fac156b92788ddde331
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 48a9ce0cd79c424d0a8363ecf8240d45
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9dd406014e765fac156b92788ddde331
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 81296151d2c7da2f9e2775474edeb24f
+inline_embed_id: 51562128tipsforvisualstorytelling47572541
 parent_uid: e7ab07a59bf478a18a95a815093ec211
+related_resources_text: ''
+short_url: tips-for-visual-storytelling
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/tips-for-visual-storytelling
-short_url: tips-for-visual-storytelling
-inline_embed_id: 51562128tipsforvisualstorytelling47572541
-about_this_resource_text: ''
-related_resources_text: ''
+title: Tips for visual storytelling
 transcript: >-
   <p><span m='80'>The</span> <span m='170'>following</span> <span
   m='610'>content</span> <span m='1120'>is</span> <span m='1230'>provided</span>
@@ -2569,61 +2623,7 @@ transcript: >-
   m='2186990'>going</span> <span m='2187090'>to</span> <span
   m='2187130'>be</span> <span m='2187210'>doing</span> <span m='2187420'>this
   week.</span> </p>
-embedded_media:
-  - uid: 4d77014c55001eb2601308b81602f633
-    parent_uid: 9dd406014e765fac156b92788ddde331
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 17uL1VoaWTQ
-  - uid: 8723b832576983403eaa0bb540090973
-    parent_uid: 9dd406014e765fac156b92788ddde331
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/17uL1VoaWTQ/default.jpg'
-  - uid: d987fc7443a5df2d3a45030e460caba7
-    parent_uid: 9dd406014e765fac156b92788ddde331
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 17uL1VoaWTQ
-  - uid: 8cb2c6df5e9f8c601cb0964584a73911
-    parent_uid: 9dd406014e765fac156b92788ddde331
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 4b0b16a8787a2c6acd3c170b3a8a5080
-    parent_uid: 9dd406014e765fac156b92788ddde331
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D01P2_300k.mp4'
-  - uid: 20680a95089581a58f776d1c09606f7a
-    parent_uid: 9dd406014e765fac156b92788ddde331
-    id: 17uL1VoaWTQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/tips-for-visual-storytelling/17uL1VoaWTQ.srt
-  - uid: 2225a651a2f1fc10f6e68d69da5081e0
-    parent_uid: 9dd406014e765fac156b92788ddde331
-    id: 17uL1VoaWTQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/tips-for-visual-storytelling/17uL1VoaWTQ.pdf
-  - uid: 48a9ce0cd79c424d0a8363ecf8240d45
-    parent_uid: 9dd406014e765fac156b92788ddde331
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 81296151d2c7da2f9e2775474edeb24f
-    parent_uid: 9dd406014e765fac156b92788ddde331
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9dd406014e765fac156b92788ddde331
 type: courses
 layout: video
 ---

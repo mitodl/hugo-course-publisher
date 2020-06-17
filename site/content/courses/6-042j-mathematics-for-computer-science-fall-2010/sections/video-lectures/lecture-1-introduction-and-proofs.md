@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 1: Introduction and Proofs'
-uid: db3197f76341e5017ef08ba6f5850f78
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-1-introduction-and-proofs
-short_url: lecture-1-introduction-and-proofs
-inline_embed_id: '11100204lecture1:introductionandproofs59158979'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Introduction to mathematical proofs using
   axioms and propositions. Covers basics of truth tables and implications, as
   well as some famous hypotheses and conjectures.</p>
   <p><strong>Speaker:</strong> Tom Leighton</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: L3LMbpZIKhQ
+    parent_uid: db3197f76341e5017ef08ba6f5850f78
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8c53cd880efdee21e185fb47b0d24583
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/L3LMbpZIKhQ/default.jpg'
+    parent_uid: db3197f76341e5017ef08ba6f5850f78
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fec4770d545a0cbd85ea3f5bcbc7299e
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec01_300k.mp4'
+    parent_uid: db3197f76341e5017ef08ba6f5850f78
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 811a4f24c781b59dba8e30a78883c1d7
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-1-introduction-proofs/id503873536?i=110644965
+    parent_uid: db3197f76341e5017ef08ba6f5850f78
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bb3ffe13f3b57d41eb7d74bb7e1ee868
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: L3LMbpZIKhQ
+    parent_uid: db3197f76341e5017ef08ba6f5850f78
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 26e1abc444fbdd0ff246f54795182409
+  - id: L3LMbpZIKhQ.srt
+    parent_uid: db3197f76341e5017ef08ba6f5850f78
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-1-introduction-and-proofs/L3LMbpZIKhQ.srt
+    title: 3play caption file
+    type: null
+    uid: 2cd6a62acd1e49a2c259def173de6701
+  - id: L3LMbpZIKhQ.pdf
+    parent_uid: db3197f76341e5017ef08ba6f5850f78
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-1-introduction-and-proofs/L3LMbpZIKhQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 35948f025420c52f2c6c18d2da9e266b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: db3197f76341e5017ef08ba6f5850f78
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: df11036264505446ea173199950f3950
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: db3197f76341e5017ef08ba6f5850f78
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 444775662152b0f660e49e9e5875e452
+inline_embed_id: '11100204lecture1:introductionandproofs59158979'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-1-introduction-and-proofs
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-1-introduction-and-proofs
+title: 'Lecture 1: Introduction and Proofs'
 transcript: >-
   <p><span m='570'>The</span> <span m='680'>following</span> <span
   m='1120'>content</span> <span m='1710'>is</span> <span
@@ -2461,62 +2516,7 @@ transcript: >-
   m='2643660'>do</span> <span m='2643780'>more of</span> <span
   m='2643970'>this</span> <span m='2644170'>next</span> <span
   m='2644470'>time.</span> </p>
-embedded_media:
-  - uid: 8c53cd880efdee21e185fb47b0d24583
-    parent_uid: db3197f76341e5017ef08ba6f5850f78
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: L3LMbpZIKhQ
-  - uid: fec4770d545a0cbd85ea3f5bcbc7299e
-    parent_uid: db3197f76341e5017ef08ba6f5850f78
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/L3LMbpZIKhQ/default.jpg'
-  - uid: 811a4f24c781b59dba8e30a78883c1d7
-    parent_uid: db3197f76341e5017ef08ba6f5850f78
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec01_300k.mp4'
-  - uid: bb3ffe13f3b57d41eb7d74bb7e1ee868
-    parent_uid: db3197f76341e5017ef08ba6f5850f78
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-1-introduction-proofs/id503873536?i=110644965
-  - uid: 26e1abc444fbdd0ff246f54795182409
-    parent_uid: db3197f76341e5017ef08ba6f5850f78
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: L3LMbpZIKhQ
-  - uid: 2cd6a62acd1e49a2c259def173de6701
-    parent_uid: db3197f76341e5017ef08ba6f5850f78
-    id: L3LMbpZIKhQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-1-introduction-and-proofs/L3LMbpZIKhQ.srt
-  - uid: 35948f025420c52f2c6c18d2da9e266b
-    parent_uid: db3197f76341e5017ef08ba6f5850f78
-    id: L3LMbpZIKhQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-1-introduction-and-proofs/L3LMbpZIKhQ.pdf
-  - uid: df11036264505446ea173199950f3950
-    parent_uid: db3197f76341e5017ef08ba6f5850f78
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 444775662152b0f660e49e9e5875e452
-    parent_uid: db3197f76341e5017ef08ba6f5850f78
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: db3197f76341e5017ef08ba6f5850f78
 type: courses
 layout: video
 ---

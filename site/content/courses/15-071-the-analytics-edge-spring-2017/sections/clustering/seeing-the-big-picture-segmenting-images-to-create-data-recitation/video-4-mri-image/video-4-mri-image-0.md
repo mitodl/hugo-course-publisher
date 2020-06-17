@@ -1,13 +1,62 @@
 ---
-title: 'Video 4: MRI Image'
-uid: 1f8fd9019e891e8faca428f0ff5b4254
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 35kwBJQwmLg
+    parent_uid: 1f8fd9019e891e8faca428f0ff5b4254
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 099ff99db4b3f21ac76e6627c9d30537
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 35kwBJQwmLg
+    parent_uid: 1f8fd9019e891e8faca428f0ff5b4254
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d9eb18f3400e5254bacfb049d1d0ef05
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/35kwBJQwmLg/default.jpg'
+    parent_uid: 1f8fd9019e891e8faca428f0ff5b4254
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a1233ea7e2717bb493fa39b2eece92ea
+  - id: 35kwBJQwmLg.srt
+    parent_uid: 1f8fd9019e891e8faca428f0ff5b4254
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-4-mri-image/video-4-mri-image-0/35kwBJQwmLg.srt
+    title: 3play caption file
+    type: null
+    uid: 1c4dd8971f3aaa9e68d6a77d4e8c0423
+  - id: 35kwBJQwmLg.pdf
+    parent_uid: 1f8fd9019e891e8faca428f0ff5b4254
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-4-mri-image/video-4-mri-image-0/35kwBJQwmLg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7fd75cf3a9a42143e0b605e9109a6528
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1f8fd9019e891e8faca428f0ff5b4254
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 830524ca17859ba1f46f58341bf6b050
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1f8fd9019e891e8faca428f0ff5b4254
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8b3d0480d9d1291d425548c095b463f7
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.4.06_300k.mp4
+    parent_uid: 1f8fd9019e891e8faca428f0ff5b4254
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: db8ff8088a808144fa9d41587d7e5a6f
+inline_embed_id: 7866801video4mriimage84460692
 parent_uid: 05a0aaf9347fba276e3af7cddfcf258b
+related_resources_text: ''
+short_url: video-4-mri-image-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-4-mri-image/video-4-mri-image-0
-short_url: video-4-mri-image-0
-inline_embed_id: 7866801video4mriimage84460692
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 4: MRI Image'
 transcript: >-
   <p><span m='4970'>In</span> <span m='5330'>this</span> <span
   m='5690'>video</span> <span m='6050'>we</span> <span m='6410'>will</span>
@@ -380,56 +429,7 @@ transcript: >-
   <span m='330268'>to</span> <span m='330635'>segment</span> <span
   m='331002'>the</span> <span m='331369'>MRI</span> <span
   m='331736'>brain</span> <span m='332103'>image.</span> </p>
-embedded_media:
-  - uid: 099ff99db4b3f21ac76e6627c9d30537
-    parent_uid: 1f8fd9019e891e8faca428f0ff5b4254
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 35kwBJQwmLg
-  - uid: d9eb18f3400e5254bacfb049d1d0ef05
-    parent_uid: 1f8fd9019e891e8faca428f0ff5b4254
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 35kwBJQwmLg
-  - uid: a1233ea7e2717bb493fa39b2eece92ea
-    parent_uid: 1f8fd9019e891e8faca428f0ff5b4254
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/35kwBJQwmLg/default.jpg'
-  - uid: 1c4dd8971f3aaa9e68d6a77d4e8c0423
-    parent_uid: 1f8fd9019e891e8faca428f0ff5b4254
-    id: 35kwBJQwmLg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-4-mri-image/video-4-mri-image-0/35kwBJQwmLg.srt
-  - uid: 7fd75cf3a9a42143e0b605e9109a6528
-    parent_uid: 1f8fd9019e891e8faca428f0ff5b4254
-    id: 35kwBJQwmLg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-4-mri-image/video-4-mri-image-0/35kwBJQwmLg.pdf
-  - uid: 830524ca17859ba1f46f58341bf6b050
-    parent_uid: 1f8fd9019e891e8faca428f0ff5b4254
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8b3d0480d9d1291d425548c095b463f7
-    parent_uid: 1f8fd9019e891e8faca428f0ff5b4254
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: db8ff8088a808144fa9d41587d7e5a6f
-    parent_uid: 1f8fd9019e891e8faca428f0ff5b4254
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.4.06_300k.mp4
+uid: 1f8fd9019e891e8faca428f0ff5b4254
 type: courses
 layout: video
 ---

@@ -1,18 +1,72 @@
 ---
-title: 'Clip 2: Graph of r = sin(2&theta;)'
-uid: d144a8dfa938110dc248250a5d0c0b71
-parent_uid: cfd25e33da1a2e54749f33591f59a4ba
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/clip-2-graph-of-r-sin-2theta
-short_url: clip-2-graph-of-r-sin-2theta
-inline_embed_id: '24755166clip2:graphofr=sin(2theta)92828609'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/af708d30978df0829e683d5ad3173cd6" title="Open
   in a new window." target="_blank">Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 33 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BGE3wb7H2PA
+    parent_uid: d144a8dfa938110dc248250a5d0c0b71
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 866f93f4f8066f87e02027193e483f3c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BGE3wb7H2PA/default.jpg'
+    parent_uid: d144a8dfa938110dc248250a5d0c0b71
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 72c34107b06adf85b09601ac0d6359ab
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BGE3wb7H2PA
+    parent_uid: d144a8dfa938110dc248250a5d0c0b71
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7b957eddeb5632c3feb2784ba08404a3
+  - id: BGE3wb7H2PA.srt
+    parent_uid: d144a8dfa938110dc248250a5d0c0b71
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/clip-2-graph-of-r-sin-2theta/BGE3wb7H2PA.srt
+    title: 3play caption file
+    type: null
+    uid: d4467eea5531fa31671cdc2b024181df
+  - id: BGE3wb7H2PA.pdf
+    parent_uid: d144a8dfa938110dc248250a5d0c0b71
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/clip-2-graph-of-r-sin-2theta/BGE3wb7H2PA.pdf
+    title: 3play pdf file
+    type: null
+    uid: defd3b3172e6f84d773a5b030c70db63
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d144a8dfa938110dc248250a5d0c0b71
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0230b82010b9310896e5e16ca2af616e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d144a8dfa938110dc248250a5d0c0b71
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9fe54863adbf8877e165c4f12a7fb9b6
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec33_300k.mp4'
+    parent_uid: d144a8dfa938110dc248250a5d0c0b71
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 884efaf5dd56d5a41acf7b7d27410d73
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: d144a8dfa938110dc248250a5d0c0b71
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1841df6224545355621c03a6d220f880
+inline_embed_id: '24755166clip2:graphofr=sin(2theta)92828609'
+parent_uid: cfd25e33da1a2e54749f33591f59a4ba
 related_resources_text: ''
+short_url: clip-2-graph-of-r-sin-2theta
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/clip-2-graph-of-r-sin-2theta
+title: 'Clip 2: Graph of r = sin(2&theta;)'
 transcript: >-
   <p><span m="0">The</span> <span m="120">following</span> <span
   m="530">content</span> <span m="1270">is</span> <span m="1420">provided</span>
@@ -2725,61 +2779,7 @@ transcript: >-
   m="2943540">just</span> <span m="2943900">keep</span> <span
   m="2944090">that</span> <span m="2944290">in</span> <span
   m="2944370">mind.</span></p>
-embedded_media:
-  - uid: 866f93f4f8066f87e02027193e483f3c
-    parent_uid: d144a8dfa938110dc248250a5d0c0b71
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BGE3wb7H2PA
-  - uid: 72c34107b06adf85b09601ac0d6359ab
-    parent_uid: d144a8dfa938110dc248250a5d0c0b71
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BGE3wb7H2PA/default.jpg'
-  - uid: 7b957eddeb5632c3feb2784ba08404a3
-    parent_uid: d144a8dfa938110dc248250a5d0c0b71
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BGE3wb7H2PA
-  - uid: d4467eea5531fa31671cdc2b024181df
-    parent_uid: d144a8dfa938110dc248250a5d0c0b71
-    id: BGE3wb7H2PA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/clip-2-graph-of-r-sin-2theta/BGE3wb7H2PA.srt
-  - uid: defd3b3172e6f84d773a5b030c70db63
-    parent_uid: d144a8dfa938110dc248250a5d0c0b71
-    id: BGE3wb7H2PA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/clip-2-graph-of-r-sin-2theta/BGE3wb7H2PA.pdf
-  - uid: 0230b82010b9310896e5e16ca2af616e
-    parent_uid: d144a8dfa938110dc248250a5d0c0b71
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9fe54863adbf8877e165c4f12a7fb9b6
-    parent_uid: d144a8dfa938110dc248250a5d0c0b71
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 884efaf5dd56d5a41acf7b7d27410d73
-    parent_uid: d144a8dfa938110dc248250a5d0c0b71
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec33_300k.mp4'
-  - uid: 1841df6224545355621c03a6d220f880
-    parent_uid: d144a8dfa938110dc248250a5d0c0b71
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: d144a8dfa938110dc248250a5d0c0b71
 type: courses
 layout: video
 ---

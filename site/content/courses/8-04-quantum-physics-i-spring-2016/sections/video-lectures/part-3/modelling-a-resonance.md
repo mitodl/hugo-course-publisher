@@ -1,13 +1,67 @@
 ---
-title: Modelling a resonance
-uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8Dxo4LPK_9w
+    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9d013cbbf1f728efccbd87abb7228990
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/8Dxo4LPK_9w/default.jpg'
+    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2430da428e85ca4d6221b8b4fbfcb591
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 8Dxo4LPK_9w
+    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2ca41195a6015077c6834d14d5f6bea0
+  - id: 8Dxo4LPK_9w.srt
+    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/modelling-a-resonance/8Dxo4LPK_9w.srt
+    title: 3play caption file
+    type: null
+    uid: 7d53bf3e801ba6ffbb82d3d3e1c67f06
+  - id: 8Dxo4LPK_9w.pdf
+    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/modelling-a-resonance/8Dxo4LPK_9w.pdf
+    title: 3play pdf file
+    type: null
+    uid: cb4c2f49edc783246e4c6cfbf89ed56f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 02bf8d2f0721fae6a7136bb14e8a7334
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b78f29c736f1183e4450c4338bca7a85
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 389edd5f66dec19fd641863749768a94
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec19_s3_300k.mp4'
+    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 611ae869b6b31d29694939cc2082238b
+inline_embed_id: 73276326modellingaresonance60703864
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: modelling-a-resonance
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/modelling-a-resonance
-short_url: modelling-a-resonance
-inline_embed_id: 73276326modellingaresonance60703864
-about_this_resource_text: ''
-related_resources_text: ''
+title: Modelling a resonance
 transcript: >-
   <p><span m='370'>PROFESSOR:</span> <span m='555'>That's</span> <span
   m='740'>how</span> <span m='910'>it looks,</span> <span m='1235'>a</span>
@@ -616,61 +670,7 @@ transcript: >-
   m='923254'>the</span> <span m='923746'>half</span> <span
   m='924240'>width</span> <span m='929440'>of</span> <span m='930340'>the</span>
   <span m='930640'>distribution.</span> </p>
-embedded_media:
-  - uid: 9d013cbbf1f728efccbd87abb7228990
-    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8Dxo4LPK_9w
-  - uid: 2430da428e85ca4d6221b8b4fbfcb591
-    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8Dxo4LPK_9w/default.jpg'
-  - uid: 2ca41195a6015077c6834d14d5f6bea0
-    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8Dxo4LPK_9w
-  - uid: 7d53bf3e801ba6ffbb82d3d3e1c67f06
-    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
-    id: 8Dxo4LPK_9w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/modelling-a-resonance/8Dxo4LPK_9w.srt
-  - uid: cb4c2f49edc783246e4c6cfbf89ed56f
-    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
-    id: 8Dxo4LPK_9w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/modelling-a-resonance/8Dxo4LPK_9w.pdf
-  - uid: 02bf8d2f0721fae6a7136bb14e8a7334
-    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b78f29c736f1183e4450c4338bca7a85
-    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 389edd5f66dec19fd641863749768a94
-    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 611ae869b6b31d29694939cc2082238b
-    parent_uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec19_s3_300k.mp4'
+uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: 'Qualitative insights: Local de Broglie wavelength'
-uid: bee2a8ec3bc5e1660020b0ea555b0ab5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: QMeKIiufg5s
+    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3024ab8a36f5a1fb7f7485402ccb7e2e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_WllxiDAD7o/default.jpg'
+    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 98625d8cca2305bbae3eb0a120d8c9aa
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: QMeKIiufg5s
+    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8ea1529897e16a57f23e66ff0a56d242
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7a47272a718ba0346df830c900fdd6da
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec12_s3_300k.mp4'
+    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d49758fe81f5c78bdda5c084d64a348a
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/QMeKIiufg5s/default.jpg'
+    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4ccbd89c26ac16fa0c6b0916c08eb6b8
+  - id: QMeKIiufg5s.srt
+    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/qualitative-insights-local-de-broglie-wavelength/QMeKIiufg5s.srt
+    title: 3play caption file
+    type: null
+    uid: f60b24e8a7882726998a2d20852932c4
+  - id: QMeKIiufg5s.pdf
+    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/qualitative-insights-local-de-broglie-wavelength/QMeKIiufg5s.pdf
+    title: 3play pdf file
+    type: null
+    uid: 140f2ac5812d3bb02b59cd1a86dd3964
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d23a672f21b0c5783a788daeedda84d5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 59100386bfe6e9a1eb5ab5c51ab576db
+inline_embed_id: 22756323qualitativeinsightslocaldebrogliewavelength81589693
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: qualitative-insights-local-de-broglie-wavelength
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/qualitative-insights-local-de-broglie-wavelength
-short_url: qualitative-insights-local-de-broglie-wavelength
-inline_embed_id: 22756323qualitativeinsightslocaldebrogliewavelength81589693
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Qualitative insights: Local de Broglie wavelength'
 transcript: >-
   <p><span m='610'>PROFESSOR:</span> <span m='700'>This</span> <span
   m='790'>will</span> <span m='970'>be</span> <span m='1160'>qualitative</span>
@@ -736,67 +796,7 @@ transcript: >-
   m='949080'>insight</span> <span m='949620'>into</span> <span
   m='949920'>how</span> <span m='950190'>this</span> <span
   m='950400'>thing</span> <span m='950730'>looks.</span> </p>
-embedded_media:
-  - uid: 3024ab8a36f5a1fb7f7485402ccb7e2e
-    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QMeKIiufg5s
-  - uid: 98625d8cca2305bbae3eb0a120d8c9aa
-    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_WllxiDAD7o/default.jpg'
-  - uid: 8ea1529897e16a57f23e66ff0a56d242
-    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QMeKIiufg5s
-  - uid: 7a47272a718ba0346df830c900fdd6da
-    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: d49758fe81f5c78bdda5c084d64a348a
-    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec12_s3_300k.mp4'
-  - uid: 4ccbd89c26ac16fa0c6b0916c08eb6b8
-    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QMeKIiufg5s/default.jpg'
-  - uid: f60b24e8a7882726998a2d20852932c4
-    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
-    id: QMeKIiufg5s.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/qualitative-insights-local-de-broglie-wavelength/QMeKIiufg5s.srt
-  - uid: 140f2ac5812d3bb02b59cd1a86dd3964
-    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
-    id: QMeKIiufg5s.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/qualitative-insights-local-de-broglie-wavelength/QMeKIiufg5s.pdf
-  - uid: d23a672f21b0c5783a788daeedda84d5
-    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 59100386bfe6e9a1eb5ab5c51ab576db
-    parent_uid: bee2a8ec3bc5e1660020b0ea555b0ab5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: bee2a8ec3bc5e1660020b0ea555b0ab5
 type: courses
 layout: video
 ---

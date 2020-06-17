@@ -1,13 +1,62 @@
 ---
-title: 'Video 2: The Optimization Problem'
-uid: 3b933458bb21e6d85701e79e8fd8e0f6
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: dgjhoPD1FA0
+    parent_uid: 3b933458bb21e6d85701e79e8fd8e0f6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: cfc7636439189de2d2e6342069ac50e9
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: dgjhoPD1FA0
+    parent_uid: 3b933458bb21e6d85701e79e8fd8e0f6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 96d42b0b68231b3c0176423d96c5af54
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/dgjhoPD1FA0/default.jpg'
+    parent_uid: 3b933458bb21e6d85701e79e8fd8e0f6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0ac972b3aff682aa3c113d4d7fcfdd36
+  - id: dgjhoPD1FA0.srt
+    parent_uid: 3b933458bb21e6d85701e79e8fd8e0f6
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-2-the-optimization-problem/video-2-the-optimization-problem-0/dgjhoPD1FA0.srt
+    title: 3play caption file
+    type: null
+    uid: 0a10cbccd0feb604edd819f8f31f88f5
+  - id: dgjhoPD1FA0.pdf
+    parent_uid: 3b933458bb21e6d85701e79e8fd8e0f6
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-2-the-optimization-problem/video-2-the-optimization-problem-0/dgjhoPD1FA0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9788d5788efe9493f85c0d112cad4475
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3b933458bb21e6d85701e79e8fd8e0f6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4a51302eaa8e1b7307914d53f1a61365
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3b933458bb21e6d85701e79e8fd8e0f6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 24c8d193a251d13aa75366409a27a0c9
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_9.2.03_300k.mp4
+    parent_uid: 3b933458bb21e6d85701e79e8fd8e0f6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 27eafc7f7cfaa6d6fb9501eefd828de7
+inline_embed_id: 17792574video2theoptimizationproblem75692290
 parent_uid: 30848359f3cc9abb7ae995a7ade4fd97
+related_resources_text: ''
+short_url: video-2-the-optimization-problem-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-2-the-optimization-problem/video-2-the-optimization-problem-0
-short_url: video-2-the-optimization-problem-0
-inline_embed_id: 17792574video2theoptimizationproblem75692290
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: The Optimization Problem'
 transcript: >-
   <p><span m='4500'>Let's</span> <span m='4777'>look</span> <span
   m='5054'>at</span> <span m='5331'>how</span> <span m='5608'>sports</span>
@@ -466,56 +515,7 @@ transcript: >-
   <span m='494622'>and</span> <span m='494904'>solve</span> <span
   m='495186'>our</span> <span m='495468'>problem</span> <span
   m='495750'>in</span> <span m='496520'>LibreOffice.</span> </p>
-embedded_media:
-  - uid: cfc7636439189de2d2e6342069ac50e9
-    parent_uid: 3b933458bb21e6d85701e79e8fd8e0f6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: dgjhoPD1FA0
-  - uid: 96d42b0b68231b3c0176423d96c5af54
-    parent_uid: 3b933458bb21e6d85701e79e8fd8e0f6
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: dgjhoPD1FA0
-  - uid: 0ac972b3aff682aa3c113d4d7fcfdd36
-    parent_uid: 3b933458bb21e6d85701e79e8fd8e0f6
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/dgjhoPD1FA0/default.jpg'
-  - uid: 0a10cbccd0feb604edd819f8f31f88f5
-    parent_uid: 3b933458bb21e6d85701e79e8fd8e0f6
-    id: dgjhoPD1FA0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-2-the-optimization-problem/video-2-the-optimization-problem-0/dgjhoPD1FA0.srt
-  - uid: 9788d5788efe9493f85c0d112cad4475
-    parent_uid: 3b933458bb21e6d85701e79e8fd8e0f6
-    id: dgjhoPD1FA0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-2-the-optimization-problem/video-2-the-optimization-problem-0/dgjhoPD1FA0.pdf
-  - uid: 4a51302eaa8e1b7307914d53f1a61365
-    parent_uid: 3b933458bb21e6d85701e79e8fd8e0f6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 24c8d193a251d13aa75366409a27a0c9
-    parent_uid: 3b933458bb21e6d85701e79e8fd8e0f6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 27eafc7f7cfaa6d6fb9501eefd828de7
-    parent_uid: 3b933458bb21e6d85701e79e8fd8e0f6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_9.2.03_300k.mp4
+uid: 3b933458bb21e6d85701e79e8fd8e0f6
 type: courses
 layout: video
 ---

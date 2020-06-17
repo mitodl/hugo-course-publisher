@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 24: Markov Matrices; Fourier Series '
-uid: 8d8f20b13452120e60563872e0f0b008
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: lGGDIGizcQ0
+    parent_uid: 8d8f20b13452120e60563872e0f0b008
+    title: Video-YouTube-Stream
+    type: Video
+    uid: aec61e461cd1cf7e6ac93b9ed2b2daad
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 8d8f20b13452120e60563872e0f0b008
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0b9a3fea4fc52469bae485a3c71e7310
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/24.mp4'
+    parent_uid: 8d8f20b13452120e60563872e0f0b008
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 83f5fa59c1f89908e35b45e752ca6c7a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: lGGDIGizcQ0
+    parent_uid: 8d8f20b13452120e60563872e0f0b008
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a35f7fbb16732daa902a5de3f8525642
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/lGGDIGizcQ0/default.jpg'
+    parent_uid: 8d8f20b13452120e60563872e0f0b008
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 900d949787301ce30b50114a6435db3a
+  - id: lGGDIGizcQ0.srt
+    parent_uid: 8d8f20b13452120e60563872e0f0b008
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-24-markov-matrices-fourier-series/lGGDIGizcQ0.srt
+    title: 3play caption file
+    type: null
+    uid: 109483f77be4ca0ee00b066d256655db
+  - id: lGGDIGizcQ0.pdf
+    parent_uid: 8d8f20b13452120e60563872e0f0b008
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-24-markov-matrices-fourier-series/lGGDIGizcQ0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6909acdb679901099918889d01b7d66d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8d8f20b13452120e60563872e0f0b008
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 96152412128b125c4280cc7777c17321
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8d8f20b13452120e60563872e0f0b008
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 46e3fb1ea5a232e5492e8a600e5b0967
+inline_embed_id: 57072863lecture24markovmatricesfourierseries19003984
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: lecture-24-markov-matrices-fourier-series
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-24-markov-matrices-fourier-series
-short_url: lecture-24-markov-matrices-fourier-series
-inline_embed_id: 57072863lecture24markovmatricesfourierseries19003984
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 24: Markov Matrices; Fourier Series '
 transcript: >-
   <p><span m='0'>--</span> <span m='7950'>two,</span> <span m='8580'>one</span>
   <span m='9610'>and</span> <span m='10190'>--</span> <span
@@ -3086,61 +3140,7 @@ transcript: >-
   m='3059200'>Okay,</span> <span m='3059520'>see</span> <span
   m='3059740'>you</span> <span m='3059840'>Monday.</span> </p><p><span
   m='3060590'>Thanks.</span> </p>
-embedded_media:
-  - uid: aec61e461cd1cf7e6ac93b9ed2b2daad
-    parent_uid: 8d8f20b13452120e60563872e0f0b008
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lGGDIGizcQ0
-  - uid: 0b9a3fea4fc52469bae485a3c71e7310
-    parent_uid: 8d8f20b13452120e60563872e0f0b008
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 83f5fa59c1f89908e35b45e752ca6c7a
-    parent_uid: 8d8f20b13452120e60563872e0f0b008
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/24.mp4'
-  - uid: a35f7fbb16732daa902a5de3f8525642
-    parent_uid: 8d8f20b13452120e60563872e0f0b008
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lGGDIGizcQ0
-  - uid: 900d949787301ce30b50114a6435db3a
-    parent_uid: 8d8f20b13452120e60563872e0f0b008
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lGGDIGizcQ0/default.jpg'
-  - uid: 109483f77be4ca0ee00b066d256655db
-    parent_uid: 8d8f20b13452120e60563872e0f0b008
-    id: lGGDIGizcQ0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-24-markov-matrices-fourier-series/lGGDIGizcQ0.srt
-  - uid: 6909acdb679901099918889d01b7d66d
-    parent_uid: 8d8f20b13452120e60563872e0f0b008
-    id: lGGDIGizcQ0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-24-markov-matrices-fourier-series/lGGDIGizcQ0.pdf
-  - uid: 96152412128b125c4280cc7777c17321
-    parent_uid: 8d8f20b13452120e60563872e0f0b008
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 46e3fb1ea5a232e5492e8a600e5b0967
-    parent_uid: 8d8f20b13452120e60563872e0f0b008
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 8d8f20b13452120e60563872e0f0b008
 type: courses
 layout: video
 ---

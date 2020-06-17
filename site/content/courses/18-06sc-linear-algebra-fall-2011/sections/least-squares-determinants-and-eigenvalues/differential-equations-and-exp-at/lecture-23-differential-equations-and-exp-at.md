@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 23: Differential Equations and exp(At)'
-uid: 47e29ff26c88582c663d6dbc205b5c75
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: IZqwi0wJovM
+    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 118919f058fe913454619b102771f388
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/IZqwi0wJovM/default.jpg'
+    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7387a30df37b3f17ca0bd7257ddfed9d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 831e7c0fdd18a0eafd52e8508218cadc
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/23.mp4'
+    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f829beeb098ec87b6d5eba92fba6d1b9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: IZqwi0wJovM
+    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4b19c6e8a88554e27f2022a04f1c15d7
+  - id: IZqwi0wJovM.srt
+    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/lecture-23-differential-equations-and-exp-at/IZqwi0wJovM.srt
+    title: 3play caption file
+    type: null
+    uid: 53b5f60f1bcfe8abd9f3d40e1b423699
+  - id: IZqwi0wJovM.pdf
+    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/lecture-23-differential-equations-and-exp-at/IZqwi0wJovM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2f7dd57cfc78b436934383c9673c73b1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 30a3a74910e66e8521a9019c14e71582
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e5ac87f41f6884abfd51dd1ba55dc51c
+inline_embed_id: '46503941lecture23:differentialequationsandexp(at)49693487'
 parent_uid: 2e8f3fde52a442affa1d8cd0213b4d74
+related_resources_text: ''
+short_url: lecture-23-differential-equations-and-exp-at
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/lecture-23-differential-equations-and-exp-at
-short_url: lecture-23-differential-equations-and-exp-at
-inline_embed_id: '46503941lecture23:differentialequationsandexp(at)49693487'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 23: Differential Equations and exp(At)'
 transcript: >-
   <p><span m='0'>--</span> <span m='8560'>and</span> <span
   m='9030'>lift-off</span> <span m='9640'>on</span> <span
@@ -3045,61 +3099,7 @@ transcript: >-
   m='3049890'>we</span> <span m='3050180'>can</span> <span
   m='3050350'>now</span> <span m='3050560'>do</span> <span
   m='3050810'>exponentials.</span> </p><p><span m='3052060'>Thanks.</span> </p>
-embedded_media:
-  - uid: 118919f058fe913454619b102771f388
-    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: IZqwi0wJovM
-  - uid: 7387a30df37b3f17ca0bd7257ddfed9d
-    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/IZqwi0wJovM/default.jpg'
-  - uid: 831e7c0fdd18a0eafd52e8508218cadc
-    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: f829beeb098ec87b6d5eba92fba6d1b9
-    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/23.mp4'
-  - uid: 4b19c6e8a88554e27f2022a04f1c15d7
-    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: IZqwi0wJovM
-  - uid: 53b5f60f1bcfe8abd9f3d40e1b423699
-    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
-    id: IZqwi0wJovM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/lecture-23-differential-equations-and-exp-at/IZqwi0wJovM.srt
-  - uid: 2f7dd57cfc78b436934383c9673c73b1
-    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
-    id: IZqwi0wJovM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/lecture-23-differential-equations-and-exp-at/IZqwi0wJovM.pdf
-  - uid: 30a3a74910e66e8521a9019c14e71582
-    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e5ac87f41f6884abfd51dd1ba55dc51c
-    parent_uid: 47e29ff26c88582c663d6dbc205b5c75
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 47e29ff26c88582c663d6dbc205b5c75
 type: courses
 layout: video
 ---

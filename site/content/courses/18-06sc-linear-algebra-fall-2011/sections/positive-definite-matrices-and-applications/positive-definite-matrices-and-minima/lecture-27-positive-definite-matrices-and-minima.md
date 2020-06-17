@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 27: Positive Definite Matrices and Minima'
-uid: c835d37587b49f8b6978285cdb7b4ad2
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: vF7eyJ2g3kU
+    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2c12df2339ef23966d40153f9166fa27
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/vF7eyJ2g3kU/default.jpg'
+    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c08565e7c8803936ed030a6b554b201b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9a2bbfa17b6972efa1301454714f8cdf
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/27.mp4'
+    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0a165cb3c129d469af88eae434725de8
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: vF7eyJ2g3kU
+    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5b02f13461f6fb9d2322ae7f06085790
+  - id: vF7eyJ2g3kU.srt
+    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/lecture-27-positive-definite-matrices-and-minima/vF7eyJ2g3kU.srt
+    title: 3play caption file
+    type: null
+    uid: d63b2e0f98a2047ab0ee379b8734e75b
+  - id: vF7eyJ2g3kU.pdf
+    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/lecture-27-positive-definite-matrices-and-minima/vF7eyJ2g3kU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8a8c96758f45cd0d32d8b96e73114213
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0c9d87f6f88a6d6f7dd2189c6e5c484e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7d96b95787fde77cc43a28ee9bda269d
+inline_embed_id: '28260187lecture27:positivedefinitematricesandminima98219307'
 parent_uid: c75e4546e980a4f34fba9c17295b6b7b
+related_resources_text: ''
+short_url: lecture-27-positive-definite-matrices-and-minima
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/lecture-27-positive-definite-matrices-and-minima
-short_url: lecture-27-positive-definite-matrices-and-minima
-inline_embed_id: '28260187lecture27:positivedefinitematricesandminima98219307'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 27: Positive Definite Matrices and Minima'
 transcript: >-
   <p><span m='5560'>OK,</span> <span m='9990'>this</span> <span
   m='10150'>is</span> <span m='10540'>the</span> <span m='10970'>lecture</span>
@@ -2811,61 +2865,7 @@ transcript: >-
   m='3025760'>OK.</span> <span m='3028760'>See</span> <span
   m='3028910'>you</span> <span m='3028990'>on</span> <span
   m='3029130'>Friday.</span> </p>
-embedded_media:
-  - uid: 2c12df2339ef23966d40153f9166fa27
-    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: vF7eyJ2g3kU
-  - uid: c08565e7c8803936ed030a6b554b201b
-    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/vF7eyJ2g3kU/default.jpg'
-  - uid: 9a2bbfa17b6972efa1301454714f8cdf
-    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 0a165cb3c129d469af88eae434725de8
-    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/27.mp4'
-  - uid: 5b02f13461f6fb9d2322ae7f06085790
-    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: vF7eyJ2g3kU
-  - uid: d63b2e0f98a2047ab0ee379b8734e75b
-    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
-    id: vF7eyJ2g3kU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/lecture-27-positive-definite-matrices-and-minima/vF7eyJ2g3kU.srt
-  - uid: 8a8c96758f45cd0d32d8b96e73114213
-    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
-    id: vF7eyJ2g3kU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/lecture-27-positive-definite-matrices-and-minima/vF7eyJ2g3kU.pdf
-  - uid: 0c9d87f6f88a6d6f7dd2189c6e5c484e
-    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7d96b95787fde77cc43a28ee9bda269d
-    parent_uid: c835d37587b49f8b6978285cdb7b4ad2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c835d37587b49f8b6978285cdb7b4ad2
 type: courses
 layout: video
 ---

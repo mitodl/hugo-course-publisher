@@ -58,6 +58,6 @@ These optional resources are provided for students that wish to explore this top
 
 Learn more about Nobel Laureate Peter Diamond:
 
-"[Peter A. Diamond - Biographical.](http://www.nobelprize.org/nobel_prizes/economics/laureates/2010/diamond.html)" Nobelprize.org.
+"[Peter A. Diamond - Biographical.](https://www.nobelprize.org/prizes/economic-sciences/2010/diamond/facts/)" Nobelprize.org.
 
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/productivity-and-costs/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/problem-set-4/_index.md" %}}) »

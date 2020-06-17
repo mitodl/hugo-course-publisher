@@ -1,13 +1,61 @@
 ---
-title: Supporting Staff as a Group
-uid: e771bd0be352139dacbb3a4793142d55
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: r2_-2KW76ec
+    parent_uid: e771bd0be352139dacbb3a4793142d55
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 471551137b16e3a797a3b4845ffa2b51
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/r2_-2KW76ec/default.jpg'
+    parent_uid: e771bd0be352139dacbb3a4793142d55
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4f62647dc0eb1930f7490cb9f6cbc410
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: r2_-2KW76ec
+    parent_uid: e771bd0be352139dacbb3a4793142d55
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 42a9db93dcefed2f5356725fcd3a5037
+  - id: r2_-2KW76ec.srt
+    parent_uid: e771bd0be352139dacbb3a4793142d55
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/supporting-staff-as-a-group/r2_-2KW76ec.srt
+    title: 3play caption file
+    type: null
+    uid: e5270af29e70742ab582b3d738f1fe59
+  - id: r2_-2KW76ec.pdf
+    parent_uid: e771bd0be352139dacbb3a4793142d55
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/supporting-staff-as-a-group/r2_-2KW76ec.pdf
+    title: 3play pdf file
+    type: null
+    uid: f72ed39e4015fcb594d78e416303488e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e771bd0be352139dacbb3a4793142d55
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d0cbb3468f5ea11e62bebee312af26d6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e771bd0be352139dacbb3a4793142d55
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 379789e4d1f177cdddd4969ccd7aa8b0
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.033S18/MIT6_033S18_DUET_Lecture_300k.mp4'
+    parent_uid: e771bd0be352139dacbb3a4793142d55
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 27795633399b6a807e5652c544c17841
+inline_embed_id: 44246725supportingstaffasagroup88717720
 parent_uid: e75a8c08e11786c535031b5e10f0fe19
+related_resources_text: ''
+short_url: supporting-staff-as-a-group
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/supporting-staff-as-a-group
-short_url: supporting-staff-as-a-group
-inline_embed_id: 44246725supportingstaffasagroup88717720
-about_this_resource_text: ''
-related_resources_text: ''
+title: Supporting Staff as a Group
 transcript: >-
   <p><span m="1645">The</span> <span m="1690">following</span> <span
   m="2110">content</span> <span m="2680">is</span> <span
@@ -4623,55 +4671,7 @@ transcript: >-
   m="3139010">off</span> <span m="3139310">to</span> <span
   m="3139490">Jesse</span> <span m="3139940">and</span> <span
   m="3140270">Karen.</span></p>
-embedded_media:
-  - uid: 471551137b16e3a797a3b4845ffa2b51
-    parent_uid: e771bd0be352139dacbb3a4793142d55
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: r2_-2KW76ec
-  - uid: 4f62647dc0eb1930f7490cb9f6cbc410
-    parent_uid: e771bd0be352139dacbb3a4793142d55
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/r2_-2KW76ec/default.jpg'
-  - uid: 42a9db93dcefed2f5356725fcd3a5037
-    parent_uid: e771bd0be352139dacbb3a4793142d55
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: r2_-2KW76ec
-  - uid: e5270af29e70742ab582b3d738f1fe59
-    parent_uid: e771bd0be352139dacbb3a4793142d55
-    id: r2_-2KW76ec.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/supporting-staff-as-a-group/r2_-2KW76ec.srt
-  - uid: f72ed39e4015fcb594d78e416303488e
-    parent_uid: e771bd0be352139dacbb3a4793142d55
-    id: r2_-2KW76ec.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/supporting-staff-as-a-group/r2_-2KW76ec.pdf
-  - uid: d0cbb3468f5ea11e62bebee312af26d6
-    parent_uid: e771bd0be352139dacbb3a4793142d55
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 379789e4d1f177cdddd4969ccd7aa8b0
-    parent_uid: e771bd0be352139dacbb3a4793142d55
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 27795633399b6a807e5652c544c17841
-    parent_uid: e771bd0be352139dacbb3a4793142d55
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.033S18/MIT6_033S18_DUET_Lecture_300k.mp4'
+uid: e771bd0be352139dacbb3a4793142d55
 type: courses
 layout: video
 ---

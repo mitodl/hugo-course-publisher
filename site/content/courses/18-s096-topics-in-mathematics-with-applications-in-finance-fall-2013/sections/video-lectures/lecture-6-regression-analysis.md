@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 6: Regression Analysis'
-uid: 28a7cf993a93a0278ad3de777e055c1e
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-6-regression-analysis
-short_url: lecture-6-regression-analysis
-inline_embed_id: '18755284lecture6:regressionanalysis77438795'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture introduces the mathematical and
   statistical foundations of regression analysis, particularly linear
   regression.</p> <p><strong>Instructor:</strong> Dr. Peter Kempthorne</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: l1kLCrxL9Hk
+    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ba5ae1f31f80bd2549792d3d5914d5d8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/l1kLCrxL9Hk/default.jpg'
+    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 21935ef21f167874631953ff3ce85cf2
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 09407c68897b1532eaec965b2346fcb7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec06_300k.mp4'
+    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f51753041b2e09503d324f189a3d55f9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: l1kLCrxL9Hk
+    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6b22ab3787c055675787f7102e2bbc54
+  - id: l1kLCrxL9Hk.srt
+    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-6-regression-analysis/l1kLCrxL9Hk.srt
+    title: 3play caption file
+    type: null
+    uid: 383dc0bf3ec1a08462a7b38f17dec68f
+  - id: l1kLCrxL9Hk.pdf
+    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-6-regression-analysis/l1kLCrxL9Hk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9ab55fc664665a04bbc54003eaca40a5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 31660279093f25d5745a0516ba170c2d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c40de8e8545fe4be4aca05158a0328ad
+inline_embed_id: '18755284lecture6:regressionanalysis77438795'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-6-regression-analysis
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-6-regression-analysis
+title: 'Lecture 6: Regression Analysis'
 transcript: >-
   <p><span m='60'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -4230,61 +4284,7 @@ transcript: >-
   m='4927260'>regression</span> <span m='4927710'>parameters</span> <span
   m='4928290'>which</span> <span m='4929770'>are</span> <span
   m='4929870'>very</span> <span m='4930770'>interesting.</span> </p>
-embedded_media:
-  - uid: ba5ae1f31f80bd2549792d3d5914d5d8
-    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: l1kLCrxL9Hk
-  - uid: 21935ef21f167874631953ff3ce85cf2
-    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/l1kLCrxL9Hk/default.jpg'
-  - uid: 09407c68897b1532eaec965b2346fcb7
-    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: f51753041b2e09503d324f189a3d55f9
-    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec06_300k.mp4'
-  - uid: 6b22ab3787c055675787f7102e2bbc54
-    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: l1kLCrxL9Hk
-  - uid: 383dc0bf3ec1a08462a7b38f17dec68f
-    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
-    id: l1kLCrxL9Hk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-6-regression-analysis/l1kLCrxL9Hk.srt
-  - uid: 9ab55fc664665a04bbc54003eaca40a5
-    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
-    id: l1kLCrxL9Hk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-6-regression-analysis/l1kLCrxL9Hk.pdf
-  - uid: 31660279093f25d5745a0516ba170c2d
-    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c40de8e8545fe4be4aca05158a0328ad
-    parent_uid: 28a7cf993a93a0278ad3de777e055c1e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 28a7cf993a93a0278ad3de777e055c1e
 type: courses
 layout: video
 ---

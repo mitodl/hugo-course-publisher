@@ -1,18 +1,72 @@
 ---
-title: 'Lecture 19: Chemical Equilibrium: Le Châtelier''s Principle'
-uid: 342e3cfa7d8d4157d8bd67279e636560
-parent_uid: 0679569854cccdb3a6c713fa72200306
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-19/lecture-19-chemical-equilibrium-le-chatelier2019s-principle
-short_url: lecture-19-chemical-equilibrium-le-chatelier2019s-principle
-inline_embed_id: 1293210lecture19chemicalequilibriumlechteliersprinciple23665445
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: A system in equilibrium that is subjected to a stress
   tends to respond in a way that minimizes that stress. In this lecture, viewers
   will learn about chemical reactions but will also learn some important life
   lessons.</p> <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: AVL5AwJrrEU
+    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 195d576b0c875c877c192f63f6a15605
+  - id: AVL5AwJrrEU.srt
+    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-19/lecture-19-chemical-equilibrium-le-chatelier2019s-principle/AVL5AwJrrEU.srt
+    title: 3play caption file
+    type: null
+    uid: 06037617e7c689d6aa8494a422e58439
+  - id: AVL5AwJrrEU.pdf
+    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-19/lecture-19-chemical-equilibrium-le-chatelier2019s-principle/AVL5AwJrrEU.pdf
+    title: 3play pdf file
+    type: null
+    uid: c94f44a29a7a952b86fe8fac40e8f708
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0f71a9d944a3cfec8f0a0b35578fc54b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 20c9469149382ec5e4f6fe49b9a649eb
+  - id: Video-YouTube-Stream
+    media_location: AVL5AwJrrEU
+    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8ed2c62855215147ac3c1bfe3413f16c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/AVL5AwJrrEU/default.jpg'
+    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1e9657820a5f303fce7526002019205d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L19_300k.mp4'
+    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6e1721cb84f9fb4fc905a72f4a070858
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 845f90456bf625bcf87ea2b05ea1476a
+inline_embed_id: 1293210lecture19chemicalequilibriumlechteliersprinciple23665445
+parent_uid: 0679569854cccdb3a6c713fa72200306
 related_resources_text: ''
+short_url: lecture-19-chemical-equilibrium-le-chatelier2019s-principle
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-19/lecture-19-chemical-equilibrium-le-chatelier2019s-principle
+title: 'Lecture 19: Chemical Equilibrium: Le Châtelier''s Principle'
 transcript: >-
   <p><span m="90">The</span> <span m="180">following</span> <span
   m="630">content</span> <span m="1110">is</span> <span m="1230">provided</span>
@@ -2826,61 +2880,7 @@ transcript: >-
   m="2805230">Please</span> <span m="2805770">return</span> <span
   m="2806480">any</span> <span m="2806750">borrowed</span> <span
   m="2807360">clickers.</span></p>
-embedded_media:
-  - uid: 195d576b0c875c877c192f63f6a15605
-    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: AVL5AwJrrEU
-  - uid: 06037617e7c689d6aa8494a422e58439
-    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
-    id: AVL5AwJrrEU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-19/lecture-19-chemical-equilibrium-le-chatelier2019s-principle/AVL5AwJrrEU.srt
-  - uid: c94f44a29a7a952b86fe8fac40e8f708
-    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
-    id: AVL5AwJrrEU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-19/lecture-19-chemical-equilibrium-le-chatelier2019s-principle/AVL5AwJrrEU.pdf
-  - uid: 0f71a9d944a3cfec8f0a0b35578fc54b
-    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 20c9469149382ec5e4f6fe49b9a649eb
-    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8ed2c62855215147ac3c1bfe3413f16c
-    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: AVL5AwJrrEU
-  - uid: 1e9657820a5f303fce7526002019205d
-    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/AVL5AwJrrEU/default.jpg'
-  - uid: 6e1721cb84f9fb4fc905a72f4a070858
-    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L19_300k.mp4'
-  - uid: 845f90456bf625bcf87ea2b05ea1476a
-    parent_uid: 342e3cfa7d8d4157d8bd67279e636560
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+uid: 342e3cfa7d8d4157d8bd67279e636560
 type: courses
 layout: video
 ---

@@ -1,18 +1,90 @@
 ---
-title: 'Lecture 15: Antiderivatives'
-uid: e654f3401ba49007df11bed5f11f3a9f
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-15-antiderivatives
-short_url: lecture-15-antiderivatives
-inline_embed_id: '42862975lecture15:antiderivatives29536772'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Differentials,
   antiderivatives</p> <p><strong>Instructor:</strong> Prof. David
   Jerison</p></div>
+embedded_media:
+  - id: lec15.jpg
+    parent_uid: e654f3401ba49007df11bed5f11f3a9f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-15-antiderivatives/lec15.jpg
+    title: Lecture 15
+    type: null
+    uid: ce09ef8cb114727340ff67a7890f702a
+  - id: Video-YouTube-Stream
+    media_location: '-MI0b4h3rS0'
+    parent_uid: e654f3401ba49007df11bed5f11f3a9f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2342ea1779a9e7829b0a386ac9114fa0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-MI0b4h3rS0/default.jpg'
+    parent_uid: e654f3401ba49007df11bed5f11f3a9f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c5a58003ee085bd9deee35cef6056a5b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: e654f3401ba49007df11bed5f11f3a9f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 59e0743ef372e648f6def51b88197141
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec15_300k.mp4'
+    parent_uid: e654f3401ba49007df11bed5f11f3a9f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 753ecdcca6975833e5821f94a7f05029
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: e654f3401ba49007df11bed5f11f3a9f
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 5c67e444cc659699c97b368fa0e50bee
+  - id: Thumbnail-OCW-JPG
+    parent_uid: e654f3401ba49007df11bed5f11f3a9f
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 02ccbcf051420f13f1d44533ee7d0d78
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '-MI0b4h3rS0'
+    parent_uid: e654f3401ba49007df11bed5f11f3a9f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f156bd35567e87fa41f6b347bcb6d157
+  - id: '-MI0b4h3rS0.srt'
+    parent_uid: e654f3401ba49007df11bed5f11f3a9f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-15-antiderivatives/-MI0b4h3rS0.srt
+    title: 3play caption file
+    type: null
+    uid: a04bdf618fcc103d57bd4b6819cff3db
+  - id: '-MI0b4h3rS0.pdf'
+    parent_uid: e654f3401ba49007df11bed5f11f3a9f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-15-antiderivatives/-MI0b4h3rS0.pdf
+    title: 3play pdf file
+    type: null
+    uid: e3300a9d4ddf6f5d38c15a2c02b2c07b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e654f3401ba49007df11bed5f11f3a9f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ed90eb481c937e401cd70a980a1b118c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e654f3401ba49007df11bed5f11f3a9f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ca82143ba5f2466d892f7cdf327ef847
+inline_embed_id: '42862975lecture15:antiderivatives29536772'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/c07ab6e13cf8684dd98b2650b64672fb">PDF</a>)</p></div>
+short_url: lecture-15-antiderivatives
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-15-antiderivatives
+title: 'Lecture 15: Antiderivatives'
 transcript: >-
   <p><span m='120'>The</span> <span m='370'>following</span> <span
   m='540'>content</span> <span m='1270'>is</span> <span m='1420'>provided</span>
@@ -2107,79 +2179,7 @@ transcript: >-
   <span m='2928330'>the</span> <span m='2928400'>test.</span> <span
   m='2928940'>So,</span> <span m='2930800'>see</span> <span m='2930950'>you
   tomorrow.</span> </p>
-embedded_media:
-  - uid: ce09ef8cb114727340ff67a7890f702a
-    parent_uid: e654f3401ba49007df11bed5f11f3a9f
-    id: lec15.jpg
-    title: Lecture 15
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-15-antiderivatives/lec15.jpg
-  - uid: 2342ea1779a9e7829b0a386ac9114fa0
-    parent_uid: e654f3401ba49007df11bed5f11f3a9f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-MI0b4h3rS0'
-  - uid: c5a58003ee085bd9deee35cef6056a5b
-    parent_uid: e654f3401ba49007df11bed5f11f3a9f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-MI0b4h3rS0/default.jpg'
-  - uid: 59e0743ef372e648f6def51b88197141
-    parent_uid: e654f3401ba49007df11bed5f11f3a9f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: 753ecdcca6975833e5821f94a7f05029
-    parent_uid: e654f3401ba49007df11bed5f11f3a9f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec15_300k.mp4'
-  - uid: 5c67e444cc659699c97b368fa0e50bee
-    parent_uid: e654f3401ba49007df11bed5f11f3a9f
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 02ccbcf051420f13f1d44533ee7d0d78
-    parent_uid: e654f3401ba49007df11bed5f11f3a9f
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: f156bd35567e87fa41f6b347bcb6d157
-    parent_uid: e654f3401ba49007df11bed5f11f3a9f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-MI0b4h3rS0'
-  - uid: a04bdf618fcc103d57bd4b6819cff3db
-    parent_uid: e654f3401ba49007df11bed5f11f3a9f
-    id: '-MI0b4h3rS0.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-15-antiderivatives/-MI0b4h3rS0.srt
-  - uid: e3300a9d4ddf6f5d38c15a2c02b2c07b
-    parent_uid: e654f3401ba49007df11bed5f11f3a9f
-    id: '-MI0b4h3rS0.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-15-antiderivatives/-MI0b4h3rS0.pdf
-  - uid: ed90eb481c937e401cd70a980a1b118c
-    parent_uid: e654f3401ba49007df11bed5f11f3a9f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ca82143ba5f2466d892f7cdf327ef847
-    parent_uid: e654f3401ba49007df11bed5f11f3a9f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e654f3401ba49007df11bed5f11f3a9f
 type: courses
 layout: video
 ---

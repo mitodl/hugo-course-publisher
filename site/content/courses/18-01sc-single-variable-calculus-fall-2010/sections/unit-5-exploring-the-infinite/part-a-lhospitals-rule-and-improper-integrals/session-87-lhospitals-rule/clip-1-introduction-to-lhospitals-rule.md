@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Introduction to L''Hospital''s Rule'
-uid: 64b70d00baa4a4f3ac740c815f607e9b
-parent_uid: c9916c2b11369b0f6489e2805c8cd4c5
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-87-lhospitals-rule/clip-1-introduction-to-lhospitals-rule
-short_url: clip-1-introduction-to-lhospitals-rule
-inline_embed_id: '519306clip1:introductiontol''hospital''srule87769885'
 about_this_resource_text: >-
   <p>&raquo; <a target="_blank" title="Open in a new window."
   href="./resolveuid/1272ef668d6d89eba3a6c00286240acb">Accompanying Notes
   (PDF)</a></p> <p class="scholar_medsm">From Lecture 35 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: PNTnmH6jsRI
+    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 650da0d7b066b35d8680824e914fa571
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/PNTnmH6jsRI/default.jpg'
+    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7dbcf815af369716de7984ccb2eb8fa7
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec35_300k.mp4'
+    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a0f0d33db0fdf058f290ec75d3e8bd35
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: PNTnmH6jsRI
+    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4685bf110455d6d1c1eec8fe396df649
+  - id: PNTnmH6jsRI.srt
+    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-87-lhospitals-rule/clip-1-introduction-to-lhospitals-rule/PNTnmH6jsRI.srt
+    title: 3play caption file
+    type: null
+    uid: 71977004b3260d31bfa6c3e2c58e6dee
+  - id: PNTnmH6jsRI.pdf
+    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-87-lhospitals-rule/clip-1-introduction-to-lhospitals-rule/PNTnmH6jsRI.pdf
+    title: 3play pdf file
+    type: null
+    uid: d0336184bc03d71cb0c9c94bcdbd36f5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d8e3883283cf15c3187a9730945891b7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 431818e99ad82d1b2d0b2d042ea3758d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e42c7ffe2613c64e9b22e1b60c1c96c0
+inline_embed_id: '519306clip1:introductiontol''hospital''srule87769885'
+parent_uid: c9916c2b11369b0f6489e2805c8cd4c5
 related_resources_text: ''
+short_url: clip-1-introduction-to-lhospitals-rule
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-87-lhospitals-rule/clip-1-introduction-to-lhospitals-rule
+title: 'Clip 1: Introduction to L''Hospital''s Rule'
 transcript: >-
   <p><span m="0">The</span> <span m="120">following</span> <span
   m="1270">content</span> <span m="1420">is</span> <span m="1680">provided under
@@ -2479,61 +2533,7 @@ transcript: >-
   m="2918470">use</span> <span m="2919060">L'Hôpital's</span> <span
   m="2919680">Rule.</span> <span m="2920640">OK,</span> <span m="2921120">see
   you</span> <span m="2921260">next</span> <span m="2921510">time.</span></p>
-embedded_media:
-  - uid: 650da0d7b066b35d8680824e914fa571
-    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: PNTnmH6jsRI
-  - uid: 7dbcf815af369716de7984ccb2eb8fa7
-    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/PNTnmH6jsRI/default.jpg'
-  - uid: a0f0d33db0fdf058f290ec75d3e8bd35
-    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec35_300k.mp4'
-  - uid: 4685bf110455d6d1c1eec8fe396df649
-    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: PNTnmH6jsRI
-  - uid: 71977004b3260d31bfa6c3e2c58e6dee
-    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
-    id: PNTnmH6jsRI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-87-lhospitals-rule/clip-1-introduction-to-lhospitals-rule/PNTnmH6jsRI.srt
-  - uid: d0336184bc03d71cb0c9c94bcdbd36f5
-    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
-    id: PNTnmH6jsRI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-87-lhospitals-rule/clip-1-introduction-to-lhospitals-rule/PNTnmH6jsRI.pdf
-  - uid: d8e3883283cf15c3187a9730945891b7
-    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 431818e99ad82d1b2d0b2d042ea3758d
-    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e42c7ffe2613c64e9b22e1b60c1c96c0
-    parent_uid: 64b70d00baa4a4f3ac740c815f607e9b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 64b70d00baa4a4f3ac740c815f607e9b
 type: courses
 layout: video
 ---

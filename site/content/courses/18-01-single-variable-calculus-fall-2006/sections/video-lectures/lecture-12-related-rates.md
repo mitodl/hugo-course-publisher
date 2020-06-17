@@ -1,17 +1,89 @@
 ---
-title: 'Lecture 12: Related Rates'
-uid: 41ea5f9493e49c56e0c2e280319042dc
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-12-related-rates
-short_url: lecture-12-related-rates
-inline_embed_id: '35418136lecture12:relatedrates33351251'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Related rates</p>
   <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec12.jpg
+    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-12-related-rates/lec12.jpg
+    title: Lecture 12
+    type: null
+    uid: e9d96b05348192edd58df04efbfa31f1
+  - id: Video-YouTube-Stream
+    media_location: YN7k_bXXggY
+    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 827de3173c75ce76be234e4e13b2d678
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/YN7k_bXXggY/default.jpg'
+    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a6929150fc4d84e8c60d306be04a1e29
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4aee7a1a990e90a45cfecb3da201016a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec12_300k.mp4'
+    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 04bd1e291b766833f9b595e8cf916549
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 6640b73190384943336245c1ae064268
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 9346c3d72448cbd27815beb900afea83
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: YN7k_bXXggY
+    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6f059c2d16b3098a8022e0d8504a471d
+  - id: YN7k_bXXggY.srt
+    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-12-related-rates/YN7k_bXXggY.srt
+    title: 3play caption file
+    type: null
+    uid: 4af63a846f4440c0a89bb2af82639076
+  - id: YN7k_bXXggY.pdf
+    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-12-related-rates/YN7k_bXXggY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7a4f9d35ca822a2d8a87b035afbeba61
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8a48ed047c4f3aa882b37e4e48bcabc5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c8889301a19d30779aaf1905135232b7
+inline_embed_id: '35418136lecture12:relatedrates33351251'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/ba3498155dbaa90b2a82c88174a18ee1">PDF</a>)</p></div>
+short_url: lecture-12-related-rates
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-12-related-rates
+title: 'Lecture 12: Related Rates'
 transcript: >-
   <p><span m='0'>The</span> <span m='1270'>following</span> <span
   m='1420'>content</span> <span m='1980'>is</span> <span m='2720'>provided
@@ -2573,79 +2645,7 @@ transcript: >-
   m='2991270'>together</span> <span m='2991730'>and</span> <span
   m='2992090'>compute</span> <span m='2993000'>dx</span> <span
   m='2993150'>/</span> <span m='2993760'>dt.</span> </p>
-embedded_media:
-  - uid: e9d96b05348192edd58df04efbfa31f1
-    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
-    id: lec12.jpg
-    title: Lecture 12
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-12-related-rates/lec12.jpg
-  - uid: 827de3173c75ce76be234e4e13b2d678
-    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: YN7k_bXXggY
-  - uid: a6929150fc4d84e8c60d306be04a1e29
-    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/YN7k_bXXggY/default.jpg'
-  - uid: 4aee7a1a990e90a45cfecb3da201016a
-    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: 04bd1e291b766833f9b595e8cf916549
-    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec12_300k.mp4'
-  - uid: 6640b73190384943336245c1ae064268
-    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 9346c3d72448cbd27815beb900afea83
-    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 6f059c2d16b3098a8022e0d8504a471d
-    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: YN7k_bXXggY
-  - uid: 4af63a846f4440c0a89bb2af82639076
-    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
-    id: YN7k_bXXggY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-12-related-rates/YN7k_bXXggY.srt
-  - uid: 7a4f9d35ca822a2d8a87b035afbeba61
-    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
-    id: YN7k_bXXggY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-12-related-rates/YN7k_bXXggY.pdf
-  - uid: 8a48ed047c4f3aa882b37e4e48bcabc5
-    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c8889301a19d30779aaf1905135232b7
-    parent_uid: 41ea5f9493e49c56e0c2e280319042dc
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 41ea5f9493e49c56e0c2e280319042dc
 type: courses
 layout: video
 ---

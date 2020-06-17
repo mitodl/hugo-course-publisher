@@ -1,13 +1,62 @@
 ---
-title: Welcome to Recitation 5
-uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ww-S4khiumM
+    parent_uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d08a93cbe8201f3376318bbba8c86bb2
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: ww-S4khiumM
+    parent_uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d5c60acf2d2348ac4ddcdfe357f66b2a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ww-S4khiumM/default.jpg'
+    parent_uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 86caa0d3b285288b2a86eef66b6e5532
+  - id: ww-S4khiumM.srt
+    parent_uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/welcome-to-recitation-5-0/ww-S4khiumM.srt
+    title: 3play caption file
+    type: null
+    uid: 60c5842e108af917fc16b28bc30ea343
+  - id: ww-S4khiumM.pdf
+    parent_uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/welcome-to-recitation-5-0/ww-S4khiumM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 222a6bceb46a851f8e79c5c0291b4a74
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 87a7bcef5f35fd932ce22d40590e9339
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f45eec09c2e16d5346186a421881f876
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.4.01_300k.mp4
+    parent_uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: fd050921258bb6bbfc747d587a3219e7
+inline_embed_id: 74715568welcometorecitation547753708
 parent_uid: d4b1a3b942ed98d194feb3777ba22595
+related_resources_text: ''
+short_url: welcome-to-recitation-5-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/welcome-to-recitation-5-0
-short_url: welcome-to-recitation-5-0
-inline_embed_id: 74715568welcometorecitation547753708
-about_this_resource_text: ''
-related_resources_text: ''
+title: Welcome to Recitation 5
 transcript: >-
   <p><span m='4480'>Hi.</span> </p><p><span m='4980'>I'm</span> <span
   m='5291'>John,</span> <span m='5602'>and</span> <span m='5913'>I'll</span>
@@ -37,56 +86,7 @@ transcript: >-
   m='22940'>into</span> <span m='23500'>predictive</span> <span
   m='24060'>models.</span> </p><p><span m='24620'>Let's</span> <span
   m='25250'>get</span> <span m='25880'>started.</span> </p>
-embedded_media:
-  - uid: d08a93cbe8201f3376318bbba8c86bb2
-    parent_uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ww-S4khiumM
-  - uid: d5c60acf2d2348ac4ddcdfe357f66b2a
-    parent_uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ww-S4khiumM
-  - uid: 86caa0d3b285288b2a86eef66b6e5532
-    parent_uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ww-S4khiumM/default.jpg'
-  - uid: 60c5842e108af917fc16b28bc30ea343
-    parent_uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
-    id: ww-S4khiumM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/welcome-to-recitation-5-0/ww-S4khiumM.srt
-  - uid: 222a6bceb46a851f8e79c5c0291b4a74
-    parent_uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
-    id: ww-S4khiumM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/welcome-to-recitation-5-0/ww-S4khiumM.pdf
-  - uid: 87a7bcef5f35fd932ce22d40590e9339
-    parent_uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f45eec09c2e16d5346186a421881f876
-    parent_uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: fd050921258bb6bbfc747d587a3219e7
-    parent_uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.4.01_300k.mp4
+uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
 type: courses
 layout: video
 ---

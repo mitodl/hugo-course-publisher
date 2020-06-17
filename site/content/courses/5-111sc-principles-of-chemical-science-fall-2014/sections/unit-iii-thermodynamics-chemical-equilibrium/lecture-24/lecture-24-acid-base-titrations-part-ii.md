@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 24: Acid-Base Titrations Part II'
-uid: 46fc85ea2cab0cd7cf4345ff924fb834
-parent_uid: 92c821cc75047b75ec7b50ab1516b1b6
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-24/lecture-24-acid-base-titrations-part-ii
-short_url: lecture-24-acid-base-titrations-part-ii
-inline_embed_id: 2317838lecture24acidbasetitrationspartii80988095
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: We finish the topic of acid-base titrations and
@@ -13,7 +6,68 @@ about_this_resource_text: >-
   problem he encountered in his undergraduate research that had to do with the
   pKa of a molecular probe. Learn what the problem was and how he solved it.</p>
   <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Om_5b29d_9g
+    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3721193957b2d3b7af2fc42f73b10066
+  - id: Om_5b29d_9g.srt
+    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-24/lecture-24-acid-base-titrations-part-ii/Om_5b29d_9g.srt
+    title: 3play caption file
+    type: null
+    uid: e0cff3b9edb4d56c050bfb1611085efd
+  - id: Om_5b29d_9g.pdf
+    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-24/lecture-24-acid-base-titrations-part-ii/Om_5b29d_9g.pdf
+    title: 3play pdf file
+    type: null
+    uid: 33a8a190e30702064ff4bbb85062eba1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 20cd19f72721d8ccc09d7798880025d9
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d87f156deb72d6439eaa7a91dfb589d3
+  - id: Video-YouTube-Stream
+    media_location: Om_5b29d_9g
+    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d5bbc221daef720199cf0513dc9ca8b4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Om_5b29d_9g/default.jpg'
+    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: dfe86a477b24cc3ac719638936b36242
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L24_300k.mp4'
+    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1a14ea0a1e91703c75b615a482e1570d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ca7184edd4541101511b79d83b9cac43
+inline_embed_id: 2317838lecture24acidbasetitrationspartii80988095
+parent_uid: 92c821cc75047b75ec7b50ab1516b1b6
 related_resources_text: ''
+short_url: lecture-24-acid-base-titrations-part-ii
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-24/lecture-24-acid-base-titrations-part-ii
+title: 'Lecture 24: Acid-Base Titrations Part II'
 transcript: >-
   <p><span m="30">The</span> <span m="130">following</span> <span
   m="600">content</span> <span m="1090">is</span> <span m="1210">provided</span>
@@ -1408,61 +1462,7 @@ transcript: >-
   m="1239440">acid-bases,</span> <span m="1240590">end</span> <span
   m="1240950">of</span> <span m="1241060">Exam</span> <span m="1241500">3</span>
   <span m="1241870">material.</span></p>
-embedded_media:
-  - uid: 3721193957b2d3b7af2fc42f73b10066
-    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Om_5b29d_9g
-  - uid: e0cff3b9edb4d56c050bfb1611085efd
-    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
-    id: Om_5b29d_9g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-24/lecture-24-acid-base-titrations-part-ii/Om_5b29d_9g.srt
-  - uid: 33a8a190e30702064ff4bbb85062eba1
-    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
-    id: Om_5b29d_9g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-24/lecture-24-acid-base-titrations-part-ii/Om_5b29d_9g.pdf
-  - uid: 20cd19f72721d8ccc09d7798880025d9
-    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d87f156deb72d6439eaa7a91dfb589d3
-    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d5bbc221daef720199cf0513dc9ca8b4
-    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Om_5b29d_9g
-  - uid: dfe86a477b24cc3ac719638936b36242
-    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Om_5b29d_9g/default.jpg'
-  - uid: 1a14ea0a1e91703c75b615a482e1570d
-    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L24_300k.mp4'
-  - uid: ca7184edd4541101511b79d83b9cac43
-    parent_uid: 46fc85ea2cab0cd7cf4345ff924fb834
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+uid: 46fc85ea2cab0cd7cf4345ff924fb834
 type: courses
 layout: video
 ---

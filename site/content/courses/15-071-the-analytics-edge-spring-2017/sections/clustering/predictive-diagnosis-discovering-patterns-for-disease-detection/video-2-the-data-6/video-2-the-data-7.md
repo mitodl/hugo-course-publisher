@@ -1,13 +1,62 @@
 ---
-title: 'Video 2: The Data'
-uid: 7be44533ddfde8f005a1882a977d8dd2
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: UVeZhQBNvkE
+    parent_uid: 7be44533ddfde8f005a1882a977d8dd2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 919db77b850c89cb1839565b0facfbe3
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: UVeZhQBNvkE
+    parent_uid: 7be44533ddfde8f005a1882a977d8dd2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 887c9ded5840e7df3f63d1980a43237c
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/UVeZhQBNvkE/default.jpg'
+    parent_uid: 7be44533ddfde8f005a1882a977d8dd2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 830829ff51fec6e320ae8cf8af9852e7
+  - id: UVeZhQBNvkE.srt
+    parent_uid: 7be44533ddfde8f005a1882a977d8dd2
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-2-the-data-6/video-2-the-data-7/UVeZhQBNvkE.srt
+    title: 3play caption file
+    type: null
+    uid: 3a1d5788b0cb1e7369c467978f471606
+  - id: UVeZhQBNvkE.pdf
+    parent_uid: 7be44533ddfde8f005a1882a977d8dd2
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-2-the-data-6/video-2-the-data-7/UVeZhQBNvkE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 353e677f42b3a82036b7753c1aadde55
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7be44533ddfde8f005a1882a977d8dd2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0aaf529caec9531618b2ce9760bc0c39
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7be44533ddfde8f005a1882a977d8dd2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 69b401cb5a9028513c3ecbb21ce7d298
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.3.03_300k.mp4
+    parent_uid: 7be44533ddfde8f005a1882a977d8dd2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0355a3c0db95f6c31fa7f875c27d1b92
+inline_embed_id: 25063116video2thedata95741110
 parent_uid: b3e684a2782185403814d5093796789b
+related_resources_text: ''
+short_url: video-2-the-data-7
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-2-the-data-6/video-2-the-data-7
-short_url: video-2-the-data-7
-inline_embed_id: 25063116video2thedata95741110
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: The Data'
 transcript: >-
   <p><span m='4490'>Claims</span> <span m='4765'>data</span> <span
   m='5040'>offers</span> <span m='5315'>an</span> <span
@@ -360,56 +409,7 @@ transcript: >-
   m='343744'>first</span> <span m='344167'>bucket</span> <span
   m='344590'>of</span> <span m='345216'>low</span> <span
   m='345843'>expenses.</span> </p>
-embedded_media:
-  - uid: 919db77b850c89cb1839565b0facfbe3
-    parent_uid: 7be44533ddfde8f005a1882a977d8dd2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: UVeZhQBNvkE
-  - uid: 887c9ded5840e7df3f63d1980a43237c
-    parent_uid: 7be44533ddfde8f005a1882a977d8dd2
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: UVeZhQBNvkE
-  - uid: 830829ff51fec6e320ae8cf8af9852e7
-    parent_uid: 7be44533ddfde8f005a1882a977d8dd2
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/UVeZhQBNvkE/default.jpg'
-  - uid: 3a1d5788b0cb1e7369c467978f471606
-    parent_uid: 7be44533ddfde8f005a1882a977d8dd2
-    id: UVeZhQBNvkE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-2-the-data-6/video-2-the-data-7/UVeZhQBNvkE.srt
-  - uid: 353e677f42b3a82036b7753c1aadde55
-    parent_uid: 7be44533ddfde8f005a1882a977d8dd2
-    id: UVeZhQBNvkE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-2-the-data-6/video-2-the-data-7/UVeZhQBNvkE.pdf
-  - uid: 0aaf529caec9531618b2ce9760bc0c39
-    parent_uid: 7be44533ddfde8f005a1882a977d8dd2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 69b401cb5a9028513c3ecbb21ce7d298
-    parent_uid: 7be44533ddfde8f005a1882a977d8dd2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0355a3c0db95f6c31fa7f875c27d1b92
-    parent_uid: 7be44533ddfde8f005a1882a977d8dd2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.3.03_300k.mp4
+uid: 7be44533ddfde8f005a1882a977d8dd2
 type: courses
 layout: video
 ---

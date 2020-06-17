@@ -1,13 +1,62 @@
 ---
-title: 'Video 6: The Analytics Edge in Sports'
-uid: e02894ecc37184c87b730d013899e3b8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 1G6iJmM64LA
+    parent_uid: e02894ecc37184c87b730d013899e3b8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ffd10aec9d2fa175831c77be8707a43d
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 1G6iJmM64LA
+    parent_uid: e02894ecc37184c87b730d013899e3b8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bf1d4a352a5b8b6cc0856e451adb963a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/1G6iJmM64LA/default.jpg'
+    parent_uid: e02894ecc37184c87b730d013899e3b8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2baa62ad44f1cf3347f606a73dfa5103
+  - id: 1G6iJmM64LA.srt
+    parent_uid: e02894ecc37184c87b730d013899e3b8
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-6-the-analytics-edge-in-sports/video-6-the-analytics-edge-in-sports-0/1G6iJmM64LA.srt
+    title: 3play caption file
+    type: null
+    uid: 06219dbb53356954a7d9864c06c63314
+  - id: 1G6iJmM64LA.pdf
+    parent_uid: e02894ecc37184c87b730d013899e3b8
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-6-the-analytics-edge-in-sports/video-6-the-analytics-edge-in-sports-0/1G6iJmM64LA.pdf
+    title: 3play pdf file
+    type: null
+    uid: f2b0ff73187edd1c0765e10d4528ef3f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e02894ecc37184c87b730d013899e3b8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5231c96eee8afad0581441f5b0a08cd9
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e02894ecc37184c87b730d013899e3b8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dc141afd9cce270bcb401db75a6e1ccd
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.3.11_300k.mp4
+    parent_uid: e02894ecc37184c87b730d013899e3b8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4594c4b9845153b2f3abc31e62e14abb
+inline_embed_id: 20180725video6theanalyticsedgeinsports54277215
 parent_uid: 9694655b13312f40a587b03a675d6122
+related_resources_text: ''
+short_url: video-6-the-analytics-edge-in-sports-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-6-the-analytics-edge-in-sports/video-6-the-analytics-edge-in-sports-0
-short_url: video-6-the-analytics-edge-in-sports-0
-inline_embed_id: 20180725video6theanalyticsedgeinsports54277215
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 6: The Analytics Edge in Sports'
 transcript: >-
   <p><span m='4490'>In</span> <span m='4767'>addition</span> <span
   m='5045'>to</span> <span m='5322'>what</span> <span m='5600'>we</span> <span
@@ -252,56 +301,7 @@ transcript: >-
   m='271650'>use</span> <span m='272186'>the</span> <span
   m='272723'>power</span> <span m='273260'>of</span> <span
   m='273796'>sports</span> <span m='274333'>analytics.</span> </p>
-embedded_media:
-  - uid: ffd10aec9d2fa175831c77be8707a43d
-    parent_uid: e02894ecc37184c87b730d013899e3b8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 1G6iJmM64LA
-  - uid: bf1d4a352a5b8b6cc0856e451adb963a
-    parent_uid: e02894ecc37184c87b730d013899e3b8
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 1G6iJmM64LA
-  - uid: 2baa62ad44f1cf3347f606a73dfa5103
-    parent_uid: e02894ecc37184c87b730d013899e3b8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/1G6iJmM64LA/default.jpg'
-  - uid: 06219dbb53356954a7d9864c06c63314
-    parent_uid: e02894ecc37184c87b730d013899e3b8
-    id: 1G6iJmM64LA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-6-the-analytics-edge-in-sports/video-6-the-analytics-edge-in-sports-0/1G6iJmM64LA.srt
-  - uid: f2b0ff73187edd1c0765e10d4528ef3f
-    parent_uid: e02894ecc37184c87b730d013899e3b8
-    id: 1G6iJmM64LA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-6-the-analytics-edge-in-sports/video-6-the-analytics-edge-in-sports-0/1G6iJmM64LA.pdf
-  - uid: 5231c96eee8afad0581441f5b0a08cd9
-    parent_uid: e02894ecc37184c87b730d013899e3b8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dc141afd9cce270bcb401db75a6e1ccd
-    parent_uid: e02894ecc37184c87b730d013899e3b8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4594c4b9845153b2f3abc31e62e14abb
-    parent_uid: e02894ecc37184c87b730d013899e3b8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.3.11_300k.mp4
+uid: e02894ecc37184c87b730d013899e3b8
 type: courses
 layout: video
 ---

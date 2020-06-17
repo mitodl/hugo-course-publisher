@@ -1,22 +1,77 @@
 ---
-title: 'Lecture 3: Reasoning: Goal Trees and Rule-Based Expert Systems'
-uid: b3069ee1368e4581c1c932e57363d93e
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-3-reasoning-goal-trees-and-rule-based-expert-systems
-short_url: lecture-3-reasoning-goal-trees-and-rule-based-expert-systems
-inline_embed_id: '5490029lecture3:reasoning:goaltreesandrule-basedexpertsystems36135040'
 about_this_resource_text: >-
   <p><strong>Description:</strong> We consider a block-stacking program, which
   can answer questions about its own behavior, and then identify an animal given
   a list of its characteristics.  Finally, we discuss how to extract knowledge
   from an expert, using the example of bagging groceries.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: leXa7EKUPFk
+    parent_uid: b3069ee1368e4581c1c932e57363d93e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1ccbb3211fc1aefa82ac09e9d8eb356a
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-3-reasoning-goal-trees/id765641080?i=194469712
+    parent_uid: b3069ee1368e4581c1c932e57363d93e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fdaab4dbf05aa825ef2b28dfb29ed96b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec03_300k.mp4'
+    parent_uid: b3069ee1368e4581c1c932e57363d93e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ad589032f2bb9c377c73c9f4ffb48abe
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/leXa7EKUPFk/default.jpg'
+    parent_uid: b3069ee1368e4581c1c932e57363d93e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4818aed8f70aeb4f365eee4d59adfb7b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: leXa7EKUPFk
+    parent_uid: b3069ee1368e4581c1c932e57363d93e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3737facc11d35556279770ab2cffc1f5
+  - id: leXa7EKUPFk.srt
+    parent_uid: b3069ee1368e4581c1c932e57363d93e
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-3-reasoning-goal-trees-and-rule-based-expert-systems/leXa7EKUPFk.srt
+    title: 3play caption file
+    type: null
+    uid: 777eb095f6d7d5df98eed4c4d4af2026
+  - id: leXa7EKUPFk.pdf
+    parent_uid: b3069ee1368e4581c1c932e57363d93e
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-3-reasoning-goal-trees-and-rule-based-expert-systems/leXa7EKUPFk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 16742d841abfdbf4820703f21767f5ea
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b3069ee1368e4581c1c932e57363d93e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b8379daa0ecd52bdaf0edcd47f96ef7e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b3069ee1368e4581c1c932e57363d93e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e18cc7a5c341c8af2ee2d5b0682280b1
+inline_embed_id: '5490029lecture3:reasoning:goaltreesandrule-basedexpertsystems36135040'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: >-
   <p>Duarte, José Pinto. &quot;<a
   href="http://dspace.mit.edu/handle/1721.1/8189" target="_blank">Customizing
   Mass Housing: A Discursive Grammar for Siza's Malagueira Houses</a>.&quot; PhD
   thesis, MIT, 2001.</p>
+short_url: lecture-3-reasoning-goal-trees-and-rule-based-expert-systems
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-3-reasoning-goal-trees-and-rule-based-expert-systems
+title: 'Lecture 3: Reasoning: Goal Trees and Rule-Based Expert Systems'
 transcript: >-
   <p><span m='9330'>PROFESSOR PATRICK WINSTON: Ladies and gentlemen, the</span>
   <span m='10970'>engineers drinking song.</span> </p><p><span m='13670'>Back in
@@ -842,62 +897,7 @@ transcript: >-
   that's why, we've discovered, that storytelling</span> <span m='2976640'>is
   largely a matter of just controlling how you're going</span> <span
   m='2979500'>along, a kind of controlled hallucination.</span> </p><p></p>
-embedded_media:
-  - uid: 1ccbb3211fc1aefa82ac09e9d8eb356a
-    parent_uid: b3069ee1368e4581c1c932e57363d93e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: leXa7EKUPFk
-  - uid: fdaab4dbf05aa825ef2b28dfb29ed96b
-    parent_uid: b3069ee1368e4581c1c932e57363d93e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-3-reasoning-goal-trees/id765641080?i=194469712
-  - uid: ad589032f2bb9c377c73c9f4ffb48abe
-    parent_uid: b3069ee1368e4581c1c932e57363d93e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec03_300k.mp4'
-  - uid: 4818aed8f70aeb4f365eee4d59adfb7b
-    parent_uid: b3069ee1368e4581c1c932e57363d93e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/leXa7EKUPFk/default.jpg'
-  - uid: 3737facc11d35556279770ab2cffc1f5
-    parent_uid: b3069ee1368e4581c1c932e57363d93e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: leXa7EKUPFk
-  - uid: 777eb095f6d7d5df98eed4c4d4af2026
-    parent_uid: b3069ee1368e4581c1c932e57363d93e
-    id: leXa7EKUPFk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-3-reasoning-goal-trees-and-rule-based-expert-systems/leXa7EKUPFk.srt
-  - uid: 16742d841abfdbf4820703f21767f5ea
-    parent_uid: b3069ee1368e4581c1c932e57363d93e
-    id: leXa7EKUPFk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-3-reasoning-goal-trees-and-rule-based-expert-systems/leXa7EKUPFk.pdf
-  - uid: b8379daa0ecd52bdaf0edcd47f96ef7e
-    parent_uid: b3069ee1368e4581c1c932e57363d93e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e18cc7a5c341c8af2ee2d5b0682280b1
-    parent_uid: b3069ee1368e4581c1c932e57363d93e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b3069ee1368e4581c1c932e57363d93e
 type: courses
 layout: video
 ---

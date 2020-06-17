@@ -1,13 +1,73 @@
 ---
-title: Law Of Total Probability
-uid: da6ed442f72d249131515d52865e0e48
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: da6ed442f72d249131515d52865e0e48
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: b03eb0bc25e8c6f4ff38d37f86086f3c
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: da6ed442f72d249131515d52865e0e48
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d1c1bcc2ab043ba6a034fbc2fca0af84
+  - id: Video-YouTube-Stream
+    media_location: F3y8qupFfUs
+    parent_uid: da6ed442f72d249131515d52865e0e48
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c69752695455ce4603519467508eb3a0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/F3y8qupFfUs/default.jpg'
+    parent_uid: da6ed442f72d249131515d52865e0e48
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a2e2cd52f3314c2fada35d9f851c7d44
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: F3y8qupFfUs
+    parent_uid: da6ed442f72d249131515d52865e0e48
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b6dc9ef499bfb04f83e5d15b304b6c94
+  - id: F3y8qupFfUs.srt
+    parent_uid: da6ed442f72d249131515d52865e0e48
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-4689ff047559/law-of-total-probability/F3y8qupFfUs.srt
+    title: 3play caption file
+    type: null
+    uid: c558007d1b9b1c60e0180a1fbfb4c86b
+  - id: F3y8qupFfUs.pdf
+    parent_uid: da6ed442f72d249131515d52865e0e48
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-4689ff047559/law-of-total-probability/F3y8qupFfUs.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4f54c78b05a2dd7b47158b5ef5098842
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: da6ed442f72d249131515d52865e0e48
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0ef37b72176e6c01bae14365c41b81ab
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: da6ed442f72d249131515d52865e0e48
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2ad96ba9798739193c7e9815f3807ad7
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_probtotal_video_ipod.mp4
+    parent_uid: da6ed442f72d249131515d52865e0e48
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5e639698bc965f0a476157c56a2d57c3
+inline_embed_id: 39058409lawoftotalprobability10363843
 parent_uid: d44952475cd843d935c5b75d0b2f9baa
+related_resources_text: ''
+short_url: law-of-total-probability
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-4689ff047559/law-of-total-probability
-short_url: law-of-total-probability
-inline_embed_id: 39058409lawoftotalprobability10363843
-about_this_resource_text: ''
-related_resources_text: ''
+title: Law Of Total Probability
 transcript: >-
   <p><span m='660'>The</span> <span m='790'>law</span> <span m='940'>of</span>
   <span m='1120'>total</span> <span m='1430'>probability</span> <span
@@ -268,67 +328,7 @@ transcript: >-
   m='208490'>tests</span> <span m='209000'>that</span> <span
   m='209220'>are</span> <span m='210290'>maybe</span> <span
   m='210600'>unreliable.</span> </p>
-embedded_media:
-  - uid: b03eb0bc25e8c6f4ff38d37f86086f3c
-    parent_uid: da6ed442f72d249131515d52865e0e48
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: d1c1bcc2ab043ba6a034fbc2fca0af84
-    parent_uid: da6ed442f72d249131515d52865e0e48
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: c69752695455ce4603519467508eb3a0
-    parent_uid: da6ed442f72d249131515d52865e0e48
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: F3y8qupFfUs
-  - uid: a2e2cd52f3314c2fada35d9f851c7d44
-    parent_uid: da6ed442f72d249131515d52865e0e48
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/F3y8qupFfUs/default.jpg'
-  - uid: b6dc9ef499bfb04f83e5d15b304b6c94
-    parent_uid: da6ed442f72d249131515d52865e0e48
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: F3y8qupFfUs
-  - uid: c558007d1b9b1c60e0180a1fbfb4c86b
-    parent_uid: da6ed442f72d249131515d52865e0e48
-    id: F3y8qupFfUs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-4689ff047559/law-of-total-probability/F3y8qupFfUs.srt
-  - uid: 4f54c78b05a2dd7b47158b5ef5098842
-    parent_uid: da6ed442f72d249131515d52865e0e48
-    id: F3y8qupFfUs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-4689ff047559/law-of-total-probability/F3y8qupFfUs.pdf
-  - uid: 0ef37b72176e6c01bae14365c41b81ab
-    parent_uid: da6ed442f72d249131515d52865e0e48
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2ad96ba9798739193c7e9815f3807ad7
-    parent_uid: da6ed442f72d249131515d52865e0e48
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5e639698bc965f0a476157c56a2d57c3
-    parent_uid: da6ed442f72d249131515d52865e0e48
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_probtotal_video_ipod.mp4
+uid: da6ed442f72d249131515d52865e0e48
 type: courses
 layout: video
 ---

@@ -1,18 +1,72 @@
 ---
-title: Introduction to Stochastic Gene Expression
-uid: 3819cba968901df779b5023a5d4ad6f3
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/introduction-to-stochastic-gene-expression
-short_url: introduction-to-stochastic-gene-expression
-inline_embed_id: 70767587introductiontostochasticgeneexpression97457179
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture by Prof. Jeff Gore centers on
   discussion of one of his favorite scientific papers: &quot;<a
   href="http://dx.doi.org/10.1126/science.1119623">Probing Gene Expression in
   Live Cells, One Protein Molecule at a Time</a>,&quot; by Yu et al.</p>
   <p><strong>Instructor:</strong> Prof. Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: dP4NQIpUH6w
+    parent_uid: 3819cba968901df779b5023a5d4ad6f3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0f7a78b3ba171e575cf8afdb4b210615
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/dP4NQIpUH6w/default.jpg'
+    parent_uid: 3819cba968901df779b5023a5d4ad6f3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8e620297def601ec86589780a4e1ac36
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: 3819cba968901df779b5023a5d4ad6f3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: afd1734b42839954ef15eac9e609b2d4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec08_300k.mp4'
+    parent_uid: 3819cba968901df779b5023a5d4ad6f3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5b59c0cff0b7e66e31f6804ffb3eb641
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: dP4NQIpUH6w
+    parent_uid: 3819cba968901df779b5023a5d4ad6f3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 23c96e055b26124591724d8e58292df5
+  - id: dP4NQIpUH6w.srt
+    parent_uid: 3819cba968901df779b5023a5d4ad6f3
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/introduction-to-stochastic-gene-expression/dP4NQIpUH6w.srt
+    title: 3play caption file
+    type: null
+    uid: f4ad7ccf297c8538c50e202e837a4fec
+  - id: dP4NQIpUH6w.pdf
+    parent_uid: 3819cba968901df779b5023a5d4ad6f3
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/introduction-to-stochastic-gene-expression/dP4NQIpUH6w.pdf
+    title: 3play pdf file
+    type: null
+    uid: cf6ce8d298504155dae9e9ade8428f5b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3819cba968901df779b5023a5d4ad6f3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6b3c8028cdb2688a57ad0fab2d7a01ac
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3819cba968901df779b5023a5d4ad6f3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ed244aa3188670545bdd0fa8c40959b4
+inline_embed_id: 70767587introductiontostochasticgeneexpression97457179
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: introduction-to-stochastic-gene-expression
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/introduction-to-stochastic-gene-expression
+title: Introduction to Stochastic Gene Expression
 transcript: >-
   <p><span m="70">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4666,61 +4720,7 @@ transcript: >-
   m="4831740">I</span> <span m="4831910">will</span> <span
   m="4832150">see</span> <span m="4832350">you</span> <span m="4832560">our next
   class.</span></p>
-embedded_media:
-  - uid: 0f7a78b3ba171e575cf8afdb4b210615
-    parent_uid: 3819cba968901df779b5023a5d4ad6f3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: dP4NQIpUH6w
-  - uid: 8e620297def601ec86589780a4e1ac36
-    parent_uid: 3819cba968901df779b5023a5d4ad6f3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/dP4NQIpUH6w/default.jpg'
-  - uid: afd1734b42839954ef15eac9e609b2d4
-    parent_uid: 3819cba968901df779b5023a5d4ad6f3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: 5b59c0cff0b7e66e31f6804ffb3eb641
-    parent_uid: 3819cba968901df779b5023a5d4ad6f3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec08_300k.mp4'
-  - uid: 23c96e055b26124591724d8e58292df5
-    parent_uid: 3819cba968901df779b5023a5d4ad6f3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: dP4NQIpUH6w
-  - uid: f4ad7ccf297c8538c50e202e837a4fec
-    parent_uid: 3819cba968901df779b5023a5d4ad6f3
-    id: dP4NQIpUH6w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/introduction-to-stochastic-gene-expression/dP4NQIpUH6w.srt
-  - uid: cf6ce8d298504155dae9e9ade8428f5b
-    parent_uid: 3819cba968901df779b5023a5d4ad6f3
-    id: dP4NQIpUH6w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/introduction-to-stochastic-gene-expression/dP4NQIpUH6w.pdf
-  - uid: 6b3c8028cdb2688a57ad0fab2d7a01ac
-    parent_uid: 3819cba968901df779b5023a5d4ad6f3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ed244aa3188670545bdd0fa8c40959b4
-    parent_uid: 3819cba968901df779b5023a5d4ad6f3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3819cba968901df779b5023a5d4ad6f3
 type: courses
 layout: video
 ---

@@ -1,13 +1,61 @@
 ---
-title: Lecture 10 Video
-uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: SnNmbVH5DAM
+    parent_uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 00eddbd2e74ffdd704cdb65b9ace2e15
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/SnNmbVH5DAM/default.jpg'
+    parent_uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f59f88a849ede3e2f99fcf88a4c9611c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: SnNmbVH5DAM
+    parent_uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6375b61ed11c3b1c0754165073012dac
+  - id: SnNmbVH5DAM.srt
+    parent_uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-10/lecture-10-video/SnNmbVH5DAM.srt
+    title: 3play caption file
+    type: null
+    uid: d1659b6f0329022a9ad15b893bef3be3
+  - id: SnNmbVH5DAM.pdf
+    parent_uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-10/lecture-10-video/SnNmbVH5DAM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 39926572ca9b80b877648531771b2dde
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: afe4b7b8a91128fcf39b746107ffd353
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b927adb7708fd9739287d2c78a6f7404
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec10_300k.mp4'
+    parent_uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4d94c61c5cee9e5d371b2d721c28fb0d
+inline_embed_id: 76154553lecture10video12783132
 parent_uid: 0a9b6b962334ae0f262460bcb2eaa2d6
+related_resources_text: ''
+short_url: lecture-10-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-10/lecture-10-video
-short_url: lecture-10-video
-inline_embed_id: 76154553lecture10video12783132
-about_this_resource_text: ''
-related_resources_text: ''
+title: Lecture 10 Video
 transcript: >-
   <p><span m='2120'>The</span> <span m='2210'>following</span> <span
   m='2660'>content</span> <span m='3140'>is</span> <span
@@ -3723,55 +3771,7 @@ transcript: >-
   m='4396760'>much,</span> <span m='4397850'>and</span> <span
   m='4397990'>see</span> <span m='4398140'>you</span> <span
   m='4398320'>on</span> <span m='4398530'>Thursday.</span> </p>
-embedded_media:
-  - uid: 00eddbd2e74ffdd704cdb65b9ace2e15
-    parent_uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: SnNmbVH5DAM
-  - uid: f59f88a849ede3e2f99fcf88a4c9611c
-    parent_uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/SnNmbVH5DAM/default.jpg'
-  - uid: 6375b61ed11c3b1c0754165073012dac
-    parent_uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: SnNmbVH5DAM
-  - uid: d1659b6f0329022a9ad15b893bef3be3
-    parent_uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
-    id: SnNmbVH5DAM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-10/lecture-10-video/SnNmbVH5DAM.srt
-  - uid: 39926572ca9b80b877648531771b2dde
-    parent_uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
-    id: SnNmbVH5DAM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-10/lecture-10-video/SnNmbVH5DAM.pdf
-  - uid: afe4b7b8a91128fcf39b746107ffd353
-    parent_uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b927adb7708fd9739287d2c78a6f7404
-    parent_uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4d94c61c5cee9e5d371b2d721c28fb0d
-    parent_uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec10_300k.mp4'
+uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
 type: courses
 layout: video
 ---

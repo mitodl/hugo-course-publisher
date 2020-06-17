@@ -1,13 +1,62 @@
 ---
-title: 'Video 6: The CP Parameter'
-uid: f9cbbfc8e55567a7e230811e9fd7c2e6
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 5CExAUWzHEQ
+    parent_uid: f9cbbfc8e55567a7e230811e9fd7c2e6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9e2aa104fed3b035a784aa2a00abc956
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 5CExAUWzHEQ
+    parent_uid: f9cbbfc8e55567a7e230811e9fd7c2e6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b7af7166059811095d15ae81ea230053
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/5CExAUWzHEQ/default.jpg'
+    parent_uid: f9cbbfc8e55567a7e230811e9fd7c2e6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ad017a2de5b6a31ef3654632a60eae60
+  - id: 5CExAUWzHEQ.srt
+    parent_uid: f9cbbfc8e55567a7e230811e9fd7c2e6
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/location-location-location-regression-trees-for-housing-data-recitation/video-6-the-cp-parameter/video-6-the-cp-parameter-0/5CExAUWzHEQ.srt
+    title: 3play caption file
+    type: null
+    uid: 1105b086a9fe60228b54d8edbe15ffc8
+  - id: 5CExAUWzHEQ.pdf
+    parent_uid: f9cbbfc8e55567a7e230811e9fd7c2e6
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/location-location-location-regression-trees-for-housing-data-recitation/video-6-the-cp-parameter/video-6-the-cp-parameter-0/5CExAUWzHEQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: bc784b8d2ed8cadb18b6e89fdcb3fd75
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f9cbbfc8e55567a7e230811e9fd7c2e6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9993b1d20fb1cdb824bedc8be2418259
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f9cbbfc8e55567a7e230811e9fd7c2e6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ec81a2e67a0f2ccd84e5086446e20936
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.4.07_300k.mp4
+    parent_uid: f9cbbfc8e55567a7e230811e9fd7c2e6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4a765890ce1f2b9f41ca7c2e38f89ba6
+inline_embed_id: 62326559video6thecpparameter51737652
 parent_uid: 14da7d12ae8a4e886ad3ec1166945b9c
+related_resources_text: ''
+short_url: video-6-the-cp-parameter-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/location-location-location-regression-trees-for-housing-data-recitation/video-6-the-cp-parameter/video-6-the-cp-parameter-0
-short_url: video-6-the-cp-parameter-0
-inline_embed_id: 62326559video6thecpparameter51737652
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 6: The CP Parameter'
 transcript: >-
   <p><span m='4490'>The</span> <span m='5206'>cp</span> <span
   m='5922'>parameter--</span> <span m='6638'>cp</span> <span
@@ -210,56 +259,7 @@ transcript: >-
   m='195111'>cross-validation</span> <span m='195450'>to</span> <span
   m='196017'>our</span> <span m='196585'>training</span> <span
   m='197152'>data.</span> </p>
-embedded_media:
-  - uid: 9e2aa104fed3b035a784aa2a00abc956
-    parent_uid: f9cbbfc8e55567a7e230811e9fd7c2e6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 5CExAUWzHEQ
-  - uid: b7af7166059811095d15ae81ea230053
-    parent_uid: f9cbbfc8e55567a7e230811e9fd7c2e6
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 5CExAUWzHEQ
-  - uid: ad017a2de5b6a31ef3654632a60eae60
-    parent_uid: f9cbbfc8e55567a7e230811e9fd7c2e6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/5CExAUWzHEQ/default.jpg'
-  - uid: 1105b086a9fe60228b54d8edbe15ffc8
-    parent_uid: f9cbbfc8e55567a7e230811e9fd7c2e6
-    id: 5CExAUWzHEQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/location-location-location-regression-trees-for-housing-data-recitation/video-6-the-cp-parameter/video-6-the-cp-parameter-0/5CExAUWzHEQ.srt
-  - uid: bc784b8d2ed8cadb18b6e89fdcb3fd75
-    parent_uid: f9cbbfc8e55567a7e230811e9fd7c2e6
-    id: 5CExAUWzHEQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/location-location-location-regression-trees-for-housing-data-recitation/video-6-the-cp-parameter/video-6-the-cp-parameter-0/5CExAUWzHEQ.pdf
-  - uid: 9993b1d20fb1cdb824bedc8be2418259
-    parent_uid: f9cbbfc8e55567a7e230811e9fd7c2e6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ec81a2e67a0f2ccd84e5086446e20936
-    parent_uid: f9cbbfc8e55567a7e230811e9fd7c2e6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4a765890ce1f2b9f41ca7c2e38f89ba6
-    parent_uid: f9cbbfc8e55567a7e230811e9fd7c2e6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.4.07_300k.mp4
+uid: f9cbbfc8e55567a7e230811e9fd7c2e6
 type: courses
 layout: video
 ---

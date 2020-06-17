@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 5: Binary Search Trees, BST Sort'
-uid: 30b1227d461b32e4b54c38350eb51ea4
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-5-binary-search-trees-bst-sort
-short_url: lecture-5-binary-search-trees-bst-sort
-inline_embed_id: '64517852lecture5:binarysearchtrees,bstsort24958980'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, binary search trees are
   introduced, and several operations are covered: insertion, finding a value,
   finding the minimum element.</p> <p><strong>Instructor:</strong> Srini
   Devadas</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 9Jry5-82I68
+    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bf1f7913cf907c56bc549b9dc331d220
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9Jry5-82I68/default.jpg'
+    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b86df1b30cbd44ed5b35b76939c67cfe
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-5-binary-search-trees/id585700718?i=126127763
+    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 30c1b0dc06e2939ecbe26148c9b58bc4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec05_300k.mp4'
+    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2738aebbf482d69304ca2fc5bbae22bc
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 9Jry5-82I68
+    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f50e67d4a3fb154846d29af0c8113f2a
+  - id: 9Jry5-82I68.srt
+    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-5-binary-search-trees-bst-sort/9Jry5-82I68.srt
+    title: 3play caption file
+    type: null
+    uid: 57d747167f81ece98e219ad0a2c0230b
+  - id: 9Jry5-82I68.pdf
+    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-5-binary-search-trees-bst-sort/9Jry5-82I68.pdf
+    title: 3play pdf file
+    type: null
+    uid: 73ffad03e0ac4a96957fdfe22b2e7379
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fb63bf5b83c298deb891b38f68e59321
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 864cd52a5443b0c119f9f57b5c3aa4da
+inline_embed_id: '64517852lecture5:binarysearchtrees,bstsort24958980'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-5-binary-search-trees-bst-sort
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-5-binary-search-trees-bst-sort
+title: 'Lecture 5: Binary Search Trees, BST Sort'
 transcript: >-
   <p><span m='50'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -3194,62 +3249,7 @@ transcript: >-
   m='3157800'>right?</span> <span m='3158080'>See</span> <span
   m='3158170'>you</span> <span m='3158210'>next</span> <span
   m='3158400'>time.</span> </p>
-embedded_media:
-  - uid: bf1f7913cf907c56bc549b9dc331d220
-    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9Jry5-82I68
-  - uid: b86df1b30cbd44ed5b35b76939c67cfe
-    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9Jry5-82I68/default.jpg'
-  - uid: 30c1b0dc06e2939ecbe26148c9b58bc4
-    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-5-binary-search-trees/id585700718?i=126127763
-  - uid: 2738aebbf482d69304ca2fc5bbae22bc
-    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec05_300k.mp4'
-  - uid: f50e67d4a3fb154846d29af0c8113f2a
-    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9Jry5-82I68
-  - uid: 57d747167f81ece98e219ad0a2c0230b
-    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
-    id: 9Jry5-82I68.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-5-binary-search-trees-bst-sort/9Jry5-82I68.srt
-  - uid: 73ffad03e0ac4a96957fdfe22b2e7379
-    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
-    id: 9Jry5-82I68.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-5-binary-search-trees-bst-sort/9Jry5-82I68.pdf
-  - uid: fb63bf5b83c298deb891b38f68e59321
-    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 864cd52a5443b0c119f9f57b5c3aa4da
-    parent_uid: 30b1227d461b32e4b54c38350eb51ea4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 30b1227d461b32e4b54c38350eb51ea4
 type: courses
 layout: video
 ---

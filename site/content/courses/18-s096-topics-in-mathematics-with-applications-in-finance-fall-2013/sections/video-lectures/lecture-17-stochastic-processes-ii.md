@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 17: Stochastic Processes II'
-uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-17-stochastic-processes-ii
-short_url: lecture-17-stochastic-processes-ii
-inline_embed_id: '24825648lecture17:stochasticprocessesii70417331'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture covers stochastic processes,
   including continuous-time stochastic processes and standard Brownian
   motion.</p> <p><strong>Instructor:</strong> Dr. Choongbum Lee</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: PPl-7_RL0Ko
+    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 93911af249a8d6f6897fec7d09445ad7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/PPl-7_RL0Ko/default.jpg'
+    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 79f7fd7851fa4006d712d32db1a19ae6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2e653378e3315c3ed4c1bb91d3a092eb
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec17_300k.mp4'
+    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5bd647b57697fda1747357701380c9de
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: PPl-7_RL0Ko
+    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 301dd47a94937bc90e43ae4e08da120f
+  - id: PPl-7_RL0Ko.srt
+    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-17-stochastic-processes-ii/PPl-7_RL0Ko.srt
+    title: 3play caption file
+    type: null
+    uid: 3ba785b88bc42940f5a2ed2a75cfcaa3
+  - id: PPl-7_RL0Ko.pdf
+    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-17-stochastic-processes-ii/PPl-7_RL0Ko.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2f19d915141f19991f461e121c61fdf4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7379f1b7314d903fba1d6a1185a59046
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1cc18280310e86354d0c508df6e8fee1
+inline_embed_id: '24825648lecture17:stochasticprocessesii70417331'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-17-stochastic-processes-ii
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-17-stochastic-processes-ii
+title: 'Lecture 17: Stochastic Processes II'
 transcript: >-
   <p><span m='90'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -3467,61 +3521,7 @@ transcript: >-
   m='4553370'>Any</span> <span m='4553670'>last</span> <span
   m='4553890'>minute</span> <span m='4554070'>questions?</span> <span
   m='4556770'>Great.</span> </p>
-embedded_media:
-  - uid: 93911af249a8d6f6897fec7d09445ad7
-    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: PPl-7_RL0Ko
-  - uid: 79f7fd7851fa4006d712d32db1a19ae6
-    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/PPl-7_RL0Ko/default.jpg'
-  - uid: 2e653378e3315c3ed4c1bb91d3a092eb
-    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: 5bd647b57697fda1747357701380c9de
-    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec17_300k.mp4'
-  - uid: 301dd47a94937bc90e43ae4e08da120f
-    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: PPl-7_RL0Ko
-  - uid: 3ba785b88bc42940f5a2ed2a75cfcaa3
-    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
-    id: PPl-7_RL0Ko.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-17-stochastic-processes-ii/PPl-7_RL0Ko.srt
-  - uid: 2f19d915141f19991f461e121c61fdf4
-    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
-    id: PPl-7_RL0Ko.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-17-stochastic-processes-ii/PPl-7_RL0Ko.pdf
-  - uid: 7379f1b7314d903fba1d6a1185a59046
-    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1cc18280310e86354d0c508df6e8fee1
-    parent_uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
 type: courses
 layout: video
 ---

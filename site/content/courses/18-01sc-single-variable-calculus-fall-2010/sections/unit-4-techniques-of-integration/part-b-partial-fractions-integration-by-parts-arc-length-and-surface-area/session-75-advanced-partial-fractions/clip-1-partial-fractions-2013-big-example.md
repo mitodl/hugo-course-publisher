@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Partial Fractions – Big Example'
-uid: 1d1c1501906ae28f49afa0046f8f65a6
-parent_uid: b2d9964453e89357525c798ec9a77daf
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/clip-1-partial-fractions-2013-big-example
-short_url: clip-1-partial-fractions-2013-big-example
-inline_embed_id: '79382763clip1:partialfractionsbigexample52873427'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/9dc35202a67d316ecff8020ad5ab5f80"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 30 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: aeXp1zC6Hls
+    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9364d2086da0ae4818077e366ff58632
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/aeXp1zC6Hls/default.jpg'
+    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1871988befc27b39d533a5f90f7b4eb0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: aeXp1zC6Hls
+    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0400b71942ef8728d1841f061cfc6d0d
+  - id: aeXp1zC6Hls.srt
+    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/clip-1-partial-fractions-2013-big-example/aeXp1zC6Hls.srt
+    title: 3play caption file
+    type: null
+    uid: b566a833de35a2eedbfe27338f6f234e
+  - id: aeXp1zC6Hls.pdf
+    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/clip-1-partial-fractions-2013-big-example/aeXp1zC6Hls.pdf
+    title: 3play pdf file
+    type: null
+    uid: f111812fcfd4ff690562f74387f6a041
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a73ec587d9671258ea0e16f88150a342
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d4e0d311e46cb2e44ad5e045c90f83c3
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec30_300k.mp4'
+    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b6f928957eaf0f2f4cefcda68912e4d6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 19fd6701cb9771b9b32ddb981ecae9fa
+inline_embed_id: '79382763clip1:partialfractionsbigexample52873427'
+parent_uid: b2d9964453e89357525c798ec9a77daf
 related_resources_text: ''
+short_url: clip-1-partial-fractions-2013-big-example
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/clip-1-partial-fractions-2013-big-example
+title: 'Clip 1: Partial Fractions – Big Example'
 transcript: >-
   <p><span m="0">The</span> <span m="90">following</span> <span
   m="520">content</span> <span m="1290">is</span> <span m="1420">provided</span>
@@ -2749,61 +2803,7 @@ transcript: >-
   m="3073840">there.</span> <span m="3076930">So</span> <span
   m="3077170">just,</span> <span m="3079070">right</span> <span
   m="3079210">there.</span></p>
-embedded_media:
-  - uid: 9364d2086da0ae4818077e366ff58632
-    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: aeXp1zC6Hls
-  - uid: 1871988befc27b39d533a5f90f7b4eb0
-    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/aeXp1zC6Hls/default.jpg'
-  - uid: 0400b71942ef8728d1841f061cfc6d0d
-    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: aeXp1zC6Hls
-  - uid: b566a833de35a2eedbfe27338f6f234e
-    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
-    id: aeXp1zC6Hls.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/clip-1-partial-fractions-2013-big-example/aeXp1zC6Hls.srt
-  - uid: f111812fcfd4ff690562f74387f6a041
-    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
-    id: aeXp1zC6Hls.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/clip-1-partial-fractions-2013-big-example/aeXp1zC6Hls.pdf
-  - uid: a73ec587d9671258ea0e16f88150a342
-    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d4e0d311e46cb2e44ad5e045c90f83c3
-    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b6f928957eaf0f2f4cefcda68912e4d6
-    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec30_300k.mp4'
-  - uid: 19fd6701cb9771b9b32ddb981ecae9fa
-    parent_uid: 1d1c1501906ae28f49afa0046f8f65a6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 1d1c1501906ae28f49afa0046f8f65a6
 type: courses
 layout: video
 ---

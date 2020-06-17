@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 29: Singular Value Decomposition'
-uid: 5b0252b9439ecc503ceaf04ccc270d19
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TX_vooSnhm8
+    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 53376116afbbd214843f4e80634e93e9
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 29e0396187fd333f168e6ba8c5c9e2d7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/29.mp4'
+    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a02e8ff9a7ace9f33fd2d15a1e1b1f46
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TX_vooSnhm8
+    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4df29fe2eb5818f6cc73882599e7f21e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TX_vooSnhm8/default.jpg'
+    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0225597c28769e3c9eb56b1edb2295ff
+  - id: TX_vooSnhm8.srt
+    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-29-singular-value-decomposition/TX_vooSnhm8.srt
+    title: 3play caption file
+    type: null
+    uid: de82187718bbd4b43a793fbef14b79db
+  - id: TX_vooSnhm8.pdf
+    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-29-singular-value-decomposition/TX_vooSnhm8.pdf
+    title: 3play pdf file
+    type: null
+    uid: f93dab3c217f443878a36a6868d3cbbf
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0090b4be18d4e8349074db809104db28
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0bac7cc553250a9a97247c2ceae5b072
+inline_embed_id: 49447195lecture29singularvaluedecomposition11692691
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: lecture-29-singular-value-decomposition
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-29-singular-value-decomposition
-short_url: lecture-29-singular-value-decomposition
-inline_embed_id: 49447195lecture29singularvaluedecomposition11692691
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 29: Singular Value Decomposition'
 transcript: >-
   <p><span m='14160'>Okay.</span> <span m='14860'>This</span> <span
   m='15360'>is</span> <span m='15610'>the</span> <span m='15810'>lecture</span>
@@ -2108,61 +2162,7 @@ transcript: >-
   m='2414360'>course.</span> </p><p><span m='2415260'>So</span> <span
   m='2415430'>there's</span> <span m='2415570'>the</span> <span
   m='2415620'>SVD.</span> </p><p><span m='2415740'>Thanks.</span> </p>
-embedded_media:
-  - uid: 53376116afbbd214843f4e80634e93e9
-    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TX_vooSnhm8
-  - uid: 29e0396187fd333f168e6ba8c5c9e2d7
-    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: a02e8ff9a7ace9f33fd2d15a1e1b1f46
-    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/29.mp4'
-  - uid: 4df29fe2eb5818f6cc73882599e7f21e
-    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TX_vooSnhm8
-  - uid: 0225597c28769e3c9eb56b1edb2295ff
-    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TX_vooSnhm8/default.jpg'
-  - uid: de82187718bbd4b43a793fbef14b79db
-    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
-    id: TX_vooSnhm8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-29-singular-value-decomposition/TX_vooSnhm8.srt
-  - uid: f93dab3c217f443878a36a6868d3cbbf
-    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
-    id: TX_vooSnhm8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-29-singular-value-decomposition/TX_vooSnhm8.pdf
-  - uid: 0090b4be18d4e8349074db809104db28
-    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0bac7cc553250a9a97247c2ceae5b072
-    parent_uid: 5b0252b9439ecc503ceaf04ccc270d19
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 5b0252b9439ecc503ceaf04ccc270d19
 type: courses
 layout: video
 ---

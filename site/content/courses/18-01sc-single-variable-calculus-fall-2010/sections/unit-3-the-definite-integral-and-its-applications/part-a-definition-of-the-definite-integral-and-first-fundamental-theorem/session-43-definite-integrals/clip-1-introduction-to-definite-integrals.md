@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Introduction to Definite Integrals'
-uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
-parent_uid: 5170b79f5b62ed3a4d96b27fc3edc468
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-43-definite-integrals/clip-1-introduction-to-definite-integrals
-short_url: clip-1-introduction-to-definite-integrals
-inline_embed_id: '44403265clip1:introductiontodefiniteintegrals57933756'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/afc9cd2d3f0b87d0a313b3188013a102"
   target="_blank"> Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 18 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-MP4
+    media_location: hjZhPczMkL4
+    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
+    title: Video-YouTube-MP4
+    type: Video
+    uid: 89041788ca755e0d78a22b4d6d57d83c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/hjZhPczMkL4/default.jpg'
+    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9c1b5e76c8220116c3f36f5073b45d0c
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: hjZhPczMkL4
+    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a4e3a564587d3475e75534509a7e07d9
+  - id: hjZhPczMkL4.srt
+    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-43-definite-integrals/clip-1-introduction-to-definite-integrals/hjZhPczMkL4.srt
+    title: 3play caption file
+    type: null
+    uid: 17e1fcd4104236c705063f0eab01681b
+  - id: hjZhPczMkL4.pdf
+    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-43-definite-integrals/clip-1-introduction-to-definite-integrals/hjZhPczMkL4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9756dff73c77da369362a34e22754eab
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 041843d4d6e931e65b3f1939eb371014
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a9befc3018dadafef80b29f44231fe70
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec18_300k.mp4'
+    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 93ab4fca5b0143ba2aeea2a555436357
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 56a6e0f89194572a026a1cfd8779bd3f
+inline_embed_id: '44403265clip1:introductiontodefiniteintegrals57933756'
+parent_uid: 5170b79f5b62ed3a4d96b27fc3edc468
 related_resources_text: ''
+short_url: clip-1-introduction-to-definite-integrals
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-43-definite-integrals/clip-1-introduction-to-definite-integrals
+title: 'Clip 1: Introduction to Definite Integrals'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1020'>is</span> <span m='1130'>provided under
@@ -2398,61 +2452,7 @@ transcript: >-
   m='2829470'>think</span> <span m='2829770'>about</span> <span
   m='2830110'>questions</span> <span m='2830640'>that you'll ask</span> <span
   m='2830820'>next</span> <span m='2831560'>time.</span> </p>
-embedded_media:
-  - uid: 89041788ca755e0d78a22b4d6d57d83c
-    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
-    id: Video-YouTube-MP4
-    title: Video-YouTube-MP4
-    type: Video
-    media_location: hjZhPczMkL4
-  - uid: 9c1b5e76c8220116c3f36f5073b45d0c
-    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/hjZhPczMkL4/default.jpg'
-  - uid: a4e3a564587d3475e75534509a7e07d9
-    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: hjZhPczMkL4
-  - uid: 17e1fcd4104236c705063f0eab01681b
-    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
-    id: hjZhPczMkL4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-43-definite-integrals/clip-1-introduction-to-definite-integrals/hjZhPczMkL4.srt
-  - uid: 9756dff73c77da369362a34e22754eab
-    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
-    id: hjZhPczMkL4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-43-definite-integrals/clip-1-introduction-to-definite-integrals/hjZhPczMkL4.pdf
-  - uid: 041843d4d6e931e65b3f1939eb371014
-    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a9befc3018dadafef80b29f44231fe70
-    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 93ab4fca5b0143ba2aeea2a555436357
-    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec18_300k.mp4'
-  - uid: 56a6e0f89194572a026a1cfd8779bd3f
-    parent_uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 96eed83f8d2e6a5f4dc8f6b3cc07012c
 type: courses
 layout: video
 ---

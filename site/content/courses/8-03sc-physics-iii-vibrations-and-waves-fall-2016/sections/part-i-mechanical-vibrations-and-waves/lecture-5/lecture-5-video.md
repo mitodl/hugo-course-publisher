@@ -1,13 +1,61 @@
 ---
-title: Lecture 5 Video
-uid: 96042e8cba4a184e8b73925225f451de
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: I0YACDaY-ww
+    parent_uid: 96042e8cba4a184e8b73925225f451de
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5807b66bcca77c99bad81e75f5e9438d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/I0YACDaY-ww/default.jpg'
+    parent_uid: 96042e8cba4a184e8b73925225f451de
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e97e47d8f9071ec2518c5957b72323c4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: I0YACDaY-ww
+    parent_uid: 96042e8cba4a184e8b73925225f451de
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d0f50a999af92d1b99cf47ab0607b11a
+  - id: I0YACDaY-ww.srt
+    parent_uid: 96042e8cba4a184e8b73925225f451de
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-5/lecture-5-video/I0YACDaY-ww.srt
+    title: 3play caption file
+    type: null
+    uid: f92ea3ed699cc5c8e059166cb80c5088
+  - id: I0YACDaY-ww.pdf
+    parent_uid: 96042e8cba4a184e8b73925225f451de
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-5/lecture-5-video/I0YACDaY-ww.pdf
+    title: 3play pdf file
+    type: null
+    uid: 119a2ad7e8f7f521d65cf1e6dc1dd167
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 96042e8cba4a184e8b73925225f451de
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 290761cab81eb197d59888c382b53a6b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 96042e8cba4a184e8b73925225f451de
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 05caa5e6ae131b2ce623cc174ac6fc1c
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec05_300k.mp4'
+    parent_uid: 96042e8cba4a184e8b73925225f451de
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c06b854f5c0d19e9de8530e687e5ffd1
+inline_embed_id: 91532895lecture5video56358157
 parent_uid: 9bc913321f00f35265f3aede3364abeb
+related_resources_text: ''
+short_url: lecture-5-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-5/lecture-5-video
-short_url: lecture-5-video
-inline_embed_id: 91532895lecture5video56358157
-about_this_resource_text: ''
-related_resources_text: ''
+title: Lecture 5 Video
 transcript: >-
   <p><span m='2165'>The</span> <span m='2210'>following</span> <span
   m='2660'>content</span> <span m='3140'>is</span> <span
@@ -4531,55 +4579,7 @@ transcript: >-
   m='4796190'>continue</span> <span m='4796610'>with</span> <span
   m='4796760'>forced</span> <span m='4797170'>oscillators.</span> <span
   m='4799570'>All right?</span> <span m='4799870'>Thank you.</span> </p>
-embedded_media:
-  - uid: 5807b66bcca77c99bad81e75f5e9438d
-    parent_uid: 96042e8cba4a184e8b73925225f451de
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: I0YACDaY-ww
-  - uid: e97e47d8f9071ec2518c5957b72323c4
-    parent_uid: 96042e8cba4a184e8b73925225f451de
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/I0YACDaY-ww/default.jpg'
-  - uid: d0f50a999af92d1b99cf47ab0607b11a
-    parent_uid: 96042e8cba4a184e8b73925225f451de
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: I0YACDaY-ww
-  - uid: f92ea3ed699cc5c8e059166cb80c5088
-    parent_uid: 96042e8cba4a184e8b73925225f451de
-    id: I0YACDaY-ww.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-5/lecture-5-video/I0YACDaY-ww.srt
-  - uid: 119a2ad7e8f7f521d65cf1e6dc1dd167
-    parent_uid: 96042e8cba4a184e8b73925225f451de
-    id: I0YACDaY-ww.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-5/lecture-5-video/I0YACDaY-ww.pdf
-  - uid: 290761cab81eb197d59888c382b53a6b
-    parent_uid: 96042e8cba4a184e8b73925225f451de
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 05caa5e6ae131b2ce623cc174ac6fc1c
-    parent_uid: 96042e8cba4a184e8b73925225f451de
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c06b854f5c0d19e9de8530e687e5ffd1
-    parent_uid: 96042e8cba4a184e8b73925225f451de
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec05_300k.mp4'
+uid: 96042e8cba4a184e8b73925225f451de
 type: courses
 layout: video
 ---

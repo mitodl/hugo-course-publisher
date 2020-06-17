@@ -1,13 +1,68 @@
 ---
-title: Promoting Active Participation During Lectures
-uid: b47d148ba984da92972a10881621edd4
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: htRqniQFm5g
+    parent_uid: b47d148ba984da92972a10881621edd4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b5ca2294c21634fadbc223254ad78acc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/htRqniQFm5g/default.jpg'
+    parent_uid: b47d148ba984da92972a10881621edd4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1158556af808090deefc8bc39a7026ae
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: htRqniQFm5g
+    parent_uid: b47d148ba984da92972a10881621edd4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 85f772cff3f1bd194c0ff9afc00e49a6
+  - id: htRqniQFm5g.srt
+    parent_uid: b47d148ba984da92972a10881621edd4
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/promoting-active-participation-during-lectures/htRqniQFm5g.srt
+    title: 3play caption file
+    type: null
+    uid: e9438bbc00074d656c4f443e38b5a2c0
+  - id: htRqniQFm5g.pdf
+    parent_uid: b47d148ba984da92972a10881621edd4
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/promoting-active-participation-during-lectures/htRqniQFm5g.pdf
+    title: 3play pdf file
+    type: null
+    uid: cb5c696c237aac32958e4412ed10df2b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b47d148ba984da92972a10881621edd4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 55088fcff1524690240dc9950b29f06b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b47d148ba984da92972a10881621edd4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7cc4ceb3cc1a80b8da80eb102c885c20
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: b47d148ba984da92972a10881621edd4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7400f8618c2a04653056f7673f3c6b08
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT5.111F14/MIT5_111F14_ActiveParticipation_300k.mp4
+    parent_uid: b47d148ba984da92972a10881621edd4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9c4e96385cb01a9c698fc5502717f554
+inline_embed_id: 23561829promotingactiveparticipationduringlectures48344966
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
+related_resources_text: ''
+short_url: promoting-active-participation-during-lectures
 technical_location: >-
   https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/promoting-active-participation-during-lectures
-short_url: promoting-active-participation-during-lectures
-inline_embed_id: 23561829promotingactiveparticipationduringlectures48344966
-about_this_resource_text: ''
-related_resources_text: ''
+title: Promoting Active Participation During Lectures
 transcript: >-
   <p><span m='5090'>CATHERINE DRENNAN: I</span> <span m='5330'>really</span>
   <span m='5780'>want</span> <span m='6030'>the</span> <span
@@ -284,62 +339,7 @@ transcript: >-
   m='226220'>engagement</span> <span m='227120'>then</span> <span
   m='227710'>with</span> <span m='228030'>the</span> <span
   m='228110'>material.</span> </p>
-embedded_media:
-  - uid: b5ca2294c21634fadbc223254ad78acc
-    parent_uid: b47d148ba984da92972a10881621edd4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: htRqniQFm5g
-  - uid: 1158556af808090deefc8bc39a7026ae
-    parent_uid: b47d148ba984da92972a10881621edd4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/htRqniQFm5g/default.jpg'
-  - uid: 85f772cff3f1bd194c0ff9afc00e49a6
-    parent_uid: b47d148ba984da92972a10881621edd4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: htRqniQFm5g
-  - uid: e9438bbc00074d656c4f443e38b5a2c0
-    parent_uid: b47d148ba984da92972a10881621edd4
-    id: htRqniQFm5g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/promoting-active-participation-during-lectures/htRqniQFm5g.srt
-  - uid: cb5c696c237aac32958e4412ed10df2b
-    parent_uid: b47d148ba984da92972a10881621edd4
-    id: htRqniQFm5g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/promoting-active-participation-during-lectures/htRqniQFm5g.pdf
-  - uid: 55088fcff1524690240dc9950b29f06b
-    parent_uid: b47d148ba984da92972a10881621edd4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7cc4ceb3cc1a80b8da80eb102c885c20
-    parent_uid: b47d148ba984da92972a10881621edd4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7400f8618c2a04653056f7673f3c6b08
-    parent_uid: b47d148ba984da92972a10881621edd4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 9c4e96385cb01a9c698fc5502717f554
-    parent_uid: b47d148ba984da92972a10881621edd4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT5.111F14/MIT5_111F14_ActiveParticipation_300k.mp4
+uid: b47d148ba984da92972a10881621edd4
 type: courses
 layout: video
 ---

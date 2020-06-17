@@ -1,13 +1,73 @@
 ---
-title: Independent Sampling Theorem
-uid: 616dd599af632357ebde8be128156266
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 616dd599af632357ebde8be128156266
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: f21504ca1ebd67c7e73572867a910975
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 616dd599af632357ebde8be128156266
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f8e090cd78b8fff15f00310d3e09436a
+  - id: Video-YouTube-Stream
+    media_location: MMn7q1M7pGI
+    parent_uid: 616dd599af632357ebde8be128156266
+    title: Video-YouTube-Stream
+    type: Video
+    uid: da83b05fb9378d056e1916151c2721f9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/MMn7q1M7pGI/default.jpg'
+    parent_uid: 616dd599af632357ebde8be128156266
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6f8a8d0976e62a2b3517e961cebdb153
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: MMn7q1M7pGI
+    parent_uid: 616dd599af632357ebde8be128156266
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 427255ff0fc7d6e12555a93fce3ea7c1
+  - id: MMn7q1M7pGI.srt
+    parent_uid: 616dd599af632357ebde8be128156266
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/vertical-872c5ec0974e/independent-sampling-theorem/MMn7q1M7pGI.srt
+    title: 3play caption file
+    type: null
+    uid: 89c817a99a7ea3bc73585f5b0cda6c5d
+  - id: MMn7q1M7pGI.pdf
+    parent_uid: 616dd599af632357ebde8be128156266
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/vertical-872c5ec0974e/independent-sampling-theorem/MMn7q1M7pGI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2eea20f8fd73b464dd8af4a81f8171e2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 616dd599af632357ebde8be128156266
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 825f83b58e1230495303919033aeace5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 616dd599af632357ebde8be128156266
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ab9dd2c80b7a77df319fa0427e062bb2
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_pairwisesample_video_ipod.mp4
+    parent_uid: 616dd599af632357ebde8be128156266
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 588839847c06f255ec1ff5ac76a4b5b5
+inline_embed_id: 84115380independentsamplingtheorem86617377
 parent_uid: a304c2b048fc11dc5c308eab3d675b1d
+related_resources_text: ''
+short_url: independent-sampling-theorem
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/vertical-872c5ec0974e/independent-sampling-theorem
-short_url: independent-sampling-theorem
-inline_embed_id: 84115380independentsamplingtheorem86617377
-about_this_resource_text: ''
-related_resources_text: ''
+title: Independent Sampling Theorem
 transcript: >-
   <p><span m='820'>PROFESSOR: Now</span> <span m='1000'>we're</span> <span
   m='1180'>ready</span> <span m='1440'>to</span> <span m='1550'>prove</span>
@@ -498,67 +558,7 @@ transcript: >-
   m='406180'>probability</span> <span m='407540'>has</span> <span
   m='407880'>to</span> <span m='407980'>be</span> <span m='408220'>less</span>
   <span m='408460'>than</span> <span m='408930'>1.</span> </p>
-embedded_media:
-  - uid: f21504ca1ebd67c7e73572867a910975
-    parent_uid: 616dd599af632357ebde8be128156266
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: f8e090cd78b8fff15f00310d3e09436a
-    parent_uid: 616dd599af632357ebde8be128156266
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: da83b05fb9378d056e1916151c2721f9
-    parent_uid: 616dd599af632357ebde8be128156266
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MMn7q1M7pGI
-  - uid: 6f8a8d0976e62a2b3517e961cebdb153
-    parent_uid: 616dd599af632357ebde8be128156266
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MMn7q1M7pGI/default.jpg'
-  - uid: 427255ff0fc7d6e12555a93fce3ea7c1
-    parent_uid: 616dd599af632357ebde8be128156266
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MMn7q1M7pGI
-  - uid: 89c817a99a7ea3bc73585f5b0cda6c5d
-    parent_uid: 616dd599af632357ebde8be128156266
-    id: MMn7q1M7pGI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/vertical-872c5ec0974e/independent-sampling-theorem/MMn7q1M7pGI.srt
-  - uid: 2eea20f8fd73b464dd8af4a81f8171e2
-    parent_uid: 616dd599af632357ebde8be128156266
-    id: MMn7q1M7pGI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/vertical-872c5ec0974e/independent-sampling-theorem/MMn7q1M7pGI.pdf
-  - uid: 825f83b58e1230495303919033aeace5
-    parent_uid: 616dd599af632357ebde8be128156266
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ab9dd2c80b7a77df319fa0427e062bb2
-    parent_uid: 616dd599af632357ebde8be128156266
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 588839847c06f255ec1ff5ac76a4b5b5
-    parent_uid: 616dd599af632357ebde8be128156266
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_pairwisesample_video_ipod.mp4
+uid: 616dd599af632357ebde8be128156266
 type: courses
 layout: video
 ---

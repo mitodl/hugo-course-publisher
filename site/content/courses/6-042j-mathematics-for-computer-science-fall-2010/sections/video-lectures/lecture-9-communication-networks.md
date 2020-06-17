@@ -1,16 +1,71 @@
 ---
-title: 'Lecture 9: Communication Networks'
-uid: b0784a8c6f5097fbdafe14c3da96e8a6
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-9-communication-networks
-short_url: lecture-9-communication-networks
-inline_embed_id: '30623834lecture9:communicationnetworks71863230'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Covers the application of graph theory to
   communication networks, surveying their configuration, topology, and
   optimization.</p> <p><strong>Speaker:</strong> Marten van Dijk</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: bTyxpoi2dmM
+    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 746144495b2e1e7718936082a6412e0d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/bTyxpoi2dmM/default.jpg'
+    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c191037338c1431ea61c23a66a52e276
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-9-communication-networks/id503873536?i=110644973
+    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c175b212fd2043445b960ea99dad8b81
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec09_300k.mp4'
+    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: be7b81887573b5289eb2f3f4249f40ea
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: bTyxpoi2dmM
+    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 02d2af34e5112d38cb8c53a4b3bf131d
+  - id: bTyxpoi2dmM.srt
+    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-9-communication-networks/bTyxpoi2dmM.srt
+    title: 3play caption file
+    type: null
+    uid: af97c4d4a88d3cfcb682b508074828c2
+  - id: bTyxpoi2dmM.pdf
+    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-9-communication-networks/bTyxpoi2dmM.pdf
+    title: 3play pdf file
+    type: null
+    uid: fca5cc3f1014121da9b7059254f58466
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f34e19e109caad24b2bb9cc29a3db575
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 34f59e4fefa2296e18716db4b16f9f91
+inline_embed_id: '30623834lecture9:communicationnetworks71863230'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-9-communication-networks
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-9-communication-networks
+title: 'Lecture 9: Communication Networks'
 transcript: >-
   <p><span m='390'>The</span> <span m='510'>following</span> <span
   m='950'>content</span> <span m='1550'>is</span> <span m='1670'>provided</span>
@@ -4405,62 +4460,7 @@ transcript: >-
   m='4996190'>is</span> <span m='4996350'>the</span> <span
   m='4996460'>real</span> <span m='4997490'>insight.</span> <span
   m='4998820'>Thank</span> <span m='4999120'>you.</span> </p>
-embedded_media:
-  - uid: 746144495b2e1e7718936082a6412e0d
-    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: bTyxpoi2dmM
-  - uid: c191037338c1431ea61c23a66a52e276
-    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/bTyxpoi2dmM/default.jpg'
-  - uid: c175b212fd2043445b960ea99dad8b81
-    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-9-communication-networks/id503873536?i=110644973
-  - uid: be7b81887573b5289eb2f3f4249f40ea
-    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec09_300k.mp4'
-  - uid: 02d2af34e5112d38cb8c53a4b3bf131d
-    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: bTyxpoi2dmM
-  - uid: af97c4d4a88d3cfcb682b508074828c2
-    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
-    id: bTyxpoi2dmM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-9-communication-networks/bTyxpoi2dmM.srt
-  - uid: fca5cc3f1014121da9b7059254f58466
-    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
-    id: bTyxpoi2dmM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-9-communication-networks/bTyxpoi2dmM.pdf
-  - uid: f34e19e109caad24b2bb9cc29a3db575
-    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 34f59e4fefa2296e18716db4b16f9f91
-    parent_uid: b0784a8c6f5097fbdafe14c3da96e8a6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b0784a8c6f5097fbdafe14c3da96e8a6
 type: courses
 layout: video
 ---

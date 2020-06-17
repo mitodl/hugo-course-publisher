@@ -1,13 +1,62 @@
 ---
-title: 'Video 6: Data Analysis - Plots and Summary Tables'
-uid: 089338df15512aaaa9b2ecfa6f4369c9
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: FYXIRXnQ8Fc
+    parent_uid: 089338df15512aaaa9b2ecfa6f4369c9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c8595a9038037f8c571500ff0baa003d
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: FYXIRXnQ8Fc
+    parent_uid: 089338df15512aaaa9b2ecfa6f4369c9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: acf17049bdb56f8f70eaba3d9703c135
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/FYXIRXnQ8Fc/default.jpg'
+    parent_uid: 089338df15512aaaa9b2ecfa6f4369c9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 74a9535cc80923d897b50d8f94d4bb41
+  - id: FYXIRXnQ8Fc.srt
+    parent_uid: 089338df15512aaaa9b2ecfa6f4369c9
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-6-data-analysis-plots-and-summary-tables/video-6-data-analysis-plots-and-summary-tables-0/FYXIRXnQ8Fc.srt
+    title: 3play caption file
+    type: null
+    uid: c7ae5b932a816f23aa39763c45304160
+  - id: FYXIRXnQ8Fc.pdf
+    parent_uid: 089338df15512aaaa9b2ecfa6f4369c9
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-6-data-analysis-plots-and-summary-tables/video-6-data-analysis-plots-and-summary-tables-0/FYXIRXnQ8Fc.pdf
+    title: 3play pdf file
+    type: null
+    uid: a827b7a5b964a8bab41905085bd26115
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 089338df15512aaaa9b2ecfa6f4369c9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 120808d6b75cf25640dabb3f85fa0591
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 089338df15512aaaa9b2ecfa6f4369c9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d585aa320957413ecbab332f35afa60d
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.3.12_300k.mp4
+    parent_uid: 089338df15512aaaa9b2ecfa6f4369c9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ee92c1bb615f3d64691bd96c3f3e0d0e
+inline_embed_id: 94670009video6dataanalysisplotsandsummarytables12191195
 parent_uid: 050acd529f55fd87a5c298728b4daa03
+related_resources_text: ''
+short_url: video-6-data-analysis-plots-and-summary-tables-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-6-data-analysis-plots-and-summary-tables/video-6-data-analysis-plots-and-summary-tables-0
-short_url: video-6-data-analysis-plots-and-summary-tables-0
-inline_embed_id: 94670009video6dataanalysisplotsandsummarytables12191195
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 6: Data Analysis - Plots and Summary Tables'
 transcript: >-
   <p><span m='4500'>In</span> <span m='4800'>addition</span> <span
   m='5101'>to</span> <span m='5402'>scatter</span> <span m='5703'>plots,</span>
@@ -414,56 +463,7 @@ transcript: >-
   <span m='435780'>in</span> <span m='436046'>the</span> <span
   m='436312'>recitation</span> <span m='436578'>and</span> <span
   m='436844'>homework</span> <span m='437110'>assignment.</span> </p>
-embedded_media:
-  - uid: c8595a9038037f8c571500ff0baa003d
-    parent_uid: 089338df15512aaaa9b2ecfa6f4369c9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FYXIRXnQ8Fc
-  - uid: acf17049bdb56f8f70eaba3d9703c135
-    parent_uid: 089338df15512aaaa9b2ecfa6f4369c9
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FYXIRXnQ8Fc
-  - uid: 74a9535cc80923d897b50d8f94d4bb41
-    parent_uid: 089338df15512aaaa9b2ecfa6f4369c9
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FYXIRXnQ8Fc/default.jpg'
-  - uid: c7ae5b932a816f23aa39763c45304160
-    parent_uid: 089338df15512aaaa9b2ecfa6f4369c9
-    id: FYXIRXnQ8Fc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-6-data-analysis-plots-and-summary-tables/video-6-data-analysis-plots-and-summary-tables-0/FYXIRXnQ8Fc.srt
-  - uid: a827b7a5b964a8bab41905085bd26115
-    parent_uid: 089338df15512aaaa9b2ecfa6f4369c9
-    id: FYXIRXnQ8Fc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-6-data-analysis-plots-and-summary-tables/video-6-data-analysis-plots-and-summary-tables-0/FYXIRXnQ8Fc.pdf
-  - uid: 120808d6b75cf25640dabb3f85fa0591
-    parent_uid: 089338df15512aaaa9b2ecfa6f4369c9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d585aa320957413ecbab332f35afa60d
-    parent_uid: 089338df15512aaaa9b2ecfa6f4369c9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ee92c1bb615f3d64691bd96c3f3e0d0e
-    parent_uid: 089338df15512aaaa9b2ecfa6f4369c9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.3.12_300k.mp4
+uid: 089338df15512aaaa9b2ecfa6f4369c9
 type: courses
 layout: video
 ---

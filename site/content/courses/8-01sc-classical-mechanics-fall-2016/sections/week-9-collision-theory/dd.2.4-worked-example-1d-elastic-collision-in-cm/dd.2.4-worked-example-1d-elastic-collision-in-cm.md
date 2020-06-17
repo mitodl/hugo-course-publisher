@@ -1,13 +1,67 @@
 ---
-title: 'DD.2.4 Worked Example: 1D Elastic Collision in CM'
-uid: 6d4d3ac5eee9311369bd5e469847f659
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: jAcdLZRhYNU
+    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6fe3952263d97b02e6f8ff4aee9cc5ab
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/jAcdLZRhYNU/default.jpg'
+    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 177455296e365df977e5b3facbcaab59
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: jAcdLZRhYNU
+    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ddd0b06881c24da6196de6e8985d3699
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ce9e28210d9814b84e2f13bd75c51cd3
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_DD_CMframe4_360p.mp4'
+    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 34c80f09154ea62097a48c8c87ce8c9a
+  - id: jAcdLZRhYNU.srt
+    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.4-worked-example-1d-elastic-collision-in-cm/dd.2.4-worked-example-1d-elastic-collision-in-cm/jAcdLZRhYNU.srt
+    title: 3play caption file
+    type: null
+    uid: 9bbc0fef1efe0e8c25c2fe2ae5c4a17b
+  - id: jAcdLZRhYNU.pdf
+    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.4-worked-example-1d-elastic-collision-in-cm/dd.2.4-worked-example-1d-elastic-collision-in-cm/jAcdLZRhYNU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7912fc4160e5e00f17f8eeaf4afcce3f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b849be21a41bd2371e0ce2d4c490b9e3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d9d3135dae1bb35d0efe685e7d59af5d
+inline_embed_id: 76569626dd.2.4workedexample1delasticcollisionincm84535664
 parent_uid: fa64fe6487b47146141a6e35eb5cb93c
+related_resources_text: ''
+short_url: dd.2.4-worked-example-1d-elastic-collision-in-cm
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.4-worked-example-1d-elastic-collision-in-cm/dd.2.4-worked-example-1d-elastic-collision-in-cm
-short_url: dd.2.4-worked-example-1d-elastic-collision-in-cm
-inline_embed_id: 76569626dd.2.4workedexample1delasticcollisionincm84535664
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
+title: 'DD.2.4 Worked Example: 1D Elastic Collision in CM'
 transcript: >-
   <p><span m='3410'>Let's consider a collision in a lab frame</span> <span
   m='6640'>in which one particle is coming in</span> <span m='8620'>and the
@@ -83,61 +137,7 @@ transcript: >-
   without any</span> <span m='347940'>of the traditional ways of applying the
   energy momentum</span> <span m='352650'>relationship and kinetic energy or
   having quadratic equations.</span> </p><p></p>
-embedded_media:
-  - uid: 6fe3952263d97b02e6f8ff4aee9cc5ab
-    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: jAcdLZRhYNU
-  - uid: 177455296e365df977e5b3facbcaab59
-    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/jAcdLZRhYNU/default.jpg'
-  - uid: ddd0b06881c24da6196de6e8985d3699
-    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: jAcdLZRhYNU
-  - uid: ce9e28210d9814b84e2f13bd75c51cd3
-    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 34c80f09154ea62097a48c8c87ce8c9a
-    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_DD_CMframe4_360p.mp4'
-  - uid: 9bbc0fef1efe0e8c25c2fe2ae5c4a17b
-    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
-    id: jAcdLZRhYNU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.4-worked-example-1d-elastic-collision-in-cm/dd.2.4-worked-example-1d-elastic-collision-in-cm/jAcdLZRhYNU.srt
-  - uid: 7912fc4160e5e00f17f8eeaf4afcce3f
-    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
-    id: jAcdLZRhYNU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.4-worked-example-1d-elastic-collision-in-cm/dd.2.4-worked-example-1d-elastic-collision-in-cm/jAcdLZRhYNU.pdf
-  - uid: b849be21a41bd2371e0ce2d4c490b9e3
-    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d9d3135dae1bb35d0efe685e7d59af5d
-    parent_uid: 6d4d3ac5eee9311369bd5e469847f659
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6d4d3ac5eee9311369bd5e469847f659
 type: courses
 layout: video
 ---

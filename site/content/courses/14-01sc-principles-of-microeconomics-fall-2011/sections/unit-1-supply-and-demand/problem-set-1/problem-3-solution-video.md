@@ -1,13 +1,69 @@
 ---
-title: Problem 3 Solution Video
-uid: 053f558dc0159e04970136e06e1f1d0b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 35QyfmSFTZw
+    parent_uid: 053f558dc0159e04970136e06e1f1d0b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 780b121d91e64d1fc3cbc182b3c8335a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/35QyfmSFTZw/default.jpg'
+    parent_uid: 053f558dc0159e04970136e06e1f1d0b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e2b40b4323a63b177ce54e53e81d7164
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 35QyfmSFTZw
+    parent_uid: 053f558dc0159e04970136e06e1f1d0b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 16b82e3e419483711ff9826c2423b471
+  - id: 35QyfmSFTZw.srt
+    parent_uid: 053f558dc0159e04970136e06e1f1d0b
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/problem-set-1/problem-3-solution-video/35QyfmSFTZw.srt
+    title: 3play caption file
+    type: null
+    uid: 7a0a788c6b5c579ca6d0cf54e27a2e97
+  - id: 35QyfmSFTZw.pdf
+    parent_uid: 053f558dc0159e04970136e06e1f1d0b
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/problem-set-1/problem-3-solution-video/35QyfmSFTZw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4589724e550aac9075e2494b70fc24cc
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 053f558dc0159e04970136e06e1f1d0b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bec516eb360551942a627f75305d0e35
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 053f558dc0159e04970136e06e1f1d0b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9b1068edc5cd4f42b919bfb91073195b
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_problem_1-3_300k.mp4
+    parent_uid: 053f558dc0159e04970136e06e1f1d0b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 01a80b61fb43c121709798e0835b728d
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/problem-set-1-problem-3/id496265654?i=109892740
+    parent_uid: 053f558dc0159e04970136e06e1f1d0b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a45cb936e34224b8ac79e643267f5891
+inline_embed_id: 98678641problem3solutionvideo49793550
 parent_uid: 4cecca62a7b9486b1e1d45d54b8e504b
+related_resources_text: ''
+short_url: problem-3-solution-video
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/problem-set-1/problem-3-solution-video
-short_url: problem-3-solution-video
-inline_embed_id: 98678641problem3solutionvideo49793550
-about_this_resource_text: ''
-related_resources_text: ''
+title: Problem 3 Solution Video
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -935,63 +991,7 @@ transcript: >-
   m='909770'>to</span> <span m='909840'>how</span> <span m='909960'>many</span>
   <span m='910120'>people</span> <span m='910570'>want</span> <span
   m='910790'>a</span> <span m='910840'>product.</span> </p>
-embedded_media:
-  - uid: 780b121d91e64d1fc3cbc182b3c8335a
-    parent_uid: 053f558dc0159e04970136e06e1f1d0b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 35QyfmSFTZw
-  - uid: e2b40b4323a63b177ce54e53e81d7164
-    parent_uid: 053f558dc0159e04970136e06e1f1d0b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/35QyfmSFTZw/default.jpg'
-  - uid: 16b82e3e419483711ff9826c2423b471
-    parent_uid: 053f558dc0159e04970136e06e1f1d0b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 35QyfmSFTZw
-  - uid: 7a0a788c6b5c579ca6d0cf54e27a2e97
-    parent_uid: 053f558dc0159e04970136e06e1f1d0b
-    id: 35QyfmSFTZw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/problem-set-1/problem-3-solution-video/35QyfmSFTZw.srt
-  - uid: 4589724e550aac9075e2494b70fc24cc
-    parent_uid: 053f558dc0159e04970136e06e1f1d0b
-    id: 35QyfmSFTZw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/problem-set-1/problem-3-solution-video/35QyfmSFTZw.pdf
-  - uid: bec516eb360551942a627f75305d0e35
-    parent_uid: 053f558dc0159e04970136e06e1f1d0b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9b1068edc5cd4f42b919bfb91073195b
-    parent_uid: 053f558dc0159e04970136e06e1f1d0b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 01a80b61fb43c121709798e0835b728d
-    parent_uid: 053f558dc0159e04970136e06e1f1d0b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_problem_1-3_300k.mp4
-  - uid: a45cb936e34224b8ac79e643267f5891
-    parent_uid: 053f558dc0159e04970136e06e1f1d0b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/problem-set-1-problem-3/id496265654?i=109892740
+uid: 053f558dc0159e04970136e06e1f1d0b
 type: courses
 layout: video
 ---

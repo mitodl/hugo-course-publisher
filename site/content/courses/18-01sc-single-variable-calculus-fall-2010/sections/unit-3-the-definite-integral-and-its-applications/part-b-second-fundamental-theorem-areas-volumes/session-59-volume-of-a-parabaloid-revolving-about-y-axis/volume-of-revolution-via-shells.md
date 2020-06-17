@@ -1,13 +1,68 @@
 ---
-title: Volume of Revolution via Shells
-uid: 344f1f13ba8c0930cecf02f248dabc33
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: MYXMC7koJyY
+    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1def1867c7380808baa7286eb2197759
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/MYXMC7koJyY/default.jpg'
+    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9f187165cf9cad4dbc652bbf648de347
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: MYXMC7koJyY
+    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4e2f4db5ed1902e459f8590130fbf1f5
+  - id: MYXMC7koJyY.srt
+    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/volume-of-revolution-via-shells/MYXMC7koJyY.srt
+    title: 3play caption file
+    type: null
+    uid: b931db4722abb4e93b258567d8958cc7
+  - id: MYXMC7koJyY.pdf
+    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/volume-of-revolution-via-shells/MYXMC7koJyY.pdf
+    title: 3play pdf file
+    type: null
+    uid: e6878862760ff9733ece5ee288bcc701
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: dc20423dbdba73acc52fb51b341ce5af
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f5b8a869933e6a294d7767bcad3a6ba6
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_45_300k.mp4'
+    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 338b3e0292a4ab6d84c8387ba289044b
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/volume-revolution-via-shells/id414308064?i=90319629
+    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 64fde7056a5c334bf06a5ec9cd4d995b
+inline_embed_id: 76626187volumeofrevolutionviashells48089609
 parent_uid: 2a892d50ed0126e15d3603ad2d218d9e
+related_resources_text: ''
+short_url: volume-of-revolution-via-shells
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/volume-of-revolution-via-shells
-short_url: volume-of-revolution-via-shells
-inline_embed_id: 76626187volumeofrevolutionviashells48089609
-about_this_resource_text: ''
-related_resources_text: ''
+title: Volume of Revolution via Shells
 transcript: >-
   <p><span m='6960'>PROFESSOR: Welcome back</span> <span m='7310'>to</span>
   <span m='7590'>recitation.</span> <span m='9060'>In</span> <span
@@ -642,62 +697,7 @@ transcript: >-
   m='510520'>guess</span> <span m='510770'>that's</span> <span
   m='510960'>where</span> <span m='511060'>I'll</span> <span
   m='511160'>stop.</span> </p>
-embedded_media:
-  - uid: 1def1867c7380808baa7286eb2197759
-    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MYXMC7koJyY
-  - uid: 9f187165cf9cad4dbc652bbf648de347
-    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MYXMC7koJyY/default.jpg'
-  - uid: 4e2f4db5ed1902e459f8590130fbf1f5
-    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MYXMC7koJyY
-  - uid: b931db4722abb4e93b258567d8958cc7
-    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
-    id: MYXMC7koJyY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/volume-of-revolution-via-shells/MYXMC7koJyY.srt
-  - uid: e6878862760ff9733ece5ee288bcc701
-    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
-    id: MYXMC7koJyY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/volume-of-revolution-via-shells/MYXMC7koJyY.pdf
-  - uid: dc20423dbdba73acc52fb51b341ce5af
-    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f5b8a869933e6a294d7767bcad3a6ba6
-    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 338b3e0292a4ab6d84c8387ba289044b
-    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_45_300k.mp4'
-  - uid: 64fde7056a5c334bf06a5ec9cd4d995b
-    parent_uid: 344f1f13ba8c0930cecf02f248dabc33
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/volume-revolution-via-shells/id414308064?i=90319629
+uid: 344f1f13ba8c0930cecf02f248dabc33
 type: courses
 layout: video
 ---

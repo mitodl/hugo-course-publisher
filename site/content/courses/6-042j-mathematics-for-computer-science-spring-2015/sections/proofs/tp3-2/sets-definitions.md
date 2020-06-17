@@ -1,13 +1,72 @@
 ---
-title: Sets Definitions
-uid: 5c850257e988d01a96c9cf7048cf49b7
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: aaca753c448740c3143310ab926d1fb8
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ce9b27fdf3e9a6bd786afb8a061a7aff
+  - id: Video-YouTube-Stream
+    media_location: KZ7jjLTQ9r4
+    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ad2f1d1c5046d25808842f2777f2c2b1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/KZ7jjLTQ9r4/default.jpg'
+    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b3ea9aebdc01de3dc0737231a9e1cc6c
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: KZ7jjLTQ9r4
+    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c9e0a90f1a3e675bbe43e77fc3d52cdc
+  - id: KZ7jjLTQ9r4.srt
+    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-2/sets-definitions/KZ7jjLTQ9r4.srt
+    title: 3play caption file
+    type: null
+    uid: 11f9fc019ac7af6ee803911253e8a868
+  - id: KZ7jjLTQ9r4.pdf
+    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-2/sets-definitions/KZ7jjLTQ9r4.pdf
+    title: 3play pdf file
+    type: null
+    uid: a907c84be369b8d928b48a7920e913cc
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a81fcf84ebc56e9afb99eb2b3e735362
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b21ecacb6f490243afd1f162766a61fe
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_sets_def_ipod.mp4'
+    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0cc7115b3f92eb68ab7a5fffaf9e0841
+inline_embed_id: 65658553setsdefinitions86121642
 parent_uid: ffb87b8b4f73c33bd6b35402fc830d03
+related_resources_text: ''
+short_url: sets-definitions
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-2/sets-definitions
-short_url: sets-definitions
-inline_embed_id: 65658553setsdefinitions86121642
-about_this_resource_text: ''
-related_resources_text: ''
+title: Sets Definitions
 transcript: >-
   <p><span m='290'>PROFESSOR: We're</span> <span m='510'>going</span> <span
   m='800'>to</span> <span m='940'>look</span> <span m='1240'>at</span> <span
@@ -895,66 +954,7 @@ transcript: >-
   <span m='716230'>of</span> <span m='716750'>and</span> <span
   m='716980'>is</span> <span m='717150'>a</span> <span m='717200'>subset</span>
   <span m='717750'>of.</span> </p>
-embedded_media:
-  - uid: aaca753c448740c3143310ab926d1fb8
-    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: ce9b27fdf3e9a6bd786afb8a061a7aff
-    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: ad2f1d1c5046d25808842f2777f2c2b1
-    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: KZ7jjLTQ9r4
-  - uid: b3ea9aebdc01de3dc0737231a9e1cc6c
-    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/KZ7jjLTQ9r4/default.jpg'
-  - uid: c9e0a90f1a3e675bbe43e77fc3d52cdc
-    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: KZ7jjLTQ9r4
-  - uid: 11f9fc019ac7af6ee803911253e8a868
-    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
-    id: KZ7jjLTQ9r4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-2/sets-definitions/KZ7jjLTQ9r4.srt
-  - uid: a907c84be369b8d928b48a7920e913cc
-    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
-    id: KZ7jjLTQ9r4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-2/sets-definitions/KZ7jjLTQ9r4.pdf
-  - uid: a81fcf84ebc56e9afb99eb2b3e735362
-    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b21ecacb6f490243afd1f162766a61fe
-    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0cc7115b3f92eb68ab7a5fffaf9e0841
-    parent_uid: 5c850257e988d01a96c9cf7048cf49b7
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_sets_def_ipod.mp4'
+uid: 5c850257e988d01a96c9cf7048cf49b7
 type: courses
 layout: video
 ---

@@ -1,16 +1,71 @@
 ---
-title: 'Lecture 9: Table Doubling, Karp-Rabin'
-uid: a601e0b64a32c32e4af0f5950e031d10
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-9-table-doubling-karp-rabin
-short_url: lecture-9-table-doubling-karp-rabin
-inline_embed_id: '76238220lecture9:tabledoubling,karp-rabin28992044'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture covers table resizing, amortized
   analysis, string matching with the Karp-Rabin algorithm, and rolling
   hashes.</p> <p><strong>Instructor:</strong> Erik Demaine</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BRO7mVIFt08
+    parent_uid: a601e0b64a32c32e4af0f5950e031d10
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3ba4c58c066b430fc530ae17b16fd746
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BRO7mVIFt08/default.jpg'
+    parent_uid: a601e0b64a32c32e4af0f5950e031d10
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 68748377c36c94047ea6353d01d8e797
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-9-table-doubling-karp/id585700718?i=126127761
+    parent_uid: a601e0b64a32c32e4af0f5950e031d10
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1ae8737be884c11eb5152e8bac35be39
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec09_300k.mp4'
+    parent_uid: a601e0b64a32c32e4af0f5950e031d10
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 29659a77abe716386d989b920042678e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BRO7mVIFt08
+    parent_uid: a601e0b64a32c32e4af0f5950e031d10
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 737f11088a651d9afa3511604fffe79b
+  - id: BRO7mVIFt08.srt
+    parent_uid: a601e0b64a32c32e4af0f5950e031d10
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-9-table-doubling-karp-rabin/BRO7mVIFt08.srt
+    title: 3play caption file
+    type: null
+    uid: c2d8f7a17fa91985b766eb3e4da1f8d0
+  - id: BRO7mVIFt08.pdf
+    parent_uid: a601e0b64a32c32e4af0f5950e031d10
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-9-table-doubling-karp-rabin/BRO7mVIFt08.pdf
+    title: 3play pdf file
+    type: null
+    uid: f2de40a0c331a562108f26da644bfa5e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a601e0b64a32c32e4af0f5950e031d10
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 82117ae338a7cd7de267018e6a1aec70
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a601e0b64a32c32e4af0f5950e031d10
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 65678fa6cff56fc95cf6eaacc1c39332
+inline_embed_id: '76238220lecture9:tabledoubling,karp-rabin28992044'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-9-table-doubling-karp-rabin
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-9-table-doubling-karp-rabin
+title: 'Lecture 9: Table Doubling, Karp-Rabin'
 transcript: >-
   <p><span m='80'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -3150,62 +3205,7 @@ transcript: >-
   m='3165130'>can</span> <span m='3165310'>make</span> <span
   m='3165500'>all</span> <span m='3165630'>this</span> <span
   m='3165780'>work.</span> </p>
-embedded_media:
-  - uid: 3ba4c58c066b430fc530ae17b16fd746
-    parent_uid: a601e0b64a32c32e4af0f5950e031d10
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BRO7mVIFt08
-  - uid: 68748377c36c94047ea6353d01d8e797
-    parent_uid: a601e0b64a32c32e4af0f5950e031d10
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BRO7mVIFt08/default.jpg'
-  - uid: 1ae8737be884c11eb5152e8bac35be39
-    parent_uid: a601e0b64a32c32e4af0f5950e031d10
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-9-table-doubling-karp/id585700718?i=126127761
-  - uid: 29659a77abe716386d989b920042678e
-    parent_uid: a601e0b64a32c32e4af0f5950e031d10
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec09_300k.mp4'
-  - uid: 737f11088a651d9afa3511604fffe79b
-    parent_uid: a601e0b64a32c32e4af0f5950e031d10
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BRO7mVIFt08
-  - uid: c2d8f7a17fa91985b766eb3e4da1f8d0
-    parent_uid: a601e0b64a32c32e4af0f5950e031d10
-    id: BRO7mVIFt08.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-9-table-doubling-karp-rabin/BRO7mVIFt08.srt
-  - uid: f2de40a0c331a562108f26da644bfa5e
-    parent_uid: a601e0b64a32c32e4af0f5950e031d10
-    id: BRO7mVIFt08.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-9-table-doubling-karp-rabin/BRO7mVIFt08.pdf
-  - uid: 82117ae338a7cd7de267018e6a1aec70
-    parent_uid: a601e0b64a32c32e4af0f5950e031d10
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 65678fa6cff56fc95cf6eaacc1c39332
-    parent_uid: a601e0b64a32c32e4af0f5950e031d10
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a601e0b64a32c32e4af0f5950e031d10
 type: courses
 layout: video
 ---

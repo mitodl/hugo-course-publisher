@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: Vectors and Data Frames'
-uid: 5c2a43b01c80bbe2f87039d8c132f17e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: MvERdFp8mvI
+    parent_uid: 5c2a43b01c80bbe2f87039d8c132f17e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1125715b49af337b6faeb1aecedfdc89
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: MvERdFp8mvI
+    parent_uid: 5c2a43b01c80bbe2f87039d8c132f17e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9577a409ddb343b840e348b1577d257e
+  - id: MvERdFp8mvI.srt
+    parent_uid: 5c2a43b01c80bbe2f87039d8c132f17e
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-3-vectors-and-data-frames/video-3-vectors-and-data-frames-0/MvERdFp8mvI.srt
+    title: 3play caption file
+    type: null
+    uid: 5fc1bcb94dc2ac8d9473a558f2fff423
+  - id: MvERdFp8mvI.pdf
+    parent_uid: 5c2a43b01c80bbe2f87039d8c132f17e
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-3-vectors-and-data-frames/video-3-vectors-and-data-frames-0/MvERdFp8mvI.pdf
+    title: 3play pdf file
+    type: null
+    uid: b2191eb86608231242cdc55ab9240cbd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5c2a43b01c80bbe2f87039d8c132f17e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c94d5807db7c39d7cc22a39d97d596cc
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5c2a43b01c80bbe2f87039d8c132f17e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3e214906c8e119d55ccd30bb08670435
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/MvERdFp8mvI/default.jpg'
+    parent_uid: 5c2a43b01c80bbe2f87039d8c132f17e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8d341427fb54455983a70e5faa3e53d2
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.3.06_300k.mp4
+    parent_uid: 5c2a43b01c80bbe2f87039d8c132f17e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2ccf19b6a68cdc22855e62e30e6752ff
+inline_embed_id: 27969926video3vectorsanddataframes73758532
 parent_uid: db37fee9220d4ca01ae046baacb7fc38
+related_resources_text: ''
+short_url: video-3-vectors-and-data-frames-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-3-vectors-and-data-frames/video-3-vectors-and-data-frames-0
-short_url: video-3-vectors-and-data-frames-0
-inline_embed_id: 27969926video3vectorsanddataframes73758532
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: Vectors and Data Frames'
 transcript: >-
   <p><span m='4500'>So</span> <span m='4861'>far,</span> <span
   m='5222'>all</span> <span m='5583'>of</span> <span m='5944'>our</span> <span
@@ -427,56 +476,7 @@ transcript: >-
   m='564668'>which</span> <span m='564970'>we'll</span> <span
   m='565400'>do</span> <span m='565830'>in</span> <span m='566260'>the</span>
   <span m='566690'>next</span> <span m='567120'>video.</span> </p>
-embedded_media:
-  - uid: 1125715b49af337b6faeb1aecedfdc89
-    parent_uid: 5c2a43b01c80bbe2f87039d8c132f17e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MvERdFp8mvI
-  - uid: 9577a409ddb343b840e348b1577d257e
-    parent_uid: 5c2a43b01c80bbe2f87039d8c132f17e
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MvERdFp8mvI
-  - uid: 5fc1bcb94dc2ac8d9473a558f2fff423
-    parent_uid: 5c2a43b01c80bbe2f87039d8c132f17e
-    id: MvERdFp8mvI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-3-vectors-and-data-frames/video-3-vectors-and-data-frames-0/MvERdFp8mvI.srt
-  - uid: b2191eb86608231242cdc55ab9240cbd
-    parent_uid: 5c2a43b01c80bbe2f87039d8c132f17e
-    id: MvERdFp8mvI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-3-vectors-and-data-frames/video-3-vectors-and-data-frames-0/MvERdFp8mvI.pdf
-  - uid: c94d5807db7c39d7cc22a39d97d596cc
-    parent_uid: 5c2a43b01c80bbe2f87039d8c132f17e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3e214906c8e119d55ccd30bb08670435
-    parent_uid: 5c2a43b01c80bbe2f87039d8c132f17e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8d341427fb54455983a70e5faa3e53d2
-    parent_uid: 5c2a43b01c80bbe2f87039d8c132f17e
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MvERdFp8mvI/default.jpg'
-  - uid: 2ccf19b6a68cdc22855e62e30e6752ff
-    parent_uid: 5c2a43b01c80bbe2f87039d8c132f17e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.3.06_300k.mp4
+uid: 5c2a43b01c80bbe2f87039d8c132f17e
 type: courses
 layout: video
 ---

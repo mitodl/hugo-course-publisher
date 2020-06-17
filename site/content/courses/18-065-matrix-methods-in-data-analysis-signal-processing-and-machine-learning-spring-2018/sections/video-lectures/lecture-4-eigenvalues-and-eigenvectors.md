@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 4: Eigenvalues and Eigenvectors'
-uid: 8540e74dad3d88091ed4aa04d359c63d
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-4-eigenvalues-and-eigenvectors
-short_url: lecture-4-eigenvalues-and-eigenvectors
-inline_embed_id: 58225577lecture4eigenvaluesandeigenvectors78668964
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>Professor Strang begins this lecture
   talking about eigenvectors and eigenvalues and why they are useful.  Then he
@@ -15,7 +8,62 @@ about_this_resource_text: >-
   vectors as combinations of eigenvectors<br /> Similar matrix \(B = M^{-1}AM\)
   has the same eigenvalues as \(A\)</p> <p>Related section in textbook: I.6</p>
   <p><strong>Instructor:</strong> Prof. Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: k095NdrHxY4
+    parent_uid: 8540e74dad3d88091ed4aa04d359c63d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b7ad691d861452e61e00181876b578fb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/k095NdrHxY4/default.jpg'
+    parent_uid: 8540e74dad3d88091ed4aa04d359c63d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1010d661ca46cc68bd98fa5ec2915e81
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: k095NdrHxY4
+    parent_uid: 8540e74dad3d88091ed4aa04d359c63d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ea5a5278c3ce64e1fbbd6b8eac00d856
+  - id: k095NdrHxY4.srt
+    parent_uid: 8540e74dad3d88091ed4aa04d359c63d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-4-eigenvalues-and-eigenvectors/k095NdrHxY4.srt
+    title: 3play caption file
+    type: null
+    uid: 5a1c4470b706dd88d805b50c33af3884
+  - id: k095NdrHxY4.pdf
+    parent_uid: 8540e74dad3d88091ed4aa04d359c63d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-4-eigenvalues-and-eigenvectors/k095NdrHxY4.pdf
+    title: 3play pdf file
+    type: null
+    uid: a79157d515aaa07ade32a04e56ad8d1a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8540e74dad3d88091ed4aa04d359c63d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7673005709766386156bf1e0463642ad
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8540e74dad3d88091ed4aa04d359c63d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5b4c16152e4cf25ee0002d79d2477fb1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture04_300k.mp4'
+    parent_uid: 8540e74dad3d88091ed4aa04d359c63d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b86ddb8fe5ef3caa93eaad99d5672124
+inline_embed_id: 58225577lecture4eigenvaluesandeigenvectors78668964
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-4-eigenvalues-and-eigenvectors
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-4-eigenvalues-and-eigenvectors
+title: 'Lecture 4: Eigenvalues and Eigenvectors'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2561,55 +2609,7 @@ transcript: >-
   m="2928150">looks</span> <span m="2928420">like--</span> <span
   m="2930430">orthogonal</span> <span m="2931350">eigenvectors,</span> <span
   m="2932800">real</span> <span m="2933160">eigenvalues.</span></p>
-embedded_media:
-  - uid: b7ad691d861452e61e00181876b578fb
-    parent_uid: 8540e74dad3d88091ed4aa04d359c63d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: k095NdrHxY4
-  - uid: 1010d661ca46cc68bd98fa5ec2915e81
-    parent_uid: 8540e74dad3d88091ed4aa04d359c63d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/k095NdrHxY4/default.jpg'
-  - uid: ea5a5278c3ce64e1fbbd6b8eac00d856
-    parent_uid: 8540e74dad3d88091ed4aa04d359c63d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: k095NdrHxY4
-  - uid: 5a1c4470b706dd88d805b50c33af3884
-    parent_uid: 8540e74dad3d88091ed4aa04d359c63d
-    id: k095NdrHxY4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-4-eigenvalues-and-eigenvectors/k095NdrHxY4.srt
-  - uid: a79157d515aaa07ade32a04e56ad8d1a
-    parent_uid: 8540e74dad3d88091ed4aa04d359c63d
-    id: k095NdrHxY4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-4-eigenvalues-and-eigenvectors/k095NdrHxY4.pdf
-  - uid: 7673005709766386156bf1e0463642ad
-    parent_uid: 8540e74dad3d88091ed4aa04d359c63d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5b4c16152e4cf25ee0002d79d2477fb1
-    parent_uid: 8540e74dad3d88091ed4aa04d359c63d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b86ddb8fe5ef3caa93eaad99d5672124
-    parent_uid: 8540e74dad3d88091ed4aa04d359c63d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture04_300k.mp4'
+uid: 8540e74dad3d88091ed4aa04d359c63d
 type: courses
 layout: video
 ---

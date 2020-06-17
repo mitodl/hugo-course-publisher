@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 11: Learning: Identification Trees, Disorder'
-uid: 342cedb5e418c11da216a12272faae2c
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-11-learning-identification-trees-disorder
-short_url: lecture-11-learning-identification-trees-disorder
-inline_embed_id: '77601421lecture11:learning:identificationtrees,disorder92265325'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, we build an identification
   tree based on yes/no tests.  We start by arranging the tree based on tests
   that result in homogeneous subsets. For larger datasets, this is generalized
   by measuring the disorder of subsets.</p> <p><strong>Instructor:</strong>
   Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: SXBG3RGr_Rc
+    parent_uid: 342cedb5e418c11da216a12272faae2c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 11152049abfbec1b59d6a732c1efc74a
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-11-learning-identification/id765641080?i=194473718
+    parent_uid: 342cedb5e418c11da216a12272faae2c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0d1b9e771fa713e13b2bda58c7e7ee9a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec11_300k.mp4'
+    parent_uid: 342cedb5e418c11da216a12272faae2c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6e1979c4234dc28afa6cb6fd74b12b02
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/SXBG3RGr_Rc/default.jpg'
+    parent_uid: 342cedb5e418c11da216a12272faae2c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c1405ef45f2a77f16785e9fb2f14347f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: SXBG3RGr_Rc
+    parent_uid: 342cedb5e418c11da216a12272faae2c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c2dc7e1559c9c84fa0a6e677c61b0746
+  - id: SXBG3RGr_Rc.srt
+    parent_uid: 342cedb5e418c11da216a12272faae2c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-11-learning-identification-trees-disorder/SXBG3RGr_Rc.srt
+    title: 3play caption file
+    type: null
+    uid: ba3b4271b517d602061b811571958ce6
+  - id: SXBG3RGr_Rc.pdf
+    parent_uid: 342cedb5e418c11da216a12272faae2c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-11-learning-identification-trees-disorder/SXBG3RGr_Rc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 697c66832f92f9006c96ced159a46f8c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 342cedb5e418c11da216a12272faae2c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 326dd7164ca23fe4f0ccf795fcc47569
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 342cedb5e418c11da216a12272faae2c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5873c6ee42baaa221626623aa4d47e4d
+inline_embed_id: '77601421lecture11:learning:identificationtrees,disorder92265325'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
+short_url: lecture-11-learning-identification-trees-disorder
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-11-learning-identification-trees-disorder
+title: 'Lecture 11: Learning: Identification Trees, Disorder'
 transcript: >-
   <p><span m='9310'>PATRICK WINSTON: Ladies and gentlemen, the Romanian</span>
   <span m='11300'>national anthem.</span> </p><p><span m='12960'>I did not ask
@@ -888,62 +943,7 @@ transcript: >-
   m='2962710'>your PDA and use it to protect yourself in the days to com,</span>
   <span m='2965610'>especially since Halloween's just around the corner.</span>
   </p><p></p>
-embedded_media:
-  - uid: 11152049abfbec1b59d6a732c1efc74a
-    parent_uid: 342cedb5e418c11da216a12272faae2c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: SXBG3RGr_Rc
-  - uid: 0d1b9e771fa713e13b2bda58c7e7ee9a
-    parent_uid: 342cedb5e418c11da216a12272faae2c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-11-learning-identification/id765641080?i=194473718
-  - uid: 6e1979c4234dc28afa6cb6fd74b12b02
-    parent_uid: 342cedb5e418c11da216a12272faae2c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec11_300k.mp4'
-  - uid: c1405ef45f2a77f16785e9fb2f14347f
-    parent_uid: 342cedb5e418c11da216a12272faae2c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/SXBG3RGr_Rc/default.jpg'
-  - uid: c2dc7e1559c9c84fa0a6e677c61b0746
-    parent_uid: 342cedb5e418c11da216a12272faae2c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: SXBG3RGr_Rc
-  - uid: ba3b4271b517d602061b811571958ce6
-    parent_uid: 342cedb5e418c11da216a12272faae2c
-    id: SXBG3RGr_Rc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-11-learning-identification-trees-disorder/SXBG3RGr_Rc.srt
-  - uid: 697c66832f92f9006c96ced159a46f8c
-    parent_uid: 342cedb5e418c11da216a12272faae2c
-    id: SXBG3RGr_Rc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-11-learning-identification-trees-disorder/SXBG3RGr_Rc.pdf
-  - uid: 326dd7164ca23fe4f0ccf795fcc47569
-    parent_uid: 342cedb5e418c11da216a12272faae2c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5873c6ee42baaa221626623aa4d47e4d
-    parent_uid: 342cedb5e418c11da216a12272faae2c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 342cedb5e418c11da216a12272faae2c
 type: courses
 layout: video
 ---

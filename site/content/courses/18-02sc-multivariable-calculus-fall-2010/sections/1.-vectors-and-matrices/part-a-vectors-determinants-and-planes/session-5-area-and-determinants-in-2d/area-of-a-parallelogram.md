@@ -1,13 +1,68 @@
 ---
-title: Area of a Parallelogram
-uid: d79863a0e64f263df82e191d01a62567
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: oET16XXfcCI
+    parent_uid: d79863a0e64f263df82e191d01a62567
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b86aff810d71b6eb557eb6162732fcf2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/oET16XXfcCI/default.jpg'
+    parent_uid: d79863a0e64f263df82e191d01a62567
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cd38ccfdaa3fa6b644c740e26425f929
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: oET16XXfcCI
+    parent_uid: d79863a0e64f263df82e191d01a62567
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5690bb15caac3a3f971afe0aadb1ca38
+  - id: oET16XXfcCI.srt
+    parent_uid: d79863a0e64f263df82e191d01a62567
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-5-area-and-determinants-in-2d/area-of-a-parallelogram/oET16XXfcCI.srt
+    title: 3play caption file
+    type: null
+    uid: b731c16d4a8c167b6a43e958c5ae93ef
+  - id: oET16XXfcCI.pdf
+    parent_uid: d79863a0e64f263df82e191d01a62567
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-5-area-and-determinants-in-2d/area-of-a-parallelogram/oET16XXfcCI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9a8136fba4b590833da294e1c4895167
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d79863a0e64f263df82e191d01a62567
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 90cc197999c51b777a7ebba39f70000f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d79863a0e64f263df82e191d01a62567
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4dc1e24f950db33e4a4f8fb38606f9a9
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/area-of-a-parallelogram/id414355340?i=90322842
+    parent_uid: d79863a0e64f263df82e191d01a62567
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 690503cbe9e8244b8dd633a7bbb9d9fe
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_04_300k.mp4'
+    parent_uid: d79863a0e64f263df82e191d01a62567
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b80a7cb00b25d57869fe6e7895a43963
+inline_embed_id: 26891907areaofaparallelogram53654544
 parent_uid: f85eebfc2c74d08c79806f454c3446ae
+related_resources_text: ''
+short_url: area-of-a-parallelogram
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-5-area-and-determinants-in-2d/area-of-a-parallelogram
-short_url: area-of-a-parallelogram
-inline_embed_id: 26891907areaofaparallelogram53654544
-about_this_resource_text: ''
-related_resources_text: ''
+title: Area of a Parallelogram
 transcript: >-
   <p><span m='7020'>DAVID JORDAN: Hello,</span> <span m='7270'>and</span> <span
   m='7370'>welcome</span> <span m='7610'>back</span> <span m='7790'>to
@@ -183,62 +238,7 @@ transcript: >-
   m='203000'>I'll</span> <span m='203110'>leave</span> <span
   m='203320'>it</span> <span m='203390'>at</span> <span m='203490'>that.</span>
   </p>
-embedded_media:
-  - uid: b86aff810d71b6eb557eb6162732fcf2
-    parent_uid: d79863a0e64f263df82e191d01a62567
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: oET16XXfcCI
-  - uid: cd38ccfdaa3fa6b644c740e26425f929
-    parent_uid: d79863a0e64f263df82e191d01a62567
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/oET16XXfcCI/default.jpg'
-  - uid: 5690bb15caac3a3f971afe0aadb1ca38
-    parent_uid: d79863a0e64f263df82e191d01a62567
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: oET16XXfcCI
-  - uid: b731c16d4a8c167b6a43e958c5ae93ef
-    parent_uid: d79863a0e64f263df82e191d01a62567
-    id: oET16XXfcCI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-5-area-and-determinants-in-2d/area-of-a-parallelogram/oET16XXfcCI.srt
-  - uid: 9a8136fba4b590833da294e1c4895167
-    parent_uid: d79863a0e64f263df82e191d01a62567
-    id: oET16XXfcCI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-5-area-and-determinants-in-2d/area-of-a-parallelogram/oET16XXfcCI.pdf
-  - uid: 90cc197999c51b777a7ebba39f70000f
-    parent_uid: d79863a0e64f263df82e191d01a62567
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4dc1e24f950db33e4a4f8fb38606f9a9
-    parent_uid: d79863a0e64f263df82e191d01a62567
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 690503cbe9e8244b8dd633a7bbb9d9fe
-    parent_uid: d79863a0e64f263df82e191d01a62567
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/area-of-a-parallelogram/id414355340?i=90322842
-  - uid: b80a7cb00b25d57869fe6e7895a43963
-    parent_uid: d79863a0e64f263df82e191d01a62567
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_04_300k.mp4'
+uid: d79863a0e64f263df82e191d01a62567
 type: courses
 layout: video
 ---

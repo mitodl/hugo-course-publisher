@@ -1,13 +1,68 @@
 ---
-title: Converting From Polar to Rectangular Coordinates
-uid: 97a71aa917d344fd80cf6810ebc2419e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Bk5y6Elcy_Q
+    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ca121a2977b606da5495b330fb86f4b7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Bk5y6Elcy_Q/default.jpg'
+    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 67b09cc39bfebeecdf92b90394a6db62
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/polar-to-cartesian/id414308064?i=90320224
+    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b24e17ba10b79ae5dee89d3a23cb75a5
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_61_300k.mp4'
+    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 09e4ddac1e381b2ca621bd4bb88b592f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Bk5y6Elcy_Q
+    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1796c7a43a3cbf4dbd04e73f21caaf41
+  - id: Bk5y6Elcy_Q.srt
+    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-82-polar-coordinates/converting-from-polar-to-rectangular-coordinates/Bk5y6Elcy_Q.srt
+    title: 3play caption file
+    type: null
+    uid: eb2bfaf751daf5ce08c0bc6a39745545
+  - id: Bk5y6Elcy_Q.pdf
+    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-82-polar-coordinates/converting-from-polar-to-rectangular-coordinates/Bk5y6Elcy_Q.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0d16d7da8e72e96aade35bce946d758a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 08279c989f2cb71c6068c9e738b13b11
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: baf7b5c690cb88eba0b18e4e6e93b210
+inline_embed_id: 57533920convertingfrompolartorectangularcoordinates12011513
 parent_uid: 6b43151f2ea4f32cac0a7709358919db
+related_resources_text: ''
+short_url: converting-from-polar-to-rectangular-coordinates
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-82-polar-coordinates/converting-from-polar-to-rectangular-coordinates
-short_url: converting-from-polar-to-rectangular-coordinates
-inline_embed_id: 57533920convertingfrompolartorectangularcoordinates12011513
-about_this_resource_text: ''
-related_resources_text: ''
+title: Converting From Polar to Rectangular Coordinates
 transcript: >-
   <p><span m='6830'>Welcome</span> <span m='7280'>back to</span> <span
   m='7520'>recitation.</span> <span m='8410'>In</span> <span
@@ -651,62 +706,7 @@ transcript: >-
   m='516360'>another.</span> <span m='517240'>And</span> <span
   m='518680'>yeah,</span> <span m='518990'>that's</span> <span m='519170'>where
   we'll</span> <span m='519280'>leave</span> <span m='519560'>it.</span> </p>
-embedded_media:
-  - uid: ca121a2977b606da5495b330fb86f4b7
-    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Bk5y6Elcy_Q
-  - uid: 67b09cc39bfebeecdf92b90394a6db62
-    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Bk5y6Elcy_Q/default.jpg'
-  - uid: b24e17ba10b79ae5dee89d3a23cb75a5
-    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/polar-to-cartesian/id414308064?i=90320224
-  - uid: 09e4ddac1e381b2ca621bd4bb88b592f
-    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_61_300k.mp4'
-  - uid: 1796c7a43a3cbf4dbd04e73f21caaf41
-    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Bk5y6Elcy_Q
-  - uid: eb2bfaf751daf5ce08c0bc6a39745545
-    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
-    id: Bk5y6Elcy_Q.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-82-polar-coordinates/converting-from-polar-to-rectangular-coordinates/Bk5y6Elcy_Q.srt
-  - uid: 0d16d7da8e72e96aade35bce946d758a
-    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
-    id: Bk5y6Elcy_Q.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-82-polar-coordinates/converting-from-polar-to-rectangular-coordinates/Bk5y6Elcy_Q.pdf
-  - uid: 08279c989f2cb71c6068c9e738b13b11
-    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: baf7b5c690cb88eba0b18e4e6e93b210
-    parent_uid: 97a71aa917d344fd80cf6810ebc2419e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 97a71aa917d344fd80cf6810ebc2419e
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: Gravity and a Half-Sphere
-uid: 52d8f16f4a9b56aa9df3f22f6541940b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: jAwWnppdcBE
+    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 94234749446884b0a70da61d825b775f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/jAwWnppdcBE/default.jpg'
+    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 218dad355cb47ed8c0054a7089269414
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_55_300k.mp4'
+    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e1ebf1d0ac06dbf83563a7ef5c4738a6
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/gravity-and-a-half-sphere/id414355340?i=90322854
+    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 52af2e61dec9f160df3a75f2feb415a9
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: jAwWnppdcBE
+    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7ebb571cb073f28e6402565de7042066
+  - id: jAwWnppdcBE.srt
+    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-78-applications-gravitational-attraction/gravity-and-a-half-sphere/jAwWnppdcBE.srt
+    title: 3play caption file
+    type: null
+    uid: 3c304e3b3088480febc46e99dbec4ad4
+  - id: jAwWnppdcBE.pdf
+    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-78-applications-gravitational-attraction/gravity-and-a-half-sphere/jAwWnppdcBE.pdf
+    title: 3play pdf file
+    type: null
+    uid: b10f24bacbbe7f67d2753f7e45b860ae
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c1ffbda1421e93da0f09e57e02612486
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 579ef0e755f69628408b1b86523df9b8
+inline_embed_id: 87061227gravityandahalf-sphere89034004
 parent_uid: 8a9672904a3f5c9cc88bb651406304a8
+related_resources_text: ''
+short_url: gravity-and-a-half-sphere
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-78-applications-gravitational-attraction/gravity-and-a-half-sphere
-short_url: gravity-and-a-half-sphere
-inline_embed_id: 87061227gravityandahalf-sphere89034004
-about_this_resource_text: ''
-related_resources_text: ''
+title: Gravity and a Half-Sphere
 transcript: >-
   <p><span m='7930'>Welcome</span> <span m='8210'>back</span> <span
   m='8390'>to</span> <span m='8470'>recitation.</span> <span m='9162'>In</span>
@@ -876,62 +931,7 @@ transcript: >-
   m='670320'>right,</span> <span m='670550'>that's</span> <span
   m='670700'>where</span> <span m='670810'>I'll</span> <span
   m='670900'>stop.</span> </p>
-embedded_media:
-  - uid: 94234749446884b0a70da61d825b775f
-    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: jAwWnppdcBE
-  - uid: 218dad355cb47ed8c0054a7089269414
-    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/jAwWnppdcBE/default.jpg'
-  - uid: e1ebf1d0ac06dbf83563a7ef5c4738a6
-    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_55_300k.mp4'
-  - uid: 52af2e61dec9f160df3a75f2feb415a9
-    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/gravity-and-a-half-sphere/id414355340?i=90322854
-  - uid: 7ebb571cb073f28e6402565de7042066
-    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: jAwWnppdcBE
-  - uid: 3c304e3b3088480febc46e99dbec4ad4
-    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
-    id: jAwWnppdcBE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-78-applications-gravitational-attraction/gravity-and-a-half-sphere/jAwWnppdcBE.srt
-  - uid: b10f24bacbbe7f67d2753f7e45b860ae
-    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
-    id: jAwWnppdcBE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-78-applications-gravitational-attraction/gravity-and-a-half-sphere/jAwWnppdcBE.pdf
-  - uid: c1ffbda1421e93da0f09e57e02612486
-    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 579ef0e755f69628408b1b86523df9b8
-    parent_uid: 52d8f16f4a9b56aa9df3f22f6541940b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 52d8f16f4a9b56aa9df3f22f6541940b
 type: courses
 layout: video
 ---

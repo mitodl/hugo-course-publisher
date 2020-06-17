@@ -4,7 +4,8 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 course_title: Introduction to Computer Science and Programming
 course_image_url: >-
   https://open-learning-course-data-ci.s3.amazonaws.com/6-00sc-introduction-to-computer-science-and-programming-spring-2011/150f1db23890c18ca7b3bdea6d64be88_6-00scf11.jpg
-course_thumbnail_image_url: ''
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/6-00sc-introduction-to-computer-science-and-programming-spring-2011/8f5a9bdc32870b1d41e6bf4482f14274_6-00scf11-th.jpg
 course_image_alternate_text: >-
   Photograph of a Roomba vacuum robot, virus model, MIT campus map, and Boggle
   game board.

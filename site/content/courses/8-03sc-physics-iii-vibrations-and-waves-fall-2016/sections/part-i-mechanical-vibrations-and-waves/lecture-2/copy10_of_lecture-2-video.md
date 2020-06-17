@@ -1,13 +1,61 @@
 ---
-title: Driven Torsional Balance Oscillator
-uid: dd3bc8677f56a9f6a6d6133aa7edcfef
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: T2n6fVybLcU
+    parent_uid: dd3bc8677f56a9f6a6d6133aa7edcfef
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 938f5b59697da72f2c157a301a58e646
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/T2n6fVybLcU/default.jpg'
+    parent_uid: dd3bc8677f56a9f6a6d6133aa7edcfef
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5eb0ab52cf050006901a26bd81d347e1
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: T2n6fVybLcU
+    parent_uid: dd3bc8677f56a9f6a6d6133aa7edcfef
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 18af3464712a554e7beee74f9877de15
+  - id: T2n6fVybLcU.srt
+    parent_uid: dd3bc8677f56a9f6a6d6133aa7edcfef
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/copy10_of_lecture-2-video/T2n6fVybLcU.srt
+    title: 3play caption file
+    type: null
+    uid: c43026885622c6da205b15597ea7f815
+  - id: T2n6fVybLcU.pdf
+    parent_uid: dd3bc8677f56a9f6a6d6133aa7edcfef
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/copy10_of_lecture-2-video/T2n6fVybLcU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2b310de00eafc533f1e93ae1c5cb8ce7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: dd3bc8677f56a9f6a6d6133aa7edcfef
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 43d7d4501f3d357cb5bec73a974f6618
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: dd3bc8677f56a9f6a6d6133aa7edcfef
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1c6c3803eb672df4dc24a67cf989562d
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec02_300k.mp4'
+    parent_uid: dd3bc8677f56a9f6a6d6133aa7edcfef
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 88a7073762adb9e89c39a369b41ff24f
+inline_embed_id: 42004770lecture2videop451694561
 parent_uid: de60ad23ec34c2de5ad0d3eca23fb1e5
+related_resources_text: ''
+short_url: copy10_of_lecture-2-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/copy10_of_lecture-2-video
-short_url: copy10_of_lecture-2-video
-inline_embed_id: 42004770lecture2videop451694561
-about_this_resource_text: ''
-related_resources_text: ''
+title: Driven Torsional Balance Oscillator
 transcript: >-
   <p><span m="2195">The</span> <span m="2240">following</span> <span
   m="2690">content</span> <span m="3200">is</span> <span
@@ -3986,55 +4034,7 @@ transcript: >-
   m="4582860">to</span> <span m="4583040">drive</span> <span
   m="4583310">the</span> <span m="4583510">oscillator.</span> <span
   m="4584770">Bye-bye.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 938f5b59697da72f2c157a301a58e646
-    parent_uid: dd3bc8677f56a9f6a6d6133aa7edcfef
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: T2n6fVybLcU
-  - uid: 5eb0ab52cf050006901a26bd81d347e1
-    parent_uid: dd3bc8677f56a9f6a6d6133aa7edcfef
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/T2n6fVybLcU/default.jpg'
-  - uid: 18af3464712a554e7beee74f9877de15
-    parent_uid: dd3bc8677f56a9f6a6d6133aa7edcfef
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: T2n6fVybLcU
-  - uid: c43026885622c6da205b15597ea7f815
-    parent_uid: dd3bc8677f56a9f6a6d6133aa7edcfef
-    id: T2n6fVybLcU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/copy10_of_lecture-2-video/T2n6fVybLcU.srt
-  - uid: 2b310de00eafc533f1e93ae1c5cb8ce7
-    parent_uid: dd3bc8677f56a9f6a6d6133aa7edcfef
-    id: T2n6fVybLcU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/copy10_of_lecture-2-video/T2n6fVybLcU.pdf
-  - uid: 43d7d4501f3d357cb5bec73a974f6618
-    parent_uid: dd3bc8677f56a9f6a6d6133aa7edcfef
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1c6c3803eb672df4dc24a67cf989562d
-    parent_uid: dd3bc8677f56a9f6a6d6133aa7edcfef
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 88a7073762adb9e89c39a369b41ff24f
-    parent_uid: dd3bc8677f56a9f6a6d6133aa7edcfef
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec02_300k.mp4'
+uid: dd3bc8677f56a9f6a6d6133aa7edcfef
 type: courses
 layout: video
 ---

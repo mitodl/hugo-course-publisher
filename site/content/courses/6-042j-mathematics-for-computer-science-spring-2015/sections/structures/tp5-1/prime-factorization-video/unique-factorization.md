@@ -1,13 +1,73 @@
 ---
-title: Unique Factorization
-uid: 2bfa290d72f863e95b41364a0ee19971
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 2bfa290d72f863e95b41364a0ee19971
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: ed54756fcedf03370848a10e73c99c07
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 2bfa290d72f863e95b41364a0ee19971
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 299e85749df9a4277a48cd0c462bd433
+  - id: Video-YouTube-Stream
+    media_location: QsKtEuUyIdw
+    parent_uid: 2bfa290d72f863e95b41364a0ee19971
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 47e10352480214f98e09bcdc93eb5efa
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QsKtEuUyIdw/default.jpg'
+    parent_uid: 2bfa290d72f863e95b41364a0ee19971
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5c42576807f00a402fd0d41b1f30478b
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: QsKtEuUyIdw
+    parent_uid: 2bfa290d72f863e95b41364a0ee19971
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 23bf75ca47a0139419f33ec8da14740b
+  - id: QsKtEuUyIdw.srt
+    parent_uid: 2bfa290d72f863e95b41364a0ee19971
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/prime-factorization-video/unique-factorization/QsKtEuUyIdw.srt
+    title: 3play caption file
+    type: null
+    uid: 0140a30b2c6af2bed038a1384ec76fe7
+  - id: QsKtEuUyIdw.pdf
+    parent_uid: 2bfa290d72f863e95b41364a0ee19971
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/prime-factorization-video/unique-factorization/QsKtEuUyIdw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7b070dde10a1482e5df3daa3af0ef223
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2bfa290d72f863e95b41364a0ee19971
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c2dc66e6a6fea1bdfba1aacb08f2da0f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2bfa290d72f863e95b41364a0ee19971
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3ed31e729254a7968f44419504e7d17c
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_unique_factorization_ipod.mp4
+    parent_uid: 2bfa290d72f863e95b41364a0ee19971
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b0d3edf4ccc8399935d2f49961d77dd2
+inline_embed_id: 48519021uniquefactorization13794512
 parent_uid: 51dcf33092f43e021cae3d73b71b0ad3
+related_resources_text: ''
+short_url: unique-factorization
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/prime-factorization-video/unique-factorization
-short_url: unique-factorization
-inline_embed_id: 48519021uniquefactorization13794512
-about_this_resource_text: ''
-related_resources_text: ''
+title: Unique Factorization
 transcript: >-
   <p><span m='320'>PROFESSOR: Now</span> <span m='480'>we</span> <span
   m='620'>come</span> <span m='880'>to</span> <span m='1140'>a</span> <span
@@ -529,67 +589,7 @@ transcript: >-
   <span m='464110'>have</span> <span m='464350'>proved</span> <span
   m='465440'>the</span> <span m='465880'>unique</span> <span
   m='466300'>factorization</span> <span m='466600'>theorem.</span> </p>
-embedded_media:
-  - uid: ed54756fcedf03370848a10e73c99c07
-    parent_uid: 2bfa290d72f863e95b41364a0ee19971
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 299e85749df9a4277a48cd0c462bd433
-    parent_uid: 2bfa290d72f863e95b41364a0ee19971
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 47e10352480214f98e09bcdc93eb5efa
-    parent_uid: 2bfa290d72f863e95b41364a0ee19971
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QsKtEuUyIdw
-  - uid: 5c42576807f00a402fd0d41b1f30478b
-    parent_uid: 2bfa290d72f863e95b41364a0ee19971
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QsKtEuUyIdw/default.jpg'
-  - uid: 23bf75ca47a0139419f33ec8da14740b
-    parent_uid: 2bfa290d72f863e95b41364a0ee19971
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QsKtEuUyIdw
-  - uid: 0140a30b2c6af2bed038a1384ec76fe7
-    parent_uid: 2bfa290d72f863e95b41364a0ee19971
-    id: QsKtEuUyIdw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/prime-factorization-video/unique-factorization/QsKtEuUyIdw.srt
-  - uid: 7b070dde10a1482e5df3daa3af0ef223
-    parent_uid: 2bfa290d72f863e95b41364a0ee19971
-    id: QsKtEuUyIdw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/prime-factorization-video/unique-factorization/QsKtEuUyIdw.pdf
-  - uid: c2dc66e6a6fea1bdfba1aacb08f2da0f
-    parent_uid: 2bfa290d72f863e95b41364a0ee19971
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3ed31e729254a7968f44419504e7d17c
-    parent_uid: 2bfa290d72f863e95b41364a0ee19971
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b0d3edf4ccc8399935d2f49961d77dd2
-    parent_uid: 2bfa290d72f863e95b41364a0ee19971
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_unique_factorization_ipod.mp4
+uid: 2bfa290d72f863e95b41364a0ee19971
 type: courses
 layout: video
 ---

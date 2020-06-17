@@ -1,13 +1,73 @@
 ---
-title: Tree Model
-uid: 6959e0abb52aa69c22d2ee84474d131f
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 2825fb3bc8cb27de015f06406f8cb588
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a0b21b18e2d4fd290b501cd83642051c
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_probintro_video_ipod.mp4
+    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2406202874784bf541729783cefdfd75
+  - id: Video-YouTube-Stream
+    media_location: dEsFEK4vnV4
+    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c8bfb39fd91d5e92be9f23bae43baaf9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/dEsFEK4vnV4/default.jpg'
+    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bf3692d9b91b1e97ea84ade3b3fb208e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: dEsFEK4vnV4
+    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 35d6283d143bd94341f8d2a449027ff6
+  - id: dEsFEK4vnV4.srt
+    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/tree-model/dEsFEK4vnV4.srt
+    title: 3play caption file
+    type: null
+    uid: 89da82df08b857bda8a592fba76fa85e
+  - id: dEsFEK4vnV4.pdf
+    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/tree-model/dEsFEK4vnV4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4a0eecbffe87532017da105d09f4cabc
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a8d2c802e0c52cb98c73ba5e699d1634
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bf677951b73f1bfdc743b26288b0633a
+inline_embed_id: 54565163treemodel28456844
 parent_uid: 4414c612ae424c737466f4715f85e319
+related_resources_text: ''
+short_url: tree-model
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/tree-model
-short_url: tree-model
-inline_embed_id: 54565163treemodel28456844
-about_this_resource_text: ''
-related_resources_text: ''
+title: Tree Model
 transcript: >-
   <p><span m='1160'>PROFESSOR: So</span> <span m='1280'>now</span> <span
   m='1500'>we</span> <span m='1630'>start</span> <span m='1990'>on</span> <span
@@ -1917,67 +1977,7 @@ transcript: >-
   m='1515670'>that</span> <span m='1515950'>in</span> <span
   m='1516020'>the</span> <span m='1516090'>next</span> <span
   m='1516400'>video.</span> </p>
-embedded_media:
-  - uid: 2825fb3bc8cb27de015f06406f8cb588
-    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: a0b21b18e2d4fd290b501cd83642051c
-    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 2406202874784bf541729783cefdfd75
-    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_probintro_video_ipod.mp4
-  - uid: c8bfb39fd91d5e92be9f23bae43baaf9
-    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: dEsFEK4vnV4
-  - uid: bf3692d9b91b1e97ea84ade3b3fb208e
-    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/dEsFEK4vnV4/default.jpg'
-  - uid: 35d6283d143bd94341f8d2a449027ff6
-    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: dEsFEK4vnV4
-  - uid: 89da82df08b857bda8a592fba76fa85e
-    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
-    id: dEsFEK4vnV4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/tree-model/dEsFEK4vnV4.srt
-  - uid: 4a0eecbffe87532017da105d09f4cabc
-    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
-    id: dEsFEK4vnV4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/tree-model/dEsFEK4vnV4.pdf
-  - uid: a8d2c802e0c52cb98c73ba5e699d1634
-    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bf677951b73f1bfdc743b26288b0633a
-    parent_uid: 6959e0abb52aa69c22d2ee84474d131f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6959e0abb52aa69c22d2ee84474d131f
 type: courses
 layout: video
 ---

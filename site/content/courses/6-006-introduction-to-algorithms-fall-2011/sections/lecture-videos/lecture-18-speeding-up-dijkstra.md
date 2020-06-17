@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 18: Speeding up Dijkstra'
-uid: fb81fef88945bb4849a94dbe8c9f9b29
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-18-speeding-up-dijkstra
-short_url: lecture-18-speeding-up-dijkstra
-inline_embed_id: '53916625lecture18:speedingupdijkstra15893163'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture covers optimizations that can
   improve real-life, average case performance of shortest path algorithms. These
   include using Dijkstra for a single source and single target, bi-directional
   search, and goal-directed or A* search.</p> <p><strong>Instructor:</strong>
   Srini Devadas</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: CHvQ3q_gJ7E
+    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e8c4cc370e4998d98d4b22b75244e4ad
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CHvQ3q_gJ7E/default.jpg'
+    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9c8e4a5ae0d80e7a91739d0690e26049
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-18-speeding-up-dijkstra/id585700718?i=126127768
+    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fab99930891740e9bc12bbfc546c9fab
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec18_300k.mp4'
+    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8c9ce4684089644fe696ce3e6969ff76
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: CHvQ3q_gJ7E
+    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e5ea0db946c11d2ecbbc627b64b2a033
+  - id: CHvQ3q_gJ7E.srt
+    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-18-speeding-up-dijkstra/CHvQ3q_gJ7E.srt
+    title: 3play caption file
+    type: null
+    uid: e3d02b22bb0cac09d2a1d53962e8a2dc
+  - id: CHvQ3q_gJ7E.pdf
+    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-18-speeding-up-dijkstra/CHvQ3q_gJ7E.pdf
+    title: 3play pdf file
+    type: null
+    uid: 282bbe2fa7af77f4aea803bb47d8dead
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8aa4d1a7a24a7484003978c3e5b39088
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8c5de54a67288d40a22be1df8bf23f52
+inline_embed_id: '53916625lecture18:speedingupdijkstra15893163'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-18-speeding-up-dijkstra
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-18-speeding-up-dijkstra
+title: 'Lecture 18: Speeding up Dijkstra'
 transcript: >-
   <p><span m='60'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -3044,62 +3099,7 @@ transcript: >-
   m='3193540'>take</span> <span m='3193680'>a</span> <span
   m='3193720'>look</span> <span m='3193850'>at</span> <span
   m='3193920'>it</span> <span m='3194400'>offline.</span> </p>
-embedded_media:
-  - uid: e8c4cc370e4998d98d4b22b75244e4ad
-    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CHvQ3q_gJ7E
-  - uid: 9c8e4a5ae0d80e7a91739d0690e26049
-    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CHvQ3q_gJ7E/default.jpg'
-  - uid: fab99930891740e9bc12bbfc546c9fab
-    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-18-speeding-up-dijkstra/id585700718?i=126127768
-  - uid: 8c9ce4684089644fe696ce3e6969ff76
-    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec18_300k.mp4'
-  - uid: e5ea0db946c11d2ecbbc627b64b2a033
-    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CHvQ3q_gJ7E
-  - uid: e3d02b22bb0cac09d2a1d53962e8a2dc
-    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
-    id: CHvQ3q_gJ7E.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-18-speeding-up-dijkstra/CHvQ3q_gJ7E.srt
-  - uid: 282bbe2fa7af77f4aea803bb47d8dead
-    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
-    id: CHvQ3q_gJ7E.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-18-speeding-up-dijkstra/CHvQ3q_gJ7E.pdf
-  - uid: 8aa4d1a7a24a7484003978c3e5b39088
-    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8c5de54a67288d40a22be1df8bf23f52
-    parent_uid: fb81fef88945bb4849a94dbe8c9f9b29
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: fb81fef88945bb4849a94dbe8c9f9b29
 type: courses
 layout: video
 ---

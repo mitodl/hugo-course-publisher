@@ -1,13 +1,67 @@
 ---
-title: Exam 1 Review
-uid: 3f9e306b85977c21227f5f241af2f7cc
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: l88D4r74gtM
+    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d072b6c1303dda308daa542414688884
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/l88D4r74gtM/default.jpg'
+    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8d608c3252dcfe9e6643b687644aaeab
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a3de0f2d9159922f0f2024f1c434b6cc
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/13.mp4'
+    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 257e7d8a87b642a774c354c3fd3b262d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: l88D4r74gtM
+    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 37f7a8f7b0ec9ed07d73e416ea89c100
+  - id: l88D4r74gtM.srt
+    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/exam-1-review/exam-1-review/l88D4r74gtM.srt
+    title: 3play caption file
+    type: null
+    uid: 7f166f18ce23b5a474e2d4466d4fffad
+  - id: l88D4r74gtM.pdf
+    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/exam-1-review/exam-1-review/l88D4r74gtM.pdf
+    title: 3play pdf file
+    type: null
+    uid: ae051c7b15bd20481cbab408d5fca486
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4e3ced0d057d29a74d048eebed062552
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6b9c81fc69aec72b8b3fd97b2ce3cfd4
+inline_embed_id: 51052258exam1review40518591
 parent_uid: e451ffac351d687a8b193c0159c4b2a7
+related_resources_text: ''
+short_url: exam-1-review
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/exam-1-review/exam-1-review
-short_url: exam-1-review
-inline_embed_id: 51052258exam1review40518591
-about_this_resource_text: ''
-related_resources_text: ''
+title: Exam 1 Review
 transcript: >-
   <p><span m='9510'>OK.</span> <span m='10100'>Uh</span> <span
   m='10330'>this</span> <span m='10570'>is</span> <span m='11610'>the</span>
@@ -2592,61 +2646,7 @@ transcript: >-
   m='2854820'>good</span> <span m='2855650'>luck</span> <span
   m='2856490'>on</span> <span m='2857330'>the</span> <span
   m='2858160'>quiz.</span> </p>
-embedded_media:
-  - uid: d072b6c1303dda308daa542414688884
-    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: l88D4r74gtM
-  - uid: 8d608c3252dcfe9e6643b687644aaeab
-    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/l88D4r74gtM/default.jpg'
-  - uid: a3de0f2d9159922f0f2024f1c434b6cc
-    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 257e7d8a87b642a774c354c3fd3b262d
-    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/13.mp4'
-  - uid: 37f7a8f7b0ec9ed07d73e416ea89c100
-    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: l88D4r74gtM
-  - uid: 7f166f18ce23b5a474e2d4466d4fffad
-    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
-    id: l88D4r74gtM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/exam-1-review/exam-1-review/l88D4r74gtM.srt
-  - uid: ae051c7b15bd20481cbab408d5fca486
-    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
-    id: l88D4r74gtM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/exam-1-review/exam-1-review/l88D4r74gtM.pdf
-  - uid: 4e3ced0d057d29a74d048eebed062552
-    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6b9c81fc69aec72b8b3fd97b2ce3cfd4
-    parent_uid: 3f9e306b85977c21227f5f241af2f7cc
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3f9e306b85977c21227f5f241af2f7cc
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: Limit of a Series
-uid: efcee0c128c0baa1d7428326eface084
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: LpW6zanbSf8
+    parent_uid: efcee0c128c0baa1d7428326eface084
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d9551700a91a5ba99ee1a77e8e0386e4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/LpW6zanbSf8/default.jpg'
+    parent_uid: efcee0c128c0baa1d7428326eface084
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 91acb5ef5ea28e1de35f996a41323414
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/limit-of-a-series/id414308064?i=90320223
+    parent_uid: efcee0c128c0baa1d7428326eface084
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6cb5a991830824c43433165d694d68d4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_72_300k.mp4'
+    parent_uid: efcee0c128c0baa1d7428326eface084
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 11b386fbc5598c98cdb53ad0e621e8f3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: LpW6zanbSf8
+    parent_uid: efcee0c128c0baa1d7428326eface084
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a9952440c869495b42842632ee34d2b4
+  - id: LpW6zanbSf8.srt
+    parent_uid: efcee0c128c0baa1d7428326eface084
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-94-infinite-series/limit-of-a-series/LpW6zanbSf8.srt
+    title: 3play caption file
+    type: null
+    uid: 94ca99b42ae98ce968178dd8aacc6e7d
+  - id: LpW6zanbSf8.pdf
+    parent_uid: efcee0c128c0baa1d7428326eface084
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-94-infinite-series/limit-of-a-series/LpW6zanbSf8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1e5ccedb87c9ab1f831e9597da842b07
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: efcee0c128c0baa1d7428326eface084
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 386a04a42b62f816d01df287ee850b79
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: efcee0c128c0baa1d7428326eface084
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d40a88ca660c91b5ab77f9b2b1602111
+inline_embed_id: 19136383limitofaseries70265727
 parent_uid: 1825bfbbd3647c86fa9771d985c21513
+related_resources_text: ''
+short_url: limit-of-a-series
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-94-infinite-series/limit-of-a-series
-short_url: limit-of-a-series
-inline_embed_id: 19136383limitofaseries70265727
-about_this_resource_text: ''
-related_resources_text: ''
+title: Limit of a Series
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='6890'>Hi,</span> <span
   m='7400'>welcome</span> <span m='7720'>back</span> <span m='7920'>to</span>
@@ -376,62 +431,7 @@ transcript: >-
   <span m='292260'>series</span> <span m='292660'>is</span> <span
   m='292790'>1.</span> <span m='293130'>So I'll</span> <span m='293570'>end
   there.</span> </p>
-embedded_media:
-  - uid: d9551700a91a5ba99ee1a77e8e0386e4
-    parent_uid: efcee0c128c0baa1d7428326eface084
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: LpW6zanbSf8
-  - uid: 91acb5ef5ea28e1de35f996a41323414
-    parent_uid: efcee0c128c0baa1d7428326eface084
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/LpW6zanbSf8/default.jpg'
-  - uid: 6cb5a991830824c43433165d694d68d4
-    parent_uid: efcee0c128c0baa1d7428326eface084
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/limit-of-a-series/id414308064?i=90320223
-  - uid: 11b386fbc5598c98cdb53ad0e621e8f3
-    parent_uid: efcee0c128c0baa1d7428326eface084
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_72_300k.mp4'
-  - uid: a9952440c869495b42842632ee34d2b4
-    parent_uid: efcee0c128c0baa1d7428326eface084
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: LpW6zanbSf8
-  - uid: 94ca99b42ae98ce968178dd8aacc6e7d
-    parent_uid: efcee0c128c0baa1d7428326eface084
-    id: LpW6zanbSf8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-94-infinite-series/limit-of-a-series/LpW6zanbSf8.srt
-  - uid: 1e5ccedb87c9ab1f831e9597da842b07
-    parent_uid: efcee0c128c0baa1d7428326eface084
-    id: LpW6zanbSf8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-94-infinite-series/limit-of-a-series/LpW6zanbSf8.pdf
-  - uid: 386a04a42b62f816d01df287ee850b79
-    parent_uid: efcee0c128c0baa1d7428326eface084
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d40a88ca660c91b5ab77f9b2b1602111
-    parent_uid: efcee0c128c0baa1d7428326eface084
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: efcee0c128c0baa1d7428326eface084
 type: courses
 layout: video
 ---

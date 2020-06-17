@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Power Series Multiplication'
-uid: e11e5864fc6d47a27430edeb75b7fcfa
-parent_uid: 7aaff01423b922b346afdcd6c0328e83
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series/clip-1-power-series-multiplication
-short_url: clip-1-power-series-multiplication
-inline_embed_id: '43578400clip1:powerseriesmultiplication3657328'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/da3fe4bceb5535ea0a47b6ed2427c388"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 39 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '--lPz7VFnKI'
+    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5d05b68fc51d278020eb8112c306fdd9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/--lPz7VFnKI/default.jpg'
+    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d82000cf6fcd7e8e123e281b86f6f057
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '--lPz7VFnKI'
+    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b7dd82810f1872e1100d62eacd02073d
+  - id: '--lPz7VFnKI.srt'
+    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series/clip-1-power-series-multiplication/--lPz7VFnKI.srt
+    title: 3play caption file
+    type: null
+    uid: 25427e2beb0eea9e3b03b53121b10d7b
+  - id: '--lPz7VFnKI.pdf'
+    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series/clip-1-power-series-multiplication/--lPz7VFnKI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 624e491775f1016311127eb71d3bee47
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b509c6bb8f240b055e58d2a5f1f21436
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e903afa9c09df928ae76681d3a965a58
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec39_300k.mp4'
+    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e2a3783fcdb55936c52018c58c8ef5d0
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b85d1c64f2ee5fe2af5140a7348c0577
+inline_embed_id: '43578400clip1:powerseriesmultiplication3657328'
+parent_uid: 7aaff01423b922b346afdcd6c0328e83
 related_resources_text: ''
+short_url: clip-1-power-series-multiplication
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series/clip-1-power-series-multiplication
+title: 'Clip 1: Power Series Multiplication'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following</span> <span
   m='530'>content</span> <span m='1270'>is</span> <span m='1420'>provided</span>
@@ -2262,61 +2316,7 @@ transcript: >-
   m='2343830'>the</span> <span m='2343930'>points</span> <span
   m='2344200'>home</span> <span m='2344470'>forcefully,</span> <span
   m='2344563'>I</span> <span m='2344656'>think.</span> </p>
-embedded_media:
-  - uid: 5d05b68fc51d278020eb8112c306fdd9
-    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '--lPz7VFnKI'
-  - uid: d82000cf6fcd7e8e123e281b86f6f057
-    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/--lPz7VFnKI/default.jpg'
-  - uid: b7dd82810f1872e1100d62eacd02073d
-    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '--lPz7VFnKI'
-  - uid: 25427e2beb0eea9e3b03b53121b10d7b
-    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
-    id: '--lPz7VFnKI.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series/clip-1-power-series-multiplication/--lPz7VFnKI.srt
-  - uid: 624e491775f1016311127eb71d3bee47
-    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
-    id: '--lPz7VFnKI.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series/clip-1-power-series-multiplication/--lPz7VFnKI.pdf
-  - uid: b509c6bb8f240b055e58d2a5f1f21436
-    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e903afa9c09df928ae76681d3a965a58
-    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e2a3783fcdb55936c52018c58c8ef5d0
-    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec39_300k.mp4'
-  - uid: b85d1c64f2ee5fe2af5140a7348c0577
-    parent_uid: e11e5864fc6d47a27430edeb75b7fcfa
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: e11e5864fc6d47a27430edeb75b7fcfa
 type: courses
 layout: video
 ---

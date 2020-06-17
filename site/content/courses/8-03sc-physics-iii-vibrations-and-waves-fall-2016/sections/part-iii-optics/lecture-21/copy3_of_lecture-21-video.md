@@ -1,13 +1,61 @@
 ---
-title: Single-Slit Diffraction with a Laser
-uid: 498072dc483000e009abb2fcfe1e1738
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: mqhO9GT8hD4
+    parent_uid: 498072dc483000e009abb2fcfe1e1738
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4517c253d82e72e23ce9f413d50a34a4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/mqhO9GT8hD4/default.jpg'
+    parent_uid: 498072dc483000e009abb2fcfe1e1738
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b89ddb73511266ea0062984de9bf45ea
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: mqhO9GT8hD4
+    parent_uid: 498072dc483000e009abb2fcfe1e1738
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0f02f8c0d3bc9c9e831c5c148143ece6
+  - id: mqhO9GT8hD4.srt
+    parent_uid: 498072dc483000e009abb2fcfe1e1738
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-21/copy3_of_lecture-21-video/mqhO9GT8hD4.srt
+    title: 3play caption file
+    type: null
+    uid: 38d635f8811f61f5c2972e3c4204f137
+  - id: mqhO9GT8hD4.pdf
+    parent_uid: 498072dc483000e009abb2fcfe1e1738
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-21/copy3_of_lecture-21-video/mqhO9GT8hD4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 759d2edf3ccb60d7807a08a6cfcdbf94
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 498072dc483000e009abb2fcfe1e1738
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bd8141f51ccdb7dbecc20a417f352634
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 498072dc483000e009abb2fcfe1e1738
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 68582c85a6fcbebd4f270a5861775bd2
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec21_300k.mp4'
+    parent_uid: 498072dc483000e009abb2fcfe1e1738
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 50f1ac2899630205ff20aaa5054f58ef
+inline_embed_id: 29832093lecture21videop338379242
 parent_uid: babd702cf1121939a9e0c02a1d617ddb
+related_resources_text: ''
+short_url: copy3_of_lecture-21-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-21/copy3_of_lecture-21-video
-short_url: copy3_of_lecture-21-video
-inline_embed_id: 29832093lecture21videop338379242
-about_this_resource_text: ''
-related_resources_text: ''
+title: Single-Slit Diffraction with a Laser
 transcript: >-
   <p><span m="2490">The</span> <span m="2580">following</span> <span
   m="3030">content</span> <span m="3510">is</span> <span
@@ -4418,55 +4466,7 @@ transcript: >-
   m="4707750">the</span> <span m="4707900">single</span> <span
   m="4708150">slit</span> <span m="4709060">diffraction</span> <span
   m="4709360">pattern.</span></p><p>&nbsp;</p><p>&nbsp;</p>
-embedded_media:
-  - uid: 4517c253d82e72e23ce9f413d50a34a4
-    parent_uid: 498072dc483000e009abb2fcfe1e1738
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: mqhO9GT8hD4
-  - uid: b89ddb73511266ea0062984de9bf45ea
-    parent_uid: 498072dc483000e009abb2fcfe1e1738
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/mqhO9GT8hD4/default.jpg'
-  - uid: 0f02f8c0d3bc9c9e831c5c148143ece6
-    parent_uid: 498072dc483000e009abb2fcfe1e1738
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: mqhO9GT8hD4
-  - uid: 38d635f8811f61f5c2972e3c4204f137
-    parent_uid: 498072dc483000e009abb2fcfe1e1738
-    id: mqhO9GT8hD4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-21/copy3_of_lecture-21-video/mqhO9GT8hD4.srt
-  - uid: 759d2edf3ccb60d7807a08a6cfcdbf94
-    parent_uid: 498072dc483000e009abb2fcfe1e1738
-    id: mqhO9GT8hD4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-21/copy3_of_lecture-21-video/mqhO9GT8hD4.pdf
-  - uid: bd8141f51ccdb7dbecc20a417f352634
-    parent_uid: 498072dc483000e009abb2fcfe1e1738
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 68582c85a6fcbebd4f270a5861775bd2
-    parent_uid: 498072dc483000e009abb2fcfe1e1738
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 50f1ac2899630205ff20aaa5054f58ef
-    parent_uid: 498072dc483000e009abb2fcfe1e1738
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec21_300k.mp4'
+uid: 498072dc483000e009abb2fcfe1e1738
 type: courses
 layout: video
 ---

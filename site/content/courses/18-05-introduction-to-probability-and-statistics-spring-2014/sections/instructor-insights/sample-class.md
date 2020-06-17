@@ -1,13 +1,61 @@
 ---
-title: 'Sample Class: Class 11–Bayesian Updating: Discrete Priors'
-uid: b09c96b115749aa10e37c1edf840eb0f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: DyuQsaqXhwU
+    parent_uid: b09c96b115749aa10e37c1edf840eb0f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0829245a7a249111015fb54d775c2ed7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/DyuQsaqXhwU/default.jpg'
+    parent_uid: b09c96b115749aa10e37c1edf840eb0f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d47e80265158c06437953ebf5f7c50a4
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.05S14/MIT18_05S14_class12_300k.mp4'
+    parent_uid: b09c96b115749aa10e37c1edf840eb0f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f61376941f6a80049e61194f34b28416
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: DyuQsaqXhwU
+    parent_uid: b09c96b115749aa10e37c1edf840eb0f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d813c2146a1d049d944dc4e3c50148d9
+  - id: DyuQsaqXhwU.srt
+    parent_uid: b09c96b115749aa10e37c1edf840eb0f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/instructor-insights/sample-class/DyuQsaqXhwU.srt
+    title: 3play caption file
+    type: null
+    uid: 933cba3059def3d7fdda9f307a71c8c0
+  - id: DyuQsaqXhwU.pdf
+    parent_uid: b09c96b115749aa10e37c1edf840eb0f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/instructor-insights/sample-class/DyuQsaqXhwU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4f0443556eed1ef14440d5d1b4a1b220
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b09c96b115749aa10e37c1edf840eb0f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 73fa4db53fefde506763c3a3361fedeb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b09c96b115749aa10e37c1edf840eb0f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2c0103c885c26e3188d504ac71abdb00
+inline_embed_id: 59498249sampleclass37170367
 parent_uid: 1b6858820e39dbc6ba03dc47858871bd
+related_resources_text: ''
+short_url: sample-class
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/instructor-insights/sample-class
-short_url: sample-class
-inline_embed_id: 59498249sampleclass37170367
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Sample Class: Class 11–Bayesian Updating: Discrete Priors'
 transcript: >-
   <p><span m='70'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1230'>is</span> <span m='1340'>provided</span>
@@ -3824,55 +3872,7 @@ transcript: >-
   m='3687610'>these</span> <span m='3687740'>computations?</span> <span
   m='3692190'>All</span> <span m='3692370'>right,</span> <span
   m='3692690'>great.</span> </p>
-embedded_media:
-  - uid: 0829245a7a249111015fb54d775c2ed7
-    parent_uid: b09c96b115749aa10e37c1edf840eb0f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: DyuQsaqXhwU
-  - uid: d47e80265158c06437953ebf5f7c50a4
-    parent_uid: b09c96b115749aa10e37c1edf840eb0f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/DyuQsaqXhwU/default.jpg'
-  - uid: f61376941f6a80049e61194f34b28416
-    parent_uid: b09c96b115749aa10e37c1edf840eb0f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.05S14/MIT18_05S14_class12_300k.mp4'
-  - uid: d813c2146a1d049d944dc4e3c50148d9
-    parent_uid: b09c96b115749aa10e37c1edf840eb0f
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: DyuQsaqXhwU
-  - uid: 933cba3059def3d7fdda9f307a71c8c0
-    parent_uid: b09c96b115749aa10e37c1edf840eb0f
-    id: DyuQsaqXhwU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/instructor-insights/sample-class/DyuQsaqXhwU.srt
-  - uid: 4f0443556eed1ef14440d5d1b4a1b220
-    parent_uid: b09c96b115749aa10e37c1edf840eb0f
-    id: DyuQsaqXhwU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/instructor-insights/sample-class/DyuQsaqXhwU.pdf
-  - uid: 73fa4db53fefde506763c3a3361fedeb
-    parent_uid: b09c96b115749aa10e37c1edf840eb0f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2c0103c885c26e3188d504ac71abdb00
-    parent_uid: b09c96b115749aa10e37c1edf840eb0f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b09c96b115749aa10e37c1edf840eb0f
 type: courses
 layout: video
 ---

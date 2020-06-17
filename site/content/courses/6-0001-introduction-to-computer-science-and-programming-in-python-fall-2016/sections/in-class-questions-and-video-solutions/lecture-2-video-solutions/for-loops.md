@@ -1,16 +1,71 @@
 ---
-title: For Loops
-uid: fd2e2e45802d0a8d766a7ed5f77db5a3
-parent_uid: 01c07d8fbd4064402253a19dcc1754ea
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-2-video-solutions/for-loops
-short_url: for-loops
-inline_embed_id: 55742778forloops66366568
 about_this_resource_text: >-
   <p><strong>Description:</strong> This in-class question demonstrates For Loops
   and Break statements in Python.</p> <p><strong>Instructor:</strong> Dr. Ana
   Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: mrvBnZIEsZY
+    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: da0426a6eb5b65848eb60c6e89192a74
+  - id: mrvBnZIEsZY.srt
+    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-2-video-solutions/for-loops/mrvBnZIEsZY.srt
+    title: 3play caption file
+    type: null
+    uid: 86c7111d6b74fc876f3a70164581d0b2
+  - id: mrvBnZIEsZY.pdf
+    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-2-video-solutions/for-loops/mrvBnZIEsZY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 853fadcd3f0c611ef65d59226b737317
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e403ddbdca5f15e462aaac15d19011d2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 386fcf258ee38a6b63fc699120ababca
+  - id: Video-YouTube-Stream
+    media_location: mrvBnZIEsZY
+    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 66e8bec287cd2bcb6ddc8f798435838f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/mrvBnZIEsZY/default.jpg'
+    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ff54798973232dd6f1cd6eab608bdba7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 94f8c62bc98e941eba53e309c207703e
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_02_exercise_05_300k.mp4
+    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bd4ed980fd49a8b91b946dde9f6f11d4
+inline_embed_id: 55742778forloops66366568
+parent_uid: 01c07d8fbd4064402253a19dcc1754ea
 related_resources_text: ''
+short_url: for-loops
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-2-video-solutions/for-loops
+title: For Loops
 transcript: >-
   <p><span m='790'>The</span> <span m='880'>following</span> <span
   m='1300'>content</span> <span m='1870'>is</span> <span
@@ -121,62 +176,7 @@ transcript: >-
   <span m='112200'>through</span> <span m='112380'>it</span> <span
   m='112470'>step</span> <span m='112710'>by</span> <span
   m='112860'>step.</span> </p>
-embedded_media:
-  - uid: da0426a6eb5b65848eb60c6e89192a74
-    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: mrvBnZIEsZY
-  - uid: 86c7111d6b74fc876f3a70164581d0b2
-    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
-    id: mrvBnZIEsZY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-2-video-solutions/for-loops/mrvBnZIEsZY.srt
-  - uid: 853fadcd3f0c611ef65d59226b737317
-    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
-    id: mrvBnZIEsZY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-2-video-solutions/for-loops/mrvBnZIEsZY.pdf
-  - uid: e403ddbdca5f15e462aaac15d19011d2
-    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 386fcf258ee38a6b63fc699120ababca
-    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 66e8bec287cd2bcb6ddc8f798435838f
-    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: mrvBnZIEsZY
-  - uid: ff54798973232dd6f1cd6eab608bdba7
-    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/mrvBnZIEsZY/default.jpg'
-  - uid: 94f8c62bc98e941eba53e309c207703e
-    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: bd4ed980fd49a8b91b946dde9f6f11d4
-    parent_uid: fd2e2e45802d0a8d766a7ed5f77db5a3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_02_exercise_05_300k.mp4
+uid: fd2e2e45802d0a8d766a7ed5f77db5a3
 type: courses
 layout: video
 ---

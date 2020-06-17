@@ -1,11 +1,4 @@
 ---
-title: 'Day 3 Trailer: Subdivision Pitch'
-uid: 3c665d01b6089199a462cc2b1510e997
-parent_uid: 265dbc3150c1a4e14686f6c614415b05
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/day-3-trailer-subdivision-pitch
-short_url: day-3-trailer-subdivision-pitch
-inline_embed_id: '7697518day3trailer:subdivisionpitch39952142'
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   Commons BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: rcRAb0-vc60
+    parent_uid: 3c665d01b6089199a462cc2b1510e997
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fa9089a9f2febdc21fc1afaee7fb307f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/rcRAb0-vc60/default.jpg'
+    parent_uid: 3c665d01b6089199a462cc2b1510e997
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f5c4c629a06c4a859941b56a2dcb799b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: rcRAb0-vc60
+    parent_uid: 3c665d01b6089199a462cc2b1510e997
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 583535484ff68ef7fb2f2e65fcf81e75
+  - id: rcRAb0-vc60.srt
+    parent_uid: 3c665d01b6089199a462cc2b1510e997
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/day-3-trailer-subdivision-pitch/rcRAb0-vc60.srt
+    title: 3play caption file
+    type: null
+    uid: 084e2387c7694b16fbbc46fbffac607f
+  - id: rcRAb0-vc60.pdf
+    parent_uid: 3c665d01b6089199a462cc2b1510e997
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/day-3-trailer-subdivision-pitch/rcRAb0-vc60.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6b070fc9e73d9123202e6bd13d7ded5e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3c665d01b6089199a462cc2b1510e997
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8730bdd1427c0dd7440e0c03930f3059
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3c665d01b6089199a462cc2b1510e997
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 96bb58150682e5a78c3ef1d45bb7b1ee
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 3c665d01b6089199a462cc2b1510e997
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c5fa7c933a94b469e1f6980dac9ad0be
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_PJ_D03_Pitch_360p.mp4
+    parent_uid: 3c665d01b6089199a462cc2b1510e997
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2e33ccc981a0366afd205116b2fef800
+inline_embed_id: '7697518day3trailer:subdivisionpitch39952142'
+parent_uid: 265dbc3150c1a4e14686f6c614415b05
 related_resources_text: ''
+short_url: day-3-trailer-subdivision-pitch
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/day-3-trailer-subdivision-pitch
+title: 'Day 3 Trailer: Subdivision Pitch'
 transcript: >-
   <p><span m="490">PROFESSOR: Let us</span> <span m="800">assume</span> <span
   m="1150">for</span> <span m="1250">a</span> <span m="1310">second</span> <span
@@ -140,62 +195,7 @@ transcript: >-
   <span m="105680">you</span> <span m="105760">do</span> <span
   m="105950">that</span> <span m="107740">is</span> <span
   m="107950">through</span> <span m="108160">subdivision.</span></p>
-embedded_media:
-  - uid: fa9089a9f2febdc21fc1afaee7fb307f
-    parent_uid: 3c665d01b6089199a462cc2b1510e997
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: rcRAb0-vc60
-  - uid: f5c4c629a06c4a859941b56a2dcb799b
-    parent_uid: 3c665d01b6089199a462cc2b1510e997
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rcRAb0-vc60/default.jpg'
-  - uid: 583535484ff68ef7fb2f2e65fcf81e75
-    parent_uid: 3c665d01b6089199a462cc2b1510e997
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: rcRAb0-vc60
-  - uid: 084e2387c7694b16fbbc46fbffac607f
-    parent_uid: 3c665d01b6089199a462cc2b1510e997
-    id: rcRAb0-vc60.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/day-3-trailer-subdivision-pitch/rcRAb0-vc60.srt
-  - uid: 6b070fc9e73d9123202e6bd13d7ded5e
-    parent_uid: 3c665d01b6089199a462cc2b1510e997
-    id: rcRAb0-vc60.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/day-3-trailer-subdivision-pitch/rcRAb0-vc60.pdf
-  - uid: 8730bdd1427c0dd7440e0c03930f3059
-    parent_uid: 3c665d01b6089199a462cc2b1510e997
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 96bb58150682e5a78c3ef1d45bb7b1ee
-    parent_uid: 3c665d01b6089199a462cc2b1510e997
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c5fa7c933a94b469e1f6980dac9ad0be
-    parent_uid: 3c665d01b6089199a462cc2b1510e997
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 2e33ccc981a0366afd205116b2fef800
-    parent_uid: 3c665d01b6089199a462cc2b1510e997
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_PJ_D03_Pitch_360p.mp4
+uid: 3c665d01b6089199a462cc2b1510e997
 type: courses
 layout: video
 ---

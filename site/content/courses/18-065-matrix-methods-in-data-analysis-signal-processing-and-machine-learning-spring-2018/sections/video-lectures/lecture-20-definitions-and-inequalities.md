@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 20: Definitions and Inequalities'
-uid: dc7f7372dc175f5ac98e2c85b0d4280b
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-20-definitions-and-inequalities
-short_url: lecture-20-definitions-and-inequalities
-inline_embed_id: 9075126lecture20definitionsandinequalities21993651
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>This lecture continues the focus on
   probability, which is critical for working with large sets of data. Topics
@@ -18,7 +11,62 @@ about_this_resource_text: >-
   \(x\)'s \(\geq\) 0)<br /> Chebyshev's inequality Prob[|\(x\) - mean| \(\geq\)
   \(a\)] \(\leq\) variance\(/a^2\)</p> <p>Related sections in textbook: V.1,
   V.3</p> <p><strong>Instructor:</strong> Prof. Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: nrDkb2MAwSA
+    parent_uid: dc7f7372dc175f5ac98e2c85b0d4280b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 30f9e1c2dc58cb5a2a6824177605d80f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/nrDkb2MAwSA/default.jpg'
+    parent_uid: dc7f7372dc175f5ac98e2c85b0d4280b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 376ae66965fa4cb6c290e2d345d52b79
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: nrDkb2MAwSA
+    parent_uid: dc7f7372dc175f5ac98e2c85b0d4280b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fc29369b6b3b2888591b40986d26d11c
+  - id: nrDkb2MAwSA.srt
+    parent_uid: dc7f7372dc175f5ac98e2c85b0d4280b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-20-definitions-and-inequalities/nrDkb2MAwSA.srt
+    title: 3play caption file
+    type: null
+    uid: 40b445dd701f5d6e15af713f7a729c1d
+  - id: nrDkb2MAwSA.pdf
+    parent_uid: dc7f7372dc175f5ac98e2c85b0d4280b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-20-definitions-and-inequalities/nrDkb2MAwSA.pdf
+    title: 3play pdf file
+    type: null
+    uid: e241472e4bb39dd6c40e2730ebc3f1fd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: dc7f7372dc175f5ac98e2c85b0d4280b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2d6bc3d311f575cad1e34addf1374578
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: dc7f7372dc175f5ac98e2c85b0d4280b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 43de346474f0a4dfe1f63102500038f2
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture20_300k.mp4'
+    parent_uid: dc7f7372dc175f5ac98e2c85b0d4280b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ffbba90ee1de5d0459077a73624355a4
+inline_embed_id: 9075126lecture20definitionsandinequalities21993651
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-20-definitions-and-inequalities
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-20-definitions-and-inequalities
+title: 'Lecture 20: Definitions and Inequalities'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2607,55 +2655,7 @@ transcript: >-
   <span m="3297600">week</span> <span m="3297930">from</span> <span
   m="3298320">Monday.</span> <span m="3298620">Good.</span> <span
   m="3298920">Thanks.</span></p>
-embedded_media:
-  - uid: 30f9e1c2dc58cb5a2a6824177605d80f
-    parent_uid: dc7f7372dc175f5ac98e2c85b0d4280b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: nrDkb2MAwSA
-  - uid: 376ae66965fa4cb6c290e2d345d52b79
-    parent_uid: dc7f7372dc175f5ac98e2c85b0d4280b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/nrDkb2MAwSA/default.jpg'
-  - uid: fc29369b6b3b2888591b40986d26d11c
-    parent_uid: dc7f7372dc175f5ac98e2c85b0d4280b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: nrDkb2MAwSA
-  - uid: 40b445dd701f5d6e15af713f7a729c1d
-    parent_uid: dc7f7372dc175f5ac98e2c85b0d4280b
-    id: nrDkb2MAwSA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-20-definitions-and-inequalities/nrDkb2MAwSA.srt
-  - uid: e241472e4bb39dd6c40e2730ebc3f1fd
-    parent_uid: dc7f7372dc175f5ac98e2c85b0d4280b
-    id: nrDkb2MAwSA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-20-definitions-and-inequalities/nrDkb2MAwSA.pdf
-  - uid: 2d6bc3d311f575cad1e34addf1374578
-    parent_uid: dc7f7372dc175f5ac98e2c85b0d4280b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 43de346474f0a4dfe1f63102500038f2
-    parent_uid: dc7f7372dc175f5ac98e2c85b0d4280b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ffbba90ee1de5d0459077a73624355a4
-    parent_uid: dc7f7372dc175f5ac98e2c85b0d4280b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture20_300k.mp4'
+uid: dc7f7372dc175f5ac98e2c85b0d4280b
 type: courses
 layout: video
 ---

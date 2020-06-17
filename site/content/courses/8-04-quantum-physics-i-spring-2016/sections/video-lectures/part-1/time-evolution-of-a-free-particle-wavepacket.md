@@ -1,13 +1,73 @@
 ---
-title: Time evolution of a free particle wavepacket
-uid: 212179cff7d76c1d4c6391917bdd7537
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ipXNYnO7yRk
+    parent_uid: 212179cff7d76c1d4c6391917bdd7537
+    title: Video-YouTube-Stream
+    type: Video
+    uid: cd499b6af148b903f1cfcf151c2c6854
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/qFQTuTwG26U/default.jpg'
+    parent_uid: 212179cff7d76c1d4c6391917bdd7537
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6d84f06effa9b0e294810af9f23133d8
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ipXNYnO7yRk
+    parent_uid: 212179cff7d76c1d4c6391917bdd7537
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3a17ef89d5cf9971a76c1c9327207d21
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 212179cff7d76c1d4c6391917bdd7537
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4d2736a1a749dc6d927c57509128c6b9
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec07_s5_300k.mp4'
+    parent_uid: 212179cff7d76c1d4c6391917bdd7537
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2d348a965303b68db5767b3a8c29bae2
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/ipXNYnO7yRk/default.jpg'
+    parent_uid: 212179cff7d76c1d4c6391917bdd7537
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 38f61058e7e40477264f17f7f54d58a7
+  - id: ipXNYnO7yRk.srt
+    parent_uid: 212179cff7d76c1d4c6391917bdd7537
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/time-evolution-of-a-free-particle-wavepacket/ipXNYnO7yRk.srt
+    title: 3play caption file
+    type: null
+    uid: e9cc497453940b0c592af09312c7e404
+  - id: ipXNYnO7yRk.pdf
+    parent_uid: 212179cff7d76c1d4c6391917bdd7537
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/time-evolution-of-a-free-particle-wavepacket/ipXNYnO7yRk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 23194b5e6b91ebb9dad7d3b98c7bd9b7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 212179cff7d76c1d4c6391917bdd7537
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f1d3daed660e9f2ff6888770a00715ce
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 212179cff7d76c1d4c6391917bdd7537
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 36382da8f09ee4e30227fb169938e33d
+inline_embed_id: 35362227timeevolutionofafreeparticlewavepacket97000662
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: time-evolution-of-a-free-particle-wavepacket
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/time-evolution-of-a-free-particle-wavepacket
-short_url: time-evolution-of-a-free-particle-wavepacket
-inline_embed_id: 35362227timeevolutionofafreeparticlewavepacket97000662
-about_this_resource_text: ''
-related_resources_text: ''
+title: Time evolution of a free particle wavepacket
 transcript: >-
   <p><span m='490'>PROFESSOR:</span> <span m='685'>Time</span> <span
   m='880'>evolution</span> <span m='7020'>of</span> <span m='7740'>a</span>
@@ -411,67 +471,7 @@ transcript: >-
   m='581890'>what</span> <span m='582490'>we</span> <span
   m='582730'>typically</span> <span m='583330'>ask</span> <span m='583600'>you
   to</span> <span m='583700'>find.</span> </p>
-embedded_media:
-  - uid: cd499b6af148b903f1cfcf151c2c6854
-    parent_uid: 212179cff7d76c1d4c6391917bdd7537
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ipXNYnO7yRk
-  - uid: 6d84f06effa9b0e294810af9f23133d8
-    parent_uid: 212179cff7d76c1d4c6391917bdd7537
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/qFQTuTwG26U/default.jpg'
-  - uid: 3a17ef89d5cf9971a76c1c9327207d21
-    parent_uid: 212179cff7d76c1d4c6391917bdd7537
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ipXNYnO7yRk
-  - uid: 4d2736a1a749dc6d927c57509128c6b9
-    parent_uid: 212179cff7d76c1d4c6391917bdd7537
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 2d348a965303b68db5767b3a8c29bae2
-    parent_uid: 212179cff7d76c1d4c6391917bdd7537
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec07_s5_300k.mp4'
-  - uid: 38f61058e7e40477264f17f7f54d58a7
-    parent_uid: 212179cff7d76c1d4c6391917bdd7537
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ipXNYnO7yRk/default.jpg'
-  - uid: e9cc497453940b0c592af09312c7e404
-    parent_uid: 212179cff7d76c1d4c6391917bdd7537
-    id: ipXNYnO7yRk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/time-evolution-of-a-free-particle-wavepacket/ipXNYnO7yRk.srt
-  - uid: 23194b5e6b91ebb9dad7d3b98c7bd9b7
-    parent_uid: 212179cff7d76c1d4c6391917bdd7537
-    id: ipXNYnO7yRk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/time-evolution-of-a-free-particle-wavepacket/ipXNYnO7yRk.pdf
-  - uid: f1d3daed660e9f2ff6888770a00715ce
-    parent_uid: 212179cff7d76c1d4c6391917bdd7537
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 36382da8f09ee4e30227fb169938e33d
-    parent_uid: 212179cff7d76c1d4c6391917bdd7537
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 212179cff7d76c1d4c6391917bdd7537
 type: courses
 layout: video
 ---

@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 11: Sound Waves'
-uid: 33eb30d1686157fb66a2f1f59ed9f0af
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: RhIh1zw0-BM
+    parent_uid: 33eb30d1686157fb66a2f1f59ed9f0af
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c02635da154998d9ec4d593484fc3d1a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/RhIh1zw0-BM/default.jpg'
+    parent_uid: 33eb30d1686157fb66a2f1f59ed9f0af
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4b2b8d2c3c783b09f276ee4a370e5304
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: RhIh1zw0-BM
+    parent_uid: 33eb30d1686157fb66a2f1f59ed9f0af
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 021246bd3674dd7b6e49608507b45ea0
+  - id: RhIh1zw0-BM.srt
+    parent_uid: 33eb30d1686157fb66a2f1f59ed9f0af
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-11-video/RhIh1zw0-BM.srt
+    title: 3play caption file
+    type: null
+    uid: 7721c9dda65566e1d92ec26d5be6ffb6
+  - id: RhIh1zw0-BM.pdf
+    parent_uid: 33eb30d1686157fb66a2f1f59ed9f0af
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-11-video/RhIh1zw0-BM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2910ae500c59ab945b1e1637ac3a6365
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 33eb30d1686157fb66a2f1f59ed9f0af
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 87792fad3c62fdb4350efaa5996be101
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 33eb30d1686157fb66a2f1f59ed9f0af
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a6c57c5583ef10aac18add0f6425499a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec11_300k.mp4'
+    parent_uid: 33eb30d1686157fb66a2f1f59ed9f0af
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 91a333c32172fcccb933842adaaa11fd
+inline_embed_id: 13109049lecture11video41938169
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-11-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-11-video
-short_url: lecture-11-video
-inline_embed_id: 13109049lecture11video41938169
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 11: Sound Waves'
 transcript: >-
   <p><span m="2550">The</span> <span m="2640">following</span> <span
   m="3090">content</span> <span m="3600">is</span> <span
@@ -3634,55 +3682,7 @@ transcript: >-
   m="4393740">will</span> <span m="4393870">see</span> <span
   m="4394110">you</span> <span m="4394800">next</span> <span
   m="4395370">week.</span></p>
-embedded_media:
-  - uid: c02635da154998d9ec4d593484fc3d1a
-    parent_uid: 33eb30d1686157fb66a2f1f59ed9f0af
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: RhIh1zw0-BM
-  - uid: 4b2b8d2c3c783b09f276ee4a370e5304
-    parent_uid: 33eb30d1686157fb66a2f1f59ed9f0af
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/RhIh1zw0-BM/default.jpg'
-  - uid: 021246bd3674dd7b6e49608507b45ea0
-    parent_uid: 33eb30d1686157fb66a2f1f59ed9f0af
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: RhIh1zw0-BM
-  - uid: 7721c9dda65566e1d92ec26d5be6ffb6
-    parent_uid: 33eb30d1686157fb66a2f1f59ed9f0af
-    id: RhIh1zw0-BM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-11-video/RhIh1zw0-BM.srt
-  - uid: 2910ae500c59ab945b1e1637ac3a6365
-    parent_uid: 33eb30d1686157fb66a2f1f59ed9f0af
-    id: RhIh1zw0-BM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-11-video/RhIh1zw0-BM.pdf
-  - uid: 87792fad3c62fdb4350efaa5996be101
-    parent_uid: 33eb30d1686157fb66a2f1f59ed9f0af
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a6c57c5583ef10aac18add0f6425499a
-    parent_uid: 33eb30d1686157fb66a2f1f59ed9f0af
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 91a333c32172fcccb933842adaaa11fd
-    parent_uid: 33eb30d1686157fb66a2f1f59ed9f0af
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec11_300k.mp4'
+uid: 33eb30d1686157fb66a2f1f59ed9f0af
 type: courses
 layout: video
 ---

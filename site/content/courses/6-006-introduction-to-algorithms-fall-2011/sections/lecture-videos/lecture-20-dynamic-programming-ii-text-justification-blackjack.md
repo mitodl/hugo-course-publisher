@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 20: Dynamic Programming II: Text Justification, Blackjack'
-uid: b22b9a62f6fb04772c198d96c0ececbc
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-20-dynamic-programming-ii-text-justification-blackjack
-short_url: lecture-20-dynamic-programming-ii-text-justification-blackjack
-inline_embed_id: '7148627lecture20:dynamicprogrammingii:textjustification,blackjack88428205'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture starts with a five-step process
   for dynamic programming, and then covers text justification and
   perfect-information blackjack. The lecture also describes how parent pointers
   are used to recover the solution.</p> <p><strong>Instructor:</strong> Erik
   Demaine</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ENyox7kNKeY
+    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7ac29ab38e7046ab7c6db9f71a464445
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ENyox7kNKeY/default.jpg'
+    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6023d1eed8f39917ff1d49d1ac3fba85
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-20-dynamic-programming/id585700718?i=126127769
+    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: eca98d0a53c0c2b6579e7ec35e3cad1d
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec20_300k.mp4'
+    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 550477f0a5352cbf3f0c573d805cb4b9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ENyox7kNKeY
+    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 98d8c2795bfad80c8af2e40c51090130
+  - id: ENyox7kNKeY.srt
+    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-20-dynamic-programming-ii-text-justification-blackjack/ENyox7kNKeY.srt
+    title: 3play caption file
+    type: null
+    uid: b78d067ba45ff0159a86ba2f25ca7de1
+  - id: ENyox7kNKeY.pdf
+    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-20-dynamic-programming-ii-text-justification-blackjack/ENyox7kNKeY.pdf
+    title: 3play pdf file
+    type: null
+    uid: a63a462733c5e3dd39f94de57d442b5c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 448ca63c2ceec8e65a38f0082e202734
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6f9f65ea2250cd4ad816a8af9481edd3
+inline_embed_id: '7148627lecture20:dynamicprogrammingii:textjustification,blackjack88428205'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-20-dynamic-programming-ii-text-justification-blackjack
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-20-dynamic-programming-ii-text-justification-blackjack
+title: 'Lecture 20: Dynamic Programming II: Text Justification, Blackjack'
 transcript: >-
   <p><span m='50'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -3693,62 +3748,7 @@ transcript: >-
   m='3129110'>in</span> <span m='3129430'>the</span> <span
   m='3129540'>next</span> <span m='3129760'>two</span> <span
   m='3129880'>lectures.</span> </p>
-embedded_media:
-  - uid: 7ac29ab38e7046ab7c6db9f71a464445
-    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ENyox7kNKeY
-  - uid: 6023d1eed8f39917ff1d49d1ac3fba85
-    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ENyox7kNKeY/default.jpg'
-  - uid: eca98d0a53c0c2b6579e7ec35e3cad1d
-    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-20-dynamic-programming/id585700718?i=126127769
-  - uid: 550477f0a5352cbf3f0c573d805cb4b9
-    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec20_300k.mp4'
-  - uid: 98d8c2795bfad80c8af2e40c51090130
-    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ENyox7kNKeY
-  - uid: b78d067ba45ff0159a86ba2f25ca7de1
-    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
-    id: ENyox7kNKeY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-20-dynamic-programming-ii-text-justification-blackjack/ENyox7kNKeY.srt
-  - uid: a63a462733c5e3dd39f94de57d442b5c
-    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
-    id: ENyox7kNKeY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-20-dynamic-programming-ii-text-justification-blackjack/ENyox7kNKeY.pdf
-  - uid: 448ca63c2ceec8e65a38f0082e202734
-    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6f9f65ea2250cd4ad816a8af9481edd3
-    parent_uid: b22b9a62f6fb04772c198d96c0ececbc
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b22b9a62f6fb04772c198d96c0ececbc
 type: courses
 layout: video
 ---

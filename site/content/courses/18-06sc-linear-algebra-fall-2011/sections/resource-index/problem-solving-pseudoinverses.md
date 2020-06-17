@@ -1,13 +1,68 @@
 ---
-title: 'Problem Solving: Pseudoinverses'
-uid: 067a5749da32b40dea0e7407dca864b0
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: hSRcHTafkjE
+    parent_uid: 067a5749da32b40dea0e7407dca864b0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 791ec06baa0b55bdc80ce3d26462935f
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: hSRcHTafkjE
+    parent_uid: 067a5749da32b40dea0e7407dca864b0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6fe364359d9dbe1e0745bb63250df94b
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/itunes-u/pseudoinverses/id488155309?i=108454307'
+    parent_uid: 067a5749da32b40dea0e7407dca864b0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 29a56375329ea858243ccc407dfdf84d
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_D1_300k.mp4
+    parent_uid: 067a5749da32b40dea0e7407dca864b0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e75f7155a23842d420d0df278771c5b5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/hSRcHTafkjE/default.jpg'
+    parent_uid: 067a5749da32b40dea0e7407dca864b0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a8374412e194b5c576f80607d649b1fd
+  - id: hSRcHTafkjE.srt
+    parent_uid: 067a5749da32b40dea0e7407dca864b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-pseudoinverses/hSRcHTafkjE.srt
+    title: 3play caption file
+    type: null
+    uid: 5a1bb1b337989ef31e3c11f632f5a2a4
+  - id: hSRcHTafkjE.pdf
+    parent_uid: 067a5749da32b40dea0e7407dca864b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-pseudoinverses/hSRcHTafkjE.pdf
+    title: 3play pdf file
+    type: null
+    uid: f73f557e9c2d8095d837ad3649a4b561
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 067a5749da32b40dea0e7407dca864b0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0d88c106cb265ec2fe3fd1c4f8e78fc2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 067a5749da32b40dea0e7407dca864b0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 780e59b6bdd2c98a3c7365c4bf09c69a
+inline_embed_id: 18829104problemsolvingpseudoinverses96762745
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: problem-solving-pseudoinverses
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-pseudoinverses
-short_url: problem-solving-pseudoinverses
-inline_embed_id: 18829104problemsolvingpseudoinverses96762745
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Pseudoinverses'
 transcript: >-
   <p><span m='7290'>DAVID SHIROKOFF: Hi</span> <span m='7780'>everyone.</span>
   <span m='8430'>Welcome</span> <span m='8740'>back.</span> </p><p><span
@@ -720,62 +775,7 @@ transcript: >-
   m='875450'>here,</span> <span m='876120'>and</span> <span
   m='876750'>I'll</span> <span m='877010'>see</span> <span m='877170'>you</span>
   <span m='877260'>next</span> <span m='877490'>time.</span> </p>
-embedded_media:
-  - uid: 791ec06baa0b55bdc80ce3d26462935f
-    parent_uid: 067a5749da32b40dea0e7407dca864b0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: hSRcHTafkjE
-  - uid: 6fe364359d9dbe1e0745bb63250df94b
-    parent_uid: 067a5749da32b40dea0e7407dca864b0
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: hSRcHTafkjE
-  - uid: 29a56375329ea858243ccc407dfdf84d
-    parent_uid: 067a5749da32b40dea0e7407dca864b0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/itunes-u/pseudoinverses/id488155309?i=108454307'
-  - uid: e75f7155a23842d420d0df278771c5b5
-    parent_uid: 067a5749da32b40dea0e7407dca864b0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_D1_300k.mp4
-  - uid: a8374412e194b5c576f80607d649b1fd
-    parent_uid: 067a5749da32b40dea0e7407dca864b0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/hSRcHTafkjE/default.jpg'
-  - uid: 5a1bb1b337989ef31e3c11f632f5a2a4
-    parent_uid: 067a5749da32b40dea0e7407dca864b0
-    id: hSRcHTafkjE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-pseudoinverses/hSRcHTafkjE.srt
-  - uid: f73f557e9c2d8095d837ad3649a4b561
-    parent_uid: 067a5749da32b40dea0e7407dca864b0
-    id: hSRcHTafkjE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-pseudoinverses/hSRcHTafkjE.pdf
-  - uid: 0d88c106cb265ec2fe3fd1c4f8e78fc2
-    parent_uid: 067a5749da32b40dea0e7407dca864b0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 780e59b6bdd2c98a3c7365c4bf09c69a
-    parent_uid: 067a5749da32b40dea0e7407dca864b0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 067a5749da32b40dea0e7407dca864b0
 type: courses
 layout: video
 ---

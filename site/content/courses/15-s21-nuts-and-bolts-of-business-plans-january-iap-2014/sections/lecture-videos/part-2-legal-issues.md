@@ -1,13 +1,67 @@
 ---
-title: 'Session 4, Part 2: Legal Issues'
-uid: 1280c6688db5f307eac45b146fee9897
+about_this_resource_text: '<p><strong>Speaker:</strong> Joe Hadzima</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: sfYD3LX-Rgw
+    parent_uid: 1280c6688db5f307eac45b146fee9897
+    title: Video-YouTube-Stream
+    type: Video
+    uid: beb086d6582e4dd9659cdfffb95ec8e7
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/sfYD3LX-Rgw/default.jpg'
+    parent_uid: 1280c6688db5f307eac45b146fee9897
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b934f87f78f5a511277414dc207b6e18
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: sfYD3LX-Rgw
+    parent_uid: 1280c6688db5f307eac45b146fee9897
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f9f8c514f434fe40a64f045f00a4bbc0
+  - id: sfYD3LX-Rgw.srt
+    parent_uid: 1280c6688db5f307eac45b146fee9897
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-legal-issues/sfYD3LX-Rgw.srt
+    title: 3play caption file
+    type: null
+    uid: 3cb36f0aca6f111bdcf7eea4ad7bf895
+  - id: sfYD3LX-Rgw.pdf
+    parent_uid: 1280c6688db5f307eac45b146fee9897
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-legal-issues/sfYD3LX-Rgw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 80ce5ee3337a6264b7edef66edd4ed2a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1280c6688db5f307eac45b146fee9897
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ff4abe1da7d3c5f581b501472be5215f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1280c6688db5f307eac45b146fee9897
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: cd8affb61c566087b4b37e0acb673b1c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1122123562'
+    parent_uid: 1280c6688db5f307eac45b146fee9897
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c6cce1c88df63d342dc206ab104c2ac4
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT15.S21IAP14/MIT15_S21IAP14_S4P2_300k.mp4'
+    parent_uid: 1280c6688db5f307eac45b146fee9897
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e935436ba1442c88df02dede6f468499
+inline_embed_id: '6070819part2:legalissues51804030'
 parent_uid: 7425dbab24bd40b9d0c0c704cab7eab2
+related_resources_text: ''
+short_url: part-2-legal-issues
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-legal-issues
-short_url: part-2-legal-issues
-inline_embed_id: '6070819part2:legalissues51804030'
-about_this_resource_text: '<p><strong>Speaker:</strong> Joe Hadzima</p>'
-related_resources_text: ''
+title: 'Session 4, Part 2: Legal Issues'
 transcript: >-
   <p><span m='90'>The</span> <span m='170'>following</span> <span
   m='610'>content</span> <span m='1120'>is</span> <span m='1230'>provided</span>
@@ -5415,61 +5469,7 @@ transcript: >-
   m='4360240'>legal</span> <span m='4360600'>course.</span> <span
   m='4360900'>So</span> <span m='4361200'>hopefully you'll</span> <span
   m='4361500'>find</span> <span m='4361800'>that.</span> </p>
-embedded_media:
-  - uid: beb086d6582e4dd9659cdfffb95ec8e7
-    parent_uid: 1280c6688db5f307eac45b146fee9897
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: sfYD3LX-Rgw
-  - uid: b934f87f78f5a511277414dc207b6e18
-    parent_uid: 1280c6688db5f307eac45b146fee9897
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/sfYD3LX-Rgw/default.jpg'
-  - uid: f9f8c514f434fe40a64f045f00a4bbc0
-    parent_uid: 1280c6688db5f307eac45b146fee9897
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: sfYD3LX-Rgw
-  - uid: 3cb36f0aca6f111bdcf7eea4ad7bf895
-    parent_uid: 1280c6688db5f307eac45b146fee9897
-    id: sfYD3LX-Rgw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-legal-issues/sfYD3LX-Rgw.srt
-  - uid: 80ce5ee3337a6264b7edef66edd4ed2a
-    parent_uid: 1280c6688db5f307eac45b146fee9897
-    id: sfYD3LX-Rgw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-legal-issues/sfYD3LX-Rgw.pdf
-  - uid: ff4abe1da7d3c5f581b501472be5215f
-    parent_uid: 1280c6688db5f307eac45b146fee9897
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: cd8affb61c566087b4b37e0acb673b1c
-    parent_uid: 1280c6688db5f307eac45b146fee9897
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c6cce1c88df63d342dc206ab104c2ac4
-    parent_uid: 1280c6688db5f307eac45b146fee9897
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1122123562'
-  - uid: e935436ba1442c88df02dede6f468499
-    parent_uid: 1280c6688db5f307eac45b146fee9897
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT15.S21IAP14/MIT15_S21IAP14_S4P2_300k.mp4'
+uid: 1280c6688db5f307eac45b146fee9897
 type: courses
 layout: video
 ---

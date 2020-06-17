@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 16: Projection Matrices and Least Squares'
-uid: fda8b54acc7c4cc7d39e5eac76aec9eb
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: osh80YCg_GM
+    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 42c245e07622a63d7860017d87693d23
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/osh80YCg_GM/default.jpg'
+    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 532649f947c39dccb852950a9b756129
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e2e5031f41c7c966a30cb06f87586ff7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/16.mp4'
+    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6ca83f604799294ec202821c1c404ce2
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: osh80YCg_GM
+    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 41363d67fc38a1e1e249604178712830
+  - id: osh80YCg_GM.srt
+    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-16-projection-matrices-and-least-squares/osh80YCg_GM.srt
+    title: 3play caption file
+    type: null
+    uid: 1d438585adf611a600a9364f4c332738
+  - id: osh80YCg_GM.pdf
+    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-16-projection-matrices-and-least-squares/osh80YCg_GM.pdf
+    title: 3play pdf file
+    type: null
+    uid: ea9714a92a64d7937b3cccacb931ca63
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6066e0263c103ea4aef9739cbb42427a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 930333cb853548117ccc3151a2319678
+inline_embed_id: 5403135lecture16projectionmatricesandleastsquares75666337
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: lecture-16-projection-matrices-and-least-squares
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-16-projection-matrices-and-least-squares
-short_url: lecture-16-projection-matrices-and-least-squares
-inline_embed_id: 5403135lecture16projectionmatricesandleastsquares75666337
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 16: Projection Matrices and Least Squares'
 transcript: >-
   <p><span m="7460">OK.</span> <span m="9910">Here's</span> <span
   m="10550">lecture</span> <span m="11220">sixteen</span> <span
@@ -2609,61 +2663,7 @@ transcript: >-
   m="2867340">right</span> <span m="2867620">basis.</span> <span
   m="2869530">OK,</span> <span m="2869750">see</span> <span
   m="2870130">you.</span></p><p><span m="2877070">Thanks.</span></p>
-embedded_media:
-  - uid: 42c245e07622a63d7860017d87693d23
-    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: osh80YCg_GM
-  - uid: 532649f947c39dccb852950a9b756129
-    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/osh80YCg_GM/default.jpg'
-  - uid: e2e5031f41c7c966a30cb06f87586ff7
-    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 6ca83f604799294ec202821c1c404ce2
-    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/16.mp4'
-  - uid: 41363d67fc38a1e1e249604178712830
-    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: osh80YCg_GM
-  - uid: 1d438585adf611a600a9364f4c332738
-    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
-    id: osh80YCg_GM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-16-projection-matrices-and-least-squares/osh80YCg_GM.srt
-  - uid: ea9714a92a64d7937b3cccacb931ca63
-    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
-    id: osh80YCg_GM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-16-projection-matrices-and-least-squares/osh80YCg_GM.pdf
-  - uid: 6066e0263c103ea4aef9739cbb42427a
-    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 930333cb853548117ccc3151a2319678
-    parent_uid: fda8b54acc7c4cc7d39e5eac76aec9eb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: fda8b54acc7c4cc7d39e5eac76aec9eb
 type: courses
 layout: video
 ---

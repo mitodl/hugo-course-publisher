@@ -1,13 +1,68 @@
 ---
-title: Hyperbolic Trig Substitution
-uid: cf89f2eb5b8a6c7626ccd07755f63b16
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Nv3C7q88MqA
+    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b46d465b29bff19bb8685d39a2d78830
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Nv3C7q88MqA/default.jpg'
+    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 965478a78377d5653721a4b844bc2949
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Nv3C7q88MqA
+    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 345ad5b359fc1404b46c15b40cfbde82
+  - id: Nv3C7q88MqA.srt
+    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-72-trig-substitution/hyperbolic-trig-substitution/Nv3C7q88MqA.srt
+    title: 3play caption file
+    type: null
+    uid: 4016b7ee52d788875bd821aa14ff7c77
+  - id: Nv3C7q88MqA.pdf
+    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-72-trig-substitution/hyperbolic-trig-substitution/Nv3C7q88MqA.pdf
+    title: 3play pdf file
+    type: null
+    uid: e48836bbd9b9e752abf7696e3653d016
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 797038b6231a2a4ea8e83aa7e7dd4b53
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 13a2c7e14b402a3fb76906c32a17f117
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_53_300k.mp4'
+    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 523af7e4d0b73367f10d87c8af4deb88
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/hyperbolic-trig-sub/id414308064?i=90319639
+    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 95f4e1eecb7e2fc77a060fb5b6bf53ed
+inline_embed_id: 67634226hyperbolictrigsubstitution3076624
 parent_uid: 9894378ce8db90173778fc7a13cad022
+related_resources_text: ''
+short_url: hyperbolic-trig-substitution
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-72-trig-substitution/hyperbolic-trig-substitution
-short_url: hyperbolic-trig-substitution
-inline_embed_id: 67634226hyperbolictrigsubstitution3076624
-about_this_resource_text: ''
-related_resources_text: ''
+title: Hyperbolic Trig Substitution
 transcript: >-
   <p><span m='7090'>Hi.</span> <span m='7540'>Welcome</span> <span
   m='7910'>back</span> <span m='8120'>to</span> <span
@@ -1017,62 +1072,7 @@ transcript: >-
   m='983670'>for</span> <span m='983810'>your</span> <span
   m='983930'>toolbox.</span> <span m='985380'>I'll end</span> <span
   m='985690'>with</span> <span m='985830'>that.</span> </p>
-embedded_media:
-  - uid: b46d465b29bff19bb8685d39a2d78830
-    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Nv3C7q88MqA
-  - uid: 965478a78377d5653721a4b844bc2949
-    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Nv3C7q88MqA/default.jpg'
-  - uid: 345ad5b359fc1404b46c15b40cfbde82
-    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Nv3C7q88MqA
-  - uid: 4016b7ee52d788875bd821aa14ff7c77
-    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
-    id: Nv3C7q88MqA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-72-trig-substitution/hyperbolic-trig-substitution/Nv3C7q88MqA.srt
-  - uid: e48836bbd9b9e752abf7696e3653d016
-    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
-    id: Nv3C7q88MqA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-72-trig-substitution/hyperbolic-trig-substitution/Nv3C7q88MqA.pdf
-  - uid: 797038b6231a2a4ea8e83aa7e7dd4b53
-    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 13a2c7e14b402a3fb76906c32a17f117
-    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 523af7e4d0b73367f10d87c8af4deb88
-    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_53_300k.mp4'
-  - uid: 95f4e1eecb7e2fc77a060fb5b6bf53ed
-    parent_uid: cf89f2eb5b8a6c7626ccd07755f63b16
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/hyperbolic-trig-sub/id414308064?i=90319639
+uid: cf89f2eb5b8a6c7626ccd07755f63b16
 type: courses
 layout: video
 ---

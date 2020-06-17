@@ -1,13 +1,62 @@
 ---
-title: 'Video 6: A Greedy Approach'
-uid: 5e81f6b0d5e192dc02ad402842933989
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0fWDzzMSk8I
+    parent_uid: 5e81f6b0d5e192dc02ad402842933989
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 919593cb803cc07c379a11cbfbfeebc4
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 0fWDzzMSk8I
+    parent_uid: 5e81f6b0d5e192dc02ad402842933989
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7cfe832bb5558fbdfd80fbdd062d468d
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/0fWDzzMSk8I/default.jpg'
+    parent_uid: 5e81f6b0d5e192dc02ad402842933989
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f25ebc5946dd3975bc648de37e86b6d9
+  - id: 0fWDzzMSk8I.srt
+    parent_uid: 5e81f6b0d5e192dc02ad402842933989
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-6-a-greedy-approach/video-6-a-greedy-approach-0/0fWDzzMSk8I.srt
+    title: 3play caption file
+    type: null
+    uid: 0ad6dbb4b1cd2672ea6ffc33aa2504a5
+  - id: 0fWDzzMSk8I.pdf
+    parent_uid: 5e81f6b0d5e192dc02ad402842933989
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-6-a-greedy-approach/video-6-a-greedy-approach-0/0fWDzzMSk8I.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5860645efd19e07395d708f143ddf537
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5e81f6b0d5e192dc02ad402842933989
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5f8abebf80ff069e134f8671b6a28e54
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5e81f6b0d5e192dc02ad402842933989
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 516e47722b8bcad42c87769dcd30cc73
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.07_300k.mp4
+    parent_uid: 5e81f6b0d5e192dc02ad402842933989
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3cfec6ce1b21dbdddc3a899a1195b9bd
+inline_embed_id: 59575484video6agreedyapproach21449513
 parent_uid: ba7cbf9c8693f7f073ab2fc26c0c9b2d
+related_resources_text: ''
+short_url: video-6-a-greedy-approach-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-6-a-greedy-approach/video-6-a-greedy-approach-0
-short_url: video-6-a-greedy-approach-0
-inline_embed_id: 59575484video6agreedyapproach21449513
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 6: A Greedy Approach'
 transcript: >-
   <p><span m='4590'>In</span> <span m='4936'>the</span> <span
   m='5282'>previous</span> <span m='5628'>video,</span> <span m='5975'>we</span>
@@ -811,56 +860,7 @@ transcript: >-
   m='655400'>that</span> <span m='655755'>goes</span> <span
   m='656110'>along</span> <span m='656465'>with</span> <span
   m='656820'>that</span> <span m='657175'>model.</span> </p>
-embedded_media:
-  - uid: 919593cb803cc07c379a11cbfbfeebc4
-    parent_uid: 5e81f6b0d5e192dc02ad402842933989
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0fWDzzMSk8I
-  - uid: 7cfe832bb5558fbdfd80fbdd062d468d
-    parent_uid: 5e81f6b0d5e192dc02ad402842933989
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0fWDzzMSk8I
-  - uid: f25ebc5946dd3975bc648de37e86b6d9
-    parent_uid: 5e81f6b0d5e192dc02ad402842933989
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0fWDzzMSk8I/default.jpg'
-  - uid: 0ad6dbb4b1cd2672ea6ffc33aa2504a5
-    parent_uid: 5e81f6b0d5e192dc02ad402842933989
-    id: 0fWDzzMSk8I.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-6-a-greedy-approach/video-6-a-greedy-approach-0/0fWDzzMSk8I.srt
-  - uid: 5860645efd19e07395d708f143ddf537
-    parent_uid: 5e81f6b0d5e192dc02ad402842933989
-    id: 0fWDzzMSk8I.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-6-a-greedy-approach/video-6-a-greedy-approach-0/0fWDzzMSk8I.pdf
-  - uid: 5f8abebf80ff069e134f8671b6a28e54
-    parent_uid: 5e81f6b0d5e192dc02ad402842933989
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 516e47722b8bcad42c87769dcd30cc73
-    parent_uid: 5e81f6b0d5e192dc02ad402842933989
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3cfec6ce1b21dbdddc3a899a1195b9bd
-    parent_uid: 5e81f6b0d5e192dc02ad402842933989
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.07_300k.mp4
+uid: 5e81f6b0d5e192dc02ad402842933989
 type: courses
 layout: video
 ---

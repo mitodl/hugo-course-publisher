@@ -1,13 +1,67 @@
 ---
-title: 'Clip 2: Stacking Blocks'
-uid: cd90333e940b91d5301c9d4ddf85453b
+about_this_resource_text: "<p>&raquo; <a title=\"Open in a new window.\" target=\"_blank\" href=\"./resolveuid/2f7f68a91f8718c6c213641b6cae94b3\">Accompanying Notes (PDF)</a></p>\r\n<p class=\"scholar_medsm\">From Lecture 38 of <a href=\"http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/\"><em>18.01 Single Variable Calculus, Fall 2006</em></a></p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: wOHrNt9ScYs
+    parent_uid: cd90333e940b91d5301c9d4ddf85453b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1019209c2bbce646659db540a9c6c18b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/wOHrNt9ScYs/default.jpg'
+    parent_uid: cd90333e940b91d5301c9d4ddf85453b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 784c5a0a1e407b61d9143bfa85606ad4
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec38_300k.mp4'
+    parent_uid: cd90333e940b91d5301c9d4ddf85453b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a429fa4cf113a27e253d0049ca1bffe2
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: wOHrNt9ScYs
+    parent_uid: cd90333e940b91d5301c9d4ddf85453b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bcff9ed489c55914fb112fc76e04ddc0
+  - id: wOHrNt9ScYs.srt
+    parent_uid: cd90333e940b91d5301c9d4ddf85453b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-96-stacking-blocks/clip-2-stacking-blocks/wOHrNt9ScYs.srt
+    title: 3play caption file
+    type: null
+    uid: af4d345f2cd4742b23fde9cc47c2881b
+  - id: wOHrNt9ScYs.pdf
+    parent_uid: cd90333e940b91d5301c9d4ddf85453b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-96-stacking-blocks/clip-2-stacking-blocks/wOHrNt9ScYs.pdf
+    title: 3play pdf file
+    type: null
+    uid: eb5bbb88548acbf62e08e8a5b5e8ea2f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cd90333e940b91d5301c9d4ddf85453b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3dd4088a728e6136098a9c3684f2b01c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cd90333e940b91d5301c9d4ddf85453b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4738a7833fe854cb1a91b903297df7f1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: cd90333e940b91d5301c9d4ddf85453b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 350f74cb09166306cf50d9cfb18c3daa
+inline_embed_id: '47816832clip2:stackingblocks62808666'
 parent_uid: 67af89504ffe36b570ec6996515b988c
+related_resources_text: ''
+short_url: clip-2-stacking-blocks
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-96-stacking-blocks/clip-2-stacking-blocks
-short_url: clip-2-stacking-blocks
-inline_embed_id: '47816832clip2:stackingblocks62808666'
-about_this_resource_text: "<p>&raquo; <a title=\"Open in a new window.\" target=\"_blank\" href=\"./resolveuid/2f7f68a91f8718c6c213641b6cae94b3\">Accompanying Notes (PDF)</a></p>\r\n<p class=\"scholar_medsm\">From Lecture 38 of <a href=\"http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/\"><em>18.01 Single Variable Calculus, Fall 2006</em></a></p>"
-related_resources_text: ''
+title: 'Clip 2: Stacking Blocks'
 transcript: >-
   <p><span m='0'>The following</span> <span m='1270'>content is</span> <span
   m='1420'>provided</span> <span m='1680'>under a</span> <span
@@ -2759,61 +2813,7 @@ transcript: >-
   m='2846860'>luck,</span> <span m='2847170'>everybody.</span> <span
   m='2847570'>I'll</span> <span m='2847820'>talk</span> <span m='2848050'>to
   you</span> <span m='2848690'>individually.</span> </p>
-embedded_media:
-  - uid: 1019209c2bbce646659db540a9c6c18b
-    parent_uid: cd90333e940b91d5301c9d4ddf85453b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: wOHrNt9ScYs
-  - uid: 784c5a0a1e407b61d9143bfa85606ad4
-    parent_uid: cd90333e940b91d5301c9d4ddf85453b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/wOHrNt9ScYs/default.jpg'
-  - uid: a429fa4cf113a27e253d0049ca1bffe2
-    parent_uid: cd90333e940b91d5301c9d4ddf85453b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec38_300k.mp4'
-  - uid: bcff9ed489c55914fb112fc76e04ddc0
-    parent_uid: cd90333e940b91d5301c9d4ddf85453b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: wOHrNt9ScYs
-  - uid: af4d345f2cd4742b23fde9cc47c2881b
-    parent_uid: cd90333e940b91d5301c9d4ddf85453b
-    id: wOHrNt9ScYs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-96-stacking-blocks/clip-2-stacking-blocks/wOHrNt9ScYs.srt
-  - uid: eb5bbb88548acbf62e08e8a5b5e8ea2f
-    parent_uid: cd90333e940b91d5301c9d4ddf85453b
-    id: wOHrNt9ScYs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-96-stacking-blocks/clip-2-stacking-blocks/wOHrNt9ScYs.pdf
-  - uid: 3dd4088a728e6136098a9c3684f2b01c
-    parent_uid: cd90333e940b91d5301c9d4ddf85453b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4738a7833fe854cb1a91b903297df7f1
-    parent_uid: cd90333e940b91d5301c9d4ddf85453b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 350f74cb09166306cf50d9cfb18c3daa
-    parent_uid: cd90333e940b91d5301c9d4ddf85453b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: cd90333e940b91d5301c9d4ddf85453b
 type: courses
 layout: video
 ---

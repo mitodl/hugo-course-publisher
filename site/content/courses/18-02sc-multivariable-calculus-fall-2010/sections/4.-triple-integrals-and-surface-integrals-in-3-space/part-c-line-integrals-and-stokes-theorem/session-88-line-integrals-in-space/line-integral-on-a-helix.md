@@ -1,13 +1,68 @@
 ---
-title: Line Integral on a Helix
-uid: 54549135524b8072d20f0865155d16de
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: YmAMEi-Faz8
+    parent_uid: 54549135524b8072d20f0865155d16de
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 071c799a0c240cc162a1d1b7405a442c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/YmAMEi-Faz8/default.jpg'
+    parent_uid: 54549135524b8072d20f0865155d16de
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c4eae2a5bf7618af00832a3fbc5a0bf7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_63_300k.mp4'
+    parent_uid: 54549135524b8072d20f0865155d16de
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e14c19bae3cdca490dc5649d6cc37f40
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/line-integral-on-a-helix/id414355340?i=90323148
+    parent_uid: 54549135524b8072d20f0865155d16de
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bda8886976bc4ab90407cbf697c80326
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: YmAMEi-Faz8
+    parent_uid: 54549135524b8072d20f0865155d16de
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 33ca2b9043d64af3ef4fbfe5b5f89747
+  - id: YmAMEi-Faz8.srt
+    parent_uid: 54549135524b8072d20f0865155d16de
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-88-line-integrals-in-space/line-integral-on-a-helix/YmAMEi-Faz8.srt
+    title: 3play caption file
+    type: null
+    uid: d53b81a37282a2238b6330fc3949d821
+  - id: YmAMEi-Faz8.pdf
+    parent_uid: 54549135524b8072d20f0865155d16de
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-88-line-integrals-in-space/line-integral-on-a-helix/YmAMEi-Faz8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 210f130e690c3177d2bb39fb5bd70187
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 54549135524b8072d20f0865155d16de
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 00b1c18008642d80a80b0d7dc2380485
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 54549135524b8072d20f0865155d16de
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bb6ba3ee5105889bf41eb9f5f1209cd8
+inline_embed_id: 92193898lineintegralonahelix57893732
 parent_uid: 9d4fafc8bb3bb6f7f352581e663be4be
+related_resources_text: ''
+short_url: line-integral-on-a-helix
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-88-line-integrals-in-space/line-integral-on-a-helix
-short_url: line-integral-on-a-helix
-inline_embed_id: 92193898lineintegralonahelix57893732
-about_this_resource_text: ''
-related_resources_text: ''
+title: Line Integral on a Helix
 transcript: >-
   <p><span m='7550'>Welcome</span> <span m='7900'>back to</span> <span
   m='8130'>recitation.</span> <span m='9280'>In this</span> <span
@@ -841,62 +896,7 @@ transcript: >-
   m='670530'>So</span> <span m='670670'>I</span> <span m='670710'>think</span>
   <span m='670860'>that's</span> <span m='671020'>where</span> <span
   m='671130'>I'll</span> <span m='671270'>stop.</span> </p>
-embedded_media:
-  - uid: 071c799a0c240cc162a1d1b7405a442c
-    parent_uid: 54549135524b8072d20f0865155d16de
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: YmAMEi-Faz8
-  - uid: c4eae2a5bf7618af00832a3fbc5a0bf7
-    parent_uid: 54549135524b8072d20f0865155d16de
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/YmAMEi-Faz8/default.jpg'
-  - uid: e14c19bae3cdca490dc5649d6cc37f40
-    parent_uid: 54549135524b8072d20f0865155d16de
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_63_300k.mp4'
-  - uid: bda8886976bc4ab90407cbf697c80326
-    parent_uid: 54549135524b8072d20f0865155d16de
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/line-integral-on-a-helix/id414355340?i=90323148
-  - uid: 33ca2b9043d64af3ef4fbfe5b5f89747
-    parent_uid: 54549135524b8072d20f0865155d16de
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: YmAMEi-Faz8
-  - uid: d53b81a37282a2238b6330fc3949d821
-    parent_uid: 54549135524b8072d20f0865155d16de
-    id: YmAMEi-Faz8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-88-line-integrals-in-space/line-integral-on-a-helix/YmAMEi-Faz8.srt
-  - uid: 210f130e690c3177d2bb39fb5bd70187
-    parent_uid: 54549135524b8072d20f0865155d16de
-    id: YmAMEi-Faz8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-88-line-integrals-in-space/line-integral-on-a-helix/YmAMEi-Faz8.pdf
-  - uid: 00b1c18008642d80a80b0d7dc2380485
-    parent_uid: 54549135524b8072d20f0865155d16de
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bb6ba3ee5105889bf41eb9f5f1209cd8
-    parent_uid: 54549135524b8072d20f0865155d16de
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 54549135524b8072d20f0865155d16de
 type: courses
 layout: video
 ---

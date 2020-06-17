@@ -1,13 +1,68 @@
 ---
-title: Definite Integrals of tan (x)
-uid: 969ec0d7888457100b086ca3dac7ebd5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-MP4
+    media_location: G5BP8mTzkyk
+    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
+    title: Video-YouTube-MP4
+    type: Video
+    uid: 6f2320c5cea7d2117f36bd57098f803e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/G5BP8mTzkyk/default.jpg'
+    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d0227458f3011d4c777c24ae3303b264
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: G5BP8mTzkyk
+    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 35db08c927ffde4cfc0d90ab706dc62e
+  - id: G5BP8mTzkyk.srt
+    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-47-introduction-of-the-fundamental-theorem-of-calculus/definite-integrals-of-tan-x/G5BP8mTzkyk.srt
+    title: 3play caption file
+    type: null
+    uid: 2c65d9f8cd095d0bbe4080b10507bf6f
+  - id: G5BP8mTzkyk.pdf
+    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-47-introduction-of-the-fundamental-theorem-of-calculus/definite-integrals-of-tan-x/G5BP8mTzkyk.pdf
+    title: 3play pdf file
+    type: null
+    uid: ea56a9926f8666003d44c207301ec313
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6681d24bf950e351893d7389f8c4cc96
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 43ae0b237a6005530e62f30e159227e2
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_38_300k.mp4'
+    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0338cd0e03a28be2e3fa1cb6e8873a2d
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/definite-integrals-of-tan-x/id414308064?i=90319183
+    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9baa0100e0faae4cee92f6508b93288d
+inline_embed_id: 71811078definiteintegralsoftan(x)54079337
 parent_uid: 49d44d0cd4d7368fb65410f6924c7265
+related_resources_text: ''
+short_url: definite-integrals-of-tan-x
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-47-introduction-of-the-fundamental-theorem-of-calculus/definite-integrals-of-tan-x
-short_url: definite-integrals-of-tan-x
-inline_embed_id: 71811078definiteintegralsoftan(x)54079337
-about_this_resource_text: ''
-related_resources_text: ''
+title: Definite Integrals of tan (x)
 transcript: >-
   <p><span m='6930'>PROFESSOR: Hi.</span> <span m='7370'>Welcome</span> <span
   m='7720'>back</span> <span m='7930'>to</span> <span
@@ -398,62 +453,7 @@ transcript: >-
   m='363710'>integral.</span> <span m='365060'>So,</span> <span
   m='365950'>I'm</span> <span m='366130'>going to</span> <span
   m='366280'>stop</span> <span m='366560'>there.</span> </p>
-embedded_media:
-  - uid: 6f2320c5cea7d2117f36bd57098f803e
-    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
-    id: Video-YouTube-MP4
-    title: Video-YouTube-MP4
-    type: Video
-    media_location: G5BP8mTzkyk
-  - uid: d0227458f3011d4c777c24ae3303b264
-    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/G5BP8mTzkyk/default.jpg'
-  - uid: 35db08c927ffde4cfc0d90ab706dc62e
-    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: G5BP8mTzkyk
-  - uid: 2c65d9f8cd095d0bbe4080b10507bf6f
-    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
-    id: G5BP8mTzkyk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-47-introduction-of-the-fundamental-theorem-of-calculus/definite-integrals-of-tan-x/G5BP8mTzkyk.srt
-  - uid: ea56a9926f8666003d44c207301ec313
-    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
-    id: G5BP8mTzkyk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-47-introduction-of-the-fundamental-theorem-of-calculus/definite-integrals-of-tan-x/G5BP8mTzkyk.pdf
-  - uid: 6681d24bf950e351893d7389f8c4cc96
-    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 43ae0b237a6005530e62f30e159227e2
-    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0338cd0e03a28be2e3fa1cb6e8873a2d
-    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_38_300k.mp4'
-  - uid: 9baa0100e0faae4cee92f6508b93288d
-    parent_uid: 969ec0d7888457100b086ca3dac7ebd5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/definite-integrals-of-tan-x/id414308064?i=90319183
+uid: 969ec0d7888457100b086ca3dac7ebd5
 type: courses
 layout: video
 ---

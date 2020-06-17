@@ -1,13 +1,67 @@
 ---
-title: Compton Scattering
-uid: 1939a9385ae97660100fb4cb1d8eca7e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: WR88_Vzfcx4
+    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f55177f98ea60730e06fed1eff616820
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/WR88_Vzfcx4/default.jpg'
+    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bd947ca547ba8840da6fcfef37f6b403
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: WR88_Vzfcx4
+    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 67a1d75ea980bdf0b75adbeafce1ac3f
+  - id: WR88_Vzfcx4.srt
+    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/compton-scattering/WR88_Vzfcx4.srt
+    title: 3play caption file
+    type: null
+    uid: f63f9c29524b946b042b21ce9b3e29ef
+  - id: WR88_Vzfcx4.pdf
+    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/compton-scattering/WR88_Vzfcx4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4ab86eb4ab8fef506a42024651d24bf3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3e47b0cce80450c2a467f09324733ed8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d25b7a470c9c1bc86aa2c1f9a37efefb
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d8be4b15ebe398ed6d32ff307f946738
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec03_s3_300k.mp4'
+    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 88755347d875a976ec3f27d0715acf40
+inline_embed_id: 63311506comptonscattering89143694
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: compton-scattering
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/compton-scattering
-short_url: compton-scattering
-inline_embed_id: 63311506comptonscattering89143694
-about_this_resource_text: ''
-related_resources_text: ''
+title: Compton Scattering
 transcript: >-
   <p><span m='1170'>PROFESSOR:</span> <span m='1305'>So</span> <span
   m='1440'>we're</span> <span m='1680'>building</span> <span
@@ -991,61 +1045,7 @@ transcript: >-
   m='1351490'>peak,</span> <span m='1353480'>why</span> <span
   m='1353750'>is</span> <span m='1353900'>it</span> <span
   m='1354040'>there?</span> </p>
-embedded_media:
-  - uid: f55177f98ea60730e06fed1eff616820
-    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: WR88_Vzfcx4
-  - uid: bd947ca547ba8840da6fcfef37f6b403
-    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/WR88_Vzfcx4/default.jpg'
-  - uid: 67a1d75ea980bdf0b75adbeafce1ac3f
-    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: WR88_Vzfcx4
-  - uid: f63f9c29524b946b042b21ce9b3e29ef
-    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
-    id: WR88_Vzfcx4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/compton-scattering/WR88_Vzfcx4.srt
-  - uid: 4ab86eb4ab8fef506a42024651d24bf3
-    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
-    id: WR88_Vzfcx4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/compton-scattering/WR88_Vzfcx4.pdf
-  - uid: 3e47b0cce80450c2a467f09324733ed8
-    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d25b7a470c9c1bc86aa2c1f9a37efefb
-    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d8be4b15ebe398ed6d32ff307f946738
-    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 88755347d875a976ec3f27d0715acf40
-    parent_uid: 1939a9385ae97660100fb4cb1d8eca7e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec03_s3_300k.mp4'
+uid: 1939a9385ae97660100fb4cb1d8eca7e
 type: courses
 layout: video
 ---

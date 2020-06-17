@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 8: Time Series Analysis I'
-uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-8-time-series-analysis-i
-short_url: lecture-8-time-series-analysis-i
-inline_embed_id: '57387213lecture8:timeseriesanalysisi48738694'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This is the first of three lectures
   introducing the topic of time series analysis, describing stochastic processes
   by applying regression and stationarity models.</p>
   <p><strong>Instructor:</strong> Dr. Peter Kempthorne</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: uBeM1FUk4Ps
+    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 98aca7d9ce123b8022427772f9c551b3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/uBeM1FUk4Ps/default.jpg'
+    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8402bdc1a92b9e784c81e31f732745d9
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2afc6de91d8a0fdc65b8e4640fd6f2e7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec08_300k.mp4'
+    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b45419cade3e474c2ec158d5b2ca9224
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: uBeM1FUk4Ps
+    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: aaec5ce5a31b39c19025a9957260017c
+  - id: uBeM1FUk4Ps.srt
+    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-8-time-series-analysis-i/uBeM1FUk4Ps.srt
+    title: 3play caption file
+    type: null
+    uid: 946091c47c10583c9c6f362351df53bc
+  - id: uBeM1FUk4Ps.pdf
+    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-8-time-series-analysis-i/uBeM1FUk4Ps.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8b998f87736b5f57e7c6085fdce39364
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c8b2ac64dfcb1c1cf789cee77e079f42
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 69bae9606292a53f13ac0d6d3c2dd7fb
+inline_embed_id: '57387213lecture8:timeseriesanalysisi48738694'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-8-time-series-analysis-i
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-8-time-series-analysis-i
+title: 'Lecture 8: Time Series Analysis I'
 transcript: >-
   <p><span m='80'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -3971,61 +4025,7 @@ transcript: >-
   m='4575540'>specify</span> <span m='4576000'>those.</span> <span
   m='4576900'>So we'll</span> <span m='4577200'>go through</span> <span
   m='4577500'>that next time.</span> </p>
-embedded_media:
-  - uid: 98aca7d9ce123b8022427772f9c551b3
-    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: uBeM1FUk4Ps
-  - uid: 8402bdc1a92b9e784c81e31f732745d9
-    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/uBeM1FUk4Ps/default.jpg'
-  - uid: 2afc6de91d8a0fdc65b8e4640fd6f2e7
-    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: b45419cade3e474c2ec158d5b2ca9224
-    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec08_300k.mp4'
-  - uid: aaec5ce5a31b39c19025a9957260017c
-    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: uBeM1FUk4Ps
-  - uid: 946091c47c10583c9c6f362351df53bc
-    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
-    id: uBeM1FUk4Ps.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-8-time-series-analysis-i/uBeM1FUk4Ps.srt
-  - uid: 8b998f87736b5f57e7c6085fdce39364
-    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
-    id: uBeM1FUk4Ps.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-8-time-series-analysis-i/uBeM1FUk4Ps.pdf
-  - uid: c8b2ac64dfcb1c1cf789cee77e079f42
-    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 69bae9606292a53f13ac0d6d3c2dd7fb
-    parent_uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
 type: courses
 layout: video
 ---

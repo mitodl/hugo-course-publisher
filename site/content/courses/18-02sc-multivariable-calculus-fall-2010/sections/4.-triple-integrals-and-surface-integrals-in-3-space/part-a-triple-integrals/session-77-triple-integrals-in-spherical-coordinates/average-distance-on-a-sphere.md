@@ -1,13 +1,68 @@
 ---
-title: Average Distance on a Sphere
-uid: 05385cbe354fa3afc249a2242d3e84d1
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: RoTz_ylFHfY
+    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 75bb07f552a8f5663aed2c201b4f11e1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/RoTz_ylFHfY/default.jpg'
+    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2e8669121b90db095483315b00a56dec
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_54_300k.mp4'
+    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 047e0e920f31b65681ac4986d6593502
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/average-distance-on-a-sphere/id414355340?i=90322848
+    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c0831549e711693bec65837077bdffd2
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: RoTz_ylFHfY
+    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 82710a2a11e0d554876ad602e46e15ea
+  - id: RoTz_ylFHfY.srt
+    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-77-triple-integrals-in-spherical-coordinates/average-distance-on-a-sphere/RoTz_ylFHfY.srt
+    title: 3play caption file
+    type: null
+    uid: e4489b5632eca141604a43e7a5d2c567
+  - id: RoTz_ylFHfY.pdf
+    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-77-triple-integrals-in-spherical-coordinates/average-distance-on-a-sphere/RoTz_ylFHfY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3edf422d40567606cf9696a686d6fb6d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8149ceb24372ccbe0ef5ccf15389da95
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 04eed7265df2e0ee26f71b390e869737
+inline_embed_id: 25089075averagedistanceonasphere17308307
 parent_uid: f707a26eec56fdb6c3caf56567807058
+related_resources_text: ''
+short_url: average-distance-on-a-sphere
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-77-triple-integrals-in-spherical-coordinates/average-distance-on-a-sphere
-short_url: average-distance-on-a-sphere
-inline_embed_id: 25089075averagedistanceonasphere17308307
-about_this_resource_text: ''
-related_resources_text: ''
+title: Average Distance on a Sphere
 transcript: >-
   <p><span m='7210'>CHRISTINE BREINER: Welcome</span> <span m='7520'>back</span>
   <span m='7720'>to</span> <span m='7800'>recitation.</span> <span
@@ -955,62 +1010,7 @@ transcript: >-
   <span m='776640'>helped</span> <span m='776860'>you.</span> <span
   m='777100'>I'll</span> <span m='777210'>stop</span> <span
   m='777450'>there.</span> </p>
-embedded_media:
-  - uid: 75bb07f552a8f5663aed2c201b4f11e1
-    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: RoTz_ylFHfY
-  - uid: 2e8669121b90db095483315b00a56dec
-    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/RoTz_ylFHfY/default.jpg'
-  - uid: 047e0e920f31b65681ac4986d6593502
-    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_54_300k.mp4'
-  - uid: c0831549e711693bec65837077bdffd2
-    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/average-distance-on-a-sphere/id414355340?i=90322848
-  - uid: 82710a2a11e0d554876ad602e46e15ea
-    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: RoTz_ylFHfY
-  - uid: e4489b5632eca141604a43e7a5d2c567
-    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
-    id: RoTz_ylFHfY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-77-triple-integrals-in-spherical-coordinates/average-distance-on-a-sphere/RoTz_ylFHfY.srt
-  - uid: 3edf422d40567606cf9696a686d6fb6d
-    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
-    id: RoTz_ylFHfY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-77-triple-integrals-in-spherical-coordinates/average-distance-on-a-sphere/RoTz_ylFHfY.pdf
-  - uid: 8149ceb24372ccbe0ef5ccf15389da95
-    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 04eed7265df2e0ee26f71b390e869737
-    parent_uid: 05385cbe354fa3afc249a2242d3e84d1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 05385cbe354fa3afc249a2242d3e84d1
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Reducing Factoring To SAT
-uid: 034d3d950c7eaeae33bcb498f8a00c52
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 505f656a642ae268c489a16a3fb48fc8
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c6495a88e8c89a824687bb405028d7cf
+  - id: Video-YouTube-Stream
+    media_location: yWIQCewgfwY
+    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 24a0e9ea083d7a5e41cd01a984d60690
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/yWIQCewgfwY/default.jpg'
+    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 44ec9f8bcfa1cc3782661d21c67ebfed
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: yWIQCewgfwY
+    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: feeec1f091bb3c79300172aaa1dd9f38
+  - id: yWIQCewgfwY.srt
+    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-10e2576c9510/reducing-factoring-to-sat/yWIQCewgfwY.srt
+    title: 3play caption file
+    type: null
+    uid: b524098c26e3ab7ed804f18d3e145194
+  - id: yWIQCewgfwY.pdf
+    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-10e2576c9510/reducing-factoring-to-sat/yWIQCewgfwY.pdf
+    title: 3play pdf file
+    type: null
+    uid: d04c5e683e1acda26fd6e0acab9592eb
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7bd9ae1b196c7f2c8bfebd99426a97de
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5ed68cb64938548607dd38ec08f1c1dd
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_sat_factors_video_ipod.mp4
+    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f0bbd51fdd3169033294e06c06c74f38
+inline_embed_id: 44976787reducingfactoringtosat64414686
 parent_uid: 47ecda1473454286d8259977ef9b554b
+related_resources_text: ''
+short_url: reducing-factoring-to-sat
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-10e2576c9510/reducing-factoring-to-sat
-short_url: reducing-factoring-to-sat
-inline_embed_id: 44976787reducingfactoringtosat64414686
-about_this_resource_text: ''
-related_resources_text: ''
+title: Reducing Factoring To SAT
 transcript: >-
   <p><span m='830'>PROFESSOR: We've</span> <span m='1060'>mentioned</span> <span
   m='1560'>the</span> <span m='1860'>P</span> <span m='2029'>equals</span> <span
@@ -514,67 +574,7 @@ transcript: >-
   m='423850'>one-way</span> <span m='424560'>function</span> <span
   m='425970'>to</span> <span m='426510'>a</span> <span m='426620'>few</span>
   <span m='426990'>SAT</span> <span m='427320'>tests.</span> </p>
-embedded_media:
-  - uid: 505f656a642ae268c489a16a3fb48fc8
-    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: c6495a88e8c89a824687bb405028d7cf
-    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 24a0e9ea083d7a5e41cd01a984d60690
-    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: yWIQCewgfwY
-  - uid: 44ec9f8bcfa1cc3782661d21c67ebfed
-    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/yWIQCewgfwY/default.jpg'
-  - uid: feeec1f091bb3c79300172aaa1dd9f38
-    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: yWIQCewgfwY
-  - uid: b524098c26e3ab7ed804f18d3e145194
-    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
-    id: yWIQCewgfwY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-10e2576c9510/reducing-factoring-to-sat/yWIQCewgfwY.srt
-  - uid: d04c5e683e1acda26fd6e0acab9592eb
-    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
-    id: yWIQCewgfwY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-10e2576c9510/reducing-factoring-to-sat/yWIQCewgfwY.pdf
-  - uid: 7bd9ae1b196c7f2c8bfebd99426a97de
-    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5ed68cb64938548607dd38ec08f1c1dd
-    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f0bbd51fdd3169033294e06c06c74f38
-    parent_uid: 034d3d950c7eaeae33bcb498f8a00c52
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_sat_factors_video_ipod.mp4
+uid: 034d3d950c7eaeae33bcb498f8a00c52
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: Simply Connected Regions
-uid: 4a8674890486bf11587cf4519831ed6e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 6S3BJSsc72Q
+    parent_uid: 4a8674890486bf11587cf4519831ed6e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d42e39ad032ae37227213d0892d9408d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/6S3BJSsc72Q/default.jpg'
+    parent_uid: 4a8674890486bf11587cf4519831ed6e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ad05fa840f69f21110e9c0036318f0bc
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 6S3BJSsc72Q
+    parent_uid: 4a8674890486bf11587cf4519831ed6e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1ed7b00755498d16fa6a1919305f4415
+  - id: 6S3BJSsc72Q.srt
+    parent_uid: 4a8674890486bf11587cf4519831ed6e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-94-simply-connected-regions-topology/simply-connected-regions/6S3BJSsc72Q.srt
+    title: 3play caption file
+    type: null
+    uid: 60ba5c7724732f7992c4ff27e9f4d52c
+  - id: 6S3BJSsc72Q.pdf
+    parent_uid: 4a8674890486bf11587cf4519831ed6e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-94-simply-connected-regions-topology/simply-connected-regions/6S3BJSsc72Q.pdf
+    title: 3play pdf file
+    type: null
+    uid: f08d39bd895c04b2fb59c5f8db48154a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4a8674890486bf11587cf4519831ed6e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c3b7a635c6b53c31994861597bb950d3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4a8674890486bf11587cf4519831ed6e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 606946f633d6ff1f7ab87e3dda75a3eb
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/simply-connected-regions/id414355340?i=90323143
+    parent_uid: 4a8674890486bf11587cf4519831ed6e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4a0ae29032471791685f52b4164f3a7d
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_67_300k.mp4'
+    parent_uid: 4a8674890486bf11587cf4519831ed6e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 282834cfcbae3ef5298abbcb1feb1e51
+inline_embed_id: 45871870simplyconnectedregions6217756
 parent_uid: 9da45f785868f3aefcb2c3ec1ad5293e
+related_resources_text: ''
+short_url: simply-connected-regions
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-94-simply-connected-regions-topology/simply-connected-regions
-short_url: simply-connected-regions
-inline_embed_id: 45871870simplyconnectedregions6217756
-about_this_resource_text: ''
-related_resources_text: ''
+title: Simply Connected Regions
 transcript: >-
   <p><span m='7470'>CHRISTINE BREINER: Welcome</span> <span m='7810'>back</span>
   <span m='7935'>to</span> <span m='8060'>recitation.</span> <span
@@ -1155,62 +1210,7 @@ transcript: >-
   m='882260'>informative,</span> <span m='883350'>and</span> <span
   m='883490'>that's</span> <span m='883670'>where</span> <span
   m='883770'>I'll</span> <span m='883890'>stop.</span> </p>
-embedded_media:
-  - uid: d42e39ad032ae37227213d0892d9408d
-    parent_uid: 4a8674890486bf11587cf4519831ed6e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 6S3BJSsc72Q
-  - uid: ad05fa840f69f21110e9c0036318f0bc
-    parent_uid: 4a8674890486bf11587cf4519831ed6e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/6S3BJSsc72Q/default.jpg'
-  - uid: 1ed7b00755498d16fa6a1919305f4415
-    parent_uid: 4a8674890486bf11587cf4519831ed6e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 6S3BJSsc72Q
-  - uid: 60ba5c7724732f7992c4ff27e9f4d52c
-    parent_uid: 4a8674890486bf11587cf4519831ed6e
-    id: 6S3BJSsc72Q.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-94-simply-connected-regions-topology/simply-connected-regions/6S3BJSsc72Q.srt
-  - uid: f08d39bd895c04b2fb59c5f8db48154a
-    parent_uid: 4a8674890486bf11587cf4519831ed6e
-    id: 6S3BJSsc72Q.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-94-simply-connected-regions-topology/simply-connected-regions/6S3BJSsc72Q.pdf
-  - uid: c3b7a635c6b53c31994861597bb950d3
-    parent_uid: 4a8674890486bf11587cf4519831ed6e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 606946f633d6ff1f7ab87e3dda75a3eb
-    parent_uid: 4a8674890486bf11587cf4519831ed6e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4a0ae29032471791685f52b4164f3a7d
-    parent_uid: 4a8674890486bf11587cf4519831ed6e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/simply-connected-regions/id414355340?i=90323143
-  - uid: 282834cfcbae3ef5298abbcb1feb1e51
-    parent_uid: 4a8674890486bf11587cf4519831ed6e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_67_300k.mp4'
+uid: 4a8674890486bf11587cf4519831ed6e
 type: courses
 layout: video
 ---

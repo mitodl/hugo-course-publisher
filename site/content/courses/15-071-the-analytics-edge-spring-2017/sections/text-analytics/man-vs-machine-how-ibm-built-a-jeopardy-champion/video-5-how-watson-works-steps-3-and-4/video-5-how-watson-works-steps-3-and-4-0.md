@@ -1,13 +1,62 @@
 ---
-title: 'Video 5: How Watson Works - Steps 3 and 4'
-uid: 3071997bafd41b1ef9ee57383ae819c4
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: fQXFHIsvV-c
+    parent_uid: 3071997bafd41b1ef9ee57383ae819c4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2d283b62f3d09d47b4ceec06fb053949
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: fQXFHIsvV-c
+    parent_uid: 3071997bafd41b1ef9ee57383ae819c4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4e6e42b72baae928e94bb92ea387b990
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/fQXFHIsvV-c/default.jpg'
+    parent_uid: 3071997bafd41b1ef9ee57383ae819c4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1923c50df4b0462952f8e6a3df17428d
+  - id: fQXFHIsvV-c.srt
+    parent_uid: 3071997bafd41b1ef9ee57383ae819c4
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-5-how-watson-works-steps-3-and-4/video-5-how-watson-works-steps-3-and-4-0/fQXFHIsvV-c.srt
+    title: 3play caption file
+    type: null
+    uid: 1189dee666be7ba2f3474a323822b4b8
+  - id: fQXFHIsvV-c.pdf
+    parent_uid: 3071997bafd41b1ef9ee57383ae819c4
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-5-how-watson-works-steps-3-and-4/video-5-how-watson-works-steps-3-and-4-0/fQXFHIsvV-c.pdf
+    title: 3play pdf file
+    type: null
+    uid: 803fdb47b9180a02f9622473bb1f1a04
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3071997bafd41b1ef9ee57383ae819c4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 30e2b7cde27d78fa27c33d9fbcb16882
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3071997bafd41b1ef9ee57383ae819c4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ea88a7478e1d2eb30537b730af16a39f
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.3.09_300k.mp4
+    parent_uid: 3071997bafd41b1ef9ee57383ae819c4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 52108d9b7731497de544c176d0024641
+inline_embed_id: 69059155video5howwatsonworkssteps3and468897024
 parent_uid: fb311ba72cf692ffca87557089c126b1
+related_resources_text: ''
+short_url: video-5-how-watson-works-steps-3-and-4-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-5-how-watson-works-steps-3-and-4/video-5-how-watson-works-steps-3-and-4-0
-short_url: video-5-how-watson-works-steps-3-and-4-0
-inline_embed_id: 69059155video5howwatsonworkssteps3and468897024
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 5: How Watson Works - Steps 3 and 4'
 transcript: >-
   <p><span m='9530'>After</span> <span m='9919'>Watson</span> <span
   m='10308'>has</span> <span m='10697'>completed</span> <span
@@ -357,56 +406,7 @@ transcript: >-
   <span m='335651'>Watson</span> <span m='336062'>team</span> <span
   m='336474'>is</span> <span m='336885'>working</span> <span
   m='337297'>on</span> <span m='337708'>now.</span> </p>
-embedded_media:
-  - uid: 2d283b62f3d09d47b4ceec06fb053949
-    parent_uid: 3071997bafd41b1ef9ee57383ae819c4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: fQXFHIsvV-c
-  - uid: 4e6e42b72baae928e94bb92ea387b990
-    parent_uid: 3071997bafd41b1ef9ee57383ae819c4
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: fQXFHIsvV-c
-  - uid: 1923c50df4b0462952f8e6a3df17428d
-    parent_uid: 3071997bafd41b1ef9ee57383ae819c4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/fQXFHIsvV-c/default.jpg'
-  - uid: 1189dee666be7ba2f3474a323822b4b8
-    parent_uid: 3071997bafd41b1ef9ee57383ae819c4
-    id: fQXFHIsvV-c.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-5-how-watson-works-steps-3-and-4/video-5-how-watson-works-steps-3-and-4-0/fQXFHIsvV-c.srt
-  - uid: 803fdb47b9180a02f9622473bb1f1a04
-    parent_uid: 3071997bafd41b1ef9ee57383ae819c4
-    id: fQXFHIsvV-c.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-5-how-watson-works-steps-3-and-4/video-5-how-watson-works-steps-3-and-4-0/fQXFHIsvV-c.pdf
-  - uid: 30e2b7cde27d78fa27c33d9fbcb16882
-    parent_uid: 3071997bafd41b1ef9ee57383ae819c4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ea88a7478e1d2eb30537b730af16a39f
-    parent_uid: 3071997bafd41b1ef9ee57383ae819c4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 52108d9b7731497de544c176d0024641
-    parent_uid: 3071997bafd41b1ef9ee57383ae819c4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.3.09_300k.mp4
+uid: 3071997bafd41b1ef9ee57383ae819c4
 type: courses
 layout: video
 ---

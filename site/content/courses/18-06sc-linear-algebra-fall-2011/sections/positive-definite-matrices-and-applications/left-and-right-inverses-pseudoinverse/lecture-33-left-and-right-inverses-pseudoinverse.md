@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 33: Left and Right Inverses; Pseudoinverse'
-uid: 7b7a7cf8c32308843dfbadde6278babe
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Go2aLo7ZOlU
+    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4abed81639d451501f4656c0c2d1cc48
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Go2aLo7ZOlU/default.jpg'
+    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: db2d0d3662ab198b3a57b309165178be
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 66c6d71282aff12bbb7fb364a6259b0c
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/33.mp4'
+    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0909d00dde9bfc6b07c0d91ecf087871
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Go2aLo7ZOlU
+    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 077753ca36df0921376879693d7acda4
+  - id: Go2aLo7ZOlU.srt
+    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse/lecture-33-left-and-right-inverses-pseudoinverse/Go2aLo7ZOlU.srt
+    title: 3play caption file
+    type: null
+    uid: 5827f5c6586b503ca3f69bde0cedee0c
+  - id: Go2aLo7ZOlU.pdf
+    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse/lecture-33-left-and-right-inverses-pseudoinverse/Go2aLo7ZOlU.pdf
+    title: 3play pdf file
+    type: null
+    uid: ef47fdd70952bd981a883c20138e03c4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 598584d29a1b897d00adc6e0ed5caca3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e464fb062590c6daff5aa995a9bc53ca
+inline_embed_id: '18109131lecture33:leftandrightinverses;pseudoinverse59943683'
 parent_uid: ab040c1791a2dbfe0cb975cf0190634f
+related_resources_text: ''
+short_url: lecture-33-left-and-right-inverses-pseudoinverse
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse/lecture-33-left-and-right-inverses-pseudoinverse
-short_url: lecture-33-left-and-right-inverses-pseudoinverse
-inline_embed_id: '18109131lecture33:leftandrightinverses;pseudoinverse59943683'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 33: Left and Right Inverses; Pseudoinverse'
 transcript: >-
   <p><span m='3890'>Yes,</span> <span m='3950'>OK,</span> <span
   m='4550'>four,</span> <span m='4950'>three,</span> <span m='5880'>two,</span>
@@ -2288,61 +2342,7 @@ transcript: >-
   m='2499680'>the</span> <span m='2499810'>rest</span> <span
   m='2500110'>of</span> <span m='2500180'>this</span> </p><p><span
   m='2500410'>course.</span> <span m='2500560'>Thanks.</span> </p>
-embedded_media:
-  - uid: 4abed81639d451501f4656c0c2d1cc48
-    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Go2aLo7ZOlU
-  - uid: db2d0d3662ab198b3a57b309165178be
-    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Go2aLo7ZOlU/default.jpg'
-  - uid: 66c6d71282aff12bbb7fb364a6259b0c
-    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 0909d00dde9bfc6b07c0d91ecf087871
-    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/33.mp4'
-  - uid: 077753ca36df0921376879693d7acda4
-    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Go2aLo7ZOlU
-  - uid: 5827f5c6586b503ca3f69bde0cedee0c
-    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
-    id: Go2aLo7ZOlU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse/lecture-33-left-and-right-inverses-pseudoinverse/Go2aLo7ZOlU.srt
-  - uid: ef47fdd70952bd981a883c20138e03c4
-    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
-    id: Go2aLo7ZOlU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse/lecture-33-left-and-right-inverses-pseudoinverse/Go2aLo7ZOlU.pdf
-  - uid: 598584d29a1b897d00adc6e0ed5caca3
-    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e464fb062590c6daff5aa995a9bc53ca
-    parent_uid: 7b7a7cf8c32308843dfbadde6278babe
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7b7a7cf8c32308843dfbadde6278babe
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: 'Video 2: Working with Data in R'
-uid: 6aa8fcaacf9269a84185c7cd1c8e742c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: oTnXMW4mx-c
+    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 71f0d085e18f459562325d84efec6998
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: oTnXMW4mx-c
+    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6dcb701b721a7f45e5a706d022bb4149
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/oTnXMW4mx-c/default.jpg'
+    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0ab1500bcd655e58681c766e3f6884d3
+  - id: exav1FKMfbw.srt
+    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-2-working-with-data-in-r/video-2-working-with-data-in-r-0/exav1FKMfbw.srt
+    title: 3play caption file
+    type: null
+    uid: 2729245343d4f6d2a34efa216ff1f876
+  - id: exav1FKMfbw.pdf
+    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-2-working-with-data-in-r/video-2-working-with-data-in-r-0/exav1FKMfbw.pdf
+    title: 3play pdf file
+    type: null
+    uid: a6a05c9f47644b1eab2d65437f6dc0fe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b3f2b84db45f3e06924ef4bcc2f662fa
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c8275cbacd51fb5ad7f434f52cfe750f
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.4.03_300k.mp4
+    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 84cdc1001b903b52a8a4d21ac406bc3d
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/oTnXMW4mx-c/default.jpg'
+    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9bbe0888cfeb121e66a37d548d5a6fdb
+inline_embed_id: 48680399video2workingwithdatainr49300577
 parent_uid: 2f4e613d5b817c86b63878b382d65963
+related_resources_text: ''
+short_url: video-2-working-with-data-in-r-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-2-working-with-data-in-r/video-2-working-with-data-in-r-0
-short_url: video-2-working-with-data-in-r-0
-inline_embed_id: 48680399video2workingwithdatainr49300577
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: Working with Data in R'
 transcript: >-
   <p><span m='4490'>Let's</span> <span m='4821'>go</span> <span
   m='5152'>ahead</span> <span m='5484'>and</span> <span m='5815'>start</span>
@@ -268,62 +323,7 @@ transcript: >-
   m='248040'>variable</span> <span m='248543'>further</span> <span
   m='249046'>in</span> <span m='249550'>our</span> <span m='250053'>next</span>
   <span m='250556'>video.</span> </p>
-embedded_media:
-  - uid: 71f0d085e18f459562325d84efec6998
-    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: oTnXMW4mx-c
-  - uid: 6dcb701b721a7f45e5a706d022bb4149
-    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: oTnXMW4mx-c
-  - uid: 0ab1500bcd655e58681c766e3f6884d3
-    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/oTnXMW4mx-c/default.jpg'
-  - uid: 2729245343d4f6d2a34efa216ff1f876
-    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
-    id: exav1FKMfbw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-2-working-with-data-in-r/video-2-working-with-data-in-r-0/exav1FKMfbw.srt
-  - uid: a6a05c9f47644b1eab2d65437f6dc0fe
-    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
-    id: exav1FKMfbw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-2-working-with-data-in-r/video-2-working-with-data-in-r-0/exav1FKMfbw.pdf
-  - uid: b3f2b84db45f3e06924ef4bcc2f662fa
-    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c8275cbacd51fb5ad7f434f52cfe750f
-    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 84cdc1001b903b52a8a4d21ac406bc3d
-    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.4.03_300k.mp4
-  - uid: 9bbe0888cfeb121e66a37d548d5a6fdb
-    parent_uid: 6aa8fcaacf9269a84185c7cd1c8e742c
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/oTnXMW4mx-c/default.jpg'
+uid: 6aa8fcaacf9269a84185c7cd1c8e742c
 type: courses
 layout: video
 ---

@@ -1,17 +1,71 @@
 ---
-title: Survival in Fluctuating Environments
-uid: 98c34715802b2bbdb372552a0c870720
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/survival-in-fluctuating-environments
-short_url: survival-in-fluctuating-environments
-inline_embed_id: 94110327survivalinfluctuatingenvironments44713829
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Jeff Gore discusses
   the regulation of genes in response to changing environments. He discusses a
   few theories for phenotypic heterogeneity and examples from biology.</p>
   <p><strong>Instructor:</strong> Prof. Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BJXCf6pFrhA
+    parent_uid: 98c34715802b2bbdb372552a0c870720
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ec015e66b9d1ffa7025932afdcf09ec2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BJXCf6pFrhA/default.jpg'
+    parent_uid: 98c34715802b2bbdb372552a0c870720
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 06050a1cbc8b6acf90e6c760a37a03be
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: 98c34715802b2bbdb372552a0c870720
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7ea3fea0b48c26d25bc00553b728c825
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec19_300k.mp4'
+    parent_uid: 98c34715802b2bbdb372552a0c870720
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 46657eb3708395b1164168c4e7bd7111
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BJXCf6pFrhA
+    parent_uid: 98c34715802b2bbdb372552a0c870720
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 77bedfe76bd9c068c586117d5cb788a9
+  - id: BJXCf6pFrhA.srt
+    parent_uid: 98c34715802b2bbdb372552a0c870720
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/survival-in-fluctuating-environments/BJXCf6pFrhA.srt
+    title: 3play caption file
+    type: null
+    uid: 381c81f068f81d8a5ca425634a6c6b75
+  - id: BJXCf6pFrhA.pdf
+    parent_uid: 98c34715802b2bbdb372552a0c870720
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/survival-in-fluctuating-environments/BJXCf6pFrhA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5a0f7b731822c974853a5bd12707148a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 98c34715802b2bbdb372552a0c870720
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c4e319cb036131c8e0294204ed92911a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 98c34715802b2bbdb372552a0c870720
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 827eab2e7e0ecd84d5b22a0314ef0739
+inline_embed_id: 94110327survivalinfluctuatingenvironments44713829
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: survival-in-fluctuating-environments
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/survival-in-fluctuating-environments
+title: Survival in Fluctuating Environments
 transcript: >-
   <p><span m="80">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4912,61 +4966,7 @@ transcript: >-
   m="4703440">going</span> <span m="4703700">on</span> <span
   m="4704310">in</span> <span m="4704430">each</span> <span
   m="4704730">case.</span></p>
-embedded_media:
-  - uid: ec015e66b9d1ffa7025932afdcf09ec2
-    parent_uid: 98c34715802b2bbdb372552a0c870720
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BJXCf6pFrhA
-  - uid: 06050a1cbc8b6acf90e6c760a37a03be
-    parent_uid: 98c34715802b2bbdb372552a0c870720
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BJXCf6pFrhA/default.jpg'
-  - uid: 7ea3fea0b48c26d25bc00553b728c825
-    parent_uid: 98c34715802b2bbdb372552a0c870720
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: 46657eb3708395b1164168c4e7bd7111
-    parent_uid: 98c34715802b2bbdb372552a0c870720
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec19_300k.mp4'
-  - uid: 77bedfe76bd9c068c586117d5cb788a9
-    parent_uid: 98c34715802b2bbdb372552a0c870720
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BJXCf6pFrhA
-  - uid: 381c81f068f81d8a5ca425634a6c6b75
-    parent_uid: 98c34715802b2bbdb372552a0c870720
-    id: BJXCf6pFrhA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/survival-in-fluctuating-environments/BJXCf6pFrhA.srt
-  - uid: 5a0f7b731822c974853a5bd12707148a
-    parent_uid: 98c34715802b2bbdb372552a0c870720
-    id: BJXCf6pFrhA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/survival-in-fluctuating-environments/BJXCf6pFrhA.pdf
-  - uid: c4e319cb036131c8e0294204ed92911a
-    parent_uid: 98c34715802b2bbdb372552a0c870720
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 827eab2e7e0ecd84d5b22a0314ef0739
-    parent_uid: 98c34715802b2bbdb372552a0c870720
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 98c34715802b2bbdb372552a0c870720
 type: courses
 layout: video
 ---

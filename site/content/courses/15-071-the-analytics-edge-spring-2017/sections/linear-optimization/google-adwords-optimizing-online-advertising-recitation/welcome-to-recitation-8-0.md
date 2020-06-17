@@ -1,13 +1,62 @@
 ---
-title: Welcome to Recitation 8
-uid: e54469bccb479e9d0c8e2b40bb17e73c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: kntypWFmyyM
+    parent_uid: e54469bccb479e9d0c8e2b40bb17e73c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ca483ba80fe001c6d9ac3475ca3bb499
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: kntypWFmyyM
+    parent_uid: e54469bccb479e9d0c8e2b40bb17e73c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e1bb28aa6cad1f63a97d8e6a058fd729
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/kntypWFmyyM/default.jpg'
+    parent_uid: e54469bccb479e9d0c8e2b40bb17e73c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5b66dd180ad800794f1791aadcfc5de3
+  - id: kntypWFmyyM.srt
+    parent_uid: e54469bccb479e9d0c8e2b40bb17e73c
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/welcome-to-recitation-8-0/kntypWFmyyM.srt
+    title: 3play caption file
+    type: null
+    uid: 6330996ab44c6f05489a4845b8370eb6
+  - id: kntypWFmyyM.pdf
+    parent_uid: e54469bccb479e9d0c8e2b40bb17e73c
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/welcome-to-recitation-8-0/kntypWFmyyM.pdf
+    title: 3play pdf file
+    type: null
+    uid: ad86cbf05e26d07607797932ad65b0fd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e54469bccb479e9d0c8e2b40bb17e73c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 368922c05be71f65c61b4a9b2a063b60
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e54469bccb479e9d0c8e2b40bb17e73c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e0e41953024f4f986ddaa295a5fc8aa9
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.01_300k.mp4
+    parent_uid: e54469bccb479e9d0c8e2b40bb17e73c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 03633521674eff8ed2736e572060d1c7
+inline_embed_id: 26324859welcometorecitation873653140
 parent_uid: 696dd6e442cc1fc47c9f2924e2edfb26
+related_resources_text: ''
+short_url: welcome-to-recitation-8-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/welcome-to-recitation-8-0
-short_url: welcome-to-recitation-8-0
-inline_embed_id: 26324859welcometorecitation873653140
-about_this_resource_text: ''
-related_resources_text: ''
+title: Welcome to Recitation 8
 transcript: >-
   <p><span m='4500'>Welcome</span> <span m='4900'>to</span> <span
   m='5300'>the</span> <span m='5700'>linear</span> <span
@@ -53,56 +102,7 @@ transcript: >-
   <span m='34185'>the</span> <span m='34410'>next</span> <span
   m='34635'>video</span> <span m='34860'>and</span> <span m='35453'>get</span>
   <span m='36046'>started.</span> </p>
-embedded_media:
-  - uid: ca483ba80fe001c6d9ac3475ca3bb499
-    parent_uid: e54469bccb479e9d0c8e2b40bb17e73c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: kntypWFmyyM
-  - uid: e1bb28aa6cad1f63a97d8e6a058fd729
-    parent_uid: e54469bccb479e9d0c8e2b40bb17e73c
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: kntypWFmyyM
-  - uid: 5b66dd180ad800794f1791aadcfc5de3
-    parent_uid: e54469bccb479e9d0c8e2b40bb17e73c
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/kntypWFmyyM/default.jpg'
-  - uid: 6330996ab44c6f05489a4845b8370eb6
-    parent_uid: e54469bccb479e9d0c8e2b40bb17e73c
-    id: kntypWFmyyM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/welcome-to-recitation-8-0/kntypWFmyyM.srt
-  - uid: ad86cbf05e26d07607797932ad65b0fd
-    parent_uid: e54469bccb479e9d0c8e2b40bb17e73c
-    id: kntypWFmyyM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/welcome-to-recitation-8-0/kntypWFmyyM.pdf
-  - uid: 368922c05be71f65c61b4a9b2a063b60
-    parent_uid: e54469bccb479e9d0c8e2b40bb17e73c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e0e41953024f4f986ddaa295a5fc8aa9
-    parent_uid: e54469bccb479e9d0c8e2b40bb17e73c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 03633521674eff8ed2736e572060d1c7
-    parent_uid: e54469bccb479e9d0c8e2b40bb17e73c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.01_300k.mp4
+uid: e54469bccb479e9d0c8e2b40bb17e73c
 type: courses
 layout: video
 ---

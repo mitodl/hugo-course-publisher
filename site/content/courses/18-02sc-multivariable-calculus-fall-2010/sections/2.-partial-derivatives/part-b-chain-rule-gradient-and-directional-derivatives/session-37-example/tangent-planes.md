@@ -1,13 +1,67 @@
 ---
-title: Tangent Planes
-uid: 8178b0890c9d24c5b8fb9155e19a09ce
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 6paZkmBMZwQ
+    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1fe95cd2bc6ef5cad783c17c9a295ba5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/6paZkmBMZwQ/default.jpg'
+    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5790b9a721c79f093974c796e913ff4b
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/tangent-planes/id414355340?i=90322822'
+    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 23b1eae8b62d368ebc73c19f63bb43b5
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_26_300k.mp4'
+    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9ad41b275842fecb27bfd9e84357fe65
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 6paZkmBMZwQ
+    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fbf57a2b1ed939f071f6df1ce3ac7af7
+  - id: 6paZkmBMZwQ.srt
+    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-37-example/tangent-planes/6paZkmBMZwQ.srt
+    title: 3play caption file
+    type: null
+    uid: 87d6ec9d214f8c665b97013d5a6bad0b
+  - id: 6paZkmBMZwQ.pdf
+    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-37-example/tangent-planes/6paZkmBMZwQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: dd0a3008b1a04cfca9d3a6ef0d5adeae
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bb9ea8775606ef5e11a63a8613cb79d2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a8cb31627c7a21e372212612a4bf57bf
+inline_embed_id: 1325210tangentplanes7099660
 parent_uid: 10e11645483c9e7bc1e8194ff0a40c7e
+related_resources_text: ''
+short_url: tangent-planes
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-37-example/tangent-planes
-short_url: tangent-planes
-inline_embed_id: 1325210tangentplanes7099660
-about_this_resource_text: ''
-related_resources_text: ''
+title: Tangent Planes
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='7390'>Hi.</span> <span
   m='7860'>Welcome</span> <span m='8170'>back</span> <span m='8380'>to</span>
@@ -550,61 +604,7 @@ transcript: >-
   <span m='537720'>tangent</span> <span m='538080'>line.</span> <span
   m='538850'>So</span> <span m='539070'>I'll</span> <span m='539200'>stop</span>
   <span m='539520'>there.</span> </p>
-embedded_media:
-  - uid: 1fe95cd2bc6ef5cad783c17c9a295ba5
-    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 6paZkmBMZwQ
-  - uid: 5790b9a721c79f093974c796e913ff4b
-    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/6paZkmBMZwQ/default.jpg'
-  - uid: 23b1eae8b62d368ebc73c19f63bb43b5
-    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/tangent-planes/id414355340?i=90322822'
-  - uid: 9ad41b275842fecb27bfd9e84357fe65
-    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_26_300k.mp4'
-  - uid: fbf57a2b1ed939f071f6df1ce3ac7af7
-    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 6paZkmBMZwQ
-  - uid: 87d6ec9d214f8c665b97013d5a6bad0b
-    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
-    id: 6paZkmBMZwQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-37-example/tangent-planes/6paZkmBMZwQ.srt
-  - uid: dd0a3008b1a04cfca9d3a6ef0d5adeae
-    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
-    id: 6paZkmBMZwQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-37-example/tangent-planes/6paZkmBMZwQ.pdf
-  - uid: bb9ea8775606ef5e11a63a8613cb79d2
-    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a8cb31627c7a21e372212612a4bf57bf
-    parent_uid: 8178b0890c9d24c5b8fb9155e19a09ce
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 8178b0890c9d24c5b8fb9155e19a09ce
 type: courses
 layout: video
 ---

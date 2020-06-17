@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Derivative of sin(x), Algebraic Proof'
-uid: db7a32a149bc77dd172c8fb5394cb5ab
-parent_uid: 118fc2aa2f82b0483267f66bf76b6ba7
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/clip-1-derivative-of-sin-x-algebraic-proof
-short_url: clip-1-derivative-of-sin-x-algebraic-proof
-inline_embed_id: '91998710clip1:derivativeofsin(x),algebraicproof45729858'
 about_this_resource_text: >-
   <p>&raquo;<a target="_blank"
   href="./resolveuid/dfa14ed61544748587c83f9b46f43c28"> Accompanying Notes
   (PDF)</a></p> <p class="scholar_medsm">From Lecture 3 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: kCPVBl953eY
+    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2ba4ac02b2adb383e03826892ca2d14b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/kCPVBl953eY/default.jpg'
+    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f7d8541cf62527b645c4c887ff371959
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec03_300k.mp4'
+    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 03c369de10634917e8e08e3cc3e53587
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: kCPVBl953eY
+    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 43ab3ed93476eea897c6ee66be0cc425
+  - id: kCPVBl953eY.srt
+    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/clip-1-derivative-of-sin-x-algebraic-proof/kCPVBl953eY.srt
+    title: 3play caption file
+    type: null
+    uid: f5083220aa8772eb4a87d25a873623ba
+  - id: kCPVBl953eY.pdf
+    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/clip-1-derivative-of-sin-x-algebraic-proof/kCPVBl953eY.pdf
+    title: 3play pdf file
+    type: null
+    uid: c140474535d2b8a6c2c2530d4c114b52
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a887b05a94ad69788bbb622b87b01f27
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bf9f2c7289d2c0ea4e1998629dd6557d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 57fc064f56118ef0d43e59a1c04df585
+inline_embed_id: '91998710clip1:derivativeofsin(x),algebraicproof45729858'
+parent_uid: 118fc2aa2f82b0483267f66bf76b6ba7
 related_resources_text: ''
+short_url: clip-1-derivative-of-sin-x-algebraic-proof
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/clip-1-derivative-of-sin-x-algebraic-proof
+title: 'Clip 1: Derivative of sin(x), Algebraic Proof'
 transcript: >-
   <p><span m="370">The following</span> <span m="1070">is</span> <span
   m="1310">provided</span> <span m="1400">under</span> <span m="1670">a</span>
@@ -2679,61 +2733,7 @@ transcript: >-
   m="2991080">responsible</span> <span m="2991810">for</span> <span
   m="2991940">these</span> <span m="2992170">kinds</span> <span
   m="2992430">of</span> <span m="2992510">proofs.</span></p>
-embedded_media:
-  - uid: 2ba4ac02b2adb383e03826892ca2d14b
-    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: kCPVBl953eY
-  - uid: f7d8541cf62527b645c4c887ff371959
-    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/kCPVBl953eY/default.jpg'
-  - uid: 03c369de10634917e8e08e3cc3e53587
-    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec03_300k.mp4'
-  - uid: 43ab3ed93476eea897c6ee66be0cc425
-    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: kCPVBl953eY
-  - uid: f5083220aa8772eb4a87d25a873623ba
-    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
-    id: kCPVBl953eY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/clip-1-derivative-of-sin-x-algebraic-proof/kCPVBl953eY.srt
-  - uid: c140474535d2b8a6c2c2530d4c114b52
-    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
-    id: kCPVBl953eY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/clip-1-derivative-of-sin-x-algebraic-proof/kCPVBl953eY.pdf
-  - uid: a887b05a94ad69788bbb622b87b01f27
-    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bf9f2c7289d2c0ea4e1998629dd6557d
-    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 57fc064f56118ef0d43e59a1c04df585
-    parent_uid: db7a32a149bc77dd172c8fb5394cb5ab
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: db7a32a149bc77dd172c8fb5394cb5ab
 type: courses
 layout: video
 ---

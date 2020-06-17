@@ -1,13 +1,68 @@
 ---
-title: Comparing Functions Using the MVT
-uid: 6caac3aa07029b9fae72b4e34c3fdc66
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: G_HS1Dan_x4
+    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b8bfbe0b62ba6bd74cacb7fcf199c56c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/G_HS1Dan_x4/default.jpg'
+    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 62c8eac9801d39c68b3867110f164d1a
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/mean-value-theorem/id414308064?i=90318996
+    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: db81a7286d3f85e25209c470a5cacef4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_26_300k.mp4'
+    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a6ccf4b77520e850be9830917c50a9a9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: G_HS1Dan_x4
+    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 77915d47d3c93edc2162c182472c75eb
+  - id: G_HS1Dan_x4.srt
+    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-35-using-the-mean-value-theorem/comparing-functions-using-the-mvt/G_HS1Dan_x4.srt
+    title: 3play caption file
+    type: null
+    uid: f6d31763ca8773448e3d21a797fb44b6
+  - id: G_HS1Dan_x4.pdf
+    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-35-using-the-mean-value-theorem/comparing-functions-using-the-mvt/G_HS1Dan_x4.pdf
+    title: 3play pdf file
+    type: null
+    uid: c34fac441fdde91f6b0429664aacafd0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e01eb2dd5739f2f3a0f532e75d70b810
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d02a2c8c71018384021acdb1c023802f
+inline_embed_id: 98810764comparingfunctionsusingthemvt73925196
 parent_uid: 673ff3f8ec331bce1196314f7e83c11b
+related_resources_text: ''
+short_url: comparing-functions-using-the-mvt
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-35-using-the-mean-value-theorem/comparing-functions-using-the-mvt
-short_url: comparing-functions-using-the-mvt
-inline_embed_id: 98810764comparingfunctionsusingthemvt73925196
-about_this_resource_text: ''
-related_resources_text: ''
+title: Comparing Functions Using the MVT
 transcript: >-
   <p><span m='0'>CHRISTINE BREINER:</span> <span m='6830'>Welcome</span> <span
   m='7280'>to</span> <span m='7360'>recitation.</span> </p><p><span
@@ -434,62 +489,7 @@ transcript: >-
   m='363420'>I</span> <span m='363480'>think</span> <span
   m='363670'>we'll</span> <span m='363760'>stop</span> <span
   m='363980'>there.</span> </p>
-embedded_media:
-  - uid: b8bfbe0b62ba6bd74cacb7fcf199c56c
-    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: G_HS1Dan_x4
-  - uid: 62c8eac9801d39c68b3867110f164d1a
-    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/G_HS1Dan_x4/default.jpg'
-  - uid: db81a7286d3f85e25209c470a5cacef4
-    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/mean-value-theorem/id414308064?i=90318996
-  - uid: a6ccf4b77520e850be9830917c50a9a9
-    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_26_300k.mp4'
-  - uid: 77915d47d3c93edc2162c182472c75eb
-    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: G_HS1Dan_x4
-  - uid: f6d31763ca8773448e3d21a797fb44b6
-    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
-    id: G_HS1Dan_x4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-35-using-the-mean-value-theorem/comparing-functions-using-the-mvt/G_HS1Dan_x4.srt
-  - uid: c34fac441fdde91f6b0429664aacafd0
-    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
-    id: G_HS1Dan_x4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-35-using-the-mean-value-theorem/comparing-functions-using-the-mvt/G_HS1Dan_x4.pdf
-  - uid: e01eb2dd5739f2f3a0f532e75d70b810
-    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d02a2c8c71018384021acdb1c023802f
-    parent_uid: 6caac3aa07029b9fae72b4e34c3fdc66
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6caac3aa07029b9fae72b4e34c3fdc66
 type: courses
 layout: video
 ---

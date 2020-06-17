@@ -1,16 +1,70 @@
 ---
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 63U4_OxohOw
+    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9c32e04e59f9651bdabdded0e5566e96
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/63U4_OxohOw/default.jpg'
+    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: af77ee2255ab290580a563a6d8d03096
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 63U4_OxohOw
+    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7fc83a6363cf16a172537bbbdff0d86e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0ad3ed1dae5d652d96344e35bebfd003
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W02PS01v02_1_360p.mp4'
+    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 92b4bdf494594916f7fb4d70754915ac
+  - id: 63U4_OxohOw.srt
+    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/worked-example-stacked-blocks-free-body-diagrams-and-applying-newtons-2nd-law/63U4_OxohOw.srt
+    title: 3play caption file
+    type: null
+    uid: 04ef0132866bfbe18313cc4250b8c2f7
+  - id: 63U4_OxohOw.pdf
+    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/worked-example-stacked-blocks-free-body-diagrams-and-applying-newtons-2nd-law/63U4_OxohOw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6c1de9756ae63d3729bdcbbd9f94b644
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6e6a0e25ed01fa64bf5a0bdbf56384d3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8bac6c1f2d1b0a3c91e5add0fef4a57e
+inline_embed_id: >-
+  57733744workedexamplestackedblocksfreebodydiagramsandapplyingnewtons2ndlaw31594812
+parent_uid: 00aef6423d37f1e08db3ced31e4003c0
+related_resources_text: ''
+short_url: worked-example-stacked-blocks-free-body-diagrams-and-applying-newtons-2nd-law
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/worked-example-stacked-blocks-free-body-diagrams-and-applying-newtons-2nd-law
 title: >-
   Worked Example - Stacked Blocks - Free Body Diagrams and Applying Newton's 2nd
   Law
-uid: 9fd8cdaadb78a95fb336a99a5867fd43
-parent_uid: 00aef6423d37f1e08db3ced31e4003c0
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/worked-example-stacked-blocks-free-body-diagrams-and-applying-newtons-2nd-law
-short_url: worked-example-stacked-blocks-free-body-diagrams-and-applying-newtons-2nd-law
-inline_embed_id: >-
-  57733744workedexamplestackedblocksfreebodydiagramsandapplyingnewtons2ndlaw31594812
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
 transcript: >-
   <p><span m='3240'>One of the big difficulties students</span> <span
   m='4750'>have in a problem that involves many objects is</span> <span
@@ -137,61 +191,7 @@ transcript: >-
   I</span> <span m='479590'>have that my force between the blocks, the normal
   force</span> <span m='483790'>between the blocks, minus gravity is 0.</span>
   </p><p></p>
-embedded_media:
-  - uid: 9c32e04e59f9651bdabdded0e5566e96
-    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 63U4_OxohOw
-  - uid: af77ee2255ab290580a563a6d8d03096
-    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/63U4_OxohOw/default.jpg'
-  - uid: 7fc83a6363cf16a172537bbbdff0d86e
-    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 63U4_OxohOw
-  - uid: 0ad3ed1dae5d652d96344e35bebfd003
-    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 92b4bdf494594916f7fb4d70754915ac
-    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W02PS01v02_1_360p.mp4'
-  - uid: 04ef0132866bfbe18313cc4250b8c2f7
-    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
-    id: 63U4_OxohOw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/worked-example-stacked-blocks-free-body-diagrams-and-applying-newtons-2nd-law/63U4_OxohOw.srt
-  - uid: 6c1de9756ae63d3729bdcbbd9f94b644
-    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
-    id: 63U4_OxohOw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/worked-example-stacked-blocks-free-body-diagrams-and-applying-newtons-2nd-law/63U4_OxohOw.pdf
-  - uid: 6e6a0e25ed01fa64bf5a0bdbf56384d3
-    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8bac6c1f2d1b0a3c91e5add0fef4a57e
-    parent_uid: 9fd8cdaadb78a95fb336a99a5867fd43
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9fd8cdaadb78a95fb336a99a5867fd43
 type: courses
 layout: video
 ---

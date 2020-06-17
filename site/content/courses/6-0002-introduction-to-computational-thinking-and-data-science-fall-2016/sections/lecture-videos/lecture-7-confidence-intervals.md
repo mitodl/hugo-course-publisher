@@ -1,15 +1,69 @@
 ---
-title: 'Lecture 7: Confidence Intervals'
-uid: 63d84d8a4d31d13aee5b13d954e6579d
-parent_uid: dfe2b9f5ab127795415ac86facf4a535
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-7-confidence-intervals
-short_url: lecture-7-confidence-intervals
-inline_embed_id: 94913549lecture7confidenceintervals2565318
 about_this_resource_text: >-
   <p><strong>Description:</strong> Prof. Guttag continues discussing Monte Carlo
   simulations.</p><p><strong>Instructor:</strong> John Guttag</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: rUxP7TM8-wo
+    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 28538bad232757a09af739e90b857f1e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/rUxP7TM8-wo/default.jpg'
+    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 90e530293a3788cff8cb415e65dc807d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: rUxP7TM8-wo
+    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 464e89f79f4ec15dcba85733e78170be
+  - id: rUxP7TM8-wo.srt
+    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-7-confidence-intervals/rUxP7TM8-wo.srt
+    title: 3play caption file
+    type: null
+    uid: 8a5d0abd730ca2cd8c8743f17453569b
+  - id: rUxP7TM8-wo.pdf
+    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-7-confidence-intervals/rUxP7TM8-wo.pdf
+    title: 3play pdf file
+    type: null
+    uid: d909d24a4e993ab66ef7d70f065d4873
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c53d2226103fb4927651509401aa6622
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d70f4d26775be53436093622996c0319
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
+    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0d9c69613919dba7b0cca4e0e46c1388
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec07_300k.mp4'
+    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: feddb6d5a8839c6b145ceff06409349c
+inline_embed_id: 94913549lecture7confidenceintervals2565318
+parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
+short_url: lecture-7-confidence-intervals
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-7-confidence-intervals
+title: 'Lecture 7: Confidence Intervals'
 transcript: >-
   <p><span m="835">The</span> <span m="880">following</span> <span
   m="1330">content</span> <span m="1810">is</span> <span
@@ -2881,61 +2935,7 @@ transcript: >-
   m="3015130">on</span> <span m="3015400">to</span> <span m="3015580">a</span>
   <span m="3016150">different</span> <span m="3016540">topic</span> <span
   m="3017650">on</span> <span m="3018340">Wednesday.</span></p>
-embedded_media:
-  - uid: 28538bad232757a09af739e90b857f1e
-    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: rUxP7TM8-wo
-  - uid: 90e530293a3788cff8cb415e65dc807d
-    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rUxP7TM8-wo/default.jpg'
-  - uid: 464e89f79f4ec15dcba85733e78170be
-    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: rUxP7TM8-wo
-  - uid: 8a5d0abd730ca2cd8c8743f17453569b
-    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
-    id: rUxP7TM8-wo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-7-confidence-intervals/rUxP7TM8-wo.srt
-  - uid: d909d24a4e993ab66ef7d70f065d4873
-    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
-    id: rUxP7TM8-wo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-7-confidence-intervals/rUxP7TM8-wo.pdf
-  - uid: c53d2226103fb4927651509401aa6622
-    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d70f4d26775be53436093622996c0319
-    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0d9c69613919dba7b0cca4e0e46c1388
-    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
-  - uid: feddb6d5a8839c6b145ceff06409349c
-    parent_uid: 63d84d8a4d31d13aee5b13d954e6579d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec07_300k.mp4'
+uid: 63d84d8a4d31d13aee5b13d954e6579d
 type: courses
 layout: video
 ---

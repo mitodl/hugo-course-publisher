@@ -1,13 +1,73 @@
 ---
-title: Asymptotic Notation
-uid: 785afb2d64f38e56f72738b5c41042b2
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 785afb2d64f38e56f72738b5c41042b2
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 32205b2ea6135c322920cfd9a8594202
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 785afb2d64f38e56f72738b5c41042b2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b29b1ac8a4a5fb764d1bae078a5f1ae2
+  - id: Video-YouTube-Stream
+    media_location: CWkh5kb4TGc
+    parent_uid: 785afb2d64f38e56f72738b5c41042b2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: aebfbdf4c7ad2104de12319dfd6bc483
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CWkh5kb4TGc/default.jpg'
+    parent_uid: 785afb2d64f38e56f72738b5c41042b2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: afdfac6bb2ff2daf3cc05f12e6f5c1ca
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: CWkh5kb4TGc
+    parent_uid: 785afb2d64f38e56f72738b5c41042b2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e438f020f0b9f58804a6bbd53e2cf65d
+  - id: CWkh5kb4TGc.srt
+    parent_uid: 785afb2d64f38e56f72738b5c41042b2
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/asymptotic-notation/CWkh5kb4TGc.srt
+    title: 3play caption file
+    type: null
+    uid: 9c2ce88499e40ba3bbe8fe69e8b77eb8
+  - id: CWkh5kb4TGc.pdf
+    parent_uid: 785afb2d64f38e56f72738b5c41042b2
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/asymptotic-notation/CWkh5kb4TGc.pdf
+    title: 3play pdf file
+    type: null
+    uid: a48e974004bdad8037c6f8b9d30797c6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 785afb2d64f38e56f72738b5c41042b2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9235266f5293b87581a8c6cf64e76c6e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 785afb2d64f38e56f72738b5c41042b2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 46a41173d1280367357c212974852dd5
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_asymptoticnotation_ipod.mp4
+    parent_uid: 785afb2d64f38e56f72738b5c41042b2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d42450f86da7f60120a0d689c47b6a65
+inline_embed_id: 12218517asymptoticnotation15935163
 parent_uid: 7fcb07616e2948a6ad10caa832263c78
+related_resources_text: ''
+short_url: asymptotic-notation
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/asymptotic-notation
-short_url: asymptotic-notation
-inline_embed_id: 12218517asymptoticnotation15935163
-about_this_resource_text: ''
-related_resources_text: ''
+title: Asymptotic Notation
 transcript: >-
   <p><span m='750'>PROFESSOR: The</span> <span m='920'>issue</span> <span
   m='1290'>of</span> <span m='1450'>the</span> <span m='1580'>approximate</span>
@@ -528,67 +588,7 @@ transcript: >-
   m='459220'>more</span> <span m='459460'>detail</span> <span
   m='460100'>in</span> <span m='460250'>the</span> <span m='460370'>next</span>
   <span m='460640'>segment.</span> </p>
-embedded_media:
-  - uid: 32205b2ea6135c322920cfd9a8594202
-    parent_uid: 785afb2d64f38e56f72738b5c41042b2
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: b29b1ac8a4a5fb764d1bae078a5f1ae2
-    parent_uid: 785afb2d64f38e56f72738b5c41042b2
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: aebfbdf4c7ad2104de12319dfd6bc483
-    parent_uid: 785afb2d64f38e56f72738b5c41042b2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CWkh5kb4TGc
-  - uid: afdfac6bb2ff2daf3cc05f12e6f5c1ca
-    parent_uid: 785afb2d64f38e56f72738b5c41042b2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CWkh5kb4TGc/default.jpg'
-  - uid: e438f020f0b9f58804a6bbd53e2cf65d
-    parent_uid: 785afb2d64f38e56f72738b5c41042b2
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CWkh5kb4TGc
-  - uid: 9c2ce88499e40ba3bbe8fe69e8b77eb8
-    parent_uid: 785afb2d64f38e56f72738b5c41042b2
-    id: CWkh5kb4TGc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/asymptotic-notation/CWkh5kb4TGc.srt
-  - uid: a48e974004bdad8037c6f8b9d30797c6
-    parent_uid: 785afb2d64f38e56f72738b5c41042b2
-    id: CWkh5kb4TGc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/asymptotic-notation/CWkh5kb4TGc.pdf
-  - uid: 9235266f5293b87581a8c6cf64e76c6e
-    parent_uid: 785afb2d64f38e56f72738b5c41042b2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 46a41173d1280367357c212974852dd5
-    parent_uid: 785afb2d64f38e56f72738b5c41042b2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d42450f86da7f60120a0d689c47b6a65
-    parent_uid: 785afb2d64f38e56f72738b5c41042b2
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_asymptoticnotation_ipod.mp4
+uid: 785afb2d64f38e56f72738b5c41042b2
 type: courses
 layout: video
 ---

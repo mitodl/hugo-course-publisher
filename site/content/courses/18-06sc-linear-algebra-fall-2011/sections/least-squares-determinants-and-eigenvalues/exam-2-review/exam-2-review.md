@@ -1,13 +1,67 @@
 ---
-title: Exam 2 Review
-uid: 2217a82fb2d958924674719da33655c8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: QuZL5IKpO_U
+    parent_uid: 2217a82fb2d958924674719da33655c8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f23e36ef291c8787e6cdaee3a4dc913d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 2217a82fb2d958924674719da33655c8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 44c35de9130db3ff414d6487230d1311
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/24b.mp4'
+    parent_uid: 2217a82fb2d958924674719da33655c8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1933151559e2d9e316a6ca8afe0abc1c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: QuZL5IKpO_U
+    parent_uid: 2217a82fb2d958924674719da33655c8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2e1c7f7ce09f2979f58cf36a79bec2b6
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/QuZL5IKpO_U/default.jpg'
+    parent_uid: 2217a82fb2d958924674719da33655c8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6eb37e2ee6d1357afd4d8a7a56a5e325
+  - id: QuZL5IKpO_U.srt
+    parent_uid: 2217a82fb2d958924674719da33655c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/exam-2-review/exam-2-review/QuZL5IKpO_U.srt
+    title: 3play caption file
+    type: null
+    uid: 0b40037829358f998604b2ac24da1e32
+  - id: QuZL5IKpO_U.pdf
+    parent_uid: 2217a82fb2d958924674719da33655c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/exam-2-review/exam-2-review/QuZL5IKpO_U.pdf
+    title: 3play pdf file
+    type: null
+    uid: f29ba440690bf171f209c6fd9ba253d6
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: 2217a82fb2d958924674719da33655c8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 419ccf63303c2f33bb4fb728d6838005
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: 2217a82fb2d958924674719da33655c8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5dd0d6f557531de3efc22acb2d135d10
+inline_embed_id: 87671473exam2review8038919
 parent_uid: 1d3266496e0830e57e069f94d70f88bb
+related_resources_text: ''
+short_url: exam-2-review
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/exam-2-review/exam-2-review
-short_url: exam-2-review
-inline_embed_id: 87671473exam2review8038919
-about_this_resource_text: ''
-related_resources_text: ''
+title: Exam 2 Review
 transcript: >-
   <p><span m='9720'>OK,</span> <span m='10100'>this</span> <span
   m='10330'>is</span> <span m='10790'>quiz</span> <span m='11140'>review</span>
@@ -2821,61 +2875,7 @@ transcript: >-
   m='2884920'>is</span> <span m='2885700'>Wednesday</span> <span
   m='2886650'>at</span> <span m='2887590'>one</span> <span
   m='2888160'>o'clock.</span> </p><p><span m='2888740'>Thanks.</span> </p>
-embedded_media:
-  - uid: f23e36ef291c8787e6cdaee3a4dc913d
-    parent_uid: 2217a82fb2d958924674719da33655c8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QuZL5IKpO_U
-  - uid: 44c35de9130db3ff414d6487230d1311
-    parent_uid: 2217a82fb2d958924674719da33655c8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 1933151559e2d9e316a6ca8afe0abc1c
-    parent_uid: 2217a82fb2d958924674719da33655c8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/24b.mp4'
-  - uid: 2e1c7f7ce09f2979f58cf36a79bec2b6
-    parent_uid: 2217a82fb2d958924674719da33655c8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QuZL5IKpO_U
-  - uid: 6eb37e2ee6d1357afd4d8a7a56a5e325
-    parent_uid: 2217a82fb2d958924674719da33655c8
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QuZL5IKpO_U/default.jpg'
-  - uid: 0b40037829358f998604b2ac24da1e32
-    parent_uid: 2217a82fb2d958924674719da33655c8
-    id: QuZL5IKpO_U.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/exam-2-review/exam-2-review/QuZL5IKpO_U.srt
-  - uid: f29ba440690bf171f209c6fd9ba253d6
-    parent_uid: 2217a82fb2d958924674719da33655c8
-    id: QuZL5IKpO_U.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/exam-2-review/exam-2-review/QuZL5IKpO_U.pdf
-  - uid: 419ccf63303c2f33bb4fb728d6838005
-    parent_uid: 2217a82fb2d958924674719da33655c8
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5dd0d6f557531de3efc22acb2d135d10
-    parent_uid: 2217a82fb2d958924674719da33655c8
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2217a82fb2d958924674719da33655c8
 type: courses
 layout: video
 ---

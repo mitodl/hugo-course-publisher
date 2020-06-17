@@ -1,13 +1,67 @@
 ---
-title: Week 3 Introduction
-uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
+about_this_resource_text: '<p><strong>Instructor: </strong>Prof. Deepto Chakrabarty</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: dlJtUvRaGdE
+    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 017f3e5d2780989b17efc06a6fb31427
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/dlJtUvRaGdE/default.jpg'
+    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a4281f4a030212c55f0245d91318fd8b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: dlJtUvRaGdE
+    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 247b885c64d127f21e1d997be5532c8c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7e63dae5c06478addb0796d927fe5cdc
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W03Intro_360p.mp4'
+    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f84bac2e60fc44a6311333c2ea0a6ce4
+  - id: dlJtUvRaGdE.srt
+    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-3-circular-motion/week-3-introduction/week-3-introduction/dlJtUvRaGdE.srt
+    title: 3play caption file
+    type: null
+    uid: de1349a63c16f182de916e1b54624439
+  - id: dlJtUvRaGdE.pdf
+    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-3-circular-motion/week-3-introduction/week-3-introduction/dlJtUvRaGdE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 20ae8438ec9cbe7bced93b8ffe5ce6f7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7f49a657f84f9f22e9c6ab77b3354651
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 916b6c7a0bd1e06f531e3c9ce9b285d7
+inline_embed_id: 46626189week3introduction33662295
 parent_uid: 467e5a37cf4f277fb9e31ec984e101a8
+related_resources_text: ''
+short_url: week-3-introduction
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-3-circular-motion/week-3-introduction/week-3-introduction
-short_url: week-3-introduction
-inline_embed_id: 46626189week3introduction33662295
-about_this_resource_text: '<p><strong>Instructor: </strong>Prof. Deepto Chakrabarty</p>'
-related_resources_text: ''
+title: Week 3 Introduction
 transcript: >-
   <p><span m='1220'>This week, we will consider the special case</span> <span
   m='3900'>of circular motion.</span> </p><p><span m='5640'>The case where we
@@ -36,61 +90,7 @@ transcript: >-
   this course of constrained motion.</span> </p><p><span m='77400'>In this case,
   the constraint is that the object</span> <span m='79900'>moves in a circular
   path.</span> </p><p></p>
-embedded_media:
-  - uid: 017f3e5d2780989b17efc06a6fb31427
-    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: dlJtUvRaGdE
-  - uid: a4281f4a030212c55f0245d91318fd8b
-    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/dlJtUvRaGdE/default.jpg'
-  - uid: 247b885c64d127f21e1d997be5532c8c
-    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: dlJtUvRaGdE
-  - uid: 7e63dae5c06478addb0796d927fe5cdc
-    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: f84bac2e60fc44a6311333c2ea0a6ce4
-    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W03Intro_360p.mp4'
-  - uid: de1349a63c16f182de916e1b54624439
-    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
-    id: dlJtUvRaGdE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-3-circular-motion/week-3-introduction/week-3-introduction/dlJtUvRaGdE.srt
-  - uid: 20ae8438ec9cbe7bced93b8ffe5ce6f7
-    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
-    id: dlJtUvRaGdE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-3-circular-motion/week-3-introduction/week-3-introduction/dlJtUvRaGdE.pdf
-  - uid: 7f49a657f84f9f22e9c6ab77b3354651
-    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 916b6c7a0bd1e06f531e3c9ce9b285d7
-    parent_uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
 type: courses
 layout: video
 ---

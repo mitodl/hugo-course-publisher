@@ -1,13 +1,73 @@
 ---
-title: Bogus Induction
-uid: 41b1f60efbc17acea6f567b2656481a8
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 41b1f60efbc17acea6f567b2656481a8
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 2566940450f56e0ab37ce18156bee560
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 41b1f60efbc17acea6f567b2656481a8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3c84088dfd00831a4112b1391f9a1aec
+  - id: Video-YouTube-Stream
+    media_location: D3E5CKebKuQ
+    parent_uid: 41b1f60efbc17acea6f567b2656481a8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f1ca3af9ed73c87cc536a7f26ea9f9d8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/D3E5CKebKuQ/default.jpg'
+    parent_uid: 41b1f60efbc17acea6f567b2656481a8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7650b29f5deb361a54dff5fd62abd7b7
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: D3E5CKebKuQ
+    parent_uid: 41b1f60efbc17acea6f567b2656481a8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ac29665b8ab84691cf1f2246de62d662
+  - id: D3E5CKebKuQ.srt
+    parent_uid: 41b1f60efbc17acea6f567b2656481a8
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-9984d57d43e5/bogus-induction/D3E5CKebKuQ.srt
+    title: 3play caption file
+    type: null
+    uid: 030c240f435eb8f4c1c0a769b3275afc
+  - id: D3E5CKebKuQ.pdf
+    parent_uid: 41b1f60efbc17acea6f567b2656481a8
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-9984d57d43e5/bogus-induction/D3E5CKebKuQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: f187cb2f9c07e6d4b51159b567a69bd0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 41b1f60efbc17acea6f567b2656481a8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 066b3e5580ebb010f62f0ce0ba02b29d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 41b1f60efbc17acea6f567b2656481a8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: af395656b77b90725589c41019dd6d19
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_bogusinduction_ipod.mp4
+    parent_uid: 41b1f60efbc17acea6f567b2656481a8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7eaf058257e673ea5748468f692b15b3
+inline_embed_id: 61173422bogusinduction58393400
 parent_uid: 5c7eefc2aa74f435dfec3b66a4c02648
+related_resources_text: ''
+short_url: bogus-induction
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-9984d57d43e5/bogus-induction
-short_url: bogus-induction
-inline_embed_id: 61173422bogusinduction58393400
-about_this_resource_text: ''
-related_resources_text: ''
+title: Bogus Induction
 transcript: >-
   <p><span m='390'>PROFESSOR: Understanding</span> <span m='1240'>proofs</span>
   <span m='1750'>includes</span> <span m='2240'>the</span> <span
@@ -381,67 +441,7 @@ transcript: >-
   m='299480'>and</span> <span m='299690'>the</span> <span
   m='299760'>proof</span> <span m='300220'>breaks</span> <span
   m='300550'>down.</span> </p>
-embedded_media:
-  - uid: 2566940450f56e0ab37ce18156bee560
-    parent_uid: 41b1f60efbc17acea6f567b2656481a8
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 3c84088dfd00831a4112b1391f9a1aec
-    parent_uid: 41b1f60efbc17acea6f567b2656481a8
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: f1ca3af9ed73c87cc536a7f26ea9f9d8
-    parent_uid: 41b1f60efbc17acea6f567b2656481a8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: D3E5CKebKuQ
-  - uid: 7650b29f5deb361a54dff5fd62abd7b7
-    parent_uid: 41b1f60efbc17acea6f567b2656481a8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/D3E5CKebKuQ/default.jpg'
-  - uid: ac29665b8ab84691cf1f2246de62d662
-    parent_uid: 41b1f60efbc17acea6f567b2656481a8
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: D3E5CKebKuQ
-  - uid: 030c240f435eb8f4c1c0a769b3275afc
-    parent_uid: 41b1f60efbc17acea6f567b2656481a8
-    id: D3E5CKebKuQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-9984d57d43e5/bogus-induction/D3E5CKebKuQ.srt
-  - uid: f187cb2f9c07e6d4b51159b567a69bd0
-    parent_uid: 41b1f60efbc17acea6f567b2656481a8
-    id: D3E5CKebKuQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-9984d57d43e5/bogus-induction/D3E5CKebKuQ.pdf
-  - uid: 066b3e5580ebb010f62f0ce0ba02b29d
-    parent_uid: 41b1f60efbc17acea6f567b2656481a8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: af395656b77b90725589c41019dd6d19
-    parent_uid: 41b1f60efbc17acea6f567b2656481a8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7eaf058257e673ea5748468f692b15b3
-    parent_uid: 41b1f60efbc17acea6f567b2656481a8
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_bogusinduction_ipod.mp4
+uid: 41b1f60efbc17acea6f567b2656481a8
 type: courses
 layout: video
 ---

@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Repeated Factors'
-uid: e13a426065532d89001fb551e986ee9d
-parent_uid: b2d9964453e89357525c798ec9a77daf
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/clip-1-repeated-factors
-short_url: clip-1-repeated-factors
-inline_embed_id: '36445004clip1:repeatedfactors80575716'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/3b3d89940e5c01c44288a15fa6a15a00"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 29 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: HgEqXhsIq_g
+    parent_uid: e13a426065532d89001fb551e986ee9d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 978e73986a42850cee83f759356ea59b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/HgEqXhsIq_g/default.jpg'
+    parent_uid: e13a426065532d89001fb551e986ee9d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cf7dc3a458f56ced7497adb489a95d65
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: HgEqXhsIq_g
+    parent_uid: e13a426065532d89001fb551e986ee9d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e4ca62822b4ffe14673d5f35ee6116e4
+  - id: HgEqXhsIq_g.srt
+    parent_uid: e13a426065532d89001fb551e986ee9d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/clip-1-repeated-factors/HgEqXhsIq_g.srt
+    title: 3play caption file
+    type: null
+    uid: 8b057f889ba66ce56c143ba0aecd12ea
+  - id: HgEqXhsIq_g.pdf
+    parent_uid: e13a426065532d89001fb551e986ee9d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/clip-1-repeated-factors/HgEqXhsIq_g.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6a574300449deaef8d2e34f640c93167
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e13a426065532d89001fb551e986ee9d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a3bd138a0045bebed1c4abaaa6d477fb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e13a426065532d89001fb551e986ee9d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 74c6f176c10640ebec95549f04953bce
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec29_300k.mp4'
+    parent_uid: e13a426065532d89001fb551e986ee9d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c32f05f78ca714c3d7f81409f8ef7ff3
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: e13a426065532d89001fb551e986ee9d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f036488ba782ddec0a6d5aa100a69f69
+inline_embed_id: '36445004clip1:repeatedfactors80575716'
+parent_uid: b2d9964453e89357525c798ec9a77daf
 related_resources_text: ''
+short_url: clip-1-repeated-factors
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/clip-1-repeated-factors
+title: 'Clip 1: Repeated Factors'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1300'>is</span> <span m='1420'>provided</span>
@@ -2658,61 +2712,7 @@ transcript: >-
   m='2914620'>and</span> <span m='2915280'>see</span> <span
   m='2915770'>you</span> <span m='2915990'>next</span> <span
   m='2916070'>time.</span> </p>
-embedded_media:
-  - uid: 978e73986a42850cee83f759356ea59b
-    parent_uid: e13a426065532d89001fb551e986ee9d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: HgEqXhsIq_g
-  - uid: cf7dc3a458f56ced7497adb489a95d65
-    parent_uid: e13a426065532d89001fb551e986ee9d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/HgEqXhsIq_g/default.jpg'
-  - uid: e4ca62822b4ffe14673d5f35ee6116e4
-    parent_uid: e13a426065532d89001fb551e986ee9d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: HgEqXhsIq_g
-  - uid: 8b057f889ba66ce56c143ba0aecd12ea
-    parent_uid: e13a426065532d89001fb551e986ee9d
-    id: HgEqXhsIq_g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/clip-1-repeated-factors/HgEqXhsIq_g.srt
-  - uid: 6a574300449deaef8d2e34f640c93167
-    parent_uid: e13a426065532d89001fb551e986ee9d
-    id: HgEqXhsIq_g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/clip-1-repeated-factors/HgEqXhsIq_g.pdf
-  - uid: a3bd138a0045bebed1c4abaaa6d477fb
-    parent_uid: e13a426065532d89001fb551e986ee9d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 74c6f176c10640ebec95549f04953bce
-    parent_uid: e13a426065532d89001fb551e986ee9d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c32f05f78ca714c3d7f81409f8ef7ff3
-    parent_uid: e13a426065532d89001fb551e986ee9d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec29_300k.mp4'
-  - uid: f036488ba782ddec0a6d5aa100a69f69
-    parent_uid: e13a426065532d89001fb551e986ee9d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: e13a426065532d89001fb551e986ee9d
 type: courses
 layout: video
 ---

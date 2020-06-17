@@ -1,13 +1,68 @@
 ---
-title: Basis and Dimension
-uid: 8ed637ed491bb5dbdb8e31b243977e0c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: MMWqGD4Urso
+    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d2ce08ec9fb934b94fbad15ccb78cae9
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: MMWqGD4Urso
+    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0c8d6a6c0903cb08f5499ad237681556
+  - id: Video-iTunesU-MP4
+    media_location: "http://itunes.apple.com/us/itunes-u/basis-and-dimension/id488155309?i=108454355\t"
+    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 960a1d0cf3d774f31938087fc48a428c
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110526_A2_300k.mp4
+    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 521ebbba5ca3bc1e1ad7d530aee09efd
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/MMWqGD4Urso/default.jpg'
+    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 71ec3f6d14490711a2959e8cfbee65d9
+  - id: MMWqGD4Urso.srt
+    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/independence-basis-and-dimension/basis-and-dimension/MMWqGD4Urso.srt
+    title: 3play caption file
+    type: null
+    uid: e586522528a69a74d8d400ebc2c292a5
+  - id: MMWqGD4Urso.pdf
+    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/independence-basis-and-dimension/basis-and-dimension/MMWqGD4Urso.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0d432adcd7958f5dbedecccd20ec1efc
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2ac66b728df2825b56de226607e2d73d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bd7358a0190295068a7da87bf51bcee0
+inline_embed_id: 86670939basisanddimension6419100
 parent_uid: f4986e8213a7cf7cebaaaba5fa7882f0
+related_resources_text: ''
+short_url: basis-and-dimension
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/independence-basis-and-dimension/basis-and-dimension
-short_url: basis-and-dimension
-inline_embed_id: 86670939basisanddimension6419100
-about_this_resource_text: ''
-related_resources_text: ''
+title: Basis and Dimension
 transcript: >-
   <p><span m='7065'>PROFESSOR: Hi</span> <span m='7540'>there.</span> <span
   m='7920'>Welcome</span> <span m='8189'>back</span> <span m='8360'>to</span>
@@ -470,62 +525,7 @@ transcript: >-
   m='486420'>All</span> <span m='486610'>right.</span> <span
   m='487100'>We're</span> <span m='487250'>done.</span> <span
   m='488040'>Thank</span> <span m='488270'>you.</span> </p>
-embedded_media:
-  - uid: d2ce08ec9fb934b94fbad15ccb78cae9
-    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MMWqGD4Urso
-  - uid: 0c8d6a6c0903cb08f5499ad237681556
-    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MMWqGD4Urso
-  - uid: 960a1d0cf3d774f31938087fc48a428c
-    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: "http://itunes.apple.com/us/itunes-u/basis-and-dimension/id488155309?i=108454355\t"
-  - uid: 521ebbba5ca3bc1e1ad7d530aee09efd
-    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110526_A2_300k.mp4
-  - uid: 71ec3f6d14490711a2959e8cfbee65d9
-    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MMWqGD4Urso/default.jpg'
-  - uid: e586522528a69a74d8d400ebc2c292a5
-    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
-    id: MMWqGD4Urso.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/independence-basis-and-dimension/basis-and-dimension/MMWqGD4Urso.srt
-  - uid: 0d432adcd7958f5dbedecccd20ec1efc
-    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
-    id: MMWqGD4Urso.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/independence-basis-and-dimension/basis-and-dimension/MMWqGD4Urso.pdf
-  - uid: 2ac66b728df2825b56de226607e2d73d
-    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bd7358a0190295068a7da87bf51bcee0
-    parent_uid: 8ed637ed491bb5dbdb8e31b243977e0c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 8ed637ed491bb5dbdb8e31b243977e0c
 type: courses
 layout: video
 ---

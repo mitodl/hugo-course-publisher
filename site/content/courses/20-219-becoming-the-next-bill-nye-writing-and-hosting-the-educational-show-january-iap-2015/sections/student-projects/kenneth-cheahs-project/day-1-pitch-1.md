@@ -1,11 +1,4 @@
 ---
-title: Day 1 Pitch
-uid: 26391e2687c9c57e242bc6c91217dd27
-parent_uid: a8052e8691edd84e9df2c28f872ebec6
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/kenneth-cheahs-project/day-1-pitch-1
-short_url: day-1-pitch-1
-inline_embed_id: 68928605day1pitch52926504
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: GXvoGKLnGn8
+    parent_uid: 26391e2687c9c57e242bc6c91217dd27
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2a9dac00ac0e6877c600dfd852aefa43
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/GXvoGKLnGn8/default.jpg'
+    parent_uid: 26391e2687c9c57e242bc6c91217dd27
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ce6bdc5663405c16bf55c4613b0a7956
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: GXvoGKLnGn8
+    parent_uid: 26391e2687c9c57e242bc6c91217dd27
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b7d468ea205e2a1b31649cc478264efb
+  - id: GXvoGKLnGn8.srt
+    parent_uid: 26391e2687c9c57e242bc6c91217dd27
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/kenneth-cheahs-project/day-1-pitch-1/GXvoGKLnGn8.srt
+    title: 3play caption file
+    type: null
+    uid: cc7a668878558671ab06cb9b76c6f8d7
+  - id: GXvoGKLnGn8.pdf
+    parent_uid: 26391e2687c9c57e242bc6c91217dd27
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/kenneth-cheahs-project/day-1-pitch-1/GXvoGKLnGn8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4e3517a5514f591d90decd50f9c55e73
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 26391e2687c9c57e242bc6c91217dd27
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 797fc4d48fb57d3ed086dad3713fdc48
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 26391e2687c9c57e242bc6c91217dd27
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 37795a21b37c300982be2cfecd42b2db
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 26391e2687c9c57e242bc6c91217dd27
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 53afd91ac33a0f5fe5d719e0c042731c
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_KC_D01_Pitch_360p.mp4
+    parent_uid: 26391e2687c9c57e242bc6c91217dd27
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4a6d8f614a59d0f2b157e1146fdf5e71
+inline_embed_id: 68928605day1pitch52926504
+parent_uid: a8052e8691edd84e9df2c28f872ebec6
 related_resources_text: ''
+short_url: day-1-pitch-1
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/kenneth-cheahs-project/day-1-pitch-1
+title: Day 1 Pitch
 transcript: >-
   <p><span m="330">PROFESSOR: Everyone</span> <span m="650">has</span> <span
   m="810">pretty</span> <span m="1010">much</span> <span m="1290">seen</span>
@@ -309,62 +364,7 @@ transcript: >-
   m="223870">paradox</span> <span m="224350">of</span> <span
   m="224470">time--</span> <span m="224730">grandfather</span> <span
   m="225630">paradox.</span></p>
-embedded_media:
-  - uid: 2a9dac00ac0e6877c600dfd852aefa43
-    parent_uid: 26391e2687c9c57e242bc6c91217dd27
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: GXvoGKLnGn8
-  - uid: ce6bdc5663405c16bf55c4613b0a7956
-    parent_uid: 26391e2687c9c57e242bc6c91217dd27
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/GXvoGKLnGn8/default.jpg'
-  - uid: b7d468ea205e2a1b31649cc478264efb
-    parent_uid: 26391e2687c9c57e242bc6c91217dd27
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: GXvoGKLnGn8
-  - uid: cc7a668878558671ab06cb9b76c6f8d7
-    parent_uid: 26391e2687c9c57e242bc6c91217dd27
-    id: GXvoGKLnGn8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/kenneth-cheahs-project/day-1-pitch-1/GXvoGKLnGn8.srt
-  - uid: 4e3517a5514f591d90decd50f9c55e73
-    parent_uid: 26391e2687c9c57e242bc6c91217dd27
-    id: GXvoGKLnGn8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/kenneth-cheahs-project/day-1-pitch-1/GXvoGKLnGn8.pdf
-  - uid: 797fc4d48fb57d3ed086dad3713fdc48
-    parent_uid: 26391e2687c9c57e242bc6c91217dd27
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 37795a21b37c300982be2cfecd42b2db
-    parent_uid: 26391e2687c9c57e242bc6c91217dd27
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 53afd91ac33a0f5fe5d719e0c042731c
-    parent_uid: 26391e2687c9c57e242bc6c91217dd27
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 4a6d8f614a59d0f2b157e1146fdf5e71
-    parent_uid: 26391e2687c9c57e242bc6c91217dd27
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_KC_D01_Pitch_360p.mp4
+uid: 26391e2687c9c57e242bc6c91217dd27
 type: courses
 layout: video
 ---

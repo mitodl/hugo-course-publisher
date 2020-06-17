@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Non-Constant Speed Parametrization'
-uid: a20e892c2e73087cb7901f6311bad2c5
-parent_uid: 7aa6522b6e8e0d13937e54ed6e52710d
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-81-examples-using-parametrized-curves/clip-1-non-constant-speed-parametrization
-short_url: clip-1-non-constant-speed-parametrization
-inline_embed_id: '85819294clip1:non-constantspeedparametrization44867645'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/f6b80bf9237279fe2b9dd35275ad8f74" title="Open
   in a new window." target="_blank">Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 32 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: XRkgBWbWvg4
+    parent_uid: a20e892c2e73087cb7901f6311bad2c5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 501591ab9f0cfc3d35aa2d7a1b033820
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/XRkgBWbWvg4/default.jpg'
+    parent_uid: a20e892c2e73087cb7901f6311bad2c5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9314f945d3824370cd763a9a5f5ca1c4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: XRkgBWbWvg4
+    parent_uid: a20e892c2e73087cb7901f6311bad2c5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8c1eb6b872771b2b14f5ce8e475a5c37
+  - id: XRkgBWbWvg4.srt
+    parent_uid: a20e892c2e73087cb7901f6311bad2c5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-81-examples-using-parametrized-curves/clip-1-non-constant-speed-parametrization/XRkgBWbWvg4.srt
+    title: 3play caption file
+    type: null
+    uid: 8467716c668d2e7b379f8680c26535e0
+  - id: XRkgBWbWvg4.pdf
+    parent_uid: a20e892c2e73087cb7901f6311bad2c5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-81-examples-using-parametrized-curves/clip-1-non-constant-speed-parametrization/XRkgBWbWvg4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 224f05126269f9a9ffe77ed8203947b3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a20e892c2e73087cb7901f6311bad2c5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 24ae52922f7eea223301258d9988c81f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a20e892c2e73087cb7901f6311bad2c5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6cf2703cc6fed7dfaa2e1110e3fcbcd3
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec32_300k.mp4'
+    parent_uid: a20e892c2e73087cb7901f6311bad2c5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a7bd2e0657045a04489deab682c4c59d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: a20e892c2e73087cb7901f6311bad2c5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f6467007cf88ddc465b603d474cda784
+inline_embed_id: '85819294clip1:non-constantspeedparametrization44867645'
+parent_uid: 7aa6522b6e8e0d13937e54ed6e52710d
 related_resources_text: ''
+short_url: clip-1-non-constant-speed-parametrization
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-81-examples-using-parametrized-curves/clip-1-non-constant-speed-parametrization
+title: 'Clip 1: Non-Constant Speed Parametrization'
 transcript: >-
   <p><span m="60">The</span> <span m="530">following content</span> <span
   m="1300">is</span> <span m="1680">provided under a</span> <span
@@ -2860,61 +2914,7 @@ transcript: >-
   m="2957900">figure</span> <span m="2958130">out</span> <span
   m="2958950">area</span> <span m="2959610">in</span> <span
   m="2959750">polar</span> <span m="2960050">coordinates.</span></p>
-embedded_media:
-  - uid: 501591ab9f0cfc3d35aa2d7a1b033820
-    parent_uid: a20e892c2e73087cb7901f6311bad2c5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: XRkgBWbWvg4
-  - uid: 9314f945d3824370cd763a9a5f5ca1c4
-    parent_uid: a20e892c2e73087cb7901f6311bad2c5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/XRkgBWbWvg4/default.jpg'
-  - uid: 8c1eb6b872771b2b14f5ce8e475a5c37
-    parent_uid: a20e892c2e73087cb7901f6311bad2c5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: XRkgBWbWvg4
-  - uid: 8467716c668d2e7b379f8680c26535e0
-    parent_uid: a20e892c2e73087cb7901f6311bad2c5
-    id: XRkgBWbWvg4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-81-examples-using-parametrized-curves/clip-1-non-constant-speed-parametrization/XRkgBWbWvg4.srt
-  - uid: 224f05126269f9a9ffe77ed8203947b3
-    parent_uid: a20e892c2e73087cb7901f6311bad2c5
-    id: XRkgBWbWvg4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-81-examples-using-parametrized-curves/clip-1-non-constant-speed-parametrization/XRkgBWbWvg4.pdf
-  - uid: 24ae52922f7eea223301258d9988c81f
-    parent_uid: a20e892c2e73087cb7901f6311bad2c5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6cf2703cc6fed7dfaa2e1110e3fcbcd3
-    parent_uid: a20e892c2e73087cb7901f6311bad2c5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a7bd2e0657045a04489deab682c4c59d
-    parent_uid: a20e892c2e73087cb7901f6311bad2c5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec32_300k.mp4'
-  - uid: f6467007cf88ddc465b603d474cda784
-    parent_uid: a20e892c2e73087cb7901f6311bad2c5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: a20e892c2e73087cb7901f6311bad2c5
 type: courses
 layout: video
 ---

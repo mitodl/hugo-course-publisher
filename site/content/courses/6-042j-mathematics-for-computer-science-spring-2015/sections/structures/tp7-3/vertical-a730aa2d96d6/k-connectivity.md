@@ -1,13 +1,73 @@
 ---
-title: k-Connectivity
-uid: e207e2ccfacd7625cd9047595a57e166
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: e207e2ccfacd7625cd9047595a57e166
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 9c4ae8477be7ce9616c2e53fc0544b68
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: e207e2ccfacd7625cd9047595a57e166
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 23bd9d0b9d5e0edfa55af76549250a59
+  - id: Video-YouTube-Stream
+    media_location: 5wCZqdCDafc
+    parent_uid: e207e2ccfacd7625cd9047595a57e166
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 47532585e689ceee259031f33ac0b7cc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/5wCZqdCDafc/default.jpg'
+    parent_uid: e207e2ccfacd7625cd9047595a57e166
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 90444c83d9ce25ae65c67896a00cf0b1
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 5wCZqdCDafc
+    parent_uid: e207e2ccfacd7625cd9047595a57e166
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 07ea0049bc2e8e334baf4b966a78e4ea
+  - id: 5wCZqdCDafc.srt
+    parent_uid: e207e2ccfacd7625cd9047595a57e166
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/vertical-a730aa2d96d6/k-connectivity/5wCZqdCDafc.srt
+    title: 3play caption file
+    type: null
+    uid: f3bb1ff1f01c8f2a5c2891c4c7e706a0
+  - id: 5wCZqdCDafc.pdf
+    parent_uid: e207e2ccfacd7625cd9047595a57e166
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/vertical-a730aa2d96d6/k-connectivity/5wCZqdCDafc.pdf
+    title: 3play pdf file
+    type: null
+    uid: b6d0f4582cae4ae436d06dfada640fc0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e207e2ccfacd7625cd9047595a57e166
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c4ec0e023d53dd1bf7625ed50dc50e50
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e207e2ccfacd7625cd9047595a57e166
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ef26caf4ae0c4f88bd60d23627a8c61b
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_simple_kconnect_ipod.mp4
+    parent_uid: e207e2ccfacd7625cd9047595a57e166
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d6e1024e3b4dc6469e3f5f619a2acdb5
+inline_embed_id: 1548735kconnectivity19157758
 parent_uid: 6d719689c9fbbc5f94b501260dec76f1
+related_resources_text: ''
+short_url: k-connectivity
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/vertical-a730aa2d96d6/k-connectivity
-short_url: k-connectivity
-inline_embed_id: 1548735kconnectivity19157758
-about_this_resource_text: ''
-related_resources_text: ''
+title: k-Connectivity
 transcript: >-
   <p><span m='1350'>PROFESSOR: So</span> <span m='1540'>connectivity</span>
   <span m='2200'>is</span> <span m='2360'>more</span> <span m='2640'>than</span>
@@ -563,67 +623,7 @@ transcript: >-
   m='489970'>summary</span> <span m='490580'>of</span> <span
   m='490920'>the</span> <span m='491010'>k-connectivity</span> <span
   m='492240'>story.</span> </p>
-embedded_media:
-  - uid: 9c4ae8477be7ce9616c2e53fc0544b68
-    parent_uid: e207e2ccfacd7625cd9047595a57e166
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 23bd9d0b9d5e0edfa55af76549250a59
-    parent_uid: e207e2ccfacd7625cd9047595a57e166
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 47532585e689ceee259031f33ac0b7cc
-    parent_uid: e207e2ccfacd7625cd9047595a57e166
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 5wCZqdCDafc
-  - uid: 90444c83d9ce25ae65c67896a00cf0b1
-    parent_uid: e207e2ccfacd7625cd9047595a57e166
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/5wCZqdCDafc/default.jpg'
-  - uid: 07ea0049bc2e8e334baf4b966a78e4ea
-    parent_uid: e207e2ccfacd7625cd9047595a57e166
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 5wCZqdCDafc
-  - uid: f3bb1ff1f01c8f2a5c2891c4c7e706a0
-    parent_uid: e207e2ccfacd7625cd9047595a57e166
-    id: 5wCZqdCDafc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/vertical-a730aa2d96d6/k-connectivity/5wCZqdCDafc.srt
-  - uid: b6d0f4582cae4ae436d06dfada640fc0
-    parent_uid: e207e2ccfacd7625cd9047595a57e166
-    id: 5wCZqdCDafc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/vertical-a730aa2d96d6/k-connectivity/5wCZqdCDafc.pdf
-  - uid: c4ec0e023d53dd1bf7625ed50dc50e50
-    parent_uid: e207e2ccfacd7625cd9047595a57e166
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ef26caf4ae0c4f88bd60d23627a8c61b
-    parent_uid: e207e2ccfacd7625cd9047595a57e166
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d6e1024e3b4dc6469e3f5f619a2acdb5
-    parent_uid: e207e2ccfacd7625cd9047595a57e166
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_simple_kconnect_ipod.mp4
+uid: e207e2ccfacd7625cd9047595a57e166
 type: courses
 layout: video
 ---

@@ -1,18 +1,90 @@
 ---
-title: 'Lecture 25: Exam 3 Review'
-uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-25-exam-review
-short_url: lecture-25-exam-review
-inline_embed_id: '26126805lecture25:exam3review57455158'
 about_this_resource_text: >-
   <div class="vidpad"><p><em>Note: Lecture 26 was an exam session. No video was
   recorded.</em></p><p><strong>Topics covered:</strong> Exam 3 review</p>
   <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec25.jpg
+    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-25-exam-review/lec25.jpg
+    title: Lecture 25
+    type: null
+    uid: 717702014856c5d241059f21dcf4e4e3
+  - id: Video-YouTube-Stream
+    media_location: zUEuKrxgHws
+    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 890cfac167bbfc06da3f142eabf22dda
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/zUEuKrxgHws/default.jpg'
+    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b67e5d088dfa9ae781f30647511ed66a
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f434229982868c39e4acb24a3be57ea9
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec25_300k.mp4'
+    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6be673d0a1eb7a4cffc3e639112309b5
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: a7b6c999b1a48601a47b7660fd43dd93
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: eeeb041a6acef07341b337a04a5d60d8
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: zUEuKrxgHws
+    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bbd93d9bbbeae81a456065276a971f52
+  - id: zUEuKrxgHws.srt
+    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-25-exam-review/zUEuKrxgHws.srt
+    title: 3play caption file
+    type: null
+    uid: fd8c4255f960801f265aa315c7f2c4ac
+  - id: zUEuKrxgHws.pdf
+    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-25-exam-review/zUEuKrxgHws.pdf
+    title: 3play pdf file
+    type: null
+    uid: b5266921918dc8555a4c9a74829db65b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e80bba39e27f78a849f25364d29e9b6e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a041199a6fff4f320a0f72ba59be1a6f
+inline_embed_id: '26126805lecture25:exam3review57455158'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/2a2c56d0665ea6c00add496287b1d41a">PDF</a>)</p></div>
+short_url: lecture-25-exam-review
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-25-exam-review
+title: 'Lecture 25: Exam 3 Review'
 transcript: >-
   <p><span m='60'>The</span> <span m='520'>following content</span> <span
   m='1300'>is</span> <span m='1680'>provided</span> <span m='1743'>under</span>
@@ -2727,79 +2799,7 @@ transcript: >-
   m='2953910'>do</span> <span m='2954040'>the</span> <span
   m='2954180'>other</span> <span m='2954350'>way.</span> <span m='2954670'>Good
   luck,</span> <span m='2956240'>folks.</span> </p>
-embedded_media:
-  - uid: 717702014856c5d241059f21dcf4e4e3
-    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
-    id: lec25.jpg
-    title: Lecture 25
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-25-exam-review/lec25.jpg
-  - uid: 890cfac167bbfc06da3f142eabf22dda
-    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: zUEuKrxgHws
-  - uid: b67e5d088dfa9ae781f30647511ed66a
-    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/zUEuKrxgHws/default.jpg'
-  - uid: f434229982868c39e4acb24a3be57ea9
-    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: 6be673d0a1eb7a4cffc3e639112309b5
-    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec25_300k.mp4'
-  - uid: a7b6c999b1a48601a47b7660fd43dd93
-    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: eeeb041a6acef07341b337a04a5d60d8
-    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: bbd93d9bbbeae81a456065276a971f52
-    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: zUEuKrxgHws
-  - uid: fd8c4255f960801f265aa315c7f2c4ac
-    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
-    id: zUEuKrxgHws.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-25-exam-review/zUEuKrxgHws.srt
-  - uid: b5266921918dc8555a4c9a74829db65b
-    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
-    id: zUEuKrxgHws.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-25-exam-review/zUEuKrxgHws.pdf
-  - uid: e80bba39e27f78a849f25364d29e9b6e
-    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a041199a6fff4f320a0f72ba59be1a6f
-    parent_uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
 type: courses
 layout: video
 ---

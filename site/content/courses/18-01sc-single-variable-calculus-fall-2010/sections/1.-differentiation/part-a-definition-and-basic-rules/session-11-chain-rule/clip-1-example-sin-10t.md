@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Example: sin(10t)'
-uid: 96ed319bd636f0d38ffa92ea05a67095
-parent_uid: 68feb14ba590b3b088c989717ae12492
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/clip-1-example-sin-10t
-short_url: clip-1-example-sin-10t
-inline_embed_id: '17360706clip1:example:sin(10t)55962103'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/cbb37b9d5d7083c3e48b9db01e32fb8c"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 4 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 4sTKcvYMNxk
+    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 23204e90cf878892ff0f735ad9f85c62
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg'
+    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4d6984b5f676ca3630b97347f3e3d18e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec04_300k.mp4'
+    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 249e391a463352dbef93fb126b5b8611
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 4sTKcvYMNxk
+    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3ed8b5d077d246af72168caa6ce24da4
+  - id: 4sTKcvYMNxk.srt
+    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/clip-1-example-sin-10t/4sTKcvYMNxk.srt
+    title: 3play caption file
+    type: null
+    uid: 8846daef473a4ba5a5aa9d9ea616c9b4
+  - id: 4sTKcvYMNxk.pdf
+    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/clip-1-example-sin-10t/4sTKcvYMNxk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5001906bf5691cb84bbc4de69f45e662
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 23fc1438fcad807232d5f1af7e6a74d6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4a712330c9bd03dae5b8c21b79308d9e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: acfd88bd99c9bbc3a21388e1f68360cc
+inline_embed_id: '17360706clip1:example:sin(10t)55962103'
+parent_uid: 68feb14ba590b3b088c989717ae12492
 related_resources_text: ''
+short_url: clip-1-example-sin-10t
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/clip-1-example-sin-10t
+title: 'Clip 1: Example: sin(10t)'
 transcript: >-
   <p><span m="110">The</span> <span m="350">following</span> <span
   m="520">content</span> <span m="1260">is</span> <span m="1400">provided</span>
@@ -2120,61 +2174,7 @@ transcript: >-
   m="2755280">constant.</span> <span m="2756620">So</span> <span
   m="2756860">it's 0.</span></p><p><span m="2758180">Okay.</span> <span
   m="2758440">Thank</span> <span m="2758730">you.</span></p>
-embedded_media:
-  - uid: 23204e90cf878892ff0f735ad9f85c62
-    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4sTKcvYMNxk
-  - uid: 4d6984b5f676ca3630b97347f3e3d18e
-    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg'
-  - uid: 249e391a463352dbef93fb126b5b8611
-    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec04_300k.mp4'
-  - uid: 3ed8b5d077d246af72168caa6ce24da4
-    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4sTKcvYMNxk
-  - uid: 8846daef473a4ba5a5aa9d9ea616c9b4
-    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
-    id: 4sTKcvYMNxk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/clip-1-example-sin-10t/4sTKcvYMNxk.srt
-  - uid: 5001906bf5691cb84bbc4de69f45e662
-    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
-    id: 4sTKcvYMNxk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/clip-1-example-sin-10t/4sTKcvYMNxk.pdf
-  - uid: 23fc1438fcad807232d5f1af7e6a74d6
-    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4a712330c9bd03dae5b8c21b79308d9e
-    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: acfd88bd99c9bbc3a21388e1f68360cc
-    parent_uid: 96ed319bd636f0d38ffa92ea05a67095
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 96ed319bd636f0d38ffa92ea05a67095
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: Series solution and quantization of the energy
-uid: 79dda8c1a73f40ff33603608e6d62310
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 3VXLIF2DpHI
+    parent_uid: 79dda8c1a73f40ff33603608e6d62310
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 760a19fcd29cd92c2d085ef8d98928db
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/3VXLIF2DpHI/default.jpg'
+    parent_uid: 79dda8c1a73f40ff33603608e6d62310
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bfca6fc6ac37e13cb40910404cca1259
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 3VXLIF2DpHI
+    parent_uid: 79dda8c1a73f40ff33603608e6d62310
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e36fd10c9d75cabfe9c0270490e4911c
+  - id: 3VXLIF2DpHI.srt
+    parent_uid: 79dda8c1a73f40ff33603608e6d62310
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/series-solution-and-quantization-of-the-energy/3VXLIF2DpHI.srt
+    title: 3play caption file
+    type: null
+    uid: d564c6895c6dface22cb5791f5a676e1
+  - id: 3VXLIF2DpHI.pdf
+    parent_uid: 79dda8c1a73f40ff33603608e6d62310
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/series-solution-and-quantization-of-the-energy/3VXLIF2DpHI.pdf
+    title: 3play pdf file
+    type: null
+    uid: b365889adad4c9eadb7ce730ba028241
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 79dda8c1a73f40ff33603608e6d62310
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 771c05ae0f290b24bd2c1fce980fd184
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 79dda8c1a73f40ff33603608e6d62310
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 95d3f29aadf8449505a484699a9c0eef
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 79dda8c1a73f40ff33603608e6d62310
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d102c49765ece170eb84edde496f8539
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec22_s4_300k.mp4'
+    parent_uid: 79dda8c1a73f40ff33603608e6d62310
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d40efa0a6cefa51a9c7da3f9fa87e81f
+inline_embed_id: 75187973seriessolutionandquantizationoftheenergy66920202
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: series-solution-and-quantization-of-the-energy
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/series-solution-and-quantization-of-the-energy
-short_url: series-solution-and-quantization-of-the-energy
-inline_embed_id: 75187973seriessolutionandquantizationoftheenergy66920202
-about_this_resource_text: ''
-related_resources_text: ''
+title: Series solution and quantization of the energy
 transcript: >-
   <p><span m='740'>PROFESSOR:</span> <span m='900'>Write</span> <span
   m='2540'>w</span> <span m='3840'>equals</span> <span m='4950'>sum</span> <span
@@ -645,61 +699,7 @@ transcript: >-
   m='856930'>is</span> <span m='857080'>the</span> <span
   m='857200'>famous</span> <span m='857920'>13.6</span> <span
   m='859840'>EV.</span> </p>
-embedded_media:
-  - uid: 760a19fcd29cd92c2d085ef8d98928db
-    parent_uid: 79dda8c1a73f40ff33603608e6d62310
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 3VXLIF2DpHI
-  - uid: bfca6fc6ac37e13cb40910404cca1259
-    parent_uid: 79dda8c1a73f40ff33603608e6d62310
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/3VXLIF2DpHI/default.jpg'
-  - uid: e36fd10c9d75cabfe9c0270490e4911c
-    parent_uid: 79dda8c1a73f40ff33603608e6d62310
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 3VXLIF2DpHI
-  - uid: d564c6895c6dface22cb5791f5a676e1
-    parent_uid: 79dda8c1a73f40ff33603608e6d62310
-    id: 3VXLIF2DpHI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/series-solution-and-quantization-of-the-energy/3VXLIF2DpHI.srt
-  - uid: b365889adad4c9eadb7ce730ba028241
-    parent_uid: 79dda8c1a73f40ff33603608e6d62310
-    id: 3VXLIF2DpHI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/series-solution-and-quantization-of-the-energy/3VXLIF2DpHI.pdf
-  - uid: 771c05ae0f290b24bd2c1fce980fd184
-    parent_uid: 79dda8c1a73f40ff33603608e6d62310
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 95d3f29aadf8449505a484699a9c0eef
-    parent_uid: 79dda8c1a73f40ff33603608e6d62310
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d102c49765ece170eb84edde496f8539
-    parent_uid: 79dda8c1a73f40ff33603608e6d62310
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: d40efa0a6cefa51a9c7da3f9fa87e81f
-    parent_uid: 79dda8c1a73f40ff33603608e6d62310
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec22_s4_300k.mp4'
+uid: 79dda8c1a73f40ff33603608e6d62310
 type: courses
 layout: video
 ---

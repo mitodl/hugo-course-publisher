@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 8: Constraints: Search, Domain Reduction'
-uid: ee1eaf7d3728b0c47e7f2c98261083f4
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-8-constraints-search-domain-reduction
-short_url: lecture-8-constraints-search-domain-reduction
-inline_embed_id: '33593032lecture8:constraints:search,domainreduction85942943'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture covers map coloring and related
   scheduling problems.  We develop pseudocode for the domain reduction algorithm
   and consider how much constraint propagation is most efficient, and whether to
   start with the most or least constrained variables.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: d1KyYyLmGpA
+    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: aa12abb5e2c8feb03dc4e42fbf5f1e78
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-8-constraints-search/id765641080?i=194470752
+    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7ad9bdf3b7a74a70cc81f7fcda1898b4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec08_300k.mp4'
+    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2a60201f4eaee49d452116ca6b748e5f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/d1KyYyLmGpA/default.jpg'
+    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 269adc5bf482292e9c941937e8dc760a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: d1KyYyLmGpA
+    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 891c3d9e5d12816d252ddd55b26614af
+  - id: d1KyYyLmGpA.srt
+    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-8-constraints-search-domain-reduction/d1KyYyLmGpA.srt
+    title: 3play caption file
+    type: null
+    uid: 4fe8399a7158233716415a8f4656e51d
+  - id: d1KyYyLmGpA.pdf
+    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-8-constraints-search-domain-reduction/d1KyYyLmGpA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 39bec82cbe401eac7711c7662b75eb20
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b0ac0bb9225b2cec19fb65206f2be384
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7e1cbbe5359800da9cabd22540b4a8a6
+inline_embed_id: '33593032lecture8:constraints:search,domainreduction85942943'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
+short_url: lecture-8-constraints-search-domain-reduction
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-8-constraints-search-domain-reduction
+title: 'Lecture 8: Constraints: Search, Domain Reduction'
 transcript: >-
   <p><span m='9400'>PROF.</span> </p><p><span m='9450'>PATRICK WINSTON: It's too
   bad, in a way, that we can't paint</span> <span m='11430'>everything black,
@@ -729,62 +784,7 @@ transcript: >-
   Monday.</span> </p><p><span m='2703700'>We'll have two classes next week on
   Wednesday and Friday,</span> <span m='2708660'>as advertised.</span>
   </p><p></p>
-embedded_media:
-  - uid: aa12abb5e2c8feb03dc4e42fbf5f1e78
-    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: d1KyYyLmGpA
-  - uid: 7ad9bdf3b7a74a70cc81f7fcda1898b4
-    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-8-constraints-search/id765641080?i=194470752
-  - uid: 2a60201f4eaee49d452116ca6b748e5f
-    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec08_300k.mp4'
-  - uid: 269adc5bf482292e9c941937e8dc760a
-    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/d1KyYyLmGpA/default.jpg'
-  - uid: 891c3d9e5d12816d252ddd55b26614af
-    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: d1KyYyLmGpA
-  - uid: 4fe8399a7158233716415a8f4656e51d
-    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
-    id: d1KyYyLmGpA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-8-constraints-search-domain-reduction/d1KyYyLmGpA.srt
-  - uid: 39bec82cbe401eac7711c7662b75eb20
-    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
-    id: d1KyYyLmGpA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-8-constraints-search-domain-reduction/d1KyYyLmGpA.pdf
-  - uid: b0ac0bb9225b2cec19fb65206f2be384
-    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7e1cbbe5359800da9cabd22540b4a8a6
-    parent_uid: ee1eaf7d3728b0c47e7f2c98261083f4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: ee1eaf7d3728b0c47e7f2c98261083f4
 type: courses
 layout: video
 ---

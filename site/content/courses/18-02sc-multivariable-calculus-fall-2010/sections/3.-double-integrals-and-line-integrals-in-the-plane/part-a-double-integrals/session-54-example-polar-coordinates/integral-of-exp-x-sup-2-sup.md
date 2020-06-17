@@ -1,13 +1,68 @@
 ---
-title: Integral of exp(-x<sup>2</sup>)
-uid: f7685aa846f685451a32d878ca01c6fd
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: fWOGfzC3IeY
+    parent_uid: f7685aa846f685451a32d878ca01c6fd
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 796e3c13a3c795797e6c45d71fafb0c0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/fWOGfzC3IeY/default.jpg'
+    parent_uid: f7685aa846f685451a32d878ca01c6fd
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fe2f1f14941d684ca450fab53d1419c4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_37_300k.mp4'
+    parent_uid: f7685aa846f685451a32d878ca01c6fd
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a08cc3b3de457b2ecd286e0d010e88b6
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/integral-of-exp-x-2/id414355340?i=90322827
+    parent_uid: f7685aa846f685451a32d878ca01c6fd
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 776107c83b74565518583254c628038b
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: fWOGfzC3IeY
+    parent_uid: f7685aa846f685451a32d878ca01c6fd
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a6b29e49011b41539c9cff95fed2db12
+  - id: fWOGfzC3IeY.srt
+    parent_uid: f7685aa846f685451a32d878ca01c6fd
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-54-example-polar-coordinates/integral-of-exp-x-sup-2-sup/fWOGfzC3IeY.srt
+    title: 3play caption file
+    type: null
+    uid: c7e99d147383725b784d522bfede3628
+  - id: fWOGfzC3IeY.pdf
+    parent_uid: f7685aa846f685451a32d878ca01c6fd
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-54-example-polar-coordinates/integral-of-exp-x-sup-2-sup/fWOGfzC3IeY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9b198570a1bd7024149f53eb11b06bc1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f7685aa846f685451a32d878ca01c6fd
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 03cf6365778b2b61e00f42059bce9385
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f7685aa846f685451a32d878ca01c6fd
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 70f3571ed04bfb922bf7cd95d20deb1e
+inline_embed_id: 52059329integralofexp(-x<sup>2</sup>)36704280
 parent_uid: 4298c9f52873d0fa0eca900cbdf04cdc
+related_resources_text: ''
+short_url: integral-of-exp-x-sup-2-sup
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-54-example-polar-coordinates/integral-of-exp-x-sup-2-sup
-short_url: integral-of-exp-x-sup-2-sup
-inline_embed_id: 52059329integralofexp(-x<sup>2</sup>)36704280
-about_this_resource_text: ''
-related_resources_text: ''
+title: Integral of exp(-x<sup>2</sup>)
 transcript: >-
   <p><span m='0'>CHRISTINE BREINER:</span> <span m='7540'>Welcome</span> <span
   m='7940'>back to</span> <span m='8150'>recitation.</span> <span
@@ -753,62 +808,7 @@ transcript: >-
   <span m='571300'>that</span> <span m='571520'>is</span> <span
   m='571660'>where</span> <span m='571830'>I'll</span> <span
   m='572000'>stop.</span> </p>
-embedded_media:
-  - uid: 796e3c13a3c795797e6c45d71fafb0c0
-    parent_uid: f7685aa846f685451a32d878ca01c6fd
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: fWOGfzC3IeY
-  - uid: fe2f1f14941d684ca450fab53d1419c4
-    parent_uid: f7685aa846f685451a32d878ca01c6fd
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/fWOGfzC3IeY/default.jpg'
-  - uid: a08cc3b3de457b2ecd286e0d010e88b6
-    parent_uid: f7685aa846f685451a32d878ca01c6fd
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_37_300k.mp4'
-  - uid: 776107c83b74565518583254c628038b
-    parent_uid: f7685aa846f685451a32d878ca01c6fd
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/integral-of-exp-x-2/id414355340?i=90322827
-  - uid: a6b29e49011b41539c9cff95fed2db12
-    parent_uid: f7685aa846f685451a32d878ca01c6fd
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: fWOGfzC3IeY
-  - uid: c7e99d147383725b784d522bfede3628
-    parent_uid: f7685aa846f685451a32d878ca01c6fd
-    id: fWOGfzC3IeY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-54-example-polar-coordinates/integral-of-exp-x-sup-2-sup/fWOGfzC3IeY.srt
-  - uid: 9b198570a1bd7024149f53eb11b06bc1
-    parent_uid: f7685aa846f685451a32d878ca01c6fd
-    id: fWOGfzC3IeY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-54-example-polar-coordinates/integral-of-exp-x-sup-2-sup/fWOGfzC3IeY.pdf
-  - uid: 03cf6365778b2b61e00f42059bce9385
-    parent_uid: f7685aa846f685451a32d878ca01c6fd
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 70f3571ed04bfb922bf7cd95d20deb1e
-    parent_uid: f7685aa846f685451a32d878ca01c6fd
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f7685aa846f685451a32d878ca01c6fd
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Predicate Logic 2
-uid: 636bda1f72476bc39b2099c6202fbd0d
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 53d0690d82ca0c8a60c06ff08c075d1d
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7bb6580f8d4eea7ea00e83d803839c74
+  - id: Video-YouTube-Stream
+    media_location: T1AtlGrCoU8
+    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 38e2c54c995b141cd1d425726f6cc14b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/T1AtlGrCoU8/default.jpg'
+    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9e72757d65ac3d704913f2de45a2f2a5
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: T1AtlGrCoU8
+    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 91e39caf502b5402d0787b80c3b1c1c2
+  - id: T1AtlGrCoU8.srt
+    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-1/vertical-7b4a11771cb1/predicate-logic-2/T1AtlGrCoU8.srt
+    title: 3play caption file
+    type: null
+    uid: 210680ba626ffa0df323b5555676b4e9
+  - id: T1AtlGrCoU8.pdf
+    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-1/vertical-7b4a11771cb1/predicate-logic-2/T1AtlGrCoU8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2ec2efeecafdad1da497f080c8e3b002
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0dc5f974618feec523f0f0f2be9044ce
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: de58d8bef4e8a24762e2401591bd60ce
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_predicatelogic2_ipod.mp4
+    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d6ea483d4a582cf84f6f7cc41fcc5c7a
+inline_embed_id: 57402253predicatelogic263778306
 parent_uid: 732f4df8011e8b8d47802b72ec9c5762
+related_resources_text: ''
+short_url: predicate-logic-2
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-1/vertical-7b4a11771cb1/predicate-logic-2
-short_url: predicate-logic-2
-inline_embed_id: 57402253predicatelogic263778306
-about_this_resource_text: ''
-related_resources_text: ''
+title: Predicate Logic 2
 transcript: >-
   <p><span m='1040'>PROFESSOR: So</span> <span m='1520'>now</span> <span
   m='1720'>we're</span> <span m='1800'>going</span> <span m='1920'>to</span>
@@ -841,67 +901,7 @@ transcript: >-
   m='715310'>formula,</span> <span m='715940'>and</span> <span
   m='716160'>we'll</span> <span m='716230'>stop</span> <span
   m='716630'>with</span> <span m='716730'>that.</span> </p>
-embedded_media:
-  - uid: 53d0690d82ca0c8a60c06ff08c075d1d
-    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 7bb6580f8d4eea7ea00e83d803839c74
-    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 38e2c54c995b141cd1d425726f6cc14b
-    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: T1AtlGrCoU8
-  - uid: 9e72757d65ac3d704913f2de45a2f2a5
-    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/T1AtlGrCoU8/default.jpg'
-  - uid: 91e39caf502b5402d0787b80c3b1c1c2
-    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: T1AtlGrCoU8
-  - uid: 210680ba626ffa0df323b5555676b4e9
-    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
-    id: T1AtlGrCoU8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-1/vertical-7b4a11771cb1/predicate-logic-2/T1AtlGrCoU8.srt
-  - uid: 2ec2efeecafdad1da497f080c8e3b002
-    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
-    id: T1AtlGrCoU8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-1/vertical-7b4a11771cb1/predicate-logic-2/T1AtlGrCoU8.pdf
-  - uid: 0dc5f974618feec523f0f0f2be9044ce
-    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: de58d8bef4e8a24762e2401591bd60ce
-    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d6ea483d4a582cf84f6f7cc41fcc5c7a
-    parent_uid: 636bda1f72476bc39b2099c6202fbd0d
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_predicatelogic2_ipod.mp4
+uid: 636bda1f72476bc39b2099c6202fbd0d
 type: courses
 layout: video
 ---

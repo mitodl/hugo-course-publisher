@@ -1,13 +1,67 @@
 ---
-title: Resonances in the complex k plane
-uid: 23d65a310ac6146411126b2daca23861
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0T83-47Vi-M
+    parent_uid: 23d65a310ac6146411126b2daca23861
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9aa6adb547baa0323db414fc2ad4a4cd
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0T83-47Vi-M/default.jpg'
+    parent_uid: 23d65a310ac6146411126b2daca23861
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bb6096a2f71c94dfddd5b18d335cd61c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0T83-47Vi-M
+    parent_uid: 23d65a310ac6146411126b2daca23861
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 87fa73bfeea1b75b93879a1202265b0e
+  - id: 0T83-47Vi-M.srt
+    parent_uid: 23d65a310ac6146411126b2daca23861
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/resonances-in-the-complex-k-plane/0T83-47Vi-M.srt
+    title: 3play caption file
+    type: null
+    uid: 0b1f4d0c8bf947a6bae62f55e750e83b
+  - id: 0T83-47Vi-M.pdf
+    parent_uid: 23d65a310ac6146411126b2daca23861
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/resonances-in-the-complex-k-plane/0T83-47Vi-M.pdf
+    title: 3play pdf file
+    type: null
+    uid: de79e3c3ac1789e8d5b7f69152ea2496
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 23d65a310ac6146411126b2daca23861
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 866a0990386c0c80b5b61477f54fdfbb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 23d65a310ac6146411126b2daca23861
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4778956ca21cd8a0bab7efd07ef35d8b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 23d65a310ac6146411126b2daca23861
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 282a30f6aec2fee8ca90f8311dd7b3eb
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec19_s5_300k.mp4'
+    parent_uid: 23d65a310ac6146411126b2daca23861
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4a618ff6b83e526b60a0b0bc0161ba2f
+inline_embed_id: 15870283resonancesinthecomplexkplane79355447
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: resonances-in-the-complex-k-plane
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/resonances-in-the-complex-k-plane
-short_url: resonances-in-the-complex-k-plane
-inline_embed_id: 15870283resonancesinthecomplexkplane79355447
-about_this_resource_text: ''
-related_resources_text: ''
+title: Resonances in the complex k plane
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='140'>So</span> <span
   m='280'>I</span> <span m='420'>want to</span> <span m='840'>go</span> <span
@@ -648,61 +702,7 @@ transcript: >-
   m='911420'>negative</span> <span m='911830'>k.</span> <span
   m='913080'>It's</span> <span m='913180'>a</span> <span m='913280'>nice</span>
   <span m='913480'>start.</span> </p>
-embedded_media:
-  - uid: 9aa6adb547baa0323db414fc2ad4a4cd
-    parent_uid: 23d65a310ac6146411126b2daca23861
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0T83-47Vi-M
-  - uid: bb6096a2f71c94dfddd5b18d335cd61c
-    parent_uid: 23d65a310ac6146411126b2daca23861
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0T83-47Vi-M/default.jpg'
-  - uid: 87fa73bfeea1b75b93879a1202265b0e
-    parent_uid: 23d65a310ac6146411126b2daca23861
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0T83-47Vi-M
-  - uid: 0b1f4d0c8bf947a6bae62f55e750e83b
-    parent_uid: 23d65a310ac6146411126b2daca23861
-    id: 0T83-47Vi-M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/resonances-in-the-complex-k-plane/0T83-47Vi-M.srt
-  - uid: de79e3c3ac1789e8d5b7f69152ea2496
-    parent_uid: 23d65a310ac6146411126b2daca23861
-    id: 0T83-47Vi-M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/resonances-in-the-complex-k-plane/0T83-47Vi-M.pdf
-  - uid: 866a0990386c0c80b5b61477f54fdfbb
-    parent_uid: 23d65a310ac6146411126b2daca23861
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4778956ca21cd8a0bab7efd07ef35d8b
-    parent_uid: 23d65a310ac6146411126b2daca23861
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 282a30f6aec2fee8ca90f8311dd7b3eb
-    parent_uid: 23d65a310ac6146411126b2daca23861
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 4a618ff6b83e526b60a0b0bc0161ba2f
-    parent_uid: 23d65a310ac6146411126b2daca23861
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec19_s5_300k.mp4'
+uid: 23d65a310ac6146411126b2daca23861
 type: courses
 layout: video
 ---

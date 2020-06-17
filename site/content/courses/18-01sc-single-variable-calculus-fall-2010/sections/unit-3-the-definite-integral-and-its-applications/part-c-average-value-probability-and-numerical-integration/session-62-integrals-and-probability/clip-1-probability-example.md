@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Probability Example'
-uid: be2cda1de8080c2fa839184764113a23
-parent_uid: 1fa09ca81711139c23be618aa2768257
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/clip-1-probability-example
-short_url: clip-1-probability-example
-inline_embed_id: '74601218clip1:probabilityexample32049310'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/ca87fbbc7c39c0e65522e050f1247b3d"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 23 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: R9a_NHXrBcg
+    parent_uid: be2cda1de8080c2fa839184764113a23
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 77338662912d902bdaa209c8502dca68
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/R9a_NHXrBcg/default.jpg'
+    parent_uid: be2cda1de8080c2fa839184764113a23
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2b400d8161e685a8ee5e6562743a41f5
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: R9a_NHXrBcg
+    parent_uid: be2cda1de8080c2fa839184764113a23
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7229570e36cbab35e999125c285183fe
+  - id: R9a_NHXrBcg.srt
+    parent_uid: be2cda1de8080c2fa839184764113a23
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/clip-1-probability-example/R9a_NHXrBcg.srt
+    title: 3play caption file
+    type: null
+    uid: 1db09d7c97eff34120cbdc250bee7167
+  - id: R9a_NHXrBcg.pdf
+    parent_uid: be2cda1de8080c2fa839184764113a23
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/clip-1-probability-example/R9a_NHXrBcg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5db5f9aa44a6a97f3bdd6ca84d664fd6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: be2cda1de8080c2fa839184764113a23
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 363dda8295aa751d539a998cf39178ac
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: be2cda1de8080c2fa839184764113a23
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6becd127ab3563abcc928a4b101e52d9
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec23_300k.mp4'
+    parent_uid: be2cda1de8080c2fa839184764113a23
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e2d0a3079551ce562be5b1a4db8d08b9
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: be2cda1de8080c2fa839184764113a23
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 23fae35c3e1bb0a45b5d499dbef85209
+inline_embed_id: '74601218clip1:probabilityexample32049310'
+parent_uid: 1fa09ca81711139c23be618aa2768257
 related_resources_text: ''
+short_url: clip-1-probability-example
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/clip-1-probability-example
+title: 'Clip 1: Probability Example'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following content</span> <span
   m='1270'>is provided</span> <span m='1420'>under</span> <span
@@ -2573,61 +2627,7 @@ transcript: >-
   m='2912390'>way.</span> <span m='2912680'>We'll</span> <span
   m='2912810'>find</span> <span m='2913100'>out</span> <span
   m='2913660'>next</span> <span m='2913990'>time.</span> </p>
-embedded_media:
-  - uid: 77338662912d902bdaa209c8502dca68
-    parent_uid: be2cda1de8080c2fa839184764113a23
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: R9a_NHXrBcg
-  - uid: 2b400d8161e685a8ee5e6562743a41f5
-    parent_uid: be2cda1de8080c2fa839184764113a23
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/R9a_NHXrBcg/default.jpg'
-  - uid: 7229570e36cbab35e999125c285183fe
-    parent_uid: be2cda1de8080c2fa839184764113a23
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: R9a_NHXrBcg
-  - uid: 1db09d7c97eff34120cbdc250bee7167
-    parent_uid: be2cda1de8080c2fa839184764113a23
-    id: R9a_NHXrBcg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/clip-1-probability-example/R9a_NHXrBcg.srt
-  - uid: 5db5f9aa44a6a97f3bdd6ca84d664fd6
-    parent_uid: be2cda1de8080c2fa839184764113a23
-    id: R9a_NHXrBcg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/clip-1-probability-example/R9a_NHXrBcg.pdf
-  - uid: 363dda8295aa751d539a998cf39178ac
-    parent_uid: be2cda1de8080c2fa839184764113a23
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6becd127ab3563abcc928a4b101e52d9
-    parent_uid: be2cda1de8080c2fa839184764113a23
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e2d0a3079551ce562be5b1a4db8d08b9
-    parent_uid: be2cda1de8080c2fa839184764113a23
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec23_300k.mp4'
-  - uid: 23fae35c3e1bb0a45b5d499dbef85209
-    parent_uid: be2cda1de8080c2fa839184764113a23
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: be2cda1de8080c2fa839184764113a23
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: Second Derivative Test
-uid: f01ae5ba5ee772821f765daecb1f3e52
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: oQgHo7acids
+    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 422360543e17f5104c62ff1aa81c7dbd
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/oQgHo7acids/default.jpg'
+    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c9362b9b8ea536a9e76b5d4db8b8b365
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: oQgHo7acids
+    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 15a919550c9adb6ee35775d8a281a662
+  - id: oQgHo7acids.srt
+    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-30-second-derivative-test/second-derivative-test/oQgHo7acids.srt
+    title: 3play caption file
+    type: null
+    uid: ed518f6a34b99093aac72befef282407
+  - id: oQgHo7acids.pdf
+    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-30-second-derivative-test/second-derivative-test/oQgHo7acids.pdf
+    title: 3play pdf file
+    type: null
+    uid: a8421b6bad09cd1b2892a0d3d5107140
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 60e3a0aa2c9ba6e37c6d10b45f44f979
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: efc20c92996056960c7a1afda6b59af8
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/second-derivative-test/id414355340?i=90322852
+    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f7be421387a5da3395b5d04f1fa0e102
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_23_300k.mp4'
+    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: acbf01b64d96a761da4d3fd5c01b7571
+inline_embed_id: 17657445secondderivativetest89556907
 parent_uid: 471874852c83ac551b87dcff9cb3f6cc
+related_resources_text: ''
+short_url: second-derivative-test
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-30-second-derivative-test/second-derivative-test
-short_url: second-derivative-test
-inline_embed_id: 17657445secondderivativetest89556907
-about_this_resource_text: ''
-related_resources_text: ''
+title: Second Derivative Test
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='7020'>Hi.</span> <span
   m='7430'>Welcome</span> <span m='7810'>back</span> <span m='8020'>to</span>
@@ -590,62 +645,7 @@ transcript: >-
   m='514360'>at</span> <span m='514520'>(1,</span> <span m='514750'>1).</span>
   <span m='516160'>So</span> <span m='516360'>I'll</span> <span
   m='516470'>stop</span> <span m='516810'>there.</span> </p>
-embedded_media:
-  - uid: 422360543e17f5104c62ff1aa81c7dbd
-    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: oQgHo7acids
-  - uid: c9362b9b8ea536a9e76b5d4db8b8b365
-    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/oQgHo7acids/default.jpg'
-  - uid: 15a919550c9adb6ee35775d8a281a662
-    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: oQgHo7acids
-  - uid: ed518f6a34b99093aac72befef282407
-    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
-    id: oQgHo7acids.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-30-second-derivative-test/second-derivative-test/oQgHo7acids.srt
-  - uid: a8421b6bad09cd1b2892a0d3d5107140
-    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
-    id: oQgHo7acids.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-30-second-derivative-test/second-derivative-test/oQgHo7acids.pdf
-  - uid: 60e3a0aa2c9ba6e37c6d10b45f44f979
-    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: efc20c92996056960c7a1afda6b59af8
-    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f7be421387a5da3395b5d04f1fa0e102
-    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/second-derivative-test/id414355340?i=90322852
-  - uid: acbf01b64d96a761da4d3fd5c01b7571
-    parent_uid: f01ae5ba5ee772821f765daecb1f3e52
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_23_300k.mp4'
+uid: f01ae5ba5ee772821f765daecb1f3e52
 type: courses
 layout: video
 ---

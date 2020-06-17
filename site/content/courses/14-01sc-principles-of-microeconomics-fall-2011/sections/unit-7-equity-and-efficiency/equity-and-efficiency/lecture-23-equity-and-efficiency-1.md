@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 23: Equity and Efficiency'
-uid: be3c03d1d05fb9eac1482bd7942e33dc
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: kEJf57FF0Vs
+    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 654623677aea5c49ea20f3a106488373
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/kEJf57FF0Vs/default.jpg'
+    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f1a3dbe68d7c3fce7891905611003b54
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: kEJf57FF0Vs
+    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bf2b31cf4ca635b194ab8d2de6e732c3
+  - id: kEJf57FF0Vs.srt
+    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/equity-and-efficiency/lecture-23-equity-and-efficiency-1/kEJf57FF0Vs.srt
+    title: 3play caption file
+    type: null
+    uid: 7afe85225555d3f00de8399046c9bc1e
+  - id: kEJf57FF0Vs.pdf
+    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/equity-and-efficiency/lecture-23-equity-and-efficiency-1/kEJf57FF0Vs.pdf
+    title: 3play pdf file
+    type: null
+    uid: 52d685f830b8e06e000be41c76074485
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bbaf6b2a935bdd81283f8b0a2e003d16
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4ab11f19f7d299cd9844a274f2f5299d
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec23_300k.mp4'
+    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 48e449f1c453fc2e331b83c02990cbb2
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-23-equity-efficiency/id496265654?i=110157706
+    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: acb1f50ade649ad513a0870d0ff80c8a
+inline_embed_id: 53130530lecture23equityandefficiency77954803
 parent_uid: 1b95348a7b79a798d6356d4376464c0d
+related_resources_text: ''
+short_url: lecture-23-equity-and-efficiency-1
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/equity-and-efficiency/lecture-23-equity-and-efficiency-1
-short_url: lecture-23-equity-and-efficiency-1
-inline_embed_id: 53130530lecture23equityandefficiency77954803
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 23: Equity and Efficiency'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3722,62 +3777,7 @@ transcript: >-
   m='2975260'>and</span> <span m='2975330'>how</span> <span
   m='2975480'>does</span> <span m='2975610'>it</span> <span
   m='2975680'>look?</span> </p>
-embedded_media:
-  - uid: 654623677aea5c49ea20f3a106488373
-    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: kEJf57FF0Vs
-  - uid: f1a3dbe68d7c3fce7891905611003b54
-    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/kEJf57FF0Vs/default.jpg'
-  - uid: bf2b31cf4ca635b194ab8d2de6e732c3
-    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: kEJf57FF0Vs
-  - uid: 7afe85225555d3f00de8399046c9bc1e
-    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
-    id: kEJf57FF0Vs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/equity-and-efficiency/lecture-23-equity-and-efficiency-1/kEJf57FF0Vs.srt
-  - uid: 52d685f830b8e06e000be41c76074485
-    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
-    id: kEJf57FF0Vs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/equity-and-efficiency/lecture-23-equity-and-efficiency-1/kEJf57FF0Vs.pdf
-  - uid: bbaf6b2a935bdd81283f8b0a2e003d16
-    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4ab11f19f7d299cd9844a274f2f5299d
-    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 48e449f1c453fc2e331b83c02990cbb2
-    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec23_300k.mp4'
-  - uid: acb1f50ade649ad513a0870d0ff80c8a
-    parent_uid: be3c03d1d05fb9eac1482bd7942e33dc
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-23-equity-efficiency/id496265654?i=110157706
+uid: be3c03d1d05fb9eac1482bd7942e33dc
 type: courses
 layout: video
 ---

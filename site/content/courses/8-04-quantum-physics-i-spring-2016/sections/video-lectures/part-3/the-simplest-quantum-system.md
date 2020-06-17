@@ -1,13 +1,67 @@
 ---
-title: The simplest quantum system
-uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '-8mPXAsX3DY'
+    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 21aed6271809a8b0e9f654ace454325b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-8mPXAsX3DY/default.jpg'
+    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0563f5d512589f2cd15b97bdea0b5c6f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '-8mPXAsX3DY'
+    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b11a376077c5ea0ffd9d504219646f40
+  - id: '-8mPXAsX3DY.srt'
+    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/the-simplest-quantum-system/-8mPXAsX3DY.srt
+    title: 3play caption file
+    type: null
+    uid: e0dac278a6fd9fc08cac44718aca051e
+  - id: '-8mPXAsX3DY.pdf'
+    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/the-simplest-quantum-system/-8mPXAsX3DY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 87eb1b43458c045cdb0cf678de50c28c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d022b8c3d7964e9d6c5c72f05e63b607
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4c85a2948cc72ca05693575914ecf653
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 784f5335622ea421c29c066c98b8fe12
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec24_s2_300k.mp4'
+    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d996e876a0bf4ea8c839dec616cee870
+inline_embed_id: 98043583thesimplestquantumsystem56943693
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: the-simplest-quantum-system
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/the-simplest-quantum-system
-short_url: the-simplest-quantum-system
-inline_embed_id: 98043583thesimplestquantumsystem56943693
-about_this_resource_text: ''
-related_resources_text: ''
+title: The simplest quantum system
 transcript: >-
   <p><span m='385'>PROFESSOR:</span> <span m='770'>The</span> <span
   m='830'>simplest</span> <span m='1530'>quantum</span> <span
@@ -648,61 +702,7 @@ transcript: >-
   m='831790'>and</span> <span m='831940'>complex</span> <span
   m='832510'>conjugates</span> <span m='833080'>the</span> <span
   m='833200'>first</span> <span m='833590'>object.</span> </p>
-embedded_media:
-  - uid: 21aed6271809a8b0e9f654ace454325b
-    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-8mPXAsX3DY'
-  - uid: 0563f5d512589f2cd15b97bdea0b5c6f
-    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-8mPXAsX3DY/default.jpg'
-  - uid: b11a376077c5ea0ffd9d504219646f40
-    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-8mPXAsX3DY'
-  - uid: e0dac278a6fd9fc08cac44718aca051e
-    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
-    id: '-8mPXAsX3DY.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/the-simplest-quantum-system/-8mPXAsX3DY.srt
-  - uid: 87eb1b43458c045cdb0cf678de50c28c
-    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
-    id: '-8mPXAsX3DY.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/the-simplest-quantum-system/-8mPXAsX3DY.pdf
-  - uid: d022b8c3d7964e9d6c5c72f05e63b607
-    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4c85a2948cc72ca05693575914ecf653
-    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 784f5335622ea421c29c066c98b8fe12
-    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: d996e876a0bf4ea8c839dec616cee870
-    parent_uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec24_s2_300k.mp4'
+uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
 type: courses
 layout: video
 ---

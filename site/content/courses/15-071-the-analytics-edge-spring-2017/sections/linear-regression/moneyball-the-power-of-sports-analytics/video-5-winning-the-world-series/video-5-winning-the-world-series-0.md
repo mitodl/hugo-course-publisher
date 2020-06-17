@@ -1,13 +1,62 @@
 ---
-title: 'Video 5: Winning the World Series'
-uid: 3184bdd3937f729bdd8c57d39cef9a32
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: D2FQ-JnltPw
+    parent_uid: 3184bdd3937f729bdd8c57d39cef9a32
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6538ab266786971d5f3250b31e940801
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: D2FQ-JnltPw
+    parent_uid: 3184bdd3937f729bdd8c57d39cef9a32
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: afc8392566fa2896e668f000a4f33a61
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/D2FQ-JnltPw/default.jpg'
+    parent_uid: 3184bdd3937f729bdd8c57d39cef9a32
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7c1b422a101bccf0c9b34605608cacef
+  - id: D2FQ-JnltPw.srt
+    parent_uid: 3184bdd3937f729bdd8c57d39cef9a32
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-5-winning-the-world-series/video-5-winning-the-world-series-0/D2FQ-JnltPw.srt
+    title: 3play caption file
+    type: null
+    uid: 3718d69e2fc8b99acde0d7d4c204ce1e
+  - id: D2FQ-JnltPw.pdf
+    parent_uid: 3184bdd3937f729bdd8c57d39cef9a32
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-5-winning-the-world-series/video-5-winning-the-world-series-0/D2FQ-JnltPw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6009321ab347c48d378887b0f6d5f52b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3184bdd3937f729bdd8c57d39cef9a32
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e4bb9ea1da2fa8a55101a88a3181fed9
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3184bdd3937f729bdd8c57d39cef9a32
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dbdecd6ec602a3d0ba19daacbf1a931b
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.3.09_300k.mp4
+    parent_uid: 3184bdd3937f729bdd8c57d39cef9a32
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0746f19a701650fe2951425abf799ca6
+inline_embed_id: 3741781video5winningtheworldseries94913306
 parent_uid: a7a0fe58cf53ad2e8a4800f4efacbaed
+related_resources_text: ''
+short_url: video-5-winning-the-world-series-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-5-winning-the-world-series/video-5-winning-the-world-series-0
-short_url: video-5-winning-the-world-series-0
-inline_embed_id: 3741781video5winningtheworldseries94913306
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 5: Winning the World Series'
 transcript: >-
   <p><span m='4500'>Towards</span> <span m='4768'>the</span> <span
   m='5036'>beginning</span> <span m='5305'>of</span> <span m='5573'>this</span>
@@ -138,56 +187,7 @@ transcript: >-
   <span m='113003'>will</span> <span m='113360'>win</span> <span
   m='113717'>the</span> <span m='114074'>World</span> <span
   m='114431'>Series.</span> </p>
-embedded_media:
-  - uid: 6538ab266786971d5f3250b31e940801
-    parent_uid: 3184bdd3937f729bdd8c57d39cef9a32
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: D2FQ-JnltPw
-  - uid: afc8392566fa2896e668f000a4f33a61
-    parent_uid: 3184bdd3937f729bdd8c57d39cef9a32
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: D2FQ-JnltPw
-  - uid: 7c1b422a101bccf0c9b34605608cacef
-    parent_uid: 3184bdd3937f729bdd8c57d39cef9a32
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/D2FQ-JnltPw/default.jpg'
-  - uid: 3718d69e2fc8b99acde0d7d4c204ce1e
-    parent_uid: 3184bdd3937f729bdd8c57d39cef9a32
-    id: D2FQ-JnltPw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-5-winning-the-world-series/video-5-winning-the-world-series-0/D2FQ-JnltPw.srt
-  - uid: 6009321ab347c48d378887b0f6d5f52b
-    parent_uid: 3184bdd3937f729bdd8c57d39cef9a32
-    id: D2FQ-JnltPw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-5-winning-the-world-series/video-5-winning-the-world-series-0/D2FQ-JnltPw.pdf
-  - uid: e4bb9ea1da2fa8a55101a88a3181fed9
-    parent_uid: 3184bdd3937f729bdd8c57d39cef9a32
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dbdecd6ec602a3d0ba19daacbf1a931b
-    parent_uid: 3184bdd3937f729bdd8c57d39cef9a32
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0746f19a701650fe2951425abf799ca6
-    parent_uid: 3184bdd3937f729bdd8c57d39cef9a32
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.3.09_300k.mp4
+uid: 3184bdd3937f729bdd8c57d39cef9a32
 type: courses
 layout: video
 ---

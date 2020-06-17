@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Remarks on Notation'
-uid: 2b3d96ec684927d43c9a88074f93a3ca
-parent_uid: b58d1c03b5e72b4fc2ef553cda5d94b7
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/clip-1-remarks-on-notation
-short_url: clip-1-remarks-on-notation
-inline_embed_id: '67444888clip1:remarksonnotation72837725'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/72fb39fd1936c1c48848fa9658285497" title="Open
   in a new window." target="_blank">Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 32 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: XRkgBWbWvg4
+    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 59b42f245a73434bd9823681786c2dc0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/XRkgBWbWvg4/default.jpg'
+    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f3b3034f4a94cd7e2cda06056ce46075
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: XRkgBWbWvg4
+    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 144ea4bb611ede39ffbb8472b335a4dd
+  - id: XRkgBWbWvg4.srt
+    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/clip-1-remarks-on-notation/XRkgBWbWvg4.srt
+    title: 3play caption file
+    type: null
+    uid: ef158a0ba690bb7be147321dd594d843
+  - id: XRkgBWbWvg4.pdf
+    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/clip-1-remarks-on-notation/XRkgBWbWvg4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 07d7f8700a69697007ee77a1d6065319
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b6bd024ac451bf1dce777959cf767368
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9030f437146730fcdaf467dd4471bfc2
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec32_300k.mp4'
+    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3c33dc4c5b0b79d746f3f4e29dd8c206
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7c744ea16048cdc465eff68e6e76516e
+inline_embed_id: '67444888clip1:remarksonnotation72837725'
+parent_uid: b58d1c03b5e72b4fc2ef553cda5d94b7
 related_resources_text: ''
+short_url: clip-1-remarks-on-notation
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/clip-1-remarks-on-notation
+title: 'Clip 1: Remarks on Notation'
 transcript: >-
   <p><span m="60">The</span> <span m="530">following content</span> <span
   m="1300">is</span> <span m="1680">provided under a</span> <span
@@ -2860,61 +2914,7 @@ transcript: >-
   m="2957900">figure</span> <span m="2958130">out</span> <span
   m="2958950">area</span> <span m="2959610">in</span> <span
   m="2959750">polar</span> <span m="2960050">coordinates.</span></p>
-embedded_media:
-  - uid: 59b42f245a73434bd9823681786c2dc0
-    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: XRkgBWbWvg4
-  - uid: f3b3034f4a94cd7e2cda06056ce46075
-    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/XRkgBWbWvg4/default.jpg'
-  - uid: 144ea4bb611ede39ffbb8472b335a4dd
-    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: XRkgBWbWvg4
-  - uid: ef158a0ba690bb7be147321dd594d843
-    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
-    id: XRkgBWbWvg4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/clip-1-remarks-on-notation/XRkgBWbWvg4.srt
-  - uid: 07d7f8700a69697007ee77a1d6065319
-    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
-    id: XRkgBWbWvg4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/clip-1-remarks-on-notation/XRkgBWbWvg4.pdf
-  - uid: b6bd024ac451bf1dce777959cf767368
-    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9030f437146730fcdaf467dd4471bfc2
-    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3c33dc4c5b0b79d746f3f4e29dd8c206
-    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec32_300k.mp4'
-  - uid: 7c744ea16048cdc465eff68e6e76516e
-    parent_uid: 2b3d96ec684927d43c9a88074f93a3ca
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 2b3d96ec684927d43c9a88074f93a3ca
 type: courses
 layout: video
 ---

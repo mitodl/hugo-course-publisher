@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 22: Gradient Descent: Downhill to a Minimum'
-uid: 4318cf43b3aa08b79564f2376a48f586
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-22-gradient-descent-downhill-to-a-minimum
-short_url: lecture-22-gradient-descent-downhill-to-a-minimum
-inline_embed_id: 65834604lecture22gradientdescentdownhilltoaminimum40843383
 about_this_resource_text: >-
   <h2 class="subhead"><strong>Description</strong></h2> <p>Gradient descent is
   the most common optimization algorithm in deep learning and machine learning.
@@ -18,7 +11,62 @@ about_this_resource_text: >-
   multiplies by \((b - 1)/(b + 1)\)<br /> Remarkable function: logarithm of
   determinant of \(X\)</p> <p>Related section in textbook: VI.4</p>
   <p><strong>Instructor:</strong> Prof. Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: AeRwohPuUHQ
+    parent_uid: 4318cf43b3aa08b79564f2376a48f586
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c44232da6f34cadbb87d83388ed3091a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/AeRwohPuUHQ/default.jpg'
+    parent_uid: 4318cf43b3aa08b79564f2376a48f586
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 086ceb602c1e9b778e61ea0f7c4bdb16
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: AeRwohPuUHQ
+    parent_uid: 4318cf43b3aa08b79564f2376a48f586
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: de99ca13051163f102beffbd648d5909
+  - id: AeRwohPuUHQ.srt
+    parent_uid: 4318cf43b3aa08b79564f2376a48f586
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-22-gradient-descent-downhill-to-a-minimum/AeRwohPuUHQ.srt
+    title: 3play caption file
+    type: null
+    uid: d1bbad251a61f4d6c6ccb4606ee5b512
+  - id: AeRwohPuUHQ.pdf
+    parent_uid: 4318cf43b3aa08b79564f2376a48f586
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-22-gradient-descent-downhill-to-a-minimum/AeRwohPuUHQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: b73b070e30b2d7f2a88e07ca72c42eaa
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4318cf43b3aa08b79564f2376a48f586
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c26224f3d98926b59ca5ec8cba4f50e5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4318cf43b3aa08b79564f2376a48f586
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f35c96da341a422bb473e78857bd249a
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture22_300k.mp4'
+    parent_uid: 4318cf43b3aa08b79564f2376a48f586
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 725ebf994bd5afd4d5d9f4400da69c82
+inline_embed_id: 65834604lecture22gradientdescentdownhilltoaminimum40843383
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-22-gradient-descent-downhill-to-a-minimum
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-22-gradient-descent-downhill-to-a-minimum
+title: 'Lecture 22: Gradient Descent: Downhill to a Minimum'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2696,55 +2744,7 @@ transcript: >-
   m="3158480">the</span> <span m="3158810">day.</span> <span
   m="3159530">Good.</span> <span m="3160190">See</span> <span
   m="3160460">you</span> <span m="3160580">then.</span></p>
-embedded_media:
-  - uid: c44232da6f34cadbb87d83388ed3091a
-    parent_uid: 4318cf43b3aa08b79564f2376a48f586
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: AeRwohPuUHQ
-  - uid: 086ceb602c1e9b778e61ea0f7c4bdb16
-    parent_uid: 4318cf43b3aa08b79564f2376a48f586
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/AeRwohPuUHQ/default.jpg'
-  - uid: de99ca13051163f102beffbd648d5909
-    parent_uid: 4318cf43b3aa08b79564f2376a48f586
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: AeRwohPuUHQ
-  - uid: d1bbad251a61f4d6c6ccb4606ee5b512
-    parent_uid: 4318cf43b3aa08b79564f2376a48f586
-    id: AeRwohPuUHQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-22-gradient-descent-downhill-to-a-minimum/AeRwohPuUHQ.srt
-  - uid: b73b070e30b2d7f2a88e07ca72c42eaa
-    parent_uid: 4318cf43b3aa08b79564f2376a48f586
-    id: AeRwohPuUHQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-22-gradient-descent-downhill-to-a-minimum/AeRwohPuUHQ.pdf
-  - uid: c26224f3d98926b59ca5ec8cba4f50e5
-    parent_uid: 4318cf43b3aa08b79564f2376a48f586
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f35c96da341a422bb473e78857bd249a
-    parent_uid: 4318cf43b3aa08b79564f2376a48f586
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 725ebf994bd5afd4d5d9f4400da69c82
-    parent_uid: 4318cf43b3aa08b79564f2376a48f586
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture22_300k.mp4'
+uid: 4318cf43b3aa08b79564f2376a48f586
 type: courses
 layout: video
 ---

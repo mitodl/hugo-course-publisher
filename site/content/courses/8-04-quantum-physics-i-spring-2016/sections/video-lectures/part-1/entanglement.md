@@ -1,13 +1,67 @@
 ---
-title: Entanglement
-uid: 82cabaa126dcbc5a334d27cda290f118
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: G3HSP3qMgKI
+    parent_uid: 82cabaa126dcbc5a334d27cda290f118
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 85bcbedba9e6c8b6f01e381d0866e347
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/G3HSP3qMgKI/default.jpg'
+    parent_uid: 82cabaa126dcbc5a334d27cda290f118
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 41f60a8f82f600ea5a894cdfa0100f03
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: G3HSP3qMgKI
+    parent_uid: 82cabaa126dcbc5a334d27cda290f118
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 83cb2983f0b6ccd158ef183cbdf19d2f
+  - id: G3HSP3qMgKI.srt
+    parent_uid: 82cabaa126dcbc5a334d27cda290f118
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/entanglement/G3HSP3qMgKI.srt
+    title: 3play caption file
+    type: null
+    uid: 2a5405efb628b96a47ce32710413f83d
+  - id: G3HSP3qMgKI.pdf
+    parent_uid: 82cabaa126dcbc5a334d27cda290f118
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/entanglement/G3HSP3qMgKI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4f764623f7f1d87a0f9ad08b92e36153
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 82cabaa126dcbc5a334d27cda290f118
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bba230152d600f70f77ff3b4c8a1adcc
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 82cabaa126dcbc5a334d27cda290f118
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1b5168b8a8c2d835a65774d1499897d0
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 82cabaa126dcbc5a334d27cda290f118
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e5d38749700c50e7c1d55792b4e1f7f7
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec02_s2_300k.mp4'
+    parent_uid: 82cabaa126dcbc5a334d27cda290f118
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 780f9e661b53542c1c7d7d87e8a1d3da
+inline_embed_id: 59117760entanglement2740684
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: entanglement
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/entanglement
-short_url: entanglement
-inline_embed_id: 59117760entanglement2740684
-about_this_resource_text: ''
-related_resources_text: ''
+title: Entanglement
 transcript: >-
   <p><span m='670'>BARTON ZWIEBACH:</span> <span m='820'>Let's</span> <span
   m='970'>talk</span> <span m='1270'>now</span> <span m='1840'>about</span>
@@ -607,61 +661,7 @@ transcript: >-
   m='784720'>but</span> <span m='784960'>in</span> <span m='785140'>a</span>
   <span m='785200'>very</span> <span m='785830'>subtle</span> <span
   m='786340'>way.</span> </p>
-embedded_media:
-  - uid: 85bcbedba9e6c8b6f01e381d0866e347
-    parent_uid: 82cabaa126dcbc5a334d27cda290f118
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: G3HSP3qMgKI
-  - uid: 41f60a8f82f600ea5a894cdfa0100f03
-    parent_uid: 82cabaa126dcbc5a334d27cda290f118
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/G3HSP3qMgKI/default.jpg'
-  - uid: 83cb2983f0b6ccd158ef183cbdf19d2f
-    parent_uid: 82cabaa126dcbc5a334d27cda290f118
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: G3HSP3qMgKI
-  - uid: 2a5405efb628b96a47ce32710413f83d
-    parent_uid: 82cabaa126dcbc5a334d27cda290f118
-    id: G3HSP3qMgKI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/entanglement/G3HSP3qMgKI.srt
-  - uid: 4f764623f7f1d87a0f9ad08b92e36153
-    parent_uid: 82cabaa126dcbc5a334d27cda290f118
-    id: G3HSP3qMgKI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/entanglement/G3HSP3qMgKI.pdf
-  - uid: bba230152d600f70f77ff3b4c8a1adcc
-    parent_uid: 82cabaa126dcbc5a334d27cda290f118
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1b5168b8a8c2d835a65774d1499897d0
-    parent_uid: 82cabaa126dcbc5a334d27cda290f118
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e5d38749700c50e7c1d55792b4e1f7f7
-    parent_uid: 82cabaa126dcbc5a334d27cda290f118
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 780f9e661b53542c1c7d7d87e8a1d3da
-    parent_uid: 82cabaa126dcbc5a334d27cda290f118
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec02_s2_300k.mp4'
+uid: 82cabaa126dcbc5a334d27cda290f118
 type: courses
 layout: video
 ---

@@ -7,6 +7,7 @@ menu:
     weight: 320
 type: courses
 layout: videogallery
+is_media_gallery: true
 ---
 [BioBuilder](http://www.biobuilder.org/)® is a resource for hands-on activities and informative animations on synthetic biology, and a place to discuss the challenge of engineering biological systems.
 

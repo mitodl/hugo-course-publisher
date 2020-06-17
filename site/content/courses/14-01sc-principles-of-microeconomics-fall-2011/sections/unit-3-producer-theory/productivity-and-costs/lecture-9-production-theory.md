@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 9: Production Theory'
-uid: 4bd7c3956d90f2dcc912234dd2900b7c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Q4iKuKAjzK0
+    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c7180c18ed98780e2c2b281a9b1c0625
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Q4iKuKAjzK0/default.jpg'
+    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 143f072f4e3793ee025bfa8918312566
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Q4iKuKAjzK0
+    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 58ad240ea8893f5c49abe0eec2afa628
+  - id: Q4iKuKAjzK0.srt
+    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/productivity-and-costs/lecture-9-production-theory/Q4iKuKAjzK0.srt
+    title: 3play caption file
+    type: null
+    uid: 543588e10dd8dba16dd899eafee78977
+  - id: Q4iKuKAjzK0.pdf
+    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/productivity-and-costs/lecture-9-production-theory/Q4iKuKAjzK0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 22a421c048d22a223171827046852f92
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 15a992cba07d65939f7076a921b4d083
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a3286883c5ec214b1da1bd478d5ee9c4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec09_300k.mp4'
+    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 92acb0bb1a40f24c5dba62d74e6b899e
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-9-productivity-costs/id496265654?i=109892744
+    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4c99fc9d8b1e41687ad18249fcd80b1a
+inline_embed_id: 87211010lecture9productiontheory27946095
 parent_uid: 35e2a9c418975d5d2bfcb2dfa5fa18ac
+related_resources_text: ''
+short_url: lecture-9-production-theory
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/productivity-and-costs/lecture-9-production-theory
-short_url: lecture-9-production-theory
-inline_embed_id: 87211010lecture9productiontheory27946095
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 9: Production Theory'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3473,62 +3528,7 @@ transcript: >-
   m='2848690'>and</span> <span m='2848940'>we'll</span> <span
   m='2849060'>talk</span> <span m='2849270'>about</span> <span
   m='2849450'>competition.</span> </p>
-embedded_media:
-  - uid: c7180c18ed98780e2c2b281a9b1c0625
-    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Q4iKuKAjzK0
-  - uid: 143f072f4e3793ee025bfa8918312566
-    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Q4iKuKAjzK0/default.jpg'
-  - uid: 58ad240ea8893f5c49abe0eec2afa628
-    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Q4iKuKAjzK0
-  - uid: 543588e10dd8dba16dd899eafee78977
-    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
-    id: Q4iKuKAjzK0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/productivity-and-costs/lecture-9-production-theory/Q4iKuKAjzK0.srt
-  - uid: 22a421c048d22a223171827046852f92
-    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
-    id: Q4iKuKAjzK0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/productivity-and-costs/lecture-9-production-theory/Q4iKuKAjzK0.pdf
-  - uid: 15a992cba07d65939f7076a921b4d083
-    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a3286883c5ec214b1da1bd478d5ee9c4
-    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 92acb0bb1a40f24c5dba62d74e6b899e
-    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec09_300k.mp4'
-  - uid: 4c99fc9d8b1e41687ad18249fcd80b1a
-    parent_uid: 4bd7c3956d90f2dcc912234dd2900b7c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-9-productivity-costs/id496265654?i=109892744
+uid: 4bd7c3956d90f2dcc912234dd2900b7c
 type: courses
 layout: video
 ---

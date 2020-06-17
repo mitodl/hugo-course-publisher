@@ -1,13 +1,68 @@
 ---
-title: Definite Integral by Substitution
-uid: 59437ff025d8721880b85a663e9c3fba
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: C9luv3o6emw
+    parent_uid: 59437ff025d8721880b85a663e9c3fba
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8da02afb2ab65527f787854d15211ab9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/C9luv3o6emw/default.jpg'
+    parent_uid: 59437ff025d8721880b85a663e9c3fba
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 761106ac1d08c43f0415531e66842ee1
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: C9luv3o6emw
+    parent_uid: 59437ff025d8721880b85a663e9c3fba
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ead4ce9ceccb5e6baf4aa67d38ba205e
+  - id: C9luv3o6emw.srt
+    parent_uid: 59437ff025d8721880b85a663e9c3fba
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-49-applications-of-the-fundamental-theorem-of-calculus/definite-integral-by-substitution/C9luv3o6emw.srt
+    title: 3play caption file
+    type: null
+    uid: c8deecf0bd1038989722d6c8ec4a3126
+  - id: C9luv3o6emw.pdf
+    parent_uid: 59437ff025d8721880b85a663e9c3fba
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-49-applications-of-the-fundamental-theorem-of-calculus/definite-integral-by-substitution/C9luv3o6emw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 215f94bf8619303d54eae70a6d1632f6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 59437ff025d8721880b85a663e9c3fba
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bc7fef733a9019dc7911b3232b1855f1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 59437ff025d8721880b85a663e9c3fba
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 44806d2091738665dc5177a89b06a805
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_39_300k.mp4'
+    parent_uid: 59437ff025d8721880b85a663e9c3fba
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b0f6dff169b49e34a3dc5fda5c0fdb49
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/definite-integral-by-substitution/id414308064?i=90319187
+    parent_uid: 59437ff025d8721880b85a663e9c3fba
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 075d93fd1e62623e96925db4cf300b96
+inline_embed_id: 88329296definiteintegralbysubstitution89412799
 parent_uid: bd925f6f8a78fde6be8c709ded2799e9
+related_resources_text: ''
+short_url: definite-integral-by-substitution
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-49-applications-of-the-fundamental-theorem-of-calculus/definite-integral-by-substitution
-short_url: definite-integral-by-substitution
-inline_embed_id: 88329296definiteintegralbysubstitution89412799
-about_this_resource_text: ''
-related_resources_text: ''
+title: Definite Integral by Substitution
 transcript: >-
   <p><span m='7150'>PROFESSOR: Hi.</span> <span m='7560'>Welcome</span> <span
   m='7900'>back</span> <span m='8100'>to</span> <span
@@ -563,62 +618,7 @@ transcript: >-
   m='573720'>definite</span> <span m='574480'>integrals</span> <span
   m='575140'>and</span> <span m='576070'>I'll</span> <span m='576420'>end</span>
   <span m='576630'>with</span> <span m='576800'>that.</span> </p>
-embedded_media:
-  - uid: 8da02afb2ab65527f787854d15211ab9
-    parent_uid: 59437ff025d8721880b85a663e9c3fba
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: C9luv3o6emw
-  - uid: 761106ac1d08c43f0415531e66842ee1
-    parent_uid: 59437ff025d8721880b85a663e9c3fba
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/C9luv3o6emw/default.jpg'
-  - uid: ead4ce9ceccb5e6baf4aa67d38ba205e
-    parent_uid: 59437ff025d8721880b85a663e9c3fba
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: C9luv3o6emw
-  - uid: c8deecf0bd1038989722d6c8ec4a3126
-    parent_uid: 59437ff025d8721880b85a663e9c3fba
-    id: C9luv3o6emw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-49-applications-of-the-fundamental-theorem-of-calculus/definite-integral-by-substitution/C9luv3o6emw.srt
-  - uid: 215f94bf8619303d54eae70a6d1632f6
-    parent_uid: 59437ff025d8721880b85a663e9c3fba
-    id: C9luv3o6emw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-49-applications-of-the-fundamental-theorem-of-calculus/definite-integral-by-substitution/C9luv3o6emw.pdf
-  - uid: bc7fef733a9019dc7911b3232b1855f1
-    parent_uid: 59437ff025d8721880b85a663e9c3fba
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 44806d2091738665dc5177a89b06a805
-    parent_uid: 59437ff025d8721880b85a663e9c3fba
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b0f6dff169b49e34a3dc5fda5c0fdb49
-    parent_uid: 59437ff025d8721880b85a663e9c3fba
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_39_300k.mp4'
-  - uid: 075d93fd1e62623e96925db4cf300b96
-    parent_uid: 59437ff025d8721880b85a663e9c3fba
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/definite-integral-by-substitution/id414308064?i=90319187
+uid: 59437ff025d8721880b85a663e9c3fba
 type: courses
 layout: video
 ---

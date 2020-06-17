@@ -1,13 +1,73 @@
 ---
-title: Trees
-uid: 8e0b8d2e973540d1eb840acc5ef5a55e
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 08d63f8541673318cf098b4afa91c748
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7c180c972066b0a0487959e11d0b876a
+  - id: Video-YouTube-Stream
+    media_location: ZEsk64C0fJg
+    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2343094c6fdbbaf8dae54b2506814710
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ZEsk64C0fJg/default.jpg'
+    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 981ff315907a6a19493f244f924843ac
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: ZEsk64C0fJg
+    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 85cce8a0a4ede358b95e824a017b77d1
+  - id: ZEsk64C0fJg.srt
+    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/trees/ZEsk64C0fJg.srt
+    title: 3play caption file
+    type: null
+    uid: c67047e7a5149a45576270ef92996126
+  - id: ZEsk64C0fJg.pdf
+    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/trees/ZEsk64C0fJg.pdf
+    title: 3play pdf file
+    type: null
+    uid: fab0a5db3098ecfeb124931a5d62c034
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e9456f20a08cb7b60f791928cf092c5b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e7fc187f897b934a37519276d17c6f90
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_treedefs_video_ipod.mp4
+    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ba473cc523e03587b09cf91a37ba3fef
+inline_embed_id: 28524769trees73039663
 parent_uid: cbeb9c37cb9ca67ccf216c0b8aeab325
+related_resources_text: ''
+short_url: trees
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/trees
-short_url: trees
-inline_embed_id: 28524769trees73039663
-about_this_resource_text: ''
-related_resources_text: ''
+title: Trees
 transcript: >-
   <p><span m='2300'>PROFESSOR: Trees</span> <span m='2660'>are</span> <span
   m='2730'>about</span> <span m='3060'>the</span> <span m='3120'>most</span>
@@ -644,67 +704,7 @@ transcript: >-
   m='484820'>this</span> <span m='485040'>is</span> <span
   m='485160'>enough</span> <span m='485450'>for</span> <span
   m='485760'>today.</span> </p>
-embedded_media:
-  - uid: 08d63f8541673318cf098b4afa91c748
-    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 7c180c972066b0a0487959e11d0b876a
-    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 2343094c6fdbbaf8dae54b2506814710
-    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ZEsk64C0fJg
-  - uid: 981ff315907a6a19493f244f924843ac
-    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ZEsk64C0fJg/default.jpg'
-  - uid: 85cce8a0a4ede358b95e824a017b77d1
-    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ZEsk64C0fJg
-  - uid: c67047e7a5149a45576270ef92996126
-    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
-    id: ZEsk64C0fJg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/trees/ZEsk64C0fJg.srt
-  - uid: fab0a5db3098ecfeb124931a5d62c034
-    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
-    id: ZEsk64C0fJg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/trees/ZEsk64C0fJg.pdf
-  - uid: e9456f20a08cb7b60f791928cf092c5b
-    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e7fc187f897b934a37519276d17c6f90
-    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ba473cc523e03587b09cf91a37ba3fef
-    parent_uid: 8e0b8d2e973540d1eb840acc5ef5a55e
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_treedefs_video_ipod.mp4
+uid: 8e0b8d2e973540d1eb840acc5ef5a55e
 type: courses
 layout: video
 ---

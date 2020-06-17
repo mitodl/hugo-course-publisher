@@ -1,13 +1,4 @@
 ---
-title: >-
-  Lecture 32: ImageNet is a Convolutional Neural Network (CNN), The Convolution
-  Rule
-uid: 0197a0ae0870f75f49cbfbe02e9e65a9
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-32-imagenet-is-a-cnn-the-convolution-rule
-short_url: lecture-32-imagenet-is-a-cnn-the-convolution-rule
-inline_embed_id: 46813713lecture32imagenetisacnntheconvolutionrule73141775
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>Professor Strang begins the lecture
   talking about ImageNet, a large visual database used in visual object
@@ -20,7 +11,64 @@ about_this_resource_text: >-
   by component)<br /> \(F\) = Fourier matrix with \(j\), \(k\) entry \(= \exp (2
   \pi i j k /n)\)</p> <p>Related section in textbook: IV.2</p>
   <p><strong>Instructor:</strong> Prof. Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: hwDRfkPSXng
+    parent_uid: 0197a0ae0870f75f49cbfbe02e9e65a9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 81c58dcb18921c57b647b8c65e87fe1b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/hwDRfkPSXng/default.jpg'
+    parent_uid: 0197a0ae0870f75f49cbfbe02e9e65a9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3628661a276383e00be8b7bc501e3884
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: hwDRfkPSXng
+    parent_uid: 0197a0ae0870f75f49cbfbe02e9e65a9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e4136f171e1d05aba087f379b7e6df55
+  - id: hwDRfkPSXng.srt
+    parent_uid: 0197a0ae0870f75f49cbfbe02e9e65a9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-32-imagenet-is-a-cnn-the-convolution-rule/hwDRfkPSXng.srt
+    title: 3play caption file
+    type: null
+    uid: d08125c3f423e2d6f79db5941c46775f
+  - id: hwDRfkPSXng.pdf
+    parent_uid: 0197a0ae0870f75f49cbfbe02e9e65a9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-32-imagenet-is-a-cnn-the-convolution-rule/hwDRfkPSXng.pdf
+    title: 3play pdf file
+    type: null
+    uid: f05ad51e5ee027dee95a998604e0dfdf
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0197a0ae0870f75f49cbfbe02e9e65a9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 043ab80d1f2fe431b15c50e34b96dac4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0197a0ae0870f75f49cbfbe02e9e65a9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0bec646bb38223ec000cfdf3d6f3ffc4
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture32_300k.mp4'
+    parent_uid: 0197a0ae0870f75f49cbfbe02e9e65a9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1132c0db43801730507ffe09ca1ae74f
+inline_embed_id: 46813713lecture32imagenetisacnntheconvolutionrule73141775
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-32-imagenet-is-a-cnn-the-convolution-rule
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-32-imagenet-is-a-cnn-the-convolution-rule
+title: >-
+  Lecture 32: ImageNet is a Convolutional Neural Network (CNN), The Convolution
+  Rule
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2207,55 +2255,7 @@ transcript: >-
   m="2831540">I'll</span> <span m="2831630">see</span> <span
   m="2831840">you</span> <span m="2831990">Wednesday.</span> <span
   m="2835590">Thanks.</span></p>
-embedded_media:
-  - uid: 81c58dcb18921c57b647b8c65e87fe1b
-    parent_uid: 0197a0ae0870f75f49cbfbe02e9e65a9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: hwDRfkPSXng
-  - uid: 3628661a276383e00be8b7bc501e3884
-    parent_uid: 0197a0ae0870f75f49cbfbe02e9e65a9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/hwDRfkPSXng/default.jpg'
-  - uid: e4136f171e1d05aba087f379b7e6df55
-    parent_uid: 0197a0ae0870f75f49cbfbe02e9e65a9
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: hwDRfkPSXng
-  - uid: d08125c3f423e2d6f79db5941c46775f
-    parent_uid: 0197a0ae0870f75f49cbfbe02e9e65a9
-    id: hwDRfkPSXng.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-32-imagenet-is-a-cnn-the-convolution-rule/hwDRfkPSXng.srt
-  - uid: f05ad51e5ee027dee95a998604e0dfdf
-    parent_uid: 0197a0ae0870f75f49cbfbe02e9e65a9
-    id: hwDRfkPSXng.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-32-imagenet-is-a-cnn-the-convolution-rule/hwDRfkPSXng.pdf
-  - uid: 043ab80d1f2fe431b15c50e34b96dac4
-    parent_uid: 0197a0ae0870f75f49cbfbe02e9e65a9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0bec646bb38223ec000cfdf3d6f3ffc4
-    parent_uid: 0197a0ae0870f75f49cbfbe02e9e65a9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1132c0db43801730507ffe09ca1ae74f
-    parent_uid: 0197a0ae0870f75f49cbfbe02e9e65a9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture32_300k.mp4'
+uid: 0197a0ae0870f75f49cbfbe02e9e65a9
 type: courses
 layout: video
 ---

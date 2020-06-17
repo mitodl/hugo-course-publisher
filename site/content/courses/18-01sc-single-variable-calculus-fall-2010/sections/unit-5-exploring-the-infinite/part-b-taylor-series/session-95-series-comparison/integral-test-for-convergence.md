@@ -1,13 +1,67 @@
 ---
-title: Integral Test for Convergence
-uid: 56449202a999aa85b202f97def56bda5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: e4cURLXGjrM
+    parent_uid: 56449202a999aa85b202f97def56bda5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3d008753d2ac1a51e6a1c0854233f949
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/e4cURLXGjrM/default.jpg'
+    parent_uid: 56449202a999aa85b202f97def56bda5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 00f991b4674d827eed5707b79ec72824
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/integral-test/id414308064?i=90320227'
+    parent_uid: 56449202a999aa85b202f97def56bda5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6cf74b81830c6142b7dde56525f32f9f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_75_300k.mp4'
+    parent_uid: 56449202a999aa85b202f97def56bda5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 31255d54708a5e513b9487b9982da538
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: e4cURLXGjrM
+    parent_uid: 56449202a999aa85b202f97def56bda5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9ebeeea90e8ae7c539e5061b60dcca62
+  - id: e4cURLXGjrM.srt
+    parent_uid: 56449202a999aa85b202f97def56bda5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/integral-test-for-convergence/e4cURLXGjrM.srt
+    title: 3play caption file
+    type: null
+    uid: 9dc15487e485cab608c05043fb34b3af
+  - id: e4cURLXGjrM.pdf
+    parent_uid: 56449202a999aa85b202f97def56bda5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/integral-test-for-convergence/e4cURLXGjrM.pdf
+    title: 3play pdf file
+    type: null
+    uid: ceeb60912f3f18dde3428f87c512929f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 56449202a999aa85b202f97def56bda5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 93add211ce10e66f7d09c8110e8abfc9
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 56449202a999aa85b202f97def56bda5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b5761a227a386911f49966018a9f48d5
+inline_embed_id: 94645892integraltestforconvergence75408246
 parent_uid: e6b5bcf01d4fe02cb8f15ed900b23542
+related_resources_text: ''
+short_url: integral-test-for-convergence
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/integral-test-for-convergence
-short_url: integral-test-for-convergence
-inline_embed_id: 94645892integraltestforconvergence75408246
-about_this_resource_text: ''
-related_resources_text: ''
+title: Integral Test for Convergence
 transcript: >-
   <p><span m='6960'>Hi.</span> <span m='7360'>Welcome</span> <span
   m='7710'>back</span> <span m='7920'>to</span> <span
@@ -560,61 +614,7 @@ transcript: >-
   m='463050'>the</span> <span m='463110'>second</span> <span m='463420'>one
   will</span> <span m='463680'>converge.</span> <span m='465440'>I'll end</span>
   <span m='465850'>there.</span> </p>
-embedded_media:
-  - uid: 3d008753d2ac1a51e6a1c0854233f949
-    parent_uid: 56449202a999aa85b202f97def56bda5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: e4cURLXGjrM
-  - uid: 00f991b4674d827eed5707b79ec72824
-    parent_uid: 56449202a999aa85b202f97def56bda5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/e4cURLXGjrM/default.jpg'
-  - uid: 6cf74b81830c6142b7dde56525f32f9f
-    parent_uid: 56449202a999aa85b202f97def56bda5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/integral-test/id414308064?i=90320227'
-  - uid: 31255d54708a5e513b9487b9982da538
-    parent_uid: 56449202a999aa85b202f97def56bda5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_75_300k.mp4'
-  - uid: 9ebeeea90e8ae7c539e5061b60dcca62
-    parent_uid: 56449202a999aa85b202f97def56bda5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: e4cURLXGjrM
-  - uid: 9dc15487e485cab608c05043fb34b3af
-    parent_uid: 56449202a999aa85b202f97def56bda5
-    id: e4cURLXGjrM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/integral-test-for-convergence/e4cURLXGjrM.srt
-  - uid: ceeb60912f3f18dde3428f87c512929f
-    parent_uid: 56449202a999aa85b202f97def56bda5
-    id: e4cURLXGjrM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/integral-test-for-convergence/e4cURLXGjrM.pdf
-  - uid: 93add211ce10e66f7d09c8110e8abfc9
-    parent_uid: 56449202a999aa85b202f97def56bda5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b5761a227a386911f49966018a9f48d5
-    parent_uid: 56449202a999aa85b202f97def56bda5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 56449202a999aa85b202f97def56bda5
 type: courses
 layout: video
 ---

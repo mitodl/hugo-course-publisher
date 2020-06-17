@@ -1,13 +1,62 @@
 ---
-title: 'Video 2: CART'
-uid: bcfc3536903d73a631b3c9e1318a3b79
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: W5zVgQ4SbX8
+    parent_uid: bcfc3536903d73a631b3c9e1318a3b79
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 81309ad8e6d834b217ba349e6c44ec34
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: W5zVgQ4SbX8
+    parent_uid: bcfc3536903d73a631b3c9e1318a3b79
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0c8d9ef312c2b38babc8bf95a7e438fa
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/W5zVgQ4SbX8/default.jpg'
+    parent_uid: bcfc3536903d73a631b3c9e1318a3b79
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 49a4caad50105d948075c66df0a88ff7
+  - id: W5zVgQ4SbX8.srt
+    parent_uid: bcfc3536903d73a631b3c9e1318a3b79
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-2-cart/video-2-cart-0/W5zVgQ4SbX8.srt
+    title: 3play caption file
+    type: null
+    uid: 66fbf27fdef8cffa3f10a15702637ace
+  - id: W5zVgQ4SbX8.pdf
+    parent_uid: bcfc3536903d73a631b3c9e1318a3b79
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-2-cart/video-2-cart-0/W5zVgQ4SbX8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 840265df9b1303f45ee3b2b88eed2c79
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bcfc3536903d73a631b3c9e1318a3b79
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 200069452494a39df06335a35eb2947c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bcfc3536903d73a631b3c9e1318a3b79
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f3f8216b4af1a7d0adc4c2d24756505b
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.2.03_300k.mp4
+    parent_uid: bcfc3536903d73a631b3c9e1318a3b79
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 36097b2da11286283127a0bcf5dfa623
+inline_embed_id: 34958977video2cart32895885
 parent_uid: fbeabfb3e0a4b479efe5ffb5d7cf5d4a
+related_resources_text: ''
+short_url: video-2-cart-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-2-cart/video-2-cart-0
-short_url: video-2-cart-0
-inline_embed_id: 34958977video2cart32895885
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: CART'
 transcript: >-
   <p><span m='4500'>To</span> <span m='4868'>predict</span> <span
   m='5237'>the</span> <span m='5606'>outcomes</span> <span m='5975'>of</span>
@@ -466,56 +515,7 @@ transcript: >-
   m='419274'>how</span> <span m='419748'>the</span> <span
   m='420222'>final</span> <span m='420697'>predictions</span> <span
   m='421171'>are</span> <span m='421645'>made.</span> </p>
-embedded_media:
-  - uid: 81309ad8e6d834b217ba349e6c44ec34
-    parent_uid: bcfc3536903d73a631b3c9e1318a3b79
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: W5zVgQ4SbX8
-  - uid: 0c8d9ef312c2b38babc8bf95a7e438fa
-    parent_uid: bcfc3536903d73a631b3c9e1318a3b79
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: W5zVgQ4SbX8
-  - uid: 49a4caad50105d948075c66df0a88ff7
-    parent_uid: bcfc3536903d73a631b3c9e1318a3b79
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/W5zVgQ4SbX8/default.jpg'
-  - uid: 66fbf27fdef8cffa3f10a15702637ace
-    parent_uid: bcfc3536903d73a631b3c9e1318a3b79
-    id: W5zVgQ4SbX8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-2-cart/video-2-cart-0/W5zVgQ4SbX8.srt
-  - uid: 840265df9b1303f45ee3b2b88eed2c79
-    parent_uid: bcfc3536903d73a631b3c9e1318a3b79
-    id: W5zVgQ4SbX8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-2-cart/video-2-cart-0/W5zVgQ4SbX8.pdf
-  - uid: 200069452494a39df06335a35eb2947c
-    parent_uid: bcfc3536903d73a631b3c9e1318a3b79
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f3f8216b4af1a7d0adc4c2d24756505b
-    parent_uid: bcfc3536903d73a631b3c9e1318a3b79
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 36097b2da11286283127a0bcf5dfa623
-    parent_uid: bcfc3536903d73a631b3c9e1318a3b79
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.2.03_300k.mp4
+uid: bcfc3536903d73a631b3c9e1318a3b79
 type: courses
 layout: video
 ---

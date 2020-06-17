@@ -1,16 +1,71 @@
 ---
-title: 'Lecture 13: Sums and Asymptotics'
-uid: cf215213a0c6da44f33fb7e6725bdaf2
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-13-sums-and-asymptotics
-short_url: lecture-13-sums-and-asymptotics
-inline_embed_id: '16770407lecture13:sumsandasymptotics1773171'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Analysis of sums, formulation of asymptotic
   bounds using various techniques, and introduction to asymptotic notation.</p>
   <p><strong>Speaker:</strong> Tom Leighton</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: X9eErxRjQEI
+    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2a0995265a79e6ed6348e2e57cd95bef
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/X9eErxRjQEI/default.jpg'
+    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2072586f598e4950e9b53270ae94eb5d
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-13-sums-asymptotics/id503873536?i=110644972
+    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b5c6fd65dcf365e1f870c6372a490b96
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec13_300k.mp4'
+    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c241dfda0522752151105dce479a327d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: X9eErxRjQEI
+    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a166d42dd89cc48bb26492d7f88f1361
+  - id: X9eErxRjQEI.srt
+    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-13-sums-and-asymptotics/X9eErxRjQEI.srt
+    title: 3play caption file
+    type: null
+    uid: f032582e3f3426cff3e9488dfffed122
+  - id: X9eErxRjQEI.pdf
+    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-13-sums-and-asymptotics/X9eErxRjQEI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0ee7810a0f2b2cded346b7ae55814e21
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a78b39660c54a2f3ab687bccdb3ab07e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ee3a1514d52b21a14d410436279c74f7
+inline_embed_id: '16770407lecture13:sumsandasymptotics1773171'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-13-sums-and-asymptotics
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-13-sums-and-asymptotics
+title: 'Lecture 13: Sums and Asymptotics'
 transcript: >-
   <p><span m='360'>The</span> <span m='490'>following</span> <span
   m='940'>content</span> <span m='1530'>is</span> <span m='1650'>provided</span>
@@ -4538,62 +4593,7 @@ transcript: >-
   m='5011390'>notation</span> <span m='5011910'>in</span> <span
   m='5012020'>induction</span> <span m='5012440'>or</span> <span
   m='5012500'>predicates.</span> <span m='5013400'>Thanks.</span> </p>
-embedded_media:
-  - uid: 2a0995265a79e6ed6348e2e57cd95bef
-    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: X9eErxRjQEI
-  - uid: 2072586f598e4950e9b53270ae94eb5d
-    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/X9eErxRjQEI/default.jpg'
-  - uid: b5c6fd65dcf365e1f870c6372a490b96
-    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-13-sums-asymptotics/id503873536?i=110644972
-  - uid: c241dfda0522752151105dce479a327d
-    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec13_300k.mp4'
-  - uid: a166d42dd89cc48bb26492d7f88f1361
-    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: X9eErxRjQEI
-  - uid: f032582e3f3426cff3e9488dfffed122
-    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
-    id: X9eErxRjQEI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-13-sums-and-asymptotics/X9eErxRjQEI.srt
-  - uid: 0ee7810a0f2b2cded346b7ae55814e21
-    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
-    id: X9eErxRjQEI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-13-sums-and-asymptotics/X9eErxRjQEI.pdf
-  - uid: a78b39660c54a2f3ab687bccdb3ab07e
-    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ee3a1514d52b21a14d410436279c74f7
-    parent_uid: cf215213a0c6da44f33fb7e6725bdaf2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: cf215213a0c6da44f33fb7e6725bdaf2
 type: courses
 layout: video
 ---

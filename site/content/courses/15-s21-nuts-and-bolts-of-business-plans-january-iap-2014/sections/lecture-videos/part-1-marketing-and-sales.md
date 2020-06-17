@@ -1,13 +1,67 @@
 ---
-title: 'Session 2, Part 1: Marketing and Sales'
-uid: 2824de7a4a7f509accad99a3ad533f19
+about_this_resource_text: '<p><strong>Speaker:</strong> Bob Jones</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Azq6S6Hx0gU
+    parent_uid: 2824de7a4a7f509accad99a3ad533f19
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 92eaa41d98a6e0a5600f003637eb83c1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Azq6S6Hx0gU/default.jpg'
+    parent_uid: 2824de7a4a7f509accad99a3ad533f19
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b738fa9ebe98437b780a94f4a697d60d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Azq6S6Hx0gU
+    parent_uid: 2824de7a4a7f509accad99a3ad533f19
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3c144b8b93b1392dc00b5104736bb376
+  - id: Azq6S6Hx0gU.srt
+    parent_uid: 2824de7a4a7f509accad99a3ad533f19
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-1-marketing-and-sales/Azq6S6Hx0gU.srt
+    title: 3play caption file
+    type: null
+    uid: ce340e5c87d1870f5c185c12c9feac0a
+  - id: Azq6S6Hx0gU.pdf
+    parent_uid: 2824de7a4a7f509accad99a3ad533f19
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-1-marketing-and-sales/Azq6S6Hx0gU.pdf
+    title: 3play pdf file
+    type: null
+    uid: c3eb6db300b9a7f2966c550a1b99952c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2824de7a4a7f509accad99a3ad533f19
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9f50a3ab61945129e268380bdba7c7b5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2824de7a4a7f509accad99a3ad533f19
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c90540c22a398c87cd22f36623d11e97
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1122123562'
+    parent_uid: 2824de7a4a7f509accad99a3ad533f19
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9017e782529762a9b5205d5946ec0de1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT15.S21IAP14/MIT15_S21IAP14_S2P1_300k.mp4'
+    parent_uid: 2824de7a4a7f509accad99a3ad533f19
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 90be63a0e492a2370d9971028dd67f62
+inline_embed_id: '79442248part1:marketingandsales14375873'
 parent_uid: 7425dbab24bd40b9d0c0c704cab7eab2
+related_resources_text: ''
+short_url: part-1-marketing-and-sales
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-1-marketing-and-sales
-short_url: part-1-marketing-and-sales
-inline_embed_id: '79442248part1:marketingandsales14375873'
-about_this_resource_text: '<p><strong>Speaker:</strong> Bob Jones</p>'
-related_resources_text: ''
+title: 'Session 2, Part 1: Marketing and Sales'
 transcript: >-
   <p><span m='90'>The</span> <span m='170'>following</span> <span
   m='610'>content</span> <span m='1120'>is</span> <span m='1230'>provided</span>
@@ -4991,61 +5045,7 @@ transcript: >-
   m='4335410'>Thank you</span> <span m='4335710'>very</span> <span
   m='4336010'>much.</span> </p><p><span m='4336910'>[APPLAUSE]</span>
   </p><p></p>
-embedded_media:
-  - uid: 92eaa41d98a6e0a5600f003637eb83c1
-    parent_uid: 2824de7a4a7f509accad99a3ad533f19
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Azq6S6Hx0gU
-  - uid: b738fa9ebe98437b780a94f4a697d60d
-    parent_uid: 2824de7a4a7f509accad99a3ad533f19
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Azq6S6Hx0gU/default.jpg'
-  - uid: 3c144b8b93b1392dc00b5104736bb376
-    parent_uid: 2824de7a4a7f509accad99a3ad533f19
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Azq6S6Hx0gU
-  - uid: ce340e5c87d1870f5c185c12c9feac0a
-    parent_uid: 2824de7a4a7f509accad99a3ad533f19
-    id: Azq6S6Hx0gU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-1-marketing-and-sales/Azq6S6Hx0gU.srt
-  - uid: c3eb6db300b9a7f2966c550a1b99952c
-    parent_uid: 2824de7a4a7f509accad99a3ad533f19
-    id: Azq6S6Hx0gU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-1-marketing-and-sales/Azq6S6Hx0gU.pdf
-  - uid: 9f50a3ab61945129e268380bdba7c7b5
-    parent_uid: 2824de7a4a7f509accad99a3ad533f19
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c90540c22a398c87cd22f36623d11e97
-    parent_uid: 2824de7a4a7f509accad99a3ad533f19
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9017e782529762a9b5205d5946ec0de1
-    parent_uid: 2824de7a4a7f509accad99a3ad533f19
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1122123562'
-  - uid: 90be63a0e492a2370d9971028dd67f62
-    parent_uid: 2824de7a4a7f509accad99a3ad533f19
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT15.S21IAP14/MIT15_S21IAP14_S2P1_300k.mp4'
+uid: 2824de7a4a7f509accad99a3ad533f19
 type: courses
 layout: video
 ---

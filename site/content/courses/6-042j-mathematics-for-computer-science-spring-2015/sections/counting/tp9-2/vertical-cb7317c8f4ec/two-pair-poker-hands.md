@@ -1,13 +1,73 @@
 ---
-title: Two Pair Poker Hands
-uid: 47a047055d59b5b72ba645f4d5de4aea
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 01fa29d2ac6f7ca962b3d38062b80adc
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 62f9743d96d5f8c8f581964992c04ddc
+  - id: Video-YouTube-Stream
+    media_location: HswnmlLPGZ4
+    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ad6aa12ba0658b02c4d9168c883a9229
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/HswnmlLPGZ4/default.jpg'
+    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f151b86b6a130475fdf1b42f6afb5d9b
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: HswnmlLPGZ4
+    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7a8b3e11b5f5fafec0297cf1277b5280
+  - id: HswnmlLPGZ4.srt
+    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-cb7317c8f4ec/two-pair-poker-hands/HswnmlLPGZ4.srt
+    title: 3play caption file
+    type: null
+    uid: fa0511fb0f567bfbbec0dc38603eaf6c
+  - id: HswnmlLPGZ4.pdf
+    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-cb7317c8f4ec/two-pair-poker-hands/HswnmlLPGZ4.pdf
+    title: 3play pdf file
+    type: null
+    uid: dce983bc54af36b240932316c67ddeaf
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1da0033c148fc52e21abf52d0d0fc482
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7f8e0ed37cc288a55997cf6880f70941
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_count2pair_video_ipod.mp4
+    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bb51dfa5a5557dfc686a0b5bbd9085d3
+inline_embed_id: 6930687twopairpokerhands43368105
 parent_uid: 4da3fbbb1818cbfbea44f787eadffa78
+related_resources_text: ''
+short_url: two-pair-poker-hands
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-cb7317c8f4ec/two-pair-poker-hands
-short_url: two-pair-poker-hands
-inline_embed_id: 6930687twopairpokerhands43368105
-about_this_resource_text: ''
-related_resources_text: ''
+title: Two Pair Poker Hands
 transcript: >-
   <p><span m='970'>PROFESSOR: So</span> <span m='1130'>let's</span> <span
   m='1330'>do</span> <span m='1420'>a</span> <span m='1470'>basic</span> <span
@@ -546,67 +606,7 @@ transcript: >-
   m='462240'>the</span> <span m='462350'>number</span> <span
   m='462810'>of</span> <span m='462940'>two-pair</span> <span
   m='463530'>hands.</span> </p>
-embedded_media:
-  - uid: 01fa29d2ac6f7ca962b3d38062b80adc
-    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 62f9743d96d5f8c8f581964992c04ddc
-    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: ad6aa12ba0658b02c4d9168c883a9229
-    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: HswnmlLPGZ4
-  - uid: f151b86b6a130475fdf1b42f6afb5d9b
-    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/HswnmlLPGZ4/default.jpg'
-  - uid: 7a8b3e11b5f5fafec0297cf1277b5280
-    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: HswnmlLPGZ4
-  - uid: fa0511fb0f567bfbbec0dc38603eaf6c
-    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
-    id: HswnmlLPGZ4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-cb7317c8f4ec/two-pair-poker-hands/HswnmlLPGZ4.srt
-  - uid: dce983bc54af36b240932316c67ddeaf
-    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
-    id: HswnmlLPGZ4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-cb7317c8f4ec/two-pair-poker-hands/HswnmlLPGZ4.pdf
-  - uid: 1da0033c148fc52e21abf52d0d0fc482
-    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7f8e0ed37cc288a55997cf6880f70941
-    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: bb51dfa5a5557dfc686a0b5bbd9085d3
-    parent_uid: 47a047055d59b5b72ba645f4d5de4aea
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_count2pair_video_ipod.mp4
+uid: 47a047055d59b5b72ba645f4d5de4aea
 type: courses
 layout: video
 ---

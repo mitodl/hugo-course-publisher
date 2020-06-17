@@ -1,17 +1,89 @@
 ---
-title: 'Lecture 14: Mean Value Theorem'
-uid: b7b79337348fa21bbf46f1c7bd6565d4
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-14-mean-value-theorem
-short_url: lecture-14-mean-value-theorem
-inline_embed_id: '22169186lecture14:meanvaluetheorem85564022'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Mean value theorem;
   Inequalities</p> <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec14.jpg
+    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-14-mean-value-theorem/lec14.jpg
+    title: Lecture 14
+    type: null
+    uid: 1e8cec51253cad834589811657eaf37d
+  - id: Video-YouTube-Stream
+    media_location: 4Q37iOyBq44
+    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 57d37b06d4bd5437cf8a323634850e40
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4Q37iOyBq44/default.jpg'
+    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: efb0265d0d649d4804c87f3de11e76b1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7ea91dc27402f94b04e051198d780bb9
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec14_300k.mp4'
+    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f2ad13df8ca9d86a39aa7f37054f5260
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: a20065aa98d75152efed067d7fcbf006
+  - id: Thumbnail-OCW-JPG
+    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 3e180a40e1ddd150866743d363bbaeac
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 4Q37iOyBq44
+    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 50843f70c8a9b1c6439d591443251922
+  - id: 4Q37iOyBq44.srt
+    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-14-mean-value-theorem/4Q37iOyBq44.srt
+    title: 3play caption file
+    type: null
+    uid: 555532dc0b4d850727684f49588b47f2
+  - id: 4Q37iOyBq44.pdf
+    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-14-mean-value-theorem/4Q37iOyBq44.pdf
+    title: 3play pdf file
+    type: null
+    uid: bf87c7c661858ffe760407f8ac961ad8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1db486109cdd31ddd4a03a15476f2da1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 09382a1bb70e56dc9f5d0743f5725d97
+inline_embed_id: '22169186lecture14:meanvaluetheorem85564022'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/1a211af8e4860b63b801aa3d6e7a2e95">PDF</a>)</p></div>
+short_url: lecture-14-mean-value-theorem
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-14-mean-value-theorem
+title: 'Lecture 14: Mean Value Theorem'
 transcript: >-
   <p><span m='0'>The</span> <span m='90'>following</span> <span
   m='520'>content</span> <span m='1270'>is</span> <span m='1420'>provided</span>
@@ -2506,79 +2578,7 @@ transcript: >-
   m='2979500'>at</span> <span m='2979580'>the</span> <span
   m='2979740'>end</span> <span m='2979920'>of</span> <span m='2979990'>the
   course.</span> </p>
-embedded_media:
-  - uid: 1e8cec51253cad834589811657eaf37d
-    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
-    id: lec14.jpg
-    title: Lecture 14
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-14-mean-value-theorem/lec14.jpg
-  - uid: 57d37b06d4bd5437cf8a323634850e40
-    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4Q37iOyBq44
-  - uid: efb0265d0d649d4804c87f3de11e76b1
-    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4Q37iOyBq44/default.jpg'
-  - uid: 7ea91dc27402f94b04e051198d780bb9
-    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: f2ad13df8ca9d86a39aa7f37054f5260
-    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec14_300k.mp4'
-  - uid: a20065aa98d75152efed067d7fcbf006
-    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 3e180a40e1ddd150866743d363bbaeac
-    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 50843f70c8a9b1c6439d591443251922
-    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4Q37iOyBq44
-  - uid: 555532dc0b4d850727684f49588b47f2
-    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
-    id: 4Q37iOyBq44.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-14-mean-value-theorem/4Q37iOyBq44.srt
-  - uid: bf87c7c661858ffe760407f8ac961ad8
-    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
-    id: 4Q37iOyBq44.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-14-mean-value-theorem/4Q37iOyBq44.pdf
-  - uid: 1db486109cdd31ddd4a03a15476f2da1
-    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 09382a1bb70e56dc9f5d0743f5725d97
-    parent_uid: b7b79337348fa21bbf46f1c7bd6565d4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b7b79337348fa21bbf46f1c7bd6565d4
 type: courses
 layout: video
 ---

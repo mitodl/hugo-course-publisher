@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 4: Search: Depth-First, Hill Climbing, Beam'
-uid: dc703721c6e2ddf8ecf3384b2ca0f006
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-4-search-depth-first-hill-climbing-beam
-short_url: lecture-4-search-depth-first-hill-climbing-beam
-inline_embed_id: '23164533lecture4:search:depth-first,hillclimbing,beam8177409'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture covers algorithms for
   depth-first and breadth-first search, followed by several refinements: keeping
   track of nodes already considered, hill climbing, and beam search.  We end
   with a brief discussion of commonsense vs. reflective knowledge.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: j1H3jAAGlEA
+    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 81025918f66ff293658d5b311a28d158
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-4-search-depth-first/id765641080?i=194469718
+    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 43a13c90572e1878fa88259ccb17a6fa
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec04_300k.mp4'
+    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5cf883ece870ccdf67d3bc22e6c471cc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/j1H3jAAGlEA/default.jpg'
+    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 043ab7716ddc4af30a9956eaaf50b7d8
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: j1H3jAAGlEA
+    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ae5629c1d77ec5cbd7b4a4096517e1e0
+  - id: j1H3jAAGlEA.srt
+    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-4-search-depth-first-hill-climbing-beam/j1H3jAAGlEA.srt
+    title: 3play caption file
+    type: null
+    uid: 34c04a263c3cda6e8225995c23e50bae
+  - id: j1H3jAAGlEA.pdf
+    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-4-search-depth-first-hill-climbing-beam/j1H3jAAGlEA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7d217346c7e53dd7a4888198e74899b3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 40af64277e345c349e35cc48d60f6313
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b427a3aba06f247588f8507d083f92c6
+inline_embed_id: '23164533lecture4:search:depth-first,hillclimbing,beam8177409'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: "<p><a href=\"./resolveuid/a6fb3e82ce4c5f1c99b858b3950d498d\" target=\"_blank\">6.01SC Introduction to EECS I</a> includes two sessions on search:</p>\r\n<ul>\r\n    <li><a href=\"./resolveuid/497582d868ca82e77ef76b997e187b13\" target=\"_blank\">Search Algorithms</a></li>\r\n    <li><a href=\"./resolveuid/da41172cd83b25719eaecaa5c1bcde32\" target=\"_blank\">Optimizing a Search</a></li>\r\n</ul>"
+short_url: lecture-4-search-depth-first-hill-climbing-beam
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-4-search-depth-first-hill-climbing-beam
+title: 'Lecture 4: Search: Depth-First, Hill Climbing, Beam'
 transcript: >-
   <p><span m='9234'>PATRICK WINSTON: Today we're going to be</span> <span
   m='10220'>talking about Search.</span> </p><p><span m='11030'>I know you're
@@ -809,62 +864,7 @@ transcript: >-
   that's something that has never before been seen by any</span> <span
   m='2903660'>eyes but me.</span> </p><p><span m='2905830'>So, that will
   conclude what we have to do today.</span> </p><p></p>
-embedded_media:
-  - uid: 81025918f66ff293658d5b311a28d158
-    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: j1H3jAAGlEA
-  - uid: 43a13c90572e1878fa88259ccb17a6fa
-    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-4-search-depth-first/id765641080?i=194469718
-  - uid: 5cf883ece870ccdf67d3bc22e6c471cc
-    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec04_300k.mp4'
-  - uid: 043ab7716ddc4af30a9956eaaf50b7d8
-    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/j1H3jAAGlEA/default.jpg'
-  - uid: ae5629c1d77ec5cbd7b4a4096517e1e0
-    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: j1H3jAAGlEA
-  - uid: 34c04a263c3cda6e8225995c23e50bae
-    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
-    id: j1H3jAAGlEA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-4-search-depth-first-hill-climbing-beam/j1H3jAAGlEA.srt
-  - uid: 7d217346c7e53dd7a4888198e74899b3
-    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
-    id: j1H3jAAGlEA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-4-search-depth-first-hill-climbing-beam/j1H3jAAGlEA.pdf
-  - uid: 40af64277e345c349e35cc48d60f6313
-    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b427a3aba06f247588f8507d083f92c6
-    parent_uid: dc703721c6e2ddf8ecf3384b2ca0f006
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: dc703721c6e2ddf8ecf3384b2ca0f006
 type: courses
 layout: video
 ---

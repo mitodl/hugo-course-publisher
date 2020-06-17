@@ -1,13 +1,62 @@
 ---
-title: Welcome to Unit 7
-uid: e013fb33e25a6bb1162f869046e9408a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ByiCbXfwGbc
+    parent_uid: e013fb33e25a6bb1162f869046e9408a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9d2f8981ad42c61c9782e95268c902d7
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: ByiCbXfwGbc
+    parent_uid: e013fb33e25a6bb1162f869046e9408a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 874c9f5c09ee9af995849ebd49d92eb6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ByiCbXfwGbc/default.jpg'
+    parent_uid: e013fb33e25a6bb1162f869046e9408a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9578bee0c99c33390701a996cff6dbb9
+  - id: ByiCbXfwGbc.srt
+    parent_uid: e013fb33e25a6bb1162f869046e9408a
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/welcome-to-unit-7/welcome-to-unit-7-1/ByiCbXfwGbc.srt
+    title: 3play caption file
+    type: null
+    uid: 573c7be098351475d88bc0f1539be92e
+  - id: ByiCbXfwGbc.pdf
+    parent_uid: e013fb33e25a6bb1162f869046e9408a
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/welcome-to-unit-7/welcome-to-unit-7-1/ByiCbXfwGbc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1f73ab3af0504246de848200ef35d167
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e013fb33e25a6bb1162f869046e9408a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 55c5a5653fbf2ca6e60e8cfe8bbd4af1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e013fb33e25a6bb1162f869046e9408a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 55e7eeeb9da8f0ce32452649edf98606
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.1.01_300k.mp4
+    parent_uid: e013fb33e25a6bb1162f869046e9408a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 615d7771439c68ad0d08bc849f5143cc
+inline_embed_id: 98050206welcometounit776401918
 parent_uid: 252f83b91a54bc0db02e8b2cdb45007c
+related_resources_text: ''
+short_url: welcome-to-unit-7-1
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/welcome-to-unit-7/welcome-to-unit-7-1
-short_url: welcome-to-unit-7-1
-inline_embed_id: 98050206welcometounit776401918
-about_this_resource_text: ''
-related_resources_text: ''
+title: Welcome to Unit 7
 transcript: >-
   <p><span m='4500'>This</span> <span m='4927'>week,</span> <span
   m='5355'>we'll</span> <span m='5783'>be</span> <span
@@ -49,56 +98,7 @@ transcript: >-
   m='40968'>data</span> <span m='41366'>and</span> <span m='41764'>our</span>
   <span m='42162'>models.</span> </p><p><span m='42560'>Let's</span> <span
   m='43216'>get</span> <span m='43873'>started.</span> </p>
-embedded_media:
-  - uid: 9d2f8981ad42c61c9782e95268c902d7
-    parent_uid: e013fb33e25a6bb1162f869046e9408a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ByiCbXfwGbc
-  - uid: 874c9f5c09ee9af995849ebd49d92eb6
-    parent_uid: e013fb33e25a6bb1162f869046e9408a
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ByiCbXfwGbc
-  - uid: 9578bee0c99c33390701a996cff6dbb9
-    parent_uid: e013fb33e25a6bb1162f869046e9408a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ByiCbXfwGbc/default.jpg'
-  - uid: 573c7be098351475d88bc0f1539be92e
-    parent_uid: e013fb33e25a6bb1162f869046e9408a
-    id: ByiCbXfwGbc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/welcome-to-unit-7/welcome-to-unit-7-1/ByiCbXfwGbc.srt
-  - uid: 1f73ab3af0504246de848200ef35d167
-    parent_uid: e013fb33e25a6bb1162f869046e9408a
-    id: ByiCbXfwGbc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/welcome-to-unit-7/welcome-to-unit-7-1/ByiCbXfwGbc.pdf
-  - uid: 55c5a5653fbf2ca6e60e8cfe8bbd4af1
-    parent_uid: e013fb33e25a6bb1162f869046e9408a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 55e7eeeb9da8f0ce32452649edf98606
-    parent_uid: e013fb33e25a6bb1162f869046e9408a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 615d7771439c68ad0d08bc849f5143cc
-    parent_uid: e013fb33e25a6bb1162f869046e9408a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.1.01_300k.mp4
+uid: e013fb33e25a6bb1162f869046e9408a
 type: courses
 layout: video
 ---

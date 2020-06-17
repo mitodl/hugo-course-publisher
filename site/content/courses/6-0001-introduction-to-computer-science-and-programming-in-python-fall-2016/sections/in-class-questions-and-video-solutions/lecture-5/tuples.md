@@ -1,16 +1,71 @@
 ---
-title: Tuples
-uid: c9f180f7568dfdb955f64ae1ae784390
-parent_uid: 2d1ecaeaf49e8ee7cac3ea3ce9cbe081
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5/tuples
-short_url: tuples
-inline_embed_id: 74783324tuples12234987
 about_this_resource_text: >-
   <p><strong>Description:</strong> This in-class question demonstrates tuples in
   Python, including the difference between tuples and strings.</p>
   <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ncpb4wIsQu8
+    parent_uid: c9f180f7568dfdb955f64ae1ae784390
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1a48d2b67bad72fed90e7f3be796bc01
+  - id: ncpb4wIsQu8.srt
+    parent_uid: c9f180f7568dfdb955f64ae1ae784390
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5/tuples/ncpb4wIsQu8.srt
+    title: 3play caption file
+    type: null
+    uid: 8e67d90aaf5a69f579bb487a54a6a200
+  - id: ncpb4wIsQu8.pdf
+    parent_uid: c9f180f7568dfdb955f64ae1ae784390
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5/tuples/ncpb4wIsQu8.pdf
+    title: 3play pdf file
+    type: null
+    uid: d3150e27dfe972e8349e65aa20d6d210
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c9f180f7568dfdb955f64ae1ae784390
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: eb48dae06e8907c18d02f37c9cfa71c2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c9f180f7568dfdb955f64ae1ae784390
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b468bcffe42f709f385ad471fea0d42d
+  - id: Video-YouTube-Stream
+    media_location: ncpb4wIsQu8
+    parent_uid: c9f180f7568dfdb955f64ae1ae784390
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b9aa745691ce4092c9f4d46a955016db
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ncpb4wIsQu8/default.jpg'
+    parent_uid: c9f180f7568dfdb955f64ae1ae784390
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d0c0f7a914c978e9ef55af5f463f1056
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: c9f180f7568dfdb955f64ae1ae784390
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3bcc9bb93586e7887687e19cd09af847
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_05_exercise_01_300k.mp4
+    parent_uid: c9f180f7568dfdb955f64ae1ae784390
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 282b30963f073b6551a5319d715f07ad
+inline_embed_id: 74783324tuples12234987
+parent_uid: 2d1ecaeaf49e8ee7cac3ea3ce9cbe081
 related_resources_text: ''
+short_url: tuples
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5/tuples
+title: Tuples
 transcript: >-
   <p><span m='790'>The</span> <span m='880'>following</span> <span
   m='1300'>content</span> <span m='1870'>is</span> <span
@@ -183,62 +238,7 @@ transcript: >-
   m='203200'>string</span> <span m='203560'>is</span> <span
   m='204370'>and</span> <span m='204460'>what</span> <span m='204640'>a</span>
   <span m='204700'>tuple</span> <span m='205060'>is.</span> </p>
-embedded_media:
-  - uid: 1a48d2b67bad72fed90e7f3be796bc01
-    parent_uid: c9f180f7568dfdb955f64ae1ae784390
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ncpb4wIsQu8
-  - uid: 8e67d90aaf5a69f579bb487a54a6a200
-    parent_uid: c9f180f7568dfdb955f64ae1ae784390
-    id: ncpb4wIsQu8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5/tuples/ncpb4wIsQu8.srt
-  - uid: d3150e27dfe972e8349e65aa20d6d210
-    parent_uid: c9f180f7568dfdb955f64ae1ae784390
-    id: ncpb4wIsQu8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5/tuples/ncpb4wIsQu8.pdf
-  - uid: eb48dae06e8907c18d02f37c9cfa71c2
-    parent_uid: c9f180f7568dfdb955f64ae1ae784390
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b468bcffe42f709f385ad471fea0d42d
-    parent_uid: c9f180f7568dfdb955f64ae1ae784390
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b9aa745691ce4092c9f4d46a955016db
-    parent_uid: c9f180f7568dfdb955f64ae1ae784390
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ncpb4wIsQu8
-  - uid: d0c0f7a914c978e9ef55af5f463f1056
-    parent_uid: c9f180f7568dfdb955f64ae1ae784390
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ncpb4wIsQu8/default.jpg'
-  - uid: 3bcc9bb93586e7887687e19cd09af847
-    parent_uid: c9f180f7568dfdb955f64ae1ae784390
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: 282b30963f073b6551a5319d715f07ad
-    parent_uid: c9f180f7568dfdb955f64ae1ae784390
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_05_exercise_01_300k.mp4
+uid: c9f180f7568dfdb955f64ae1ae784390
 type: courses
 layout: video
 ---

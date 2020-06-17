@@ -4,7 +4,8 @@ course_id: 6-042j-mathematics-for-computer-science-fall-2010
 course_title: Mathematics for Computer Science
 course_image_url: >-
   https://open-learning-course-data-ci.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2010/42ba5c4fb2e9df43aa8b2bc0566b459f_6-042jf10.jpg
-course_thumbnail_image_url: ''
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2010/7d99be9526c6fbf3d31ade21871b2ee7_6-042jf10-th.jpg
 course_image_alternate_text: Four dice representing the course number 6.042.
 course_image_caption_text: <p>6.042 course logo. (Image by Will Drevo. Used with permission.)</p>
 course_description: >-

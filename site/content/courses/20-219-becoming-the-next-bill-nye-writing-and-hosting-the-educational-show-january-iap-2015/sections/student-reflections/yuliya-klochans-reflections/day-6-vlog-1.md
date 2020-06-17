@@ -1,11 +1,4 @@
 ---
-title: Day 6 Vlog
-uid: 17d0de5b6346f7a210daa0be35131e08
-parent_uid: 4c546c9b14d98c4ddcb62fb4649e373c
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/yuliya-klochans-reflections/day-6-vlog-1
-short_url: day-6-vlog-1
-inline_embed_id: 5254446day6vlog34864410
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   Commons BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 7wgEJBFx8Qk
+    parent_uid: 17d0de5b6346f7a210daa0be35131e08
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a24beeb0340e0a36e9b89b094ec5b72d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7wgEJBFx8Qk/default.jpg'
+    parent_uid: 17d0de5b6346f7a210daa0be35131e08
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 08885ccdd887ba5f526962416fb6bbfb
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7wgEJBFx8Qk
+    parent_uid: 17d0de5b6346f7a210daa0be35131e08
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 831c1de4777bf44abcece8b4d728277a
+  - id: 7wgEJBFx8Qk.srt
+    parent_uid: 17d0de5b6346f7a210daa0be35131e08
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/yuliya-klochans-reflections/day-6-vlog-1/7wgEJBFx8Qk.srt
+    title: 3play caption file
+    type: null
+    uid: 68f4c082adf1d620f9d4706e28ac8fe1
+  - id: 7wgEJBFx8Qk.pdf
+    parent_uid: 17d0de5b6346f7a210daa0be35131e08
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/yuliya-klochans-reflections/day-6-vlog-1/7wgEJBFx8Qk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 86dfbdb7257ac696c13942abec9718e2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 17d0de5b6346f7a210daa0be35131e08
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 76c1e48b2fa088e6f49ac2b2798d77d6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 17d0de5b6346f7a210daa0be35131e08
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d94d4ad098958315f124bdf732e0d683
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 17d0de5b6346f7a210daa0be35131e08
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6f565e109aba86d1f4fd10048858343f
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_YK_D06_Reflections_360p.mp4
+    parent_uid: 17d0de5b6346f7a210daa0be35131e08
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5c5c3d95a8213390d572a913ff613dac
+inline_embed_id: 5254446day6vlog34864410
+parent_uid: 4c546c9b14d98c4ddcb62fb4649e373c
 related_resources_text: ''
+short_url: day-6-vlog-1
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/yuliya-klochans-reflections/day-6-vlog-1
+title: Day 6 Vlog
 transcript: >-
   <p><span m="4240">SPEAKER: So</span> <span m="4870">after</span> <span
   m="5770">perhaps</span> <span m="6170">the</span> <span m="7440">fourth</span>
@@ -452,62 +507,7 @@ transcript: >-
   <span m="465730">statement,</span> <span m="466820">I</span> <span
   m="467110">end</span> <span m="467350">this.</span> <span
   m="468590">Farewell.</span></p>
-embedded_media:
-  - uid: a24beeb0340e0a36e9b89b094ec5b72d
-    parent_uid: 17d0de5b6346f7a210daa0be35131e08
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 7wgEJBFx8Qk
-  - uid: 08885ccdd887ba5f526962416fb6bbfb
-    parent_uid: 17d0de5b6346f7a210daa0be35131e08
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7wgEJBFx8Qk/default.jpg'
-  - uid: 831c1de4777bf44abcece8b4d728277a
-    parent_uid: 17d0de5b6346f7a210daa0be35131e08
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7wgEJBFx8Qk
-  - uid: 68f4c082adf1d620f9d4706e28ac8fe1
-    parent_uid: 17d0de5b6346f7a210daa0be35131e08
-    id: 7wgEJBFx8Qk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/yuliya-klochans-reflections/day-6-vlog-1/7wgEJBFx8Qk.srt
-  - uid: 86dfbdb7257ac696c13942abec9718e2
-    parent_uid: 17d0de5b6346f7a210daa0be35131e08
-    id: 7wgEJBFx8Qk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/yuliya-klochans-reflections/day-6-vlog-1/7wgEJBFx8Qk.pdf
-  - uid: 76c1e48b2fa088e6f49ac2b2798d77d6
-    parent_uid: 17d0de5b6346f7a210daa0be35131e08
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d94d4ad098958315f124bdf732e0d683
-    parent_uid: 17d0de5b6346f7a210daa0be35131e08
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6f565e109aba86d1f4fd10048858343f
-    parent_uid: 17d0de5b6346f7a210daa0be35131e08
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 5c5c3d95a8213390d572a913ff613dac
-    parent_uid: 17d0de5b6346f7a210daa0be35131e08
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_YK_D06_Reflections_360p.mp4
+uid: 17d0de5b6346f7a210daa0be35131e08
 type: courses
 layout: video
 ---

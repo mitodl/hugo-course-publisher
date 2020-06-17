@@ -1,18 +1,72 @@
 ---
-title: 'Clip 3: Translating y = 1 into Polar Coordinates'
-uid: c0863e4b352178114f59b5fcd2d543c5
-parent_uid: 6b43151f2ea4f32cac0a7709358919db
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-82-polar-coordinates/copy2_of_clip-1-introduction-to-polar-coordinates
-short_url: copy2_of_clip-1-introduction-to-polar-coordinates
-inline_embed_id: '95167964clip3:translatingy=1intopolarcoordinates71271047'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/e47d40e3addca4b7f5df82df71e748a9" title="Open
   in a new window." target="_blank">Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 32 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: XRkgBWbWvg4
+    parent_uid: c0863e4b352178114f59b5fcd2d543c5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0bbe0b2a67a9a4a032a85267f1a70dbf
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/XRkgBWbWvg4/default.jpg'
+    parent_uid: c0863e4b352178114f59b5fcd2d543c5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fafb6ba682b13fdbd344bd5fcf6e8480
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: XRkgBWbWvg4
+    parent_uid: c0863e4b352178114f59b5fcd2d543c5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7a8d421def20cb801c3e596cef76b35c
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec32_300k.mp4'
+    parent_uid: c0863e4b352178114f59b5fcd2d543c5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ab3ad890036c6f9aa3f1ebf246a97e9f
+  - id: XRkgBWbWvg4.srt
+    parent_uid: c0863e4b352178114f59b5fcd2d543c5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-82-polar-coordinates/copy2_of_clip-1-introduction-to-polar-coordinates/XRkgBWbWvg4.srt
+    title: 3play caption file
+    type: null
+    uid: 4fe523eab7834a59d1e1de82e7f92b09
+  - id: XRkgBWbWvg4.pdf
+    parent_uid: c0863e4b352178114f59b5fcd2d543c5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-82-polar-coordinates/copy2_of_clip-1-introduction-to-polar-coordinates/XRkgBWbWvg4.pdf
+    title: 3play pdf file
+    type: null
+    uid: a3337ea66e3d6f2b308284731d70ca32
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c0863e4b352178114f59b5fcd2d543c5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9df3a986f75bd0beebbf7d26e3326125
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c0863e4b352178114f59b5fcd2d543c5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: eb6851d4d1b6090401f307c231b3b543
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: c0863e4b352178114f59b5fcd2d543c5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 74dc2b4784c0eb46bad4e8fa8d34efd8
+inline_embed_id: '95167964clip3:translatingy=1intopolarcoordinates71271047'
+parent_uid: 6b43151f2ea4f32cac0a7709358919db
 related_resources_text: ''
+short_url: copy2_of_clip-1-introduction-to-polar-coordinates
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-82-polar-coordinates/copy2_of_clip-1-introduction-to-polar-coordinates
+title: 'Clip 3: Translating y = 1 into Polar Coordinates'
 transcript: >-
   <p><span m="60">The</span> <span m="530">following content</span> <span
   m="1300">is</span> <span m="1680">provided under a</span> <span
@@ -2860,61 +2914,7 @@ transcript: >-
   m="2957900">figure</span> <span m="2958130">out</span> <span
   m="2958950">area</span> <span m="2959610">in</span> <span
   m="2959750">polar</span> <span m="2960050">coordinates.</span></p>
-embedded_media:
-  - uid: 0bbe0b2a67a9a4a032a85267f1a70dbf
-    parent_uid: c0863e4b352178114f59b5fcd2d543c5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: XRkgBWbWvg4
-  - uid: fafb6ba682b13fdbd344bd5fcf6e8480
-    parent_uid: c0863e4b352178114f59b5fcd2d543c5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/XRkgBWbWvg4/default.jpg'
-  - uid: 7a8d421def20cb801c3e596cef76b35c
-    parent_uid: c0863e4b352178114f59b5fcd2d543c5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: XRkgBWbWvg4
-  - uid: ab3ad890036c6f9aa3f1ebf246a97e9f
-    parent_uid: c0863e4b352178114f59b5fcd2d543c5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec32_300k.mp4'
-  - uid: 4fe523eab7834a59d1e1de82e7f92b09
-    parent_uid: c0863e4b352178114f59b5fcd2d543c5
-    id: XRkgBWbWvg4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-82-polar-coordinates/copy2_of_clip-1-introduction-to-polar-coordinates/XRkgBWbWvg4.srt
-  - uid: a3337ea66e3d6f2b308284731d70ca32
-    parent_uid: c0863e4b352178114f59b5fcd2d543c5
-    id: XRkgBWbWvg4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-82-polar-coordinates/copy2_of_clip-1-introduction-to-polar-coordinates/XRkgBWbWvg4.pdf
-  - uid: 9df3a986f75bd0beebbf7d26e3326125
-    parent_uid: c0863e4b352178114f59b5fcd2d543c5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: eb6851d4d1b6090401f307c231b3b543
-    parent_uid: c0863e4b352178114f59b5fcd2d543c5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 74dc2b4784c0eb46bad4e8fa8d34efd8
-    parent_uid: c0863e4b352178114f59b5fcd2d543c5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: c0863e4b352178114f59b5fcd2d543c5
 type: courses
 layout: video
 ---

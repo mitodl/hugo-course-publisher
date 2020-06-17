@@ -1,13 +1,67 @@
 ---
-title: 'Graphs, Networks, Incidence Matrices'
-uid: 28a818cd34a0fa409fadd4aaf4df4942
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 6-wh6yvk6uc
+    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6d30a85de024fbf6d5c7ad07e85ab6e3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/6-wh6yvk6uc/default.jpg'
+    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b645706cd9daf55b9627c4a335c06154
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8bd7d4ebd650330e0dccdc1898cb2df9
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/12.mp4'
+    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7974c287177d42045ce0ea4b5683ed76
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 6-wh6yvk6uc
+    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 981481ce50b5e8de6f9f7c56d94e2632
+  - id: 6-wh6yvk6uc.srt
+    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/graphs-networks-incidence-matrices/6-wh6yvk6uc.srt
+    title: 3play caption file
+    type: null
+    uid: f3fc5656d0b3b1b6541f6039f5e6c97f
+  - id: 6-wh6yvk6uc.pdf
+    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/graphs-networks-incidence-matrices/6-wh6yvk6uc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3f8e0016948ea0224d2cd16dd4f4e80c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 213fc8347f4b851aaaeb303a22bdff67
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0eb5f16063bb609f4a16bcad051a1bb5
+inline_embed_id: '33203799graphs,networks,incidencematrices84090199'
 parent_uid: 8be90057938141d7712d45f0e42d1cfc
+related_resources_text: ''
+short_url: graphs-networks-incidence-matrices
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/graphs-networks-incidence-matrices
-short_url: graphs-networks-incidence-matrices
-inline_embed_id: '33203799graphs,networks,incidencematrices84090199'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Graphs, Networks, Incidence Matrices'
 transcript: >-
   <p><span m='12150'>This</span> <span m='12430'>is</span> <span
   m='12860'>lecture</span> <span m='13310'>twelve.</span> <span
@@ -2625,61 +2679,7 @@ transcript: >-
   m='2860690'>get</span> <span m='2860930'>to</span> <span
   m='2861050'>tell</span> <span m='2861190'>me.</span> </p><p><span
   m='2861230'>Thanks.</span> </p>
-embedded_media:
-  - uid: 6d30a85de024fbf6d5c7ad07e85ab6e3
-    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 6-wh6yvk6uc
-  - uid: b645706cd9daf55b9627c4a335c06154
-    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/6-wh6yvk6uc/default.jpg'
-  - uid: 8bd7d4ebd650330e0dccdc1898cb2df9
-    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 7974c287177d42045ce0ea4b5683ed76
-    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/12.mp4'
-  - uid: 981481ce50b5e8de6f9f7c56d94e2632
-    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 6-wh6yvk6uc
-  - uid: f3fc5656d0b3b1b6541f6039f5e6c97f
-    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
-    id: 6-wh6yvk6uc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/graphs-networks-incidence-matrices/6-wh6yvk6uc.srt
-  - uid: 3f8e0016948ea0224d2cd16dd4f4e80c
-    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
-    id: 6-wh6yvk6uc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/graphs-networks-incidence-matrices/6-wh6yvk6uc.pdf
-  - uid: 213fc8347f4b851aaaeb303a22bdff67
-    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0eb5f16063bb609f4a16bcad051a1bb5
-    parent_uid: 28a818cd34a0fa409fadd4aaf4df4942
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 28a818cd34a0fa409fadd4aaf4df4942
 type: courses
 layout: video
 ---

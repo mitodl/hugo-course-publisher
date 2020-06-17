@@ -1,13 +1,67 @@
 ---
-title: Ramsauer-Townsend phenomenology
-uid: 460492ba0ca2a5bdae4b319caf09198c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 5u-9lFhCl5w
+    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f24778105f4a21b53c622e2cf74a1fb4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/5u-9lFhCl5w/default.jpg'
+    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7f563160bd308407f5f38ac1c5ca5103
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 5u-9lFhCl5w
+    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bbccee4830e7c616a72d5030d1b7079c
+  - id: 5u-9lFhCl5w.srt
+    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/ramsauer-townsend-phenomenology/5u-9lFhCl5w.srt
+    title: 3play caption file
+    type: null
+    uid: ef5a6dce7f308ed66a27751715517a23
+  - id: 5u-9lFhCl5w.pdf
+    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/ramsauer-townsend-phenomenology/5u-9lFhCl5w.pdf
+    title: 3play pdf file
+    type: null
+    uid: 59e712a20121bf94abeee3030dfa3389
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9936946f4e1ef03aa00c9a7b09875eb9
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b0fb4464e51e06d55fddb6998bdd6e9b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7e00c92faa321b9f888c13aad4ab549e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec17_s3_300k.mp4'
+    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 61b2a0c78243231c7eb2b8b7a6011059
+inline_embed_id: 95313991ramsauertownsendphenomenology71246692
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: ramsauer-townsend-phenomenology
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/ramsauer-townsend-phenomenology
-short_url: ramsauer-townsend-phenomenology
-inline_embed_id: 95313991ramsauertownsendphenomenology71246692
-about_this_resource_text: ''
-related_resources_text: ''
+title: Ramsauer-Townsend phenomenology
 transcript: >-
   <p><span m='120'>PROFESSOR:</span> <span m='255'>If</span> <span
   m='390'>you</span> <span m='570'>have</span> <span m='3240'>potential</span>
@@ -436,61 +490,7 @@ transcript: >-
   m='613160'>then</span> <span m='613480'>the</span> <span
   m='613550'>agreement</span> <span m='614110'>is</span> <span
   m='614590'>pretty</span> <span m='614950'>reasonable.</span> </p>
-embedded_media:
-  - uid: f24778105f4a21b53c622e2cf74a1fb4
-    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 5u-9lFhCl5w
-  - uid: 7f563160bd308407f5f38ac1c5ca5103
-    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/5u-9lFhCl5w/default.jpg'
-  - uid: bbccee4830e7c616a72d5030d1b7079c
-    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 5u-9lFhCl5w
-  - uid: ef5a6dce7f308ed66a27751715517a23
-    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
-    id: 5u-9lFhCl5w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/ramsauer-townsend-phenomenology/5u-9lFhCl5w.srt
-  - uid: 59e712a20121bf94abeee3030dfa3389
-    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
-    id: 5u-9lFhCl5w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/ramsauer-townsend-phenomenology/5u-9lFhCl5w.pdf
-  - uid: 9936946f4e1ef03aa00c9a7b09875eb9
-    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b0fb4464e51e06d55fddb6998bdd6e9b
-    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7e00c92faa321b9f888c13aad4ab549e
-    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 61b2a0c78243231c7eb2b8b7a6011059
-    parent_uid: 460492ba0ca2a5bdae4b319caf09198c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec17_s3_300k.mp4'
+uid: 460492ba0ca2a5bdae4b319caf09198c
 type: courses
 layout: video
 ---

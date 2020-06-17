@@ -1,13 +1,67 @@
 ---
-title: What is a story?
-uid: ffd00f8a87cbe809e555026bde2f21c9
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 17uL1VoaWTQ
+    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 482c794f40a0056fc3c99b7cf5c29d86
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/17uL1VoaWTQ/default.jpg'
+    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b3d829029db6d75626483b634c0caf81
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 17uL1VoaWTQ
+    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 53c3d6425189407b24f5ba27132386c3
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 38ed9622d37052b22d59cfc7f672d64a
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D01P2_300k.mp4'
+    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7332c618f9ff59af524abdc4a0eeb58c
+  - id: 17uL1VoaWTQ.srt
+    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/what-is-a-story/17uL1VoaWTQ.srt
+    title: 3play caption file
+    type: null
+    uid: 6659e786a36a5eaddea6e28c47b7cd42
+  - id: 17uL1VoaWTQ.pdf
+    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/what-is-a-story/17uL1VoaWTQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 394ca1b0e00566a89f875abe73ea459c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c4e14f7400467868b55817fc739e7aff
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4f332405eb105e61dbd00eb7222d4b4b
+inline_embed_id: 59082612whatisastory?73830255
 parent_uid: e7ab07a59bf478a18a95a815093ec211
+related_resources_text: ''
+short_url: what-is-a-story
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/what-is-a-story
-short_url: what-is-a-story
-inline_embed_id: 59082612whatisastory?73830255
-about_this_resource_text: ''
-related_resources_text: ''
+title: What is a story?
 transcript: >-
   <p><span m='80'>The</span> <span m='170'>following</span> <span
   m='610'>content</span> <span m='1120'>is</span> <span m='1230'>provided</span>
@@ -2569,61 +2623,7 @@ transcript: >-
   m='2186990'>going</span> <span m='2187090'>to</span> <span
   m='2187130'>be</span> <span m='2187210'>doing</span> <span m='2187420'>this
   week.</span> </p>
-embedded_media:
-  - uid: 482c794f40a0056fc3c99b7cf5c29d86
-    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 17uL1VoaWTQ
-  - uid: b3d829029db6d75626483b634c0caf81
-    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/17uL1VoaWTQ/default.jpg'
-  - uid: 53c3d6425189407b24f5ba27132386c3
-    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 17uL1VoaWTQ
-  - uid: 38ed9622d37052b22d59cfc7f672d64a
-    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 7332c618f9ff59af524abdc4a0eeb58c
-    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D01P2_300k.mp4'
-  - uid: 6659e786a36a5eaddea6e28c47b7cd42
-    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
-    id: 17uL1VoaWTQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/what-is-a-story/17uL1VoaWTQ.srt
-  - uid: 394ca1b0e00566a89f875abe73ea459c
-    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
-    id: 17uL1VoaWTQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/what-is-a-story/17uL1VoaWTQ.pdf
-  - uid: c4e14f7400467868b55817fc739e7aff
-    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4f332405eb105e61dbd00eb7222d4b4b
-    parent_uid: ffd00f8a87cbe809e555026bde2f21c9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: ffd00f8a87cbe809e555026bde2f21c9
 type: courses
 layout: video
 ---

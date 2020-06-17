@@ -1,13 +1,67 @@
 ---
-title: Rocket Sled - Differential Equation
-uid: f79cac89ce761d5d217234dffc3eaf53
+about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Anna Frebel</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: dvWKCH0ocu8
+    parent_uid: f79cac89ce761d5d217234dffc3eaf53
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 77800bf9b77b3d56601e364e57d83989
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/dvWKCH0ocu8/default.jpg'
+    parent_uid: f79cac89ce761d5d217234dffc3eaf53
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 96e466ac03be81ae7178ec9311774e64
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: dvWKCH0ocu8
+    parent_uid: f79cac89ce761d5d217234dffc3eaf53
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 257191cafc3602cc48bb1bc4616aaf9b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: f79cac89ce761d5d217234dffc3eaf53
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d2ae0f15187761fc12fe5facc1f21dcd
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W06PS01-1_360p.mp4'
+    parent_uid: f79cac89ce761d5d217234dffc3eaf53
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8637c88eb0bf81dbfa07fceb6ebef05b
+  - id: dvWKCH0ocu8.srt
+    parent_uid: f79cac89ce761d5d217234dffc3eaf53
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem/rocket-sled-differential-equation/dvWKCH0ocu8.srt
+    title: 3play caption file
+    type: null
+    uid: 96dd8de9796837cfb0e487cae01c2710
+  - id: dvWKCH0ocu8.pdf
+    parent_uid: f79cac89ce761d5d217234dffc3eaf53
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem/rocket-sled-differential-equation/dvWKCH0ocu8.pdf
+    title: 3play pdf file
+    type: null
+    uid: f5eec671424bf759fb6e8e6b500b5fba
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f79cac89ce761d5d217234dffc3eaf53
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 152d58ea64572c33a5f6ee2a0153ae63
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f79cac89ce761d5d217234dffc3eaf53
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 135aaaf277589e24651a3ac75249a0cd
+inline_embed_id: 85581514rocketsleddifferentialequation96111912
 parent_uid: ce8e09d4807a942257ee603eabb68035
+related_resources_text: ''
+short_url: rocket-sled-differential-equation
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem/rocket-sled-differential-equation
-short_url: rocket-sled-differential-equation
-inline_embed_id: 85581514rocketsleddifferentialequation96111912
-about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Anna Frebel</p>'
-related_resources_text: ''
+title: Rocket Sled - Differential Equation
 transcript: >-
   <p><span m='3800'>Let's look at this rocket sled here.</span> </p><p><span
   m='6100'>It's gone on in the snow, but it wants to stop.</span> </p><p><span
@@ -49,61 +103,7 @@ transcript: >-
   m='170110'>to obtain-- namely, an equation that</span> <span
   m='175570'>contains the differentials of the speed of the rocket,</span> <span
   m='181985'>that sled, and the differential of the mass.</span> </p>
-embedded_media:
-  - uid: 77800bf9b77b3d56601e364e57d83989
-    parent_uid: f79cac89ce761d5d217234dffc3eaf53
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: dvWKCH0ocu8
-  - uid: 96e466ac03be81ae7178ec9311774e64
-    parent_uid: f79cac89ce761d5d217234dffc3eaf53
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/dvWKCH0ocu8/default.jpg'
-  - uid: 257191cafc3602cc48bb1bc4616aaf9b
-    parent_uid: f79cac89ce761d5d217234dffc3eaf53
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: dvWKCH0ocu8
-  - uid: d2ae0f15187761fc12fe5facc1f21dcd
-    parent_uid: f79cac89ce761d5d217234dffc3eaf53
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 8637c88eb0bf81dbfa07fceb6ebef05b
-    parent_uid: f79cac89ce761d5d217234dffc3eaf53
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W06PS01-1_360p.mp4'
-  - uid: 96dd8de9796837cfb0e487cae01c2710
-    parent_uid: f79cac89ce761d5d217234dffc3eaf53
-    id: dvWKCH0ocu8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem/rocket-sled-differential-equation/dvWKCH0ocu8.srt
-  - uid: f5eec671424bf759fb6e8e6b500b5fba
-    parent_uid: f79cac89ce761d5d217234dffc3eaf53
-    id: dvWKCH0ocu8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem/rocket-sled-differential-equation/dvWKCH0ocu8.pdf
-  - uid: 152d58ea64572c33a5f6ee2a0153ae63
-    parent_uid: f79cac89ce761d5d217234dffc3eaf53
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 135aaaf277589e24651a3ac75249a0cd
-    parent_uid: f79cac89ce761d5d217234dffc3eaf53
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f79cac89ce761d5d217234dffc3eaf53
 type: courses
 layout: video
 ---

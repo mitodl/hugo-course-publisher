@@ -1,13 +1,62 @@
 ---
-title: 'Video 8: The Analytics Edge'
-uid: d3bf6fcee70d07785c6c12c87dfbe83e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: m0Yce2rtZJ8
+    parent_uid: d3bf6fcee70d07785c6c12c87dfbe83e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3737f53926af17e67922dfd54982606e
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: m0Yce2rtZJ8
+    parent_uid: d3bf6fcee70d07785c6c12c87dfbe83e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7e1637af6d864fbaf1d8e936ffb23646
+  - id: m0Yce2rtZJ8.srt
+    parent_uid: d3bf6fcee70d07785c6c12c87dfbe83e
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-8-the-analytics-edge/video-8-the-analytics-edge-0/m0Yce2rtZJ8.srt
+    title: 3play caption file
+    type: null
+    uid: 5ae428752803046175450a45af91d84b
+  - id: m0Yce2rtZJ8.pdf
+    parent_uid: d3bf6fcee70d07785c6c12c87dfbe83e
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-8-the-analytics-edge/video-8-the-analytics-edge-0/m0Yce2rtZJ8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 62708d616422a2fa846f448b4c31070f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d3bf6fcee70d07785c6c12c87dfbe83e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e0bfd1fc7b17ef925ca1f108e4088d68
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d3bf6fcee70d07785c6c12c87dfbe83e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 91babb8e8e494dec3309e27e32397204
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/m0Yce2rtZJ8/default.jpg'
+    parent_uid: d3bf6fcee70d07785c6c12c87dfbe83e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 545fe0bd1dba8643de33f8406daafcd9
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.2.14_300k.mp4
+    parent_uid: d3bf6fcee70d07785c6c12c87dfbe83e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: eabc6c5f78413d337bd472d712d018e9
+inline_embed_id: 5758696video8theanalyticsedge39933106
 parent_uid: 81d5d93d77c2b8fc0b85d9cbcdc418a5
+related_resources_text: ''
+short_url: video-8-the-analytics-edge-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-8-the-analytics-edge/video-8-the-analytics-edge-0
-short_url: video-8-the-analytics-edge-0
-inline_embed_id: 5758696video8theanalyticsedge39933106
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 8: The Analytics Edge'
 transcript: >-
   <p><span m='9490'>Let</span> <span m='9904'>us</span> <span
   m='10318'>examine</span> <span m='10733'>what</span> <span m='11147'>we</span>
@@ -131,56 +180,7 @@ transcript: >-
   <span m='166726'>of</span> <span m='167451'>enhancing</span> <span
   m='168177'>and</span> <span m='168902'>improving</span> <span
   m='169628'>quantitative</span> <span m='170353'>models.</span> </p>
-embedded_media:
-  - uid: 3737f53926af17e67922dfd54982606e
-    parent_uid: d3bf6fcee70d07785c6c12c87dfbe83e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: m0Yce2rtZJ8
-  - uid: 7e1637af6d864fbaf1d8e936ffb23646
-    parent_uid: d3bf6fcee70d07785c6c12c87dfbe83e
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: m0Yce2rtZJ8
-  - uid: 5ae428752803046175450a45af91d84b
-    parent_uid: d3bf6fcee70d07785c6c12c87dfbe83e
-    id: m0Yce2rtZJ8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-8-the-analytics-edge/video-8-the-analytics-edge-0/m0Yce2rtZJ8.srt
-  - uid: 62708d616422a2fa846f448b4c31070f
-    parent_uid: d3bf6fcee70d07785c6c12c87dfbe83e
-    id: m0Yce2rtZJ8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-8-the-analytics-edge/video-8-the-analytics-edge-0/m0Yce2rtZJ8.pdf
-  - uid: e0bfd1fc7b17ef925ca1f108e4088d68
-    parent_uid: d3bf6fcee70d07785c6c12c87dfbe83e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 91babb8e8e494dec3309e27e32397204
-    parent_uid: d3bf6fcee70d07785c6c12c87dfbe83e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 545fe0bd1dba8643de33f8406daafcd9
-    parent_uid: d3bf6fcee70d07785c6c12c87dfbe83e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/m0Yce2rtZJ8/default.jpg'
-  - uid: eabc6c5f78413d337bd472d712d018e9
-    parent_uid: d3bf6fcee70d07785c6c12c87dfbe83e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.2.14_300k.mp4
+uid: d3bf6fcee70d07785c6c12c87dfbe83e
 type: courses
 layout: video
 ---

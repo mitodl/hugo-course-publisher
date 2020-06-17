@@ -1,11 +1,4 @@
 ---
-title: Day 3 Pitch
-uid: 2ab4fe52fa1cabb272e46e0a11ab2142
-parent_uid: 65f298a79f2a0550e78ed9fc7ff17ff4
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/day-3-pitch-1
-short_url: day-3-pitch-1
-inline_embed_id: 46350567day3pitch99450995
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   Commons BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 7LTzsMNPuuk
+    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e7f25302fd836ec4ec7f3baad71d2105
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7LTzsMNPuuk/default.jpg'
+    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f481227645d93f4e7f402f96357da65a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7LTzsMNPuuk
+    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b5901b63df6eb04c62b0abed436f3e02
+  - id: 7LTzsMNPuuk.srt
+    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/day-3-pitch-1/7LTzsMNPuuk.srt
+    title: 3play caption file
+    type: null
+    uid: 34c1405cafeccc5d8a243d793cd3d28f
+  - id: 7LTzsMNPuuk.pdf
+    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/day-3-pitch-1/7LTzsMNPuuk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2388e707b066b57fd00450cfb1cb74ea
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 108b3612208f3d8ac8845cb72eb32932
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8b8e1e1adc6ae280251f6f599604df41
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b3200616a1e4a88cb6b61cc78950314f
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_NH_D03_Pitch_360p.mp4
+    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7c32dcf9b1e96775b289b8ed446e5546
+inline_embed_id: 46350567day3pitch99450995
+parent_uid: 65f298a79f2a0550e78ed9fc7ff17ff4
 related_resources_text: ''
+short_url: day-3-pitch-1
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/day-3-pitch-1
+title: Day 3 Pitch
 transcript: >-
   <p><span m="560">SPEAKER: I</span> <span m="750">look</span> <span
   m="1420">in</span> <span m="1550">that</span> <span m="1780">fridge</span>
@@ -94,62 +149,7 @@ transcript: >-
   <span m="69250">that</span> <span m="69460">happens,</span> <span
   m="70740">we</span> <span m="70900">can</span> <span m="71050">find</span>
   <span m="71320">out.</span></p>
-embedded_media:
-  - uid: e7f25302fd836ec4ec7f3baad71d2105
-    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 7LTzsMNPuuk
-  - uid: f481227645d93f4e7f402f96357da65a
-    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7LTzsMNPuuk/default.jpg'
-  - uid: b5901b63df6eb04c62b0abed436f3e02
-    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7LTzsMNPuuk
-  - uid: 34c1405cafeccc5d8a243d793cd3d28f
-    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
-    id: 7LTzsMNPuuk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/day-3-pitch-1/7LTzsMNPuuk.srt
-  - uid: 2388e707b066b57fd00450cfb1cb74ea
-    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
-    id: 7LTzsMNPuuk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/day-3-pitch-1/7LTzsMNPuuk.pdf
-  - uid: 108b3612208f3d8ac8845cb72eb32932
-    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8b8e1e1adc6ae280251f6f599604df41
-    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b3200616a1e4a88cb6b61cc78950314f
-    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 7c32dcf9b1e96775b289b8ed446e5546
-    parent_uid: 2ab4fe52fa1cabb272e46e0a11ab2142
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_NH_D03_Pitch_360p.mp4
+uid: 2ab4fe52fa1cabb272e46e0a11ab2142
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Bayes' Theorem
-uid: 456fda927d9f2e2ad2728d21eeecd3e4
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 918c67aadbf8775eb82ca0a1a1ce1678
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9374c41085d534a126613a53a5efe7df
+  - id: Video-YouTube-Stream
+    media_location: e-yQFC6dACA
+    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: da7611a47eba88d021029bbee9dd4ea8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/e-yQFC6dACA/default.jpg'
+    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7bc50cbf786886758be9992721e5e72e
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: e-yQFC6dACA
+    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8f7d51388df5057ee08a6488d879799c
+  - id: e-yQFC6dACA.srt
+    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-1f097d8a0a33/bayes-theorem/e-yQFC6dACA.srt
+    title: 3play caption file
+    type: null
+    uid: b8b9516d0f49f9fcbeec6be50e1d416a
+  - id: e-yQFC6dACA.pdf
+    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-1f097d8a0a33/bayes-theorem/e-yQFC6dACA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6edc2aa7652e244dc034fb1be7f92c17
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4cd6a1d7b2820bd32a71a8e3bb4e9eb4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 42f29a2c648185b7156353bb330eac32
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_probbayes_video_ipod.mp4
+    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 34eed0f838d4e9a6d6aa1c9aeb289998
+inline_embed_id: 67967128bayestheorem90462898
 parent_uid: 719a707ae7a41f34c6885d5a02df431c
+related_resources_text: ''
+short_url: bayes-theorem
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-1f097d8a0a33/bayes-theorem
-short_url: bayes-theorem
-inline_embed_id: 67967128bayestheorem90462898
-about_this_resource_text: ''
-related_resources_text: ''
+title: Bayes' Theorem
 transcript: >-
   <p><span m='760'>PROFESSOR: One</span> <span m='930'>of</span> <span
   m='1030'>the</span> <span m='1100'>most</span> <span m='1370'>important</span>
@@ -841,67 +901,7 @@ transcript: >-
   m='694880'>always</span> <span m='695280'>said</span> <span
   m='695640'>no--</span> <span m='696500'>food</span> <span
   m='696840'>for</span> <span m='696980'>thought.</span> </p>
-embedded_media:
-  - uid: 918c67aadbf8775eb82ca0a1a1ce1678
-    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 9374c41085d534a126613a53a5efe7df
-    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: da7611a47eba88d021029bbee9dd4ea8
-    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: e-yQFC6dACA
-  - uid: 7bc50cbf786886758be9992721e5e72e
-    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/e-yQFC6dACA/default.jpg'
-  - uid: 8f7d51388df5057ee08a6488d879799c
-    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: e-yQFC6dACA
-  - uid: b8b9516d0f49f9fcbeec6be50e1d416a
-    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
-    id: e-yQFC6dACA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-1f097d8a0a33/bayes-theorem/e-yQFC6dACA.srt
-  - uid: 6edc2aa7652e244dc034fb1be7f92c17
-    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
-    id: e-yQFC6dACA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-1f097d8a0a33/bayes-theorem/e-yQFC6dACA.pdf
-  - uid: 4cd6a1d7b2820bd32a71a8e3bb4e9eb4
-    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 42f29a2c648185b7156353bb330eac32
-    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 34eed0f838d4e9a6d6aa1c9aeb289998
-    parent_uid: 456fda927d9f2e2ad2728d21eeecd3e4
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_probbayes_video_ipod.mp4
+uid: 456fda927d9f2e2ad2728d21eeecd3e4
 type: courses
 layout: video
 ---

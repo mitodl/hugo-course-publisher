@@ -1,13 +1,67 @@
 ---
-title: Week 7 Introduction
-uid: 654f44e2b2423671ec9064b8cdedbad0
+about_this_resource_text: '<p><strong>Instructor</strong>: Prof. Deepto Chakrabarty</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0qEIs6ie2q8
+    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4c585ccaf2c0f5eb9b908bc3ad15469d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0qEIs6ie2q8/default.jpg'
+    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a390f3b9afa13d8ba4d8c8f12c7a8d16
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0qEIs6ie2q8
+    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9dc6ca6add2d8f1e8a2bb15154ec99eb
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: cefc574a5087a380a5c27e7983f3ede3
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W07Intro_360p.mp4'
+    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: eb6151190195cd827422e86e3564b591
+  - id: 0qEIs6ie2q8.srt
+    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-7-kinetic-energy-and-work/week-7-introduction/week-7-introduction/0qEIs6ie2q8.srt
+    title: 3play caption file
+    type: null
+    uid: f0a6b52e74b05dbfc2301b2472c8f414
+  - id: 0qEIs6ie2q8.pdf
+    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-7-kinetic-energy-and-work/week-7-introduction/week-7-introduction/0qEIs6ie2q8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5367f19cad2b4a871ba157465195895e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2e3123b8b57e488dc68c7d7004e791d1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9f77ed3a21f73da79f304b28e5338817
+inline_embed_id: 21356217week7introduction88470781
 parent_uid: 1e15ff1eed2c3307da5670f4a7de584b
+related_resources_text: ''
+short_url: week-7-introduction
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-7-kinetic-energy-and-work/week-7-introduction/week-7-introduction
-short_url: week-7-introduction
-inline_embed_id: 21356217week7introduction88470781
-about_this_resource_text: '<p><strong>Instructor</strong>: Prof. Deepto Chakrabarty</p>'
-related_resources_text: ''
+title: Week 7 Introduction
 transcript: >-
   <p><span m='1310'>We previously discussed the concept</span> <span m='3290'>of
   conservation of momentum.</span> </p><p><span m='5600'>We will soon see that
@@ -51,61 +105,7 @@ transcript: >-
   points.</span> </p><p><span m='114030'>Finally, we will discuss
   examples</span> <span m='115700'>of both conservative and non-conservative
   forces.</span> </p><p></p>
-embedded_media:
-  - uid: 4c585ccaf2c0f5eb9b908bc3ad15469d
-    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0qEIs6ie2q8
-  - uid: a390f3b9afa13d8ba4d8c8f12c7a8d16
-    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0qEIs6ie2q8/default.jpg'
-  - uid: 9dc6ca6add2d8f1e8a2bb15154ec99eb
-    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0qEIs6ie2q8
-  - uid: cefc574a5087a380a5c27e7983f3ede3
-    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: eb6151190195cd827422e86e3564b591
-    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W07Intro_360p.mp4'
-  - uid: f0a6b52e74b05dbfc2301b2472c8f414
-    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
-    id: 0qEIs6ie2q8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-7-kinetic-energy-and-work/week-7-introduction/week-7-introduction/0qEIs6ie2q8.srt
-  - uid: 5367f19cad2b4a871ba157465195895e
-    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
-    id: 0qEIs6ie2q8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-7-kinetic-energy-and-work/week-7-introduction/week-7-introduction/0qEIs6ie2q8.pdf
-  - uid: 2e3123b8b57e488dc68c7d7004e791d1
-    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9f77ed3a21f73da79f304b28e5338817
-    parent_uid: 654f44e2b2423671ec9064b8cdedbad0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 654f44e2b2423671ec9064b8cdedbad0
 type: courses
 layout: video
 ---

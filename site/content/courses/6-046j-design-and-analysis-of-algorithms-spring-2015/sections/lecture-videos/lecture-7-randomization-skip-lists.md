@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 7: Randomization: Skip Lists'
-uid: 3d7b84c968547fd60ae2be3b9e1e2a77
+about_this_resource_text: "<p><strong>Description:</strong> In this lecture, Professor Devadas continues with randomization, introducing skip lists as a randomized data structure.</p>\r\n<p><strong>Instructors:</strong> Srinivas Devadas</p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2g9OSRKJuzM
+    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7f92619e5bcfecc7a80b4c8c11a466f7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f38f65e0981540c7185fffd7af2d9a13
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec07_300k.mp4'
+    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d92d1fa3eba7c5dabc8f04a79202fba3
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 2g9OSRKJuzM
+    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c0bc43cace82ef6e99f4afd98f25a29c
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/2g9OSRKJuzM/default.jpg'
+    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 54ba2681716fe03cb2fba7dc5e6560cb
+  - id: 2g9OSRKJuzM.srt
+    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-7-randomization-skip-lists/2g9OSRKJuzM.srt
+    title: 3play caption file
+    type: null
+    uid: 1cfe1755e50dcc2391867aa9eb74e4a9
+  - id: 2g9OSRKJuzM.pdf
+    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-7-randomization-skip-lists/2g9OSRKJuzM.pdf
+    title: 3play pdf file
+    type: null
+    uid: e8890a718506914d50ebd3dbc444222d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 64af0a5da6d90e8bb5c9040980df06af
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7ce1ebecab9c4b4bf06f1709df9189b4
+inline_embed_id: '3754687lecture7:randomization:skiplists29600426'
 parent_uid: 59a7a862feb85c8b52509910c07728e5
+related_resources_text: ''
+short_url: lecture-7-randomization-skip-lists
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-7-randomization-skip-lists
-short_url: lecture-7-randomization-skip-lists
-inline_embed_id: '3754687lecture7:randomization:skiplists29600426'
-about_this_resource_text: "<p><strong>Description:</strong> In this lecture, Professor Devadas continues with randomization, introducing skip lists as a randomized data structure.</p>\r\n<p><strong>Instructors:</strong> Srinivas Devadas</p>"
-related_resources_text: ''
+title: 'Lecture 7: Randomization: Skip Lists'
 transcript: >-
   <p><span m="40">The</span> <span m="170">following</span> <span
   m="620">content</span> <span m="1210">is</span> <span m="1320">provided</span>
@@ -4982,61 +5036,7 @@ transcript: >-
   m="4849020">And</span> <span m="4850020">there</span> <span
   m="4850520">you</span> <span m="4850690">go</span> <span
   m="4850850">guys.</span> <span m="4851870">Woah.</span></p>
-embedded_media:
-  - uid: 7f92619e5bcfecc7a80b4c8c11a466f7
-    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2g9OSRKJuzM
-  - uid: f38f65e0981540c7185fffd7af2d9a13
-    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: d92d1fa3eba7c5dabc8f04a79202fba3
-    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec07_300k.mp4'
-  - uid: c0bc43cace82ef6e99f4afd98f25a29c
-    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2g9OSRKJuzM
-  - uid: 54ba2681716fe03cb2fba7dc5e6560cb
-    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2g9OSRKJuzM/default.jpg'
-  - uid: 1cfe1755e50dcc2391867aa9eb74e4a9
-    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
-    id: 2g9OSRKJuzM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-7-randomization-skip-lists/2g9OSRKJuzM.srt
-  - uid: e8890a718506914d50ebd3dbc444222d
-    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
-    id: 2g9OSRKJuzM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-7-randomization-skip-lists/2g9OSRKJuzM.pdf
-  - uid: 64af0a5da6d90e8bb5c9040980df06af
-    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7ce1ebecab9c4b4bf06f1709df9189b4
-    parent_uid: 3d7b84c968547fd60ae2be3b9e1e2a77
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3d7b84c968547fd60ae2be3b9e1e2a77
 type: courses
 layout: video
 ---

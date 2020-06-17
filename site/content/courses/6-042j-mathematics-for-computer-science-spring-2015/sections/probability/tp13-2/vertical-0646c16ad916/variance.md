@@ -1,13 +1,73 @@
 ---
-title: 'Variance: Video'
-uid: 2c8ba720c9ae5e4a78381e6c530524c8
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: fe25c9f30c05e1e4450b600f6d3ab17d
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8774c832a6fef143a491da03d51b1d5a
+  - id: Video-YouTube-Stream
+    media_location: o57CTwt1-ck
+    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ef954c5e59802ffc5f72221d0da832cd
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/o57CTwt1-ck/default.jpg'
+    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 824b647b5ae6cfbad08b47b627b8bb47
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: o57CTwt1-ck
+    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1809d7d0056f50dcb5dbe41bfa966cac
+  - id: o57CTwt1-ck.srt
+    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-0646c16ad916/variance/o57CTwt1-ck.srt
+    title: 3play caption file
+    type: null
+    uid: bea2b05930da8bf750972604ccce0e98
+  - id: o57CTwt1-ck.pdf
+    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-0646c16ad916/variance/o57CTwt1-ck.pdf
+    title: 3play pdf file
+    type: null
+    uid: 50b0e53151ed1e490abec02a5b204864
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5303ee1b323c9e2bbeea568b552b431c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d5f120910ebb9834421decd8247cb6f2
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_deviationvariance_video_ipod.mp4
+    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 70b99e8e2a840ca5e695dbcb8c108e0b
+inline_embed_id: 70460043variancevideo27063093
 parent_uid: efa2fcf6c3494d78c828caf2c2299d36
+related_resources_text: ''
+short_url: variance
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-0646c16ad916/variance
-short_url: variance
-inline_embed_id: 70460043variancevideo27063093
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Variance: Video'
 transcript: >-
   <p><span m='1460'>PROFESSOR: If</span> <span m='1580'>we're</span> <span
   m='1640'>going</span> <span m='1750'>to</span> <span m='1800'>make</span>
@@ -1064,67 +1124,7 @@ transcript: >-
   m='853680'>again</span> <span m='854000'>one</span> <span m='854160'>of</span>
   <span m='854230'>these</span> <span m='854450'>easy</span> <span
   m='854740'>proofs.</span> </p>
-embedded_media:
-  - uid: fe25c9f30c05e1e4450b600f6d3ab17d
-    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 8774c832a6fef143a491da03d51b1d5a
-    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: ef954c5e59802ffc5f72221d0da832cd
-    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: o57CTwt1-ck
-  - uid: 824b647b5ae6cfbad08b47b627b8bb47
-    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/o57CTwt1-ck/default.jpg'
-  - uid: 1809d7d0056f50dcb5dbe41bfa966cac
-    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: o57CTwt1-ck
-  - uid: bea2b05930da8bf750972604ccce0e98
-    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
-    id: o57CTwt1-ck.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-0646c16ad916/variance/o57CTwt1-ck.srt
-  - uid: 50b0e53151ed1e490abec02a5b204864
-    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
-    id: o57CTwt1-ck.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-0646c16ad916/variance/o57CTwt1-ck.pdf
-  - uid: 5303ee1b323c9e2bbeea568b552b431c
-    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d5f120910ebb9834421decd8247cb6f2
-    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 70b99e8e2a840ca5e695dbcb8c108e0b
-    parent_uid: 2c8ba720c9ae5e4a78381e6c530524c8
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_deviationvariance_video_ipod.mp4
+uid: 2c8ba720c9ae5e4a78381e6c530524c8
 type: courses
 layout: video
 ---

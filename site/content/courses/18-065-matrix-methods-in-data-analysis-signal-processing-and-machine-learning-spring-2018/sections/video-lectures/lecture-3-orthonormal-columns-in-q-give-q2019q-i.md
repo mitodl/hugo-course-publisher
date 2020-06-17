@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 3: Orthonormal Columns in Q Give Q’Q = I '
-uid: 35e13b17714efc16c2487c9d6fdb8f0c
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-3-orthonormal-columns-in-q-give-q2019q-i
-short_url: lecture-3-orthonormal-columns-in-q-give-q2019q-i
-inline_embed_id: 99149830lecture3orthonormalcolumnsinqgiveqqi44167751
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>This lecture focuses on orthogonal
   matrices and subspaces. Professor Strang reviews the four fundamental
@@ -16,7 +9,62 @@ about_this_resource_text: >-
   Transform (DFT)</li>     <li>Complex inner product</li> </ul> <p>Related
   section in textbook: I.5</p> <p><strong>Instructor:</strong> Prof. Gilbert
   Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Xa2jPbURTjQ
+    parent_uid: 35e13b17714efc16c2487c9d6fdb8f0c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 536628745fe7fb939d7dde79fb252703
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Xa2jPbURTjQ/default.jpg'
+    parent_uid: 35e13b17714efc16c2487c9d6fdb8f0c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2c9f3a9b00ff219b0963d8c82cb83a3e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Xa2jPbURTjQ
+    parent_uid: 35e13b17714efc16c2487c9d6fdb8f0c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0c8a5b1387a0e0749b0b1b968e3b3fce
+  - id: Xa2jPbURTjQ.srt
+    parent_uid: 35e13b17714efc16c2487c9d6fdb8f0c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-3-orthonormal-columns-in-q-give-q2019q-i/Xa2jPbURTjQ.srt
+    title: 3play caption file
+    type: null
+    uid: 006dd37d08015e15f3ec63d05413fc5a
+  - id: Xa2jPbURTjQ.pdf
+    parent_uid: 35e13b17714efc16c2487c9d6fdb8f0c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-3-orthonormal-columns-in-q-give-q2019q-i/Xa2jPbURTjQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: d843ac96819a148f6afefc70cf98d5d9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 35e13b17714efc16c2487c9d6fdb8f0c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a075e7f16d92b15a6dc017558df00194
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 35e13b17714efc16c2487c9d6fdb8f0c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: af9209b0bf5cdbbfbf771c8b45b937c0
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture03_300k.mp4'
+    parent_uid: 35e13b17714efc16c2487c9d6fdb8f0c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6a736f70d93431eda921d837f6d6be90
+inline_embed_id: 99149830lecture3orthonormalcolumnsinqgiveqqi44167751
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-3-orthonormal-columns-in-q-give-q2019q-i
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-3-orthonormal-columns-in-q-give-q2019q-i
+title: 'Lecture 3: Orthonormal Columns in Q Give Q’Q = I '
 transcript: >-
   <p><span m="1161">ANNOUNCER:</span> <span m="1550">The</span> <span
   m="1640">following</span> <span m="2090">content</span> <span
@@ -2648,55 +2696,7 @@ transcript: >-
   m="2960000">will</span> <span m="2960060">be</span> <span
   m="2960210">eigenvectors</span> <span m="2961050">on</span> <span
   m="2962100">Wednesday.</span></p>
-embedded_media:
-  - uid: 536628745fe7fb939d7dde79fb252703
-    parent_uid: 35e13b17714efc16c2487c9d6fdb8f0c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Xa2jPbURTjQ
-  - uid: 2c9f3a9b00ff219b0963d8c82cb83a3e
-    parent_uid: 35e13b17714efc16c2487c9d6fdb8f0c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Xa2jPbURTjQ/default.jpg'
-  - uid: 0c8a5b1387a0e0749b0b1b968e3b3fce
-    parent_uid: 35e13b17714efc16c2487c9d6fdb8f0c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Xa2jPbURTjQ
-  - uid: 006dd37d08015e15f3ec63d05413fc5a
-    parent_uid: 35e13b17714efc16c2487c9d6fdb8f0c
-    id: Xa2jPbURTjQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-3-orthonormal-columns-in-q-give-q2019q-i/Xa2jPbURTjQ.srt
-  - uid: d843ac96819a148f6afefc70cf98d5d9
-    parent_uid: 35e13b17714efc16c2487c9d6fdb8f0c
-    id: Xa2jPbURTjQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-3-orthonormal-columns-in-q-give-q2019q-i/Xa2jPbURTjQ.pdf
-  - uid: a075e7f16d92b15a6dc017558df00194
-    parent_uid: 35e13b17714efc16c2487c9d6fdb8f0c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: af9209b0bf5cdbbfbf771c8b45b937c0
-    parent_uid: 35e13b17714efc16c2487c9d6fdb8f0c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6a736f70d93431eda921d837f6d6be90
-    parent_uid: 35e13b17714efc16c2487c9d6fdb8f0c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture03_300k.mp4'
+uid: 35e13b17714efc16c2487c9d6fdb8f0c
 type: courses
 layout: video
 ---

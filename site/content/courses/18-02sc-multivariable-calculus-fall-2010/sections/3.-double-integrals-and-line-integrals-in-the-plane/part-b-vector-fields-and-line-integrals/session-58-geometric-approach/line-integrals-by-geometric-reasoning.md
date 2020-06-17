@@ -1,13 +1,68 @@
 ---
-title: Line Integrals by Geometric Reasoning
-uid: 2f8ee759e5dfcfc1c85c04702b1537c9
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ocdM30Wm_8g
+    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c2064d8ed4d2406e48c532b6dd831883
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ocdM30Wm_8g/default.jpg'
+    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4ab2778ac171266815feded5f73e5120
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_41_300k.mp4'
+    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: da2395dd4ff73930a58076d4000a2e47
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/line-integrals-by-geometric/id414355340?i=90322816
+    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c4c75ab4558fcb0c61b4e0f04a8cb118
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: ocdM30Wm_8g
+    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8a2b2a4d8c92c1d56f68bf9a077359b5
+  - id: ocdM30Wm_8g.srt
+    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-58-geometric-approach/line-integrals-by-geometric-reasoning/ocdM30Wm_8g.srt
+    title: 3play caption file
+    type: null
+    uid: 5ffb4ec21fdf414c439b5f104170b8cf
+  - id: ocdM30Wm_8g.pdf
+    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-58-geometric-approach/line-integrals-by-geometric-reasoning/ocdM30Wm_8g.pdf
+    title: 3play pdf file
+    type: null
+    uid: c5bd7773d84e1e28bdcdf616bca12f6d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: dbe36ce56818c63f4a6e925994e9e20f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e3c8858cd46e8502d199806f1c4a075b
+inline_embed_id: 34867598lineintegralsbygeometricreasoning87223043
 parent_uid: fa095203c47d195db13fae16f977f84b
+related_resources_text: ''
+short_url: line-integrals-by-geometric-reasoning
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-58-geometric-approach/line-integrals-by-geometric-reasoning
-short_url: line-integrals-by-geometric-reasoning
-inline_embed_id: 34867598lineintegralsbygeometricreasoning87223043
-about_this_resource_text: ''
-related_resources_text: ''
+title: Line Integrals by Geometric Reasoning
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='6940'>Hi.</span> <span
   m='7470'>Welcome</span> <span m='7740'>back to</span> <span
@@ -719,62 +774,7 @@ transcript: >-
   m='629790'>constant.</span> <span m='630836'>All right.</span> <span
   m='631190'>So,</span> <span m='631620'>I'll</span> <span
   m='631810'>stop</span> <span m='632110'>there.</span> </p>
-embedded_media:
-  - uid: c2064d8ed4d2406e48c532b6dd831883
-    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ocdM30Wm_8g
-  - uid: 4ab2778ac171266815feded5f73e5120
-    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ocdM30Wm_8g/default.jpg'
-  - uid: da2395dd4ff73930a58076d4000a2e47
-    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_41_300k.mp4'
-  - uid: c4c75ab4558fcb0c61b4e0f04a8cb118
-    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/line-integrals-by-geometric/id414355340?i=90322816
-  - uid: 8a2b2a4d8c92c1d56f68bf9a077359b5
-    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ocdM30Wm_8g
-  - uid: 5ffb4ec21fdf414c439b5f104170b8cf
-    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
-    id: ocdM30Wm_8g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-58-geometric-approach/line-integrals-by-geometric-reasoning/ocdM30Wm_8g.srt
-  - uid: c5bd7773d84e1e28bdcdf616bca12f6d
-    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
-    id: ocdM30Wm_8g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-58-geometric-approach/line-integrals-by-geometric-reasoning/ocdM30Wm_8g.pdf
-  - uid: dbe36ce56818c63f4a6e925994e9e20f
-    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e3c8858cd46e8502d199806f1c4a075b
-    parent_uid: 2f8ee759e5dfcfc1c85c04702b1537c9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2f8ee759e5dfcfc1c85c04702b1537c9
 type: courses
 layout: video
 ---

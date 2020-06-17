@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 1: Introduction to Microeconomics'
-uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Vss3nofHpZI
+    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9133eb7422f91a652247041e7be2d76d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Vss3nofHpZI/default.jpg'
+    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ff96548c278ed75d0851c18fdb7f66dc
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Vss3nofHpZI
+    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 46641bd6eed76ef02f7b6fd4024f4886
+  - id: Vss3nofHpZI.srt
+    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/introduction-to-microeconomics/lecture-1-introduction-to-microeconomics/Vss3nofHpZI.srt
+    title: 3play caption file
+    type: null
+    uid: 49677311d51c82be7a74feeede949f2d
+  - id: Vss3nofHpZI.pdf
+    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/introduction-to-microeconomics/lecture-1-introduction-to-microeconomics/Vss3nofHpZI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 284f079556213649d50be3de129e856e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 739f6d18fdd0a799cf7a2de07ff0267d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 01ab91c9c3bb33aef2149535043e2e9c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-1-introduction-to/id496265654?i=109892748
+    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 12283203f7cdd26a5b6d5ca27993c252
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec01_300k.mp4'
+    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d601ec169476146c7f67da3c742824e5
+inline_embed_id: 70326405lecture1introductiontomicroeconomics23052072
 parent_uid: b9026c771341a253b9d1649dae571519
+related_resources_text: ''
+short_url: lecture-1-introduction-to-microeconomics
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/introduction-to-microeconomics/lecture-1-introduction-to-microeconomics
-short_url: lecture-1-introduction-to-microeconomics
-inline_embed_id: 70326405lecture1introductiontomicroeconomics23052072
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 1: Introduction to Microeconomics'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -2825,62 +2880,7 @@ transcript: >-
   m='2050250'>here</span> <span m='2050449'>on</span> <span
   m='2050600'>Monday,</span> <span m='2051560'>next</span> <span
   m='2051920'>Monday.</span> </p>
-embedded_media:
-  - uid: 9133eb7422f91a652247041e7be2d76d
-    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Vss3nofHpZI
-  - uid: ff96548c278ed75d0851c18fdb7f66dc
-    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Vss3nofHpZI/default.jpg'
-  - uid: 46641bd6eed76ef02f7b6fd4024f4886
-    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Vss3nofHpZI
-  - uid: 49677311d51c82be7a74feeede949f2d
-    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
-    id: Vss3nofHpZI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/introduction-to-microeconomics/lecture-1-introduction-to-microeconomics/Vss3nofHpZI.srt
-  - uid: 284f079556213649d50be3de129e856e
-    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
-    id: Vss3nofHpZI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/introduction-to-microeconomics/lecture-1-introduction-to-microeconomics/Vss3nofHpZI.pdf
-  - uid: 739f6d18fdd0a799cf7a2de07ff0267d
-    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 01ab91c9c3bb33aef2149535043e2e9c
-    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 12283203f7cdd26a5b6d5ca27993c252
-    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-1-introduction-to/id496265654?i=109892748
-  - uid: d601ec169476146c7f67da3c742824e5
-    parent_uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec01_300k.mp4'
+uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
 type: courses
 layout: video
 ---

@@ -1,18 +1,72 @@
 ---
-title: 'Lecture 14: Valence Bond Theory and Hybridization'
-uid: b307450f47abb9f74d1a25d9df966ee0
-parent_uid: bc4e02be0613a6fcdb1fe751834b8e16
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-14/lecture-14-valence-bond-theory-and-hybridization
-short_url: lecture-14-valence-bond-theory-and-hybridization
-inline_embed_id: 7472290lecture14valencebondtheoryandhybridization11994535
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: Valence bond theory and hybridization can be used to
   explain and/or predict the geometry of any atom in a molecule. In particular,
   the concept of hybridization is important for understanding the geometry of
   organic molecules.</p> <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BBbuj0XpaiQ
+    parent_uid: b307450f47abb9f74d1a25d9df966ee0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b2bba9dc1b67b9fd8713390c4f8d237c
+  - id: BBbuj0XpaiQ.srt
+    parent_uid: b307450f47abb9f74d1a25d9df966ee0
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-14/lecture-14-valence-bond-theory-and-hybridization/BBbuj0XpaiQ.srt
+    title: 3play caption file
+    type: null
+    uid: e14d8c4cf2975ced75c7b2cffa027aa8
+  - id: BBbuj0XpaiQ.pdf
+    parent_uid: b307450f47abb9f74d1a25d9df966ee0
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-14/lecture-14-valence-bond-theory-and-hybridization/BBbuj0XpaiQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9287422b3b110154d379c6dadbd0b8d1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b307450f47abb9f74d1a25d9df966ee0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a83ebda83045d07f28cfe37432dd25ce
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b307450f47abb9f74d1a25d9df966ee0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b11a535ec8b6e0e1f8d8b16aa9000793
+  - id: Video-YouTube-Stream
+    media_location: BBbuj0XpaiQ
+    parent_uid: b307450f47abb9f74d1a25d9df966ee0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fb6264813ae4baa4e254af615a5d02bf
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BBbuj0XpaiQ/default.jpg'
+    parent_uid: b307450f47abb9f74d1a25d9df966ee0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0d6e772d4496a88acea46b2d1ac25a6b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: b307450f47abb9f74d1a25d9df966ee0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4260ac678e05ed3e491a729fb382687e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L14_300k.mp4'
+    parent_uid: b307450f47abb9f74d1a25d9df966ee0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b47b13e03d250961af9cbbca64a8996a
+inline_embed_id: 7472290lecture14valencebondtheoryandhybridization11994535
+parent_uid: bc4e02be0613a6fcdb1fe751834b8e16
 related_resources_text: ''
+short_url: lecture-14-valence-bond-theory-and-hybridization
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-14/lecture-14-valence-bond-theory-and-hybridization
+title: 'Lecture 14: Valence Bond Theory and Hybridization'
 transcript: >-
   <p><span m="90">The</span> <span m="180">following</span> <span
   m="630">content</span> <span m="1110">is</span> <span m="1230">provided</span>
@@ -3586,61 +3640,7 @@ transcript: >-
   m="3404120">good</span> <span m="3404420">points</span> <span
   m="3404720">for</span> <span m="3405020">an</span> <span
   m="3405320">exam.</span></p>
-embedded_media:
-  - uid: b2bba9dc1b67b9fd8713390c4f8d237c
-    parent_uid: b307450f47abb9f74d1a25d9df966ee0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BBbuj0XpaiQ
-  - uid: e14d8c4cf2975ced75c7b2cffa027aa8
-    parent_uid: b307450f47abb9f74d1a25d9df966ee0
-    id: BBbuj0XpaiQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-14/lecture-14-valence-bond-theory-and-hybridization/BBbuj0XpaiQ.srt
-  - uid: 9287422b3b110154d379c6dadbd0b8d1
-    parent_uid: b307450f47abb9f74d1a25d9df966ee0
-    id: BBbuj0XpaiQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-14/lecture-14-valence-bond-theory-and-hybridization/BBbuj0XpaiQ.pdf
-  - uid: a83ebda83045d07f28cfe37432dd25ce
-    parent_uid: b307450f47abb9f74d1a25d9df966ee0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b11a535ec8b6e0e1f8d8b16aa9000793
-    parent_uid: b307450f47abb9f74d1a25d9df966ee0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: fb6264813ae4baa4e254af615a5d02bf
-    parent_uid: b307450f47abb9f74d1a25d9df966ee0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BBbuj0XpaiQ
-  - uid: 0d6e772d4496a88acea46b2d1ac25a6b
-    parent_uid: b307450f47abb9f74d1a25d9df966ee0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BBbuj0XpaiQ/default.jpg'
-  - uid: 4260ac678e05ed3e491a729fb382687e
-    parent_uid: b307450f47abb9f74d1a25d9df966ee0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: b47b13e03d250961af9cbbca64a8996a
-    parent_uid: b307450f47abb9f74d1a25d9df966ee0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L14_300k.mp4'
+uid: b307450f47abb9f74d1a25d9df966ee0
 type: courses
 layout: video
 ---

@@ -1,13 +1,62 @@
 ---
-title: 'Video 2: Using Integer Optimization'
-uid: c489ba934eb3d8a1fd3d180a25962de5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: AlDhA-NY5IA
+    parent_uid: c489ba934eb3d8a1fd3d180a25962de5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6f3ce9cdd96129caf34b4ef2b205ec16
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: AlDhA-NY5IA
+    parent_uid: c489ba934eb3d8a1fd3d180a25962de5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 96cb1b159101d77d321e781aa35c51ef
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/AlDhA-NY5IA/default.jpg'
+    parent_uid: c489ba934eb3d8a1fd3d180a25962de5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 09147ef72ae8882f0c69c7d428054030
+  - id: AlDhA-NY5IA.srt
+    parent_uid: c489ba934eb3d8a1fd3d180a25962de5
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-2-using-integer-optimization/video-2-using-integer-optimization-0/AlDhA-NY5IA.srt
+    title: 3play caption file
+    type: null
+    uid: 00117eb369d6c8c7a4d6c24c1adade1d
+  - id: AlDhA-NY5IA.pdf
+    parent_uid: c489ba934eb3d8a1fd3d180a25962de5
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-2-using-integer-optimization/video-2-using-integer-optimization-0/AlDhA-NY5IA.pdf
+    title: 3play pdf file
+    type: null
+    uid: c3fc573098632d4408ca24e81b04f544
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c489ba934eb3d8a1fd3d180a25962de5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e811b8c14260eefc604773455ecb6738
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c489ba934eb3d8a1fd3d180a25962de5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bd94acc1acffd2a0f4ac4a755d08acb7
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_9.3.03_300k.mp4
+    parent_uid: c489ba934eb3d8a1fd3d180a25962de5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 29a71ad6e11854780d05de5de7f89978
+inline_embed_id: 80494035video2usingintegeroptimization39714503
 parent_uid: 53b49e57bb91291ac131759296912fa6
+related_resources_text: ''
+short_url: video-2-using-integer-optimization-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-2-using-integer-optimization/video-2-using-integer-optimization-0
-short_url: video-2-using-integer-optimization-0
-inline_embed_id: 80494035video2usingintegeroptimization39714503
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: Using Integer Optimization'
 transcript: >-
   <p><span m='9500'>Let</span> <span m='9810'>us</span> <span
   m='10120'>demonstrate</span> <span m='10430'>the</span> <span
@@ -191,56 +240,7 @@ transcript: >-
   m='203450'>+</span> <span m='204171'>x_21</span> <span m='204893'>+</span>
   <span m='205615'>x_31</span> <span m='206336'>=</span> <span
   m='207058'>2.</span> </p>
-embedded_media:
-  - uid: 6f3ce9cdd96129caf34b4ef2b205ec16
-    parent_uid: c489ba934eb3d8a1fd3d180a25962de5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: AlDhA-NY5IA
-  - uid: 96cb1b159101d77d321e781aa35c51ef
-    parent_uid: c489ba934eb3d8a1fd3d180a25962de5
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: AlDhA-NY5IA
-  - uid: 09147ef72ae8882f0c69c7d428054030
-    parent_uid: c489ba934eb3d8a1fd3d180a25962de5
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/AlDhA-NY5IA/default.jpg'
-  - uid: 00117eb369d6c8c7a4d6c24c1adade1d
-    parent_uid: c489ba934eb3d8a1fd3d180a25962de5
-    id: AlDhA-NY5IA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-2-using-integer-optimization/video-2-using-integer-optimization-0/AlDhA-NY5IA.srt
-  - uid: c3fc573098632d4408ca24e81b04f544
-    parent_uid: c489ba934eb3d8a1fd3d180a25962de5
-    id: AlDhA-NY5IA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-2-using-integer-optimization/video-2-using-integer-optimization-0/AlDhA-NY5IA.pdf
-  - uid: e811b8c14260eefc604773455ecb6738
-    parent_uid: c489ba934eb3d8a1fd3d180a25962de5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bd94acc1acffd2a0f4ac4a755d08acb7
-    parent_uid: c489ba934eb3d8a1fd3d180a25962de5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 29a71ad6e11854780d05de5de7f89978
-    parent_uid: c489ba934eb3d8a1fd3d180a25962de5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_9.3.03_300k.mp4
+uid: c489ba934eb3d8a1fd3d180a25962de5
 type: courses
 layout: video
 ---

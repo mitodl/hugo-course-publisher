@@ -1,17 +1,89 @@
 ---
-title: 'Lecture 18: Definite Integrals'
-uid: d79fedc979237e79dc4d0d7ebc10f437
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-18-definite-integrals
-short_url: lecture-18-definite-integrals
-inline_embed_id: '29128839lecture18:definiteintegrals53971768'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Definite integrals</p>
   <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec18.jpg
+    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-18-definite-integrals/lec18.jpg
+    title: Lecture 18
+    type: null
+    uid: f9fa2fd8e14dfe9cdc7342eca98952f4
+  - id: Video-YouTube-Stream
+    media_location: hjZhPczMkL4
+    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5e4df7d25be38e0ea81b570e7b32de94
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/hjZhPczMkL4/default.jpg'
+    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9a741ee635d61af02837a95d16444431
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3f537bbfcd9a0bdf5ce8bd841f4d8f4f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec18_300k.mp4'
+    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d7c2abebd384dac0740d7bdb796ad981
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 7e6a6f60e7cb8d72c7cd13764b8010ff
+  - id: Thumbnail-OCW-JPG
+    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 007619e93d3b676f61c951f143ee578d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: hjZhPczMkL4
+    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8619227c8ae505cb44727e2296f2c9fa
+  - id: hjZhPczMkL4.srt
+    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-18-definite-integrals/hjZhPczMkL4.srt
+    title: 3play caption file
+    type: null
+    uid: 7fa84aa692de90c99a09963b519fe2a2
+  - id: hjZhPczMkL4.pdf
+    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-18-definite-integrals/hjZhPczMkL4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8966300c869180745de26475e50d4ce4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2378ba255c192998e9e6033327e5e9ab
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4f841c762eac5e5f4de8fdcf93765bba
+inline_embed_id: '29128839lecture18:definiteintegrals53971768'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/d1b3d809b6505825b5cde0cee823fa0f">PDF</a>)</p></div>
+short_url: lecture-18-definite-integrals
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-18-definite-integrals
+title: 'Lecture 18: Definite Integrals'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1020'>is</span> <span m='1130'>provided under
@@ -2397,79 +2469,7 @@ transcript: >-
   m='2829470'>think</span> <span m='2829770'>about</span> <span
   m='2830110'>questions</span> <span m='2830640'>that you'll ask</span> <span
   m='2830820'>next</span> <span m='2831560'>time.</span> </p>
-embedded_media:
-  - uid: f9fa2fd8e14dfe9cdc7342eca98952f4
-    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
-    id: lec18.jpg
-    title: Lecture 18
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-18-definite-integrals/lec18.jpg
-  - uid: 5e4df7d25be38e0ea81b570e7b32de94
-    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: hjZhPczMkL4
-  - uid: 9a741ee635d61af02837a95d16444431
-    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/hjZhPczMkL4/default.jpg'
-  - uid: 3f537bbfcd9a0bdf5ce8bd841f4d8f4f
-    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: d7c2abebd384dac0740d7bdb796ad981
-    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec18_300k.mp4'
-  - uid: 7e6a6f60e7cb8d72c7cd13764b8010ff
-    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 007619e93d3b676f61c951f143ee578d
-    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 8619227c8ae505cb44727e2296f2c9fa
-    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: hjZhPczMkL4
-  - uid: 7fa84aa692de90c99a09963b519fe2a2
-    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
-    id: hjZhPczMkL4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-18-definite-integrals/hjZhPczMkL4.srt
-  - uid: 8966300c869180745de26475e50d4ce4
-    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
-    id: hjZhPczMkL4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-18-definite-integrals/hjZhPczMkL4.pdf
-  - uid: 2378ba255c192998e9e6033327e5e9ab
-    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4f841c762eac5e5f4de8fdcf93765bba
-    parent_uid: d79fedc979237e79dc4d0d7ebc10f437
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: d79fedc979237e79dc4d0d7ebc10f437
 type: courses
 layout: video
 ---

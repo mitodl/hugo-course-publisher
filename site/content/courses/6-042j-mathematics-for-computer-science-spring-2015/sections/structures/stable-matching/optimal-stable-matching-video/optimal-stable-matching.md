@@ -1,13 +1,73 @@
 ---
-title: Optimal Stable Matching
-uid: c6491840986db5f3fb5ef698a0ee2c78
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: c899badb11e578ceec6457702198e3f1
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a24df10b292562b5216e578293dab99a
+  - id: Video-YouTube-Stream
+    media_location: n4KKgKpp--0
+    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 282e38af7d15402f108a08e8930577e5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/n4KKgKpp--0/default.jpg'
+    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ead4468b6fc94ac0f02bcd227005ce0c
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: n4KKgKpp--0
+    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7d3857cc5c5587561638129345744ad3
+  - id: n4KKgKpp--0.srt
+    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/optimal-stable-matching-video/optimal-stable-matching/n4KKgKpp--0.srt
+    title: 3play caption file
+    type: null
+    uid: 5a9e5d778c531e4f7fb483933caa7c1e
+  - id: n4KKgKpp--0.pdf
+    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/optimal-stable-matching-video/optimal-stable-matching/n4KKgKpp--0.pdf
+    title: 3play pdf file
+    type: null
+    uid: ece77a932faa919b76e7c2fe31e813af
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1f7a468eb092f66df6b6c7ac1bc5d300
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 77badba5d91d00079b120110f0044684
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_stableoptimal_ipod.mp4
+    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 350f8a8b1caa8e8d06475e0f7e140066
+inline_embed_id: 38332912optimalstablematching37295300
 parent_uid: 88e03c4e4209b708b104844551a8a091
+related_resources_text: ''
+short_url: optimal-stable-matching
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/optimal-stable-matching-video/optimal-stable-matching
-short_url: optimal-stable-matching
-inline_embed_id: 38332912optimalstablematching37295300
-about_this_resource_text: ''
-related_resources_text: ''
+title: Optimal Stable Matching
 transcript: >-
   <p><span m='1090'>PROFESSOR: So</span> <span m='1260'>stability</span> <span
   m='1860'>has</span> <span m='2090'>some</span> <span m='2300'>value,</span>
@@ -667,67 +727,7 @@ transcript: >-
   m='541740'>I</span> <span m='541810'>mentioned</span> <span
   m='542270'>in</span> <span m='542475'>a</span> <span
   m='542680'>previous</span> <span m='542980'>video.</span> </p>
-embedded_media:
-  - uid: c899badb11e578ceec6457702198e3f1
-    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: a24df10b292562b5216e578293dab99a
-    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 282e38af7d15402f108a08e8930577e5
-    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: n4KKgKpp--0
-  - uid: ead4468b6fc94ac0f02bcd227005ce0c
-    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/n4KKgKpp--0/default.jpg'
-  - uid: 7d3857cc5c5587561638129345744ad3
-    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: n4KKgKpp--0
-  - uid: 5a9e5d778c531e4f7fb483933caa7c1e
-    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
-    id: n4KKgKpp--0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/optimal-stable-matching-video/optimal-stable-matching/n4KKgKpp--0.srt
-  - uid: ece77a932faa919b76e7c2fe31e813af
-    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
-    id: n4KKgKpp--0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/optimal-stable-matching-video/optimal-stable-matching/n4KKgKpp--0.pdf
-  - uid: 1f7a468eb092f66df6b6c7ac1bc5d300
-    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 77badba5d91d00079b120110f0044684
-    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 350f8a8b1caa8e8d06475e0f7e140066
-    parent_uid: c6491840986db5f3fb5ef698a0ee2c78
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_stableoptimal_ipod.mp4
+uid: c6491840986db5f3fb5ef698a0ee2c78
 type: courses
 layout: video
 ---

@@ -1,13 +1,69 @@
 ---
-title: Final Exam Problem Solving
-uid: d405489551c11a1df93f2701ec42740a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 4PnArrxCZLE
+    parent_uid: d405489551c11a1df93f2701ec42740a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8fbe80728fac154a4a81151a004e7a6a
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: 4PnArrxCZLE
+    parent_uid: d405489551c11a1df93f2701ec42740a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c171868569e555b5998f3a1fba7b6a28
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/final-exam-problem-solving/id488155309?i=108454338
+    parent_uid: d405489551c11a1df93f2701ec42740a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a3d04d91d0a69928837a9fc77dc043b9
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110607_A2_300k.mp4
+    parent_uid: d405489551c11a1df93f2701ec42740a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b05909fa71d80ba11cc47c17711b9860
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4PnArrxCZLE/default.jpg'
+    parent_uid: d405489551c11a1df93f2701ec42740a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7e684c195571761447ef289737c6b7f6
+  - id: 4PnArrxCZLE.srt
+    parent_uid: d405489551c11a1df93f2701ec42740a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/final-course-review/final-exam-problem-solving/4PnArrxCZLE.srt
+    title: 3play caption file
+    type: null
+    uid: a2ffc05a17bff342c1dc14d374d72117
+  - id: 4PnArrxCZLE.pdf
+    parent_uid: d405489551c11a1df93f2701ec42740a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/final-course-review/final-exam-problem-solving/4PnArrxCZLE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4e0d9f449b9a58e1548520a930d834f0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d405489551c11a1df93f2701ec42740a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 10121e488d2cbcc87f19211122ebd783
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d405489551c11a1df93f2701ec42740a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1259d86dd0c10ae4cc4694afe50631ad
+inline_embed_id: 74887518finalexamproblemsolving51185573
 parent_uid: a59901cecbc5cc410b702826dc2ae39b
+related_resources_text: ''
+short_url: final-exam-problem-solving
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/final-course-review/final-exam-problem-solving
-short_url: final-exam-problem-solving
-inline_embed_id: 74887518finalexamproblemsolving51185573
-about_this_resource_text: ''
-related_resources_text: ''
+title: Final Exam Problem Solving
 transcript: >-
   <p><span m='6250'>PROFESSOR: Today,</span> <span m='6720'>we're</span> <span
   m='6860'>going</span> <span m='7030'>to</span> <span m='7150'>be</span> <span
@@ -672,63 +728,7 @@ transcript: >-
   <span m='732280'>1].</span> <span m='733180'>We're</span> <span
   m='733300'>done.</span> <span m='734540'>Thank</span> <span
   m='734800'>you.</span> </p>
-embedded_media:
-  - uid: 8fbe80728fac154a4a81151a004e7a6a
-    parent_uid: d405489551c11a1df93f2701ec42740a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4PnArrxCZLE
-  - uid: c171868569e555b5998f3a1fba7b6a28
-    parent_uid: d405489551c11a1df93f2701ec42740a
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4PnArrxCZLE
-  - uid: a3d04d91d0a69928837a9fc77dc043b9
-    parent_uid: d405489551c11a1df93f2701ec42740a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/final-exam-problem-solving/id488155309?i=108454338
-  - uid: b05909fa71d80ba11cc47c17711b9860
-    parent_uid: d405489551c11a1df93f2701ec42740a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110607_A2_300k.mp4
-  - uid: 7e684c195571761447ef289737c6b7f6
-    parent_uid: d405489551c11a1df93f2701ec42740a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4PnArrxCZLE/default.jpg'
-  - uid: a2ffc05a17bff342c1dc14d374d72117
-    parent_uid: d405489551c11a1df93f2701ec42740a
-    id: 4PnArrxCZLE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/final-course-review/final-exam-problem-solving/4PnArrxCZLE.srt
-  - uid: 4e0d9f449b9a58e1548520a930d834f0
-    parent_uid: d405489551c11a1df93f2701ec42740a
-    id: 4PnArrxCZLE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/final-course-review/final-exam-problem-solving/4PnArrxCZLE.pdf
-  - uid: 10121e488d2cbcc87f19211122ebd783
-    parent_uid: d405489551c11a1df93f2701ec42740a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1259d86dd0c10ae4cc4694afe50631ad
-    parent_uid: d405489551c11a1df93f2701ec42740a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: d405489551c11a1df93f2701ec42740a
 type: courses
 layout: video
 ---

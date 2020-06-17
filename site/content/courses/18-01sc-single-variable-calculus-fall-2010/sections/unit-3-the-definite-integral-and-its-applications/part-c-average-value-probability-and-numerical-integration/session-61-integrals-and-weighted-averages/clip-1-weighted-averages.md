@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Weighted Averages'
-uid: 252e20fd7926560d4ab564aabb4d2e61
-parent_uid: d2dac4c5783973f0083cdd3859d4cda5
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages/clip-1-weighted-averages
-short_url: clip-1-weighted-averages
-inline_embed_id: '56224365clip1:weightedaverages3283626'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/14798b1a310b0f2917e2d1cecd7494bf"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 23 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: R9a_NHXrBcg
+    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a824118f78ad5752e7e9f63b4a1f6e60
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/R9a_NHXrBcg/default.jpg'
+    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4c88ee79103b69066448b97ee535e9c6
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: R9a_NHXrBcg
+    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 477fc034d65958029ed299c46049d0df
+  - id: R9a_NHXrBcg.srt
+    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages/clip-1-weighted-averages/R9a_NHXrBcg.srt
+    title: 3play caption file
+    type: null
+    uid: 64d3a5a172b5efd55ebd12972a3f5ff9
+  - id: R9a_NHXrBcg.pdf
+    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages/clip-1-weighted-averages/R9a_NHXrBcg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 733349686d61b0eec88cec39c7c3695c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e0d0649fda8a85673572921eb2b0eeba
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3f26fcdfb30b71714ba69af3f52065ae
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec23_300k.mp4'
+    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c38a918cdbe6151358e822f7ba91b236
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 64a34cc36e6d6861d74893d32dbcf5c6
+inline_embed_id: '56224365clip1:weightedaverages3283626'
+parent_uid: d2dac4c5783973f0083cdd3859d4cda5
 related_resources_text: ''
+short_url: clip-1-weighted-averages
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages/clip-1-weighted-averages
+title: 'Clip 1: Weighted Averages'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following content</span> <span
   m='1270'>is provided</span> <span m='1420'>under</span> <span
@@ -2573,61 +2627,7 @@ transcript: >-
   m='2912390'>way.</span> <span m='2912680'>We'll</span> <span
   m='2912810'>find</span> <span m='2913100'>out</span> <span
   m='2913660'>next</span> <span m='2913990'>time.</span> </p>
-embedded_media:
-  - uid: a824118f78ad5752e7e9f63b4a1f6e60
-    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: R9a_NHXrBcg
-  - uid: 4c88ee79103b69066448b97ee535e9c6
-    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/R9a_NHXrBcg/default.jpg'
-  - uid: 477fc034d65958029ed299c46049d0df
-    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: R9a_NHXrBcg
-  - uid: 64d3a5a172b5efd55ebd12972a3f5ff9
-    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
-    id: R9a_NHXrBcg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages/clip-1-weighted-averages/R9a_NHXrBcg.srt
-  - uid: 733349686d61b0eec88cec39c7c3695c
-    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
-    id: R9a_NHXrBcg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages/clip-1-weighted-averages/R9a_NHXrBcg.pdf
-  - uid: e0d0649fda8a85673572921eb2b0eeba
-    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3f26fcdfb30b71714ba69af3f52065ae
-    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c38a918cdbe6151358e822f7ba91b236
-    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec23_300k.mp4'
-  - uid: 64a34cc36e6d6861d74893d32dbcf5c6
-    parent_uid: 252e20fd7926560d4ab564aabb4d2e61
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 252e20fd7926560d4ab564aabb4d2e61
 type: courses
 layout: video
 ---

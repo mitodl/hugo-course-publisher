@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 11: Relations, Partial Orders, and Scheduling'
-uid: 762918d2d7c923dfc476ebdab88adf4c
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-11-relations-partial-orders-and-scheduling
-short_url: lecture-11-relations-partial-orders-and-scheduling
-inline_embed_id: '65548525lecture11:relations,partialorders,andscheduling69019774'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Covers definitions and examples of basic
   relations, equivalence classes, Hasse diagrams and topological sorts, as well
   as other topics.</p> <p><strong>Speaker:</strong> Marten van Dijk</p> <p>The
   last 30 minutes of this video are not available.</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 1nScXLQAQ9A
+    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 902ced7e6878fea99e4217ce3ef1a46a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/1nScXLQAQ9A/default.jpg'
+    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ff75bb35688702ab0e291e3e938c9c6c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-11-relations-partial/id503873536?i=110644975
+    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: cb0b2d7153a8215f4bf3966a454a78c7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec11_300k.mp4'
+    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: fae4f344658ba70a356d0b632da115a4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 1nScXLQAQ9A
+    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e83cd8bbb1368c75ef42d5be5b09dfe6
+  - id: 1nScXLQAQ9A.srt
+    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-11-relations-partial-orders-and-scheduling/1nScXLQAQ9A.srt
+    title: 3play caption file
+    type: null
+    uid: 96734ffcf24957fa66386539323cf462
+  - id: 1nScXLQAQ9A.pdf
+    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-11-relations-partial-orders-and-scheduling/1nScXLQAQ9A.pdf
+    title: 3play pdf file
+    type: null
+    uid: df48391c844a4a9a03de190cc289cf10
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 062ce1968dd7b5312fb2cdf927e7bbed
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0de601b165ca1c456128bc4086fbd7ec
+inline_embed_id: '65548525lecture11:relations,partialorders,andscheduling69019774'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-11-relations-partial-orders-and-scheduling
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-11-relations-partial-orders-and-scheduling
+title: 'Lecture 11: Relations, Partial Orders, and Scheduling'
 transcript: >-
   <p><span m='410'>The</span> <span m='510'>following</span> <span
   m='950'>content</span> <span m='1550'>is</span> <span m='1660'>provided</span>
@@ -3227,62 +3282,7 @@ transcript: >-
   m='3833190'>the</span> <span m='3833300'>end</span> <span
   m='3833500'>of</span> <span m='3833640'>this</span> <span
   m='3833880'>proof.</span> </p>
-embedded_media:
-  - uid: 902ced7e6878fea99e4217ce3ef1a46a
-    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 1nScXLQAQ9A
-  - uid: ff75bb35688702ab0e291e3e938c9c6c
-    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/1nScXLQAQ9A/default.jpg'
-  - uid: cb0b2d7153a8215f4bf3966a454a78c7
-    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-11-relations-partial/id503873536?i=110644975
-  - uid: fae4f344658ba70a356d0b632da115a4
-    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec11_300k.mp4'
-  - uid: e83cd8bbb1368c75ef42d5be5b09dfe6
-    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 1nScXLQAQ9A
-  - uid: 96734ffcf24957fa66386539323cf462
-    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
-    id: 1nScXLQAQ9A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-11-relations-partial-orders-and-scheduling/1nScXLQAQ9A.srt
-  - uid: df48391c844a4a9a03de190cc289cf10
-    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
-    id: 1nScXLQAQ9A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-11-relations-partial-orders-and-scheduling/1nScXLQAQ9A.pdf
-  - uid: 062ce1968dd7b5312fb2cdf927e7bbed
-    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0de601b165ca1c456128bc4086fbd7ec
-    parent_uid: 762918d2d7c923dfc476ebdab88adf4c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 762918d2d7c923dfc476ebdab88adf4c
 type: courses
 layout: video
 ---

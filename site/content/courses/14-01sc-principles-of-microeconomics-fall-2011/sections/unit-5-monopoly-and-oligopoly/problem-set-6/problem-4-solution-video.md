@@ -1,13 +1,69 @@
 ---
-title: Problem 4 Solution Video
-uid: ba568042296cd3b6ea830b0737ee004e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: DZHguXpwuXU
+    parent_uid: ba568042296cd3b6ea830b0737ee004e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3848ac288f2e9ace8c97dea2578ad5a1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/DZHguXpwuXU/default.jpg'
+    parent_uid: ba568042296cd3b6ea830b0737ee004e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bbf317688f7455a20d72e45b116f5877
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: DZHguXpwuXU
+    parent_uid: ba568042296cd3b6ea830b0737ee004e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4f9c0092136ed4374e7d58bdc8041780
+  - id: DZHguXpwuXU.srt
+    parent_uid: ba568042296cd3b6ea830b0737ee004e
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-5-monopoly-and-oligopoly/problem-set-6/problem-4-solution-video/DZHguXpwuXU.srt
+    title: 3play caption file
+    type: null
+    uid: ca6198d8c02cce34c871b010465649b3
+  - id: DZHguXpwuXU.pdf
+    parent_uid: ba568042296cd3b6ea830b0737ee004e
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-5-monopoly-and-oligopoly/problem-set-6/problem-4-solution-video/DZHguXpwuXU.pdf
+    title: 3play pdf file
+    type: null
+    uid: be18790242d533664580186f41d5e49c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ba568042296cd3b6ea830b0737ee004e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 90649534bb393378f0d05037fb2ccf00
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ba568042296cd3b6ea830b0737ee004e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4d1fda4ce1b4ca668638a636f5f70123
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_problem_6-4_300k.mp4
+    parent_uid: ba568042296cd3b6ea830b0737ee004e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3710a81f2a493a8324b5d8d630381cc9
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/problem-set-6-problem-4/id496265654?i=109892733
+    parent_uid: ba568042296cd3b6ea830b0737ee004e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b3e215978b1de98a24fe87c9f39a95f3
+inline_embed_id: 16535329problem4solutionvideo47194637
 parent_uid: 63a175ea2f4e7188fe6edf59d477548c
+related_resources_text: ''
+short_url: problem-4-solution-video
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-5-monopoly-and-oligopoly/problem-set-6/problem-4-solution-video
-short_url: problem-4-solution-video
-inline_embed_id: 16535329problem4solutionvideo47194637
-about_this_resource_text: ''
-related_resources_text: ''
+title: Problem 4 Solution Video
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -1176,63 +1232,7 @@ transcript: >-
   m='1055260'>you</span> <span m='1055350'>found</span> <span
   m='1055530'>this</span> <span m='1055630'>problem</span> <span
   m='1055900'>helpful.</span> </p>
-embedded_media:
-  - uid: 3848ac288f2e9ace8c97dea2578ad5a1
-    parent_uid: ba568042296cd3b6ea830b0737ee004e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: DZHguXpwuXU
-  - uid: bbf317688f7455a20d72e45b116f5877
-    parent_uid: ba568042296cd3b6ea830b0737ee004e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/DZHguXpwuXU/default.jpg'
-  - uid: 4f9c0092136ed4374e7d58bdc8041780
-    parent_uid: ba568042296cd3b6ea830b0737ee004e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: DZHguXpwuXU
-  - uid: ca6198d8c02cce34c871b010465649b3
-    parent_uid: ba568042296cd3b6ea830b0737ee004e
-    id: DZHguXpwuXU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-5-monopoly-and-oligopoly/problem-set-6/problem-4-solution-video/DZHguXpwuXU.srt
-  - uid: be18790242d533664580186f41d5e49c
-    parent_uid: ba568042296cd3b6ea830b0737ee004e
-    id: DZHguXpwuXU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-5-monopoly-and-oligopoly/problem-set-6/problem-4-solution-video/DZHguXpwuXU.pdf
-  - uid: 90649534bb393378f0d05037fb2ccf00
-    parent_uid: ba568042296cd3b6ea830b0737ee004e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4d1fda4ce1b4ca668638a636f5f70123
-    parent_uid: ba568042296cd3b6ea830b0737ee004e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3710a81f2a493a8324b5d8d630381cc9
-    parent_uid: ba568042296cd3b6ea830b0737ee004e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_problem_6-4_300k.mp4
-  - uid: b3e215978b1de98a24fe87c9f39a95f3
-    parent_uid: ba568042296cd3b6ea830b0737ee004e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/problem-set-6-problem-4/id496265654?i=109892733
+uid: ba568042296cd3b6ea830b0737ee004e
 type: courses
 layout: video
 ---

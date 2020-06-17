@@ -1,13 +1,68 @@
 ---
-title: Sketching a Curve
-uid: 1f6a47b6b316d3ac784203c3af9b2a7e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: aWV4khIBvCM
+    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e9a2d820c9c59b4275caf4a2983d21a0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/aWV4khIBvCM/default.jpg'
+    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 781956958649d211da67ef5177fd23d8
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/sketching-a-curve/id414308064?i=90319003
+    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 541873bdd2307d46831110f5c1a173ae
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_19_300k.mp4'
+    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 02b5f703c2f71da05d69987b316c3b65
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: aWV4khIBvCM
+    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0404da51907615271050074ff4ccb1c0
+  - id: aWV4khIBvCM.srt
+    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions/sketching-a-curve/aWV4khIBvCM.srt
+    title: 3play caption file
+    type: null
+    uid: 0c180ef4a2a8aae86182d46259bde2e3
+  - id: aWV4khIBvCM.pdf
+    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions/sketching-a-curve/aWV4khIBvCM.pdf
+    title: 3play pdf file
+    type: null
+    uid: c55a4b7b809179598b5e0c6f0d05cc58
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9dab05ec313fc63fbf81e7293ba9c059
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 41e1f690bf55f919a0f2b832ae1d7426
+inline_embed_id: 7577494sketchingacurve57339410
 parent_uid: 9e376e9f57362241223df5e959ea707e
+related_resources_text: ''
+short_url: sketching-a-curve
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions/sketching-a-curve
-short_url: sketching-a-curve
-inline_embed_id: 7577494sketchingacurve57339410
-about_this_resource_text: ''
-related_resources_text: ''
+title: Sketching a Curve
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='6910'>Welcome</span> <span
   m='7320'>back</span> <span m='7510'>to</span> <span
@@ -994,62 +1049,7 @@ transcript: >-
   m='737920'>And</span> <span m='738100'>that's</span> <span
   m='738250'>where</span> <span m='738350'>we'll</span> <span
   m='738460'>stop.</span> </p>
-embedded_media:
-  - uid: e9a2d820c9c59b4275caf4a2983d21a0
-    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: aWV4khIBvCM
-  - uid: 781956958649d211da67ef5177fd23d8
-    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/aWV4khIBvCM/default.jpg'
-  - uid: 541873bdd2307d46831110f5c1a173ae
-    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/sketching-a-curve/id414308064?i=90319003
-  - uid: 02b5f703c2f71da05d69987b316c3b65
-    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_19_300k.mp4'
-  - uid: 0404da51907615271050074ff4ccb1c0
-    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: aWV4khIBvCM
-  - uid: 0c180ef4a2a8aae86182d46259bde2e3
-    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
-    id: aWV4khIBvCM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions/sketching-a-curve/aWV4khIBvCM.srt
-  - uid: c55a4b7b809179598b5e0c6f0d05cc58
-    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
-    id: aWV4khIBvCM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions/sketching-a-curve/aWV4khIBvCM.pdf
-  - uid: 9dab05ec313fc63fbf81e7293ba9c059
-    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 41e1f690bf55f919a0f2b832ae1d7426
-    parent_uid: 1f6a47b6b316d3ac784203c3af9b2a7e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 1f6a47b6b316d3ac784203c3af9b2a7e
 type: courses
 layout: video
 ---

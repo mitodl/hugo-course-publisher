@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: Introduction'
-uid: 205c64cf78949556544e1ff6439bb136
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: UA3QA3KE4sw
+    parent_uid: 205c64cf78949556544e1ff6439bb136
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3d2e47bc552383d307a7fc96f1dfca15
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: UA3QA3KE4sw
+    parent_uid: 205c64cf78949556544e1ff6439bb136
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9d850ecdec6c2138fe957de5e0a54135
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/UA3QA3KE4sw/default.jpg'
+    parent_uid: 205c64cf78949556544e1ff6439bb136
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8c609f8bc3248ec086fa3c2a89e8d403
+  - id: UA3QA3KE4sw.srt
+    parent_uid: 205c64cf78949556544e1ff6439bb136
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-1-introduction-3/UA3QA3KE4sw.srt
+    title: 3play caption file
+    type: null
+    uid: d0f5096ff794b18b3d0b27f1f7b0bae1
+  - id: UA3QA3KE4sw.pdf
+    parent_uid: 205c64cf78949556544e1ff6439bb136
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-1-introduction-3/UA3QA3KE4sw.pdf
+    title: 3play pdf file
+    type: null
+    uid: b4dfd605fe0aba1bfcaa4e09ec59d300
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 205c64cf78949556544e1ff6439bb136
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 317c1705ad868bfea6baac5347d37c57
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 205c64cf78949556544e1ff6439bb136
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2fd954f8f1a47811ab89ff76e7f9a23a
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.2.01_300k.mp4
+    parent_uid: 205c64cf78949556544e1ff6439bb136
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1f6e0bfc305b61b5f9b9ca133048c548
+inline_embed_id: 10072654video1introduction72470096
 parent_uid: 2900efa71aff756dfeba74c6d16f2d3d
+related_resources_text: ''
+short_url: video-1-introduction-3
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-1-introduction-3
-short_url: video-1-introduction-3
-inline_embed_id: 10072654video1introduction72470096
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: Introduction'
 transcript: >-
   <p><span m='4500'>In</span> <span m='4865'>this</span> <span
   m='5231'>lecture,</span> <span m='5597'>we'll</span> <span
@@ -191,56 +240,7 @@ transcript: >-
   m='201727'>in</span> <span m='202093'>order</span> <span m='202460'>to</span>
   <span m='203102'>maximize</span> <span m='203745'>their</span> <span
   m='204387'>revenue.</span> </p>
-embedded_media:
-  - uid: 3d2e47bc552383d307a7fc96f1dfca15
-    parent_uid: 205c64cf78949556544e1ff6439bb136
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: UA3QA3KE4sw
-  - uid: 9d850ecdec6c2138fe957de5e0a54135
-    parent_uid: 205c64cf78949556544e1ff6439bb136
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: UA3QA3KE4sw
-  - uid: 8c609f8bc3248ec086fa3c2a89e8d403
-    parent_uid: 205c64cf78949556544e1ff6439bb136
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/UA3QA3KE4sw/default.jpg'
-  - uid: d0f5096ff794b18b3d0b27f1f7b0bae1
-    parent_uid: 205c64cf78949556544e1ff6439bb136
-    id: UA3QA3KE4sw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-1-introduction-3/UA3QA3KE4sw.srt
-  - uid: b4dfd605fe0aba1bfcaa4e09ec59d300
-    parent_uid: 205c64cf78949556544e1ff6439bb136
-    id: UA3QA3KE4sw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-1-introduction-3/UA3QA3KE4sw.pdf
-  - uid: 317c1705ad868bfea6baac5347d37c57
-    parent_uid: 205c64cf78949556544e1ff6439bb136
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2fd954f8f1a47811ab89ff76e7f9a23a
-    parent_uid: 205c64cf78949556544e1ff6439bb136
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1f6e0bfc305b61b5f9b9ca133048c548
-    parent_uid: 205c64cf78949556544e1ff6439bb136
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.2.01_300k.mp4
+uid: 205c64cf78949556544e1ff6439bb136
 type: courses
 layout: video
 ---

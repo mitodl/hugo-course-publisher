@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: Predicting the Quality of Wine'
-uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: f-EN4QySwAs
+    parent_uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 80fc12cd6815bd15cde6b85cc20f6b7b
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: f-EN4QySwAs
+    parent_uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 20b5f658bb0050a5d72a90e75fcb1e1a
+  - id: f-EN4QySwAs.srt
+    parent_uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-1-predicting-the-quality-of-wine-0/f-EN4QySwAs.srt
+    title: 3play caption file
+    type: null
+    uid: 71e6f22c56a53c7e11f1f8c0b6460fdb
+  - id: f-EN4QySwAs.pdf
+    parent_uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-1-predicting-the-quality-of-wine-0/f-EN4QySwAs.pdf
+    title: 3play pdf file
+    type: null
+    uid: a9302569c8e24a6c7f6af3650f4eac75
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 23dc423e34562248befe8874122edbd6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b616394785463c15dd2d002e9abb65aa
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/f-EN4QySwAs/default.jpg'
+    parent_uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a62a412b915eb6950585b90507f5294b
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.2.01_300k.mp4
+    parent_uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9072e5f1bb6ece068ed565587bde5324
+inline_embed_id: 35918736video1predictingthequalityofwine63033818
 parent_uid: 4495fb4839343c3323b22ef2104af559
+related_resources_text: ''
+short_url: video-1-predicting-the-quality-of-wine-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-1-predicting-the-quality-of-wine-0
-short_url: video-1-predicting-the-quality-of-wine-0
-inline_embed_id: 35918736video1predictingthequalityofwine63033818
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: Predicting the Quality of Wine'
 transcript: >-
   <p><span m='9500'>In</span> <span m='9875'>this</span> <span
   m='10251'>lecture,</span> <span m='10627'>we</span> <span
@@ -213,56 +262,7 @@ transcript: >-
   m='233150'>on</span> <span m='233540'>the</span> <span
   m='233930'>actors</span> <span m='234320'>and</span> <span
   m='234710'>the</span> <span m='235100'>director."</span> </p>
-embedded_media:
-  - uid: 80fc12cd6815bd15cde6b85cc20f6b7b
-    parent_uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: f-EN4QySwAs
-  - uid: 20b5f658bb0050a5d72a90e75fcb1e1a
-    parent_uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: f-EN4QySwAs
-  - uid: 71e6f22c56a53c7e11f1f8c0b6460fdb
-    parent_uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
-    id: f-EN4QySwAs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-1-predicting-the-quality-of-wine-0/f-EN4QySwAs.srt
-  - uid: a9302569c8e24a6c7f6af3650f4eac75
-    parent_uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
-    id: f-EN4QySwAs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-1-predicting-the-quality-of-wine-0/f-EN4QySwAs.pdf
-  - uid: 23dc423e34562248befe8874122edbd6
-    parent_uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b616394785463c15dd2d002e9abb65aa
-    parent_uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a62a412b915eb6950585b90507f5294b
-    parent_uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/f-EN4QySwAs/default.jpg'
-  - uid: 9072e5f1bb6ece068ed565587bde5324
-    parent_uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.2.01_300k.mp4
+uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
 type: courses
 layout: video
 ---

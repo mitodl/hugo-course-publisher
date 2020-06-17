@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 31: Nuclear Chemistry and Chemical Kinetics'
-uid: b3b4d0a51ad03c020b4760598d90bd89
-parent_uid: c8f99e55bd1766c4505f19e5b26af70c
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-31/lecture-31-nuclear-chemistry-and-chemical-kinetics
-short_url: lecture-31-nuclear-chemistry-and-chemical-kinetics
-inline_embed_id: 1791980lecture31nuclearchemistryandchemicalkinetics76033459
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: Professor Drennan recites Mala Radhakrishnan's poem
@@ -15,7 +8,68 @@ about_this_resource_text: >-
   equilibrium is also revisited as the class considers the relationship between
   equilibrium constants and rate constants.</p> <p><strong>Instructor:</strong>
   Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: XKeAd4xybjM
+    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4d2942832550925b317705d16dbbea50
+  - id: XKeAd4xybjM.srt
+    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-31/lecture-31-nuclear-chemistry-and-chemical-kinetics/XKeAd4xybjM.srt
+    title: 3play caption file
+    type: null
+    uid: a3308f6fc4e96fa6e0e8a72e1f7b1112
+  - id: XKeAd4xybjM.pdf
+    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-31/lecture-31-nuclear-chemistry-and-chemical-kinetics/XKeAd4xybjM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4197b40c04945d6fed2b8868c38ad25a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9387dd97d30d41bb1e58a17a085f3384
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7c1fc5dc409c92ee1bff9a579707e7c2
+  - id: Video-YouTube-Stream
+    media_location: XKeAd4xybjM
+    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 81b02d8678e108685385db366158df69
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/XKeAd4xybjM/default.jpg'
+    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 64ace8e0ad01cafc2aaa6363e1d9538f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: dd1cdafa988cf25e8f50dc8b99386c58
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L31_300k.mp4'
+    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 794868f4ca9bf3d6245d2c3f3abd2da5
+inline_embed_id: 1791980lecture31nuclearchemistryandchemicalkinetics76033459
+parent_uid: c8f99e55bd1766c4505f19e5b26af70c
 related_resources_text: ''
+short_url: lecture-31-nuclear-chemistry-and-chemical-kinetics
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-31/lecture-31-nuclear-chemistry-and-chemical-kinetics
+title: 'Lecture 31: Nuclear Chemistry and Chemical Kinetics'
 transcript: >-
   <p><span m="30">The</span> <span m="130">following</span> <span
   m="600">content</span> <span m="1090">is</span> <span m="1210">provided</span>
@@ -2304,61 +2358,7 @@ transcript: >-
   m="2066980">everybody.</span> <span m="2067500">See</span> <span
   m="2067679">you</span> <span m="2067790">next</span> <span
   m="2068310">Monday.</span></p>
-embedded_media:
-  - uid: 4d2942832550925b317705d16dbbea50
-    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: XKeAd4xybjM
-  - uid: a3308f6fc4e96fa6e0e8a72e1f7b1112
-    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
-    id: XKeAd4xybjM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-31/lecture-31-nuclear-chemistry-and-chemical-kinetics/XKeAd4xybjM.srt
-  - uid: 4197b40c04945d6fed2b8868c38ad25a
-    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
-    id: XKeAd4xybjM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-31/lecture-31-nuclear-chemistry-and-chemical-kinetics/XKeAd4xybjM.pdf
-  - uid: 9387dd97d30d41bb1e58a17a085f3384
-    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7c1fc5dc409c92ee1bff9a579707e7c2
-    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 81b02d8678e108685385db366158df69
-    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: XKeAd4xybjM
-  - uid: 64ace8e0ad01cafc2aaa6363e1d9538f
-    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/XKeAd4xybjM/default.jpg'
-  - uid: dd1cdafa988cf25e8f50dc8b99386c58
-    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 794868f4ca9bf3d6245d2c3f3abd2da5
-    parent_uid: b3b4d0a51ad03c020b4760598d90bd89
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L31_300k.mp4'
+uid: b3b4d0a51ad03c020b4760598d90bd89
 type: courses
 layout: video
 ---

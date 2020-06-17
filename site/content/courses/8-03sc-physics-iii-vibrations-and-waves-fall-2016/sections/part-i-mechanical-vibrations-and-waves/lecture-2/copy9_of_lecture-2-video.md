@@ -1,13 +1,61 @@
 ---
-title: Damped and Undamped Masses on a Spring
-uid: 424625ac657e720e351f9e55a4a3e532
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: T2n6fVybLcU
+    parent_uid: 424625ac657e720e351f9e55a4a3e532
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 59a71724fe28c4ee3f3d0d5a659b266c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/T2n6fVybLcU/default.jpg'
+    parent_uid: 424625ac657e720e351f9e55a4a3e532
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ce1dba7c62a31a6269f9022c76da9c93
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: T2n6fVybLcU
+    parent_uid: 424625ac657e720e351f9e55a4a3e532
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 493620f8ced128d63c18249240fa626f
+  - id: T2n6fVybLcU.srt
+    parent_uid: 424625ac657e720e351f9e55a4a3e532
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/copy9_of_lecture-2-video/T2n6fVybLcU.srt
+    title: 3play caption file
+    type: null
+    uid: 85e25a90e44e6f246515d229a02e73e1
+  - id: T2n6fVybLcU.pdf
+    parent_uid: 424625ac657e720e351f9e55a4a3e532
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/copy9_of_lecture-2-video/T2n6fVybLcU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 181f8eb48583f31dbdfaa795b4b07424
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 424625ac657e720e351f9e55a4a3e532
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3bd3bbc3e09f4c3482d4371fc6836622
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 424625ac657e720e351f9e55a4a3e532
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f4cb365f269df0149712ac0595cf68ae
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec02_300k.mp4'
+    parent_uid: 424625ac657e720e351f9e55a4a3e532
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3cb8eedb0ea2c3ab7fb2842277488fa6
+inline_embed_id: 28575796lecture2videop3521287894
 parent_uid: de60ad23ec34c2de5ad0d3eca23fb1e5
+related_resources_text: ''
+short_url: copy9_of_lecture-2-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/copy9_of_lecture-2-video
-short_url: copy9_of_lecture-2-video
-inline_embed_id: 28575796lecture2videop3521287894
-about_this_resource_text: ''
-related_resources_text: ''
+title: Damped and Undamped Masses on a Spring
 transcript: >-
   <p><span m="2195">The</span> <span m="2240">following</span> <span
   m="2690">content</span> <span m="3200">is</span> <span
@@ -3986,55 +4034,7 @@ transcript: >-
   m="4582860">to</span> <span m="4583040">drive</span> <span
   m="4583310">the</span> <span m="4583510">oscillator.</span> <span
   m="4584770">Bye-bye.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 59a71724fe28c4ee3f3d0d5a659b266c
-    parent_uid: 424625ac657e720e351f9e55a4a3e532
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: T2n6fVybLcU
-  - uid: ce1dba7c62a31a6269f9022c76da9c93
-    parent_uid: 424625ac657e720e351f9e55a4a3e532
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/T2n6fVybLcU/default.jpg'
-  - uid: 493620f8ced128d63c18249240fa626f
-    parent_uid: 424625ac657e720e351f9e55a4a3e532
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: T2n6fVybLcU
-  - uid: 85e25a90e44e6f246515d229a02e73e1
-    parent_uid: 424625ac657e720e351f9e55a4a3e532
-    id: T2n6fVybLcU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/copy9_of_lecture-2-video/T2n6fVybLcU.srt
-  - uid: 181f8eb48583f31dbdfaa795b4b07424
-    parent_uid: 424625ac657e720e351f9e55a4a3e532
-    id: T2n6fVybLcU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/copy9_of_lecture-2-video/T2n6fVybLcU.pdf
-  - uid: 3bd3bbc3e09f4c3482d4371fc6836622
-    parent_uid: 424625ac657e720e351f9e55a4a3e532
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f4cb365f269df0149712ac0595cf68ae
-    parent_uid: 424625ac657e720e351f9e55a4a3e532
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3cb8eedb0ea2c3ab7fb2842277488fa6
-    parent_uid: 424625ac657e720e351f9e55a4a3e532
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec02_300k.mp4'
+uid: 424625ac657e720e351f9e55a4a3e532
 type: courses
 layout: video
 ---

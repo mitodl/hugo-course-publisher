@@ -1,13 +1,62 @@
 ---
-title: 'Video 5: Adding Variables'
-uid: 51adae7fc07ede7834f1530585f66d11
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: HJGwmvpZOyI
+    parent_uid: 51adae7fc07ede7834f1530585f66d11
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 02c76915411ebdd1a6f99ecc571c8ede
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: HJGwmvpZOyI
+    parent_uid: 51adae7fc07ede7834f1530585f66d11
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ae55cadd5dd1aab5cc9afddd0894494b
+  - id: uxNfDiKmZ5M.srt
+    parent_uid: 51adae7fc07ede7834f1530585f66d11
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-5-adding-variables/video-5-adding-variables-0/uxNfDiKmZ5M.srt
+    title: 3play caption file
+    type: null
+    uid: 1d518882715c7b0ac0097e20cf115dfd
+  - id: uxNfDiKmZ5M.pdf
+    parent_uid: 51adae7fc07ede7834f1530585f66d11
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-5-adding-variables/video-5-adding-variables-0/uxNfDiKmZ5M.pdf
+    title: 3play pdf file
+    type: null
+    uid: b0774f645b37e161f4298c169494ba4f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 51adae7fc07ede7834f1530585f66d11
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d4e2e10135c2ef2511d84868a7214673
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 51adae7fc07ede7834f1530585f66d11
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ce5b3a8f8fdb5bbd712b1a9fea313c92
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.4.06_300k.mp4
+    parent_uid: 51adae7fc07ede7834f1530585f66d11
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2bdf0ed4534a5c64426c572a1959c198
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/HJGwmvpZOyI/default.jpg'
+    parent_uid: 51adae7fc07ede7834f1530585f66d11
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e6da1111a4d9831c9c88aafbbb77e396
+inline_embed_id: 22648127video5addingvariables4654281
 parent_uid: 041c3127fd08cfd7d4e7305dc781718b
+related_resources_text: ''
+short_url: video-5-adding-variables-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-5-adding-variables/video-5-adding-variables-0
-short_url: video-5-adding-variables-0
-inline_embed_id: 22648127video5addingvariables4654281
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 5: Adding Variables'
 transcript: >-
   <p><span m='4490'>In</span> <span m='4706'>this</span> <span
   m='4922'>video,</span> <span m='5138'>we</span> <span m='5355'>will</span>
@@ -309,56 +358,7 @@ transcript: >-
   m='286637'>tapply</span> <span m='287140'>functions</span> <span
   m='287644'>in</span> <span m='288148'>our</span> <span m='288651'>next</span>
   <span m='289155'>video.</span> </p>
-embedded_media:
-  - uid: 02c76915411ebdd1a6f99ecc571c8ede
-    parent_uid: 51adae7fc07ede7834f1530585f66d11
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: HJGwmvpZOyI
-  - uid: ae55cadd5dd1aab5cc9afddd0894494b
-    parent_uid: 51adae7fc07ede7834f1530585f66d11
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: HJGwmvpZOyI
-  - uid: 1d518882715c7b0ac0097e20cf115dfd
-    parent_uid: 51adae7fc07ede7834f1530585f66d11
-    id: uxNfDiKmZ5M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-5-adding-variables/video-5-adding-variables-0/uxNfDiKmZ5M.srt
-  - uid: b0774f645b37e161f4298c169494ba4f
-    parent_uid: 51adae7fc07ede7834f1530585f66d11
-    id: uxNfDiKmZ5M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-5-adding-variables/video-5-adding-variables-0/uxNfDiKmZ5M.pdf
-  - uid: d4e2e10135c2ef2511d84868a7214673
-    parent_uid: 51adae7fc07ede7834f1530585f66d11
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ce5b3a8f8fdb5bbd712b1a9fea313c92
-    parent_uid: 51adae7fc07ede7834f1530585f66d11
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 2bdf0ed4534a5c64426c572a1959c198
-    parent_uid: 51adae7fc07ede7834f1530585f66d11
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.4.06_300k.mp4
-  - uid: e6da1111a4d9831c9c88aafbbb77e396
-    parent_uid: 51adae7fc07ede7834f1530585f66d11
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/HJGwmvpZOyI/default.jpg'
+uid: 51adae7fc07ede7834f1530585f66d11
 type: courses
 layout: video
 ---

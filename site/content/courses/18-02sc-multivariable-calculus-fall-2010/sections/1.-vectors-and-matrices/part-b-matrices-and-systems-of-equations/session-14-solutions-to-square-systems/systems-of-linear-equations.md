@@ -1,13 +1,68 @@
 ---
-title: Systems of Linear Equations
-uid: 8bfa6a55887f4379377e615cf7ab64be
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BbNMKMicWy8
+    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1849f700dfc862b11e297d3d376074ea
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BbNMKMicWy8/default.jpg'
+    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a89250763149fd624a17c9f6a6aa7f3f
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: BbNMKMicWy8
+    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fd225b667070e8eee51ed63b2d948407
+  - id: BbNMKMicWy8.srt
+    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-14-solutions-to-square-systems/systems-of-linear-equations/BbNMKMicWy8.srt
+    title: 3play caption file
+    type: null
+    uid: b00d6150fa5c63e61d6ab04a8ebdf761
+  - id: BbNMKMicWy8.pdf
+    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-14-solutions-to-square-systems/systems-of-linear-equations/BbNMKMicWy8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3683e378d5c1d1dce8566f6025ec8f03
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0825b0d2e4dbd32376e806a40bdf06f0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ef59760482c43d5d06de57ccf22457dc
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/systems-of-linear-equations/id414355340?i=90322824
+    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5b31d18e8649b2be3efb13e89b931765
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_12_300k.mp4'
+    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1c55cb7d5a3ca312c4276957bf386b6e
+inline_embed_id: 77881025systemsoflinearequations45775188
 parent_uid: 7d94f07b8bc70601a9431aa48d6b4518
+related_resources_text: ''
+short_url: systems-of-linear-equations
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-14-solutions-to-square-systems/systems-of-linear-equations
-short_url: systems-of-linear-equations
-inline_embed_id: 77881025systemsoflinearequations45775188
-about_this_resource_text: ''
-related_resources_text: ''
+title: Systems of Linear Equations
 transcript: >-
   <p><span m='7360'>JOEL LEWIS: Hi.</span> <span m='7790'>Welcome</span> <span
   m='8210'>back</span> <span m='8420'>to</span> <span
@@ -769,62 +824,7 @@ transcript: >-
   m='715965'>many</span> <span m='716280'>solutions.</span> <span
   m='717180'>So</span> <span m='717440'>I'll</span> <span m='717590'>end</span>
   <span m='717740'>there.</span> </p>
-embedded_media:
-  - uid: 1849f700dfc862b11e297d3d376074ea
-    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BbNMKMicWy8
-  - uid: a89250763149fd624a17c9f6a6aa7f3f
-    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BbNMKMicWy8/default.jpg'
-  - uid: fd225b667070e8eee51ed63b2d948407
-    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BbNMKMicWy8
-  - uid: b00d6150fa5c63e61d6ab04a8ebdf761
-    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
-    id: BbNMKMicWy8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-14-solutions-to-square-systems/systems-of-linear-equations/BbNMKMicWy8.srt
-  - uid: 3683e378d5c1d1dce8566f6025ec8f03
-    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
-    id: BbNMKMicWy8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-14-solutions-to-square-systems/systems-of-linear-equations/BbNMKMicWy8.pdf
-  - uid: 0825b0d2e4dbd32376e806a40bdf06f0
-    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ef59760482c43d5d06de57ccf22457dc
-    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5b31d18e8649b2be3efb13e89b931765
-    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/systems-of-linear-equations/id414355340?i=90322824
-  - uid: 1c55cb7d5a3ca312c4276957bf386b6e
-    parent_uid: 8bfa6a55887f4379377e615cf7ab64be
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_12_300k.mp4'
+uid: 8bfa6a55887f4379377e615cf7ab64be
 type: courses
 layout: video
 ---

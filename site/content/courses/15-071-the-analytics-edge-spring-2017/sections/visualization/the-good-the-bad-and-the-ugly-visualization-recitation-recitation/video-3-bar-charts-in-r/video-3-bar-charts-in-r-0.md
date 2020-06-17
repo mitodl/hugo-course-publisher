@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: Bar Charts in R'
-uid: 598eb710c9675a9df54b9369f24d426f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: En0xvjBnmfU
+    parent_uid: 598eb710c9675a9df54b9369f24d426f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0f922c1533282f13f6dd5f4722e9fbdf
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: En0xvjBnmfU
+    parent_uid: 598eb710c9675a9df54b9369f24d426f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 711d48fbc165a20d6feda9d68038f6df
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/En0xvjBnmfU/default.jpg'
+    parent_uid: 598eb710c9675a9df54b9369f24d426f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3175052a86484baf118747f1cdc8a8bc
+  - id: En0xvjBnmfU.srt
+    parent_uid: 598eb710c9675a9df54b9369f24d426f
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-3-bar-charts-in-r/video-3-bar-charts-in-r-0/En0xvjBnmfU.srt
+    title: 3play caption file
+    type: null
+    uid: 450744d9ac8bcf3ddad781f81ae19add
+  - id: En0xvjBnmfU.pdf
+    parent_uid: 598eb710c9675a9df54b9369f24d426f
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-3-bar-charts-in-r/video-3-bar-charts-in-r-0/En0xvjBnmfU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 96aaaf2f91c85603dda693c99cea0e62
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 598eb710c9675a9df54b9369f24d426f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8bde741640add41ab443d5bdfb1d2a04
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 598eb710c9675a9df54b9369f24d426f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 91f2d749bd8a8e1cf84cf23b5eb6472e
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.4.04_300k.mp4
+    parent_uid: 598eb710c9675a9df54b9369f24d426f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b1c74a802556d6c0da1047353afb8b8a
+inline_embed_id: 83368339video3barchartsinr54688860
 parent_uid: b69a45f6aacc80e937f4661dbb5bb822
+related_resources_text: ''
+short_url: video-3-bar-charts-in-r-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-3-bar-charts-in-r/video-3-bar-charts-in-r-0
-short_url: video-3-bar-charts-in-r-0
-inline_embed_id: 83368339video3barchartsinr54688860
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: Bar Charts in R'
 transcript: >-
   <p><span m='5880'>Okay,</span> <span m='6110'>so</span> <span
   m='6341'>now</span> <span m='6572'>we're</span> <span m='6803'>going</span>
@@ -466,56 +515,7 @@ transcript: >-
   m='447300'>about</span> <span m='447844'>what</span> <span
   m='448388'>we've</span> <span m='448932'>just</span> <span
   m='449476'>done.</span> </p>
-embedded_media:
-  - uid: 0f922c1533282f13f6dd5f4722e9fbdf
-    parent_uid: 598eb710c9675a9df54b9369f24d426f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: En0xvjBnmfU
-  - uid: 711d48fbc165a20d6feda9d68038f6df
-    parent_uid: 598eb710c9675a9df54b9369f24d426f
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: En0xvjBnmfU
-  - uid: 3175052a86484baf118747f1cdc8a8bc
-    parent_uid: 598eb710c9675a9df54b9369f24d426f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/En0xvjBnmfU/default.jpg'
-  - uid: 450744d9ac8bcf3ddad781f81ae19add
-    parent_uid: 598eb710c9675a9df54b9369f24d426f
-    id: En0xvjBnmfU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-3-bar-charts-in-r/video-3-bar-charts-in-r-0/En0xvjBnmfU.srt
-  - uid: 96aaaf2f91c85603dda693c99cea0e62
-    parent_uid: 598eb710c9675a9df54b9369f24d426f
-    id: En0xvjBnmfU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-3-bar-charts-in-r/video-3-bar-charts-in-r-0/En0xvjBnmfU.pdf
-  - uid: 8bde741640add41ab443d5bdfb1d2a04
-    parent_uid: 598eb710c9675a9df54b9369f24d426f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 91f2d749bd8a8e1cf84cf23b5eb6472e
-    parent_uid: 598eb710c9675a9df54b9369f24d426f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b1c74a802556d6c0da1047353afb8b8a
-    parent_uid: 598eb710c9675a9df54b9369f24d426f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.4.04_300k.mp4
+uid: 598eb710c9675a9df54b9369f24d426f
 type: courses
 layout: video
 ---

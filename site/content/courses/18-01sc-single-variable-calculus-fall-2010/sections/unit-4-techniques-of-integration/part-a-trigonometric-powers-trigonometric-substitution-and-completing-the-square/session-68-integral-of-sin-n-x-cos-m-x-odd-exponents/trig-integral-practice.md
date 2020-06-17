@@ -1,13 +1,68 @@
 ---
-title: Trig Integral Practice
-uid: 8007b2dbc807e0c2a8be05a5fa684aeb
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: y_CA5btuoQk
+    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 251229ee1b6ec744c46ea6d04241bb20
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/y_CA5btuoQk/default.jpg'
+    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 157ea6d4462f1ef1c242bcddf52bdd3b
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: y_CA5btuoQk
+    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 80a5f94a649d091a1714cd8944dc8c1c
+  - id: y_CA5btuoQk.srt
+    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents/trig-integral-practice/y_CA5btuoQk.srt
+    title: 3play caption file
+    type: null
+    uid: 2c228501f09f74f66011a2ed86250586
+  - id: y_CA5btuoQk.pdf
+    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents/trig-integral-practice/y_CA5btuoQk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9fed41f4d6308e422519b1a72d80d135
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e42d1d75ce6c94caec4922a8e962137b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d6a52830f24458ad8d857034858d7fb2
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_50_300k.mp4'
+    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6aeddaae82b325427e76e83e4596bfd7
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/trig-integral-practic/id414308064?i=90319634
+    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bfb6583d1e4cf1cab831be2692cfe5a6
+inline_embed_id: 44208682trigintegralpractice71477089
 parent_uid: f914f1dccfe8c98b34b42bcf2aa6e075
+related_resources_text: ''
+short_url: trig-integral-practice
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents/trig-integral-practice
-short_url: trig-integral-practice
-inline_embed_id: 44208682trigintegralpractice71477089
-about_this_resource_text: ''
-related_resources_text: ''
+title: Trig Integral Practice
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='6940'>Hi,</span> <span
   m='7410'>welcome</span> <span m='7750'>back</span> <span m='7960'>to</span>
@@ -695,62 +750,7 @@ transcript: >-
   <span m='678530'>should</span> <span m='678700'>get.</span> <span
   m='680000'>I'll</span> <span m='680320'>stop</span> <span
   m='680490'>there.</span> </p>
-embedded_media:
-  - uid: 251229ee1b6ec744c46ea6d04241bb20
-    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: y_CA5btuoQk
-  - uid: 157ea6d4462f1ef1c242bcddf52bdd3b
-    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/y_CA5btuoQk/default.jpg'
-  - uid: 80a5f94a649d091a1714cd8944dc8c1c
-    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: y_CA5btuoQk
-  - uid: 2c228501f09f74f66011a2ed86250586
-    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
-    id: y_CA5btuoQk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents/trig-integral-practice/y_CA5btuoQk.srt
-  - uid: 9fed41f4d6308e422519b1a72d80d135
-    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
-    id: y_CA5btuoQk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents/trig-integral-practice/y_CA5btuoQk.pdf
-  - uid: e42d1d75ce6c94caec4922a8e962137b
-    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d6a52830f24458ad8d857034858d7fb2
-    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6aeddaae82b325427e76e83e4596bfd7
-    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_50_300k.mp4'
-  - uid: bfb6583d1e4cf1cab831be2692cfe5a6
-    parent_uid: 8007b2dbc807e0c2a8be05a5fa684aeb
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/trig-integral-practic/id414308064?i=90319634
+uid: 8007b2dbc807e0c2a8be05a5fa684aeb
 type: courses
 layout: video
 ---

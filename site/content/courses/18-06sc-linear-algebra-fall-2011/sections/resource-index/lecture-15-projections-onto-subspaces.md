@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 15: Projections onto Subspaces'
-uid: f8cf117943d24aa565112bf19a885993
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Y_Ac6KiQ1t0
+    parent_uid: f8cf117943d24aa565112bf19a885993
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5dee14fee49d1314770129c8b6f38c29
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Y_Ac6KiQ1t0/default.jpg'
+    parent_uid: f8cf117943d24aa565112bf19a885993
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 58e17873703db08a30384fccc26fc38b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: f8cf117943d24aa565112bf19a885993
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 63c9df4a58f5dad6a8468a7f4faee19c
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/15.mp4'
+    parent_uid: f8cf117943d24aa565112bf19a885993
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 27fb55b215f9cac335d4d2d8d6eabdd3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Y_Ac6KiQ1t0
+    parent_uid: f8cf117943d24aa565112bf19a885993
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a996cac111ed92180ead1e0c0c366ee4
+  - id: Y_Ac6KiQ1t0.srt
+    parent_uid: f8cf117943d24aa565112bf19a885993
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-15-projections-onto-subspaces/Y_Ac6KiQ1t0.srt
+    title: 3play caption file
+    type: null
+    uid: 24967603022beae5399687895fe38114
+  - id: Y_Ac6KiQ1t0.pdf
+    parent_uid: f8cf117943d24aa565112bf19a885993
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-15-projections-onto-subspaces/Y_Ac6KiQ1t0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3c8e3a4002df0dc851e316f175436682
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f8cf117943d24aa565112bf19a885993
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 09ddce3d54c90835027c3a3d88ba19de
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f8cf117943d24aa565112bf19a885993
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2726fb8cd5fe93819e54be2a58b71f51
+inline_embed_id: 12692665lecture15projectionsontosubspaces27618441
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: lecture-15-projections-onto-subspaces
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-15-projections-onto-subspaces
-short_url: lecture-15-projections-onto-subspaces
-inline_embed_id: 12692665lecture15projectionsontosubspaces27618441
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 15: Projections onto Subspaces'
 transcript: >-
   <p><span m="10240">OK,</span> <span m="10690">guys</span> <span
   m="10780">the</span> <span m="10840">--</span> <span m="10940">we're</span>
@@ -2628,61 +2682,7 @@ transcript: >-
   m="2925500">all</span> <span m="2926250">letters,</span> <span
   m="2927000">numbers</span> <span m="2927750">next</span> <span
   m="2928500">time.</span></p><p><span m="2929250">Thanks.</span></p>
-embedded_media:
-  - uid: 5dee14fee49d1314770129c8b6f38c29
-    parent_uid: f8cf117943d24aa565112bf19a885993
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Y_Ac6KiQ1t0
-  - uid: 58e17873703db08a30384fccc26fc38b
-    parent_uid: f8cf117943d24aa565112bf19a885993
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Y_Ac6KiQ1t0/default.jpg'
-  - uid: 63c9df4a58f5dad6a8468a7f4faee19c
-    parent_uid: f8cf117943d24aa565112bf19a885993
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 27fb55b215f9cac335d4d2d8d6eabdd3
-    parent_uid: f8cf117943d24aa565112bf19a885993
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/15.mp4'
-  - uid: a996cac111ed92180ead1e0c0c366ee4
-    parent_uid: f8cf117943d24aa565112bf19a885993
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Y_Ac6KiQ1t0
-  - uid: 24967603022beae5399687895fe38114
-    parent_uid: f8cf117943d24aa565112bf19a885993
-    id: Y_Ac6KiQ1t0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-15-projections-onto-subspaces/Y_Ac6KiQ1t0.srt
-  - uid: 3c8e3a4002df0dc851e316f175436682
-    parent_uid: f8cf117943d24aa565112bf19a885993
-    id: Y_Ac6KiQ1t0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-15-projections-onto-subspaces/Y_Ac6KiQ1t0.pdf
-  - uid: 09ddce3d54c90835027c3a3d88ba19de
-    parent_uid: f8cf117943d24aa565112bf19a885993
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2726fb8cd5fe93819e54be2a58b71f51
-    parent_uid: f8cf117943d24aa565112bf19a885993
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f8cf117943d24aa565112bf19a885993
 type: courses
 layout: video
 ---

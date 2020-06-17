@@ -1,13 +1,73 @@
 ---
-title: Bigger Number Game
-uid: 8d5f09f355cbee24d39aa64e3d954a55
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 8974b2eef8b21bd9836348d7df176570
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5f3928b1038fdd21e42c4495664eddcb
+  - id: Video-YouTube-Stream
+    media_location: BH4qlkYCLW0
+    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9c3baca5baac7cac0e9fae627827a677
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BH4qlkYCLW0/default.jpg'
+    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6d1fa5855fd4ed72ef6168c641b7081a
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: BH4qlkYCLW0
+    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c218667076ceb77474a7b65d7d8105ce
+  - id: BH4qlkYCLW0.srt
+    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3/bigger-number-game/BH4qlkYCLW0.srt
+    title: 3play caption file
+    type: null
+    uid: c3cdead4876769778589f6724262e35e
+  - id: BH4qlkYCLW0.pdf
+    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3/bigger-number-game/BH4qlkYCLW0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5b454b2ddd99448b378e608c026e47dd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3276cd50f402fd7f924a2de0ed5f6c31
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8173591a0ed30303a514461d45eace70
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_ranvarbigger_video_ipod.mp4
+    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: fa21667b7cf7e73fdd51a5911f5caf38
+inline_embed_id: 55636800biggernumbergame74503331
 parent_uid: 5d000a4e2a13daae80b1331e90d2f442
+related_resources_text: ''
+short_url: bigger-number-game
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3/bigger-number-game
-short_url: bigger-number-game
-inline_embed_id: 55636800biggernumbergame74503331
-about_this_resource_text: ''
-related_resources_text: ''
+title: Bigger Number Game
 transcript: >-
   <p><span m='1010'>ALBERT MEYER: Today's</span> <span m='1350'>topic</span>
   <span m='1620'>is</span> <span m='1890'>random</span> <span
@@ -950,67 +1010,7 @@ transcript: >-
   <span m='735020'>definition</span> <span m='735810'>of</span> <span
   m='736050'>a</span> <span m='736160'>random</span> <span
   m='736480'>variable?</span> </p>
-embedded_media:
-  - uid: 8974b2eef8b21bd9836348d7df176570
-    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 5f3928b1038fdd21e42c4495664eddcb
-    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 9c3baca5baac7cac0e9fae627827a677
-    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BH4qlkYCLW0
-  - uid: 6d1fa5855fd4ed72ef6168c641b7081a
-    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BH4qlkYCLW0/default.jpg'
-  - uid: c218667076ceb77474a7b65d7d8105ce
-    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BH4qlkYCLW0
-  - uid: c3cdead4876769778589f6724262e35e
-    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
-    id: BH4qlkYCLW0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3/bigger-number-game/BH4qlkYCLW0.srt
-  - uid: 5b454b2ddd99448b378e608c026e47dd
-    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
-    id: BH4qlkYCLW0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3/bigger-number-game/BH4qlkYCLW0.pdf
-  - uid: 3276cd50f402fd7f924a2de0ed5f6c31
-    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8173591a0ed30303a514461d45eace70
-    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: fa21667b7cf7e73fdd51a5911f5caf38
-    parent_uid: 8d5f09f355cbee24d39aa64e3d954a55
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_ranvarbigger_video_ipod.mp4
+uid: 8d5f09f355cbee24d39aa64e3d954a55
 type: courses
 layout: video
 ---

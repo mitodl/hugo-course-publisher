@@ -4,7 +4,8 @@ course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 course_title: 'Physics II: Electricity and Magnetism'
 course_image_url: >-
   https://open-learning-course-data-ci.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/80f23093924b68e94f4a80034902a572_8-02s07.jpg
-course_thumbnail_image_url: ''
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/8-02-physics-ii-electricity-and-magnetism-spring-2007/1d6fc7959e56d74cc18857cf20ab13dd_8-02s07-th.jpg
 course_image_alternate_text: Vizualization of a magnet levitating above a superconducting ring.
 course_image_caption_text: >-
   <p>Magnet Levitating Above A Superconducting Ring: The image shows a permanent

@@ -1,11 +1,4 @@
 ---
-title: In Which I Ramble about Day 3
-uid: 0c1bfe63dedb6068f8f82152bc254271
-parent_uid: f96632a88b4225f3f84e318abddd7856
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/in-which-i-ramble-about-day-3-1
-short_url: in-which-i-ramble-about-day-3-1
-inline_embed_id: 98259151inwhichirambleaboutday365675548
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   about Day 3.</p> <p>License: Creative Commons BY-NC-SA</p> <p>More information
   at <a href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: eIeQgvadWpw
+    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c05fa85a7ca00e8b2d0863ef5b02c5bc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/eIeQgvadWpw/default.jpg'
+    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1c0fc230de508a59e2b9d5d731648ebc
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: eIeQgvadWpw
+    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 77b417ae5c2bac4d105677c3b4f25fac
+  - id: eIeQgvadWpw.srt
+    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/in-which-i-ramble-about-day-3-1/eIeQgvadWpw.srt
+    title: 3play caption file
+    type: null
+    uid: 7bc7d90e576cb603fbcc8e99f7281830
+  - id: eIeQgvadWpw.pdf
+    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/in-which-i-ramble-about-day-3-1/eIeQgvadWpw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 51b493bba7c3d01814828ee81f87b532
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9548ad4373dd73ff7a91b5093dc1aa4b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ba667b55bb91fd615d47bfef4e878f9f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1a52277e78b02164f3b6654029a29871
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_NH_D03_Reflections_360p.mp4
+    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8a1b5478e12c100f94b6a897d894784e
+inline_embed_id: 98259151inwhichirambleaboutday365675548
+parent_uid: f96632a88b4225f3f84e318abddd7856
 related_resources_text: ''
+short_url: in-which-i-ramble-about-day-3-1
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/in-which-i-ramble-about-day-3-1
+title: In Which I Ramble about Day 3
 transcript: >-
   <p><span m="130">STUDENT: All right,</span> <span m="640">second</span> <span
   m="1020">day</span> <span m="1160">down.</span> <span m="2865">Wait,</span>
@@ -322,62 +377,7 @@ transcript: >-
   m="302120">and</span> <span m="302490">go</span> <span m="302600">to</span>
   <span m="302690">sleep.</span> <span m="303730">So,</span> <span
   m="303760">yay.</span></p>
-embedded_media:
-  - uid: c05fa85a7ca00e8b2d0863ef5b02c5bc
-    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: eIeQgvadWpw
-  - uid: 1c0fc230de508a59e2b9d5d731648ebc
-    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/eIeQgvadWpw/default.jpg'
-  - uid: 77b417ae5c2bac4d105677c3b4f25fac
-    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: eIeQgvadWpw
-  - uid: 7bc7d90e576cb603fbcc8e99f7281830
-    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
-    id: eIeQgvadWpw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/in-which-i-ramble-about-day-3-1/eIeQgvadWpw.srt
-  - uid: 51b493bba7c3d01814828ee81f87b532
-    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
-    id: eIeQgvadWpw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/in-which-i-ramble-about-day-3-1/eIeQgvadWpw.pdf
-  - uid: 9548ad4373dd73ff7a91b5093dc1aa4b
-    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ba667b55bb91fd615d47bfef4e878f9f
-    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1a52277e78b02164f3b6654029a29871
-    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 8a1b5478e12c100f94b6a897d894784e
-    parent_uid: 0c1bfe63dedb6068f8f82152bc254271
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_NH_D03_Reflections_360p.mp4
+uid: 0c1bfe63dedb6068f8f82152bc254271
 type: courses
 layout: video
 ---

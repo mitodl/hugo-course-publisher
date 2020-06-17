@@ -1,13 +1,67 @@
 ---
-title: DD.3.3 Gyroscopes 3 - Nutation and Total Angular Momentum
-uid: a3a3c3d0f93a4c717eb0730724334e15
+about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 5oLLnCGStUc
+    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f1bf198e13ddcca57548d7ac65600988
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/5oLLnCGStUc/default.jpg'
+    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 28b640d6ce6b591b7c3f359553ef3849
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 5oLLnCGStUc
+    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 01bbcac57ab5911d460b7a159de24fe6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a70cbb5167d8110712201ef3197764b8
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W12DD03_360p.mp4'
+    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0244b704a112f7e6059d8f2595c8de7d
+  - id: 5oLLnCGStUc.srt
+    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum/5oLLnCGStUc.srt
+    title: 3play caption file
+    type: null
+    uid: 76ac4bb99b0fac535b3fb7abb96e04f0
+  - id: 5oLLnCGStUc.pdf
+    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum/5oLLnCGStUc.pdf
+    title: 3play pdf file
+    type: null
+    uid: bf05a2580eca7a3a92d0a770e608af76
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9b029db989fc8b4b569a7d73e5eeae4e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6a05871f9d13819c4fa6bdda5ef4956b
+inline_embed_id: 59148563dd.3.3gyroscopes3nutationandtotalangularmomentum52598047
 parent_uid: 0e404fc32376af370fd1ea9139691b69
+related_resources_text: ''
+short_url: dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum
-short_url: dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum
-inline_embed_id: 59148563dd.3.3gyroscopes3nutationandtotalangularmomentum52598047
-about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
-related_resources_text: ''
+title: DD.3.3 Gyroscopes 3 - Nutation and Total Angular Momentum
 transcript: >-
   <p><span m='3500'>Now, we've been discussing steady uniform precession,</span>
   <span m='6530'>which is the simplest possible case of a phenomenon that</span>
@@ -200,61 +254,7 @@ transcript: >-
   we can see,</span> <span m='794470'>is roughly equivalent to saying that
   little omega is very</span> <span m='797410'>large compared to big
   omega.</span> </p>
-embedded_media:
-  - uid: f1bf198e13ddcca57548d7ac65600988
-    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 5oLLnCGStUc
-  - uid: 28b640d6ce6b591b7c3f359553ef3849
-    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/5oLLnCGStUc/default.jpg'
-  - uid: 01bbcac57ab5911d460b7a159de24fe6
-    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 5oLLnCGStUc
-  - uid: a70cbb5167d8110712201ef3197764b8
-    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 0244b704a112f7e6059d8f2595c8de7d
-    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W12DD03_360p.mp4'
-  - uid: 76ac4bb99b0fac535b3fb7abb96e04f0
-    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
-    id: 5oLLnCGStUc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum/5oLLnCGStUc.srt
-  - uid: bf05a2580eca7a3a92d0a770e608af76
-    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
-    id: 5oLLnCGStUc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum/5oLLnCGStUc.pdf
-  - uid: 9b029db989fc8b4b569a7d73e5eeae4e
-    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6a05871f9d13819c4fa6bdda5ef4956b
-    parent_uid: a3a3c3d0f93a4c717eb0730724334e15
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a3a3c3d0f93a4c717eb0730724334e15
 type: courses
 layout: video
 ---

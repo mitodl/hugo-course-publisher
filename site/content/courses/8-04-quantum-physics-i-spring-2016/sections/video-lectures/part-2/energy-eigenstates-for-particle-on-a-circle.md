@@ -1,13 +1,73 @@
 ---
-title: Energy eigenstates for particle on a circle
-uid: aad1cf20713c32957be4df11f469169d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: e0C1Bkcjrdc
+    parent_uid: aad1cf20713c32957be4df11f469169d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f9f42bbb00548da6030cb692d3e2bdb6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9_XRfMEOJK4/default.jpg'
+    parent_uid: aad1cf20713c32957be4df11f469169d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 61d174cf140f5f68ecebda92ff9f301a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: e0C1Bkcjrdc
+    parent_uid: aad1cf20713c32957be4df11f469169d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 52185e1bb01fc52af5a790fe7939195a
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: aad1cf20713c32957be4df11f469169d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9a3fb24730d52a00e3fbff583934dc64
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec11_s1_300k.mp4'
+    parent_uid: aad1cf20713c32957be4df11f469169d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f6a7819d1ce81b0ca3d96a8b9e778b29
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/e0C1Bkcjrdc/default.jpg'
+    parent_uid: aad1cf20713c32957be4df11f469169d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: dfbbc2a3942fb1c10233ba03fd65c835
+  - id: e0C1Bkcjrdc.srt
+    parent_uid: aad1cf20713c32957be4df11f469169d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/energy-eigenstates-for-particle-on-a-circle/e0C1Bkcjrdc.srt
+    title: 3play caption file
+    type: null
+    uid: 251be950169b1df6df011f3e077fc4a9
+  - id: e0C1Bkcjrdc.pdf
+    parent_uid: aad1cf20713c32957be4df11f469169d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/energy-eigenstates-for-particle-on-a-circle/e0C1Bkcjrdc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 27a501dbee96792c3f606f9694cf25cc
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: aad1cf20713c32957be4df11f469169d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4db4eb138dbeb7869e026929d14aae9e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: aad1cf20713c32957be4df11f469169d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c9287d84d66f8616c3d7deda7035c66a
+inline_embed_id: 7656958energyeigenstatesforparticleonacircle40366347
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: energy-eigenstates-for-particle-on-a-circle
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/energy-eigenstates-for-particle-on-a-circle
-short_url: energy-eigenstates-for-particle-on-a-circle
-inline_embed_id: 7656958energyeigenstatesforparticleonacircle40366347
-about_this_resource_text: ''
-related_resources_text: ''
+title: Energy eigenstates for particle on a circle
 transcript: >-
   <p><span m='420'>PROFESSOR:</span> <span m='600'>Last</span> <span
   m='780'>time</span> <span m='1560'>we</span> <span m='1710'>talked</span>
@@ -722,67 +782,7 @@ transcript: >-
   <span m='970330'>particle</span> <span m='970870'>in</span> <span
   m='971000'>a</span> <span m='971060'>finite</span> <span
   m='971800'>well.</span> </p>
-embedded_media:
-  - uid: f9f42bbb00548da6030cb692d3e2bdb6
-    parent_uid: aad1cf20713c32957be4df11f469169d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: e0C1Bkcjrdc
-  - uid: 61d174cf140f5f68ecebda92ff9f301a
-    parent_uid: aad1cf20713c32957be4df11f469169d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9_XRfMEOJK4/default.jpg'
-  - uid: 52185e1bb01fc52af5a790fe7939195a
-    parent_uid: aad1cf20713c32957be4df11f469169d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: e0C1Bkcjrdc
-  - uid: 9a3fb24730d52a00e3fbff583934dc64
-    parent_uid: aad1cf20713c32957be4df11f469169d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: f6a7819d1ce81b0ca3d96a8b9e778b29
-    parent_uid: aad1cf20713c32957be4df11f469169d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec11_s1_300k.mp4'
-  - uid: dfbbc2a3942fb1c10233ba03fd65c835
-    parent_uid: aad1cf20713c32957be4df11f469169d
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/e0C1Bkcjrdc/default.jpg'
-  - uid: 251be950169b1df6df011f3e077fc4a9
-    parent_uid: aad1cf20713c32957be4df11f469169d
-    id: e0C1Bkcjrdc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/energy-eigenstates-for-particle-on-a-circle/e0C1Bkcjrdc.srt
-  - uid: 27a501dbee96792c3f606f9694cf25cc
-    parent_uid: aad1cf20713c32957be4df11f469169d
-    id: e0C1Bkcjrdc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/energy-eigenstates-for-particle-on-a-circle/e0C1Bkcjrdc.pdf
-  - uid: 4db4eb138dbeb7869e026929d14aae9e
-    parent_uid: aad1cf20713c32957be4df11f469169d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c9287d84d66f8616c3d7deda7035c66a
-    parent_uid: aad1cf20713c32957be4df11f469169d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: aad1cf20713c32957be4df11f469169d
 type: courses
 layout: video
 ---

@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 7: Counting Sort, Radix Sort, Lower Bounds for Sorting'
-uid: c720373a9599a4cb1547793b17590b77
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-7-counting-sort-radix-sort-lower-bounds-for-sorting
-short_url: lecture-7-counting-sort-radix-sort-lower-bounds-for-sorting
-inline_embed_id: '66162329lecture7:countingsort,radixsort,lowerboundsforsorting77548325'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture starts by using the comparison
   model to prove lower bounds for searching and sorting, and then discusses
   counting sort and radix sort, which run in linear time.</p>
   <p><strong>Instructor:</strong> Erik Demaine</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Nz1KZXbghj8
+    parent_uid: c720373a9599a4cb1547793b17590b77
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c21927b263b7df3827938d9870a9de01
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Nz1KZXbghj8/default.jpg'
+    parent_uid: c720373a9599a4cb1547793b17590b77
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1ca31a5710ace62d0689492d1b7344c1
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-7-counting-sort-radix/id585700718?i=126127758
+    parent_uid: c720373a9599a4cb1547793b17590b77
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: be699f5498010b60ba791b5953c86277
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec07_300k.mp4'
+    parent_uid: c720373a9599a4cb1547793b17590b77
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 02fa9a11ee2e3e9d2dbf48f8c9997d14
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Nz1KZXbghj8
+    parent_uid: c720373a9599a4cb1547793b17590b77
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f110e7c788ab040653001805ee525f90
+  - id: Nz1KZXbghj8.srt
+    parent_uid: c720373a9599a4cb1547793b17590b77
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-7-counting-sort-radix-sort-lower-bounds-for-sorting/Nz1KZXbghj8.srt
+    title: 3play caption file
+    type: null
+    uid: 77440e3ce530640ddea4956b07ed4242
+  - id: Nz1KZXbghj8.pdf
+    parent_uid: c720373a9599a4cb1547793b17590b77
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-7-counting-sort-radix-sort-lower-bounds-for-sorting/Nz1KZXbghj8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7392afcfcced991eeb067c822e9ace04
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c720373a9599a4cb1547793b17590b77
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7ef2d6918f66239682f09a41b6757f17
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c720373a9599a4cb1547793b17590b77
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c8b6a07af45abdd8f3234b15b97ea3ec
+inline_embed_id: '66162329lecture7:countingsort,radixsort,lowerboundsforsorting77548325'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-7-counting-sort-radix-sort-lower-bounds-for-sorting
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-7-counting-sort-radix-sort-lower-bounds-for-sorting
+title: 'Lecture 7: Counting Sort, Radix Sort, Lower Bounds for Sorting'
 transcript: >-
   <p><span m='80'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -3294,62 +3349,7 @@ transcript: >-
   m='3125800'>could</span> <span m='3125940'>prove</span> <span
   m='3126140'>it</span> <span m='3126240'>by</span> <span m='3126370'>a</span>
   <span m='3126430'>simple</span> <span m='3126710'>induction.</span> </p>
-embedded_media:
-  - uid: c21927b263b7df3827938d9870a9de01
-    parent_uid: c720373a9599a4cb1547793b17590b77
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Nz1KZXbghj8
-  - uid: 1ca31a5710ace62d0689492d1b7344c1
-    parent_uid: c720373a9599a4cb1547793b17590b77
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Nz1KZXbghj8/default.jpg'
-  - uid: be699f5498010b60ba791b5953c86277
-    parent_uid: c720373a9599a4cb1547793b17590b77
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-7-counting-sort-radix/id585700718?i=126127758
-  - uid: 02fa9a11ee2e3e9d2dbf48f8c9997d14
-    parent_uid: c720373a9599a4cb1547793b17590b77
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec07_300k.mp4'
-  - uid: f110e7c788ab040653001805ee525f90
-    parent_uid: c720373a9599a4cb1547793b17590b77
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Nz1KZXbghj8
-  - uid: 77440e3ce530640ddea4956b07ed4242
-    parent_uid: c720373a9599a4cb1547793b17590b77
-    id: Nz1KZXbghj8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-7-counting-sort-radix-sort-lower-bounds-for-sorting/Nz1KZXbghj8.srt
-  - uid: 7392afcfcced991eeb067c822e9ace04
-    parent_uid: c720373a9599a4cb1547793b17590b77
-    id: Nz1KZXbghj8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-7-counting-sort-radix-sort-lower-bounds-for-sorting/Nz1KZXbghj8.pdf
-  - uid: 7ef2d6918f66239682f09a41b6757f17
-    parent_uid: c720373a9599a4cb1547793b17590b77
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c8b6a07af45abdd8f3234b15b97ea3ec
-    parent_uid: c720373a9599a4cb1547793b17590b77
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c720373a9599a4cb1547793b17590b77
 type: courses
 layout: video
 ---

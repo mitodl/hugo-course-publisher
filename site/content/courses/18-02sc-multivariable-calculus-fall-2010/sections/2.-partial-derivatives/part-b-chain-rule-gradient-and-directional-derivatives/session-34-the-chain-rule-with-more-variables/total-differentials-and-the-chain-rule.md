@@ -1,13 +1,68 @@
 ---
-title: Total Differentials and the Chain Rule
-uid: cd982bd6acc67a921218c92166931bed
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2bF6H_xu0ao
+    parent_uid: cd982bd6acc67a921218c92166931bed
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7db47d2310e92cd5df937061d84cedde
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2bF6H_xu0ao/default.jpg'
+    parent_uid: cd982bd6acc67a921218c92166931bed
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 91ce27949d8c5a5b4b9535f4a425fab2
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 2bF6H_xu0ao
+    parent_uid: cd982bd6acc67a921218c92166931bed
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f23e98b307be8664467b4fe548b4552f
+  - id: 2bF6H_xu0ao.srt
+    parent_uid: cd982bd6acc67a921218c92166931bed
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-34-the-chain-rule-with-more-variables/total-differentials-and-the-chain-rule/2bF6H_xu0ao.srt
+    title: 3play caption file
+    type: null
+    uid: a9f5cbea8ecf79ebc94aa2fbbb954367
+  - id: 2bF6H_xu0ao.pdf
+    parent_uid: cd982bd6acc67a921218c92166931bed
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-34-the-chain-rule-with-more-variables/total-differentials-and-the-chain-rule/2bF6H_xu0ao.pdf
+    title: 3play pdf file
+    type: null
+    uid: 41fb418647b78c00f20e15ac9376ead8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cd982bd6acc67a921218c92166931bed
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: da33327d05d5b25066681c088b5800c7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cd982bd6acc67a921218c92166931bed
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a2c0499f61f90676d67160d3c675bbfa
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/total-differentials-chain/id414355340?i=90322815
+    parent_uid: cd982bd6acc67a921218c92166931bed
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5fb91d5c33c0034bae910f35646e5a9b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_25_300k.mp4'
+    parent_uid: cd982bd6acc67a921218c92166931bed
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 849790921042022f23c52827244cc94c
+inline_embed_id: 84136388totaldifferentialsandthechainrule33443339
 parent_uid: dce75e0b062819f0f3d6a420fbe9b880
+related_resources_text: ''
+short_url: total-differentials-and-the-chain-rule
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-34-the-chain-rule-with-more-variables/total-differentials-and-the-chain-rule
-short_url: total-differentials-and-the-chain-rule
-inline_embed_id: 84136388totaldifferentialsandthechainrule33443339
-about_this_resource_text: ''
-related_resources_text: ''
+title: Total Differentials and the Chain Rule
 transcript: >-
   <p><span m='7680'>DAVID JORDAN: Hello,</span> <span m='7920'>and</span> <span
   m='8010'>welcome</span> <span m='8240'>back</span> <span m='8440'>to</span>
@@ -636,62 +691,7 @@ transcript: >-
   m='690960'>I</span> <span m='691140'>think</span> <span m='691400'>I'll</span>
   <span m='691510'>leave</span> <span m='691660'>it</span> <span
   m='691730'>at</span> <span m='691820'>that.</span> </p>
-embedded_media:
-  - uid: 7db47d2310e92cd5df937061d84cedde
-    parent_uid: cd982bd6acc67a921218c92166931bed
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2bF6H_xu0ao
-  - uid: 91ce27949d8c5a5b4b9535f4a425fab2
-    parent_uid: cd982bd6acc67a921218c92166931bed
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2bF6H_xu0ao/default.jpg'
-  - uid: f23e98b307be8664467b4fe548b4552f
-    parent_uid: cd982bd6acc67a921218c92166931bed
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2bF6H_xu0ao
-  - uid: a9f5cbea8ecf79ebc94aa2fbbb954367
-    parent_uid: cd982bd6acc67a921218c92166931bed
-    id: 2bF6H_xu0ao.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-34-the-chain-rule-with-more-variables/total-differentials-and-the-chain-rule/2bF6H_xu0ao.srt
-  - uid: 41fb418647b78c00f20e15ac9376ead8
-    parent_uid: cd982bd6acc67a921218c92166931bed
-    id: 2bF6H_xu0ao.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-34-the-chain-rule-with-more-variables/total-differentials-and-the-chain-rule/2bF6H_xu0ao.pdf
-  - uid: da33327d05d5b25066681c088b5800c7
-    parent_uid: cd982bd6acc67a921218c92166931bed
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a2c0499f61f90676d67160d3c675bbfa
-    parent_uid: cd982bd6acc67a921218c92166931bed
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5fb91d5c33c0034bae910f35646e5a9b
-    parent_uid: cd982bd6acc67a921218c92166931bed
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/total-differentials-chain/id414355340?i=90322815
-  - uid: 849790921042022f23c52827244cc94c
-    parent_uid: cd982bd6acc67a921218c92166931bed
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_25_300k.mp4'
+uid: cd982bd6acc67a921218c92166931bed
 type: courses
 layout: video
 ---

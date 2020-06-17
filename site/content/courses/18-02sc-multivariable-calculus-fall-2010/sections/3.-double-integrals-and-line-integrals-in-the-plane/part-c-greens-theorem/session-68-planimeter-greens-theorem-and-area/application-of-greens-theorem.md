@@ -1,13 +1,68 @@
 ---
-title: Application of Green's Theorem
-uid: b970bee1d208f3cbbead398aa1214213
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: grns_GNYWe4
+    parent_uid: b970bee1d208f3cbbead398aa1214213
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b0e3c51c26e61e0c8a7efbfce3a24444
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/grns_GNYWe4/default.jpg'
+    parent_uid: b970bee1d208f3cbbead398aa1214213
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0ece58b36532e8a23cc8264b6003d3c9
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_46_300k.mp4'
+    parent_uid: b970bee1d208f3cbbead398aa1214213
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 05d016f16b7b8e4cd30b93b5ae1e41ce
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/application-greens-theorem/id414355340?i=90322867
+    parent_uid: b970bee1d208f3cbbead398aa1214213
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 11412d187126cddb861f05e2be7b9afa
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: grns_GNYWe4
+    parent_uid: b970bee1d208f3cbbead398aa1214213
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2f540092ea408909f9fd1113a043c0fe
+  - id: grns_GNYWe4.srt
+    parent_uid: b970bee1d208f3cbbead398aa1214213
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-68-planimeter-greens-theorem-and-area/application-of-greens-theorem/grns_GNYWe4.srt
+    title: 3play caption file
+    type: null
+    uid: ce0d58c3cb2cc4d237d389be1080d34f
+  - id: grns_GNYWe4.pdf
+    parent_uid: b970bee1d208f3cbbead398aa1214213
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-68-planimeter-greens-theorem-and-area/application-of-greens-theorem/grns_GNYWe4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9722991405fb913efcdd7efdcaeb5ca5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b970bee1d208f3cbbead398aa1214213
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 058f18c6a26ed415850a783563442baf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b970bee1d208f3cbbead398aa1214213
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a3668a459af15b5e6e3f4f7ed992a810
+inline_embed_id: 58069230applicationofgreen'stheorem52193851
 parent_uid: fce780d8a145fae3fe0d349fbce595cf
+related_resources_text: ''
+short_url: application-of-greens-theorem
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-68-planimeter-greens-theorem-and-area/application-of-greens-theorem
-short_url: application-of-greens-theorem
-inline_embed_id: 58069230applicationofgreen'stheorem52193851
-about_this_resource_text: ''
-related_resources_text: ''
+title: Application of Green's Theorem
 transcript: >-
   <p><span m='7230'>Welcome</span> <span m='7630'>back</span> <span
   m='7830'>to</span> <span m='7910'>recitation.</span> <span m='8790'>In</span>
@@ -508,62 +563,7 @@ transcript: >-
   m='432420'>So</span> <span m='432530'>that's</span> <span
   m='432720'>where</span> <span m='432810'>I'll</span> <span
   m='432940'>stop.</span> </p>
-embedded_media:
-  - uid: b0e3c51c26e61e0c8a7efbfce3a24444
-    parent_uid: b970bee1d208f3cbbead398aa1214213
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: grns_GNYWe4
-  - uid: 0ece58b36532e8a23cc8264b6003d3c9
-    parent_uid: b970bee1d208f3cbbead398aa1214213
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/grns_GNYWe4/default.jpg'
-  - uid: 05d016f16b7b8e4cd30b93b5ae1e41ce
-    parent_uid: b970bee1d208f3cbbead398aa1214213
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_46_300k.mp4'
-  - uid: 11412d187126cddb861f05e2be7b9afa
-    parent_uid: b970bee1d208f3cbbead398aa1214213
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/application-greens-theorem/id414355340?i=90322867
-  - uid: 2f540092ea408909f9fd1113a043c0fe
-    parent_uid: b970bee1d208f3cbbead398aa1214213
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: grns_GNYWe4
-  - uid: ce0d58c3cb2cc4d237d389be1080d34f
-    parent_uid: b970bee1d208f3cbbead398aa1214213
-    id: grns_GNYWe4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-68-planimeter-greens-theorem-and-area/application-of-greens-theorem/grns_GNYWe4.srt
-  - uid: 9722991405fb913efcdd7efdcaeb5ca5
-    parent_uid: b970bee1d208f3cbbead398aa1214213
-    id: grns_GNYWe4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-68-planimeter-greens-theorem-and-area/application-of-greens-theorem/grns_GNYWe4.pdf
-  - uid: 058f18c6a26ed415850a783563442baf
-    parent_uid: b970bee1d208f3cbbead398aa1214213
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a3668a459af15b5e6e3f4f7ed992a810
-    parent_uid: b970bee1d208f3cbbead398aa1214213
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b970bee1d208f3cbbead398aa1214213
 type: courses
 layout: video
 ---

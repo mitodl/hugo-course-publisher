@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Properties of Determinants'
-uid: e40658b5c7696793780f1fa8e07ac8e7
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 55AoWKZZtww
+    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5f278b2524187ae30a5d8d1a2a414821
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: 55AoWKZZtww
+    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1b5ee8eaaed08d12996db1279c96513f
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/properties-of-determinants/id488155309?i=108454346
+    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e2ef31a3579c82958332b3790b3248d7
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110531_A2_300k.mp4
+    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 54839dcb15cbca0d5dd5066c0cd105f0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/55AoWKZZtww/default.jpg'
+    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: dd977e8b1b6a7a0f0be9105b6b9c6098
+  - id: 55AoWKZZtww.srt
+    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/properties-of-determinants/problem-solving-properties-of-determinants/55AoWKZZtww.srt
+    title: 3play caption file
+    type: null
+    uid: 14ab267ed2798462d8d74aab31f853ee
+  - id: 55AoWKZZtww.pdf
+    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/properties-of-determinants/problem-solving-properties-of-determinants/55AoWKZZtww.pdf
+    title: 3play pdf file
+    type: null
+    uid: 746b62a30e41b19c396700071b8786ce
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1c89228e057d66678f4afca3ceebe1ee
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 902cd1b3c77a1d401a519c583b4846ed
+inline_embed_id: '43683953problemsolving:propertiesofdeterminants25587540'
 parent_uid: db45d276fad6eb49f42e287aaa9e22b6
+related_resources_text: ''
+short_url: problem-solving-properties-of-determinants
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/properties-of-determinants/problem-solving-properties-of-determinants
-short_url: problem-solving-properties-of-determinants
-inline_embed_id: '43683953problemsolving:propertiesofdeterminants25587540'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Properties of Determinants'
 transcript: >-
   <p><span m='6910'>ANA RITA PIRES: Hi.</span> <span m='7530'>Welcome</span>
   <span m='7840'>back</span> <span m='8050'>to</span> <span
@@ -543,63 +599,7 @@ transcript: >-
   m='592640'>done</span> <span m='592830'>for</span> <span
   m='592960'>today.</span> <span m='593500'>Thank</span> <span
   m='593730'>you.</span> </p>
-embedded_media:
-  - uid: 5f278b2524187ae30a5d8d1a2a414821
-    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 55AoWKZZtww
-  - uid: 1b5ee8eaaed08d12996db1279c96513f
-    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 55AoWKZZtww
-  - uid: e2ef31a3579c82958332b3790b3248d7
-    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/properties-of-determinants/id488155309?i=108454346
-  - uid: 54839dcb15cbca0d5dd5066c0cd105f0
-    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110531_A2_300k.mp4
-  - uid: dd977e8b1b6a7a0f0be9105b6b9c6098
-    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/55AoWKZZtww/default.jpg'
-  - uid: 14ab267ed2798462d8d74aab31f853ee
-    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
-    id: 55AoWKZZtww.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/properties-of-determinants/problem-solving-properties-of-determinants/55AoWKZZtww.srt
-  - uid: 746b62a30e41b19c396700071b8786ce
-    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
-    id: 55AoWKZZtww.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/properties-of-determinants/problem-solving-properties-of-determinants/55AoWKZZtww.pdf
-  - uid: 1c89228e057d66678f4afca3ceebe1ee
-    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 902cd1b3c77a1d401a519c583b4846ed
-    parent_uid: e40658b5c7696793780f1fa8e07ac8e7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e40658b5c7696793780f1fa8e07ac8e7
 type: courses
 layout: video
 ---

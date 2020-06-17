@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Area of Part of a Circle'
-uid: 6f1d70138360e6195459de4f5f3af331
-parent_uid: a38f4a8dd90b153bd08f5ba8ba270970
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-70-preview-of-trig-substitution-and-polar-coordinates/lip-1-area-of-part-of-a-circle
-short_url: lip-1-area-of-part-of-a-circle
-inline_embed_id: '22809492lip1:areaofpartofacircle93773022'
 about_this_resource_text: >-
   <p>&raquo; <a target="_blank"
   href="./resolveuid/28c569c5d8e79b7e1a2be1755de42d25">Accompanying Notes
   (PDF)</a></p><p class="scholar_medsm">From Lecture 27 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Bv9kVDcj7yo
+    parent_uid: 6f1d70138360e6195459de4f5f3af331
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 95c4c8549bf44c32cb98f32807c7f688
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Bv9kVDcj7yo/default.jpg'
+    parent_uid: 6f1d70138360e6195459de4f5f3af331
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: eb909d84d77980be7644569c9a30f8e7
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: Bv9kVDcj7yo
+    parent_uid: 6f1d70138360e6195459de4f5f3af331
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3059b0c18f4d3280d95669beb3c802c5
+  - id: Bv9kVDcj7yo.srt
+    parent_uid: 6f1d70138360e6195459de4f5f3af331
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-70-preview-of-trig-substitution-and-polar-coordinates/lip-1-area-of-part-of-a-circle/Bv9kVDcj7yo.srt
+    title: 3play caption file
+    type: null
+    uid: fb5ba47473baa51804ed3c9723103de6
+  - id: Bv9kVDcj7yo.pdf
+    parent_uid: 6f1d70138360e6195459de4f5f3af331
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-70-preview-of-trig-substitution-and-polar-coordinates/lip-1-area-of-part-of-a-circle/Bv9kVDcj7yo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8300bcd39662623e36face67d7110f51
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6f1d70138360e6195459de4f5f3af331
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 905c0d4a5672967abc2ad92987e968c4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6f1d70138360e6195459de4f5f3af331
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d1ebb4696473b89572f69798f5d211ee
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec27_300k.mp4'
+    parent_uid: 6f1d70138360e6195459de4f5f3af331
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 343ca855a99c9f7c35bd0b24aadfc0ca
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 6f1d70138360e6195459de4f5f3af331
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a25c9fa2ba393b65c31f92c4c30bb5a2
+inline_embed_id: '22809492lip1:areaofpartofacircle93773022'
+parent_uid: a38f4a8dd90b153bd08f5ba8ba270970
 related_resources_text: ''
+short_url: lip-1-area-of-part-of-a-circle
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-70-preview-of-trig-substitution-and-polar-coordinates/lip-1-area-of-part-of-a-circle
+title: 'Clip 1: Area of Part of a Circle'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following</span> <span m='530'>content
   is provided</span> <span m='1900'>under a Creative</span> <span
@@ -2344,61 +2398,7 @@ transcript: >-
   m='2801790'>us</span> <span m='2801900'>to</span> <span
   m='2802020'>quit</span> <span m='2802220'>for</span> <span
   m='2802370'>today.</span> </p>
-embedded_media:
-  - uid: 95c4c8549bf44c32cb98f32807c7f688
-    parent_uid: 6f1d70138360e6195459de4f5f3af331
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Bv9kVDcj7yo
-  - uid: eb909d84d77980be7644569c9a30f8e7
-    parent_uid: 6f1d70138360e6195459de4f5f3af331
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Bv9kVDcj7yo/default.jpg'
-  - uid: 3059b0c18f4d3280d95669beb3c802c5
-    parent_uid: 6f1d70138360e6195459de4f5f3af331
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Bv9kVDcj7yo
-  - uid: fb5ba47473baa51804ed3c9723103de6
-    parent_uid: 6f1d70138360e6195459de4f5f3af331
-    id: Bv9kVDcj7yo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-70-preview-of-trig-substitution-and-polar-coordinates/lip-1-area-of-part-of-a-circle/Bv9kVDcj7yo.srt
-  - uid: 8300bcd39662623e36face67d7110f51
-    parent_uid: 6f1d70138360e6195459de4f5f3af331
-    id: Bv9kVDcj7yo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-70-preview-of-trig-substitution-and-polar-coordinates/lip-1-area-of-part-of-a-circle/Bv9kVDcj7yo.pdf
-  - uid: 905c0d4a5672967abc2ad92987e968c4
-    parent_uid: 6f1d70138360e6195459de4f5f3af331
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d1ebb4696473b89572f69798f5d211ee
-    parent_uid: 6f1d70138360e6195459de4f5f3af331
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 343ca855a99c9f7c35bd0b24aadfc0ca
-    parent_uid: 6f1d70138360e6195459de4f5f3af331
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec27_300k.mp4'
-  - uid: a25c9fa2ba393b65c31f92c4c30bb5a2
-    parent_uid: 6f1d70138360e6195459de4f5f3af331
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 6f1d70138360e6195459de4f5f3af331
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: Half-width and time delay
-uid: 2f5f168f77bed167d2438e284eedad8d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: OQMczXtDnpU
+    parent_uid: 2f5f168f77bed167d2438e284eedad8d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 64ab05e953bdfc2a430cdebdb77b01ac
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/OQMczXtDnpU/default.jpg'
+    parent_uid: 2f5f168f77bed167d2438e284eedad8d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a8f4f333d7a19b035059f195d1e2482e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: OQMczXtDnpU
+    parent_uid: 2f5f168f77bed167d2438e284eedad8d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3dab8b0d297aeb8b9db4e14fd14a79b5
+  - id: OQMczXtDnpU.srt
+    parent_uid: 2f5f168f77bed167d2438e284eedad8d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/half-width-and-time-delay/OQMczXtDnpU.srt
+    title: 3play caption file
+    type: null
+    uid: 9038696a0173ddb999ca90fc1ace7cff
+  - id: OQMczXtDnpU.pdf
+    parent_uid: 2f5f168f77bed167d2438e284eedad8d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/half-width-and-time-delay/OQMczXtDnpU.pdf
+    title: 3play pdf file
+    type: null
+    uid: f2a720e4b908a53806e2dd43bb9945c1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2f5f168f77bed167d2438e284eedad8d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c13603b653a5ad5eb17bf5d433277403
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2f5f168f77bed167d2438e284eedad8d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 07b3079e99b082397fcfd9cf20a37afc
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 2f5f168f77bed167d2438e284eedad8d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a3649baefbd7ffd79cf7934f405656d5
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec19_s4_300k.mp4'
+    parent_uid: 2f5f168f77bed167d2438e284eedad8d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: adc12cc06396adecde1eb59ce19e0a18
+inline_embed_id: 73900799halfwidthandtimedelay52367408
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: half-width-and-time-delay
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/half-width-and-time-delay
-short_url: half-width-and-time-delay
-inline_embed_id: 73900799halfwidthandtimedelay52367408
-about_this_resource_text: ''
-related_resources_text: ''
+title: Half-width and time delay
 transcript: >-
   <p><span m='110'>PROFESSOR:</span> <span m='185'>What</span> <span
   m='260'>is</span> <span m='725'>gamma?</span> <span m='1600'>Well,</span>
@@ -355,61 +409,7 @@ transcript: >-
   m='494280'>what's</span> <span m='494890'>happening</span> <span
   m='495230'>near</span> <span m='495570'>a</span> <span
   m='496050'>resonance.</span> </p>
-embedded_media:
-  - uid: 64ab05e953bdfc2a430cdebdb77b01ac
-    parent_uid: 2f5f168f77bed167d2438e284eedad8d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: OQMczXtDnpU
-  - uid: a8f4f333d7a19b035059f195d1e2482e
-    parent_uid: 2f5f168f77bed167d2438e284eedad8d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/OQMczXtDnpU/default.jpg'
-  - uid: 3dab8b0d297aeb8b9db4e14fd14a79b5
-    parent_uid: 2f5f168f77bed167d2438e284eedad8d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: OQMczXtDnpU
-  - uid: 9038696a0173ddb999ca90fc1ace7cff
-    parent_uid: 2f5f168f77bed167d2438e284eedad8d
-    id: OQMczXtDnpU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/half-width-and-time-delay/OQMczXtDnpU.srt
-  - uid: f2a720e4b908a53806e2dd43bb9945c1
-    parent_uid: 2f5f168f77bed167d2438e284eedad8d
-    id: OQMczXtDnpU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/half-width-and-time-delay/OQMczXtDnpU.pdf
-  - uid: c13603b653a5ad5eb17bf5d433277403
-    parent_uid: 2f5f168f77bed167d2438e284eedad8d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 07b3079e99b082397fcfd9cf20a37afc
-    parent_uid: 2f5f168f77bed167d2438e284eedad8d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a3649baefbd7ffd79cf7934f405656d5
-    parent_uid: 2f5f168f77bed167d2438e284eedad8d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: adc12cc06396adecde1eb59ce19e0a18
-    parent_uid: 2f5f168f77bed167d2438e284eedad8d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec19_s4_300k.mp4'
+uid: 2f5f168f77bed167d2438e284eedad8d
 type: courses
 layout: video
 ---

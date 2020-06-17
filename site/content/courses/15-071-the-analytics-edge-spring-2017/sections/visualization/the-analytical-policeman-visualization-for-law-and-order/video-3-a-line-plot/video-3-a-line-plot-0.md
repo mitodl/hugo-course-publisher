@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: A Line Plot'
-uid: 336eebaee5e68533c8be4f7ffd6a66c0
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 4MhGi6JSGbA
+    parent_uid: 336eebaee5e68533c8be4f7ffd6a66c0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 049ec08b0568afcffc7166a9ed4ff778
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 4MhGi6JSGbA
+    parent_uid: 336eebaee5e68533c8be4f7ffd6a66c0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 14aaae13b2c5471809bb3bf47b4a7241
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/4MhGi6JSGbA/default.jpg'
+    parent_uid: 336eebaee5e68533c8be4f7ffd6a66c0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 418c76374701a7331868272d71ed8ae2
+  - id: 4MhGi6JSGbA.srt
+    parent_uid: 336eebaee5e68533c8be4f7ffd6a66c0
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-3-a-line-plot/video-3-a-line-plot-0/4MhGi6JSGbA.srt
+    title: 3play caption file
+    type: null
+    uid: a6f3c24e9c9f4beffa3c6fd868e889ce
+  - id: 4MhGi6JSGbA.pdf
+    parent_uid: 336eebaee5e68533c8be4f7ffd6a66c0
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-3-a-line-plot/video-3-a-line-plot-0/4MhGi6JSGbA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0489fb1c91ccfcb9c2c6cb6abf7abb97
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 336eebaee5e68533c8be4f7ffd6a66c0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3a0c12523344e819cd9703c010533acb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 336eebaee5e68533c8be4f7ffd6a66c0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 418a7dc33928223bf8e9b8406ac322ec
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.3.05_300k.mp4
+    parent_uid: 336eebaee5e68533c8be4f7ffd6a66c0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d853341aefb51e83034e6a2478274c00
+inline_embed_id: 63268512video3alineplot13862092
 parent_uid: 1bd0d7e9c5ce0101823b0faa796ad873
+related_resources_text: ''
+short_url: video-3-a-line-plot-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-3-a-line-plot/video-3-a-line-plot-0
-short_url: video-3-a-line-plot-0
-inline_embed_id: 63268512video3alineplot13862092
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: A Line Plot'
 transcript: >-
   <p><span m='4490'>In</span> <span m='4840'>this</span> <span
   m='5190'>video,</span> <span m='5540'>we'll</span> <span
@@ -453,56 +502,7 @@ transcript: >-
   m='485662'>and</span> <span m='486080'>then</span> <span
   m='486498'>create</span> <span m='486916'>a</span> <span
   m='487334'>heat</span> <span m='487752'>map.</span> </p>
-embedded_media:
-  - uid: 049ec08b0568afcffc7166a9ed4ff778
-    parent_uid: 336eebaee5e68533c8be4f7ffd6a66c0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4MhGi6JSGbA
-  - uid: 14aaae13b2c5471809bb3bf47b4a7241
-    parent_uid: 336eebaee5e68533c8be4f7ffd6a66c0
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4MhGi6JSGbA
-  - uid: 418c76374701a7331868272d71ed8ae2
-    parent_uid: 336eebaee5e68533c8be4f7ffd6a66c0
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4MhGi6JSGbA/default.jpg'
-  - uid: a6f3c24e9c9f4beffa3c6fd868e889ce
-    parent_uid: 336eebaee5e68533c8be4f7ffd6a66c0
-    id: 4MhGi6JSGbA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-3-a-line-plot/video-3-a-line-plot-0/4MhGi6JSGbA.srt
-  - uid: 0489fb1c91ccfcb9c2c6cb6abf7abb97
-    parent_uid: 336eebaee5e68533c8be4f7ffd6a66c0
-    id: 4MhGi6JSGbA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-3-a-line-plot/video-3-a-line-plot-0/4MhGi6JSGbA.pdf
-  - uid: 3a0c12523344e819cd9703c010533acb
-    parent_uid: 336eebaee5e68533c8be4f7ffd6a66c0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 418a7dc33928223bf8e9b8406ac322ec
-    parent_uid: 336eebaee5e68533c8be4f7ffd6a66c0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d853341aefb51e83034e6a2478274c00
-    parent_uid: 336eebaee5e68533c8be4f7ffd6a66c0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.3.05_300k.mp4
+uid: 336eebaee5e68533c8be4f7ffd6a66c0
 type: courses
 layout: video
 ---

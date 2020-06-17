@@ -1,13 +1,68 @@
 ---
-title: Integral of xn e(-x)
-uid: dfeaa5a7afe3d95febeb4615cd6efe59
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: apzEJCsycVM
+    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f085bf827894420b28d522b22309c108
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/apzEJCsycVM/default.jpg'
+    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9cec7c7897848d1ec6f6098deea89a68
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/integral-of-x-n-e-x/id414308064?i=90320221
+    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 726a2ce559b580186c6b5b69bcc49a4a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_71_300k.mp4'
+    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7021a85ff54e0c085ecc5f5cc64076e3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: apzEJCsycVM
+    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6149444ad33fd2700cc27f3f16331ba6
+  - id: apzEJCsycVM.srt
+    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-92-integral-comparison/integral-of-xn-e-x/apzEJCsycVM.srt
+    title: 3play caption file
+    type: null
+    uid: 9d961941279b3b772898524bad09a465
+  - id: apzEJCsycVM.pdf
+    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-92-integral-comparison/integral-of-xn-e-x/apzEJCsycVM.pdf
+    title: 3play pdf file
+    type: null
+    uid: f6a35623055206bd54a8c6d3f830cd5a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: aba444e33797b77bbdbec083c5928e16
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 106f75456736443467056d391852d185
+inline_embed_id: 33436301integralofxne(-x)82592437
 parent_uid: ed231e9c56356bb1e18c555d00f08398
+related_resources_text: ''
+short_url: integral-of-xn-e-x
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-92-integral-comparison/integral-of-xn-e-x
-short_url: integral-of-xn-e-x
-inline_embed_id: 33436301integralofxne(-x)82592437
-about_this_resource_text: ''
-related_resources_text: ''
+title: Integral of xn e(-x)
 transcript: >-
   <p><span m='6910'>Welcome</span> <span m='7270'>back</span> <span
   m='7440'>to</span> <span m='7530'>recitation.</span> <span m='8910'>In</span>
@@ -844,62 +899,7 @@ transcript: >-
   m='640440'>problems.</span> </p><p><span m='641560'>OK.</span> <span
   m='641760'>That's</span> <span m='641860'>where I'll</span> <span
   m='642150'>stop.</span> </p>
-embedded_media:
-  - uid: f085bf827894420b28d522b22309c108
-    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: apzEJCsycVM
-  - uid: 9cec7c7897848d1ec6f6098deea89a68
-    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/apzEJCsycVM/default.jpg'
-  - uid: 726a2ce559b580186c6b5b69bcc49a4a
-    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/integral-of-x-n-e-x/id414308064?i=90320221
-  - uid: 7021a85ff54e0c085ecc5f5cc64076e3
-    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_71_300k.mp4'
-  - uid: 6149444ad33fd2700cc27f3f16331ba6
-    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: apzEJCsycVM
-  - uid: 9d961941279b3b772898524bad09a465
-    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
-    id: apzEJCsycVM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-92-integral-comparison/integral-of-xn-e-x/apzEJCsycVM.srt
-  - uid: f6a35623055206bd54a8c6d3f830cd5a
-    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
-    id: apzEJCsycVM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-92-integral-comparison/integral-of-xn-e-x/apzEJCsycVM.pdf
-  - uid: aba444e33797b77bbdbec083c5928e16
-    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 106f75456736443467056d391852d185
-    parent_uid: dfeaa5a7afe3d95febeb4615cd6efe59
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: dfeaa5a7afe3d95febeb4615cd6efe59
 type: courses
 layout: video
 ---

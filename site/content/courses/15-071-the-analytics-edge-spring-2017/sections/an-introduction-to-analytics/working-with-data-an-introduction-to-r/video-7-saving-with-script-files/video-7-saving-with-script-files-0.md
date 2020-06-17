@@ -1,13 +1,62 @@
 ---
-title: 'Video 7: Saving with Script Files'
-uid: 6e4647abc18fd7012bbb26dc07ed1fb0
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: dDHsLmwd9No
+    parent_uid: 6e4647abc18fd7012bbb26dc07ed1fb0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c238ac129e78628bc8b9b338240c7c33
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: dDHsLmwd9No
+    parent_uid: 6e4647abc18fd7012bbb26dc07ed1fb0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 60bc4eb8871718664f9031744397b40f
+  - id: dDHsLmwd9No.srt
+    parent_uid: 6e4647abc18fd7012bbb26dc07ed1fb0
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-7-saving-with-script-files/video-7-saving-with-script-files-0/dDHsLmwd9No.srt
+    title: 3play caption file
+    type: null
+    uid: f03bc135d6d62a0c32ffcc0d41269181
+  - id: dDHsLmwd9No.pdf
+    parent_uid: 6e4647abc18fd7012bbb26dc07ed1fb0
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-7-saving-with-script-files/video-7-saving-with-script-files-0/dDHsLmwd9No.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8b1c0cb88f0f2d0891c8dfb54ea94777
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6e4647abc18fd7012bbb26dc07ed1fb0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cac1fa288d8d203692fa5e2998219b24
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6e4647abc18fd7012bbb26dc07ed1fb0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d3baff1c38ac05cbe4752eb4f01ce67b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/dDHsLmwd9No/default.jpg'
+    parent_uid: 6e4647abc18fd7012bbb26dc07ed1fb0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b1b54b4c861f228fee7cd80e43dd686d
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.3.14_300k.mp4
+    parent_uid: 6e4647abc18fd7012bbb26dc07ed1fb0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9ca8371c1faeb9ea54c2ec7435037397
+inline_embed_id: 81140519video7savingwithscriptfiles53913053
 parent_uid: 5b9fe301be29cb46df9fedbbf748fc62
+related_resources_text: ''
+short_url: video-7-saving-with-script-files-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-7-saving-with-script-files/video-7-saving-with-script-files-0
-short_url: video-7-saving-with-script-files-0
-inline_embed_id: 81140519video7savingwithscriptfiles53913053
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 7: Saving with Script Files'
 transcript: >-
   <p><span m='4490'>After</span> <span m='4798'>working</span> <span
   m='5107'>in</span> <span m='5415'>R,</span> <span m='5724'>you</span> <span
@@ -192,56 +241,7 @@ transcript: >-
   m='163493'>on</span> <span m='164066'>an</span> <span
   m='164640'>interesting</span> <span m='165213'>data</span> <span
   m='165786'>set.</span> </p>
-embedded_media:
-  - uid: c238ac129e78628bc8b9b338240c7c33
-    parent_uid: 6e4647abc18fd7012bbb26dc07ed1fb0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: dDHsLmwd9No
-  - uid: 60bc4eb8871718664f9031744397b40f
-    parent_uid: 6e4647abc18fd7012bbb26dc07ed1fb0
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: dDHsLmwd9No
-  - uid: f03bc135d6d62a0c32ffcc0d41269181
-    parent_uid: 6e4647abc18fd7012bbb26dc07ed1fb0
-    id: dDHsLmwd9No.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-7-saving-with-script-files/video-7-saving-with-script-files-0/dDHsLmwd9No.srt
-  - uid: 8b1c0cb88f0f2d0891c8dfb54ea94777
-    parent_uid: 6e4647abc18fd7012bbb26dc07ed1fb0
-    id: dDHsLmwd9No.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-7-saving-with-script-files/video-7-saving-with-script-files-0/dDHsLmwd9No.pdf
-  - uid: cac1fa288d8d203692fa5e2998219b24
-    parent_uid: 6e4647abc18fd7012bbb26dc07ed1fb0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d3baff1c38ac05cbe4752eb4f01ce67b
-    parent_uid: 6e4647abc18fd7012bbb26dc07ed1fb0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b1b54b4c861f228fee7cd80e43dd686d
-    parent_uid: 6e4647abc18fd7012bbb26dc07ed1fb0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/dDHsLmwd9No/default.jpg'
-  - uid: 9ca8371c1faeb9ea54c2ec7435037397
-    parent_uid: 6e4647abc18fd7012bbb26dc07ed1fb0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.3.14_300k.mp4
+uid: 6e4647abc18fd7012bbb26dc07ed1fb0
 type: courses
 layout: video
 ---

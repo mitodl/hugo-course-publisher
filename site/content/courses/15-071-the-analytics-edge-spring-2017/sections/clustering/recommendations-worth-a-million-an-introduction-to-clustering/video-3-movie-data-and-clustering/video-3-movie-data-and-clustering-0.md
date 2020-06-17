@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: Movie Data and Clustering'
-uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: xEjZjz7oxbI
+    parent_uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e3b7eb9214404d1a8492d3f2e6935bb6
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: xEjZjz7oxbI
+    parent_uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e5e5dc2dc5717959b817afdd0ab8bdae
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/xEjZjz7oxbI/default.jpg'
+    parent_uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b18f5aebad647b34df2d9d4ed1d98d00
+  - id: xEjZjz7oxbI.srt
+    parent_uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-3-movie-data-and-clustering/video-3-movie-data-and-clustering-0/xEjZjz7oxbI.srt
+    title: 3play caption file
+    type: null
+    uid: 5d8402d18715a0afc6e0fdb757d21a9c
+  - id: xEjZjz7oxbI.pdf
+    parent_uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-3-movie-data-and-clustering/video-3-movie-data-and-clustering-0/xEjZjz7oxbI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0989260066a81c5bb650319d529b1d91
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9ca3e37e5fa5774d55ca2c984e07151e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7adcd9a4145bce274856113c97a8136d
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.2.05_300k.mp4
+    parent_uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8f98ef17b5178cd45e656a6dffce7d15
+inline_embed_id: 19087978video3moviedataandclustering71895431
 parent_uid: 68624ffad0f7a8c01f23c4a6a20422bb
+related_resources_text: ''
+short_url: video-3-movie-data-and-clustering-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-3-movie-data-and-clustering/video-3-movie-data-and-clustering-0
-short_url: video-3-movie-data-and-clustering-0
-inline_embed_id: 19087978video3moviedataandclustering71895431
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: Movie Data and Clustering'
 transcript: >-
   <p><span m='9570'>In</span> <span m='9967'>this</span> <span
   m='10365'>lecture,</span> <span m='10763'>we'll</span> <span
@@ -198,56 +247,7 @@ transcript: >-
   m='199921'>discuss</span> <span m='200443'>in</span> <span
   m='200965'>the</span> <span m='201486'>next</span> <span
   m='202008'>video.</span> </p>
-embedded_media:
-  - uid: e3b7eb9214404d1a8492d3f2e6935bb6
-    parent_uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: xEjZjz7oxbI
-  - uid: e5e5dc2dc5717959b817afdd0ab8bdae
-    parent_uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: xEjZjz7oxbI
-  - uid: b18f5aebad647b34df2d9d4ed1d98d00
-    parent_uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/xEjZjz7oxbI/default.jpg'
-  - uid: 5d8402d18715a0afc6e0fdb757d21a9c
-    parent_uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
-    id: xEjZjz7oxbI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-3-movie-data-and-clustering/video-3-movie-data-and-clustering-0/xEjZjz7oxbI.srt
-  - uid: 0989260066a81c5bb650319d529b1d91
-    parent_uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
-    id: xEjZjz7oxbI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-3-movie-data-and-clustering/video-3-movie-data-and-clustering-0/xEjZjz7oxbI.pdf
-  - uid: 9ca3e37e5fa5774d55ca2c984e07151e
-    parent_uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7adcd9a4145bce274856113c97a8136d
-    parent_uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8f98ef17b5178cd45e656a6dffce7d15
-    parent_uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.2.05_300k.mp4
+uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
 type: courses
 layout: video
 ---

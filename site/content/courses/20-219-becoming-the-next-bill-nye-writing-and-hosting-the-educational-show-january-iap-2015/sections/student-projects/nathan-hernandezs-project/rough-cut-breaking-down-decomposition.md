@@ -1,11 +1,4 @@
 ---
-title: 'Rough Cut: Breaking Down Decomposition'
-uid: efa8ff07330a2e858521901f6add332b
-parent_uid: 65f298a79f2a0550e78ed9fc7ff17ff4
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/rough-cut-breaking-down-decomposition
-short_url: rough-cut-breaking-down-decomposition
-inline_embed_id: '94738723roughcut:breakingdowndecomposition42222676'
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   Commons BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: RINP7d9ohaw
+    parent_uid: efa8ff07330a2e858521901f6add332b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b0df087bda81b30546a5163e94c627cb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/RINP7d9ohaw/default.jpg'
+    parent_uid: efa8ff07330a2e858521901f6add332b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3f014fc925354b4e6112e6333aae09a0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: RINP7d9ohaw
+    parent_uid: efa8ff07330a2e858521901f6add332b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bf978da035df48b1ac422cb2a91c8022
+  - id: RINP7d9ohaw.srt
+    parent_uid: efa8ff07330a2e858521901f6add332b
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/rough-cut-breaking-down-decomposition/RINP7d9ohaw.srt
+    title: 3play caption file
+    type: null
+    uid: 128afcc60d31749d7428815f59d5ed03
+  - id: RINP7d9ohaw.pdf
+    parent_uid: efa8ff07330a2e858521901f6add332b
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/rough-cut-breaking-down-decomposition/RINP7d9ohaw.pdf
+    title: 3play pdf file
+    type: null
+    uid: dc05590ec70d0c58d6f4afdffdb9ffad
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: efa8ff07330a2e858521901f6add332b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8cf5fe4a6dbd88121a987d147ccb0814
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: efa8ff07330a2e858521901f6add332b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0250c74323a47364aaef0a78e500d772
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: efa8ff07330a2e858521901f6add332b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4859634323a5a6b1c7b3f93e95c27480
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_NH_D11_Rough_Cut_360p.mp4
+    parent_uid: efa8ff07330a2e858521901f6add332b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 877971592c6ae7d998d230e37aebf1e4
+inline_embed_id: '94738723roughcut:breakingdowndecomposition42222676'
+parent_uid: 65f298a79f2a0550e78ed9fc7ff17ff4
 related_resources_text: ''
+short_url: rough-cut-breaking-down-decomposition
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/rough-cut-breaking-down-decomposition
+title: 'Rough Cut: Breaking Down Decomposition'
 transcript: >-
   <p><span m="400">NATHAN: Why</span> <span m="580">does</span> <span
   m="740">your</span> <span m="850">fridge</span> <span m="1240">start</span>
@@ -223,62 +278,7 @@ transcript: >-
   m="151210">well,</span> <span m="152250">that's</span> <span
   m="152460">why</span> <span m="152580">we</span> <span m="152710">have</span>
   <span m="152880">all</span> <span m="153020">this.</span></p>
-embedded_media:
-  - uid: b0df087bda81b30546a5163e94c627cb
-    parent_uid: efa8ff07330a2e858521901f6add332b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: RINP7d9ohaw
-  - uid: 3f014fc925354b4e6112e6333aae09a0
-    parent_uid: efa8ff07330a2e858521901f6add332b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/RINP7d9ohaw/default.jpg'
-  - uid: bf978da035df48b1ac422cb2a91c8022
-    parent_uid: efa8ff07330a2e858521901f6add332b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: RINP7d9ohaw
-  - uid: 128afcc60d31749d7428815f59d5ed03
-    parent_uid: efa8ff07330a2e858521901f6add332b
-    id: RINP7d9ohaw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/rough-cut-breaking-down-decomposition/RINP7d9ohaw.srt
-  - uid: dc05590ec70d0c58d6f4afdffdb9ffad
-    parent_uid: efa8ff07330a2e858521901f6add332b
-    id: RINP7d9ohaw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/rough-cut-breaking-down-decomposition/RINP7d9ohaw.pdf
-  - uid: 8cf5fe4a6dbd88121a987d147ccb0814
-    parent_uid: efa8ff07330a2e858521901f6add332b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0250c74323a47364aaef0a78e500d772
-    parent_uid: efa8ff07330a2e858521901f6add332b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4859634323a5a6b1c7b3f93e95c27480
-    parent_uid: efa8ff07330a2e858521901f6add332b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 877971592c6ae7d998d230e37aebf1e4
-    parent_uid: efa8ff07330a2e858521901f6add332b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_NH_D11_Rough_Cut_360p.mp4
+uid: efa8ff07330a2e858521901f6add332b
 type: courses
 layout: video
 ---

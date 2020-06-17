@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 15: Thermodynamics: Bond and Reaction Enthalpies'
-uid: ded981022f1fc9b465bb3ade7166d20b
+about_this_resource_text: "<p><strong>Description:</strong> Embedded video, no tabs, this description appears on section page: Thermodynamics is key to understanding the reactivity of molecules and compounds. In this first of three lectures on thermodynamics, viewers are introduced to ∆H, and asked to consider how much heat it will take to break one type of molecular bond versus another. Viewers are also asked whether a particular chemical reaction will release heat or absorb heat.</p>\r\n<p><strong>Instructor:</strong> Catherine Drennan</p>"
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: wS1MX-C2V9w
+    parent_uid: ded981022f1fc9b465bb3ade7166d20b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 605cc960afd8c52b333a3edaf422ad46
+  - id: wS1MX-C2V9w.srt
+    parent_uid: ded981022f1fc9b465bb3ade7166d20b
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-15/lecture-15-thermodynamics-bond-and-reaction-enthalpies/wS1MX-C2V9w.srt
+    title: 3play caption file
+    type: null
+    uid: adc4819d0ab872be733f12ae5201490c
+  - id: wS1MX-C2V9w.pdf
+    parent_uid: ded981022f1fc9b465bb3ade7166d20b
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-15/lecture-15-thermodynamics-bond-and-reaction-enthalpies/wS1MX-C2V9w.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5a574d83e7d91d964a71eb6fea343d73
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ded981022f1fc9b465bb3ade7166d20b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8b1fd9be68f751dd721a4ea3e95a06d6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ded981022f1fc9b465bb3ade7166d20b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e56d3e7fdce60d243229b1133dec3cbd
+  - id: Video-YouTube-Stream
+    media_location: wS1MX-C2V9w
+    parent_uid: ded981022f1fc9b465bb3ade7166d20b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8358d92e3bbb77c2984eda63f96b6991
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/wS1MX-C2V9w/default.jpg'
+    parent_uid: ded981022f1fc9b465bb3ade7166d20b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5cccfd54e4cba38183af4ac810f482c3
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: ded981022f1fc9b465bb3ade7166d20b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3303e033e0733af20fffcd6abd39c7dd
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L15_300k.mp4'
+    parent_uid: ded981022f1fc9b465bb3ade7166d20b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 55a9e3b29ba9560e21740f76aa6fcae8
+inline_embed_id: 5538859lecture15thermodynamicsbondandreactionenthalpies4677662
 parent_uid: 09ecdc6887c9427d73c0edb2dab5283c
+related_resources_text: ''
+short_url: lecture-15-thermodynamics-bond-and-reaction-enthalpies
 technical_location: >-
   https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-15/lecture-15-thermodynamics-bond-and-reaction-enthalpies
-short_url: lecture-15-thermodynamics-bond-and-reaction-enthalpies
-inline_embed_id: 5538859lecture15thermodynamicsbondandreactionenthalpies4677662
-about_this_resource_text: "<p><strong>Description:</strong> Embedded video, no tabs, this description appears on section page: Thermodynamics is key to understanding the reactivity of molecules and compounds. In this first of three lectures on thermodynamics, viewers are introduced to ∆H, and asked to consider how much heat it will take to break one type of molecular bond versus another. Viewers are also asked whether a particular chemical reaction will release heat or absorb heat.</p>\r\n<p><strong>Instructor:</strong> Catherine Drennan</p>"
-related_resources_text: ''
+title: 'Lecture 15: Thermodynamics: Bond and Reaction Enthalpies'
 transcript: >-
   <p><span m="90">The</span> <span m="180">following</span> <span
   m="630">content</span> <span m="1110">is</span> <span m="1230">provided</span>
@@ -2551,61 +2605,7 @@ transcript: >-
   m="2287130">heat</span> <span m="2287400">of</span> <span
   m="2287500">formation,</span> <span m="2288240">and</span> <span
   m="2288390">Hess's</span> <span m="2288900">Law.</span></p>
-embedded_media:
-  - uid: 605cc960afd8c52b333a3edaf422ad46
-    parent_uid: ded981022f1fc9b465bb3ade7166d20b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: wS1MX-C2V9w
-  - uid: adc4819d0ab872be733f12ae5201490c
-    parent_uid: ded981022f1fc9b465bb3ade7166d20b
-    id: wS1MX-C2V9w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-15/lecture-15-thermodynamics-bond-and-reaction-enthalpies/wS1MX-C2V9w.srt
-  - uid: 5a574d83e7d91d964a71eb6fea343d73
-    parent_uid: ded981022f1fc9b465bb3ade7166d20b
-    id: wS1MX-C2V9w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-15/lecture-15-thermodynamics-bond-and-reaction-enthalpies/wS1MX-C2V9w.pdf
-  - uid: 8b1fd9be68f751dd721a4ea3e95a06d6
-    parent_uid: ded981022f1fc9b465bb3ade7166d20b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e56d3e7fdce60d243229b1133dec3cbd
-    parent_uid: ded981022f1fc9b465bb3ade7166d20b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8358d92e3bbb77c2984eda63f96b6991
-    parent_uid: ded981022f1fc9b465bb3ade7166d20b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: wS1MX-C2V9w
-  - uid: 5cccfd54e4cba38183af4ac810f482c3
-    parent_uid: ded981022f1fc9b465bb3ade7166d20b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/wS1MX-C2V9w/default.jpg'
-  - uid: 3303e033e0733af20fffcd6abd39c7dd
-    parent_uid: ded981022f1fc9b465bb3ade7166d20b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 55a9e3b29ba9560e21740f76aa6fcae8
-    parent_uid: ded981022f1fc9b465bb3ade7166d20b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L15_300k.mp4'
+uid: ded981022f1fc9b465bb3ade7166d20b
 type: courses
 layout: video
 ---

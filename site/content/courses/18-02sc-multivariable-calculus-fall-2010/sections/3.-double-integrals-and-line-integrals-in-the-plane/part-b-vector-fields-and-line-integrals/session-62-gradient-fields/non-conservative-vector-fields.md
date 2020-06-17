@@ -1,13 +1,68 @@
 ---
-title: Non-Conservative Vector Fields
-uid: 556a25566ceaf2ac908179837140b580
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: n9gSOBwauRw
+    parent_uid: 556a25566ceaf2ac908179837140b580
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a543bc476090bbed554e99049157cfd4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/n9gSOBwauRw/default.jpg'
+    parent_uid: 556a25566ceaf2ac908179837140b580
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e7fa02ba08e2463cf160a30ed3e5c0bd
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_43_300k.mp4'
+    parent_uid: 556a25566ceaf2ac908179837140b580
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: addb5a37aa9cc002ac9fc5dfef1e6199
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/non-conservative-vector-fields/id414355340?i=90322825
+    parent_uid: 556a25566ceaf2ac908179837140b580
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 053799da133d418d987eefa7895519f7
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: n9gSOBwauRw
+    parent_uid: 556a25566ceaf2ac908179837140b580
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c9d8c43e465d62af80209378dd1f53d7
+  - id: n9gSOBwauRw.srt
+    parent_uid: 556a25566ceaf2ac908179837140b580
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-62-gradient-fields/non-conservative-vector-fields/n9gSOBwauRw.srt
+    title: 3play caption file
+    type: null
+    uid: 77f06423fbce4a44c213ad3f1c99c1fc
+  - id: n9gSOBwauRw.pdf
+    parent_uid: 556a25566ceaf2ac908179837140b580
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-62-gradient-fields/non-conservative-vector-fields/n9gSOBwauRw.pdf
+    title: 3play pdf file
+    type: null
+    uid: bff3d3332eccbf7c081c34239dc0b68b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 556a25566ceaf2ac908179837140b580
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9f98bbed1f99466588bd11a7fca8f121
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 556a25566ceaf2ac908179837140b580
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8d72d5659788f3288532b50775e65b11
+inline_embed_id: 86544342non-conservativevectorfields35269444
 parent_uid: 2e446b9021aa10b27a0d206567272851
+related_resources_text: ''
+short_url: non-conservative-vector-fields
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-62-gradient-fields/non-conservative-vector-fields
-short_url: non-conservative-vector-fields
-inline_embed_id: 86544342non-conservativevectorfields35269444
-about_this_resource_text: ''
-related_resources_text: ''
+title: Non-Conservative Vector Fields
 transcript: >-
   <p><span m='0'>CHRISTINE BREINER:</span> <span m='7070'>Welcome</span> <span
   m='7410'>back to</span> <span m='7620'>recitation.</span> <span
@@ -770,62 +825,7 @@ transcript: >-
   m='598420'>So</span> <span m='598560'>that's</span> <span
   m='598730'>where</span> <span m='598830'>I'll</span> <span
   m='598930'>stop.</span> </p>
-embedded_media:
-  - uid: a543bc476090bbed554e99049157cfd4
-    parent_uid: 556a25566ceaf2ac908179837140b580
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: n9gSOBwauRw
-  - uid: e7fa02ba08e2463cf160a30ed3e5c0bd
-    parent_uid: 556a25566ceaf2ac908179837140b580
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/n9gSOBwauRw/default.jpg'
-  - uid: addb5a37aa9cc002ac9fc5dfef1e6199
-    parent_uid: 556a25566ceaf2ac908179837140b580
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_43_300k.mp4'
-  - uid: 053799da133d418d987eefa7895519f7
-    parent_uid: 556a25566ceaf2ac908179837140b580
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/non-conservative-vector-fields/id414355340?i=90322825
-  - uid: c9d8c43e465d62af80209378dd1f53d7
-    parent_uid: 556a25566ceaf2ac908179837140b580
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: n9gSOBwauRw
-  - uid: 77f06423fbce4a44c213ad3f1c99c1fc
-    parent_uid: 556a25566ceaf2ac908179837140b580
-    id: n9gSOBwauRw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-62-gradient-fields/non-conservative-vector-fields/n9gSOBwauRw.srt
-  - uid: bff3d3332eccbf7c081c34239dc0b68b
-    parent_uid: 556a25566ceaf2ac908179837140b580
-    id: n9gSOBwauRw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-62-gradient-fields/non-conservative-vector-fields/n9gSOBwauRw.pdf
-  - uid: 9f98bbed1f99466588bd11a7fca8f121
-    parent_uid: 556a25566ceaf2ac908179837140b580
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8d72d5659788f3288532b50775e65b11
-    parent_uid: 556a25566ceaf2ac908179837140b580
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 556a25566ceaf2ac908179837140b580
 type: courses
 layout: video
 ---

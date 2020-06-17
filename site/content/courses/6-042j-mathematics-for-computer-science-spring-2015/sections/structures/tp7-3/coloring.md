@@ -1,13 +1,73 @@
 ---
-title: Coloring
-uid: b3bab57cee4f74f78a2a15795b01912c
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: b3bab57cee4f74f78a2a15795b01912c
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: b7e793a234d59e95f454d4b0069570de
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: b3bab57cee4f74f78a2a15795b01912c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6ec1681a0e2552ea033e82f4dfd88b12
+  - id: Video-YouTube-Stream
+    media_location: Penh4mv5gAg
+    parent_uid: b3bab57cee4f74f78a2a15795b01912c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bdb9cda016f67852f144874fda25222d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Penh4mv5gAg/default.jpg'
+    parent_uid: b3bab57cee4f74f78a2a15795b01912c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 451841b3e9f56aaff75fa8c3b31d3e5f
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: Penh4mv5gAg
+    parent_uid: b3bab57cee4f74f78a2a15795b01912c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fc90773369040c3ed64bc817eb833ecf
+  - id: Penh4mv5gAg.srt
+    parent_uid: b3bab57cee4f74f78a2a15795b01912c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/coloring/Penh4mv5gAg.srt
+    title: 3play caption file
+    type: null
+    uid: 711e9156e66d322db913a7b480c15937
+  - id: Penh4mv5gAg.pdf
+    parent_uid: b3bab57cee4f74f78a2a15795b01912c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/coloring/Penh4mv5gAg.pdf
+    title: 3play pdf file
+    type: null
+    uid: cd211548adf1d625112ad3d7eae38c8a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b3bab57cee4f74f78a2a15795b01912c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7fac0c54b8d072c5a3d8ff177b13f951
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b3bab57cee4f74f78a2a15795b01912c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 07dc42293a8d53f5c73f93ddbdcd47f1
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_simplecoloring_video_ipod.mp4
+    parent_uid: b3bab57cee4f74f78a2a15795b01912c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c6cf57779766bc01494a7a6fa115d071
+inline_embed_id: 36020095coloring184700
 parent_uid: 109f4d41cb88fdaade16336e6c117167
+related_resources_text: ''
+short_url: coloring
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/coloring
-short_url: coloring
-inline_embed_id: 36020095coloring184700
-about_this_resource_text: ''
-related_resources_text: ''
+title: Coloring
 transcript: >-
   <p><span m='1500'>PROFESSOR: Graph</span> <span m='1820'>coloring</span> <span
   m='2600'>is</span> <span m='2860'>the</span> <span m='2990'>abstract</span>
@@ -1205,67 +1265,7 @@ transcript: >-
   m='974800'>that</span> <span m='975320'>is</span> <span m='976040'>our</span>
   <span m='976160'>story</span> <span m='976900'>about</span> <span
   m='977280'>colorability.</span> </p>
-embedded_media:
-  - uid: b7e793a234d59e95f454d4b0069570de
-    parent_uid: b3bab57cee4f74f78a2a15795b01912c
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 6ec1681a0e2552ea033e82f4dfd88b12
-    parent_uid: b3bab57cee4f74f78a2a15795b01912c
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: bdb9cda016f67852f144874fda25222d
-    parent_uid: b3bab57cee4f74f78a2a15795b01912c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Penh4mv5gAg
-  - uid: 451841b3e9f56aaff75fa8c3b31d3e5f
-    parent_uid: b3bab57cee4f74f78a2a15795b01912c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Penh4mv5gAg/default.jpg'
-  - uid: fc90773369040c3ed64bc817eb833ecf
-    parent_uid: b3bab57cee4f74f78a2a15795b01912c
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Penh4mv5gAg
-  - uid: 711e9156e66d322db913a7b480c15937
-    parent_uid: b3bab57cee4f74f78a2a15795b01912c
-    id: Penh4mv5gAg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/coloring/Penh4mv5gAg.srt
-  - uid: cd211548adf1d625112ad3d7eae38c8a
-    parent_uid: b3bab57cee4f74f78a2a15795b01912c
-    id: Penh4mv5gAg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/coloring/Penh4mv5gAg.pdf
-  - uid: 7fac0c54b8d072c5a3d8ff177b13f951
-    parent_uid: b3bab57cee4f74f78a2a15795b01912c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 07dc42293a8d53f5c73f93ddbdcd47f1
-    parent_uid: b3bab57cee4f74f78a2a15795b01912c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c6cf57779766bc01494a7a6fa115d071
-    parent_uid: b3bab57cee4f74f78a2a15795b01912c
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_simplecoloring_video_ipod.mp4
+uid: b3bab57cee4f74f78a2a15795b01912c
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: Volume in Cylindrical Coordinates
-uid: 17b91cc556d3528d5d73b7b17fe9b427
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: qA83eznsKp8
+    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
+    title: Video-YouTube-Stream
+    type: Video
+    uid: dced7c939f3e8a37bf220797467940e8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/qA83eznsKp8/default.jpg'
+    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e5dd2b4b4d7b4e0c4f1558c7bbc4fc3d
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_51_300k.mp4'
+    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: fc98938ba00605f88c7eb1e206aad51f
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/volume-in-cylindrical-coordinates/id414355340?i=90322839
+    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4c042946d7fdfc825fc49a2b2eb40382
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: qA83eznsKp8
+    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2a29842a5395229b58f8b4ecf3f7ee0f
+  - id: qA83eznsKp8.srt
+    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-74-triple-integrals-rectangular-and-cylindrical-coordinates/volume-in-cylindrical-coordinates/qA83eznsKp8.srt
+    title: 3play caption file
+    type: null
+    uid: e45a066d235559896976c3f7ff5d2515
+  - id: qA83eznsKp8.pdf
+    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-74-triple-integrals-rectangular-and-cylindrical-coordinates/volume-in-cylindrical-coordinates/qA83eznsKp8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4970e2436032375cea81f818c7c37ede
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 006afa4623b985df5a6590ade75aba07
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4758777c88cb63d5f5afc1872b6c3e98
+inline_embed_id: 83248549volumeincylindricalcoordinates57719474
 parent_uid: 6369fc2c0ed673b1973ba7af526cb70d
+related_resources_text: ''
+short_url: volume-in-cylindrical-coordinates
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-74-triple-integrals-rectangular-and-cylindrical-coordinates/volume-in-cylindrical-coordinates
-short_url: volume-in-cylindrical-coordinates
-inline_embed_id: 83248549volumeincylindricalcoordinates57719474
-about_this_resource_text: ''
-related_resources_text: ''
+title: Volume in Cylindrical Coordinates
 transcript: >-
   <p><span m='7680'>JOEL LEWIS: Hi.</span> <span m='8150'>Welcome</span> <span
   m='8480'>back</span> <span m='8690'>to</span> <span
@@ -1286,62 +1341,7 @@ transcript: >-
   m='1081835'>the</span> <span m='1082270'>integral.</span> <span
   m='1084240'>I'll</span> <span m='1084400'>stop</span> <span
   m='1084710'>there.</span> </p>
-embedded_media:
-  - uid: dced7c939f3e8a37bf220797467940e8
-    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: qA83eznsKp8
-  - uid: e5dd2b4b4d7b4e0c4f1558c7bbc4fc3d
-    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/qA83eznsKp8/default.jpg'
-  - uid: fc98938ba00605f88c7eb1e206aad51f
-    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_51_300k.mp4'
-  - uid: 4c042946d7fdfc825fc49a2b2eb40382
-    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/volume-in-cylindrical-coordinates/id414355340?i=90322839
-  - uid: 2a29842a5395229b58f8b4ecf3f7ee0f
-    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: qA83eznsKp8
-  - uid: e45a066d235559896976c3f7ff5d2515
-    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
-    id: qA83eznsKp8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-74-triple-integrals-rectangular-and-cylindrical-coordinates/volume-in-cylindrical-coordinates/qA83eznsKp8.srt
-  - uid: 4970e2436032375cea81f818c7c37ede
-    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
-    id: qA83eznsKp8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-74-triple-integrals-rectangular-and-cylindrical-coordinates/volume-in-cylindrical-coordinates/qA83eznsKp8.pdf
-  - uid: 006afa4623b985df5a6590ade75aba07
-    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4758777c88cb63d5f5afc1872b6c3e98
-    parent_uid: 17b91cc556d3528d5d73b7b17fe9b427
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 17b91cc556d3528d5d73b7b17fe9b427
 type: courses
 layout: video
 ---

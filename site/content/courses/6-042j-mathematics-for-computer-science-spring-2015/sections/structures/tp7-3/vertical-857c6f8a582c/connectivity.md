@@ -1,13 +1,73 @@
 ---
-title: Connectivity
-uid: f805a13566b9c2888c6e6eee83e44b68
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: f805a13566b9c2888c6e6eee83e44b68
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: ad0197ebaebbe218022e47393ee210e6
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: f805a13566b9c2888c6e6eee83e44b68
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6b92a3c27ad29dcb6cbb33e332c457cb
+  - id: Video-YouTube-Stream
+    media_location: TIQ3xN38jgM
+    parent_uid: f805a13566b9c2888c6e6eee83e44b68
+    title: Video-YouTube-Stream
+    type: Video
+    uid: df368f5b910c77ab7db7135078cdea7c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TIQ3xN38jgM/default.jpg'
+    parent_uid: f805a13566b9c2888c6e6eee83e44b68
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cd041c163d3454ee73cb549f24480368
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: TIQ3xN38jgM
+    parent_uid: f805a13566b9c2888c6e6eee83e44b68
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 45662d67b994a818a6562b709632b7fb
+  - id: TIQ3xN38jgM.srt
+    parent_uid: f805a13566b9c2888c6e6eee83e44b68
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/vertical-857c6f8a582c/connectivity/TIQ3xN38jgM.srt
+    title: 3play caption file
+    type: null
+    uid: 8ad05de032d73eaf25020fabd32408ac
+  - id: TIQ3xN38jgM.pdf
+    parent_uid: f805a13566b9c2888c6e6eee83e44b68
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/vertical-857c6f8a582c/connectivity/TIQ3xN38jgM.pdf
+    title: 3play pdf file
+    type: null
+    uid: a1481577ce526bedf7fa08fa1ef3157a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f805a13566b9c2888c6e6eee83e44b68
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 577fa77985d4d11402db93f1293e1b3e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f805a13566b9c2888c6e6eee83e44b68
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fc4df4ee02cccbfa06670d4dae855735
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_simpleconnect_video_ipod.mp4
+    parent_uid: f805a13566b9c2888c6e6eee83e44b68
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a7924556f34bcce837f19de9f697260e
+inline_embed_id: 19977051connectivity1897679
 parent_uid: 8d160b87cb8ba14435decca9ffc6016e
+related_resources_text: ''
+short_url: connectivity
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/vertical-857c6f8a582c/connectivity
-short_url: connectivity
-inline_embed_id: 19977051connectivity1897679
-about_this_resource_text: ''
-related_resources_text: ''
+title: Connectivity
 transcript: >-
   <p><span m='1300'>PROFESSOR: The</span> <span m='1420'>point</span> <span
   m='1700'>of</span> <span m='1990'>switching</span> <span m='2510'>from</span>
@@ -231,67 +291,7 @@ transcript: >-
   m='183660'>really</span> <span m='183930'>has</span> <span
   m='184170'>only</span> <span m='184470'>one</span> <span
   m='185070'>connected</span> <span m='185630'>component.</span> </p>
-embedded_media:
-  - uid: ad0197ebaebbe218022e47393ee210e6
-    parent_uid: f805a13566b9c2888c6e6eee83e44b68
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 6b92a3c27ad29dcb6cbb33e332c457cb
-    parent_uid: f805a13566b9c2888c6e6eee83e44b68
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: df368f5b910c77ab7db7135078cdea7c
-    parent_uid: f805a13566b9c2888c6e6eee83e44b68
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TIQ3xN38jgM
-  - uid: cd041c163d3454ee73cb549f24480368
-    parent_uid: f805a13566b9c2888c6e6eee83e44b68
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TIQ3xN38jgM/default.jpg'
-  - uid: 45662d67b994a818a6562b709632b7fb
-    parent_uid: f805a13566b9c2888c6e6eee83e44b68
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TIQ3xN38jgM
-  - uid: 8ad05de032d73eaf25020fabd32408ac
-    parent_uid: f805a13566b9c2888c6e6eee83e44b68
-    id: TIQ3xN38jgM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/vertical-857c6f8a582c/connectivity/TIQ3xN38jgM.srt
-  - uid: a1481577ce526bedf7fa08fa1ef3157a
-    parent_uid: f805a13566b9c2888c6e6eee83e44b68
-    id: TIQ3xN38jgM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/vertical-857c6f8a582c/connectivity/TIQ3xN38jgM.pdf
-  - uid: 577fa77985d4d11402db93f1293e1b3e
-    parent_uid: f805a13566b9c2888c6e6eee83e44b68
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fc4df4ee02cccbfa06670d4dae855735
-    parent_uid: f805a13566b9c2888c6e6eee83e44b68
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a7924556f34bcce837f19de9f697260e
-    parent_uid: f805a13566b9c2888c6e6eee83e44b68
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_simpleconnect_video_ipod.mp4
+uid: f805a13566b9c2888c6e6eee83e44b68
 type: courses
 layout: video
 ---

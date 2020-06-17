@@ -1,13 +1,61 @@
 ---
-title: 'Lecture 36: Alan Edelman and Julia Language'
-uid: a6cd4ecd57886f69ecd290e51701054a
+about_this_resource_text: "<h2 class=\"subhead\">Description</h2>\r\n<p>Professor Alan Edelman gives this guest lecture on the Julia Language, which was designed for high-performance computing. He provides an overview of how Julia can be used in machine learning and deep learning applications.</p>\r\n<h2 class=\"subhead\">Summary</h2>\r\n<p>Automatic differentiation of each operation in Julia<br />\r\nKey to deep learning: Optimizing many weights<br />\r\nSpeed and simplicity: Computing derivatives and Jacobian matrices</p>\r\n<p>Related sections in textbook: III.3 and VII.2</p>\r\n<p><strong>Instructors:</strong> Prof. Alan Edelman and Prof. Gilbert Strang</p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: rZS2LGiurKY
+    parent_uid: a6cd4ecd57886f69ecd290e51701054a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3d33c41bc2562be1563d2cbff2775607
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/rZS2LGiurKY/default.jpg'
+    parent_uid: a6cd4ecd57886f69ecd290e51701054a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7c650b07f0b423652291559fd2d662cf
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: rZS2LGiurKY
+    parent_uid: a6cd4ecd57886f69ecd290e51701054a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 504e6d6125b41a0ba79817d28afa2488
+  - id: rZS2LGiurKY.srt
+    parent_uid: a6cd4ecd57886f69ecd290e51701054a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-36-third-project-alan-edelman-and-julia-language/rZS2LGiurKY.srt
+    title: 3play caption file
+    type: null
+    uid: 791530d9834b57c906b4d339072b060f
+  - id: rZS2LGiurKY.pdf
+    parent_uid: a6cd4ecd57886f69ecd290e51701054a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-36-third-project-alan-edelman-and-julia-language/rZS2LGiurKY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 17528c2faa0ec74a8c7a739136468674
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a6cd4ecd57886f69ecd290e51701054a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d6f47f982a637b6a0bb10755b24a22cf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a6cd4ecd57886f69ecd290e51701054a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 07d301f2db14f2d24e877d287430e1b5
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture36_300k.mp4'
+    parent_uid: a6cd4ecd57886f69ecd290e51701054a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 805f9f5b2cc32e2c431a6c6dd8fa1537
+inline_embed_id: 40991273lecture36thirdprojectalanedelmanandjulialanguage14994732
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
+related_resources_text: ''
+short_url: lecture-36-third-project-alan-edelman-and-julia-language
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-36-third-project-alan-edelman-and-julia-language
-short_url: lecture-36-third-project-alan-edelman-and-julia-language
-inline_embed_id: 40991273lecture36thirdprojectalanedelmanandjulialanguage14994732
-about_this_resource_text: "<h2 class=\"subhead\">Description</h2>\r\n<p>Professor Alan Edelman gives this guest lecture on the Julia Language, which was designed for high-performance computing. He provides an overview of how Julia can be used in machine learning and deep learning applications.</p>\r\n<h2 class=\"subhead\">Summary</h2>\r\n<p>Automatic differentiation of each operation in Julia<br />\r\nKey to deep learning: Optimizing many weights<br />\r\nSpeed and simplicity: Computing derivatives and Jacobian matrices</p>\r\n<p>Related sections in textbook: III.3 and VII.2</p>\r\n<p><strong>Instructors:</strong> Prof. Alan Edelman and Prof. Gilbert Strang</p>"
-related_resources_text: ''
+title: 'Lecture 36: Alan Edelman and Julia Language'
 transcript: >-
   <p><span m='1550'>The</span> <span m='1640'>following</span> <span
   m='2090'>content</span> <span m='2600'>is</span> <span
@@ -3207,55 +3255,7 @@ transcript: >-
   m='2285160'>thank</span> <span m='2285460'>you</span> <span
   m='2285580'>all.</span> <span m='2286020'>You're right.</span> <span
   m='2286510'>Thanks.</span> </p><p><span m='2287110'>[APPLAUSE]</span> </p>
-embedded_media:
-  - uid: 3d33c41bc2562be1563d2cbff2775607
-    parent_uid: a6cd4ecd57886f69ecd290e51701054a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: rZS2LGiurKY
-  - uid: 7c650b07f0b423652291559fd2d662cf
-    parent_uid: a6cd4ecd57886f69ecd290e51701054a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rZS2LGiurKY/default.jpg'
-  - uid: 504e6d6125b41a0ba79817d28afa2488
-    parent_uid: a6cd4ecd57886f69ecd290e51701054a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: rZS2LGiurKY
-  - uid: 791530d9834b57c906b4d339072b060f
-    parent_uid: a6cd4ecd57886f69ecd290e51701054a
-    id: rZS2LGiurKY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-36-third-project-alan-edelman-and-julia-language/rZS2LGiurKY.srt
-  - uid: 17528c2faa0ec74a8c7a739136468674
-    parent_uid: a6cd4ecd57886f69ecd290e51701054a
-    id: rZS2LGiurKY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-36-third-project-alan-edelman-and-julia-language/rZS2LGiurKY.pdf
-  - uid: d6f47f982a637b6a0bb10755b24a22cf
-    parent_uid: a6cd4ecd57886f69ecd290e51701054a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 07d301f2db14f2d24e877d287430e1b5
-    parent_uid: a6cd4ecd57886f69ecd290e51701054a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 805f9f5b2cc32e2c431a6c6dd8fa1537
-    parent_uid: a6cd4ecd57886f69ecd290e51701054a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture36_300k.mp4'
+uid: a6cd4ecd57886f69ecd290e51701054a
 type: courses
 layout: video
 ---

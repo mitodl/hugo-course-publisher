@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Graph of r = 2a cos(&theta;)'
-uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
-parent_uid: cfd25e33da1a2e54749f33591f59a4ba
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/clip-1-graph-of-r-2a-cos-theta-1
-short_url: clip-1-graph-of-r-2a-cos-theta-1
-inline_embed_id: '17028456clip1:graphofr=2acos(theta)71705017'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/c1688473d6e7a2a6cacaefdc456bf102" title="Open
   in a new window." target="_blank">Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 33 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BGE3wb7H2PA
+    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0823379b20f9d18df7429bae9759b3ff
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BGE3wb7H2PA/default.jpg'
+    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4b1cd745e5390be8b7e2006b90f97174
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BGE3wb7H2PA
+    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 987669674433d1c791636eb51251465e
+  - id: BGE3wb7H2PA.srt
+    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/clip-1-graph-of-r-2a-cos-theta-1/BGE3wb7H2PA.srt
+    title: 3play caption file
+    type: null
+    uid: 16643def481b69cc9ad950063c343635
+  - id: BGE3wb7H2PA.pdf
+    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/clip-1-graph-of-r-2a-cos-theta-1/BGE3wb7H2PA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 966e2c3131ed8a61d66b50a4171f8e7e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 79ea3b5fbd6846d7f3e91fb08770ed6d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9686812ab50b9b6162d15f38aa29a813
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec33_300k.mp4'
+    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6a1fcb6c92183c29e7aeb1cea00c162e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 03fe68a26aa6a871cc386cb945175dc0
+inline_embed_id: '17028456clip1:graphofr=2acos(theta)71705017'
+parent_uid: cfd25e33da1a2e54749f33591f59a4ba
 related_resources_text: ''
+short_url: clip-1-graph-of-r-2a-cos-theta-1
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/clip-1-graph-of-r-2a-cos-theta-1
+title: 'Clip 1: Graph of r = 2a cos(&theta;)'
 transcript: >-
   <p><span m="0">The</span> <span m="120">following</span> <span
   m="530">content</span> <span m="1270">is</span> <span m="1420">provided</span>
@@ -2725,61 +2779,7 @@ transcript: >-
   m="2943540">just</span> <span m="2943900">keep</span> <span
   m="2944090">that</span> <span m="2944290">in</span> <span
   m="2944370">mind.</span></p>
-embedded_media:
-  - uid: 0823379b20f9d18df7429bae9759b3ff
-    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BGE3wb7H2PA
-  - uid: 4b1cd745e5390be8b7e2006b90f97174
-    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BGE3wb7H2PA/default.jpg'
-  - uid: 987669674433d1c791636eb51251465e
-    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BGE3wb7H2PA
-  - uid: 16643def481b69cc9ad950063c343635
-    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
-    id: BGE3wb7H2PA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/clip-1-graph-of-r-2a-cos-theta-1/BGE3wb7H2PA.srt
-  - uid: 966e2c3131ed8a61d66b50a4171f8e7e
-    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
-    id: BGE3wb7H2PA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/clip-1-graph-of-r-2a-cos-theta-1/BGE3wb7H2PA.pdf
-  - uid: 79ea3b5fbd6846d7f3e91fb08770ed6d
-    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9686812ab50b9b6162d15f38aa29a813
-    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6a1fcb6c92183c29e7aeb1cea00c162e
-    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec33_300k.mp4'
-  - uid: 03fe68a26aa6a871cc386cb945175dc0
-    parent_uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 2636a2bf6ae799f8e7240c23ac9ab0ad
 type: courses
 layout: video
 ---

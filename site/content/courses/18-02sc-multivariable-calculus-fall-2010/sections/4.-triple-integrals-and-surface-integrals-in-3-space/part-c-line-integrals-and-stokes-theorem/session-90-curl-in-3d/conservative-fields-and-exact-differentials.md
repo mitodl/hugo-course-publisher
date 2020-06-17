@@ -1,13 +1,68 @@
 ---
-title: Conservative Fields and Exact Differentials
-uid: a8b06b720af0184fc245f3d3a7334ed9
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: IYlzo-bxrqs
+    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b7a5d51ea14cead892c4cf7b4c0f5ada
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_64_300k.mp4'
+    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 90fdc460eec567c739d994ac9f4b3080
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/conservative-fields-exact/id414355340?i=90323150
+    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 79628801ea8d1d575c61a182eccd1283
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: IYlzo-bxrqs
+    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 58e328a05f5a6d0d4a0ef49892d5c3a2
+  - id: IYlzo-bxrqs.srt
+    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-90-curl-in-3d/conservative-fields-and-exact-differentials/IYlzo-bxrqs.srt
+    title: 3play caption file
+    type: null
+    uid: 0490e5c57631c6257b91c33ec9904d29
+  - id: IYlzo-bxrqs.pdf
+    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-90-curl-in-3d/conservative-fields-and-exact-differentials/IYlzo-bxrqs.pdf
+    title: 3play pdf file
+    type: null
+    uid: 480cb32fcbd03c300ecfe97614cbace8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 843c376ee38673ebcc9ac82d73b20f0b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8ca62b4f1ab1014ac90901b456e04d06
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/IYlzo-bxrqs/default.jpg'
+    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f014f078ec89d5e280354d0bd2b08e53
+inline_embed_id: 26921852conservativefieldsandexactdifferentials34991544
 parent_uid: acfc5d4e3602454b1118b52cb66b3039
+related_resources_text: ''
+short_url: conservative-fields-and-exact-differentials
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-90-curl-in-3d/conservative-fields-and-exact-differentials
-short_url: conservative-fields-and-exact-differentials
-inline_embed_id: 26921852conservativefieldsandexactdifferentials34991544
-about_this_resource_text: ''
-related_resources_text: ''
+title: Conservative Fields and Exact Differentials
 transcript: >-
   <p><span m='7670'>CHRISTINE BREINER: Welcome</span> <span m='8030'>back</span>
   <span m='8125'>to</span> <span m='8220'>recitation.</span> <span
@@ -1069,62 +1124,7 @@ transcript: >-
   m='887370'>I</span> <span m='887490'>think</span> <span
   m='887720'>that's</span> <span m='887940'>where</span> <span
   m='888060'>I'll</span> <span m='888270'>stop.</span> </p>
-embedded_media:
-  - uid: b7a5d51ea14cead892c4cf7b4c0f5ada
-    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: IYlzo-bxrqs
-  - uid: 90fdc460eec567c739d994ac9f4b3080
-    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_64_300k.mp4'
-  - uid: 79628801ea8d1d575c61a182eccd1283
-    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/conservative-fields-exact/id414355340?i=90323150
-  - uid: 58e328a05f5a6d0d4a0ef49892d5c3a2
-    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: IYlzo-bxrqs
-  - uid: 0490e5c57631c6257b91c33ec9904d29
-    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
-    id: IYlzo-bxrqs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-90-curl-in-3d/conservative-fields-and-exact-differentials/IYlzo-bxrqs.srt
-  - uid: 480cb32fcbd03c300ecfe97614cbace8
-    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
-    id: IYlzo-bxrqs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-90-curl-in-3d/conservative-fields-and-exact-differentials/IYlzo-bxrqs.pdf
-  - uid: 843c376ee38673ebcc9ac82d73b20f0b
-    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8ca62b4f1ab1014ac90901b456e04d06
-    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f014f078ec89d5e280354d0bd2b08e53
-    parent_uid: a8b06b720af0184fc245f3d3a7334ed9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/IYlzo-bxrqs/default.jpg'
+uid: a8b06b720af0184fc245f3d3a7334ed9
 type: courses
 layout: video
 ---

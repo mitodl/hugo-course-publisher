@@ -1,13 +1,72 @@
 ---
-title: RSA Public Key Encryption
-uid: 94726ea0be8e2d8ec47a50322cd3e0e3
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: c950df481f4aee26f55788949fb17f43
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ac96af82b641517cf58d8784e1822326
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_rsa_ipod.mp4'
+    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 43515b9fe744155979eb3bf90ec8361a
+  - id: Video-YouTube-Stream
+    media_location: ZUZ8VbX1YNQ
+    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7cb04df2c33e9e394ee241be97172fca
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ZUZ8VbX1YNQ/default.jpg'
+    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 07ebd6666b4c8b7d92064b4f403afb80
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ZUZ8VbX1YNQ
+    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 216273ac3bcaf2cc0501fa28443aa9ee
+  - id: ZUZ8VbX1YNQ.srt
+    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/rsa-public-key-encryption/ZUZ8VbX1YNQ.srt
+    title: 3play caption file
+    type: null
+    uid: 1237ac5aad0f251b942e5c46a109cc7e
+  - id: ZUZ8VbX1YNQ.pdf
+    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/rsa-public-key-encryption/ZUZ8VbX1YNQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: cf4dea293e8b3423622a5cbfa599e891
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 93314d06da36a6ecab8b62306c058d32
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 144ca63bc07d819fc539886e47442f53
+inline_embed_id: 63953422rsapublickeyencryption50394538
 parent_uid: df8008a79d68087d809bbd4cc447cdea
+related_resources_text: ''
+short_url: rsa-public-key-encryption
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/rsa-public-key-encryption
-short_url: rsa-public-key-encryption
-inline_embed_id: 63953422rsapublickeyencryption50394538
-about_this_resource_text: ''
-related_resources_text: ''
+title: RSA Public Key Encryption
 transcript: >-
   <p><span m='880'>The</span> <span m='1090'>RSA</span> <span
   m='1510'>crypto</span> <span m='1930'>systems</span> <span m='2440'>is</span>
@@ -1588,66 +1647,7 @@ transcript: >-
   m='1296730'>why</span> <span m='1296970'>we</span> <span
   m='1297140'>believe</span> <span m='1297440'>in</span> <span
   m='1297590'>it.</span> </p>
-embedded_media:
-  - uid: c950df481f4aee26f55788949fb17f43
-    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: ac96af82b641517cf58d8784e1822326
-    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 43515b9fe744155979eb3bf90ec8361a
-    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_rsa_ipod.mp4'
-  - uid: 7cb04df2c33e9e394ee241be97172fca
-    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ZUZ8VbX1YNQ
-  - uid: 07ebd6666b4c8b7d92064b4f403afb80
-    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ZUZ8VbX1YNQ/default.jpg'
-  - uid: 216273ac3bcaf2cc0501fa28443aa9ee
-    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ZUZ8VbX1YNQ
-  - uid: 1237ac5aad0f251b942e5c46a109cc7e
-    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
-    id: ZUZ8VbX1YNQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/rsa-public-key-encryption/ZUZ8VbX1YNQ.srt
-  - uid: cf4dea293e8b3423622a5cbfa599e891
-    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
-    id: ZUZ8VbX1YNQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/rsa-public-key-encryption/ZUZ8VbX1YNQ.pdf
-  - uid: 93314d06da36a6ecab8b62306c058d32
-    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 144ca63bc07d819fc539886e47442f53
-    parent_uid: 94726ea0be8e2d8ec47a50322cd3e0e3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 94726ea0be8e2d8ec47a50322cd3e0e3
 type: courses
 layout: video
 ---

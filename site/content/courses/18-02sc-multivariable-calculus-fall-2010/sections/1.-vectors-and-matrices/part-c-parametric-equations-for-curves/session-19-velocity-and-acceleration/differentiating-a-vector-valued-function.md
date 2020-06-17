@@ -1,13 +1,68 @@
 ---
-title: Differentiating a Vector Valued Function
-uid: 51a9d36ac051dba1159773cedeb06974
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: evxReCLA-fU
+    parent_uid: 51a9d36ac051dba1159773cedeb06974
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 78edc65ceb03a8eb500869cfc92668f1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/evxReCLA-fU/default.jpg'
+    parent_uid: 51a9d36ac051dba1159773cedeb06974
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ae4815fa62325f0c75a0e9d091ac4cad
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: evxReCLA-fU
+    parent_uid: 51a9d36ac051dba1159773cedeb06974
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fee0d7abeedc8fec72b5701242ce2b28
+  - id: evxReCLA-fU.srt
+    parent_uid: 51a9d36ac051dba1159773cedeb06974
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-19-velocity-and-acceleration/differentiating-a-vector-valued-function/evxReCLA-fU.srt
+    title: 3play caption file
+    type: null
+    uid: c63c989e6e7daa195b10bea5e41d398c
+  - id: evxReCLA-fU.pdf
+    parent_uid: 51a9d36ac051dba1159773cedeb06974
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-19-velocity-and-acceleration/differentiating-a-vector-valued-function/evxReCLA-fU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3c80a1f2d51b08724de520f8b74310e6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 51a9d36ac051dba1159773cedeb06974
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 18f4acfb18018bd903ca16f28f225d5e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 51a9d36ac051dba1159773cedeb06974
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a6e3546417e0687432014a71dc536b6a
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/differentiating-vector-valued/id414355340?i=90322828
+    parent_uid: 51a9d36ac051dba1159773cedeb06974
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b325490e9b046571b4040b1608df3d5b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_15_300k.mp4'
+    parent_uid: 51a9d36ac051dba1159773cedeb06974
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 023cffd7b99ff2f1920bbc40811ce465
+inline_embed_id: 48596866differentiatingavectorvaluedfunction21673104
 parent_uid: dcdc00f031ba84ce819f58d5b2584e2e
+related_resources_text: ''
+short_url: differentiating-a-vector-valued-function
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-19-velocity-and-acceleration/differentiating-a-vector-valued-function
-short_url: differentiating-a-vector-valued-function
-inline_embed_id: 48596866differentiatingavectorvaluedfunction21673104
-about_this_resource_text: ''
-related_resources_text: ''
+title: Differentiating a Vector Valued Function
 transcript: >-
   <p><span m='8160'>CHRISTINE BREINER: Welcome</span> <span m='8550'>back</span>
   <span m='8740'>to</span> <span m='8840'>recitation.</span> <span
@@ -1156,62 +1211,7 @@ transcript: >-
   m='843150'>I</span> <span m='843260'>think</span> <span
   m='843440'>that's</span> <span m='843590'>where</span> <span
   m='843710'>I'll</span> <span m='843750'>stop.</span> </p>
-embedded_media:
-  - uid: 78edc65ceb03a8eb500869cfc92668f1
-    parent_uid: 51a9d36ac051dba1159773cedeb06974
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: evxReCLA-fU
-  - uid: ae4815fa62325f0c75a0e9d091ac4cad
-    parent_uid: 51a9d36ac051dba1159773cedeb06974
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/evxReCLA-fU/default.jpg'
-  - uid: fee0d7abeedc8fec72b5701242ce2b28
-    parent_uid: 51a9d36ac051dba1159773cedeb06974
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: evxReCLA-fU
-  - uid: c63c989e6e7daa195b10bea5e41d398c
-    parent_uid: 51a9d36ac051dba1159773cedeb06974
-    id: evxReCLA-fU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-19-velocity-and-acceleration/differentiating-a-vector-valued-function/evxReCLA-fU.srt
-  - uid: 3c80a1f2d51b08724de520f8b74310e6
-    parent_uid: 51a9d36ac051dba1159773cedeb06974
-    id: evxReCLA-fU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-19-velocity-and-acceleration/differentiating-a-vector-valued-function/evxReCLA-fU.pdf
-  - uid: 18f4acfb18018bd903ca16f28f225d5e
-    parent_uid: 51a9d36ac051dba1159773cedeb06974
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a6e3546417e0687432014a71dc536b6a
-    parent_uid: 51a9d36ac051dba1159773cedeb06974
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b325490e9b046571b4040b1608df3d5b
-    parent_uid: 51a9d36ac051dba1159773cedeb06974
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/differentiating-vector-valued/id414355340?i=90322828
-  - uid: 023cffd7b99ff2f1920bbc40811ce465
-    parent_uid: 51a9d36ac051dba1159773cedeb06974
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_15_300k.mp4'
+uid: 51a9d36ac051dba1159773cedeb06974
 type: courses
 layout: video
 ---

@@ -1,11 +1,4 @@
 ---
-title: Day 3 Reflections
-uid: ac60cc1def08910f8c3350c168eb6bf4
-parent_uid: 7b1a98fc328d4951fd19a2109aff7506
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/joshua-cheongs-reflections/day-3-reflections-1
-short_url: day-3-reflections-1
-inline_embed_id: 36731810day3reflections82692257
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: M_WIXYqkbdc
+    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1c422565bce7bd6f8cba9d4c041843fa
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/M_WIXYqkbdc/default.jpg'
+    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 827a9a0a3fc9bf06cfe8ee4067fb51ec
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: M_WIXYqkbdc
+    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f8c92068fed9bccfdf7d0edb6be69975
+  - id: M_WIXYqkbdc.srt
+    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/joshua-cheongs-reflections/day-3-reflections-1/M_WIXYqkbdc.srt
+    title: 3play caption file
+    type: null
+    uid: 99662fc5998abc4988cb8f70e0baaeb2
+  - id: M_WIXYqkbdc.pdf
+    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/joshua-cheongs-reflections/day-3-reflections-1/M_WIXYqkbdc.pdf
+    title: 3play pdf file
+    type: null
+    uid: b3e9e62bce0ce9212019e7ab43735cd6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5036009bb43594e12b0c0dc71bf43c97
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b57f7948be4e382093362b92dcb31ab2
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 432af359b21d71de3d0be1af78879cf4
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_JC_D03_Reflections_360p.mp4
+    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 688e7a7ca8fda57fc95f0b0cb2fc3a2f
+inline_embed_id: 36731810day3reflections82692257
+parent_uid: 7b1a98fc328d4951fd19a2109aff7506
 related_resources_text: ''
+short_url: day-3-reflections-1
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/joshua-cheongs-reflections/day-3-reflections-1
+title: Day 3 Reflections
 transcript: >-
   <p><span m="1620">JOSHUA CHEONG: Hi.</span> <span m="3220">Joshua</span> <span
   m="3570">here.</span> <span m="5270">So</span> <span m="5450">excited</span>
@@ -474,62 +529,7 @@ transcript: >-
   <span m="427670">few</span> <span m="427790">lessons,</span> <span
   m="428380">and</span> <span m="430540">it</span> <span m="430660">will</span>
   <span m="430750">be</span> <span m="430850">interesting.</span></p>
-embedded_media:
-  - uid: 1c422565bce7bd6f8cba9d4c041843fa
-    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: M_WIXYqkbdc
-  - uid: 827a9a0a3fc9bf06cfe8ee4067fb51ec
-    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/M_WIXYqkbdc/default.jpg'
-  - uid: f8c92068fed9bccfdf7d0edb6be69975
-    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: M_WIXYqkbdc
-  - uid: 99662fc5998abc4988cb8f70e0baaeb2
-    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
-    id: M_WIXYqkbdc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/joshua-cheongs-reflections/day-3-reflections-1/M_WIXYqkbdc.srt
-  - uid: b3e9e62bce0ce9212019e7ab43735cd6
-    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
-    id: M_WIXYqkbdc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/joshua-cheongs-reflections/day-3-reflections-1/M_WIXYqkbdc.pdf
-  - uid: 5036009bb43594e12b0c0dc71bf43c97
-    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b57f7948be4e382093362b92dcb31ab2
-    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 432af359b21d71de3d0be1af78879cf4
-    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 688e7a7ca8fda57fc95f0b0cb2fc3a2f
-    parent_uid: ac60cc1def08910f8c3350c168eb6bf4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_JC_D03_Reflections_360p.mp4
+uid: ac60cc1def08910f8c3350c168eb6bf4
 type: courses
 layout: video
 ---

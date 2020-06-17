@@ -1,13 +1,61 @@
 ---
-title: Weighted Hacksaw Blade
-uid: ae8f305dfed6f6829f012e61726ab6fd
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BX4QPdP7fT8
+    parent_uid: ae8f305dfed6f6829f012e61726ab6fd
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bd5194c79e7fb224042aadd4d78c6265
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BX4QPdP7fT8/default.jpg'
+    parent_uid: ae8f305dfed6f6829f012e61726ab6fd
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: afc9dc9d0a8f9f66d551b94de7483f92
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BX4QPdP7fT8
+    parent_uid: ae8f305dfed6f6829f012e61726ab6fd
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: cac693f0450b654ea35c5b40838d9931
+  - id: BX4QPdP7fT8.srt
+    parent_uid: ae8f305dfed6f6829f012e61726ab6fd
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-4/copy2_of_lecture-4-video/BX4QPdP7fT8.srt
+    title: 3play caption file
+    type: null
+    uid: 40c56a0a05c8640953faeecb899fb986
+  - id: BX4QPdP7fT8.pdf
+    parent_uid: ae8f305dfed6f6829f012e61726ab6fd
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-4/copy2_of_lecture-4-video/BX4QPdP7fT8.pdf
+    title: 3play pdf file
+    type: null
+    uid: de261e0c165f5e63f65534a0ac934eca
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ae8f305dfed6f6829f012e61726ab6fd
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3851c6e25b6feab46c410381cd85e9bc
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ae8f305dfed6f6829f012e61726ab6fd
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 594735e8a7670066a764fc8dc4ce22b5
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec04_300k.mp4'
+    parent_uid: ae8f305dfed6f6829f012e61726ab6fd
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 48582d26358df3e3ff3a25eea80488ac
+inline_embed_id: 90459200lecture4videop251938514
 parent_uid: 05ac767b412018173f891143fb7c00eb
+related_resources_text: ''
+short_url: copy2_of_lecture-4-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-4/copy2_of_lecture-4-video
-short_url: copy2_of_lecture-4-video
-inline_embed_id: 90459200lecture4videop251938514
-about_this_resource_text: ''
-related_resources_text: ''
+title: Weighted Hacksaw Blade
 transcript: >-
   <p><span m="2090">The</span> <span m="2180">following</span> <span
   m="2630">content</span> <span m="3110">is</span> <span
@@ -3868,55 +3916,7 @@ transcript: >-
   m="4652070">the</span> <span m="4652160">lecture.</span> <span
   m="4654130">Thank</span> <span m="4654340">you</span> <span
   m="4654410">very</span> <span m="4654530">much.</span></p>
-embedded_media:
-  - uid: bd5194c79e7fb224042aadd4d78c6265
-    parent_uid: ae8f305dfed6f6829f012e61726ab6fd
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BX4QPdP7fT8
-  - uid: afc9dc9d0a8f9f66d551b94de7483f92
-    parent_uid: ae8f305dfed6f6829f012e61726ab6fd
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BX4QPdP7fT8/default.jpg'
-  - uid: cac693f0450b654ea35c5b40838d9931
-    parent_uid: ae8f305dfed6f6829f012e61726ab6fd
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BX4QPdP7fT8
-  - uid: 40c56a0a05c8640953faeecb899fb986
-    parent_uid: ae8f305dfed6f6829f012e61726ab6fd
-    id: BX4QPdP7fT8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-4/copy2_of_lecture-4-video/BX4QPdP7fT8.srt
-  - uid: de261e0c165f5e63f65534a0ac934eca
-    parent_uid: ae8f305dfed6f6829f012e61726ab6fd
-    id: BX4QPdP7fT8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-4/copy2_of_lecture-4-video/BX4QPdP7fT8.pdf
-  - uid: 3851c6e25b6feab46c410381cd85e9bc
-    parent_uid: ae8f305dfed6f6829f012e61726ab6fd
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 594735e8a7670066a764fc8dc4ce22b5
-    parent_uid: ae8f305dfed6f6829f012e61726ab6fd
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 48582d26358df3e3ff3a25eea80488ac
-    parent_uid: ae8f305dfed6f6829f012e61726ab6fd
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec04_300k.mp4'
+uid: ae8f305dfed6f6829f012e61726ab6fd
 type: courses
 layout: video
 ---

@@ -1,13 +1,62 @@
 ---
-title: The Role of Recitations
-uid: dc93f2532aebfe3bc9fd04a5e7181191
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: wwQu2_u8jeo
+    parent_uid: dc93f2532aebfe3bc9fd04a5e7181191
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b70f77ebc51c7b07187808735d2aa64f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/wwQu2_u8jeo/default.jpg'
+    parent_uid: dc93f2532aebfe3bc9fd04a5e7181191
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 251987ff7a42e0b4b3cd9c7611e3984f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: wwQu2_u8jeo
+    parent_uid: dc93f2532aebfe3bc9fd04a5e7181191
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ba7a04d0599e62fd93ff4b46029923a4
+  - id: wwQu2_u8jeo.srt
+    parent_uid: dc93f2532aebfe3bc9fd04a5e7181191
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/the-role-of-recitations/wwQu2_u8jeo.srt
+    title: 3play caption file
+    type: null
+    uid: 0baa5fcbb01930a34ca091f3e342b09c
+  - id: wwQu2_u8jeo.pdf
+    parent_uid: dc93f2532aebfe3bc9fd04a5e7181191
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/the-role-of-recitations/wwQu2_u8jeo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0a8a52dbcc21a0e1c60b2558ff04abc1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: dc93f2532aebfe3bc9fd04a5e7181191
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e09edca6d9ad31a6fb42e3041ba46f50
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: dc93f2532aebfe3bc9fd04a5e7181191
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a5bdc8ce49a3b295cecd38eeb32b32b8
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator09_Recitations_300k.mp4
+    parent_uid: dc93f2532aebfe3bc9fd04a5e7181191
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c1a013f151f54321dc19f5138b1aa4d2
+inline_embed_id: 5580757theroleofrecitations44689213
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
+related_resources_text: ''
+short_url: the-role-of-recitations
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/the-role-of-recitations
-short_url: the-role-of-recitations
-inline_embed_id: 5580757theroleofrecitations44689213
-about_this_resource_text: ''
-related_resources_text: ''
+title: The Role of Recitations
 transcript: >-
   <p><span m='5530'>YEN-JIE LEE:</span> <span m='5672'>So</span> <span
   m='6100'>during</span> <span m='6400'>the</span> <span
@@ -92,56 +141,7 @@ transcript: >-
   m='98890'>lecture</span> <span m='99880'>videos</span> <span
   m='100870'>done</span> <span m='101470'>during</span> <span
   m='102100'>the</span> <span m='102250'>semester.</span> </p>
-embedded_media:
-  - uid: b70f77ebc51c7b07187808735d2aa64f
-    parent_uid: dc93f2532aebfe3bc9fd04a5e7181191
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: wwQu2_u8jeo
-  - uid: 251987ff7a42e0b4b3cd9c7611e3984f
-    parent_uid: dc93f2532aebfe3bc9fd04a5e7181191
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/wwQu2_u8jeo/default.jpg'
-  - uid: ba7a04d0599e62fd93ff4b46029923a4
-    parent_uid: dc93f2532aebfe3bc9fd04a5e7181191
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: wwQu2_u8jeo
-  - uid: 0baa5fcbb01930a34ca091f3e342b09c
-    parent_uid: dc93f2532aebfe3bc9fd04a5e7181191
-    id: wwQu2_u8jeo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/the-role-of-recitations/wwQu2_u8jeo.srt
-  - uid: 0a8a52dbcc21a0e1c60b2558ff04abc1
-    parent_uid: dc93f2532aebfe3bc9fd04a5e7181191
-    id: wwQu2_u8jeo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/the-role-of-recitations/wwQu2_u8jeo.pdf
-  - uid: e09edca6d9ad31a6fb42e3041ba46f50
-    parent_uid: dc93f2532aebfe3bc9fd04a5e7181191
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a5bdc8ce49a3b295cecd38eeb32b32b8
-    parent_uid: dc93f2532aebfe3bc9fd04a5e7181191
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c1a013f151f54321dc19f5138b1aa4d2
-    parent_uid: dc93f2532aebfe3bc9fd04a5e7181191
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator09_Recitations_300k.mp4
+uid: dc93f2532aebfe3bc9fd04a5e7181191
 type: courses
 layout: video
 ---

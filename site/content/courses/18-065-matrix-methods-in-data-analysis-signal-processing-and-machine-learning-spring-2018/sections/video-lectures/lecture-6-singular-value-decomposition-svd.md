@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 6: Singular Value Decomposition (SVD)'
-uid: 3433b303aa4bd7690c8c1d76a8edfc50
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-6-singular-value-decomposition-svd
-short_url: lecture-6-singular-value-decomposition-svd
-inline_embed_id: 6383174lecture6singularvaluedecompositionsvd97314605
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>Singular Value Decomposition (SVD) is
   the primary topic of this lecture. Professor Strang explains and illustrates
@@ -20,7 +13,62 @@ about_this_resource_text: >-
   (rotation)(stretching)(rotation) \(U\Sigma\)<em>V</em><sup>T</sup> for every
   <em>A</em></p> <p>Related section in textbook: I.8</p>
   <p><strong>Instructor:</strong> Prof. Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: rYz83XPxiZo
+    parent_uid: 3433b303aa4bd7690c8c1d76a8edfc50
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5840355097878d528a16d048ef3e2e3c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/rYz83XPxiZo/default.jpg'
+    parent_uid: 3433b303aa4bd7690c8c1d76a8edfc50
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 46f3857afae9d62187395c9b3461e306
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: rYz83XPxiZo
+    parent_uid: 3433b303aa4bd7690c8c1d76a8edfc50
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c0f3a31223752f2044d3e869ee9195d0
+  - id: rYz83XPxiZo.srt
+    parent_uid: 3433b303aa4bd7690c8c1d76a8edfc50
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-6-singular-value-decomposition-svd/rYz83XPxiZo.srt
+    title: 3play caption file
+    type: null
+    uid: e5828c3ec7520050fe4ca533c3efa91c
+  - id: rYz83XPxiZo.pdf
+    parent_uid: 3433b303aa4bd7690c8c1d76a8edfc50
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-6-singular-value-decomposition-svd/rYz83XPxiZo.pdf
+    title: 3play pdf file
+    type: null
+    uid: e6d220ed61ce3b1ebe002c67e04b63dd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3433b303aa4bd7690c8c1d76a8edfc50
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d286804e0fee59eb22e2983fea546cb9
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3433b303aa4bd7690c8c1d76a8edfc50
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 133201c774aec50026a1bd0104c82363
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture06_300k.mp4'
+    parent_uid: 3433b303aa4bd7690c8c1d76a8edfc50
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bc4f64ee2429abaeca3677d3d05dfe42
+inline_embed_id: 6383174lecture6singularvaluedecompositionsvd97314605
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-6-singular-value-decomposition-svd
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-6-singular-value-decomposition-svd
+title: 'Lecture 6: Singular Value Decomposition (SVD)'
 transcript: >-
   <p><span m="1161">ANNOUNCER:</span> <span m="1550">The</span> <span
   m="1640">following</span> <span m="2090">content</span> <span
@@ -2832,55 +2880,7 @@ transcript: >-
   m="3206510">tomorrow</span> <span m="3207500">for</span> <span
   m="3209120">the</span> <span m="3210680">principal</span> <span
   m="3211250">components.</span> <span m="3212450">Good.</span></p>
-embedded_media:
-  - uid: 5840355097878d528a16d048ef3e2e3c
-    parent_uid: 3433b303aa4bd7690c8c1d76a8edfc50
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: rYz83XPxiZo
-  - uid: 46f3857afae9d62187395c9b3461e306
-    parent_uid: 3433b303aa4bd7690c8c1d76a8edfc50
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rYz83XPxiZo/default.jpg'
-  - uid: c0f3a31223752f2044d3e869ee9195d0
-    parent_uid: 3433b303aa4bd7690c8c1d76a8edfc50
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: rYz83XPxiZo
-  - uid: e5828c3ec7520050fe4ca533c3efa91c
-    parent_uid: 3433b303aa4bd7690c8c1d76a8edfc50
-    id: rYz83XPxiZo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-6-singular-value-decomposition-svd/rYz83XPxiZo.srt
-  - uid: e6d220ed61ce3b1ebe002c67e04b63dd
-    parent_uid: 3433b303aa4bd7690c8c1d76a8edfc50
-    id: rYz83XPxiZo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-6-singular-value-decomposition-svd/rYz83XPxiZo.pdf
-  - uid: d286804e0fee59eb22e2983fea546cb9
-    parent_uid: 3433b303aa4bd7690c8c1d76a8edfc50
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 133201c774aec50026a1bd0104c82363
-    parent_uid: 3433b303aa4bd7690c8c1d76a8edfc50
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: bc4f64ee2429abaeca3677d3d05dfe42
-    parent_uid: 3433b303aa4bd7690c8c1d76a8edfc50
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture06_300k.mp4'
+uid: 3433b303aa4bd7690c8c1d76a8edfc50
 type: courses
 layout: video
 ---

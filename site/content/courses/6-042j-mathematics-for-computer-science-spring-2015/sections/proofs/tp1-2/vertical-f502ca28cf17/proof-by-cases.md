@@ -1,13 +1,72 @@
 ---
-title: Proof By Cases
-uid: da1566f6621343d1a672a28be438fb01
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: da1566f6621343d1a672a28be438fb01
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 6dd9b3f2514215a5fd0876e0e768f2c9
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: da1566f6621343d1a672a28be438fb01
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2e63ec3f307ddb34cbe679f63387bad5
+  - id: Video-YouTube-Stream
+    media_location: vzpFQ3uNyPo
+    parent_uid: da1566f6621343d1a672a28be438fb01
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7935df6989bbeb210baeb129abfc2171
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/vzpFQ3uNyPo/default.jpg'
+    parent_uid: da1566f6621343d1a672a28be438fb01
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 37d5cf7a5addbc673072ce306437ac04
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: vzpFQ3uNyPo
+    parent_uid: da1566f6621343d1a672a28be438fb01
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e8f0751d98b7c2083f0d0749a246ddeb
+  - id: vzpFQ3uNyPo.srt
+    parent_uid: da1566f6621343d1a672a28be438fb01
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2/vertical-f502ca28cf17/proof-by-cases/vzpFQ3uNyPo.srt
+    title: 3play caption file
+    type: null
+    uid: 1533ad46a1c700ff79ab3e9520d403dc
+  - id: vzpFQ3uNyPo.pdf
+    parent_uid: da1566f6621343d1a672a28be438fb01
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2/vertical-f502ca28cf17/proof-by-cases/vzpFQ3uNyPo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 414003e1b6c037f68b31aaa9a8bcb98e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: da1566f6621343d1a672a28be438fb01
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 67a1e5704ac7be88fc971fd1a5934fb6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: da1566f6621343d1a672a28be438fb01
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f46a1e917fb03033fcda6f95b542e532
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_cases_ipod.mp4'
+    parent_uid: da1566f6621343d1a672a28be438fb01
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7ea4601a4841c815f27f6dda920364bd
+inline_embed_id: 58370274proofbycases54778662
 parent_uid: 352e651800683c8223989a1643662d4c
+related_resources_text: ''
+short_url: proof-by-cases
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2/vertical-f502ca28cf17/proof-by-cases
-short_url: proof-by-cases
-inline_embed_id: 58370274proofbycases54778662
-about_this_resource_text: ''
-related_resources_text: ''
+title: Proof By Cases
 transcript: >-
   <p><span m='720'>PROFESSOR: Another</span> <span m='1010'>basic</span> <span
   m='1720'>proof</span> <span m='1970'>technique</span> <span m='2370'>is</span>
@@ -483,66 +542,7 @@ transcript: >-
   <span m='403870'>show</span> <span m='404140'>it</span> <span
   m='404280'>to</span> <span m='404430'>you</span> <span m='405420'>in</span>
   <span m='405610'>class</span> <span m='407510'>tomorrow.</span> </p>
-embedded_media:
-  - uid: 6dd9b3f2514215a5fd0876e0e768f2c9
-    parent_uid: da1566f6621343d1a672a28be438fb01
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 2e63ec3f307ddb34cbe679f63387bad5
-    parent_uid: da1566f6621343d1a672a28be438fb01
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 7935df6989bbeb210baeb129abfc2171
-    parent_uid: da1566f6621343d1a672a28be438fb01
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: vzpFQ3uNyPo
-  - uid: 37d5cf7a5addbc673072ce306437ac04
-    parent_uid: da1566f6621343d1a672a28be438fb01
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/vzpFQ3uNyPo/default.jpg'
-  - uid: e8f0751d98b7c2083f0d0749a246ddeb
-    parent_uid: da1566f6621343d1a672a28be438fb01
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: vzpFQ3uNyPo
-  - uid: 1533ad46a1c700ff79ab3e9520d403dc
-    parent_uid: da1566f6621343d1a672a28be438fb01
-    id: vzpFQ3uNyPo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2/vertical-f502ca28cf17/proof-by-cases/vzpFQ3uNyPo.srt
-  - uid: 414003e1b6c037f68b31aaa9a8bcb98e
-    parent_uid: da1566f6621343d1a672a28be438fb01
-    id: vzpFQ3uNyPo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2/vertical-f502ca28cf17/proof-by-cases/vzpFQ3uNyPo.pdf
-  - uid: 67a1e5704ac7be88fc971fd1a5934fb6
-    parent_uid: da1566f6621343d1a672a28be438fb01
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f46a1e917fb03033fcda6f95b542e532
-    parent_uid: da1566f6621343d1a672a28be438fb01
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7ea4601a4841c815f27f6dda920364bd
-    parent_uid: da1566f6621343d1a672a28be438fb01
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_cases_ipod.mp4'
+uid: da1566f6621343d1a672a28be438fb01
 type: courses
 layout: video
 ---

@@ -1,13 +1,69 @@
 ---
-title: 'Lecture 8a: Applying Consumer Theory: Child Labor'
-uid: fda22a6079726d64f4fbeb1e309d918b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: aflMMnyAO0E
+    parent_uid: fda22a6079726d64f4fbeb1e309d918b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 24262b3aa1850880af022f4db17e6f72
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/aflMMnyAO0E/default.jpg'
+    parent_uid: fda22a6079726d64f4fbeb1e309d918b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2ec277bd772214fd91ec93819e61bd27
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: aflMMnyAO0E
+    parent_uid: fda22a6079726d64f4fbeb1e309d918b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a419cc3dc7475ad8bfe84dd21fa9e048
+  - id: aflMMnyAO0E.srt
+    parent_uid: fda22a6079726d64f4fbeb1e309d918b
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/applying-consumer-theory-labor/lecture-8a-applying-consumer-theory-child-labor/aflMMnyAO0E.srt
+    title: 3play caption file
+    type: null
+    uid: c01608e65a8f42fe22e3be686577f2f1
+  - id: aflMMnyAO0E.pdf
+    parent_uid: fda22a6079726d64f4fbeb1e309d918b
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/applying-consumer-theory-labor/lecture-8a-applying-consumer-theory-child-labor/aflMMnyAO0E.pdf
+    title: 3play pdf file
+    type: null
+    uid: c79ea763c5f52b89759928cae80ee47d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fda22a6079726d64f4fbeb1e309d918b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9c17f675244bcf1516afe0d0400784c7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fda22a6079726d64f4fbeb1e309d918b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 880f49152e98f3ae06c2ff30c602e311
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec08a_300k.mp4
+    parent_uid: fda22a6079726d64f4fbeb1e309d918b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1bf75daf5d407a74975939337b73ae17
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-8a-applying-consumer/id496265654?i=109892742
+    parent_uid: fda22a6079726d64f4fbeb1e309d918b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e22386d3b6852d58dd13a30abdd300be
+inline_embed_id: 92587454lecture8aapplyingconsumertheorychildlabor45790092
 parent_uid: 52d96c2f56aa990be3ea69526d59464b
+related_resources_text: ''
+short_url: lecture-8a-applying-consumer-theory-child-labor
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/applying-consumer-theory-labor/lecture-8a-applying-consumer-theory-child-labor
-short_url: lecture-8a-applying-consumer-theory-child-labor
-inline_embed_id: 92587454lecture8aapplyingconsumertheorychildlabor45790092
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 8a: Applying Consumer Theory: Child Labor'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -1024,63 +1080,7 @@ transcript: >-
   this</span> <span m='811890'>point.</span> <span m='814745'>The</span> <span
   m='815040'>exam</span> <span m='815180'>will</span> <span m='815546'>be</span>
   <span m='816740'>on consumer</span> <span m='817070'>theory.</span> </p>
-embedded_media:
-  - uid: 24262b3aa1850880af022f4db17e6f72
-    parent_uid: fda22a6079726d64f4fbeb1e309d918b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: aflMMnyAO0E
-  - uid: 2ec277bd772214fd91ec93819e61bd27
-    parent_uid: fda22a6079726d64f4fbeb1e309d918b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/aflMMnyAO0E/default.jpg'
-  - uid: a419cc3dc7475ad8bfe84dd21fa9e048
-    parent_uid: fda22a6079726d64f4fbeb1e309d918b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: aflMMnyAO0E
-  - uid: c01608e65a8f42fe22e3be686577f2f1
-    parent_uid: fda22a6079726d64f4fbeb1e309d918b
-    id: aflMMnyAO0E.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/applying-consumer-theory-labor/lecture-8a-applying-consumer-theory-child-labor/aflMMnyAO0E.srt
-  - uid: c79ea763c5f52b89759928cae80ee47d
-    parent_uid: fda22a6079726d64f4fbeb1e309d918b
-    id: aflMMnyAO0E.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/applying-consumer-theory-labor/lecture-8a-applying-consumer-theory-child-labor/aflMMnyAO0E.pdf
-  - uid: 9c17f675244bcf1516afe0d0400784c7
-    parent_uid: fda22a6079726d64f4fbeb1e309d918b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 880f49152e98f3ae06c2ff30c602e311
-    parent_uid: fda22a6079726d64f4fbeb1e309d918b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1bf75daf5d407a74975939337b73ae17
-    parent_uid: fda22a6079726d64f4fbeb1e309d918b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec08a_300k.mp4
-  - uid: e22386d3b6852d58dd13a30abdd300be
-    parent_uid: fda22a6079726d64f4fbeb1e309d918b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-8a-applying-consumer/id496265654?i=109892742
+uid: fda22a6079726d64f4fbeb1e309d918b
 type: courses
 layout: video
 ---

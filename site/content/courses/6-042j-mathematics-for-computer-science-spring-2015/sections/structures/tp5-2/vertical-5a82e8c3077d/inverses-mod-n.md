@@ -1,13 +1,73 @@
 ---
-title: Inverses mod n
-uid: 128928955050bb68805f3cdca450eac4
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 128928955050bb68805f3cdca450eac4
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 5b214b53a277b80febbc7747eca07e03
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 128928955050bb68805f3cdca450eac4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0737fc341ee273476ef33a6a914c6d57
+  - id: Video-YouTube-Stream
+    media_location: CAKSh3M0y8k
+    parent_uid: 128928955050bb68805f3cdca450eac4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 048517b330b7d8c0f696c5504a5cc6fc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CAKSh3M0y8k/default.jpg'
+    parent_uid: 128928955050bb68805f3cdca450eac4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 18eb62a6e092574540bd18b06608feed
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: CAKSh3M0y8k
+    parent_uid: 128928955050bb68805f3cdca450eac4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c39045b2de932e0bc7bf8c928870451f
+  - id: CAKSh3M0y8k.srt
+    parent_uid: 128928955050bb68805f3cdca450eac4
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2/vertical-5a82e8c3077d/inverses-mod-n/CAKSh3M0y8k.srt
+    title: 3play caption file
+    type: null
+    uid: e81d24b52e47333c28465a7022a82993
+  - id: CAKSh3M0y8k.pdf
+    parent_uid: 128928955050bb68805f3cdca450eac4
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2/vertical-5a82e8c3077d/inverses-mod-n/CAKSh3M0y8k.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0061c3c962b4849b7aa2015fc468f0fe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 128928955050bb68805f3cdca450eac4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ed85b8ff57ea778c0a7cc3c9118ef9c2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 128928955050bb68805f3cdca450eac4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dd94fc94f826fd6e1318991312768a26
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_inversesmodn_ipod.mp4
+    parent_uid: 128928955050bb68805f3cdca450eac4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2acc27aed28fc74801c7163699722360
+inline_embed_id: 30826232inversesmodn59225208
 parent_uid: 6b3dcf5df1b96c6d56f173303bd60a95
+related_resources_text: ''
+short_url: inverses-mod-n
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2/vertical-5a82e8c3077d/inverses-mod-n
-short_url: inverses-mod-n
-inline_embed_id: 30826232inversesmodn59225208
-about_this_resource_text: ''
-related_resources_text: ''
+title: Inverses mod n
 transcript: >-
   <p><span m='360'>PROFESSOR: So,</span> <span m='570'>now</span> <span
   m='820'>we</span> <span m='930'>come</span> <span m='1190'>to</span> <span
@@ -312,67 +372,7 @@ transcript: >-
   m='251710'>prime</span> <span m='252690'>to</span> <span m='252830'>n.</span>
   <span m='253930'>And</span> <span m='254130'>that's</span> <span
   m='254440'>the</span> <span m='254520'>story.</span> </p>
-embedded_media:
-  - uid: 5b214b53a277b80febbc7747eca07e03
-    parent_uid: 128928955050bb68805f3cdca450eac4
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 0737fc341ee273476ef33a6a914c6d57
-    parent_uid: 128928955050bb68805f3cdca450eac4
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 048517b330b7d8c0f696c5504a5cc6fc
-    parent_uid: 128928955050bb68805f3cdca450eac4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CAKSh3M0y8k
-  - uid: 18eb62a6e092574540bd18b06608feed
-    parent_uid: 128928955050bb68805f3cdca450eac4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CAKSh3M0y8k/default.jpg'
-  - uid: c39045b2de932e0bc7bf8c928870451f
-    parent_uid: 128928955050bb68805f3cdca450eac4
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CAKSh3M0y8k
-  - uid: e81d24b52e47333c28465a7022a82993
-    parent_uid: 128928955050bb68805f3cdca450eac4
-    id: CAKSh3M0y8k.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2/vertical-5a82e8c3077d/inverses-mod-n/CAKSh3M0y8k.srt
-  - uid: 0061c3c962b4849b7aa2015fc468f0fe
-    parent_uid: 128928955050bb68805f3cdca450eac4
-    id: CAKSh3M0y8k.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2/vertical-5a82e8c3077d/inverses-mod-n/CAKSh3M0y8k.pdf
-  - uid: ed85b8ff57ea778c0a7cc3c9118ef9c2
-    parent_uid: 128928955050bb68805f3cdca450eac4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dd94fc94f826fd6e1318991312768a26
-    parent_uid: 128928955050bb68805f3cdca450eac4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 2acc27aed28fc74801c7163699722360
-    parent_uid: 128928955050bb68805f3cdca450eac4
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_inversesmodn_ipod.mp4
+uid: 128928955050bb68805f3cdca450eac4
 type: courses
 layout: video
 ---

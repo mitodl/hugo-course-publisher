@@ -1,13 +1,68 @@
 ---
-title: Closest Point to the Origin
-uid: 976a797d57af2668b28963fbffe0e36b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '-CsEPYeSBsg'
+    parent_uid: 976a797d57af2668b28963fbffe0e36b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b1d93dec34687362fe37a4fa10ac8f4b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-CsEPYeSBsg/default.jpg'
+    parent_uid: 976a797d57af2668b28963fbffe0e36b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d73df75050670ae5dc1b366deaab2b3f
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/closest-point-to-the-origin/id414308064?i=90318981
+    parent_uid: 976a797d57af2668b28963fbffe0e36b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 722c8d086effcab3b296a6cd84331522
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_20_300k.mp4'
+    parent_uid: 976a797d57af2668b28963fbffe0e36b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6897fb88cfdd0d25bec09243a54dc70c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '-CsEPYeSBsg'
+    parent_uid: 976a797d57af2668b28963fbffe0e36b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b947b092f5c39b1a1200ae7ebc83ff2a
+  - id: '-CsEPYeSBsg.srt'
+    parent_uid: 976a797d57af2668b28963fbffe0e36b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/closest-point-to-the-origin/-CsEPYeSBsg.srt
+    title: 3play caption file
+    type: null
+    uid: 5b02cf84ce2ca85b31359273ec8b08d2
+  - id: '-CsEPYeSBsg.pdf'
+    parent_uid: 976a797d57af2668b28963fbffe0e36b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/closest-point-to-the-origin/-CsEPYeSBsg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 82ed9bb7ad3878b0bee19aafa129a4b9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 976a797d57af2668b28963fbffe0e36b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2ff07f7a5692764e9dc83eb8b36ace49
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 976a797d57af2668b28963fbffe0e36b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6c803a5ec7be9afd3ff08d8e81944781
+inline_embed_id: 70186662closestpointtotheorigin11283216
 parent_uid: 588fcaecbbe5091660dfdf0b2efe6908
+related_resources_text: ''
+short_url: closest-point-to-the-origin
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/closest-point-to-the-origin
-short_url: closest-point-to-the-origin
-inline_embed_id: 70186662closestpointtotheorigin11283216
-about_this_resource_text: ''
-related_resources_text: ''
+title: Closest Point to the Origin
 transcript: >-
   <p><span m='0'>CHRISTINE BREINER:</span> <span m='6920'>Welcome</span> <span
   m='7340'>back</span> <span m='7510'>to</span> <span
@@ -512,62 +567,7 @@ transcript: >-
   m='397040'>And</span> <span m='397180'>I</span> <span m='397220'>think</span>
   <span m='397380'>I'll</span> <span m='397470'>stop</span> <span
   m='397680'>there.</span> </p>
-embedded_media:
-  - uid: b1d93dec34687362fe37a4fa10ac8f4b
-    parent_uid: 976a797d57af2668b28963fbffe0e36b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-CsEPYeSBsg'
-  - uid: d73df75050670ae5dc1b366deaab2b3f
-    parent_uid: 976a797d57af2668b28963fbffe0e36b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-CsEPYeSBsg/default.jpg'
-  - uid: 722c8d086effcab3b296a6cd84331522
-    parent_uid: 976a797d57af2668b28963fbffe0e36b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/closest-point-to-the-origin/id414308064?i=90318981
-  - uid: 6897fb88cfdd0d25bec09243a54dc70c
-    parent_uid: 976a797d57af2668b28963fbffe0e36b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_20_300k.mp4'
-  - uid: b947b092f5c39b1a1200ae7ebc83ff2a
-    parent_uid: 976a797d57af2668b28963fbffe0e36b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-CsEPYeSBsg'
-  - uid: 5b02cf84ce2ca85b31359273ec8b08d2
-    parent_uid: 976a797d57af2668b28963fbffe0e36b
-    id: '-CsEPYeSBsg.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/closest-point-to-the-origin/-CsEPYeSBsg.srt
-  - uid: 82ed9bb7ad3878b0bee19aafa129a4b9
-    parent_uid: 976a797d57af2668b28963fbffe0e36b
-    id: '-CsEPYeSBsg.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/closest-point-to-the-origin/-CsEPYeSBsg.pdf
-  - uid: 2ff07f7a5692764e9dc83eb8b36ace49
-    parent_uid: 976a797d57af2668b28963fbffe0e36b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6c803a5ec7be9afd3ff08d8e81944781
-    parent_uid: 976a797d57af2668b28963fbffe0e36b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 976a797d57af2668b28963fbffe0e36b
 type: courses
 layout: video
 ---

@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 8: Sampling and Standard Error'
-uid: 79b17c3a63cf71e5cb6c2947ba80aee1
-parent_uid: dfe2b9f5ab127795415ac86facf4a535
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-8-sampling-and-standard-error
-short_url: lecture-8-sampling-and-standard-error
-inline_embed_id: 3858743lecture8samplingandstandarderror56452192
 about_this_resource_text: >-
   <p><strong>Description:</strong> Prof. Guttag discusses sampling and how to
   approach and analyze real data.</p><p><strong>Instructor:</strong> John
   Guttag</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: soZv_KKax3E
+    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 777a08e173562ca4e9ab3ece02630c7d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/soZv_KKax3E/default.jpg'
+    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5f281d4e6590961a3b37776bc25de338
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: soZv_KKax3E
+    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 918b426cf62b045cf1a3b95dff269b91
+  - id: soZv_KKax3E.srt
+    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-8-sampling-and-standard-error/soZv_KKax3E.srt
+    title: 3play caption file
+    type: null
+    uid: 3f55616adc3d946f72fcf7d3b05a5d55
+  - id: soZv_KKax3E.pdf
+    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-8-sampling-and-standard-error/soZv_KKax3E.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2b524c63c8236d001970e454a3707bf9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 626b1fd35b0147fdb4803a80f442e8bb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0e490985f56e5998938506c8e4c920f5
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
+    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f93b57c2f29cae6e557bcee98c515383
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec08_300k.mp4'
+    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9a6506c6c7196c64e5d13b1dd9fb5480
+inline_embed_id: 3858743lecture8samplingandstandarderror56452192
+parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
+short_url: lecture-8-sampling-and-standard-error
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-8-sampling-and-standard-error
+title: 'Lecture 8: Sampling and Standard Error'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1330">content</span> <span m="1810">is</span> <span
@@ -2712,61 +2766,7 @@ transcript: >-
   m="2794370">week.</span> <span m="2795340">All</span> <span
   m="2795380">right,</span> <span m="2795780">thanks</span> <span
   m="2796080">a</span> <span m="2796380">lot.</span></p>
-embedded_media:
-  - uid: 777a08e173562ca4e9ab3ece02630c7d
-    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: soZv_KKax3E
-  - uid: 5f281d4e6590961a3b37776bc25de338
-    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/soZv_KKax3E/default.jpg'
-  - uid: 918b426cf62b045cf1a3b95dff269b91
-    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: soZv_KKax3E
-  - uid: 3f55616adc3d946f72fcf7d3b05a5d55
-    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
-    id: soZv_KKax3E.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-8-sampling-and-standard-error/soZv_KKax3E.srt
-  - uid: 2b524c63c8236d001970e454a3707bf9
-    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
-    id: soZv_KKax3E.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-8-sampling-and-standard-error/soZv_KKax3E.pdf
-  - uid: 626b1fd35b0147fdb4803a80f442e8bb
-    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0e490985f56e5998938506c8e4c920f5
-    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f93b57c2f29cae6e557bcee98c515383
-    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
-  - uid: 9a6506c6c7196c64e5d13b1dd9fb5480
-    parent_uid: 79b17c3a63cf71e5cb6c2947ba80aee1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec08_300k.mp4'
+uid: 79b17c3a63cf71e5cb6c2947ba80aee1
 type: courses
 layout: video
 ---

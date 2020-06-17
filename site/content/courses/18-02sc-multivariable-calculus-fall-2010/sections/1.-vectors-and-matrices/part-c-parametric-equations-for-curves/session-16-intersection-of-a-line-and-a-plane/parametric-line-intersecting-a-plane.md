@@ -1,13 +1,68 @@
 ---
-title: Parametric Line Intersecting a Plane
-uid: d72c5c240b8d3508c4a6e5c1696571ba
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: rtEaK_Jp7zU
+    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9833fd9a81e1b59a66feb83a32369328
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/rtEaK_Jp7zU/default.jpg'
+    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 429b277f464cb40c2a7251c9ca066541
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: rtEaK_Jp7zU
+    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3e9988d7fcb0daf5849e93134195bf97
+  - id: rtEaK_Jp7zU.srt
+    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-16-intersection-of-a-line-and-a-plane/parametric-line-intersecting-a-plane/rtEaK_Jp7zU.srt
+    title: 3play caption file
+    type: null
+    uid: 6e46d73c83ac3f729994deab31e63ecb
+  - id: rtEaK_Jp7zU.pdf
+    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-16-intersection-of-a-line-and-a-plane/parametric-line-intersecting-a-plane/rtEaK_Jp7zU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4c8a3e3c716366392de24d399fe82032
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 199d6053d872c3986930a9b6c320a11e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9e215ef95898431462d06fef3e18585b
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/parametric-line-intersecting/id414355340?i=90322834
+    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3ae817597f8c5f11e798a073a3d79fdb
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_14_300k.mp4'
+    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e02530b4a7e02f2d0023991fef13f6a3
+inline_embed_id: 12936381parametriclineintersectingaplane18201279
 parent_uid: d48352f417dcb010c0a5ce62f99b2e0a
+related_resources_text: ''
+short_url: parametric-line-intersecting-a-plane
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-16-intersection-of-a-line-and-a-plane/parametric-line-intersecting-a-plane
-short_url: parametric-line-intersecting-a-plane
-inline_embed_id: 12936381parametriclineintersectingaplane18201279
-about_this_resource_text: ''
-related_resources_text: ''
+title: Parametric Line Intersecting a Plane
 transcript: >-
   <p><span m='7030'>DAVID JORDAN: Hello,</span> <span m='7370'>and</span> <span
   m='7460'>welcome</span> <span m='7700'>back</span> <span m='7890'>to</span>
@@ -457,62 +512,7 @@ transcript: >-
   <span m='482760'>I'll</span> <span m='482870'>leave</span> <span
   m='482985'>it</span> <span m='483100'>at</span> <span m='483190'>that.</span>
   </p>
-embedded_media:
-  - uid: 9833fd9a81e1b59a66feb83a32369328
-    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: rtEaK_Jp7zU
-  - uid: 429b277f464cb40c2a7251c9ca066541
-    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rtEaK_Jp7zU/default.jpg'
-  - uid: 3e9988d7fcb0daf5849e93134195bf97
-    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: rtEaK_Jp7zU
-  - uid: 6e46d73c83ac3f729994deab31e63ecb
-    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
-    id: rtEaK_Jp7zU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-16-intersection-of-a-line-and-a-plane/parametric-line-intersecting-a-plane/rtEaK_Jp7zU.srt
-  - uid: 4c8a3e3c716366392de24d399fe82032
-    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
-    id: rtEaK_Jp7zU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-16-intersection-of-a-line-and-a-plane/parametric-line-intersecting-a-plane/rtEaK_Jp7zU.pdf
-  - uid: 199d6053d872c3986930a9b6c320a11e
-    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9e215ef95898431462d06fef3e18585b
-    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3ae817597f8c5f11e798a073a3d79fdb
-    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/parametric-line-intersecting/id414355340?i=90322834
-  - uid: e02530b4a7e02f2d0023991fef13f6a3
-    parent_uid: d72c5c240b8d3508c4a6e5c1696571ba
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_14_300k.mp4'
+uid: d72c5c240b8d3508c4a6e5c1696571ba
 type: courses
 layout: video
 ---

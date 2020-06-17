@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 5: Positive Definite and Semidefinite Matrices'
-uid: c7517d37c7aa58f639adf87b01e4e892
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-5-positive-definite-and-semidefinite-matrices
-short_url: lecture-5-positive-definite-and-semidefinite-matrices
-inline_embed_id: 42797807lecture5positivedefiniteandsemidefinitematrices76140079
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>In this lecture, Professor Strang
   continues reviewing key matrices, such as positive definite and semidefinite
@@ -18,7 +11,62 @@ about_this_resource_text: >-
   derivative matrix is positive definite at a minimum point.<br /> Semidefinite
   allows zero evalues/energy/pivots/determinants.</p> <p>Related section in
   textbook: I.7</p> <p><strong>Instructor:</strong> Prof. Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: xsP-S7yKaRA
+    parent_uid: c7517d37c7aa58f639adf87b01e4e892
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 79eac07257306ff0dff4da0601c0c351
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/xsP-S7yKaRA/default.jpg'
+    parent_uid: c7517d37c7aa58f639adf87b01e4e892
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1604988fff58483c7507be8ed8830d69
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: xsP-S7yKaRA
+    parent_uid: c7517d37c7aa58f639adf87b01e4e892
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c2ef9be00c47a5e9a5e2e45e3c4cd749
+  - id: xsP-S7yKaRA.srt
+    parent_uid: c7517d37c7aa58f639adf87b01e4e892
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-5-positive-definite-and-semidefinite-matrices/xsP-S7yKaRA.srt
+    title: 3play caption file
+    type: null
+    uid: a700b283d7185e95f43c226e91764e22
+  - id: xsP-S7yKaRA.pdf
+    parent_uid: c7517d37c7aa58f639adf87b01e4e892
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-5-positive-definite-and-semidefinite-matrices/xsP-S7yKaRA.pdf
+    title: 3play pdf file
+    type: null
+    uid: fdfd63a2ed5a54bd6b927fee250ea7bd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c7517d37c7aa58f639adf87b01e4e892
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a112b8ebae9bba72133bd5adee2d7648
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c7517d37c7aa58f639adf87b01e4e892
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0c16e4d164af796d0d47049dd3521a0b
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture05_300k.mp4'
+    parent_uid: c7517d37c7aa58f639adf87b01e4e892
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: aa5ab981a9e97aebb941b52fc3a10578
+inline_embed_id: 42797807lecture5positivedefiniteandsemidefinitematrices76140079
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-5-positive-definite-and-semidefinite-matrices
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-5-positive-definite-and-semidefinite-matrices
+title: 'Lecture 5: Positive Definite and Semidefinite Matrices'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2448,55 +2496,7 @@ transcript: >-
   m="2723580">Monday</span> <span m="2723910">but</span> <span
   m="2724090">Tuesday</span> <span m="2725560">next</span> <span
   m="2725890">week.</span></p>
-embedded_media:
-  - uid: 79eac07257306ff0dff4da0601c0c351
-    parent_uid: c7517d37c7aa58f639adf87b01e4e892
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: xsP-S7yKaRA
-  - uid: 1604988fff58483c7507be8ed8830d69
-    parent_uid: c7517d37c7aa58f639adf87b01e4e892
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/xsP-S7yKaRA/default.jpg'
-  - uid: c2ef9be00c47a5e9a5e2e45e3c4cd749
-    parent_uid: c7517d37c7aa58f639adf87b01e4e892
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: xsP-S7yKaRA
-  - uid: a700b283d7185e95f43c226e91764e22
-    parent_uid: c7517d37c7aa58f639adf87b01e4e892
-    id: xsP-S7yKaRA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-5-positive-definite-and-semidefinite-matrices/xsP-S7yKaRA.srt
-  - uid: fdfd63a2ed5a54bd6b927fee250ea7bd
-    parent_uid: c7517d37c7aa58f639adf87b01e4e892
-    id: xsP-S7yKaRA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-5-positive-definite-and-semidefinite-matrices/xsP-S7yKaRA.pdf
-  - uid: a112b8ebae9bba72133bd5adee2d7648
-    parent_uid: c7517d37c7aa58f639adf87b01e4e892
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0c16e4d164af796d0d47049dd3521a0b
-    parent_uid: c7517d37c7aa58f639adf87b01e4e892
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: aa5ab981a9e97aebb941b52fc3a10578
-    parent_uid: c7517d37c7aa58f639adf87b01e4e892
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture05_300k.mp4'
+uid: c7517d37c7aa58f639adf87b01e4e892
 type: courses
 layout: video
 ---

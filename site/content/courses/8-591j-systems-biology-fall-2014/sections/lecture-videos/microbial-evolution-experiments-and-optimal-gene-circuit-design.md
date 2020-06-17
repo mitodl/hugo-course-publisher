@@ -1,18 +1,72 @@
 ---
-title: Microbial Evolution Experiments and Optimal Gene Circuit Design
-uid: 86d262091449f6a469c9a0917f8fae8d
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/microbial-evolution-experiments-and-optimal-gene-circuit-design
-short_url: microbial-evolution-experiments-and-optimal-gene-circuit-design
-inline_embed_id: 97345967microbialevolutionexperimentsandoptimalgenecircuitdesign88899287
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Jeff Gore discusses
   the Nature article &quot;Optimality and Evolutionary Tuning of the Expression
   Level of a Protein,&quot; with emphasis on the connection between theory,
   prediction, and experiment.</p> <p><strong>Instructor:</strong> Prof. Jeff
   Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 9yGxpWVWYDY
+    parent_uid: 86d262091449f6a469c9a0917f8fae8d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: edec914a9351b8688b9b9f77fe23b648
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9yGxpWVWYDY/default.jpg'
+    parent_uid: 86d262091449f6a469c9a0917f8fae8d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d8ee8f12789bc7372389441096cba557
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: 86d262091449f6a469c9a0917f8fae8d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 64a82f4255d17353810c2e3bcfb9543a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec14_300k.mp4'
+    parent_uid: 86d262091449f6a469c9a0917f8fae8d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2b7151da98ee9b27fce8d0b79258c99a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 9yGxpWVWYDY
+    parent_uid: 86d262091449f6a469c9a0917f8fae8d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f029386eff45a678e4af71d9c0744d7b
+  - id: 9yGxpWVWYDY.srt
+    parent_uid: 86d262091449f6a469c9a0917f8fae8d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/microbial-evolution-experiments-and-optimal-gene-circuit-design/9yGxpWVWYDY.srt
+    title: 3play caption file
+    type: null
+    uid: a35ea24edfc8567f5a6dc16e59ea8367
+  - id: 9yGxpWVWYDY.pdf
+    parent_uid: 86d262091449f6a469c9a0917f8fae8d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/microbial-evolution-experiments-and-optimal-gene-circuit-design/9yGxpWVWYDY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9c7db76bcc1106ddd7bd6ac361dea3f5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 86d262091449f6a469c9a0917f8fae8d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d6bc425a12c5b558d88a466a9d52bfea
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 86d262091449f6a469c9a0917f8fae8d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8ba8f7db24fbdf6cc49cce7de14c3a4d
+inline_embed_id: 97345967microbialevolutionexperimentsandoptimalgenecircuitdesign88899287
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: microbial-evolution-experiments-and-optimal-gene-circuit-design
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/microbial-evolution-experiments-and-optimal-gene-circuit-design
+title: Microbial Evolution Experiments and Optimal Gene Circuit Design
 transcript: >-
   <p><span m="90">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4337,61 +4391,7 @@ transcript: >-
   m="4776870">any</span> <span m="4776940">questions,</span> <span
   m="4777440">please</span> <span m="4777740">feel free</span> <span
   m="4778040">to come</span> <span m="4778340">on up.</span></p>
-embedded_media:
-  - uid: edec914a9351b8688b9b9f77fe23b648
-    parent_uid: 86d262091449f6a469c9a0917f8fae8d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9yGxpWVWYDY
-  - uid: d8ee8f12789bc7372389441096cba557
-    parent_uid: 86d262091449f6a469c9a0917f8fae8d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9yGxpWVWYDY/default.jpg'
-  - uid: 64a82f4255d17353810c2e3bcfb9543a
-    parent_uid: 86d262091449f6a469c9a0917f8fae8d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: 2b7151da98ee9b27fce8d0b79258c99a
-    parent_uid: 86d262091449f6a469c9a0917f8fae8d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec14_300k.mp4'
-  - uid: f029386eff45a678e4af71d9c0744d7b
-    parent_uid: 86d262091449f6a469c9a0917f8fae8d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9yGxpWVWYDY
-  - uid: a35ea24edfc8567f5a6dc16e59ea8367
-    parent_uid: 86d262091449f6a469c9a0917f8fae8d
-    id: 9yGxpWVWYDY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/microbial-evolution-experiments-and-optimal-gene-circuit-design/9yGxpWVWYDY.srt
-  - uid: 9c7db76bcc1106ddd7bd6ac361dea3f5
-    parent_uid: 86d262091449f6a469c9a0917f8fae8d
-    id: 9yGxpWVWYDY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/microbial-evolution-experiments-and-optimal-gene-circuit-design/9yGxpWVWYDY.pdf
-  - uid: d6bc425a12c5b558d88a466a9d52bfea
-    parent_uid: 86d262091449f6a469c9a0917f8fae8d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8ba8f7db24fbdf6cc49cce7de14c3a4d
-    parent_uid: 86d262091449f6a469c9a0917f8fae8d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 86d262091449f6a469c9a0917f8fae8d
 type: courses
 layout: video
 ---

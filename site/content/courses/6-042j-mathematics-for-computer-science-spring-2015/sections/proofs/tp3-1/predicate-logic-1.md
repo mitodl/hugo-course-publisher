@@ -1,13 +1,73 @@
 ---
-title: Predicate Logic 1
-uid: c2f89807e7f85c6c3bb8408d16e6ce11
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 7b230fd58413076ce9470079d70a74f3
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d6d118e72d73719c525174e781884803
+  - id: Video-YouTube-Stream
+    media_location: UroprmQHTLc
+    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fd69c93bfa9ed42955a2c558b9aa9e35
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/UroprmQHTLc/default.jpg'
+    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b9cdff7bffb3d2a5651f43d61be00757
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: UroprmQHTLc
+    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a229cad07ed95da279dcda4da4bc9bc4
+  - id: UroprmQHTLc.srt
+    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-1/predicate-logic-1/UroprmQHTLc.srt
+    title: 3play caption file
+    type: null
+    uid: 985c1264f6ccef4fbfb75bbc22532fa9
+  - id: UroprmQHTLc.pdf
+    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-1/predicate-logic-1/UroprmQHTLc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 73d036f85058daa89f18f859ec34b657
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b8601b356f43e53f46bbb00e678edf1b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c4e5918f324ae82d7b2f6e5b731774d1
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_predicatelogic1_ipod.mp4
+    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 72eb83b9ceae48ef8458292eae1f5c94
+inline_embed_id: 83823483predicatelogic14925685
 parent_uid: 101f2dc98b9878a06c0f57e750015c84
+related_resources_text: ''
+short_url: predicate-logic-1
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-1/predicate-logic-1
-short_url: predicate-logic-1
-inline_embed_id: 83823483predicatelogic14925685
-about_this_resource_text: ''
-related_resources_text: ''
+title: Predicate Logic 1
 transcript: >-
   <p><span m='920'>PROFESSOR: The</span> <span m='990'>logic</span> <span
   m='1540'>of</span> <span m='1930'>predicates</span> <span m='2840'>is</span>
@@ -827,67 +887,7 @@ transcript: >-
   m='748560'>or</span> <span m='748670'>equal</span> <span m='748960'>to</span>
   <span m='749700'>every</span> <span m='750130'>other</span> <span
   m='750920'>negative</span> <span m='751320'>integer.</span> </p>
-embedded_media:
-  - uid: 7b230fd58413076ce9470079d70a74f3
-    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: d6d118e72d73719c525174e781884803
-    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: fd69c93bfa9ed42955a2c558b9aa9e35
-    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: UroprmQHTLc
-  - uid: b9cdff7bffb3d2a5651f43d61be00757
-    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/UroprmQHTLc/default.jpg'
-  - uid: a229cad07ed95da279dcda4da4bc9bc4
-    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: UroprmQHTLc
-  - uid: 985c1264f6ccef4fbfb75bbc22532fa9
-    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
-    id: UroprmQHTLc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-1/predicate-logic-1/UroprmQHTLc.srt
-  - uid: 73d036f85058daa89f18f859ec34b657
-    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
-    id: UroprmQHTLc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-1/predicate-logic-1/UroprmQHTLc.pdf
-  - uid: b8601b356f43e53f46bbb00e678edf1b
-    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c4e5918f324ae82d7b2f6e5b731774d1
-    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 72eb83b9ceae48ef8458292eae1f5c94
-    parent_uid: c2f89807e7f85c6c3bb8408d16e6ce11
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_predicatelogic1_ipod.mp4
+uid: c2f89807e7f85c6c3bb8408d16e6ce11
 type: courses
 layout: video
 ---

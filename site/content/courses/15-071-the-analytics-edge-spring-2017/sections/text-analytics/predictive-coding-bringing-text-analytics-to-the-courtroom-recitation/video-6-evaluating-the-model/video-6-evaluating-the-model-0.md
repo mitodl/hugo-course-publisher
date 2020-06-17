@@ -1,13 +1,62 @@
 ---
-title: 'Video 6: Evaluating the Model'
-uid: a5a7534cfac2a1a44d37286c969fee55
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 6m39f8lDONs
+    parent_uid: a5a7534cfac2a1a44d37286c969fee55
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4436f1775a7e04c82cf0b35c30c7f84d
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 6m39f8lDONs
+    parent_uid: a5a7534cfac2a1a44d37286c969fee55
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b8acc5242e91adf5db9680756d7ae132
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/6m39f8lDONs/default.jpg'
+    parent_uid: a5a7534cfac2a1a44d37286c969fee55
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 11ceda78c4ebc7cbae87452d4008c5b0
+  - id: 6m39f8lDONs.srt
+    parent_uid: a5a7534cfac2a1a44d37286c969fee55
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-6-evaluating-the-model/video-6-evaluating-the-model-0/6m39f8lDONs.srt
+    title: 3play caption file
+    type: null
+    uid: 104b3ef4fda69948c75e6761ff0af44c
+  - id: 6m39f8lDONs.pdf
+    parent_uid: a5a7534cfac2a1a44d37286c969fee55
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-6-evaluating-the-model/video-6-evaluating-the-model-0/6m39f8lDONs.pdf
+    title: 3play pdf file
+    type: null
+    uid: f7fedcec36e465ae51acd17f0c120e7c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a5a7534cfac2a1a44d37286c969fee55
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d22d3ca4eaf3ec943a473414d018a86b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a5a7534cfac2a1a44d37286c969fee55
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ab7679c3e81708e842d1622a297d6780
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.4.07_300k.mp4
+    parent_uid: a5a7534cfac2a1a44d37286c969fee55
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 170183230ab5e3e29e5acc17f2a8b69a
+inline_embed_id: 24361654video6evaluatingthemodel57767841
 parent_uid: 54a5cfa02012d0816815948514b434c1
+related_resources_text: ''
+short_url: video-6-evaluating-the-model-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-6-evaluating-the-model/video-6-evaluating-the-model-0
-short_url: video-6-evaluating-the-model-0
-inline_embed_id: 24361654video6evaluatingthemodel57767841
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 6: Evaluating the Model'
 transcript: >-
   <p><span m='4530'>Now</span> <span m='4752'>that</span> <span
   m='4975'>we've</span> <span m='5198'>trained</span> <span m='5421'>a</span>
@@ -264,56 +313,7 @@ transcript: >-
   <span m='245631'>other</span> <span m='246172'>cut-offs</span> <span
   m='246714'>on</span> <span m='247255'>our</span> <span m='247797'>ROC</span>
   <span m='248338'>curve.</span> </p>
-embedded_media:
-  - uid: 4436f1775a7e04c82cf0b35c30c7f84d
-    parent_uid: a5a7534cfac2a1a44d37286c969fee55
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 6m39f8lDONs
-  - uid: b8acc5242e91adf5db9680756d7ae132
-    parent_uid: a5a7534cfac2a1a44d37286c969fee55
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 6m39f8lDONs
-  - uid: 11ceda78c4ebc7cbae87452d4008c5b0
-    parent_uid: a5a7534cfac2a1a44d37286c969fee55
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/6m39f8lDONs/default.jpg'
-  - uid: 104b3ef4fda69948c75e6761ff0af44c
-    parent_uid: a5a7534cfac2a1a44d37286c969fee55
-    id: 6m39f8lDONs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-6-evaluating-the-model/video-6-evaluating-the-model-0/6m39f8lDONs.srt
-  - uid: f7fedcec36e465ae51acd17f0c120e7c
-    parent_uid: a5a7534cfac2a1a44d37286c969fee55
-    id: 6m39f8lDONs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-6-evaluating-the-model/video-6-evaluating-the-model-0/6m39f8lDONs.pdf
-  - uid: d22d3ca4eaf3ec943a473414d018a86b
-    parent_uid: a5a7534cfac2a1a44d37286c969fee55
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ab7679c3e81708e842d1622a297d6780
-    parent_uid: a5a7534cfac2a1a44d37286c969fee55
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 170183230ab5e3e29e5acc17f2a8b69a
-    parent_uid: a5a7534cfac2a1a44d37286c969fee55
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.4.07_300k.mp4
+uid: a5a7534cfac2a1a44d37286c969fee55
 type: courses
 layout: video
 ---

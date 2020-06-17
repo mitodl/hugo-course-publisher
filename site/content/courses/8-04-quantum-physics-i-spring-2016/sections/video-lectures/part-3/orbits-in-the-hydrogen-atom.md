@@ -1,13 +1,67 @@
 ---
-title: Orbits in the hydrogen atom
-uid: c4b58182aa91a68e3b3deb6965dbb08f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: c5yzy1S3gPg
+    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e7de65e42659b48422f45f335dec35db
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/c5yzy1S3gPg/default.jpg'
+    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d3edfc6b1c68a9b10db0fa048e3c873d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: c5yzy1S3gPg
+    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b519c7b54ae46b06a2b6ca2bfe5e1ad6
+  - id: c5yzy1S3gPg.srt
+    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/orbits-in-the-hydrogen-atom/c5yzy1S3gPg.srt
+    title: 3play caption file
+    type: null
+    uid: 69e06369f43e560eb12cca8ad2c88293
+  - id: c5yzy1S3gPg.pdf
+    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/orbits-in-the-hydrogen-atom/c5yzy1S3gPg.pdf
+    title: 3play pdf file
+    type: null
+    uid: a3af8676dfce816a84c6504dff8685cd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b89b40f8cee7293e65c622642593ad73
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b8d8a821073b38f325b97c73ce2d0f3e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c688fa1b08228cf1db9aafa3eeef928b
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec23_s4_300k.mp4'
+    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 53b887ef6a2bc4dd66f7c776ace2e6ba
+inline_embed_id: 21440793orbitsinthehydrogenatom45841651
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: orbits-in-the-hydrogen-atom
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/orbits-in-the-hydrogen-atom
-short_url: orbits-in-the-hydrogen-atom
-inline_embed_id: 21440793orbitsinthehydrogenatom45841651
-about_this_resource_text: ''
-related_resources_text: ''
+title: Orbits in the hydrogen atom
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='165'>Let</span> <span
   m='330'>me</span> <span m='600'>discuss,</span> <span m='1320'>for a</span>
@@ -517,61 +571,7 @@ transcript: >-
   m='642140'>time</span> <span m='642710'>and</span> <span m='642920'>do</span>
   <span m='643100'>some</span> <span m='643640'>other</span> <span
   m='643910'>fun</span> <span m='644210'>things.</span> </p>
-embedded_media:
-  - uid: e7de65e42659b48422f45f335dec35db
-    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: c5yzy1S3gPg
-  - uid: d3edfc6b1c68a9b10db0fa048e3c873d
-    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/c5yzy1S3gPg/default.jpg'
-  - uid: b519c7b54ae46b06a2b6ca2bfe5e1ad6
-    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: c5yzy1S3gPg
-  - uid: 69e06369f43e560eb12cca8ad2c88293
-    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
-    id: c5yzy1S3gPg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/orbits-in-the-hydrogen-atom/c5yzy1S3gPg.srt
-  - uid: a3af8676dfce816a84c6504dff8685cd
-    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
-    id: c5yzy1S3gPg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/orbits-in-the-hydrogen-atom/c5yzy1S3gPg.pdf
-  - uid: b89b40f8cee7293e65c622642593ad73
-    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b8d8a821073b38f325b97c73ce2d0f3e
-    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c688fa1b08228cf1db9aafa3eeef928b
-    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 53b887ef6a2bc4dd66f7c776ace2e6ba
-    parent_uid: c4b58182aa91a68e3b3deb6965dbb08f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec23_s4_300k.mp4'
+uid: c4b58182aa91a68e3b3deb6965dbb08f
 type: courses
 layout: video
 ---

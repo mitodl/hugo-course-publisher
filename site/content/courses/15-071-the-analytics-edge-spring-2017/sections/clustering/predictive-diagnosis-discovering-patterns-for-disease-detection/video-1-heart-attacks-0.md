@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: Heart Attacks'
-uid: 8584b4b2b658d77d6c103cfdec5b2e86
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: RS4Ol9PzxCM
+    parent_uid: 8584b4b2b658d77d6c103cfdec5b2e86
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8a693a856aa24e4157a9bca8b3b92bae
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: RS4Ol9PzxCM
+    parent_uid: 8584b4b2b658d77d6c103cfdec5b2e86
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a731a031242ce70b0125fdfc13617718
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/RS4Ol9PzxCM/default.jpg'
+    parent_uid: 8584b4b2b658d77d6c103cfdec5b2e86
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1e5da5437feedf0ec701df36f871799e
+  - id: RS4Ol9PzxCM.srt
+    parent_uid: 8584b4b2b658d77d6c103cfdec5b2e86
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-1-heart-attacks-0/RS4Ol9PzxCM.srt
+    title: 3play caption file
+    type: null
+    uid: 5387b2b87b398c2f7765b06e653c1bfd
+  - id: RS4Ol9PzxCM.pdf
+    parent_uid: 8584b4b2b658d77d6c103cfdec5b2e86
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-1-heart-attacks-0/RS4Ol9PzxCM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3c5f1e73a8113294463996cae860ef95
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8584b4b2b658d77d6c103cfdec5b2e86
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2f74054fa175dce594b1b54fa2c8df0c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8584b4b2b658d77d6c103cfdec5b2e86
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 27671f9903f514f359a2f930e257dce9
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.3.01_300k.mp4
+    parent_uid: 8584b4b2b658d77d6c103cfdec5b2e86
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 81cddd9532c5b7c9faa7456d94b7341f
+inline_embed_id: 88397663video1heartattacks20734205
 parent_uid: 0943bd811d9caf9e92bf3c7bf9d7b9f2
+related_resources_text: ''
+short_url: video-1-heart-attacks-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-1-heart-attacks-0
-short_url: video-1-heart-attacks-0
-inline_embed_id: 88397663video1heartattacks20734205
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: Heart Attacks'
 transcript: >-
   <p><span m='9490'>In</span> <span m='9715'>this</span> <span
   m='9941'>lecture,</span> <span m='10167'>we</span> <span
@@ -159,56 +208,7 @@ transcript: >-
   m='146337'>taking</span> <span m='146925'>action</span> <span
   m='147514'>early</span> <span m='148102'>and</span> <span
   m='148691'>effectively.</span> </p>
-embedded_media:
-  - uid: 8a693a856aa24e4157a9bca8b3b92bae
-    parent_uid: 8584b4b2b658d77d6c103cfdec5b2e86
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: RS4Ol9PzxCM
-  - uid: a731a031242ce70b0125fdfc13617718
-    parent_uid: 8584b4b2b658d77d6c103cfdec5b2e86
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: RS4Ol9PzxCM
-  - uid: 1e5da5437feedf0ec701df36f871799e
-    parent_uid: 8584b4b2b658d77d6c103cfdec5b2e86
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/RS4Ol9PzxCM/default.jpg'
-  - uid: 5387b2b87b398c2f7765b06e653c1bfd
-    parent_uid: 8584b4b2b658d77d6c103cfdec5b2e86
-    id: RS4Ol9PzxCM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-1-heart-attacks-0/RS4Ol9PzxCM.srt
-  - uid: 3c5f1e73a8113294463996cae860ef95
-    parent_uid: 8584b4b2b658d77d6c103cfdec5b2e86
-    id: RS4Ol9PzxCM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-1-heart-attacks-0/RS4Ol9PzxCM.pdf
-  - uid: 2f74054fa175dce594b1b54fa2c8df0c
-    parent_uid: 8584b4b2b658d77d6c103cfdec5b2e86
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 27671f9903f514f359a2f930e257dce9
-    parent_uid: 8584b4b2b658d77d6c103cfdec5b2e86
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 81cddd9532c5b7c9faa7456d94b7341f
-    parent_uid: 8584b4b2b658d77d6c103cfdec5b2e86
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.3.01_300k.mp4
+uid: 8584b4b2b658d77d6c103cfdec5b2e86
 type: courses
 layout: video
 ---

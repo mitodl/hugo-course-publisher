@@ -1,13 +1,67 @@
 ---
-title: Energy levels and diagram for hydrogen
-uid: 2c3209286aec58d855ca86090c6c2641
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8cRnBhBaSOo
+    parent_uid: 2c3209286aec58d855ca86090c6c2641
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3570f43a1c547624395b34ed8ccab021
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/8cRnBhBaSOo/default.jpg'
+    parent_uid: 2c3209286aec58d855ca86090c6c2641
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: dfb31bfc846540644142501e38596098
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 8cRnBhBaSOo
+    parent_uid: 2c3209286aec58d855ca86090c6c2641
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1d086560d37a3576a9c0cd0350004e6d
+  - id: 8cRnBhBaSOo.srt
+    parent_uid: 2c3209286aec58d855ca86090c6c2641
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/energy-levels-and-diagram-for-hydrogen/8cRnBhBaSOo.srt
+    title: 3play caption file
+    type: null
+    uid: 1dd0b1b0e5fbf2590eb90cdcce7f3431
+  - id: 8cRnBhBaSOo.pdf
+    parent_uid: 2c3209286aec58d855ca86090c6c2641
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/energy-levels-and-diagram-for-hydrogen/8cRnBhBaSOo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 36cc0d25a5d686aa6b2c3e78910a03f1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2c3209286aec58d855ca86090c6c2641
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3af2b9d4328fe868bb3e429e7155cf17
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2c3209286aec58d855ca86090c6c2641
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e44fc931aee2300027368c0b47a84bd0
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 2c3209286aec58d855ca86090c6c2641
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 096a28b2b83714eeb4c659a42df20861
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec23_s1_300k.mp4'
+    parent_uid: 2c3209286aec58d855ca86090c6c2641
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9140a6e1fabc11d45b084312e0a1a74a
+inline_embed_id: 5370024energylevelsanddiagramforhydrogen21715703
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: energy-levels-and-diagram-for-hydrogen
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/energy-levels-and-diagram-for-hydrogen
-short_url: energy-levels-and-diagram-for-hydrogen
-inline_embed_id: 5370024energylevelsanddiagramforhydrogen21715703
-about_this_resource_text: ''
-related_resources_text: ''
+title: Energy levels and diagram for hydrogen
 transcript: >-
   <p><span m='480'>PROFESSOR:</span> <span m='615'>What</span> <span
   m='750'>did</span> <span m='990'>we</span> <span m='1170'>have</span> <span
@@ -674,61 +728,7 @@ transcript: >-
   m='819110'>would</span> <span m='819410'>violate</span> <span
   m='819950'>the</span> <span m='820100'>known</span> <span
   m='820400'>theorem.</span> </p>
-embedded_media:
-  - uid: 3570f43a1c547624395b34ed8ccab021
-    parent_uid: 2c3209286aec58d855ca86090c6c2641
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8cRnBhBaSOo
-  - uid: dfb31bfc846540644142501e38596098
-    parent_uid: 2c3209286aec58d855ca86090c6c2641
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8cRnBhBaSOo/default.jpg'
-  - uid: 1d086560d37a3576a9c0cd0350004e6d
-    parent_uid: 2c3209286aec58d855ca86090c6c2641
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8cRnBhBaSOo
-  - uid: 1dd0b1b0e5fbf2590eb90cdcce7f3431
-    parent_uid: 2c3209286aec58d855ca86090c6c2641
-    id: 8cRnBhBaSOo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/energy-levels-and-diagram-for-hydrogen/8cRnBhBaSOo.srt
-  - uid: 36cc0d25a5d686aa6b2c3e78910a03f1
-    parent_uid: 2c3209286aec58d855ca86090c6c2641
-    id: 8cRnBhBaSOo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/energy-levels-and-diagram-for-hydrogen/8cRnBhBaSOo.pdf
-  - uid: 3af2b9d4328fe868bb3e429e7155cf17
-    parent_uid: 2c3209286aec58d855ca86090c6c2641
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e44fc931aee2300027368c0b47a84bd0
-    parent_uid: 2c3209286aec58d855ca86090c6c2641
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 096a28b2b83714eeb4c659a42df20861
-    parent_uid: 2c3209286aec58d855ca86090c6c2641
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 9140a6e1fabc11d45b084312e0a1a74a
-    parent_uid: 2c3209286aec58d855ca86090c6c2641
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec23_s1_300k.mp4'
+uid: 2c3209286aec58d855ca86090c6c2641
 type: courses
 layout: video
 ---

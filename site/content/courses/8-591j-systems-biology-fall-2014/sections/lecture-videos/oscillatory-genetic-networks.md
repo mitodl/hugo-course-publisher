@@ -1,11 +1,4 @@
 ---
-title: Oscillatory Genetic Networks
-uid: 483f31c40b541821b8d0f3daee0f195f
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/oscillatory-genetic-networks
-short_url: oscillatory-genetic-networks
-inline_embed_id: 3899252oscillatorygeneticnetworks36964253
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Jeff Gore introduces
   oscillatory genetic networks. He asks why oscillations are useful, and why
@@ -13,7 +6,68 @@ about_this_resource_text: >-
   article: <a href="http://dx.doi.org/10.1038/35002125">A Synthetic Oscillatory
   Network of Transcriptional Regulators</a>.</p> <p><strong>Instructor:</strong>
   Prof. Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: xNNxlsY-F-s
+    parent_uid: 483f31c40b541821b8d0f3daee0f195f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8f88f986e7b7e0cde3f70eca30191814
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/xNNxlsY-F-s/default.jpg'
+    parent_uid: 483f31c40b541821b8d0f3daee0f195f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6bbb7ac50d1a3af90a9cce37efc81a8c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: 483f31c40b541821b8d0f3daee0f195f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bcb95dd393290cadf3138f5aa29e75b2
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec05_300k.mp4'
+    parent_uid: 483f31c40b541821b8d0f3daee0f195f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 788000a7a9f7ef720119e04f6cf40ed6
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: xNNxlsY-F-s
+    parent_uid: 483f31c40b541821b8d0f3daee0f195f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4b00612b0a7d2235e59515a4bfe523ed
+  - id: xNNxlsY-F-s.srt
+    parent_uid: 483f31c40b541821b8d0f3daee0f195f
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/oscillatory-genetic-networks/xNNxlsY-F-s.srt
+    title: 3play caption file
+    type: null
+    uid: 5e2facabcf05e33e88c203dc73962c22
+  - id: xNNxlsY-F-s.pdf
+    parent_uid: 483f31c40b541821b8d0f3daee0f195f
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/oscillatory-genetic-networks/xNNxlsY-F-s.pdf
+    title: 3play pdf file
+    type: null
+    uid: c0988b28f3818790cc10d280b24ca706
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 483f31c40b541821b8d0f3daee0f195f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 45e0589e530168e809439b37bc4a9568
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 483f31c40b541821b8d0f3daee0f195f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0c2e25f54a73ce540742dfbac6ce5172
+inline_embed_id: 3899252oscillatorygeneticnetworks36964253
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: oscillatory-genetic-networks
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/oscillatory-genetic-networks
+title: Oscillatory Genetic Networks
 transcript: >-
   <p><span m="60">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -5124,61 +5178,7 @@ transcript: >-
   m="4867060">for</span> <span m="4868240">robustness</span> <span
   m="4868860">and</span> <span m="4869160">tunability.</span> <span
   m="4869460">OK?</span></p>
-embedded_media:
-  - uid: 8f88f986e7b7e0cde3f70eca30191814
-    parent_uid: 483f31c40b541821b8d0f3daee0f195f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: xNNxlsY-F-s
-  - uid: 6bbb7ac50d1a3af90a9cce37efc81a8c
-    parent_uid: 483f31c40b541821b8d0f3daee0f195f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/xNNxlsY-F-s/default.jpg'
-  - uid: bcb95dd393290cadf3138f5aa29e75b2
-    parent_uid: 483f31c40b541821b8d0f3daee0f195f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: 788000a7a9f7ef720119e04f6cf40ed6
-    parent_uid: 483f31c40b541821b8d0f3daee0f195f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec05_300k.mp4'
-  - uid: 4b00612b0a7d2235e59515a4bfe523ed
-    parent_uid: 483f31c40b541821b8d0f3daee0f195f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: xNNxlsY-F-s
-  - uid: 5e2facabcf05e33e88c203dc73962c22
-    parent_uid: 483f31c40b541821b8d0f3daee0f195f
-    id: xNNxlsY-F-s.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/oscillatory-genetic-networks/xNNxlsY-F-s.srt
-  - uid: c0988b28f3818790cc10d280b24ca706
-    parent_uid: 483f31c40b541821b8d0f3daee0f195f
-    id: xNNxlsY-F-s.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/oscillatory-genetic-networks/xNNxlsY-F-s.pdf
-  - uid: 45e0589e530168e809439b37bc4a9568
-    parent_uid: 483f31c40b541821b8d0f3daee0f195f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0c2e25f54a73ce540742dfbac6ce5172
-    parent_uid: 483f31c40b541821b8d0f3daee0f195f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 483f31c40b541821b8d0f3daee0f195f
 type: courses
 layout: video
 ---

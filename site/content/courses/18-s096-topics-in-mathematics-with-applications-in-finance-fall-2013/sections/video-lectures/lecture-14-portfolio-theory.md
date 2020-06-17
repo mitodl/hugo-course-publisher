@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 14: Portfolio Theory'
-uid: 0f6ae00c71a8f8a73d852d821a2d473d
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-14-portfolio-theory
-short_url: lecture-14-portfolio-theory
-inline_embed_id: '55145056lecture14:portfoliotheory3664865'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture describes portfolio theory,
   including topics of Markowitz mean-variance optimization, von
   Neumann-Morganstern utility theory, portfolio optimization constraints, and
   risk measures.</p> <p><strong>Instructor:</strong> Dr. Peter Kempthorne</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ywl3pq6yc54
+    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6fbc4e444d3991edc54c0f332d84879d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ywl3pq6yc54/default.jpg'
+    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5c0094da85ef5a288a792424aabe83af
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4cb803cbc25bd7afbe69ce7a38e39f6c
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec14_300k.mp4'
+    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0d3b80583a94777cd6e1dfeae9b2d145
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ywl3pq6yc54
+    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bab80668f2d08316e38127f2333ad9df
+  - id: ywl3pq6yc54.srt
+    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-14-portfolio-theory/ywl3pq6yc54.srt
+    title: 3play caption file
+    type: null
+    uid: 4464170c7218ffb4922b12c018231b02
+  - id: ywl3pq6yc54.pdf
+    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-14-portfolio-theory/ywl3pq6yc54.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1d785287f238bbd6ef61d14ad727085b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 01fd225e2ec85a530b3ed320207c5f31
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b351b1e152a4508c2924dc0d25779703
+inline_embed_id: '55145056lecture14:portfoliotheory3664865'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-14-portfolio-theory
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-14-portfolio-theory
+title: 'Lecture 14: Portfolio Theory'
 transcript: >-
   <p><span m='60'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -4195,61 +4249,7 @@ transcript: >-
   m='5091520'>OK,</span> <span m='5091820'>let's</span> <span
   m='5092120'>stop</span> <span m='5092420'>there.</span> <span
   m='5092720'>Thank</span> <span m='5093020'>you.</span> </p>
-embedded_media:
-  - uid: 6fbc4e444d3991edc54c0f332d84879d
-    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ywl3pq6yc54
-  - uid: 5c0094da85ef5a288a792424aabe83af
-    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ywl3pq6yc54/default.jpg'
-  - uid: 4cb803cbc25bd7afbe69ce7a38e39f6c
-    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: 0d3b80583a94777cd6e1dfeae9b2d145
-    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec14_300k.mp4'
-  - uid: bab80668f2d08316e38127f2333ad9df
-    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ywl3pq6yc54
-  - uid: 4464170c7218ffb4922b12c018231b02
-    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
-    id: ywl3pq6yc54.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-14-portfolio-theory/ywl3pq6yc54.srt
-  - uid: 1d785287f238bbd6ef61d14ad727085b
-    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
-    id: ywl3pq6yc54.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-14-portfolio-theory/ywl3pq6yc54.pdf
-  - uid: 01fd225e2ec85a530b3ed320207c5f31
-    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b351b1e152a4508c2924dc0d25779703
-    parent_uid: 0f6ae00c71a8f8a73d852d821a2d473d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 0f6ae00c71a8f8a73d852d821a2d473d
 type: courses
 layout: video
 ---

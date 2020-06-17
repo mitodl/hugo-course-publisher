@@ -1,13 +1,62 @@
 ---
-title: 'Video 4: Understanding Cluster Patterns'
-uid: dd0dc4016f76a1e6d098a156706d7a03
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: NAQhRc3OQAw
+    parent_uid: dd0dc4016f76a1e6d098a156706d7a03
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 345dbd7ba7abe526df465535278a2b47
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: NAQhRc3OQAw
+    parent_uid: dd0dc4016f76a1e6d098a156706d7a03
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 46ab4ceec9bbf40a6a13523932811e85
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/NAQhRc3OQAw/default.jpg'
+    parent_uid: dd0dc4016f76a1e6d098a156706d7a03
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 90e8852a3149649ebad4ad63000aacce
+  - id: NAQhRc3OQAw.srt
+    parent_uid: dd0dc4016f76a1e6d098a156706d7a03
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-4-understanding-cluster-patterns/video-4-understanding-cluster-patterns-0/NAQhRc3OQAw.srt
+    title: 3play caption file
+    type: null
+    uid: e64b04eaa4f62cb7dac9d4c4ec137f3c
+  - id: NAQhRc3OQAw.pdf
+    parent_uid: dd0dc4016f76a1e6d098a156706d7a03
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-4-understanding-cluster-patterns/video-4-understanding-cluster-patterns-0/NAQhRc3OQAw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4e98ecffb504a97d0a956f576195320b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: dd0dc4016f76a1e6d098a156706d7a03
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bec02dfb4216ea62d08d1bb74bcba203
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: dd0dc4016f76a1e6d098a156706d7a03
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a653ee8e7baf8a24df4399426c85dfb5
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.3.07_300k.mp4
+    parent_uid: dd0dc4016f76a1e6d098a156706d7a03
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 293241fff717e97da043c388429b2a58
+inline_embed_id: 67839147video4understandingclusterpatterns1819786
 parent_uid: 78f3fc27501caf07e3396696e57794c6
+related_resources_text: ''
+short_url: video-4-understanding-cluster-patterns-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-4-understanding-cluster-patterns/video-4-understanding-cluster-patterns-0
-short_url: video-4-understanding-cluster-patterns-0
-inline_embed_id: 67839147video4understandingclusterpatterns1819786
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 4: Understanding Cluster Patterns'
 transcript: >-
   <p><span m='4500'>Let</span> <span m='4904'>us</span> <span
   m='5309'>see</span> <span m='5713'>what</span> <span m='6118'>we</span> <span
@@ -188,56 +237,7 @@ transcript: >-
   <span m='200833'>event</span> <span m='201285'>versus</span> <span
   m='201736'>the</span> <span m='202187'>other</span> <span
   m='202638'>population.</span> </p>
-embedded_media:
-  - uid: 345dbd7ba7abe526df465535278a2b47
-    parent_uid: dd0dc4016f76a1e6d098a156706d7a03
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: NAQhRc3OQAw
-  - uid: 46ab4ceec9bbf40a6a13523932811e85
-    parent_uid: dd0dc4016f76a1e6d098a156706d7a03
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: NAQhRc3OQAw
-  - uid: 90e8852a3149649ebad4ad63000aacce
-    parent_uid: dd0dc4016f76a1e6d098a156706d7a03
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/NAQhRc3OQAw/default.jpg'
-  - uid: e64b04eaa4f62cb7dac9d4c4ec137f3c
-    parent_uid: dd0dc4016f76a1e6d098a156706d7a03
-    id: NAQhRc3OQAw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-4-understanding-cluster-patterns/video-4-understanding-cluster-patterns-0/NAQhRc3OQAw.srt
-  - uid: 4e98ecffb504a97d0a956f576195320b
-    parent_uid: dd0dc4016f76a1e6d098a156706d7a03
-    id: NAQhRc3OQAw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-4-understanding-cluster-patterns/video-4-understanding-cluster-patterns-0/NAQhRc3OQAw.pdf
-  - uid: bec02dfb4216ea62d08d1bb74bcba203
-    parent_uid: dd0dc4016f76a1e6d098a156706d7a03
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a653ee8e7baf8a24df4399426c85dfb5
-    parent_uid: dd0dc4016f76a1e6d098a156706d7a03
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 293241fff717e97da043c388429b2a58
-    parent_uid: dd0dc4016f76a1e6d098a156706d7a03
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.3.07_300k.mp4
+uid: dd0dc4016f76a1e6d098a156706d7a03
 type: courses
 layout: video
 ---

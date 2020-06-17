@@ -1,18 +1,90 @@
 ---
-title: 'Lecture 31: Parametric Equations'
-uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-31-parametric-equations
-short_url: lecture-31-parametric-equations
-inline_embed_id: '52052897lecture31:parametricequations36445316'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Parametric equations,
   arclength, surface area</p> <p><strong>Instructor:</strong> Prof. David
   Jerison</p></div>
+embedded_media:
+  - id: lec31.jpg
+    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-31-parametric-equations/lec31.jpg
+    title: Lecture 31
+    type: null
+    uid: d26defc7daa5d594d0c5b1f52527629b
+  - id: Video-YouTube-Stream
+    media_location: TpWQlKHPyJ4
+    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 11ce7d13bb47bd23079a9be13396941a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TpWQlKHPyJ4/default.jpg'
+    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 07811213a01af8cd0c69c25e2c3fafe0
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c92b5e4dac5dda7e73a754d3e1a2de52
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec31_300k.mp4'
+    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b44a507e0cc4ef5907f136622da4bff4
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: c479482106fd4c3022472b1af3436494
+  - id: Thumbnail-OCW-JPG
+    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: a1cdcf00ae86674bcceb0e225982ceb7
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TpWQlKHPyJ4
+    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 56cea60b6ddacd95c79d4fb16cca42c7
+  - id: TpWQlKHPyJ4.srt
+    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-31-parametric-equations/TpWQlKHPyJ4.srt
+    title: 3play caption file
+    type: null
+    uid: a89196a1e26e245a411d32ec08219c23
+  - id: TpWQlKHPyJ4.pdf
+    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-31-parametric-equations/TpWQlKHPyJ4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9aa6eea60d8e3e142f4c54ffe725e78f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 34bd92c9ba30fc2d053bb0cf52a7a654
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 80ff3cbeda1e6f7108c1961d3020d664
+inline_embed_id: '52052897lecture31:parametricequations36445316'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/4e595a52d48ece2a2d6b9cc8fd71136a">PDF</a>)</p></div>
+short_url: lecture-31-parametric-equations
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-31-parametric-equations
+title: 'Lecture 31: Parametric Equations'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1290'>is</span> <span m='1420'>provided</span>
@@ -2454,79 +2526,7 @@ transcript: >-
   m='2719030'>And</span> <span m='2719930'>we'll</span> <span
   m='2720410'>do</span> <span m='2720590'>that</span> <span
   m='2721780'>next</span> <span m='2722140'>time.</span> </p>
-embedded_media:
-  - uid: d26defc7daa5d594d0c5b1f52527629b
-    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
-    id: lec31.jpg
-    title: Lecture 31
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-31-parametric-equations/lec31.jpg
-  - uid: 11ce7d13bb47bd23079a9be13396941a
-    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TpWQlKHPyJ4
-  - uid: 07811213a01af8cd0c69c25e2c3fafe0
-    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TpWQlKHPyJ4/default.jpg'
-  - uid: c92b5e4dac5dda7e73a754d3e1a2de52
-    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: b44a507e0cc4ef5907f136622da4bff4
-    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec31_300k.mp4'
-  - uid: c479482106fd4c3022472b1af3436494
-    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: a1cdcf00ae86674bcceb0e225982ceb7
-    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 56cea60b6ddacd95c79d4fb16cca42c7
-    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TpWQlKHPyJ4
-  - uid: a89196a1e26e245a411d32ec08219c23
-    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
-    id: TpWQlKHPyJ4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-31-parametric-equations/TpWQlKHPyJ4.srt
-  - uid: 9aa6eea60d8e3e142f4c54ffe725e78f
-    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
-    id: TpWQlKHPyJ4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-31-parametric-equations/TpWQlKHPyJ4.pdf
-  - uid: 34bd92c9ba30fc2d053bb0cf52a7a654
-    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 80ff3cbeda1e6f7108c1961d3020d664
-    parent_uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
 type: courses
 layout: video
 ---

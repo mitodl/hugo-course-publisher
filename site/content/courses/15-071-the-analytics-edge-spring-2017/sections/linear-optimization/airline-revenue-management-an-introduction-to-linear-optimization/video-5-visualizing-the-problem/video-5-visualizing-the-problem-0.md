@@ -1,13 +1,62 @@
 ---
-title: 'Video 5: Visualizing the Problem'
-uid: 7049189f24cfe5e0b7a78b4c6f748eb7
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0RaZe62Rg2A
+    parent_uid: 7049189f24cfe5e0b7a78b4c6f748eb7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a49233d3ff2ea3500c6ab24b11be2766
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 0RaZe62Rg2A
+    parent_uid: 7049189f24cfe5e0b7a78b4c6f748eb7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 83b7242c23629f1eb9dc44a285bb4411
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0RaZe62Rg2A/default.jpg'
+    parent_uid: 7049189f24cfe5e0b7a78b4c6f748eb7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cd8e371c64134021a30e321637df1e02
+  - id: 0RaZe62Rg2A.srt
+    parent_uid: 7049189f24cfe5e0b7a78b4c6f748eb7
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-5-visualizing-the-problem/video-5-visualizing-the-problem-0/0RaZe62Rg2A.srt
+    title: 3play caption file
+    type: null
+    uid: d2113e1f3b7856ca19959dc20f2d5029
+  - id: 0RaZe62Rg2A.pdf
+    parent_uid: 7049189f24cfe5e0b7a78b4c6f748eb7
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-5-visualizing-the-problem/video-5-visualizing-the-problem-0/0RaZe62Rg2A.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1fe66b5119da4de6ce00337a53212e3e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7049189f24cfe5e0b7a78b4c6f748eb7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c63d8a8b0837ccc4a25e280c800a34b1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7049189f24cfe5e0b7a78b4c6f748eb7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4ed19ef7b08c1429edfcf00b3cbae123
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.2.08_300k.mp4
+    parent_uid: 7049189f24cfe5e0b7a78b4c6f748eb7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: dfff742386e4456157de30869a08b986
+inline_embed_id: 64346291video5visualizingtheproblem44984638
 parent_uid: f7f2a67cb4796f7b313da3b222582c72
+related_resources_text: ''
+short_url: video-5-visualizing-the-problem-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-5-visualizing-the-problem/video-5-visualizing-the-problem-0
-short_url: video-5-visualizing-the-problem-0
-inline_embed_id: 64346291video5visualizingtheproblem44984638
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 5: Visualizing the Problem'
 transcript: >-
   <p><span m='4500'>So</span> <span m='4735'>we</span> <span m='4970'>saw</span>
   <span m='5205'>in</span> <span m='5440'>the</span> <span
@@ -176,56 +225,7 @@ transcript: >-
   m='159020'>our</span> <span m='159560'>capacity</span> <span
   m='160100'>and</span> <span m='160640'>demands</span> <span
   m='161180'>change.</span> </p>
-embedded_media:
-  - uid: a49233d3ff2ea3500c6ab24b11be2766
-    parent_uid: 7049189f24cfe5e0b7a78b4c6f748eb7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0RaZe62Rg2A
-  - uid: 83b7242c23629f1eb9dc44a285bb4411
-    parent_uid: 7049189f24cfe5e0b7a78b4c6f748eb7
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0RaZe62Rg2A
-  - uid: cd8e371c64134021a30e321637df1e02
-    parent_uid: 7049189f24cfe5e0b7a78b4c6f748eb7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0RaZe62Rg2A/default.jpg'
-  - uid: d2113e1f3b7856ca19959dc20f2d5029
-    parent_uid: 7049189f24cfe5e0b7a78b4c6f748eb7
-    id: 0RaZe62Rg2A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-5-visualizing-the-problem/video-5-visualizing-the-problem-0/0RaZe62Rg2A.srt
-  - uid: 1fe66b5119da4de6ce00337a53212e3e
-    parent_uid: 7049189f24cfe5e0b7a78b4c6f748eb7
-    id: 0RaZe62Rg2A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-5-visualizing-the-problem/video-5-visualizing-the-problem-0/0RaZe62Rg2A.pdf
-  - uid: c63d8a8b0837ccc4a25e280c800a34b1
-    parent_uid: 7049189f24cfe5e0b7a78b4c6f748eb7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4ed19ef7b08c1429edfcf00b3cbae123
-    parent_uid: 7049189f24cfe5e0b7a78b4c6f748eb7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: dfff742386e4456157de30869a08b986
-    parent_uid: 7049189f24cfe5e0b7a78b4c6f748eb7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.2.08_300k.mp4
+uid: 7049189f24cfe5e0b7a78b4c6f748eb7
 type: courses
 layout: video
 ---

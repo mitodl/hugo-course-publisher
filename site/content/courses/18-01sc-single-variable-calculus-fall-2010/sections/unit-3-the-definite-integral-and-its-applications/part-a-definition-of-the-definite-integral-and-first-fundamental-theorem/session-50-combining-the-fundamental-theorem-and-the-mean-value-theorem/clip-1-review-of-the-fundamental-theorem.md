@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Review of the Fundamental Theorem'
-uid: c207e7c4151e20849581e05f1ba4058c
-parent_uid: 40dfd7f7252455d1041a5ecfb183cd9f
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-50-combining-the-fundamental-theorem-and-the-mean-value-theorem/clip-1-review-of-the-fundamental-theorem
-short_url: clip-1-review-of-the-fundamental-theorem
-inline_embed_id: '98808030clip1:reviewofthefundamentaltheorem67450185'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/7ccbc2a966279b589d2e426d86285e27"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 20 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Pd2xP5zDsRw
+    parent_uid: c207e7c4151e20849581e05f1ba4058c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f5cfa2de8b81b393c5283c234d537a62
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Pd2xP5zDsRw/default.jpg'
+    parent_uid: c207e7c4151e20849581e05f1ba4058c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1c4cab54c929c22c5449fd3d7ba4b0ca
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: Pd2xP5zDsRw
+    parent_uid: c207e7c4151e20849581e05f1ba4058c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e6d8fa95f42b7564beb79c3d9ea4dc25
+  - id: Pd2xP5zDsRw.srt
+    parent_uid: c207e7c4151e20849581e05f1ba4058c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-50-combining-the-fundamental-theorem-and-the-mean-value-theorem/clip-1-review-of-the-fundamental-theorem/Pd2xP5zDsRw.srt
+    title: 3play caption file
+    type: null
+    uid: 0f07358d891a75d46e1f8c3404710ddd
+  - id: Pd2xP5zDsRw.pdf
+    parent_uid: c207e7c4151e20849581e05f1ba4058c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-50-combining-the-fundamental-theorem-and-the-mean-value-theorem/clip-1-review-of-the-fundamental-theorem/Pd2xP5zDsRw.pdf
+    title: 3play pdf file
+    type: null
+    uid: ac87e7e7112fcf69da31c7a046e3486f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c207e7c4151e20849581e05f1ba4058c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0c4e54ab12ec7d0f55c008d5bc1a9b7a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c207e7c4151e20849581e05f1ba4058c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 38a53b324bd398bacedcd9cab6ce314a
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec20_300k.mp4'
+    parent_uid: c207e7c4151e20849581e05f1ba4058c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e0c0f30a319f0fac93215f98107574cc
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: c207e7c4151e20849581e05f1ba4058c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 83004eabfd757ad4351c372de50f1cd1
+inline_embed_id: '98808030clip1:reviewofthefundamentaltheorem67450185'
+parent_uid: 40dfd7f7252455d1041a5ecfb183cd9f
 related_resources_text: ''
+short_url: clip-1-review-of-the-fundamental-theorem
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-50-combining-the-fundamental-theorem-and-the-mean-value-theorem/clip-1-review-of-the-fundamental-theorem
+title: 'Clip 1: Review of the Fundamental Theorem'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='520'>content</span> <span m='1020'>is</span> <span m='1130'>provided</span>
@@ -2593,61 +2647,7 @@ transcript: >-
   m='2965760'>and</span> <span m='2965870'>engineering.</span> <span
   m='2966730'>So,</span> <span m='2967940'>see you</span> <span
   m='2968110'>next</span> <span m='2968360'>time.</span> </p>
-embedded_media:
-  - uid: f5cfa2de8b81b393c5283c234d537a62
-    parent_uid: c207e7c4151e20849581e05f1ba4058c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Pd2xP5zDsRw
-  - uid: 1c4cab54c929c22c5449fd3d7ba4b0ca
-    parent_uid: c207e7c4151e20849581e05f1ba4058c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Pd2xP5zDsRw/default.jpg'
-  - uid: e6d8fa95f42b7564beb79c3d9ea4dc25
-    parent_uid: c207e7c4151e20849581e05f1ba4058c
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Pd2xP5zDsRw
-  - uid: 0f07358d891a75d46e1f8c3404710ddd
-    parent_uid: c207e7c4151e20849581e05f1ba4058c
-    id: Pd2xP5zDsRw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-50-combining-the-fundamental-theorem-and-the-mean-value-theorem/clip-1-review-of-the-fundamental-theorem/Pd2xP5zDsRw.srt
-  - uid: ac87e7e7112fcf69da31c7a046e3486f
-    parent_uid: c207e7c4151e20849581e05f1ba4058c
-    id: Pd2xP5zDsRw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-50-combining-the-fundamental-theorem-and-the-mean-value-theorem/clip-1-review-of-the-fundamental-theorem/Pd2xP5zDsRw.pdf
-  - uid: 0c4e54ab12ec7d0f55c008d5bc1a9b7a
-    parent_uid: c207e7c4151e20849581e05f1ba4058c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 38a53b324bd398bacedcd9cab6ce314a
-    parent_uid: c207e7c4151e20849581e05f1ba4058c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e0c0f30a319f0fac93215f98107574cc
-    parent_uid: c207e7c4151e20849581e05f1ba4058c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec20_300k.mp4'
-  - uid: 83004eabfd757ad4351c372de50f1cd1
-    parent_uid: c207e7c4151e20849581e05f1ba4058c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: c207e7c4151e20849581e05f1ba4058c
 type: courses
 layout: video
 ---

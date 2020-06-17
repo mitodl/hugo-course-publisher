@@ -1,13 +1,67 @@
 ---
-title: The nature of superposition. Mach-Zehnder interferometer
-uid: be26d061f1267fbff17497029175d89e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: CR-eOhdxbes
+    parent_uid: be26d061f1267fbff17497029175d89e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 67433a4b0a34b012339c1b5b2628d5e5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CR-eOhdxbes/default.jpg'
+    parent_uid: be26d061f1267fbff17497029175d89e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 270dfed92e86bd5d0c46cabb7f032dbd
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: CR-eOhdxbes
+    parent_uid: be26d061f1267fbff17497029175d89e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 227940abd64f45ea6ff9f21af4fbf19b
+  - id: CR-eOhdxbes.srt
+    parent_uid: be26d061f1267fbff17497029175d89e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-nature-of-superposition.-mach-zehnder-interferometer/CR-eOhdxbes.srt
+    title: 3play caption file
+    type: null
+    uid: 746f16fd6e459d5990dae8b924ff9870
+  - id: CR-eOhdxbes.pdf
+    parent_uid: be26d061f1267fbff17497029175d89e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-nature-of-superposition.-mach-zehnder-interferometer/CR-eOhdxbes.pdf
+    title: 3play pdf file
+    type: null
+    uid: f10c99957fea1ad46e248451e4a9fc82
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: be26d061f1267fbff17497029175d89e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9a5e911f56c30cd0fad5c49bcbd9f3d0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: be26d061f1267fbff17497029175d89e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 35b9a5010c43345ec9a03268437037cb
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: be26d061f1267fbff17497029175d89e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 859017d85a5475414c920e90817b64d7
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec01_s5_300k.mp4'
+    parent_uid: be26d061f1267fbff17497029175d89e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 56f533dc219cc804581cb516d4d9f2a8
+inline_embed_id: 73861742thenatureofsuperposition.machzehnderinterferometer91396215
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: the-nature-of-superposition.-mach-zehnder-interferometer
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-nature-of-superposition.-mach-zehnder-interferometer
-short_url: the-nature-of-superposition.-mach-zehnder-interferometer
-inline_embed_id: 73861742thenatureofsuperposition.machzehnderinterferometer91396215
-about_this_resource_text: ''
-related_resources_text: ''
+title: The nature of superposition. Mach-Zehnder interferometer
 transcript: >-
   <p><span m='330'>PROFESSOR:</span> <span m='660'>Superposition</span> <span
   m='1590'>is</span> <span m='2370'>very</span> <span m='4260'>unusual</span>
@@ -700,61 +754,7 @@ transcript: >-
   m='867910'>probabilities</span> <span m='868820'>and</span> <span
   m='869000'>reconstruct</span> <span m='869930'>the</span> <span
   m='870230'>state.</span> </p>
-embedded_media:
-  - uid: 67433a4b0a34b012339c1b5b2628d5e5
-    parent_uid: be26d061f1267fbff17497029175d89e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CR-eOhdxbes
-  - uid: 270dfed92e86bd5d0c46cabb7f032dbd
-    parent_uid: be26d061f1267fbff17497029175d89e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CR-eOhdxbes/default.jpg'
-  - uid: 227940abd64f45ea6ff9f21af4fbf19b
-    parent_uid: be26d061f1267fbff17497029175d89e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CR-eOhdxbes
-  - uid: 746f16fd6e459d5990dae8b924ff9870
-    parent_uid: be26d061f1267fbff17497029175d89e
-    id: CR-eOhdxbes.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-nature-of-superposition.-mach-zehnder-interferometer/CR-eOhdxbes.srt
-  - uid: f10c99957fea1ad46e248451e4a9fc82
-    parent_uid: be26d061f1267fbff17497029175d89e
-    id: CR-eOhdxbes.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-nature-of-superposition.-mach-zehnder-interferometer/CR-eOhdxbes.pdf
-  - uid: 9a5e911f56c30cd0fad5c49bcbd9f3d0
-    parent_uid: be26d061f1267fbff17497029175d89e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 35b9a5010c43345ec9a03268437037cb
-    parent_uid: be26d061f1267fbff17497029175d89e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 859017d85a5475414c920e90817b64d7
-    parent_uid: be26d061f1267fbff17497029175d89e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 56f533dc219cc804581cb516d4d9f2a8
-    parent_uid: be26d061f1267fbff17497029175d89e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec01_s5_300k.mp4'
+uid: be26d061f1267fbff17497029175d89e
 type: courses
 layout: video
 ---

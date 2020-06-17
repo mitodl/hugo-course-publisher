@@ -1,20 +1,75 @@
 ---
-title: 'Mega-Recitation 5: Support Vector Machines'
-uid: 9ee21cee870951df49203ea2ca822c05
-parent_uid: 6be7704ddfe26b4e12703167347dd5bb
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-5-support-vector-machines
-short_url: mega-recitation-5-support-vector-machines
-inline_embed_id: '49313491mega-recitation5:supportvectormachines27386558'
 about_this_resource_text: >-
   <p><strong>Description:</strong> We start by discussing what a support vector
   is, using two-dimensional graphs as an example. We work Problem 1 of Quiz 4,
   Fall 2008: identifying support vectors, describing the classifier, and using a
   kernel function to project points into a new space.</p>
   <p><strong>Instructor:</strong> Mark Seifter</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 6nDqY8MPLDM
+    parent_uid: 9ee21cee870951df49203ea2ca822c05
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 26c8fad46880dc77513428a8bc293be0
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/mega-recitation-5-support/id765641080?i=194482764
+    parent_uid: 9ee21cee870951df49203ea2ca822c05
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1ff7b594eeba4ecafc0e9b93b3dbab2f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_rec05_300k.mp4'
+    parent_uid: 9ee21cee870951df49203ea2ca822c05
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d9d0513671a2554e47be46000cde4c67
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/6nDqY8MPLDM/default.jpg'
+    parent_uid: 9ee21cee870951df49203ea2ca822c05
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0a29f58541c6dff6e564fa05335d4186
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 6nDqY8MPLDM
+    parent_uid: 9ee21cee870951df49203ea2ca822c05
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0b2a59719f31aec67164652acbd46242
+  - id: 6nDqY8MPLDM.srt
+    parent_uid: 9ee21cee870951df49203ea2ca822c05
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-5-support-vector-machines/6nDqY8MPLDM.srt
+    title: 3play caption file
+    type: null
+    uid: de25c99fbfd76d0248140d26d00976ed
+  - id: 6nDqY8MPLDM.pdf
+    parent_uid: 9ee21cee870951df49203ea2ca822c05
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-5-support-vector-machines/6nDqY8MPLDM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 03e696f347acd224c31d6a68eb2ceafc
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9ee21cee870951df49203ea2ca822c05
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0ec097077cbe590fbaade16475f5eb4a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9ee21cee870951df49203ea2ca822c05
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9b61f5c225ae91c94119b5f194a4b4a0
+inline_embed_id: '49313491mega-recitation5:supportvectormachines27386558'
+parent_uid: 6be7704ddfe26b4e12703167347dd5bb
 related_resources_text: >-
   <p><a href="./resolveuid/b0d5ec844c188de34ba938365c875711"
   target="_blank">Quiz 4, Fall 2008 (PDF)</a></p>
+short_url: mega-recitation-5-support-vector-machines
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-5-support-vector-machines
+title: 'Mega-Recitation 5: Support Vector Machines'
 transcript: >-
   <p><span m='70'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1220'>is</span> <span m='1330'>provided</span>
@@ -3020,62 +3075,7 @@ transcript: >-
   m='2987980'>boosting</span> <span m='2988540'>and</span> <span
   m='2988730'>vampires</span> <span m='2989450'>next</span> <span
   m='2989840'>week.</span> </p>
-embedded_media:
-  - uid: 26c8fad46880dc77513428a8bc293be0
-    parent_uid: 9ee21cee870951df49203ea2ca822c05
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 6nDqY8MPLDM
-  - uid: 1ff7b594eeba4ecafc0e9b93b3dbab2f
-    parent_uid: 9ee21cee870951df49203ea2ca822c05
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/mega-recitation-5-support/id765641080?i=194482764
-  - uid: d9d0513671a2554e47be46000cde4c67
-    parent_uid: 9ee21cee870951df49203ea2ca822c05
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_rec05_300k.mp4'
-  - uid: 0a29f58541c6dff6e564fa05335d4186
-    parent_uid: 9ee21cee870951df49203ea2ca822c05
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/6nDqY8MPLDM/default.jpg'
-  - uid: 0b2a59719f31aec67164652acbd46242
-    parent_uid: 9ee21cee870951df49203ea2ca822c05
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 6nDqY8MPLDM
-  - uid: de25c99fbfd76d0248140d26d00976ed
-    parent_uid: 9ee21cee870951df49203ea2ca822c05
-    id: 6nDqY8MPLDM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-5-support-vector-machines/6nDqY8MPLDM.srt
-  - uid: 03e696f347acd224c31d6a68eb2ceafc
-    parent_uid: 9ee21cee870951df49203ea2ca822c05
-    id: 6nDqY8MPLDM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-5-support-vector-machines/6nDqY8MPLDM.pdf
-  - uid: 0ec097077cbe590fbaade16475f5eb4a
-    parent_uid: 9ee21cee870951df49203ea2ca822c05
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9b61f5c225ae91c94119b5f194a4b4a0
-    parent_uid: 9ee21cee870951df49203ea2ca822c05
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9ee21cee870951df49203ea2ca822c05
 type: courses
 layout: video
 ---

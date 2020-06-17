@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Eigenvalues and Eigenvectors'
-uid: 3db609ece48ec731c6ed9b150e441fb5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: mVeuZzJdd1w
+    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1688b60b42a31f39b5022dfeb85a1db9
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: mVeuZzJdd1w
+    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ae942bbf50591e8ac73463d048840a0f
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/eigenvalues-eigenvectors/id488155309?i=108454351
+    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 50fa540fa217a5870a07a7bbb58deaac
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110706_N2_300k.mp4
+    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f3d8f869d71e1386bd79b850ab3a840a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/mVeuZzJdd1w/default.jpg'
+    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7d4dee638225ec48fbd3218cbab36b45
+  - id: mVeuZzJdd1w.srt
+    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-eigenvalues-and-eigenvectors/mVeuZzJdd1w.srt
+    title: 3play caption file
+    type: null
+    uid: 7c8f95b6e9b1bb1aa976459a9de729bb
+  - id: mVeuZzJdd1w.pdf
+    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-eigenvalues-and-eigenvectors/mVeuZzJdd1w.pdf
+    title: 3play pdf file
+    type: null
+    uid: 39fefff85a0f9d9f2823779a19ad2337
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 75a581989339b932f0901d77e9d14a33
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: aca8d0e56832e99a645103d0217b7921
+inline_embed_id: 45374693problemsolvingeigenvaluesandeigenvectors88569010
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: problem-solving-eigenvalues-and-eigenvectors
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-eigenvalues-and-eigenvectors
-short_url: problem-solving-eigenvalues-and-eigenvectors
-inline_embed_id: 45374693problemsolvingeigenvaluesandeigenvectors88569010
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Eigenvalues and Eigenvectors'
 transcript: >-
   <p><span m='7110'>PROFESSOR: Hi</span> <span m='7280'>guys.</span> <span
   m='8540'>Today,</span> <span m='9360'>we</span> <span m='9630'>are</span>
@@ -362,63 +418,7 @@ transcript: >-
   m='557340'>be</span> <span m='557650'>the</span> <span m='557980'>same.</span>
   <span m='559630'>OK,</span> <span m='560120'>we're</span> <span
   m='560310'>done.</span> </p>
-embedded_media:
-  - uid: 1688b60b42a31f39b5022dfeb85a1db9
-    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: mVeuZzJdd1w
-  - uid: ae942bbf50591e8ac73463d048840a0f
-    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: mVeuZzJdd1w
-  - uid: 50fa540fa217a5870a07a7bbb58deaac
-    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/eigenvalues-eigenvectors/id488155309?i=108454351
-  - uid: f3d8f869d71e1386bd79b850ab3a840a
-    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110706_N2_300k.mp4
-  - uid: 7d4dee638225ec48fbd3218cbab36b45
-    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/mVeuZzJdd1w/default.jpg'
-  - uid: 7c8f95b6e9b1bb1aa976459a9de729bb
-    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
-    id: mVeuZzJdd1w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-eigenvalues-and-eigenvectors/mVeuZzJdd1w.srt
-  - uid: 39fefff85a0f9d9f2823779a19ad2337
-    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
-    id: mVeuZzJdd1w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-eigenvalues-and-eigenvectors/mVeuZzJdd1w.pdf
-  - uid: 75a581989339b932f0901d77e9d14a33
-    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: aca8d0e56832e99a645103d0217b7921
-    parent_uid: 3db609ece48ec731c6ed9b150e441fb5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3db609ece48ec731c6ed9b150e441fb5
 type: courses
 layout: video
 ---

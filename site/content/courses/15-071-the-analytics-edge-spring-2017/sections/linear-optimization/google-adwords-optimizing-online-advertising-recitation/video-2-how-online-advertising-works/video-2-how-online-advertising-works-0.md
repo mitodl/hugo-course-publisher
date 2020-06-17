@@ -1,13 +1,69 @@
 ---
-title: 'Video 2: How Online Advertising Works'
-uid: f3d72bd887cbd1fb9bdcb833863152a6
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: zasCvIWLyRA
+    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: eb700f8edf2a4cf00a5084f1d953e30e
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: zasCvIWLyRA
+    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5ee314c917eab96c8d5a06177ece15f3
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/zasCvIWLyRA/default.jpg'
+    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0c27a4e57b819bca21ed27dfc2dce882
+  - id: zasCvIWLyRA.srt
+    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-2-how-online-advertising-works/video-2-how-online-advertising-works-0/zasCvIWLyRA.srt
+    title: 3play caption file
+    type: null
+    uid: eb70a10cb74d91d37f4b45aad63a256f
+  - id: zasCvIWLyRA.pdf
+    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-2-how-online-advertising-works/video-2-how-online-advertising-works-0/zasCvIWLyRA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 59b07b1bd55c8135263004e57f8ea8ca
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f806e34df5fe8f398f28ed8bdf22516e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dadfacb0143de4d931632ec9f6f89608
+  - id: Video--MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.03_300k.mp4
+    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
+    title: Video--MP4
+    type: Video
+    uid: 4d3561bf8750f7b43c4c933a385b46d2
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.03_300k.mp4
+    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: eec54781ab8e98927720b1fa7c40a659
+inline_embed_id: 17701981video2howonlineadvertisingworks52695620
 parent_uid: 9ca8d5221938d4b571f2f13ccdb46a19
+related_resources_text: ''
+short_url: video-2-how-online-advertising-works-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-2-how-online-advertising-works/video-2-how-online-advertising-works-0
-short_url: video-2-how-online-advertising-works-0
-inline_embed_id: 17701981video2howonlineadvertisingworks52695620
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: How Online Advertising Works'
 transcript: >-
   <p><span m='5190'>The</span> <span m='5486'>process</span> <span
   m='5783'>by</span> <span m='6080'>which</span> <span m='6376'>Google</span>
@@ -331,63 +387,7 @@ transcript: >-
   m='301390'>of</span> <span m='301952'>our</span> <span
   m='302514'>linear</span> <span m='303076'>optimization</span> <span
   m='303638'>model.</span> </p>
-embedded_media:
-  - uid: eb700f8edf2a4cf00a5084f1d953e30e
-    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: zasCvIWLyRA
-  - uid: 5ee314c917eab96c8d5a06177ece15f3
-    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: zasCvIWLyRA
-  - uid: 0c27a4e57b819bca21ed27dfc2dce882
-    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/zasCvIWLyRA/default.jpg'
-  - uid: eb70a10cb74d91d37f4b45aad63a256f
-    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
-    id: zasCvIWLyRA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-2-how-online-advertising-works/video-2-how-online-advertising-works-0/zasCvIWLyRA.srt
-  - uid: 59b07b1bd55c8135263004e57f8ea8ca
-    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
-    id: zasCvIWLyRA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-2-how-online-advertising-works/video-2-how-online-advertising-works-0/zasCvIWLyRA.pdf
-  - uid: f806e34df5fe8f398f28ed8bdf22516e
-    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dadfacb0143de4d931632ec9f6f89608
-    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4d3561bf8750f7b43c4c933a385b46d2
-    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
-    id: Video--MP4
-    title: Video--MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.03_300k.mp4
-  - uid: eec54781ab8e98927720b1fa7c40a659
-    parent_uid: f3d72bd887cbd1fb9bdcb833863152a6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.03_300k.mp4
+uid: f3d72bd887cbd1fb9bdcb833863152a6
 type: courses
 layout: video
 ---

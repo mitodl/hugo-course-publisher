@@ -1,13 +1,68 @@
 ---
-title: Partial Derivatives
-uid: 674d6623580d8dcd2e1f3155ce26154b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: KnVNFj53Eq4
+    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 93468937191c66cebf61c2e040cace4a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/KnVNFj53Eq4/default.jpg'
+    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8d6d0dd032498f1d3f1c72456fccfba8
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: KnVNFj53Eq4
+    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 031e4026c902688eac17d7cb7b8b9ce5
+  - id: KnVNFj53Eq4.srt
+    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-26-partial-derivatives/partial-derivatives/KnVNFj53Eq4.srt
+    title: 3play caption file
+    type: null
+    uid: d1f8da2ae2af5ad164d756a88376b024
+  - id: KnVNFj53Eq4.pdf
+    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-26-partial-derivatives/partial-derivatives/KnVNFj53Eq4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9ad8a8089cab6370e5c1d578c8be2fc8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 787340fc8eb0d4607c1e9fcc86dd7597
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7bb4742f435129894c9109d0c069801a
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/partial-derivatives/id414355340?i=90322864
+    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a2f758dd11be4ad7cf80c3691167191d
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_20_300k.mp4'
+    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 30f74f7f13fdaba6c4aee8c4133841fb
+inline_embed_id: 94497469partialderivatives66277554
 parent_uid: 9bc5502d75dd79dd4f220e496468c323
+related_resources_text: ''
+short_url: partial-derivatives
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-26-partial-derivatives/partial-derivatives
-short_url: partial-derivatives
-inline_embed_id: 94497469partialderivatives66277554
-about_this_resource_text: ''
-related_resources_text: ''
+title: Partial Derivatives
 transcript: >-
   <p><span m='0'>DAVID JORDAN:</span> <span m='7000'>Hello,</span> <span
   m='7270'>and</span> <span m='7370'>welcome</span> <span m='7600'>back</span>
@@ -314,62 +369,7 @@ transcript: >-
   m='316660'>I</span> <span m='316700'>think</span> <span m='316930'>I'll</span>
   <span m='317040'>leave</span> <span m='317210'>it</span> <span
   m='317270'>at</span> <span m='317350'>that.</span> </p>
-embedded_media:
-  - uid: 93468937191c66cebf61c2e040cace4a
-    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: KnVNFj53Eq4
-  - uid: 8d6d0dd032498f1d3f1c72456fccfba8
-    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/KnVNFj53Eq4/default.jpg'
-  - uid: 031e4026c902688eac17d7cb7b8b9ce5
-    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: KnVNFj53Eq4
-  - uid: d1f8da2ae2af5ad164d756a88376b024
-    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
-    id: KnVNFj53Eq4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-26-partial-derivatives/partial-derivatives/KnVNFj53Eq4.srt
-  - uid: 9ad8a8089cab6370e5c1d578c8be2fc8
-    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
-    id: KnVNFj53Eq4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-26-partial-derivatives/partial-derivatives/KnVNFj53Eq4.pdf
-  - uid: 787340fc8eb0d4607c1e9fcc86dd7597
-    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7bb4742f435129894c9109d0c069801a
-    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a2f758dd11be4ad7cf80c3691167191d
-    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/partial-derivatives/id414355340?i=90322864
-  - uid: 30f74f7f13fdaba6c4aee8c4133841fb
-    parent_uid: 674d6623580d8dcd2e1f3155ce26154b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_20_300k.mp4'
+uid: 674d6623580d8dcd2e1f3155ce26154b
 type: courses
 layout: video
 ---

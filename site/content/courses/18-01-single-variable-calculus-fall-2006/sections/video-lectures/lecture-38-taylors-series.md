@@ -1,19 +1,91 @@
 ---
-title: 'Lecture 38: Taylor''s Series'
-uid: 2bcb371d7641b87b6b0990e5bc86bc60
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-38-taylors-series
-short_url: lecture-38-taylors-series
-inline_embed_id: '87139736lecture38:taylor''sseries96533473'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Taylor's series</p> 
   <p>Note: This video lecture was recorded in the Fall of 2007 and corresponds
   to the lecture notes for lecture 37 taught in the Fall of 2006.</p>
   <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec38.jpg
+    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-38-taylors-series/lec38.jpg
+    title: Lecture 38
+    type: null
+    uid: f69be02b506ef6521c182e317b7917fa
+  - id: Video-YouTube-Stream
+    media_location: wOHrNt9ScYs
+    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d7a6864c66e423f3ae6bf618f4d2b2f2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/wOHrNt9ScYs/default.jpg'
+    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: dfc7c36a3a955900e1d2638386b0ce56
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7d2ecd93c78cca7e86965502f67e90f4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec38_300k.mp4'
+    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e82f1acca9f650b6e5fff99c3025289e
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 39e3ce4cac108072da2adf3eea2fc0d4
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 01f8e7101385cd6a15dda9927ccf7a9a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: wOHrNt9ScYs
+    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: dc57ded3b2c4a52b7c7761f948ff684e
+  - id: wOHrNt9ScYs.srt
+    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-38-taylors-series/wOHrNt9ScYs.srt
+    title: 3play caption file
+    type: null
+    uid: 6eb5d5f1e8504014acdb84fea6a04ceb
+  - id: wOHrNt9ScYs.pdf
+    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-38-taylors-series/wOHrNt9ScYs.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0fd0fd220e97bc3355cb705ca721b760
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e81f438872be31d93df5bc8fe2142bcd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: efcce9edfd8149325777539c8888dcd0
+inline_embed_id: '87139736lecture38:taylor''sseries96533473'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/f76ca4e44b2c5b208dd6f785ee1db93e">PDF</a>)</p></div>
+short_url: lecture-38-taylors-series
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-38-taylors-series
+title: 'Lecture 38: Taylor''s Series'
 transcript: >-
   <p><span m='0'>The following</span> <span m='1270'>content is</span> <span
   m='1420'>provided</span> <span m='1680'>under a</span> <span
@@ -2765,79 +2837,7 @@ transcript: >-
   m='2846860'>luck,</span> <span m='2847170'>everybody.</span> <span
   m='2847570'>I'll</span> <span m='2847820'>talk</span> <span m='2848050'>to
   you</span> <span m='2848690'>individually.</span> </p>
-embedded_media:
-  - uid: f69be02b506ef6521c182e317b7917fa
-    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
-    id: lec38.jpg
-    title: Lecture 38
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-38-taylors-series/lec38.jpg
-  - uid: d7a6864c66e423f3ae6bf618f4d2b2f2
-    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: wOHrNt9ScYs
-  - uid: dfc7c36a3a955900e1d2638386b0ce56
-    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/wOHrNt9ScYs/default.jpg'
-  - uid: 7d2ecd93c78cca7e86965502f67e90f4
-    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: e82f1acca9f650b6e5fff99c3025289e
-    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec38_300k.mp4'
-  - uid: 39e3ce4cac108072da2adf3eea2fc0d4
-    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 01f8e7101385cd6a15dda9927ccf7a9a
-    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: dc57ded3b2c4a52b7c7761f948ff684e
-    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: wOHrNt9ScYs
-  - uid: 6eb5d5f1e8504014acdb84fea6a04ceb
-    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
-    id: wOHrNt9ScYs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-38-taylors-series/wOHrNt9ScYs.srt
-  - uid: 0fd0fd220e97bc3355cb705ca721b760
-    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
-    id: wOHrNt9ScYs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-38-taylors-series/wOHrNt9ScYs.pdf
-  - uid: e81f438872be31d93df5bc8fe2142bcd
-    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: efcce9edfd8149325777539c8888dcd0
-    parent_uid: 2bcb371d7641b87b6b0990e5bc86bc60
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2bcb371d7641b87b6b0990e5bc86bc60
 type: courses
 layout: video
 ---

@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 16: Thermodynamics: Gibbs Free Energy and Entropy'
-uid: 3d7fe49f9902776567b54df60acb7d1a
-parent_uid: 4161d4d2b7e64498f997dfb3b69eca3c
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-16/lecture-16-thermodynamics-gibbs-free-energy-and-entropy
-short_url: lecture-16-thermodynamics-gibbs-free-energy-and-entropy
-inline_embed_id: 87717728lecture16thermodynamicsgibbsfreeenergyandentropy16096206
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: If you mix two compounds together will they react
@@ -13,7 +6,68 @@ about_this_resource_text: >-
   lecture. Also, what does Robert Frost's poetry have to do with entropy, and
   how can you prepare toothpaste for an elephant? Find out.</p>
   <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: OjhZYx1FbhI
+    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a7ddb5aff599c54b52e08fd9aa9b6222
+  - id: OjhZYx1FbhI.srt
+    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-16/lecture-16-thermodynamics-gibbs-free-energy-and-entropy/OjhZYx1FbhI.srt
+    title: 3play caption file
+    type: null
+    uid: 8742d9fbcf7458880094a236e6bfe8c2
+  - id: OjhZYx1FbhI.pdf
+    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-16/lecture-16-thermodynamics-gibbs-free-energy-and-entropy/OjhZYx1FbhI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 77f3a69a972dda3ccf1d2f9532721997
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: efa5ae2c13948619f18e2c38c39826e2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 06a277f25c6d9aae1569c2368e2dc650
+  - id: Video-YouTube-Stream
+    media_location: OjhZYx1FbhI
+    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6de3409c961a48d923a5b6d65ea499d2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/OjhZYx1FbhI/default.jpg'
+    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 97640e2066da8bf1c9ea282d5eb110cf
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L16_300k.mp4'
+    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0f4ccdd3cc75e36407a4427f4c7844a4
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f813cd8b8a7d8327425d65818fc6445d
+inline_embed_id: 87717728lecture16thermodynamicsgibbsfreeenergyandentropy16096206
+parent_uid: 4161d4d2b7e64498f997dfb3b69eca3c
 related_resources_text: ''
+short_url: lecture-16-thermodynamics-gibbs-free-energy-and-entropy
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-16/lecture-16-thermodynamics-gibbs-free-energy-and-entropy
+title: 'Lecture 16: Thermodynamics: Gibbs Free Energy and Entropy'
 transcript: >-
   <p><span m="30">The</span> <span m="130">following</span> <span
   m="600">content</span> <span m="1090">is</span> <span m="1210">provided</span>
@@ -1918,61 +1972,7 @@ transcript: >-
   m="1911310">continue</span> <span m="1912350">with</span> <span
   m="1912540">that</span> <span m="1912820">exact</span> <span
   m="1913400">same</span> <span m="1914040">equation.</span></p>
-embedded_media:
-  - uid: a7ddb5aff599c54b52e08fd9aa9b6222
-    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: OjhZYx1FbhI
-  - uid: 8742d9fbcf7458880094a236e6bfe8c2
-    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
-    id: OjhZYx1FbhI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-16/lecture-16-thermodynamics-gibbs-free-energy-and-entropy/OjhZYx1FbhI.srt
-  - uid: 77f3a69a972dda3ccf1d2f9532721997
-    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
-    id: OjhZYx1FbhI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-16/lecture-16-thermodynamics-gibbs-free-energy-and-entropy/OjhZYx1FbhI.pdf
-  - uid: efa5ae2c13948619f18e2c38c39826e2
-    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 06a277f25c6d9aae1569c2368e2dc650
-    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6de3409c961a48d923a5b6d65ea499d2
-    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: OjhZYx1FbhI
-  - uid: 97640e2066da8bf1c9ea282d5eb110cf
-    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/OjhZYx1FbhI/default.jpg'
-  - uid: 0f4ccdd3cc75e36407a4427f4c7844a4
-    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L16_300k.mp4'
-  - uid: f813cd8b8a7d8327425d65818fc6445d
-    parent_uid: 3d7fe49f9902776567b54df60acb7d1a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+uid: 3d7fe49f9902776567b54df60acb7d1a
 type: courses
 layout: video
 ---

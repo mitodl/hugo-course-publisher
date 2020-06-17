@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 23: Accelerating Gradient Descent (Use Momentum)'
-uid: d701065a0c65a65f846f2d1b676f9614
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-23-accelerating-gradient-descent-use-momentum
-short_url: lecture-23-accelerating-gradient-descent-use-momentum
-inline_embed_id: 74354190lecture23acceleratinggradientdescentusemomentum29494280
 about_this_resource_text: >-
   <h2 class="subhead"><strong>Description</strong></h2> <p>In this lecture,
   Professor Strang explains both momentum-based gradient descent and Nesterov's
@@ -18,7 +11,62 @@ about_this_resource_text: >-
   in ODEs.<br /> Convergence rate improves: 1 - \(b\) to 1 - square root of
   \(b\) !</p> <p>Related section in textbook: VI.4</p>
   <p><strong>Instructor:</strong> Prof. Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: wrEcHhoJxjM
+    parent_uid: d701065a0c65a65f846f2d1b676f9614
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c44828d7f56613ac3e07700f53e82cdb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/wrEcHhoJxjM/default.jpg'
+    parent_uid: d701065a0c65a65f846f2d1b676f9614
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 677eafbaa1460767261c6043cfaad87d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: wrEcHhoJxjM
+    parent_uid: d701065a0c65a65f846f2d1b676f9614
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a61550e1bc4f5ce68f6cc630afbbbe04
+  - id: wrEcHhoJxjM.srt
+    parent_uid: d701065a0c65a65f846f2d1b676f9614
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-23-accelerating-gradient-descent-use-momentum/wrEcHhoJxjM.srt
+    title: 3play caption file
+    type: null
+    uid: 35aba05a08bab2e89aea54cdc4c9e6bb
+  - id: wrEcHhoJxjM.pdf
+    parent_uid: d701065a0c65a65f846f2d1b676f9614
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-23-accelerating-gradient-descent-use-momentum/wrEcHhoJxjM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 30baaee029e0f6821d48b6397fcca1d0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d701065a0c65a65f846f2d1b676f9614
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d9dafa1b13d626bd6f752a9f22dd2a85
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d701065a0c65a65f846f2d1b676f9614
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9d94d37f8acb88d2098552459246db7d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture23_300k.mp4'
+    parent_uid: d701065a0c65a65f846f2d1b676f9614
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7afb067aed9cdd7b2248e3dff93ca46c
+inline_embed_id: 74354190lecture23acceleratinggradientdescentusemomentum29494280
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-23-accelerating-gradient-descent-use-momentum
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-23-accelerating-gradient-descent-use-momentum
+title: 'Lecture 23: Accelerating Gradient Descent (Use Momentum)'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2512,55 +2560,7 @@ transcript: >-
   m="2938580">Boyd</span> <span m="2939000">will</span> <span
   m="2939150">also</span> <span m="2939450">see</span> <span
   m="2939750">you.</span></p>
-embedded_media:
-  - uid: c44828d7f56613ac3e07700f53e82cdb
-    parent_uid: d701065a0c65a65f846f2d1b676f9614
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: wrEcHhoJxjM
-  - uid: 677eafbaa1460767261c6043cfaad87d
-    parent_uid: d701065a0c65a65f846f2d1b676f9614
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/wrEcHhoJxjM/default.jpg'
-  - uid: a61550e1bc4f5ce68f6cc630afbbbe04
-    parent_uid: d701065a0c65a65f846f2d1b676f9614
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: wrEcHhoJxjM
-  - uid: 35aba05a08bab2e89aea54cdc4c9e6bb
-    parent_uid: d701065a0c65a65f846f2d1b676f9614
-    id: wrEcHhoJxjM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-23-accelerating-gradient-descent-use-momentum/wrEcHhoJxjM.srt
-  - uid: 30baaee029e0f6821d48b6397fcca1d0
-    parent_uid: d701065a0c65a65f846f2d1b676f9614
-    id: wrEcHhoJxjM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-23-accelerating-gradient-descent-use-momentum/wrEcHhoJxjM.pdf
-  - uid: d9dafa1b13d626bd6f752a9f22dd2a85
-    parent_uid: d701065a0c65a65f846f2d1b676f9614
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9d94d37f8acb88d2098552459246db7d
-    parent_uid: d701065a0c65a65f846f2d1b676f9614
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7afb067aed9cdd7b2248e3dff93ca46c
-    parent_uid: d701065a0c65a65f846f2d1b676f9614
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture23_300k.mp4'
+uid: d701065a0c65a65f846f2d1b676f9614
 type: courses
 layout: video
 ---

@@ -1,13 +1,61 @@
 ---
-title: Two Rigid Pendulums Coupled with a Spring
-uid: d730d5c1d1a1989687d30b7e0b5ed442
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: I0YACDaY-ww
+    parent_uid: d730d5c1d1a1989687d30b7e0b5ed442
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b8f223ff03b3ffe799f872a1fcda9288
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/I0YACDaY-ww/default.jpg'
+    parent_uid: d730d5c1d1a1989687d30b7e0b5ed442
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3690f33c0f5782ad6b519786da99401d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: I0YACDaY-ww
+    parent_uid: d730d5c1d1a1989687d30b7e0b5ed442
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7491c192d59a63e440752235eef58d30
+  - id: I0YACDaY-ww.srt
+    parent_uid: d730d5c1d1a1989687d30b7e0b5ed442
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-5/copy2_of_lecture-5-video/I0YACDaY-ww.srt
+    title: 3play caption file
+    type: null
+    uid: 16b7a0d10124b58c2f538e32f68a6baf
+  - id: I0YACDaY-ww.pdf
+    parent_uid: d730d5c1d1a1989687d30b7e0b5ed442
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-5/copy2_of_lecture-5-video/I0YACDaY-ww.pdf
+    title: 3play pdf file
+    type: null
+    uid: 582d362daf054cd4a8e6bfa8e32b7d6c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d730d5c1d1a1989687d30b7e0b5ed442
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: de141bf033264281e6e0a78167a9c909
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d730d5c1d1a1989687d30b7e0b5ed442
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 01f02d89f9904f134bb05734ca7d4340
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec05_300k.mp4'
+    parent_uid: d730d5c1d1a1989687d30b7e0b5ed442
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c55cd3ba41512d28c217d68acf85a148
+inline_embed_id: 45345756lecture5videop235261301
 parent_uid: 9bc913321f00f35265f3aede3364abeb
+related_resources_text: ''
+short_url: copy2_of_lecture-5-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-5/copy2_of_lecture-5-video
-short_url: copy2_of_lecture-5-video
-inline_embed_id: 45345756lecture5videop235261301
-about_this_resource_text: ''
-related_resources_text: ''
+title: Two Rigid Pendulums Coupled with a Spring
 transcript: >-
   <p><span m="2165">The</span> <span m="2210">following</span> <span
   m="2660">content</span> <span m="3140">is</span> <span
@@ -4535,55 +4583,7 @@ transcript: >-
   m="4796190">continue</span> <span m="4796610">with</span> <span
   m="4796760">forced</span> <span m="4797170">oscillators.</span> <span
   m="4799570">All right?</span> <span m="4799870">Thank you.</span></p>
-embedded_media:
-  - uid: b8f223ff03b3ffe799f872a1fcda9288
-    parent_uid: d730d5c1d1a1989687d30b7e0b5ed442
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: I0YACDaY-ww
-  - uid: 3690f33c0f5782ad6b519786da99401d
-    parent_uid: d730d5c1d1a1989687d30b7e0b5ed442
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/I0YACDaY-ww/default.jpg'
-  - uid: 7491c192d59a63e440752235eef58d30
-    parent_uid: d730d5c1d1a1989687d30b7e0b5ed442
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: I0YACDaY-ww
-  - uid: 16b7a0d10124b58c2f538e32f68a6baf
-    parent_uid: d730d5c1d1a1989687d30b7e0b5ed442
-    id: I0YACDaY-ww.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-5/copy2_of_lecture-5-video/I0YACDaY-ww.srt
-  - uid: 582d362daf054cd4a8e6bfa8e32b7d6c
-    parent_uid: d730d5c1d1a1989687d30b7e0b5ed442
-    id: I0YACDaY-ww.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-5/copy2_of_lecture-5-video/I0YACDaY-ww.pdf
-  - uid: de141bf033264281e6e0a78167a9c909
-    parent_uid: d730d5c1d1a1989687d30b7e0b5ed442
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 01f02d89f9904f134bb05734ca7d4340
-    parent_uid: d730d5c1d1a1989687d30b7e0b5ed442
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c55cd3ba41512d28c217d68acf85a148
-    parent_uid: d730d5c1d1a1989687d30b7e0b5ed442
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec05_300k.mp4'
+uid: d730d5c1d1a1989687d30b7e0b5ed442
 type: courses
 layout: video
 ---

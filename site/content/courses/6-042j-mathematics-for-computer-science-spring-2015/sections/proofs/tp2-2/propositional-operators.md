@@ -1,13 +1,73 @@
 ---
-title: Propositional Operators
-uid: 439627b2591c00fa8c2d1454870fdabe
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 439627b2591c00fa8c2d1454870fdabe
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: e09ae8c5fe7cf02f079e21f9919c8cc8
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 439627b2591c00fa8c2d1454870fdabe
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ce6346628f209543a07e1b4478b4e006
+  - id: Video-YouTube-Stream
+    media_location: 0exBzsexUoI
+    parent_uid: 439627b2591c00fa8c2d1454870fdabe
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0caa4355e630c636ef4d3435c0da8940
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0exBzsexUoI/default.jpg'
+    parent_uid: 439627b2591c00fa8c2d1454870fdabe
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4b4261bce5cbb3009b9cf33f19dd66cb
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 0exBzsexUoI
+    parent_uid: 439627b2591c00fa8c2d1454870fdabe
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 53ef3f9cfdf4242e9a294a7d22d4ad19
+  - id: 0exBzsexUoI.srt
+    parent_uid: 439627b2591c00fa8c2d1454870fdabe
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/propositional-operators/0exBzsexUoI.srt
+    title: 3play caption file
+    type: null
+    uid: 55d6211d26f837cc53320cc1355d14e8
+  - id: 0exBzsexUoI.pdf
+    parent_uid: 439627b2591c00fa8c2d1454870fdabe
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/propositional-operators/0exBzsexUoI.pdf
+    title: 3play pdf file
+    type: null
+    uid: f8427f77cbf0f97f7747479bc73843bb
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 439627b2591c00fa8c2d1454870fdabe
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 05ce60086a5828cbc8e300bf8a1c9d3b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 439627b2591c00fa8c2d1454870fdabe
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1ab0f1b7b8f384f2f66c6c4c4a47cc6d
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_props_and_ops_ipod.mp4
+    parent_uid: 439627b2591c00fa8c2d1454870fdabe
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1f376e10741eaa840403ae83a6a18c32
+inline_embed_id: 37494200propositionaloperators77321154
 parent_uid: 8de160a9e7299f7fec8a58aef5106eef
+related_resources_text: ''
+short_url: propositional-operators
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/propositional-operators
-short_url: propositional-operators
-inline_embed_id: 37494200propositionaloperators77321154
-about_this_resource_text: ''
-related_resources_text: ''
+title: Propositional Operators
 transcript: >-
   <p><span m='810'>We're</span> <span m='900'>going</span> <span
   m='990'>to</span> <span m='1070'>talk</span> <span m='1260'>about</span> <span
@@ -707,67 +767,7 @@ transcript: >-
   m='557240'>notation</span> <span m='558270'>that</span> <span
   m='558460'>we</span> <span m='558600'>give</span> <span m='558900'>on</span>
   <span m='559130'>the</span> <span m='559230'>right.</span> </p>
-embedded_media:
-  - uid: e09ae8c5fe7cf02f079e21f9919c8cc8
-    parent_uid: 439627b2591c00fa8c2d1454870fdabe
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: ce6346628f209543a07e1b4478b4e006
-    parent_uid: 439627b2591c00fa8c2d1454870fdabe
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 0caa4355e630c636ef4d3435c0da8940
-    parent_uid: 439627b2591c00fa8c2d1454870fdabe
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0exBzsexUoI
-  - uid: 4b4261bce5cbb3009b9cf33f19dd66cb
-    parent_uid: 439627b2591c00fa8c2d1454870fdabe
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0exBzsexUoI/default.jpg'
-  - uid: 53ef3f9cfdf4242e9a294a7d22d4ad19
-    parent_uid: 439627b2591c00fa8c2d1454870fdabe
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0exBzsexUoI
-  - uid: 55d6211d26f837cc53320cc1355d14e8
-    parent_uid: 439627b2591c00fa8c2d1454870fdabe
-    id: 0exBzsexUoI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/propositional-operators/0exBzsexUoI.srt
-  - uid: f8427f77cbf0f97f7747479bc73843bb
-    parent_uid: 439627b2591c00fa8c2d1454870fdabe
-    id: 0exBzsexUoI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/propositional-operators/0exBzsexUoI.pdf
-  - uid: 05ce60086a5828cbc8e300bf8a1c9d3b
-    parent_uid: 439627b2591c00fa8c2d1454870fdabe
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1ab0f1b7b8f384f2f66c6c4c4a47cc6d
-    parent_uid: 439627b2591c00fa8c2d1454870fdabe
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1f376e10741eaa840403ae83a6a18c32
-    parent_uid: 439627b2591c00fa8c2d1454870fdabe
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_props_and_ops_ipod.mp4
+uid: 439627b2591c00fa8c2d1454870fdabe
 type: courses
 layout: video
 ---

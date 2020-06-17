@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 33: Kinetics and Temperature'
-uid: d432fdb038a3a208ede4281fe8799dfb
+about_this_resource_text: "<p><strong>Description:</strong> Embedded video, no tabs, this description appears on section page: Using liquid nitrogen, we observe that lowering the temperature slows reaction rates. The concept of activation energy is introduced; there is always some energy needed when two molecules come together that allows them to react. Only molecules that have this critical energy, and can overcome this activation energy barrier, will react and go on to product. Lower temperature means that fewer molecules with have this critical amount of energy.</p>\r\n<p><strong>Instructor:</strong> Catherine Drennan</p>"
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: KHkNrbSKFic
+    parent_uid: d432fdb038a3a208ede4281fe8799dfb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3efd005e27431bd8cf429d977462a8b3
+  - id: KHkNrbSKFic.srt
+    parent_uid: d432fdb038a3a208ede4281fe8799dfb
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-33/lecture-33-kinetics-and-temperature/KHkNrbSKFic.srt
+    title: 3play caption file
+    type: null
+    uid: 3e4c78ac25273dc5efcbfa26be5af1fe
+  - id: KHkNrbSKFic.pdf
+    parent_uid: d432fdb038a3a208ede4281fe8799dfb
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-33/lecture-33-kinetics-and-temperature/KHkNrbSKFic.pdf
+    title: 3play pdf file
+    type: null
+    uid: feead97cb6e0d3363f31a9e45c6bb45d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d432fdb038a3a208ede4281fe8799dfb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b1c37f74db990a489feaafb71838f422
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d432fdb038a3a208ede4281fe8799dfb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bfd19eae5ef6593441e483dafa4d089e
+  - id: Video-YouTube-MP4
+    media_location: KHkNrbSKFic
+    parent_uid: d432fdb038a3a208ede4281fe8799dfb
+    title: Video-YouTube-MP4
+    type: Video
+    uid: 2b6e57328fae6547b4ad0be0118359db
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/KHkNrbSKFic/default.jpg'
+    parent_uid: d432fdb038a3a208ede4281fe8799dfb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e8c8055f44768054db2491b16f447de8
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L33_300k.mp4'
+    parent_uid: d432fdb038a3a208ede4281fe8799dfb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 96c74aa7f58a6fe1d4531300add2fec1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: d432fdb038a3a208ede4281fe8799dfb
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 584eb092f1059b5a5d6717bcc03ae589
+inline_embed_id: 85035853lecture33kineticsandtemperature41570827
 parent_uid: bfdc3eed5d1b3d9ce32cf1f3c4868b27
+related_resources_text: ''
+short_url: lecture-33-kinetics-and-temperature
 technical_location: >-
   https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-33/lecture-33-kinetics-and-temperature
-short_url: lecture-33-kinetics-and-temperature
-inline_embed_id: 85035853lecture33kineticsandtemperature41570827
-about_this_resource_text: "<p><strong>Description:</strong> Embedded video, no tabs, this description appears on section page: Using liquid nitrogen, we observe that lowering the temperature slows reaction rates. The concept of activation energy is introduced; there is always some energy needed when two molecules come together that allows them to react. Only molecules that have this critical energy, and can overcome this activation energy barrier, will react and go on to product. Lower temperature means that fewer molecules with have this critical amount of energy.</p>\r\n<p><strong>Instructor:</strong> Catherine Drennan</p>"
-related_resources_text: ''
+title: 'Lecture 33: Kinetics and Temperature'
 transcript: >-
   <p><span m="30">The</span> <span m="130">following</span> <span
   m="600">content</span> <span m="1090">is</span> <span m="1210">provided</span>
@@ -3325,61 +3379,7 @@ transcript: >-
   m="3090530">the</span> <span m="3090600">direction</span> <span
   m="3091230">of</span> <span m="3091530">the</span> <span
   m="3091610">big</span> <span m="3091910">barrier.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 3efd005e27431bd8cf429d977462a8b3
-    parent_uid: d432fdb038a3a208ede4281fe8799dfb
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: KHkNrbSKFic
-  - uid: 3e4c78ac25273dc5efcbfa26be5af1fe
-    parent_uid: d432fdb038a3a208ede4281fe8799dfb
-    id: KHkNrbSKFic.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-33/lecture-33-kinetics-and-temperature/KHkNrbSKFic.srt
-  - uid: feead97cb6e0d3363f31a9e45c6bb45d
-    parent_uid: d432fdb038a3a208ede4281fe8799dfb
-    id: KHkNrbSKFic.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-33/lecture-33-kinetics-and-temperature/KHkNrbSKFic.pdf
-  - uid: b1c37f74db990a489feaafb71838f422
-    parent_uid: d432fdb038a3a208ede4281fe8799dfb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bfd19eae5ef6593441e483dafa4d089e
-    parent_uid: d432fdb038a3a208ede4281fe8799dfb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 2b6e57328fae6547b4ad0be0118359db
-    parent_uid: d432fdb038a3a208ede4281fe8799dfb
-    id: Video-YouTube-MP4
-    title: Video-YouTube-MP4
-    type: Video
-    media_location: KHkNrbSKFic
-  - uid: e8c8055f44768054db2491b16f447de8
-    parent_uid: d432fdb038a3a208ede4281fe8799dfb
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/KHkNrbSKFic/default.jpg'
-  - uid: 96c74aa7f58a6fe1d4531300add2fec1
-    parent_uid: d432fdb038a3a208ede4281fe8799dfb
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L33_300k.mp4'
-  - uid: 584eb092f1059b5a5d6717bcc03ae589
-    parent_uid: d432fdb038a3a208ede4281fe8799dfb
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+uid: d432fdb038a3a208ede4281fe8799dfb
 type: courses
 layout: video
 ---

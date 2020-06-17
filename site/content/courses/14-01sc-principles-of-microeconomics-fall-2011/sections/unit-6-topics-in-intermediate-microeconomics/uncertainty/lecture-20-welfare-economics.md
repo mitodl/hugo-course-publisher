@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 20: Welfare Economics'
-uid: 683bafdbe2564f215d179a305e402bd4
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: f8Kn9GkR514
+    parent_uid: 683bafdbe2564f215d179a305e402bd4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 802f56f7384f8a67030d4321ccf11a95
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/f8Kn9GkR514/default.jpg'
+    parent_uid: 683bafdbe2564f215d179a305e402bd4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3ef045b2834ce316edbc6e196f8bf6e9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: f8Kn9GkR514
+    parent_uid: 683bafdbe2564f215d179a305e402bd4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e03958c761ecdf6d84ac022cefb0d02b
+  - id: f8Kn9GkR514.srt
+    parent_uid: 683bafdbe2564f215d179a305e402bd4
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/uncertainty/lecture-20-welfare-economics/f8Kn9GkR514.srt
+    title: 3play caption file
+    type: null
+    uid: e53ff5605bc651e8b8c465fa57ccbbed
+  - id: f8Kn9GkR514.pdf
+    parent_uid: 683bafdbe2564f215d179a305e402bd4
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/uncertainty/lecture-20-welfare-economics/f8Kn9GkR514.pdf
+    title: 3play pdf file
+    type: null
+    uid: 80877e02ca8bc5774897ee220103f534
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 683bafdbe2564f215d179a305e402bd4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9c42207aee6e00902df82f48283332a0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 683bafdbe2564f215d179a305e402bd4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e1df154430bc4a5c92b16f95a156cfe2
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec20_300k.mp4'
+    parent_uid: 683bafdbe2564f215d179a305e402bd4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 32545ffbe60c67163c2a6501da670a67
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-20-uncertainty/id496265654?i=110157708
+    parent_uid: 683bafdbe2564f215d179a305e402bd4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bd0390b4e7d964ed9551c516d30d35a0
+inline_embed_id: 41612354lecture20welfareeconomics96526021
 parent_uid: eb20a38656314e616324268b98c9df1d
+related_resources_text: ''
+short_url: lecture-20-welfare-economics
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/uncertainty/lecture-20-welfare-economics
-short_url: lecture-20-welfare-economics
-inline_embed_id: 41612354lecture20welfareeconomics96526021
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 20: Welfare Economics'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3295,62 +3350,7 @@ transcript: >-
   m='2878480'>much to</span> <span m='2878780'>save</span> <span
   m='2879080'>and</span> <span m='2879380'>how much to</span> <span
   m='2879680'>spend.</span> </p>
-embedded_media:
-  - uid: 802f56f7384f8a67030d4321ccf11a95
-    parent_uid: 683bafdbe2564f215d179a305e402bd4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: f8Kn9GkR514
-  - uid: 3ef045b2834ce316edbc6e196f8bf6e9
-    parent_uid: 683bafdbe2564f215d179a305e402bd4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/f8Kn9GkR514/default.jpg'
-  - uid: e03958c761ecdf6d84ac022cefb0d02b
-    parent_uid: 683bafdbe2564f215d179a305e402bd4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: f8Kn9GkR514
-  - uid: e53ff5605bc651e8b8c465fa57ccbbed
-    parent_uid: 683bafdbe2564f215d179a305e402bd4
-    id: f8Kn9GkR514.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/uncertainty/lecture-20-welfare-economics/f8Kn9GkR514.srt
-  - uid: 80877e02ca8bc5774897ee220103f534
-    parent_uid: 683bafdbe2564f215d179a305e402bd4
-    id: f8Kn9GkR514.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/uncertainty/lecture-20-welfare-economics/f8Kn9GkR514.pdf
-  - uid: 9c42207aee6e00902df82f48283332a0
-    parent_uid: 683bafdbe2564f215d179a305e402bd4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e1df154430bc4a5c92b16f95a156cfe2
-    parent_uid: 683bafdbe2564f215d179a305e402bd4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 32545ffbe60c67163c2a6501da670a67
-    parent_uid: 683bafdbe2564f215d179a305e402bd4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec20_300k.mp4'
-  - uid: bd0390b4e7d964ed9551c516d30d35a0
-    parent_uid: 683bafdbe2564f215d179a305e402bd4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-20-uncertainty/id496265654?i=110157708
+uid: 683bafdbe2564f215d179a305e402bd4
 type: courses
 layout: video
 ---

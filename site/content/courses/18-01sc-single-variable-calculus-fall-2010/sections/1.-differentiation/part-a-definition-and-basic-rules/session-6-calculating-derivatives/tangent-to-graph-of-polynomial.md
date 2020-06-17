@@ -1,13 +1,68 @@
 ---
-title: Tangent to Graph of Polynomial
-uid: 351515e15ca4d4e08fac6e65d2a42b18
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: rfx1x-2dwSI
+    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0261066ecbe3b2a3c668412ba2470511
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/rfx1x-2dwSI/default.jpg'
+    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a3abda2bd3f2e01f19758250a828b1c2
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/tangent-line-to-a-polynomial/id414308064?i=90318624
+    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ac99c278ee37bdd171b2f9e9b03c27f5
+  - id: Video-InternetArchive-MP4_1
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_05_300k.mp4'
+    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9242ceca18e855a8b1f2f713868778d4
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: rfx1x-2dwSI
+    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: cce840a70e136e7d96b4d5141bac336c
+  - id: rfx1x-2dwSI.srt
+    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-6-calculating-derivatives/tangent-to-graph-of-polynomial/rfx1x-2dwSI.srt
+    title: 3play caption file
+    type: null
+    uid: 383c68722c53b461914a347e2f450943
+  - id: rfx1x-2dwSI.pdf
+    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-6-calculating-derivatives/tangent-to-graph-of-polynomial/rfx1x-2dwSI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9d037d6e35b3f5e0886a349533819c58
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5ae7af718a8aefac9df4e80af293b662
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8be455f3f29d13e3789b26f9cf0dd451
+inline_embed_id: 26109982tangenttographofpolynomial83190003
 parent_uid: a50336604c88798f90662c641ab35802
+related_resources_text: ''
+short_url: tangent-to-graph-of-polynomial
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-6-calculating-derivatives/tangent-to-graph-of-polynomial
-short_url: tangent-to-graph-of-polynomial
-inline_embed_id: 26109982tangenttographofpolynomial83190003
-about_this_resource_text: ''
-related_resources_text: ''
+title: Tangent to Graph of Polynomial
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='7270'>Hi.</span> <span
   m='7690'>Welcome</span> <span m='8050'>to</span> <span
@@ -292,62 +347,7 @@ transcript: >-
   m='290630'>the</span> <span m='290720'>question.</span> <span
   m='291720'>So</span> <span m='291920'>that's</span> <span
   m='292160'>that.</span> </p>
-embedded_media:
-  - uid: 0261066ecbe3b2a3c668412ba2470511
-    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: rfx1x-2dwSI
-  - uid: a3abda2bd3f2e01f19758250a828b1c2
-    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rfx1x-2dwSI/default.jpg'
-  - uid: ac99c278ee37bdd171b2f9e9b03c27f5
-    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/tangent-line-to-a-polynomial/id414308064?i=90318624
-  - uid: 9242ceca18e855a8b1f2f713868778d4
-    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
-    id: Video-InternetArchive-MP4_1
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_05_300k.mp4'
-  - uid: cce840a70e136e7d96b4d5141bac336c
-    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: rfx1x-2dwSI
-  - uid: 383c68722c53b461914a347e2f450943
-    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
-    id: rfx1x-2dwSI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-6-calculating-derivatives/tangent-to-graph-of-polynomial/rfx1x-2dwSI.srt
-  - uid: 9d037d6e35b3f5e0886a349533819c58
-    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
-    id: rfx1x-2dwSI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-6-calculating-derivatives/tangent-to-graph-of-polynomial/rfx1x-2dwSI.pdf
-  - uid: 5ae7af718a8aefac9df4e80af293b662
-    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8be455f3f29d13e3789b26f9cf0dd451
-    parent_uid: 351515e15ca4d4e08fac6e65d2a42b18
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 351515e15ca4d4e08fac6e65d2a42b18
 type: courses
 layout: video
 ---

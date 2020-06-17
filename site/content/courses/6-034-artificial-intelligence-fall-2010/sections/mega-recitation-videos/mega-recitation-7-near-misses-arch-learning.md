@@ -1,20 +1,75 @@
 ---
-title: 'Mega-Recitation 7: Near Misses, Arch Learning'
-uid: 156ec04d637823c702af0dfe27e4c3cf
-parent_uid: 6be7704ddfe26b4e12703167347dd5bb
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-7-near-misses-arch-learning
-short_url: mega-recitation-7-near-misses-arch-learning
-inline_embed_id: '44839719mega-recitation7:nearmisses,archlearning81258914'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This mega-recitation covers a question from
   the Fall 2007 final exam, in which we teach a robot how to identify a table
   lamp. Given a starting model, we identify a heuristic and adjust the model for
   each example; examples can be hits or near
   misses.</p><p><strong>Instructor:</strong> Mark Seifter</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: J-ocRQCjcwE
+    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f6ba82012ffbf0971d00a98551bb3eee
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/mega-recitation-7-near-misses/id765641080?i=194482896
+    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b9aad3681a77272f38727bb1b99c4344
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_rec07_300k.mp4'
+    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c2fc7759b404186ca7f85459e908416a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/J-ocRQCjcwE/default.jpg'
+    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8f5a57952159831b1155191d3ee60f5c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: J-ocRQCjcwE
+    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7b6d402558be89eae878044a335e2488
+  - id: J-ocRQCjcwE.srt
+    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-7-near-misses-arch-learning/J-ocRQCjcwE.srt
+    title: 3play caption file
+    type: null
+    uid: faa225dc6a4c554b7c04e732ff3648c5
+  - id: J-ocRQCjcwE.pdf
+    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-7-near-misses-arch-learning/J-ocRQCjcwE.pdf
+    title: 3play pdf file
+    type: null
+    uid: f156579175e550e4c332f163eb073621
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4213928138394fcb57f30eed97862eab
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 31a005b858b2fb141062e889acbe5d94
+inline_embed_id: '44839719mega-recitation7:nearmisses,archlearning81258914'
+parent_uid: 6be7704ddfe26b4e12703167347dd5bb
 related_resources_text: >-
   <p><a href="./resolveuid/c397cd7083422b1f3d1c6d86d1b9e327"
   target="_blank">Final Exam, Fall 2007 (PDF)</a></p>
+short_url: mega-recitation-7-near-misses-arch-learning
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-7-near-misses-arch-learning
+title: 'Mega-Recitation 7: Near Misses, Arch Learning'
 transcript: >-
   <p><span m='70'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1220'>is</span> <span m='1330'>provided</span>
@@ -2069,62 +2124,7 @@ transcript: >-
   m='1982180'>when</span> <span m='1982390'>you're</span> <span
   m='1982570'>running</span> <span m='1982820'>arch</span> <span
   m='1982980'>learning.</span> </p>
-embedded_media:
-  - uid: f6ba82012ffbf0971d00a98551bb3eee
-    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: J-ocRQCjcwE
-  - uid: b9aad3681a77272f38727bb1b99c4344
-    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/mega-recitation-7-near-misses/id765641080?i=194482896
-  - uid: c2fc7759b404186ca7f85459e908416a
-    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_rec07_300k.mp4'
-  - uid: 8f5a57952159831b1155191d3ee60f5c
-    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/J-ocRQCjcwE/default.jpg'
-  - uid: 7b6d402558be89eae878044a335e2488
-    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: J-ocRQCjcwE
-  - uid: faa225dc6a4c554b7c04e732ff3648c5
-    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
-    id: J-ocRQCjcwE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-7-near-misses-arch-learning/J-ocRQCjcwE.srt
-  - uid: f156579175e550e4c332f163eb073621
-    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
-    id: J-ocRQCjcwE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-7-near-misses-arch-learning/J-ocRQCjcwE.pdf
-  - uid: 4213928138394fcb57f30eed97862eab
-    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 31a005b858b2fb141062e889acbe5d94
-    parent_uid: 156ec04d637823c702af0dfe27e4c3cf
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 156ec04d637823c702af0dfe27e4c3cf
 type: courses
 layout: video
 ---

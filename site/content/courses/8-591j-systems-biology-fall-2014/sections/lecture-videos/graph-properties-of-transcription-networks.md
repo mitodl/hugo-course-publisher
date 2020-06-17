@@ -1,11 +1,4 @@
 ---
-title: Graph Properties of Transcription Networks
-uid: 43d299714405eaa855ea4050a90f643f
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/graph-properties-of-transcription-networks
-short_url: graph-properties-of-transcription-networks
-inline_embed_id: 54038515graphpropertiesoftranscriptionnetworks86262547
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Jeff Gore finishes the
   discussion of oscillators. This includes alternative designs for oscillators,
@@ -13,7 +6,68 @@ about_this_resource_text: >-
   cited scientific articles: Emergence of scaling in random networks, by 
   Barabási &amp; Albert. The lecture ends with the topic network motifs.</p>
   <p><strong>Instructor:</strong> Prof. Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: NnDqJhtUqjw
+    parent_uid: 43d299714405eaa855ea4050a90f643f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4dc907d4fe202eedd46c0a8172fc2f33
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/NnDqJhtUqjw/default.jpg'
+    parent_uid: 43d299714405eaa855ea4050a90f643f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7869c05f99ae2f8091488f88e0434cfb
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: 43d299714405eaa855ea4050a90f643f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d7b7c0e2a748156f5fc4d6e6ec9ebe06
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec06_300k.mp4'
+    parent_uid: 43d299714405eaa855ea4050a90f643f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bf2e73dfd43db8411b6c8f843c19321d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: NnDqJhtUqjw
+    parent_uid: 43d299714405eaa855ea4050a90f643f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e43ca2b5b95877eb44bacbac38de167c
+  - id: NnDqJhtUqjw.srt
+    parent_uid: 43d299714405eaa855ea4050a90f643f
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/graph-properties-of-transcription-networks/NnDqJhtUqjw.srt
+    title: 3play caption file
+    type: null
+    uid: cf3fa0866c1aebc54028be1d44e943ef
+  - id: NnDqJhtUqjw.pdf
+    parent_uid: 43d299714405eaa855ea4050a90f643f
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/graph-properties-of-transcription-networks/NnDqJhtUqjw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1926a6872dd1fab60195385f33226be2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 43d299714405eaa855ea4050a90f643f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bff6cdba7930a01add1af428a1314a72
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 43d299714405eaa855ea4050a90f643f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 21fb6834a6cb263e4bbf9ca8fec943cc
+inline_embed_id: 54038515graphpropertiesoftranscriptionnetworks86262547
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: graph-properties-of-transcription-networks
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/graph-properties-of-transcription-networks
+title: Graph Properties of Transcription Networks
 transcript: >-
   <p><span m="60">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -5162,61 +5216,7 @@ transcript: >-
   m="4885710">half</span> <span m="4885880">hour</span> <span m="4886180">if
   anybody</span> <span m="4886480">has any</span> <span
   m="4886780">questions.</span></p>
-embedded_media:
-  - uid: 4dc907d4fe202eedd46c0a8172fc2f33
-    parent_uid: 43d299714405eaa855ea4050a90f643f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: NnDqJhtUqjw
-  - uid: 7869c05f99ae2f8091488f88e0434cfb
-    parent_uid: 43d299714405eaa855ea4050a90f643f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/NnDqJhtUqjw/default.jpg'
-  - uid: d7b7c0e2a748156f5fc4d6e6ec9ebe06
-    parent_uid: 43d299714405eaa855ea4050a90f643f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: bf2e73dfd43db8411b6c8f843c19321d
-    parent_uid: 43d299714405eaa855ea4050a90f643f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec06_300k.mp4'
-  - uid: e43ca2b5b95877eb44bacbac38de167c
-    parent_uid: 43d299714405eaa855ea4050a90f643f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: NnDqJhtUqjw
-  - uid: cf3fa0866c1aebc54028be1d44e943ef
-    parent_uid: 43d299714405eaa855ea4050a90f643f
-    id: NnDqJhtUqjw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/graph-properties-of-transcription-networks/NnDqJhtUqjw.srt
-  - uid: 1926a6872dd1fab60195385f33226be2
-    parent_uid: 43d299714405eaa855ea4050a90f643f
-    id: NnDqJhtUqjw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/graph-properties-of-transcription-networks/NnDqJhtUqjw.pdf
-  - uid: bff6cdba7930a01add1af428a1314a72
-    parent_uid: 43d299714405eaa855ea4050a90f643f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 21fb6834a6cb263e4bbf9ca8fec943cc
-    parent_uid: 43d299714405eaa855ea4050a90f643f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 43d299714405eaa855ea4050a90f643f
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: Volume of a Paraboloid via Disks
-uid: 14d0939ef44e8035ad39e06108d3285f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ksAdC6Z99dE
+    parent_uid: 14d0939ef44e8035ad39e06108d3285f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2080f4dcc938c11bf9ee9d97b3d15ca7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ksAdC6Z99dE/default.jpg'
+    parent_uid: 14d0939ef44e8035ad39e06108d3285f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bd45fc4d90a68a9a93d8033528735257
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: ksAdC6Z99dE
+    parent_uid: 14d0939ef44e8035ad39e06108d3285f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9b812ad1e0899d5d55df9e34ed373b2c
+  - id: ksAdC6Z99dE.srt
+    parent_uid: 14d0939ef44e8035ad39e06108d3285f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/volume-of-a-paraboloid-via-disks/ksAdC6Z99dE.srt
+    title: 3play caption file
+    type: null
+    uid: 0179bea4cde8a61703db3338b182d70b
+  - id: ksAdC6Z99dE.pdf
+    parent_uid: 14d0939ef44e8035ad39e06108d3285f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/volume-of-a-paraboloid-via-disks/ksAdC6Z99dE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 389631b71459c1847536a0fb1448b216
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 14d0939ef44e8035ad39e06108d3285f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 55470f843071d4ba49aec61ce6a964d1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 14d0939ef44e8035ad39e06108d3285f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c91b9dd2b1a3480b9ad4b0ae032e8fcd
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_44_300k.mp4'
+    parent_uid: 14d0939ef44e8035ad39e06108d3285f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bab05fbe48684df132553b3c31b2ea20
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/volume-paraboloid-via-disks/id414308064?i=90319644
+    parent_uid: 14d0939ef44e8035ad39e06108d3285f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b4a7f2dffe471dd5419440fdfa8564a8
+inline_embed_id: 17170810volumeofaparaboloidviadisks49106890
 parent_uid: 2a892d50ed0126e15d3603ad2d218d9e
+related_resources_text: ''
+short_url: volume-of-a-paraboloid-via-disks
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/volume-of-a-paraboloid-via-disks
-short_url: volume-of-a-paraboloid-via-disks
-inline_embed_id: 17170810volumeofaparaboloidviadisks49106890
-about_this_resource_text: ''
-related_resources_text: ''
+title: Volume of a Paraboloid via Disks
 transcript: >-
   <p><span m='7120'>PROFESSOR: Welcome</span> <span m='7540'>back</span> <span
   m='7710'>to</span> <span m='7800'>recitation.</span> <span
@@ -417,62 +472,7 @@ transcript: >-
   <span m='350370'>think</span> <span m='351860'>that</span> <span
   m='352140'>is</span> <span m='352250'>where</span> <span
   m='352400'>I'll</span> <span m='352530'>stop.</span> </p>
-embedded_media:
-  - uid: 2080f4dcc938c11bf9ee9d97b3d15ca7
-    parent_uid: 14d0939ef44e8035ad39e06108d3285f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ksAdC6Z99dE
-  - uid: bd45fc4d90a68a9a93d8033528735257
-    parent_uid: 14d0939ef44e8035ad39e06108d3285f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ksAdC6Z99dE/default.jpg'
-  - uid: 9b812ad1e0899d5d55df9e34ed373b2c
-    parent_uid: 14d0939ef44e8035ad39e06108d3285f
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ksAdC6Z99dE
-  - uid: 0179bea4cde8a61703db3338b182d70b
-    parent_uid: 14d0939ef44e8035ad39e06108d3285f
-    id: ksAdC6Z99dE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/volume-of-a-paraboloid-via-disks/ksAdC6Z99dE.srt
-  - uid: 389631b71459c1847536a0fb1448b216
-    parent_uid: 14d0939ef44e8035ad39e06108d3285f
-    id: ksAdC6Z99dE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/volume-of-a-paraboloid-via-disks/ksAdC6Z99dE.pdf
-  - uid: 55470f843071d4ba49aec61ce6a964d1
-    parent_uid: 14d0939ef44e8035ad39e06108d3285f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c91b9dd2b1a3480b9ad4b0ae032e8fcd
-    parent_uid: 14d0939ef44e8035ad39e06108d3285f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: bab05fbe48684df132553b3c31b2ea20
-    parent_uid: 14d0939ef44e8035ad39e06108d3285f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_44_300k.mp4'
-  - uid: b4a7f2dffe471dd5419440fdfa8564a8
-    parent_uid: 14d0939ef44e8035ad39e06108d3285f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/volume-paraboloid-via-disks/id414308064?i=90319644
+uid: 14d0939ef44e8035ad39e06108d3285f
 type: courses
 layout: video
 ---

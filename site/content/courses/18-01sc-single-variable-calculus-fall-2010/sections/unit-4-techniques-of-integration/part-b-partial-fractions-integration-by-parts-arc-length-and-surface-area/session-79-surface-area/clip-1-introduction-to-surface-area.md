@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Introduction to Surface Area'
-uid: eae336321cb8cc8d2ce799ab99eff5f5
-parent_uid: 17929c9ec324e987cc81f0233bae0eee
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-79-surface-area/clip-1-introduction-to-surface-area
-short_url: clip-1-introduction-to-surface-area
-inline_embed_id: '46148354clip1:introductiontosurfacearea11119948'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/2e10076b7745ad54a6fe43a52a7d043c"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 31 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TpWQlKHPyJ4
+    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ca0cf3db568ba611da21b03a4f7c6145
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TpWQlKHPyJ4/default.jpg'
+    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 98f4ad549bf57c2d4b13649448e0b050
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TpWQlKHPyJ4
+    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b67ccc14cd0513926fd398cd10dabd38
+  - id: TpWQlKHPyJ4.srt
+    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-79-surface-area/clip-1-introduction-to-surface-area/TpWQlKHPyJ4.srt
+    title: 3play caption file
+    type: null
+    uid: fd8490eef674946df1f50590c40f26ba
+  - id: TpWQlKHPyJ4.pdf
+    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-79-surface-area/clip-1-introduction-to-surface-area/TpWQlKHPyJ4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4360900fd84abd47b2feba5b70ceaa6b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: beeb7b553c6f4e05698ec63161aaa87e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e22dfd6f3b2a977db378314f57a8ceac
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec31_300k.mp4'
+    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 53797e55dbab1bcb118c631ab4cff884
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 94c215f2b10d3ecef2bf12caff17e464
+inline_embed_id: '46148354clip1:introductiontosurfacearea11119948'
+parent_uid: 17929c9ec324e987cc81f0233bae0eee
 related_resources_text: ''
+short_url: clip-1-introduction-to-surface-area
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-79-surface-area/clip-1-introduction-to-surface-area
+title: 'Clip 1: Introduction to Surface Area'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1290'>is</span> <span m='1420'>provided</span>
@@ -2454,61 +2508,7 @@ transcript: >-
   m='2719030'>And</span> <span m='2719930'>we'll</span> <span
   m='2720410'>do</span> <span m='2720590'>that</span> <span
   m='2721780'>next</span> <span m='2722140'>time.</span> </p>
-embedded_media:
-  - uid: ca0cf3db568ba611da21b03a4f7c6145
-    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TpWQlKHPyJ4
-  - uid: 98f4ad549bf57c2d4b13649448e0b050
-    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TpWQlKHPyJ4/default.jpg'
-  - uid: b67ccc14cd0513926fd398cd10dabd38
-    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TpWQlKHPyJ4
-  - uid: fd8490eef674946df1f50590c40f26ba
-    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
-    id: TpWQlKHPyJ4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-79-surface-area/clip-1-introduction-to-surface-area/TpWQlKHPyJ4.srt
-  - uid: 4360900fd84abd47b2feba5b70ceaa6b
-    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
-    id: TpWQlKHPyJ4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-79-surface-area/clip-1-introduction-to-surface-area/TpWQlKHPyJ4.pdf
-  - uid: beeb7b553c6f4e05698ec63161aaa87e
-    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e22dfd6f3b2a977db378314f57a8ceac
-    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 53797e55dbab1bcb118c631ab4cff884
-    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec31_300k.mp4'
-  - uid: 94c215f2b10d3ecef2bf12caff17e464
-    parent_uid: eae336321cb8cc8d2ce799ab99eff5f5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: eae336321cb8cc8d2ce799ab99eff5f5
 type: courses
 layout: video
 ---

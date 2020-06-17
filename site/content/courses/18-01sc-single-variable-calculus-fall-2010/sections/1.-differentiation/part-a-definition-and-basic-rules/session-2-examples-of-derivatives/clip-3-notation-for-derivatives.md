@@ -1,18 +1,72 @@
 ---
-title: 'Clip 3: Notation for Derivatives'
-uid: f8d2ffdf157ef75385b1e7c7b6a3af88
-parent_uid: 29ef5f87bae9a94ad04425b8efabe1ac
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-2-examples-of-derivatives/clip-3-notation-for-derivatives
-short_url: clip-3-notation-for-derivatives
-inline_embed_id: '33919556clip3:notationforderivatives38963731'
 about_this_resource_text: >-
   <p>&raquo; <a target="_blank" title="Open in a new window."
   href="./resolveuid/a0ac1e4088a800a54a16839494fbd16e">Accompanying Notes
   (PDF)</a></p> <p class="scholar_medsm">From Lecture 1 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 7K1sB05pE0A
+    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c9c260ad196b19e52b6a3473cbfd6713
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7K1sB05pE0A/default.jpg'
+    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a2bbd737962840cf4f79f72f3a91ebb5
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec01_300k.mp4'
+    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 59eae6a9172656ac00fe99c037162f4f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7K1sB05pE0A
+    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5d464cfc0ed94a474d2c7407d9b72006
+  - id: 7K1sB05pE0A.srt
+    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-2-examples-of-derivatives/clip-3-notation-for-derivatives/7K1sB05pE0A.srt
+    title: 3play caption file
+    type: null
+    uid: 5e5cb2957942f72da4b82a9490ce365b
+  - id: 7K1sB05pE0A.pdf
+    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-2-examples-of-derivatives/clip-3-notation-for-derivatives/7K1sB05pE0A.pdf
+    title: 3play pdf file
+    type: null
+    uid: a5bc60fec959c1285892f48b721d1ced
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 78d477f73e5d8c27e2f4beeab97bd55f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4ae4767811f21ae49bf65ac9ba0b6dc8
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 84b8b8267fec462114432a9ba6a50d33
+inline_embed_id: '33919556clip3:notationforderivatives38963731'
+parent_uid: 29ef5f87bae9a94ad04425b8efabe1ac
 related_resources_text: ''
+short_url: clip-3-notation-for-derivatives
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-2-examples-of-derivatives/clip-3-notation-for-derivatives
+title: 'Clip 3: Notation for Derivatives'
 transcript: >-
   <p><span m="460">The</span> <span m="652">following</span> <span
   m="844">content</span> <span m="1036">is</span> <span m="1228">provided</span>
@@ -2482,61 +2536,7 @@ transcript: >-
   m="3087920">because</span> <span m="3088150">delta</span> <span m="3088240">x
   goes to 0.</span> <span m="3089910">OK,</span> <span m="3090740">see
   you</span> <span m="3090890">next</span> <span m="3091130">time.</span></p>
-embedded_media:
-  - uid: c9c260ad196b19e52b6a3473cbfd6713
-    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 7K1sB05pE0A
-  - uid: a2bbd737962840cf4f79f72f3a91ebb5
-    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7K1sB05pE0A/default.jpg'
-  - uid: 59eae6a9172656ac00fe99c037162f4f
-    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec01_300k.mp4'
-  - uid: 5d464cfc0ed94a474d2c7407d9b72006
-    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7K1sB05pE0A
-  - uid: 5e5cb2957942f72da4b82a9490ce365b
-    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
-    id: 7K1sB05pE0A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-2-examples-of-derivatives/clip-3-notation-for-derivatives/7K1sB05pE0A.srt
-  - uid: a5bc60fec959c1285892f48b721d1ced
-    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
-    id: 7K1sB05pE0A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-2-examples-of-derivatives/clip-3-notation-for-derivatives/7K1sB05pE0A.pdf
-  - uid: 78d477f73e5d8c27e2f4beeab97bd55f
-    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4ae4767811f21ae49bf65ac9ba0b6dc8
-    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 84b8b8267fec462114432a9ba6a50d33
-    parent_uid: f8d2ffdf157ef75385b1e7c7b6a3af88
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: f8d2ffdf157ef75385b1e7c7b6a3af88
 type: courses
 layout: video
 ---

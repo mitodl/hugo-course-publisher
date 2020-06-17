@@ -1,13 +1,67 @@
 ---
-title: Exam 3 Review
-uid: 760addad1e083515d512ca7b82afe11b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: HgC1l_6ySkc
+    parent_uid: 760addad1e083515d512ca7b82afe11b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 08d649c09055bccb7aa8587926ae4868
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/HgC1l_6ySkc/default.jpg'
+    parent_uid: 760addad1e083515d512ca7b82afe11b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1af3b79b010b9d23f231eebc7a5ad257
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 760addad1e083515d512ca7b82afe11b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a461a9abad412bc95e1032eba6352da4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/32.mp4'
+    parent_uid: 760addad1e083515d512ca7b82afe11b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 79b60d5fcb8d16e6ab64fcccb301c7e3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: HgC1l_6ySkc
+    parent_uid: 760addad1e083515d512ca7b82afe11b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1ee2eb1cafcb52c22be13dca697d0c54
+  - id: HgC1l_6ySkc.srt
+    parent_uid: 760addad1e083515d512ca7b82afe11b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/exam-3-review/exam-3-review/HgC1l_6ySkc.srt
+    title: 3play caption file
+    type: null
+    uid: 3febcc5cd93b7e1394d5aba646cbc6bf
+  - id: HgC1l_6ySkc.pdf
+    parent_uid: 760addad1e083515d512ca7b82afe11b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/exam-3-review/exam-3-review/HgC1l_6ySkc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 246e18f190adc4a5ebed3bf57b0a70c6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 760addad1e083515d512ca7b82afe11b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e5d576789fbdc664fed27fdee73391fd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 760addad1e083515d512ca7b82afe11b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6a61e295c75c8b4d5188ac3299804531
+inline_embed_id: 3590335exam3review2739489
 parent_uid: 832ceb87f20fcd83981c236a6c11e277
+related_resources_text: ''
+short_url: exam-3-review
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/exam-3-review/exam-3-review
-short_url: exam-3-review
-inline_embed_id: 3590335exam3review2739489
-about_this_resource_text: ''
-related_resources_text: ''
+title: Exam 3 Review
 transcript: >-
   <p><span m='7930'>OK,</span> <span m='8450'>here</span> <span
   m='8750'>we</span> <span m='8860'>go</span> <span m='9120'>with,</span> <span
@@ -2579,61 +2633,7 @@ transcript: >-
   m='2814860'>so</span> <span m='2815010'>good</span> <span
   m='2815190'>luck</span> <span m='2815430'>on</span> <span
   m='2815550'>the</span> <span m='2815680'>quiz.</span> </p>
-embedded_media:
-  - uid: 08d649c09055bccb7aa8587926ae4868
-    parent_uid: 760addad1e083515d512ca7b82afe11b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: HgC1l_6ySkc
-  - uid: 1af3b79b010b9d23f231eebc7a5ad257
-    parent_uid: 760addad1e083515d512ca7b82afe11b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/HgC1l_6ySkc/default.jpg'
-  - uid: a461a9abad412bc95e1032eba6352da4
-    parent_uid: 760addad1e083515d512ca7b82afe11b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 79b60d5fcb8d16e6ab64fcccb301c7e3
-    parent_uid: 760addad1e083515d512ca7b82afe11b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/32.mp4'
-  - uid: 1ee2eb1cafcb52c22be13dca697d0c54
-    parent_uid: 760addad1e083515d512ca7b82afe11b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: HgC1l_6ySkc
-  - uid: 3febcc5cd93b7e1394d5aba646cbc6bf
-    parent_uid: 760addad1e083515d512ca7b82afe11b
-    id: HgC1l_6ySkc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/exam-3-review/exam-3-review/HgC1l_6ySkc.srt
-  - uid: 246e18f190adc4a5ebed3bf57b0a70c6
-    parent_uid: 760addad1e083515d512ca7b82afe11b
-    id: HgC1l_6ySkc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/exam-3-review/exam-3-review/HgC1l_6ySkc.pdf
-  - uid: e5d576789fbdc664fed27fdee73391fd
-    parent_uid: 760addad1e083515d512ca7b82afe11b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6a61e295c75c8b4d5188ac3299804531
-    parent_uid: 760addad1e083515d512ca7b82afe11b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 760addad1e083515d512ca7b82afe11b
 type: courses
 layout: video
 ---

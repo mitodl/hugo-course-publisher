@@ -1,18 +1,72 @@
 ---
-title: 'Clip 2: Boiling Cauldron: Introduction'
-uid: 546bce52a4e554e545bcece383dace07
-parent_uid: d2dac4c5783973f0083cdd3859d4cda5
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages/clip-2-boiling-cauldron-introduction
-short_url: clip-2-boiling-cauldron-introduction
-inline_embed_id: '18641107clip2:boilingcauldron:introduction50242017'
 about_this_resource_text: >-
   <p>&raquo; <a target="_blank"
   href="./resolveuid/927c654635fcde8b889a90de5659c5f4">Accompanying Notes
   (PDF)</a></p><p>&nbsp;From Lecture 22 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ShGBRUx2ub8
+    parent_uid: 546bce52a4e554e545bcece383dace07
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b17f225a36b44f22eb305137f93fa26c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ShGBRUx2ub8/default.jpg'
+    parent_uid: 546bce52a4e554e545bcece383dace07
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: caf1d5ad9429dc5d1e3838e2aac03d68
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: ShGBRUx2ub8
+    parent_uid: 546bce52a4e554e545bcece383dace07
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5ff892d0d43aa0de2854ef81150e3e2c
+  - id: ShGBRUx2ub8.srt
+    parent_uid: 546bce52a4e554e545bcece383dace07
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages/clip-2-boiling-cauldron-introduction/ShGBRUx2ub8.srt
+    title: 3play caption file
+    type: null
+    uid: d5d0b09345af5a8c5587e4cffbe270c4
+  - id: ShGBRUx2ub8.pdf
+    parent_uid: 546bce52a4e554e545bcece383dace07
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages/clip-2-boiling-cauldron-introduction/ShGBRUx2ub8.pdf
+    title: 3play pdf file
+    type: null
+    uid: d4d563bbb86ec916b724075abb4b01d0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 546bce52a4e554e545bcece383dace07
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 779d7dceb25cf9d92ae7c9a46e7ce824
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 546bce52a4e554e545bcece383dace07
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 108dee1ee8faf4d33280c2df04551ec1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec22_300k.mp4'
+    parent_uid: 546bce52a4e554e545bcece383dace07
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: daa94883003564fd0ac23fd4a6527777
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 546bce52a4e554e545bcece383dace07
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 83311b5bdfe29ee83469244e072518aa
+inline_embed_id: '18641107clip2:boilingcauldron:introduction50242017'
+parent_uid: d2dac4c5783973f0083cdd3859d4cda5
 related_resources_text: ''
+short_url: clip-2-boiling-cauldron-introduction
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages/clip-2-boiling-cauldron-introduction
+title: 'Clip 2: Boiling Cauldron: Introduction'
 transcript: >-
   <p><span m="0">The</span> <span m="120">following</span> <span
   m="530">content</span> <span m="1300">is</span> <span m="1420">provided</span>
@@ -2721,61 +2775,7 @@ transcript: >-
   it</span> <span m="2992780">takes</span> <span m="2993900">to</span> <span
   m="2994700">boil</span> <span m="2995100">the</span> <span
   m="2995160">kettle.</span></p>
-embedded_media:
-  - uid: b17f225a36b44f22eb305137f93fa26c
-    parent_uid: 546bce52a4e554e545bcece383dace07
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ShGBRUx2ub8
-  - uid: caf1d5ad9429dc5d1e3838e2aac03d68
-    parent_uid: 546bce52a4e554e545bcece383dace07
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ShGBRUx2ub8/default.jpg'
-  - uid: 5ff892d0d43aa0de2854ef81150e3e2c
-    parent_uid: 546bce52a4e554e545bcece383dace07
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ShGBRUx2ub8
-  - uid: d5d0b09345af5a8c5587e4cffbe270c4
-    parent_uid: 546bce52a4e554e545bcece383dace07
-    id: ShGBRUx2ub8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages/clip-2-boiling-cauldron-introduction/ShGBRUx2ub8.srt
-  - uid: d4d563bbb86ec916b724075abb4b01d0
-    parent_uid: 546bce52a4e554e545bcece383dace07
-    id: ShGBRUx2ub8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages/clip-2-boiling-cauldron-introduction/ShGBRUx2ub8.pdf
-  - uid: 779d7dceb25cf9d92ae7c9a46e7ce824
-    parent_uid: 546bce52a4e554e545bcece383dace07
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 108dee1ee8faf4d33280c2df04551ec1
-    parent_uid: 546bce52a4e554e545bcece383dace07
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: daa94883003564fd0ac23fd4a6527777
-    parent_uid: 546bce52a4e554e545bcece383dace07
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec22_300k.mp4'
-  - uid: 83311b5bdfe29ee83469244e072518aa
-    parent_uid: 546bce52a4e554e545bcece383dace07
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 546bce52a4e554e545bcece383dace07
 type: courses
 layout: video
 ---

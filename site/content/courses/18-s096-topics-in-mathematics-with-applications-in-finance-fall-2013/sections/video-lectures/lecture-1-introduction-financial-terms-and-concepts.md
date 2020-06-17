@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 1: Introduction, Financial Terms and Concepts'
-uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-1-introduction-financial-terms-and-concepts
-short_url: lecture-1-introduction-financial-terms-and-concepts
-inline_embed_id: '27495864lecture1:introduction,financialtermsandconcepts42481353'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In the first lecture of this course, the
   instructors introduce key terms and concepts related to financial products,
   markets, and quantitative analysis.</p> <p><strong>Instructor:</strong> Dr.
   Peter Kempthorne, Dr. Choongbum Lee, Dr. Vasily Strela and Dr. Jake Xia</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: wvXDB9dMdEo
+    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fcac3d32d0ecd1af0965573543aefd46
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/wvXDB9dMdEo/default.jpg'
+    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8879b19e288107ded3ac1fd84394dd05
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 41c6730220713c7d4eba7f14855c7590
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec01_300k.mp4'
+    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a78df754b613264c8cd24785bea774a9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: wvXDB9dMdEo
+    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1a51f7f5c3539cb7363be375ba6e577b
+  - id: wvXDB9dMdEo.srt
+    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-1-introduction-financial-terms-and-concepts/wvXDB9dMdEo.srt
+    title: 3play caption file
+    type: null
+    uid: bf0c38b49f2a3a11afa86ac7cf80f3f5
+  - id: wvXDB9dMdEo.pdf
+    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-1-introduction-financial-terms-and-concepts/wvXDB9dMdEo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 172d154dd82133659dbf36bc4d3981ed
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fdd0f390984e008bb8aa3d3308b341ab
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4ab3a6c4847e5854d85b028e392b9a35
+inline_embed_id: '27495864lecture1:introduction,financialtermsandconcepts42481353'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-1-introduction-financial-terms-and-concepts
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-1-introduction-financial-terms-and-concepts
+title: 'Lecture 1: Introduction, Financial Terms and Concepts'
 transcript: >-
   <p><span m='60'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -3619,61 +3673,7 @@ transcript: >-
   m='3624335'>to the</span> <span m='3624700'>class.</span> <span
   m='3627750'>Thank</span> <span m='3627970'>you</span> <span
   m='3628030'>very</span> <span m='3628150'>much.</span> </p>
-embedded_media:
-  - uid: fcac3d32d0ecd1af0965573543aefd46
-    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: wvXDB9dMdEo
-  - uid: 8879b19e288107ded3ac1fd84394dd05
-    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/wvXDB9dMdEo/default.jpg'
-  - uid: 41c6730220713c7d4eba7f14855c7590
-    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: a78df754b613264c8cd24785bea774a9
-    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec01_300k.mp4'
-  - uid: 1a51f7f5c3539cb7363be375ba6e577b
-    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: wvXDB9dMdEo
-  - uid: bf0c38b49f2a3a11afa86ac7cf80f3f5
-    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
-    id: wvXDB9dMdEo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-1-introduction-financial-terms-and-concepts/wvXDB9dMdEo.srt
-  - uid: 172d154dd82133659dbf36bc4d3981ed
-    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
-    id: wvXDB9dMdEo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-1-introduction-financial-terms-and-concepts/wvXDB9dMdEo.pdf
-  - uid: fdd0f390984e008bb8aa3d3308b341ab
-    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4ab3a6c4847e5854d85b028e392b9a35
-    parent_uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
 type: courses
 layout: video
 ---

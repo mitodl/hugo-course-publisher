@@ -1,11 +1,4 @@
 ---
-title: Day 3 Thoughts
-uid: 070a6bf6dff0fb133efe5b845627c50d
-parent_uid: 3c8916c02b406ad31644162454be10f0
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/paul-pj-folinos-reflections/day-3-thoughts
-short_url: day-3-thoughts
-inline_embed_id: 41212424day3thoughts33137364
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   Commons BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ZCO2uAbgv6Y
+    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7a6006da2f033e5a8e1b3fc053bca57e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ZCO2uAbgv6Y/default.jpg'
+    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 799d0774c5c186435a96ade1af59c98b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ZCO2uAbgv6Y
+    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0d3bb9471538a8286595ed42bc1cd6fc
+  - id: ZCO2uAbgv6Y.srt
+    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/paul-pj-folinos-reflections/day-3-thoughts/ZCO2uAbgv6Y.srt
+    title: 3play caption file
+    type: null
+    uid: 101604c9744806df4a0bdf203c84026c
+  - id: ZCO2uAbgv6Y.pdf
+    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/paul-pj-folinos-reflections/day-3-thoughts/ZCO2uAbgv6Y.pdf
+    title: 3play pdf file
+    type: null
+    uid: dd3046d04f2739fb22101caaa0f3ed47
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8b344264c4d7b6371cdcd1181868ce13
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ebcc22f9cfa027a87170aa8e6574a101
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bddd6bfd65feb50bd7570f47209b9a53
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_PJ_D03_Reflections_360p.mp4
+    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3d8b2a3a77a077b115cd3b3a8f03b7e4
+inline_embed_id: 41212424day3thoughts33137364
+parent_uid: 3c8916c02b406ad31644162454be10f0
 related_resources_text: ''
+short_url: day-3-thoughts
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/paul-pj-folinos-reflections/day-3-thoughts
+title: Day 3 Thoughts
 transcript: >-
   <p><span m="1266">GUEST SPEAKER: Hi.</span> <span m="1690">I'm</span> <span
   m="2230">taking</span> <span m="2540">[INAUDIBLE]</span> <span
@@ -213,62 +268,7 @@ transcript: >-
   m="184750">excited</span> <span m="185000">about</span> <span
   m="185210">that.</span> <span m="186410">All</span> <span
   m="186710">right.</span> <span m="187010">Bye.</span></p>
-embedded_media:
-  - uid: 7a6006da2f033e5a8e1b3fc053bca57e
-    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ZCO2uAbgv6Y
-  - uid: 799d0774c5c186435a96ade1af59c98b
-    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ZCO2uAbgv6Y/default.jpg'
-  - uid: 0d3bb9471538a8286595ed42bc1cd6fc
-    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ZCO2uAbgv6Y
-  - uid: 101604c9744806df4a0bdf203c84026c
-    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
-    id: ZCO2uAbgv6Y.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/paul-pj-folinos-reflections/day-3-thoughts/ZCO2uAbgv6Y.srt
-  - uid: dd3046d04f2739fb22101caaa0f3ed47
-    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
-    id: ZCO2uAbgv6Y.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/paul-pj-folinos-reflections/day-3-thoughts/ZCO2uAbgv6Y.pdf
-  - uid: 8b344264c4d7b6371cdcd1181868ce13
-    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ebcc22f9cfa027a87170aa8e6574a101
-    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: bddd6bfd65feb50bd7570f47209b9a53
-    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 3d8b2a3a77a077b115cd3b3a8f03b7e4
-    parent_uid: 070a6bf6dff0fb133efe5b845627c50d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_PJ_D03_Reflections_360p.mp4
+uid: 070a6bf6dff0fb133efe5b845627c50d
 type: courses
 layout: video
 ---

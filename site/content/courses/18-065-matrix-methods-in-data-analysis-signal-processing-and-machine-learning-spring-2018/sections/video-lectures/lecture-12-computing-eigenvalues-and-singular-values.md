@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 12: Computing Eigenvalues and Singular Values'
-uid: f86188c97f54197c2e0ac6b782a4b52d
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-12-computing-eigenvalues-and-singular-values
-short_url: lecture-12-computing-eigenvalues-and-singular-values
-inline_embed_id: 50962656lecture12computingeigenvaluesandsingularvalues23631747
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>Numerical linear algebra is the
   subject of this lecture and, in particular, how to compute eigenvalues and
@@ -16,7 +9,62 @@ about_this_resource_text: >-
   Include shifts<br /> \(A\)'s become triangular with eigenvalues on the
   diagonal.<br /> Krylov spaces and Krylov iterations</p> <p>Related section in
   textbook: II.1</p> <p><strong>Instructor:</strong> Prof. Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: d32WV1rKoVk
+    parent_uid: f86188c97f54197c2e0ac6b782a4b52d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2904ed6f6d10b546a825d3fa90c587a6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/d32WV1rKoVk/default.jpg'
+    parent_uid: f86188c97f54197c2e0ac6b782a4b52d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4a22714bfd7685c5c7078e659e23e831
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: d32WV1rKoVk
+    parent_uid: f86188c97f54197c2e0ac6b782a4b52d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5f5121cb5ba1a32c406c8bd769783ee6
+  - id: d32WV1rKoVk.srt
+    parent_uid: f86188c97f54197c2e0ac6b782a4b52d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-12-computing-eigenvalues-and-singular-values/d32WV1rKoVk.srt
+    title: 3play caption file
+    type: null
+    uid: 35b1568ee2e3b3f8f4a8b234e04def47
+  - id: d32WV1rKoVk.pdf
+    parent_uid: f86188c97f54197c2e0ac6b782a4b52d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-12-computing-eigenvalues-and-singular-values/d32WV1rKoVk.pdf
+    title: 3play pdf file
+    type: null
+    uid: d16b04c5aef320f89090baf1470d4b74
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f86188c97f54197c2e0ac6b782a4b52d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bedd6cce83bc68ebf256aab884d07cb6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f86188c97f54197c2e0ac6b782a4b52d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3f6ce0a224b6fe5e6ac4cb155daa3bd0
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture12_300k.mp4'
+    parent_uid: f86188c97f54197c2e0ac6b782a4b52d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5e95b9d07387665e7c78d1bd05dad831
+inline_embed_id: 50962656lecture12computingeigenvaluesandsingularvalues23631747
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-12-computing-eigenvalues-and-singular-values
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-12-computing-eigenvalues-and-singular-values
+title: 'Lecture 12: Computing Eigenvalues and Singular Values'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2542,55 +2590,7 @@ transcript: >-
   m="2962140">that.</span> <span m="2963190">See</span> <span
   m="2963430">you</span> <span m="2963550">Wednesday.</span> <span
   m="2964360">Thanks.</span></p>
-embedded_media:
-  - uid: 2904ed6f6d10b546a825d3fa90c587a6
-    parent_uid: f86188c97f54197c2e0ac6b782a4b52d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: d32WV1rKoVk
-  - uid: 4a22714bfd7685c5c7078e659e23e831
-    parent_uid: f86188c97f54197c2e0ac6b782a4b52d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/d32WV1rKoVk/default.jpg'
-  - uid: 5f5121cb5ba1a32c406c8bd769783ee6
-    parent_uid: f86188c97f54197c2e0ac6b782a4b52d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: d32WV1rKoVk
-  - uid: 35b1568ee2e3b3f8f4a8b234e04def47
-    parent_uid: f86188c97f54197c2e0ac6b782a4b52d
-    id: d32WV1rKoVk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-12-computing-eigenvalues-and-singular-values/d32WV1rKoVk.srt
-  - uid: d16b04c5aef320f89090baf1470d4b74
-    parent_uid: f86188c97f54197c2e0ac6b782a4b52d
-    id: d32WV1rKoVk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-12-computing-eigenvalues-and-singular-values/d32WV1rKoVk.pdf
-  - uid: bedd6cce83bc68ebf256aab884d07cb6
-    parent_uid: f86188c97f54197c2e0ac6b782a4b52d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3f6ce0a224b6fe5e6ac4cb155daa3bd0
-    parent_uid: f86188c97f54197c2e0ac6b782a4b52d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5e95b9d07387665e7c78d1bd05dad831
-    parent_uid: f86188c97f54197c2e0ac6b782a4b52d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture12_300k.mp4'
+uid: f86188c97f54197c2e0ac6b782a4b52d
 type: courses
 layout: video
 ---

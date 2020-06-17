@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Antiderivative of 1/x'
-uid: 59393dbb369809d4f886d1bca212eedf
-parent_uid: 28016eb00515039ebda8eb0f6b6ddb58
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-53-new-functions-from-old/clip-1-antiderivative-of-1-x
-short_url: clip-1-antiderivative-of-1-x
-inline_embed_id: '39301974clip1:antiderivativeof1/x64562559'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/357771ae0a60838d757b2e062650fe09"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 20 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Pd2xP5zDsRw
+    parent_uid: 59393dbb369809d4f886d1bca212eedf
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 39f7dba1e2fb7fe06e5a555b1a616b4d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Pd2xP5zDsRw/default.jpg'
+    parent_uid: 59393dbb369809d4f886d1bca212eedf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a676c9081549fa40bc3e1658bb82a884
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: Pd2xP5zDsRw
+    parent_uid: 59393dbb369809d4f886d1bca212eedf
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 535fe98f177fcda4379e1776e58a4fa7
+  - id: Pd2xP5zDsRw.srt
+    parent_uid: 59393dbb369809d4f886d1bca212eedf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-53-new-functions-from-old/clip-1-antiderivative-of-1-x/Pd2xP5zDsRw.srt
+    title: 3play caption file
+    type: null
+    uid: 9b48d839a1a716746affdf7117c23e7c
+  - id: Pd2xP5zDsRw.pdf
+    parent_uid: 59393dbb369809d4f886d1bca212eedf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-53-new-functions-from-old/clip-1-antiderivative-of-1-x/Pd2xP5zDsRw.pdf
+    title: 3play pdf file
+    type: null
+    uid: eda01514059c8169f6f9186ecc56f812
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 59393dbb369809d4f886d1bca212eedf
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c40ce72140a3b8fde2bd37f0ad2447ba
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 59393dbb369809d4f886d1bca212eedf
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e744b731f179f90424d7b2e1b6e86041
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec20_300k.mp4'
+    parent_uid: 59393dbb369809d4f886d1bca212eedf
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: de577ad44bc237cda6c7ae5783ea4e64
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 59393dbb369809d4f886d1bca212eedf
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0f6020e364dcc271a62bcf9def16de89
+inline_embed_id: '39301974clip1:antiderivativeof1/x64562559'
+parent_uid: 28016eb00515039ebda8eb0f6b6ddb58
 related_resources_text: ''
+short_url: clip-1-antiderivative-of-1-x
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-53-new-functions-from-old/clip-1-antiderivative-of-1-x
+title: 'Clip 1: Antiderivative of 1/x'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='520'>content</span> <span m='1020'>is</span> <span m='1130'>provided</span>
@@ -2593,61 +2647,7 @@ transcript: >-
   m='2965760'>and</span> <span m='2965870'>engineering.</span> <span
   m='2966730'>So,</span> <span m='2967940'>see you</span> <span
   m='2968110'>next</span> <span m='2968360'>time.</span> </p>
-embedded_media:
-  - uid: 39f7dba1e2fb7fe06e5a555b1a616b4d
-    parent_uid: 59393dbb369809d4f886d1bca212eedf
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Pd2xP5zDsRw
-  - uid: a676c9081549fa40bc3e1658bb82a884
-    parent_uid: 59393dbb369809d4f886d1bca212eedf
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Pd2xP5zDsRw/default.jpg'
-  - uid: 535fe98f177fcda4379e1776e58a4fa7
-    parent_uid: 59393dbb369809d4f886d1bca212eedf
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Pd2xP5zDsRw
-  - uid: 9b48d839a1a716746affdf7117c23e7c
-    parent_uid: 59393dbb369809d4f886d1bca212eedf
-    id: Pd2xP5zDsRw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-53-new-functions-from-old/clip-1-antiderivative-of-1-x/Pd2xP5zDsRw.srt
-  - uid: eda01514059c8169f6f9186ecc56f812
-    parent_uid: 59393dbb369809d4f886d1bca212eedf
-    id: Pd2xP5zDsRw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-53-new-functions-from-old/clip-1-antiderivative-of-1-x/Pd2xP5zDsRw.pdf
-  - uid: c40ce72140a3b8fde2bd37f0ad2447ba
-    parent_uid: 59393dbb369809d4f886d1bca212eedf
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e744b731f179f90424d7b2e1b6e86041
-    parent_uid: 59393dbb369809d4f886d1bca212eedf
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: de577ad44bc237cda6c7ae5783ea4e64
-    parent_uid: 59393dbb369809d4f886d1bca212eedf
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec20_300k.mp4'
-  - uid: 0f6020e364dcc271a62bcf9def16de89
-    parent_uid: 59393dbb369809d4f886d1bca212eedf
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 59393dbb369809d4f886d1bca212eedf
 type: courses
 layout: video
 ---

@@ -1,13 +1,62 @@
 ---
-title: Welcome to Unit 3
-uid: 25d9d3fae3f198b70016c1c91d00ac95
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ruFpq-_wpc0
+    parent_uid: 25d9d3fae3f198b70016c1c91d00ac95
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3478b37308c65a649e4ceea879fdb707
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: ruFpq-_wpc0
+    parent_uid: 25d9d3fae3f198b70016c1c91d00ac95
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f2ab7808bb6ab4689d0f951494fec677
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ruFpq-_wpc0/default.jpg'
+    parent_uid: 25d9d3fae3f198b70016c1c91d00ac95
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 18f89621d359b7a62d3420551cdf6123
+  - id: ruFpq-_wpc0.srt
+    parent_uid: 25d9d3fae3f198b70016c1c91d00ac95
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/welcome-to-unit-3/welcome-to-unit-3-1/ruFpq-_wpc0.srt
+    title: 3play caption file
+    type: null
+    uid: dc84ee826f93a1b7023f0c44272b3b76
+  - id: ruFpq-_wpc0.pdf
+    parent_uid: 25d9d3fae3f198b70016c1c91d00ac95
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/welcome-to-unit-3/welcome-to-unit-3-1/ruFpq-_wpc0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 44ff276ef8f0960750236c14e7b3d803
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 25d9d3fae3f198b70016c1c91d00ac95
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 225fd7f2c3ae9a2592005fc4bb32262f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 25d9d3fae3f198b70016c1c91d00ac95
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8e030149dfba525b464ea70c14faba29
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.1.01_300k.mp4
+    parent_uid: 25d9d3fae3f198b70016c1c91d00ac95
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f66cbf553c102e7601755688dccdf17e
+inline_embed_id: 20691761welcometounit328144091
 parent_uid: 29b6c08fb66fc5635e83256d2e175fed
+related_resources_text: ''
+short_url: welcome-to-unit-3-1
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/welcome-to-unit-3/welcome-to-unit-3-1
-short_url: welcome-to-unit-3-1
-inline_embed_id: 20691761welcometounit328144091
-about_this_resource_text: ''
-related_resources_text: ''
+title: Welcome to Unit 3
 transcript: >-
   <p><span m='4570'>This</span> <span m='5048'>week,</span> <span
   m='5526'>we'll</span> <span m='6004'>discuss</span> <span
@@ -42,56 +91,7 @@ transcript: >-
   <span m='33485'>logistic</span> <span m='34022'>regression.</span>
   </p><p><span m='34560'>Let's</span> <span m='35216'>get</span> <span
   m='35873'>started.</span> </p>
-embedded_media:
-  - uid: 3478b37308c65a649e4ceea879fdb707
-    parent_uid: 25d9d3fae3f198b70016c1c91d00ac95
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ruFpq-_wpc0
-  - uid: f2ab7808bb6ab4689d0f951494fec677
-    parent_uid: 25d9d3fae3f198b70016c1c91d00ac95
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ruFpq-_wpc0
-  - uid: 18f89621d359b7a62d3420551cdf6123
-    parent_uid: 25d9d3fae3f198b70016c1c91d00ac95
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ruFpq-_wpc0/default.jpg'
-  - uid: dc84ee826f93a1b7023f0c44272b3b76
-    parent_uid: 25d9d3fae3f198b70016c1c91d00ac95
-    id: ruFpq-_wpc0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/welcome-to-unit-3/welcome-to-unit-3-1/ruFpq-_wpc0.srt
-  - uid: 44ff276ef8f0960750236c14e7b3d803
-    parent_uid: 25d9d3fae3f198b70016c1c91d00ac95
-    id: ruFpq-_wpc0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/welcome-to-unit-3/welcome-to-unit-3-1/ruFpq-_wpc0.pdf
-  - uid: 225fd7f2c3ae9a2592005fc4bb32262f
-    parent_uid: 25d9d3fae3f198b70016c1c91d00ac95
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8e030149dfba525b464ea70c14faba29
-    parent_uid: 25d9d3fae3f198b70016c1c91d00ac95
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f66cbf553c102e7601755688dccdf17e
-    parent_uid: 25d9d3fae3f198b70016c1c91d00ac95
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.1.01_300k.mp4
+uid: 25d9d3fae3f198b70016c1c91d00ac95
 type: courses
 layout: video
 ---

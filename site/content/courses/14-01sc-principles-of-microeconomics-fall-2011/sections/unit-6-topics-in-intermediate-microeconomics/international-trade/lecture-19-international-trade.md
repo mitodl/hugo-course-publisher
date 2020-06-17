@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 19: International Trade'
-uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: oju-1Ogh1ks
+    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 62982e9199769ea66687afbabb938823
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/oju-1Ogh1ks/default.jpg'
+    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bbb75afb0b60ea683b6f3c4ddb3d7be3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: oju-1Ogh1ks
+    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8900881891341ea19aef968a13cb55cf
+  - id: oju-1Ogh1ks.srt
+    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/international-trade/lecture-19-international-trade/oju-1Ogh1ks.srt
+    title: 3play caption file
+    type: null
+    uid: fbaaf98baa91ef9e86b51bc4935b1b42
+  - id: oju-1Ogh1ks.pdf
+    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/international-trade/lecture-19-international-trade/oju-1Ogh1ks.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7b94b1209fe40ae4ede446e6ed01129b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d35a5e713894929f0785fbe43763fe7c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f16fe7bc8945b759b6afaf34722172f3
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec19_300k.mp4'
+    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f0bb98e7d500f86c7cc29387bbef1941
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-19-international-trade/id496265654?i=110157770
+    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 21e972ba71970347654aeefc3393d383
+inline_embed_id: 72429169lecture19internationaltrade32197376
 parent_uid: 7c6e1dca9e9d7e001941647141088a9a
+related_resources_text: ''
+short_url: lecture-19-international-trade
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/international-trade/lecture-19-international-trade
-short_url: lecture-19-international-trade
-inline_embed_id: 72429169lecture19internationaltrade32197376
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 19: International Trade'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3182,62 +3237,7 @@ transcript: >-
   m='2740290'>whether</span> <span m='2740490'>you</span> <span
   m='2740540'>should</span> <span m='2740690'>play</span> <span
   m='2740840'>the</span> <span m='2740940'>lottery.</span> </p>
-embedded_media:
-  - uid: 62982e9199769ea66687afbabb938823
-    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: oju-1Ogh1ks
-  - uid: bbb75afb0b60ea683b6f3c4ddb3d7be3
-    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/oju-1Ogh1ks/default.jpg'
-  - uid: 8900881891341ea19aef968a13cb55cf
-    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: oju-1Ogh1ks
-  - uid: fbaaf98baa91ef9e86b51bc4935b1b42
-    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
-    id: oju-1Ogh1ks.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/international-trade/lecture-19-international-trade/oju-1Ogh1ks.srt
-  - uid: 7b94b1209fe40ae4ede446e6ed01129b
-    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
-    id: oju-1Ogh1ks.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-6-topics-in-intermediate-microeconomics/international-trade/lecture-19-international-trade/oju-1Ogh1ks.pdf
-  - uid: d35a5e713894929f0785fbe43763fe7c
-    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f16fe7bc8945b759b6afaf34722172f3
-    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f0bb98e7d500f86c7cc29387bbef1941
-    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec19_300k.mp4'
-  - uid: 21e972ba71970347654aeefc3393d383
-    parent_uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-19-international-trade/id496265654?i=110157770
+uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
 type: courses
 layout: video
 ---

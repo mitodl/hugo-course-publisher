@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 12: Searching and Sorting'
-uid: a9ad80008108c3c623be7fa49037b76a
-parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-12-searching-and-sorting
-short_url: lecture-12-searching-and-sorting
-inline_embed_id: 74725300lecture12searchingandsorting53316321
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Grimson explains basic
   search and sort algorithms, including linear search, bisection search, bubble
   sort, selection sort, and merge sort.</p> <p><strong>Instructor:</strong>
   Prof. Eric Grimson</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 6LOwPhPDwVc
+    parent_uid: a9ad80008108c3c623be7fa49037b76a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 20bf35483dff00f9bc01270ece5571a4
+  - id: 6LOwPhPDwVc.srt
+    parent_uid: a9ad80008108c3c623be7fa49037b76a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-12-searching-and-sorting/6LOwPhPDwVc.srt
+    title: 3play caption file
+    type: null
+    uid: 9edfca31e2d536dc47f1165d7580ae58
+  - id: 6LOwPhPDwVc.pdf
+    parent_uid: a9ad80008108c3c623be7fa49037b76a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-12-searching-and-sorting/6LOwPhPDwVc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1d65ba61fcc2bd84c648e07109f620c1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a9ad80008108c3c623be7fa49037b76a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a8b15a3237e384a6132f2aa2e6f88277
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a9ad80008108c3c623be7fa49037b76a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: becbcba1c2425632349aa300904872b2
+  - id: Video-YouTube-Stream
+    media_location: 6LOwPhPDwVc
+    parent_uid: a9ad80008108c3c623be7fa49037b76a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 80078af5f7ecf161d3e4d34095b6e3e1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/6LOwPhPDwVc/default.jpg'
+    parent_uid: a9ad80008108c3c623be7fa49037b76a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7d400cb882161c887cca813021e1a5c4
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: a9ad80008108c3c623be7fa49037b76a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 80dd0e50bac0f6ff838cf34d07ecae48
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_12_300k.mp4'
+    parent_uid: a9ad80008108c3c623be7fa49037b76a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e29cbbac0f9517413f114a4c25352251
+inline_embed_id: 74725300lecture12searchingandsorting53316321
+parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
+short_url: lecture-12-searching-and-sorting
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-12-searching-and-sorting
+title: 'Lecture 12: Searching and Sorting'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1300">content</span> <span m="1870">is</span> <span
@@ -4134,61 +4188,7 @@ transcript: >-
   m="2900700">recursion.</span> <span m="2901630">Good</span> <span
   m="2901810">luck</span> <span m="2902020">on</span> <span
   m="2902140">the</span> <span m="2902200">exam.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 20bf35483dff00f9bc01270ece5571a4
-    parent_uid: a9ad80008108c3c623be7fa49037b76a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 6LOwPhPDwVc
-  - uid: 9edfca31e2d536dc47f1165d7580ae58
-    parent_uid: a9ad80008108c3c623be7fa49037b76a
-    id: 6LOwPhPDwVc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-12-searching-and-sorting/6LOwPhPDwVc.srt
-  - uid: 1d65ba61fcc2bd84c648e07109f620c1
-    parent_uid: a9ad80008108c3c623be7fa49037b76a
-    id: 6LOwPhPDwVc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-12-searching-and-sorting/6LOwPhPDwVc.pdf
-  - uid: a8b15a3237e384a6132f2aa2e6f88277
-    parent_uid: a9ad80008108c3c623be7fa49037b76a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: becbcba1c2425632349aa300904872b2
-    parent_uid: a9ad80008108c3c623be7fa49037b76a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 80078af5f7ecf161d3e4d34095b6e3e1
-    parent_uid: a9ad80008108c3c623be7fa49037b76a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 6LOwPhPDwVc
-  - uid: 7d400cb882161c887cca813021e1a5c4
-    parent_uid: a9ad80008108c3c623be7fa49037b76a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/6LOwPhPDwVc/default.jpg'
-  - uid: 80dd0e50bac0f6ff838cf34d07ecae48
-    parent_uid: a9ad80008108c3c623be7fa49037b76a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: e29cbbac0f9517413f114a4c25352251
-    parent_uid: a9ad80008108c3c623be7fa49037b76a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_12_300k.mp4'
+uid: a9ad80008108c3c623be7fa49037b76a
 type: courses
 layout: video
 ---

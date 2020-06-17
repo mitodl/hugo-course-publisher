@@ -1,13 +1,67 @@
 ---
-title: Units of h and Compton wavelength of particles
-uid: bd4e82cb50137bc324ef08d5e2c5235a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: S9RjSQro2e0
+    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0507a4c21dbf8915a8be0a95143bea8c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/S9RjSQro2e0/default.jpg'
+    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9e8cf4131b652e43931dd4567bb7cf7a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: S9RjSQro2e0
+    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: dcd5517b04ff19824505a9e3b6d26b7d
+  - id: S9RjSQro2e0.srt
+    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/units-of-h-and-compton-wavelength-of-particles/S9RjSQro2e0.srt
+    title: 3play caption file
+    type: null
+    uid: 2fbe46a65c18021d35df5eb021c215f3
+  - id: S9RjSQro2e0.pdf
+    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/units-of-h-and-compton-wavelength-of-particles/S9RjSQro2e0.pdf
+    title: 3play pdf file
+    type: null
+    uid: b7b6b408650866f6d217a4fc73fac310
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: be075a475c6db7c5b3e29acd6488104b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 49c916509394ff4edc1fb2de271a5138
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: cefd2578fbf71741a052052324a91bb2
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec03_s2_300k.mp4'
+    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 82a1fc692dc29f8fe81467a5e4b2d533
+inline_embed_id: 23772630unitsofhandcomptonwavelengthofparticles85505838
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: units-of-h-and-compton-wavelength-of-particles
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/units-of-h-and-compton-wavelength-of-particles
-short_url: units-of-h-and-compton-wavelength-of-particles
-inline_embed_id: 23772630unitsofhandcomptonwavelengthofparticles85505838
-about_this_resource_text: ''
-related_resources_text: ''
+title: Units of h and Compton wavelength of particles
 transcript: >-
   <p><span m='680'>BARTON ZWIEBACH:</span> <span m='800'>Now</span> <span
   m='920'>that</span> <span m='1130'>we've</span> <span
@@ -591,61 +645,7 @@ transcript: >-
   m='755940'>quantity</span> <span m='757110'>that</span> <span
   m='757350'>will</span> <span m='757620'>show</span> <span m='758100'>up</span>
   <span m='758670'>very</span> <span m='759030'>soon.</span> </p>
-embedded_media:
-  - uid: 0507a4c21dbf8915a8be0a95143bea8c
-    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: S9RjSQro2e0
-  - uid: 9e8cf4131b652e43931dd4567bb7cf7a
-    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/S9RjSQro2e0/default.jpg'
-  - uid: dcd5517b04ff19824505a9e3b6d26b7d
-    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: S9RjSQro2e0
-  - uid: 2fbe46a65c18021d35df5eb021c215f3
-    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
-    id: S9RjSQro2e0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/units-of-h-and-compton-wavelength-of-particles/S9RjSQro2e0.srt
-  - uid: b7b6b408650866f6d217a4fc73fac310
-    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
-    id: S9RjSQro2e0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/units-of-h-and-compton-wavelength-of-particles/S9RjSQro2e0.pdf
-  - uid: be075a475c6db7c5b3e29acd6488104b
-    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 49c916509394ff4edc1fb2de271a5138
-    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: cefd2578fbf71741a052052324a91bb2
-    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 82a1fc692dc29f8fe81467a5e4b2d533
-    parent_uid: bd4e82cb50137bc324ef08d5e2c5235a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec03_s2_300k.mp4'
+uid: bd4e82cb50137bc324ef08d5e2c5235a
 type: courses
 layout: video
 ---

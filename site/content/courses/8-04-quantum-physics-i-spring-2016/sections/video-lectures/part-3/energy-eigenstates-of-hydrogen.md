@@ -1,13 +1,67 @@
 ---
-title: Energy eigenstates of hydrogen
-uid: c8dc09f8f7ab8230327c2c91e18bdd2b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Z4CSAWrzguY
+    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 54561f6e7b8f0f89176567799ff51b59
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Z4CSAWrzguY/default.jpg'
+    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fe7da664f287648704c8e7034b84ed3c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Z4CSAWrzguY
+    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 30acfd6677486dcfe29234d0974160b7
+  - id: Z4CSAWrzguY.srt
+    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/energy-eigenstates-of-hydrogen/Z4CSAWrzguY.srt
+    title: 3play caption file
+    type: null
+    uid: 095b409946217375da288d4df36d241a
+  - id: Z4CSAWrzguY.pdf
+    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/energy-eigenstates-of-hydrogen/Z4CSAWrzguY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6d880e2168e2ab9bd5a6069ab034a614
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b2aa1884a3b8005909f12f364d5a35a2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 314c27795dd8531c3f23cf1b68961ec7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f8b0fa07417f957d922b52440dbf0c60
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec22_s5_300k.mp4'
+    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cefcf0979ee9e6498acd6a495711341d
+inline_embed_id: 12301250energyeigenstatesofhydrogen11982004
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: energy-eigenstates-of-hydrogen
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/energy-eigenstates-of-hydrogen
-short_url: energy-eigenstates-of-hydrogen
-inline_embed_id: 12301250energyeigenstatesofhydrogen11982004
-about_this_resource_text: ''
-related_resources_text: ''
+title: Energy eigenstates of hydrogen
 transcript: >-
   <p><span m='400'>PROFESSOR:</span> <span m='615'>Solutions</span> <span
   m='1260'>can</span> <span m='1500'>be</span> <span m='1680'>organized.</span>
@@ -535,61 +589,7 @@ transcript: >-
   m='738100'>1.</span> <span m='742020'>Ground</span> <span
   m='742530'>state</span> <span m='742950'>of</span> <span
   m='743100'>hydrogen.</span> </p>
-embedded_media:
-  - uid: 54561f6e7b8f0f89176567799ff51b59
-    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Z4CSAWrzguY
-  - uid: fe7da664f287648704c8e7034b84ed3c
-    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Z4CSAWrzguY/default.jpg'
-  - uid: 30acfd6677486dcfe29234d0974160b7
-    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Z4CSAWrzguY
-  - uid: 095b409946217375da288d4df36d241a
-    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
-    id: Z4CSAWrzguY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/energy-eigenstates-of-hydrogen/Z4CSAWrzguY.srt
-  - uid: 6d880e2168e2ab9bd5a6069ab034a614
-    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
-    id: Z4CSAWrzguY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/energy-eigenstates-of-hydrogen/Z4CSAWrzguY.pdf
-  - uid: b2aa1884a3b8005909f12f364d5a35a2
-    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 314c27795dd8531c3f23cf1b68961ec7
-    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f8b0fa07417f957d922b52440dbf0c60
-    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: cefcf0979ee9e6498acd6a495711341d
-    parent_uid: c8dc09f8f7ab8230327c2c91e18bdd2b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec22_s5_300k.mp4'
+uid: c8dc09f8f7ab8230327c2c91e18bdd2b
 type: courses
 layout: video
 ---

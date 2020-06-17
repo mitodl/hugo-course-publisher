@@ -1,20 +1,92 @@
 ---
-title: 'Lecture 7: Exam 1 Review'
-uid: dad5a2696a837aad9687f7693e66a6ee
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-7-exam-1-review
-short_url: lecture-7-exam-1-review
-inline_embed_id: '67127267lecture7:hyperbolicfunctions74677993'
 about_this_resource_text: >-
   <div class="vidpad"><p>N<em>ote: the review for the exam in lecture 7 is not
   comprehensive   because the students already have practice exams available to
   them.   There is no lecture 8 video because the exam was given during this  
   session.</em></p><p><strong>Topics covered:</strong> Exam 1 review</p> 
   <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec07.jpg
+    parent_uid: dad5a2696a837aad9687f7693e66a6ee
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-7-exam-1-review/lec07.jpg
+    title: Lecture 7
+    type: null
+    uid: 060d0426c3104f2532d452be284ce792
+  - id: Video-YouTube-Stream
+    media_location: eHJuAByQf5A
+    parent_uid: dad5a2696a837aad9687f7693e66a6ee
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b8c0f15a3f0b50f0cd64240351ee917c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/eHJuAByQf5A/default.jpg'
+    parent_uid: dad5a2696a837aad9687f7693e66a6ee
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 40c40d70d5bfba992f490de2f11e1036
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: dad5a2696a837aad9687f7693e66a6ee
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 35ad706f8bc0b19bec6da3b7b0d04e45
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec07_300k.mp4'
+    parent_uid: dad5a2696a837aad9687f7693e66a6ee
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4272158c8203a5c7afead55d4b8225b9
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: dad5a2696a837aad9687f7693e66a6ee
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 895c33dcd8628a1747a005fd971c158d
+  - id: Thumbnail-OCW-JPG
+    parent_uid: dad5a2696a837aad9687f7693e66a6ee
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: d8ec105a8a1ba7357cd7efa5cb7b844f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: eHJuAByQf5A
+    parent_uid: dad5a2696a837aad9687f7693e66a6ee
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c05383a710cd51be690812430b665b27
+  - id: eHJuAByQf5A.srt
+    parent_uid: dad5a2696a837aad9687f7693e66a6ee
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-7-exam-1-review/eHJuAByQf5A.srt
+    title: 3play caption file
+    type: null
+    uid: 6ddbfd0c1cbd976196b96df393801dd8
+  - id: eHJuAByQf5A.pdf
+    parent_uid: dad5a2696a837aad9687f7693e66a6ee
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-7-exam-1-review/eHJuAByQf5A.pdf
+    title: 3play pdf file
+    type: null
+    uid: ea2fe1227a97b01e249efe472ee8b308
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: dad5a2696a837aad9687f7693e66a6ee
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d89cff474371b9a3aa4a40e048962b68
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: dad5a2696a837aad9687f7693e66a6ee
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a88852984962af1c82997027da5ca416
+inline_embed_id: '67127267lecture7:hyperbolicfunctions74677993'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/a30756fe9d577184f205b09bc6d6d005">PDF</a>)</p></div>
+short_url: lecture-7-exam-1-review
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-7-exam-1-review
+title: 'Lecture 7: Exam 1 Review'
 transcript: >-
   <p><span m="40">The following</span> <span m="500">content</span> <span
   m="1000">is</span> <span m="1100">provided</span> <span m="1560">under
@@ -2769,79 +2841,7 @@ transcript: >-
   luck</span> <span m="3047396">on</span> <span m="3047818">the test.</span>
   <span m="3048662">See</span> <span m="3049084">you</span> <span
   m="3049506">tomorrow.</span></p>
-embedded_media:
-  - uid: 060d0426c3104f2532d452be284ce792
-    parent_uid: dad5a2696a837aad9687f7693e66a6ee
-    id: lec07.jpg
-    title: Lecture 7
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-7-exam-1-review/lec07.jpg
-  - uid: b8c0f15a3f0b50f0cd64240351ee917c
-    parent_uid: dad5a2696a837aad9687f7693e66a6ee
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: eHJuAByQf5A
-  - uid: 40c40d70d5bfba992f490de2f11e1036
-    parent_uid: dad5a2696a837aad9687f7693e66a6ee
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/eHJuAByQf5A/default.jpg'
-  - uid: 35ad706f8bc0b19bec6da3b7b0d04e45
-    parent_uid: dad5a2696a837aad9687f7693e66a6ee
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: 4272158c8203a5c7afead55d4b8225b9
-    parent_uid: dad5a2696a837aad9687f7693e66a6ee
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec07_300k.mp4'
-  - uid: 895c33dcd8628a1747a005fd971c158d
-    parent_uid: dad5a2696a837aad9687f7693e66a6ee
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: d8ec105a8a1ba7357cd7efa5cb7b844f
-    parent_uid: dad5a2696a837aad9687f7693e66a6ee
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: c05383a710cd51be690812430b665b27
-    parent_uid: dad5a2696a837aad9687f7693e66a6ee
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: eHJuAByQf5A
-  - uid: 6ddbfd0c1cbd976196b96df393801dd8
-    parent_uid: dad5a2696a837aad9687f7693e66a6ee
-    id: eHJuAByQf5A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-7-exam-1-review/eHJuAByQf5A.srt
-  - uid: ea2fe1227a97b01e249efe472ee8b308
-    parent_uid: dad5a2696a837aad9687f7693e66a6ee
-    id: eHJuAByQf5A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-7-exam-1-review/eHJuAByQf5A.pdf
-  - uid: d89cff474371b9a3aa4a40e048962b68
-    parent_uid: dad5a2696a837aad9687f7693e66a6ee
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a88852984962af1c82997027da5ca416
-    parent_uid: dad5a2696a837aad9687f7693e66a6ee
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: dad5a2696a837aad9687f7693e66a6ee
 type: courses
 layout: video
 ---

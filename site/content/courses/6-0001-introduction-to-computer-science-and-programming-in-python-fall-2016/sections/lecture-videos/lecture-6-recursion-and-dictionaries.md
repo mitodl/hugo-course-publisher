@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 6: Recursion and Dictionaries'
-uid: b4828817d1473ada8f4bccc1fc0cfbf3
-parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-6-recursion-and-dictionaries
-short_url: lecture-6-recursion-and-dictionaries
-inline_embed_id: 88468141lecture6recursionanddictionaries29035895
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Grimson introduces the
   concept of recursion and the Python dictionary data type.</p>
   <p><strong>Instructor:</strong> Prof. Eric Grimson</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: WPSeyjX1-4s
+    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5ceb546637ac83a103c092eb13343779
+  - id: WPSeyjX1-4s.srt
+    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-6-recursion-and-dictionaries/WPSeyjX1-4s.srt
+    title: 3play caption file
+    type: null
+    uid: cbf7192e1f19fc8d0af511c771cee322
+  - id: WPSeyjX1-4s.pdf
+    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-6-recursion-and-dictionaries/WPSeyjX1-4s.pdf
+    title: 3play pdf file
+    type: null
+    uid: ddf5ad40384181a5a3d9ae2b64ca366b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 320772ce7556597805304f744aa21369
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9824f6dc5ac77265b4cdad651ef56bf6
+  - id: Video-YouTube-Stream
+    media_location: WPSeyjX1-4s
+    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4fae46ddabbdd3a925b2202149240f30
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/WPSeyjX1-4s/default.jpg'
+    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 00d0017ad8f4317b984964f88e1bc5f8
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b7a6a509b4ad67e23884b9f6daf8df52
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_06_300k.mp4'
+    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a40ebdd2f48c32dc968cd65777f09867
+inline_embed_id: 88468141lecture6recursionanddictionaries29035895
+parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
+short_url: lecture-6-recursion-and-dictionaries
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-6-recursion-and-dictionaries
+title: 'Lecture 6: Recursion and Dictionaries'
 transcript: >-
   <p><span m='790'>The</span> <span m='880'>following</span> <span
   m='1300'>content</span> <span m='1870'>is</span> <span
@@ -4192,61 +4246,7 @@ transcript: >-
   m='2891280'>we'll</span> <span m='2891410'>see</span> <span
   m='2891560'>you</span> <span m='2891620'>next</span> <span
   m='2891860'>time.</span> </p>
-embedded_media:
-  - uid: 5ceb546637ac83a103c092eb13343779
-    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: WPSeyjX1-4s
-  - uid: cbf7192e1f19fc8d0af511c771cee322
-    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
-    id: WPSeyjX1-4s.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-6-recursion-and-dictionaries/WPSeyjX1-4s.srt
-  - uid: ddf5ad40384181a5a3d9ae2b64ca366b
-    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
-    id: WPSeyjX1-4s.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-6-recursion-and-dictionaries/WPSeyjX1-4s.pdf
-  - uid: 320772ce7556597805304f744aa21369
-    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9824f6dc5ac77265b4cdad651ef56bf6
-    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4fae46ddabbdd3a925b2202149240f30
-    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: WPSeyjX1-4s
-  - uid: 00d0017ad8f4317b984964f88e1bc5f8
-    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/WPSeyjX1-4s/default.jpg'
-  - uid: b7a6a509b4ad67e23884b9f6daf8df52
-    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: a40ebdd2f48c32dc968cd65777f09867
-    parent_uid: b4828817d1473ada8f4bccc1fc0cfbf3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_06_300k.mp4'
+uid: b4828817d1473ada8f4bccc1fc0cfbf3
 type: courses
 layout: video
 ---

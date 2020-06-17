@@ -1,17 +1,89 @@
 ---
-title: 'Lecture 29: Singular value decomposition'
-uid: 96b25d78b0d8cfe4046c78eb978b65b8
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-29-singular-value-decomposition
-short_url: lecture-29-singular-value-decomposition
-inline_embed_id: '38242749lecture29:singularvaluedecomposition6930532'
 about_this_resource_text: "<div class=\"vidpad\">\r\n<p>These video lectures of Professor Gilbert Strang teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to the current  edition of the textbook. However, this book is still the best reference  for more information on the topics covered in each lecture.</p>\r\n<p><a href=\"http://www.amazon.com/exec/obidos/ASIN/0980232775/ref=nosim/mitopencourse-20\"><img alt=\"Buy at Amazon\" src=\"/images/a_logo_17.gif\" align=\"absmiddle\" border=\"0\" /></a> Strang, Gilbert. <em>Introduction to Linear Algebra</em>. 5th ed. <a href=\"http://www.wellesleycambridge.com/\">Wellesley-Cambridge Press</a>, 2016. ISBN: 9780980232776.</p>\r\n<p><strong>Instructor/speaker:</strong> Prof. Gilbert Strang</p>\r\n</div>"
+embedded_media:
+  - id: 18.06_L29.jpg
+    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-29-singular-value-decomposition/18.06_L29.jpg
+    title: 18.06_L29.jpg
+    type: null
+    uid: f5b9ed132b6fd7c33a79dafd05e4050d
+  - id: Video-YouTube-Stream
+    media_location: TX_vooSnhm8
+    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1431a547994065afe49861575ff0e7cb
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a740e08898c844f973d4fd3ca9f8309b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/29.mp4'
+    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b96a99ed060b4ff410a04bcc1bba0b29
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 4d5a47e5073faed16f1d30e4647ebf61
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 95ad4ce3e30b1bec6e829793a2dba2a9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TX_vooSnhm8
+    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a24e3b19718f6d85d5ba52171943c2be
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TX_vooSnhm8/default.jpg'
+    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7ddda0cfd0b56dc82d4f8d691ad85fea
+  - id: TX_vooSnhm8.srt
+    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-29-singular-value-decomposition/TX_vooSnhm8.srt
+    title: 3play caption file
+    type: null
+    uid: 6a8c238c5645c1c112e9bde94c793670
+  - id: TX_vooSnhm8.pdf
+    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-29-singular-value-decomposition/TX_vooSnhm8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0f4d618b79d74403afcbaef310117f03
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ece69b259af722c56ff43e22e92e92c2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6a5d21ca27bb552bb6e96ad89aad9941
+inline_embed_id: '38242749lecture29:singularvaluedecomposition6930532'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-29-singular-value-decomposition
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-29-singular-value-decomposition
+title: 'Lecture 29: Singular value decomposition'
 transcript: >-
   <p><span m='14160'>Okay.</span> <span m='14860'>This</span> <span
   m='15360'>is</span> <span m='15610'>the</span> <span m='15810'>lecture</span>
@@ -2112,79 +2184,7 @@ transcript: >-
   m='2414360'>course.</span> </p><p><span m='2415260'>So</span> <span
   m='2415430'>there's</span> <span m='2415570'>the</span> <span
   m='2415620'>SVD.</span> </p><p><span m='2415740'>Thanks.</span> </p>
-embedded_media:
-  - uid: f5b9ed132b6fd7c33a79dafd05e4050d
-    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
-    id: 18.06_L29.jpg
-    title: 18.06_L29.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-29-singular-value-decomposition/18.06_L29.jpg
-  - uid: 1431a547994065afe49861575ff0e7cb
-    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TX_vooSnhm8
-  - uid: a740e08898c844f973d4fd3ca9f8309b
-    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: b96a99ed060b4ff410a04bcc1bba0b29
-    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/29.mp4'
-  - uid: 4d5a47e5073faed16f1d30e4647ebf61
-    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 95ad4ce3e30b1bec6e829793a2dba2a9
-    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: a24e3b19718f6d85d5ba52171943c2be
-    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TX_vooSnhm8
-  - uid: 7ddda0cfd0b56dc82d4f8d691ad85fea
-    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TX_vooSnhm8/default.jpg'
-  - uid: 6a8c238c5645c1c112e9bde94c793670
-    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
-    id: TX_vooSnhm8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-29-singular-value-decomposition/TX_vooSnhm8.srt
-  - uid: 0f4d618b79d74403afcbaef310117f03
-    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
-    id: TX_vooSnhm8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-29-singular-value-decomposition/TX_vooSnhm8.pdf
-  - uid: ece69b259af722c56ff43e22e92e92c2
-    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6a5d21ca27bb552bb6e96ad89aad9941
-    parent_uid: 96b25d78b0d8cfe4046c78eb978b65b8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 96b25d78b0d8cfe4046c78eb978b65b8
 type: courses
 layout: video
 ---

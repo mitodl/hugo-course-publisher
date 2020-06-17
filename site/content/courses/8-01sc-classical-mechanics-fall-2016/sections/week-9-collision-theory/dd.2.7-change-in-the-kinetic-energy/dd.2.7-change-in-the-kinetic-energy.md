@@ -1,13 +1,67 @@
 ---
-title: DD.2.7 Change in the Kinetic Energy
-uid: 69c9461443d1d82952d7625dc00ebfea
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: oRzzwpZ0ei4
+    parent_uid: 69c9461443d1d82952d7625dc00ebfea
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1f25e544c52447c90242d172ce204b06
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/oRzzwpZ0ei4/default.jpg'
+    parent_uid: 69c9461443d1d82952d7625dc00ebfea
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 55c6d2984be43d9bf34b601d1c0c99bb
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: oRzzwpZ0ei4
+    parent_uid: 69c9461443d1d82952d7625dc00ebfea
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c4d474b9a9934d883489bd12e985a1ac
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 69c9461443d1d82952d7625dc00ebfea
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b567c30d833e3e9e1e82c9a0a9a06fae
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_DD_CMframe7_360p.mp4'
+    parent_uid: 69c9461443d1d82952d7625dc00ebfea
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 745183a8ff8999279e925218f20e07a3
+  - id: oRzzwpZ0ei4.srt
+    parent_uid: 69c9461443d1d82952d7625dc00ebfea
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy/dd.2.7-change-in-the-kinetic-energy/oRzzwpZ0ei4.srt
+    title: 3play caption file
+    type: null
+    uid: f7b56f0fc810ae048ff7e338216079d6
+  - id: oRzzwpZ0ei4.pdf
+    parent_uid: 69c9461443d1d82952d7625dc00ebfea
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy/dd.2.7-change-in-the-kinetic-energy/oRzzwpZ0ei4.pdf
+    title: 3play pdf file
+    type: null
+    uid: f1f89ab949f4b2b9dfb7a68996ee08ab
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 69c9461443d1d82952d7625dc00ebfea
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 842ab273ef9285be6810c326074545c2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 69c9461443d1d82952d7625dc00ebfea
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d7ab69d765bcd6c078cc7a7931024c77
+inline_embed_id: 39725381dd.2.7changeinthekineticenergy53108384
 parent_uid: 4f7d82e573ddc5e12a96aef184e27ed2
+related_resources_text: ''
+short_url: dd.2.7-change-in-the-kinetic-energy
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy/dd.2.7-change-in-the-kinetic-energy
-short_url: dd.2.7-change-in-the-kinetic-energy
-inline_embed_id: 39725381dd.2.7changeinthekineticenergy53108384
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
+title: DD.2.7 Change in the Kinetic Energy
 transcript: >-
   <p><span m='3800'>Now when we did these calculation,</span> <span m='6170'>we
   saw that the kinetic energy in the ground frame</span> <span m='11990'>was
@@ -65,61 +119,7 @@ transcript: >-
   m='211380'>It can go into thermal energy that</span> <span m='220660'>diffuses
   into the environment.</span> </p><p><span m='222520'>However, that's how much
   is changed.</span> </p>
-embedded_media:
-  - uid: 1f25e544c52447c90242d172ce204b06
-    parent_uid: 69c9461443d1d82952d7625dc00ebfea
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: oRzzwpZ0ei4
-  - uid: 55c6d2984be43d9bf34b601d1c0c99bb
-    parent_uid: 69c9461443d1d82952d7625dc00ebfea
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/oRzzwpZ0ei4/default.jpg'
-  - uid: c4d474b9a9934d883489bd12e985a1ac
-    parent_uid: 69c9461443d1d82952d7625dc00ebfea
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: oRzzwpZ0ei4
-  - uid: b567c30d833e3e9e1e82c9a0a9a06fae
-    parent_uid: 69c9461443d1d82952d7625dc00ebfea
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 745183a8ff8999279e925218f20e07a3
-    parent_uid: 69c9461443d1d82952d7625dc00ebfea
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_DD_CMframe7_360p.mp4'
-  - uid: f7b56f0fc810ae048ff7e338216079d6
-    parent_uid: 69c9461443d1d82952d7625dc00ebfea
-    id: oRzzwpZ0ei4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy/dd.2.7-change-in-the-kinetic-energy/oRzzwpZ0ei4.srt
-  - uid: f1f89ab949f4b2b9dfb7a68996ee08ab
-    parent_uid: 69c9461443d1d82952d7625dc00ebfea
-    id: oRzzwpZ0ei4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy/dd.2.7-change-in-the-kinetic-energy/oRzzwpZ0ei4.pdf
-  - uid: 842ab273ef9285be6810c326074545c2
-    parent_uid: 69c9461443d1d82952d7625dc00ebfea
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d7ab69d765bcd6c078cc7a7931024c77
-    parent_uid: 69c9461443d1d82952d7625dc00ebfea
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 69c9461443d1d82952d7625dc00ebfea
 type: courses
 layout: video
 ---

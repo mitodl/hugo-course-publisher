@@ -1,17 +1,71 @@
 ---
-title: 'Recitation 7: Incremental Improvement: Applications of Network Flow & Matching'
-uid: faf5f000ed69bbf4396664e6819bcccd
-parent_uid: 8c671299aae36eba669ca13490c21dec
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-7-incremental-improvement-applications-of-network-flow-matching
-short_url: recitation-7-incremental-improvement-applications-of-network-flow-matching
-inline_embed_id: >-
-  54374831recitation7:incrementalimprovement:applicationsofnetworkflow&matching79954929
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this recitation, problems related to
   Network Flow and Matching are discussed.</p> <p><strong>Instructor:</strong>
   Ling Ren</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0CdxkgAjsDA
+    parent_uid: faf5f000ed69bbf4396664e6819bcccd
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f7bd1e4f4243564f71d4715924662367
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0CdxkgAjsDA/default.jpg'
+    parent_uid: faf5f000ed69bbf4396664e6819bcccd
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fcbdf77767c61e1b74e0306364f76baa
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 0CdxkgAjsDA
+    parent_uid: faf5f000ed69bbf4396664e6819bcccd
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4a3657d09199cc7d8d0c09994db426a2
+  - id: 0CdxkgAjsDA.srt
+    parent_uid: faf5f000ed69bbf4396664e6819bcccd
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-7-incremental-improvement-applications-of-network-flow-matching/0CdxkgAjsDA.srt
+    title: 3play caption file
+    type: null
+    uid: a160ccbbcf9a20ab4fe1e83b1855afb9
+  - id: 0CdxkgAjsDA.pdf
+    parent_uid: faf5f000ed69bbf4396664e6819bcccd
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-7-incremental-improvement-applications-of-network-flow-matching/0CdxkgAjsDA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 463e10f01b568ea52209a8ca180ccd2e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: faf5f000ed69bbf4396664e6819bcccd
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0e38a243dd61891a5ca7a9304f8736bd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: faf5f000ed69bbf4396664e6819bcccd
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8a2efe7b835a481cbe6cf8a24685ad99
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: faf5f000ed69bbf4396664e6819bcccd
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fc97a488da078fe325c3c5e4d5507056
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec07_300k.mp4'
+    parent_uid: faf5f000ed69bbf4396664e6819bcccd
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5b6bda1979b7910275236c1d671fdc14
+inline_embed_id: >-
+  54374831recitation7:incrementalimprovement:applicationsofnetworkflow&matching79954929
+parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
+short_url: recitation-7-incremental-improvement-applications-of-network-flow-matching
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-7-incremental-improvement-applications-of-network-flow-matching
+title: 'Recitation 7: Incremental Improvement: Applications of Network Flow & Matching'
 transcript: >-
   <p><span m="90">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -1997,61 +2051,7 @@ transcript: >-
   m="3067710">OK.</span> <span m="3068100">And</span> <span
   m="3068890">that's</span> <span m="3069180">everything</span> <span
   m="3069460">for</span> <span m="3069640">today.</span></p>
-embedded_media:
-  - uid: f7bd1e4f4243564f71d4715924662367
-    parent_uid: faf5f000ed69bbf4396664e6819bcccd
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0CdxkgAjsDA
-  - uid: fcbdf77767c61e1b74e0306364f76baa
-    parent_uid: faf5f000ed69bbf4396664e6819bcccd
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0CdxkgAjsDA/default.jpg'
-  - uid: 4a3657d09199cc7d8d0c09994db426a2
-    parent_uid: faf5f000ed69bbf4396664e6819bcccd
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0CdxkgAjsDA
-  - uid: a160ccbbcf9a20ab4fe1e83b1855afb9
-    parent_uid: faf5f000ed69bbf4396664e6819bcccd
-    id: 0CdxkgAjsDA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-7-incremental-improvement-applications-of-network-flow-matching/0CdxkgAjsDA.srt
-  - uid: 463e10f01b568ea52209a8ca180ccd2e
-    parent_uid: faf5f000ed69bbf4396664e6819bcccd
-    id: 0CdxkgAjsDA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-7-incremental-improvement-applications-of-network-flow-matching/0CdxkgAjsDA.pdf
-  - uid: 0e38a243dd61891a5ca7a9304f8736bd
-    parent_uid: faf5f000ed69bbf4396664e6819bcccd
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8a2efe7b835a481cbe6cf8a24685ad99
-    parent_uid: faf5f000ed69bbf4396664e6819bcccd
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: fc97a488da078fe325c3c5e4d5507056
-    parent_uid: faf5f000ed69bbf4396664e6819bcccd
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 5b6bda1979b7910275236c1d671fdc14
-    parent_uid: faf5f000ed69bbf4396664e6819bcccd
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec07_300k.mp4'
+uid: faf5f000ed69bbf4396664e6819bcccd
 type: courses
 layout: video
 ---

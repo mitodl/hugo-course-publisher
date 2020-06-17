@@ -1,19 +1,91 @@
 ---
-title: 'Lecture 36: Improper Integrals'
-uid: 85e85d6f9703061c0a5e9b4301af97e0
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-36-improper-integrals
-short_url: lecture-36-improper-integrals
-inline_embed_id: '94525411lecture36:improperintegrals90312533'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Improper
   integrals</p>  <p>Note: This video lecture was recorded in the Fall of 2007
   and corresponds to the lecture notes for lecture 35 taught in the Fall of
   2006.</p> <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec36.jpg
+    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-36-improper-integrals/lec36.jpg
+    title: Lecture 36
+    type: null
+    uid: b2d6bcc17b0337ba8bbda00c4db2be6d
+  - id: Video-YouTube-Stream
+    media_location: KhwQKE_tld0
+    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d9424806ac83eeb32e30d9becbf8523b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/KhwQKE_tld0/default.jpg'
+    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8ff6a107a7dbef8d011c6e684039d936
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a8fe18fee5befc7448c902c82fef37cc
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec36_300k.mp4'
+    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 957ce244fe1be9894e759bd74f36dd8b
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 25b0fa9e1a30fa840ef1ad57fffbb941
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: e014747bb0af87dd8cff3d40b07ea2dc
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: KhwQKE_tld0
+    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 30362d7f8fdfb17f9caee81613fd7a6a
+  - id: KhwQKE_tld0.srt
+    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-36-improper-integrals/KhwQKE_tld0.srt
+    title: 3play caption file
+    type: null
+    uid: ea05b576df635829b6b4fe86103ab470
+  - id: KhwQKE_tld0.pdf
+    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-36-improper-integrals/KhwQKE_tld0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 830e65a8ec2b2e630fa95271627576fe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9f7a9fa7a04ef2e846d57b599bca2179
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9d1942118b4c24a852df69ef9d330eab
+inline_embed_id: '94525411lecture36:improperintegrals90312533'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/6f78763852e7fd656a9aa1dc67fef6ee">PDF</a>)</p></div>
+short_url: lecture-36-improper-integrals
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-36-improper-integrals
+title: 'Lecture 36: Improper Integrals'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1270'>is</span> <span m='1420'>provided</span>
@@ -2624,79 +2696,7 @@ transcript: >-
   m='2962100'>we'll</span> <span m='2962210'>do</span> <span
   m='2962320'>that</span> <span m='2962560'>next</span> <span
   m='2962860'>time.</span> </p>
-embedded_media:
-  - uid: b2d6bcc17b0337ba8bbda00c4db2be6d
-    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
-    id: lec36.jpg
-    title: Lecture 36
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-36-improper-integrals/lec36.jpg
-  - uid: d9424806ac83eeb32e30d9becbf8523b
-    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: KhwQKE_tld0
-  - uid: 8ff6a107a7dbef8d011c6e684039d936
-    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/KhwQKE_tld0/default.jpg'
-  - uid: a8fe18fee5befc7448c902c82fef37cc
-    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: 957ce244fe1be9894e759bd74f36dd8b
-    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec36_300k.mp4'
-  - uid: 25b0fa9e1a30fa840ef1ad57fffbb941
-    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: e014747bb0af87dd8cff3d40b07ea2dc
-    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 30362d7f8fdfb17f9caee81613fd7a6a
-    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: KhwQKE_tld0
-  - uid: ea05b576df635829b6b4fe86103ab470
-    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
-    id: KhwQKE_tld0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-36-improper-integrals/KhwQKE_tld0.srt
-  - uid: 830e65a8ec2b2e630fa95271627576fe
-    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
-    id: KhwQKE_tld0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-36-improper-integrals/KhwQKE_tld0.pdf
-  - uid: 9f7a9fa7a04ef2e846d57b599bca2179
-    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9d1942118b4c24a852df69ef9d330eab
-    parent_uid: 85e85d6f9703061c0a5e9b4301af97e0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 85e85d6f9703061c0a5e9b4301af97e0
 type: courses
 layout: video
 ---

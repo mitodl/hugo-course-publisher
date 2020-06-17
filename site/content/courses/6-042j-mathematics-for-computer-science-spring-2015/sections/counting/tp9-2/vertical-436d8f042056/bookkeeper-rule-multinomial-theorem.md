@@ -1,13 +1,72 @@
 ---
-title: 'Bookkeeper Rule, Multinomial Theorem'
-uid: ce4dc5d1bff830ad38fc54869fa87bf8
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 2b370ac05ce5b0ff9bb610372abbdb8b
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9d2e6977391a5d18f5b628f87ca6a368
+  - id: Video-YouTube-Stream
+    media_location: juGgfHsO-xM
+    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 206352334c48db632e92e26a925257d3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/juGgfHsO-xM/default.jpg'
+    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1775f5b60995a2712a554f767f28ee77
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: juGgfHsO-xM
+    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: eee707080c27ed6090f3c51120d828a2
+  - id: juGgfHsO-xM.srt
+    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-436d8f042056/bookkeeper-rule-multinomial-theorem/juGgfHsO-xM.srt
+    title: 3play caption file
+    type: null
+    uid: b7bbbfd07f94c9b0420ff2670c2dad7c
+  - id: juGgfHsO-xM.pdf
+    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-436d8f042056/bookkeeper-rule-multinomial-theorem/juGgfHsO-xM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6bc1d126be41981bc2bfd9e9132bafff
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3c8c3c750c95386689de29b687d5163c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9a765a955df5fb9f3ff8edd8c950348a
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_bookkeeper_ipod.mp4'
+    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c60f70912fdbabbb01cd6a470d496cdb
+inline_embed_id: 84920665bookkeeperrulemultinomialtheorem90125374
 parent_uid: 4dc649af8a5cb525a82a43e59d6549fd
+related_resources_text: ''
+short_url: bookkeeper-rule-multinomial-theorem
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-436d8f042056/bookkeeper-rule-multinomial-theorem
-short_url: bookkeeper-rule-multinomial-theorem
-inline_embed_id: 84920665bookkeeperrulemultinomialtheorem90125374
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Bookkeeper Rule, Multinomial Theorem'
 transcript: >-
   <p><span m='910'>PROFESSOR: The</span> <span m='1040'>binomial</span> <span
   m='1670'>theorem</span> <span m='2770'>extends</span> <span m='3220'>to</span>
@@ -549,66 +608,7 @@ transcript: >-
   <span m='468370'>up</span> <span m='468480'>generating</span> <span
   m='468940'>functions</span> <span m='469480'>next</span> <span
   m='469800'>week.</span> </p>
-embedded_media:
-  - uid: 2b370ac05ce5b0ff9bb610372abbdb8b
-    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 9d2e6977391a5d18f5b628f87ca6a368
-    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 206352334c48db632e92e26a925257d3
-    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: juGgfHsO-xM
-  - uid: 1775f5b60995a2712a554f767f28ee77
-    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/juGgfHsO-xM/default.jpg'
-  - uid: eee707080c27ed6090f3c51120d828a2
-    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: juGgfHsO-xM
-  - uid: b7bbbfd07f94c9b0420ff2670c2dad7c
-    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
-    id: juGgfHsO-xM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-436d8f042056/bookkeeper-rule-multinomial-theorem/juGgfHsO-xM.srt
-  - uid: 6bc1d126be41981bc2bfd9e9132bafff
-    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
-    id: juGgfHsO-xM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-436d8f042056/bookkeeper-rule-multinomial-theorem/juGgfHsO-xM.pdf
-  - uid: 3c8c3c750c95386689de29b687d5163c
-    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9a765a955df5fb9f3ff8edd8c950348a
-    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c60f70912fdbabbb01cd6a470d496cdb
-    parent_uid: ce4dc5d1bff830ad38fc54869fa87bf8
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_bookkeeper_ipod.mp4'
+uid: ce4dc5d1bff830ad38fc54869fa87bf8
 type: courses
 layout: video
 ---

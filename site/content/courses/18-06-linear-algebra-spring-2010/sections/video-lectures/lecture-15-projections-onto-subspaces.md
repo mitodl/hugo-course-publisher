@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 15: Projections onto subspaces'
-uid: 05e98eb5937aa5c6346b20da0d9c7f68
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-15-projections-onto-subspaces
-short_url: lecture-15-projections-onto-subspaces
-inline_embed_id: '95196541lecture15:projectionsontosubspaces67972994'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L15.jpg
+    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-15-projections-onto-subspaces/18.06_L15.jpg
+    title: 18.06_L15.jpg
+    type: null
+    uid: 5aea4f2ba44c12087b103cdb43d38a3d
+  - id: Video-YouTube-Stream
+    media_location: Y_Ac6KiQ1t0
+    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1b61b1899cc043a3524932e6603be9ec
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Y_Ac6KiQ1t0/default.jpg'
+    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5ad471ab12cb2d8c6cdd2422e5fdedf7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1cf0ce107acb9245c293748120e80176
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/15.mp4'
+    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 65a95ff562858b2aeeec33ad0c920855
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 3e24d55452308db0cc996d7d921a379f
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: ff879aa99a2f4bb9e44a8341d5dc62da
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Y_Ac6KiQ1t0
+    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 267ee181c91c8450a410e8797f872b10
+  - id: Y_Ac6KiQ1t0.srt
+    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-15-projections-onto-subspaces/Y_Ac6KiQ1t0.srt
+    title: 3play caption file
+    type: null
+    uid: 7bcb25dea0465ca5a653d60fa413b5dd
+  - id: Y_Ac6KiQ1t0.pdf
+    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-15-projections-onto-subspaces/Y_Ac6KiQ1t0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 96a31504ec5d489d84113320b593eb0d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b4dc35e0ccce9e285ec2f3e369371927
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1d3510e3e42e1fbbcca5357df1edf85c
+inline_embed_id: '95196541lecture15:projectionsontosubspaces67972994'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-15-projections-onto-subspaces
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-15-projections-onto-subspaces
+title: 'Lecture 15: Projections onto subspaces'
 transcript: >-
   <p><span m="10240">OK,</span> <span m="10690">guys</span> <span
   m="10780">the</span> <span m="10840">--</span> <span m="10940">we're</span>
@@ -2643,79 +2715,7 @@ transcript: >-
   m="2925500">all</span> <span m="2926250">letters,</span> <span
   m="2927000">numbers</span> <span m="2927750">next</span> <span
   m="2928500">time.</span></p><p><span m="2929250">Thanks.</span></p>
-embedded_media:
-  - uid: 5aea4f2ba44c12087b103cdb43d38a3d
-    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
-    id: 18.06_L15.jpg
-    title: 18.06_L15.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-15-projections-onto-subspaces/18.06_L15.jpg
-  - uid: 1b61b1899cc043a3524932e6603be9ec
-    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Y_Ac6KiQ1t0
-  - uid: 5ad471ab12cb2d8c6cdd2422e5fdedf7
-    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Y_Ac6KiQ1t0/default.jpg'
-  - uid: 1cf0ce107acb9245c293748120e80176
-    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 65a95ff562858b2aeeec33ad0c920855
-    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/15.mp4'
-  - uid: 3e24d55452308db0cc996d7d921a379f
-    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: ff879aa99a2f4bb9e44a8341d5dc62da
-    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 267ee181c91c8450a410e8797f872b10
-    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Y_Ac6KiQ1t0
-  - uid: 7bcb25dea0465ca5a653d60fa413b5dd
-    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
-    id: Y_Ac6KiQ1t0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-15-projections-onto-subspaces/Y_Ac6KiQ1t0.srt
-  - uid: 96a31504ec5d489d84113320b593eb0d
-    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
-    id: Y_Ac6KiQ1t0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-15-projections-onto-subspaces/Y_Ac6KiQ1t0.pdf
-  - uid: b4dc35e0ccce9e285ec2f3e369371927
-    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1d3510e3e42e1fbbcca5357df1edf85c
-    parent_uid: 05e98eb5937aa5c6346b20da0d9c7f68
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 05e98eb5937aa5c6346b20da0d9c7f68
 type: courses
 layout: video
 ---

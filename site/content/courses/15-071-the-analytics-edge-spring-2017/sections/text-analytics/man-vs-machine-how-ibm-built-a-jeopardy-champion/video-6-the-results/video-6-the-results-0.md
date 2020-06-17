@@ -1,13 +1,62 @@
 ---
-title: 'Video 6: The Results'
-uid: 5a34c0c5553dc921077146e6ad8e892e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: fEXkGiLYDug
+    parent_uid: 5a34c0c5553dc921077146e6ad8e892e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b1f84e1e65e34df30c7ff4ffb211e51b
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: fEXkGiLYDug
+    parent_uid: 5a34c0c5553dc921077146e6ad8e892e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f76fa529117691e2f45bad61364faa4f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/fEXkGiLYDug/default.jpg'
+    parent_uid: 5a34c0c5553dc921077146e6ad8e892e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f1af5516a0db58bf291e85470679a41a
+  - id: fEXkGiLYDug.srt
+    parent_uid: 5a34c0c5553dc921077146e6ad8e892e
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-6-the-results/video-6-the-results-0/fEXkGiLYDug.srt
+    title: 3play caption file
+    type: null
+    uid: b82d732518c6b826b74285af6037fc8f
+  - id: fEXkGiLYDug.pdf
+    parent_uid: 5a34c0c5553dc921077146e6ad8e892e
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-6-the-results/video-6-the-results-0/fEXkGiLYDug.pdf
+    title: 3play pdf file
+    type: null
+    uid: 67b9a234fd8b544488df462551d59e23
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5a34c0c5553dc921077146e6ad8e892e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 611ce920bd45bd46839d91cee803b967
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5a34c0c5553dc921077146e6ad8e892e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7977bc3871283e6101cfd8170f1ac1a6
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.3.11_300k.mp4
+    parent_uid: 5a34c0c5553dc921077146e6ad8e892e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b163b948173698763735b17fd0cf16df
+inline_embed_id: 26774641video6theresults71686354
 parent_uid: 53740d71c3da1250dc606f279043dd3b
+related_resources_text: ''
+short_url: video-6-the-results-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-6-the-results/video-6-the-results-0
-short_url: video-6-the-results-0
-inline_embed_id: 26774641video6theresults71686354
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 6: The Results'
 transcript: >-
   <p><span m='9840'>The</span> <span m='10402'>graph</span> <span
   m='10964'>shows</span> <span m='11526'>on</span> <span m='12088'>the</span>
@@ -535,56 +584,7 @@ transcript: >-
   m='505119'>verticals,</span> <span m='505481'>one</span> <span
   m='505844'>of</span> <span m='506207'>which</span> <span m='506570'>is</span>
   <span m='507425'>medicine.</span> </p>
-embedded_media:
-  - uid: b1f84e1e65e34df30c7ff4ffb211e51b
-    parent_uid: 5a34c0c5553dc921077146e6ad8e892e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: fEXkGiLYDug
-  - uid: f76fa529117691e2f45bad61364faa4f
-    parent_uid: 5a34c0c5553dc921077146e6ad8e892e
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: fEXkGiLYDug
-  - uid: f1af5516a0db58bf291e85470679a41a
-    parent_uid: 5a34c0c5553dc921077146e6ad8e892e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/fEXkGiLYDug/default.jpg'
-  - uid: b82d732518c6b826b74285af6037fc8f
-    parent_uid: 5a34c0c5553dc921077146e6ad8e892e
-    id: fEXkGiLYDug.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-6-the-results/video-6-the-results-0/fEXkGiLYDug.srt
-  - uid: 67b9a234fd8b544488df462551d59e23
-    parent_uid: 5a34c0c5553dc921077146e6ad8e892e
-    id: fEXkGiLYDug.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-6-the-results/video-6-the-results-0/fEXkGiLYDug.pdf
-  - uid: 611ce920bd45bd46839d91cee803b967
-    parent_uid: 5a34c0c5553dc921077146e6ad8e892e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7977bc3871283e6101cfd8170f1ac1a6
-    parent_uid: 5a34c0c5553dc921077146e6ad8e892e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b163b948173698763735b17fd0cf16df
-    parent_uid: 5a34c0c5553dc921077146e6ad8e892e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.3.11_300k.mp4
+uid: 5a34c0c5553dc921077146e6ad8e892e
 type: courses
 layout: video
 ---

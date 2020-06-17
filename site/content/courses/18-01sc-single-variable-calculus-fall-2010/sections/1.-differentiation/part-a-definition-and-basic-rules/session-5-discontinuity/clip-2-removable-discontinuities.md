@@ -1,18 +1,72 @@
 ---
-title: 'Clip 2: Removable Discontinuities'
-uid: e71f4e159acaca3e1bd43e011838285d
-parent_uid: d0bc8735c3a450ca5aad8ed8059d679d
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-2-removable-discontinuities
-short_url: clip-2-removable-discontinuities
-inline_embed_id: '52278206clip2:removablediscontinuities27854094'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/cc35d28af901284e0b33360b172309b3"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 2 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ryLdyDrBfvI
+    parent_uid: e71f4e159acaca3e1bd43e011838285d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 91269c42b91ee889bf70d6c32e0c181f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
+    parent_uid: e71f4e159acaca3e1bd43e011838285d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 10252c077d9f27c5020a17509ddc497d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
+    parent_uid: e71f4e159acaca3e1bd43e011838285d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5a77241e1be36a27ced38ef952e2c93d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ryLdyDrBfvI
+    parent_uid: e71f4e159acaca3e1bd43e011838285d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8157cacc9d4781b992568a019e3e6472
+  - id: ryLdyDrBfvI.srt
+    parent_uid: e71f4e159acaca3e1bd43e011838285d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-2-removable-discontinuities/ryLdyDrBfvI.srt
+    title: 3play caption file
+    type: null
+    uid: d51d292f8cb81c851e6b98c176669b0f
+  - id: ryLdyDrBfvI.pdf
+    parent_uid: e71f4e159acaca3e1bd43e011838285d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-2-removable-discontinuities/ryLdyDrBfvI.pdf
+    title: 3play pdf file
+    type: null
+    uid: bca5c5a8431acf6f9c8b30d306ae9e8a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e71f4e159acaca3e1bd43e011838285d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c6ecb43d32feac69b0a69fe5960e817c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e71f4e159acaca3e1bd43e011838285d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c498c1becde6cee3b94a6ca008207cbf
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: e71f4e159acaca3e1bd43e011838285d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 57a8055d78ba4ca8b350ff56f5f9fbbb
+inline_embed_id: '52278206clip2:removablediscontinuities27854094'
+parent_uid: d0bc8735c3a450ca5aad8ed8059d679d
 related_resources_text: ''
+short_url: clip-2-removable-discontinuities
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-2-removable-discontinuities
+title: 'Clip 2: Removable Discontinuities'
 transcript: >-
   <p><span m="110">The</span> <span m="360">following</span> <span
   m="1410">content</span> <span m="1670">is provided</span> <span
@@ -2566,61 +2620,7 @@ transcript: >-
   m="3162770">me</span> <span m="3163230">other</span> <span
   m="3163430">stuff</span> <span m="3163770">after</span> <span
   m="3164070">lecture.</span></p>
-embedded_media:
-  - uid: 91269c42b91ee889bf70d6c32e0c181f
-    parent_uid: e71f4e159acaca3e1bd43e011838285d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ryLdyDrBfvI
-  - uid: 10252c077d9f27c5020a17509ddc497d
-    parent_uid: e71f4e159acaca3e1bd43e011838285d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
-  - uid: 5a77241e1be36a27ced38ef952e2c93d
-    parent_uid: e71f4e159acaca3e1bd43e011838285d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
-  - uid: 8157cacc9d4781b992568a019e3e6472
-    parent_uid: e71f4e159acaca3e1bd43e011838285d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ryLdyDrBfvI
-  - uid: d51d292f8cb81c851e6b98c176669b0f
-    parent_uid: e71f4e159acaca3e1bd43e011838285d
-    id: ryLdyDrBfvI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-2-removable-discontinuities/ryLdyDrBfvI.srt
-  - uid: bca5c5a8431acf6f9c8b30d306ae9e8a
-    parent_uid: e71f4e159acaca3e1bd43e011838285d
-    id: ryLdyDrBfvI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-2-removable-discontinuities/ryLdyDrBfvI.pdf
-  - uid: c6ecb43d32feac69b0a69fe5960e817c
-    parent_uid: e71f4e159acaca3e1bd43e011838285d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c498c1becde6cee3b94a6ca008207cbf
-    parent_uid: e71f4e159acaca3e1bd43e011838285d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 57a8055d78ba4ca8b350ff56f5f9fbbb
-    parent_uid: e71f4e159acaca3e1bd43e011838285d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: e71f4e159acaca3e1bd43e011838285d
 type: courses
 layout: video
 ---

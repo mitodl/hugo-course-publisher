@@ -1,13 +1,62 @@
 ---
-title: 'Video 2: Getting Started in R'
-uid: 9eec861489a8911f56ccf81a2aa56346
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: E_KUHMuoPLE
+    parent_uid: 9eec861489a8911f56ccf81a2aa56346
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5516ab6c7ef55e0ee10bfb8fd7460aeb
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: E_KUHMuoPLE
+    parent_uid: 9eec861489a8911f56ccf81a2aa56346
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: dfe7c4d0770c3d90abb0a988e436dae4
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/E_KUHMuoPLE/default.jpg'
+    parent_uid: 9eec861489a8911f56ccf81a2aa56346
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c52e8bd4182d5d75ce106d4a44b1d329
+  - id: E_KUHMuoPLE.srt
+    parent_uid: 9eec861489a8911f56ccf81a2aa56346
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-2-getting-started-in-r/video-2-getting-started-in-r-0/E_KUHMuoPLE.srt
+    title: 3play caption file
+    type: null
+    uid: 845423761d6a201613384dee73acc1c1
+  - id: E_KUHMuoPLE.pdf
+    parent_uid: 9eec861489a8911f56ccf81a2aa56346
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-2-getting-started-in-r/video-2-getting-started-in-r-0/E_KUHMuoPLE.pdf
+    title: 3play pdf file
+    type: null
+    uid: bc7a3858972523475e759d39fd9d48d5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9eec861489a8911f56ccf81a2aa56346
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 77052cfcfd366b41b8b69af9d58e181a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9eec861489a8911f56ccf81a2aa56346
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 69b61b6eb9dfec2cd7e54a93cfbca1a1
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.3.04_300k.mp4
+    parent_uid: 9eec861489a8911f56ccf81a2aa56346
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cd8212199a6dba0f3c2827f496470d7b
+inline_embed_id: 68382546video2gettingstartedinr22634780
 parent_uid: c8166228550ceb529a938c3f49d12635
+related_resources_text: ''
+short_url: video-2-getting-started-in-r-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-2-getting-started-in-r/video-2-getting-started-in-r-0
-short_url: video-2-getting-started-in-r-0
-inline_embed_id: 68382546video2gettingstartedinr22634780
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: Getting Started in R'
 transcript: >-
   <p><span m='4000'>You</span> <span m='4424'>should</span> <span
   m='4848'>have</span> <span m='5272'>already</span> <span
@@ -500,56 +549,7 @@ transcript: >-
   m='483671'>variables,</span> <span m='484180'>like</span> <span
   m='484965'>HoursYear</span> <span m='485750'>and</span> <span
   m='486535'>SquareRoot2.</span> </p>
-embedded_media:
-  - uid: 5516ab6c7ef55e0ee10bfb8fd7460aeb
-    parent_uid: 9eec861489a8911f56ccf81a2aa56346
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: E_KUHMuoPLE
-  - uid: dfe7c4d0770c3d90abb0a988e436dae4
-    parent_uid: 9eec861489a8911f56ccf81a2aa56346
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: E_KUHMuoPLE
-  - uid: c52e8bd4182d5d75ce106d4a44b1d329
-    parent_uid: 9eec861489a8911f56ccf81a2aa56346
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/E_KUHMuoPLE/default.jpg'
-  - uid: 845423761d6a201613384dee73acc1c1
-    parent_uid: 9eec861489a8911f56ccf81a2aa56346
-    id: E_KUHMuoPLE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-2-getting-started-in-r/video-2-getting-started-in-r-0/E_KUHMuoPLE.srt
-  - uid: bc7a3858972523475e759d39fd9d48d5
-    parent_uid: 9eec861489a8911f56ccf81a2aa56346
-    id: E_KUHMuoPLE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-2-getting-started-in-r/video-2-getting-started-in-r-0/E_KUHMuoPLE.pdf
-  - uid: 77052cfcfd366b41b8b69af9d58e181a
-    parent_uid: 9eec861489a8911f56ccf81a2aa56346
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 69b61b6eb9dfec2cd7e54a93cfbca1a1
-    parent_uid: 9eec861489a8911f56ccf81a2aa56346
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: cd8212199a6dba0f3c2827f496470d7b
-    parent_uid: 9eec861489a8911f56ccf81a2aa56346
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.3.04_300k.mp4
+uid: 9eec861489a8911f56ccf81a2aa56346
 type: courses
 layout: video
 ---

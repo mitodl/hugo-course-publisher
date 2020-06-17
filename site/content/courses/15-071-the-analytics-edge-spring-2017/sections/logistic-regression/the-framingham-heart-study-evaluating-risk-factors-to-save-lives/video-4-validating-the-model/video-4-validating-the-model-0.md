@@ -1,13 +1,62 @@
 ---
-title: 'Video 4: Validating the Model'
-uid: c47b760f29fe729f6731219318815348
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: n80gFc12u60
+    parent_uid: c47b760f29fe729f6731219318815348
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4ebbdc92843e6fc089cd08436973ca57
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: n80gFc12u60
+    parent_uid: c47b760f29fe729f6731219318815348
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 397606879d67e01d8bb493d65de8c708
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/n80gFc12u60/default.jpg'
+    parent_uid: c47b760f29fe729f6731219318815348
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 599650ae056a0d71296bbc160f6a0354
+  - id: n80gFc12u60.srt
+    parent_uid: c47b760f29fe729f6731219318815348
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/video-4-validating-the-model/video-4-validating-the-model-0/n80gFc12u60.srt
+    title: 3play caption file
+    type: null
+    uid: b63884210ac04c5238062fadb441b55e
+  - id: n80gFc12u60.pdf
+    parent_uid: c47b760f29fe729f6731219318815348
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/video-4-validating-the-model/video-4-validating-the-model-0/n80gFc12u60.pdf
+    title: 3play pdf file
+    type: null
+    uid: b82e1f74ac55404a38980d1def632c0b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c47b760f29fe729f6731219318815348
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6847af402e89fa243a1a7da40dad1bff
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c47b760f29fe729f6731219318815348
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e9d89c598ce202bc3297e0946bdd4e22
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.3.07_300k.mp4
+    parent_uid: c47b760f29fe729f6731219318815348
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c0c2f0f54c3db894ad5874b03fb6d78b
+inline_embed_id: 27732447video4validatingthemodel22245095
 parent_uid: 4f9a84c34f7f3867891dbe7fae75a149
+related_resources_text: ''
+short_url: video-4-validating-the-model-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/video-4-validating-the-model/video-4-validating-the-model-0
-short_url: video-4-validating-the-model-0
-inline_embed_id: 27732447video4validatingthemodel22245095
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 4: Validating the Model'
 transcript: >-
   <p><span m='4500'>So</span> <span m='4876'>far,</span> <span
   m='5252'>we</span> <span m='5629'>have</span> <span m='6005'>used</span> <span
@@ -180,56 +229,7 @@ transcript: >-
   m='160762'>the</span> <span m='161076'>model,</span> <span
   m='161390'>external</span> <span m='162185'>validation</span> <span
   m='162980'>is</span> <span m='163775'>critical.</span> </p>
-embedded_media:
-  - uid: 4ebbdc92843e6fc089cd08436973ca57
-    parent_uid: c47b760f29fe729f6731219318815348
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: n80gFc12u60
-  - uid: 397606879d67e01d8bb493d65de8c708
-    parent_uid: c47b760f29fe729f6731219318815348
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: n80gFc12u60
-  - uid: 599650ae056a0d71296bbc160f6a0354
-    parent_uid: c47b760f29fe729f6731219318815348
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/n80gFc12u60/default.jpg'
-  - uid: b63884210ac04c5238062fadb441b55e
-    parent_uid: c47b760f29fe729f6731219318815348
-    id: n80gFc12u60.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/video-4-validating-the-model/video-4-validating-the-model-0/n80gFc12u60.srt
-  - uid: b82e1f74ac55404a38980d1def632c0b
-    parent_uid: c47b760f29fe729f6731219318815348
-    id: n80gFc12u60.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/video-4-validating-the-model/video-4-validating-the-model-0/n80gFc12u60.pdf
-  - uid: 6847af402e89fa243a1a7da40dad1bff
-    parent_uid: c47b760f29fe729f6731219318815348
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e9d89c598ce202bc3297e0946bdd4e22
-    parent_uid: c47b760f29fe729f6731219318815348
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c0c2f0f54c3db894ad5874b03fb6d78b
-    parent_uid: c47b760f29fe729f6731219318815348
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.3.07_300k.mp4
+uid: c47b760f29fe729f6731219318815348
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: Integrals with Density
-uid: d538b66a63a6e76664ef9814111781cf
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '-pr1TLyPyDw'
+    parent_uid: d538b66a63a6e76664ef9814111781cf
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5ac2d659682b7d1cc6052601e9bad1cc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-pr1TLyPyDw/default.jpg'
+    parent_uid: d538b66a63a6e76664ef9814111781cf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e63bbe2c0388b16578e754df274a7e08
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_35_300k.mp4'
+    parent_uid: d538b66a63a6e76664ef9814111781cf
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2c7c6fbc730a10a29a7c20575313a007
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/integrals-with-density/id414355340?i=90322820
+    parent_uid: d538b66a63a6e76664ef9814111781cf
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 08091fdecf0acf5208c0eb6f91e09e1c
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: '-pr1TLyPyDw'
+    parent_uid: d538b66a63a6e76664ef9814111781cf
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7898241666623703baf91ba4c263a1e0
+  - id: '-pr1TLyPyDw.srt'
+    parent_uid: d538b66a63a6e76664ef9814111781cf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-52-applications-moment-of-inertia/integrals-with-density/-pr1TLyPyDw.srt
+    title: 3play caption file
+    type: null
+    uid: 3ad8290341bfb09490d9fe7feed14b69
+  - id: '-pr1TLyPyDw.pdf'
+    parent_uid: d538b66a63a6e76664ef9814111781cf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-52-applications-moment-of-inertia/integrals-with-density/-pr1TLyPyDw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 38fef3191f178572ab49f37e74ca0423
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d538b66a63a6e76664ef9814111781cf
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 01c6588d705b9fed034d5081875a1046
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d538b66a63a6e76664ef9814111781cf
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c1e4db98e1c984821ebbd2b7c15b01f5
+inline_embed_id: 19454756integralswithdensity4971017
 parent_uid: 71ab1fd28595ea71a49dec2a50b44b1f
+related_resources_text: ''
+short_url: integrals-with-density
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-52-applications-moment-of-inertia/integrals-with-density
-short_url: integrals-with-density
-inline_embed_id: 19454756integralswithdensity4971017
-about_this_resource_text: ''
-related_resources_text: ''
+title: Integrals with Density
 transcript: >-
   <p><span m='7030'>DAVID JORDAN: Hello,</span> <span m='7290'>and</span> <span
   m='7380'>welcome</span> <span m='7620'>back</span> <span m='7810'>to</span>
@@ -805,62 +860,7 @@ transcript: >-
   m='933630'>and</span> <span m='933760'>I'll</span> <span
   m='933890'>leave</span> <span m='934050'>it</span> <span m='934115'>at</span>
   <span m='934180'>that.</span> </p>
-embedded_media:
-  - uid: 5ac2d659682b7d1cc6052601e9bad1cc
-    parent_uid: d538b66a63a6e76664ef9814111781cf
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-pr1TLyPyDw'
-  - uid: e63bbe2c0388b16578e754df274a7e08
-    parent_uid: d538b66a63a6e76664ef9814111781cf
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-pr1TLyPyDw/default.jpg'
-  - uid: 2c7c6fbc730a10a29a7c20575313a007
-    parent_uid: d538b66a63a6e76664ef9814111781cf
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_35_300k.mp4'
-  - uid: 08091fdecf0acf5208c0eb6f91e09e1c
-    parent_uid: d538b66a63a6e76664ef9814111781cf
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/integrals-with-density/id414355340?i=90322820
-  - uid: 7898241666623703baf91ba4c263a1e0
-    parent_uid: d538b66a63a6e76664ef9814111781cf
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-pr1TLyPyDw'
-  - uid: 3ad8290341bfb09490d9fe7feed14b69
-    parent_uid: d538b66a63a6e76664ef9814111781cf
-    id: '-pr1TLyPyDw.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-52-applications-moment-of-inertia/integrals-with-density/-pr1TLyPyDw.srt
-  - uid: 38fef3191f178572ab49f37e74ca0423
-    parent_uid: d538b66a63a6e76664ef9814111781cf
-    id: '-pr1TLyPyDw.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-52-applications-moment-of-inertia/integrals-with-density/-pr1TLyPyDw.pdf
-  - uid: 01c6588d705b9fed034d5081875a1046
-    parent_uid: d538b66a63a6e76664ef9814111781cf
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c1e4db98e1c984821ebbd2b7c15b01f5
-    parent_uid: d538b66a63a6e76664ef9814111781cf
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: d538b66a63a6e76664ef9814111781cf
 type: courses
 layout: video
 ---

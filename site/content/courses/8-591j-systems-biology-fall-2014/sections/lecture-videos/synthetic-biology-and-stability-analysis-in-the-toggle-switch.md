@@ -1,17 +1,71 @@
 ---
-title: Synthetic Biology and Stability Analysis in the Toggle Switch
-uid: b02cecae35f81a8a6dc1ff70f463f136
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/synthetic-biology-and-stability-analysis-in-the-toggle-switch
-short_url: synthetic-biology-and-stability-analysis-in-the-toggle-switch
-inline_embed_id: 75009641syntheticbiologyandstabilityanalysisinthetoggleswitch78735640
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Jeff Gore discusses
   the toggle switch, or two genes that repress each other. He then moves on to
   dimensionless equations and stability analysis.</p>
   <p><strong>Instructor:</strong> Prof. Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: hfq1T9windg
+    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 81aa16c70b4f6d3aadf1b392d9512ade
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/hfq1T9windg/default.jpg'
+    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2cd7320c21e0f00701f23614801c7ae8
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e8e1017e7696fa3e0a8803cb7f5caca3
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec04_300k.mp4'
+    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 29357200b6211edfedddcf5b3c1b4206
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: hfq1T9windg
+    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f782da3f3fb5ae4ceec415008da6d110
+  - id: hfq1T9windg.srt
+    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/synthetic-biology-and-stability-analysis-in-the-toggle-switch/hfq1T9windg.srt
+    title: 3play caption file
+    type: null
+    uid: 76fd5091d3e4c1af2c9198e4f601305d
+  - id: hfq1T9windg.pdf
+    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/synthetic-biology-and-stability-analysis-in-the-toggle-switch/hfq1T9windg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 871c636e96858b1b0d251868d79e116e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5c40e9bc83445fed0636faf6fdb29167
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 28ca58862fdfd54a204d953c84e89da1
+inline_embed_id: 75009641syntheticbiologyandstabilityanalysisinthetoggleswitch78735640
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: synthetic-biology-and-stability-analysis-in-the-toggle-switch
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/synthetic-biology-and-stability-analysis-in-the-toggle-switch
+title: Synthetic Biology and Stability Analysis in the Toggle Switch
 transcript: >-
   <p><span m='125'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -4832,61 +4886,7 @@ transcript: >-
   m='4794810'>so</span> <span m='4794960'>I'll</span> <span
   m='4795110'>let</span> <span m='4795210'>you</span> <span
   m='4795310'>go.</span> </p>
-embedded_media:
-  - uid: 81aa16c70b4f6d3aadf1b392d9512ade
-    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: hfq1T9windg
-  - uid: 2cd7320c21e0f00701f23614801c7ae8
-    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/hfq1T9windg/default.jpg'
-  - uid: e8e1017e7696fa3e0a8803cb7f5caca3
-    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: 29357200b6211edfedddcf5b3c1b4206
-    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec04_300k.mp4'
-  - uid: f782da3f3fb5ae4ceec415008da6d110
-    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: hfq1T9windg
-  - uid: 76fd5091d3e4c1af2c9198e4f601305d
-    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
-    id: hfq1T9windg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/synthetic-biology-and-stability-analysis-in-the-toggle-switch/hfq1T9windg.srt
-  - uid: 871c636e96858b1b0d251868d79e116e
-    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
-    id: hfq1T9windg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/synthetic-biology-and-stability-analysis-in-the-toggle-switch/hfq1T9windg.pdf
-  - uid: 5c40e9bc83445fed0636faf6fdb29167
-    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 28ca58862fdfd54a204d953c84e89da1
-    parent_uid: b02cecae35f81a8a6dc1ff70f463f136
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b02cecae35f81a8a6dc1ff70f463f136
 type: courses
 layout: video
 ---

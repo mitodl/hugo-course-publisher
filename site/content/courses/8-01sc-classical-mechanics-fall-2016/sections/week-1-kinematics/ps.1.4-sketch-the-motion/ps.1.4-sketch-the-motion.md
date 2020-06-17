@@ -1,13 +1,67 @@
 ---
-title: PS.1.4 Sketch the Motion
-uid: 2826e93a3c01385c9be407c95b9874f6
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ZjGjNsmsNBU
+    parent_uid: 2826e93a3c01385c9be407c95b9874f6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 69c29b66282cb3898d9f3e26b9e95648
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ZjGjNsmsNBU/default.jpg'
+    parent_uid: 2826e93a3c01385c9be407c95b9874f6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: dc9908377561b6f9f136bcdf7b227abe
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ZjGjNsmsNBU
+    parent_uid: 2826e93a3c01385c9be407c95b9874f6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9538fc6677a4ab290f4b434304378627
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 2826e93a3c01385c9be407c95b9874f6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d7aecc9894fca74c400dd8ef237cba14
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W01PS04_360p.mp4'
+    parent_uid: 2826e93a3c01385c9be407c95b9874f6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9b47848c8f6cb6ee1083d5b1bca83730
+  - id: ZjGjNsmsNBU.srt
+    parent_uid: 2826e93a3c01385c9be407c95b9874f6
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.4-sketch-the-motion/ps.1.4-sketch-the-motion/ZjGjNsmsNBU.srt
+    title: 3play caption file
+    type: null
+    uid: 2689877a28b4ccdee954b2409a70b4f7
+  - id: ZjGjNsmsNBU.pdf
+    parent_uid: 2826e93a3c01385c9be407c95b9874f6
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.4-sketch-the-motion/ps.1.4-sketch-the-motion/ZjGjNsmsNBU.pdf
+    title: 3play pdf file
+    type: null
+    uid: e79e43c319bfdecdb790d062e1ad70d5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2826e93a3c01385c9be407c95b9874f6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e8ae6ed9a3b941318d7d320ee6edc7ab
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2826e93a3c01385c9be407c95b9874f6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5250a6771281dfda07876c86d6d2b047
+inline_embed_id: 70123389ps.1.4sketchthemotion14780301
 parent_uid: 0f1188dc261abcd9fb9aa4c677f9db3a
+related_resources_text: ''
+short_url: ps.1.4-sketch-the-motion
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.4-sketch-the-motion/ps.1.4-sketch-the-motion
-short_url: ps.1.4-sketch-the-motion
-inline_embed_id: 70123389ps.1.4sketchthemotion14780301
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
+title: PS.1.4 Sketch the Motion
 transcript: >-
   <p><span m='3180'>Let's consider a kinematics problem.</span> </p><p><span
   m='4990'>And in this problem, we want to focus on special conditions--</span>
@@ -44,61 +98,7 @@ transcript: >-
   that.</span> </p><p><span m='116220'>So what I've done here is I've
   sketched</span> <span m='120500'>a trajectory of the motion to help</span>
   <span m='122770'>me think about the problem.</span> </p>
-embedded_media:
-  - uid: 69c29b66282cb3898d9f3e26b9e95648
-    parent_uid: 2826e93a3c01385c9be407c95b9874f6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ZjGjNsmsNBU
-  - uid: dc9908377561b6f9f136bcdf7b227abe
-    parent_uid: 2826e93a3c01385c9be407c95b9874f6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ZjGjNsmsNBU/default.jpg'
-  - uid: 9538fc6677a4ab290f4b434304378627
-    parent_uid: 2826e93a3c01385c9be407c95b9874f6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ZjGjNsmsNBU
-  - uid: d7aecc9894fca74c400dd8ef237cba14
-    parent_uid: 2826e93a3c01385c9be407c95b9874f6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 9b47848c8f6cb6ee1083d5b1bca83730
-    parent_uid: 2826e93a3c01385c9be407c95b9874f6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W01PS04_360p.mp4'
-  - uid: 2689877a28b4ccdee954b2409a70b4f7
-    parent_uid: 2826e93a3c01385c9be407c95b9874f6
-    id: ZjGjNsmsNBU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.4-sketch-the-motion/ps.1.4-sketch-the-motion/ZjGjNsmsNBU.srt
-  - uid: e79e43c319bfdecdb790d062e1ad70d5
-    parent_uid: 2826e93a3c01385c9be407c95b9874f6
-    id: ZjGjNsmsNBU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/ps.1.4-sketch-the-motion/ps.1.4-sketch-the-motion/ZjGjNsmsNBU.pdf
-  - uid: e8ae6ed9a3b941318d7d320ee6edc7ab
-    parent_uid: 2826e93a3c01385c9be407c95b9874f6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5250a6771281dfda07876c86d6d2b047
-    parent_uid: 2826e93a3c01385c9be407c95b9874f6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2826e93a3c01385c9be407c95b9874f6
 type: courses
 layout: video
 ---

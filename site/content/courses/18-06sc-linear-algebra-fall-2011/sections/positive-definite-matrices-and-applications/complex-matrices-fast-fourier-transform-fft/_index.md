@@ -4,7 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: d2f78aa297e682ccaea120a362c5d934
-    weight: 360
+    weight: 380
     parent: 34f596bc232822be5fba75646f6970c5
 type: courses
 layout: videogallery

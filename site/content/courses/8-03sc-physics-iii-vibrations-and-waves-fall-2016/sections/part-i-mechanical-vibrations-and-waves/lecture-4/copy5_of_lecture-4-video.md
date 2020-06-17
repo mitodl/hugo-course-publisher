@@ -1,13 +1,61 @@
 ---
-title: Wilberforce Pendulum
-uid: 88c1019e294bfbf46b22cbb34cb40a43
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BX4QPdP7fT8
+    parent_uid: 88c1019e294bfbf46b22cbb34cb40a43
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1c3bfee4837b417e91d3ac2c1168eb41
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BX4QPdP7fT8/default.jpg'
+    parent_uid: 88c1019e294bfbf46b22cbb34cb40a43
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7fbd1f1489baaea19da655fb82aa4877
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BX4QPdP7fT8
+    parent_uid: 88c1019e294bfbf46b22cbb34cb40a43
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f6064cad244302abcabc45211e633eaf
+  - id: BX4QPdP7fT8.srt
+    parent_uid: 88c1019e294bfbf46b22cbb34cb40a43
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-4/copy5_of_lecture-4-video/BX4QPdP7fT8.srt
+    title: 3play caption file
+    type: null
+    uid: 8cab039538f3ef2938cbc7530e494e70
+  - id: BX4QPdP7fT8.pdf
+    parent_uid: 88c1019e294bfbf46b22cbb34cb40a43
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-4/copy5_of_lecture-4-video/BX4QPdP7fT8.pdf
+    title: 3play pdf file
+    type: null
+    uid: b31231156da523a0932e19e615a401d3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 88c1019e294bfbf46b22cbb34cb40a43
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d76d2a09476a806852bd0ce824fcaea0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 88c1019e294bfbf46b22cbb34cb40a43
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1084ee9772e34eb9caaee67935802123
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec04_300k.mp4'
+    parent_uid: 88c1019e294bfbf46b22cbb34cb40a43
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 68b59996f4b50996c4cb4d17fdd63241
+inline_embed_id: 97571216lecture4videop510083855
 parent_uid: 05ac767b412018173f891143fb7c00eb
+related_resources_text: ''
+short_url: copy5_of_lecture-4-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-4/copy5_of_lecture-4-video
-short_url: copy5_of_lecture-4-video
-inline_embed_id: 97571216lecture4videop510083855
-about_this_resource_text: ''
-related_resources_text: ''
+title: Wilberforce Pendulum
 transcript: >-
   <p><span m="2090">The</span> <span m="2180">following</span> <span
   m="2630">content</span> <span m="3110">is</span> <span
@@ -3868,55 +3916,7 @@ transcript: >-
   m="4652070">the</span> <span m="4652160">lecture.</span> <span
   m="4654130">Thank</span> <span m="4654340">you</span> <span
   m="4654410">very</span> <span m="4654530">much.</span></p>
-embedded_media:
-  - uid: 1c3bfee4837b417e91d3ac2c1168eb41
-    parent_uid: 88c1019e294bfbf46b22cbb34cb40a43
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BX4QPdP7fT8
-  - uid: 7fbd1f1489baaea19da655fb82aa4877
-    parent_uid: 88c1019e294bfbf46b22cbb34cb40a43
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BX4QPdP7fT8/default.jpg'
-  - uid: f6064cad244302abcabc45211e633eaf
-    parent_uid: 88c1019e294bfbf46b22cbb34cb40a43
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BX4QPdP7fT8
-  - uid: 8cab039538f3ef2938cbc7530e494e70
-    parent_uid: 88c1019e294bfbf46b22cbb34cb40a43
-    id: BX4QPdP7fT8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-4/copy5_of_lecture-4-video/BX4QPdP7fT8.srt
-  - uid: b31231156da523a0932e19e615a401d3
-    parent_uid: 88c1019e294bfbf46b22cbb34cb40a43
-    id: BX4QPdP7fT8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-4/copy5_of_lecture-4-video/BX4QPdP7fT8.pdf
-  - uid: d76d2a09476a806852bd0ce824fcaea0
-    parent_uid: 88c1019e294bfbf46b22cbb34cb40a43
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1084ee9772e34eb9caaee67935802123
-    parent_uid: 88c1019e294bfbf46b22cbb34cb40a43
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 68b59996f4b50996c4cb4d17fdd63241
-    parent_uid: 88c1019e294bfbf46b22cbb34cb40a43
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec04_300k.mp4'
+uid: 88c1019e294bfbf46b22cbb34cb40a43
 type: courses
 layout: video
 ---

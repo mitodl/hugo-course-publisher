@@ -1,13 +1,73 @@
 ---
-title: Time dependence of expectation values
-uid: f0efda9e21b618c612ac503bcb1c4b74
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: AnzhigYawy8
+    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9ade30dcad9b286708764ec3f238c366
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-gFZzaguTPU/default.jpg'
+    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 930ae1584080694d1ebcfed2683eac27
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: AnzhigYawy8
+    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1914bac9a12a28b0dd7d089a63bd8bc1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 949b85208782fb183cc8c54670d35046
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec08_s5_300k.mp4'
+    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e3f023574163b73d5c61a51a7f01b6c9
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/AnzhigYawy8/default.jpg'
+    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b96e869e3403a34c6bff1e47f92e1da1
+  - id: AnzhigYawy8.srt
+    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/time-dependence-of-expectation-values/AnzhigYawy8.srt
+    title: 3play caption file
+    type: null
+    uid: f162493f976328dd16e5dcde9185cb7a
+  - id: AnzhigYawy8.pdf
+    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/time-dependence-of-expectation-values/AnzhigYawy8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4a4cdfd53b70b438d53ab2f3c16ca0b7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d3a663fc209b3f4a26d3a1f2bf46abe7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d89f90b7bd7a1a7feafb25d622020d00
+inline_embed_id: 55299289timedependenceofexpectationvalues47175689
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: time-dependence-of-expectation-values
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/time-dependence-of-expectation-values
-short_url: time-dependence-of-expectation-values
-inline_embed_id: 55299289timedependenceofexpectationvalues47175689
-about_this_resource_text: ''
-related_resources_text: ''
+title: Time dependence of expectation values
 transcript: >-
   <p><span m='680'>PROFESSOR:</span> <span m='785'>It's</span> <span
   m='890'>a</span> <span m='950'>statement</span> <span m='3260'>about</span>
@@ -295,67 +355,7 @@ transcript: >-
   m='455850'>going</span> <span m='456030'>to</span> <span
   m='456150'>develop</span> <span m='456840'>on</span> <span m='457140'>and
   on.</span> </p>
-embedded_media:
-  - uid: 9ade30dcad9b286708764ec3f238c366
-    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: AnzhigYawy8
-  - uid: 930ae1584080694d1ebcfed2683eac27
-    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-gFZzaguTPU/default.jpg'
-  - uid: 1914bac9a12a28b0dd7d089a63bd8bc1
-    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: AnzhigYawy8
-  - uid: 949b85208782fb183cc8c54670d35046
-    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: e3f023574163b73d5c61a51a7f01b6c9
-    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec08_s5_300k.mp4'
-  - uid: b96e869e3403a34c6bff1e47f92e1da1
-    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/AnzhigYawy8/default.jpg'
-  - uid: f162493f976328dd16e5dcde9185cb7a
-    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
-    id: AnzhigYawy8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/time-dependence-of-expectation-values/AnzhigYawy8.srt
-  - uid: 4a4cdfd53b70b438d53ab2f3c16ca0b7
-    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
-    id: AnzhigYawy8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/time-dependence-of-expectation-values/AnzhigYawy8.pdf
-  - uid: d3a663fc209b3f4a26d3a1f2bf46abe7
-    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d89f90b7bd7a1a7feafb25d622020d00
-    parent_uid: f0efda9e21b618c612ac503bcb1c4b74
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f0efda9e21b618c612ac503bcb1c4b74
 type: courses
 layout: video
 ---

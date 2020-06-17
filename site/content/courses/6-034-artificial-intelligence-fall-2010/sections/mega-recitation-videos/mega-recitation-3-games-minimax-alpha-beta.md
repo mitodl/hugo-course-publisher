@@ -1,18 +1,73 @@
 ---
-title: 'Mega-Recitation 3: Games, Minimax, Alpha-Beta'
-uid: b605863f59de0428fe1c8571132dfba5
-parent_uid: 6be7704ddfe26b4e12703167347dd5bb
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-3-games-minimax-alpha-beta
-short_url: mega-recitation-3-games-minimax-alpha-beta
-inline_embed_id: '17954351mega-recitation3:games,minimax,alpha-beta5029076'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This mega-recitation covers Problem 1 from
   Quiz 2, Fall 2007.  We start with a minimax search of the game tree, and then
   work an example using alpha-beta pruning. We also discuss static evaluation
   and progressive deepening (Problem 1-C, Fall 2008 Quiz 2).</p>
   <p><strong>Instructor:</strong> Mark Seifter</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: hM2EAvMkhtk
+    parent_uid: b605863f59de0428fe1c8571132dfba5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d7e1ec7a67e6b0ef42bc9efb7f2e1f9c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/mega-recitation-3-games-minimax/id765641080?i=194482898
+    parent_uid: b605863f59de0428fe1c8571132dfba5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 343bf972b5300de011dff90cf7d1c089
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_rec03_300k.mp4'
+    parent_uid: b605863f59de0428fe1c8571132dfba5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5daaca39017845a7b23b579f7726fb04
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/hM2EAvMkhtk/default.jpg'
+    parent_uid: b605863f59de0428fe1c8571132dfba5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2cc6983aeee8a010cc09194e31290054
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: hM2EAvMkhtk
+    parent_uid: b605863f59de0428fe1c8571132dfba5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 480478d65198cd768ab3a6aa47458eb3
+  - id: hM2EAvMkhtk.srt
+    parent_uid: b605863f59de0428fe1c8571132dfba5
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-3-games-minimax-alpha-beta/hM2EAvMkhtk.srt
+    title: 3play caption file
+    type: null
+    uid: 5ac5495c27d588587d71371a42f133ee
+  - id: hM2EAvMkhtk.pdf
+    parent_uid: b605863f59de0428fe1c8571132dfba5
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-3-games-minimax-alpha-beta/hM2EAvMkhtk.pdf
+    title: 3play pdf file
+    type: null
+    uid: e83131e9d1eddde294b6a86bb6580c55
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b605863f59de0428fe1c8571132dfba5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5fd78a59c5c6d4ba0ebdd44d155609ea
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b605863f59de0428fe1c8571132dfba5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8c727dfcbbe91a62638ab5a4051ebaf2
+inline_embed_id: '17954351mega-recitation3:games,minimax,alpha-beta5029076'
+parent_uid: 6be7704ddfe26b4e12703167347dd5bb
 related_resources_text: "<p><a href=\"./resolveuid/152ed05f169a4db08df7ae2b5a81895a\" target=\"_blank\">Quiz 2, Fall 2007 (PDF)</a><br />\r\n<a href=\"./resolveuid/b44d4614a858950c7dfea5e00ed4b1f2\" target=\"_blank\">Quiz 2, Fall 2008 (PDF)</a></p>"
+short_url: mega-recitation-3-games-minimax-alpha-beta
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-3-games-minimax-alpha-beta
+title: 'Mega-Recitation 3: Games, Minimax, Alpha-Beta'
 transcript: >-
   <p><span m='70'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1220'>is</span> <span m='1330'>provided</span>
@@ -3857,62 +3912,7 @@ transcript: >-
   m='3052170'>out</span> <span m='3052340'>too</span> <span
   m='3052470'>much</span> <span m='3052830'>about</span> <span
   m='3053260'>the</span> <span m='3053400'>quiz.</span> </p>
-embedded_media:
-  - uid: d7e1ec7a67e6b0ef42bc9efb7f2e1f9c
-    parent_uid: b605863f59de0428fe1c8571132dfba5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: hM2EAvMkhtk
-  - uid: 343bf972b5300de011dff90cf7d1c089
-    parent_uid: b605863f59de0428fe1c8571132dfba5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/mega-recitation-3-games-minimax/id765641080?i=194482898
-  - uid: 5daaca39017845a7b23b579f7726fb04
-    parent_uid: b605863f59de0428fe1c8571132dfba5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_rec03_300k.mp4'
-  - uid: 2cc6983aeee8a010cc09194e31290054
-    parent_uid: b605863f59de0428fe1c8571132dfba5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/hM2EAvMkhtk/default.jpg'
-  - uid: 480478d65198cd768ab3a6aa47458eb3
-    parent_uid: b605863f59de0428fe1c8571132dfba5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: hM2EAvMkhtk
-  - uid: 5ac5495c27d588587d71371a42f133ee
-    parent_uid: b605863f59de0428fe1c8571132dfba5
-    id: hM2EAvMkhtk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-3-games-minimax-alpha-beta/hM2EAvMkhtk.srt
-  - uid: e83131e9d1eddde294b6a86bb6580c55
-    parent_uid: b605863f59de0428fe1c8571132dfba5
-    id: hM2EAvMkhtk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-3-games-minimax-alpha-beta/hM2EAvMkhtk.pdf
-  - uid: 5fd78a59c5c6d4ba0ebdd44d155609ea
-    parent_uid: b605863f59de0428fe1c8571132dfba5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8c727dfcbbe91a62638ab5a4051ebaf2
-    parent_uid: b605863f59de0428fe1c8571132dfba5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b605863f59de0428fe1c8571132dfba5
 type: courses
 layout: video
 ---

@@ -1,13 +1,72 @@
 ---
-title: 'Digraphs: Walks &amp; Paths'
-uid: eb6623c871579a02c9ad4395013c586a
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: eb6623c871579a02c9ad4395013c586a
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: ee02543e4461a80a1a413050e7a5ba26
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: eb6623c871579a02c9ad4395013c586a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 652fae373859de85685cf5f02ec296dc
+  - id: Video-YouTube-Stream
+    media_location: MX-mBxt6huU
+    parent_uid: eb6623c871579a02c9ad4395013c586a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c26237033e3b53e7ad3feb65a2dd06b8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/MX-mBxt6huU/default.jpg'
+    parent_uid: eb6623c871579a02c9ad4395013c586a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d1dfcf5f8ed59800f1e7e7bf13fe57b8
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: MX-mBxt6huU
+    parent_uid: eb6623c871579a02c9ad4395013c586a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6bc35c10b7a603af0bf4e4c90ad6561d
+  - id: MX-mBxt6huU.srt
+    parent_uid: eb6623c871579a02c9ad4395013c586a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/digraphs-walks-paths/MX-mBxt6huU.srt
+    title: 3play caption file
+    type: null
+    uid: 5e5767f3f2ef105c40ec438177fff416
+  - id: MX-mBxt6huU.pdf
+    parent_uid: eb6623c871579a02c9ad4395013c586a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/digraphs-walks-paths/MX-mBxt6huU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 831f2169586a3cd7124ccad1acd9a2ff
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: eb6623c871579a02c9ad4395013c586a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: dbd381a04556e6e28ee741ac3d43faee
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: eb6623c871579a02c9ad4395013c586a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2bd3f70efa5e3813c934a21bf560e0e9
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_digraphs_ipod.mp4'
+    parent_uid: eb6623c871579a02c9ad4395013c586a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7af5fe519a8f3633d75033bce414cdb0
+inline_embed_id: 1483164digraphswalksamppaths21544485
 parent_uid: 711aeeca155265f221e5af2643f1a05f
+related_resources_text: ''
+short_url: digraphs-walks-paths
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/digraphs-walks-paths
-short_url: digraphs-walks-paths
-inline_embed_id: 1483164digraphswalksamppaths21544485
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Digraphs: Walks &amp; Paths'
 transcript: >-
   <p><span m='1820'>PROFESSOR: In</span> <span m='1960'>this</span> <span
   m='2180'>video</span> <span m='2460'>lecture,</span> <span m='2870'>we're
@@ -273,66 +332,7 @@ transcript: >-
   m='217510'>any</span> <span m='217830'>graph</span> <span
   m='218060'>can</span> <span m='218180'>be</span> <span m='218310'>drawn</span>
   <span m='218610'>up this</span> <span m='218910'>way.</span> </p>
-embedded_media:
-  - uid: ee02543e4461a80a1a413050e7a5ba26
-    parent_uid: eb6623c871579a02c9ad4395013c586a
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 652fae373859de85685cf5f02ec296dc
-    parent_uid: eb6623c871579a02c9ad4395013c586a
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: c26237033e3b53e7ad3feb65a2dd06b8
-    parent_uid: eb6623c871579a02c9ad4395013c586a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MX-mBxt6huU
-  - uid: d1dfcf5f8ed59800f1e7e7bf13fe57b8
-    parent_uid: eb6623c871579a02c9ad4395013c586a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MX-mBxt6huU/default.jpg'
-  - uid: 6bc35c10b7a603af0bf4e4c90ad6561d
-    parent_uid: eb6623c871579a02c9ad4395013c586a
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MX-mBxt6huU
-  - uid: 5e5767f3f2ef105c40ec438177fff416
-    parent_uid: eb6623c871579a02c9ad4395013c586a
-    id: MX-mBxt6huU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/digraphs-walks-paths/MX-mBxt6huU.srt
-  - uid: 831f2169586a3cd7124ccad1acd9a2ff
-    parent_uid: eb6623c871579a02c9ad4395013c586a
-    id: MX-mBxt6huU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/digraphs-walks-paths/MX-mBxt6huU.pdf
-  - uid: dbd381a04556e6e28ee741ac3d43faee
-    parent_uid: eb6623c871579a02c9ad4395013c586a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2bd3f70efa5e3813c934a21bf560e0e9
-    parent_uid: eb6623c871579a02c9ad4395013c586a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7af5fe519a8f3633d75033bce414cdb0
-    parent_uid: eb6623c871579a02c9ad4395013c586a
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_digraphs_ipod.mp4'
+uid: eb6623c871579a02c9ad4395013c586a
 type: courses
 layout: video
 ---

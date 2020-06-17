@@ -1,13 +1,68 @@
 ---
-title: Subspaces of Three Dimensional Space
-uid: ba18144b041f7ba53940ecb53373507a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: QQpvGlF_1Qo
+    parent_uid: ba18144b041f7ba53940ecb53373507a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: df6b2be63c33c492cc908fffacf2afba
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: QQpvGlF_1Qo
+    parent_uid: ba18144b041f7ba53940ecb53373507a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: eb28dc2ecdb677c51a649121d4a7fd40
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/subspaces-three-dimensional/id488155309?i=108454343
+    parent_uid: ba18144b041f7ba53940ecb53373507a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 29ea9893f131b460bdc05f18f2b5f9a2
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.06SCF11/MIT18_06SC_110607_L2_300k.mp4'
+    parent_uid: ba18144b041f7ba53940ecb53373507a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 08252210ab8e16f6c5cf705dbe7f8bd8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QQpvGlF_1Qo/default.jpg'
+    parent_uid: ba18144b041f7ba53940ecb53373507a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e58883aeb90a31c3752c7d69183a0055
+  - id: QQpvGlF_1Qo.srt
+    parent_uid: ba18144b041f7ba53940ecb53373507a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/subspaces-of-three-dimensional-space/QQpvGlF_1Qo.srt
+    title: 3play caption file
+    type: null
+    uid: 16cbd979625cd2e01d6a38215e234b88
+  - id: QQpvGlF_1Qo.pdf
+    parent_uid: ba18144b041f7ba53940ecb53373507a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/subspaces-of-three-dimensional-space/QQpvGlF_1Qo.pdf
+    title: 3play pdf file
+    type: null
+    uid: bc7f5220c5a8edd1397f14b5f99835b6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ba18144b041f7ba53940ecb53373507a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 99a9bca8582672ad752fce9757592e29
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ba18144b041f7ba53940ecb53373507a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8dbe0b6a06290dbb99226d7e83622ba5
+inline_embed_id: 94627563subspacesofthreedimensionalspace23588256
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: subspaces-of-three-dimensional-space
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/subspaces-of-three-dimensional-space
-short_url: subspaces-of-three-dimensional-space
-inline_embed_id: 94627563subspacesofthreedimensionalspace23588256
-about_this_resource_text: ''
-related_resources_text: ''
+title: Subspaces of Three Dimensional Space
 transcript: >-
   <p><span m='6860'>PROFESSOR: Hi,</span> <span m='7580'>welcome</span> <span
   m='8000'>back</span> <span m='8210'>to</span> <span
@@ -769,62 +824,7 @@ transcript: >-
   m='882360'>and</span> <span m='882540'>I'll</span> <span m='882630'>see</span>
   <span m='882790'>you</span> <span m='882890'>next</span> <span
   m='883170'>time.</span> </p>
-embedded_media:
-  - uid: df6b2be63c33c492cc908fffacf2afba
-    parent_uid: ba18144b041f7ba53940ecb53373507a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QQpvGlF_1Qo
-  - uid: eb28dc2ecdb677c51a649121d4a7fd40
-    parent_uid: ba18144b041f7ba53940ecb53373507a
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QQpvGlF_1Qo
-  - uid: 29ea9893f131b460bdc05f18f2b5f9a2
-    parent_uid: ba18144b041f7ba53940ecb53373507a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/subspaces-three-dimensional/id488155309?i=108454343
-  - uid: 08252210ab8e16f6c5cf705dbe7f8bd8
-    parent_uid: ba18144b041f7ba53940ecb53373507a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.06SCF11/MIT18_06SC_110607_L2_300k.mp4'
-  - uid: e58883aeb90a31c3752c7d69183a0055
-    parent_uid: ba18144b041f7ba53940ecb53373507a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QQpvGlF_1Qo/default.jpg'
-  - uid: 16cbd979625cd2e01d6a38215e234b88
-    parent_uid: ba18144b041f7ba53940ecb53373507a
-    id: QQpvGlF_1Qo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/subspaces-of-three-dimensional-space/QQpvGlF_1Qo.srt
-  - uid: bc7f5220c5a8edd1397f14b5f99835b6
-    parent_uid: ba18144b041f7ba53940ecb53373507a
-    id: QQpvGlF_1Qo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/subspaces-of-three-dimensional-space/QQpvGlF_1Qo.pdf
-  - uid: 99a9bca8582672ad752fce9757592e29
-    parent_uid: ba18144b041f7ba53940ecb53373507a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8dbe0b6a06290dbb99226d7e83622ba5
-    parent_uid: ba18144b041f7ba53940ecb53373507a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: ba18144b041f7ba53940ecb53373507a
 type: courses
 layout: video
 ---

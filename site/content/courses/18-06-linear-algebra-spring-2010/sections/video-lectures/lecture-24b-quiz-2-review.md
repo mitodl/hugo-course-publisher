@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 24b: Quiz 2 review'
-uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24b-quiz-2-review
-short_url: lecture-24b-quiz-2-review
-inline_embed_id: '71951660lecture24b:quiz2review65970244'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L24b.jpg
+    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24b-quiz-2-review/18.06_L24b.jpg
+    title: 18.06_L24b.jpg
+    type: null
+    uid: cc1d0f6b87c82ba3201b46ed97bac3fa
+  - id: Video-YouTube-Stream
+    media_location: QuZL5IKpO_U
+    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a447f63229e8e4eac5516cabf364c138
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9bf129d03293dff2528733f5ddf5ee27
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/24b.mp4'
+    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4e3bf55a566150b3905c0bd85d1fb32d
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 5ab392e3b92641cebf7b457747767d2a
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 970d499924d91a075f0331f6c8a75dfe
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: QuZL5IKpO_U
+    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 96475a80a79e6ea7d6df505122b77c5c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QuZL5IKpO_U/default.jpg'
+    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5de33042bfc30424c6af01c173872af9
+  - id: QuZL5IKpO_U.srt
+    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24b-quiz-2-review/QuZL5IKpO_U.srt
+    title: 3play caption file
+    type: null
+    uid: 9662ec2da0eaacde32deeaf2c36017f5
+  - id: QuZL5IKpO_U.pdf
+    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24b-quiz-2-review/QuZL5IKpO_U.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3a4c9c7a6e90be05bff41ffcda51cf24
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7cd48330ded9b5aca8da0d8184d73188
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3c1f2a9fdbf06538db83ffa4274a9195
+inline_embed_id: '71951660lecture24b:quiz2review65970244'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-24b-quiz-2-review
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24b-quiz-2-review
+title: 'Lecture 24b: Quiz 2 review'
 transcript: >-
   <p><span m='9720'>OK,</span> <span m='10100'>this</span> <span
   m='10330'>is</span> <span m='10790'>quiz</span> <span m='11140'>review</span>
@@ -2836,79 +2908,7 @@ transcript: >-
   m='2884920'>is</span> <span m='2885700'>Wednesday</span> <span
   m='2886650'>at</span> <span m='2887590'>one</span> <span
   m='2888160'>o'clock.</span> </p><p><span m='2888740'>Thanks.</span> </p>
-embedded_media:
-  - uid: cc1d0f6b87c82ba3201b46ed97bac3fa
-    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
-    id: 18.06_L24b.jpg
-    title: 18.06_L24b.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24b-quiz-2-review/18.06_L24b.jpg
-  - uid: a447f63229e8e4eac5516cabf364c138
-    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QuZL5IKpO_U
-  - uid: 9bf129d03293dff2528733f5ddf5ee27
-    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 4e3bf55a566150b3905c0bd85d1fb32d
-    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/24b.mp4'
-  - uid: 5ab392e3b92641cebf7b457747767d2a
-    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 970d499924d91a075f0331f6c8a75dfe
-    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 96475a80a79e6ea7d6df505122b77c5c
-    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QuZL5IKpO_U
-  - uid: 5de33042bfc30424c6af01c173872af9
-    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QuZL5IKpO_U/default.jpg'
-  - uid: 9662ec2da0eaacde32deeaf2c36017f5
-    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
-    id: QuZL5IKpO_U.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24b-quiz-2-review/QuZL5IKpO_U.srt
-  - uid: 3a4c9c7a6e90be05bff41ffcda51cf24
-    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
-    id: QuZL5IKpO_U.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-24b-quiz-2-review/QuZL5IKpO_U.pdf
-  - uid: 7cd48330ded9b5aca8da0d8184d73188
-    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3c1f2a9fdbf06538db83ffa4274a9195
-    parent_uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3da625db9fd7f62f3a3fb2a6d0dcc4c8
 type: courses
 layout: video
 ---

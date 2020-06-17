@@ -1,13 +1,73 @@
 ---
-title: 'Chebyshev Bounds: Video'
-uid: 84716f19adcb42af8135e454cfc25aff
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 84716f19adcb42af8135e454cfc25aff
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 362dbddfb796be2cb246ff7447234235
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 84716f19adcb42af8135e454cfc25aff
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: be6e69391c3180becf353c5393e93ee9
+  - id: Video-YouTube-Stream
+    media_location: uaa4P-kkLrA
+    parent_uid: 84716f19adcb42af8135e454cfc25aff
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 79eb96c8983b7502d4168592afaf5e2a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/uaa4P-kkLrA/default.jpg'
+    parent_uid: 84716f19adcb42af8135e454cfc25aff
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a570682ede5f022de235bb8dd7edbecb
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: uaa4P-kkLrA
+    parent_uid: 84716f19adcb42af8135e454cfc25aff
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e74f70c23de391925ddefd2ca68c620e
+  - id: uaa4P-kkLrA.srt
+    parent_uid: 84716f19adcb42af8135e454cfc25aff
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-49f940bfd8d6/chebyshev-bounds/uaa4P-kkLrA.srt
+    title: 3play caption file
+    type: null
+    uid: b2df32b0c8ed09f02a1ca56e1c28f56e
+  - id: uaa4P-kkLrA.pdf
+    parent_uid: 84716f19adcb42af8135e454cfc25aff
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-49f940bfd8d6/chebyshev-bounds/uaa4P-kkLrA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 815ed3f3c993703af83da5733a674954
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 84716f19adcb42af8135e454cfc25aff
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ab4e359c9b2f016e7598911e5f04112b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 84716f19adcb42af8135e454cfc25aff
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4d99c88c5e0c8703f380832b72b6e37d
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_deviationchebyshev_video_ipod.mp4
+    parent_uid: 84716f19adcb42af8135e454cfc25aff
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c6d1bce4ce6aa34b86d0a9398d5c2e35
+inline_embed_id: 9106678chebyshevboundsvideo12935204
 parent_uid: 3371149b256c64a83ee658774d2d4987
+related_resources_text: ''
+short_url: chebyshev-bounds
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-49f940bfd8d6/chebyshev-bounds
-short_url: chebyshev-bounds
-inline_embed_id: 9106678chebyshevboundsvideo12935204
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Chebyshev Bounds: Video'
 transcript: >-
   <p><span m='390'>PROFESSOR:</span> <span m='780'>Our</span> <span
   m='960'>topic</span> <span m='1410'>is</span> <span m='1570'>deviation</span>
@@ -746,67 +806,7 @@ transcript: >-
   m='617060'>multiple</span> <span m='617320'>of</span> <span
   m='618410'>the</span> <span m='618560'>standard</span> <span
   m='618880'>deviation</span> <span m='619420'>continues.</span> </p>
-embedded_media:
-  - uid: 362dbddfb796be2cb246ff7447234235
-    parent_uid: 84716f19adcb42af8135e454cfc25aff
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: be6e69391c3180becf353c5393e93ee9
-    parent_uid: 84716f19adcb42af8135e454cfc25aff
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 79eb96c8983b7502d4168592afaf5e2a
-    parent_uid: 84716f19adcb42af8135e454cfc25aff
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: uaa4P-kkLrA
-  - uid: a570682ede5f022de235bb8dd7edbecb
-    parent_uid: 84716f19adcb42af8135e454cfc25aff
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/uaa4P-kkLrA/default.jpg'
-  - uid: e74f70c23de391925ddefd2ca68c620e
-    parent_uid: 84716f19adcb42af8135e454cfc25aff
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: uaa4P-kkLrA
-  - uid: b2df32b0c8ed09f02a1ca56e1c28f56e
-    parent_uid: 84716f19adcb42af8135e454cfc25aff
-    id: uaa4P-kkLrA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-49f940bfd8d6/chebyshev-bounds/uaa4P-kkLrA.srt
-  - uid: 815ed3f3c993703af83da5733a674954
-    parent_uid: 84716f19adcb42af8135e454cfc25aff
-    id: uaa4P-kkLrA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-49f940bfd8d6/chebyshev-bounds/uaa4P-kkLrA.pdf
-  - uid: ab4e359c9b2f016e7598911e5f04112b
-    parent_uid: 84716f19adcb42af8135e454cfc25aff
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4d99c88c5e0c8703f380832b72b6e37d
-    parent_uid: 84716f19adcb42af8135e454cfc25aff
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c6d1bce4ce6aa34b86d0a9398d5c2e35
-    parent_uid: 84716f19adcb42af8135e454cfc25aff
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_deviationchebyshev_video_ipod.mp4
+uid: 84716f19adcb42af8135e454cfc25aff
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Proof By Contradiction
-uid: e15a8fd827f995f3eb033478e428d4c0
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: e15a8fd827f995f3eb033478e428d4c0
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 7285d1d04c7eda9a34e97f77aabd80d0
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: e15a8fd827f995f3eb033478e428d4c0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 646602c926fe07312eed7a06fe822c3c
+  - id: Video-YouTube-Stream
+    media_location: CpW0ZJ7i0oc
+    parent_uid: e15a8fd827f995f3eb033478e428d4c0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 777d5c5410b89f511fbf3a0b57648aab
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CpW0ZJ7i0oc/default.jpg'
+    parent_uid: e15a8fd827f995f3eb033478e428d4c0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 00f152309bfd4f366998456b1adae0ef
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: CpW0ZJ7i0oc
+    parent_uid: e15a8fd827f995f3eb033478e428d4c0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5edf0a7765b66b1560210e3fc1e79907
+  - id: CpW0ZJ7i0oc.srt
+    parent_uid: e15a8fd827f995f3eb033478e428d4c0
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2/proof-by-contradiction/CpW0ZJ7i0oc.srt
+    title: 3play caption file
+    type: null
+    uid: c6554cca81f8c2275ac1026ff24eb734
+  - id: CpW0ZJ7i0oc.pdf
+    parent_uid: e15a8fd827f995f3eb033478e428d4c0
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2/proof-by-contradiction/CpW0ZJ7i0oc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6259ae613e0e1fd613243f20407078e6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e15a8fd827f995f3eb033478e428d4c0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 703be0447168405d0f9eaa072ab95950
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e15a8fd827f995f3eb033478e428d4c0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e41ea85af98428189ca9f169624908d2
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_contradiction_ipod.mp4
+    parent_uid: e15a8fd827f995f3eb033478e428d4c0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: df5250e6dd2262bcd88a11d4fa167631
+inline_embed_id: 2981970proofbycontradiction45340199
 parent_uid: 604f8e0726803e778aac7885f0f6eaf0
+related_resources_text: ''
+short_url: proof-by-contradiction
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2/proof-by-contradiction
-short_url: proof-by-contradiction
-inline_embed_id: 2981970proofbycontradiction45340199
-about_this_resource_text: ''
-related_resources_text: ''
+title: Proof By Contradiction
 transcript: >-
   <p><span m='530'>PROFESSOR: It's</span> <span m='790'>doubtful</span> <span
   m='1330'>if</span> <span m='1450'>you</span> <span m='1560'>really</span>
@@ -596,67 +656,7 @@ transcript: >-
   <span m='472270'>the</span> <span m='472340'>proof,</span> <span
   m='473100'>and</span> <span m='473300'>so</span> <span m='474000'>we're</span>
   <span m='474130'>done.</span> </p>
-embedded_media:
-  - uid: 7285d1d04c7eda9a34e97f77aabd80d0
-    parent_uid: e15a8fd827f995f3eb033478e428d4c0
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 646602c926fe07312eed7a06fe822c3c
-    parent_uid: e15a8fd827f995f3eb033478e428d4c0
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 777d5c5410b89f511fbf3a0b57648aab
-    parent_uid: e15a8fd827f995f3eb033478e428d4c0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CpW0ZJ7i0oc
-  - uid: 00f152309bfd4f366998456b1adae0ef
-    parent_uid: e15a8fd827f995f3eb033478e428d4c0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CpW0ZJ7i0oc/default.jpg'
-  - uid: 5edf0a7765b66b1560210e3fc1e79907
-    parent_uid: e15a8fd827f995f3eb033478e428d4c0
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CpW0ZJ7i0oc
-  - uid: c6554cca81f8c2275ac1026ff24eb734
-    parent_uid: e15a8fd827f995f3eb033478e428d4c0
-    id: CpW0ZJ7i0oc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2/proof-by-contradiction/CpW0ZJ7i0oc.srt
-  - uid: 6259ae613e0e1fd613243f20407078e6
-    parent_uid: e15a8fd827f995f3eb033478e428d4c0
-    id: CpW0ZJ7i0oc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2/proof-by-contradiction/CpW0ZJ7i0oc.pdf
-  - uid: 703be0447168405d0f9eaa072ab95950
-    parent_uid: e15a8fd827f995f3eb033478e428d4c0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e41ea85af98428189ca9f169624908d2
-    parent_uid: e15a8fd827f995f3eb033478e428d4c0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: df5250e6dd2262bcd88a11d4fa167631
-    parent_uid: e15a8fd827f995f3eb033478e428d4c0
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_contradiction_ipod.mp4
+uid: e15a8fd827f995f3eb033478e428d4c0
 type: courses
 layout: video
 ---

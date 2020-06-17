@@ -1,13 +1,67 @@
 ---
-title: 'Student Interview: Kenneth'
-uid: 80edeccc2c2bdfe3e012d557a733621f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 3coxJFCY3T4
+    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c256650502e390dd06f2de3d1d93ea6b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 3coxJFCY3T4
+    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1724c04a7c1ce0683fdd6a355fc0b996
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6df70905411d9ce7ff9b0db3b557828b
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D13P2_300k.mp4'
+    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: edd57120f69bba20d4c71e616e4291cd
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/3coxJFCY3T4/default.jpg'
+    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 589bab968d51cd99eb505c789a40c60c
+  - id: 3coxJFCY3T4.srt
+    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-kenneth/3coxJFCY3T4.srt
+    title: 3play caption file
+    type: null
+    uid: 2abc64c58e46186ed4578ed003d871ad
+  - id: 3coxJFCY3T4.pdf
+    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-kenneth/3coxJFCY3T4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 654b5e0f2bed7b4ffa92302725bbcab1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 574e2e1b8d57688feab1a43332b441fd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8d99706e805c736d6c292d88f3f2a2b2
+inline_embed_id: '38514153studentinterview:kenneth3655073'
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
+related_resources_text: ''
+short_url: student-interview-kenneth
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-kenneth
-short_url: student-interview-kenneth
-inline_embed_id: '38514153studentinterview:kenneth3655073'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Student Interview: Kenneth'
 transcript: >-
   <p><span m='5313'>PROFESSOR: Hey,</span> <span m='5796'>Kenneth.</span>
   </p><p><span m='7250'>KENNETH CHEAH: Hi.</span> </p><p><span
@@ -133,61 +187,7 @@ transcript: >-
   <span m='111052'>Thank you</span> <span m='111473'>very much.</span>
   </p><p><span m='112740'>KENNETH CHEAH: Thank</span> <span
   m='113000'>you.</span> </p>
-embedded_media:
-  - uid: c256650502e390dd06f2de3d1d93ea6b
-    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 3coxJFCY3T4
-  - uid: 1724c04a7c1ce0683fdd6a355fc0b996
-    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 3coxJFCY3T4
-  - uid: 6df70905411d9ce7ff9b0db3b557828b
-    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: edd57120f69bba20d4c71e616e4291cd
-    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D13P2_300k.mp4'
-  - uid: 589bab968d51cd99eb505c789a40c60c
-    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/3coxJFCY3T4/default.jpg'
-  - uid: 2abc64c58e46186ed4578ed003d871ad
-    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
-    id: 3coxJFCY3T4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-kenneth/3coxJFCY3T4.srt
-  - uid: 654b5e0f2bed7b4ffa92302725bbcab1
-    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
-    id: 3coxJFCY3T4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-kenneth/3coxJFCY3T4.pdf
-  - uid: 574e2e1b8d57688feab1a43332b441fd
-    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8d99706e805c736d6c292d88f3f2a2b2
-    parent_uid: 80edeccc2c2bdfe3e012d557a733621f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 80edeccc2c2bdfe3e012d557a733621f
 type: courses
 layout: video
 ---

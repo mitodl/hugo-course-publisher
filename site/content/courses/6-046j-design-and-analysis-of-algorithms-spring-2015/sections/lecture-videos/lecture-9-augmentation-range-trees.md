@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 9: Augmentation: Range Trees'
-uid: 0e16f4f6df9982c161d397610790be88
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-9-augmentation-range-trees
-short_url: lecture-9-augmentation-range-trees
-inline_embed_id: '66680522lecture9:augmentation:rangetrees53440732'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Demaine covers the
   augmentation of data structures, updating common structures to store
   additional information.</p> <p><strong>Instructors:</strong> Erik Demaine</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: xVka6z1hu-I
+    parent_uid: 0e16f4f6df9982c161d397610790be88
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 23f0865ccf6b1233e6e737b75f22f77f
+  - id: xVka6z1hu-I.srt
+    parent_uid: 0e16f4f6df9982c161d397610790be88
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-9-augmentation-range-trees/xVka6z1hu-I.srt
+    title: 3play caption file
+    type: null
+    uid: e854126ffc3ba502ec430e538e550781
+  - id: xVka6z1hu-I.pdf
+    parent_uid: 0e16f4f6df9982c161d397610790be88
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-9-augmentation-range-trees/xVka6z1hu-I.pdf
+    title: 3play pdf file
+    type: null
+    uid: 043caded851c2927fa3cf3bf3957e4e3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0e16f4f6df9982c161d397610790be88
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 85ce2482be2cebe233860e3e03179cf5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0e16f4f6df9982c161d397610790be88
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e6dc7deab9f26bb2f8301a0db64ea6bb
+  - id: Video-YouTube-Stream
+    media_location: xVka6z1hu-I
+    parent_uid: 0e16f4f6df9982c161d397610790be88
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 69de173a8ca9888a31fad53d1abae787
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/xVka6z1hu-I/default.jpg'
+    parent_uid: 0e16f4f6df9982c161d397610790be88
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5888e0610c2b5ffaf45ba80bd75b161c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 0e16f4f6df9982c161d397610790be88
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1c007ce65c6dc62abc8ef742f26a316d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec09_300k.mp4'
+    parent_uid: 0e16f4f6df9982c161d397610790be88
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2fb5af59aef7fd00cb148261036ac382
+inline_embed_id: '66680522lecture9:augmentation:rangetrees53440732'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-9-augmentation-range-trees
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-9-augmentation-range-trees
+title: 'Lecture 9: Augmentation: Range Trees'
 transcript: >-
   <p><span m="80">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -5161,61 +5215,7 @@ transcript: >-
   m="5071470">log</span> <span m="5071770">factor</span> <span
   m="5072070">each</span> <span m="5072370">dimension</span> <span
   m="5072670">you</span> <span m="5072970">add.</span></p>
-embedded_media:
-  - uid: 23f0865ccf6b1233e6e737b75f22f77f
-    parent_uid: 0e16f4f6df9982c161d397610790be88
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: xVka6z1hu-I
-  - uid: e854126ffc3ba502ec430e538e550781
-    parent_uid: 0e16f4f6df9982c161d397610790be88
-    id: xVka6z1hu-I.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-9-augmentation-range-trees/xVka6z1hu-I.srt
-  - uid: 043caded851c2927fa3cf3bf3957e4e3
-    parent_uid: 0e16f4f6df9982c161d397610790be88
-    id: xVka6z1hu-I.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-9-augmentation-range-trees/xVka6z1hu-I.pdf
-  - uid: 85ce2482be2cebe233860e3e03179cf5
-    parent_uid: 0e16f4f6df9982c161d397610790be88
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e6dc7deab9f26bb2f8301a0db64ea6bb
-    parent_uid: 0e16f4f6df9982c161d397610790be88
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 69de173a8ca9888a31fad53d1abae787
-    parent_uid: 0e16f4f6df9982c161d397610790be88
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: xVka6z1hu-I
-  - uid: 5888e0610c2b5ffaf45ba80bd75b161c
-    parent_uid: 0e16f4f6df9982c161d397610790be88
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/xVka6z1hu-I/default.jpg'
-  - uid: 1c007ce65c6dc62abc8ef742f26a316d
-    parent_uid: 0e16f4f6df9982c161d397610790be88
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 2fb5af59aef7fd00cb148261036ac382
-    parent_uid: 0e16f4f6df9982c161d397610790be88
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec09_300k.mp4'
+uid: 0e16f4f6df9982c161d397610790be88
 type: courses
 layout: video
 ---

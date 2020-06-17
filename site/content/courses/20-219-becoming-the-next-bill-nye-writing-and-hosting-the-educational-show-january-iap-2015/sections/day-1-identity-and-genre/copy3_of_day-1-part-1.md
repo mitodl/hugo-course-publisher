@@ -1,13 +1,67 @@
 ---
-title: Examples and discussion of educational science videos on YouTube
-uid: 230fa4772a6dcb26e4c757537b877217
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 230fa4772a6dcb26e4c757537b877217
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 820bb8321c81d8cada330eb719a290b3
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D01P1_300k.mp4'
+    parent_uid: 230fa4772a6dcb26e4c757537b877217
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b06ed56651d60b679b3476e7f81639ac
+  - id: Video-YouTube-Stream
+    media_location: VBgVRviSKek
+    parent_uid: 230fa4772a6dcb26e4c757537b877217
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0d8cec3d6f8c0cad950966aa7f82fc11
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: VBgVRviSKek
+    parent_uid: 230fa4772a6dcb26e4c757537b877217
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 82c6a4614c42ac5a909d5eecba62ece4
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/VBgVRviSKek/default.jpg'
+    parent_uid: 230fa4772a6dcb26e4c757537b877217
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 12fbf2c10d772a9caa36631c234ee664
+  - id: VBgVRviSKek.srt
+    parent_uid: 230fa4772a6dcb26e4c757537b877217
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/copy3_of_day-1-part-1/VBgVRviSKek.srt
+    title: 3play caption file
+    type: null
+    uid: a27a6894cc67ae2f59e11d07d10a6939
+  - id: VBgVRviSKek.pdf
+    parent_uid: 230fa4772a6dcb26e4c757537b877217
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/copy3_of_day-1-part-1/VBgVRviSKek.pdf
+    title: 3play pdf file
+    type: null
+    uid: a05f197796d1453a1dd24d5b180ea9a3
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: 230fa4772a6dcb26e4c757537b877217
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: dde8f4e72968ef124029c03bc42f282c
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: 230fa4772a6dcb26e4c757537b877217
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f4f3115804d4c2b9ffec4862acb0ad07
+inline_embed_id: 77134566examplesanddiscussionofeducationalsciencevideosonyoutube98616657
 parent_uid: e7ab07a59bf478a18a95a815093ec211
+related_resources_text: ''
+short_url: copy3_of_day-1-part-1
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/copy3_of_day-1-part-1
-short_url: copy3_of_day-1-part-1
-inline_embed_id: 77134566examplesanddiscussionofeducationalsciencevideosonyoutube98616657
-about_this_resource_text: ''
-related_resources_text: ''
+title: Examples and discussion of educational science videos on YouTube
 transcript: >-
   <p><span m="90">The</span> <span m="170">following</span> <span
   m="610">content</span> <span m="1120">is</span> <span m="1230">provided</span>
@@ -6373,61 +6427,7 @@ transcript: >-
   m="5312510">Chris,</span> <span m="5313220">I will</span> <span
   m="5313270">let</span> <span m="5313500">you</span> <span
   m="5313570">take</span> <span m="5313740">over.</span></p>
-embedded_media:
-  - uid: 820bb8321c81d8cada330eb719a290b3
-    parent_uid: 230fa4772a6dcb26e4c757537b877217
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: b06ed56651d60b679b3476e7f81639ac
-    parent_uid: 230fa4772a6dcb26e4c757537b877217
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D01P1_300k.mp4'
-  - uid: 0d8cec3d6f8c0cad950966aa7f82fc11
-    parent_uid: 230fa4772a6dcb26e4c757537b877217
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VBgVRviSKek
-  - uid: 82c6a4614c42ac5a909d5eecba62ece4
-    parent_uid: 230fa4772a6dcb26e4c757537b877217
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VBgVRviSKek
-  - uid: 12fbf2c10d772a9caa36631c234ee664
-    parent_uid: 230fa4772a6dcb26e4c757537b877217
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VBgVRviSKek/default.jpg'
-  - uid: a27a6894cc67ae2f59e11d07d10a6939
-    parent_uid: 230fa4772a6dcb26e4c757537b877217
-    id: VBgVRviSKek.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/copy3_of_day-1-part-1/VBgVRviSKek.srt
-  - uid: a05f197796d1453a1dd24d5b180ea9a3
-    parent_uid: 230fa4772a6dcb26e4c757537b877217
-    id: VBgVRviSKek.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/copy3_of_day-1-part-1/VBgVRviSKek.pdf
-  - uid: dde8f4e72968ef124029c03bc42f282c
-    parent_uid: 230fa4772a6dcb26e4c757537b877217
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f4f3115804d4c2b9ffec4862acb0ad07
-    parent_uid: 230fa4772a6dcb26e4c757537b877217
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 230fa4772a6dcb26e4c757537b877217
 type: courses
 layout: video
 ---

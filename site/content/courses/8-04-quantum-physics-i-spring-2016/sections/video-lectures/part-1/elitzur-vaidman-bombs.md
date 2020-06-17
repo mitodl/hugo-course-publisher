@@ -1,13 +1,67 @@
 ---
-title: Elitzur-Vaidman bombs
-uid: a2b26a93eefce9a3264ed8be4b8553f0
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: vFZeh8bMx58
+    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4e7384001346f1d668c685915177f2e1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/vFZeh8bMx58/default.jpg'
+    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 63200a76e2534c9b64bfe36179e16580
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: vFZeh8bMx58
+    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: acf06b5af6403d9dad08ba81f69c909b
+  - id: vFZeh8bMx58.srt
+    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/elitzur-vaidman-bombs/vFZeh8bMx58.srt
+    title: 3play caption file
+    type: null
+    uid: 3758806cff4b2138dde85124e30e1a6b
+  - id: vFZeh8bMx58.pdf
+    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/elitzur-vaidman-bombs/vFZeh8bMx58.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1d0f17bfcab88342fd4ff9a86b59db41
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 38f59af07c796ca0fee3a308de0c1280
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d07da908172dc4981addbd248a88d2af
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 893fe0f39fc45948da7b7e877e71be4f
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec02_s5_300k.mp4'
+    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8fc77b9cb5a42edc5d454e38426d7de4
+inline_embed_id: 24588309elitzurvaidmanbombs46906572
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: elitzur-vaidman-bombs
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/elitzur-vaidman-bombs
-short_url: elitzur-vaidman-bombs
-inline_embed_id: 24588309elitzurvaidmanbombs46906572
-about_this_resource_text: ''
-related_resources_text: ''
+title: Elitzur-Vaidman bombs
 transcript: >-
   <p><span m='450'>PROFESSOR:</span> <span m='585'>So</span> <span
   m='720'>far</span> <span m='1080'>so</span> <span m='1380'>good.</span> <span
@@ -442,61 +496,7 @@ transcript: >-
   m='626170'>you</span> <span m='626270'>can</span> <span m='626400'>do</span>
   <span m='627000'>very</span> <span m='627480'>surprising</span> <span
   m='628230'>measurements.</span> </p>
-embedded_media:
-  - uid: 4e7384001346f1d668c685915177f2e1
-    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: vFZeh8bMx58
-  - uid: 63200a76e2534c9b64bfe36179e16580
-    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/vFZeh8bMx58/default.jpg'
-  - uid: acf06b5af6403d9dad08ba81f69c909b
-    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: vFZeh8bMx58
-  - uid: 3758806cff4b2138dde85124e30e1a6b
-    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
-    id: vFZeh8bMx58.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/elitzur-vaidman-bombs/vFZeh8bMx58.srt
-  - uid: 1d0f17bfcab88342fd4ff9a86b59db41
-    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
-    id: vFZeh8bMx58.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/elitzur-vaidman-bombs/vFZeh8bMx58.pdf
-  - uid: 38f59af07c796ca0fee3a308de0c1280
-    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d07da908172dc4981addbd248a88d2af
-    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 893fe0f39fc45948da7b7e877e71be4f
-    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 8fc77b9cb5a42edc5d454e38426d7de4
-    parent_uid: a2b26a93eefce9a3264ed8be4b8553f0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec02_s5_300k.mp4'
+uid: a2b26a93eefce9a3264ed8be4b8553f0
 type: courses
 layout: video
 ---

@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 8: Object Oriented Programming'
-uid: 3b1818505a4c6c7284941360f5401ec2
-parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-8-object-oriented-programming
-short_url: lecture-8-object-oriented-programming
-inline_embed_id: 95848175lecture8objectorientedprogramming11287831
 about_this_resource_text: >-
   <p><strong>Description: </strong>In this lecture, Dr. Bell introduces Object
   Oriented Programming and discusses its representation in Python.</p>
   <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '-DP1i2ZU9gk'
+    parent_uid: 3b1818505a4c6c7284941360f5401ec2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 086342a5095bf1fc3d61fb2a33424822
+  - id: '-DP1i2ZU9gk.srt'
+    parent_uid: 3b1818505a4c6c7284941360f5401ec2
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-8-object-oriented-programming/-DP1i2ZU9gk.srt
+    title: 3play caption file
+    type: null
+    uid: f9c608c31b334e7b769d15ef9ec0d0b9
+  - id: '-DP1i2ZU9gk.pdf'
+    parent_uid: 3b1818505a4c6c7284941360f5401ec2
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-8-object-oriented-programming/-DP1i2ZU9gk.pdf
+    title: 3play pdf file
+    type: null
+    uid: b2ed2f459ae17c537efacbc73dd6a39a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3b1818505a4c6c7284941360f5401ec2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 848fa5fc0f54f70c51e4b97e18a7f853
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3b1818505a4c6c7284941360f5401ec2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 652cdd2c63d1ef7dcccb75da5108d67b
+  - id: Video-YouTube-Stream
+    media_location: '-DP1i2ZU9gk'
+    parent_uid: 3b1818505a4c6c7284941360f5401ec2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9e9af0beaebb4c6a0e61c70d1d93c10a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-DP1i2ZU9gk/default.jpg'
+    parent_uid: 3b1818505a4c6c7284941360f5401ec2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f91aa2cfcd9d5d7c3399aa482c794d98
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 3b1818505a4c6c7284941360f5401ec2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 88e4e24642b57d960c5d998071f0226d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_08_300k.mp4'
+    parent_uid: 3b1818505a4c6c7284941360f5401ec2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1891688f55320679379aa910228e1c77
+inline_embed_id: 95848175lecture8objectorientedprogramming11287831
+parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
+short_url: lecture-8-object-oriented-programming
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-8-object-oriented-programming
+title: 'Lecture 8: Object Oriented Programming'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1300">content</span> <span m="1870">is</span> <span
@@ -2945,61 +2999,7 @@ transcript: >-
   m="2493190">we</span> <span m="2493310">saw</span> <span m="2493670">in</span>
   <span m="2494630">this</span> <span m="2494930">lecture</span> <span
   m="2495530">today.</span></p>
-embedded_media:
-  - uid: 086342a5095bf1fc3d61fb2a33424822
-    parent_uid: 3b1818505a4c6c7284941360f5401ec2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-DP1i2ZU9gk'
-  - uid: f9c608c31b334e7b769d15ef9ec0d0b9
-    parent_uid: 3b1818505a4c6c7284941360f5401ec2
-    id: '-DP1i2ZU9gk.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-8-object-oriented-programming/-DP1i2ZU9gk.srt
-  - uid: b2ed2f459ae17c537efacbc73dd6a39a
-    parent_uid: 3b1818505a4c6c7284941360f5401ec2
-    id: '-DP1i2ZU9gk.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-8-object-oriented-programming/-DP1i2ZU9gk.pdf
-  - uid: 848fa5fc0f54f70c51e4b97e18a7f853
-    parent_uid: 3b1818505a4c6c7284941360f5401ec2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 652cdd2c63d1ef7dcccb75da5108d67b
-    parent_uid: 3b1818505a4c6c7284941360f5401ec2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9e9af0beaebb4c6a0e61c70d1d93c10a
-    parent_uid: 3b1818505a4c6c7284941360f5401ec2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-DP1i2ZU9gk'
-  - uid: f91aa2cfcd9d5d7c3399aa482c794d98
-    parent_uid: 3b1818505a4c6c7284941360f5401ec2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-DP1i2ZU9gk/default.jpg'
-  - uid: 88e4e24642b57d960c5d998071f0226d
-    parent_uid: 3b1818505a4c6c7284941360f5401ec2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: 1891688f55320679379aa910228e1c77
-    parent_uid: 3b1818505a4c6c7284941360f5401ec2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_08_300k.mp4'
+uid: 3b1818505a4c6c7284941360f5401ec2
 type: courses
 layout: video
 ---

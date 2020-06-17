@@ -1,13 +1,67 @@
 ---
-title: Max/Min
-uid: add425632f8d94c680d9ad76333b38b6
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ImzS_gSbjK4
+    parent_uid: add425632f8d94c680d9ad76333b38b6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 16e2f99af57232585c731d0892c587c1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ImzS_gSbjK4/default.jpg'
+    parent_uid: add425632f8d94c680d9ad76333b38b6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3986b68bea496d2a2067975d5a2765a9
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: ImzS_gSbjK4
+    parent_uid: add425632f8d94c680d9ad76333b38b6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b644662bda6a4507f274e6ec7f8f8233
+  - id: ImzS_gSbjK4.srt
+    parent_uid: add425632f8d94c680d9ad76333b38b6
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-31-example/max-min/ImzS_gSbjK4.srt
+    title: 3play caption file
+    type: null
+    uid: 4705fc324d0f8f0604f9792dcd2d3003
+  - id: ImzS_gSbjK4.pdf
+    parent_uid: add425632f8d94c680d9ad76333b38b6
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-31-example/max-min/ImzS_gSbjK4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 68dac82b1492eaf2b20755fd31602c0a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: add425632f8d94c680d9ad76333b38b6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 282c398a4614373d3d00dd8db351d82d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: add425632f8d94c680d9ad76333b38b6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2c5858698613b391fe6a015d4f3e9e65
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/max-min/id414355340?i=90322833'
+    parent_uid: add425632f8d94c680d9ad76333b38b6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9eb920878bafe0cbabcd5cec5464d9fe
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_24_300k.mp4'
+    parent_uid: add425632f8d94c680d9ad76333b38b6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6eae71c727162931d2837112b544d3a0
+inline_embed_id: 79316660max/min62743958
 parent_uid: c7fadc2428f5b544329743d57919860a
+related_resources_text: ''
+short_url: max-min
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-31-example/max-min
-short_url: max-min
-inline_embed_id: 79316660max/min62743958
-about_this_resource_text: ''
-related_resources_text: ''
+title: Max/Min
 transcript: >-
   <p><span m='7160'>JOEL LEWIS: Hi.</span> <span m='7600'>Welcome</span> <span
   m='7930'>back</span> <span m='8140'>to</span> <span
@@ -924,61 +978,7 @@ transcript: >-
   m='834460'>that</span> <span m='834715'>we</span> <span m='834970'>did.</span>
   </p><p><span m='836600'>I'll</span> <span m='836750'>end</span> <span
   m='836970'>there.</span> </p>
-embedded_media:
-  - uid: 16e2f99af57232585c731d0892c587c1
-    parent_uid: add425632f8d94c680d9ad76333b38b6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ImzS_gSbjK4
-  - uid: 3986b68bea496d2a2067975d5a2765a9
-    parent_uid: add425632f8d94c680d9ad76333b38b6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ImzS_gSbjK4/default.jpg'
-  - uid: b644662bda6a4507f274e6ec7f8f8233
-    parent_uid: add425632f8d94c680d9ad76333b38b6
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ImzS_gSbjK4
-  - uid: 4705fc324d0f8f0604f9792dcd2d3003
-    parent_uid: add425632f8d94c680d9ad76333b38b6
-    id: ImzS_gSbjK4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-31-example/max-min/ImzS_gSbjK4.srt
-  - uid: 68dac82b1492eaf2b20755fd31602c0a
-    parent_uid: add425632f8d94c680d9ad76333b38b6
-    id: ImzS_gSbjK4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-31-example/max-min/ImzS_gSbjK4.pdf
-  - uid: 282c398a4614373d3d00dd8db351d82d
-    parent_uid: add425632f8d94c680d9ad76333b38b6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2c5858698613b391fe6a015d4f3e9e65
-    parent_uid: add425632f8d94c680d9ad76333b38b6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9eb920878bafe0cbabcd5cec5464d9fe
-    parent_uid: add425632f8d94c680d9ad76333b38b6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/max-min/id414355340?i=90322833'
-  - uid: 6eae71c727162931d2837112b544d3a0
-    parent_uid: add425632f8d94c680d9ad76333b38b6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_24_300k.mp4'
+uid: add425632f8d94c680d9ad76333b38b6
 type: courses
 layout: video
 ---
