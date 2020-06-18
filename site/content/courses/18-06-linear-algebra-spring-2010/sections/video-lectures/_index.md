@@ -1,7 +1,6 @@
 ---
 title: Video Lectures
 course_id: 18-06-linear-algebra-spring-2010
-layout: videogallery
 menu:
   18-06-linear-algebra-spring-2010:
     identifier: 6b1f662457366951bfe85945521b0299
