@@ -1,19 +1,28 @@
 {{ define "main" }}
+{{ $page := . }}
 {{ partial "course_section.html" . }}
 {{ range $index, $video := (where .Pages ".Params.layout" "video") }}
-  <div class="video mb-2 border-light-grey rounded">
-    <a class="video-toggle"
-       href="#video-container_{{ $index }}"
-       data-toggle="collapse"
-       aria-controls="video-container_{{ $index }}"
-       aria-expanded="false">
-      EXPAND
+  <div class="mb-2 border-light-grey rounded video-gallery-card">
+    <a class="video-link" href="{{ $video.Permalink }}">
+      <div class="inner-container">
+        <div class="left-col">
+          {{ range $media := $video.Params.embedded_media }}
+            {{ if eq $media.type "Thumbnail" }}
+              <img class="thumbnail" src ="{{ $media.media_location }}" />
+            {{ end }}
+          {{ end }}
+        </div>
+        <div class="right-col">
+          <h5 class="section-title">{{ $page.Params.title }}</h5>
+          <h5 class="video-title">{{ $video.Params.title }}</h5>
+          <div>{{ $video.Params.about_this_resource_text | safeHTML | plainify }}</div>
+          <div class="play-button">
+            <span>PLAY</span>
+            <i class="material-icons">play_arrow_icon</i>
+          </div>
+        </div>
+      </div>
     </a>
-    <div id="video-container_{{ $index }}" class="video-container collapse">
-      <h3>{{ $video.Params.title }}</h3>
-      <div>{{ $video.Params.about_this_resource_text | safeHTML | plainify }}</div>
-      {{ partial "youtube_player.html" . }}
-    </div>
   </div>
 {{ end }}
 {{ end }}

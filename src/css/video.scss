@@ -1,3 +1,64 @@
+.video-gallery-card {
+  a {
+    text-decoration: none;
+
+    .inner-container {
+      display: flex;
+      justify-content: space-between;
+      background-color: white;
+      color: black;
+      padding: 10px;
+      margin: 0;
+      text-align: left;
+      width: 100%;
+      cursor: pointer;
+  
+      .left-col {
+        margin-right: 10px;
+        img.thumbnail {
+          border-radius: 5px;
+          width: 227px;
+          height: 140px;
+        }
+      }
+  
+      .right-col {
+        position: relative;
+        margin-left: 10px;
+        width: 100%;
+  
+        .section-title {
+          color: $text-gray;
+          text-transform: uppercase;
+          font-size: 14px;
+        }
+  
+        .video-title {
+          font-size: 16px;
+        }
+  
+        .play-button {
+          border-radius: 5px;
+          background-color: $dark-gray;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          position: absolute;
+          right: 0;
+          bottom: 0;
+          font-size: 16px;
+          width: 75px;
+          height: 36px;
+  
+          i {
+            width: 24px;
+          }
+        }
+      }
+    }
+  }
+}
+
 .video-page {
   .description {
   }
