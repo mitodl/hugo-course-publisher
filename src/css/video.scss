@@ -12,7 +12,7 @@
       text-align: left;
       width: 100%;
       cursor: pointer;
-  
+
       .left-col {
         margin-right: 10px;
         img.thumbnail {
@@ -21,22 +21,22 @@
           height: 140px;
         }
       }
-  
+
       .right-col {
         position: relative;
         margin-left: 10px;
         width: 100%;
-  
+
         .section-title {
           color: $text-gray;
           text-transform: uppercase;
           font-size: 14px;
         }
-  
+
         .video-title {
           font-size: 16px;
         }
-  
+
         .play-button {
           border-radius: 5px;
           background-color: $dark-gray;
@@ -49,7 +49,7 @@
           font-size: 16px;
           width: 75px;
           height: 36px;
-  
+
           i {
             width: 24px;
           }
