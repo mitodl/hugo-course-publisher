@@ -9,6 +9,7 @@
           {{ range $media := $video.Params.embedded_media }}
             {{ if eq $media.type "Thumbnail" }}
               <img class="thumbnail" src ="{{ $media.media_location }}" />
+              <img class="youtube-logo-overlay" src="/images/youtube.svg" />
             {{ end }}
           {{ end }}
         </div>
