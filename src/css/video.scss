@@ -1,5 +1,6 @@
 .video-gallery-card {
   a {
+    user-select: none;
     text-decoration: none;
 
     .inner-container {
@@ -40,7 +41,6 @@
       }
 
       .right-col {
-        position: relative;
         margin-left: 10px;
         width: 100%;
 
@@ -70,9 +70,6 @@
           display: flex;
           justify-content: center;
           align-items: center;
-          position: absolute;
-          right: 0;
-          bottom: 0;
           font-size: 16px;
           width: 75px;
           height: 36px;
