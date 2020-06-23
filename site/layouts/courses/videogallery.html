@@ -16,7 +16,7 @@
         <div class="right-col">
           <h5 class="section-title">{{ $page.Params.title }}</h5>
           <h5 class="video-title">{{ $video.Params.title }}</h5>
-          <div>{{ $video.Params.about_this_resource_text | safeHTML | plainify }}</div>
+          <div class="video-description">{{ $video.Params.about_this_resource_text | safeHTML | plainify }}</div>
           <div class="play-button">
             <span>PLAY</span>
             <i class="material-icons">play_arrow_icon</i>
