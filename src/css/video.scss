@@ -53,7 +53,7 @@
         .video-title {
           font-size: 16px;
         }
-        
+
         .video-description {
           @include media-breakpoint-down(md) {
             display: none;
