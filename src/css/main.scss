@@ -205,6 +205,10 @@ table {
   border-bottom: 1px solid $border-light-color;
 }
 
+.border-light-grey {
+  border: 1px solid $border-grey;
+}
+
 .content {
   img {
     max-width: 100%;
