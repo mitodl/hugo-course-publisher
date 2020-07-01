@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: e7b9c896a509c0e22062f77d89ef028a
 inline_embed_id: 4310209geometryoflinearalgebra34298202
+order_index: 37
 parent_uid: ee8864032dd829b483a2ae7dfeb2da55
 related_resources_text: ''
 short_url: geometry-of-linear-algebra

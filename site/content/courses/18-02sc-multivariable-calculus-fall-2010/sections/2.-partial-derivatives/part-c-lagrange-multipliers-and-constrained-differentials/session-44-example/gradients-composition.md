@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 36326d52a9f376dae6ea9abfde2b6278
 inline_embed_id: 72618981gradients-composition84123646
+order_index: 1366
 parent_uid: 07dd5e0fe2b203b0b2685c1b278acc2a
 related_resources_text: ''
 short_url: gradients-composition

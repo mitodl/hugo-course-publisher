@@ -50,6 +50,7 @@ embedded_media:
     type: Video
     uid: 27795633399b6a807e5652c544c17841
 inline_embed_id: 44246725supportingstaffasagroup88717720
+order_index: 74
 parent_uid: e75a8c08e11786c535031b5e10f0fe19
 related_resources_text: ''
 short_url: supporting-staff-as-a-group

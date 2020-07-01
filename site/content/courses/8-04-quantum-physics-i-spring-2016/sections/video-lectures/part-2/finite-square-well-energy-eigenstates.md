@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: b530a6e788ee0660a8af295b01944b7c
 inline_embed_id: 50100023finitesquarewellenergyeigenstates42697830
+order_index: 596
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: finite-square-well-energy-eigenstates

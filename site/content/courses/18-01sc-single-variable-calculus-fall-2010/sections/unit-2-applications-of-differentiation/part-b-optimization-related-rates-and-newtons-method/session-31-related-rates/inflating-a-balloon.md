@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: c47be5797368b9cfdedde5aad4d3ed51
 inline_embed_id: 84830535inflatingaballoon75386107
+order_index: 1463
 parent_uid: 740c26e9a52f298e76ec9fb9679d1f19
 related_resources_text: ''
 short_url: inflating-a-balloon

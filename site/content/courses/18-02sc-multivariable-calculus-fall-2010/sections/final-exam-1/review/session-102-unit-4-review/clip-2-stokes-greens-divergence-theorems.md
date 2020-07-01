@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: 1699172d99bfbe241f22585e97924e3c
 inline_embed_id: '65356718clip2:stokes,green''s,divergencetheorems54510984'
+order_index: 3208
 parent_uid: 1c1eefd6f3a6602f82cc22e51a322ada
 related_resources_text: ''
 short_url: clip-2-stokes-greens-divergence-theorems

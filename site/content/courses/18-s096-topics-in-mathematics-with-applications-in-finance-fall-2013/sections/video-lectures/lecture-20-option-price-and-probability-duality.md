@@ -59,6 +59,7 @@ embedded_media:
     type: Transcript
     uid: 0d70e17eb4d4d56b7c70d200100a0686
 inline_embed_id: '32046784lecture20:optionpriceandprobabilityduality61892349'
+order_index: 236
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-20-option-price-and-probability-duality

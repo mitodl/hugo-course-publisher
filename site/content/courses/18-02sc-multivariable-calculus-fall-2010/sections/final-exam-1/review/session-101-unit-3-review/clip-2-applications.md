@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: 5d4e0bb43b70b67471454c0afcc6118f
 inline_embed_id: '2019856clip2:applications78527593'
+order_index: 3173
 parent_uid: 3dcafa5b3b8b27b9e70f458ddfc579bd
 related_resources_text: ''
 short_url: clip-2-applications

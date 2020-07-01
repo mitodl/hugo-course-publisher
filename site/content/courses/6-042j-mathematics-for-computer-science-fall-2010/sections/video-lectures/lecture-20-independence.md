@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: f4b0fe14ee7a6cda81ecb6243d8f26d5
 inline_embed_id: '75747037lecture20:independence6438382'
+order_index: 219
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-20-independence

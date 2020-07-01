@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 7d96b95787fde77cc43a28ee9bda269d
 inline_embed_id: '28260187lecture27:positivedefinitematricesandminima98219307'
+order_index: 834
 parent_uid: c75e4546e980a4f34fba9c17295b6b7b
 related_resources_text: ''
 short_url: lecture-27-positive-definite-matrices-and-minima

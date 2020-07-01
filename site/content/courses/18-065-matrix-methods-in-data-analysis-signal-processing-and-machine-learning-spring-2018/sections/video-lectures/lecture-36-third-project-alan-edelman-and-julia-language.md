@@ -50,6 +50,7 @@ embedded_media:
     type: Video
     uid: 805f9f5b2cc32e2c431a6c6dd8fa1537
 inline_embed_id: 40991273lecture36thirdprojectalanedelmanandjulialanguage14994732
+order_index: 332
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-36-third-project-alan-edelman-and-julia-language

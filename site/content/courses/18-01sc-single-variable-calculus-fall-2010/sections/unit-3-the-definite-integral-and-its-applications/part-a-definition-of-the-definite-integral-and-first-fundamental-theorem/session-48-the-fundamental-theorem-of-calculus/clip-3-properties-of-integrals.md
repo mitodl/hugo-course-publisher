@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: de023d2ca9e0aa8f3adc37fc15c9a7a4
 inline_embed_id: '89523434clip3:propertiesofintegrals42390569'
+order_index: 2101
 parent_uid: bdc58167f5508759dd279c33d7d08852
 related_resources_text: ''
 short_url: clip-3-properties-of-integrals

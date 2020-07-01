@@ -26,6 +26,7 @@ embedded_media:
     type: Video
     uid: 00e9178213926ed73bc75314feea76b0
 inline_embed_id: 23739283demorelativemotiongun52525898
+order_index: 345
 parent_uid: 6669a5308dce181c2e48270a536a419c
 related_resources_text: ''
 short_url: demo-relative-motion-gun

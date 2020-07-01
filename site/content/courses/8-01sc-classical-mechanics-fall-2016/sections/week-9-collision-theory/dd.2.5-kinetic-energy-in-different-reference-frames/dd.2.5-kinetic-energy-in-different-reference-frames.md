@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: e775af92131a2a19ed31ed0babb9dbdb
 inline_embed_id: 57057224dd.2.5kineticenergyindifferentreferenceframes93576599
+order_index: 1825
 parent_uid: a0cd15bf86d96b196be57565da50816c
 related_resources_text: ''
 short_url: dd.2.5-kinetic-energy-in-different-reference-frames

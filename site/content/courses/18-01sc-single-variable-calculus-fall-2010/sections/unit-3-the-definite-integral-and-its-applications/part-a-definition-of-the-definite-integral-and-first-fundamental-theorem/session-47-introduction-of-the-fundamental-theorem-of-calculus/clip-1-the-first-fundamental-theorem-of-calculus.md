@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: d2b7d1277adc6d821611e65066608b45
 inline_embed_id: '97838608clip1:thefirstfundamentaltheoremofcalculus74535947'
+order_index: 2044
 parent_uid: 49d44d0cd4d7368fb65410f6924c7265
 related_resources_text: ''
 short_url: clip-1-the-first-fundamental-theorem-of-calculus

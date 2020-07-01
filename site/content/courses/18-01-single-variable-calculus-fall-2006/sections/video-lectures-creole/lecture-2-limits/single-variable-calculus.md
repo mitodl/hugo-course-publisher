@@ -62,6 +62,7 @@ embedded_media:
     type: null
     uid: 4cde661010cee735cfc84d408eafe006
 inline_embed_id: 29980096singlevariablecalculus74601695
+order_index: 571
 parent_uid: 75c30ff21d4265dfb95d2fac19adc3dc
 related_resources_text: ''
 short_url: single-variable-calculus

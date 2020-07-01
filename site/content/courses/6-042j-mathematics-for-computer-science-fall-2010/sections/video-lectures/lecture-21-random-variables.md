@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 9ea690161fd23f189a6bba760a05441d
 inline_embed_id: '7525082lecture21:randomvariables63338301'
+order_index: 229
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-21-random-variables

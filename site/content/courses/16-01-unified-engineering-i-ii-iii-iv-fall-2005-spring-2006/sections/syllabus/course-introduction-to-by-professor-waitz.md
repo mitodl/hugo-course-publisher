@@ -21,6 +21,7 @@ embedded_media:
     type: Video
     uid: dab1d5638002c83cd45951793a2006f2
 inline_embed_id: 76085303courseintroductiontobyprofessorwaitz98562243
+order_index: 19
 parent_uid: c4fd6fd61378ecf4a56ab73c6b455e18
 related_resources_text: ''
 short_url: course-introduction-to-by-professor-waitz

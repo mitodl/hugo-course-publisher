@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 74dab3432978ca9c880dd0fb9b4e9335
 inline_embed_id: '73619078lecture14:divideandconquerrecurrences14180388'
+order_index: 159
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-14-divide-and-conquer-recurrences

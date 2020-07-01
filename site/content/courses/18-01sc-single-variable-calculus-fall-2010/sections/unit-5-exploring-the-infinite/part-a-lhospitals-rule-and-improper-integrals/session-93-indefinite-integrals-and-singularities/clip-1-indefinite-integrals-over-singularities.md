@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 15663f0e2a6e4c5e9f8c1080689c3b29
 inline_embed_id: '73992095clip1:indeﬁniteintegralsoversingularities55049871'
+order_index: 4002
 parent_uid: f502f183c03e6d5e51e824f9afc4cf8c
 related_resources_text: ''
 short_url: clip-1-indefinite-integrals-over-singularities

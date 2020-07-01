@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 135bab8099d1d5e61a54a91d06d826ad
 inline_embed_id: 44552458fluxthroughasquare10857304
+order_index: 2594
 parent_uid: 0dbd561e4c4face87b1afcf29eb32c91
 related_resources_text: ''
 short_url: flux-through-a-square-1

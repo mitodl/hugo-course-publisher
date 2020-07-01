@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: d893ba79b64556927fd8998361bcc1e0
 inline_embed_id: '97283702lecture1:introductionandscope51129716'
+order_index: 19
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
 short_url: lecture-1-introduction-and-scope

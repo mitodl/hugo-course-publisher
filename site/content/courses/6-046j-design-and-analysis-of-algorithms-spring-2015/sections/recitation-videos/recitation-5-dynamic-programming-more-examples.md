@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: b9cabec49aec4fb2b331d5106ff428d2
 inline_embed_id: '59880094recitation5:dynamicprogramming:moreexamples96939535'
+order_index: 390
 parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
 short_url: recitation-5-dynamic-programming-more-examples

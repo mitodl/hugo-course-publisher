@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 3503e2c2b6b2fb96c743a6ad297b348a
 inline_embed_id: '86464270clip1:parametriccurve24972602'
+order_index: 3381
 parent_uid: b58d1c03b5e72b4fc2ef553cda5d94b7
 related_resources_text: ''
 short_url: clip-1-parametric-curve

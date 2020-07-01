@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 6396024ef87a592957b6618ea82ba03d
 inline_embed_id: 3392526usingtheintegraltestforestimation63019021
+order_index: 4143
 parent_uid: e6b5bcf01d4fe02cb8f15ed900b23542
 related_resources_text: ''
 short_url: using-the-integral-test-for-estimation

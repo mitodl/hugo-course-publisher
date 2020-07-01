@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: 9206461f29fbf33c69d972a563ffe921
 inline_embed_id: '96360917lecture14:stateandmemory18748791'
+order_index: 285
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture Notes (<a target="_blank" title="Open in a new window."

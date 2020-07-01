@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: c5b03eb14dd720e2fdb4f59f30608268
 inline_embed_id: 38469457changeofvariables89306362
+order_index: 1696
 parent_uid: 9d0e3d8a0846d1b871f4f3c5171f3b33
 related_resources_text: ''
 short_url: change-of-variables

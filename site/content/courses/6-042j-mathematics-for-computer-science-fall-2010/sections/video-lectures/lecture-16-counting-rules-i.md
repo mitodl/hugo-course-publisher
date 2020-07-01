@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 98079fb2fe9b967f73cb5b09dcb7ada8
 inline_embed_id: '67941937lecture16:countingrulesi66932881'
+order_index: 179
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-16-counting-rules-i

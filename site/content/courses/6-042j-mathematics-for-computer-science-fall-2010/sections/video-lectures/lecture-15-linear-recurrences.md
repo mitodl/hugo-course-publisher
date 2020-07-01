@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 8a2b48d4e2eebb2bf891e3d3d6054524
 inline_embed_id: '70185444lecture15:linearrecurrences40934869'
+order_index: 169
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-15-linear-recurrences

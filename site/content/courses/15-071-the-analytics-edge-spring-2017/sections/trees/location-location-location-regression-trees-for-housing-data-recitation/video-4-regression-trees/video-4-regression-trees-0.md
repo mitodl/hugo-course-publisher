@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 97530eeb54555ad41fa7de3784c60bb0
 inline_embed_id: 68575228video4regressiontrees41465132
+order_index: 986
 parent_uid: df4bdc23f257ab7073f970896028e009
 related_resources_text: ''
 short_url: video-4-regression-trees-0

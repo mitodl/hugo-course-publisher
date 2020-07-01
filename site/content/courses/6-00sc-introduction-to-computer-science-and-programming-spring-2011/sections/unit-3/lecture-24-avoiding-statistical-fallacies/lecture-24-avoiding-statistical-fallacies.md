@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: adc44364df58d5da14136b12b6aaaef1
 inline_embed_id: '89489862lecture24:avoidingstatisticalfallacies66298127'
+order_index: 500
 parent_uid: 1516a60becbc5b34fa725b89a5ef9a21
 related_resources_text: ''
 short_url: lecture-24-avoiding-statistical-fallacies

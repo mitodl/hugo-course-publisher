@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: d8e1141699201aff0801c356900b2e11
 inline_embed_id: 79698342lecture18optimizationproblemsandalgorithms17366039
+order_index: 805
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: lecture-18-optimization-problems-and-algorithms

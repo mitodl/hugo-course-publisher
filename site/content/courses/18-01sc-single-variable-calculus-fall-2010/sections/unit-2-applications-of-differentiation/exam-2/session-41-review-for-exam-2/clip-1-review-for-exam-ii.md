@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: de94e0128035a4820c42a895cf02ab51
 inline_embed_id: '86948845clip1:reviewforexamii98278484'
+order_index: 1873
 parent_uid: e554ede2ce57704ea428384bd09a8e16
 related_resources_text: ''
 short_url: clip-1-review-for-exam-ii

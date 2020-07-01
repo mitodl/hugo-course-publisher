@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 985ee9072e811df6a677addd77cd86ad
 inline_embed_id: 80229113iraglassonstorytelling66098393
+order_index: 399
 parent_uid: 36586ba568db37caa516348b595214d8
 related_resources_text: ''
 short_url: copy3_of_day-3-part-1

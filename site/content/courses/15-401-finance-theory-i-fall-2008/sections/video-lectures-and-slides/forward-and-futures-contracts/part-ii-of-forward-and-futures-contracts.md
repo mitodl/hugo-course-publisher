@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: def04f3c23aa891ac725e8461972cba9
 inline_embed_id: 40770670partiiofforwardandfuturescontracts63368972
+order_index: 131
 parent_uid: a03a6fe80962ea975478117710065928
 related_resources_text: ''
 short_url: part-ii-of-forward-and-futures-contracts

@@ -51,6 +51,7 @@ embedded_media:
     type: Thumbnail
     uid: f2f333d9a055b9f1416a176e798d5fd3
 inline_embed_id: 68235513video5theedge6880414
+order_index: 2121
 parent_uid: 2da01ab43598cf28401d952436b11f42
 related_resources_text: ''
 short_url: video-5-the-edge-0

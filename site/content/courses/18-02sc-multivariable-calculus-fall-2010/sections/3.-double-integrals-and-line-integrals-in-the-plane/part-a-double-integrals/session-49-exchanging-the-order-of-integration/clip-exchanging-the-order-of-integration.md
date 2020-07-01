@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: a0f8e85b7202fd1e694634d800c77723
 inline_embed_id: '74485169clip:exchangingtheorderofintegration10479490'
+order_index: 1502
 parent_uid: 835ad4243cd25ec6b244f1c7dc764bc4
 related_resources_text: ''
 short_url: clip-exchanging-the-order-of-integration

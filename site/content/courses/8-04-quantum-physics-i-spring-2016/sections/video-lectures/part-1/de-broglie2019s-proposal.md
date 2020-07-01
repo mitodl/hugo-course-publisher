@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 7b7105dfa16c7d6a32046442fac88862
 inline_embed_id: 88449713debrogliesproposal21753269
+order_index: 158
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: de-broglie2019s-proposal

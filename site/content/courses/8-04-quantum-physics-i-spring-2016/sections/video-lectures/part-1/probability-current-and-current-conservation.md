@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: a7a0f3a638ff8033e68b834075d01512
 inline_embed_id: 16300824probabilitycurrentandcurrentconservation61387490
+order_index: 300
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: probability-current-and-current-conservation

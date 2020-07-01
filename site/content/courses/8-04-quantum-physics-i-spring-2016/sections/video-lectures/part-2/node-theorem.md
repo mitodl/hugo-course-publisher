@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 603202ae9c42ca8f84dd7d38e33f38be
 inline_embed_id: 11604029nodetheorem19961286
+order_index: 795
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: node-theorem

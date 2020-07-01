@@ -67,6 +67,7 @@ embedded_media:
     type: Video
     uid: aa64b7f5916f24203e50c2c9f45dfb6e
 inline_embed_id: 32001825day4reflection23321513
+order_index: 1514
 parent_uid: f96632a88b4225f3f84e318abddd7856
 related_resources_text: ''
 short_url: day-4-reflection

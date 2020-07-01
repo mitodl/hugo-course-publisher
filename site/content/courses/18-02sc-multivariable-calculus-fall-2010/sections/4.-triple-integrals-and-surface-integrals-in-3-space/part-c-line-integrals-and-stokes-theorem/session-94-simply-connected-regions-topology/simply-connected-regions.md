@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 282834cfcbae3ef5298abbcb1feb1e51
 inline_embed_id: 45871870simplyconnectedregions6217756
+order_index: 2981
 parent_uid: 9da45f785868f3aefcb2c3ec1ad5293e
 related_resources_text: ''
 short_url: simply-connected-regions

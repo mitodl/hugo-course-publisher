@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: f3e8a20131556f8cdaf266cc906e0f80
 inline_embed_id: '60040607clip3:themeanvaluetheoremandestimation56110058'
+order_index: 2186
 parent_uid: 40dfd7f7252455d1041a5ecfb183cd9f
 related_resources_text: ''
 short_url: clip-3-the-mean-value-theorem-and-estimation

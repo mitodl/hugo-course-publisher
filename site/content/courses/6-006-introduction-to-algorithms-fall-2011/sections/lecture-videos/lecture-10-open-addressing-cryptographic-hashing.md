@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 94110602bbab893a2dcb87a36efb7f05
 inline_embed_id: '27509256lecture10:openaddressing,cryptographichashing36027134'
+order_index: 146
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-10-open-addressing-cryptographic-hashing

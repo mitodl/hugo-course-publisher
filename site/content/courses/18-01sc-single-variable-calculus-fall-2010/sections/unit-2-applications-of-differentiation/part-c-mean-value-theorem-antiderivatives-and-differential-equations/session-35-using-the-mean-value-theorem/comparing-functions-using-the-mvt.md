@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: d02a2c8c71018384021acdb1c023802f
 inline_embed_id: 98810764comparingfunctionsusingthemvt73925196
+order_index: 1584
 parent_uid: 673ff3f8ec331bce1196314f7e83c11b
 related_resources_text: ''
 short_url: comparing-functions-using-the-mvt

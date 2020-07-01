@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: d9fd43de9873b0b3501380a0f59a3fa2
 inline_embed_id: 4146036regionsofintegration31869937
+order_index: 1480
 parent_uid: 3ad461149d5e6097256336b54cf159d4
 related_resources_text: ''
 short_url: regions-of-integration

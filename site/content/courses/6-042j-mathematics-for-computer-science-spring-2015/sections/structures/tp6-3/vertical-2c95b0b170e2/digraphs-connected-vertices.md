@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: faf8897deb54ef5157f8f5824726956a
 inline_embed_id: 67169724digraphsconnectedvertices86286772
+order_index: 838
 parent_uid: 2827e6c9e6883174fa8f3cbf0a54d29b
 related_resources_text: ''
 short_url: digraphs-connected-vertices

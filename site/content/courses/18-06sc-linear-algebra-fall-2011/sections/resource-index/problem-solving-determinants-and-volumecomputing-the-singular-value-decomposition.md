@@ -59,6 +59,7 @@ embedded_media:
     uid: 69121507d7ad26da8425d131e86e42f1
 inline_embed_id: >-
   46037091problemsolvingdeterminantsandvolumecomputingthesingularvaluedecomposition73214397
+order_index: 1622
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: >-

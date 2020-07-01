@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 73e83e068d6f29bb29980b2d9af838ec
 inline_embed_id: 90531714day3-andrea'strailertake244145166
+order_index: 1150
 parent_uid: 1d079dd5c0b4174a4773f2520a5e0743
 related_resources_text: ''
 short_url: day-3-andreas-trailer-take-2

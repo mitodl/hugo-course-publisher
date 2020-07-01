@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: d2d0c3fbece7c44420731a5bde1172a9
 inline_embed_id: 88479703thefourfundamentalsubspaces31945320
+order_index: 294
 parent_uid: 0050fe07f47ab375ac0f3abe492f8ae1
 related_resources_text: ''
 short_url: the-four-fundamental-subspaces

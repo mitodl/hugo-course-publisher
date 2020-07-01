@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 79a7bbe273686a87e6e35c30c6999fef
 inline_embed_id: '69668411clip:simplyconnectedregions;topology95608368'
+order_index: 2975
 parent_uid: 9da45f785868f3aefcb2c3ec1ad5293e
 related_resources_text: ''
 short_url: clip-simply-connected-regions-topology

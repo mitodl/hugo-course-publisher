@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: dbb93ba6e0e9e5ada479490ed20d9955
 inline_embed_id: '50358744lecture5:search:optimal,branchandbound,a*52762460'
+order_index: 59
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
 short_url: lecture-5-search-optimal-branch-and-bound-a

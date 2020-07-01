@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 1631b81543d52a2b00ad683ba0948f7f
 inline_embed_id: 66389551clickercompetitions15795791
+order_index: 51
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
 related_resources_text: ''
 short_url: clicker-competitions

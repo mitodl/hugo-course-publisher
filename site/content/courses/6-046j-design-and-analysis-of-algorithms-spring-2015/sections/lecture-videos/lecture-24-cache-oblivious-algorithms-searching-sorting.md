@@ -59,6 +59,7 @@ embedded_media:
     type: Transcript
     uid: 2dae1b0ccc2d0a64583d6f82538decf7
 inline_embed_id: '10178267lecture24:cache-obliviousalgorithms:searching&sorting55611357'
+order_index: 337
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-24-cache-oblivious-algorithms-searching-sorting

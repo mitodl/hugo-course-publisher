@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 7ea718addbe9b57c7c3dfefefad05127
 inline_embed_id: 5132181theconsultationsbegin98287886
+order_index: 318
 parent_uid: 3da88bd7fc04b288622711604ae6a159
 related_resources_text: ''
 short_url: copy2_of_day-2-part-1

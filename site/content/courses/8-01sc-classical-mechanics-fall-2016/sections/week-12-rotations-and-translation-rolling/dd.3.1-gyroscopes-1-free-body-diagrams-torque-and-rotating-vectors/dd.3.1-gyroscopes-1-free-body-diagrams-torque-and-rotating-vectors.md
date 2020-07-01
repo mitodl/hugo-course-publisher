@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: f1ec0da44d47ce67dc260455692f0636
 inline_embed_id: 27602595dd.3.1gyroscopes1freebodydiagramstorqueandrotatingvectors71250301
+order_index: 2415
 parent_uid: d1c38e530c20d699f2e83e7f0242c713
 related_resources_text: ''
 short_url: dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors

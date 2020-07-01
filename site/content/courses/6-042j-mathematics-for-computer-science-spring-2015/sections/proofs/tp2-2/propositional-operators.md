@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 1f376e10741eaa840403ae83a6a18c32
 inline_embed_id: 37494200propositionaloperators77321154
+order_index: 322
 parent_uid: 8de160a9e7299f7fec8a58aef5106eef
 related_resources_text: ''
 short_url: propositional-operators

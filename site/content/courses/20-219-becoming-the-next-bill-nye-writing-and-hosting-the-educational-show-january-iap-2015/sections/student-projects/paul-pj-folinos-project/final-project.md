@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: f506b26677bd9ddfac60257af37830a0
 inline_embed_id: 61425411finalproject86951546
+order_index: 1222
 parent_uid: 265dbc3150c1a4e14686f6c614415b05
 related_resources_text: ''
 short_url: final-project

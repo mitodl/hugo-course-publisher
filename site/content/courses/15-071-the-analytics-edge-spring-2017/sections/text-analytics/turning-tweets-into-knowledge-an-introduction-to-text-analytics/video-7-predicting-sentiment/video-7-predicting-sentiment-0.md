@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 5b0f03a926c37d0b1b0954f47dd3252e
 inline_embed_id: 48305729video7predictingsentiment94947110
+order_index: 1109
 parent_uid: 6faa3dc62c17bf81844bb5d994e997d9
 related_resources_text: ''
 short_url: video-7-predicting-sentiment-0

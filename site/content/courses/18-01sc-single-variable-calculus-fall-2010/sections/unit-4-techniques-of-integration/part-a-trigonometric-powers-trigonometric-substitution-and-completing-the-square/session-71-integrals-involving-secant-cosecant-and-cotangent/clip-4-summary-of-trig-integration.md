@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: e7b6bdec7a7ca37d34460ffecfc41743
 inline_embed_id: '27875935clip4:summaryoftrigintegration52538174'
+order_index: 2970
 parent_uid: 369ea1a042d34dea55d07a2b967f59af
 related_resources_text: ''
 short_url: clip-4-summary-of-trig-integration

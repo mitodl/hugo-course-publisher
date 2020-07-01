@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: a9fcdfbc9d8a0ad8404e278ca2c7c12f
 inline_embed_id: '81513969clip1:descriptionofthemeanvaluetheorem84812937'
+order_index: 1546
 parent_uid: 7a88ceaa20502ee6fbc4c0ceeb51122e
 related_resources_text: ''
 short_url: clip-1-description-of-the-mean-value-theorem

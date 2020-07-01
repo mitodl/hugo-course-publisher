@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 9245650b103335c96e98df1b7fa99c66
 inline_embed_id: 43841962nondegeneracyofboundstatesin1d.realsolutions33629386
+order_index: 607
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: nondegeneracy-of-bound-states-in-1d.-real-solutions

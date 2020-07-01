@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 24d637b65c931a49c3417e24796b2885
 inline_embed_id: '85030642lecture13:breadth-firstsearch(bfs)42156202'
+order_index: 176
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-13-breadth-first-search-bfs

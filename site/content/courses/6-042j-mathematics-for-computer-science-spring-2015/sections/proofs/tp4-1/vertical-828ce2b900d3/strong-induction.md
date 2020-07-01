@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: bd07d1dc0bee08a5af9b5953e8063be4
 inline_embed_id: 1661421stronginduction58104222
+order_index: 499
 parent_uid: e659ea46e05da0134891d46568748b97
 related_resources_text: ''
 short_url: strong-induction

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 090d8410108417a6945e928def22e0ae
 inline_embed_id: '82130940clip1:alternatedefinitionofnaturallog86031349'
+order_index: 2313
 parent_uid: 435c91b08acc9a35fc0748ce22a11bfe
 related_resources_text: ''
 short_url: clip-1-alternate-definition-of-natural-log

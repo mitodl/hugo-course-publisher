@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: e5fbf915de9b8db8a706d307b1175db3
 inline_embed_id: '43494080clip:simplyconnectedregionsandconservativefields48330595'
+order_index: 2252
 parent_uid: 7e63a591cff7d483506d4b94bb0df706
 related_resources_text: ''
 short_url: clip-simply-connected-regions-and-conservative-fields

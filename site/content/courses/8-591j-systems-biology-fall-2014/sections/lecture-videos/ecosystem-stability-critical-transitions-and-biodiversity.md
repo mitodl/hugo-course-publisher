@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 379071c92884cdff8989ac45d5f8811f
 inline_embed_id: '17850948ecosystemstability,criticaltransitions,andbiodiversity42531279'
+order_index: 224
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: ecosystem-stability-critical-transitions-and-biodiversity

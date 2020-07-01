@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: c18f048c6ca9cfe0cf42a617002e683e
 inline_embed_id: 4025462partiofcapitalbudgeting46744584
+order_index: 256
 parent_uid: 329f045ace4b7681d74390d050de0c19
 related_resources_text: ''
 short_url: part-iii-of-the-capm-and-apt

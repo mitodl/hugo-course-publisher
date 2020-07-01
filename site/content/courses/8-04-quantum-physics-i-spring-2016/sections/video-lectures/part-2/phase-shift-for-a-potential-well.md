@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 4d2f8a1452187b7ad2547e23030c85ff
 inline_embed_id: 75591588phaseshiftforapotentialwell31733276
+order_index: 733
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: phase-shift-for-a-potential-well

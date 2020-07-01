@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: a993835e21206fc2b3b0d6791dd20e43
 inline_embed_id: '14004214clip2:separationofvariables95829327'
+order_index: 1795
 parent_uid: 282fb51987e0067ffc0e5d6f637739cf
 related_resources_text: ''
 short_url: clip-2-separation-of-variables

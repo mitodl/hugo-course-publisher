@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 96205f8685d85a98879b259e5d08e080
 inline_embed_id: 19216008expectationvaluesonstationarystates56767854
+order_index: 519
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: expectation-values-on-stationary-states

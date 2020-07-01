@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 9abd89722ccd46cb65c2015e682ad998
 inline_embed_id: '31848433clip:gradientfields13079702'
+order_index: 1920
 parent_uid: 2e446b9021aa10b27a0d206567272851
 related_resources_text: ''
 short_url: clip-gradient-fields

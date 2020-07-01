@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 304fb354d98027d30d49cc9a8305b060
 inline_embed_id: 14181722lecture10understandingprogramefficiencypart120348754
+order_index: 96
 parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
 short_url: lecture-10-understanding-program-efficiency-part-1

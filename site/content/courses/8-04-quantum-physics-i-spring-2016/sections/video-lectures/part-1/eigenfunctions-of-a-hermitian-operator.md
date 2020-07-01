@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 00572a5702c2cfb55b244742613a6efb
 inline_embed_id: 15809925eigenfunctionsofahermitianoperator7984396
+order_index: 443
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: eigenfunctions-of-a-hermitian-operator

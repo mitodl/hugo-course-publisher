@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: bd252b415f7662573f538cbd080530fe
 inline_embed_id: '90157615clip4:derivativeofsin(x),geometricproof95156650'
+order_index: 415
 parent_uid: efc851d816c458170838c60287c6388d
 related_resources_text: ''
 short_url: clip-4-derivative-of-sin-x-geometric-proof

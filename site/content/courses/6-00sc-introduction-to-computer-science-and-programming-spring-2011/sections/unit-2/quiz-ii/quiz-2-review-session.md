@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 61136fa46fe52271d5b0fc99d0b159d9
 inline_embed_id: 63275738quiz2reviewsession34049792
+order_index: 399
 parent_uid: aebaeabd98214fe686959cd2099b8391
 related_resources_text: ''
 short_url: quiz-2-review-session

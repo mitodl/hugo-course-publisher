@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: a7924556f34bcce837f19de9f697260e
 inline_embed_id: 19977051connectivity1897679
+order_index: 981
 parent_uid: 8d160b87cb8ba14435decca9ffc6016e
 related_resources_text: ''
 short_url: connectivity

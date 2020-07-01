@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 35ba1fc308b6a95a178590f3a40fd560
 inline_embed_id: '239837clip2:l''hospital''srule,version154256013'
+order_index: 3702
 parent_uid: c9916c2b11369b0f6489e2805c8cd4c5
 related_resources_text: ''
 short_url: clip-2-lhospitals-rule-version-1

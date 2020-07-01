@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 3d1c9e236d7e1532b3bae8e8f8bec9cb
 inline_embed_id: '78705095recitation6:greedyalgorithms:moreexamples28969178'
+order_index: 400
 parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
 short_url: recitation-6-greedy-algorithms-more-examples

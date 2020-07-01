@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: fa21667b7cf7e73fdd51a5911f5caf38
 inline_embed_id: 55636800biggernumbergame74503331
+order_index: 1482
 parent_uid: 5d000a4e2a13daae80b1331e90d2f442
 related_resources_text: ''
 short_url: bigger-number-game

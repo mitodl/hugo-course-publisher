@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: bdd0057b6280dcaf4c123320e30e0635
 inline_embed_id: 64395214parametricarclength25540385
+order_index: 3411
 parent_uid: b58d1c03b5e72b4fc2ef553cda5d94b7
 related_resources_text: ''
 short_url: parametric-arc-length-1

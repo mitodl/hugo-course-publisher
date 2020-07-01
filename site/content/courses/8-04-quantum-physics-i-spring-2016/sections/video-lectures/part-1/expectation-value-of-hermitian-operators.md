@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 2f790fe0fa1068dd46d6404a3b48de97
 inline_embed_id: 74978146expectationvalueofhermitianoperators78636349
+order_index: 432
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: expectation-value-of-hermitian-operators

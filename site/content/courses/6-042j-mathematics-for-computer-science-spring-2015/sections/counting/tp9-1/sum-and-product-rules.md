@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 4def6ae9ca9de2d917267e1ee84ff580
 inline_embed_id: 32892447sumandproductrules54926246
+order_index: 1240
 parent_uid: 71ca527263f24aa7d717ef63328e47ef
 related_resources_text: ''
 short_url: sum-and-product-rules

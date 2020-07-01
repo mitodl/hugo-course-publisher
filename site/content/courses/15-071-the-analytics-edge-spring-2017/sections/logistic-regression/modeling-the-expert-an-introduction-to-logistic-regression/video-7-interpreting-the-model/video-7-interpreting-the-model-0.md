@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: ebe0e4072d3c736a5d91edb6e5552399
 inline_embed_id: 77999570video7interpretingthemodel9465308
+order_index: 598
 parent_uid: 1e61720ecc150a7b0c5eb3fe60c5ffa1
 related_resources_text: ''
 short_url: video-7-interpreting-the-model-0

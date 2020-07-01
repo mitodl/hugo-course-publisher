@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: f8dc59e6e7f08d1cb73623d59c227c4a
 inline_embed_id: 46036211spanningtrees79979764
+order_index: 1036
 parent_uid: 40d3294715d82fe5f91a1450343afbca
 related_resources_text: ''
 short_url: spanning-trees

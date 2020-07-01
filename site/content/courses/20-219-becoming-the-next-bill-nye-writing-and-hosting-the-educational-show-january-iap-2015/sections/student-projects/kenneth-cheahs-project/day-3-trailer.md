@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: b05dc819a7c3b167798c480118e67b82
 inline_embed_id: 12069887day3trailer5149592
+order_index: 1053
 parent_uid: a8052e8691edd84e9df2c28f872ebec6
 related_resources_text: ''
 short_url: day-3-trailer

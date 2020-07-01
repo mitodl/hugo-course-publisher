@@ -63,6 +63,7 @@ embedded_media:
     type: Transcript
     uid: fb56c0e194e41eda6dcc7bdd6357def7
 inline_embed_id: 96806612spotlightingcontemporarychemistry70526210
+order_index: 30
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
 related_resources_text: ''
 short_url: spotlighting-contemporary-chemistry

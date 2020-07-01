@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 444775662152b0f660e49e9e5875e452
 inline_embed_id: '11100204lecture1:introductionandproofs59158979'
+order_index: 27
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-1-introduction-and-proofs

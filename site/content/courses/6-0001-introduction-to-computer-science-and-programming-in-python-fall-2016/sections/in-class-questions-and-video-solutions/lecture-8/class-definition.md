@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 72bf832aa0cfa55858820754cbd117cd
 inline_embed_id: 48341112classdefinition93050267
+order_index: 349
 parent_uid: ffd17f7bb2323aab9bf41b8697c77ccd
 related_resources_text: ''
 short_url: class-definition

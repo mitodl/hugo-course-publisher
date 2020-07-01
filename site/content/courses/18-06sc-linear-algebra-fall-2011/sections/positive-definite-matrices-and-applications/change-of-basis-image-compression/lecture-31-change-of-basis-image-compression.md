@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 7bfd510fd2b20e5db0a766d144f6e117
 inline_embed_id: '39126816lecture31:changeofbasis;imagecompression5997844'
+order_index: 934
 parent_uid: 7b90bea0f6ce9bfdc750ada6103da88c
 related_resources_text: ''
 short_url: lecture-31-change-of-basis-image-compression

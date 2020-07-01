@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 48d5bf7354f7d673e2444e0a4b6a3dfc
 inline_embed_id: 21100694linearityofexpectation83896910
+order_index: 1575
 parent_uid: 726b3c5f6c9f36776c3fc0f1fc6c579a
 related_resources_text: ''
 short_url: linearity-of-expectation

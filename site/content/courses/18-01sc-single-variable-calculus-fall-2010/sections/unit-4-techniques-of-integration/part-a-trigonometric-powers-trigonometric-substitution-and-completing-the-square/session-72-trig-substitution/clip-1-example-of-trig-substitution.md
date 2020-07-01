@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 8aa0c1e78e82a6c2732ec3dd999ff37f
 inline_embed_id: '17122040clip1:exampleoftrigsubstitution84231719'
+order_index: 2998
 parent_uid: 9894378ce8db90173778fc7a13cad022
 related_resources_text: ''
 short_url: clip-1-example-of-trig-substitution

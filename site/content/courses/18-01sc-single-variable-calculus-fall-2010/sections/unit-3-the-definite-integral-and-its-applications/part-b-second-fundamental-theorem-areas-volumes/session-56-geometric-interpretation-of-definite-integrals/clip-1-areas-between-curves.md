@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 89ac49c0404fac789217f22833a23750
 inline_embed_id: '92126464clip1:areasbetweencurves26813714'
+order_index: 2367
 parent_uid: ab02e80b2f16511d81481be8277cb20d
 related_resources_text: ''
 short_url: clip-1-areas-between-curves

@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 790d08e1554424e39238b421d95cffec
 inline_embed_id: 21698707shellvs.editor15238187
+order_index: 153
 parent_uid: 021d8a0e70c64737bc1f315eea727f84
 related_resources_text: ''
 short_url: shell-vs.-editor

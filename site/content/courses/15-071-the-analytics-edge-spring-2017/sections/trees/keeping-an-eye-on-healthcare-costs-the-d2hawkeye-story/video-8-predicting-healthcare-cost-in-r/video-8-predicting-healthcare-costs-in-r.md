@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: a9f74f7cea24f202e05305f18f1eb172
 inline_embed_id: 23357306video8predictinghealthcarecostsinr28566615
+order_index: 923
 parent_uid: 42af8e9a43f3ab0e231be7ab1d08c0ca
 related_resources_text: ''
 short_url: video-8-predicting-healthcare-costs-in-r

@@ -58,6 +58,7 @@ embedded_media:
     uid: f3b055dd327767d4e9c5f0c8174b52fc
 inline_embed_id: >-
   46469771instructorinterview:inspirationforthecourseandintendedlearningoutcomes64051796
+order_index: 34
 parent_uid: 526193cf30dacdf1c6734faab57d51d7
 related_resources_text: ''
 short_url: instructor-interview-inspiration-for-the-course-and-intended-learning-outcomes

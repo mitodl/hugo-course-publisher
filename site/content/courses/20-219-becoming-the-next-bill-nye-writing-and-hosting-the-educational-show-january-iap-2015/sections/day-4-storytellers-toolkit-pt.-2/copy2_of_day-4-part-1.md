@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: f2e26a5a3725a009ff08c9f046642793
 inline_embed_id: 87272499examplesofanimationfromscienceoutloud32543454
+order_index: 480
 parent_uid: 60a6ea961026802d98a9351ce3b38557
 related_resources_text: ''
 short_url: copy2_of_day-4-part-1

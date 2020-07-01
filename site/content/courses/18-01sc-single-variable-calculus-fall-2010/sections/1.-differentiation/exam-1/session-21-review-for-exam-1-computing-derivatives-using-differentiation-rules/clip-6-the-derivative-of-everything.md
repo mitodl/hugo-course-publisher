@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 2a96f4f1094cd95c992501ba72cca26c
 inline_embed_id: '7884919clip6:thederivativeofeverything?59607544'
+order_index: 988
 parent_uid: 0bc7f9cd2fd4599019832c45df40e073
 related_resources_text: ''
 short_url: clip-6-the-derivative-of-everything

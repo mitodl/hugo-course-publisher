@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: df5250e6dd2262bcd88a11d4fa167631
 inline_embed_id: 2981970proofbycontradiction45340199
+order_index: 252
 parent_uid: 604f8e0726803e778aac7885f0f6eaf0
 related_resources_text: ''
 short_url: proof-by-contradiction

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 234303f42b37c19906af0a1478af8cea
 inline_embed_id: '15009637clip1:powerseriesexpansionoftheerrorfunction64283264'
+order_index: 4411
 parent_uid: 7aaff01423b922b346afdcd6c0328e83
 related_resources_text: ''
 short_url: clip-1-power-series-expansion-of-the-error-function

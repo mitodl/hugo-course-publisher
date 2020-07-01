@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 479b858a97018d4e3506fcb90b7d4139
 inline_embed_id: 19029181geometricsums34226518
+order_index: 1142
 parent_uid: b88455938952339a92de012310e338f1
 related_resources_text: ''
 short_url: geometric-sums

@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 5e639698bc965f0a476157c56a2d57c3
 inline_embed_id: 39058409lawoftotalprobability10363843
+order_index: 1412
 parent_uid: d44952475cd843d935c5b75d0b2f9baa
 related_resources_text: ''
 short_url: law-of-total-probability

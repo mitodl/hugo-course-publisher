@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 32cb80aba3c87e1727c2cc36b5eed60c
 inline_embed_id: '63937776clip2:themeanvaluetheoremandinequalities22052468'
+order_index: 1604
 parent_uid: 673ff3f8ec331bce1196314f7e83c11b
 related_resources_text: ''
 short_url: clip-2-the-mean-value-theorem-and-inequalities

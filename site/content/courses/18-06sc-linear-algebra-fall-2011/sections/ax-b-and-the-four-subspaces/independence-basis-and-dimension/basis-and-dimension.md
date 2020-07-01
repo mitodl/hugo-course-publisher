@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: bd7358a0190295068a7da87bf51bcee0
 inline_embed_id: 86670939basisanddimension6419100
+order_index: 279
 parent_uid: f4986e8213a7cf7cebaaaba5fa7882f0
 related_resources_text: ''
 short_url: basis-and-dimension

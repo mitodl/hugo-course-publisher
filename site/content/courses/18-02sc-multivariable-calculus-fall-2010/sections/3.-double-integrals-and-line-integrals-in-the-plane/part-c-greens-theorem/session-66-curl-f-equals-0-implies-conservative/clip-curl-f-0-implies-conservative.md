@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: ec94cb5624dab7fccf245bb30f4cc333
 inline_embed_id: '88101509clip:curl(f)=0impliesconservative73845655'
+order_index: 2055
 parent_uid: bf983f8d7c6f881d2fbd5426ef1eaf4e
 related_resources_text: ''
 short_url: clip-curl-f-0-implies-conservative

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 3f48faf87c58672ce797ae8016174329
 inline_embed_id: 70265658introtoproofspart168812276
+order_index: 226
 parent_uid: ccbdec3d0e06f1862adab772b269ba99
 related_resources_text: ''
 short_url: intro-to-proofs-part-1

@@ -57,6 +57,7 @@ embedded_media:
     type: Thumbnail
     uid: a657f539d0339a0ccce21dd66a13729a
 inline_embed_id: 89253321findinguandv'whenintegratingbyparts42654968
+order_index: 3228
 parent_uid: b196b3d2413fa8015d43695883cc671a
 related_resources_text: ''
 short_url: finding-u-and-v-when-integrating-by-parts

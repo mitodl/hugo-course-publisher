@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 944f5c3bd107aa998ad763060c8e01e8
 inline_embed_id: '56603675clip:equationsofplanes41638034'
+order_index: 248
 parent_uid: 5efcd66b0cb6bf6c41565b1820985c00
 related_resources_text: ''
 short_url: clip-equations-of-planes

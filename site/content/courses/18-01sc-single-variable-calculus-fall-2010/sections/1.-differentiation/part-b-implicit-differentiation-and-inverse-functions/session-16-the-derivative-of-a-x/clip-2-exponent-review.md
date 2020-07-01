@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 2cf3c990f67d97ec8eb8ef0daa339637
 inline_embed_id: '24510359clip2:exponentreview25214613'
+order_index: 730
 parent_uid: a08812a629e76732837d8a39d48fc8fa
 related_resources_text: ''
 short_url: clip-2-exponent-review

@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 22901ce61b862eb87f6dffc5e8fa3c35
 inline_embed_id: '26159039day1pitch:thescienceofpoachinganeggpitch60929127'
+order_index: 1192
 parent_uid: 265dbc3150c1a4e14686f6c614415b05
 related_resources_text: ''
 short_url: day-1-pitch-the-science-of-poaching-an-egg-pitch-1

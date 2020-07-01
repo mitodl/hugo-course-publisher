@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 22ee3ab5d7e14d98262cdd9b0cfa989d
 inline_embed_id: '10129889clip2:integraloftangent98979549'
+order_index: 2950
 parent_uid: 369ea1a042d34dea55d07a2b967f59af
 related_resources_text: ''
 short_url: clip-2-integral-of-tangent

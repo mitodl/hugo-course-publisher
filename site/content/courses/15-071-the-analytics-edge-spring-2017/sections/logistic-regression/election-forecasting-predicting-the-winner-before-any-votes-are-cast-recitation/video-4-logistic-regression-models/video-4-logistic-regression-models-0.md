@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: c2ebe62ed82c3bd62b22cc3fc5bba389
 inline_embed_id: 50448734video4logisticregressionmodels99889863
+order_index: 729
 parent_uid: 20d828736498be17a983f7473b292a08
 related_resources_text: ''
 short_url: video-4-logistic-regression-models-0

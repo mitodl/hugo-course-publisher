@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 807499ecd13c4fc0ff6ab5511fee0928
 inline_embed_id: '35215454green''stheorem:areaunderanarch95543944'
+order_index: 2101
 parent_uid: fce780d8a145fae3fe0d349fbce595cf
 related_resources_text: ''
 short_url: greens-theorem-area-under-an-arch

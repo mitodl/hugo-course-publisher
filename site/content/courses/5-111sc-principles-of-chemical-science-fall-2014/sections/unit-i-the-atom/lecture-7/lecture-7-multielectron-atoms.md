@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 50e1021fb4bc37c1ef453fde0907dee5
 inline_embed_id: 31407403lecture7multielectronatoms98972484
+order_index: 198
 parent_uid: 3cbec0b6342c45e219dbb316c53f0274
 related_resources_text: ''
 short_url: lecture-7-multielectron-atoms

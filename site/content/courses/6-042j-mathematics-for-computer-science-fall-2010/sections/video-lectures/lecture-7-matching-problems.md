@@ -67,6 +67,7 @@ embedded_media:
     type: Transcript
     uid: 1bd7e5ab6de5028b39483255687edd06
 inline_embed_id: '65084928lecture7:matchingproblems98763273'
+order_index: 88
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: >-
   <p>The Mating Algorithm (<a target="_blank"

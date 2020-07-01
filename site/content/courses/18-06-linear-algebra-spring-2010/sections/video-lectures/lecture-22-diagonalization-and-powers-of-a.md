@@ -74,6 +74,7 @@ embedded_media:
     type: Transcript
     uid: b176064b42aca244d7a1031fc298733a
 inline_embed_id: '50722216lecture22:diagonalizationandpowersofa80031451'
+order_index: 331
 parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"

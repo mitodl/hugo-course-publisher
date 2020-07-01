@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 197ba48c5287b6b42a2cfbdc2c45c86f
 inline_embed_id: '28583007clip2:limitof(1-cos(x))/x21238734'
+order_index: 395
 parent_uid: efc851d816c458170838c60287c6388d
 related_resources_text: ''
 short_url: clip-2-limit-of-1-cos-x-x

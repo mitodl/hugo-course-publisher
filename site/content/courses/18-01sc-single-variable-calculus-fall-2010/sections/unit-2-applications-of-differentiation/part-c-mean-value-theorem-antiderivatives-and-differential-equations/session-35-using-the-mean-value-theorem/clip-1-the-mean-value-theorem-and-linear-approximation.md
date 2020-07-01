@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 270dfa80cb23376b51705decbac42654
 inline_embed_id: '89609591clip1:themeanvaluetheoremandlinearapproximation80464664'
+order_index: 1614
 parent_uid: 673ff3f8ec331bce1196314f7e83c11b
 related_resources_text: ''
 short_url: clip-1-the-mean-value-theorem-and-linear-approximation

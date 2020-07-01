@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: dc8dad9211f84ea03ec339ad8c025760
 inline_embed_id: '60559131lecture15:single-sourceshortestpathsproblem52681770'
+order_index: 196
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-15-single-source-shortest-paths-problem

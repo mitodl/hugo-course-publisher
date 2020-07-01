@@ -91,6 +91,7 @@ embedded_media:
     type: Transcript
     uid: 9822dced8540dd02fa04b809326147e9
 inline_embed_id: '499508114:introductiontoobject-orientedprogramming1897850'
+order_index: 201
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

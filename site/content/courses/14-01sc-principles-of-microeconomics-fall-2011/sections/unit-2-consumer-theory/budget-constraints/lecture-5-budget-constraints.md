@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: bb7bb4efad1dc57c55a752af5ee368b9
 inline_embed_id: 63052926lecture5budgetconstraints8049769
+order_index: 105
 parent_uid: 0c0a7957a70dea1c20bc11996dd1090c
 related_resources_text: ''
 short_url: lecture-5-budget-constraints

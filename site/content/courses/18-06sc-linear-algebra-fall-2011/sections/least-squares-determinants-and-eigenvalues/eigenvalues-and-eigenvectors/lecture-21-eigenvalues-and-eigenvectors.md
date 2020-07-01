@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: f6e359c5e8c877f54249f111f0096331
 inline_embed_id: '13350392lecture21:eigenvaluesandeigenvectors53807290'
+order_index: 596
 parent_uid: 3d8f60a80fef5e0fbd7a13ad5eb457f7
 related_resources_text: ''
 short_url: lecture-21-eigenvalues-and-eigenvectors

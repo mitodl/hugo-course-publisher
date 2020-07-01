@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 77813a704e4afd5977cd941912582a28
 inline_embed_id: 98152532day1pitch332790
+order_index: 1140
 parent_uid: 1d079dd5c0b4174a4773f2520a5e0743
 related_resources_text: ''
 short_url: day-1-pitch

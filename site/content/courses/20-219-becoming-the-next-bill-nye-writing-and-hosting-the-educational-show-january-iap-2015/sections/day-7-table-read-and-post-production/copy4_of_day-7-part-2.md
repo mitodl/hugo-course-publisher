@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 1c179a4a0401efe55069a7cf377a62e5
 inline_embed_id: '1434579questionsandwrapup(2:01:50)31008951'
+order_index: 709
 parent_uid: d8c0d81b2a38c0d7c4ff4a8cfacacb2d
 related_resources_text: ''
 short_url: copy4_of_day-7-part-2

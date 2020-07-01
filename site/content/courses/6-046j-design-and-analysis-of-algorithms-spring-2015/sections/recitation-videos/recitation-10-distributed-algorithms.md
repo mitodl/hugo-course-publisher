@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: b6049b9c98fe05895b45d3fe5cd3ad15
 inline_embed_id: '69272779recitation10:distributedalgorithms95860865'
+order_index: 440
 parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
 short_url: recitation-10-distributed-algorithms

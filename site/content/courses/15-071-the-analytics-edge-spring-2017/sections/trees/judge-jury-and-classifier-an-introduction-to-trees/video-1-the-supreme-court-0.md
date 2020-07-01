@@ -51,6 +51,7 @@ embedded_media:
     type: Transcript
     uid: 41a7d898f5eae63c9349887c043e5bfa
 inline_embed_id: 66108291video1thesupremecourt1505165
+order_index: 764
 parent_uid: 11f9b44dc2960689414b8c313764a18d
 related_resources_text: ''
 short_url: video-1-the-supreme-court-0

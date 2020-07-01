@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 9bce8a6a61ee65b8d8a5d92e5bcb09d2
 inline_embed_id: 40883988moreonsuperposition.generalstateofaphotonandspinstates62951513
+order_index: 78
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: more-on-superposition.-general-state-of-a-photon-and-spin-states

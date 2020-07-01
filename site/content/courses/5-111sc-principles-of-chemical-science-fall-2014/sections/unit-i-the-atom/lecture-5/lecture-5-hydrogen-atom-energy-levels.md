@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 0b48821effd304bfdf8574ea185178b4
 inline_embed_id: 66085186lecture5hydrogenatomenergylevels1631193
+order_index: 174
 parent_uid: 19bd276c98fb61bc72af22c0567e02a2
 related_resources_text: ''
 short_url: lecture-5-hydrogen-atom-energy-levels

@@ -22,7 +22,9 @@ course_info:
     - 'Prof. MIT GIS Services Group '
   departments:
     - Supplemental Resources
-  course_features: []
+  course_features:
+    - feature: Assignments
+      subfeature: programming (no examples)
   topics:
     Social Science:
       Geography: []

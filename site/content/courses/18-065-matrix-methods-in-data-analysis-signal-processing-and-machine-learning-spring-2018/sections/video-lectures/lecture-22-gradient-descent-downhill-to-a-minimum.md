@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 725ebf994bd5afd4d5d9f4400da69c82
 inline_embed_id: 65834604lecture22gradientdescentdownhilltoaminimum40843383
+order_index: 224
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-22-gradient-descent-downhill-to-a-minimum

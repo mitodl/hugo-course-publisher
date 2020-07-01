@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 6283e712250403c82cf4c35b4fb2e624
 inline_embed_id: 66204429lecture1whatiscomputation72235588
+order_index: 6
 parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
 short_url: lecture-1-what-is-computation

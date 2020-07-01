@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 34767784e73bee1228ce4a071f1ee3f6
 inline_embed_id: 67217749lecture26healthcareeconomics8958768
+order_index: 531
 parent_uid: 41da8f547f2ad774baa0e7c50d7cf9e6
 related_resources_text: ''
 short_url: lecture-26-healthcare-economics

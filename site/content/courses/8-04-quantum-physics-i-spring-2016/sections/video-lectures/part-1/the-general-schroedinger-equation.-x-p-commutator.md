@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 5d3ad58f66e90bf8c299e8397ae6bd28
 inline_embed_id: 61990129thegeneralschrdingerequation.xpcommutator73872897
+order_index: 245
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: the-general-schroedinger-equation.-x-p-commutator

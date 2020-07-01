@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: b531e23598459d91ccd4e8ae22d02523
 inline_embed_id: 94135121simultaneouseigenstatesandquantizationofangularmomentum68741289
+order_index: 1053
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: simultaneous-eigenstates-and-quantization-of-angular-momentum

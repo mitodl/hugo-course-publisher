@@ -85,6 +85,7 @@ embedded_media:
     type: Transcript
     uid: d56dcd515282780c36a1daa11e4a6df6
 inline_embed_id: '38265417lecture26:complexmatrices;fastfouriertransform5485792'
+order_index: 396
 parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"

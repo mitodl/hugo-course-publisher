@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 1fe169673490403f397655880acb764e
 inline_embed_id: '27111978clip1:exampleofestimation25284290'
+order_index: 2119
 parent_uid: bd925f6f8a78fde6be8c709ded2799e9
 related_resources_text: ''
 short_url: clip-1-example-of-estimation

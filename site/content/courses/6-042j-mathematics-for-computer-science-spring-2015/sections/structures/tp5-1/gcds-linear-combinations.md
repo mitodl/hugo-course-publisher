@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 8c34ba568a03a062d71622bddfcb0ac8
 inline_embed_id: 20869853gcdsamplinearcombinations23049868
+order_index: 676
 parent_uid: 405693053755e5d6fb1b1e2592fa311e
 related_resources_text: ''
 short_url: gcds-linear-combinations

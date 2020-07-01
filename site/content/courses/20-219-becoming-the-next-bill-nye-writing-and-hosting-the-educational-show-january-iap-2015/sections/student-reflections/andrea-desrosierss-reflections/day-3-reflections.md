@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 20b6c828f199fb5438def0f7a62d1263
 inline_embed_id: 78544740day3reflections83012416
+order_index: 1452
 parent_uid: 0a26ad074929732e5270b0bfe8bbced9
 related_resources_text: ''
 short_url: day-3-reflections

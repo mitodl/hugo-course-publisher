@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: c1958f45eec73d0573c1073b7e84b92b
 inline_embed_id: '46471213lecture21:cryptography:hashfunctions31638909'
+order_index: 307
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-21-cryptography-hash-functions

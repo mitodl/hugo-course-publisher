@@ -76,6 +76,7 @@ embedded_media:
     type: Transcript
     uid: 927438e45f5053e5119ae8a9d77fa3e7
 inline_embed_id: '80305480lecture20:secondfundamentaltheorem71483814'
+order_index: 335
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

@@ -77,6 +77,7 @@ embedded_media:
     type: Transcript
     uid: 81d0b0bb173ac0bf8c24201a7015c56c
 inline_embed_id: '35286596lecture32:polarcoordinates1547601'
+order_index: 478
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

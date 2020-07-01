@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: f0c05704fd6dc34aedb2ef9cb0e168f0
 inline_embed_id: '37251591lecture6:randomization:matrixmultiply,quicksort90602828'
+order_index: 157
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-6-randomization-matrix-multiply-quicksort

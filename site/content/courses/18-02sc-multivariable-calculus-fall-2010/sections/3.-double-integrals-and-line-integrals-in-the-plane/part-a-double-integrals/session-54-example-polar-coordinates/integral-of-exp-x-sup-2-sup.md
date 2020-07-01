@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 70f3571ed04bfb922bf7cd95d20deb1e
 inline_embed_id: 52059329integralofexp(-x<sup>2</sup>)36704280
+order_index: 1666
 parent_uid: 4298c9f52873d0fa0eca900cbdf04cdc
 related_resources_text: ''
 short_url: integral-of-exp-x-sup-2-sup

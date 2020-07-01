@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 3d2f150eb1b412a8bcdd44277e9c58b3
 inline_embed_id: '49276057clip3:questionsandanswers27005206'
+order_index: 405
 parent_uid: efc851d816c458170838c60287c6388d
 related_resources_text: ''
 short_url: clip-3-questions-and-answers

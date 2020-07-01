@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 506b640f664b1b027c1ca77fd3de4b80
 inline_embed_id: '94420061clip:introduction55672506'
+order_index: 3087
 parent_uid: 61a1ca32dff964776203bdd2b30e1875
 related_resources_text: ''
 short_url: clip-introduction

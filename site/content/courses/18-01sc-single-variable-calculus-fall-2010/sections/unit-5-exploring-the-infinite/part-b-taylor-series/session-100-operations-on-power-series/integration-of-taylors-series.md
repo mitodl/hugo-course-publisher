@@ -57,6 +57,7 @@ embedded_media:
     type: Thumbnail
     uid: c696702e4a34c994aa8d2e154e8b42e9
 inline_embed_id: 45950012integrationoftaylor'sseries37303590
+order_index: 4421
 parent_uid: 7aaff01423b922b346afdcd6c0328e83
 related_resources_text: ''
 short_url: integration-of-taylors-series

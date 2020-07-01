@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 6627f86189e92568bff838ede2545285
 inline_embed_id: '62012327clip:proofoflagrangemultipliers60813985'
+order_index: 1249
 parent_uid: 211a985ba1cd42a3ab78a18bc42ff996
 related_resources_text: ''
 short_url: clip-proof-of-lagrange-multipliers

@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 047feaa8d95d0350ce3af8a8f8d95530
 inline_embed_id: 46002325lecture20cramersruleinversematrixandvolume45873118
+order_index: 1405
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: lecture-20-cramers-rule-inverse-matrix-and-volume

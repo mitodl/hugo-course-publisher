@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: a2667c75d506494b8d5a25e59d043c1e
 inline_embed_id: '36109009studentinterview:nathanandandrea25431035'
+order_index: 939
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
 related_resources_text: ''
 short_url: student-interview-nathan-and-andrea

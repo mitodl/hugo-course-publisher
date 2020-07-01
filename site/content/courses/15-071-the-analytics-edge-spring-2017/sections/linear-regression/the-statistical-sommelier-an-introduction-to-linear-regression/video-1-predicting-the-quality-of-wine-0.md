@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 9072e5f1bb6ece068ed565587bde5324
 inline_embed_id: 35918736video1predictingthequalityofwine63033818
+order_index: 287
 parent_uid: 4495fb4839343c3323b22ef2104af559
 related_resources_text: ''
 short_url: video-1-predicting-the-quality-of-wine-0

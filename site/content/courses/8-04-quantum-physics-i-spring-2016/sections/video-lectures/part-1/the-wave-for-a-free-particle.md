@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: f75b4547f752b60c4d0cb6abcc7ddeeb
 inline_embed_id: 23952712thewaveforafreeparticle2442737
+order_index: 212
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: the-wave-for-a-free-particle

@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 551d28edb8de1e282a38b1d49eed14c8
 inline_embed_id: 68754164integralmethod96280001
+order_index: 1168
 parent_uid: 5ad4adabcbfd96519c29e15788beb6c4
 related_resources_text: ''
 short_url: integral-method

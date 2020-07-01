@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: a3331f03df3ac7079b255673f5386920
 inline_embed_id: 67499248video6aheatmapontheunitedstates10526483
+order_index: 1673
 parent_uid: 50eab6cd164e035d9470dc118924f686
 related_resources_text: ''
 short_url: video-6-a-heatmap-on-the-united-states-0

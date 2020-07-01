@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 9c2537816c08f312bfb2e222f048dca6
 inline_embed_id: '51708265clip1:introductiontopowerseries51639856'
+order_index: 4246
 parent_uid: bcbb45fdbe1b69cc80a82c9f73ca8d5d
 related_resources_text: ''
 short_url: clip-1-introduction-to-power-series

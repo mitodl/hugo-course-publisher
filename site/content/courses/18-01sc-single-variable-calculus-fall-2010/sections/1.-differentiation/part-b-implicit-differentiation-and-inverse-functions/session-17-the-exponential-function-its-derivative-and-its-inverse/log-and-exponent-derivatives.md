@@ -63,6 +63,7 @@ embedded_media:
     type: Transcript
     uid: f839eeaf5e4c253c294797830adf87ef
 inline_embed_id: 71727859logandexponentderivatives55995719
+order_index: 810
 parent_uid: 625f9141b9dc5a9365acef497e19af09
 related_resources_text: ''
 short_url: log-and-exponent-derivatives

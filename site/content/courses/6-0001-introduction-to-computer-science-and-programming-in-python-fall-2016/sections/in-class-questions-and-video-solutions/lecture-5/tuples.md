@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 282b30963f073b6551a5319d715f07ad
 inline_embed_id: 74783324tuples12234987
+order_index: 277
 parent_uid: 2d1ecaeaf49e8ee7cac3ea3ce9cbe081
 related_resources_text: ''
 short_url: tuples

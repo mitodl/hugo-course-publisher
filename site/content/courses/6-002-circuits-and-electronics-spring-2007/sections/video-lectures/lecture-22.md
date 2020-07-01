@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: a2e19383d530a359acad7fdf880f9050
 inline_embed_id: '75398834lecture22:energyandpower23318920'
+order_index: 393
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture Notes (<a target="_blank" title="Open in a new window."

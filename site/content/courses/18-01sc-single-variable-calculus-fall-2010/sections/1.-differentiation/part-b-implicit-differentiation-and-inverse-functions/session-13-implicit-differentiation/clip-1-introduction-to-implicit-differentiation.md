@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 12fb0f03ad1a207763fd55a2d5287118
 inline_embed_id: '7615141clip1:introductiontoimplicitdifferentiation9549762'
+order_index: 585
 parent_uid: 796ea10c25d27cfaf1a12bb6262c8bff
 related_resources_text: ''
 short_url: clip-1-introduction-to-implicit-differentiation

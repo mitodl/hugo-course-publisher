@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: b4c423b4da9ccc3140bc60b3101c3f52
 inline_embed_id: 51817182implicitdifferentiation29714418
+order_index: 623
 parent_uid: 331d135eb8244bc35069e7f2d86beb59
 related_resources_text: ''
 short_url: implicit-differentiation

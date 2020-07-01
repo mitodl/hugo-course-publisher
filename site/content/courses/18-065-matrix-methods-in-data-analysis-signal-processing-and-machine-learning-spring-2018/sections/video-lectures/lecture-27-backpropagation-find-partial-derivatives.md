@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 48ba78d192ddab76dc8e7667a2200d6d
 inline_embed_id: 67655889lecture27backpropagationtofindderivativeofthelearningfunction9008456
+order_index: 269
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-27-backpropagation-find-partial-derivatives

@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: f72e35d280c83e17b9fae05dd50660b3
 inline_embed_id: 56557613day787260308
+order_index: 1555
 parent_uid: 4c546c9b14d98c4ddcb62fb4649e373c
 related_resources_text: ''
 short_url: day-7-1

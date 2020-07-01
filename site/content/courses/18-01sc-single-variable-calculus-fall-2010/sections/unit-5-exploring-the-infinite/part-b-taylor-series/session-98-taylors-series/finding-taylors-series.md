@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 45bdf3801f4aa3b182f9cf778085ec25
 inline_embed_id: 54103035findingtaylor'sseries37541763
+order_index: 4295
 parent_uid: 30f32e825b1a1974da6c98b8de0aafd3
 related_resources_text: ''
 short_url: finding-taylors-series

@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: f438340a66dda5733ff0a7e0f3ecd5b0
 inline_embed_id: '60574762recitation2:b-trees40159468'
+order_index: 370
 parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
 short_url: recitation-2-b-trees

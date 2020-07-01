@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 2751627c22f5b48bf732f2e69cb35f8e
 inline_embed_id: 93755426video6detectingtumors90391226
+order_index: 1518
 parent_uid: 4345a10d7637ddfb0f091b661423cd4f
 related_resources_text: ''
 short_url: video-6-detecting-tumors-0

@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 8b30ba0fc384a87b1c620a859f6bc032
 inline_embed_id: 55437591scatteredwaveandphaseshift91110275
+order_index: 691
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: scattered-wave-and-phase-shift

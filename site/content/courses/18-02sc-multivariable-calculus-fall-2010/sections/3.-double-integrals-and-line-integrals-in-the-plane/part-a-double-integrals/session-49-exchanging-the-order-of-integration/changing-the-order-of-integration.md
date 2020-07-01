@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: b7f4dcc20f828817bce61eaf75eb0285
 inline_embed_id: 33198786changingtheorderofintegration31485584
+order_index: 1508
 parent_uid: 835ad4243cd25ec6b244f1c7dc764bc4
 related_resources_text: ''
 short_url: changing-the-order-of-integration

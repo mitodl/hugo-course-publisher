@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: b9ea7d7c85e6fb1bcc3ed245de3789eb
 inline_embed_id: 84785388parametrizedlinesandintersections99176082
+order_index: 460
 parent_uid: e53436693ea8a4e96e81941891967e93
 related_resources_text: ''
 short_url: parametrized-lines-and-intersections

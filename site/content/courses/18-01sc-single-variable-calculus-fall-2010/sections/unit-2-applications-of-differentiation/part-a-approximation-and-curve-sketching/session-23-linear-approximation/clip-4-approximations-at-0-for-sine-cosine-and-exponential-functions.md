@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 6b004799196040132c94dcb637dadb28
 inline_embed_id: '1443163clip4:approximationsat0forsine,cosineandexponentialfunctions67728090'
+order_index: 1052
 parent_uid: 6c111f0f1d0b5fade36a1ca3687104d2
 related_resources_text: ''
 short_url: clip-4-approximations-at-0-for-sine-cosine-and-exponential-functions

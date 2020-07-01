@@ -32,6 +32,7 @@ embedded_media:
     type: Thumbnail
     uid: 5a0723d2b5bf5ed2ec1fd3a1e31976da
 inline_embed_id: '80076546lab3:biogasandbiodigesters,parti:lecture47013775'
+order_index: 53
 parent_uid: 70e2edb13971cd3b00913ae541bcdecc
 related_resources_text: ''
 short_url: lab-3-biogas-and-biodigesters-part-i-lecture

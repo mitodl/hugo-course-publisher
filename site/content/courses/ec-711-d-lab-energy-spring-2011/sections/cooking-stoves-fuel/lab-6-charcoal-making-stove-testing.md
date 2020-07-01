@@ -32,6 +32,7 @@ embedded_media:
     type: Thumbnail
     uid: 91f93ab64c4121633e76d9cac6423f14
 inline_embed_id: '53130316lab6:charcoalmaking&stovetesting24504174'
+order_index: 105
 parent_uid: 40a90435c33545755ca5aed11bc98c6a
 related_resources_text: ''
 short_url: lab-6-charcoal-making-stove-testing

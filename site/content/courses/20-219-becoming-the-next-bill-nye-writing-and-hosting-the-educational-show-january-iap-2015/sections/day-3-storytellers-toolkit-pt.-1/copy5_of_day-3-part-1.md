@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: e84a3553d7b2244bd8fae1eb68445672
 inline_embed_id: '77040079workshop:kenneth''sscript46609921'
+order_index: 419
 parent_uid: 36586ba568db37caa516348b595214d8
 related_resources_text: ''
 short_url: copy5_of_day-3-part-1

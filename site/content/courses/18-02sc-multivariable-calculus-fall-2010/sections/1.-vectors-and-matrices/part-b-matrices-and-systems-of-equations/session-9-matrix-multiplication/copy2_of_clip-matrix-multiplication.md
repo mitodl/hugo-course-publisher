@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 14d62216e968f4a397b8b07ce86f60b1
 inline_embed_id: '53933901clip:matrixmultiplication88792397'
+order_index: 282
 parent_uid: 140906549310aba473941897b75d97d3
 related_resources_text: ''
 short_url: copy2_of_clip-matrix-multiplication

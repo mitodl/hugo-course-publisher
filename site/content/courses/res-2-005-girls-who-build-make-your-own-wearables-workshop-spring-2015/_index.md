@@ -31,7 +31,14 @@ course_info:
   departments:
     - Supplemental Resources
   course_features:
+    - feature: Image Gallery
     - feature: This Course at MIT
+    - feature: AV special element video
+      subfeature: Tutorial
+    - feature: Assignments
+      subfeature: activity (no examples)
+    - feature: Lecture notes
+      subfeature: Complete
   topics:
     Engineering:
       Computer Science: []

@@ -59,6 +59,7 @@ embedded_media:
     type: Transcript
     uid: c40de8e8545fe4be4aca05158a0328ad
 inline_embed_id: '18755284lecture6:regressionanalysis77438795'
+order_index: 96
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-6-regression-analysis

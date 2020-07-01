@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: b4a7f2dffe471dd5419440fdfa8564a8
 inline_embed_id: 17170810volumeofaparaboloidviadisks49106890
+order_index: 2476
 parent_uid: 2a892d50ed0126e15d3603ad2d218d9e
 related_resources_text: ''
 short_url: volume-of-a-paraboloid-via-disks

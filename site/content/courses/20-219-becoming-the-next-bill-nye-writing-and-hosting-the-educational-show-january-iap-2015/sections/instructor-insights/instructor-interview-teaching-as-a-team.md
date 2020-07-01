@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 89aebd15bbf183d0c86bfd0eb6d9ebb4
 inline_embed_id: '3036690instructorinterview:teachingasateam13338332'
+order_index: 44
 parent_uid: 526193cf30dacdf1c6734faab57d51d7
 related_resources_text: ''
 short_url: instructor-interview-teaching-as-a-team

@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 7e67d7f7b7580d5f06cb2d00a7674b76
 inline_embed_id: '40361152lecture2:modelsofcomputation,documentdistance44233929'
+order_index: 66
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-2-models-of-computation-document-distance

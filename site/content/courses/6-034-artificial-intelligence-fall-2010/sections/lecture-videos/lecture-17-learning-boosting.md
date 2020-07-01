@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 9229bb43c4e55aa7bdcb4d1ce86fb85c
 inline_embed_id: '96566775lecture17:learning:boosting53288034'
+order_index: 189
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: >-
   <p>Specifically developed for this lecture are the <a

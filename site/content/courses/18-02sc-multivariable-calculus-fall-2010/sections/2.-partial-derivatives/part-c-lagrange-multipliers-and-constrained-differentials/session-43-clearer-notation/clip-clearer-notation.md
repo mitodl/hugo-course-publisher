@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 9d83dbe6367d9844f3f3f4186e6db8e4
 inline_embed_id: '5883928clip:clearernotation86349527'
+order_index: 1319
 parent_uid: a853b2a1cf33cf9421984d602044e1f1
 related_resources_text: ''
 short_url: clip-clearer-notation

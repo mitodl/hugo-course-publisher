@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 149f4ba6374cdc3a45847d601cda3ee6
 inline_embed_id: 44293511multiplicationandinversematrices59474096
+order_index: 1077
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: multiplication-and-inverse-matrices

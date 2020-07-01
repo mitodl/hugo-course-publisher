@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: a6578984cce4c31a05e1ff80b9509b78
 inline_embed_id: 82767730video2asingleflight29611020
+order_index: 1803
 parent_uid: 1a99f51a66ac8af143edd5efdd454605
 related_resources_text: ''
 short_url: video-2-a-single-flight-0

@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: bb6ba3ee5105889bf41eb9f5f1209cd8
 inline_embed_id: 92193898lineintegralonahelix57893732
+order_index: 2807
 parent_uid: 9d4fafc8bb3bb6f7f352581e663be4be
 related_resources_text: ''
 short_url: line-integral-on-a-helix

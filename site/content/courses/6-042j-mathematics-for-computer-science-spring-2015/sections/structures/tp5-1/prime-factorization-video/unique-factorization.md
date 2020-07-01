@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: b0d3edf4ccc8399935d2f49961d77dd2
 inline_embed_id: 48519021uniquefactorization13794512
+order_index: 726
 parent_uid: 51dcf33092f43e021cae3d73b71b0ad3
 related_resources_text: ''
 short_url: unique-factorization

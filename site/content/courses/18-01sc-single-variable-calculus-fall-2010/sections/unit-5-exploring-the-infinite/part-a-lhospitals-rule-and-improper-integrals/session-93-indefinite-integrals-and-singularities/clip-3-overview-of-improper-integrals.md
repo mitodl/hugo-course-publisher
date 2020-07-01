@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 87d19697ad4a26482b923ac828813f21
 inline_embed_id: '41892072clip3:overviewofimproperintegrals14091914'
+order_index: 4022
 parent_uid: f502f183c03e6d5e51e824f9afc4cf8c
 related_resources_text: ''
 short_url: clip-3-overview-of-improper-integrals

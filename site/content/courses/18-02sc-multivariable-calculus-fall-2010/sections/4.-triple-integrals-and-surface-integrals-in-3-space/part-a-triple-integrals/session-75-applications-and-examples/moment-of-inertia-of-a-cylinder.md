@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 04550b6b2a3e7c813eb339107cbcc3a7
 inline_embed_id: 93110933momentofinertiaofacylinder17481932
+order_index: 2397
 parent_uid: c4da9711508e8f11a356167da3376cd3
 related_resources_text: ''
 short_url: moment-of-inertia-of-a-cylinder

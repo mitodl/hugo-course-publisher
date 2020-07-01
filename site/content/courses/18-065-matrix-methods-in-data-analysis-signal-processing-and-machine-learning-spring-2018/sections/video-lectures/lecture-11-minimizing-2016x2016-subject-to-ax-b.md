@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 085f1b8a63d185bda736defcb5a6bb96
 inline_embed_id: 40586369lecture11minimizingxsubjecttoaxb20769343
+order_index: 125
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-11-minimizing-2016x2016-subject-to-ax-b

@@ -91,6 +91,7 @@ embedded_media:
     type: Transcript
     uid: e29519d59794bca412c498bc9ad45ce7
 inline_embed_id: '598674892:branching,conditionals,anditeration3147178'
+order_index: 22
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

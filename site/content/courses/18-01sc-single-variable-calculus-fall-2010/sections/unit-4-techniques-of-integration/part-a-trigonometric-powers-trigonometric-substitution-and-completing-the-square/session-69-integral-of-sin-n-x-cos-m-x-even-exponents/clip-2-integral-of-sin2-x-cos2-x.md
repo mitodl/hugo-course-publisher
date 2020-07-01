@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 04c9f5936b70846935618f99c73f7d76
 inline_embed_id: '77273826clip2:integralofsin2(x)cos2(x)98117962'
+order_index: 2906
 parent_uid: 60fd16b3d72fefca72098904f15c0f02
 related_resources_text: ''
 short_url: clip-2-integral-of-sin2-x-cos2-x

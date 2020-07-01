@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 1132c0db43801730507ffe09ca1ae74f
 inline_embed_id: 46813713lecture32imagenetisacnntheconvolutionrule73141775
+order_index: 296
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-32-imagenet-is-a-cnn-the-convolution-rule

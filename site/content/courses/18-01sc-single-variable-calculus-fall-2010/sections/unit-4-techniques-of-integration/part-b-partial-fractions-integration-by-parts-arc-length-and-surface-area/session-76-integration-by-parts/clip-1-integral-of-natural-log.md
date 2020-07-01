@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 96a04a2749455d694e3fa63e66560795
 inline_embed_id: '25017072clip1:integralofnaturallog18928254'
+order_index: 3188
 parent_uid: b196b3d2413fa8015d43695883cc671a
 related_resources_text: ''
 short_url: clip-1-integral-of-natural-log

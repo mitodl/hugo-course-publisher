@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: acc0ad30d21a02ffc63823488a732840
 inline_embed_id: 76254831video5hierarchicalclustering61090750
+order_index: 1353
 parent_uid: 9b460c896936605488ea504e144b78ff
 related_resources_text: ''
 short_url: video-5-hierarchical-clustering-0

@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 27e7f39c5feb24d9b2ac138a29bce31c
 inline_embed_id: 46501476branching20187143
+order_index: 204
 parent_uid: 666db218db6d8103cdcf41e2960132be
 related_resources_text: ''
 short_url: branching

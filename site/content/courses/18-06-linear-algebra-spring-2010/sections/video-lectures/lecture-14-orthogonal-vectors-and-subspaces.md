@@ -85,6 +85,7 @@ embedded_media:
     type: Transcript
     uid: 8ac930bfcfb7d23d2c69ccc55c90e6e8
 inline_embed_id: '98881477lecture14:orthogonalvectorsandsubspaces12253348'
+order_index: 227
 parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"

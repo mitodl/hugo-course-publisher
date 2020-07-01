@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 14693f6114ea65858f4e7d3815748b14
 inline_embed_id: 64051409totalexpectation84231613
+order_index: 1549
 parent_uid: b48a4b286073ca8ed6f8798aa6cc7b8c
 related_resources_text: ''
 short_url: total-expectation

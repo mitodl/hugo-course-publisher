@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 075d93fd1e62623e96925db4cf300b96
 inline_embed_id: 88329296definiteintegralbysubstitution89412799
+order_index: 2149
 parent_uid: bd925f6f8a78fde6be8c709ded2799e9
 related_resources_text: ''
 short_url: definite-integral-by-substitution

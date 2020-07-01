@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: ed1e641933237418243102a8ce302b38
 inline_embed_id: 84999578orbitalcircularmotionvelocity5603389
+order_index: 788
 parent_uid: 938ca53be5bedb207d92fe94493d1b80
 related_resources_text: ''
 short_url: orbital-circular-motion-2013-velocity

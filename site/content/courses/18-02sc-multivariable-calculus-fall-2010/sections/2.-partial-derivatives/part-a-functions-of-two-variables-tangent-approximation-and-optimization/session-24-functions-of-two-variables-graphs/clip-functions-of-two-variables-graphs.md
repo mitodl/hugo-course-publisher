@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 44d64f569a41732bf6ff7b980a2ba8cf
 inline_embed_id: '20938481clip:functionsoftwovariables:graphs48147830'
+order_index: 704
 parent_uid: c2cc5b937ffbca979260841317394439
 related_resources_text: ''
 short_url: clip-functions-of-two-variables-graphs

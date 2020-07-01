@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: f504b1fe5712672b6a7163d6f92637c4
 inline_embed_id: 52576593preparingforlectures41570318
+order_index: 41
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
 related_resources_text: ''
 short_url: preparing-for-lectures

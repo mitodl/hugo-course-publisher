@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: ae565e93ca0f5e16f6ffb55ac1f7e5f2
 inline_embed_id: '74236276clip1:quotientrule25075448'
+order_index: 482
 parent_uid: 94a0d0fdde324bb54b34d0ea12a6d94d
 related_resources_text: ''
 short_url: clip-1-quotient-rule

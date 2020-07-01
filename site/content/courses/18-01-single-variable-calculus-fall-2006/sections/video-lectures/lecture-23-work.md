@@ -76,6 +76,7 @@ embedded_media:
     type: Transcript
     uid: 5ad9f9d31b3d48e72876e1efa8f20b7c
 inline_embed_id: '26371079lecture23:work,probability1880849'
+order_index: 374
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

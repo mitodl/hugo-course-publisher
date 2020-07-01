@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 7ce1ebecab9c4b4bf06f1709df9189b4
 inline_embed_id: '3754687lecture7:randomization:skiplists29600426'
+order_index: 167
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-7-randomization-skip-lists

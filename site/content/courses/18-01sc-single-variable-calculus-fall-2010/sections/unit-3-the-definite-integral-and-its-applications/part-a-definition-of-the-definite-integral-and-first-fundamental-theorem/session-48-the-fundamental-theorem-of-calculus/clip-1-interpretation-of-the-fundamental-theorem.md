@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 089ac4063b68b92bf84cef06df755edc
 inline_embed_id: '17759843clip1:interpretationofthefundamentaltheorem90368944'
+order_index: 2081
 parent_uid: bdc58167f5508759dd279c33d7d08852
 related_resources_text: ''
 short_url: clip-1-interpretation-of-the-fundamental-theorem

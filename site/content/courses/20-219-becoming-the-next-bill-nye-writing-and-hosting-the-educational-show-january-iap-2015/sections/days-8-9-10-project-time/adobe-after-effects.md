@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: d0b5b00886ae0d86f50a8e4cb71c0729
 inline_embed_id: 54556842adobeaftereffects66749229
+order_index: 740
 parent_uid: dd2e906439f582927c78a9141317dcc6
 related_resources_text: ''
 short_url: adobe-after-effects

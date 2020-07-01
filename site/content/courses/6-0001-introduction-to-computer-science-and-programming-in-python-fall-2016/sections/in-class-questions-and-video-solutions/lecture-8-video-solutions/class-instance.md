@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: ed5dde075885e3f4ca2587215e11cd2d
 inline_embed_id: 3089239classinstance91251603
+order_index: 627
 parent_uid: c194b3a46abc5e09e9503ce3c8d6e987
 related_resources_text: ''
 short_url: class-instance

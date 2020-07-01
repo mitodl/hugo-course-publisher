@@ -64,6 +64,7 @@ embedded_media:
     type: Video
     uid: fbb92931a9cd96069bd41051925ae4a9
 inline_embed_id: 71177601lecture18introductiontochemicalequilibrium46547083
+order_index: 388
 parent_uid: 76a566c6d12eb625ae98e279e812efbd
 related_resources_text: ''
 short_url: lecture-18-introduction-to-chemical-equilibrium

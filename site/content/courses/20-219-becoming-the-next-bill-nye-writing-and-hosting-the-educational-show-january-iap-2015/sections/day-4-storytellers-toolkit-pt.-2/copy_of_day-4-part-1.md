@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 7d7204122447e46f2da54fc5295db827
 inline_embed_id: 98703419animationisgoodwhen...83636780
+order_index: 470
 parent_uid: 60a6ea961026802d98a9351ce3b38557
 related_resources_text: ''
 short_url: copy_of_day-4-part-1

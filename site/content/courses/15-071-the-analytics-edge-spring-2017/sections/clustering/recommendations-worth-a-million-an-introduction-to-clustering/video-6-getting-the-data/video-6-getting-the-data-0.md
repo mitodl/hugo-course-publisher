@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 8ffc4fa0349c540d8e543c83046e7c10
 inline_embed_id: 58537076video6gettingthedata33281497
+order_index: 1365
 parent_uid: 97456de3089198f1c51aa74e3d11930c
 related_resources_text: ''
 short_url: video-6-getting-the-data-0

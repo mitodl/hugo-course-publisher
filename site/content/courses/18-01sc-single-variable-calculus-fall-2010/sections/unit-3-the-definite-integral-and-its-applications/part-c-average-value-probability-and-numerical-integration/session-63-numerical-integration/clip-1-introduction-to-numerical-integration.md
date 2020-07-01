@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 3735baa4a9b733dcdaad57dcaf3a2573
 inline_embed_id: '31572596clip1:introductiontonumericalintegration96744770'
+order_index: 2655
 parent_uid: be07f2bde3305a676f66884dbf8397d1
 related_resources_text: ''
 short_url: clip-1-introduction-to-numerical-integration

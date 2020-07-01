@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: eced36e970833e27e093e4087a156363
 inline_embed_id: 3884438introductiontobiobuilder.org98689670
+order_index: 328
 parent_uid: 3da88bd7fc04b288622711604ae6a159
 related_resources_text: ''
 short_url: copy_of_day-2-part-2

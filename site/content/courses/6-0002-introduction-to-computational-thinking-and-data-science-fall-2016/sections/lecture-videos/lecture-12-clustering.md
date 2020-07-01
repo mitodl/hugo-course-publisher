@@ -58,6 +58,7 @@ embedded_media:
     type: Video
     uid: a40e7406d083a6941726f25e44bec1eb
 inline_embed_id: 58933395lecture12clustering8934151
+order_index: 116
 parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
 short_url: lecture-12-clustering

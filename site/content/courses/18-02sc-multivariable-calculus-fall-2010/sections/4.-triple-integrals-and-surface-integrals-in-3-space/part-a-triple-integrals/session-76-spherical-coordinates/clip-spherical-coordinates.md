@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 7831f554dd69e84b24095965f909d631
 inline_embed_id: '85037195clip:sphericalcoordinates51528114'
+order_index: 2421
 parent_uid: 1a869f5f6349e1f5e91fd375e74314ee
 related_resources_text: ''
 short_url: clip-spherical-coordinates

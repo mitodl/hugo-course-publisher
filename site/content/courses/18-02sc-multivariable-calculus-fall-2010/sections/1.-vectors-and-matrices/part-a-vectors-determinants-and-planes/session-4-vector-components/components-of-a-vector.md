@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 19df8262ae73e08f736b9f9ba49c20dd
 inline_embed_id: 9114814componentsofavector59358485
+order_index: 117
 parent_uid: 375dd1f685adf2e09b7114726b7f7b54
 related_resources_text: ''
 short_url: components-of-a-vector

@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 0ad3f64364eb4f5d688dc99f5863cc54
 inline_embed_id: 11667271matingritual68356989
+order_index: 1069
 parent_uid: d3855955a7364b6beffb27d6d59b1b8f
 related_resources_text: ''
 short_url: mating-ritual

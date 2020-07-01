@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 16031fa482567bfa956d0258ce630da3
 inline_embed_id: '61439249clip1:simpledefiniteintegrals38562892'
+order_index: 1957
 parent_uid: 4bffe5cc16196016e52210964dbeddc4
 related_resources_text: ''
 short_url: clip-1-simple-definite-integrals

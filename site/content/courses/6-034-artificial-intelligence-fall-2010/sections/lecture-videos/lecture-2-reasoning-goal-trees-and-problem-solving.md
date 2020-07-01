@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 4e4f649932ec8d13d45fa69d48d60ab3
 inline_embed_id: '85559786lecture2:reasoning:goaltreesandproblemsolving67250771'
+order_index: 29
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: >-
   <p>Slagle, James. &quot;<a target="_blank"

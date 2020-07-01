@@ -85,6 +85,7 @@ embedded_media:
     type: Transcript
     uid: ee50d4d78d7761b0179ebb5dc363d57b
 inline_embed_id: '54692929lecture25:symmetricmatricesandpositivedefiniteness65884547'
+order_index: 383
 parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"

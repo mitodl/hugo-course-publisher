@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: d43b6c22267e1b58ca1b37395c877ee9
 inline_embed_id: 46208639levinsonstheorempart189759266
+order_index: 764
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: levinsons-theorem-part-1

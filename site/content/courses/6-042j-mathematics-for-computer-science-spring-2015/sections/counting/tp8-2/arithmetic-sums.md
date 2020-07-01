@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 900aa06427bd6ac47b978b945f9eec7e
 inline_embed_id: 39408728arithmeticsums80762775
+order_index: 1129
 parent_uid: 93998ab0044352e85efcb877380e8e28
 related_resources_text: ''
 short_url: arithmetic-sums

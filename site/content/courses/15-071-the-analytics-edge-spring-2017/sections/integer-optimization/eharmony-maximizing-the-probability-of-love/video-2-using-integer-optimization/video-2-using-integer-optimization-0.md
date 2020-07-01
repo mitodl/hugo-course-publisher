@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 29a71ad6e11854780d05de5de7f89978
 inline_embed_id: 80494035video2usingintegeroptimization39714503
+order_index: 2142
 parent_uid: 53b49e57bb91291ac131759296912fa6
 related_resources_text: ''
 short_url: video-2-using-integer-optimization-0

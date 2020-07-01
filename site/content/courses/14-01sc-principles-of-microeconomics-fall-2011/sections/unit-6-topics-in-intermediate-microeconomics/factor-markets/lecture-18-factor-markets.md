@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 9fe79bf906d2dbf6c6fbd3721584e8a2
 inline_embed_id: 26067233lecture18factormarkets81196311
+order_index: 415
 parent_uid: 9af143892f78d160e3b7064bcdef0053
 related_resources_text: ''
 short_url: lecture-18-factor-markets

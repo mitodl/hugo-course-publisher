@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: e98d363dbe5c0774223dbf2a58389d49
 inline_embed_id: 76854373extendedgreen'stheorem64902541
+order_index: 2230
 parent_uid: 5bbb4de2941a4319bca341074dd6e5f3
 related_resources_text: ''
 short_url: extended-greens-theorem

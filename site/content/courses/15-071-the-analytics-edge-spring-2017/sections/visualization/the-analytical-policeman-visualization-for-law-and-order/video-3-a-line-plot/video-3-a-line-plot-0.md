@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: d853341aefb51e83034e6a2478274c00
 inline_embed_id: 63268512video3alineplot13862092
+order_index: 1636
 parent_uid: 1bd0d7e9c5ce0101823b0faa796ad873
 related_resources_text: ''
 short_url: video-3-a-line-plot-0

@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 517ccc7b23df38c6a66b8af9cfc95fe4
 inline_embed_id: 34941607russellsparadox96018411
+order_index: 649
 parent_uid: 6cc03e5eec8176fbb79f4590cb8aeb8d
 related_resources_text: ''
 short_url: russell-s-paradox

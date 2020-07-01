@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 1bf562eb861ff30802d2262b52dfe7a8
 inline_embed_id: '50289455clip3:polarcoordinatesandconicsections8563069'
+order_index: 3556
 parent_uid: cfd25e33da1a2e54749f33591f59a4ba
 related_resources_text: ''
 short_url: copy2_of_clip-1-graph-of-r-2a-cos-3b8

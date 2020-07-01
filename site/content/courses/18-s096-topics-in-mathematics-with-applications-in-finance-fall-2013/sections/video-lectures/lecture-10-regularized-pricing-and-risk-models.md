@@ -59,6 +59,7 @@ embedded_media:
     type: Transcript
     uid: 9ff939dccb4181cd7fe73b9ad503bf24
 inline_embed_id: '24975603lecture10:regularizedpricingandriskmodels42171187'
+order_index: 136
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-10-regularized-pricing-and-risk-models

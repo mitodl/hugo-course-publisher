@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: f7efb953854a91a7c1cf448318b3ef44
 inline_embed_id: '85494837lecture3:insertionsort,mergesort2449037'
+order_index: 76
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-3-insertion-sort-merge-sort

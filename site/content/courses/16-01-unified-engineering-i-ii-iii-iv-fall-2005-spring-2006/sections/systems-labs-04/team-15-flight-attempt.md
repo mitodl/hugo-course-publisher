@@ -27,6 +27,7 @@ embedded_media:
     type: Video
     uid: d4da8ebe545e1b2624c756d20ffe0d8c
 inline_embed_id: '36489862team15:flightattempt92097554'
+order_index: 1179
 parent_uid: 87e8f47c351cccd450e9b5e03c5bbee2
 related_resources_text: ''
 short_url: team-15-flight-attempt

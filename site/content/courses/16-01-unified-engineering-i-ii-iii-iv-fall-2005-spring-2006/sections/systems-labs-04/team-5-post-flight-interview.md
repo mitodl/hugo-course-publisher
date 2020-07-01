@@ -27,6 +27,7 @@ embedded_media:
     type: Video
     uid: 9dd7ce0daf99125348d6d26f50233375
 inline_embed_id: '77924724team5:post-flightinterview73986803'
+order_index: 1104
 parent_uid: 87e8f47c351cccd450e9b5e03c5bbee2
 related_resources_text: ''
 short_url: team-5-post-flight-interview

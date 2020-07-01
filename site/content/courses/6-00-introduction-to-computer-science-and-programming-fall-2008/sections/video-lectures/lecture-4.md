@@ -91,6 +91,7 @@ embedded_media:
     type: Transcript
     uid: aa143552325956401335ef7a0d3eb9c1
 inline_embed_id: '269894684:abstractionthroughfunctions;introductiontorecursion25684012'
+order_index: 52
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

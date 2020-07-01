@@ -68,6 +68,7 @@ embedded_media:
     type: Transcript
     uid: 7cb64430a6f7a6fb65a2f6d966e45f09
 inline_embed_id: '47252697lecture24:topicsinalgorithmsresearch88299950'
+order_index: 286
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-24-topics-in-algorithms-research

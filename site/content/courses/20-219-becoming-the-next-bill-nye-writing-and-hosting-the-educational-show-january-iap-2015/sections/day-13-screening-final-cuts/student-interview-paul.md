@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 0572268ef2d26b7f331e1d266bb0152f
 inline_embed_id: '99478664studentinterview:paul94723300'
+order_index: 909
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
 related_resources_text: ''
 short_url: student-interview-paul

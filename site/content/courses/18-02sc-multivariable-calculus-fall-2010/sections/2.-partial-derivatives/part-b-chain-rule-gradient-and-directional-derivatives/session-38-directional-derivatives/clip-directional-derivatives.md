@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 473ecf487c19e9fa404985580716b4c1
 inline_embed_id: '13227866clip:directionalderivatives88568252'
+order_index: 1172
 parent_uid: 39fb1a7a22ea5009fdbd92b8775e6362
 related_resources_text: ''
 short_url: clip-directional-derivatives

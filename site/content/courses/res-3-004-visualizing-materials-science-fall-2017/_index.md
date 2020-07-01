@@ -22,7 +22,13 @@ course_info:
     - Prof. W. Carter
   departments:
     - Supplemental Resources
-  course_features: []
+  course_features:
+    - feature: AV special element video
+      subfeature: Tutorial
+    - feature: AV special element video
+      subfeature: Tutorial
+    - feature: Projects
+      subfeature: Examples
   topics:
     Engineering:
       Materials Science and Engineering: []

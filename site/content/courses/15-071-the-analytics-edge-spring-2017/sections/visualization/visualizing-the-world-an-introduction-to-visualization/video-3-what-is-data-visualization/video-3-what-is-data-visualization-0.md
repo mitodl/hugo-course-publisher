@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 47239dc5d5777aa44c1ce9c05b231470
 inline_embed_id: 66120466video3whatisdatavisualization65816662
+order_index: 1573
 parent_uid: c8e9fd0fcbd8682cff60a63c2596b948
 related_resources_text: ''
 short_url: video-3-what-is-data-visualization-0

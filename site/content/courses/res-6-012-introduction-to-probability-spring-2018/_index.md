@@ -27,7 +27,9 @@ course_info:
     - Prof. John Tsitsiklis
   departments:
     - Supplemental Resources
-  course_features: []
+  course_features:
+    - feature: Lecture notes
+      subfeature: Complete
   topics:
     Engineering:
       Systems Engineering: []

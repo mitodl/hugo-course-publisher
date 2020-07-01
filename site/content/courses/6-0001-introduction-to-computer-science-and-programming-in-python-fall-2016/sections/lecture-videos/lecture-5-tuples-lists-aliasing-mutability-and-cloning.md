@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 93f2154ee890323172bdeb188fefc50a
 inline_embed_id: 50974999lecture5tupleslistsaliasingmutabilityandcloning5988573
+order_index: 46
 parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
 short_url: lecture-5-tuples-lists-aliasing-mutability-and-cloning

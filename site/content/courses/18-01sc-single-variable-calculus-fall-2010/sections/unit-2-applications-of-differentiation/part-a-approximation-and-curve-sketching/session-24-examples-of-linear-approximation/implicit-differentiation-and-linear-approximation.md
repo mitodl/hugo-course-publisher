@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 05d4f0bd41fc196c0a1dfaaf5b925013
 inline_embed_id: 18625905implicitdifferentiationandlinearapproximation27823646
+order_index: 1134
 parent_uid: 332503c09be8a2d7ca749e218630b6f3
 related_resources_text: ''
 short_url: implicit-differentiation-and-linear-approximation

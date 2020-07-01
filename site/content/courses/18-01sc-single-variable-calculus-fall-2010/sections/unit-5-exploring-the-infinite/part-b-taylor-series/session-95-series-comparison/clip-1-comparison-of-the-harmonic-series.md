@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 8c86c6b724a37aa8b0ebe1d9dbf2d569
 inline_embed_id: '53711900clip1:comparisonoftheharmonicseries15932682'
+order_index: 4153
 parent_uid: e6b5bcf01d4fe02cb8f15ed900b23542
 related_resources_text: ''
 short_url: clip-1-comparison-of-the-harmonic-series

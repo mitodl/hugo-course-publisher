@@ -91,6 +91,7 @@ embedded_media:
     type: Transcript
     uid: e77aae6c1d0eab2c2f8f8acfdda4edd3
 inline_embed_id: '6787651724:courseoverview;whatdocomputerscientistsdo?8728871'
+order_index: 351
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Slides (<a target="_blank" title="Open in a new window."

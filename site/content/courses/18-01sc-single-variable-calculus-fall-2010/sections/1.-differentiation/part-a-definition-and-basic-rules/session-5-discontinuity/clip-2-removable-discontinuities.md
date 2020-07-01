@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 57a8055d78ba4ca8b350ff56f5f9fbbb
 inline_embed_id: '52278206clip2:removablediscontinuities27854094'
+order_index: 254
 parent_uid: d0bc8735c3a450ca5aad8ed8059d679d
 related_resources_text: ''
 short_url: clip-2-removable-discontinuities

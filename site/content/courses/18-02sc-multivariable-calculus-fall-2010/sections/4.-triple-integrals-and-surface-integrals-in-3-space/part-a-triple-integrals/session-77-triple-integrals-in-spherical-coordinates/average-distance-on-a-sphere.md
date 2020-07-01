@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 04eed7265df2e0ee26f71b390e869737
 inline_embed_id: 25089075averagedistanceonasphere17308307
+order_index: 2456
 parent_uid: f707a26eec56fdb6c3caf56567807058
 related_resources_text: ''
 short_url: average-distance-on-a-sphere

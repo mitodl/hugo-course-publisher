@@ -4,7 +4,7 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 9f03331af390bae1961ca4a065522188
-    weight: 60
+    weight: 70
     parent: 533d102efe069d1db963beda43cca2a1
 ---
 _In this section, Professor Tom Kochan shares that he’d like to find ways to connect people and organizations with course materials that will help them improve the experience of work._

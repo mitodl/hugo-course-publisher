@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 5a9de208925bb9cd05cc5fed8314ee78
 inline_embed_id: 86441945riemannsum17172024
+order_index: 2007
 parent_uid: d5e0c7a6f17252a3c694d627faf12123
 related_resources_text: ''
 short_url: riemann-sum

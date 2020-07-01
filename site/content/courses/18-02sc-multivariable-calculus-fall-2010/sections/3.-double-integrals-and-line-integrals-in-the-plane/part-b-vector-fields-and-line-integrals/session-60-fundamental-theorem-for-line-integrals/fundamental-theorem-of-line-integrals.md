@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 04da0292bb9e0d257e5b8318b502e2ae
 inline_embed_id: 14376503fundamentaltheoremoflineintegrals66797009
+order_index: 1867
 parent_uid: 5959801571e055a7023b590e1522b972
 related_resources_text: ''
 short_url: fundamental-theorem-of-line-integrals

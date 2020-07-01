@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: bd18ddd0e23166e9cf6a8d58243a498e
 inline_embed_id: 18526442video4logicalconstraints75061579
+order_index: 2110
 parent_uid: 209100b38ec9d10b5925656d460ca2ad
 related_resources_text: ''
 short_url: video-4-logical-constraints-0

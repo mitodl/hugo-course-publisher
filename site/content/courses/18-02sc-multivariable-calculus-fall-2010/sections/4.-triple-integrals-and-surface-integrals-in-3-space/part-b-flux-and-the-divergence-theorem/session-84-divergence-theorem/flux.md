@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: a14b6a8e7ce2d0a7fba1d91d73059479
 inline_embed_id: 55860333flux33249311
+order_index: 2670
 parent_uid: d088492f402f9db5c30dcd82be2c37a6
 related_resources_text: ''
 short_url: flux

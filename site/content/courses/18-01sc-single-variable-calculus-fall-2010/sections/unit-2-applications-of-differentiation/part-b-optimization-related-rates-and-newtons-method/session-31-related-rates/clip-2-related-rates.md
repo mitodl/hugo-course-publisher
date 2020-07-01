@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 60e87d8cf763129f21e9612edc2e4aa9
 inline_embed_id: '87611881clip2:relatedrates62374552'
+order_index: 1433
 parent_uid: 740c26e9a52f298e76ec9fb9679d1f19
 related_resources_text: ''
 short_url: clip-2-related-rates

@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 3bfed16a628d0888cc80135cc80bb464
 inline_embed_id: '62211782recitation8:hierarchicalandk-meansclustering35829437'
+order_index: 825
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: recitation-8-hierarchical-and-k-means-clustering

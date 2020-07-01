@@ -58,6 +58,7 @@ embedded_media:
     type: Video
     uid: e22386d3b6852d58dd13a30abdd300be
 inline_embed_id: 92587454lecture8aapplyingconsumertheorychildlabor45790092
+order_index: 157
 parent_uid: 52d96c2f56aa990be3ea69526d59464b
 related_resources_text: ''
 short_url: lecture-8a-applying-consumer-theory-child-labor

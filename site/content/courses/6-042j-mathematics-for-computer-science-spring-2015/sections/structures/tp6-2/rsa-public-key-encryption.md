@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 144ca63bc07d819fc539886e47442f53
 inline_embed_id: 63953422rsapublickeyencryption50394538
+order_index: 798
 parent_uid: df8008a79d68087d809bbd4cc447cdea
 related_resources_text: ''
 short_url: rsa-public-key-encryption

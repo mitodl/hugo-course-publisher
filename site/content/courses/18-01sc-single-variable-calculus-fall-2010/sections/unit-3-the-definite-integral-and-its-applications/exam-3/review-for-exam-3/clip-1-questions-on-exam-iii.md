@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: a6fd4bcc328f395972dbdd652c152b56
 inline_embed_id: '18763080clip1:questionsonexamiii76393478'
+order_index: 2775
 parent_uid: 28c8d6e8c2c0dfa62a9b458789417a05
 related_resources_text: ''
 short_url: clip-1-questions-on-exam-iii

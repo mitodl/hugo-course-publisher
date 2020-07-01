@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 0f6bef44f0f4dbe3581b31ad8a72b8bc
 inline_embed_id: '47781400clip:velocityandacceleration9807697'
+order_index: 553
 parent_uid: dcdc00f031ba84ce819f58d5b2584e2e
 related_resources_text: ''
 short_url: clip-velocity-and-acceleration

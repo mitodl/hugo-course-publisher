@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 2bad3486b3ba82196b02d77252af721e
 inline_embed_id: 72056024finitesquarewell.settinguptheproblem2502739
+order_index: 585
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: finite-square-well.-setting-up-the-problem

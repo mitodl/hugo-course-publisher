@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: 88079a8ee2d5116254c897006b321f1d
 inline_embed_id: '570156lecture11:smallsignalcircuits43797457'
+order_index: 249
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture notes (<a target="_blank" title="Open in a new window."

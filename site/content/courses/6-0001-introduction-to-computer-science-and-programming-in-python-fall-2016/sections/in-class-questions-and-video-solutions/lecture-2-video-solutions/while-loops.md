@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 03cbf9ce482e513092f4af2ee49ac386
 inline_embed_id: 44127730whileloops57600103
+order_index: 482
 parent_uid: 01c07d8fbd4064402253a19dcc1754ea
 related_resources_text: ''
 short_url: while-loops

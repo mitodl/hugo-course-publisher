@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 04e82a249c9b02da1af4de9a2a8fba1f
 inline_embed_id: 45579180centerofmassandrelativemotionwavefunctions75213566
+order_index: 1103
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: center-of-mass-and-relative-motion-wavefunctions

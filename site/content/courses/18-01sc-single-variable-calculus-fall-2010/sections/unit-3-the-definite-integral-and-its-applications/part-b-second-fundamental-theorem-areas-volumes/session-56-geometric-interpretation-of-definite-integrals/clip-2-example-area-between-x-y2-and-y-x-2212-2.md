@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 8f0030485a216a9abb0b34238c4435a4
 inline_embed_id: '5591064clip2:example:areabetweenx=y2andy=x-271132928'
+order_index: 2377
 parent_uid: ab02e80b2f16511d81481be8277cb20d
 related_resources_text: ''
 short_url: clip-2-example-area-between-x-y2-and-y-x-2212-2

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 4f5ab4ddfb52f87f97c7205eaf553974
 inline_embed_id: '85436199clip2:slopeofaxat079904804'
+order_index: 750
 parent_uid: a08812a629e76732837d8a39d48fc8fa
 related_resources_text: ''
 short_url: clip-2-slope-of-ax-at-0

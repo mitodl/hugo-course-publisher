@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 1d69ae96a73b9e58e34cca08b34e4f4a
 inline_embed_id: 72739725numberoperatorandcommutators44990208
+order_index: 872
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: number-operator-and-commutators

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 61b2bfd6882a843931d050b6ca80cb38
 inline_embed_id: '90776361clip2:errata:heatisenergy13179125'
+order_index: 2615
 parent_uid: 1fa09ca81711139c23be618aa2768257
 related_resources_text: ''
 short_url: clip-2-errata-heat-is-energy

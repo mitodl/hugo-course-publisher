@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 1f1f762ff3d18aae9897de093093b8f1
 inline_embed_id: 47364449necessityofcomplexnumbers71384554
+order_index: 48
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: necessity-of-complex-numbers

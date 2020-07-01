@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 617d2941b012686f96fb8bbb6ddf10cf
 inline_embed_id: 43311545hyperbolictrigfunctions54594605
+order_index: 913
 parent_uid: da268fb0fd08ed16c1b1988ed700633a
 related_resources_text: ''
 short_url: hyperbolic-trig-functions

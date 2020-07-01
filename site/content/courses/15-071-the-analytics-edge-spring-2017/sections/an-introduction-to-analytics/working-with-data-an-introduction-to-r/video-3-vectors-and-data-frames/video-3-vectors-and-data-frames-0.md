@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 2ccf19b6a68cdc22855e62e30e6752ff
 inline_embed_id: 27969926video3vectorsanddataframes73758532
+order_index: 130
 parent_uid: db37fee9220d4ca01ae046baacb7fc38
 related_resources_text: ''
 short_url: video-3-vectors-and-data-frames-0

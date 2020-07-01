@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 63bc5ed4a8573b3793c59f63582d5304
 inline_embed_id: 43303088birthdaymatching15716634
+order_index: 1672
 parent_uid: f1b5e54d70380fe7908b4c0dfd6207a3
 related_resources_text: ''
 short_url: birthday-matching

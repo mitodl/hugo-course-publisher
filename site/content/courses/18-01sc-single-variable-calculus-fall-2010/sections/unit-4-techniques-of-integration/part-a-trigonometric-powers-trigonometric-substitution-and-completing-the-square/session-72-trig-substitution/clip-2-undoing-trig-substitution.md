@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 1976e90045a01cd6da90b68739f08ce1
 inline_embed_id: '49464699clip2:undoingtrigsubstitution6871063'
+order_index: 3008
 parent_uid: 9894378ce8db90173778fc7a13cad022
 related_resources_text: ''
 short_url: clip-2-undoing-trig-substitution

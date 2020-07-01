@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 783cd8ae4547d7c4870a2569662facaa
 inline_embed_id: '10267170lecture25:randomwalks56929324'
+order_index: 269
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-25-random-walks

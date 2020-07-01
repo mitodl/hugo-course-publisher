@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 66de90f27f9561cb67298fed3592ba27
 inline_embed_id: 97331345interpretationofthewavefunction50281495
+order_index: 267
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: interpretation-of-the-wavefunction

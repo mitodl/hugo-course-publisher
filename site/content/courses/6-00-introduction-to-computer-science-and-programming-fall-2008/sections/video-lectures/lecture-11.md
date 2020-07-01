@@ -90,6 +90,7 @@ embedded_media:
     type: Transcript
     uid: 75947045b0dc628da544a7d90ba81c7d
 inline_embed_id: '7639928911:testinganddebugging92680294'
+order_index: 156
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 3c331ae6eb57b3c6e1054d14649525b6
 inline_embed_id: 97341667groupvelocityandstationaryphaseapproximation89005636
+order_index: 201
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: group-velocity-and-stationary-phase-approximation

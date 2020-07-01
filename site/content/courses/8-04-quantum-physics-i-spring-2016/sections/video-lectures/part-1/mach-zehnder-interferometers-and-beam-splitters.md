@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 4b88cdb07c2ec7391250a82abef07e89
 inline_embed_id: 36469770machzehnderinterferometersandbeamsplitters53585163
+order_index: 98
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: mach-zehnder-interferometers-and-beam-splitters

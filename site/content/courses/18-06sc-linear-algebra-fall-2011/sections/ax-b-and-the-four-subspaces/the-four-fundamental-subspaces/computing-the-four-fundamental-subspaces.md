@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 6e281d47946d467d523869b044117221
 inline_embed_id: 94453986computingthefourfundamentalsubspaces20670520
+order_index: 304
 parent_uid: 0050fe07f47ab375ac0f3abe492f8ae1
 related_resources_text: ''
 short_url: computing-the-four-fundamental-subspaces

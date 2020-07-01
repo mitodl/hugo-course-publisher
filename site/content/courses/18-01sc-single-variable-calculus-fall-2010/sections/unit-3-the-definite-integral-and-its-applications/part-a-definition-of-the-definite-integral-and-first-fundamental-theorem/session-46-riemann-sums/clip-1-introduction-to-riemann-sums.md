@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: e8901495c551e078a17e7ea358eac575
 inline_embed_id: '79795556clip1:introductiontoriemannsums70833159'
+order_index: 1987
 parent_uid: d5e0c7a6f17252a3c694d627faf12123
 related_resources_text: ''
 short_url: clip-1-introduction-to-riemann-sums

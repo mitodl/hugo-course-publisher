@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: cf6aa5e9f0799dfeb0a36106c73251e9
 inline_embed_id: '87167468parasites,theevolutionofvirulenceandsex42998347'
+order_index: 204
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: parasites-the-evolution-of-virulence-and-sex

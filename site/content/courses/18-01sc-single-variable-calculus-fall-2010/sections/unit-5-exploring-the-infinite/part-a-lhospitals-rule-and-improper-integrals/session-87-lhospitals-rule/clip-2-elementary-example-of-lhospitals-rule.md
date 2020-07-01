@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 2654d4d5944858c908d9792a478f9ec2
 inline_embed_id: '48495598clip2:elementaryexampleofl''hospital''srule95009122'
+order_index: 3682
 parent_uid: c9916c2b11369b0f6489e2805c8cd4c5
 related_resources_text: ''
 short_url: clip-2-elementary-example-of-lhospitals-rule

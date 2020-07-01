@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 36805aaac0f41772bac469ea8de6c906
 inline_embed_id: 15342451problemsolvingpositivedefinitematricesandminima12458453
+order_index: 1582
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: problem-solving-positive-definite-matrices-and-minima

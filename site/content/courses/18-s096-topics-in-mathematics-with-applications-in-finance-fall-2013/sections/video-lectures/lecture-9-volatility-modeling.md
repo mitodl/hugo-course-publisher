@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: dac6ef1d838d4321817a836f9156cc9b
 inline_embed_id: '40884087lecture9:volatilitymodeling73813952'
+order_index: 126
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-9-volatility-modeling

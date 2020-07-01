@@ -51,6 +51,7 @@ embedded_media:
     type: Transcript
     uid: 9847bb03f6f0f072c56a40cef7093758
 inline_embed_id: 46486851video4usingthemodelstomakepredictions96291564
+order_index: 422
 parent_uid: 6f7a2882de1167a26875fd353266fee4
 related_resources_text: ''
 short_url: video-4-using-the-models-to-make-predictions-0

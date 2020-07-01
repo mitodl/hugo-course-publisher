@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 5e95b9d07387665e7c78d1bd05dad831
 inline_embed_id: 50962656lecture12computingeigenvaluesandsingularvalues23631747
+order_index: 134
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-12-computing-eigenvalues-and-singular-values

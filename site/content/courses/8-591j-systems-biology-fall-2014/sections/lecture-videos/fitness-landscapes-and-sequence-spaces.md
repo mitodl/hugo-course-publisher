@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 18c7b8e74cc32d0c1f27e594abba9fe7
 inline_embed_id: 34993455fitnesslandscapesandsequencespaces81168485
+order_index: 174
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: fitness-landscapes-and-sequence-spaces

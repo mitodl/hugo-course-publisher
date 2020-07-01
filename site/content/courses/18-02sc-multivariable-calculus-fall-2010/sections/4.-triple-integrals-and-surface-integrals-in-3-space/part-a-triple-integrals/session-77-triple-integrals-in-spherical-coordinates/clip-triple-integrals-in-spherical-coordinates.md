@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: ce115f42aba3fddd7808c3bd0661108a
 inline_embed_id: '55606484clip:tripleintegralsinsphericalcoordinates63981294'
+order_index: 2450
 parent_uid: f707a26eec56fdb6c3caf56567807058
 related_resources_text: ''
 short_url: clip-triple-integrals-in-spherical-coordinates

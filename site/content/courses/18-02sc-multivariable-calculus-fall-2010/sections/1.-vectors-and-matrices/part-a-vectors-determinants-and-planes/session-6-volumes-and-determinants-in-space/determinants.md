@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: b6114c1e9f8cffc46c0bcb49ffcdeca6
 inline_embed_id: 35389535determinants33292101
+order_index: 178
 parent_uid: bb78c434746c4a7d4c1a369991a0b5d2
 related_resources_text: ''
 short_url: determinants

@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: b896e752adf25687060cf47df9062092
 inline_embed_id: 86199187schrdingerequationforhydrogen85289223
+order_index: 1123
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: schroedinger-equation-for-hydrogen

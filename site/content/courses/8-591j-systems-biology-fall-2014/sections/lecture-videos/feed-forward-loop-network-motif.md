@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: f4a81e71e37ef7a05be4813cd3809ccc
 inline_embed_id: 8840596feed-forwardloopnetworkmotif73890628
+order_index: 74
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: feed-forward-loop-network-motif

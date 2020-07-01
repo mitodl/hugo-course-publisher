@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 46e3fb1ea5a232e5492e8a600e5b0967
 inline_embed_id: 57072863lecture24markovmatricesfourierseries19003984
+order_index: 1731
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: lecture-24-markov-matrices-fourier-series

@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 03c3305be73d821859a4853e298855c9
 inline_embed_id: 76409849fluxacrossacurve87269230
+order_index: 2157
 parent_uid: 667a15fc543385da7673e4a4912acd3d
 related_resources_text: ''
 short_url: flux-across-a-curve

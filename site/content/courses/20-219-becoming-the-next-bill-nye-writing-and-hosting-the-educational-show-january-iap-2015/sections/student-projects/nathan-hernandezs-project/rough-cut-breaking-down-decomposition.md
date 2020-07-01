@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 877971592c6ae7d998d230e37aebf1e4
 inline_embed_id: '94738723roughcut:breakingdowndecomposition42222676'
+order_index: 1254
 parent_uid: 65f298a79f2a0550e78ed9fc7ff17ff4
 related_resources_text: ''
 short_url: rough-cut-breaking-down-decomposition

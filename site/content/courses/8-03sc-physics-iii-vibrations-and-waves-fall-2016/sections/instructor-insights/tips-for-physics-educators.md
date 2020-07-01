@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 1d770e4556dc39336833fc2fc823c03e
 inline_embed_id: 27367235tipsforphysicseducators72301173
+order_index: 123
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
 related_resources_text: ''
 short_url: tips-for-physics-educators

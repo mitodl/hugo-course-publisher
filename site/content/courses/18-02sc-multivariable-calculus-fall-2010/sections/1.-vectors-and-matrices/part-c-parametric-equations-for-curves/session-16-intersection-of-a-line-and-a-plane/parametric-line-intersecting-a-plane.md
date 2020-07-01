@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: e02530b4a7e02f2d0023991fef13f6a3
 inline_embed_id: 12936381parametriclineintersectingaplane18201279
+order_index: 490
 parent_uid: d48352f417dcb010c0a5ce62f99b2e0a
 related_resources_text: ''
 short_url: parametric-line-intersecting-a-plane

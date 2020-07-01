@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 8d2fde6cec81596c121d4329533220b7
 inline_embed_id: 63821540equivalencerelations74968039
+order_index: 919
 parent_uid: 46dc2fd499548c08b14bda4cb29a9728
 related_resources_text: ''
 short_url: equivalence-relations

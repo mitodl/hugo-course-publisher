@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: dabf045654405bdb9cc4aa7b2b6124f4
 inline_embed_id: 72522221studentscommonmisconceptions8300155
+order_index: 33
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
 related_resources_text: ''
 short_url: students2019-common-misconceptions

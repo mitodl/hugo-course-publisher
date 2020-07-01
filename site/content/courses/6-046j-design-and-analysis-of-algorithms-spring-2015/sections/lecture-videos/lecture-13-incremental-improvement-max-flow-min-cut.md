@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: eb01a6a434cac888b084c1d7f48d75bb
 inline_embed_id: '55702428lecture13:incrementalimprovement:maxflow,mincut52230917'
+order_index: 227
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-13-incremental-improvement-max-flow-min-cut

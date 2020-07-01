@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 373246d0f686b37d7592b179d7c0142c
 inline_embed_id: 85767057lecture2applyingsupplyanddemand81844071
+order_index: 36
 parent_uid: bf5626a7d48dd3b258c678a13912ef84
 related_resources_text: ''
 short_url: lecture-2-applying-supply-and-demand

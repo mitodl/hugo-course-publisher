@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: f67d7d6599b446d24de6d1ba2b330c2a
 inline_embed_id: '85531534clip1:substitution8277202'
+order_index: 1739
 parent_uid: def23901ebbad92ea90a23199cbba444
 related_resources_text: ''
 short_url: clip-1-substitution

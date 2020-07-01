@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: e8f331df0d0f6336865059b12deca274
 inline_embed_id: '53831683clip2:averageheight(3min)34564869'
+order_index: 2520
 parent_uid: 7e226a8ff6296ef690524c46584132b9
 related_resources_text: ''
 short_url: clip-2-average-height-3-min

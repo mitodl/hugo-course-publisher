@@ -67,6 +67,7 @@ embedded_media:
     type: Transcript
     uid: 6319b93fbba997521e38694521b90a7c
 inline_embed_id: '97365562lecture3:stronginduction78517960'
+order_index: 47
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: >-
   <p>Top Ten Proof Techniques Not Allowed in 6.042 (<a

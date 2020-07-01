@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: d9a73334a254781e3759ba164ac5971c
 inline_embed_id: 48128590structuralinduction62106046
+order_index: 571
 parent_uid: 4d13ab6c1f82b7293b6c5d3cde131d62
 related_resources_text: ''
 short_url: structural-induction

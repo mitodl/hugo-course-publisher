@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: becb593d6f31fba0db4b6c9ceda9c6e4
 inline_embed_id: 52830050video1thestoryofenron94336659
+order_index: 1205
 parent_uid: 035dbca412401abd0c08bb9c1c3c233d
 related_resources_text: ''
 short_url: video-1-the-story-of-enron-0

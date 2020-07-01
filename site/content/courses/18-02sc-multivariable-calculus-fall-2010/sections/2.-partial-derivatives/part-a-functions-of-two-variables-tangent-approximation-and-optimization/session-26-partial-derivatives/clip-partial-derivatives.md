@@ -35,6 +35,7 @@ embedded_media:
     type: Video
     uid: 8bd8df185aeae5c05c0645bc43d107ae
 inline_embed_id: '38180753clip:partialderivatives15267003'
+order_index: 797
 parent_uid: 9bc5502d75dd79dd4f220e496468c323
 related_resources_text: ''
 short_url: clip-partial-derivatives

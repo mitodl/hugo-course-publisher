@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: bd6115d225615e503e84fe39f72b5b89
 inline_embed_id: 18592688video8extensionsandtheedge92008521
+order_index: 2049
 parent_uid: 3083aeae63672e7661a334ffc021896d
 related_resources_text: ''
 short_url: video-8-extensions-and-the-edge-0

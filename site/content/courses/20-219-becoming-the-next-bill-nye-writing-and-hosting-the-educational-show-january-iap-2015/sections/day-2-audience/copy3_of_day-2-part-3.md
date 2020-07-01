@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 94b42339d45010478dc06cf271c0f88c
 inline_embed_id: '2995356stemnuggetworkshop:studentsandinstructorsbrainstorm19148405'
+order_index: 268
 parent_uid: 3da88bd7fc04b288622711604ae6a159
 related_resources_text: ''
 short_url: copy3_of_day-2-part-3

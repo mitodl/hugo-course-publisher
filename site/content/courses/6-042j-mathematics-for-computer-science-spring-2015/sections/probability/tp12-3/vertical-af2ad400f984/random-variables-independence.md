@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 03fa52fe804232cd78abf08bab92071b
 inline_embed_id: 59352454randomvariablesindependence21664423
+order_index: 1494
 parent_uid: bfa891117165b287cc94bdc357dcb0d4
 related_resources_text: ''
 short_url: random-variables-independence

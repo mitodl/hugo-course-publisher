@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 66acce5605e4673e420ae009fd539c64
 inline_embed_id: 73056051pythonvs.math66748598
+order_index: 431
 parent_uid: fc24c5ab1844baa962f3e8993e4c4905
 related_resources_text: ''
 short_url: python-vs.-math

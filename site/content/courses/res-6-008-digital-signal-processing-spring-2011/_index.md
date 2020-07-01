@@ -34,7 +34,9 @@ course_info:
     - Prof. Alan Oppenheim
   departments:
     - Supplemental Resources
-  course_features: []
+  course_features:
+    - feature: Lecture notes
+      subfeature: Complete
   topics:
     Engineering:
       Electrical Engineering:

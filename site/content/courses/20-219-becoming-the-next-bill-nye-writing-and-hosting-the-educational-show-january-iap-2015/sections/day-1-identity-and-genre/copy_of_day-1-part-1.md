@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: db4116de3b3d069e399f2f885d5de572
 inline_embed_id: 37622796introductionandrationaleforthecourse54726477
+order_index: 126
 parent_uid: e7ab07a59bf478a18a95a815093ec211
 related_resources_text: ''
 short_url: copy_of_day-1-part-1

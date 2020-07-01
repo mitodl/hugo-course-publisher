@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 19b4ddc94b409a5241a07c2640994dd6
 inline_embed_id: 87895822thepigeonholeprinciple28517277
+order_index: 1316
 parent_uid: d45e95172acf2a430d67a0ef15468161
 related_resources_text: ''
 short_url: the-pigeonhole-principle

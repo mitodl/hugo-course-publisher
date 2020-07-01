@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: b351b1e152a4508c2924dc0d25779703
 inline_embed_id: '55145056lecture14:portfoliotheory3664865'
+order_index: 176
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-14-portfolio-theory

@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 6a736f70d93431eda921d837f6d6be90
 inline_embed_id: 99149830lecture3orthonormalcolumnsinqgiveqqi44167751
+order_index: 52
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-3-orthonormal-columns-in-q-give-q2019q-i

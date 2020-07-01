@@ -51,6 +51,7 @@ embedded_media:
     type: Transcript
     uid: 5acd1e24a21ec6aff8bf51012dda178a
 inline_embed_id: 23245339video3pricesandqueries5812685
+order_index: 1989
 parent_uid: cc120fc4abea21d6d2ba4c82b1a95fc5
 related_resources_text: ''
 short_url: video-3-prices-and-queries-0

@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: d33cb0debc8b0133fb757896e11400ac
 inline_embed_id: 43887181domainsofvectorfields31377940
+order_index: 2258
 parent_uid: 7e63a591cff7d483506d4b94bb0df706
 related_resources_text: ''
 short_url: domains-of-vector-fields

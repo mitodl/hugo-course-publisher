@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: ce73a3af840ac349c1048c03c9ddf16e
 inline_embed_id: '67660536clip:volumesanddeterminantsinspace90896084'
+order_index: 172
 parent_uid: bb78c434746c4a7d4c1a369991a0b5d2
 related_resources_text: ''
 short_url: clip-volumes-and-determinants-in-space

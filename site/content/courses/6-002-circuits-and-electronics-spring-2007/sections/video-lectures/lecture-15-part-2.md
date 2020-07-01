@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: 2ee64d3ec8889994f9559603e6afdb50
 inline_embed_id: '19080234lecture15:second-ordersystems(part2)60608296'
+order_index: 309
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture Notes (<a target="_blank" title="Open in a new window."

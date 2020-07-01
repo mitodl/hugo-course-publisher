@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 860eba9304e99e396d88db44800bc9c6
 inline_embed_id: '43231602clip2:introductiontogeneralrulesfordifferentiation55940807'
+order_index: 444
 parent_uid: d35aadf5c6d2e1543aee74e2dfdda970
 related_resources_text: ''
 short_url: clip-2-introduction-to-general-rules-for-differentiation

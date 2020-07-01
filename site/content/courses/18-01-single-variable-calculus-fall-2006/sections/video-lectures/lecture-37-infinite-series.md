@@ -79,6 +79,7 @@ embedded_media:
     type: Transcript
     uid: fa9e126e5a3a2a6006aa623b49a56aa6
 inline_embed_id: '79611879lecture37:infiniteseries77834575'
+order_index: 530
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

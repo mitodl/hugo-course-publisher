@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 831e5e79ff757ee995e249ac2cb44805
 inline_embed_id: 20811198howdobraceswork?26646575
+order_index: 1131
 parent_uid: 1d079dd5c0b4174a4773f2520a5e0743
 related_resources_text: ''
 short_url: how-do-braces-work

@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 06db3fddf78e7352bbdd73c32418dcbe
 inline_embed_id: 75499268problemsolvingpowersofamatrix75090879
+order_index: 1464
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: problem-solving-powers-of-a-matrix

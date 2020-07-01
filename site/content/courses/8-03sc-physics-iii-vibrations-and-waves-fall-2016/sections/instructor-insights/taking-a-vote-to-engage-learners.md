@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 159871253e222f21210d63e33ba44873
 inline_embed_id: 5575113takingavotetoengagelearners60861434
+order_index: 78
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
 related_resources_text: ''
 short_url: taking-a-vote-to-engage-learners

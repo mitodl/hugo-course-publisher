@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 7afb067aed9cdd7b2248e3dff93ca46c
 inline_embed_id: 74354190lecture23acceleratinggradientdescentusemomentum29494280
+order_index: 233
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-23-accelerating-gradient-descent-use-momentum

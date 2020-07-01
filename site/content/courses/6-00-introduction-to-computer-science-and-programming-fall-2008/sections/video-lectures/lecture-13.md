@@ -92,6 +92,7 @@ embedded_media:
     uid: f541970645165024adaa45e4ce00e601
 inline_embed_id: >-
   2892045713:dynamicprogramming:overlappingsubproblems,optimalsubstructure14103295
+order_index: 186
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

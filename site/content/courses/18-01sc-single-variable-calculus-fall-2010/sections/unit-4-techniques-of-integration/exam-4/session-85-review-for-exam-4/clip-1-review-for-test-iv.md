@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: becbd0e0c384bdf685e85d523e3daf51
 inline_embed_id: '61187416clip1:reviewfortestiv11576480'
+order_index: 3629
 parent_uid: 4699d63d2fc16b8bd7fc498a382dc972
 related_resources_text: ''
 short_url: clip-1-review-for-test-iv

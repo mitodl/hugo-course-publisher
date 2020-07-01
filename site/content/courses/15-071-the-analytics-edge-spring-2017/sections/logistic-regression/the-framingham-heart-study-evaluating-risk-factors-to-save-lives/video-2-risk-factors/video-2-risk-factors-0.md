@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: b939b406d7b04054941f1ff7fae31c4e
 inline_embed_id: 58903716video2riskfactors73413435
+order_index: 630
 parent_uid: 0d81134389999639fbba0487029acf21
 related_resources_text: ''
 short_url: video-2-risk-factors-0

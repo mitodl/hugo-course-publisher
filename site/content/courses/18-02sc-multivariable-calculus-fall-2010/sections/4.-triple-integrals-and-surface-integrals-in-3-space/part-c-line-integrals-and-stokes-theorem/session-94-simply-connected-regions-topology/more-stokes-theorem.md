@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: b04cfb239116e3ff62268268269f56a0
 inline_embed_id: 37806129morestokes'theorem74586518
+order_index: 2991
 parent_uid: 9da45f785868f3aefcb2c3ec1ad5293e
 related_resources_text: ''
 short_url: more-stokes-theorem

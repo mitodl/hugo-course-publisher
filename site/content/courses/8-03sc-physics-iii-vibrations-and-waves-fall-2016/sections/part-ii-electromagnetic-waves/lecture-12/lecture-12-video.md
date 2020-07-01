@@ -50,6 +50,7 @@ embedded_media:
     type: Transcript
     uid: 2210844a119b733fc1e5ea25188893d8
 inline_embed_id: 17129507lecture12video77213611
+order_index: 665
 parent_uid: 44d635cce8fdd43ae8995f001ae3388c
 related_resources_text: ''
 short_url: lecture-12-video

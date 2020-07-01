@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: f813cd8b8a7d8327425d65818fc6445d
 inline_embed_id: 87717728lecture16thermodynamicsgibbsfreeenergyandentropy16096206
+order_index: 362
 parent_uid: 4161d4d2b7e64498f997dfb3b69eca3c
 related_resources_text: ''
 short_url: lecture-16-thermodynamics-gibbs-free-energy-and-entropy

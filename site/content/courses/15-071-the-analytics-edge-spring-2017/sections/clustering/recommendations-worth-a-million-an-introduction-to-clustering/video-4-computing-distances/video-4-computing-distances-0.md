@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 82e79fbc159315ffe0ec1950eb4c16e9
 inline_embed_id: 12786381video4computingdistances82944968
+order_index: 1342
 parent_uid: a5ab66993ed80a0f758b18debb6e10a5
 related_resources_text: ''
 short_url: video-4-computing-distances-0

@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 81c6591cb1b94adbe0bb957d746d0d1d
 inline_embed_id: '69038584lecture8:randomization:universal&perfecthashing13248889'
+order_index: 177
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-8-randomization-universal-perfect-hashing

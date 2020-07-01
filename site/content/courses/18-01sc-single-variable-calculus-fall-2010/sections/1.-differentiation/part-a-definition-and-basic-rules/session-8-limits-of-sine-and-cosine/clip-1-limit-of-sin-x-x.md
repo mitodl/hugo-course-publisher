@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 20d9f087dac6d2f209cd17bd6d18b155
 inline_embed_id: '37000564clip1:limitofsin(x)/x53199270'
+order_index: 385
 parent_uid: efc851d816c458170838c60287c6388d
 related_resources_text: ''
 short_url: clip-1-limit-of-sin-x-x

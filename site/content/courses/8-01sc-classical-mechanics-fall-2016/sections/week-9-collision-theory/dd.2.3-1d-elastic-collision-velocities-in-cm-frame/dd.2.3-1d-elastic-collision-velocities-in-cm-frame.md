@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 9351403f0afbc1009834a4e1ff8fc905
 inline_embed_id: 73099066dd.2.31delasticcollisionvelocitiesincmframe90334014
+order_index: 1803
 parent_uid: 97f0d15bd57aaf5151bf26eb9fbf5004
 related_resources_text: ''
 short_url: dd.2.3-1d-elastic-collision-velocities-in-cm-frame

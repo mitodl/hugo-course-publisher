@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 42f5b61d86e6a2049b8e54ec9724ea72
 inline_embed_id: '48138387clip2:integralofe-kx89057501'
+order_index: 3928
 parent_uid: 3fa268819900b3ee4bc8d590323f17dc
 related_resources_text: ''
 short_url: clip-2-integral-of-e2212kx

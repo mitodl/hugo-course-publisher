@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 8d423015b1faae6bb5dc2e0c15e0b0df
 inline_embed_id: 71231748anoverviewofkeyideas573915
+order_index: 1047
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: an-overview-of-key-ideas

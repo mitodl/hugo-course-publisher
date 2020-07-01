@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: 6645746b72fce7f31b445b8392c93270
 inline_embed_id: '70898777clip1:work,lineintegrals,curl86183882'
+order_index: 3202
 parent_uid: 1c1eefd6f3a6602f82cc22e51a322ada
 related_resources_text: ''
 short_url: clip-1-work-line-integrals-curl

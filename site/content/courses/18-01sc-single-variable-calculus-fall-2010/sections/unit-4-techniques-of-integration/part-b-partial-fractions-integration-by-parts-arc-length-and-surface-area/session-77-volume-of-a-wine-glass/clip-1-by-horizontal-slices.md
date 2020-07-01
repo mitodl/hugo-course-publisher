@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 5d51dcf3f9ae02e2ffc143a9bb3b99c1
 inline_embed_id: '43131696clip1:byhorizontalslices28376437'
+order_index: 3252
 parent_uid: fd4292467eebd7160d4a260559201a7c
 related_resources_text: ''
 short_url: clip-1-by-horizontal-slices

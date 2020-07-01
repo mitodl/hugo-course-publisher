@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: ff775817ed3aebbdada91bda430a6454
 inline_embed_id: '80706827clip1:introductiontodifferentiation17741941'
+order_index: 300
 parent_uid: a50336604c88798f90662c641ab35802
 related_resources_text: ''
 short_url: clip-1-introduction-to-differentiation

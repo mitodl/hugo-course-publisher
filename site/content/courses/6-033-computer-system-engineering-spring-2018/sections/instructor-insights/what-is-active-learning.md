@@ -50,6 +50,7 @@ embedded_media:
     type: Video
     uid: d661b527e3206bf06a182abaa073951f
 inline_embed_id: 87590836whatisactivelearning76086016
+order_index: 20
 parent_uid: e75a8c08e11786c535031b5e10f0fe19
 related_resources_text: ''
 short_url: what-is-active-learning

@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: e5fc40eeab1c9fa15007d7fd88beecc7
 inline_embed_id: 34751381thefrequencyofamatterwave75300138
+order_index: 190
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: the-frequency-of-a-matter-wave

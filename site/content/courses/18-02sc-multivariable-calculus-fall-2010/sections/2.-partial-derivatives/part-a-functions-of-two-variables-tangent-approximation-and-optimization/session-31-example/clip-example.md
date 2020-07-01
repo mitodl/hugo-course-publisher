@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: b09643f4d89f665fc9d4a051006eb901
 inline_embed_id: '46991185clip:example90079533'
+order_index: 974
 parent_uid: c7fadc2428f5b544329743d57919860a
 related_resources_text: ''
 short_url: clip-example

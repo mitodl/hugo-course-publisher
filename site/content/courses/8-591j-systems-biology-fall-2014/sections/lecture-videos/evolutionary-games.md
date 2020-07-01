@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 9f2966afaeb53f0093a8464780e93a06
 inline_embed_id: 60715161evolutionarygames51692431
+order_index: 184
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: evolutionary-games

@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 3f7976c27e924b69201a87f5af610fbf
 inline_embed_id: 49284810digitallogic42913728
+order_index: 335
 parent_uid: e3e3f5940c0632b46da910e10c86d2ef
 related_resources_text: ''
 short_url: digital-logic

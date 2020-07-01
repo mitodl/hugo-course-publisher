@@ -63,6 +63,7 @@ embedded_media:
     type: Video
     uid: 4130ec4a0fc6427efa173556b7009ffb
 inline_embed_id: 20481874lecture26chemicalandbiologicaloxidations13342553
+order_index: 521
 parent_uid: 177e7d2c285d8b804e37ccce474cee78
 related_resources_text: ''
 short_url: lecture-26-chemical-and-biological-oxidations

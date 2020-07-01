@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 19674cc400a4e40b92c1cad5357c37bd
 inline_embed_id: '95705684clip2:morenewfunctionsfromold11576829'
+order_index: 2349
 parent_uid: 2c6806175167ca26dcd9f490d43c4c0a
 related_resources_text: ''
 short_url: clip-2-more-new-functions-from-old

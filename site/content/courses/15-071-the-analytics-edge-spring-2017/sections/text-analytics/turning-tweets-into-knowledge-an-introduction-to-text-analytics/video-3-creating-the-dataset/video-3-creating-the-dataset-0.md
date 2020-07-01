@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: feee2e0872666f6a00e9d556ce986f5d
 inline_embed_id: 88578179video3creatingthedataset12357829
+order_index: 1064
 parent_uid: f8520c5ec3cf3c3fe04672b8a73ae3a5
 related_resources_text: ''
 short_url: video-3-creating-the-dataset-0

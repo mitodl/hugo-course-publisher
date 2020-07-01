@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: ea5cccbb0fb0b80a4c0ed5e0bf54a285
 inline_embed_id: '8010915clip2:example:ln((1+1/k)k)47796662'
+order_index: 1212
 parent_uid: 83a48b57d3d2a4086881aa5771dbfcba
 related_resources_text: ''
 short_url: clip-2-example-ln-1-1-k-k

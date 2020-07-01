@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 73c710ab7d1bfffa55af4dd0ed13076b
 inline_embed_id: '49037663part2:financialprojections42453626'
+order_index: 74
 parent_uid: 7425dbab24bd40b9d0c0c704cab7eab2
 related_resources_text: ''
 short_url: part-2-financial-projections

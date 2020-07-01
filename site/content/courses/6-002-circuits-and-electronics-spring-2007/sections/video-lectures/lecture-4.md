@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: 8871d4195f88ce6d9bd819e2d0dd9604
 inline_embed_id: '85339995lecture4:thedigitalabstraction55462103'
+order_index: 153
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture notes (<a target="_blank" title="Open in a new window."

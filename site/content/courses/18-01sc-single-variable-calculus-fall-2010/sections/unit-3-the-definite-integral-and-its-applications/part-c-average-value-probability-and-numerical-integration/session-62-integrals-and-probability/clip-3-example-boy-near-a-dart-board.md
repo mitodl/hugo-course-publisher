@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 2c8f815782f13340efd15cded941fd4f
 inline_embed_id: '16536236clip3:example:boynearadartboard12364015'
+order_index: 2625
 parent_uid: 1fa09ca81711139c23be618aa2768257
 related_resources_text: ''
 short_url: clip-3-example-boy-near-a-dart-board

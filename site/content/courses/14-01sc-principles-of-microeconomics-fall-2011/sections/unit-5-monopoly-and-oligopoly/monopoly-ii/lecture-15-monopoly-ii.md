@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 637631a505627e0245b2bfbcf072ebf5
 inline_embed_id: 52244287lecture15monopolyii38956838
+order_index: 347
 parent_uid: 50af805fc0a0d661779cf0c42425f15d
 related_resources_text: ''
 short_url: lecture-15-monopoly-ii

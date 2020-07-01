@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 97e66c5ffeeb0a3f8e2c162a4a6a562d
 inline_embed_id: '92131550clip2:integralofln(x)270042493'
+order_index: 3198
 parent_uid: b196b3d2413fa8015d43695883cc671a
 related_resources_text: ''
 short_url: clip-2-integral-of-ln-x-2

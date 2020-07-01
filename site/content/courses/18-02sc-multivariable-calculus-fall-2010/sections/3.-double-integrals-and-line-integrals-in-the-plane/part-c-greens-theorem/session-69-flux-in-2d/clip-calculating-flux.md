@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 60f69a4c6ef3cf90114287e815015a02
 inline_embed_id: '25405150clip:calculatingflux1750090'
+order_index: 2167
 parent_uid: 667a15fc543385da7673e4a4912acd3d
 related_resources_text: ''
 short_url: clip-calculating-flux

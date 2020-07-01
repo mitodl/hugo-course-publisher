@@ -50,6 +50,7 @@ embedded_media:
     type: Transcript
     uid: 89cd275966034052e679270997406ba2
 inline_embed_id: 95666793lecture26complexmatricesfastfouriertransformfft48272038
+order_index: 1692
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: lecture-26-complex-matrices-fast-fourier-transform-fft

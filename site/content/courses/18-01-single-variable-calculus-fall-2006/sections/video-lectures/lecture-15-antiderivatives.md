@@ -77,6 +77,7 @@ embedded_media:
     type: Transcript
     uid: ca82143ba5f2466d892f7cdf327ef847
 inline_embed_id: '42862975lecture15:antiderivatives29536772'
+order_index: 283
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

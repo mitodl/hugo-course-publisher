@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: f151549d45c436472b96462f3680573d
 inline_embed_id: '51302324instructorinterview:workshops33448399'
+order_index: 74
 parent_uid: 526193cf30dacdf1c6734faab57d51d7
 related_resources_text: ''
 short_url: instructor-interview-teaching-through-workshops

@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 8979304842acc6775110ad18e734f374
 inline_embed_id: '79422715lecture15:learning:nearmisses,felicityconditions63835591'
+order_index: 169
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
 short_url: lecture-15-learning-near-misses-felicity-conditions

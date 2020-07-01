@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 3cfec6ce1b21dbdddc3a899a1195b9bd
 inline_embed_id: 59575484video6agreedyapproach21449513
+order_index: 2027
 parent_uid: ba7cbf9c8693f7f073ab2fc26c0c9b2d
 related_resources_text: ''
 short_url: video-6-a-greedy-approach-0

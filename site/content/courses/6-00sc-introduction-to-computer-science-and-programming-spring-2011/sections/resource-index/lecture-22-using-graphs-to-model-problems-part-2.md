@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 6513be692ffc1cb2ba01da0911933253
 inline_embed_id: 73287878lecture22usinggraphstomodelproblemspart214278722
+order_index: 845
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: lecture-22-using-graphs-to-model-problems-part-2

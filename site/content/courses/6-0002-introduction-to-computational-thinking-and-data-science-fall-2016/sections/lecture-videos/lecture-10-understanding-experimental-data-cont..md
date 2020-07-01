@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 897b1153eb754ca91dd0c88ff7b831cd
 inline_embed_id: 97856044lecture10understandingexperimentaldatacont.73960523
+order_index: 96
 parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
 short_url: lecture-10-understanding-experimental-data-cont.

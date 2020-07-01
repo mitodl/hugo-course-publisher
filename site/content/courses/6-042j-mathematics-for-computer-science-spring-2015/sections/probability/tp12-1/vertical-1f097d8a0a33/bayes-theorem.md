@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 34eed0f838d4e9a6d6aa1c9aeb289998
 inline_embed_id: 67967128bayestheorem90462898
+order_index: 1425
 parent_uid: 719a707ae7a41f34c6885d5a02df431c
 related_resources_text: ''
 short_url: bayes-theorem

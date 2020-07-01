@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 0543c4b5ede7809cb0149b6ecd005c39
 inline_embed_id: 84770030lecture1introductionandoptimizationproblems66005298
+order_index: 6
 parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
 short_url: lecture-1-introduction-and-optimization-problems

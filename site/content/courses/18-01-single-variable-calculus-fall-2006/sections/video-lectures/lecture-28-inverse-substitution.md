@@ -77,6 +77,7 @@ embedded_media:
     type: Transcript
     uid: 575629c380869e892c0ea9aadafd4c91
 inline_embed_id: '72138119lecture28:inversesubstitution61233873'
+order_index: 426
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: b07a04e1077e685cd0c4e652d844ea50
 inline_embed_id: '78757086clip5:differentiableimpliescontinuous43395597'
+order_index: 284
 parent_uid: d0bc8735c3a450ca5aad8ed8059d679d
 related_resources_text: ''
 short_url: clip-5-differentiable-implies-continuous

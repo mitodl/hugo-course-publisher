@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: 75ec7283c6f69654d24b5f903429c8d3
 inline_embed_id: '36735412lecture8:dependentsourcesandamplifiers33264142'
+order_index: 201
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture notes (<a title="Open in a new window." target="_blank"

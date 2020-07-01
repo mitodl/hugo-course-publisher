@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 8a88e7a7c832026e84edc44703ec0951
 inline_embed_id: '60443749clip1:themostnaturallogarithmicfunction8870351'
+order_index: 800
 parent_uid: 625f9141b9dc5a9365acef497e19af09
 related_resources_text: ''
 short_url: clip-1-the-most-natural-logarithmic-function

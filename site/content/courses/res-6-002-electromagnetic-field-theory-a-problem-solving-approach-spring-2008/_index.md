@@ -31,7 +31,9 @@ course_info:
     - Prof. Markus Zahn
   departments:
     - Supplemental Resources
-  course_features: []
+  course_features:
+    - feature: Assignments
+      subfeature: problem sets with solutions
   topics:
     Engineering:
       Electrical Engineering: []

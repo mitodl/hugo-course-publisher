@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 2e474a07c159a2880152bfb702509bd4
 inline_embed_id: 99013787lecture13somebasicprobabilityandplottingdata90995320
+order_index: 735
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: lecture-13-some-basic-probability-and-plotting-data

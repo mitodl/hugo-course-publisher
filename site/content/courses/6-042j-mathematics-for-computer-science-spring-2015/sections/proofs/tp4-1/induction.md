@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 29d625429e358ce1ab3dea8b3a04fd27
 inline_embed_id: 51208522induction11982837
+order_index: 474
 parent_uid: 5179d7c0c3f7a60a33d7c24d9d219172
 related_resources_text: ''
 short_url: induction

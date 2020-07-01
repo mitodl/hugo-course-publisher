@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: 8a5ffef1c1bac7230908dbe1b2efae89
 inline_embed_id: '1681703lecture16:sinusoidalsteadystate79463203'
+order_index: 321
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture Notes (<a target="_blank" title="Open in a new window."

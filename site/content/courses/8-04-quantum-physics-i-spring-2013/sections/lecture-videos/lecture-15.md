@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 1c92b4f13ffe1ccf392f619405cdbe2b
 inline_embed_id: 63962876lecture157503270
+order_index: 157
 parent_uid: 7db32ae07a854e38e1c54c430b655e2c
 related_resources_text: ''
 short_url: lecture-15

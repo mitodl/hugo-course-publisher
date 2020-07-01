@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 447dfb86c2383f887cf2609146df025e
 inline_embed_id: 83571784lecture14classificationandstatisticalsins22431195
+order_index: 136
 parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
 short_url: lecture-14-classification-and-statistical-sins

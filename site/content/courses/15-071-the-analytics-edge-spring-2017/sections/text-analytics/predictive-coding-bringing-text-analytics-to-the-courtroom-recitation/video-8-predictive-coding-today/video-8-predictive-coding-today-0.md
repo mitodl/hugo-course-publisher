@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 844337567b4b14e4a28ddd29032cb5f4
 inline_embed_id: 1081291video8predictivecodingtoday44027604
+order_index: 1278
 parent_uid: 452a514d74e9b441d73ae42c18939bda
 related_resources_text: ''
 short_url: video-8-predictive-coding-today-0

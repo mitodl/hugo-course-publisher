@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: fdbdd7b14375fe35d5719d8559d3f3d1
 inline_embed_id: 38713090computingthevolumeofaparaboloid14171352
+order_index: 2017
 parent_uid: d5e0c7a6f17252a3c694d627faf12123
 related_resources_text: ''
 short_url: computing-the-volume-of-a-paraboloid

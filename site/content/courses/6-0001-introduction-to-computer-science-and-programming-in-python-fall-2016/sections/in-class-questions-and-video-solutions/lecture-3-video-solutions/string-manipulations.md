@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 3bd18759f4b8b55a3ca835885273ffe2
 inline_embed_id: 34509673stringmanipulations27119224
+order_index: 503
 parent_uid: 86807bcdf508e055618e74f3d00e6bc7
 related_resources_text: ''
 short_url: string-manipulations

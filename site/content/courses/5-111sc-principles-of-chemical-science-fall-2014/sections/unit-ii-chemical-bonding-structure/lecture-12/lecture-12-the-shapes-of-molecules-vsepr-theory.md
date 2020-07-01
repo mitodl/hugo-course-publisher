@@ -64,6 +64,7 @@ embedded_media:
     type: Video
     uid: aac3b79a2601ab1d5e5527016802a8bc
 inline_embed_id: 63117917lecture12theshapesofmoleculesvseprtheory97266932
+order_index: 288
 parent_uid: 657cf6250ea3965b75075d66ee3cb607
 related_resources_text: ''
 short_url: lecture-12-the-shapes-of-molecules-vsepr-theory

@@ -51,6 +51,7 @@ embedded_media:
     type: Transcript
     uid: 522929d95f61de9c718b9be23555811f
 inline_embed_id: 15330568diversitytrainingaddressingstereotypethreatintheclassroom40641276
+order_index: 111
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
 related_resources_text: ''
 short_url: diversity-training-addressing-stereotype-threat-in-the-classroom

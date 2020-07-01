@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: bafe958f2ded0a9584093cfe44b2c6b3
 inline_embed_id: 47690204potentialsofgradientfields64882132
+order_index: 1968
 parent_uid: d4f09bad1bc504b82a719aa7c3f72168
 related_resources_text: ''
 short_url: potentials-of-gradient-fields

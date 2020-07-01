@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 6da5d27f5e1843539e947ed2a35bb4cf
 inline_embed_id: 55826440lecture33neuralnetsandthelearningfunction71312826
+order_index: 305
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-33-neural-nets-and-the-learning-function

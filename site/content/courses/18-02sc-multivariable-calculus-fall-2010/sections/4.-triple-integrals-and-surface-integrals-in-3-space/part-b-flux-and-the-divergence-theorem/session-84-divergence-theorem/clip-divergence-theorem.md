@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 0091c7821322c3f0c26f35e76e5fbac5
 inline_embed_id: '88217861clip:divergencetheorem50136500'
+order_index: 2664
 parent_uid: d088492f402f9db5c30dcd82be2c37a6
 related_resources_text: ''
 short_url: clip-divergence-theorem

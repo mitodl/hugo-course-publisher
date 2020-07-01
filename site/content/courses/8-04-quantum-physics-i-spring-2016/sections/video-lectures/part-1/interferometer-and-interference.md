@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: d63d08ce8ec5232dedd00c01add3ffde
 inline_embed_id: 42261738interferometerandinterference6997456
+order_index: 108
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: interferometer-and-interference

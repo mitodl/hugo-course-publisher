@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: ef4693dbb0c22715c7244ab3614fc4e5
 inline_embed_id: 1112522secondfundamentaltheoremandquadraticapproximation792469
+order_index: 2249
 parent_uid: 9b4c6b77599861b820e8c804596b8c24
 related_resources_text: ''
 short_url: second-fundamental-theorem-and-quadratic-approximation

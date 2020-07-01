@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 592fb993b5405e68e393babd99d66a3e
 inline_embed_id: 76738963lecture13molecularorbitaltheory77852093
+order_index: 301
 parent_uid: 0e6db31791e13ca80e855c92186dafb0
 related_resources_text: ''
 short_url: lecture-13-molecular-orbital-theory

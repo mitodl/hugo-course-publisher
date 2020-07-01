@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 8c5de54a67288d40a22be1df8bf23f52
 inline_embed_id: '53916625lecture18:speedingupdijkstra15893163'
+order_index: 226
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-18-speeding-up-dijkstra

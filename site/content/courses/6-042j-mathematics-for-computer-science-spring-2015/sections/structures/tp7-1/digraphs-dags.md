@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 247415baa51b6fbabfacbee373cdd1a9
 inline_embed_id: 58911887dags43834136
+order_index: 853
 parent_uid: 30a03ec26577751dfb8c5b6d0813ce12
 related_resources_text: ''
 short_url: digraphs-dags

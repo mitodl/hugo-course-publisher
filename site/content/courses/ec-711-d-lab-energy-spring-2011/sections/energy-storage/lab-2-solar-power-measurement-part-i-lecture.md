@@ -31,6 +31,7 @@ embedded_media:
     type: Thumbnail
     uid: 49fad6774fb393e1e1712334c3339bc6
 inline_embed_id: '65103759lab2:solarpowermeasurement,parti:lecture87314245'
+order_index: 35
 parent_uid: bd09c1cc93fd481d39456e105dc16816
 related_resources_text: ''
 short_url: lab-2-solar-power-measurement-part-i-lecture

@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 9ca8371c1faeb9ea54c2ec7435037397
 inline_embed_id: 81140519video7savingwithscriptfiles53913053
+order_index: 175
 parent_uid: 5b9fe301be29cb46df9fedbbf748fc62
 related_resources_text: ''
 short_url: video-7-saving-with-script-files-0

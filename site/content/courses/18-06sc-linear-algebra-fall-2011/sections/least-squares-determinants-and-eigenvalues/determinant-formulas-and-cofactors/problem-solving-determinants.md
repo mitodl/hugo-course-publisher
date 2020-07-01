@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 2d92d5d4d30353a3df7c49068e534789
 inline_embed_id: '70935519problemsolving:determinants96553407'
+order_index: 538
 parent_uid: 172571ec14688c38e3a602925af8e7d9
 related_resources_text: ''
 short_url: problem-solving-determinants

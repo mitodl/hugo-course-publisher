@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 5049f4c62e0f9d5b0bf94dbc0bdddc54
 inline_embed_id: '19621783clip1:introductiontoordinarydifferential80538496'
+order_index: 1785
 parent_uid: 282fb51987e0067ffc0e5d6f637739cf
 related_resources_text: ''
 short_url: clip-1-introduction-to-ordinary-differential

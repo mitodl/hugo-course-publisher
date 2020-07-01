@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 2208d7ce70ed7af97b097c377aa8b49d
 inline_embed_id: 79010025quantummechanicsasaframework.defininglinearity81691624
+order_index: 28
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: quantum-mechanics-as-a-framework.-defining-linearity

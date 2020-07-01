@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 98cfc9adc9f1bbb047e9c91ebaeb745d
 inline_embed_id: 20702261diehardprimes3586135
+order_index: 714
 parent_uid: 14b2703457c6fbfdf20f417b00878d32
 related_resources_text: ''
 short_url: die-hard-primes

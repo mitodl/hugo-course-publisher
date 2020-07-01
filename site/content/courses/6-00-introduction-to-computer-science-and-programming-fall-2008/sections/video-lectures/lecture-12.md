@@ -91,6 +91,7 @@ embedded_media:
     type: Transcript
     uid: caf2c6cd9f57f3d803a4116740309ba7
 inline_embed_id: '717347112:debugging,knapsackproblem,introductiontodynamicprogramming41739561'
+order_index: 171
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

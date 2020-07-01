@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 1b159f32bb726bf445189cdd46e6d19e
 inline_embed_id: '69205753clip2:integralof1/x,simpson''srule84032183'
+order_index: 2742
 parent_uid: 602ce034a62f6b4a95884c519f8f4412
 related_resources_text: ''
 short_url: clip-2-integral-of-1-x-simpsons-rule

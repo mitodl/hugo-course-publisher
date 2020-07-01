@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 7dbcac50f2ba2ece08284dd0e6748b7d
 inline_embed_id: 80678661lecture21acidbaseequilibriumismitwatersafetodrink5166415
+order_index: 427
 parent_uid: 1f4d2b01744213a244311f67ec24ecae
 related_resources_text: ''
 short_url: lecture-21-acid-base-equilibrium-is-mit-water-safe-to-drink

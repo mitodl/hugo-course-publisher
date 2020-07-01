@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 0c80aff61cad07fce96dd5881b7f0546
 inline_embed_id: 20663279averagex-coordinateinaregion18803326
+order_index: 2635
 parent_uid: 1fa09ca81711139c23be618aa2768257
 related_resources_text: ''
 short_url: average-x-coordinate-in-a-region

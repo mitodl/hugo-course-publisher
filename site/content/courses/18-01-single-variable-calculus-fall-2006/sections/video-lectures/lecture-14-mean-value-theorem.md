@@ -76,6 +76,7 @@ embedded_media:
     type: Transcript
     uid: 09382a1bb70e56dc9f5d0743f5725d97
 inline_embed_id: '22169186lecture14:meanvaluetheorem85564022'
+order_index: 270
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

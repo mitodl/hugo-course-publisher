@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 8788f4c0ea76093ef4fd1d3c280bcafa
 inline_embed_id: 48303739seriescalculationusingariemannsum75987060
+order_index: 4447
 parent_uid: c22c320788f09de5fe78a6e305cad2b4
 related_resources_text: ''
 short_url: series-calculation-using-a-riemann-sum

@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: d9d3135dae1bb35d0efe685e7d59af5d
 inline_embed_id: 76569626dd.2.4workedexample1delasticcollisionincm84535664
+order_index: 1814
 parent_uid: fa64fe6487b47146141a6e35eb5cb93c
 related_resources_text: ''
 short_url: dd.2.4-worked-example-1d-elastic-collision-in-cm

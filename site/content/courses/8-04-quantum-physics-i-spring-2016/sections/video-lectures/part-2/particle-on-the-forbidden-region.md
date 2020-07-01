@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 156342b12e3b0e0ffb2605d9accfdbb2
 inline_embed_id: 67370711particleontheforbiddenregion42197321
+order_index: 962
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: particle-on-the-forbidden-region

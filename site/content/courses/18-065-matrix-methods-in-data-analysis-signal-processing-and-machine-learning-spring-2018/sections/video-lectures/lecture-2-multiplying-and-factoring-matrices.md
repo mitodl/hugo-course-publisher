@@ -77,6 +77,7 @@ embedded_media:
     type: Transcript
     uid: 192dad4b8ebe9dc5c04afe86e46869f7
 inline_embed_id: 694229lecture2multiplyingandfactoringmatrices76346298
+order_index: 41
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-2-multiplying-and-factoring-matrices

@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: eef20d668166da0ab9348c0fcc8c1559
 inline_embed_id: 79690896simplelists30422436
+order_index: 555
 parent_uid: a57c778604ec07438250f01957eb34b1
 related_resources_text: ''
 short_url: simple-lists

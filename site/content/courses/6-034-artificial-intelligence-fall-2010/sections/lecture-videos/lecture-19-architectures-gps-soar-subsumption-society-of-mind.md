@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: b6fd0a8958f812849f1f41378e62fd9c
 inline_embed_id: '16211933lecture19:architectures:gps,soar,subsumption,societyofmind40306700'
+order_index: 209
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
 short_url: lecture-19-architectures-gps-soar-subsumption-society-of-mind

@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 0992b66972540aa3ccca9f2c920e7e92
 inline_embed_id: 24520105buildingateamofteachingassistants45828622
+order_index: 91
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
 related_resources_text: ''
 short_url: building-a-team-of-teaching-assistants

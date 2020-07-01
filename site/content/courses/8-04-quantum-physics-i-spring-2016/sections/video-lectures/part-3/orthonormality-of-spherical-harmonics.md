@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 5159ac4ca76a2ed154e1617058fcafbb
 inline_embed_id: 5467593orthonormalityofsphericalharmonics51077550
+order_index: 1073
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: orthonormality-of-spherical-harmonics

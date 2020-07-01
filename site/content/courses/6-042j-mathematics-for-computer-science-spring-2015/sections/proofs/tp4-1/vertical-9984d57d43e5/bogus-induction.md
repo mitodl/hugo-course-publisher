@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 7eaf058257e673ea5748468f692b15b3
 inline_embed_id: 61173422bogusinduction58393400
+order_index: 486
 parent_uid: 5c7eefc2aa74f435dfec3b66a4c02648
 related_resources_text: ''
 short_url: bogus-induction

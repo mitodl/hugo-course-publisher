@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 57033668b40d7ab01574196e1ac12d7b
 inline_embed_id: '89761176clip3:infinitediscontinuities65470651'
+order_index: 264
 parent_uid: d0bc8735c3a450ca5aad8ed8059d679d
 related_resources_text: ''
 short_url: clip-3-infinite-discontinuities

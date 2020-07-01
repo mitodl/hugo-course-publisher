@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 9af605d3e56424a172d7348c1ba0cf44
 inline_embed_id: '99478090lecture14:incrementalimprovement:matching67643823'
+order_index: 237
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-14-incremental-improvement-matching

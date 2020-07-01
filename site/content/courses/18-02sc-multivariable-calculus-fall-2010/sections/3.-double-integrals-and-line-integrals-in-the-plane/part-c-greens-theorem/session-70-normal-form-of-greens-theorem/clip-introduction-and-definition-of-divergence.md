@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: 9b7b687b3fa5169a875160ab2ac05fd4
 inline_embed_id: '81334739clip:introductionanddefinitionofdivergence94908240'
+order_index: 2194
 parent_uid: dae7ac007cfa7edbc3d63aa45f355773
 related_resources_text: ''
 short_url: clip-introduction-and-definition-of-divergence

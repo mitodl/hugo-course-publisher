@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 52a1d198d93cac8d041c73c3e1aee64d
 inline_embed_id: '56460713lecture22:probabilisticinferenceii83241882'
+order_index: 229
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: >-
   <p>Specifically developed for this lecture are the <a

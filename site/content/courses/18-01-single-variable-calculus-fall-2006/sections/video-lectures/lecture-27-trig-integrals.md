@@ -79,6 +79,7 @@ embedded_media:
     type: Transcript
     uid: d5b577d4e4c7d18d22b829db4e494d65
 inline_embed_id: '50082439lecture27:trigintegrals84626598'
+order_index: 413
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

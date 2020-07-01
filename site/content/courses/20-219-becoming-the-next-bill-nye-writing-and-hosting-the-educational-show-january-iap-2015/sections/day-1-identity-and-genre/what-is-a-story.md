@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 4f332405eb105e61dbd00eb7222d4b4b
 inline_embed_id: 59082612whatisastory?73830255
+order_index: 206
 parent_uid: e7ab07a59bf478a18a95a815093ec211
 related_resources_text: ''
 short_url: what-is-a-story

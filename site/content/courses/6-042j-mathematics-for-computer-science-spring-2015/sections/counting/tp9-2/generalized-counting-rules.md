@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 410c7c3cfb895a313521f1c53cab3172
 inline_embed_id: 56241722generalizedcountingrules68025038
+order_index: 1267
 parent_uid: c8103e15328b9991c0774e6c0892ba9f
 related_resources_text: ''
 short_url: generalized-counting-rules

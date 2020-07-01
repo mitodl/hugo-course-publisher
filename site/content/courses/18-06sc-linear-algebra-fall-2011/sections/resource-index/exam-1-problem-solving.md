@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 5f9618874d7f80d9afdbcb148168be99
 inline_embed_id: 31187841exam1problemsolving97264589
+order_index: 1276
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: exam-1-problem-solving

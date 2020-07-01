@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 533936c4a181149b3cbb656b8438d150
 inline_embed_id: 20064910video5understandingthemodel2264773
+order_index: 338
 parent_uid: 6111ddea9e0270bea0978feb66c8bf60
 related_resources_text: ''
 short_url: video-5-understanding-the-model-0

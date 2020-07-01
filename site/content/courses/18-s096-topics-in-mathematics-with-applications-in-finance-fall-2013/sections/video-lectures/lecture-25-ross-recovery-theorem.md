@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 0b7296bb8face98655d1705994ca960f
 inline_embed_id: '77770939lecture25:rossrecoverytheorem1878505'
+order_index: 276
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-25-ross-recovery-theorem

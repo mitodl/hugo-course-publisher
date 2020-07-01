@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 0c98e1e29720115cd2b7478ecac698e7
 inline_embed_id: 50970156lecture4waveparticledualityofmatterschrdingerequation42559250
+order_index: 162
 parent_uid: 6c42d4207daaf98f42f3cf4c8b25c652
 related_resources_text: ''
 short_url: lecture-4-wave-particle-duality-of-matter-schroedinger-equation

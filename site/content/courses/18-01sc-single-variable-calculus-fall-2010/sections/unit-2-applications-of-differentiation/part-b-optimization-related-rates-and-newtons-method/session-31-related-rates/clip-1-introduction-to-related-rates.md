@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: a7131ec260d0bc82fce2b9c459cc70ec
 inline_embed_id: '15797215clip1:introductiontorelatedrates15922454'
+order_index: 1423
 parent_uid: 740c26e9a52f298e76ec9fb9679d1f19
 related_resources_text: ''
 short_url: clip-1-introduction-to-related-rates

@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: bcc06b7dfa9927194cb364c8d115b3f9
 inline_embed_id: '886747lecture20:operationalamplifiercircuits61221120'
+order_index: 369
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture Notes (<a target="_blank" title="Open in a new window."

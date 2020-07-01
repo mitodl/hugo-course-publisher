@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: ed3c51a225ab84325bae3a46c3dbeae6
 inline_embed_id: '13497078clip1:higherderivatives77440216'
+order_index: 555
 parent_uid: f0a4bb746fd734de38118b0ff7607e0b
 related_resources_text: ''
 short_url: clip-1-higher-derivatives

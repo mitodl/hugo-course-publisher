@@ -57,6 +57,7 @@ embedded_media:
     uid: 8bac6c1f2d1b0a3c91e5add0fef4a57e
 inline_embed_id: >-
   57733744workedexamplestackedblocksfreebodydiagramsandapplyingnewtons2ndlaw31594812
+order_index: 591
 parent_uid: 00aef6423d37f1e08db3ced31e4003c0
 related_resources_text: ''
 short_url: worked-example-stacked-blocks-free-body-diagrams-and-applying-newtons-2nd-law

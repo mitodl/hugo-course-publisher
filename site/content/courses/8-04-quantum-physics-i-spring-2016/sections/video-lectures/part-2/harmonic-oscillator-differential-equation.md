@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 900eb0c5165c7da70f86fb281b88afda
 inline_embed_id: 25291287harmonicoscillatordifferentialequation98062194
+order_index: 806
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: harmonic-oscillator-differential-equation

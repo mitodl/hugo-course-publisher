@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: 21dc686b69217e052bcb24545d6b2edf
 inline_embed_id: '16312221clip:extendedgreen''stheorem56626676'
+order_index: 2224
 parent_uid: 5bbb4de2941a4319bca341074dd6e5f3
 related_resources_text: ''
 short_url: clip-extended-greens-theorem

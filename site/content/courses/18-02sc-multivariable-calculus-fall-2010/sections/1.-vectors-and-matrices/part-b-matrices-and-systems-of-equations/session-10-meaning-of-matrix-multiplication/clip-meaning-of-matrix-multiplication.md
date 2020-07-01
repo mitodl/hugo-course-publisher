@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 2a7650769412e869084573190d95eea8
 inline_embed_id: '1271172clip:meaningofmatrixmultiplication27567958'
+order_index: 308
 parent_uid: 2893633a059cb4ab36d77e4e15b1e870
 related_resources_text: ''
 short_url: clip-meaning-of-matrix-multiplication

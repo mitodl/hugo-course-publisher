@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 9f221e5d10f5747f18c97af85b203be7
 inline_embed_id: 13963597lecture2optimizationproblems86961914
+order_index: 16
 parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
 short_url: lecture-2-optimization-problems

@@ -91,6 +91,7 @@ embedded_media:
     type: Transcript
     uid: f54e02f8f5bbba150ed6bb1105999d0f
 inline_embed_id: '5049219521:validatingsimulationresults,curvefitting,linearregression87499305'
+order_index: 306
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

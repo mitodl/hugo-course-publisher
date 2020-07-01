@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 608c364d32455cdaba167f0afaa8ce6e
 inline_embed_id: 85527801lecture31eigenvectorsofcirculantmatricesfouriermatrix11468198
+order_index: 287
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-31-eigenvectors-of-circulant-matrices-fourier-matrix

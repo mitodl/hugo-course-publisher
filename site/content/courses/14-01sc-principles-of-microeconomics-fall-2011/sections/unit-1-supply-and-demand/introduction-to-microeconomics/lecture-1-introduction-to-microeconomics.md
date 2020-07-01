@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: d601ec169476146c7f67da3c742824e5
 inline_embed_id: 70326405lecture1introductiontomicroeconomics23052072
+order_index: 22
 parent_uid: b9026c771341a253b9d1649dae571519
 related_resources_text: ''
 short_url: lecture-1-introduction-to-microeconomics

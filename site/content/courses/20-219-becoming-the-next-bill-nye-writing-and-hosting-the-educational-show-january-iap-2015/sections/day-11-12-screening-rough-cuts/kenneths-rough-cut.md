@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: fb883197f7e0aae290db83dcced6d031
 inline_embed_id: 9602697kenneth'sroughcut18763846
+order_index: 848
 parent_uid: 91a83a5a9923d001da64fbbcd37341cb
 related_resources_text: ''
 short_url: kenneths-rough-cut

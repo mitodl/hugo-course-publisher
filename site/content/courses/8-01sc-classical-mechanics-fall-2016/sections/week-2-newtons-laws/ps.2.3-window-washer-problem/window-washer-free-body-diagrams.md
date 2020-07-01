@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 96589ce128cb9aacef4886f8b0f7920a
 inline_embed_id: 45866059windowwasherfreebodydiagrams86054261
+order_index: 623
 parent_uid: 490e27c79c4c14bb971b8ce6ece1d220
 related_resources_text: ''
 short_url: window-washer-free-body-diagrams

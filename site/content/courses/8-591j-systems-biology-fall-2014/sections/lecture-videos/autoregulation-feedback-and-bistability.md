@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 7ad0f921ccea98be8e6acd8d46c3ad09
 inline_embed_id: '6414594autoregulation,feedbackandbistability74565420'
+order_index: 34
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: autoregulation-feedback-and-bistability

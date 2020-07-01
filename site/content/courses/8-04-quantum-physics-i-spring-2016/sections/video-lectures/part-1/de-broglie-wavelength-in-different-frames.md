@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: b72c4ba00e31bff83cb519fa5a2411be
 inline_embed_id: 17201653debrogliewavelengthindifferentframes10252408
+order_index: 168
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: de-broglie-wavelength-in-different-frames

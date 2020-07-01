@@ -78,6 +78,7 @@ embedded_media:
     type: Transcript
     uid: af1d258dabbb42e1065eb2f95da18152
 inline_embed_id: '31298264lecture6:exponentialandlog76690989'
+order_index: 179
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 116e76b973564b5bb7be0e37d62c7926
 inline_embed_id: '89574956lecture12a:neuralnets2882014'
+order_index: 129
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
 short_url: lecture-12a-neural-nets

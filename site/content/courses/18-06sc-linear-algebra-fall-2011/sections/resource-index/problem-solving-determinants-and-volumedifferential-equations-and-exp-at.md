@@ -59,6 +59,7 @@ embedded_media:
     uid: 623be707051b5236560205345724d145
 inline_embed_id: >-
   41876933problemsolvingdeterminantsandvolumedifferentialequationsandexpat5362595
+order_index: 1484
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: problem-solving-determinants-and-volumedifferential-equations-and-exp-at

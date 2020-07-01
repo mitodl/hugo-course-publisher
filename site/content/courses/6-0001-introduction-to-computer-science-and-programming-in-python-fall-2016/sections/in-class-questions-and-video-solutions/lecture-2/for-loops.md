@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: b2d46fc3ed1c895862a44a3a90bc8a21
 inline_embed_id: 47328150forloops19425566
+order_index: 224
 parent_uid: 666db218db6d8103cdcf41e2960132be
 related_resources_text: ''
 short_url: for-loops

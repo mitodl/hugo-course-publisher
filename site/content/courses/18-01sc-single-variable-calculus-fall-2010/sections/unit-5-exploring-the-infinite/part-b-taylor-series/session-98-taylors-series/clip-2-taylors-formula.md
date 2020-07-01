@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: e3ce1d68082bc41754b5bd811401aa14
 inline_embed_id: '44485042clip2:taylor''sformula7573484'
+order_index: 4265
 parent_uid: 30f32e825b1a1974da6c98b8de0aafd3
 related_resources_text: ''
 short_url: clip-2-taylors-formula

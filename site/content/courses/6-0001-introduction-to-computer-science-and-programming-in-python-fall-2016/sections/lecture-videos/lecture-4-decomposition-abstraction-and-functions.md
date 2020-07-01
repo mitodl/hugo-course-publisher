@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 96e19bb907bac2c876eb82f74dbf58d0
 inline_embed_id: 11885844lecture4decompositionabstractionandfunctions94004287
+order_index: 36
 parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
 short_url: lecture-4-decomposition-abstraction-and-functions

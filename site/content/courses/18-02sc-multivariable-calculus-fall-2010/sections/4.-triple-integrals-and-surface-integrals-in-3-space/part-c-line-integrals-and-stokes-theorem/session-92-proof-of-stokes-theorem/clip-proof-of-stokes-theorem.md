@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: cb3c57ff5d64589cc998ec493700261a
 inline_embed_id: '56014039clip:proofofstokes''theorem58184766'
+order_index: 2921
 parent_uid: 6bcf764105bf41d15a383392f24a4910
 related_resources_text: ''
 short_url: clip-proof-of-stokes-theorem

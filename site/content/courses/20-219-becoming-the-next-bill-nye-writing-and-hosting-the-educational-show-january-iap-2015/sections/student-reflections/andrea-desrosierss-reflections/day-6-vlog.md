@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 2f5e12bd4c78e907a3f38cdf209967fe
 inline_embed_id: 34120181day6vlog45238999
+order_index: 1462
 parent_uid: 0a26ad074929732e5270b0bfe8bbced9
 related_resources_text: ''
 short_url: day-6-vlog

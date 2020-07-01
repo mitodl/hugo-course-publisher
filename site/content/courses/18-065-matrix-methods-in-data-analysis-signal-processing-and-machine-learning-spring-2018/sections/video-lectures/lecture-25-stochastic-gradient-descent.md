@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 5139574f5e489f324ebf1f430813193d
 inline_embed_id: 40324935lecture25stochasticgradientdescent12038985
+order_index: 251
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-25-stochastic-gradient-descent

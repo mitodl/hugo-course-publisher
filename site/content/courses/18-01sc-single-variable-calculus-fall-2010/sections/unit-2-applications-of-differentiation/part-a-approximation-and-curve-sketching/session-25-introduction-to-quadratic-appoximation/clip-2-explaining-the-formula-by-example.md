@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 854864809ce9a473d49bf491cdb16411
 inline_embed_id: '83657069clip2:explainingtheformulabyexample95901537'
+order_index: 1163
 parent_uid: c5bed9b53f5684d68d5b41fd3419190b
 related_resources_text: ''
 short_url: clip-2-explaining-the-formula-by-example

@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 6cbff2f075216dc8a6a0e9e3ede1596f
 inline_embed_id: 63391666lecture15statisticalsinsandwrapup69695180
+order_index: 146
 parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
 short_url: lecture-15-statistical-sins-and-wrap-up

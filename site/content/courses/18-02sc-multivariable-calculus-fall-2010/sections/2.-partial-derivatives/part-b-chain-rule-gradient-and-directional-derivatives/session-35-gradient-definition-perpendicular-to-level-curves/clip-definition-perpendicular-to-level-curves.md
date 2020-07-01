@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: f9b0643e5cf90b4cee6e6984cc75dd0c
 inline_embed_id: '48106993clip:definition,perpendiculartolevelcurves872057'
+order_index: 1096
 parent_uid: bec58626ee69e1c4dd1854a8969ab451
 related_resources_text: ''
 short_url: clip-definition-perpendicular-to-level-curves

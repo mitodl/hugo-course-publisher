@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: bc4e298caff03591d45c60634ac88bf8
 inline_embed_id: 20996017completenessofeigenvectorsandmeasurementpostulate29088382
+order_index: 454
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: completeness-of-eigenvectors-and-measurement-postulate

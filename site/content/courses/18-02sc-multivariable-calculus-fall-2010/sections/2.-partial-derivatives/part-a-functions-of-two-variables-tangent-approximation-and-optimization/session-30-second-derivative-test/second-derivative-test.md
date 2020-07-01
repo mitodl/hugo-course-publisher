@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: acbf01b64d96a761da4d3fd5c01b7571
 inline_embed_id: 17657445secondderivativetest89556907
+order_index: 948
 parent_uid: 471874852c83ac551b87dcff9cb3f6cc
 related_resources_text: ''
 short_url: second-derivative-test

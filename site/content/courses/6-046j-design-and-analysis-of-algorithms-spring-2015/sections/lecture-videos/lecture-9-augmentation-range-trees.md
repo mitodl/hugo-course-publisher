@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 2fb5af59aef7fd00cb148261036ac382
 inline_embed_id: '66680522lecture9:augmentation:rangetrees53440732'
+order_index: 187
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-9-augmentation-range-trees

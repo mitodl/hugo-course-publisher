@@ -51,6 +51,7 @@ embedded_media:
     type: Thumbnail
     uid: c4e41216d7ef035f57717b40440affef
 inline_embed_id: 94489453video1thegoalofeharmony2802221
+order_index: 2131
 parent_uid: 11e612d89845c6c96a7307cebaa24191
 related_resources_text: ''
 short_url: video-1-the-goal-of-eharmony-0

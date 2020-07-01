@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 6f9f65ea2250cd4ad816a8af9481edd3
 inline_embed_id: '7148627lecture20:dynamicprogrammingii:textjustification,blackjack88428205'
+order_index: 246
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-20-dynamic-programming-ii-text-justification-blackjack

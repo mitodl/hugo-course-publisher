@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: fc81525ded268a51aca3b244f194a5dd
 inline_embed_id: 26192312clonalinterferenceandthedistributionofbeneficialmutations45300343
+order_index: 164
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: clonal-interference-and-the-distribution-of-beneficial-mutations

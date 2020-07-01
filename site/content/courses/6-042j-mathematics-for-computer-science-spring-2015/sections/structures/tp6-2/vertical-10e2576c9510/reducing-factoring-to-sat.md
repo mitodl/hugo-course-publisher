@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: f0bbd51fdd3169033294e06c06c74f38
 inline_embed_id: 44976787reducingfactoringtosat64414686
+order_index: 811
 parent_uid: 47ecda1473454286d8259977ef9b554b
 related_resources_text: ''
 short_url: reducing-factoring-to-sat

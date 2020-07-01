@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: d6e1024e3b4dc6469e3f5f619a2acdb5
 inline_embed_id: 1548735kconnectivity19157758
+order_index: 993
 parent_uid: 6d719689c9fbbc5f94b501260dec76f1
 related_resources_text: ''
 short_url: k-connectivity

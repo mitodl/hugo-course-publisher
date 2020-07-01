@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: b728f949505265c828f8bd4aa753b805
 inline_embed_id: '84596268clip:matrixinverses43838305'
+order_index: 328
 parent_uid: 1d9d5040576ea02c3a979204ca7b1e30
 related_resources_text: ''
 short_url: clip-matrix-inverses

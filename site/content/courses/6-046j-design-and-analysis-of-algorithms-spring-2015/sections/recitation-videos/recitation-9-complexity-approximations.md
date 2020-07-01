@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 02ce5612aa81930fcea0cd87137a095b
 inline_embed_id: '36257797recitation9:complexity:approximations56860431'
+order_index: 430
 parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
 short_url: recitation-9-complexity-approximations

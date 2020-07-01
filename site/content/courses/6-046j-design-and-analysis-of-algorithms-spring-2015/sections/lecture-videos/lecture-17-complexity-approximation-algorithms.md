@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: b804bd32f5b1f7f904790dc79186b264
 inline_embed_id: '90873438lecture17:complexity:approximationalgorithms78982074'
+order_index: 267
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-17-complexity-approximation-algorithms

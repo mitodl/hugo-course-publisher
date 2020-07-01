@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 2d45df49a7898deb67c7789d5bd2e430
 inline_embed_id: 14212872rydbergatoms40121176
+order_index: 1173
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: rydberg-atoms

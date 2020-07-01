@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 3306e739b8a1580a8ed4a1a7762165bc
 inline_embed_id: '11214643mega-recitation6:boosting25776667'
+order_index: 300
 parent_uid: 6be7704ddfe26b4e12703167347dd5bb
 related_resources_text: >-
   <p><a href="./resolveuid/47e0a5f385ea3126d928bdc239f1eecd"

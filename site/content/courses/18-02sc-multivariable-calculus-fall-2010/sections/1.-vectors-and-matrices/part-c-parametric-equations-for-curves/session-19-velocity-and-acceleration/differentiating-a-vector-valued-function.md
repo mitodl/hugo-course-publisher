@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 023cffd7b99ff2f1920bbc40811ce465
 inline_embed_id: 48596866differentiatingavectorvaluedfunction21673104
+order_index: 559
 parent_uid: dcdc00f031ba84ce819f58d5b2584e2e
 related_resources_text: ''
 short_url: differentiating-a-vector-valued-function

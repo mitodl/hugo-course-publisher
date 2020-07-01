@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 52627c043e34ff6ea09e6d6788f23c57
 inline_embed_id: 25365119parsevalidentity21842071
+order_index: 388
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: parseval-identity

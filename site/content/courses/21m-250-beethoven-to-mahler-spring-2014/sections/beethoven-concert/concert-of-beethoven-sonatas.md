@@ -51,6 +51,7 @@ embedded_media:
     type: Transcript
     uid: 4735b38de636b0d12ecf7d3448af8eaf
 inline_embed_id: 67124194concertofbeethovensonatas57637262
+order_index: 22
 parent_uid: df6177af1eaeee1dce1d4c398d186695
 related_resources_text: ''
 short_url: concert-of-beethoven-sonatas

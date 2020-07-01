@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: cce12c366aec33b57ac6a67e26b7353d
 inline_embed_id: '12603514clip2:linearapproximationtolnxatx=11033099'
+order_index: 1032
 parent_uid: 6c111f0f1d0b5fade36a1ca3687104d2
 related_resources_text: ''
 short_url: clip-2-linear-approximation-to-ln-x-at-x-1

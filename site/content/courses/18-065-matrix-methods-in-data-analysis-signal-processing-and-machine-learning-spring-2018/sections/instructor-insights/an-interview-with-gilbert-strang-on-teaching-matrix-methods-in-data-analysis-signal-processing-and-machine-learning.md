@@ -64,6 +64,7 @@ embedded_media:
     uid: 900f325e721c13a9156a4fc80526c91d
 inline_embed_id: >-
   49926333aninterviewwithgilbertstrangonteachingmatrixmethodsindataanalysissignalprocessingandmachinelearning13154188
+order_index: 19
 parent_uid: 07a3d3eaa91f17c34182eb7fdf14e25d
 related_resources_text: ''
 short_url: >-

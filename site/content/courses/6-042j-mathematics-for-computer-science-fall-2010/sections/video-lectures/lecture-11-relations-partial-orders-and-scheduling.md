@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 0de601b165ca1c456128bc4086fbd7ec
 inline_embed_id: '65548525lecture11:relations,partialorders,andscheduling69019774'
+order_index: 129
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-11-relations-partial-orders-and-scheduling

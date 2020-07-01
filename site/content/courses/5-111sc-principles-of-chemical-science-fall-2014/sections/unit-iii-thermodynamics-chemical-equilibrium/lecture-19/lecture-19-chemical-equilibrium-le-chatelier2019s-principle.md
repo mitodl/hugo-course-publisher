@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 845f90456bf625bcf87ea2b05ea1476a
 inline_embed_id: 1293210lecture19chemicalequilibriumlechteliersprinciple23665445
+order_index: 401
 parent_uid: 0679569854cccdb3a6c713fa72200306
 related_resources_text: ''
 short_url: lecture-19-chemical-equilibrium-le-chatelier2019s-principle

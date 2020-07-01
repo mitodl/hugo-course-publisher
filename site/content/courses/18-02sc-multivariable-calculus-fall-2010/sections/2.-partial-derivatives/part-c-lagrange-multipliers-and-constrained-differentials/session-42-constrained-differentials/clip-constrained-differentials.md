@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: ac69e496c2f72018a6b48937f11843bd
 inline_embed_id: '5934140clip:constraineddifferentials95747294'
+order_index: 1300
 parent_uid: 189d8c48a28741d4f72b8613f8e35c61
 related_resources_text: ''
 short_url: clip-constrained-differentials

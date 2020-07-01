@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: ad711cce8cae494bae61d65b2e1bd3d0
 inline_embed_id: '44888831clip1:introductiontoratesofchange64772681'
+order_index: 158
 parent_uid: 4eff05d7dd9bd856611cfe4f4cddcb98
 related_resources_text: ''
 short_url: clip-1-introduction-to-rates-of-change

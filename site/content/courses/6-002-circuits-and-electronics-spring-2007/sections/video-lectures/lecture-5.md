@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: d530de3d986ce9c375b38072e7ed2bb4
 inline_embed_id: '5873116lecture5:insidethedigitalgate36190070'
+order_index: 165
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture notes (<a target="_blank" title="Open in a new window."

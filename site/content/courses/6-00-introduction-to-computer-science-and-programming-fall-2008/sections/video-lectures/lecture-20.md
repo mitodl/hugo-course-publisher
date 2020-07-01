@@ -90,6 +90,7 @@ embedded_media:
     type: Transcript
     uid: 4769efef59a62d02adea998b99cf27bf
 inline_embed_id: '8619415920:montecarlosimulations,estimatingpi38152773'
+order_index: 291
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

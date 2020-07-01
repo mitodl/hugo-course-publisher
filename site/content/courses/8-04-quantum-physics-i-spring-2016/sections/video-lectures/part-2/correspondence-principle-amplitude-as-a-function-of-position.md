@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 7961a79ab3b728eefe0954b2e62f08a2
 inline_embed_id: 38369965correspondenceprincipleamplitudeasafunctionofposition29775509
+order_index: 660
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: correspondence-principle-amplitude-as-a-function-of-position

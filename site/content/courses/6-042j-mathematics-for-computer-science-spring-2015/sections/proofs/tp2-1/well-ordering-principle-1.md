@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: ca00c763439d0b2fe53021f518b7318d
 inline_embed_id: 44431240wellorderingprinciple185302185
+order_index: 281
 parent_uid: 376535e1bbaf1919fdc3bdd7b7043dea
 related_resources_text: ''
 short_url: well-ordering-principle-1

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 6e2598e89e9d92c9c83a744927e647d1
 inline_embed_id: '98506241clip1:listofapproximations27999478'
+order_index: 1202
 parent_uid: 83a48b57d3d2a4086881aa5771dbfcba
 related_resources_text: ''
 short_url: clip-1-list-of-approximations

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 70422dc66c4482526b4e443aefdb1ae7
 inline_embed_id: '51747423clip4:examplesofseries18858881'
+order_index: 4092
 parent_uid: 1825bfbbd3647c86fa9771d985c21513
 related_resources_text: ''
 short_url: clip-4-examples-of-series

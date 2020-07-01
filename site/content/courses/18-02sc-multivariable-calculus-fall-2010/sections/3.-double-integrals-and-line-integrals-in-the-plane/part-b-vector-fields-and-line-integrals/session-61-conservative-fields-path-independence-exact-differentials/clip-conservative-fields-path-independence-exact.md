@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 6977bc924eeebec9e232bd67f34d115f
 inline_embed_id: '37081847clip:conservativefields,pathindependence,exact578326'
+order_index: 1894
 parent_uid: 9e1952de8d4da6a6dd3624e6169f4681
 related_resources_text: ''
 short_url: clip-conservative-fields-path-independence-exact

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 14dac8b051bb4c05af651c427ddd8104
 inline_embed_id: '27189788clip2:ratesofchange22744707'
+order_index: 168
 parent_uid: 4eff05d7dd9bd856611cfe4f4cddcb98
 related_resources_text: ''
 short_url: clip-2-rates-of-change

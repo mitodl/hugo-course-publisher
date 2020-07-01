@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: f13a471f0f73a11d4473921997e58169
 inline_embed_id: '83998014clip1:introductiontoarclength31791029'
+order_index: 3281
 parent_uid: 5c900cbf5c7bc84e4bc0086224a0a1bd
 related_resources_text: ''
 short_url: clip-1-introduction-to-arc-length

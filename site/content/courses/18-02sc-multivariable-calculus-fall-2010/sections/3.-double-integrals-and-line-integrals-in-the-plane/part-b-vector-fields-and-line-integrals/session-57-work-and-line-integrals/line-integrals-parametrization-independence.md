@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: e95bf710b85b885a164de4d16fde8258
 inline_embed_id: '73137072lineintegrals:parametrizationindependence93419997'
+order_index: 1770
 parent_uid: 966d4aa4c089ef8644151b6c0f5a967b
 related_resources_text: ''
 short_url: line-integrals-parametrization-independence

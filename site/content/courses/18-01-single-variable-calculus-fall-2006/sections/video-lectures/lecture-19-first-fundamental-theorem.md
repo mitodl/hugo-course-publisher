@@ -77,6 +77,7 @@ embedded_media:
     type: Transcript
     uid: 21a05abc31d150a6d8fd836b01d52389
 inline_embed_id: '44016508lecture19:firstfundamentaltheorem51683176'
+order_index: 322
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

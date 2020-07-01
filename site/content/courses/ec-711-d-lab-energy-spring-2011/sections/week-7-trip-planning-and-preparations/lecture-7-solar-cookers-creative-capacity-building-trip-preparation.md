@@ -32,6 +32,7 @@ embedded_media:
     type: Video
     uid: ff72f7acedbb315def7fed11f2eba9b4
 inline_embed_id: '72157706lecture7:solarcookers,creativecapacitybuilding,trippreparation87838497'
+order_index: 120
 parent_uid: 374104f0f3d930af2e1057b34aa6c451
 related_resources_text: ''
 short_url: lecture-7-solar-cookers-creative-capacity-building-trip-preparation

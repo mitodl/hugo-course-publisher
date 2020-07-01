@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: 26cd2423dd225a85b6bdbf41f6ccbf96
 inline_embed_id: '44828401clip:workandlineintegrals88415029'
+order_index: 1754
 parent_uid: 966d4aa4c089ef8644151b6c0f5a967b
 related_resources_text: ''
 short_url: clip-work-and-line-integrals

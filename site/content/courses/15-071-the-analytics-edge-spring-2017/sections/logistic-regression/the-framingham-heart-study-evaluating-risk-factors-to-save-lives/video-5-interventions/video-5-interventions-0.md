@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 74b684a60962b73c4f4bbfea3e3f8697
 inline_embed_id: 53842816video5interventions24835253
+order_index: 665
 parent_uid: 4d65e7631a9d6885f511959c8382aa48
 related_resources_text: ''
 short_url: video-5-interventions-0

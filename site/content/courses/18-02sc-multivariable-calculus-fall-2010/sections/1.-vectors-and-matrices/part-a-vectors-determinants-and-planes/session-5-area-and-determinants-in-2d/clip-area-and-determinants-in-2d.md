@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 0573b49f0f65ac05bd423000da960a93
 inline_embed_id: '86255555clip:areaanddeterminantsin2d70341938'
+order_index: 151
 parent_uid: f85eebfc2c74d08c79806f454c3446ae
 related_resources_text: ''
 short_url: clip-area-and-determinants-in-2d

@@ -60,6 +60,7 @@ embedded_media:
     uid: 0f32fe8c1c9dd97a27efb1ffb48298b1
 inline_embed_id: >-
   79578250recitation1:divide&conquer:smarterintervalscheduling,mastertheorem,strassen'salgorithm99226528
+order_index: 360
 parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
 short_url: >-

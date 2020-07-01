@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: c93850a4313ab34f1c6b5ee7c110d912
 inline_embed_id: 51278949rocketsledintegratetherocketequation26098387
+order_index: 1277
 parent_uid: ce8e09d4807a942257ee603eabb68035
 related_resources_text: ''
 short_url: rocket-sled-integrate-the-rocket-equation

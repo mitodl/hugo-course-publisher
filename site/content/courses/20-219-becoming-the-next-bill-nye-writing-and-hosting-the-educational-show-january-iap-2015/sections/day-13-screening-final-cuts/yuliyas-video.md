@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 6c22de4ec9b0fa95fba86192ff362675
 inline_embed_id: 51756711yuliya'svideo89345750
+order_index: 969
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
 related_resources_text: ''
 short_url: yuliyas-video

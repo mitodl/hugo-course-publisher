@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 3a13511a683a3963d066a10113cb05c2
 inline_embed_id: 74864419workedexamplestackedblockssolveforthemaximumforce86112078
+order_index: 601
 parent_uid: 00aef6423d37f1e08db3ced31e4003c0
 related_resources_text: ''
 short_url: worked-example-stacked-blocks-solve-for-the-maximum-force

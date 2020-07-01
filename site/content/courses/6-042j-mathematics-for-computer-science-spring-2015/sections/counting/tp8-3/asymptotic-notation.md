@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: d42450f86da7f60120a0d689c47b6a65
 inline_embed_id: 12218517asymptoticnotation15935163
+order_index: 1197
 parent_uid: 7fcb07616e2948a6ad10caa832263c78
 related_resources_text: ''
 short_url: asymptotic-notation

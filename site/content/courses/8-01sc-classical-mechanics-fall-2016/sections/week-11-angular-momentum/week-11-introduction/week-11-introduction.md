@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 38da1332fedbc56e5fad64c8d5d75339
 inline_embed_id: 16332830week11introduction49362021
+order_index: 2108
 parent_uid: 5e792911b6e1ef7b9df6e601cddc19bb
 related_resources_text: ''
 short_url: week-11-introduction

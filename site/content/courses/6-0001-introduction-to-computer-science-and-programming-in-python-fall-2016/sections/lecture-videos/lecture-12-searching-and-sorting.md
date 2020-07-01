@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: e29cbbac0f9517413f114a4c25352251
 inline_embed_id: 74725300lecture12searchingandsorting53316321
+order_index: 116
 parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
 short_url: lecture-12-searching-and-sorting

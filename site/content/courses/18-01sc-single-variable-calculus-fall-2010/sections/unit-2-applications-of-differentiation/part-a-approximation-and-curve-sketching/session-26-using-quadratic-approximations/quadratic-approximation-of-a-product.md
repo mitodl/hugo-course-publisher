@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: b4d6efa3584f92c82d7188f5c3cdc142
 inline_embed_id: 3121315quadraticapproximationofaproduct88559158
+order_index: 1242
 parent_uid: 83a48b57d3d2a4086881aa5771dbfcba
 related_resources_text: ''
 short_url: quadratic-approximation-of-a-product

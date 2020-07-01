@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 967795c6bc1c1702d1ae1bd638005918
 inline_embed_id: 61997242ps.10.1blocksandmassivepulley78071225
+order_index: 2094
 parent_uid: 1ea17804f8617e6c0bcee9e83c087d94
 related_resources_text: ''
 short_url: ps.10.1-blocks-and-massive-pulley

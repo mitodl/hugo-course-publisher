@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 05fdfaf93dadf0eaa93cefbba606476a
 inline_embed_id: '47945284clip2:matrices,determinants,linearsystems55404499'
+order_index: 3121
 parent_uid: 439b0e936f086aaa4e337925a9d02c17
 related_resources_text: ''
 short_url: clip-2-matrices-determinants-linear-systems

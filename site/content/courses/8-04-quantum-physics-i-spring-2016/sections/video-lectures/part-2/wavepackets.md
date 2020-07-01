@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 6e2df292b5592fa7e493a51e0241ecd1
 inline_embed_id: 37827764wavepackets25189182
+order_index: 942
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: wavepackets

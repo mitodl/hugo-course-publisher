@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 545eaf379cefe7e09cc2a5f88ef260cc
 inline_embed_id: '34064915lecture19:determinantformulasandcofactors19938777'
+order_index: 528
 parent_uid: 172571ec14688c38e3a602925af8e7d9
 related_resources_text: ''
 short_url: lecture-19-determinant-formulas-and-cofactors

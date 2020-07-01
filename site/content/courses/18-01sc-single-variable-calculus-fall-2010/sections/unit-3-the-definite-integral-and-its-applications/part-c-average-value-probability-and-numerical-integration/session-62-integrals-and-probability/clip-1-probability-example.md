@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 23fae35c3e1bb0a45b5d499dbef85209
 inline_embed_id: '74601218clip1:probabilityexample32049310'
+order_index: 2605
 parent_uid: 1fa09ca81711139c23be618aa2768257
 related_resources_text: ''
 short_url: clip-1-probability-example

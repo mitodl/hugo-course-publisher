@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 07ab411edc660f322f16b73257290880
 inline_embed_id: 48102365commentsonthespectrumandcontinuityconditions95118246
+order_index: 530
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: comments-on-the-spectrum-and-continuity-conditions

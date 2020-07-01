@@ -85,6 +85,7 @@ embedded_media:
     type: Transcript
     uid: cbcc243fcd8799ccf53a1958bcce0cf7
 inline_embed_id: '28932601lecture28:similarmatricesandjordanform22522739'
+order_index: 422
 parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"

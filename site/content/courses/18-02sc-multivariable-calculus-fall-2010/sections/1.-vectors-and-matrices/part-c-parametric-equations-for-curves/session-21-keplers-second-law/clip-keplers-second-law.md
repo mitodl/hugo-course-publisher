@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 36c102192d8787a855e445880142d789
 inline_embed_id: '11422446clip:kepler''ssecondlaw79002662'
+order_index: 616
 parent_uid: 8c2c314c763929344855b23ce9880749
 related_resources_text: ''
 short_url: clip-keplers-second-law

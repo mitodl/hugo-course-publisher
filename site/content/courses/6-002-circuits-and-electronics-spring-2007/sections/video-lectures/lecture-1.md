@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: 83f7c592aebdb6492115821ff271b8fc
 inline_embed_id: '54754511lecture1:introductionandlumpedabstraction68801414'
+order_index: 117
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture notes (<a target="_blank" title="Open in a new window."

@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 6a49346e6a5706c7bbf151ece4355a4f
 inline_embed_id: 33120855onthechallengeofassessingstudents'abilities84624750
+order_index: 29
 parent_uid: 92d158be1dbd82a1c08d824bff9d0d79
 related_resources_text: ''
 short_url: on-the-challenge-of-assessing-students-abilities

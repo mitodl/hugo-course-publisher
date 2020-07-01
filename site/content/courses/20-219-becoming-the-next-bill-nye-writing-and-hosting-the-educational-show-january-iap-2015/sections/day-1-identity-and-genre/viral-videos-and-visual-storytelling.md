@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 260df30cf553c1e18c4953ec809bd392
 inline_embed_id: 8710474viralvideosandvisualstorytelling74295975
+order_index: 196
 parent_uid: e7ab07a59bf478a18a95a815093ec211
 related_resources_text: ''
 short_url: viral-videos-and-visual-storytelling

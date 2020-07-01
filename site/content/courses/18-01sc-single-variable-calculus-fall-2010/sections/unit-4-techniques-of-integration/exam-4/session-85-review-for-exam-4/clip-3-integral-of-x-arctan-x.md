@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 342faeda2843c78e2628045ce3aee9a4
 inline_embed_id: '97138786clip3:integralofxarctan(x)83659599'
+order_index: 3649
 parent_uid: 4699d63d2fc16b8bd7fc498a382dc972
 related_resources_text: ''
 short_url: clip-3-integral-of-x-arctan-x

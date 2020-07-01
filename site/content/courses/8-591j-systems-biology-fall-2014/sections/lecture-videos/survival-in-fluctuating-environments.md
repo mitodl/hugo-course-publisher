@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 827eab2e7e0ecd84d5b22a0314ef0739
 inline_embed_id: 94110327survivalinfluctuatingenvironments44713829
+order_index: 194
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: survival-in-fluctuating-environments

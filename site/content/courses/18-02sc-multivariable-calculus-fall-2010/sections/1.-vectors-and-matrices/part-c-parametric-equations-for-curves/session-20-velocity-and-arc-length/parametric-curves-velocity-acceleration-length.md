@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 1354b8bce685574de3161591211ed888
 inline_embed_id: '76515221parametriccurves:velocity,acceleration,length16025002'
+order_index: 590
 parent_uid: 25cd5a91eff0444d5fd85ec6178eef45
 related_resources_text: ''
 short_url: parametric-curves-velocity-acceleration-length

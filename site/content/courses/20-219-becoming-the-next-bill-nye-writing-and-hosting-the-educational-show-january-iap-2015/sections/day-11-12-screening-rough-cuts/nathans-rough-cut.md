@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 3f410db63011b8ec8c457221a658136e
 inline_embed_id: 77310738nathan'sroughcut24493521
+order_index: 828
 parent_uid: 91a83a5a9923d001da64fbbcd37341cb
 related_resources_text: ''
 short_url: nathans-rough-cut

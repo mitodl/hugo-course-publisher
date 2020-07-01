@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 4df45ba4654b02345067f22a6a01662b
 inline_embed_id: 90457214solvingax=059312119
+order_index: 229
 parent_uid: 0689e9a0f66ba169b57a71e60e59cfa2
 related_resources_text: ''
 short_url: solving-ax-0

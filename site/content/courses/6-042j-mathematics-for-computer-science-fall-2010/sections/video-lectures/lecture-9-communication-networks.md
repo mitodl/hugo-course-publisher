@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 34f59e4fefa2296e18716db4b16f9f91
 inline_embed_id: '30623834lecture9:communicationnetworks71863230'
+order_index: 109
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-9-communication-networks

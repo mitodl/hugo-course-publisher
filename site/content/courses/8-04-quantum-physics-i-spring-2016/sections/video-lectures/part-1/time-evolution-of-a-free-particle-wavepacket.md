@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 36382da8f09ee4e30227fb169938e33d
 inline_embed_id: 35362227timeevolutionofafreeparticlewavepacket97000662
+order_index: 366
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: time-evolution-of-a-free-particle-wavepacket

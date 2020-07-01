@@ -77,6 +77,7 @@ embedded_media:
     type: Transcript
     uid: c4f7dafea17a5caf46c0e947f1a66dbd
 inline_embed_id: '19042140lecture21:applicationstologarithms40298768'
+order_index: 348
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

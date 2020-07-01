@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 9bdf1cf4e454d258307ca7be5503b396
 inline_embed_id: '34880733lecture21:stochasticdifferentialequations98221299'
+order_index: 246
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-21-stochastic-differential-equations

@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 81a609af7626e87385bb02c403ee7ae5
 inline_embed_id: '77744357problemsolving:determinantsandvolume36950161'
+order_index: 581
 parent_uid: 86cb2711cb7c431342dec1540dfe8ce2
 related_resources_text: ''
 short_url: problem-solving-determinants-and-volume

@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: e1d260e561daea5f745a53f04cc3505b
 inline_embed_id: 54129100video6overallimpact79509871
+order_index: 676
 parent_uid: 001f5747862d225993bf38e6c5e9227e
 related_resources_text: ''
 short_url: video-6-overall-impact-0

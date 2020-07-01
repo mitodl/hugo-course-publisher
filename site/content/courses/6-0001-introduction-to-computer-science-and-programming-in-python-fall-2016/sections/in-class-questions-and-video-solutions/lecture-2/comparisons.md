@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 35fbd648496844d94ebb360e63579866
 inline_embed_id: 21302523comparisons56781227
+order_index: 194
 parent_uid: 666db218db6d8103cdcf41e2960132be
 related_resources_text: ''
 short_url: comparisons

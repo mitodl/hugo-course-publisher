@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: a25c9fa2ba393b65c31f92c4c30bb5a2
 inline_embed_id: '22809492lip1:areaofpartofacircle93773022'
+order_index: 2921
 parent_uid: a38f4a8dd90b153bd08f5ba8ba270970
 related_resources_text: ''
 short_url: lip-1-area-of-part-of-a-circle

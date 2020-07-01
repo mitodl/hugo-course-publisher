@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 8691409f379bfd07be5dbdcb60d176d6
 inline_embed_id: '24692578clip4:other(ugly)discontinuities33641116'
+order_index: 274
 parent_uid: d0bc8735c3a450ca5aad8ed8059d679d
 related_resources_text: ''
 short_url: clip-4-other-ugly-discontinuities

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 013129f1f8ecc49a07f0b6087273d5cf
 inline_embed_id: '44784883clip1:derivativeoftheinverseofafunction60721375'
+order_index: 662
 parent_uid: 5668bfaf4a4849cdc9fb5962b4a18003
 related_resources_text: ''
 short_url: clip-1-derivative-of-the-inverse-of-a-function

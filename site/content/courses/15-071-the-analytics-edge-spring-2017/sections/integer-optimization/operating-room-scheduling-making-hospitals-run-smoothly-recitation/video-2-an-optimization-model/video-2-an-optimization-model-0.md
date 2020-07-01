@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 53f7c7ac1cf1c6aa7da19d033e985d41
 inline_embed_id: 1800390video2anoptimizationmodel21418743
+order_index: 2195
 parent_uid: 8a92070b71b9513e35b1c9854c1ef91c
 related_resources_text: ''
 short_url: video-2-an-optimization-model-0

@@ -20,6 +20,7 @@ embedded_media:
     type: 3Play
     uid: ff6ad742086d0dc8fc7968d8ba6615dc
 inline_embed_id: 8016219introductiontobaseballvideo51744894
+order_index: 382
 parent_uid: fcb6a63f4737920a80bf15309d3ee7b6
 related_resources_text: ''
 short_url: introduction-to-baseball-video

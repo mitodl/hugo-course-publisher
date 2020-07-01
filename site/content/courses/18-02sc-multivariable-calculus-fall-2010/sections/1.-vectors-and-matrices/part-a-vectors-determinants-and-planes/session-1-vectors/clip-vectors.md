@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 4ae0fc1b598bc84fedd2651eb13b8e9b
 inline_embed_id: '92078642clip:vectors32441129'
+order_index: 35
 parent_uid: a55f30b541f0fdb28aa6929b363cf479
 related_resources_text: ''
 short_url: clip-vectors

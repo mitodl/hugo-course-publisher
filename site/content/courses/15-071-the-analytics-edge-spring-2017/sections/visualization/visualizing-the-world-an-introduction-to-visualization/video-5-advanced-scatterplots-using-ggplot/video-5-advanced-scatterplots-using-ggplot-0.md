@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 48350d68e30a38055524f0f2c852d61b
 inline_embed_id: 84715950video5advancedscatterplotsusingggplot85592988
+order_index: 1601
 parent_uid: be1c12bdcaf29b71c12f50c42551b8a6
 related_resources_text: ''
 short_url: video-5-advanced-scatterplots-using-ggplot-0

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 12e556e287457fd8a45a7be021cef8e2
 inline_embed_id: '61469614clip1:volumesbyslicing10922366'
+order_index: 2413
 parent_uid: 896b940a6076521ff57b68f0bccc57a0
 related_resources_text: ''
 short_url: clip-1-volumes-by-slicing

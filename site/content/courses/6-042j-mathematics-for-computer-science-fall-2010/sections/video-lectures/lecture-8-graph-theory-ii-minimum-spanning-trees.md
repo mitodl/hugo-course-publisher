@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 0e7d8cd6d99fa80e002b3224b53817b9
 inline_embed_id: '7779091lecture8:graphtheoryii:minimumspanningtrees76434389'
+order_index: 99
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-8-graph-theory-ii-minimum-spanning-trees

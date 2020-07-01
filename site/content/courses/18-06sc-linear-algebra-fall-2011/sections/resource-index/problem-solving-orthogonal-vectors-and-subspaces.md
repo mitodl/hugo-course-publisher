@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: b56e314adece87e97554fb0db3476bd1
 inline_embed_id: 10079134problemsolvingorthogonalvectorsandsubspaces64212027
+order_index: 1306
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: problem-solving-orthogonal-vectors-and-subspaces

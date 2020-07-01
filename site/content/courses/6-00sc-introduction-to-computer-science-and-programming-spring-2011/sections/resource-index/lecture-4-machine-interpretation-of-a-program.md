@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 0b5f3b62c9cd24d9e1e024d60e87754e
 inline_embed_id: '74258070lecture4:machineinterpretationofaprogram71321431'
+order_index: 595
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: lecture-4-machine-interpretation-of-a-program

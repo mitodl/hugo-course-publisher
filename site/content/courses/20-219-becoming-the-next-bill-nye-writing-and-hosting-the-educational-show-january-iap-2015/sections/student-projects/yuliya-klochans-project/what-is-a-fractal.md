@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: c8cab4f2f91010c302841ff5bc3cdbdd
 inline_embed_id: 47987530whatisafractal?92230816
+order_index: 1287
 parent_uid: 199a8a68327fee7d62ee54642710c541
 related_resources_text: ''
 short_url: what-is-a-fractal

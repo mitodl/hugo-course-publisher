@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 59f6b58e77180c39028a95bd073bb28b
 inline_embed_id: 95980231video1ibmwatson65618169
+order_index: 1130
 parent_uid: 0c9bd7c26f88e1f372bb45bfb1705096
 related_resources_text: ''
 short_url: video-1-ibm-watson-0

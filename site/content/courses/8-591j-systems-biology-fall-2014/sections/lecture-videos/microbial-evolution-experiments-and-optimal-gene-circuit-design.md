@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 8ba8f7db24fbdf6cc49cce7de14c3a4d
 inline_embed_id: 97345967microbialevolutionexperimentsandoptimalgenecircuitdesign88899287
+order_index: 144
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: microbial-evolution-experiments-and-optimal-gene-circuit-design

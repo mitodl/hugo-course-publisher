@@ -51,6 +51,7 @@ embedded_media:
     type: Transcript
     uid: cb57bb95edc002fdc01dfdfe9a7d856b
 inline_embed_id: 70916985video4thesolution50444749
+order_index: 2219
 parent_uid: 6e8bdbce3ea9e6440e2b66d90a657d47
 related_resources_text: ''
 short_url: video-4-the-solution-0

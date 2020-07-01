@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 4b1ab6f8bcd2d5181831c7f06ea9596d
 inline_embed_id: 88968583lecture2branchinganditeration45803804
+order_index: 16
 parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
 short_url: lecture-2-branching-and-iteration

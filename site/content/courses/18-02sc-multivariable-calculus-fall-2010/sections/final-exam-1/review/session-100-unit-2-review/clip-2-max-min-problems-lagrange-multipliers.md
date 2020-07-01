@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: a8555aa2159b4bc9225120cc8bdcbae6
 inline_embed_id: '80233663clip2:max-minproblems,lagrangemultipliers93805220'
+order_index: 3148
 parent_uid: ba74dfa449c8210a5b7d14173c6666b7
 related_resources_text: ''
 short_url: clip-2-max-min-problems-lagrange-multipliers

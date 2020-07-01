@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: f625e7e02a8710c1b713b4e715e1bb8b
 inline_embed_id: 15277811lecture9pythonclassesandinheritance17289832
+order_index: 86
 parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
 short_url: lecture-9-python-classes-and-inheritance

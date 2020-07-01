@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 106a1edd91205462f1749fbb6905ca17
 inline_embed_id: '17923262clip2:maximumareaoftwosquares36277344'
+order_index: 1346
 parent_uid: 588fcaecbbe5091660dfdf0b2efe6908
 related_resources_text: ''
 short_url: clip-2-maximum-area-of-two-squares

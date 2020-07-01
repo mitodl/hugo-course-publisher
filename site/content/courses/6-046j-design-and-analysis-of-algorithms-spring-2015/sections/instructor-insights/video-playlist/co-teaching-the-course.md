@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: a7f9708d64ac9d5477955838f678508f
 inline_embed_id: 27675189co-teachingthecourse48556205
+order_index: 49
 parent_uid: 92d158be1dbd82a1c08d824bff9d0d79
 related_resources_text: ''
 short_url: co-teaching-the-course

@@ -51,6 +51,7 @@ embedded_media:
     type: Transcript
     uid: b83b5a7b108288c6079902a0a6cb32c0
 inline_embed_id: 98552807video7comparingmethods2988751
+order_index: 1528
 parent_uid: f38d14c2d66c55044b9e071235d5fdd8
 related_resources_text: ''
 short_url: video-7-comparing-methods-0

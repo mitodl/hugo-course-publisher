@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 41afa875926701b1c968e9ca8adcd51d
 inline_embed_id: 60241250lecture3waveparticledualityoflight93562468
+order_index: 150
 parent_uid: bac5bfe23ea5e2c1fbfbf345a7d17bda
 related_resources_text: ''
 short_url: lecture-3-wave-particle-duality-of-light

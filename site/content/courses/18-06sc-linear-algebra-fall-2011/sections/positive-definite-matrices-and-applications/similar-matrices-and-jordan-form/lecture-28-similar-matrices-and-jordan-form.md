@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 09dcdb866667f7277813abe0c3ba44f8
 inline_embed_id: '27147771lecture28:similarmatricesandjordanform53824137'
+order_index: 859
 parent_uid: b358f2d2863654b7503b47b34cc0953a
 related_resources_text: ''
 short_url: lecture-28-similar-matrices-and-jordan-form

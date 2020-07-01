@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 17ff7b7e244cc970e6afb224684e5f03
 inline_embed_id: 17027807lecture23dynamicprogramming63884050
+order_index: 865
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: lecture-23-dynamic-programming

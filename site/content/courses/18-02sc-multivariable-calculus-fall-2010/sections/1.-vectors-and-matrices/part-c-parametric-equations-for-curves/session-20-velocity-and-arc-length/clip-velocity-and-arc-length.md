@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: d6a3585d590ce01e748343dd7c32dac2
 inline_embed_id: '56237866clip:velocityandarclength1222748'
+order_index: 584
 parent_uid: 25cd5a91eff0444d5fd85ec6178eef45
 related_resources_text: ''
 short_url: clip-velocity-and-arc-length

@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: ed1c9ca113ee6e6a98bf6db3abab7fde
 inline_embed_id: 38798459bindings60217707
+order_index: 441
 parent_uid: fc24c5ab1844baa962f3e8993e4c4905
 related_resources_text: ''
 short_url: bindings

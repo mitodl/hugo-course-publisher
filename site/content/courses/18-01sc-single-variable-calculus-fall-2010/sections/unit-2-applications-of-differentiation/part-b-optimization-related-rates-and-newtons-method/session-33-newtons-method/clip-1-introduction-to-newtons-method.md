@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 6f53a7d748a7e81a1d9c07378027796f
 inline_embed_id: '23116834clip1:introductiontonewton''smethod21757889'
+order_index: 1505
 parent_uid: 08bcebd887ee223af84741f0fef4d632
 related_resources_text: ''
 short_url: clip-1-introduction-to-newtons-method

@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 4d5a8563cf1ca9fb231bf6b0addcc1a6
 inline_embed_id: '35903247problemsolving:lineartransformations70655354'
+order_index: 919
 parent_uid: 9b3392d99bebd11047c36d07bc404bbc
 related_resources_text: ''
 short_url: problem-solving-linear-transformations

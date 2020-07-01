@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: b9f029fdf54fd933b60580e150f255cb
 inline_embed_id: 47012221david'sroughcut71394238
+order_index: 878
 parent_uid: 91a83a5a9923d001da64fbbcd37341cb
 related_resources_text: ''
 short_url: davids-rough-cut

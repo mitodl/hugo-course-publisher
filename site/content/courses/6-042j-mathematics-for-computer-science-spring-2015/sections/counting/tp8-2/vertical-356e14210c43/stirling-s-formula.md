@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: b0a75ec1d79822dd95e84df41b3fdb62
 inline_embed_id: 82262283stirlingsformula86315150
+order_index: 1181
 parent_uid: ed053e6a9bff7d1628dca28615458c2e
 related_resources_text: ''
 short_url: stirling-s-formula

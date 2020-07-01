@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 98618ac7328a2953248426cfc3328e80
 inline_embed_id: '27589272clip3:comparinggrowthofln(x)andx1/397947245'
+order_index: 3796
 parent_uid: 2f33db827cc33056ef710f503d79cc8f
 related_resources_text: ''
 short_url: clip-3-comparing-growth-of-ln-x-and-x1-3

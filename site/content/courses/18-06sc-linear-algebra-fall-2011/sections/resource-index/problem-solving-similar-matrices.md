@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: eb302cdd7530635166881d4941e76231
 inline_embed_id: 5758729problemsolvingsimilarmatrices54299042
+order_index: 1602
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: problem-solving-similar-matrices

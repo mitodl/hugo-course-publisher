@@ -59,6 +59,7 @@ embedded_media:
     type: Thumbnail
     uid: 4a70697e968d9acba73b1f7b23996885
 inline_embed_id: '5374934lecture1:courseoverview,intervalscheduling8920056'
+order_index: 107
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-1-course-overview-interval-scheduling

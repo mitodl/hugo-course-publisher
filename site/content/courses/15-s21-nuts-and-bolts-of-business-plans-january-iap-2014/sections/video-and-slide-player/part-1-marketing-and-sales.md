@@ -441,6 +441,7 @@ embedded_media:
     type: Video
     uid: 8083555ed398a31f74a8857840979f21
 inline_embed_id: '56721269session2,part1:marketingandsales14823294'
+order_index: 188
 parent_uid: c26333e10b77931a494216b5acafb6ce
 related_resources_text: ''
 short_url: part-1-marketing-and-sales

@@ -77,6 +77,7 @@ embedded_media:
     type: Transcript
     uid: dd4c7ebb4b6449fa87a9b2b56f24d0df
 inline_embed_id: '3858103lecture3:derivatives42738420'
+order_index: 140
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

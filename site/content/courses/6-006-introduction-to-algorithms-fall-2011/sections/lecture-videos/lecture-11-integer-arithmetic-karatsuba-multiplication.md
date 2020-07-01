@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 474924e97920a334f1d248e51c43d7e4
 inline_embed_id: '87151594lecture11:integerarithmetic,karatsubamultiplication26650578'
+order_index: 156
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-11-integer-arithmetic-karatsuba-multiplication

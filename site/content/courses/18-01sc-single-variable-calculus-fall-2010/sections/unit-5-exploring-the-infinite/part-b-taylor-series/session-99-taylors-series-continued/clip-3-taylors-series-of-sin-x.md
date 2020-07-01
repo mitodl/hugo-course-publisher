@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 341954d86902efdb21cdeb63e840e6b7
 inline_embed_id: '10577752clip3:taylor''sseriesofsin(x)45313394'
+order_index: 4331
 parent_uid: 9714534fbc6217589e4ab69f5ad147a4
 related_resources_text: ''
 short_url: clip-3-taylors-series-of-sin-x

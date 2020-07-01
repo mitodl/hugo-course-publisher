@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 61b2a0c78243231c7eb2b8b7a6011059
 inline_embed_id: 95313991ramsauertownsendphenomenology71246692
+order_index: 671
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: ramsauer-townsend-phenomenology

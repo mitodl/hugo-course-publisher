@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 31a005b858b2fb141062e889acbe5d94
 inline_embed_id: '44839719mega-recitation7:nearmisses,archlearning81258914'
+order_index: 310
 parent_uid: 6be7704ddfe26b4e12703167347dd5bb
 related_resources_text: >-
   <p><a href="./resolveuid/c397cd7083422b1f3d1c6d86d1b9e327"

@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 8474c6f3649aead1a02f7c3eb84c81f3
 inline_embed_id: 93257355stationarydistributions51393476
+order_index: 1712
 parent_uid: 543c714fd5158fb86cde0a76b4d8446c
 related_resources_text: ''
 short_url: stationary-distributions

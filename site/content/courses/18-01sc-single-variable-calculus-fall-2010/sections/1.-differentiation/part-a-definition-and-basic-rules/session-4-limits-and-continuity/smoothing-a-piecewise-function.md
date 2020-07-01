@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: dbb33d4aa2cacf279de13746ebf67e8f
 inline_embed_id: 2688712smoothingapiecewisefunction92777840
+order_index: 225
 parent_uid: 5878551f3d21546e5d3abcc5b156e7d2
 related_resources_text: ''
 short_url: smoothing-a-piecewise-function

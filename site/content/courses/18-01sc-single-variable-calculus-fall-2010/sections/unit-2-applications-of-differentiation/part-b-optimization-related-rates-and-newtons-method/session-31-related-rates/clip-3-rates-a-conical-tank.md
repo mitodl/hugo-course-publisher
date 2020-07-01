@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: d2b2bd4e7a9084764823c118f788f99e
 inline_embed_id: '63282939clip3:rates:aconicaltank48722498'
+order_index: 1443
 parent_uid: 740c26e9a52f298e76ec9fb9679d1f19
 related_resources_text: ''
 short_url: clip-3-rates-a-conical-tank

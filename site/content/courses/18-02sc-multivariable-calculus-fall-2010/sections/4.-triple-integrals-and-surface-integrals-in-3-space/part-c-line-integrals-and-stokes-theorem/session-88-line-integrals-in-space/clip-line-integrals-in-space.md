@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: f109b0313291e3f8ab8a6bf7a334d1c6
 inline_embed_id: '15911077clip:lineintegralsinspace12528158'
+order_index: 2801
 parent_uid: 9d4fafc8bb3bb6f7f352581e663be4be
 related_resources_text: ''
 short_url: clip-line-integrals-in-space

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 64a34cc36e6d6861d74893d32dbcf5c6
 inline_embed_id: '56224365clip1:weightedaverages3283626'
+order_index: 2557
 parent_uid: d2dac4c5783973f0083cdd3859d4cda5
 related_resources_text: ''
 short_url: clip-1-weighted-averages

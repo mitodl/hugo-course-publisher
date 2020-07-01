@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: cf615ff9bcf99dab921b02d24d86dd72
 inline_embed_id: 567257video2piecharts9460817
+order_index: 1714
 parent_uid: 8b0a3402f3ae148cc59dc8f6078637f0
 related_resources_text: ''
 short_url: video-2-pie-charts-0

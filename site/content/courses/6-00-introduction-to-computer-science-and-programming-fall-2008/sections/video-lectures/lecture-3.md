@@ -91,6 +91,7 @@ embedded_media:
     type: Transcript
     uid: 4c19db43123cd36155e132dbe45f3977
 inline_embed_id: '552230813:commoncodepatterns:iterativeprograms72034961'
+order_index: 37
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

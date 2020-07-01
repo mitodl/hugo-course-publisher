@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 20da66c1c6946769129a03433a1431df
 inline_embed_id: '79864290clip:lagrangemultipliersbyexample64886401'
+order_index: 1214
 parent_uid: 353136b8318cd2cd224476fe67ed8426
 related_resources_text: ''
 short_url: clip-lagrange-multipliers-by-example

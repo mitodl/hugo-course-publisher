@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 1d0d089bf113ff4da4ad5d72f4d13b72
 inline_embed_id: '39936800clip2:solidsofrevolution41089019'
+order_index: 2423
 parent_uid: 896b940a6076521ff57b68f0bccc57a0
 related_resources_text: ''
 short_url: clip-2-solids-of-revolution

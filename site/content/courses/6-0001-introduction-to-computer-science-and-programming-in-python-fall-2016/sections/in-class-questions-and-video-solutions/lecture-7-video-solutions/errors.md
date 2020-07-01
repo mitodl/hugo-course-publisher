@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 6743820821bfb354d440c418eeb412c7
 inline_embed_id: 88164947errors40594928
+order_index: 596
 parent_uid: c7d87e1179bbcaad0a2eedbc7c6c03c8
 related_resources_text: ''
 short_url: errors

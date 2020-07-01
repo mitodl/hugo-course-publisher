@@ -4,7 +4,7 @@ course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-201
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: eea41b9f86c8705fe5263a7dbf353abb
-    weight: 20
+    weight: 40
     parent: 93633c3e763e0e991be7a7388bafdbb7
 ---
 ![A photo of Kristen Railey giving a presentation, speaking into a microphone with a projected slide in the background.](https://open-learning-course-data-ci.s3.amazonaws.com/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/8576c65e4e9d062b8b0504257e556e28_RES-2-005_photo-01.jpg)

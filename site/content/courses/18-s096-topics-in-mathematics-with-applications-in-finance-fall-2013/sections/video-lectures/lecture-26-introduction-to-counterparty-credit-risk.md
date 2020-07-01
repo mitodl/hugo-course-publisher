@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 53532f2a8ec1fb2220accbc308e8bd2e
 inline_embed_id: '61087140lecture26:introductiontocounterpartycreditrisk9669239'
+order_index: 286
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-26-introduction-to-counterparty-credit-risk

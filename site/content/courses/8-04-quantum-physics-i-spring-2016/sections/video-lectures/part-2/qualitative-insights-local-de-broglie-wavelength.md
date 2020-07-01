@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 59100386bfe6e9a1eb5ab5c51ab576db
 inline_embed_id: 22756323qualitativeinsightslocaldebrogliewavelength81589693
+order_index: 629
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: qualitative-insights-local-de-broglie-wavelength

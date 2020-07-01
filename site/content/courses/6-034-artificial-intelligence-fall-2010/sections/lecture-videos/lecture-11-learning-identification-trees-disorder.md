@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 5873c6ee42baaa221626623aa4d47e4d
 inline_embed_id: '77601421lecture11:learning:identificationtrees,disorder92265325'
+order_index: 119
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
 short_url: lecture-11-learning-identification-trees-disorder

@@ -77,6 +77,7 @@ embedded_media:
     type: Transcript
     uid: 80ff3cbeda1e6f7108c1961d3020d664
 inline_embed_id: '52052897lecture31:parametricequations36445316'
+order_index: 465
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

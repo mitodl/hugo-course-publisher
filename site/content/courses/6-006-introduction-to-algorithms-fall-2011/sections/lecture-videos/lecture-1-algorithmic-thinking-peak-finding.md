@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 1b511f64d3e9cc7b269479fcc65534e1
 inline_embed_id: '53293808lecture1:algorithmicthinking,peakfinding94393560'
+order_index: 56
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-1-algorithmic-thinking-peak-finding

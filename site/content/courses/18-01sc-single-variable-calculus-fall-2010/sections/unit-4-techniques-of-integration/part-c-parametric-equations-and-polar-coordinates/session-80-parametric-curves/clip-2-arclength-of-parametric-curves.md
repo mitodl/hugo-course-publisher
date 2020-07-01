@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 6f62a98e9da721c25be8744a165712ad
 inline_embed_id: '18153837clip2:arclengthofparametriccurves29693287'
+order_index: 3391
 parent_uid: b58d1c03b5e72b4fc2ef553cda5d94b7
 related_resources_text: ''
 short_url: clip-2-arclength-of-parametric-curves

@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 012ab1dbaec4881c87fa5d5ab7f70e35
 inline_embed_id: '44884311lecture18:itōcalculus785232'
+order_index: 216
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-18-ito-calculus

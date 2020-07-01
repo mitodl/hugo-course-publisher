@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 64fde7056a5c334bf06a5ec9cd4d995b
 inline_embed_id: 76626187volumeofrevolutionviashells48089609
+order_index: 2486
 parent_uid: 2a892d50ed0126e15d3603ad2d218d9e
 related_resources_text: ''
 short_url: volume-of-revolution-via-shells

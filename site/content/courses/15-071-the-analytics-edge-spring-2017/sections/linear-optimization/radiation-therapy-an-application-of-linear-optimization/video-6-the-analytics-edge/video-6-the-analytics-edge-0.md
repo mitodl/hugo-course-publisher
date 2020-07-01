@@ -51,6 +51,7 @@ embedded_media:
     type: Transcript
     uid: 358d981ecd1969064da3861dff0b42ac
 inline_embed_id: 26806749video6theanalyticsedge46576104
+order_index: 1947
 parent_uid: eaf609ccc68c36a2cb165b923543a1c7
 related_resources_text: ''
 short_url: video-6-the-analytics-edge-0

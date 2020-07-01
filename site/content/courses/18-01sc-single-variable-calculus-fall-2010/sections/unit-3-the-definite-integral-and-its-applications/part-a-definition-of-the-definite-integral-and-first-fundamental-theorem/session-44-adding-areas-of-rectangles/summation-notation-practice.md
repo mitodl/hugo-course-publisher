@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 6dab835a184564585e9c821f546f5777
 inline_embed_id: 81318518summationnotationpractice69993981
+order_index: 1941
 parent_uid: 9f42b86cbcb7812f84f2846c3d7ce9f5
 related_resources_text: ''
 short_url: summation-notation-practice

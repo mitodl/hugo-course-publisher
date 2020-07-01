@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 55a9e3b29ba9560e21740f76aa6fcae8
 inline_embed_id: 5538859lecture15thermodynamicsbondandreactionenthalpies4677662
+order_index: 349
 parent_uid: 09ecdc6887c9427d73c0edb2dab5283c
 related_resources_text: ''
 short_url: lecture-15-thermodynamics-bond-and-reaction-enthalpies

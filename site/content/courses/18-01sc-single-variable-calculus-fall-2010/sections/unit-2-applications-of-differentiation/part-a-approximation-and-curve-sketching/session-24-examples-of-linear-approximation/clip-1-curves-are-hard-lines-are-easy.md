@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 665a0ad2bded32a535c6aae41a17c191
 inline_embed_id: '36949015clip1:curvesarehard,linesareeasy74386654'
+order_index: 1084
 parent_uid: 332503c09be8a2d7ca749e218630b6f3
 related_resources_text: ''
 short_url: clip-1-curves-are-hard-lines-are-easy

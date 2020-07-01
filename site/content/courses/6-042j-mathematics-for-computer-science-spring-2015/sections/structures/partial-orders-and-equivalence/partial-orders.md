@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: e7fe3320a66c76368b1e2b87ff4c2f49
 inline_embed_id: 36485738partialorders36335330
+order_index: 894
 parent_uid: e3bcfae1ff3e4391a255e7aa0a942756
 related_resources_text: ''
 short_url: partial-orders

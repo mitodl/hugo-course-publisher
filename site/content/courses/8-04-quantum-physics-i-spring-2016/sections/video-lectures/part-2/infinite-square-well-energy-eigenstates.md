@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: f2dd55030a1a21770046a0486bb2f9ba
 inline_embed_id: 55115956infinitesquarewellenergyeigenstates13786187
+order_index: 563
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: infinite-square-well-energy-eigenstates

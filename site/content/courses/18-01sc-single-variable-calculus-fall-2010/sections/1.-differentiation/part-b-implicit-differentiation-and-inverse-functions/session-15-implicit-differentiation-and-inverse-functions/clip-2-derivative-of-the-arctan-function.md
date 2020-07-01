@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: ac31e1bc29e1840fc14b9f1dbf7249f2
 inline_embed_id: '59062521clip2:derivativeofthearctanfunction281059'
+order_index: 682
 parent_uid: 5668bfaf4a4849cdc9fb5962b4a18003
 related_resources_text: ''
 short_url: clip-2-derivative-of-the-arctan-function

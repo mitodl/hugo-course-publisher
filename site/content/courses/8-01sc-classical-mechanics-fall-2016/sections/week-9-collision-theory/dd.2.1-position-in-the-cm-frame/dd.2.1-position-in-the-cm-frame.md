@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: ba629a7479bc213cf8f4652fb9a2aa42
 inline_embed_id: 61543404dd.2.1positioninthecmframe91148798
+order_index: 1781
 parent_uid: 07d691dc35dfda5cb795db9825432f91
 related_resources_text: ''
 short_url: dd.2.1-position-in-the-cm-frame

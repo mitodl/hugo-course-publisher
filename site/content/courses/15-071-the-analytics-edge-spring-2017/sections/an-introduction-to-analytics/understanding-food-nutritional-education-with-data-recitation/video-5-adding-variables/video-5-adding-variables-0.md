@@ -51,6 +51,7 @@ embedded_media:
     type: Thumbnail
     uid: e6da1111a4d9831c9c88aafbbb77e396
 inline_embed_id: 22648127video5addingvariables4654281
+order_index: 241
 parent_uid: 041c3127fd08cfd7d4e7305dc781718b
 related_resources_text: ''
 short_url: video-5-adding-variables-0

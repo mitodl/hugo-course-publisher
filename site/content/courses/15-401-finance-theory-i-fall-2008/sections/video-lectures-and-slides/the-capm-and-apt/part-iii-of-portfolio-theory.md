@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: eb1a2cb9b6adfc1e0704479c79970e06
 inline_embed_id: 97099140partiofthecapmandapt37290494
+order_index: 225
 parent_uid: b00cb68693dac5443dd80c6ae861dd7c
 related_resources_text: ''
 short_url: part-iii-of-portfolio-theory

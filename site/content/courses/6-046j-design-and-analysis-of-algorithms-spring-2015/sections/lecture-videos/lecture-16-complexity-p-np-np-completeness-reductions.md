@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: fc2b51f7e7fbd080c3a100d6f202e291
 inline_embed_id: '13699014lecture16:complexity:p,np,np-completeness,reductions53336196'
+order_index: 257
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-16-complexity-p-np-np-completeness-reductions

@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 1cafd81288d77d653caf0500dfee1d85
 inline_embed_id: 39745636lecture26structureofneuralnetsfordeeplearning44312604
+order_index: 260
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-26-structure-of-neural-nets-for-deep-learning

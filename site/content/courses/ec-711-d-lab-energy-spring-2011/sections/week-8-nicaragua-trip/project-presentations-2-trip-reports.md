@@ -31,6 +31,7 @@ embedded_media:
     type: Video
     uid: a1bb214eb5127262a1a6d356ff30e134
 inline_embed_id: '74835111projectpresentations2:tripreports88777978'
+order_index: 127
 parent_uid: fb9d6e56eac497fb24b46d3ac31a62da
 related_resources_text: ''
 short_url: project-presentations-2-trip-reports

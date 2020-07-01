@@ -21,6 +21,7 @@ embedded_media:
     type: Video
     uid: 087a36d2194b2a5e5c9874d8216cfe65
 inline_embed_id: '20527019samplelecturem15:yieldingandplasticity23252480'
+order_index: 800
 parent_uid: b640d5c4937561ab448ec8a1ec804a97
 related_resources_text: ''
 short_url: sample-lecture-m15-yielding-and-plasticity

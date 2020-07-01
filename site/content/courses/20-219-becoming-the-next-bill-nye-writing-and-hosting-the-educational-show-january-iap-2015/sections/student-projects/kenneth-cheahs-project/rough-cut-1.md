@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: d314920f2c93377969ebad1c455fb4df
 inline_embed_id: 56237279roughcut72320604
+order_index: 1063
 parent_uid: a8052e8691edd84e9df2c28f872ebec6
 related_resources_text: ''
 short_url: rough-cut-1

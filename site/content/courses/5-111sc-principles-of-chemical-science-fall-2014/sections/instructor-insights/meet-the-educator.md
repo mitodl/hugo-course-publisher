@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 4bb034486d33638261e7eeae79fc5497
 inline_embed_id: 83135231meettheeducator96157268
+order_index: 9
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
 related_resources_text: ''
 short_url: meet-the-educator

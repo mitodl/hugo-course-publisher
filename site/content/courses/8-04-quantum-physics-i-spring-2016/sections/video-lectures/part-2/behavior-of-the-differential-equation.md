@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 00f33f2f6ecf89535d9ecb33276065ee
 inline_embed_id: 10705084behaviorofthedifferentialequation52554224
+order_index: 817
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: behavior-of-the-differential-equation

@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: c9287d84d66f8616c3d7deda7035c66a
 inline_embed_id: 7656958energyeigenstatesforparticleonacircle40366347
+order_index: 552
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: energy-eigenstates-for-particle-on-a-circle

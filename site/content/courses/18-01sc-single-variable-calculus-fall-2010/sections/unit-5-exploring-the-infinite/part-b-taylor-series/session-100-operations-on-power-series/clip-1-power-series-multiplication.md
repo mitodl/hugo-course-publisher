@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: b85d1c64f2ee5fe2af5140a7348c0577
 inline_embed_id: '43578400clip1:powerseriesmultiplication3657328'
+order_index: 4371
 parent_uid: 7aaff01423b922b346afdcd6c0328e83
 related_resources_text: ''
 short_url: clip-1-power-series-multiplication

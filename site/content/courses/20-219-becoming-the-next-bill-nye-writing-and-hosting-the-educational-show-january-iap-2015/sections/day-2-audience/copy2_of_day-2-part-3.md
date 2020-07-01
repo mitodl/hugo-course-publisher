@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: af5acb15ad1dca2c614ed1da2157c816
 inline_embed_id: 91275020scienceoutloud'sfirstbiologyvideo49865477
+order_index: 258
 parent_uid: 3da88bd7fc04b288622711604ae6a159
 related_resources_text: ''
 short_url: copy2_of_day-2-part-3

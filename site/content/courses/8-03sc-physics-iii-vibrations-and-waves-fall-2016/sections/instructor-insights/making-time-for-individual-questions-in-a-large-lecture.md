@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 0bb309aec617d3eae22660bfa47d22da
 inline_embed_id: 18129551makingtimeforindividualquestionsinalargelecture95357450
+order_index: 42
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
 related_resources_text: ''
 short_url: making-time-for-individual-questions-in-a-large-lecture

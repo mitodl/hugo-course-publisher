@@ -59,6 +59,7 @@ embedded_media:
     type: Transcript
     uid: cb59922e50914094f435f05305b32bb2
 inline_embed_id: 58546950lecture12770291
+order_index: 127
 parent_uid: 7db32ae07a854e38e1c54c430b655e2c
 related_resources_text: ''
 short_url: lecture-12

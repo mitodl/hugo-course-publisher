@@ -58,6 +58,7 @@ embedded_media:
     type: Video
     uid: aab5f3975776e9ddaa17413f660b6ba8
 inline_embed_id: 11708672lecture6montecarlosimulation25351546
+order_index: 56
 parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
 short_url: lecture-6-monte-carlo-simulation

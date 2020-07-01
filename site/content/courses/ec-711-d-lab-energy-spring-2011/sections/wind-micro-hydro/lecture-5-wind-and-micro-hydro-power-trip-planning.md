@@ -31,6 +31,7 @@ embedded_media:
     type: Video
     uid: 66787bb2e9b97420be7b2db5d3fa98fb
 inline_embed_id: '82270533lecture5:windandmicro-hydropower;tripplanning20742702'
+order_index: 86
 parent_uid: 5dd5186b4a86f3ff771b545e19e9b505
 related_resources_text: ''
 short_url: lecture-5-wind-and-micro-hydro-power-trip-planning

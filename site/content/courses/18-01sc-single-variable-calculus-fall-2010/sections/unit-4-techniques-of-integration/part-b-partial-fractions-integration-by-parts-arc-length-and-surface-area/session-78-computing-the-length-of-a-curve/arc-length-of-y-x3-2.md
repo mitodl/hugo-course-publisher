@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: ec993286699ef247b7e7e5fb252993b4
 inline_embed_id: 45407854arclengthofy=x3/241712275
+order_index: 3321
 parent_uid: 5c900cbf5c7bc84e4bc0086224a0a1bd
 related_resources_text: ''
 short_url: arc-length-of-y-x3-2

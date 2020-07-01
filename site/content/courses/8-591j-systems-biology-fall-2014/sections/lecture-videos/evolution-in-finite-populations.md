@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 1f679fda81158bf6f3b02316dd42be68
 inline_embed_id: 79585986evolutioninfinitepopulations37066295
+order_index: 154
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: evolution-in-finite-populations

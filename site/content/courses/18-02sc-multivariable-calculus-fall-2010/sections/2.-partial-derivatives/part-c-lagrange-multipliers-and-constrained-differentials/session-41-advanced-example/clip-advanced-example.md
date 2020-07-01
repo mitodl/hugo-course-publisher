@@ -35,6 +35,7 @@ embedded_media:
     type: Video
     uid: f5fcc5098b3623d096c5595fffbe7d39
 inline_embed_id: '4293550clip:advancedexample86977533'
+order_index: 1270
 parent_uid: 9ebd1d32024e0a868958b6ad334b76ad
 related_resources_text: ''
 short_url: clip-advanced-example

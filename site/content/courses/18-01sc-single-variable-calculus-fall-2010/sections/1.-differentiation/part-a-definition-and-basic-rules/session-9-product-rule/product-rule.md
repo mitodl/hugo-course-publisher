@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 2a690726a8c22edb1bfd83cca98f2483
 inline_embed_id: 31573033productrule94383488
+order_index: 464
 parent_uid: d35aadf5c6d2e1543aee74e2dfdda970
 related_resources_text: ''
 short_url: product-rule

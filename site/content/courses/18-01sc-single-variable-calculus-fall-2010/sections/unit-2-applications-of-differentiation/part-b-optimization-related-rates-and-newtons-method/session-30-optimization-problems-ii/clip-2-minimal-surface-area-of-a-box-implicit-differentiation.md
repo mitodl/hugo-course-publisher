@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: f08a2e2f9e89e0fa4b14a8656b2c5b25
 inline_embed_id: '97385007clip2:minimalsurfaceareaofabox:implicitdifferentiation54312147'
+order_index: 1403
 parent_uid: 1adc3400c6b37f82e7f65de33469e2b6
 related_resources_text: ''
 short_url: clip-2-minimal-surface-area-of-a-box-implicit-differentiation

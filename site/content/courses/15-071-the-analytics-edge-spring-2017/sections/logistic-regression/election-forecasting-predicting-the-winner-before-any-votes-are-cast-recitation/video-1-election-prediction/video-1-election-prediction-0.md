@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 6eed0f47cbe64bf86af87b6ac6ea3648
 inline_embed_id: 16838113video1electionprediction39412460
+order_index: 696
 parent_uid: 1b20fb75340f27697ffe9d500a06dad9
 related_resources_text: ''
 short_url: video-1-election-prediction-0

@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: aaf305699dd29ca14ada3c23d5a12785
 inline_embed_id: 55137256optionalrecitationalgorithmcomplexityandclassreview76545748
+order_index: 675
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: optional-recitation-algorithm-complexity-and-class-review

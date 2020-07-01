@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 40284469dbb954f96f296782069d2fe5
 inline_embed_id: '64379674lecture4:divide&conquer:vanemdeboastrees33657709'
+order_index: 137
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-4-divide-conquer-van-emde-boas-trees

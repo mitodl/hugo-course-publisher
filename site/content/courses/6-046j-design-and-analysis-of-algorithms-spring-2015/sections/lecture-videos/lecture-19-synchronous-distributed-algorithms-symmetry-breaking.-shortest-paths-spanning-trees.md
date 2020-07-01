@@ -60,6 +60,7 @@ embedded_media:
     uid: 0312b13118e18738650a5cbb9cdcf5ac
 inline_embed_id: >-
   92260383lecture19:synchronousdistributedalgorithms:symmetry-breaking.shortest-pathsspanningtrees72982422
+order_index: 287
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: >-

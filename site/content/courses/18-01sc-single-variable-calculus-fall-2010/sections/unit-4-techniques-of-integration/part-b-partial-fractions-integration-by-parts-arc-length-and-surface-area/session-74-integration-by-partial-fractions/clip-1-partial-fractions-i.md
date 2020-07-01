@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 57090cf840e80b0e28e34599ef3176f2
 inline_embed_id: '95617800clip1:partialfractionsi87211734'
+order_index: 3075
 parent_uid: bffb54f0e2e1cf685033820b5512e4e6
 related_resources_text: ''
 short_url: clip-1-partial-fractions-i

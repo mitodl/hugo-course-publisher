@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: df452db7704fa1ef36f5d1e0df615deb
 inline_embed_id: '47990630lecture6:nonlinearanalysis97103011'
+order_index: 177
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture notes (<a target="_blank" title="Open in a new window."

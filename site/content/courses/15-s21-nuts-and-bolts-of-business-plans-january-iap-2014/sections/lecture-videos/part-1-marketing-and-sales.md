@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 90be63a0e492a2370d9971028dd67f62
 inline_embed_id: '79442248part1:marketingandsales14375873'
+order_index: 44
 parent_uid: 7425dbab24bd40b9d0c0c704cab7eab2
 related_resources_text: ''
 short_url: part-1-marketing-and-sales

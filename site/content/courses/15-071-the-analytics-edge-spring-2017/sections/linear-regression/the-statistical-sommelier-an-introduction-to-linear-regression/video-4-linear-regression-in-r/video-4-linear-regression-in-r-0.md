@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: e3683dd7c060911d33b74dd4293655e5
 inline_embed_id: 11938729video4linearregressioninr74497800
+order_index: 326
 parent_uid: 9f456e81561bed0d7c0a516cd7739d20
 related_resources_text: ''
 short_url: video-4-linear-regression-in-r-0

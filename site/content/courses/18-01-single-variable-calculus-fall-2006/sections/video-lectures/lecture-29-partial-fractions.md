@@ -76,6 +76,7 @@ embedded_media:
     type: Transcript
     uid: f3b051b46b788ff55f48d08df20523c5
 inline_embed_id: '56079560lecture29:partialfractions56925540'
+order_index: 439
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

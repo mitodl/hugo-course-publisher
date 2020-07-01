@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: d1e7b64d3a4d87e0aea504b29c1a39dc
 inline_embed_id: 74634966derivativeofthearccosfunction39316933
+order_index: 702
 parent_uid: 5668bfaf4a4849cdc9fb5962b4a18003
 related_resources_text: ''
 short_url: derivative-of-the-arccos-function

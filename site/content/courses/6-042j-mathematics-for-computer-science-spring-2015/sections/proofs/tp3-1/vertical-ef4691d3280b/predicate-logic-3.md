@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 4496c51a6b497bbe1148cfc2548c4640
 inline_embed_id: 99816367predicatelogic349411259
+order_index: 389
 parent_uid: 7f46d5ade35f710989d4097648a7bead
 related_resources_text: ''
 short_url: predicate-logic-3

@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 18c53adead9059441ed95b722beb90dd
 inline_embed_id: '44010821recitation1:introductiontocodingconcepts98027209'
+order_index: 36
 parent_uid: 5a8ad51b351a4b3f0c09861452ea827d
 related_resources_text: ''
 short_url: recitation-1-introduction-to-coding-concepts

@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: a93e92b8d0cc5b4865f2ed365cde801e
 inline_embed_id: '74358736clip:approximationformula21156027'
+order_index: 821
 parent_uid: 137654825c1e9afc7157b73f07e97db6
 related_resources_text: ''
 short_url: clip-approximation-formula

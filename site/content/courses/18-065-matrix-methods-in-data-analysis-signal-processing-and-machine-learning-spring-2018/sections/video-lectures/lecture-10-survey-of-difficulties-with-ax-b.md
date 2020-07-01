@@ -66,6 +66,7 @@ embedded_media:
     type: Video
     uid: 43d98068fac6f5129949aadb427f19a7
 inline_embed_id: 22921777lecture10surveyofdifficultieswithaxb89191694
+order_index: 115
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-10-survey-of-difficulties-with-ax-b

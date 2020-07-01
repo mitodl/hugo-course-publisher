@@ -32,6 +32,7 @@ embedded_media:
     type: Thumbnail
     uid: c2b0f6c1f6bfe239af13f509bd0add19
 inline_embed_id: '19321690lab1:humanpower77178344'
+order_index: 17
 parent_uid: 32a22e0de0add67342ce41445297fce7
 related_resources_text: ''
 short_url: lab-1-human-power

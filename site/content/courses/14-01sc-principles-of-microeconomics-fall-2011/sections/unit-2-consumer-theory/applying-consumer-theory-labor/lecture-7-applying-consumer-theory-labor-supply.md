@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 5e4ea367c7a8eac6dea2caebc5184c8d
 inline_embed_id: 58529489lecture7applyingconsumertheorylaborsupply54441355
+order_index: 147
 parent_uid: 52d96c2f56aa990be3ea69526d59464b
 related_resources_text: ''
 short_url: lecture-7-applying-consumer-theory-labor-supply

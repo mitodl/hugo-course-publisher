@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: ad129967510ef12fa5b21e012f8bdb09
 inline_embed_id: 38940634isomorphism62881413
+order_index: 947
 parent_uid: 7866ebc6cf40aff967a1b17515804c46
 related_resources_text: ''
 short_url: isomorphism

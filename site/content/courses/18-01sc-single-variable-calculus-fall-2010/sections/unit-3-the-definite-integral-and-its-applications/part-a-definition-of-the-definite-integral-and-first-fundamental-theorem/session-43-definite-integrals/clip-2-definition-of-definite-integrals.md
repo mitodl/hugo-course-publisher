@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 86156ffb49db3eba21127db5f2c4da00
 inline_embed_id: '6164943clip2:definitionofdefiniteintegrals93706583'
+order_index: 1904
 parent_uid: 5170b79f5b62ed3a4d96b27fc3edc468
 related_resources_text: ''
 short_url: clip-2-definition-of-definite-integrals

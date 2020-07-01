@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 7c744ea16048cdc465eff68e6e76516e
 inline_embed_id: '67444888clip1:remarksonnotation72837725'
+order_index: 3401
 parent_uid: b58d1c03b5e72b4fc2ef553cda5d94b7
 related_resources_text: ''
 short_url: clip-1-remarks-on-notation

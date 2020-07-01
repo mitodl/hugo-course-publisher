@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: ca1a712e12f802b0d33512cce6bb14ad
 inline_embed_id: '50782072clip1:ringonastring90988102'
+order_index: 1476
 parent_uid: b5f1b462271148f775cc618b67ef606b
 related_resources_text: ''
 short_url: clip-1-ring-on-a-string

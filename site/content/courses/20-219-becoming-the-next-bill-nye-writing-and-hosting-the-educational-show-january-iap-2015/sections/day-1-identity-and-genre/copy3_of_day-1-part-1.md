@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: f4f3115804d4c2b9ffec4862acb0ad07
 inline_embed_id: 77134566examplesanddiscussionofeducationalsciencevideosonyoutube98616657
+order_index: 146
 parent_uid: e7ab07a59bf478a18a95a815093ec211
 related_resources_text: ''
 short_url: copy3_of_day-1-part-1

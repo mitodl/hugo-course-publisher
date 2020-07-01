@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: ae79362f65f5ccb165500dea055284c5
 inline_embed_id: 39015872coursesummary3421555
+order_index: 308
 parent_uid: 0157ef3481f85729370e7d234fed9ec3
 related_resources_text: ''
 short_url: course-summary

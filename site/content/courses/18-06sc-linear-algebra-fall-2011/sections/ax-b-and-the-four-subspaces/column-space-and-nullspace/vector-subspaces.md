@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: c1ccd438f54edebfd6f34643ff83f527
 inline_embed_id: 25526458vectorsubspaces92361109
+order_index: 204
 parent_uid: bb16f055bb0c2fa6b00b24a82c138877
 related_resources_text: ''
 short_url: vector-subspaces

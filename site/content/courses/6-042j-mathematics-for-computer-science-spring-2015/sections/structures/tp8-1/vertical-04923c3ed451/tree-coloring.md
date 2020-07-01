@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: decdd2bb46622b78d5c606f451351a55
 inline_embed_id: 26222269treecoloring72947568
+order_index: 1023
 parent_uid: f27baedbb7ff1c6b93c780ab901b300c
 related_resources_text: ''
 short_url: tree-coloring

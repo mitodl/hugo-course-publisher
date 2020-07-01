@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 88755347d875a976ec3f27d0715acf40
 inline_embed_id: 63311506comptonscattering89143694
+order_index: 148
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: compton-scattering

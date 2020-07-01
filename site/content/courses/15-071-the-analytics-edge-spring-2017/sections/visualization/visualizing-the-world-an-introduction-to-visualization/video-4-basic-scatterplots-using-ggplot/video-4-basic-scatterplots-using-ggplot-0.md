@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 070b468bf4da2603a747397a15dbd218
 inline_embed_id: 78837450video4basicscatterplotsusingggplot12801726
+order_index: 1589
 parent_uid: bcd276c54387e04d4149dfe97b763b3f
 related_resources_text: ''
 short_url: video-4-basic-scatterplots-using-ggplot-0

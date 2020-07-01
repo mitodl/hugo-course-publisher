@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 53ed72f558fdd901679e5fe376cff303
 inline_embed_id: 25184388video3predictingcompatibilityscores36544408
+order_index: 2153
 parent_uid: 4ee865af69155a39e352d98aad5670d0
 related_resources_text: ''
 short_url: video-3-predicting-compatibility-scores-0

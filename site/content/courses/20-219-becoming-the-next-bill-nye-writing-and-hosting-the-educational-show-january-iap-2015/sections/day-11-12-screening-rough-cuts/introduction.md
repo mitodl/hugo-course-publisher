@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: af2cdcb93892bc52e85fcf54bb37c0f8
 inline_embed_id: 91736617introduction2127395
+order_index: 818
 parent_uid: 91a83a5a9923d001da64fbbcd37341cb
 related_resources_text: ''
 short_url: introduction

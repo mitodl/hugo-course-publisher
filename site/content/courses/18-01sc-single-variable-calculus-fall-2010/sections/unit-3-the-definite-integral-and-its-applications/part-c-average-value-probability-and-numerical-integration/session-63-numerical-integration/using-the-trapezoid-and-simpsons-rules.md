@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 57d3bc2f04f14049ff98f5e00d550f8f
 inline_embed_id: 426853usingthetrapezoidandsimpson'srules24314737
+order_index: 2705
 parent_uid: be07f2bde3305a676f66884dbf8397d1
 related_resources_text: ''
 short_url: using-the-trapezoid-and-simpsons-rules

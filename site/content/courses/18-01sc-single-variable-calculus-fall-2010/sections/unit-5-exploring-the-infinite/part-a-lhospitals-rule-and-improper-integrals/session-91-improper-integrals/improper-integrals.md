@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 70247d6eff86047e6c9ef98c3505d797
 inline_embed_id: 70544736improperintegrals4310359
+order_index: 3887
 parent_uid: 3fa268819900b3ee4bc8d590323f17dc
 related_resources_text: ''
 short_url: improper-integrals

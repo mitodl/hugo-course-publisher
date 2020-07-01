@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 715de4b59b77ab19377a956cf60cc78a
 inline_embed_id: '56256469lecture9:memoryandsearchmethods47412614'
+order_index: 187
 parent_uid: 518bf74ec414e8ecf4d555616396f6d0
 related_resources_text: ''
 short_url: lecture-9-memory-and-search-methods

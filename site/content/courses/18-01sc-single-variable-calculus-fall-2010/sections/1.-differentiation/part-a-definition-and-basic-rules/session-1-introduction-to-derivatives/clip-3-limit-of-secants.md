@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: df4e710f552b18e27df80d9e56a2fd10
 inline_embed_id: '59802590clip3:limitofsecants44287327'
+order_index: 48
 parent_uid: c25a5592cbb582539daea82e3aeeda33
 related_resources_text: ''
 short_url: clip-3-limit-of-secants

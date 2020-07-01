@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 663bb4250b2e094eeec3cb374c13a86e
 inline_embed_id: '92198792lecture19:dynamicprogrammingi:fibonacci,shortestpaths82685712'
+order_index: 236
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-19-dynamic-programming-i-fibonacci-shortest-paths

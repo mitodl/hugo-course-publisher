@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: c60c5f95650325d1b8393e8b9a3d55bb
 inline_embed_id: 59519697lecture11introductiontomachinelearning58431029
+order_index: 106
 parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
 short_url: lecture-11-introduction-to-machine-learning

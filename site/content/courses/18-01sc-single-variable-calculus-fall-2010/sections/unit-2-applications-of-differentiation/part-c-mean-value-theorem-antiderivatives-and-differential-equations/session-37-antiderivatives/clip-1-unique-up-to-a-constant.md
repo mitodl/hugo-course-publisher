@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 58dd038818fc2d8e6a2cf3cdb2dfcd28
 inline_embed_id: '24506921clip1:uniqueuptoaconstant58206146'
+order_index: 1711
 parent_uid: 876df37c3cbc00d47b666c04e5047a17
 related_resources_text: ''
 short_url: clip-1-unique-up-to-a-constant

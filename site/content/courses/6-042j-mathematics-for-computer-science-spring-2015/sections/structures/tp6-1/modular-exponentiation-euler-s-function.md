@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 196d009511556d985b210eee8532998b
 inline_embed_id: 55326488modularexponentiationeulersfunction49413975
+order_index: 769
 parent_uid: 8083cb558a36eb8dad32920ceb95cfdb
 related_resources_text: ''
 short_url: modular-exponentiation-euler-s-function

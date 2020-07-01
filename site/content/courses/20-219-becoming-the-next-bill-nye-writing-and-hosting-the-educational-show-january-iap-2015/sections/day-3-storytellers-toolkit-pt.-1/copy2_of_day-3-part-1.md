@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 67a1b56cbf977c54704de6dc2526a506
 inline_embed_id: 39127349puttingtherulesintopractice2557783
+order_index: 389
 parent_uid: 36586ba568db37caa516348b595214d8
 related_resources_text: ''
 short_url: copy2_of_day-3-part-1

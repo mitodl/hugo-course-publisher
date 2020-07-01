@@ -15,6 +15,7 @@ embedded_media:
     type: Thumbnail
     uid: 64e65ab0182524275ecd547e0f151da9
 inline_embed_id: 37273399theimplicationsofsyntheticbiology98285018
+order_index: 8
 parent_uid: 39c524155b2790c75ad9577dafb7b7a3
 related_resources_text: ''
 short_url: the-implications-of-synthetic-biology

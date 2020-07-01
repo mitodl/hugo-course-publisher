@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: f12e54d0556624d931f4f8e1d9816770
 inline_embed_id: 15130518expectednumberofheads61925574
+order_index: 1536
 parent_uid: 264ec4271e9bf721357f6e77d50cabc6
 related_resources_text: ''
 short_url: expected-number-of-heads

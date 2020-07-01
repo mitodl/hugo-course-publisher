@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: a43dfe20773f521faf4d2eef6e34d285
 inline_embed_id: 44010165bijections99505622
+order_index: 1253
 parent_uid: 8f52cd435db0006859c51fb2593e8e7b
 related_resources_text: ''
 short_url: bijections

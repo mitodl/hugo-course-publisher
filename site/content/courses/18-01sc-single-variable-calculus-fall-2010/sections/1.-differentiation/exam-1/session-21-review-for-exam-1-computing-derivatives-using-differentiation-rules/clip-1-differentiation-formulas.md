@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 94e6c7eaef75ac2c27257f5fb5caa17c
 inline_embed_id: '60713521clip1:differentiationformulas11079700'
+order_index: 938
 parent_uid: 0bc7f9cd2fd4599019832c45df40e073
 related_resources_text: ''
 short_url: clip-1-differentiation-formulas

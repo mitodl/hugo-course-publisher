@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 0a236160dd8322928190e22601b1d29f
 inline_embed_id: '97865974clip3:asymptotesofantiderivatives77814398'
+order_index: 2795
 parent_uid: 28c8d6e8c2c0dfa62a9b458789417a05
 related_resources_text: ''
 short_url: clip-3-asymptotes-of-antiderivatives

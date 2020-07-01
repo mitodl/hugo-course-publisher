@@ -58,6 +58,7 @@ embedded_media:
     type: Video
     uid: 2e77d4d00bd6dc5ac97103d5196998b1
 inline_embed_id: '62867694lecture15:linearprogramming:lp,reductions,simplex17824343'
+order_index: 247
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-15-linear-programming-lp-reductions-simplex

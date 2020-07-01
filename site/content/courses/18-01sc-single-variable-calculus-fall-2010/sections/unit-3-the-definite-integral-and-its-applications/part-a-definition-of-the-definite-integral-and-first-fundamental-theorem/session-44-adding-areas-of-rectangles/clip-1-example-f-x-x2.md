@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: d08fadb2acd16b92caf0c3dec4315242
 inline_embed_id: '55729741clip1:example:f(x)=x264305121'
+order_index: 1921
 parent_uid: 9f42b86cbcb7812f84f2846c3d7ce9f5
 related_resources_text: ''
 short_url: clip-1-example-f-x-x2

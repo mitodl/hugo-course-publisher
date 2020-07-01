@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 9c0f7b4aed9aa84b830d27f7b323cf35
 inline_embed_id: '54029977solvingax=0:pivotvariables,specialsolutions90575030'
+order_index: 219
 parent_uid: 0689e9a0f66ba169b57a71e60e59cfa2
 related_resources_text: ''
 short_url: solving-ax-0-pivot-variables-special-solutions

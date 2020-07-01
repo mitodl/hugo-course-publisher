@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: ab101dec15919af946e465e90e8f74d4
 inline_embed_id: '61106520lecture21:opampspositivefeedback76960058'
+order_index: 381
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture Notes (<a target="_blank" title="Open in a new window."

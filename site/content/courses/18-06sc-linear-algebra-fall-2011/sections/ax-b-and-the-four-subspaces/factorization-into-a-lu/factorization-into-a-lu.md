@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 17da4d8d37b4476f5661c6a62af932f0
 inline_embed_id: 71334296factorizationintoa=lu54035333
+order_index: 135
 parent_uid: 2817c81b09040d03c0c634f006d5a20d
 related_resources_text: ''
 short_url: factorization-into-a-lu

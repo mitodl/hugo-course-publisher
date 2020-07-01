@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 8be455f3f29d13e3789b26f9cf0dd451
 inline_embed_id: 26109982tangenttographofpolynomial83190003
+order_index: 330
 parent_uid: a50336604c88798f90662c641ab35802
 related_resources_text: ''
 short_url: tangent-to-graph-of-polynomial

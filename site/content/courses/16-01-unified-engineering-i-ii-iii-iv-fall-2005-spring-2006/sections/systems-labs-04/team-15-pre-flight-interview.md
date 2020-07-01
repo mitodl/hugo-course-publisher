@@ -27,6 +27,7 @@ embedded_media:
     type: Video
     uid: 98bcf06ea0d3323ceff42efb4d5c2f4e
 inline_embed_id: '58474892team15:pre-flightinterview81493363'
+order_index: 1174
 parent_uid: 87e8f47c351cccd450e9b5e03c5bbee2
 related_resources_text: ''
 short_url: team-15-pre-flight-interview

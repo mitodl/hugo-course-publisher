@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: 4d51ee0a57d09fafa53049f43d39b48f
 inline_embed_id: '38829465lecture17:theimpedancemodel60386686'
+order_index: 333
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture Notes (<a target="_blank" title="Open in a new window."

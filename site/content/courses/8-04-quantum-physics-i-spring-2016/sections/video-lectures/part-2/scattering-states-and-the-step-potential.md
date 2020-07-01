@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: a8a6ba16a8fb280c2d70145ede1b1ab4
 inline_embed_id: 99535987scatteringstatesandthesteppotential83155423
+order_index: 902
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: scattering-states-and-the-step-potential

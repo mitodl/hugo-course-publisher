@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: f7fced99f60a0ffe7339555afe9ee6f2
 inline_embed_id: 82491018video1thestoryofmoneyball71925766
+order_index: 389
 parent_uid: 9a181e989a2dc6e21d6b813dfdbf8d9f
 related_resources_text: ''
 short_url: video-1-the-story-of-moneyball-0

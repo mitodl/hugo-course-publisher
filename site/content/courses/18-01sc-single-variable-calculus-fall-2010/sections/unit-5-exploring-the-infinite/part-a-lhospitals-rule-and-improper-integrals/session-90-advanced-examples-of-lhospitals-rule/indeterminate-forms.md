@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: bd7ecabdcf967a13a72943d4a228bf6c
 inline_embed_id: 70927078indeterminateforms13860640
+order_index: 3826
 parent_uid: 6cc72b08f8717a2d7b737df7f698c876
 related_resources_text: ''
 short_url: indeterminate-forms

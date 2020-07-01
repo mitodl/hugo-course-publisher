@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 2eea6ee39e73c9911feb2b3006f60c63
 inline_embed_id: '8676329lecture22:expectationi23175856'
+order_index: 239
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-22-expectation-i

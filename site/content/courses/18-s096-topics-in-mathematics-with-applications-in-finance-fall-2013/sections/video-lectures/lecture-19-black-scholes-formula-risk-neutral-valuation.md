@@ -59,6 +59,7 @@ embedded_media:
     type: Transcript
     uid: 3217306b129204aaaf8dda7719b958ad
 inline_embed_id: '65182823lecture19:black-scholesformula,risk-neutralvaluation12721025'
+order_index: 226
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-19-black-scholes-formula-risk-neutral-valuation

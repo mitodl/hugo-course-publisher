@@ -57,6 +57,7 @@ embedded_media:
     type: Thumbnail
     uid: 14196cf2ed3d5207754ec553142daccc
 inline_embed_id: '6481589coordinatefreeproofs:centroidofatriangle21467835'
+order_index: 41
 parent_uid: a55f30b541f0fdb28aa6929b363cf479
 related_resources_text: ''
 short_url: coordinate-free-proofs-centroid-of-a-triangle

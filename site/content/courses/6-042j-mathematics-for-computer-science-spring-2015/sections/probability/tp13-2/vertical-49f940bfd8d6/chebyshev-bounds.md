@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: c6d1bce4ce6aa34b86d0a9398d5c2e35
 inline_embed_id: 9106678chebyshevboundsvideo12935204
+order_index: 1617
 parent_uid: 3371149b256c64a83ee658774d2d4987
 related_resources_text: ''
 short_url: chebyshev-bounds

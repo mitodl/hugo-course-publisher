@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 78e9b80e8af836273131b4535926c1e7
 inline_embed_id: 24416970conditionalprobabilitydefinitions53975133
+order_index: 1399
 parent_uid: 79ebde2b537e9e26dc39d5d2e1c8f1d9
 related_resources_text: ''
 short_url: definitions

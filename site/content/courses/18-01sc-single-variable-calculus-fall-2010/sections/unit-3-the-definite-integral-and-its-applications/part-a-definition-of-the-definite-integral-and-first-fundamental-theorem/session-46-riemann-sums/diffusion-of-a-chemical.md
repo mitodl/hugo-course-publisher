@@ -58,6 +58,7 @@ embedded_media:
     type: Video
     uid: 17cc7afc8396e909aa4e1374d4a11b8f
 inline_embed_id: 73232130diffusionofachemical11556885
+order_index: 2027
 parent_uid: d5e0c7a6f17252a3c694d627faf12123
 related_resources_text: ''
 short_url: diffusion-of-a-chemical

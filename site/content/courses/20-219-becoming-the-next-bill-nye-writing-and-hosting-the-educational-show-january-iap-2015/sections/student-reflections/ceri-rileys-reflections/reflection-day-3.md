@@ -66,6 +66,7 @@ embedded_media:
     type: Video
     uid: aaf4cfb49b862c4c6c4b98986f66b138
 inline_embed_id: 74782056reflectionday382267630
+order_index: 1409
 parent_uid: 1d988e035e65811fe6d8e82355f3c4a7
 related_resources_text: ''
 short_url: reflection-day-3

@@ -58,6 +58,7 @@ embedded_media:
     type: Video
     uid: 8d159bc9a16cdb170c47d2c33ea2311d
 inline_embed_id: 56480127lagrangemultipliers69610191
+order_index: 1220
 parent_uid: 353136b8318cd2cd224476fe67ed8426
 related_resources_text: ''
 short_url: lagrange-multipliers

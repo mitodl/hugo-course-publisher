@@ -50,6 +50,7 @@ embedded_media:
     type: Video
     uid: 759c17df32e79e7efb2bc9ee2285d406
 inline_embed_id: 99236311lecture16videop346940180
+order_index: 760
 parent_uid: c84dbaf357b2e84b1aa1aa8cea794c86
 related_resources_text: ''
 short_url: copy3_of_lecture-16-video

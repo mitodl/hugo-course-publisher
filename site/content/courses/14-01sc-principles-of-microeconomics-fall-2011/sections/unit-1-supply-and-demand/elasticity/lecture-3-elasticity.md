@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 7bd511ce769ea32a53d05c83a0f75933
 inline_embed_id: 20647841lecture3elasticity91650052
+order_index: 49
 parent_uid: e9dacfa6ab6fa244a25757f4d8b4b4f1
 related_resources_text: ''
 short_url: lecture-3-elasticity

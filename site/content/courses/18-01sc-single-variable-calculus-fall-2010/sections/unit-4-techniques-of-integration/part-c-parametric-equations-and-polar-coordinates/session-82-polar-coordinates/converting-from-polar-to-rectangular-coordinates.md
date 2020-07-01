@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: baf7b5c690cb88eba0b18e4e6e93b210
 inline_embed_id: 57533920convertingfrompolartorectangularcoordinates12011513
+order_index: 3494
 parent_uid: 6b43151f2ea4f32cac0a7709358919db
 related_resources_text: ''
 short_url: converting-from-polar-to-rectangular-coordinates

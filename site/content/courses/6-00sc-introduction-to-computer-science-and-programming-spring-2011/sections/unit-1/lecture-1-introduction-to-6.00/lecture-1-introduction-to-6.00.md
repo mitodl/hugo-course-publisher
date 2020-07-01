@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 017f51850563fbb7927cf7d35dddb5b9
 inline_embed_id: '53680734lecture1:introductionto6.0014473457'
+order_index: 11
 parent_uid: 5b8b75cfd4b0ebf7e60627901932f396
 related_resources_text: ''
 short_url: lecture-1-introduction-to-6.00

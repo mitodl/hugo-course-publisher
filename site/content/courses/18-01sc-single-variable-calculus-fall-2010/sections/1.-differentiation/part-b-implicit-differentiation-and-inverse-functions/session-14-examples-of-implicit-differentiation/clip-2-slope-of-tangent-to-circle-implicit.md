@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 2975c394c4f26cd5c422f5c2206e851f
 inline_embed_id: '45748377clip2:slopeoftangenttocircle:implicit33972734'
+order_index: 633
 parent_uid: 331d135eb8244bc35069e7f2d86beb59
 related_resources_text: ''
 short_url: clip-2-slope-of-tangent-to-circle-implicit

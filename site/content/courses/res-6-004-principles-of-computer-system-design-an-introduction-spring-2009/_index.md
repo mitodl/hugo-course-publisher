@@ -29,7 +29,9 @@ course_info:
     - Prof. M. Kaashoek
   departments:
     - Supplemental Resources
-  course_features: []
+  course_features:
+    - feature: Assignments
+      subfeature: problem sets (no solutions)
   topics:
     Engineering:
       Computer Science:

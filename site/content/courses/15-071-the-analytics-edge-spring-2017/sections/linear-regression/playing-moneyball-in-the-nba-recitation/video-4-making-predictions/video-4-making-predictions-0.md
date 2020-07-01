@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 486fc859471133e4c26c8a43fd6f625f
 inline_embed_id: 13646506video4makingpredictions71301215
+order_index: 498
 parent_uid: 4a72056c6bbe0c01489fb7068637be07
 related_resources_text: ''
 short_url: video-4-making-predictions-0

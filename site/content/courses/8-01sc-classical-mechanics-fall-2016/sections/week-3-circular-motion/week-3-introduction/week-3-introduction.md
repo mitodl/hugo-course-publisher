@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 916b6c7a0bd1e06f531e3c9ce9b285d7
 inline_embed_id: 46626189week3introduction33662295
+order_index: 647
 parent_uid: 467e5a37cf4f277fb9e31ec984e101a8
 related_resources_text: ''
 short_url: week-3-introduction

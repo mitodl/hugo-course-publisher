@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 460c9f36c24f32bfad380e53b9305abb
 inline_embed_id: 12770318video3watsonsdatabaseandtools4934413
+order_index: 1152
 parent_uid: 0b633aaf8e34b9847755c8976cde3db6
 related_resources_text: ''
 short_url: video-3-watson-s-database-and-tools-0

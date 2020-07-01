@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: fb22f1de18140854900cb7a7bcc9e9a5
 inline_embed_id: '18860628clip1:approximationsat0forln(1+x)and(1+x)r65581766'
+order_index: 1062
 parent_uid: 6c111f0f1d0b5fade36a1ca3687104d2
 related_resources_text: ''
 short_url: clip-1-approximations-at-0-for-ln-1-x-and-1-x-r

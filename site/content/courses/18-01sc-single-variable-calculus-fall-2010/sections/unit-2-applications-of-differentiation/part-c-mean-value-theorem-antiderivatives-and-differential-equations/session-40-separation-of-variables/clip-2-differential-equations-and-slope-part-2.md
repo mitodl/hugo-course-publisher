@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 51859445ece7275ce596b49cfa691496
 inline_embed_id: '71511739clip2:differentialequationsandslope,part280392192'
+order_index: 1824
 parent_uid: 6e674d24154a95a2d7b4dac2db7d6427
 related_resources_text: ''
 short_url: clip-2-differential-equations-and-slope-part-2

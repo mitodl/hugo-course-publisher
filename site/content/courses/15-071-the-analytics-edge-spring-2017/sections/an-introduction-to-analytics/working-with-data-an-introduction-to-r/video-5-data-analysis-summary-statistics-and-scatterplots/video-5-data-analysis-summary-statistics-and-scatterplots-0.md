@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: d8fe190e7ba04b08e086afb2c3c870d0
 inline_embed_id: 92591890video5dataanalysissummarystatisticsandscatterplots10470142
+order_index: 153
 parent_uid: eeb22344b68207d4d7b6e8fcc1cd06b6
 related_resources_text: ''
 short_url: video-5-data-analysis-summary-statistics-and-scatterplots-0

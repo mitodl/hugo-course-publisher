@@ -50,6 +50,7 @@ embedded_media:
     type: Video
     uid: 8d3aa468cb27ae3bbee67a7d0fb6e5fa
 inline_embed_id: 80252037oscillatingsteelballonatrack56220877
+order_index: 206
 parent_uid: de60ad23ec34c2de5ad0d3eca23fb1e5
 related_resources_text: ''
 short_url: copy3_of_lecture-2-video

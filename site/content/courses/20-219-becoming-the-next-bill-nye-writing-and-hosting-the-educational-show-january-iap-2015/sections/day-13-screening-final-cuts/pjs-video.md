@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: a0d073439687e7d361ae94137df76d4b
 inline_embed_id: 47175021pj'svideo76373404
+order_index: 979
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
 related_resources_text: ''
 short_url: pjs-video

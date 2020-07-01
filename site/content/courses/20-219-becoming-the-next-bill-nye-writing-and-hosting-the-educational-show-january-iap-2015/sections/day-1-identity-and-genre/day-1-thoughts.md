@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: c8cda423d6c04c4c04d94429ed95b9ad
 inline_embed_id: 66275147day1thoughts18815333
+order_index: 226
 parent_uid: e7ab07a59bf478a18a95a815093ec211
 related_resources_text: ''
 short_url: day-1-thoughts

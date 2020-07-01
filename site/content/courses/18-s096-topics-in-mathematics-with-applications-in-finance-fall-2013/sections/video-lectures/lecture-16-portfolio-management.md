@@ -59,6 +59,7 @@ embedded_media:
     type: Transcript
     uid: 9f47f77c0b1f10353d0384f3b9a2e918
 inline_embed_id: '60400286lecture16:portfoliomanagement19256931'
+order_index: 196
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-16-portfolio-management

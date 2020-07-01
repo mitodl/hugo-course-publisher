@@ -77,6 +77,7 @@ embedded_media:
     type: Transcript
     uid: 731405e3b8118a7d349b5f8c12429935
 inline_embed_id: '98906319lecture9:linearandquadraticapproximations90148725'
+order_index: 205
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

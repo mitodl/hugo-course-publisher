@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 0f6020e364dcc271a62bcf9def16de89
 inline_embed_id: '39301974clip1:antiderivativeof1/x64562559'
+order_index: 2287
 parent_uid: 28016eb00515039ebda8eb0f6b6ddb58
 related_resources_text: ''
 short_url: clip-1-antiderivative-of-1-x

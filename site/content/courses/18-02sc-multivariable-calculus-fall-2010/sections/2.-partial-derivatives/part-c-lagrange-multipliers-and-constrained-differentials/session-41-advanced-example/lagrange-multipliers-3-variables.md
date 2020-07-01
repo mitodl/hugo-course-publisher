@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: c661a273eb3fb80c9a50514d4dd71f22
 inline_embed_id: 30366752lagrangemultipliers(3variables)82048566
+order_index: 1276
 parent_uid: 9ebd1d32024e0a868958b6ad334b76ad
 related_resources_text: ''
 short_url: lagrange-multipliers-3-variables

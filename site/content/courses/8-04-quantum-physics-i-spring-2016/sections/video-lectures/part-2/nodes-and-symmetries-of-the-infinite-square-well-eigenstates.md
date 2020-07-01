@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 6a46a4c8ec33b83db2a5e363f0d6de5e
 inline_embed_id: 28506075nodesandsymmetriesoftheinfinitesquarewelleigenstates95782192
+order_index: 574
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: nodes-and-symmetries-of-the-infinite-square-well-eigenstates

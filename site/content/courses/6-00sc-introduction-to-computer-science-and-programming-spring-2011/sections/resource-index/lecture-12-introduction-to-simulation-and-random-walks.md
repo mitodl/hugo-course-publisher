@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: d13c41344da68a68953670bfc4212b51
 inline_embed_id: 95727152lecture12introductiontosimulationandrandomwalks71792646
+order_index: 725
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: lecture-12-introduction-to-simulation-and-random-walks

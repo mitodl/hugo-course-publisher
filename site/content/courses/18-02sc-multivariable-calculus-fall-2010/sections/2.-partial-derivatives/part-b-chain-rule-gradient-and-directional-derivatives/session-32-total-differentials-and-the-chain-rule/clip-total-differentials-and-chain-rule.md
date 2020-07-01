@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 0ed7fe55a1b025da274a7bf76a0a45e8
 inline_embed_id: '28262034clip:totaldifferentialsandchainrule66900635'
+order_index: 1026
 parent_uid: a7ce31320948c64037b7e082d4a53ecc
 related_resources_text: ''
 short_url: clip-total-differentials-and-chain-rule

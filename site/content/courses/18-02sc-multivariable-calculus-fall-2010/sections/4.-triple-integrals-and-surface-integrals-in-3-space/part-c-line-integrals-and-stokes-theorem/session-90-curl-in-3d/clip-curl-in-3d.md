@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 6ef67a10ee971aa0c094a5c9c12875a4
 inline_embed_id: '45657390clip:curlin3d92091771'
+order_index: 2861
 parent_uid: acfc5d4e3602454b1118b52cb66b3039
 related_resources_text: ''
 short_url: clip-curl-in-3d

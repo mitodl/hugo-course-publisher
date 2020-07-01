@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: acb1f50ade649ad513a0870d0ff80c8a
 inline_embed_id: 53130530lecture23equityandefficiency77954803
+order_index: 494
 parent_uid: 1b95348a7b79a798d6356d4376464c0d
 related_resources_text: ''
 short_url: lecture-23-equity-and-efficiency-1

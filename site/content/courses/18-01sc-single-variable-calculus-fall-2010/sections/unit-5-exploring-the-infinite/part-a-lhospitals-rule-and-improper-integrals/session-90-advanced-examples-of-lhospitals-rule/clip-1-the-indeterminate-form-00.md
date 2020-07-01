@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: af056c7cf996328ed33cf4ebe9120d95
 inline_embed_id: '20577550clip1:theindeterminateform0010472651'
+order_index: 3856
 parent_uid: 6cc72b08f8717a2d7b737df7f698c876
 related_resources_text: ''
 short_url: clip-1-the-indeterminate-form-00

@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: b427a3aba06f247588f8507d083f92c6
 inline_embed_id: '23164533lecture4:search:depth-first,hillclimbing,beam8177409'
+order_index: 49
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: "<p><a href=\"./resolveuid/a6fb3e82ce4c5f1c99b858b3950d498d\" target=\"_blank\">6.01SC Introduction to EECS I</a> includes two sessions on search:</p>\r\n<ul>\r\n    <li><a href=\"./resolveuid/497582d868ca82e77ef76b997e187b13\" target=\"_blank\">Search Algorithms</a></li>\r\n    <li><a href=\"./resolveuid/da41172cd83b25719eaecaa5c1bcde32\" target=\"_blank\">Optimizing a Search</a></li>\r\n</ul>"
 short_url: lecture-4-search-depth-first-hill-climbing-beam

@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 8fc77b9cb5a42edc5d454e38426d7de4
 inline_embed_id: 24588309elitzurvaidmanbombs46906572
+order_index: 118
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: elitzur-vaidman-bombs

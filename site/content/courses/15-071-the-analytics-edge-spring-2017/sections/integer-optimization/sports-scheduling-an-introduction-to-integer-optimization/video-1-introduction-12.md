@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 8e6ab1ae4981ba6293846cbc39f1737f
 inline_embed_id: 89481875video1introduction81729497
+order_index: 2073
 parent_uid: fbf2b7049246466ef24736bff248b7c3
 related_resources_text: ''
 short_url: video-1-introduction-12

@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: a5d4bff805d9aa56f68a2ef141546912
 inline_embed_id: 58790462yuliya'sroughcut61091711
+order_index: 868
 parent_uid: 91a83a5a9923d001da64fbbcd37341cb
 related_resources_text: ''
 short_url: yuliyas-rough-cut

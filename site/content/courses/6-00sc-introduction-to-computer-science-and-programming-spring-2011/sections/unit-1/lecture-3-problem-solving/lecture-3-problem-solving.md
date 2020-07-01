@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: fee7a8d9a370e48cc563a450bc99e3ec
 inline_embed_id: '91187529lecture3:problemsolving47510943'
+order_index: 50
 parent_uid: 3c3069d4e0edfe69ce4f6de217d649a5
 related_resources_text: ''
 short_url: lecture-3-problem-solving

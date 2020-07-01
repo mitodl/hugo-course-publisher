@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 57c9ab89897ce9f3431705ea3c0029c7
 inline_embed_id: 97870995scalesofthehydrogenatom98854127
+order_index: 1113
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: scales-of-the-hydrogen-atom

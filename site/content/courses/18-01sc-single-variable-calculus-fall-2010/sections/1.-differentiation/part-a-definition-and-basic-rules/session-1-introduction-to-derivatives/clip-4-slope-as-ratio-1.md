@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 7c6b5a7a7290abb6e73a4eebf0a8ef28
 inline_embed_id: '69990729clip4:slopeasratio37138003'
+order_index: 58
 parent_uid: c25a5592cbb582539daea82e3aeeda33
 related_resources_text: ''
 short_url: clip-4-slope-as-ratio-1

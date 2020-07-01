@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: db193ae72a5b9557aeaca002edf0ef2b
 inline_embed_id: '79108046clip3:taylor''sformulaexamples38732021'
+order_index: 4285
 parent_uid: 30f32e825b1a1974da6c98b8de0aafd3
 related_resources_text: ''
 short_url: clip-3-taylors-formula-examples

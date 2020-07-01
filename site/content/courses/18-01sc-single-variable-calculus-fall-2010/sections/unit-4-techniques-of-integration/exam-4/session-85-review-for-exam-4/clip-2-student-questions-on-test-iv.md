@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 07c05b256e2ba381b8655babfd6c00c2
 inline_embed_id: '44273142clip2:studentquestionsontestiv52042284'
+order_index: 3639
 parent_uid: 4699d63d2fc16b8bd7fc498a382dc972
 related_resources_text: ''
 short_url: clip-2-student-questions-on-test-iv

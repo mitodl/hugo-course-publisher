@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 6102e7bd4d57bfcb1394c26baf02f405
 inline_embed_id: '82249229clip2:integrationbyadvancedguessing76463579'
+order_index: 1749
 parent_uid: def23901ebbad92ea90a23199cbba444
 related_resources_text: ''
 short_url: clip-2-integration-by-advanced-guessing-1

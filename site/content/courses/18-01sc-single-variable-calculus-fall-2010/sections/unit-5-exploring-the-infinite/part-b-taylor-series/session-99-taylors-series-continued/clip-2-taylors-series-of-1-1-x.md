@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 704b7f0ab09f628bb91ebd972d1348ba
 inline_embed_id: '43668677clip2:taylor''sseriesof1/(1+x)14618547'
+order_index: 4321
 parent_uid: 9714534fbc6217589e4ab69f5ad147a4
 related_resources_text: ''
 short_url: clip-2-taylors-series-of-1-1-x

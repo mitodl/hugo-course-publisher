@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 5044be2ebfbcd60d9343bebdeb2eb0b2
 inline_embed_id: 5381016problemsolvingchangeofbasis78098390
+order_index: 1652
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: problem-solving-change-of-basis

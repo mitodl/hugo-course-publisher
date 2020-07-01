@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: cd8212199a6dba0f3c2827f496470d7b
 inline_embed_id: 68382546video2gettingstartedinr22634780
+order_index: 119
 parent_uid: c8166228550ceb529a938c3f49d12635
 related_resources_text: ''
 short_url: video-2-getting-started-in-r-0

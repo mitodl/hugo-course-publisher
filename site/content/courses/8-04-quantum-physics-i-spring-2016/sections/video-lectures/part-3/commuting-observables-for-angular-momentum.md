@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 5cbef3ca84dbbc8690908333544d0ba0
 inline_embed_id: 54709102commutingobservablesforangularmomentum50855141
+order_index: 1043
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: commuting-observables-for-angular-momentum

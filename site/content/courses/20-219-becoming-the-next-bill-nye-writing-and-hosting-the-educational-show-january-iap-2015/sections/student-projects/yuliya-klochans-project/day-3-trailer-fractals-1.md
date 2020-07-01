@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: caa93cabee29c9fc8d889f4f54f306a8
 inline_embed_id: '65525164day3trailer:fractals!38262292'
+order_index: 1306
 parent_uid: 199a8a68327fee7d62ee54642710c541
 related_resources_text: ''
 short_url: day-3-trailer-fractals-1

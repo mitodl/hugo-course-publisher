@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: fb1aa93e1e385d6a1d3b3213d86b5275
 inline_embed_id: 11496775kenneth'svideo13178862
+order_index: 1019
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
 related_resources_text: ''
 short_url: kenneths-video

@@ -27,6 +27,7 @@ embedded_media:
     type: Thumbnail
     uid: 48130ee892ef240844fcd421f4fbcd27
 inline_embed_id: '48096467team5:pre-flightinterview89219720'
+order_index: 1089
 parent_uid: 87e8f47c351cccd450e9b5e03c5bbee2
 related_resources_text: ''
 short_url: team-5-pre-flight-interview

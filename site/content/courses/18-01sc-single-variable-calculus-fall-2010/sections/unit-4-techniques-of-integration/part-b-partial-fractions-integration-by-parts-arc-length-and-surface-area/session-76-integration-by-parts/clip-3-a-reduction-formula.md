@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 4e91b712cffa7ce716b9831462733fc7
 inline_embed_id: '92503395clip3:areductionformula52134678'
+order_index: 3208
 parent_uid: b196b3d2413fa8015d43695883cc671a
 related_resources_text: ''
 short_url: clip-3-a-reduction-formula

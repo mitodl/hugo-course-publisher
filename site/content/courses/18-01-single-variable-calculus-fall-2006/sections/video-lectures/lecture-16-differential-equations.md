@@ -78,6 +78,7 @@ embedded_media:
     type: Transcript
     uid: eaf76a9144f6c47dea18c6f5f3ef3c8d
 inline_embed_id: '78530023lecture16:differentialequations86573767'
+order_index: 296
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

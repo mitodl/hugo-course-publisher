@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: a4468a7ac9d6daf1dff5984efecc3517
 inline_embed_id: 61295500lecture34distancematricesprocrustesproblemfirstproject92565727
+order_index: 314
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-34-distance-matrices-procrustes-problem-first-project

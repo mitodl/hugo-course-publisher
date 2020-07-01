@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: d69796d7891fbbec01f415a55aeacb92
 inline_embed_id: '37256384lecture2:coreelementsofaprogram30784470'
+order_index: 26
 parent_uid: 5a8ad51b351a4b3f0c09861452ea827d
 related_resources_text: ''
 short_url: lecture-2-core-elements-of-a-program

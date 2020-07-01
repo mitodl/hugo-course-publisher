@@ -64,6 +64,7 @@ embedded_media:
     type: Video
     uid: 3aa38fd53258736f6cc567470d60b8a7
 inline_embed_id: 367718lecture1theimportanceofchemicalprinciples98327603
+order_index: 124
 parent_uid: 2093fa038f0b9e63c68049a3ed4867fd
 related_resources_text: ''
 short_url: lecture-1-the-importance-of-chemical-principles

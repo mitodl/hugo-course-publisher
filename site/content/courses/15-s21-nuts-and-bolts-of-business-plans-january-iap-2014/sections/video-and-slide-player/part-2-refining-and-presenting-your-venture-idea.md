@@ -280,6 +280,7 @@ embedded_media:
     type: Video
     uid: cd4ce57f59f060c84b07860e352ea834
 inline_embed_id: '9727432session1,part2:refiningandpresentingyourventureidea92666209'
+order_index: 146
 parent_uid: c26333e10b77931a494216b5acafb6ce
 related_resources_text: ''
 short_url: part-2-refining-and-presenting-your-venture-idea

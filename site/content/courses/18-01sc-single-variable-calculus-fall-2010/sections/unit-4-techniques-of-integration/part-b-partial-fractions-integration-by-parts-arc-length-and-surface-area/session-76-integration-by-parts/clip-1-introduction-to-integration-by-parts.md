@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 316f34a7717bba173b51efa303dd5e80
 inline_embed_id: '24014240clip1:introductiontointegrationbyparts12615409'
+order_index: 3178
 parent_uid: b196b3d2413fa8015d43695883cc671a
 related_resources_text: ''
 short_url: clip-1-introduction-to-integration-by-parts

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: ce31d5caac14d83de84bac4c971d85b4
 inline_embed_id: '33134972clip1:averagevalue69554444'
+order_index: 2510
 parent_uid: 7e226a8ff6296ef690524c46584132b9
 related_resources_text: ''
 short_url: clip-1-average-value

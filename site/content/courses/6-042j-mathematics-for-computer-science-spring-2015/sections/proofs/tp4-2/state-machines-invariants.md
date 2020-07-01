@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 29d9315d7b050f8b9eaec09896133261
 inline_embed_id: 91053964statemachinesinvariants54481980
+order_index: 529
 parent_uid: 470546ac81246c938505a0f7571765aa
 related_resources_text: ''
 short_url: state-machines-invariants

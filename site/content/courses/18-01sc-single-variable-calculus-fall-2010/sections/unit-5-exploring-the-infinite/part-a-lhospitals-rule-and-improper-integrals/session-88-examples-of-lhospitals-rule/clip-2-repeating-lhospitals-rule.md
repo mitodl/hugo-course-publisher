@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: a802e513ac0093a2cead95ad8abd60b2
 inline_embed_id: '18945565clip2:repeatingl''hospital''srule64866822'
+order_index: 3761
 parent_uid: 7a8cdab56a9e46b35225a2bc22295a0f
 related_resources_text: ''
 short_url: clip-2-repeating-lhospitals-rule

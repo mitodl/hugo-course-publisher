@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 8d99706e805c736d6c292d88f3f2a2b2
 inline_embed_id: '38514153studentinterview:kenneth3655073'
+order_index: 919
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
 related_resources_text: ''
 short_url: student-interview-kenneth

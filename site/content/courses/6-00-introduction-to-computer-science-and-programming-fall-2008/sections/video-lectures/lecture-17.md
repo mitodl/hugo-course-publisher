@@ -91,6 +91,7 @@ embedded_media:
     type: Transcript
     uid: 2fd8c92ee4e03c5e6a3e7c39c3484937
 inline_embed_id: '190332317:computationalmodels:randomwalksimulation36486434'
+order_index: 246
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

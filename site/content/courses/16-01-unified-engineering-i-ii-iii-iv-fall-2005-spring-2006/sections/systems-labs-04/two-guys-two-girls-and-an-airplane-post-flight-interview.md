@@ -27,6 +27,7 @@ embedded_media:
     type: Video
     uid: 1efd304160e1c1d7d2a9757ec6fb6d2e
 inline_embed_id: '79293138twoguys,twogirlsandanairplane:post-flightinterview92566295'
+order_index: 1169
 parent_uid: 87e8f47c351cccd450e9b5e03c5bbee2
 related_resources_text: ''
 short_url: two-guys-two-girls-and-an-airplane-post-flight-interview

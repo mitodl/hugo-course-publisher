@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 96ee6cf2f72d5e5cde308708a066000c
 inline_embed_id: 21642421explanationofsimpson'srule90305915
+order_index: 2685
 parent_uid: be07f2bde3305a676f66884dbf8397d1
 related_resources_text: ''
 short_url: explanation-of-simpsons-rule

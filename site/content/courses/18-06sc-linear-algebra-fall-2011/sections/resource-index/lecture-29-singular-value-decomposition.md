@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 0bac7cc553250a9a97247c2ceae5b072
 inline_embed_id: 49447195lecture29singularvaluedecomposition11692691
+order_index: 1612
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: lecture-29-singular-value-decomposition

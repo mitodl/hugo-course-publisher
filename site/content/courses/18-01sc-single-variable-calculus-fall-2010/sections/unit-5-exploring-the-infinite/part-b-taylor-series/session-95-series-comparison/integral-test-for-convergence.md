@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: b5761a227a386911f49966018a9f48d5
 inline_embed_id: 94645892integraltestforconvergence75408246
+order_index: 4133
 parent_uid: e6b5bcf01d4fe02cb8f15ed900b23542
 related_resources_text: ''
 short_url: integral-test-for-convergence

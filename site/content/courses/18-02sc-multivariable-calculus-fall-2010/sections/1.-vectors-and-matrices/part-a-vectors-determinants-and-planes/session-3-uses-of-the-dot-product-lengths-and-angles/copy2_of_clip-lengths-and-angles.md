@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 57ae25033ca7f6e3941883da893bf2e5
 inline_embed_id: '44295705clip:lengthsandangles14189577'
+order_index: 83
 parent_uid: 6bffee600f9e4f4fdbab82ddbed0e07d
 related_resources_text: ''
 short_url: copy2_of_clip-lengths-and-angles

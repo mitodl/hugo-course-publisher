@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 4b29634377f6e1a93f19a20d56d39b4d
 inline_embed_id: 28536086realityconditioninfouriertransforms90520999
+order_index: 333
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: reality-condition-in-fourier-transforms

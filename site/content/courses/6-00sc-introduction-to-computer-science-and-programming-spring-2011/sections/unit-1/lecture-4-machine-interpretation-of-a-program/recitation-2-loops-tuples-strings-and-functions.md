@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 177610b01910b55669f229c002a18a87
 inline_embed_id: '34363937recitation2:loops,tuples,stringsandfunctions91244429'
+order_index: 76
 parent_uid: f13e5af952a2f007e596f80bc01059fe
 related_resources_text: ''
 short_url: recitation-2-loops-tuples-strings-and-functions

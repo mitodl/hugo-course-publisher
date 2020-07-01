@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: c9fb5912fe96083477a4f97d2b396668
 inline_embed_id: '69610843lecture3:divide&conquer:fft17393659'
+order_index: 127
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-3-divide-conquer-fft

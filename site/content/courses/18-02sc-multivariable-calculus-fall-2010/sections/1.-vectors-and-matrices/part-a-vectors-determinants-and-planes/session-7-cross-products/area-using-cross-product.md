@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: bb6338bc7f4424099904a09c925e4f16
 inline_embed_id: 39883228areausingcrossproduct90621061
+order_index: 230
 parent_uid: 83e4aaa9ae8c110f1c2812e303bd3f4a
 related_resources_text: ''
 short_url: area-using-cross-product

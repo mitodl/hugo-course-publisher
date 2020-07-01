@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: c627c4fe45a6704963c4618c83a4248f
 inline_embed_id: 98028346solvingaxbrowreducedformr45011578
+order_index: 1186
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: solving-ax-b-row-reduced-form-r

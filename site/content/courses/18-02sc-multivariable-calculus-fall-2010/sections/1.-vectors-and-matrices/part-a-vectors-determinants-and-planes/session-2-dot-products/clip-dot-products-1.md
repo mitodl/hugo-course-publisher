@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: f9f1b866c053648c088c09cf2777726f
 inline_embed_id: '66334226clip:dotproducts6486926'
+order_index: 61
 parent_uid: ff28657b53d8149ed2060215c11e86bd
 related_resources_text: ''
 short_url: clip-dot-products-1

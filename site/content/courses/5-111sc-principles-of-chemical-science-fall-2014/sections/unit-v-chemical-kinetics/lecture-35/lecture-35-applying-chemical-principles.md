@@ -64,6 +64,7 @@ embedded_media:
     type: Video
     uid: 28d821561f6b450ca1c550e7a6aa9486
 inline_embed_id: 72170948lecture35applyingchemicalprinciples46154609
+order_index: 650
 parent_uid: cfdef97d2484c33111437c192f705162
 related_resources_text: ''
 short_url: lecture-35-applying-chemical-principles

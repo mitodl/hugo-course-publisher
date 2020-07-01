@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: c5f1fe2a53a761cbdf79e1a8f08e2012
 inline_embed_id: '274485lecture19:conditionalprobability3851075'
+order_index: 209
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-19-conditional-probability

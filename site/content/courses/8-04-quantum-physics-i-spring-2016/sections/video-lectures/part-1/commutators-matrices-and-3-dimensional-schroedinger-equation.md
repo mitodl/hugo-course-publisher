@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 6fa6f4f48cd5d0d8b41b319947555584
 inline_embed_id: 10475517commutatorsmatricesand3dimensionalschrdingerequation57251959
+order_index: 256
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: commutators-matrices-and-3-dimensional-schroedinger-equation

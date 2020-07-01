@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 37f712d9bf7c91fcf8f1771fa7a49666
 inline_embed_id: 92329186lecture7debugging53880686
+order_index: 645
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: lecture-7-debugging

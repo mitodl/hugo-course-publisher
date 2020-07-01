@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 8f041d2113a1c4947d4a685c399f2835
 inline_embed_id: 32083658tangentplaneapproximation55493564
+order_index: 827
 parent_uid: 137654825c1e9afc7157b73f07e97db6
 related_resources_text: ''
 short_url: tangent-plane-approximation

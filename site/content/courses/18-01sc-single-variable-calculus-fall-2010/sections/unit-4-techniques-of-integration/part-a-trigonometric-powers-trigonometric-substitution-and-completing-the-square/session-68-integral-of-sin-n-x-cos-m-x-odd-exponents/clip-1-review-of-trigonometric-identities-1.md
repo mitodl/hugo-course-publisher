@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 830ef39227a5384e095cebc7f4c3c51f
 inline_embed_id: '68187768clip1:reviewoftrigonometricidentities24308525'
+order_index: 2830
 parent_uid: f914f1dccfe8c98b34b42bcf2aa6e075
 related_resources_text: ''
 short_url: clip-1-review-of-trigonometric-identities-1

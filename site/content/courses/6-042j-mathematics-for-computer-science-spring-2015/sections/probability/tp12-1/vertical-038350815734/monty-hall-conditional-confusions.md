@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: a487374e512184f462b304614151efc7
 inline_embed_id: 40254349montyhallconditionalconfusions2618017
+order_index: 1438
 parent_uid: e9ff977a008f11e6cad8d3e13b3f1b62
 related_resources_text: ''
 short_url: monty-hall-conditional-confusions

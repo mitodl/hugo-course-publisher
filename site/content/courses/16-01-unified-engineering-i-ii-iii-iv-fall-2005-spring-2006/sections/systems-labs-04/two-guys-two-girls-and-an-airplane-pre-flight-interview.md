@@ -27,6 +27,7 @@ embedded_media:
     type: Video
     uid: 8911e1e7b681998750a0dc1fd661ed3d
 inline_embed_id: '59100991twoguys,twogirlsandanairplane:pre-flightinterview64017193'
+order_index: 1154
 parent_uid: 87e8f47c351cccd450e9b5e03c5bbee2
 related_resources_text: ''
 short_url: two-guys-two-girls-and-an-airplane-pre-flight-interview

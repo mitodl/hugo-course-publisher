@@ -637,6 +637,7 @@ embedded_media:
     type: Video
     uid: 677c6f2ecca91510b6c282cf25a17f7e
 inline_embed_id: '66512378session4,part2:legalissues98765579'
+order_index: 354
 parent_uid: c26333e10b77931a494216b5acafb6ce
 related_resources_text: ''
 short_url: part-2-legal-issues

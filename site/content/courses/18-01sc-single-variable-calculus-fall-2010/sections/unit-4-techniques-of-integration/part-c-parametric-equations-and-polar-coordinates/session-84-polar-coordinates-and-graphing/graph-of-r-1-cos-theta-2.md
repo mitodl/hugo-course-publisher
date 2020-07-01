@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 2c454303eed2baad52c271a260f32833
 inline_embed_id: 94439264graphofr=1+cos(&theta;/2)79265600
+order_index: 3566
 parent_uid: cfd25e33da1a2e54749f33591f59a4ba
 related_resources_text: ''
 short_url: graph-of-r-1-cos-theta-2

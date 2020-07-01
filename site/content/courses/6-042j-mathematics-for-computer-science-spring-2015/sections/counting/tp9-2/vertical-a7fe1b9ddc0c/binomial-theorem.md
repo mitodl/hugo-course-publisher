@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 3bdd59b7df193b125baa66b8b65ebe50
 inline_embed_id: 21160844binomialtheorem5680628
+order_index: 1292
 parent_uid: e6c64653596baf6af0c203a1421a1e7a
 related_resources_text: ''
 short_url: binomial-theorem

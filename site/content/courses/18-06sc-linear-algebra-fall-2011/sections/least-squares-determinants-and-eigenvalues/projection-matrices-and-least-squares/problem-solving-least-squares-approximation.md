@@ -58,6 +58,7 @@ embedded_media:
     type: Thumbnail
     uid: 0978acfd2011d5fd2b72b7d893c4913c
 inline_embed_id: '56479343problemsolving:leastsquaresapproximation71670615'
+order_index: 463
 parent_uid: 5f12aef90a3ea658e59ce968a672c0c2
 related_resources_text: ''
 short_url: problem-solving-least-squares-approximation

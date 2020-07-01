@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: f247743ec36758e75a60a78f1d6c7c7d
 inline_embed_id: '5809139clip:equationsoflines1622889'
+order_index: 454
 parent_uid: e53436693ea8a4e96e81941891967e93
 related_resources_text: ''
 short_url: clip-equations-of-lines

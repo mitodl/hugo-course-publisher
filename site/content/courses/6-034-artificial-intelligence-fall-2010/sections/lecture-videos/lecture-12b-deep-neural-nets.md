@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: b7f9ff0015d27319dff1906a40350b6e
 inline_embed_id: '77511257lecture12b:deepneuralnets76443030'
+order_index: 139
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
 short_url: lecture-12b-deep-neural-nets

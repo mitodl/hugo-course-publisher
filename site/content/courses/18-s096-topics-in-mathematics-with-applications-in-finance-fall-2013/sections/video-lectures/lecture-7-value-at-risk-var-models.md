@@ -59,6 +59,7 @@ embedded_media:
     type: Transcript
     uid: d33695f8dbb61eda98de286f99f8f2d0
 inline_embed_id: '48659305lecture7:valueatrisk(var)models52889752'
+order_index: 106
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-7-value-at-risk-var-models

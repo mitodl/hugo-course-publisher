@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: f8ee1aede75cad2878280b82f359e328
 inline_embed_id: 25678389lecture14lowrankchangesinaanditsinverse46568815
+order_index: 152
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-14-low-rank-changes-in-a-and-its-inverse

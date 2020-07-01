@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 6a05871f9d13819c4fa6bdda5ef4956b
 inline_embed_id: 59148563dd.3.3gyroscopes3nutationandtotalangularmomentum52598047
+order_index: 2437
 parent_uid: 0e404fc32376af370fd1ea9139691b69
 related_resources_text: ''
 short_url: dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum

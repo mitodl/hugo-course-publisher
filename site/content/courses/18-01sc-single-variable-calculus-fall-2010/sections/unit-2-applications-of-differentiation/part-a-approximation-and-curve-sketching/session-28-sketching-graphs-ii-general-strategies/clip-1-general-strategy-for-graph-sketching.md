@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: f6df559de1249097e3ac321e5dbe6b25
 inline_embed_id: '30176113clip1:generalstrategyforgraphsketching91335737'
+order_index: 1305
 parent_uid: 445cf54d4e7202de2ae3332dadd36def
 related_resources_text: ''
 short_url: clip-1-general-strategy-for-graph-sketching

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: c4ec5eb4caafcc806ceddecb787b9445
 inline_embed_id: '8795519clip2:comparisonexample28443135'
+order_index: 3976
 parent_uid: ed231e9c56356bb1e18c555d00f08398
 related_resources_text: ''
 short_url: clip-2-comparison-example

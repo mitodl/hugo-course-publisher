@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 54c92c28c40fad7d0fc2553f9df75c6c
 inline_embed_id: 19432541video5thresholding15077482
+order_index: 575
 parent_uid: 7bf86a6c2bb6629ed20e4dd216833197
 related_resources_text: ''
 short_url: video-5-thresholding-0

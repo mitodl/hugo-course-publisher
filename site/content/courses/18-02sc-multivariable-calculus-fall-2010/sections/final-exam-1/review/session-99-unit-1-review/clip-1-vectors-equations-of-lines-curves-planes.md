@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 437f5ba1b8980df30f12ab8653fe9a6f
 inline_embed_id: '64416711clip1:vectors,equationsoflines/curves/planes22635238'
+order_index: 3115
 parent_uid: 439b0e936f086aaa4e337925a9d02c17
 related_resources_text: ''
 short_url: clip-1-vectors-equations-of-lines-curves-planes

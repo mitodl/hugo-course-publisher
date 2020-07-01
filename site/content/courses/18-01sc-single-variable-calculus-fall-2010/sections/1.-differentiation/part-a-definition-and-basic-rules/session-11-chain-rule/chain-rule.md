@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 9140cbb2878bc42274c280d22aeb1e71
 inline_embed_id: 20072249chainrule29895614
+order_index: 539
 parent_uid: 68feb14ba590b3b088c989717ae12492
 related_resources_text: ''
 short_url: chain-rule

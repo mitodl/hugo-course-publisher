@@ -73,6 +73,7 @@ embedded_media:
     type: Transcript
     uid: a20fb3f18e8038def46437838942c2bc
 inline_embed_id: '64233300lecture25:violatingtheabstractionbarrier49580547'
+order_index: 417
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p><strong>Lecture 24</strong></p> <p>Lecture notes (<a target="_blank"

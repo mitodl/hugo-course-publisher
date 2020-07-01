@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: df89f182511cb764d06e4ebe75dd8bf0
 inline_embed_id: 67187445video1thepowerofvisualizations54729918
+order_index: 1551
 parent_uid: 274ac6b9daf6cd65874ec643ab327953
 related_resources_text: ''
 short_url: video-1-the-power-of-visualizations-0

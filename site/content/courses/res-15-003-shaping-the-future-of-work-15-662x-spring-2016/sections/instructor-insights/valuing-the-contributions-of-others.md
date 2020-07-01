@@ -4,7 +4,7 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: aa059fb3678ccdd986923b443c48a843
-    weight: 40
+    weight: 50
     parent: 533d102efe069d1db963beda43cca2a1
 ---
 _In this section, Professor Tom Kochan discusses how he incorporates the contributions of leaders, colleagues, and students into the course._
@@ -21,7 +21,7 @@ One of the smartest things we did in designing the course was to include a video
 Millennials Share their Experiences
 -----------------------------------
 
-One of the smartest things we did in designing the course was to include a video featuring two students sharing their perspectives on what millennials want from their experiences in the work force. [In the video](./resolveuid/84d30efa9d4853a60448bad4cf0ee3eb), they share what the research says millennials want, and then what they hear their peers saying. It’s one of my favorite videos because it captures a contribution to the course that I could not have made myself. I could have said the same words, but my words wouldn’t have had the same impact. Participants needed to hear information about millennials from millennials.
+One of the smartest things we did in designing the course was to include a video featuring two students sharing their perspectives on what millennials want from their experiences in the work force. [In the video]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce/video-the-millennial-generation-s-views-on-their-world-of-work" %}}), they share what the research says millennials want, and then what they hear their peers saying. It’s one of my favorite videos because it captures a contribution to the course that I could not have made myself. I could have said the same words, but my words wouldn’t have had the same impact. Participants needed to hear information about millennials from millennials.
 
 ![Men and women holding signs with slogans such as Higher Pay and 5-day Week.](https://open-learning-course-data-ci.s3.amazonaws.com/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/3c7879acad11273631a5099e3d3c677f_RES.15-003_mural.jpg)
 

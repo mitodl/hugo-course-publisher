@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: d726cb16704513c447a9a816af36df05
 inline_embed_id: '17580715clip2:introductiontothecover-upmethod8249582'
+order_index: 3085
 parent_uid: bffb54f0e2e1cf685033820b5512e4e6
 related_resources_text: ''
 short_url: clip-2-introduction-to-the-cover-up-method

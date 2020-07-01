@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 77797a4f7aa305d3e85ad8061798a23d
 inline_embed_id: 39399860joshua'stable-read26570676
+order_index: 649
 parent_uid: d8c0d81b2a38c0d7c4ff4a8cfacacb2d
 related_resources_text: ''
 short_url: copy_of_day-7-part-1

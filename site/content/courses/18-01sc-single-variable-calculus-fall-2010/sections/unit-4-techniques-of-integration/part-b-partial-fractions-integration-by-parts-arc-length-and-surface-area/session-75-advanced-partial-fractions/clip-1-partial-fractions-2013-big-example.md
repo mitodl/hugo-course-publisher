@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 19fd6701cb9771b9b32ddb981ecae9fa
 inline_embed_id: '79382763clip1:partialfractionsbigexample52873427'
+order_index: 3157
 parent_uid: b2d9964453e89357525c798ec9a77daf
 related_resources_text: ''
 short_url: clip-1-partial-fractions-2013-big-example

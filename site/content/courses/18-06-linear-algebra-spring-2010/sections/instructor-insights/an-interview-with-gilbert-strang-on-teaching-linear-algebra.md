@@ -70,6 +70,7 @@ embedded_media:
     type: Background Image
     uid: 620d929464b644bfe934db02f4376a24
 inline_embed_id: 12700054aninterviewwithgilbertstrangonteachinglinearalgebra63021644
+order_index: 10
 parent_uid: 3f3b7835cf477d3ba10b05fbe03cbffa
 related_resources_text: ''
 short_url: an-interview-with-gilbert-strang-on-teaching-linear-algebra

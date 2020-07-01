@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 5f8fd28c6cf8a719fe471dcd49e3251c
 inline_embed_id: 44478485inversematrices22120372
+order_index: 1087
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: inverse-matrices

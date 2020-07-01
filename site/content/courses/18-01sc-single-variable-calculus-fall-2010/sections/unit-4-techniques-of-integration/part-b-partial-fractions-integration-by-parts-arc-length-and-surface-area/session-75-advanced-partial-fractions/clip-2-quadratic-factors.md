@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 3b46813bd7a2044d8e3f1dcd202aa425
 inline_embed_id: '90366491clip2:quadraticfactors56999338'
+order_index: 3127
 parent_uid: b2d9964453e89357525c798ec9a77daf
 related_resources_text: ''
 short_url: clip-2-quadratic-factors

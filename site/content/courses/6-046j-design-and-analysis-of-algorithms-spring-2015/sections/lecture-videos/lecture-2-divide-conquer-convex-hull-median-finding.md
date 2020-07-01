@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 51d447dc661d2f52db503ebeaf39ba9f
 inline_embed_id: '58313170lecture2:divide&conquer:convexhull,medianfinding40406296'
+order_index: 117
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-2-divide-conquer-convex-hull-median-finding

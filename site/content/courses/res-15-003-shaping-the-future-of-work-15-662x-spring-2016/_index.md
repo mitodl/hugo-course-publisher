@@ -29,7 +29,13 @@ course_info:
   departments:
     - Supplemental Resources
   course_features:
+    - feature: Interactive assessments
+    - feature: AV lectures
+      subfeature: Video
+    - feature: Online textbooks
+      subfeature: PDF
     - feature: This Course at MIT
+    - feature: Resource Index
   topics:
     Business:
       Industrial Relations and Human Resource Management: []

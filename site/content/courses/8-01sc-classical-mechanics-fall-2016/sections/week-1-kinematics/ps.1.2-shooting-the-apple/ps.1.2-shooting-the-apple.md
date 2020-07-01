@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 6a145cb3acdc90115d2d487e1ae2d12b
 inline_embed_id: 35291035ps.1.2shootingtheapple60146114
+order_index: 363
 parent_uid: 3d4cf0c9ea1b525e0dda74b39d1080a8
 related_resources_text: ''
 short_url: ps.1.2-shooting-the-apple

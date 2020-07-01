@@ -59,6 +59,7 @@ embedded_media:
     type: Transcript
     uid: 7b1191c47b832114e1abbd2ce0d1d7b6
 inline_embed_id: 81059385robustnessindevelopmentandpatternformation44491060
+order_index: 134
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: robustness-in-development-and-pattern-formation

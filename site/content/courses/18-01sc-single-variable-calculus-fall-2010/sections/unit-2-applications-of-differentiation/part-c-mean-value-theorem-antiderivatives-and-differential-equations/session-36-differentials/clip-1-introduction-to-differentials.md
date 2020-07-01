@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 10e8af22e783c931e3b5a189bed8ee24
 inline_embed_id: '71796126clip1:introductiontodifferentials40207545'
+order_index: 1632
 parent_uid: fa53a54f73841c72094dc4856e73978e
 related_resources_text: ''
 short_url: clip-1-introduction-to-differentials

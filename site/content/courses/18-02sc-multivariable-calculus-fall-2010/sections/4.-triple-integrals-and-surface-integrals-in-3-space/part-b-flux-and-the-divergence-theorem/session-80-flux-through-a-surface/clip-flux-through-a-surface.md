@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 85f3107b1fb275721ebe92f63725bc43
 inline_embed_id: '5546153clip:fluxthroughasurface12090842'
+order_index: 2540
 parent_uid: 076b5dffcda3d135851cf7a311c53208
 related_resources_text: ''
 short_url: clip-flux-through-a-surface

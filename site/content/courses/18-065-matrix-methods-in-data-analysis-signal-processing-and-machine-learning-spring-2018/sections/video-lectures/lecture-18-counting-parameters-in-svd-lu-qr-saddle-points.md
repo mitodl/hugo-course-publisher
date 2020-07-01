@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: b986b2a53560cb1f179d2bb21837827c
 inline_embed_id: 86917761lecture18countingparametersinsvdluqrsaddlepoints19530502
+order_index: 188
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-18-counting-parameters-in-svd-lu-qr-saddle-points

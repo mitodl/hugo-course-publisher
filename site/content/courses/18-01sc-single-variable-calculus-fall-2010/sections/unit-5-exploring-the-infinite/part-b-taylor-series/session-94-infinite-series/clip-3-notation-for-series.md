@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 5f86d8effca3e6289062e59dfa257c66
 inline_embed_id: '21429603clip3:notationforseries14232647'
+order_index: 4082
 parent_uid: 1825bfbbd3647c86fa9771d985c21513
 related_resources_text: ''
 short_url: clip-3-notation-for-series

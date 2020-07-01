@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 0746f19a701650fe2951425abf799ca6
 inline_embed_id: 3741781video5winningtheworldseries94913306
+order_index: 433
 parent_uid: a7a0fe58cf53ad2e8a4800f4efacbaed
 related_resources_text: ''
 short_url: video-5-winning-the-world-series-0

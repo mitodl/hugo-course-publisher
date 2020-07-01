@@ -36,6 +36,7 @@ embedded_media:
     type: Video
     uid: 30d6ff974e8f1df75754f898dc5d88c2
 inline_embed_id: '64188832clip:doubleintegralsinpolarcoordinates22195711'
+order_index: 1534
 parent_uid: 526fb43eaa2051870cb72c769f2c80ae
 related_resources_text: ''
 short_url: clip-double-integrals-in-polar-coordinates

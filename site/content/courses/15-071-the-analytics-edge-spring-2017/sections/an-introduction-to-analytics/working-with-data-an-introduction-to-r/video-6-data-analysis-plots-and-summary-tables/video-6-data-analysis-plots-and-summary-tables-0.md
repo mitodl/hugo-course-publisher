@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: ee92c1bb615f3d64691bd96c3f3e0d0e
 inline_embed_id: 94670009video6dataanalysisplotsandsummarytables12191195
+order_index: 164
 parent_uid: 050acd529f55fd87a5c298728b4daa03
 related_resources_text: ''
 short_url: video-6-data-analysis-plots-and-summary-tables-0

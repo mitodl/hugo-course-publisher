@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 825b3eb9496cf9d45a39d42910674f7b
 inline_embed_id: 86253651expectationvaluesofoperators57969468
+order_index: 410
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: expectation-values-of-operators

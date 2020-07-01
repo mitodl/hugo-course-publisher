@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: d29674ebaa9fa20cf4ad60c13d8bd549
 inline_embed_id: 12766133video4howwatsonworkssteps1and243827250
+order_index: 1163
 parent_uid: 10a0455f0a4b69f3568b887aeec88323
 related_resources_text: ''
 short_url: video-4-how-watson-works-steps-1-and-2-0

@@ -78,6 +78,7 @@ embedded_media:
     type: Transcript
     uid: efcce9edfd8149325777539c8888dcd0
 inline_embed_id: '87139736lecture38:taylor''sseries96533473'
+order_index: 543
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
