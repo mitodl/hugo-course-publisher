@@ -51,5 +51,5 @@ Availability
 
 Saltzer, Jerome H., and M. Frans Kaashoek. _Principles of Computer System Design: An Introduction, Part I._
 
-*   [![Buy at Amazon](http://ocw.mit.edu/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0123749573/ref=nosim/mitopencourse-20) [Print edition](http://www.elsevierdirect.com/product.jsp?isbn=9780123749574) San Francisco, CA: Morgan Kaufman/Elsevier, 2009. ISBN: 9780123749574.
+*   [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0123749573/ref=nosim/mitopencourse-20) [Print edition](http://www.elsevierdirect.com/product.jsp?isbn=9780123749574) San Francisco, CA: Morgan Kaufman/Elsevier, 2009. ISBN: 9780123749574.
 *   [e-book](http://www.sciencedirect.com/science/book/9780123749574) Science Direct (Elsevier B.V.)

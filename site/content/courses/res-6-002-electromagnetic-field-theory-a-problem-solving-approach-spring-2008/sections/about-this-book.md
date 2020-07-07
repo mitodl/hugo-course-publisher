@@ -26,7 +26,7 @@ Wherever possible, electrodynamic solutions are examined in various limits to il
 
 The citation for the out-of-print edition is:
 
-[![Buy at Amazon](http://ocw.mit.edu/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/1575242354/ref=nosim/mitopencourse-20) Zahn, Markus. _Electromagnetic Field Theory: A Problem Solving Approach_. Malabar, FL: Krieger Publishing Company, 2003. ISBN: 9781575242354.  
-_First published 1979 by John Wiley and Sons, Inc. ISBN: [![Buy at Amazon](http://ocw.mit.edu/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0471021989/ref=nosim/mitopencourse-20) 9780471021988._
+[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/1575242354/ref=nosim/mitopencourse-20) Zahn, Markus. _Electromagnetic Field Theory: A Problem Solving Approach_. Malabar, FL: Krieger Publishing Company, 2003. ISBN: 9781575242354.  
+_First published 1979 by John Wiley and Sons, Inc. ISBN: [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0471021989/ref=nosim/mitopencourse-20) 9780471021988._
 
 This textbook is used in the courses 6.013J/ESD.013J and 6.641.
