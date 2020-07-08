@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 42c76c164ac09bad893d5307c7bfa0e6
 inline_embed_id: 47675003lecture8theperiodictableandperiodictrends98800864
+order_index: 236
 parent_uid: 3ea46bd050d77305ee1a67bd41bfde89
 related_resources_text: ''
 short_url: lecture-8-the-periodic-table-and-periodic-trends

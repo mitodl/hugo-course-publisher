@@ -59,6 +59,7 @@ embedded_media:
     type: Transcript
     uid: ac23912bd09878ffeaa437f1a51d5b86
 inline_embed_id: '15552246lecture13:commoditymodels67611796'
+order_index: 166
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-13-commodity-models

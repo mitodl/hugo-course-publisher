@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: e4a12ff55247076182c29f252f429762
 inline_embed_id: 82464371video1replicatingexpertassessment61829848
+order_index: 530
 parent_uid: 3063320a41756b8a4fa9892f61b52c0d
 related_resources_text: ''
 short_url: video-1-replicating-expert-assessment-0

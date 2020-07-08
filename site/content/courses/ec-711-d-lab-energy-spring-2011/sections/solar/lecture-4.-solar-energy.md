@@ -30,6 +30,7 @@ embedded_media:
     type: Video
     uid: 7a789371a96d1538826c5fcae0d01921
 inline_embed_id: '85723930lecture4:solarenergy:photovoltaics&solarthermal2507522'
+order_index: 68
 parent_uid: 97d18199d8e130f96762504a4894e1bc
 related_resources_text: ''
 short_url: lecture-4.-solar-energy

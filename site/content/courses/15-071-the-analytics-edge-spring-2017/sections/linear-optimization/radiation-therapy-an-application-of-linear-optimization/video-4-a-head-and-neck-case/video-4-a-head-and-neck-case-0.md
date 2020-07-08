@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 7d6548d15f8da73f4a016dcd0cff02fa
 inline_embed_id: 52398381video4aheadandneckcase54768490
+order_index: 1925
 parent_uid: 2fe86f88782c20080bd1b70037ba3db3
 related_resources_text: ''
 short_url: video-4-a-head-and-neck-case-0

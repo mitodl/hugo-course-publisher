@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 51cd852d559ca1d1e8e131415140ccaf
 inline_embed_id: 86968478ratiotestforconvergence99971982
+order_index: 4123
 parent_uid: e6b5bcf01d4fe02cb8f15ed900b23542
 related_resources_text: ''
 short_url: ratio-test-for-convergence

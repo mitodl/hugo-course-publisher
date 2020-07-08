@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 70af8aae7a5635f07e2cd62092f316dc
 inline_embed_id: '11086832independence,basisanddimension20416408'
+order_index: 269
 parent_uid: f4986e8213a7cf7cebaaaba5fa7882f0
 related_resources_text: ''
 short_url: independence-basis-and-dimension

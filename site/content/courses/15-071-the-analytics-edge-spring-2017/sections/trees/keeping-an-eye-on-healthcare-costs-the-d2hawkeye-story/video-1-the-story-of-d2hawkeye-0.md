@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 19375fe3f58a7665c1d905bf081e41ff
 inline_embed_id: 6930032video1thestoryofd2hawkeye35264141
+order_index: 843
 parent_uid: 52a221ddc01190a445b1a393b15cb810
 related_resources_text: ''
 short_url: video-1-the-story-of-d2hawkeye-0

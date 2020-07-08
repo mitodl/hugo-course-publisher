@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 5b6949dc1ed8e357443f90b81b98a520
 inline_embed_id: 52593192usinghumortoengagestudents71081514
+order_index: 71
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
 related_resources_text: ''
 short_url: using-humor-to-engage-students

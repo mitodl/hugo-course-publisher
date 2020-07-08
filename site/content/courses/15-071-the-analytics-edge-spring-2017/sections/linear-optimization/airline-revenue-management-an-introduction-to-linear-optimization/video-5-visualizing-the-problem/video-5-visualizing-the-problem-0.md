@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: dfff742386e4456157de30869a08b986
 inline_embed_id: 64346291video5visualizingtheproblem44984638
+order_index: 1840
 parent_uid: f7f2a67cb4796f7b313da3b222582c72
 related_resources_text: ''
 short_url: video-5-visualizing-the-problem-0

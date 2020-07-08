@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 81296151d2c7da2f9e2775474edeb24f
 inline_embed_id: 51562128tipsforvisualstorytelling47572541
+order_index: 216
 parent_uid: e7ab07a59bf478a18a95a815093ec211
 related_resources_text: ''
 short_url: tips-for-visual-storytelling

@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: c9f7e33430279e4ce0560702c0d3bfd3
 inline_embed_id: 55317627scatteringin1d.incomingandoutgoingwaves75298011
+order_index: 681
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: scattering-in-1d.-incoming-and-outgoing-waves

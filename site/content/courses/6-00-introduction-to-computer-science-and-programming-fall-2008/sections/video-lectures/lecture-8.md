@@ -91,6 +91,7 @@ embedded_media:
     type: Transcript
     uid: d3bc5be3bb9749b51fef97f6c29c99ed
 inline_embed_id: '392782988:complexity:log,linear,quadratic,exponentialalgorithms33956115'
+order_index: 112
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

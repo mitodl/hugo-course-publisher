@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: ad4d5a6167fa86ddf03abacbd1e6b576
 inline_embed_id: '24717168lecture18:representations:classes,trajectories,transitions45627411'
+order_index: 199
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
 short_url: lecture-18-representations-classes-trajectories-transitions

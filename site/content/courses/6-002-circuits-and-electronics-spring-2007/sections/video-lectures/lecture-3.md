@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: b80c84645b34ca6b7534a351455d62ce
 inline_embed_id: '20970360lecture3:superposition,théveninandnorton28830798'
+order_index: 141
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture notes (<a target="_blank" title="Open in a new window."

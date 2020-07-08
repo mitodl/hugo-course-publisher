@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: b7f5fcf859b880b0f830c18e53f57b75
 inline_embed_id: 30449191video2visualizingcrimeovertime90258722
+order_index: 1623
 parent_uid: 647a1b5c5d6b626d39aa4ad77903806e
 related_resources_text: ''
 short_url: video-2-visualizing-crime-over-time-0

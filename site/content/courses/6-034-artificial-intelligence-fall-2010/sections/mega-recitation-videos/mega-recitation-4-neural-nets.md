@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 6296e69d175ebaf7fefc2f0e1713452a
 inline_embed_id: '76976421mega-recitation4:neuralnets19355255'
+order_index: 280
 parent_uid: 6be7704ddfe26b4e12703167347dd5bb
 related_resources_text: >-
   <p><a href="./resolveuid/bd67a9fc7d5fd4caf676e7af65d4ad44"

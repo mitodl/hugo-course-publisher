@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: f11ea044ec3a010643dcb43377dc870c
 inline_embed_id: 87125605theringzn99638431
+order_index: 782
 parent_uid: 1b0d56990646d4c3cc468d6e0be6464a
 related_resources_text: ''
 short_url: modular-exponentiation-the-ring

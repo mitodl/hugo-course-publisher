@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: ae648de7822f14fef64a8ecaee884566
 inline_embed_id: 67054243taylor'sseriesofapolynomial98988180
+order_index: 4305
 parent_uid: 30f32e825b1a1974da6c98b8de0aafd3
 related_resources_text: ''
 short_url: taylors-series-of-a-polynomial

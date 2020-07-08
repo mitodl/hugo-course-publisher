@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: edf21db82b3f8ca8fd6c1f0216f0b83b
 inline_embed_id: 44480727degeneracyinthespectrumandfeaturesofthesolution6662376
+order_index: 1163
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: degeneracy-in-the-spectrum-and-features-of-the-solution

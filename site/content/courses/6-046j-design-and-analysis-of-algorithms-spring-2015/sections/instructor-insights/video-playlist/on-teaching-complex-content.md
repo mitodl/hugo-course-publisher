@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: fbd2e1d4703ff8b678c52c537c25c197
 inline_embed_id: 18885768onteachingcomplexcontent56949307
+order_index: 19
 parent_uid: 92d158be1dbd82a1c08d824bff9d0d79
 related_resources_text: ''
 short_url: on-teaching-complex-content

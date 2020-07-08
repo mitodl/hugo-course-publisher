@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: c51de6d30e277e13991ceb03cab4720a
 inline_embed_id: 2467034orthogonalvectorsandsubspaces41485925
+order_index: 398
 parent_uid: fd8c8a4dfa1be88cec23abef203fca2a
 related_resources_text: ''
 short_url: orthogonal-vectors-and-subspaces

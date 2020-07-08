@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: d9c7ff361327ff399f575921fdea4b9a
 inline_embed_id: '29733075clip2:example:reciprocals52507915'
+order_index: 492
 parent_uid: 94a0d0fdde324bb54b34d0ea12a6d94d
 related_resources_text: ''
 short_url: clip-2-example-reciprocals

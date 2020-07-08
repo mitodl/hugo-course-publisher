@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: f85c058d00bb69868a0be8a821545397
 inline_embed_id: 39779143matrixmultiplicationpractice61642385
+order_index: 288
 parent_uid: 140906549310aba473941897b75d97d3
 related_resources_text: ''
 short_url: matrix-multiplication-practice

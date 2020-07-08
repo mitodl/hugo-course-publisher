@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 80058d1db7c09034c39c414ddbb175b7
 inline_embed_id: '12687146lecture24:hjmmodelforinterestratesandcredit9623541'
+order_index: 266
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-24-hjm-model-for-interest-rates-and-credit

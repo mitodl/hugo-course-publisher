@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: f9208a6f21befad1e2c111300a155b84
 inline_embed_id: 92329236computingantiderivatives48669412
+order_index: 1691
 parent_uid: 876df37c3cbc00d47b666c04e5047a17
 related_resources_text: ''
 short_url: computing-antiderivatives

@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: dc8475f6056e25803132f955066da815
 inline_embed_id: 16387673threedimensionalcurrentandconservation32256303
+order_index: 311
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: three-dimensional-current-and-conservation

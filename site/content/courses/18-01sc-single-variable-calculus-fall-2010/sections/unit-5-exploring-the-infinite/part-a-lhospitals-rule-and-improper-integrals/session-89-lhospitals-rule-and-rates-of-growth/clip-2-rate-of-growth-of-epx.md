@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 023cf53959600082a82f22402c829d28
 inline_embed_id: '40544972clip2:rateofgrowthofepx1373102'
+order_index: 3786
 parent_uid: 2f33db827cc33056ef710f503d79cc8f
 related_resources_text: ''
 short_url: clip-2-rate-of-growth-of-epx

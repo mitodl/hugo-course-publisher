@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 8d72d5659788f3288532b50775e65b11
 inline_embed_id: 86544342non-conservativevectorfields35269444
+order_index: 1926
 parent_uid: 2e446b9021aa10b27a0d206567272851
 related_resources_text: ''
 short_url: non-conservative-vector-fields

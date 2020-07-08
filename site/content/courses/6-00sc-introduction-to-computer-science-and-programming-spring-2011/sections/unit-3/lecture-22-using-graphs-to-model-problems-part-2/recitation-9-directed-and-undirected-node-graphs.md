@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: d9da671285ca7be4e5a1705dc54f33f1
 inline_embed_id: '72789726recitation9:directedandundirectednodegraphs73314223'
+order_index: 469
 parent_uid: d4f15989167b6654ef5ca2931d758afd
 related_resources_text: ''
 short_url: recitation-9-directed-and-undirected-node-graphs

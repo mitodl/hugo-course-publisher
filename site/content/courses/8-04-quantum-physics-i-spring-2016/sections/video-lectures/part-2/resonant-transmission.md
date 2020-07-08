@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: e18f7c5eba8ffdef6af63c4201f9f02a
 inline_embed_id: 49554205resonanttransmission86145563
+order_index: 650
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: resonant-transmission

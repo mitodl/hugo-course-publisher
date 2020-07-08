@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 0b2c7ea1378a53b65ba39617c0da2786
 inline_embed_id: 15556538partialfractionsdecomposition95517185
+order_index: 3147
 parent_uid: b2d9964453e89357525c798ec9a77daf
 related_resources_text: ''
 short_url: partial-fractions-decomposition

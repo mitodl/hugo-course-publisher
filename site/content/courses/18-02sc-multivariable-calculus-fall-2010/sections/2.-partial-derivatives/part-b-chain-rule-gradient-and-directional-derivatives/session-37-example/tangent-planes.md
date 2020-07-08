@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: a8cb31627c7a21e372212612a4bf57bf
 inline_embed_id: 1325210tangentplanes7099660
+order_index: 1140
 parent_uid: 10e11645483c9e7bc1e8194ff0a40c7e
 related_resources_text: ''
 short_url: tangent-planes

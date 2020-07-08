@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: e06510fe11a620862668568d71c038f7
 inline_embed_id: '40736359instructorinterview:aclassonpre-production14583248'
+order_index: 84
 parent_uid: 526193cf30dacdf1c6734faab57d51d7
 related_resources_text: ''
 short_url: instructor-interview-a-class-on-pre-production

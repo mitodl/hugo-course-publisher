@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: dfd8f376d94756ba877563824202627d
 inline_embed_id: 27518354extendedstokes'theorem12129425
+order_index: 2945
 parent_uid: 2135423b6b5a305e81a91b1358ec262c
 related_resources_text: ''
 short_url: extended-stokes-theorem

@@ -27,6 +27,7 @@ embedded_media:
     type: Video
     uid: 2098cdb3cbe18ea491b4b3dac34a2b61
 inline_embed_id: '49702556twoguys,twogirlsandanairplane:flightattempt184636153'
+order_index: 1159
 parent_uid: 87e8f47c351cccd450e9b5e03c5bbee2
 related_resources_text: ''
 short_url: two-guys-two-girls-and-an-airplane-flight-attempt-1

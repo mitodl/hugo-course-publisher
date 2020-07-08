@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 45cb34cbf8a2bc1d789c8585fc52de9c
 inline_embed_id: 37471457video5ageographicalhotspotmap43199426
+order_index: 1661
 parent_uid: 0d6e8df118b96fff96f8bda53ace64b7
 related_resources_text: ''
 short_url: video-5-a-geographical-hot-spot-map-0

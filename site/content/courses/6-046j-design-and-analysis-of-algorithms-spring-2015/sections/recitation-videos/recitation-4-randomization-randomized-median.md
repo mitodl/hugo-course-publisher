@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: dc215a62fdd990cdb784938ddb9a67c5
 inline_embed_id: '38278698recitation4:randomization:randomizedmedian2463793'
+order_index: 380
 parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
 short_url: recitation-4-randomization-randomized-median

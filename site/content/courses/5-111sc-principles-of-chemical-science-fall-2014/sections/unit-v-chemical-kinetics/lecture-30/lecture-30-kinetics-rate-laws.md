@@ -66,6 +66,7 @@ embedded_media:
     type: Video
     uid: bc7d09a8c0d5827791b006e90170757a
 inline_embed_id: 38007127lecture30kineticsratelaws26081038
+order_index: 590
 parent_uid: bd55059e8b182febfb2bc8aef5adde05
 related_resources_text: ''
 short_url: lecture-30-kinetics-rate-laws

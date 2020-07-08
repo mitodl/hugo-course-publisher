@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: ac80a1b139b6b90ac972c0c1816862bc
 inline_embed_id: 76290827leastsquares51738586
+order_index: 886
 parent_uid: 4dee8231f05e53cc79cbf731a6390b29
 related_resources_text: ''
 short_url: least-squares

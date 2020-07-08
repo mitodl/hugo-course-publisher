@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: a3f94c93b4027cc20371d5dfe2733706
 inline_embed_id: 48978392areabetweeny=x3andy=3x-291363923
+order_index: 2397
 parent_uid: ab02e80b2f16511d81481be8277cb20d
 related_resources_text: ''
 short_url: area-between-y-x3-and-y-3x-2

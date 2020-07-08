@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: c79278183f3537f8cbdd325c14e0cce7
 inline_embed_id: '22764192clip1:introductiontoinﬁniteseries98039448'
+order_index: 4062
 parent_uid: 1825bfbbd3647c86fa9771d985c21513
 related_resources_text: ''
 short_url: clip-1-introduction-to-infinite-series

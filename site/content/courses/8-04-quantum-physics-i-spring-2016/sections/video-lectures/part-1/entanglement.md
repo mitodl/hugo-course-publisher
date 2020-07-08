@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 780f9e661b53542c1c7d7d87e8a1d3da
 inline_embed_id: 59117760entanglement2740684
+order_index: 88
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: entanglement

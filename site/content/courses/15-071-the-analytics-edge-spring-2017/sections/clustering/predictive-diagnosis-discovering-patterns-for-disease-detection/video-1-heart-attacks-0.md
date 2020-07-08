@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 81cddd9532c5b7c9faa7456d94b7341f
 inline_embed_id: 88397663video1heartattacks20734205
+order_index: 1398
 parent_uid: 0943bd811d9caf9e92bf3c7bf9d7b9f2
 related_resources_text: ''
 short_url: video-1-heart-attacks-0

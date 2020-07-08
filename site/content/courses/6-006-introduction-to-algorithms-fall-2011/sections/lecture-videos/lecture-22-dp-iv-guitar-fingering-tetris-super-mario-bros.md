@@ -63,6 +63,7 @@ embedded_media:
     uid: 4947a9fdf6d031e058ff499a3ef601c4
 inline_embed_id: >-
   2929622lecture22:dynamicprogrammingiv:guitarfingering,tetris,supermariobros.55690251
+order_index: 266
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-22-dp-iv-guitar-fingering-tetris-super-mario-bros

@@ -64,6 +64,7 @@ embedded_media:
     type: Video
     uid: 794868f4ca9bf3d6245d2c3f3abd2da5
 inline_embed_id: 1791980lecture31nuclearchemistryandchemicalkinetics76033459
+order_index: 602
 parent_uid: c8f99e55bd1766c4505f19e5b26af70c
 related_resources_text: ''
 short_url: lecture-31-nuclear-chemistry-and-chemical-kinetics

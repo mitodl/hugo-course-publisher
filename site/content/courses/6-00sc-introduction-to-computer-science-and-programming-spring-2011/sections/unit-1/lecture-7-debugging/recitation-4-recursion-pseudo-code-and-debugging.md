@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 4a34fed7aa07312f15e0d417ca6aca9d
 inline_embed_id: '27712678recitation4:recursion,pseudocodeanddebugging98919027'
+order_index: 145
 parent_uid: ebde421e0808fd2831950f1a9a69cfb3
 related_resources_text: ''
 short_url: recitation-4-recursion-pseudo-code-and-debugging

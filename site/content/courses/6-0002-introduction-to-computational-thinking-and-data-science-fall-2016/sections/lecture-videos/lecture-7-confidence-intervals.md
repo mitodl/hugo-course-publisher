@@ -58,6 +58,7 @@ embedded_media:
     type: Video
     uid: feddb6d5a8839c6b145ceff06409349c
 inline_embed_id: 94913549lecture7confidenceintervals2565318
+order_index: 66
 parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
 short_url: lecture-7-confidence-intervals

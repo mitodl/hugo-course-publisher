@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 1a74ffd90f2dda87bf40539bb4f71141
 inline_embed_id: '19767507clip1:introductiontoantiderivatives28147399'
+order_index: 1681
 parent_uid: 876df37c3cbc00d47b666c04e5047a17
 related_resources_text: ''
 short_url: clip-1-introduction-to-antiderivatives

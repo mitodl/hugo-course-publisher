@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 6ae1a43e1c19997748a9cf49391f7488
 inline_embed_id: '54145767clip3:example:circulararc12446838'
+order_index: 3301
 parent_uid: 5c900cbf5c7bc84e4bc0086224a0a1bd
 related_resources_text: ''
 short_url: clip-3-example-circular-arc

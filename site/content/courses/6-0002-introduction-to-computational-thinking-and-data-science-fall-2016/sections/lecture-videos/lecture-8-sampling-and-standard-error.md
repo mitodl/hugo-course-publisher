@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 9a6506c6c7196c64e5d13b1dd9fb5480
 inline_embed_id: 3858743lecture8samplingandstandarderror56452192
+order_index: 76
 parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
 short_url: lecture-8-sampling-and-standard-error

@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: bafd5dcc29e099f874cffbf5d751bd49
 inline_embed_id: '20831137clip:chainrulewithmorevariables15345234'
+order_index: 1066
 parent_uid: dce75e0b062819f0f3d6a420fbe9b880
 related_resources_text: ''
 short_url: clip-chain-rule-with-more-variables

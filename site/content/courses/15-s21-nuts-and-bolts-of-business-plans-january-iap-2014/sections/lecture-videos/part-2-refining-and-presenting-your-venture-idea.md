@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 36a12966cb190bad719d987de000532a
 inline_embed_id: '21072003part2:refiningandpresentingyourventureidea811578'
+order_index: 34
 parent_uid: 7425dbab24bd40b9d0c0c704cab7eab2
 related_resources_text: ''
 short_url: part-2-refining-and-presenting-your-venture-idea

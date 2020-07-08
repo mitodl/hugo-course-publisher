@@ -59,6 +59,7 @@ embedded_media:
     type: Transcript
     uid: 1cc18280310e86354d0c508df6e8fee1
 inline_embed_id: '24825648lecture17:stochasticprocessesii70417331'
+order_index: 206
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-17-stochastic-processes-ii

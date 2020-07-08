@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 3c0b4bcd4cc5c4b0fc333a3db687022e
 inline_embed_id: '42567472clip:finale67777967'
+order_index: 4437
 parent_uid: c22c320788f09de5fe78a6e305cad2b4
 related_resources_text: ''
 short_url: clip-finale

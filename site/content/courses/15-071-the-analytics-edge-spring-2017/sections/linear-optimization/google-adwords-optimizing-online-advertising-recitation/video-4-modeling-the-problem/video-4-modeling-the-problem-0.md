@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 6d56187764f117adc7a1078508725a58
 inline_embed_id: 1118079video4modelingtheproblem69074376
+order_index: 1999
 parent_uid: 4091add94fdb8a1848b4bd553bd85760
 related_resources_text: ''
 short_url: video-4-modeling-the-problem-0

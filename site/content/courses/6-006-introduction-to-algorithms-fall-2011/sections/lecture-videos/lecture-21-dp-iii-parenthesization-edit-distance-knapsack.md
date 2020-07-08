@@ -62,6 +62,7 @@ embedded_media:
     uid: df64efb5f7fe47917654230ab905fda2
 inline_embed_id: >-
   94375562lecture21:dynamicprogrammingiii:parenthesization,editdistance,knapsack31839991
+order_index: 256
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-21-dp-iii-parenthesization-edit-distance-knapsack

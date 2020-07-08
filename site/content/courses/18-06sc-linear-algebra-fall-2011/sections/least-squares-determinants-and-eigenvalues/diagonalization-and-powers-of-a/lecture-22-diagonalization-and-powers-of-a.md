@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 5f3a1c2970e3099cb6a1fbc00818de87
 inline_embed_id: '78473552lecture22:diagonalizationandpowersofa55536407'
+order_index: 621
 parent_uid: dcb9a660b4e1e1d4837bad83344a716e
 related_resources_text: ''
 short_url: lecture-22-diagonalization-and-powers-of-a

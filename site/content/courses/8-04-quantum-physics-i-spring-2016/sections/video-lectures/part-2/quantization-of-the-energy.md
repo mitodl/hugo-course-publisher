@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 12353e4427a3c519e889315c7b7661af
 inline_embed_id: 32957312quantizationoftheenergy44069785
+order_index: 839
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: quantization-of-the-energy

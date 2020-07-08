@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: 2c3e67967a9dba5a0691d3f0a243a9cf
 inline_embed_id: '4722695clip:vectorfields69740648'
+order_index: 1724
 parent_uid: d5133beda26ea5ab008ffd452f137dfa
 related_resources_text: ''
 short_url: clip-vector-fields

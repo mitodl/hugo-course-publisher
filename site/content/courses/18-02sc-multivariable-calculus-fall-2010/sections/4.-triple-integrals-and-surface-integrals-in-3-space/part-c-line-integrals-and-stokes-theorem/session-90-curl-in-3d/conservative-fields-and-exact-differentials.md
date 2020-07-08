@@ -57,6 +57,7 @@ embedded_media:
     type: Thumbnail
     uid: f014f078ec89d5e280354d0bd2b08e53
 inline_embed_id: 26921852conservativefieldsandexactdifferentials34991544
+order_index: 2867
 parent_uid: acfc5d4e3602454b1118b52cb66b3039
 related_resources_text: ''
 short_url: conservative-fields-and-exact-differentials

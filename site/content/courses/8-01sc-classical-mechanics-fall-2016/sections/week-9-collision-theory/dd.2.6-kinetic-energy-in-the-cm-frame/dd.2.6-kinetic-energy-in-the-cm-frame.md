@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: f7b02cbcbd1e9c307eab55f336f951e9
 inline_embed_id: 36313283dd.2.6kineticenergyinthecmframe82158864
+order_index: 1836
 parent_uid: 238a5fed478b3743fcd8f177046fe55d
 related_resources_text: ''
 short_url: dd.2.6-kinetic-energy-in-the-cm-frame

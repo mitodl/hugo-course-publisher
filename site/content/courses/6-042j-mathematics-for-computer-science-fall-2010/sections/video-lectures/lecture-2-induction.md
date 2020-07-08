@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 8d4bd92978b85ea70a3d6d49152ec97a
 inline_embed_id: '42287028lecture2:induction54402581'
+order_index: 37
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-2-induction

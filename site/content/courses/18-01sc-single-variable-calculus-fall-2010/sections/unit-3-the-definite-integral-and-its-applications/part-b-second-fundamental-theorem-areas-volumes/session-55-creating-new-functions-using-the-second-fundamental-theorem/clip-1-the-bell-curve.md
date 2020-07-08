@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: fc3e78ed7186890de4272201092bd791
 inline_embed_id: '54709961clip1:thebellcurve76281182'
+order_index: 2339
 parent_uid: 2c6806175167ca26dcd9f490d43c4c0a
 related_resources_text: ''
 short_url: clip-1-the-bell-curve

@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 8dabdcbce2495471218012a08ae9acca
 inline_embed_id: '91042027lecture12:greedyalgorithms:minimumspanningtree68668475'
+order_index: 217
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-12-greedy-algorithms-minimum-spanning-tree

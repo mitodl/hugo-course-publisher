@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 4a20245b366d60d682c5f6b7b6a97b89
 inline_embed_id: 6610187uncertaintyandeigenstates75234252
+order_index: 498
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: uncertainty-and-eigenstates

@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: aae21ede4806cb7fc8ea4d5f62bf7596
 inline_embed_id: '43514327clip1:functionswithoutelementaryanti-derivatives27465457'
+order_index: 3986
 parent_uid: ed231e9c56356bb1e18c555d00f08398
 related_resources_text: ''
 short_url: clip-1-functions-without-elementary-anti-derivatives

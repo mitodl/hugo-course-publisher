@@ -87,6 +87,7 @@ embedded_media:
     type: Transcript
     uid: 75b95bf63897c983707ec26e18eb478c
 inline_embed_id: '79803073lecture4:factorizationintoa=lu76100047'
+order_index: 97
 parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a target="_blank"

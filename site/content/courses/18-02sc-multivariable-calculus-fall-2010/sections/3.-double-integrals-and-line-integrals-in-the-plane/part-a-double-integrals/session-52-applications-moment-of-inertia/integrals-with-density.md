@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: c1e4db98e1c984821ebbd2b7c15b01f5
 inline_embed_id: 19454756integralswithdensity4971017
+order_index: 1596
 parent_uid: 71ab1fd28595ea71a49dec2a50b44b1f
 related_resources_text: ''
 short_url: integrals-with-density

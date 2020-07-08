@@ -79,6 +79,7 @@ embedded_media:
     type: Transcript
     uid: a88852984962af1c82997027da5ca416
 inline_embed_id: '67127267lecture7:hyperbolicfunctions74677993'
+order_index: 192
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

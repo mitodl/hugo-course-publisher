@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 0e42ab8914dac4b12244fe000d005639
 inline_embed_id: '34723046recitation6:probabilityandstatistics29824284'
+order_index: 307
 parent_uid: ce0b5b4679baa326f9fd0a1c40f8adae
 related_resources_text: ''
 short_url: recitation-6-probability-and-statistics

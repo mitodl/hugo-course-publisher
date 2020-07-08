@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: da94c5a030c860cdeaf970f533187c65
 inline_embed_id: 24785553equationsofplanes27280924
+order_index: 381
 parent_uid: 373d1bd0065482663191d1be06e5b406
 related_resources_text: ''
 short_url: equations-of-planes

@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 388ce84c6043e24c3a0bbe22915ccc90
 inline_embed_id: 91683647thehaltingproblemoptional47010928
+order_index: 636
 parent_uid: 2b923648e33acab15b802e2ba689daec
 related_resources_text: ''
 short_url: the-halting-problem

@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: f73556d457b9fb53b4dc31eee939e952
 inline_embed_id: 23796505video3splittingandpredictions72402399
+order_index: 787
 parent_uid: ca1564b0917866a3a00e801c8c9fdbbc
 related_resources_text: ''
 short_url: video-3-splitting-and-predictions-0

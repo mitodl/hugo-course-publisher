@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 09452c8e2aabf08e0dec918667fee0a1
 inline_embed_id: '80665812lecture21:probabilisticinferencei3452966'
+order_index: 219
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
 short_url: lecture-21-probabilistic-inference-i

@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 583e2869747c79e8db4dd853b283b2b6
 inline_embed_id: 50357431joshuaandkenneth'sprojects81186613
+order_index: 790
 parent_uid: dd2e906439f582927c78a9141317dcc6
 related_resources_text: ''
 short_url: joshua-and-kenneths-projects

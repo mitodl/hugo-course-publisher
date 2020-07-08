@@ -63,6 +63,7 @@ embedded_media:
     type: Video
     uid: f90d54cb84aa15da4997d080c39dce5a
 inline_embed_id: 1573475lecture25oxidationreductionandelectrochemicalcells44357171
+order_index: 509
 parent_uid: 3d31835d06e0f144b71eae67819fa795
 related_resources_text: ''
 short_url: lecture-25-oxidation-reduction-and-electrochemical-cells

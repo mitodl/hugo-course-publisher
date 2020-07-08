@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: cf69384997282f0f45aa6d7e723f21c7
 inline_embed_id: '70623581clip1:example:cumulativedebts51270171'
+order_index: 1997
 parent_uid: d5e0c7a6f17252a3c694d627faf12123
 related_resources_text: ''
 short_url: clip-1-example-cumulative-debts

@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: d1bed54eeec49e0f60dfbfad12276bdc
 inline_embed_id: '12248760lecture13:learning:geneticalgorithms72266030'
+order_index: 149
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: >-
   <p>More information about <a

@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 1b326d15eb9e40fcd770caf7406b5410
 inline_embed_id: 92730500lecture10competitioni18809562
+order_index: 222
 parent_uid: c51a68585b2ecbf583594f4bc69947e1
 related_resources_text: ''
 short_url: lecture-10-competition-i

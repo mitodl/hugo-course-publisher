@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 88270c8048bda2cef15eb41e09e4bc09
 inline_embed_id: 46980923day1196745260
+order_index: 808
 parent_uid: 91a83a5a9923d001da64fbbcd37341cb
 related_resources_text: ''
 short_url: day-11

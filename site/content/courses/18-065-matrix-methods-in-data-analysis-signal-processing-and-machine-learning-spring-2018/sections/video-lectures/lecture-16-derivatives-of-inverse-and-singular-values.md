@@ -50,6 +50,7 @@ embedded_media:
     type: Video
     uid: a3491a2a4fe253d5fac2b90320d33a39
 inline_embed_id: 79610982lecture16derivativesofinverseandsingularvalues3001613
+order_index: 170
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-16-derivatives-of-inverse-and-singular-values

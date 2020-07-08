@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 4c99fc9d8b1e41687ad18249fcd80b1a
 inline_embed_id: 87211010lecture9productiontheory27946095
+order_index: 208
 parent_uid: 35e2a9c418975d5d2bfcb2dfa5fa18ac
 related_resources_text: ''
 short_url: lecture-9-production-theory

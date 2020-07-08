@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: f3d4226f17f30d2553ae56e7469e4318
 inline_embed_id: 10697457dynamicsofpopulationsinspace33441847
+order_index: 234
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: dynamics-of-populations-in-space

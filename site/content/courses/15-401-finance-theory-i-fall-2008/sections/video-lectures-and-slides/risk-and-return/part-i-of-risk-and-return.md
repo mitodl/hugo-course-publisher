@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 7768ed11a8c135eebf587ae06bd47bc6
 inline_embed_id: 52305391partiofriskandreturn59273006
+order_index: 173
 parent_uid: f2e1c9879ce7c404be3b46f3dddf3d22
 related_resources_text: ''
 short_url: part-i-of-risk-and-return

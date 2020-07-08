@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: bd84aecae5e6d0d64e22b9698521cfae
 inline_embed_id: '46458272lecture12:timeseriesanalysisiii49967010'
+order_index: 156
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-12-time-series-analysis-iii

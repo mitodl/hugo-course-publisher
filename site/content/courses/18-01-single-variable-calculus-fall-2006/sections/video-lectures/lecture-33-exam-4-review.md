@@ -77,6 +77,7 @@ embedded_media:
     type: Transcript
     uid: 0106224b41537e778c3d601be0a799c4
 inline_embed_id: '48556110lecture33:exam4review50132127'
+order_index: 491
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

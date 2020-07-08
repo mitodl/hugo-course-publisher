@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 11d91a31b017ff8a35763557cd634f48
 inline_embed_id: '38241275clip4:equationofanoff-centercircle66410892'
+order_index: 3484
 parent_uid: 6b43151f2ea4f32cac0a7709358919db
 related_resources_text: ''
 short_url: copy3_of_clip-1-introduction-to-polar-coordinates

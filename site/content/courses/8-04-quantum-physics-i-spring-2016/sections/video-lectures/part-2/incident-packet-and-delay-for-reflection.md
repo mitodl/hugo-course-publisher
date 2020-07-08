@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 8a49ad0b0f7160bde1838c2ba8eb25a3
 inline_embed_id: 68940716incidentpacketanddelayforreflection69385693
+order_index: 712
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: incident-packet-and-delay-for-reflection

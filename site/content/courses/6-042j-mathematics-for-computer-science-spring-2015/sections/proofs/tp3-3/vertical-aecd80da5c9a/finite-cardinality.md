@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: e4182a8b0f716bab7d879b50ed473069
 inline_embed_id: 47783212finitecardinality38029172
+order_index: 456
 parent_uid: 704aebfd21aaf26247ff8b18917e1143
 related_resources_text: ''
 short_url: finite-cardinality

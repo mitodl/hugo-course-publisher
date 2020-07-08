@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 8a4d6147eb750236f7def4bb1939c2fb
 inline_embed_id: 75698765video4logisticregressioninr45402359
+order_index: 564
 parent_uid: 8fc17cbb03cdce23b5880c21e7dc33e8
 related_resources_text: ''
 short_url: video-4-logistic-regression-in-r-0

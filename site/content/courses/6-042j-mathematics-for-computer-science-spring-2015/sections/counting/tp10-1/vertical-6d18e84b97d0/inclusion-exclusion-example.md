@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 32570765f5c8b19b65269e87d270c08e
 inline_embed_id: 32974669inclusionexclusionexample29487119
+order_index: 1329
 parent_uid: 8b8f07f9fe87ac72842c6bed4c014e7d
 related_resources_text: ''
 short_url: inclusion-exclusion-example

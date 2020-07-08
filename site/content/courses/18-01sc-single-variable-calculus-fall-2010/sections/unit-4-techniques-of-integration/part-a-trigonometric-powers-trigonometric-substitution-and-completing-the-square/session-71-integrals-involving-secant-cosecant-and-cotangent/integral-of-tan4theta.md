@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 233dc65fdb87100773596e4288c2e69a
 inline_embed_id: 75345570integraloftan^4theta37078394
+order_index: 2980
 parent_uid: 369ea1a042d34dea55d07a2b967f59af
 related_resources_text: ''
 short_url: integral-of-tan4theta

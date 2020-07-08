@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 75804c583d758bf2caf7c492337d9baf
 inline_embed_id: 4754619xy'=(x2+x)(y2+1)32798347
+order_index: 1844
 parent_uid: 6e674d24154a95a2d7b4dac2db7d6427
 related_resources_text: ''
 short_url: xy-x2-x-y2-1

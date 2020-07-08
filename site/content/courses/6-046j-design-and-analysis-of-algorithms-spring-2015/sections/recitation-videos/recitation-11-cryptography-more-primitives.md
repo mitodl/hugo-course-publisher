@@ -58,6 +58,7 @@ embedded_media:
     type: Video
     uid: 5b3334b596e31bb6d642f3164f954dad
 inline_embed_id: '61530954recitation11:cryptography:moreprimitives95089154'
+order_index: 450
 parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
 short_url: recitation-11-cryptography-more-primitives

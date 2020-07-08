@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 3eae46efdc9b5fbe6e8d614455ef0aee
 inline_embed_id: '46579040clip1:polarcoordinatesandarea51148800'
+order_index: 3508
 parent_uid: 48426d55f5c623f4eacc4fd415a7a577
 related_resources_text: ''
 short_url: clip-1-polar-coordinates-and-area

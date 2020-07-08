@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 588839847c06f255ec1ff5ac76a4b5b5
 inline_embed_id: 84115380independentsamplingtheorem86617377
+order_index: 1659
 parent_uid: a304c2b048fc11dc5c308eab3d675b1d
 related_resources_text: ''
 short_url: independent-sampling-theorem

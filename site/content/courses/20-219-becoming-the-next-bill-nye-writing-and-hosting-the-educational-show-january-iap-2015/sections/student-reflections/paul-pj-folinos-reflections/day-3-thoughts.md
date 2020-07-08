@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 3d8b2a3a77a077b115cd3b3a8f03b7e4
 inline_embed_id: 41212424day3thoughts33137364
+order_index: 1483
 parent_uid: 3c8916c02b406ad31644162454be10f0
 related_resources_text: ''
 short_url: day-3-thoughts

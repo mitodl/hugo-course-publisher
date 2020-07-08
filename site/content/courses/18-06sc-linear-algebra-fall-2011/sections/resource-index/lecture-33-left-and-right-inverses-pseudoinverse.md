@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 020f1fdf22e4bd3ea62d4db4836123cf
 inline_embed_id: 94196449lecture33leftandrightinversespseudoinverse95636902
+order_index: 1711
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: lecture-33-left-and-right-inverses-pseudoinverse

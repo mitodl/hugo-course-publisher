@@ -32,6 +32,7 @@ embedded_media:
     type: Video
     uid: 63a1ead9f065b7785cbe918ee952d0f9
 inline_embed_id: '21810759lecture6:cooking,stoves&fuel4371488'
+order_index: 100
 parent_uid: 40a90435c33545755ca5aed11bc98c6a
 related_resources_text: ''
 short_url: lecture-6-cooking-stoves-fuel

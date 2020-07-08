@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 4f8f2ad4137a5fe78d6fa05088ed52ab
 inline_embed_id: 72916986partiiofportfoliotheory40955513
+order_index: 204
 parent_uid: ea1103393932e4b93082f9274ac55b6f
 related_resources_text: ''
 short_url: part-ii-of-portfolio-theory

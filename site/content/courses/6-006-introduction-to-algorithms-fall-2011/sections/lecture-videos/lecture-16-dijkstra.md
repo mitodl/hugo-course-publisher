@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: b5011b62ca3bc196d2fa759f803c0a30
 inline_embed_id: '35270963lecture16:dijkstra66625151'
+order_index: 206
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-16-dijkstra

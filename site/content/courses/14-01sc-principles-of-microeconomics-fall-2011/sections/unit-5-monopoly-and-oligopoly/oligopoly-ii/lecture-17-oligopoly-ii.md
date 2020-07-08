@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: a96ddaf353c1b48b83543f56c6ab14ed
 inline_embed_id: 37585513lecture17oligopolyii6362316
+order_index: 392
 parent_uid: 2954fa8488a1a8cb0a6abcfda77e25b9
 related_resources_text: ''
 short_url: lecture-17-oligopoly-ii

@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 45d7d93abf8a1fc48f4f51df003360bb
 inline_embed_id: 12336170video8theedgeofrevenuemanagement67374268
+order_index: 1878
 parent_uid: 0cd767ebf8c6279f86f216e785139b90
 related_resources_text: ''
 short_url: video-8-the-edge-of-revenue-management-0

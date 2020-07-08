@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: c1a013f151f54321dc19f5138b1aa4d2
 inline_embed_id: 5580757theroleofrecitations44689213
+order_index: 105
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
 related_resources_text: ''
 short_url: the-role-of-recitations

@@ -85,6 +85,7 @@ embedded_media:
     type: Transcript
     uid: a104859b7e589bd83b90de78bf200c81
 inline_embed_id: '19500995lecture11:matrixspaces;rank1;smallworldgraphs84754360'
+order_index: 188
 parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"

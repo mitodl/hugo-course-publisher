@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: fdd24b32acad2df6a7ffac7a9b7a27df
 inline_embed_id: 57942359lecture24governmentredistributionpolicy3044171
+order_index: 506
 parent_uid: b3df47062059ac3f7af88832de93e0fb
 related_resources_text: ''
 short_url: lecture-24-government-redistribution-policy

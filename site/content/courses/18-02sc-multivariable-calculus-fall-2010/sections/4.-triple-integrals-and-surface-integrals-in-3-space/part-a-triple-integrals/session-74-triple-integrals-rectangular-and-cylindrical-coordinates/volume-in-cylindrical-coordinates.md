@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 4758777c88cb63d5f5afc1872b6c3e98
 inline_embed_id: 83248549volumeincylindricalcoordinates57719474
+order_index: 2346
 parent_uid: 6369fc2c0ed673b1973ba7af526cb70d
 related_resources_text: ''
 short_url: volume-in-cylindrical-coordinates

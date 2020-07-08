@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 8480c1ecc3733b5f78bad7108dfb96d7
 inline_embed_id: 87520578normalizablewavefunctionsandthequestionoftimeevolution17257460
+order_index: 278
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: normalizable-wavefunctions-and-the-question-of-time-evolution

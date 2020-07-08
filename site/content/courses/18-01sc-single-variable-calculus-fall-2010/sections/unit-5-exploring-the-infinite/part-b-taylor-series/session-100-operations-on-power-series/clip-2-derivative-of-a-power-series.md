@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 5d400a8811bd022dcba5845234f00b7c
 inline_embed_id: '93485083clip2:derivativeofapowerseries12964590'
+order_index: 4381
 parent_uid: 7aaff01423b922b346afdcd6c0328e83
 related_resources_text: ''
 short_url: clip-2-derivative-of-a-power-series

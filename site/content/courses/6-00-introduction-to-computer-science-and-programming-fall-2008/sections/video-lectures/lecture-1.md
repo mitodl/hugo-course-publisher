@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: 136f2a6e1839142ac88ce44254461b4b
 inline_embed_id: '358077831:introductionandgoals;datatypes,operators,andvariables91246781'
+order_index: 10
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: ''
 short_url: lecture-1

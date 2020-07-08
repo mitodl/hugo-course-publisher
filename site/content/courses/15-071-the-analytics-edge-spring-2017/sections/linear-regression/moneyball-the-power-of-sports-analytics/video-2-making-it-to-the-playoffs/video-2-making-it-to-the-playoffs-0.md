@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 55709086049f8db5287c318a117ab839
 inline_embed_id: 67757641video2makingittotheplayoffs60046560
+order_index: 399
 parent_uid: 7ec3aa84c4f8d59e848e36852d9526f9
 related_resources_text: ''
 short_url: video-2-making-it-to-the-playoffs-0

@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 4ffcd31db3bb5097882fcbeca438510c
 inline_embed_id: '34186523lecture16:learning:supportvectormachines32875498'
+order_index: 179
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: >-
   <p>Specifically developed for this lecture are the <a

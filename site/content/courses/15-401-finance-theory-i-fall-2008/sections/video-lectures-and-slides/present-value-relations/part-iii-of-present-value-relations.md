@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: cf397b7eb888cb7be9580f360a2318a8
 inline_embed_id: 37915706partiiiofpresentvaluerelations72408273
+order_index: 58
 parent_uid: 9d399c1f02222a12aa8ed09c7a0a9243
 related_resources_text: ''
 short_url: part-iii-of-present-value-relations

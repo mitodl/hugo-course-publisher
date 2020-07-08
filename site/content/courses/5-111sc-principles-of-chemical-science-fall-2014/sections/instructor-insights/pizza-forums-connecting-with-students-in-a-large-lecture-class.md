@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 2401a0dd1d1b178aca6877ee0902e5c2
 inline_embed_id: 6886102pizzaforumsconnectingwithstudentsinalargelectureclass78084914
+order_index: 81
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
 related_resources_text: ''
 short_url: pizza-forums-connecting-with-students-in-a-large-lecture-class

@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 6790faa83abfed75f4feced609420eda
 inline_embed_id: 44112333video3multiplelinearregression21919226
+order_index: 312
 parent_uid: 505bba75964b7b2c74d8ebcee23c8259
 related_resources_text: ''
 short_url: video-3-multiple-linear-regression-0

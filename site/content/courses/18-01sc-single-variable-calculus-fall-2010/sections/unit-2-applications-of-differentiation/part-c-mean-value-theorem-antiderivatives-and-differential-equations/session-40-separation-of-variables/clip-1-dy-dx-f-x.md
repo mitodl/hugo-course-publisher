@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 8104d69ba58ff7dbdf27fa0b5513aefc
 inline_embed_id: '68213391clip1:dy/dx=f(x)76094826'
+order_index: 1834
 parent_uid: 6e674d24154a95a2d7b4dac2db7d6427
 related_resources_text: ''
 short_url: clip-1-dy-dx-f-x

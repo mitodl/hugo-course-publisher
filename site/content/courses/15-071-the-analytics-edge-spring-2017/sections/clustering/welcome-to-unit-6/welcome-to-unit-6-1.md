@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 8bb37bdcb3a16d4d757e6494d70fafc8
 inline_embed_id: 64708846welcometounit632490434
+order_index: 1299
 parent_uid: 33fa178e64d4cd25dd867bb0db6ee3a5
 related_resources_text: ''
 short_url: welcome-to-unit-6-1

@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 37508fb52aca71b469341bfa88f4a014
 inline_embed_id: '90850244clip2:moreoncrossproducts90128174'
+order_index: 224
 parent_uid: 83e4aaa9ae8c110f1c2812e303bd3f4a
 related_resources_text: ''
 short_url: clip-2-more-on-cross-products

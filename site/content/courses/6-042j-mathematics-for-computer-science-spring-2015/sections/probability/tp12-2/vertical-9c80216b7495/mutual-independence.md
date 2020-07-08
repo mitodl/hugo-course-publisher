@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 6cd0ca490239f54a7961200f75f6fedf
 inline_embed_id: 86389733mutualindependence3895175
+order_index: 1466
 parent_uid: f81bc56ee84757d8215ce442f3d10bcc
 related_resources_text: ''
 short_url: mutual-independence

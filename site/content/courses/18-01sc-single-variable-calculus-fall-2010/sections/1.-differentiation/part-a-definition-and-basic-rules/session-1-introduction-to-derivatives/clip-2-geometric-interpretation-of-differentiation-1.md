@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: ce9c67a15779c1e176365c611e6aa554
 inline_embed_id: '78431954clip2:geometricinterpretationofdifferentiation83177530'
+order_index: 28
 parent_uid: c25a5592cbb582539daea82e3aeeda33
 related_resources_text: ''
 short_url: clip-2-geometric-interpretation-of-differentiation-1

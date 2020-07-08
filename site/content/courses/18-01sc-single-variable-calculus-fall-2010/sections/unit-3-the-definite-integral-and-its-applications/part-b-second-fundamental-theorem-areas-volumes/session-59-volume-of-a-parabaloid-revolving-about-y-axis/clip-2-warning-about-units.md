@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 92bb92797edaeba857174445e8d1b787
 inline_embed_id: '49599108clip2:warningaboutunits18274259'
+order_index: 2466
 parent_uid: 2a892d50ed0126e15d3603ad2d218d9e
 related_resources_text: ''
 short_url: clip-2-warning-about-units

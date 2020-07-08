@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: f5d125e93b1dbb264107fe282760d8fb
 inline_embed_id: '89950601lecture10:amplifiers-smallsignalmodel34563373'
+order_index: 237
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture Notes (<a target="_blank" title="Open in a new window."

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: dae031d6797ec83a435383ee4ef157c9
 inline_embed_id: '48126376clip2:linearapproximationofacomplicatedexponential46042087'
+order_index: 1094
 parent_uid: 332503c09be8a2d7ca749e218630b6f3
 related_resources_text: ''
 short_url: clip-2-linear-approximation-of-a-complicated-exponential

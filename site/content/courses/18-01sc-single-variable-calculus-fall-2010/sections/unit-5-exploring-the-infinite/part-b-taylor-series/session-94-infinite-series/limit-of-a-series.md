@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: d40a88ca660c91b5ab77f9b2b1602111
 inline_embed_id: 19136383limitofaseries70265727
+order_index: 4052
 parent_uid: 1825bfbbd3647c86fa9771d985c21513
 related_resources_text: ''
 short_url: limit-of-a-series

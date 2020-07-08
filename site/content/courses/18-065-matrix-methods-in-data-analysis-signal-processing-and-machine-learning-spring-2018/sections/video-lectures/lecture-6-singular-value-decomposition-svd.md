@@ -63,6 +63,7 @@ embedded_media:
     type: Video
     uid: bc4f64ee2429abaeca3677d3d05dfe42
 inline_embed_id: 6383174lecture6singularvaluedecompositionsvd97314605
+order_index: 79
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-6-singular-value-decomposition-svd

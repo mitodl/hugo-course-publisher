@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 89436efd7a8d273df5a8dc90c8ab26e6
 inline_embed_id: 78951693hydrogenatomtwobodyproblem44333420
+order_index: 1093
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: hydrogen-atom-two-body-problem

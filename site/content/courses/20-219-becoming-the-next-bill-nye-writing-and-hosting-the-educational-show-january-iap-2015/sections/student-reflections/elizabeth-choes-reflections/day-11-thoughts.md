@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 7bf687eed6aef537812c7917ce1ab1a4
 inline_embed_id: 58700372day11thoughts26683312
+order_index: 1388
 parent_uid: b923e518c6b99f570dd904b61083f145
 related_resources_text: ''
 short_url: day-11-thoughts

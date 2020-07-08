@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: ef899401665ab5429d8fb2b9a8b53bae
 inline_embed_id: 75511773video2dealingwithmissingdata60970853
+order_index: 709
 parent_uid: 43791d3a19abd5be349137c83ceb6676
 related_resources_text: ''
 short_url: video-2-dealing-with-missing-data-0

@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 53c3f726a9c455dcd650a9bca8e974a8
 inline_embed_id: 90360945lecture3graphtheoreticmodels43245324
+order_index: 26
 parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
 short_url: lecture-3-graph-theoretic-models

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: c60f70912fdbabbb01cd6a470d496cdb
 inline_embed_id: 84920665bookkeeperrulemultinomialtheorem90125374
+order_index: 1304
 parent_uid: 4dc649af8a5cb525a82a43e59d6549fd
 related_resources_text: ''
 short_url: bookkeeper-rule-multinomial-theorem

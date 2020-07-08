@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: caffce421f9702ac8f916640e560d885
 inline_embed_id: 3394041video1introductiontonetflix89159569
+order_index: 1309
 parent_uid: b091b1bec85a85e060a83b7905c9dcce
 related_resources_text: ''
 short_url: video-1-introduction-to-netflix-0

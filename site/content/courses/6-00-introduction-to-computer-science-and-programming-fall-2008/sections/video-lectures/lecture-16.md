@@ -90,6 +90,7 @@ embedded_media:
     type: Transcript
     uid: 69f35acc5f5df65b516ec9b5338c09b7
 inline_embed_id: '6135773916:encapsulation,inheritance,shadowing42669642'
+order_index: 231
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

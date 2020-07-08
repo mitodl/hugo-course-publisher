@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 6aa4b76ae54fe4a8149ec5641c125b25
 inline_embed_id: '93566898clip1:completingthesquare77333940'
+order_index: 3044
 parent_uid: 3d81cd65aedbbd557617501fb6a0b493
 related_resources_text: ''
 short_url: clip-1-completing-the-square

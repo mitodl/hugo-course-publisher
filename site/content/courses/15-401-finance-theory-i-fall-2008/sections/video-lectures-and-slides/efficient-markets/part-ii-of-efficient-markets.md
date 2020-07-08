@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 72834fadaa78c95f5a8eec8191b55ddc
 inline_embed_id: 91797751partiiofefficientmarkets80033416
+order_index: 287
 parent_uid: d5d9b06a9f57c97ffb6c7770f71a2f28
 related_resources_text: ''
 short_url: part-ii-of-efficient-markets

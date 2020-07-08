@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 730bd51ce4c8ace225ab9890d8c9f8c0
 inline_embed_id: 71236948lecture23acidbasetitrationsparti74299874
+order_index: 453
 parent_uid: 4d30b63dcd6089ecbffcfd57c80b1766
 related_resources_text: ''
 short_url: lecture-23-acid-base-titrations-part-i

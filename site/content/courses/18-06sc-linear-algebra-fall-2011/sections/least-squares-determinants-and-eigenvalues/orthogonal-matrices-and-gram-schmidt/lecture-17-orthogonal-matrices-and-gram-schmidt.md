@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 4cb5255518c2f69a83086a0411e80eb0
 inline_embed_id: '65628949lecture17:orthogonalmatricesandgram-schmidt39083889'
+order_index: 478
 parent_uid: 2376f3e00c4de0f6634653041d685aed
 related_resources_text: ''
 short_url: lecture-17-orthogonal-matrices-and-gram-schmidt

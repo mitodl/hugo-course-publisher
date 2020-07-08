@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: ff49ce14d014d353ff4a9e8d3f831d23
 inline_embed_id: 87421256introtoproofspart279685663
+order_index: 238
 parent_uid: 6a9af7860097152936cfc7d478c637db
 related_resources_text: ''
 short_url: intro-to-proofs-part-2

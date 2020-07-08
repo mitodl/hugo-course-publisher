@@ -50,6 +50,7 @@ embedded_media:
     type: Video
     uid: 86622d7cc59ab98cd410c4bd92ee2b5e
 inline_embed_id: 15463284lecture35findingclustersingraphssecondprojecthandwriting79108741
+order_index: 323
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-35-finding-clusters-in-graphs-second-project-handwriting

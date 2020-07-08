@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 39e4ef092cbece938f614d108aa03744
 inline_embed_id: 78529629combiningchalktalksandslidesinacomplementaryway73904819
+order_index: 87
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
 related_resources_text: ''
 short_url: combining-chalk-talks-and-slides-in-a-complementary-way

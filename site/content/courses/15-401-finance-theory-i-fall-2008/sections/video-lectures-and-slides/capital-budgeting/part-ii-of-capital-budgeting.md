@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 738fea720edf0b0b8705dbc6188e5c22
 inline_embed_id: 96515214partiiofcapitalbudgeting69930743
+order_index: 266
 parent_uid: 329f045ace4b7681d74390d050de0c19
 related_resources_text: ''
 short_url: part-ii-of-capital-budgeting

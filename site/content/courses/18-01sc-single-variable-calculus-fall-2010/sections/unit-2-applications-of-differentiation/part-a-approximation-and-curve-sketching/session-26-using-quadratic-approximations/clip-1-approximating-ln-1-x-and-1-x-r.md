@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 12c3c9625d740385a258a00d69eb0ec9
 inline_embed_id: '55238056clip1:approximatingln(1+x)and(1+x)r67378544'
+order_index: 1232
 parent_uid: 83a48b57d3d2a4086881aa5771dbfcba
 related_resources_text: ''
 short_url: clip-1-approximating-ln-1-x-and-1-x-r

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 57fc064f56118ef0d43e59a1c04df585
 inline_embed_id: '91998710clip1:derivativeofsin(x),algebraicproof45729858'
+order_index: 347
 parent_uid: 118fc2aa2f82b0483267f66bf76b6ba7
 related_resources_text: ''
 short_url: clip-1-derivative-of-sin-x-algebraic-proof

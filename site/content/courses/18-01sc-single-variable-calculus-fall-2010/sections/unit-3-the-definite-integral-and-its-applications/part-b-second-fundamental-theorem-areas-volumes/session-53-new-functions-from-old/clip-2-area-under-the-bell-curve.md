@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 78cd266e05a70b0599783ada0f9aa092
 inline_embed_id: '45562896clip2:areaunderthebellcurve38713500'
+order_index: 2297
 parent_uid: 28016eb00515039ebda8eb0f6b6ddb58
 related_resources_text: ''
 short_url: clip-2-area-under-the-bell-curve

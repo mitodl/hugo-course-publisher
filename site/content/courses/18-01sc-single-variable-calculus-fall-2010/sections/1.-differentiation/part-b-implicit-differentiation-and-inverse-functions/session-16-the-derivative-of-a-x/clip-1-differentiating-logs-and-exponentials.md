@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 1d01308d3b0090d8d7be1231108561da
 inline_embed_id: '41805805clip1:differentiatinglogsandexponentials51288754'
+order_index: 720
 parent_uid: a08812a629e76732837d8a39d48fc8fa
 related_resources_text: ''
 short_url: clip-1-differentiating-logs-and-exponentials

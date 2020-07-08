@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 457ec3db1dd5cb1c1964236ba496b6b5
 inline_embed_id: '73158456problemsolving:symmetricmatricesandpositivedefiniteness13264023'
+order_index: 794
 parent_uid: 83daa7894c9ba2c7ac6cafe27aef0e1c
 related_resources_text: ''
 short_url: problem-solving-symmetric-matrices-and-positive-definiteness

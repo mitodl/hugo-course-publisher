@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 4e84b103c98228ca6f8d0288b6b0b364
 inline_embed_id: 66418715photonsandthelossofdeterminism41786350
+order_index: 58
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: photons-and-the-loss-of-determinism

@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 8ef17b89f33292059f95c1d39523232c
 inline_embed_id: 12433280widthsanduncertainties47815622
+order_index: 344
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: widths-and-uncertainties

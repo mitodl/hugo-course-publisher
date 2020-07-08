@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: f8549ea909b3d51065ceadd226ae9eef
 inline_embed_id: '14491588lecture14:learning:sparsespaces,phonology35752921'
+order_index: 159
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
 short_url: lecture-14-learning-sparse-spaces-phonology

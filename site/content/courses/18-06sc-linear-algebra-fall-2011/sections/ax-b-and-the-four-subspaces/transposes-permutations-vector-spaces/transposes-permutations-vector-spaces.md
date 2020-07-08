@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 80a79db54d618dae7424414d9e0273c2
 inline_embed_id: '60108556transposes,permutations,vectorspaces44255430'
+order_index: 160
 parent_uid: 78c64d70411ee481e2bbd7a7244a0bf3
 related_resources_text: ''
 short_url: transposes-permutations-vector-spaces

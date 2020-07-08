@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 8cd5ba5904d3c5112b35f91d9a285793
 inline_embed_id: '97573802clip2:usingthesecondfundamentaltheoremofcalculus17332296'
+order_index: 2219
 parent_uid: 9b4c6b77599861b820e8c804596b8c24
 related_resources_text: ''
 short_url: clip-2-using-the-second-fundamental-theorem-of-calculus

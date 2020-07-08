@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: c1c0177bfc1f0ea98a95cd5deec94809
 inline_embed_id: '92954664clip:leastsquares58875613'
+order_index: 880
 parent_uid: 4dee8231f05e53cc79cbf731a6390b29
 related_resources_text: ''
 short_url: clip-least-squares

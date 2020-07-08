@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 377ba404bcb3fb1e209e93c41bce257a
 inline_embed_id: '41546349problemsolving:projectionontosubspaces73353939'
+order_index: 1326
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: problem-solving-projection-onto-subspaces

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 84b8b8267fec462114432a9ba6a50d33
 inline_embed_id: '33919556clip3:notationforderivatives38963731'
+order_index: 130
 parent_uid: 29ef5f87bae9a94ad04425b8efabe1ac
 related_resources_text: ''
 short_url: clip-3-notation-for-derivatives

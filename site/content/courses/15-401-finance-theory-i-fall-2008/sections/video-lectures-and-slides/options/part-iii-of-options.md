@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 7567b9e93eb6ab4732f8968b519ec636
 inline_embed_id: 66110508partiiiofoptions55125043
+order_index: 162
 parent_uid: dcbca71781722df95972c7b3e9abe284
 related_resources_text: ''
 short_url: part-iii-of-options

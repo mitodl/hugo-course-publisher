@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 95e7d0b3d299c8f99e83ed30f55fff83
 inline_embed_id: '17070713clip4:extensionsofl''hospital''srule66569868'
+order_index: 3751
 parent_uid: 7a8cdab56a9e46b35225a2bc22295a0f
 related_resources_text: ''
 short_url: clip-4-extensions-of-lhospitals-rule

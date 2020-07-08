@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 2511aca4ca86bc78a3e07f6e8962cd7d
 inline_embed_id: '98145026clip2:surfaceareaofanellipsoid13292839'
+order_index: 3437
 parent_uid: 7aa6522b6e8e0d13937e54ed6e52710d
 related_resources_text: ''
 short_url: clip-2-surface-area-of-an-ellipsoid

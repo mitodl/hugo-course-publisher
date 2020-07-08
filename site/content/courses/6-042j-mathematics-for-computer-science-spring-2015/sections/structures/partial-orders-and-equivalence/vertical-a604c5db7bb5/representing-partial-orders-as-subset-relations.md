@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 2de06ce7c57a4d1d6e21d1ca82db6be3
 inline_embed_id: 56777777representingpartialordersassubsetrelations98151495
+order_index: 907
 parent_uid: 7a87bb9b57b50fd68642b8010b49df56
 related_resources_text: ''
 short_url: representing-partial-orders-as-subset-relations

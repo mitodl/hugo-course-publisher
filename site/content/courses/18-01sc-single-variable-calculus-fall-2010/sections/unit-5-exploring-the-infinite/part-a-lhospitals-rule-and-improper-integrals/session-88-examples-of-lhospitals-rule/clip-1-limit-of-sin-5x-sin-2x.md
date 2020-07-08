@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: a5ed4e9f8d62663fc3cfd9566c7704d8
 inline_embed_id: '62286765clip1:limitofsin(5x)/sin(2x)45602293'
+order_index: 3721
 parent_uid: 7a8cdab56a9e46b35225a2bc22295a0f
 related_resources_text: ''
 short_url: clip-1-limit-of-sin-5x-sin-2x

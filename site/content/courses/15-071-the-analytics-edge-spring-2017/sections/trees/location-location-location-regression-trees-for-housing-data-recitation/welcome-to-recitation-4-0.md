@@ -51,6 +51,7 @@ embedded_media:
     type: Transcript
     uid: a506f237ab4cd9f3a0a62e4bdfebd98b
 inline_embed_id: 59940534welcometorecitation425675245
+order_index: 944
 parent_uid: aef27920c51cefd188ed937539251bd9
 related_resources_text: ''
 short_url: welcome-to-recitation-4-0

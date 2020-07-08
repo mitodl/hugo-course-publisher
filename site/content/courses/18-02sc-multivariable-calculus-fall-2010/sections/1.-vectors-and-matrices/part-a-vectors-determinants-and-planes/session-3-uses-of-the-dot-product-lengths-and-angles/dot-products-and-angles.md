@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 36572779258d488d6e294bdee3dc02a3
 inline_embed_id: 34745044dotproductsandangles83371667
+order_index: 89
 parent_uid: 6bffee600f9e4f4fdbab82ddbed0e07d
 related_resources_text: ''
 short_url: dot-products-and-angles

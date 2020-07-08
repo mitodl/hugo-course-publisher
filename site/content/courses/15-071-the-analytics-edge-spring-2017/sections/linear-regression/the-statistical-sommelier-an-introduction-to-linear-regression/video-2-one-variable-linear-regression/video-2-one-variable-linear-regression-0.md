@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: b125465502f524aac41c806528754a38
 inline_embed_id: 84808658video2onevariablelinearregression97646894
+order_index: 300
 parent_uid: 1f0b61bba29b5ee75d265ed940cc2d1d
 related_resources_text: ''
 short_url: video-2-one-variable-linear-regression-0

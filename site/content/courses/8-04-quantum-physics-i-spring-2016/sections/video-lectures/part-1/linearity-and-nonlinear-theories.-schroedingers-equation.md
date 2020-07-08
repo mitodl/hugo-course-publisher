@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 4d854126a3b2b450ac9411ac0b6fbf64
 inline_embed_id: 65239614linearityandnonlineartheories.schrdingersequation3966677
+order_index: 38
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: linearity-and-nonlinear-theories.-schroedingers-equation

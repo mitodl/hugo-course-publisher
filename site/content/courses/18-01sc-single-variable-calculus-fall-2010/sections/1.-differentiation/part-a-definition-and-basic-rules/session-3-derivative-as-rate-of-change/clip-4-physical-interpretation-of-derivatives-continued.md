@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: d8f75c0c65372bf95ebaf53a921c20cc
 inline_embed_id: '87892883clip4:physicalinterpretationofderivatives,continued74200748'
+order_index: 188
 parent_uid: 4eff05d7dd9bd856611cfe4f4cddcb98
 related_resources_text: ''
 short_url: clip-4-physical-interpretation-of-derivatives-continued

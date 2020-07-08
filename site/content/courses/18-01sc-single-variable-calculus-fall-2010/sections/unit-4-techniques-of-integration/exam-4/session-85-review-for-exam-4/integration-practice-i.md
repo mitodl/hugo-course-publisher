@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: b393fdef970516d55833e6d9214720d0
 inline_embed_id: 13842662integrationpracticei90038877
+order_index: 3589
 parent_uid: 4699d63d2fc16b8bd7fc498a382dc972
 related_resources_text: ''
 short_url: integration-practice-i

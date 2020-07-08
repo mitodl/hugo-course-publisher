@@ -32,6 +32,7 @@ embedded_media:
     type: Thumbnail
     uid: 96d424a61a1d559d0a3540dbccfc9e52
 inline_embed_id: '99525203lab5:savoniuswindturbineconstructionandtesting48221462'
+order_index: 91
 parent_uid: 5dd5186b4a86f3ff771b545e19e9b505
 related_resources_text: ''
 short_url: lab-5-savonius-wind-turbine-construction-and-testing

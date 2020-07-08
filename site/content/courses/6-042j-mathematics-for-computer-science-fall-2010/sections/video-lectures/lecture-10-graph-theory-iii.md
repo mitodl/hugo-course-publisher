@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 0a88c21b679810f4e2659bf252c950ed
 inline_embed_id: '99882299lecture10:graphtheoryiii18308969'
+order_index: 119
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-10-graph-theory-iii

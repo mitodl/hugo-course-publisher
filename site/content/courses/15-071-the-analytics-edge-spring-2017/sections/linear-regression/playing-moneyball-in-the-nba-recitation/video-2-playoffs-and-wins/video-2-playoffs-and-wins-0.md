@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 6f24f99099d9484ed74e4759d41e29c1
 inline_embed_id: 6007199video2playoffsandwins60653014
+order_index: 478
 parent_uid: 5ac291e9f7cb6b8e19b1740753e96bf6
 related_resources_text: ''
 short_url: video-2-playoffs-and-wins-0

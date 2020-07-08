@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 05cd3eedf46ef05b88b13c3135c7ca7f
 inline_embed_id: '38046084clip3:summaryoftrigsubstitution62645632'
+order_index: 3018
 parent_uid: 9894378ce8db90173778fc7a13cad022
 related_resources_text: ''
 short_url: clip-3-summary-of-trig-substitution

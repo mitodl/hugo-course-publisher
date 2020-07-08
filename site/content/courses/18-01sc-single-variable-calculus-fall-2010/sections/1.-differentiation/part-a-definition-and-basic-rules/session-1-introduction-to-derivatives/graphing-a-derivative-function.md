@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: f222cbabf7d3161b8a9f6ba7a8e21e29
 inline_embed_id: 74572184graphingaderivativefunction51498715
+order_index: 88
 parent_uid: c25a5592cbb582539daea82e3aeeda33
 related_resources_text: ''
 short_url: graphing-a-derivative-function

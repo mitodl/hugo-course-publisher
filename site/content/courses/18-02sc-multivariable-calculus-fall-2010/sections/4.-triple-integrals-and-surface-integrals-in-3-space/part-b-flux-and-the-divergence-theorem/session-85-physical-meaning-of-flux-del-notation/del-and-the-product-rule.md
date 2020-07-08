@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: fa37fca8148d32fbf4a1d537be522b0d
 inline_embed_id: 78631339delandtheproductrule3806456
+order_index: 2719
 parent_uid: 249236df69e4092033efe2787a0cd1ad
 related_resources_text: ''
 short_url: del-and-the-product-rule

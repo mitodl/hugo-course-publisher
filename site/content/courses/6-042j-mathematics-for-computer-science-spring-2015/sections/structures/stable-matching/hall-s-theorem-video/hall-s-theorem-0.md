@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: ead9b1836ee4370078185d5603da040d
 inline_embed_id: 15777569hallstheorem29740122
+order_index: 1109
 parent_uid: f8d9d92ec10a0641bd7b591f5cb8b3b0
 related_resources_text: ''
 short_url: hall-s-theorem-0

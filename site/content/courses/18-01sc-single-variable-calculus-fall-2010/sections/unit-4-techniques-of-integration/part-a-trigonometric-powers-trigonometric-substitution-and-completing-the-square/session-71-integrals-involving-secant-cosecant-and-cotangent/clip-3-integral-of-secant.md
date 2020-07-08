@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 6d917ffd1a6bb89fed9f77b5079bd1ca
 inline_embed_id: '98198273clip3:integralofsecant75708386'
+order_index: 2960
 parent_uid: 369ea1a042d34dea55d07a2b967f59af
 related_resources_text: ''
 short_url: clip-3-integral-of-secant

@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: bbd292305bb75d4a9e13d115f10fd000
 inline_embed_id: 51739520howdoshipsfloat?36251526
+order_index: 1183
 parent_uid: 265dbc3150c1a4e14686f6c614415b05
 related_resources_text: ''
 short_url: how-do-ships-float

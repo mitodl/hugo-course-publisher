@@ -50,6 +50,7 @@ embedded_media:
     type: Video
     uid: dcf0b997c3b8be8e1c0386a9af09280d
 inline_embed_id: 16175428gettingeveryoneonboard34431661
+order_index: 47
 parent_uid: e75a8c08e11786c535031b5e10f0fe19
 related_resources_text: ''
 short_url: getting-everyone-on-board

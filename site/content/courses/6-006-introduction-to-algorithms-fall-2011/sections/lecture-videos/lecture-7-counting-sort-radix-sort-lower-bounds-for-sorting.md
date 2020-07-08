@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: c8b6a07af45abdd8f3234b15b97ea3ec
 inline_embed_id: '66162329lecture7:countingsort,radixsort,lowerboundsforsorting77548325'
+order_index: 116
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-7-counting-sort-radix-sort-lower-bounds-for-sorting

@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: f1952c066c075b30a6a38ac43d81e3e8
 inline_embed_id: '2453279lecture18:probabilityintroduction54303153'
+order_index: 199
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-18-probability-introduction

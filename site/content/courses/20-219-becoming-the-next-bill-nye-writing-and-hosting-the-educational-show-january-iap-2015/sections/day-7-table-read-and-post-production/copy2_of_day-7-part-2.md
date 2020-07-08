@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 78447bf77ff08d595b54ade7421680d9
 inline_embed_id: 49237354music74108093
+order_index: 689
 parent_uid: d8c0d81b2a38c0d7c4ff4a8cfacacb2d
 related_resources_text: ''
 short_url: copy2_of_day-7-part-2

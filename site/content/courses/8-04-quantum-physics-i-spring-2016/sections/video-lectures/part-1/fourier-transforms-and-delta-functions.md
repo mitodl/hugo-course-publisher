@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 65e5990563026f975e52cab02d72e37b
 inline_embed_id: 47536501wavepacketsandfourierrepresentation37969374
+order_index: 377
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: fourier-transforms-and-delta-functions

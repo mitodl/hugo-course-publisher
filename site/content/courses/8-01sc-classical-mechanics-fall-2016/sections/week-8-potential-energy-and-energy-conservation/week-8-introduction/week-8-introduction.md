@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 4a692a9f39b2d785f91bfed87a3f4135
 inline_embed_id: 45774369week8introduction31566485
+order_index: 1525
 parent_uid: fcdd8dba5c173c1530e44947500174b8
 related_resources_text: ''
 short_url: week-8-introduction

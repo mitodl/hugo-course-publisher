@@ -35,6 +35,7 @@ embedded_media:
     type: Thumbnail
     uid: 82e6a527ac0c5c46f438df248ffad52b
 inline_embed_id: '19824954clip:calculatingflux;findingnds35071651'
+order_index: 2578
 parent_uid: 0dbd561e4c4face87b1afcf29eb32c91
 related_resources_text: ''
 short_url: clip-calculating-flux-finding-nds

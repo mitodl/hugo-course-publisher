@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 2829bd67f01a4c5b7cf062ccb7a0ba16
 inline_embed_id: '76452934clip:solutionstosquaresystems85035555'
+order_index: 420
 parent_uid: 7d94f07b8bc70601a9431aa48d6b4518
 related_resources_text: ''
 short_url: clip-solutions-to-square-systems

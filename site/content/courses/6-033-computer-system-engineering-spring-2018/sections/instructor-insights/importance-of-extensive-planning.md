@@ -50,6 +50,7 @@ embedded_media:
     type: Video
     uid: 0b1c57b12c4769129e67e0f817556035
 inline_embed_id: 79938349theimportanceofextensiveplanning47073710
+order_index: 56
 parent_uid: e75a8c08e11786c535031b5e10f0fe19
 related_resources_text: ''
 short_url: importance-of-extensive-planning

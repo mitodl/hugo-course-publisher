@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: cfb2b34d6cb0625e206a01bade11c452
 inline_embed_id: '20101795clip1:integralof1/x,trapezoids94071697'
+order_index: 2722
 parent_uid: 602ce034a62f6b4a95884c519f8f4412
 related_resources_text: ''
 short_url: clip-1-integral-of-1-x-trapezoids

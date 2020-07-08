@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: b70ece18594fd72ec0cbb128725397fd
 inline_embed_id: 479057lecture17curvefitting18342619
+order_index: 785
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: lecture-17-curve-fitting

@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 04f5075307f8acff797d6a4f6e94bf58
 inline_embed_id: 98644311distanceofapointtoaplane2165765
+order_index: 371
 parent_uid: 373d1bd0065482663191d1be06e5b406
 related_resources_text: ''
 short_url: distance-of-a-point-to-a-plane

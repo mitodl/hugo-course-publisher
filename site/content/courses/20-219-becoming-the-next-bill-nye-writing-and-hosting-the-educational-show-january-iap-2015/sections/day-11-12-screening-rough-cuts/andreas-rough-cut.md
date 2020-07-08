@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: fe0a1393eeef3c046c80d9470e01e8b1
 inline_embed_id: 28449932andrea'sroughcut92553066
+order_index: 838
 parent_uid: 91a83a5a9923d001da64fbbcd37341cb
 related_resources_text: ''
 short_url: andreas-rough-cut

@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: d96788957dd02eaffd2c65ff363e428c
 inline_embed_id: '20006790lecture6:search:games,minimax,andalpha-beta8288158'
+order_index: 69
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
 short_url: lecture-6-search-games-minimax-and-alpha-beta

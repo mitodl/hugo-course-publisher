@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: db8ff8088a808144fa9d41587d7e5a6f
 inline_embed_id: 7866801video4mriimage84460692
+order_index: 1497
 parent_uid: 05a0aaf9347fba276e3af7cddfcf258b
 related_resources_text: ''
 short_url: video-4-mri-image-0

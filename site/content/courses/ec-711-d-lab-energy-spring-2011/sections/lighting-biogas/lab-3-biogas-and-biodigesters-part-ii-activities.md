@@ -32,6 +32,7 @@ embedded_media:
     type: Thumbnail
     uid: a83dc247274c036fd931dd8d91ae4acc
 inline_embed_id: '39543591lab3:biogasandbiodigesters,partii:activities67374343'
+order_index: 58
 parent_uid: 70e2edb13971cd3b00913ae541bcdecc
 related_resources_text: ''
 short_url: lab-3-biogas-and-biodigesters-part-ii-activities

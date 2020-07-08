@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: cfa15f0e59cf269248c03f00d3ef7723
 inline_embed_id: 95775854dd.1.1frictionatthenanoscale68182813
+order_index: 567
 parent_uid: 9645d508f2f591c3d28668b53745d928
 related_resources_text: ''
 short_url: dd.1.1-friction-at-the-nanoscale

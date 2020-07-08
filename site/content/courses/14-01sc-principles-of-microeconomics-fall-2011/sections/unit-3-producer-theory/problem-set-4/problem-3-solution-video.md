@@ -58,6 +58,7 @@ embedded_media:
     type: Video
     uid: 8318a401a39bb92e2b20e0d2bafa5a51
 inline_embed_id: 11038737problem3solutionvideo75857202
+order_index: 235
 parent_uid: 7202f9bf94b433fc7f690ef73b511c93
 related_resources_text: ''
 short_url: problem-3-solution-video

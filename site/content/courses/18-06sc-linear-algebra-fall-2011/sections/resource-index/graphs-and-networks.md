@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 442a40395700a64f18341c04eac564ed
 inline_embed_id: 26244867graphsandnetworks65282369
+order_index: 1266
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: graphs-and-networks

@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: b2b14df19e2f1fa73ee11915fb317006
 inline_embed_id: '87394659clip:lineintegrals29070546'
+order_index: 1829
 parent_uid: 251c28750901cae7a94eeaecf01f6e6b
 related_resources_text: ''
 short_url: clip-line-integrals

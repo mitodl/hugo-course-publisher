@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: b28a29220c158b6f7b9ce02ece075697
 inline_embed_id: 7740810graphingthearctanfunction23669768
+order_index: 692
 parent_uid: 5668bfaf4a4849cdc9fb5962b4a18003
 related_resources_text: ''
 short_url: graphing-the-arctan-function

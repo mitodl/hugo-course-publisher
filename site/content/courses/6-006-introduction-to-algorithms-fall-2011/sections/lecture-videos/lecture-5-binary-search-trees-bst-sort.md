@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 864cd52a5443b0c119f9f57b5c3aa4da
 inline_embed_id: '64517852lecture5:binarysearchtrees,bstsort24958980'
+order_index: 96
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-5-binary-search-trees-bst-sort

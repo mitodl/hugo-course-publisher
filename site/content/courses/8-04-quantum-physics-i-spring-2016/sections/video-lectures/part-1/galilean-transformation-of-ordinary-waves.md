@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 5d5516b295fe15544d25292eaeb0aa0a
 inline_embed_id: 80719188galileantransformationofordinarywaves65299652
+order_index: 179
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: galilean-transformation-of-ordinary-waves

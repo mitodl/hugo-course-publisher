@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: 86c99b939bda93d1bdff27002f057322
 inline_embed_id: '47010650lecture9:mosfetamplifierlargesignalanalysis(part2)15388319'
+order_index: 225
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture notes (<a target="_blank" title="Open in a new window."

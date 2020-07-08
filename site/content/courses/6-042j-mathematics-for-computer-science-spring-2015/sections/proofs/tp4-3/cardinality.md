@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 6adba25569e19d4764edfb2acfc17643
 inline_embed_id: 53042838cardinality99050396
+order_index: 597
 parent_uid: 7b14af4d984597ad410998ecc9fb9f71
 related_resources_text: ''
 short_url: cardinality

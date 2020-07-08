@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 31287eacb756e849e822bb291dd2a174
 inline_embed_id: 77048063matrixspacesrank1smallworldgraphs17458883
+order_index: 1721
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: matrix-spaces-rank-1-small-world-graphs

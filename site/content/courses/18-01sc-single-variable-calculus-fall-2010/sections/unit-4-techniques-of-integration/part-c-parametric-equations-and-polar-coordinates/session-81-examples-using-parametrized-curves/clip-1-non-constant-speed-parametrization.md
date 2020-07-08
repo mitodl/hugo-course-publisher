@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: f6467007cf88ddc465b603d474cda784
 inline_embed_id: '85819294clip1:non-constantspeedparametrization44867645'
+order_index: 3427
 parent_uid: 7aa6522b6e8e0d13937e54ed6e52710d
 related_resources_text: ''
 short_url: clip-1-non-constant-speed-parametrization

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: a7709bdb478d6618e05e952cba893981
 inline_embed_id: '44394409clip3:integralofapowerseries12773907'
+order_index: 4391
 parent_uid: 7aaff01423b922b346afdcd6c0328e83
 related_resources_text: ''
 short_url: clip-3-integral-of-a-power-series

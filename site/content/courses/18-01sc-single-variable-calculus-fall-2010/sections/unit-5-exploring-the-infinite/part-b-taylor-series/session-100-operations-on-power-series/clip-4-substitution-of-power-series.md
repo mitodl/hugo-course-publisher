@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: d4f88d99dff2ee2ceb430da463feac6f
 inline_embed_id: '7607166clip4:substitutionofpowerseries4862915'
+order_index: 4401
 parent_uid: 7aaff01423b922b346afdcd6c0328e83
 related_resources_text: ''
 short_url: clip-4-substitution-of-power-series

@@ -57,6 +57,7 @@ embedded_media:
     uid: 3ffc5b8ef64b8814fd5844b5be183417
 inline_embed_id: >-
   28989956resourcesneededfortheassignments:annotationstudio,tumblr,andyoutube52374856
+order_index: 186
 parent_uid: e7ab07a59bf478a18a95a815093ec211
 related_resources_text: ''
 short_url: copy2_of_day-1-part-3

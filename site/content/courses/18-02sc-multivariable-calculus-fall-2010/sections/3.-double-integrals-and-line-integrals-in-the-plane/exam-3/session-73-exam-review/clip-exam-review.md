@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: 542756ead25d7effd8c25f1ca2a3aa3c
 inline_embed_id: '28239003clip:examreview56992857'
+order_index: 2300
 parent_uid: d286d8f1d8acd0b20d8e58a9967f8be9
 related_resources_text: ''
 short_url: clip-exam-review

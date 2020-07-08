@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 0902c761bf387bbb9f89079b5caf14d1
 inline_embed_id: 9626089linearalgebracourseintroduction11105443
+order_index: 10
 parent_uid: d8efae912fd602f9ac2e2cb9d064d22e
 related_resources_text: ''
 short_url: linear-algebra-course-introduction

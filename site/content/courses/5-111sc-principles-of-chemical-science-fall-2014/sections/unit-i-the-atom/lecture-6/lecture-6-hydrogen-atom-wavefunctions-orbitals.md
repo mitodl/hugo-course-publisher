@@ -63,6 +63,7 @@ embedded_media:
     type: Video
     uid: 4713cbd576e2203fb5488a3ffe8e7724
 inline_embed_id: 56610477lecture6hydrogenatomwavefunctionsorbitals28868867
+order_index: 186
 parent_uid: c88a7a36f1d50d921f8c175f64643ef4
 related_resources_text: ''
 short_url: lecture-6-hydrogen-atom-wavefunctions-orbitals

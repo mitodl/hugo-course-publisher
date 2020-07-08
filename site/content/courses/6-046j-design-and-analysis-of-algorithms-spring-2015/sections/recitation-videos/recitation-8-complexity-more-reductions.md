@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: e63cce42bcca1ae2878ec8635fe5fc0b
 inline_embed_id: '77826237recitation8:complexity:morereductions6367823'
+order_index: 420
 parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
 short_url: recitation-8-complexity-more-reductions

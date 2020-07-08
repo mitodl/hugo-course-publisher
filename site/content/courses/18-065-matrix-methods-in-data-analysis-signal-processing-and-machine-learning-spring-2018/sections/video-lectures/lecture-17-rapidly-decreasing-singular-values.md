@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 4ae4dd8f6b2083de133bc71c3289a2f3
 inline_embed_id: 45829030lecture17rapidlydecreasingsingularvalues15579828
+order_index: 179
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-17-rapidly-decreasing-singular-values

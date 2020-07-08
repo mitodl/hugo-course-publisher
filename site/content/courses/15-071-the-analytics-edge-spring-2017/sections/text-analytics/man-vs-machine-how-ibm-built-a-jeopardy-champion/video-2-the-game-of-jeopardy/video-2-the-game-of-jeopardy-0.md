@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: df5e80378b9dc05602589e326c4ff7c7
 inline_embed_id: 1904552video2thegameofjeopardy51181157
+order_index: 1141
 parent_uid: 8e417dbee2351e2efc59f87409ee7506
 related_resources_text: ''
 short_url: video-2-the-game-of-jeopardy-0

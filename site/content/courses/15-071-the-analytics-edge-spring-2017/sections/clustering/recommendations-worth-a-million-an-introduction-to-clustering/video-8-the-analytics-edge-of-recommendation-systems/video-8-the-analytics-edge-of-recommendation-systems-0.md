@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: d319908825b6634b86273e1670e939b1
 inline_embed_id: 78148057video8theanalyticsedgeofrecommendationsystems68737656
+order_index: 1388
 parent_uid: 9e0e5a2571bbafdaded101bdcdce7158
 related_resources_text: ''
 short_url: video-8-the-analytics-edge-of-recommendation-systems-0

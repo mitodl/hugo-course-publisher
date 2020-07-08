@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: c1184e8ab358dec8cbc23aedda0f8b2d
 inline_embed_id: 87550374vlogday475020599
+order_index: 1441
 parent_uid: 7b1a98fc328d4951fd19a2109aff7506
 related_resources_text: ''
 short_url: vlog-day-4-1

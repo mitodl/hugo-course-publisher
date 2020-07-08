@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: e1e7ed2b9b63869d6d84b29b0659c99d
 inline_embed_id: 96924929radiusofconvergence15365501
+order_index: 4216
 parent_uid: bcbb45fdbe1b69cc80a82c9f73ca8d5d
 related_resources_text: ''
 short_url: radius-of-convergence

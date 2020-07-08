@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: ca33609a7b0968c0eacf9a761c23f664
 inline_embed_id: 96133048equities48309002
+order_index: 110
 parent_uid: 4b678424fbf83decdfd0618d83b98f9b
 related_resources_text: ''
 short_url: equities

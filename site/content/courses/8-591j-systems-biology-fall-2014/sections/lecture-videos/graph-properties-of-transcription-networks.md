@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 21fb6834a6cb263e4bbf9ca8fec943cc
 inline_embed_id: 54038515graphpropertiesoftranscriptionnetworks86262547
+order_index: 64
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: graph-properties-of-transcription-networks

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: e17ca50f721fd834047a35f2f4aead27
 inline_embed_id: '63091258clip1:derivativeofthearcsinfunction56555535'
+order_index: 672
 parent_uid: 5668bfaf4a4849cdc9fb5962b4a18003
 related_resources_text: ''
 short_url: clip-1-derivative-of-the-arcsin-function

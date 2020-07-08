@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: b634af137d2570a9369ed176438f1a42
 inline_embed_id: 93020907introductionfromelizabeth45263649
+order_index: 959
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
 related_resources_text: ''
 short_url: introduction-from-elizabeth

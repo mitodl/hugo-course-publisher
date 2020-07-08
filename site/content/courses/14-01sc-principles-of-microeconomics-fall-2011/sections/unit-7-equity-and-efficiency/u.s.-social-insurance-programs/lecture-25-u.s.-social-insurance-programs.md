@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: dc0df0e11a748f754477778d80972e9e
 inline_embed_id: 53908936lecture25u.s.socialinsuranceprograms18063257
+order_index: 520
 parent_uid: 7846c5e31518552402f119e7b530b4bd
 related_resources_text: ''
 short_url: lecture-25-u.s.-social-insurance-programs

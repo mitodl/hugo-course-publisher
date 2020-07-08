@@ -85,6 +85,7 @@ embedded_media:
     type: Transcript
     uid: 28053436f4e43df8acc22bd7cd45ca59
 inline_embed_id: '14529679lecture7:solvingax=0:pivotvariables,specialsolutions15967975'
+order_index: 136
 parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"

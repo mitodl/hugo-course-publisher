@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: f1fa9d323a361faaa610c670438b5f87
 inline_embed_id: '53080566lecture24:largedeviations43320753'
+order_index: 259
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-24-large-deviations

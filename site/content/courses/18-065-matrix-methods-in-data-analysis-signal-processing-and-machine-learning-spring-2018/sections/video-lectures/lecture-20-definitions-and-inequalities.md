@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: ffbba90ee1de5d0459077a73624355a4
 inline_embed_id: 9075126lecture20definitionsandinequalities21993651
+order_index: 206
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-20-definitions-and-inequalities

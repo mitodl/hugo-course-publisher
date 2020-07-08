@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 59e39d81110997a1ab574d61252cc228
 inline_embed_id: 25091139video4aheatmap65847631
+order_index: 1647
 parent_uid: 7a8ce8b691e992d100a83e4b86041a1a
 related_resources_text: ''
 short_url: video-4-a-heatmap-0

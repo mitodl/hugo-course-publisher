@@ -27,6 +27,7 @@ embedded_media:
     type: Video
     uid: baa13ac804b436f95fe3f08ee56b8482
 inline_embed_id: '81598290teamdouble-stuftreduced-fatoreos:flightattempt175751506'
+order_index: 1124
 parent_uid: 87e8f47c351cccd450e9b5e03c5bbee2
 related_resources_text: ''
 short_url: team-double-stuft-reduced-fat-oreos-flight-attempt-1

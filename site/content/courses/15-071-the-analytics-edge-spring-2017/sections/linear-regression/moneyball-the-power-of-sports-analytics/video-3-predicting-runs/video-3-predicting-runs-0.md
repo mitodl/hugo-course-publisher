@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 503add7ddf8257d07c32328103d4ed1c
 inline_embed_id: 71479150video3predictingruns53597795
+order_index: 410
 parent_uid: bf2dc78df3180c13511a832922454f59
 related_resources_text: ''
 short_url: video-3-predicting-runs-0

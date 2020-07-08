@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 7ea4601a4841c815f27f6dda920364bd
 inline_embed_id: 58370274proofbycases54778662
+order_index: 265
 parent_uid: 352e651800683c8223989a1643662d4c
 related_resources_text: ''
 short_url: proof-by-cases

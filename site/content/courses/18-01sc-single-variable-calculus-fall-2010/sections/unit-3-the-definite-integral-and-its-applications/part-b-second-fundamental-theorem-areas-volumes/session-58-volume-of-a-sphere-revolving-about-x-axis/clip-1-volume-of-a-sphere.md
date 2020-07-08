@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 5d0e25b4216d8df109d8dab67c200978
 inline_embed_id: '11672417clip1:volumeofasphere9239699'
+order_index: 2438
 parent_uid: ea17c591946bebd5f9a9889e9e6fa3ee
 related_resources_text: ''
 short_url: clip-1-volume-of-a-sphere

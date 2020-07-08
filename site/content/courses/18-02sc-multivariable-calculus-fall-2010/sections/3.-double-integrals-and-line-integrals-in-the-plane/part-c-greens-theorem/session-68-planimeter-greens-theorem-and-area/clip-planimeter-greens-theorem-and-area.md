@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: d88a169afd5fc66ea60a39c2206e173f
 inline_embed_id: '49471958clip:planimeter:green''stheoremandarea23244633'
+order_index: 2095
 parent_uid: fce780d8a145fae3fe0d349fbce595cf
 related_resources_text: ''
 short_url: clip-planimeter-greens-theorem-and-area

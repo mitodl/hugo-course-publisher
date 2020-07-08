@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 233b045765bbe0c65a6c3f8794c4d856
 inline_embed_id: 87010125day2assignmentandwrap-up26612860
+order_index: 278
 parent_uid: 3da88bd7fc04b288622711604ae6a159
 related_resources_text: ''
 short_url: copy4_of_day-2-part-3

@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 04010e112cbc3f6eca9ad5a577f04624
 inline_embed_id: '60675790lineintegrals:pathdependence90777734'
+order_index: 1760
 parent_uid: 966d4aa4c089ef8644151b6c0f5a967b
 related_resources_text: ''
 short_url: line-integrals-path-dependence

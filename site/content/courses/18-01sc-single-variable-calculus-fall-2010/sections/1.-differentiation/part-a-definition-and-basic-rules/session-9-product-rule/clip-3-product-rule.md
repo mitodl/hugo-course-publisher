@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 5eff6c273595c7a1ca017a9c3876f671
 inline_embed_id: '13422737clip3:productrule39024669'
+order_index: 454
 parent_uid: d35aadf5c6d2e1543aee74e2dfdda970
 related_resources_text: ''
 short_url: clip-3-product-rule

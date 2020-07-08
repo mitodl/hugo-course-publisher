@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 1d3691f8a15ccb818fa8287ff5c076d1
 inline_embed_id: 62698139samplingampconfidence1642085
+order_index: 1685
 parent_uid: 9d75474b6827a0564145140fa2e737ef
 related_resources_text: ''
 short_url: sampling-confidence

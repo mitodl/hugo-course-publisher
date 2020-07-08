@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 9d79427d5275b79ea2123c1bacd9e9e4
 inline_embed_id: 18805263causesandconsequencesofstochasticgeneexpression80033195
+order_index: 94
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: causes-and-consequences-of-stochastic-gene-expression

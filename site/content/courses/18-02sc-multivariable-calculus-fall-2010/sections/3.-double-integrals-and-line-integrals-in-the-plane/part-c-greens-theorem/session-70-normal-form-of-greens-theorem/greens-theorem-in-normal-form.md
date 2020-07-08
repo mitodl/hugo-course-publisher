@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 5c1641f4a4687dec19d6b0f0b88b9084
 inline_embed_id: 70198179green'stheoreminnormalform12956354
+order_index: 2200
 parent_uid: dae7ac007cfa7edbc3d63aa45f355773
 related_resources_text: ''
 short_url: greens-theorem-in-normal-form

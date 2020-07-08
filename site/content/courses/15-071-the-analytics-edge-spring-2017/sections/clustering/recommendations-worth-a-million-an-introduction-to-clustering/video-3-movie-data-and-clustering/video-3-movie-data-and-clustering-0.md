@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 8f98ef17b5178cd45e656a6dffce7d15
 inline_embed_id: 19087978video3moviedataandclustering71895431
+order_index: 1331
 parent_uid: 68624ffad0f7a8c01f23c4a6a20422bb
 related_resources_text: ''
 short_url: video-3-movie-data-and-clustering-0

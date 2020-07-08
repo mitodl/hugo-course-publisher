@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: e73d0a9d07adc191bda79f86213797e9
 inline_embed_id: 99301824taylor'sseriesforsec(x)65479649
+order_index: 4341
 parent_uid: 9714534fbc6217589e4ab69f5ad147a4
 related_resources_text: ''
 short_url: taylors-series-for-sec-x

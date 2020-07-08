@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 4e31e789f668ac18dd64aea507414670
 inline_embed_id: 31458216day7vlog40680450
+order_index: 1472
 parent_uid: 0a26ad074929732e5270b0bfe8bbced9
 related_resources_text: ''
 short_url: day-7-vlog

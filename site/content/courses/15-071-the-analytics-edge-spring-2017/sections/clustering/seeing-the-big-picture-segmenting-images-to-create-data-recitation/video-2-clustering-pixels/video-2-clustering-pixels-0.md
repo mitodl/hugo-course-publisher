@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: f024bfdeb017b3768213287503db065c
 inline_embed_id: 84583381video2clusteringpixels60845329
+order_index: 1476
 parent_uid: 63f40bde98fd3fdc8c2ddf21ec19f21f
 related_resources_text: ''
 short_url: video-2-clustering-pixels-0

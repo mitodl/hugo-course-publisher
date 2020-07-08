@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 114185a260de414ca8133488ba11a748
 inline_embed_id: '33416323clip1:reviewoftaylor''sseries12982736'
+order_index: 4351
 parent_uid: 9714534fbc6217589e4ab69f5ad147a4
 related_resources_text: ''
 short_url: clip-1-review-of-taylors-series

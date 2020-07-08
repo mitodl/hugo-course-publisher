@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 38101176fe86e2b1335c9dad5fd092e8
 inline_embed_id: '25984495clip1:volumeofacauldron90874548'
+order_index: 2456
 parent_uid: 2a892d50ed0126e15d3603ad2d218d9e
 related_resources_text: ''
 short_url: clip-1-volume-of-a-cauldron

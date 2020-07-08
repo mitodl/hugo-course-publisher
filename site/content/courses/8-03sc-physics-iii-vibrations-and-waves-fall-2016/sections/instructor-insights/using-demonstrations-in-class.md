@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 7be8f143f2c931aeaa6d33369b636403
 inline_embed_id: 80500206usingdemonstrationsinclass10410174
+order_index: 60
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
 related_resources_text: ''
 short_url: using-demonstrations-in-class

@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 081d8c3a107e18f7ffffd875fc370831
 inline_embed_id: 40993795randomvariablesuniformampbinomial42167793
+order_index: 1507
 parent_uid: 1fb607b45df4521a0d3b7a236157f428
 related_resources_text: ''
 short_url: random-variables-uniform-binomial

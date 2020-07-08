@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 70df89e9205b3c1e1ba833fd6d81f3a9
 inline_embed_id: '23931786clip1:minimalsurfaceareaofabox:directsolution67162824'
+order_index: 1383
 parent_uid: 1adc3400c6b37f82e7f65de33469e2b6
 related_resources_text: ''
 short_url: clip-1-minimal-surface-area-of-a-box-direct-solution

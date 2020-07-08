@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: d1c05d18594df71cab624fcf5b2b8e6a
 inline_embed_id: '59209265clip:applications:momentofinertia27943155'
+order_index: 1590
 parent_uid: 71ab1fd28595ea71a49dec2a50b44b1f
 related_resources_text: ''
 short_url: clip-applications-moment-of-inertia

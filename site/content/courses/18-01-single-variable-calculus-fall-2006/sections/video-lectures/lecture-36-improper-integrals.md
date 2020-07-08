@@ -78,6 +78,7 @@ embedded_media:
     type: Transcript
     uid: 9d1942118b4c24a852df69ef9d330eab
 inline_embed_id: '94525411lecture36:improperintegrals90312533'
+order_index: 517
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

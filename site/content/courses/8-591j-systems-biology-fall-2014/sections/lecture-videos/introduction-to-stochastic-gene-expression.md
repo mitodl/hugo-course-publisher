@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: ed244aa3188670545bdd0fa8c40959b4
 inline_embed_id: 70767587introductiontostochasticgeneexpression97457179
+order_index: 84
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: introduction-to-stochastic-gene-expression

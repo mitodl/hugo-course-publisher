@@ -64,6 +64,7 @@ embedded_media:
     type: Video
     uid: 46b328ec203539887328885bcd706e92
 inline_embed_id: 87798575lecture28transitionmetalscrystalfieldtheoryparti39541092
+order_index: 545
 parent_uid: 2b3c40e870194d11c257ec00379e8c86
 related_resources_text: ''
 short_url: lecture-28-transition-metals-crystal-field-theory-part-i

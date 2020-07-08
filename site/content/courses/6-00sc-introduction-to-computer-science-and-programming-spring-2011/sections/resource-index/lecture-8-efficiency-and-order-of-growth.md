@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 5cd1e3ccb5cf036c01724c962751a39c
 inline_embed_id: 67886099lecture8efficiencyandorderofgrowth10815000
+order_index: 665
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: lecture-8-efficiency-and-order-of-growth

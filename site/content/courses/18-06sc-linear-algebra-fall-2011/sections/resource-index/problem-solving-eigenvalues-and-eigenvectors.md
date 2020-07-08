@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: aca8d0e56832e99a645103d0217b7921
 inline_embed_id: 45374693problemsolvingeigenvaluesandeigenvectors88569010
+order_index: 1444
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: problem-solving-eigenvalues-and-eigenvectors

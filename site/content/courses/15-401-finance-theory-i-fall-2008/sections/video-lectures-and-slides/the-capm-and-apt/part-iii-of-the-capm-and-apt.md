@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 8f7747865e7ab4ddee846002fe4ab173
 inline_embed_id: 13974685partiiiofthecapmandapt92263087
+order_index: 245
 parent_uid: b00cb68693dac5443dd80c6ae861dd7c
 related_resources_text: ''
 short_url: part-iii-of-the-capm-and-apt

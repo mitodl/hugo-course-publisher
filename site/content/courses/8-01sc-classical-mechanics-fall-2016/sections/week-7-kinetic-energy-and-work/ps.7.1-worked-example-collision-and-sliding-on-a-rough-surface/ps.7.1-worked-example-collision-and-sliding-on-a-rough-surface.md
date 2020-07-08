@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 5be02595d59ee8ee0ee08585a46bf11c
 inline_embed_id: 85002455ps.7.1workedexamplecollisionandslidingonaroughsurface26418906
+order_index: 1511
 parent_uid: 1a85f658a6b619d17082201370c974dd
 related_resources_text: ''
 short_url: ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface

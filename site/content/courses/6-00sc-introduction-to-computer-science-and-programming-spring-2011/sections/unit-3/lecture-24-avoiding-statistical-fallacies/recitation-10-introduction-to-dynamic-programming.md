@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: bc08cf77bb7996b1c4903f6764ed6a26
 inline_embed_id: '6165168recitation10:introductiontodynamicprogramming31526096'
+order_index: 510
 parent_uid: 1516a60becbc5b34fa725b89a5ef9a21
 related_resources_text: ''
 short_url: recitation-10-introduction-to-dynamic-programming

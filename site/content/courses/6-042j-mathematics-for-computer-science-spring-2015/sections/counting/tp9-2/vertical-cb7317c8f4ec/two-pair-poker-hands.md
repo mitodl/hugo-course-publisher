@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: bb51dfa5a5557dfc686a0b5bbd9085d3
 inline_embed_id: 6930687twopairpokerhands43368105
+order_index: 1280
 parent_uid: 4da3fbbb1818cbfbea44f787eadffa78
 related_resources_text: ''
 short_url: two-pair-poker-hands

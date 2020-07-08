@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 30c3898017c64502b649ead4e99f7f15
 inline_embed_id: 8733231motionofawavepacket42518261
+order_index: 486
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: motion-of-a-wave-packet

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 87593683bd2c8557dc81f7876cc50692
 inline_embed_id: '20310764clip3:moreexamplesofintegration3114247'
+order_index: 1759
 parent_uid: def23901ebbad92ea90a23199cbba444
 related_resources_text: ''
 short_url: clip-3-more-examples-of-integration

@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 766119c40cad3bcc9fbf643798aefb6d
 inline_embed_id: 47097273areabetweenthegraphsofsineandcosine8614876
+order_index: 2387
 parent_uid: ab02e80b2f16511d81481be8277cb20d
 related_resources_text: ''
 short_url: area-between-the-graphs-of-sine-and-cosine

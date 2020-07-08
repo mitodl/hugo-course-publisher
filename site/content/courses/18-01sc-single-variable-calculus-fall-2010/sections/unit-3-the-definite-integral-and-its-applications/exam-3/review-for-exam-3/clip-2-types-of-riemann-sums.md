@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 252c7c7caa3d6438763d0a832b2f6d2e
 inline_embed_id: '1714205clip2:typesofriemannsums35892974'
+order_index: 2785
 parent_uid: 28c8d6e8c2c0dfa62a9b458789417a05
 related_resources_text: ''
 short_url: clip-2-types-of-riemann-sums

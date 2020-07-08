@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: c1b85bee79e58515c25ebb78b2a2a71b
 inline_embed_id: 95549785ps.1.1threequestionsbeforestarting14180354
+order_index: 351
 parent_uid: ee2f73c8bddde169e39ca455f12469aa
 related_resources_text: ''
 short_url: ps.1.1-three-questions-before-starting

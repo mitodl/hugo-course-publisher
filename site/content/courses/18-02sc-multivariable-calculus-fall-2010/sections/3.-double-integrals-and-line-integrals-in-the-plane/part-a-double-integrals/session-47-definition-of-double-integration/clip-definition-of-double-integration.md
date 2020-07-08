@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 635199935c8d9a29320bc2830ce3b92d
 inline_embed_id: '17006299clip:definitionofdoubleintegration6090427'
+order_index: 1447
 parent_uid: c27b3aad7c204b2a4094be585177be01
 related_resources_text: ''
 short_url: clip-definition-of-double-integration

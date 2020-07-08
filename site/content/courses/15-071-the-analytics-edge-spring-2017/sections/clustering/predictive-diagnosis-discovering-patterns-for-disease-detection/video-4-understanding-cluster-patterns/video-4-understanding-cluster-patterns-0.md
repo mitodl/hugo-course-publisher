@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 293241fff717e97da043c388429b2a58
 inline_embed_id: 67839147video4understandingclusterpatterns1819786
+order_index: 1431
 parent_uid: 78f3fc27501caf07e3396696e57794c6
 related_resources_text: ''
 short_url: video-4-understanding-cluster-patterns-0

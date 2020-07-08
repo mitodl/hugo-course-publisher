@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 7300af03717e28bc03728e31576c62f0
 inline_embed_id: '11123971introductiontopost-production:killingyourdarlings16377232'
+order_index: 669
 parent_uid: d8c0d81b2a38c0d7c4ff4a8cfacacb2d
 related_resources_text: ''
 short_url: copy5_of_day-7-part-2

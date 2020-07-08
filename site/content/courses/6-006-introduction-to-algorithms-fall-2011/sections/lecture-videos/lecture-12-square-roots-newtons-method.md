@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: ddf205f15f19bbbc76139c93bf9c34cd
 inline_embed_id: '14723068lecture12:squareroots,newton''smethod53165212'
+order_index: 166
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-12-square-roots-newtons-method

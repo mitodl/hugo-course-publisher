@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: ee3a1514d52b21a14d410436279c74f7
 inline_embed_id: '16770407lecture13:sumsandasymptotics1773171'
+order_index: 149
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-13-sums-and-asymptotics

@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: f133d1a99a30470abc319ff77976efbf
 inline_embed_id: 58592223applyingthesecondfundamentaltheorem26459504
+order_index: 2229
 parent_uid: 9b4c6b77599861b820e8c804596b8c24
 related_resources_text: ''
 short_url: applying-the-second-fundamental-theorem

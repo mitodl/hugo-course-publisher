@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 6b7ae2b689bbe45b4ab825ce115b945b
 inline_embed_id: 48407547video7hierarchicalclusteringinr38618455
+order_index: 1376
 parent_uid: c0ef063dc722b998a530922a135bd19e
 related_resources_text: ''
 short_url: video-7-hierarchical-clustering-in-r-0

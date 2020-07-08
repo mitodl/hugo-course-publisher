@@ -58,6 +58,7 @@ embedded_media:
     type: Video
     uid: b86ddb8fe5ef3caa93eaad99d5672124
 inline_embed_id: 58225577lecture4eigenvaluesandeigenvectors78668964
+order_index: 61
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-4-eigenvalues-and-eigenvectors

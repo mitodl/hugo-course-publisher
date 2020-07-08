@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 75582f08ee962b24baef6c2e7b0d11e8
 inline_embed_id: 52099312graphingsurfaces35468591
+order_index: 710
 parent_uid: c2cc5b937ffbca979260841317394439
 related_resources_text: ''
 short_url: graphing-surfaces

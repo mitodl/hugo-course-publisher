@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: f06556989d94e29b78bf7bb1f3acbadf
 inline_embed_id: '1790551lecture10:dynamicprogramming:advanceddp47036974'
+order_index: 197
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-10-dynamic-programming-advanced-dp

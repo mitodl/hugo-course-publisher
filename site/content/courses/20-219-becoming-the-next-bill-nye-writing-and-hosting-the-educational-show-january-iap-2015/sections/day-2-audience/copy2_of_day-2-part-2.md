@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 519090565b9544aae34ff33da6405531
 inline_embed_id: 81856184thefirstbiobuilderanimation60190829
+order_index: 288
 parent_uid: 3da88bd7fc04b288622711604ae6a159
 related_resources_text: ''
 short_url: copy2_of_day-2-part-2

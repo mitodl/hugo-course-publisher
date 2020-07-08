@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: d48cd3492064358bec445f20c47d20c7
 inline_embed_id: '92559933clip1:introductiontocurvesketching31499627'
+order_index: 1259
 parent_uid: 9e376e9f57362241223df5e959ea707e
 related_resources_text: ''
 short_url: clip-1-introduction-to-curve-sketching

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: c13983254ffe80b47b3502e3a132b0bd
 inline_embed_id: '27089594clip1:thepowerrule35382205'
+order_index: 859
 parent_uid: 0cf2fa75aeb682dbf14c169c98cd1a15
 related_resources_text: ''
 short_url: clip-1-the-power-rule

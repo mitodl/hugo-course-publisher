@@ -51,6 +51,7 @@ embedded_media:
     type: Transcript
     uid: 121c9dd797bef0fda6cbd507efbc28bf
 inline_embed_id: 49990455video2buildingthedataset46085751
+order_index: 540
 parent_uid: a92dcb88eddd40ad72c0d5bc2288c90e
 related_resources_text: ''
 short_url: video-2-building-the-dataset-0

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: a9f960c8892a422cdf30e5d8d5a3e082
 inline_embed_id: '31419468clip2:valueofe,revisited65669782'
+order_index: 898
 parent_uid: 604424927fbe5ea476fd72662493105b
 related_resources_text: ''
 short_url: clip-2-value-of-e-revisited

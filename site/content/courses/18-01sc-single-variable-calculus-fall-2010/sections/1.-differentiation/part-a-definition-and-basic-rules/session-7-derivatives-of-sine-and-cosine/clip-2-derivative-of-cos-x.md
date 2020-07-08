@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: e6806be12e928d88a8f1c3eb33eac3df
 inline_embed_id: '40960345clip2:derivativeofcos(x)11969180'
+order_index: 357
 parent_uid: 118fc2aa2f82b0483267f66bf76b6ba7
 related_resources_text: ''
 short_url: clip-2-derivative-of-cos-x

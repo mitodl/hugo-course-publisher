@@ -68,6 +68,7 @@ embedded_media:
     type: Video
     uid: ba5b079e8ef63ebeab3fc3840e88e322
 inline_embed_id: 3886335asymptoticblunders44216085
+order_index: 1224
 parent_uid: 6874492c98166ab01d32ee77315bd540
 related_resources_text: ''
 short_url: asymptotic-blunders

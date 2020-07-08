@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 1ac560eb67c83217f2bd82aaaef209d1
 inline_embed_id: 68617594moreonthehydrogenatomdegeneraciesandorbits92012367
+order_index: 1193
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: more-on-the-hydrogen-atom-degeneracies-and-orbits

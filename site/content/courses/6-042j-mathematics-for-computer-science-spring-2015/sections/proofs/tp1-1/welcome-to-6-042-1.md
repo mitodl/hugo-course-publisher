@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 20f085626c3d14b168f51218ee9b9708
 inline_embed_id: 5884068welcometo6.04295865079
+order_index: 214
 parent_uid: ea224ef6f868e6dea69a53241486c324
 related_resources_text: ''
 short_url: welcome-to-6-042-1

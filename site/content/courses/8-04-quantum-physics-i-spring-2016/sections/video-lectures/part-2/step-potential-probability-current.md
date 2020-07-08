@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: a634531f76c7936d18e9e1a107748713
 inline_embed_id: 82183943steppotentialprobabilitycurrent13061523
+order_index: 912
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: step-potential-probability-current

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 7bf638d155f2c8d53464c3ca2a7274bb
 inline_embed_id: '17775652clip2:thefundamentaltheoremandnegativeintegrands25343498'
+order_index: 2091
 parent_uid: bdc58167f5508759dd279c33d7d08852
 related_resources_text: ''
 short_url: clip-2-the-fundamental-theorem-and-negative-integrands

@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 4594c4b9845153b2f3abc31e62e14abb
 inline_embed_id: 20180725video6theanalyticsedgeinsports54277215
+order_index: 444
 parent_uid: 9694655b13312f40a587b03a675d6122
 related_resources_text: ''
 short_url: video-6-the-analytics-edge-in-sports-0

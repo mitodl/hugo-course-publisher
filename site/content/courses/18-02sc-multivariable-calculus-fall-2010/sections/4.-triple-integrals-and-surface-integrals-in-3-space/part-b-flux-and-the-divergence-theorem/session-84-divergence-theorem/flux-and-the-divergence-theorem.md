@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 8820027fc796fb5a301e25c89759e764
 inline_embed_id: 89531837fluxandthedivergencetheorem62034699
+order_index: 2680
 parent_uid: d088492f402f9db5c30dcd82be2c37a6
 related_resources_text: ''
 short_url: flux-and-the-divergence-theorem

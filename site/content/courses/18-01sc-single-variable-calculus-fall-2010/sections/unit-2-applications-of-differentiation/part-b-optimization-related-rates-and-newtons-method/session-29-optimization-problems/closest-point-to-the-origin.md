@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 6c803a5ec7be9afd3ff08d8e81944781
 inline_embed_id: 70186662closestpointtotheorigin11283216
+order_index: 1356
 parent_uid: 588fcaecbbe5091660dfdf0b2efe6908
 related_resources_text: ''
 short_url: closest-point-to-the-origin

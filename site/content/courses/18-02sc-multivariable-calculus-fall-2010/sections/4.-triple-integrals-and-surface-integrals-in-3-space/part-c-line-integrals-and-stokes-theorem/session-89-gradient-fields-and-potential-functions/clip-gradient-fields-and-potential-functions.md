@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: dca3049afc625f618bf441ade7999653
 inline_embed_id: '84130464clip:gradientfieldsandpotentialfunctions43262056'
+order_index: 2837
 parent_uid: f5c1d74de71a42eef54e858fdda4ad8f
 related_resources_text: ''
 short_url: clip-gradient-fields-and-potential-functions

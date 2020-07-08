@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 839cbda63930eb9bc286febc408bbdd8
 inline_embed_id: 99966756asymptoticproperties44981459
+order_index: 1210
 parent_uid: f5736212af2cef408c06bbea00eb25c6
 related_resources_text: ''
 short_url: asymptotic-properties

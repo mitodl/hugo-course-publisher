@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 1823f9d509a10f7268d3f298470b0cab
 inline_embed_id: 83473187integrationbycompletingthesquare37469798
+order_index: 3054
 parent_uid: 3d81cd65aedbbd557617501fb6a0b493
 related_resources_text: ''
 short_url: integration-by-completing-the-square

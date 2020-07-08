@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 83004eabfd757ad4351c372de50f1cd1
 inline_embed_id: '98808030clip1:reviewofthefundamentaltheorem67450185'
+order_index: 2166
 parent_uid: 40dfd7f7252455d1041a5ecfb183cd9f
 related_resources_text: ''
 short_url: clip-1-review-of-the-fundamental-theorem

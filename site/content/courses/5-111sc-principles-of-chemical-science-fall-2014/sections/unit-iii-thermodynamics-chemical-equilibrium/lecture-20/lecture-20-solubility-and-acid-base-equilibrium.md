@@ -64,6 +64,7 @@ embedded_media:
     type: Video
     uid: eb44fed3b6d844234c7ba3a7eb1b8e10
 inline_embed_id: 85409979lecture20solubilityandacidbaseequilibrium78404986
+order_index: 414
 parent_uid: 080258a791c4feab68e52d45cb5fd92e
 related_resources_text: ''
 short_url: lecture-20-solubility-and-acid-base-equilibrium

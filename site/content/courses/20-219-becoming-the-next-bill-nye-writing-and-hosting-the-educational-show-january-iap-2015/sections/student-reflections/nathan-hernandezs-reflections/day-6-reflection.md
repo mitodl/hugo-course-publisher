@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 2a9167d4253976a7890ac846085c7709
 inline_embed_id: 1294847day6reflection70286884
+order_index: 1534
 parent_uid: f96632a88b4225f3f84e318abddd7856
 related_resources_text: ''
 short_url: day-6-reflection

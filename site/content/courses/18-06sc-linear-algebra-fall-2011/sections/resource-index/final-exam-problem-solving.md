@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: ecd3a56f499c4b1c6cf6351fcb44ec7c
 inline_embed_id: 38551283finalexamproblemsolving47812092
+order_index: 1741
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: final-exam-problem-solving

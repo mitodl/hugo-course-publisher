@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: ba0a1c66d058b62f991594957b42fa10
 inline_embed_id: 24889867pagerank55108497
+order_index: 1724
 parent_uid: 47abbae7418e0c77664265ad31d7e444
 related_resources_text: ''
 short_url: page-rank

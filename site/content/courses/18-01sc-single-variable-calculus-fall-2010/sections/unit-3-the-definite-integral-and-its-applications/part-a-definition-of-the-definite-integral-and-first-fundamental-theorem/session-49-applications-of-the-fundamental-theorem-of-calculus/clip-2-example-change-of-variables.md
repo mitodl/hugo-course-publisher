@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: a8c4acfcc1154667d20728a00a1d86c4
 inline_embed_id: '21982657clip2:example:changeofvariables79063132'
+order_index: 2129
 parent_uid: bd925f6f8a78fde6be8c709ded2799e9
 related_resources_text: ''
 short_url: clip-2-example-change-of-variables

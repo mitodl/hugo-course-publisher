@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 9c89c337739a09b2c8c253112e43c74f
 inline_embed_id: 6267227lecture25symmetricmatricesandpositivedefiniteness62744192
+order_index: 1542
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: lecture-25-symmetric-matrices-and-positive-definiteness

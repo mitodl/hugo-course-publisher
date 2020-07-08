@@ -35,6 +35,7 @@ embedded_media:
     type: Video
     uid: 74f6d360bb86f955bc73f6542ad5e01f
 inline_embed_id: '65796943clip:optimizationproblem82750579'
+order_index: 853
 parent_uid: c9676214b810ddca3b9ff7a223b17158
 related_resources_text: ''
 short_url: clip-optimization-problem

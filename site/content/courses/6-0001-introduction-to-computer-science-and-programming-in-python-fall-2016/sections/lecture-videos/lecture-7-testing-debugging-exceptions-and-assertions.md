@@ -59,6 +59,7 @@ embedded_media:
     type: Transcript
     uid: e21640d0692db33f9a68371c86191282
 inline_embed_id: 21349738lecture7testingdebuggingexceptionsandassertions56641852
+order_index: 66
 parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
 short_url: lecture-7-testing-debugging-exceptions-and-assertions

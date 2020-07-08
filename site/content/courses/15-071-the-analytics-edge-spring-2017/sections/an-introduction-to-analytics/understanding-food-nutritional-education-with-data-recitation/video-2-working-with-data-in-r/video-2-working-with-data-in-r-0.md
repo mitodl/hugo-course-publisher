@@ -57,6 +57,7 @@ embedded_media:
     type: Thumbnail
     uid: 9bbe0888cfeb121e66a37d548d5a6fdb
 inline_embed_id: 48680399video2workingwithdatainr49300577
+order_index: 209
 parent_uid: 2f4e613d5b817c86b63878b382d65963
 related_resources_text: ''
 short_url: video-2-working-with-data-in-r-0

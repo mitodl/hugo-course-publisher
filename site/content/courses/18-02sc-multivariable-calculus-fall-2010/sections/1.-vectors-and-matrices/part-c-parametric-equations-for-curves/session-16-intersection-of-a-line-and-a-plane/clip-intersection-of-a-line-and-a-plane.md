@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 6d64ae40bb1510622e04644778e593ea
 inline_embed_id: '44578179clip:intersectionofalineandaplane57817587'
+order_index: 484
 parent_uid: d48352f417dcb010c0a5ce62f99b2e0a
 related_resources_text: ''
 short_url: clip-intersection-of-a-line-and-a-plane

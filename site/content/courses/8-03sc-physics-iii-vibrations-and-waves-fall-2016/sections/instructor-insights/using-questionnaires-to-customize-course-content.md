@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: c096f8143d5241de2f6445f98c043a8c
 inline_embed_id: 76834139usingquestionnairestocustomizecoursecontent34133790
+order_index: 96
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
 related_resources_text: ''
 short_url: using-questionnaires-to-customize-course-content

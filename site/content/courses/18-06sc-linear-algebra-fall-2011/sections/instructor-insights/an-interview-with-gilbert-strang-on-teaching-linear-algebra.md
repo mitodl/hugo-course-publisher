@@ -63,6 +63,7 @@ embedded_media:
     type: null
     uid: 102a1a49073fe197ec787cd66e2cf261
 inline_embed_id: 56960708aninterviewwithgilbertstrangonteachinglinearalgebra83873651
+order_index: 740
 parent_uid: df093ac7c42d8cf33aeb2ba906d4fedc
 related_resources_text: ''
 short_url: an-interview-with-gilbert-strang-on-teaching-linear-algebra

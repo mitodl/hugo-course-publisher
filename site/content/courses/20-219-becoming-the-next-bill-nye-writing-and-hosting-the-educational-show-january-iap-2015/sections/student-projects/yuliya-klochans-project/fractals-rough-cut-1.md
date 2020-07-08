@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: dd69e471797b7248e831bd49080c1358
 inline_embed_id: 23933172fractals!roughcut38835763
+order_index: 1316
 parent_uid: 199a8a68327fee7d62ee54642710c541
 related_resources_text: ''
 short_url: fractals-rough-cut-1

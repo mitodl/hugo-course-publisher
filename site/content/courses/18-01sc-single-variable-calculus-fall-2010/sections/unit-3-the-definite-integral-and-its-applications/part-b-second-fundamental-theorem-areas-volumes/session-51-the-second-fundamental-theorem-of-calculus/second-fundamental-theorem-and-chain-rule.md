@@ -58,6 +58,7 @@ embedded_media:
     type: Video
     uid: f16abc5d933dbd181bd574340de0341a
 inline_embed_id: 31015776secondfundamentaltheoremandchainrule35351481
+order_index: 2239
 parent_uid: 9b4c6b77599861b820e8c804596b8c24
 related_resources_text: ''
 short_url: second-fundamental-theorem-and-chain-rule

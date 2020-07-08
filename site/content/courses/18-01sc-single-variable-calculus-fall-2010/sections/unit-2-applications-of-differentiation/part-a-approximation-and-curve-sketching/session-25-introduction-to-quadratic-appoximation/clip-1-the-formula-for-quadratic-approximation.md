@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: a9aae941ca06d82a265a891247da40e0
 inline_embed_id: '24219717clip1:theformulaforquadraticapproximation4952989'
+order_index: 1153
 parent_uid: c5bed9b53f5684d68d5b41fd3419190b
 related_resources_text: ''
 short_url: clip-1-the-formula-for-quadratic-approximation

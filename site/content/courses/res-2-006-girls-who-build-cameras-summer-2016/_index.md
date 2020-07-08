@@ -40,6 +40,12 @@ course_info:
     - Supplemental Resources
   course_features:
     - feature: This Course at MIT
+    - feature: Lecture notes
+      subfeature: Complete
+    - feature: Image Gallery
+    - feature: Image Gallery
+    - feature: Assignments
+      subfeature: programming with examples
   topics:
     Energy:
       Technology: []

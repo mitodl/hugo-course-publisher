@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 95db0f3630df06b067bf2c35e6fed4ef
 inline_embed_id: '84366399lecture6:recursion63364945'
+order_index: 107
 parent_uid: 99fb7e49022e2ef590b8a591159332ed
 related_resources_text: ''
 short_url: lecture-6-recursion

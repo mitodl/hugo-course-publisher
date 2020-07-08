@@ -31,6 +31,7 @@ embedded_media:
     type: Video
     uid: 81d1f2f3ac17c6b418d71db589a81a82
 inline_embed_id: '27520158projectpresentations3:initialdesignreview35220622'
+order_index: 142
 parent_uid: cc396362e27aa4169fbb66fd1cb19b76
 related_resources_text: ''
 short_url: project-presentations-3-initial-design-review

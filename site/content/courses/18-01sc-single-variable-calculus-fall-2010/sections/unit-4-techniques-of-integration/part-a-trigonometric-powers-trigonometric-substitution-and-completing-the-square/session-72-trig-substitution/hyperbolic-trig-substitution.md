@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 95f4e1eecb7e2fc77a060fb5b6bf53ed
 inline_embed_id: 67634226hyperbolictrigsubstitution3076624
+order_index: 3028
 parent_uid: 9894378ce8db90173778fc7a13cad022
 related_resources_text: ''
 short_url: hyperbolic-trig-substitution

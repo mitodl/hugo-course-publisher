@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 148bf2cbebf71e030cbefe8274767a30
 inline_embed_id: '99741113lecture10:introductiontolearning,nearestneighbors34547889'
+order_index: 109
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
 short_url: lecture-10-introduction-to-learning-nearest-neighbors

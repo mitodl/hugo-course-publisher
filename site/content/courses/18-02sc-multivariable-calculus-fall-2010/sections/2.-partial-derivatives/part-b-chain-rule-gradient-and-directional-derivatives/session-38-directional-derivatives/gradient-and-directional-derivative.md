@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 8b80ce9453e4216e1493d99c3ca90304
 inline_embed_id: 77349852gradientanddirectionalderivative10919181
+order_index: 1178
 parent_uid: 39fb1a7a22ea5009fdbd92b8775e6362
 related_resources_text: ''
 short_url: gradient-and-directional-derivative

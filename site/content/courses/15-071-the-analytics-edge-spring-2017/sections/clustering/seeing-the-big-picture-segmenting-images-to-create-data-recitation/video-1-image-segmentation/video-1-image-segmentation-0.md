@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: a1ad45ac7c9ecd6a7e049bcf076086af
 inline_embed_id: 83527279video1imagesegmentation80688469
+order_index: 1462
 parent_uid: 0282bf34dfbdc2eabaaf5214f299362b
 related_resources_text: ''
 short_url: video-1-image-segmentation-0

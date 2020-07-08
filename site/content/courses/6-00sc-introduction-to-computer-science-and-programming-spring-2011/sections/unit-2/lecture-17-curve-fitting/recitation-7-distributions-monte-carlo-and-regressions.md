@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: a5226bd242a7ab68582c7316508f30e2
 inline_embed_id: '87066705recitation7:distributions,montecarlo,andregressions30785540'
+order_index: 350
 parent_uid: e632ebd50e8f47bb2666d9152f62e9e4
 related_resources_text: ''
 short_url: recitation-7-distributions-monte-carlo-and-regressions

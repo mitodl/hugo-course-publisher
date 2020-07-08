@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 7e7f56de55279db2193360448aed439b
 inline_embed_id: 96770776nathan'svideo73990471
+order_index: 1029
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
 related_resources_text: ''
 short_url: copy_of_day-13

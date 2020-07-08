@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: dc6d040d8ec82087896f99983f762104
 inline_embed_id: '25511204lecture17:bellman-ford81065216'
+order_index: 216
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-17-bellman-ford

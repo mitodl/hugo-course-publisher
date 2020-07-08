@@ -50,6 +50,7 @@ embedded_media:
     type: Transcript
     uid: 2c0103c885c26e3188d504ac71abdb00
 inline_embed_id: 59498249sampleclass37170367
+order_index: 41
 parent_uid: 1b6858820e39dbc6ba03dc47858871bd
 related_resources_text: ''
 short_url: sample-class

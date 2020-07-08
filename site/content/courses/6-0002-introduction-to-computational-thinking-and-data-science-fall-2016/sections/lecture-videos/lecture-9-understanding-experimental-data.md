@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 6c6f282a087eec7fd7bb854e0644950c
 inline_embed_id: 40738544lecture9understandingexperimentaldata93332342
+order_index: 86
 parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
 short_url: lecture-9-understanding-experimental-data

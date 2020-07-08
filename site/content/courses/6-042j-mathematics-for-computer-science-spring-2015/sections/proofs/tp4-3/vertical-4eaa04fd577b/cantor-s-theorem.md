@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 7fdf84764a99545c4357cb28e47f6670
 inline_embed_id: 74749527cantorstheorem34259149
+order_index: 622
 parent_uid: 3ff95f518a19e1941fc4a5346971b130
 related_resources_text: ''
 short_url: cantor-s-theorem

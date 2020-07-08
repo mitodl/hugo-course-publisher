@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 2e5207fe16133137d0c2bc1f31aad3d8
 inline_embed_id: 42860741lecture4stochasticthinking93413630
+order_index: 36
 parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
 short_url: lecture-4-stochastic-thinking

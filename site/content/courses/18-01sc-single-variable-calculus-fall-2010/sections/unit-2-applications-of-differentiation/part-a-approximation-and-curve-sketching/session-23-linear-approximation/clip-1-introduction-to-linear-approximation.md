@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 08ed206d651ac4481f3768f203b60d46
 inline_embed_id: '92544605clip1:introductiontolinearapproximation90338670'
+order_index: 1022
 parent_uid: 6c111f0f1d0b5fade36a1ca3687104d2
 related_resources_text: ''
 short_url: clip-1-introduction-to-linear-approximation

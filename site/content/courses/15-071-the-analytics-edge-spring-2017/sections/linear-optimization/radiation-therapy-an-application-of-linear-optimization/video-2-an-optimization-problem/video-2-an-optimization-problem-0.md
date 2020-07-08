@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: bf399e99ee750527761b38b6b417e70a
 inline_embed_id: 23287815video2anoptimizationproblem62382137
+order_index: 1899
 parent_uid: 98a5789ba2031300ac3e513ddaf88866
 related_resources_text: ''
 short_url: video-2-an-optimization-problem-0

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 3083f26b65cde9f1ebe1e3c06a3469a4
 inline_embed_id: '16844079clip1:introductiontocomparison80190577'
+order_index: 3966
 parent_uid: ed231e9c56356bb1e18c555d00f08398
 related_resources_text: ''
 short_url: clip-1-introduction-to-comparison

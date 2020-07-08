@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 932d7ae920a4d3a653080359cc44fa3d
 inline_embed_id: 25563956constantmultiplerule22550974
+order_index: 320
 parent_uid: a50336604c88798f90662c641ab35802
 related_resources_text: ''
 short_url: constant-multiple-rule

@@ -27,7 +27,7 @@ Other optional textbooks:
 *   [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0073523372/ref=nosim/mitopencourse-20) Budd, Timothy. _Exploring Python_. McGraw-Hill Science, 2009. ISBN: 9780073523378.
 *   Shaw, Zed A. [_Learn Python the Hard Way_](http://learnpythonthehardway.org/book/). (Available to read on the web for free. Also available as [PDF download, ePub download, or printed book](http://learnpythonthehardway.org/) mailed to you, each at a low cost.
 *   Swaroop, CH. [_A Byte of Python_](http://www.ibiblio.org/swaroopch/byteofpython/read/).
-*   [_Dive into Python_](http://www.diveintopython.net/toc/index.html) by Mark Pilgrim
+*   [_Dive into Python_](https://www.amazon.com/Dive-into-Python-Mark-Pilgrim/dp/1430224150) by Mark Pilgrim
 *   [_Code Like a Pythonista: Idiomatic Python_](https://web.archive.org/web/20180129225229/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html) by David Goodger
 *   The [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) is not too bad. This is a work in progress, often minimal.
 

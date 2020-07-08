@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 940c4e96fbdd66f72743034d3bbb8cf7
 inline_embed_id: 43016653lecture34kineticscatalysts51977494
+order_index: 638
 parent_uid: 105db3eea1cd57ff7cf174d083c0cfb3
 related_resources_text: ''
 short_url: lecture-34-kinetics-catalysts

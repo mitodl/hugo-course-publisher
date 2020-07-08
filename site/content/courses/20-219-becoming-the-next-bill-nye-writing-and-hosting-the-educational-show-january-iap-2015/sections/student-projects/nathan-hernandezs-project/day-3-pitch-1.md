@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 7c32dcf9b1e96775b289b8ed446e5546
 inline_embed_id: 46350567day3pitch99450995
+order_index: 1244
 parent_uid: 65f298a79f2a0550e78ed9fc7ff17ff4
 related_resources_text: ''
 short_url: day-3-pitch-1

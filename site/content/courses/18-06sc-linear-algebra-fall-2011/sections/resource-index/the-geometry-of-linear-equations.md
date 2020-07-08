@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 3933d35fa9950c46f96ec190724ec9b0
 inline_embed_id: 71379845thegeometryoflinearequations1355539
+order_index: 1008
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: the-geometry-of-linear-equations

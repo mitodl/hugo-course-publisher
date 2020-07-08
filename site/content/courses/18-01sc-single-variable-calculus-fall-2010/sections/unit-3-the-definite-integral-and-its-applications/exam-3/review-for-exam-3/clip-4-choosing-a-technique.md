@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: e7da284272917314e3c7b77bd5671214
 inline_embed_id: '58866521clip4:choosingatechnique88615896'
+order_index: 2805
 parent_uid: 28c8d6e8c2c0dfa62a9b458789417a05
 related_resources_text: ''
 short_url: clip-4-choosing-a-technique

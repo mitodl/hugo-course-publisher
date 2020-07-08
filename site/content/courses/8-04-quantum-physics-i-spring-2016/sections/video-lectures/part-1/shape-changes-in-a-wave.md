@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 07231bf0857646880bd8a30ed5f9a86f
 inline_embed_id: 40753469shapechangesinawave13207902
+order_index: 355
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: shape-changes-in-a-wave

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 90c2a4a978294a8d52eca3beead28193
 inline_embed_id: '30233852clip7:keyconceptsindifferentiation2013712'
+order_index: 998
 parent_uid: 0bc7f9cd2fd4599019832c45df40e073
 related_resources_text: ''
 short_url: clip-7-key-concepts-in-differentiation

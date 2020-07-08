@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: df2af3a8a78cf7470a4eed99e59d19de
 inline_embed_id: '26398218clip:diffusionequation6597354'
+order_index: 2765
 parent_uid: 7564bb64749a9b689ece4277dd91ada1
 related_resources_text: ''
 short_url: clip-diffusion-equation

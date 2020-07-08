@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 08e75fba377d801d7588da1db65925aa
 inline_embed_id: '7610964workshop:paul''sscript66671771'
+order_index: 429
 parent_uid: 36586ba568db37caa516348b595214d8
 related_resources_text: ''
 short_url: copy6_of_day-3-part-1

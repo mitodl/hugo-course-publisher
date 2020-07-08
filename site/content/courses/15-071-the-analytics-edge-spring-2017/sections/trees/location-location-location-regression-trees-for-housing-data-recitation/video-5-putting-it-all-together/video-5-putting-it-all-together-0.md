@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: e3c2331f1f65fee8081d218e89646f0e
 inline_embed_id: 55313628video5puttingitalltogether36854245
+order_index: 996
 parent_uid: aad83d5378a1ef15e27fe7684e1f8761
 related_resources_text: ''
 short_url: video-5-putting-it-all-together-0

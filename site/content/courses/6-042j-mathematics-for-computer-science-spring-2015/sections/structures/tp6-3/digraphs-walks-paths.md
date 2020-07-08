@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 7af5fe519a8f3633d75033bce414cdb0
 inline_embed_id: 1483164digraphswalksamppaths21544485
+order_index: 825
 parent_uid: 711aeeca155265f221e5af2643f1a05f
 related_resources_text: ''
 short_url: digraphs-walks-paths

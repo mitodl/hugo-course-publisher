@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 3e8a5f6adb0f1b53a0194efc4b2045bc
 inline_embed_id: 7868323adobeillustrator22779263
+order_index: 770
 parent_uid: dd2e906439f582927c78a9141317dcc6
 related_resources_text: ''
 short_url: adobe-illustrator

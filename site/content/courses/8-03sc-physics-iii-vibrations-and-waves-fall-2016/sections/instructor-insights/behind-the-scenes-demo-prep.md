@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 1ec12082fb33f2f8d5be39fa088c3549
 inline_embed_id: 12119959behindthescenesdemoprep74315502
+order_index: 69
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
 related_resources_text: ''
 short_url: behind-the-scenes-demo-prep

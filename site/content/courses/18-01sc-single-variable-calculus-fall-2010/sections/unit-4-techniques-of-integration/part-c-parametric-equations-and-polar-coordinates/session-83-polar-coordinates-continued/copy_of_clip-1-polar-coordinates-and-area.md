@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 8119ab9763dc9e057a1a344471174e0c
 inline_embed_id: '4402949clip2:areaofanoff-centercircle86692307'
+order_index: 3518
 parent_uid: 48426d55f5c623f4eacc4fd415a7a577
 related_resources_text: ''
 short_url: copy_of_clip-1-polar-coordinates-and-area

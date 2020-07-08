@@ -77,6 +77,7 @@ embedded_media:
     type: Transcript
     uid: 714804e48bdb7ea29ed0de9a68b27a82
 inline_embed_id: '33613495lecture13:newton''smethod19055107'
+order_index: 257
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

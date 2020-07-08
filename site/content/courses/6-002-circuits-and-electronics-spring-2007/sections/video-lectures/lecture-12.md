@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: 89b2d8dd1e54df812a5d8f769c3c9baf
 inline_embed_id: '11232168lecture12:capacitorsandfirst-ordersystems66930944'
+order_index: 261
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture notes (<a target="_blank" title="Open in a new window."

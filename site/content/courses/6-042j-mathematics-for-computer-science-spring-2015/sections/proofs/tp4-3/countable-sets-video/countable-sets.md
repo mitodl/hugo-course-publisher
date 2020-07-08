@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 523488453667e0ad1847d0bbbbf95a75
 inline_embed_id: 5175719countablesets27736720
+order_index: 610
 parent_uid: ce0115c8a168b1d5e094c10c79df8a3a
 related_resources_text: ''
 short_url: countable-sets

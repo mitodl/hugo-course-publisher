@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 09f4054efa05c5af4f70682a8520e536
 inline_embed_id: 33007227problemsolvingmarkovmatrices39681625
+order_index: 1503
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: problem-solving-markov-matrices

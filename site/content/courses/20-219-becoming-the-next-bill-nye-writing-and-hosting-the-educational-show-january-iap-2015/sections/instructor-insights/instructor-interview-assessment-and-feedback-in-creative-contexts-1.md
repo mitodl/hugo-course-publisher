@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: f24b171e6708deb9dda270f73184b708
 inline_embed_id: '12451981instructorinterview:assessmentandfeedbackincreativecontexts19668936'
+order_index: 64
 parent_uid: 526193cf30dacdf1c6734faab57d51d7
 related_resources_text: ''
 short_url: instructor-interview-assessment-and-feedback-in-creative-contexts-1

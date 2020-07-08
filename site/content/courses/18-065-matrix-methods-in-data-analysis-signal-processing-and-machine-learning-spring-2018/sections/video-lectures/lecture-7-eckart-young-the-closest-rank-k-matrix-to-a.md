@@ -50,6 +50,7 @@ embedded_media:
     type: Transcript
     uid: ff816b72dd24944a5441e0da6d17d848
 inline_embed_id: 25111586lecture7eckartyoungtheclosestrankkmatrixtoa61211654
+order_index: 88
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-7-eckart-young-the-closest-rank-k-matrix-to-a

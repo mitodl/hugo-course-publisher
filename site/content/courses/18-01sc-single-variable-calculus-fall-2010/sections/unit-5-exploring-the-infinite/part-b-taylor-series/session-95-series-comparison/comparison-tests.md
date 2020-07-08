@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 837f6a0c1162914dae781ca7d8670f3b
 inline_embed_id: 99841700comparisontests19472025
+order_index: 4113
 parent_uid: e6b5bcf01d4fe02cb8f15ed900b23542
 related_resources_text: ''
 short_url: comparison-tests

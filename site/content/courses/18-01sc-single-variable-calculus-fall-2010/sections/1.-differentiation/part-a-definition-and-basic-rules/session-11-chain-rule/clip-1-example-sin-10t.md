@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: acfd88bd99c9bbc3a21388e1f68360cc
 inline_embed_id: '17360706clip1:example:sin(10t)55962103'
+order_index: 529
 parent_uid: 68feb14ba590b3b088c989717ae12492
 related_resources_text: ''
 short_url: clip-1-example-sin-10t

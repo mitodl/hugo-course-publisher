@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 5da864466da2f87328d8cd56f64b2ed7
 inline_embed_id: 7361321ps.1.3workedexamplebrakingcar53658773
+order_index: 375
 parent_uid: c00c7194c0cea091fd9bc5f3ba49fe85
 related_resources_text: ''
 short_url: ps.1.3-worked-example-braking-car

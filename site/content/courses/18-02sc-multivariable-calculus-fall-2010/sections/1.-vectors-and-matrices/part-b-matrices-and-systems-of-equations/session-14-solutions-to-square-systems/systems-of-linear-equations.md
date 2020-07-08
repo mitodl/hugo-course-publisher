@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 1c55cb7d5a3ca312c4276957bf386b6e
 inline_embed_id: 77881025systemsoflinearequations45775188
+order_index: 426
 parent_uid: 7d94f07b8bc70601a9431aa48d6b4518
 related_resources_text: ''
 short_url: systems-of-linear-equations

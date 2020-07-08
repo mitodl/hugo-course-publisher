@@ -27,6 +27,7 @@ embedded_media:
     type: Video
     uid: 97bb22d8a1d71f4456c55bfd8b77b574
 inline_embed_id: '78419415teamfirebolt:post-flightinterview42716427'
+order_index: 1119
 parent_uid: 87e8f47c351cccd450e9b5e03c5bbee2
 related_resources_text: ''
 short_url: team-firebolt-post-flight-interview

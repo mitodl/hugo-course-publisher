@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 25e3e91245720b31a9e6faff2550b304
 inline_embed_id: 97445713integrationinpolarcoordinates25804557
+order_index: 1540
 parent_uid: 526fb43eaa2051870cb72c769f2c80ae
 related_resources_text: ''
 short_url: integration-in-polar-coordinates

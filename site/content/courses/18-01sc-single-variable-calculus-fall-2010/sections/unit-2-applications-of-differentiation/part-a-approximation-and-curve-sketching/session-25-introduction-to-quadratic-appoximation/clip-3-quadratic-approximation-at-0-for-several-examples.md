@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 3b2a868a386780a7092f4e175869bbfd
 inline_embed_id: '67575670clip3:quadraticapproximationat0forseveralexamples21477400'
+order_index: 1173
 parent_uid: c5bed9b53f5684d68d5b41fd3419190b
 related_resources_text: ''
 short_url: clip-3-quadratic-approximation-at-0-for-several-examples

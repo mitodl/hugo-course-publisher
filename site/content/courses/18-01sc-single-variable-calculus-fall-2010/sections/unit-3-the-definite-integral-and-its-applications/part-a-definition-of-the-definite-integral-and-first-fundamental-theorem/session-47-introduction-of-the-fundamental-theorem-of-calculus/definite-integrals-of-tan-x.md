@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 9baa0100e0faae4cee92f6508b93288d
 inline_embed_id: 71811078definiteintegralsoftan(x)54079337
+order_index: 2064
 parent_uid: 49d44d0cd4d7368fb65410f6924c7265
 related_resources_text: ''
 short_url: definite-integrals-of-tan-x

@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 8b02a3ad4c5d90b73f75e1b390a1721e
 inline_embed_id: 21148109thechainrulewithconstraints37057107
+order_index: 1325
 parent_uid: a853b2a1cf33cf9421984d602044e1f1
 related_resources_text: ''
 short_url: the-chain-rule-with-constraints

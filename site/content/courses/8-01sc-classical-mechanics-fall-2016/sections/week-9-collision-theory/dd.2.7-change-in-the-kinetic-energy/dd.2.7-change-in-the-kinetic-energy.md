@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: d7ab69d765bcd6c078cc7a7931024c77
 inline_embed_id: 39725381dd.2.7changeinthekineticenergy53108384
+order_index: 1847
 parent_uid: 4f7d82e573ddc5e12a96aef184e27ed2
 related_resources_text: ''
 short_url: dd.2.7-change-in-the-kinetic-energy

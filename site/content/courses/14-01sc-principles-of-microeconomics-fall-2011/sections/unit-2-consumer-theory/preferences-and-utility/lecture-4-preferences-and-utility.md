@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: d934e29b6bca3654b1824640b1c81565
 inline_embed_id: 6353102lecture4preferencesandutility67850987
+order_index: 92
 parent_uid: eba60351486e44573f84ae3b47789fde
 related_resources_text: ''
 short_url: lecture-4-preferences-and-utility

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 4be297a938cecfe10bf4d0ce1901d739
 inline_embed_id: '18997053clip3:graphingarationalfunction42696680'
+order_index: 1279
 parent_uid: 9e376e9f57362241223df5e959ea707e
 related_resources_text: ''
 short_url: clip-3-graphing-a-rational-function

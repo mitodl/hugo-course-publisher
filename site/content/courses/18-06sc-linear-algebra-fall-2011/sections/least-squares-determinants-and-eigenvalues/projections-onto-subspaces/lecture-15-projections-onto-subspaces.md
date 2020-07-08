@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: ed854c34567ad397e0a58ea8fc6f8240
 inline_embed_id: '40314206lecture15:projectionsontosubspaces13347893'
+order_index: 423
 parent_uid: 1ff24ba867b5ac72fcad41dcf3e79e10
 related_resources_text: ''
 short_url: lecture-15-projections-onto-subspaces

@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 82a1fc692dc29f8fe81467a5e4b2d533
 inline_embed_id: 23772630unitsofhandcomptonwavelengthofparticles85505838
+order_index: 138
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: units-of-h-and-compton-wavelength-of-particles

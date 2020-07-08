@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 614c4182360468036fd22924a266f89a
 inline_embed_id: '95338991clip2:logofaproduct23698198'
+order_index: 2323
 parent_uid: 435c91b08acc9a35fc0748ce22a11bfe
 related_resources_text: ''
 short_url: clip-2-log-of-a-product

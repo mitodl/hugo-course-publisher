@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 68835eb5e0dc61ed496ca86c7d7f0e68
 inline_embed_id: 49862033workedexamplestackedblockschoosingthesystemof2blockstogether22741022
+order_index: 611
 parent_uid: 00aef6423d37f1e08db3ced31e4003c0
 related_resources_text: ''
 short_url: worked-example-stacked-blocks-choosing-the-system-of-2-blocks-together

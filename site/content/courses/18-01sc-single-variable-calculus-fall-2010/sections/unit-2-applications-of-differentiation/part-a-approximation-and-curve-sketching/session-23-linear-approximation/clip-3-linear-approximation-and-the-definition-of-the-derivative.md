@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 658b627d4d0c7d60eb77d9ca1ef4c89d
 inline_embed_id: '10556114clip3:linearapproximationandthedefinitionofthederivative96826538'
+order_index: 1042
 parent_uid: 6c111f0f1d0b5fade36a1ca3687104d2
 related_resources_text: ''
 short_url: clip-3-linear-approximation-and-the-definition-of-the-derivative

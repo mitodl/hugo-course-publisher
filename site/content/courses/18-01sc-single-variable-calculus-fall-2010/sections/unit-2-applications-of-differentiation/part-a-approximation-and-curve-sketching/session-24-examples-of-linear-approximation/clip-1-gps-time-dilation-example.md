@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: b020382192ba477d172b8a901262e6c0
 inline_embed_id: '92787713clip1:gpstimedilationexample68678953'
+order_index: 1114
 parent_uid: 332503c09be8a2d7ca749e218630b6f3
 related_resources_text: ''
 short_url: clip-1-gps-time-dilation-example

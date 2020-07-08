@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 861567e5b040ab7e5482274288e759d3
 inline_embed_id: '97306094clip:stokes''theoremandsurfaceindependence27934830'
+order_index: 3014
 parent_uid: f551eb109c522f31323984495ef23ce8
 related_resources_text: ''
 short_url: clip-stokes-theorem-and-surface-independence

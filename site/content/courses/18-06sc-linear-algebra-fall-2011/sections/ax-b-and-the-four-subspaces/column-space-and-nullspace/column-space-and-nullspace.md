@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 87195a4d09000a26b603d11907aeadbc
 inline_embed_id: 78781921columnspaceandnullspace57241018
+order_index: 194
 parent_uid: bb16f055bb0c2fa6b00b24a82c138877
 related_resources_text: ''
 short_url: column-space-and-nullspace

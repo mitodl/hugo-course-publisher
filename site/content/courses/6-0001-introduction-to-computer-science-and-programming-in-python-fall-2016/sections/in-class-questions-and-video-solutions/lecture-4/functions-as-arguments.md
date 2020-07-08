@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: ca122e722bfeff9e093bb067a32c1233
 inline_embed_id: 76919519functionsasarguments47303806
+order_index: 266
 parent_uid: 828237fdefb50c6943b83bf16ff40267
 related_resources_text: ''
 short_url: functions-as-arguments

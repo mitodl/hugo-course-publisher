@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 541f2f4cef2dcec45104d9d606a00a6a
 inline_embed_id: 20901896adobepremier92129651
+order_index: 750
 parent_uid: dd2e906439f582927c78a9141317dcc6
 related_resources_text: ''
 short_url: adobe-premier

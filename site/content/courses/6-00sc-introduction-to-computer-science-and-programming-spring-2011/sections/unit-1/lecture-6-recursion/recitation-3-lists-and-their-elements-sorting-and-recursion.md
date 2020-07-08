@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: bd0b26917c0e75ee66919c504028c6c0
 inline_embed_id: '93718823recitation3:listsandtheirelements,sorting,andrecursion49664383'
+order_index: 117
 parent_uid: 99fb7e49022e2ef590b8a591159332ed
 related_resources_text: ''
 short_url: recitation-3-lists-and-their-elements-sorting-and-recursion

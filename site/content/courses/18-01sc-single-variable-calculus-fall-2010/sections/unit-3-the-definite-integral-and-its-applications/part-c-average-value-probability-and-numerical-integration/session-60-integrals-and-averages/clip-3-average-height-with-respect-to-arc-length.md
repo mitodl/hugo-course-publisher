@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: b90e47b130660b68487676372916ab5d
 inline_embed_id: '28916412clip3:averageheightwithrespecttoarclength66011951'
+order_index: 2530
 parent_uid: 7e226a8ff6296ef690524c46584132b9
 related_resources_text: ''
 short_url: clip-3-average-height-with-respect-to-arc-length

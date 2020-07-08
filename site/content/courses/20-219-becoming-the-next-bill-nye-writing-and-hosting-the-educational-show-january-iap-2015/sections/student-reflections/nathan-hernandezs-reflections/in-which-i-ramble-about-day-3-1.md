@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 8a1b5478e12c100f94b6a897d894784e
 inline_embed_id: 98259151inwhichirambleaboutday365675548
+order_index: 1504
 parent_uid: f96632a88b4225f3f84e318abddd7856
 related_resources_text: ''
 short_url: in-which-i-ramble-about-day-3-1

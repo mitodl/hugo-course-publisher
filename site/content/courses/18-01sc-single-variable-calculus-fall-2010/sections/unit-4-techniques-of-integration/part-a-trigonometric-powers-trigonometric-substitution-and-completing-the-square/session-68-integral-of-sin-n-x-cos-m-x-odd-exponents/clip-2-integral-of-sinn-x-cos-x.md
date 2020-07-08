@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 69bac62d89bd1529592f3f9c1e8baf49
 inline_embed_id: '27664632clip2:integralofsinn(x)cos(x)71878033'
+order_index: 2840
 parent_uid: f914f1dccfe8c98b34b42bcf2aa6e075
 related_resources_text: ''
 short_url: clip-2-integral-of-sinn-x-cos-x

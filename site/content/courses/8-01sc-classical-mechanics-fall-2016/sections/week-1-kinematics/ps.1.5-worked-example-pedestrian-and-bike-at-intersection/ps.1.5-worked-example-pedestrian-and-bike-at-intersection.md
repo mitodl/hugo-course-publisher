@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: c3530b9b82cf295015b9b9a275fd5293
 inline_embed_id: 85043544ps.1.5workedexamplepedestrianandbikeatintersection52624981
+order_index: 399
 parent_uid: 78b6dfdb143437ce0d071e7e7521a24e
 related_resources_text: ''
 short_url: ps.1.5-worked-example-pedestrian-and-bike-at-intersection

@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 3a97a80059ab949c5892835ed6ba63c5
 inline_embed_id: 81488321slidingladder68930293
+order_index: 1453
 parent_uid: 740c26e9a52f298e76ec9fb9679d1f19
 related_resources_text: ''
 short_url: sliding-ladder

@@ -50,6 +50,7 @@ embedded_media:
     type: Video
     uid: fdfbe7e975c7f4f31fb519fc2d721b03
 inline_embed_id: 46509537uniqueaspectsofthecourse48149977
+order_index: 29
 parent_uid: e75a8c08e11786c535031b5e10f0fe19
 related_resources_text: ''
 short_url: unique-aspects-of-the-course

@@ -21,6 +21,7 @@ embedded_media:
     type: Video
     uid: 89a35a483107a765744d51d1f0ddb326
 inline_embed_id: '326020samplelecturep9:energyexchangewithmovingblades99028394'
+order_index: 571
 parent_uid: 05b2ba6343e43028bad4cdf50e0b363a
 related_resources_text: ''
 short_url: sample-lecture-p9-energy-exchange-with-moving-blades

@@ -50,6 +50,7 @@ embedded_media:
     type: Video
     uid: cf484ed4703ded7b9fb297fdc0a7c94e
 inline_embed_id: 3614345activelearningactivitydrawingpictures4149480
+order_index: 101
 parent_uid: e75a8c08e11786c535031b5e10f0fe19
 related_resources_text: ''
 short_url: drawing-pictures

@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 56caf38b434dc52da97dd3a4bed3af47
 inline_embed_id: 86945568localpictureofthewavefunction33973842
+order_index: 701
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: local-picture-of-the-wavefunction

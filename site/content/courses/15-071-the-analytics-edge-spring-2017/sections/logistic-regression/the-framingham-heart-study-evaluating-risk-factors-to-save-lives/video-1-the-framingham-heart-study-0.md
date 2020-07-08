@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: d9a6477ccb2d23e0d0d41ea3594d1674
 inline_embed_id: 88540367video1theframinghamheartstudy23608627
+order_index: 619
 parent_uid: 58bb606548df9c3a8c148318a4e0e5c7
 related_resources_text: ''
 short_url: video-1-the-framingham-heart-study-0

@@ -91,6 +91,7 @@ embedded_media:
     type: Transcript
     uid: 65eadd76260f4b34c70ddab2d6821796
 inline_embed_id: '8178521718:presentingsimulationresults,pylab,plotting19197164'
+order_index: 261
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

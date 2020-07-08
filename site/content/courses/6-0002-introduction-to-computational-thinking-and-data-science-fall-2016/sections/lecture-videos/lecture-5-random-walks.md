@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 015cb4ce06d560a0d703c39876011d83
 inline_embed_id: 77737560lecture5randomwalks20231958
+order_index: 46
 parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
 short_url: lecture-5-random-walks

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: d40ef5bc5ec2cff051921796c7eb5992
 inline_embed_id: '23326555clip4:animproperintegralofthesecondkind79450561'
+order_index: 4032
 parent_uid: f502f183c03e6d5e51e824f9afc4cf8c
 related_resources_text: ''
 short_url: clip-4-an-improper-integral-of-the-second-kind

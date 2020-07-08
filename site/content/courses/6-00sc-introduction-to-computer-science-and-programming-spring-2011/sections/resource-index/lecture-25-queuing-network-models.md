@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 0842b2b4e205636fc8369f77c2e460f6
 inline_embed_id: 33234272lecture25queuingnetworkmodels99301970
+order_index: 895
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: lecture-25-queuing-network-models

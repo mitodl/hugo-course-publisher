@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: a7d6c1acde6d3ca405007950ada463e9
 inline_embed_id: '98709812clip1:integralofcos2(x)62793746'
+order_index: 2896
 parent_uid: 60fd16b3d72fefca72098904f15c0f02
 related_resources_text: ''
 short_url: clip-1-integral-of-cos2-x

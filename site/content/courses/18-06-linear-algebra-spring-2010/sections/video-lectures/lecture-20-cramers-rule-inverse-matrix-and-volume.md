@@ -85,6 +85,7 @@ embedded_media:
     type: Transcript
     uid: c79da10f06678235cc0a6b9bd45b8481
 inline_embed_id: '25911595lecture20:cramer''srule,inversematrix,andvolume79431093'
+order_index: 305
 parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"

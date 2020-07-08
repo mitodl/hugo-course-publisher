@@ -67,6 +67,7 @@ embedded_media:
     type: Video
     uid: f8477ffbc2d489ed5145c3ffd73b225b
 inline_embed_id: '96191954clip4:integralof1/x44158134'
+order_index: 3907
 parent_uid: 3fa268819900b3ee4bc8d590323f17dc
 related_resources_text: ''
 short_url: clip-4-integral-of-1-x

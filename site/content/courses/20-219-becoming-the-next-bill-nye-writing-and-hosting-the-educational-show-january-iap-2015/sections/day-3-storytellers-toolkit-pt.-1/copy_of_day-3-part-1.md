@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 87a1a5f81eebd4f942c8c0a847e03cad
 inline_embed_id: 78258083guidelinesforscriptwriting30467437
+order_index: 379
 parent_uid: 36586ba568db37caa516348b595214d8
 related_resources_text: ''
 short_url: copy_of_day-3-part-1

@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: fcc2c8f7f400e30d537822dc94a7478d
 inline_embed_id: 27886125blackboxandglassboxtesting24421320
+order_index: 318
 parent_uid: f61732313f529164402d295ceb4706e8
 related_resources_text: ''
 short_url: black-box-and-glass-box-testing

@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 33f59e201f119b68e1015b800b728af3
 inline_embed_id: 8825006recursionrelationforthesolution41137848
+order_index: 828
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: recursion-relation-for-the-solution

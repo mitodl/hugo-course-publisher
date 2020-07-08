@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: d891faaef203f94b4ff0f3ee48e68565
 inline_embed_id: 90095561lecture9fourwaystosolveleastsquaresproblems89720209
+order_index: 106
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-9-four-ways-to-solve-least-squares-problems

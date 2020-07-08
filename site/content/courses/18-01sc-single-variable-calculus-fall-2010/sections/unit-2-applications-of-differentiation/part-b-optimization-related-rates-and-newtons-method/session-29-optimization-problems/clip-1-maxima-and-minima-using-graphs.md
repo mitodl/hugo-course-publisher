@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 1eceb0a63f5b4744b9267dbbaaac6e4a
 inline_embed_id: '70274612clip1:maximaandminimausinggraphs81985468'
+order_index: 1336
 parent_uid: 588fcaecbbe5091660dfdf0b2efe6908
 related_resources_text: ''
 short_url: clip-1-maxima-and-minima-using-graphs

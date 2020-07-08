@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 8e0d633df65dbc1075b88d502b5f1433
 inline_embed_id: 85414628video5worldmapsinr69789641
+order_index: 1747
 parent_uid: 3ba39db4a883d8dbc319e06abeaa21a5
 related_resources_text: ''
 short_url: video-5-world-maps-in-r-0

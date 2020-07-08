@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 97452070114dfa2cbffe7f01369b3a6d
 inline_embed_id: '37927291clip2:derivativeofax;logarithmic53094555'
+order_index: 839
 parent_uid: 0cf2fa75aeb682dbf14c169c98cd1a15
 related_resources_text: ''
 short_url: clip-2-derivative-of-ax-logarithmic

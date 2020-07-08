@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 793850d727f7c9633e8b853a3f6e04d6
 inline_embed_id: 12714318eliminationwithmatrices81668946
+order_index: 85
 parent_uid: 060c0abff39949c6f5beff6291e747a5
 related_resources_text: ''
 short_url: elimination-with-matrices

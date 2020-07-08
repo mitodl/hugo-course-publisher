@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: b27167293de2ff39176b2f7a5482b2b4
 inline_embed_id: '67319579clip5:mainformula76955758'
+order_index: 68
 parent_uid: c25a5592cbb582539daea82e3aeeda33
 related_resources_text: ''
 short_url: clip-5-main-formula

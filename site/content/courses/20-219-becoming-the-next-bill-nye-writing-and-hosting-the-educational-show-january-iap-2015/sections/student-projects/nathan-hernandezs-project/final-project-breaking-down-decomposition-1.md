@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: d1fe10f5781418fa87fae8391a4ac1fa
 inline_embed_id: '69411187finalproject:breakingdowndecomposition57792217'
+order_index: 1264
 parent_uid: 65f298a79f2a0550e78ed9fc7ff17ff4
 related_resources_text: ''
 short_url: final-project-breaking-down-decomposition-1

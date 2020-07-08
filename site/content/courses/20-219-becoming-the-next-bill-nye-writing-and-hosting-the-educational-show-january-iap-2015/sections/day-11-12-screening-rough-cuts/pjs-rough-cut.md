@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: ddebe6cba29af766a25d3b3ed7b6459a
 inline_embed_id: 69752218pj'sroughcut49996687
+order_index: 858
 parent_uid: 91a83a5a9923d001da64fbbcd37341cb
 related_resources_text: ''
 short_url: pjs-rough-cut

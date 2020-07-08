@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 89e187e1d74ce08afc05ec1f0852f1f6
 inline_embed_id: 82087575trigintegralsandavolumeofrevolution50783722
+order_index: 2880
 parent_uid: f914f1dccfe8c98b34b42bcf2aa6e075
 related_resources_text: ''
 short_url: trig-integrals-and-a-volume-of-revolution

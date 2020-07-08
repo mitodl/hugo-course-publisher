@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 28ca58862fdfd54a204d953c84e89da1
 inline_embed_id: 75009641syntheticbiologyandstabilityanalysisinthetoggleswitch78735640
+order_index: 44
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: synthetic-biology-and-stability-analysis-in-the-toggle-switch

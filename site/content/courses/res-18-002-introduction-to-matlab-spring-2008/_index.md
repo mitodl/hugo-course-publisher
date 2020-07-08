@@ -28,7 +28,11 @@ course_info:
     - Prof. Joseph Farjoun
   departments:
     - Supplemental Resources
-  course_features: []
+  course_features:
+    - feature: Online textbooks
+      subfeature: PDF
+    - feature: Assignments
+      subfeature: programming (no examples)
   topics:
     Engineering:
       Computer Science:

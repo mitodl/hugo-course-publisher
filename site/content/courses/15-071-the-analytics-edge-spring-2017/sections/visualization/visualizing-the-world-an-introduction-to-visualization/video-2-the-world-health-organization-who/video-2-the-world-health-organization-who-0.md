@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 202bf8edd96d44db3079fd50585ff216
 inline_embed_id: 42676921video2theworldhealthorganizationwho98655925
+order_index: 1562
 parent_uid: c0e12457eea57533f2df4a7f420a5b38
 related_resources_text: ''
 short_url: video-2-the-world-health-organization-who-0

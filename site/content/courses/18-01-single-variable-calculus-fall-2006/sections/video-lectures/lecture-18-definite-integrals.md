@@ -76,6 +76,7 @@ embedded_media:
     type: Transcript
     uid: 4f841c762eac5e5f4de8fdcf93765bba
 inline_embed_id: '29128839lecture18:definiteintegrals53971768'
+order_index: 309
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

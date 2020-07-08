@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 7ccdb15bed42697a7c9758cdd54f4ffb
 inline_embed_id: 22097142rulesoflogs71780445
+order_index: 869
 parent_uid: 0cf2fa75aeb682dbf14c169c98cd1a15
 related_resources_text: ''
 short_url: rules-of-logs

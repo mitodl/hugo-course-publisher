@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: adc12cc06396adecde1eb59ce19e0a18
 inline_embed_id: 73900799halfwidthandtimedelay52367408
+order_index: 1003
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: half-width-and-time-delay

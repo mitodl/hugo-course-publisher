@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 7d6a35b87b4a5129323875e5b5b865d9
 inline_embed_id: 69017214david'svideo76581569
+order_index: 1009
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
 related_resources_text: ''
 short_url: davids-video

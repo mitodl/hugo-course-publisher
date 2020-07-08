@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: a1e8bb80820d42f2a0dd894bd94482bf
 inline_embed_id: 28225492week10introduction55949601
+order_index: 1860
 parent_uid: 24520484076716312e08ec037e0da137
 related_resources_text: ''
 short_url: week-10-introduction

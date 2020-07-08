@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: ed4a22c0fe86109d1fc4e24230a04cc3
 inline_embed_id: '57041664clip:ndsforasurfacez=f(x,y)71841303'
+order_index: 2620
 parent_uid: d2fa06a08024e0282fdf891fe896985d
 related_resources_text: ''
 short_url: clip-nds-for-a-surface-z-f-x-y

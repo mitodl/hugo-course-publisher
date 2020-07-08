@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 4e4338beb34ce863cfaa8e0f677fca43
 inline_embed_id: 84136307video3asophisticatedbaselinemethod65632103
+order_index: 719
 parent_uid: e6c5cd7b6c458a54bf3513e7c7c4921e
 related_resources_text: ''
 short_url: video-3-a-sophisticated-baseline-method-0

@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: ab68e7e94291613c466ab81a2ae49ecc
 inline_embed_id: 68202161meantimetofailure59083403
+order_index: 1562
 parent_uid: 55648eb42206ad2fd86df7a74b886ba5
 related_resources_text: ''
 short_url: mean-time-to-failure

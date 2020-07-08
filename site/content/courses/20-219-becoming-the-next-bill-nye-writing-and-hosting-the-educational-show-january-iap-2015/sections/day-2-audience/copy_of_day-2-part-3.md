@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: cbabebce926abbebd7b496a3b1b8cb2c
 inline_embed_id: 28498190recapofthemiddleschoolconsultations64245941
+order_index: 298
 parent_uid: 3da88bd7fc04b288622711604ae6a159
 related_resources_text: ''
 short_url: copy_of_day-2-part-3

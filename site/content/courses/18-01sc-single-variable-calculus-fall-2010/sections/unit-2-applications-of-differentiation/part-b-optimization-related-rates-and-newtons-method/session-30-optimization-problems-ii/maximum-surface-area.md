@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 840d0c3f5fe9c8d690e6ac359262b476
 inline_embed_id: 20409834maximumsurfacearea39493013
+order_index: 1393
 parent_uid: 1adc3400c6b37f82e7f65de33469e2b6
 related_resources_text: ''
 short_url: maximum-surface-area

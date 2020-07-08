@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: e8e8d8f33e926ae8f9fc857b069dd8e3
 inline_embed_id: 83664451lecture26whatdocomputerscientistsdo95814601
+order_index: 905
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: lecture-26-what-do-computer-scientists-do

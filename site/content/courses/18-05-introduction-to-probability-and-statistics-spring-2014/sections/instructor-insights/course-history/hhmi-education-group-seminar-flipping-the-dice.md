@@ -50,6 +50,7 @@ embedded_media:
     type: Transcript
     uid: 0ee456d55fc0f129f2b9c564fa4e28d2
 inline_embed_id: '2311755hhmieducationgroupseminar:flippingthedice99001180'
+order_index: 22
 parent_uid: 2d69a0de0f5808a23880f4a28f594d72
 related_resources_text: ''
 short_url: hhmi-education-group-seminar-flipping-the-dice

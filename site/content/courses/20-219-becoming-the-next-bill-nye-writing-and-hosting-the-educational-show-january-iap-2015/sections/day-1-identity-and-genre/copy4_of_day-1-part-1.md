@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 5442ee8f0ecfc102c15d773751f460f9
 inline_embed_id: '39882094in-classactivity:educationalvideoanalysis75288718'
+order_index: 156
 parent_uid: e7ab07a59bf478a18a95a815093ec211
 related_resources_text: ''
 short_url: copy4_of_day-1-part-1

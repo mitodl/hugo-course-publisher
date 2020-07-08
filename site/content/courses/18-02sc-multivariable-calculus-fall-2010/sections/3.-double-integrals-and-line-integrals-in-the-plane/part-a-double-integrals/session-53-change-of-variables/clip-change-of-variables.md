@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: 478db7b8bde3000f4ea0a8c4785841fa
 inline_embed_id: '98788581clip:changeofvariables48525455'
+order_index: 1632
 parent_uid: efa093dc347fd4af527f1b857bb14f2c
 related_resources_text: ''
 short_url: clip-change-of-variables

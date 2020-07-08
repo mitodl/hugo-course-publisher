@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: d069133969f8b75dcead5f94fd13b472
 inline_embed_id: '47432365lecture5:objectsinpython58439804'
+order_index: 90
 parent_uid: 138c881e91b66b62fdc82ea403e07fc5
 related_resources_text: ''
 short_url: lecture-5-objects-in-python

@@ -52,6 +52,7 @@ embedded_media:
     uid: 2df6e41a3be9d91d1e88412f163ffdb7
 inline_embed_id: >-
   43973738courseiterationincorporatingtheoreticalcontentanddemonstrations11740287
+order_index: 114
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
 related_resources_text: ''
 short_url: course-iteration

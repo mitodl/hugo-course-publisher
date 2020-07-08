@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 175b569ed616924ef976e10e339c8b93
 inline_embed_id: 22598167lecture6derivingdemandcurves15338572
+order_index: 132
 parent_uid: e0983a2e16f737a8ad574f6bb67502e5
 related_resources_text: ''
 short_url: lecture-6-deriving-demand-curves

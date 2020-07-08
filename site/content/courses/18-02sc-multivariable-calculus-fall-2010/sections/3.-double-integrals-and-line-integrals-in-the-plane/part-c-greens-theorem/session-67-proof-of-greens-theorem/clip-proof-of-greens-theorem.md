@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: 54f4a9a3b9e26e78e6643d4a46451972
 inline_embed_id: '71794805clip:proofofgreen''stheorem30470957'
+order_index: 2079
 parent_uid: 213ba9d9b90914c618611b9025c7869d
 related_resources_text: ''
 short_url: clip-proof-of-greens-theorem

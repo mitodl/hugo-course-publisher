@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 3e37b9068afc35fddd8c797b053256d6
 inline_embed_id: 93315444translationoperator.centralpotentials78621774
+order_index: 1023
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: translation-operator.-central-potentials

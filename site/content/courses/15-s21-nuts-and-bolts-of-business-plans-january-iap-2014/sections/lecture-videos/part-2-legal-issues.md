@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: e935436ba1442c88df02dede6f468499
 inline_embed_id: '6070819part2:legalissues51804030'
+order_index: 84
 parent_uid: 7425dbab24bd40b9d0c0c704cab7eab2
 related_resources_text: ''
 short_url: part-2-legal-issues

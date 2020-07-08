@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 8c727dfcbbe91a62638ab5a4051ebaf2
 inline_embed_id: '17954351mega-recitation3:games,minimax,alpha-beta5029076'
+order_index: 270
 parent_uid: 6be7704ddfe26b4e12703167347dd5bb
 related_resources_text: "<p><a href=\"./resolveuid/152ed05f169a4db08df7ae2b5a81895a\" target=\"_blank\">Quiz 2, Fall 2007 (PDF)</a><br />\r\n<a href=\"./resolveuid/b44d4614a858950c7dfea5e00ed4b1f2\" target=\"_blank\">Quiz 2, Fall 2008 (PDF)</a></p>"
 short_url: mega-recitation-3-games-minimax-alpha-beta

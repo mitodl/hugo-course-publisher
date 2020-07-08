@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 02be16de6b4cdbcda81cb7f028e025f6
 inline_embed_id: 28281553video3thevariables65178703
+order_index: 865
 parent_uid: f5fa573c282cd989480a6234fdec7162
 related_resources_text: ''
 short_url: video-3-the-variables-0

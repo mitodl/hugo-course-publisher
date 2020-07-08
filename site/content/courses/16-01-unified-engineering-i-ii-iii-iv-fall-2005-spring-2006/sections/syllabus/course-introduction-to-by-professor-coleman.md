@@ -21,6 +21,7 @@ embedded_media:
     type: Video
     uid: d7b1d0881dd0649cd44e86fa5b3f400f
 inline_embed_id: 11148338courseintroductiontobyprofessorcoleman47496830
+order_index: 15
 parent_uid: c4fd6fd61378ecf4a56ab73c6b455e18
 related_resources_text: ''
 short_url: course-introduction-to-by-professor-coleman

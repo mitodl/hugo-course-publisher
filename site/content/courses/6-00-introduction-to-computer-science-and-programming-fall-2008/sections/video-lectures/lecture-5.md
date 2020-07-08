@@ -91,6 +91,7 @@ embedded_media:
     type: Transcript
     uid: aca8e0e670a548c867e609ddcc1abd14
 inline_embed_id: '370621465:floatingpointnumbers,successiverefinement,findingroots69937476'
+order_index: 67
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 89d6f7126371d0ea56ce63daddbcfd83
 inline_embed_id: 83192004robustnessandbacterialchemotaxis87555935
+order_index: 124
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: robustness-and-bacterial-chemotaxis

@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: f6d9ef9b7eed35a0511198a15310bb5b
 inline_embed_id: 15263687video6roccurves58657797
+order_index: 586
 parent_uid: f62162651257bdbe48268a5e5b311096
 related_resources_text: ''
 short_url: video-6-roc-curves-0

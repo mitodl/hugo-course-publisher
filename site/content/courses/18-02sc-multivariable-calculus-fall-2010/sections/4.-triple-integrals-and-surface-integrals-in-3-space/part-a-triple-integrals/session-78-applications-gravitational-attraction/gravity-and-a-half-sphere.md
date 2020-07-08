@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 579ef0e755f69628408b1b86523df9b8
 inline_embed_id: 87061227gravityandahalf-sphere89034004
+order_index: 2490
 parent_uid: 8a9672904a3f5c9cc88bb651406304a8
 related_resources_text: ''
 short_url: gravity-and-a-half-sphere

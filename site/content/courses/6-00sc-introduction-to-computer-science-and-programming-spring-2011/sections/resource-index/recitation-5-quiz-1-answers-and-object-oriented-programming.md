@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 229e5e95e0c59ad514595c8847b62a2c
 inline_embed_id: 59734426recitation5quiz1answersandobjectorientedprogramming25897260
+order_index: 715
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: recitation-5-quiz-1-answers-and-object-oriented-programming

@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: d078f93e66f9234820fe172a05248492
 inline_embed_id: '43475206clip3:newton''smethod:whatcouldgowrong?80583116'
+order_index: 1525
 parent_uid: 08bcebd887ee223af84741f0fef4d632
 related_resources_text: ''
 short_url: clip-3-newtons-method-what-could-go-wrong

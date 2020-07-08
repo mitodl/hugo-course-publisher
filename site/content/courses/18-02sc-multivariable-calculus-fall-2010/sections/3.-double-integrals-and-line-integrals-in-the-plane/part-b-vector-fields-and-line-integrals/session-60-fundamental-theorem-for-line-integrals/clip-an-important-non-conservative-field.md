@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 17c0e7dfd7885bef7a7277d1ff01bdf0
 inline_embed_id: '38827075clip:animportantnon-conservativefield4863781'
+order_index: 1877
 parent_uid: 5959801571e055a7023b590e1522b972
 related_resources_text: ''
 short_url: clip-an-important-non-conservative-field

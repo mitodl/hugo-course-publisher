@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: ea82575bf78339915123d8554690c361
 inline_embed_id: '93469948clip:cylindricalcoordinates47333405'
+order_index: 2340
 parent_uid: 6369fc2c0ed673b1973ba7af526cb70d
 related_resources_text: ''
 short_url: clip-cylindrical-coordinates

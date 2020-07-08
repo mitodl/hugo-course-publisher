@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: aeb4dcca4b3ed721da77c7ecbe41e671
 inline_embed_id: 60339599quadraticapproximationofanexponentialfunction37853587
+order_index: 1183
 parent_uid: c5bed9b53f5684d68d5b41fd3419190b
 related_resources_text: ''
 short_url: quadratic-approximation-of-an-exponential-function

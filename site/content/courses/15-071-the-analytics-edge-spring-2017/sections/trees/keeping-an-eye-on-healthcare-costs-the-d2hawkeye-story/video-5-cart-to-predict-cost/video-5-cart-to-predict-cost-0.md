@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 9a409476e06b9c8932274fadbe69c9c3
 inline_embed_id: 99127988video5carttopredictcost18784228
+order_index: 888
 parent_uid: 41da33e58a10b265e28e4f6bd320913a
 related_resources_text: ''
 short_url: video-5-cart-to-predict-cost-0

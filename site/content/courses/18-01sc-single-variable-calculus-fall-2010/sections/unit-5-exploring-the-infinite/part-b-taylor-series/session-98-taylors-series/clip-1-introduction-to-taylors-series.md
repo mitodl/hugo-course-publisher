@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 6030bf94e18f6962ba7e4b00a2236d94
 inline_embed_id: '23486113clip1:introductiontotaylor''sseries42621044'
+order_index: 4275
 parent_uid: 30f32e825b1a1974da6c98b8de0aafd3
 related_resources_text: ''
 short_url: clip-1-introduction-to-taylors-series

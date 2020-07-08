@@ -85,6 +85,7 @@ embedded_media:
     type: Transcript
     uid: 795ec49bab9b2df7a52337ea15ca6d3d
 inline_embed_id: '1780787lecture13:quiz1review7989559'
+order_index: 214
 parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"

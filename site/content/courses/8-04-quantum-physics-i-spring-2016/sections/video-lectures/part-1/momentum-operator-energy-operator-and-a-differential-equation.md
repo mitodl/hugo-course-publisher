@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 3fe795be1dc70fea3f2087fb5599b48c
 inline_embed_id: 27695388momentumoperatorenergyoperatorandadifferentialequation21243978
+order_index: 223
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: momentum-operator-energy-operator-and-a-differential-equation

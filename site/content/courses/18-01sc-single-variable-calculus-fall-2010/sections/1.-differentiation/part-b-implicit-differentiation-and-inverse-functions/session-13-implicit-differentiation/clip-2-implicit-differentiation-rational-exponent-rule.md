@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 46bc03fe029b5cf9efecb1be14382937
 inline_embed_id: '31882804clip2:implicitdifferentiation:rationalexponentrule16913670'
+order_index: 595
 parent_uid: 796ea10c25d27cfaf1a12bb6262c8bff
 related_resources_text: ''
 short_url: clip-2-implicit-differentiation-rational-exponent-rule

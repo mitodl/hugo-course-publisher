@@ -37,7 +37,9 @@ course_info:
     - Prof. Gilbert Strang
   departments:
     - Supplemental Resources
-  course_features: []
+  course_features:
+    - feature: Online textbooks
+      subfeature: PDF
   topics:
     Mathematics:
       Calculus: []

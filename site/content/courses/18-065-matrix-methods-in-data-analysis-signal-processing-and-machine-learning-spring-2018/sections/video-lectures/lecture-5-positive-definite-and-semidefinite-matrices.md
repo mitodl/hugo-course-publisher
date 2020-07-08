@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: aa5ab981a9e97aebb941b52fc3a10578
 inline_embed_id: 42797807lecture5positivedefiniteandsemidefinitematrices76140079
+order_index: 70
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-5-positive-definite-and-semidefinite-matrices

@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 84bd66920688369129cf3d9900d060b2
 inline_embed_id: 13007276lecture8normsofvectorsandmatrices97302910
+order_index: 97
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-8-norms-of-vectors-and-matrices

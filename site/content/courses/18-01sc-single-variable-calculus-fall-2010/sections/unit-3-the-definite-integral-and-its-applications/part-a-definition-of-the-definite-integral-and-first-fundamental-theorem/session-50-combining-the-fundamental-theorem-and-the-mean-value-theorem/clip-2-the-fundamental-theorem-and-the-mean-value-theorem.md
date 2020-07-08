@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 42e371a940dec6ad02e91835872f8fd1
 inline_embed_id: '28354424clip2:thefundamentaltheoremandthemeanvaluetheorem76918002'
+order_index: 2176
 parent_uid: 40dfd7f7252455d1041a5ecfb183cd9f
 related_resources_text: ''
 short_url: clip-2-the-fundamental-theorem-and-the-mean-value-theorem

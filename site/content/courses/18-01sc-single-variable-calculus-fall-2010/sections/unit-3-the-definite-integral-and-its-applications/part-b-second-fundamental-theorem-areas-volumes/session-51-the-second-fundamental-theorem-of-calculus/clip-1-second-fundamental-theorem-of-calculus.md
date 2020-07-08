@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: a11e4f5050cf7f17c67168b03f593ff3
 inline_embed_id: '40549220clip1:secondfundamentaltheoremofcalculus93084152'
+order_index: 2209
 parent_uid: 9b4c6b77599861b820e8c804596b8c24
 related_resources_text: ''
 short_url: clip-1-second-fundamental-theorem-of-calculus

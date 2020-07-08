@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: e4e6a00061f027661d48e9022244afa6
 inline_embed_id: '44767193clip1:introductionofproductandquotientrules31325176'
+order_index: 434
 parent_uid: d35aadf5c6d2e1543aee74e2dfdda970
 related_resources_text: ''
 short_url: clip-1-introduction-of-product-and-quotient-rules

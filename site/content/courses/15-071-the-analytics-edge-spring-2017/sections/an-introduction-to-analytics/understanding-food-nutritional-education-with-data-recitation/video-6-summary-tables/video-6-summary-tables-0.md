@@ -51,6 +51,7 @@ embedded_media:
     type: Thumbnail
     uid: 7a25d63116e8a07f73adba6e23a56c8a
 inline_embed_id: 80191414video6summarytables34417084
+order_index: 251
 parent_uid: 34529fa513c12be0756196f923431249
 related_resources_text: ''
 short_url: video-6-summary-tables-0

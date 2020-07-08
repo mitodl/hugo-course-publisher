@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: aadfab94551bed253cd6b993b11a56ae
 inline_embed_id: '3612561clip4:simpson''srule60537155'
+order_index: 2695
 parent_uid: be07f2bde3305a676f66884dbf8397d1
 related_resources_text: ''
 short_url: clip-4-simpsons-rule

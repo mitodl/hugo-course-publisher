@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 135aaaf277589e24651a3ac75249a0cd
 inline_embed_id: 85581514rocketsleddifferentialequation96111912
+order_index: 1267
 parent_uid: ce8e09d4807a942257ee603eabb68035
 related_resources_text: ''
 short_url: rocket-sled-differential-equation

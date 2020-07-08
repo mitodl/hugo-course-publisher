@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 27f7eee3bbcede9fee2ff4b695f333c5
 inline_embed_id: '60287434clip1:slopeoftangenttocircle:direct10465038'
+order_index: 613
 parent_uid: 331d135eb8244bc35069e7f2d86beb59
 related_resources_text: ''
 short_url: clip-1-slope-of-tangent-to-circle-direct

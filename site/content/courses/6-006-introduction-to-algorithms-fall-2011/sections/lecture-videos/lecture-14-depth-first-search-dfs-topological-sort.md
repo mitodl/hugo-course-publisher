@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 069371b08a87cc88b7bf4a57e1a696e7
 inline_embed_id: '23350279lecture14:depth-firstsearch(dfs),topologicalsort28769727'
+order_index: 186
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-14-depth-first-search-dfs-topological-sort

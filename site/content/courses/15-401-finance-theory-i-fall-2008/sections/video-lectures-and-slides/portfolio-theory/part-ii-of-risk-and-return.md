@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: d8c456a2f91063804021d906081e73f5
 inline_embed_id: 29057030partiofportfoliotheory24606286
+order_index: 194
 parent_uid: ea1103393932e4b93082f9274ac55b6f
 related_resources_text: ''
 short_url: part-ii-of-risk-and-return

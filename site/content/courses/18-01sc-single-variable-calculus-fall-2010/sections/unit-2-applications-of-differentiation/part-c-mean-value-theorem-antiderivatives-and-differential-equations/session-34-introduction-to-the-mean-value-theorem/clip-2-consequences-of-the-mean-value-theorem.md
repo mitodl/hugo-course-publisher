@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: ea3d0551356605088c0fe07150e97fc0
 inline_embed_id: '56099720clip2:consequencesofthemeanvaluetheorem53458443'
+order_index: 1556
 parent_uid: 7a88ceaa20502ee6fbc4c0ceeb51122e
 related_resources_text: ''
 short_url: clip-2-consequences-of-the-mean-value-theorem

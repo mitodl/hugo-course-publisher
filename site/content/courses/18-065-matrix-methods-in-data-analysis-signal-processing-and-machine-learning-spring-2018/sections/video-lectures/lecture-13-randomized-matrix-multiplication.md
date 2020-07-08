@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: a8ad0acf5210502b9aac07f66ff4e301
 inline_embed_id: 75368087lecture13randomizedmatrixmanipulation16325157
+order_index: 143
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-13-randomized-matrix-multiplication

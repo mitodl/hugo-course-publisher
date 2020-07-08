@@ -35,7 +35,9 @@ course_info:
     - Prof. Patrick Winston
   departments:
     - Supplemental Resources
-  course_features: []
+  course_features:
+    - feature: AV lectures
+      subfeature: Video
   topics:
     Teaching and Education:
       Curriculum and Teaching: []

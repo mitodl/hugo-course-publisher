@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 774bfdf04635f9101182cdc07be27001
 inline_embed_id: '49460327lecture8:hashingwithchaining50456703'
+order_index: 126
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-8-hashing-with-chaining

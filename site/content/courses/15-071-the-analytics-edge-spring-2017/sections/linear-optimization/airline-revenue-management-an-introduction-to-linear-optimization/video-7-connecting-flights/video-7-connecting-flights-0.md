@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 7981cec799c06916ca520564956f46f0
 inline_embed_id: 23528354video7connectingflights54723045
+order_index: 1866
 parent_uid: 80f150bc38fd0f8475f7ccfe876f7744
 related_resources_text: ''
 short_url: video-7-connecting-flights-0

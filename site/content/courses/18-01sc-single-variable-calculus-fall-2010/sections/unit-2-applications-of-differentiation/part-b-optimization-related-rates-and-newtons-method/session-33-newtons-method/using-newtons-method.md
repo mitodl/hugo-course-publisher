@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: a955378466b21e0a90a98256a30611b2
 inline_embed_id: 10527998usingnewton'smethod11846290
+order_index: 1495
 parent_uid: 08bcebd887ee223af84741f0fef4d632
 related_resources_text: ''
 short_url: using-newtons-method

@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 2e33ccc981a0366afd205116b2fef800
 inline_embed_id: '7697518day3trailer:subdivisionpitch39952142'
+order_index: 1202
 parent_uid: 265dbc3150c1a4e14686f6c614415b05
 related_resources_text: ''
 short_url: day-3-trailer-subdivision-pitch

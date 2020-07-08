@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: f5e7852456491df72db2234a172d272e
 inline_embed_id: 92989301ludecomposition77243200
+order_index: 1107
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: lu-decomposition

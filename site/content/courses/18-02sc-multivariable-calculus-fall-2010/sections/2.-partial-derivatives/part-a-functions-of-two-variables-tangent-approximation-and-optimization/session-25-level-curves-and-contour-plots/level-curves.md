@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 9e7adeea96f21ff68a415d1d02ae8a9b
 inline_embed_id: 94555694levelcurves62364618
+order_index: 751
 parent_uid: 1d6472489b24f4368ee8e9e8a2dd7c81
 related_resources_text: ''
 short_url: level-curves

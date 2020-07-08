@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: fb94c1e00eed6ff1b6df95718026fc85
 inline_embed_id: '48630180clip1:integralof1/(xp)85679469'
+order_index: 3918
 parent_uid: 3fa268819900b3ee4bc8d590323f17dc
 related_resources_text: ''
 short_url: clip-1-integral-of-1-xp

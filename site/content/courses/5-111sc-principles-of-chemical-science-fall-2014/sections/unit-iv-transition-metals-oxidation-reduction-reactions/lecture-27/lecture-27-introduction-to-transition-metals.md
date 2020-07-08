@@ -64,6 +64,7 @@ embedded_media:
     type: Transcript
     uid: d1e9e74478ba816f1d88655b7b70e135
 inline_embed_id: 22620193lecture27introductiontotransitionmetals11211456
+order_index: 533
 parent_uid: c49bcae20a4ca2c2df6ffcf549f3c5f3
 related_resources_text: ''
 short_url: lecture-27-introduction-to-transition-metals

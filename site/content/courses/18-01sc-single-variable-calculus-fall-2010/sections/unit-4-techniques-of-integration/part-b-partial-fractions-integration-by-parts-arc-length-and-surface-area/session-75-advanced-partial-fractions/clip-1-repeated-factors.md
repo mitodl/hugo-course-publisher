@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: f036488ba782ddec0a6d5aa100a69f69
 inline_embed_id: '36445004clip1:repeatedfactors80575716'
+order_index: 3117
 parent_uid: b2d9964453e89357525c798ec9a77daf
 related_resources_text: ''
 short_url: clip-1-repeated-factors

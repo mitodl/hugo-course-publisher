@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 62fe40ca950683aadad094415f2cd598
 inline_embed_id: '92234564clip:otherwaystofindnds7517618'
+order_index: 2642
 parent_uid: 3fca6127615a7e82becef2e551d0f223
 related_resources_text: ''
 short_url: clip-other-ways-to-find-nds

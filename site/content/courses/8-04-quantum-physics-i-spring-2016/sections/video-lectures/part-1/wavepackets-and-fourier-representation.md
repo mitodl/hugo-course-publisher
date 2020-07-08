@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 44ccbcbb18ef6afe2010d7277219d4f8
 inline_embed_id: 12437246wavepacketsandfourierrepresentation59062683
+order_index: 322
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: wavepackets-and-fourier-representation

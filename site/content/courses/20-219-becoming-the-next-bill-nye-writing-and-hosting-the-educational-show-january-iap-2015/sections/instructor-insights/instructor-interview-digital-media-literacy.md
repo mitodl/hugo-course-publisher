@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: cacc3ec65c50ebea986597ca3d8aa12c
 inline_embed_id: '31663061instructorinterview:digitalmedialiteracy70585679'
+order_index: 54
 parent_uid: 526193cf30dacdf1c6734faab57d51d7
 related_resources_text: ''
 short_url: instructor-interview-digital-media-literacy

@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 70b99e8e2a840ca5e695dbcb8c108e0b
 inline_embed_id: 70460043variancevideo27063093
+order_index: 1630
 parent_uid: efa2fcf6c3494d78c828caf2c2299d36
 related_resources_text: ''
 short_url: variance

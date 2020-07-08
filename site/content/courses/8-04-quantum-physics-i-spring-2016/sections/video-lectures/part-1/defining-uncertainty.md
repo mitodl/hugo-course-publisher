@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 10b5b471ee5636cd0a73e51149554375
 inline_embed_id: 64936768defininguncertainty25330696
+order_index: 476
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: defining-uncertainty

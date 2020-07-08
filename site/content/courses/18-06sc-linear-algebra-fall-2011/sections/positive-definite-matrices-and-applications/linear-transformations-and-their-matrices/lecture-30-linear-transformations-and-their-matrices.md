@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 7fbfd49430e9ad811842767639c10f7f
 inline_embed_id: '11241904lecture30:lineartransformationsandtheirmatrices31527444'
+order_index: 909
 parent_uid: 9b3392d99bebd11047c36d07bc404bbc
 related_resources_text: ''
 short_url: lecture-30-linear-transformations-and-their-matrices

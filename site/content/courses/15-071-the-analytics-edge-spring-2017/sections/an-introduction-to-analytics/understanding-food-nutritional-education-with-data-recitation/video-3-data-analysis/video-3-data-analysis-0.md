@@ -57,6 +57,7 @@ embedded_media:
     type: Thumbnail
     uid: 0f58e2212f002943ded0b76aba62d74f
 inline_embed_id: 43990927video3dataanalysis36049110
+order_index: 220
 parent_uid: 6ad5f5f03eab95b2b2855fe1042f41da
 related_resources_text: ''
 short_url: video-3-data-analysis-0

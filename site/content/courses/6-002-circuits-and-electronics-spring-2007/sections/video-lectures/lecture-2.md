@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: 628843d8fd14ed2947f898aa4baf7da4
 inline_embed_id: '16750704lecture2:basiccircuitanalysismethod5284659'
+order_index: 129
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture notes (<a target="_blank" title="Open in a new window."

@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 53b887ef6a2bc4dd66f7c776ace2e6ba
 inline_embed_id: 21440793orbitsinthehydrogenatom45841651
+order_index: 1183
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: orbits-in-the-hydrogen-atom

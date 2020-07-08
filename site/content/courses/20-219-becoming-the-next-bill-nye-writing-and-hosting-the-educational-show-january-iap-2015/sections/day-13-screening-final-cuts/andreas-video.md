@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: fd1cf58588d126ebaed51a07cff7e364
 inline_embed_id: 66560477andrea'svideo37625230
+order_index: 989
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
 related_resources_text: ''
 short_url: andreas-video

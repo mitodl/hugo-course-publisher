@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: f363b8e25a8e2a2907fad68a86726ede
 inline_embed_id: '99161588clip1:jumpdiscontinuities9123807'
+order_index: 244
 parent_uid: d0bc8735c3a450ca5aad8ed8059d679d
 related_resources_text: ''
 short_url: clip-1-jump-discontinuities

@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 53f0ad875a753e9648b3b41a471b8e02
 inline_embed_id: 8158971video7usinglinechartsinstead35942445
+order_index: 1767
 parent_uid: 5d57bafe1422b8d9a742d6339058ab65
 related_resources_text: ''
 short_url: video-7-using-line-charts-instead-0

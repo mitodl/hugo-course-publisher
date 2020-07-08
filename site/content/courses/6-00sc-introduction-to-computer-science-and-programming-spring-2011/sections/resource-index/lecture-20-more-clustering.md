@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 32c26237308bbdb0e3856a4c80620281
 inline_embed_id: 37563697lecture20moreclustering79144954
+order_index: 815
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: lecture-20-more-clustering

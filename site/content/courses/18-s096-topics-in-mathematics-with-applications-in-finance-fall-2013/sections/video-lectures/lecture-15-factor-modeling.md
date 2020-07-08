@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: e18cc5d3962f5e170055d025b0032911
 inline_embed_id: '59757946lecture15:factormodeling20994437'
+order_index: 186
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-15-factor-modeling

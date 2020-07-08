@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 0ea91c44c7579062f58ac5573a73646e
 inline_embed_id: '96015398clip:applications:massandaveragevalue98690520'
+order_index: 1562
 parent_uid: 43332687cd97d8542b2f75420455c62c
 related_resources_text: ''
 short_url: clip-applications-mass-and-average-value

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 2415a1187497b9582ee1df95021893d6
 inline_embed_id: '96838749clip2:derivativeofthesumoftwofunctions86541712'
+order_index: 310
 parent_uid: a50336604c88798f90662c641ab35802
 related_resources_text: ''
 short_url: copy3_of_clip-2-derivative-of-the-sum-of-two-functions

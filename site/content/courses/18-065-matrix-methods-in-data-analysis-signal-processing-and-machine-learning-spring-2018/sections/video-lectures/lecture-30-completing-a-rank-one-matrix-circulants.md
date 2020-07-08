@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: a62a0dd78c694786f3e9dd60d9818a64
 inline_embed_id: 41295484lecture30completingarankonematrixcirculants82133623
+order_index: 278
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-30-completing-a-rank-one-matrix-circulants

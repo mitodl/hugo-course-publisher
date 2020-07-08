@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: c8c0615100be0930cefbbd1aa5044e0a
 inline_embed_id: 31889916welcometorecitation182543204
+order_index: 186
 parent_uid: 7ae5f9abee30803e522bc737bfb5e185
 related_resources_text: ''
 short_url: welcome-to-recitation-1-0

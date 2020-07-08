@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: e72fa927f6eb8489e24aeb1e909bd662
 inline_embed_id: 74032060problemsolvingcomplexmatrices88853503
+order_index: 1562
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: problem-solving-complex-matrices

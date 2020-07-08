@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: e8a906d217cd07b3238fd8286b2de4b6
 inline_embed_id: '76358570clip2:improperintegralsofthesecondkind,continued93598934'
+order_index: 4012
 parent_uid: f502f183c03e6d5e51e824f9afc4cf8c
 related_resources_text: ''
 short_url: clip-2-improper-integrals-of-the-second-kind-continued

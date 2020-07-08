@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 1858709eadd73e23250ae380ed9e8551
 inline_embed_id: 39110133video7themodelv.theexperts4846079
+order_index: 833
 parent_uid: 2ca2e4f174a66019fbe68e97bba87376
 related_resources_text: ''
 short_url: video-7-the-model-v-the-experts-0

@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 3880efa0f4767803c8142bd44b0f6a95
 inline_embed_id: '62314727clip:tripleintegrals23356434'
+order_index: 2334
 parent_uid: 6369fc2c0ed673b1973ba7af526cb70d
 related_resources_text: ''
 short_url: clip-triple-integrals

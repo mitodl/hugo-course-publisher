@@ -231,6 +231,7 @@ embedded_media:
     type: Video
     uid: 2b092f252974731b6802436f0af60b23
 inline_embed_id: '94715189session2,part2:businessmodels85415252'
+order_index: 253
 parent_uid: c26333e10b77931a494216b5acafb6ce
 related_resources_text: ''
 short_url: part-2-business-models

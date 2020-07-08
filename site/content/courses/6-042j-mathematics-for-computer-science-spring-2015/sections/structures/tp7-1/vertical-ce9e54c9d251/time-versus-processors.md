@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: dcc60531f65f73ee701e024694c70264
 inline_embed_id: 24009338timeversusprocessors16008386
+order_index: 879
 parent_uid: 73fc19cef8be1c0516653a1d3df499ce
 related_resources_text: ''
 short_url: time-versus-processors

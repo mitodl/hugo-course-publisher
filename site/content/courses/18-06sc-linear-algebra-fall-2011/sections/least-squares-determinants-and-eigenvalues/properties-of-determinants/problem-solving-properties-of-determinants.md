@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 902cd1b3c77a1d401a519c583b4846ed
 inline_embed_id: '43683953problemsolving:propertiesofdeterminants25587540'
+order_index: 513
 parent_uid: db45d276fad6eb49f42e287aaa9e22b6
 related_resources_text: ''
 short_url: problem-solving-properties-of-determinants

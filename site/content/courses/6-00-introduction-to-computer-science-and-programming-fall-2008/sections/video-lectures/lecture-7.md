@@ -91,6 +91,7 @@ embedded_media:
     type: Transcript
     uid: 17823fdbd371bf7f1e1c367dcf860fbe
 inline_embed_id: '679411167:listsandmutability,dictionaries,introductiontoefficiency42421964'
+order_index: 97
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

@@ -59,6 +59,7 @@ embedded_media:
     type: Transcript
     uid: b1a838f99cad3a2f0e8939ead2dc0f57
 inline_embed_id: '2385965lecture23:cache-obliviousalgorithms:medians&matrices63009284'
+order_index: 327
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-23-cache-oblivious-algorithms-medians-matrices

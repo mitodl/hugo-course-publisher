@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 12c8cf864185c4aeb4d10a2d5e0950d1
 inline_embed_id: '98306597part2:businessmodels82098132'
+order_index: 54
 parent_uid: 7425dbab24bd40b9d0c0c704cab7eab2
 related_resources_text: ''
 short_url: part-2-business-models

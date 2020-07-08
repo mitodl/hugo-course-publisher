@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 55243bd96643a0df42054f2a57373019
 inline_embed_id: 62645285bookstacking16486195
+order_index: 1155
 parent_uid: 8de8c902996349cb0873a6ff1a10a492
 related_resources_text: ''
 short_url: book-stacking

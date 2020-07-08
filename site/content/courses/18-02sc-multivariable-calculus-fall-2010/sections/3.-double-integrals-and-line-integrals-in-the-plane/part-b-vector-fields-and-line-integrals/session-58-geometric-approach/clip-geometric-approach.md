@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: be6dd0619d6d8eca88723497a6c5050d
 inline_embed_id: '6652936clip:geometricapproach57097534'
+order_index: 1794
 parent_uid: fa095203c47d195db13fae16f977f84b
 related_resources_text: ''
 short_url: clip-geometric-approach

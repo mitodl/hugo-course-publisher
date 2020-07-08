@@ -57,6 +57,7 @@ embedded_media:
     uid: 2bb52f2f98e25cdfa988be7fed7bcec3
 inline_embed_id: >-
   88611131dd.3.2gyroscopes2precessionalangularvelocityandtitledgyroscopes76836753
+order_index: 2426
 parent_uid: 48a1992d158988448e10c62909b21e12
 related_resources_text: ''
 short_url: dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes

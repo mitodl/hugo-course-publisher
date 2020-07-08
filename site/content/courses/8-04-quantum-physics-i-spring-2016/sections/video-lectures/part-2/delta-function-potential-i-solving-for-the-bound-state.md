@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: b6d46813f8f5f47b1673a77795282089
 inline_embed_id: 25626914deltafunctionpotentialisolvingfortheboundstate57701217
+order_index: 784
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: delta-function-potential-i-solving-for-the-bound-state

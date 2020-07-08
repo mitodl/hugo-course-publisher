@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 170183230ab5e3e29e5acc17f2a8b69a
 inline_embed_id: 24361654video6evaluatingthemodel57767841
+order_index: 1258
 parent_uid: 54a5cfa02012d0816815948514b434c1
 related_resources_text: ''
 short_url: video-6-evaluating-the-model-0

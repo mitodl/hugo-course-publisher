@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 0c29c6568a6113d6c9e777410427e805
 inline_embed_id: '63238428lecture3:probabilitytheory54161886'
+order_index: 76
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-3-probability-theory

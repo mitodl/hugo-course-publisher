@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: ee9758ba11cb226d932bd2ae8a10b1df
 inline_embed_id: 41814012derivativewithadiscontinuity61338271
+order_index: 1594
 parent_uid: 673ff3f8ec331bce1196314f7e83c11b
 related_resources_text: ''
 short_url: derivative-with-a-discontinuity

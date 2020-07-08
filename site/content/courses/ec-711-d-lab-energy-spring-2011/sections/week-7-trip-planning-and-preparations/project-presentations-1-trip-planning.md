@@ -31,6 +31,7 @@ embedded_media:
     type: Video
     uid: 98537b1715c48d5bc0362a00d2076d30
 inline_embed_id: '83343304projectpresentations1:tripplanning49060306'
+order_index: 115
 parent_uid: 374104f0f3d930af2e1057b34aa6c451
 related_resources_text: ''
 short_url: project-presentations-1-trip-planning

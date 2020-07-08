@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: b1c74a802556d6c0da1047353afb8b8a
 inline_embed_id: 83368339video3barchartsinr54688860
+order_index: 1726
 parent_uid: b69a45f6aacc80e937f4661dbb5bb822
 related_resources_text: ''
 short_url: video-3-bar-charts-in-r-0

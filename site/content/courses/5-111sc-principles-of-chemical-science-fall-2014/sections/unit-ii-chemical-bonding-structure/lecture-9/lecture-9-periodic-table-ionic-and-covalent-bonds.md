@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 22830032b9cd3906213741e4e63de00f
 inline_embed_id: 33984533lecture9periodictableionicandcovalentbonds24423411
+order_index: 249
 parent_uid: 1defa0f1c01ba42e057e92fc7b1dec88
 related_resources_text: ''
 short_url: lecture-9-periodic-table-ionic-and-covalent-bonds

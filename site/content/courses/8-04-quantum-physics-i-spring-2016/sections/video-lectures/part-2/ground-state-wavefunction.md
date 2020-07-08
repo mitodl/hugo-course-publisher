@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: c352c2232b662cfa8093d7ca17ca59aa
 inline_embed_id: 32657037groundstatewavefunction21236055
+order_index: 861
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: ground-state-wavefunction

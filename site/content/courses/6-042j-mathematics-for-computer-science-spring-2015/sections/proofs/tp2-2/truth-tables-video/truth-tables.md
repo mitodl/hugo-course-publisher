@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 7121b18d35649cecb5a6a6493c8d9198
 inline_embed_id: 83836010truthtables64626639
+order_index: 347
 parent_uid: 3dc85d2964027d254560f6c2d785769f
 related_resources_text: ''
 short_url: truth-tables

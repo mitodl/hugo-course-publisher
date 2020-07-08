@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: d78aeb34ee2d45945604396aeb760365
 inline_embed_id: 80465819reflectionandtransmissioncoefficients80817789
+order_index: 922
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: reflection-and-transmission-coefficients

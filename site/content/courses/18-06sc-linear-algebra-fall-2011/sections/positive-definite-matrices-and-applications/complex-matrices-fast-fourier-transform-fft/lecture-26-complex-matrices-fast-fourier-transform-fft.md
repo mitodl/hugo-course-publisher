@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 3e62af3308f7dd46e928d9026412fdda
 inline_embed_id: '31170971lecture26:complexmatrices;fastfouriertransform(fft)68163908'
+order_index: 809
 parent_uid: d2f78aa297e682ccaea120a362c5d934
 related_resources_text: ''
 short_url: lecture-26-complex-matrices-fast-fourier-transform-fft

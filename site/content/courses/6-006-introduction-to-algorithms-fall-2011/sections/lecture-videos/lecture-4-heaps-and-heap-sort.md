@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 5ccc14327adba02c76d875f403bf0a83
 inline_embed_id: '8919313lecture4:heapsandheapsort82572908'
+order_index: 86
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-4-heaps-and-heap-sort

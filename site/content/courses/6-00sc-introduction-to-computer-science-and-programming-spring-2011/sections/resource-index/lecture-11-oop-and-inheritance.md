@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 1769c46f9de773131980f52e9b3a1476
 inline_embed_id: 50839763lecture11oopandinheritance57232204
+order_index: 705
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: lecture-11-oop-and-inheritance

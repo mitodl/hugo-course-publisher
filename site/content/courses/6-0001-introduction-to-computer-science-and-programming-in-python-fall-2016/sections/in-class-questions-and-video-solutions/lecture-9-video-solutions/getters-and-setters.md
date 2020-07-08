@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: b2df3fcc2b5eb816d294f68b7c0c37a0
 inline_embed_id: 9250894gettersandsetters43057118
+order_index: 668
 parent_uid: a105f0a220696d6d2ecbc3a529f3eeaa
 related_resources_text: ''
 short_url: getters-and-setters

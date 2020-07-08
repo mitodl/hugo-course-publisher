@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 2c1a3d12975d58d5f41de53a93ecc575
 inline_embed_id: 41649183averageheight90605869
+order_index: 2387
 parent_uid: c4da9711508e8f11a356167da3376cd3
 related_resources_text: ''
 short_url: average-height

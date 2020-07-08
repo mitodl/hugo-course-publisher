@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 5aebbffdbc15e1c6e720c395ec528088
 inline_embed_id: 95631076stokes'theorem27153246
+order_index: 2905
 parent_uid: 369a5a9d53f8ab4da9f478cd9a5ab7c7
 related_resources_text: ''
 short_url: stokes-theorem

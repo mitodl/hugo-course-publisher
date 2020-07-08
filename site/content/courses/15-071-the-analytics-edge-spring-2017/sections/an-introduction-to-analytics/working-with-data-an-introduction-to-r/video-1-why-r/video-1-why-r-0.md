@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 420f6256019b5a913bc0c2fecf6e63d7
 inline_embed_id: 5563233video1whyr967131
+order_index: 107
 parent_uid: 147b0a1bf22a4f9b0fd1d3a28f92f6da
 related_resources_text: ''
 short_url: video-1-why-r-0

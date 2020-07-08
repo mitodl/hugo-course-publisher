@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: a3668a459af15b5e6e3f4f7ed992a810
 inline_embed_id: 58069230applicationofgreen'stheorem52193851
+order_index: 2111
 parent_uid: fce780d8a145fae3fe0d349fbce595cf
 related_resources_text: ''
 short_url: application-of-greens-theorem

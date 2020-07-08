@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 3559d7128bcefd81513abcbdc6f6bbe8
 inline_embed_id: '38188874lecture16:usingrandomnesstosolvenon-randomproblems61773'
+order_index: 324
 parent_uid: 76234e321a3a3b21e1e548190e089977
 related_resources_text: ''
 short_url: lecture-16-using-randomness-to-solve-non-random-problems

@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: e18cc7a5c341c8af2ee2d5b0682280b1
 inline_embed_id: '5490029lecture3:reasoning:goaltreesandrule-basedexpertsystems36135040'
+order_index: 39
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: >-
   <p>Duarte, José Pinto. &quot;<a

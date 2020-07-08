@@ -51,6 +51,7 @@ embedded_media:
     type: Transcript
     uid: 62c18bc2cc55dde789951b37ddf07f04
 inline_embed_id: 38656850diversitytrainingintroductionvideo99926756
+order_index: 102
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
 related_resources_text: ''
 short_url: diversity-training-introduction-video

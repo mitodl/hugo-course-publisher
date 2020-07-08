@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: b47b13e03d250961af9cbbca64a8996a
 inline_embed_id: 7472290lecture14valencebondtheoryandhybridization11994535
+order_index: 314
 parent_uid: bc4e02be0613a6fcdb1fe751834b8e16
 related_resources_text: ''
 short_url: lecture-14-valence-bond-theory-and-hybridization

@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 2ee1a55a58dd21ea7ccc2ee48e6047d5
 inline_embed_id: 43101838video1twitter79468980
+order_index: 1043
 parent_uid: aea3bc9c07f7364865c46fec93dd8515
 related_resources_text: ''
 short_url: video-1-twitter-0

@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: caea3931f9cd3c0109ee4e5d8718df6c
 inline_embed_id: 12017463powerseriespractice95573505
+order_index: 4226
 parent_uid: bcbb45fdbe1b69cc80a82c9f73ca8d5d
 related_resources_text: ''
 short_url: power-series-practice

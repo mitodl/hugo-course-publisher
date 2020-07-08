@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 6741c6eac74c398fb103bde4af22f21e
 inline_embed_id: 10279833simplifiedmontyhalltree69914457
+order_index: 1371
 parent_uid: c12a12b45c5de1d33720b9e686ef96ed
 related_resources_text: ''
 short_url: simplified-monty-hall-tree

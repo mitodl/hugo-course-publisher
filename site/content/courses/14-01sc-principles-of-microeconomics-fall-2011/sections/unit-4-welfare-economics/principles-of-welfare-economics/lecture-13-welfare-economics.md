@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: cf962c568e4c9f8f92be7f43599f2aac
 inline_embed_id: 1843169lecture13welfareeconomics6678788
+order_index: 288
 parent_uid: 12e64d3f06442707bfcb6442dc9daf1b
 related_resources_text: ''
 short_url: lecture-13-welfare-economics

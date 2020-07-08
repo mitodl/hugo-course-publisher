@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: a613053043d9d8a3d46a6e25b8357d54
 inline_embed_id: 62958721david'stable-read33850107
+order_index: 585
 parent_uid: 7c38a44e5ebb8403cf21c2adc0137e4b
 related_resources_text: ''
 short_url: copy2_of_day-6

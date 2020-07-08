@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 4c6eb991192ca3029e89458433b3944a
 inline_embed_id: 52729801video1bostonhousingdata4829713
+order_index: 954
 parent_uid: 8741d74cb0863663cea90529b643e153
 related_resources_text: ''
 short_url: video-1-boston-housing-data-0

@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: fbb47094682c15f173b80369f55c68bf
 inline_embed_id: 70798050video3example2eharmony94506969
+order_index: 66
 parent_uid: 57067762c39b9c564fcbdde7585e1d63
 related_resources_text: ''
 short_url: video-3-example-2-eharmony-0

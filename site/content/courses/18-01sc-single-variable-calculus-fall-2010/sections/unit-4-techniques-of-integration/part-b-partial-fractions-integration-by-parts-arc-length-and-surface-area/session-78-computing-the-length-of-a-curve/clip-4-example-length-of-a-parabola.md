@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: ef26489c9c698dbfec1542d78264ea7a
 inline_embed_id: '59160476clip4:example:lengthofaparabola48831097'
+order_index: 3311
 parent_uid: 5c900cbf5c7bc84e4bc0086224a0a1bd
 related_resources_text: ''
 short_url: clip-4-example-length-of-a-parabola

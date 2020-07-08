@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: 8459e76ec6d22af91e152a0161dc2a4a
 inline_embed_id: '73918687clip:polarcoordinates97039329'
+order_index: 1660
 parent_uid: 4298c9f52873d0fa0eca900cbdf04cdc
 related_resources_text: ''
 short_url: clip-polar-coordinates

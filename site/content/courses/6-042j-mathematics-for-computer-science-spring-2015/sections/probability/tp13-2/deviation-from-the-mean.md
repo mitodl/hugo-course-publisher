@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 1a03e7f5bab535f3c80ba32b76165a67
 inline_embed_id: 55024972deviationfromthemeanvideo79401104
+order_index: 1591
 parent_uid: f195ee849b9aee3ccf61f90bea10cebb
 related_resources_text: ''
 short_url: deviation-from-the-mean

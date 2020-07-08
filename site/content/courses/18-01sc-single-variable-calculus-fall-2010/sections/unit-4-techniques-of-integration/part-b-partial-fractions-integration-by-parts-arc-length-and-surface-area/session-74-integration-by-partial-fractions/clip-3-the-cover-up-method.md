@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 0b97a3919bdb0e90085e1018572af37a
 inline_embed_id: '58373623clip3:thecover-upmethod92892036'
+order_index: 3095
 parent_uid: bffb54f0e2e1cf685033820b5512e4e6
 related_resources_text: ''
 short_url: clip-3-the-cover-up-method

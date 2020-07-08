@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 653f45b52737d26421c2aeb9d412d03c
 inline_embed_id: '67764220clip:summaryofmultipleintegration93484143'
+order_index: 3043
 parent_uid: 9fa0f56b39e8582fa9aafecfcba944f6
 related_resources_text: ''
 short_url: clip-summary-of-multiple-integration

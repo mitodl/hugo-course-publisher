@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 01df74c4834b32edc92283068c70d384
 inline_embed_id: 24039608lecture18propertiesofdeterminants29215561
+order_index: 1356
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: lecture-18-properties-of-determinants

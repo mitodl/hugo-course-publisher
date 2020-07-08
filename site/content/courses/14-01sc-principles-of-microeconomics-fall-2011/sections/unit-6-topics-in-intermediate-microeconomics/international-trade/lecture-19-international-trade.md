@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 21e972ba71970347654aeefc3393d383
 inline_embed_id: 72429169lecture19internationaltrade32197376
+order_index: 427
 parent_uid: 7c6e1dca9e9d7e001941647141088a9a
 related_resources_text: ''
 short_url: lecture-19-international-trade

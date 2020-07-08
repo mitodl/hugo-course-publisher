@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 493c708a393e9894f26da343cfa36572
 inline_embed_id: '58629751clip:curlandphysics36938274'
+order_index: 3071
 parent_uid: 8810a4ba7a95b6f869ae4b8347785a1b
 related_resources_text: ''
 short_url: clip-curl-and-physics

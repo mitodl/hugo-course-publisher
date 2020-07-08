@@ -38,6 +38,7 @@ embedded_media:
     type: Thumbnail
     uid: c9b67b615e9a8562ba1a931b0e7e0e84
 inline_embed_id: '98086906lab2:solarpowermeasurement,partii:activities1576908'
+order_index: 40
 parent_uid: bd09c1cc93fd481d39456e105dc16816
 related_resources_text: ''
 short_url: lab-2-solar-power-measurement-part-ii-activities

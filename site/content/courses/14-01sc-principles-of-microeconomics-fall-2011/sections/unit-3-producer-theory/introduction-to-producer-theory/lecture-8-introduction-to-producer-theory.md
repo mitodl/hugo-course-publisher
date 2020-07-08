@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: e50e290cb71430ba064aa4539e4d6eec
 inline_embed_id: 66135414lecture8introductiontoproducertheory1538465
+order_index: 195
 parent_uid: c282655da4961349b75e5b0e7692c61b
 related_resources_text: ''
 short_url: lecture-8-introduction-to-producer-theory

@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 5b3fb0754d21473412e7b6fc9794fc51
 inline_embed_id: 2858511lecture13classification80026576
+order_index: 126
 parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
 short_url: lecture-13-classification

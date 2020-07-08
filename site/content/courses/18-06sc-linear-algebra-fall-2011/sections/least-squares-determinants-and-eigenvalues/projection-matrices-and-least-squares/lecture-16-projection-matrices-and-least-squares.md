@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: b67dc74bf6e7ec5297fe71bbc591453a
 inline_embed_id: '33715977lecture16:projectionmatricesandleastsquares36398853'
+order_index: 453
 parent_uid: 5f12aef90a3ea658e59ce968a672c0c2
 related_resources_text: ''
 short_url: lecture-16-projection-matrices-and-least-squares

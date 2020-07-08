@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 23dcca90d4b35c627889d9f33d698e5a
 inline_embed_id: 81563137recitationintroduction57592848
+order_index: 5
 parent_uid: 08db2ed910adc41a6bceda6c3bf65e1f
 related_resources_text: ''
 short_url: recitation-introduction

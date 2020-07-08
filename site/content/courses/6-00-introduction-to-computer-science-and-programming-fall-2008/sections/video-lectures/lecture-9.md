@@ -88,6 +88,7 @@ embedded_media:
     type: Transcript
     uid: 8e303451100599c865ec0e371eb88a6f
 inline_embed_id: '524006679:binarysearch,bubbleandselectionsorts16275899'
+order_index: 127
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

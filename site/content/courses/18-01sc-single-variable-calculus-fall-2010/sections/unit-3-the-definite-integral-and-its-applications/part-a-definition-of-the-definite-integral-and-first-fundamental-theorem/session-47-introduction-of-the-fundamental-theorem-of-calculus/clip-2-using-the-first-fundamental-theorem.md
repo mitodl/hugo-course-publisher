@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 8e7c36ed56f51b389d27325760f0c610
 inline_embed_id: '97114732clip2:usingthefirstfundamentaltheorem82174305'
+order_index: 2054
 parent_uid: 49d44d0cd4d7368fb65410f6924c7265
 related_resources_text: ''
 short_url: clip-2-using-the-first-fundamental-theorem

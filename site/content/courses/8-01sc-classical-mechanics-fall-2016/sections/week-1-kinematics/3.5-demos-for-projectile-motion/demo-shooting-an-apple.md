@@ -26,6 +26,7 @@ embedded_media:
     type: Video
     uid: d60a80effd88d4e4517c905185c3d975
 inline_embed_id: 73344757demoshootinganapple19846670
+order_index: 340
 parent_uid: 6669a5308dce181c2e48270a536a419c
 related_resources_text: ''
 short_url: demo-shooting-an-apple

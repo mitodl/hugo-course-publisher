@@ -64,6 +64,7 @@ embedded_media:
     type: Video
     uid: ec3b20b40dc715cb4d41d35af70ce500
 inline_embed_id: 76220967lecture22acidbaseequilibriumsaltsolutionsandbuffers64110196
+order_index: 440
 parent_uid: 3967bba5a7b0073acd9ac713fa2d59eb
 related_resources_text: ''
 short_url: lecture-22-acid-base-equilibrium-salt-solutions-and-buffers

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 17537640ce770c3ffc679ca3d2854a4e
 inline_embed_id: '43436348clip2:generalpowerseries81912792'
+order_index: 4236
 parent_uid: bcbb45fdbe1b69cc80a82c9f73ca8d5d
 related_resources_text: ''
 short_url: clip-2-general-power-series

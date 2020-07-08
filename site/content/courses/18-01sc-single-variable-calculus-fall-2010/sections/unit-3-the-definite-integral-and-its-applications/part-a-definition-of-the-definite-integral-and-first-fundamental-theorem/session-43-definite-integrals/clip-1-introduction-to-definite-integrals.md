@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 56a6e0f89194572a026a1cfd8779bd3f
 inline_embed_id: '44403265clip1:introductiontodefiniteintegrals57933756'
+order_index: 1894
 parent_uid: 5170b79f5b62ed3a4d96b27fc3edc468
 related_resources_text: ''
 short_url: clip-1-introduction-to-definite-integrals

@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: f708b6da3ec0159a1dc15880c0fbe633
 inline_embed_id: 52001563video7baselinemethodandpenaltymatrix92071204
+order_index: 912
 parent_uid: 9f0c19816b4e786a4cb964211da05bf8
 related_resources_text: ''
 short_url: video-7-baseline-method-and-penalty-matrix-0

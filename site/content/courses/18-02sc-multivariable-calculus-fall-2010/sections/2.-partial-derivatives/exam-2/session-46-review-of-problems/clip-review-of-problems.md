@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 180add8b3d571053be610713964f0419
 inline_embed_id: '11454954clip:reviewofproblems58169718'
+order_index: 1422
 parent_uid: 124f122c8dbca15b7cce7a35d5ef6c76
 related_resources_text: ''
 short_url: clip-review-of-problems

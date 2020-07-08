@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: b4f367dae6c311b2feb963d162b22206
 inline_embed_id: '28429059clip:gravitationalattraction84564265'
+order_index: 2484
 parent_uid: 8a9672904a3f5c9cc88bb651406304a8
 related_resources_text: ''
 short_url: clip-gravitational-attraction

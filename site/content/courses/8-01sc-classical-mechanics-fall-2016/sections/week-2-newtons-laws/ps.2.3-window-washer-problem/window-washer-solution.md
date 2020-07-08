@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 349263656187cabe44f3e9c528c7f2da
 inline_embed_id: 50194006windowwashersolution46275350
+order_index: 633
 parent_uid: 490e27c79c4c14bb971b8ce6ece1d220
 related_resources_text: ''
 short_url: window-washer-solution

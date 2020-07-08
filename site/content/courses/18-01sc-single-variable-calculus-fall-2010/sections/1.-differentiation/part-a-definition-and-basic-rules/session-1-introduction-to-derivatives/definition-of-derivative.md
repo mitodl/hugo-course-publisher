@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: cecec34f84bbba5b52e4d55c9629d25a
 inline_embed_id: 98494677definitionofderivative20877803
+order_index: 78
 parent_uid: c25a5592cbb582539daea82e3aeeda33
 related_resources_text: ''
 short_url: definition-of-derivative

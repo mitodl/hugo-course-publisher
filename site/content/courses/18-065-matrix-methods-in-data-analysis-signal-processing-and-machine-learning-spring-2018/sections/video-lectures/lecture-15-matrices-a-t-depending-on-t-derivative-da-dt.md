@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 5763cdb3580e34f9abdb13d1b0cd7e60
 inline_embed_id: 29082949lecture15matricesatdependingontderivativedadt47088211
+order_index: 161
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-15-matrices-a-t-depending-on-t-derivative-da-dt

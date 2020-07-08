@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 4d547f9603153c5b6b029daebffb3ee9
 inline_embed_id: 24589680levelcurvesandcriticalpoints48786452
+order_index: 761
 parent_uid: 1d6472489b24f4368ee8e9e8a2dd7c81
 related_resources_text: ''
 short_url: level-curves-and-critical-points

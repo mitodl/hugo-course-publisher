@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 0ed22a79c0267cf0860e451d0eafc651
 inline_embed_id: '18274449clip3:comparisonwithapproximation21208749'
+order_index: 3731
 parent_uid: 7a8cdab56a9e46b35225a2bc22295a0f
 related_resources_text: ''
 short_url: clip-3-comparison-with-approximation

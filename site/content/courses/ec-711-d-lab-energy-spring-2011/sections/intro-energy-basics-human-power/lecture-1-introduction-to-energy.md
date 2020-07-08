@@ -31,6 +31,7 @@ embedded_media:
     type: Video
     uid: d33080d31354791cf9da0bdc74fba248
 inline_embed_id: '62016158lecture1:introductiontoenergy58131072'
+order_index: 12
 parent_uid: 32a22e0de0add67342ce41445297fce7
 related_resources_text: ''
 short_url: lecture-1-introduction-to-energy

@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 6adc50c0fbe04ec8aa0deb24d47483e8
 inline_embed_id: 35884914degrees4094829
+order_index: 934
 parent_uid: a3d452862b8219138b1e93f45114b315
 related_resources_text: ''
 short_url: degrees

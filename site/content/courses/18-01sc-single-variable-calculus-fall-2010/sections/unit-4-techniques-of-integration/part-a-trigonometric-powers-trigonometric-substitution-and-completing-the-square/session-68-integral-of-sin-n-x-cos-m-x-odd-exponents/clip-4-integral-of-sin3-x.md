@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 3c2bd8c723fb7824df60fea033b7dab6
 inline_embed_id: '34690620clip4:integralofsin3(x)20552715'
+order_index: 2860
 parent_uid: f914f1dccfe8c98b34b42bcf2aa6e075
 related_resources_text: ''
 short_url: clip-4-integral-of-sin3-x

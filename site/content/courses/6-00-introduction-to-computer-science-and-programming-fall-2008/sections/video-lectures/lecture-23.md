@@ -90,6 +90,7 @@ embedded_media:
     type: Transcript
     uid: 380a0180f7c097d4b8d9cdb6f91716db
 inline_embed_id: '5344049723:stockmarketsimulation61018202'
+order_index: 336
 parent_uid: b457f11c0f1c37c28eedf0fe76d14a82
 related_resources_text: >-
   <p>Handout (<a target="_blank" title="Open in a new window."

@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 584eb092f1059b5a5d6717bcc03ae589
 inline_embed_id: 85035853lecture33kineticsandtemperature41570827
+order_index: 626
 parent_uid: bfdc3eed5d1b3d9ce32cf1f3c4868b27
 related_resources_text: ''
 short_url: lecture-33-kinetics-and-temperature

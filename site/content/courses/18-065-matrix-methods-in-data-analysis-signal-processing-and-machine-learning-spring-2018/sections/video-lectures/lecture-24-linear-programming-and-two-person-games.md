@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 93ca0e762c2a3905f4fd7339c987c392
 inline_embed_id: 61766072lecture24linearprogrammingandtwopersongames90658573
+order_index: 242
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-24-linear-programming-and-two-person-games

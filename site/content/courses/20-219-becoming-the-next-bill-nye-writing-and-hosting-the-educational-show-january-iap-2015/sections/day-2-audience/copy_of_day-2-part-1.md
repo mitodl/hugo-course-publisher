@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 4e3bdf8d3d911730bfe0e0912b993ef1
 inline_embed_id: 38077626welcomethemiddleschoolconsultants62074973
+order_index: 308
 parent_uid: 3da88bd7fc04b288622711604ae6a159
 related_resources_text: ''
 short_url: copy_of_day-2-part-1

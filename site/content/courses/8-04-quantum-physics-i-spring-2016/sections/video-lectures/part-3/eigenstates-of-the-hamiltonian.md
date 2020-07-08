@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: a927b0fbf819b5bd4ccdda23eb495582
 inline_embed_id: 41039617eigenstatesofthehamiltonian86785627
+order_index: 1223
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: eigenstates-of-the-hamiltonian

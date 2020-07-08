@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 77d3a7300bb0f99882825f6e42daba0a
 inline_embed_id: 34575433hamiltonianandemergingspinangularmomentum55359417
+order_index: 1213
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: hamiltonian-and-emerging-spin-angular-momentum

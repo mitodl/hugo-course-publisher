@@ -50,6 +50,7 @@ embedded_media:
     type: Video
     uid: 6bf1443ad8ad37d7df2c7c6599047d4c
 inline_embed_id: 8987173whyinfuseactivelearninginto6.033recitations61553139
+order_index: 38
 parent_uid: e75a8c08e11786c535031b5e10f0fe19
 related_resources_text: ''
 short_url: why_infusing-active-learning-into-6.033-recitations

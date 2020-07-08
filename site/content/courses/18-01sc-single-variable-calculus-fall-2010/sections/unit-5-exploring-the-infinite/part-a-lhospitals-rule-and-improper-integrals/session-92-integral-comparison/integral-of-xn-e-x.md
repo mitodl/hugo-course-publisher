@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 106f75456736443467056d391852d185
 inline_embed_id: 33436301integralofxne(-x)82592437
+order_index: 3956
 parent_uid: ed231e9c56356bb1e18c555d00f08398
 related_resources_text: ''
 short_url: integral-of-xn-e-x

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 1841df6224545355621c03a6d220f880
 inline_embed_id: '24755166clip2:graphofr=sin(2theta)92828609'
+order_index: 3546
 parent_uid: cfd25e33da1a2e54749f33591f59a4ba
 related_resources_text: ''
 short_url: clip-2-graph-of-r-sin-2theta

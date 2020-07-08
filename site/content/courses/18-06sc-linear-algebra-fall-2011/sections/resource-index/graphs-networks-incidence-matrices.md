@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 5a317050e39434020c93ee51f59507a0
 inline_embed_id: 85490428graphsnetworksincidencematrices28745724
+order_index: 1256
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: graphs-networks-incidence-matrices

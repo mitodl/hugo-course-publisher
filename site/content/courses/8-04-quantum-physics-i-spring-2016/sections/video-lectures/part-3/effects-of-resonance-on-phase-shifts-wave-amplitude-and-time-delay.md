@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 588b47394859de885708164ab08ac49b
 inline_embed_id: 73825847effectsofresonanceonphaseshiftswaveamplitudeandtimedelay82853083
+order_index: 983
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: effects-of-resonance-on-phase-shifts-wave-amplitude-and-time-delay

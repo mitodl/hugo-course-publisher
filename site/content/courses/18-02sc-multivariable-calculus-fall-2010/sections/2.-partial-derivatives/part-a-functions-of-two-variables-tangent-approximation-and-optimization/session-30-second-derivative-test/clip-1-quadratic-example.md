@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: c541b5941ec3543d204e04a972f16791
 inline_embed_id: '15991993clip1:quadraticexample87669012'
+order_index: 942
 parent_uid: 471874852c83ac551b87dcff9cb3f6cc
 related_resources_text: ''
 short_url: clip-1-quadratic-example

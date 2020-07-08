@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 27c4fa1bf2c3cff1583e5fee27719e31
 inline_embed_id: '50581871lecture5:amortization:amortizedanalysis81019008'
+order_index: 147
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-5-amortization-amortized-analysis

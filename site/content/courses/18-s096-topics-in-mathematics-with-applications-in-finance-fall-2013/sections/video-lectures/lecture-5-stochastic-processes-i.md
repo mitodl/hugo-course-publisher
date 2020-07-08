@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: bbe96b731bee4daf0b1b34f2908356e7
 inline_embed_id: '63570613lecture5:stochasticprocessesi73302036'
+order_index: 86
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-5-stochastic-processes-i

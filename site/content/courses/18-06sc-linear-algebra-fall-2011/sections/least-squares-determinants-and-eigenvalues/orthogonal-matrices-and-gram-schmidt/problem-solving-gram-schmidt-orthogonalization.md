@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 4adcfabbaef0cea30893c8ba77c7dd34
 inline_embed_id: '16480697problemsolving:gram-schmidtorthogonalization52830905'
+order_index: 488
 parent_uid: 2376f3e00c4de0f6634653041d685aed
 related_resources_text: ''
 short_url: problem-solving-gram-schmidt-orthogonalization

@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: bfb6583d1e4cf1cab831be2692cfe5a6
 inline_embed_id: 44208682trigintegralpractice71477089
+order_index: 2870
 parent_uid: f914f1dccfe8c98b34b42bcf2aa6e075
 related_resources_text: ''
 short_url: trig-integral-practice

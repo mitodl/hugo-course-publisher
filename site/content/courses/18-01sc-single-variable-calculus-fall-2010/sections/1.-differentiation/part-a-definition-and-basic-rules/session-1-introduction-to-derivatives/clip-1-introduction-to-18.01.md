@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 83a151fdff96e542f41ea168dbbd60a5
 inline_embed_id: '13291765clip1:introductionto18.0153814475'
+order_index: 38
 parent_uid: c25a5592cbb582539daea82e3aeeda33
 related_resources_text: ''
 short_url: clip-1-introduction-to-18.01

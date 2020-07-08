@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 39ee9b4af77bc554da2de40af31771ce
 inline_embed_id: '17887924lecture22:cryptography:encryption96224412'
+order_index: 317
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-22-cryptography-encryption

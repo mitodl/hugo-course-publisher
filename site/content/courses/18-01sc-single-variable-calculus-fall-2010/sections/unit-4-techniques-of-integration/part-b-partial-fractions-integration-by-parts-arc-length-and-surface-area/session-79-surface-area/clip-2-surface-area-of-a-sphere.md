@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 1084c8ed48dff81db6f4c1717022be75
 inline_embed_id: '69304053clip2:surfaceareaofasphere66128155'
+order_index: 3348
 parent_uid: 17929c9ec324e987cc81f0233bae0eee
 related_resources_text: ''
 short_url: clip-2-surface-area-of-a-sphere

@@ -57,6 +57,7 @@ embedded_media:
     type: Thumbnail
     uid: 82b4b815e95df0316a82a50af9e3032d
 inline_embed_id: 89468359video1theimportanceoffoodandnutrition91677778
+order_index: 196
 parent_uid: 4f44f3ee6d9f23a64a2062fef7b59b43
 related_resources_text: ''
 short_url: video-1-the-importance-of-food-and-nutrition-0

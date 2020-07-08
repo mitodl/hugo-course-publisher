@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: f8294d557b84919c342f62d93ac086f0
 inline_embed_id: '51877793clip:stokes''theorem28038180'
+order_index: 2899
 parent_uid: 369a5a9d53f8ab4da9f478cd9a5ab7c7
 related_resources_text: ''
 short_url: clip-stokes-theorem

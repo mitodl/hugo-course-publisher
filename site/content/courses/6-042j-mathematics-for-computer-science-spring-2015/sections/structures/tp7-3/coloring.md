@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: c6cf57779766bc01494a7a6fa115d071
 inline_embed_id: 36020095coloring184700
+order_index: 968
 parent_uid: 109f4d41cb88fdaade16336e6c117167
 related_resources_text: ''
 short_url: coloring

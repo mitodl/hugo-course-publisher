@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: da02e324baf3c0f62c508d3ffebf1fd0
 inline_embed_id: '61765472clip2:simpleexamplesinpolarcoordinates88277954'
+order_index: 3464
 parent_uid: 6b43151f2ea4f32cac0a7709358919db
 related_resources_text: ''
 short_url: copy_of_clip-1-introduction-to-polar-coordinates

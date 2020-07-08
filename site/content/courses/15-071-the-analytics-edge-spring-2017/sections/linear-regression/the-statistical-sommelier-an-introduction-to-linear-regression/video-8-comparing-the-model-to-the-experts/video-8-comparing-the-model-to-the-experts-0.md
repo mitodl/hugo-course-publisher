@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: a8ada0e05500000cf8cde73c5a5ee57d
 inline_embed_id: 17036056video8comparingthemodeltotheexperts97762292
+order_index: 372
 parent_uid: df5ef36459d32e3f98ec9d920d6c5e1d
 related_resources_text: ''
 short_url: video-8-comparing-the-model-to-the-experts-0

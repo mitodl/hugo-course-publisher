@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: e8a396ed3ec76567b52c987651f7b907
 inline_embed_id: 63317524video5buildingmodels85244881
+order_index: 1248
 parent_uid: bfe9f6891834528bfc4766f67aa144c6
 related_resources_text: ''
 short_url: video-5-building-models-0

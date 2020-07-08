@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 4e35740db44170cae91f1148132fda44
 inline_embed_id: 27481423finalcoursereview82558263
+order_index: 1751
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
 short_url: final-course-review

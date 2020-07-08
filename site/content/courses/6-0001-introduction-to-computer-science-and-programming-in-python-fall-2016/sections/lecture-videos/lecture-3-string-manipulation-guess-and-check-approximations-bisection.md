@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: a92f2f8a163d032c2c153a5dc7d63319
 inline_embed_id: 86373902lecture3stringmanipulationguessandcheckapproximationsbisection53630150
+order_index: 26
 parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
 short_url: lecture-3-string-manipulation-guess-and-check-approximations-bisection

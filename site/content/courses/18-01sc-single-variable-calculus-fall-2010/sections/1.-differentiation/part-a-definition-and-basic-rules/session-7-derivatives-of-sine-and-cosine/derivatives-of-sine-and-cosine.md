@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 400ba27dbe7029e04ee0f9ef1fa69314
 inline_embed_id: 12395640derivativesofsineandcosine57808562
+order_index: 367
 parent_uid: 118fc2aa2f82b0483267f66bf76b6ba7
 related_resources_text: ''
 short_url: derivatives-of-sine-and-cosine

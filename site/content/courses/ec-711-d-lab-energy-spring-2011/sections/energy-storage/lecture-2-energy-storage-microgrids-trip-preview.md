@@ -31,6 +31,7 @@ embedded_media:
     type: Video
     uid: 8d9659de498109c69a5ec2986c73f082
 inline_embed_id: '98404581lecture2:energystorage&microgrids;trippreview28770981'
+order_index: 30
 parent_uid: bd09c1cc93fd481d39456e105dc16816
 related_resources_text: ''
 short_url: lecture-2-energy-storage-microgrids-trip-preview

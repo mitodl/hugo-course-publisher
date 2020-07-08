@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 216a037b69e12774716f113c54a0f10f
 inline_embed_id: 58226572euclideanalgorithm43389887
+order_index: 688
 parent_uid: b0f86e4b63f0d0f58ef1b5a8f357f718
 related_resources_text: ''
 short_url: euclidean-algorithm

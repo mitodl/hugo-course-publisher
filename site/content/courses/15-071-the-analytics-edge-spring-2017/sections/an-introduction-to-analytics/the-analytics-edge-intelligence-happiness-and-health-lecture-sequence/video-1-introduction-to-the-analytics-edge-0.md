@@ -51,6 +51,7 @@ embedded_media:
     type: Transcript
     uid: 47cf43c5f1412714beb8634f4d6887c0
 inline_embed_id: 73432641video1introductiontotheanalyticsedge34766493
+order_index: 46
 parent_uid: 9fb459369f44df97dad389bb5d1aa82c
 related_resources_text: ''
 short_url: video-1-introduction-to-the-analytics-edge-0

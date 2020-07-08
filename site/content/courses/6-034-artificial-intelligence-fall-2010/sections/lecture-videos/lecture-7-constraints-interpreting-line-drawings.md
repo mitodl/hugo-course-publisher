@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 54d93cb4740061df31d4ebc6ea5af55f
 inline_embed_id: '69130231lecture7:constraints:interpretinglinedrawings1061405'
+order_index: 79
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
 short_url: lecture-7-constraints-interpreting-line-drawings

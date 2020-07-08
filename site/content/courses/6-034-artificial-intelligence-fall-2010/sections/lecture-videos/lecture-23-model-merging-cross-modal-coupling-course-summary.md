@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: f6b67343fb00c7e33774052ab2359aa6
 inline_embed_id: '34741736lecture23:modelmerging,cross-modalcoupling,coursesummary11423884'
+order_index: 239
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: >-
   <p>Coen, Michael. &quot;<a

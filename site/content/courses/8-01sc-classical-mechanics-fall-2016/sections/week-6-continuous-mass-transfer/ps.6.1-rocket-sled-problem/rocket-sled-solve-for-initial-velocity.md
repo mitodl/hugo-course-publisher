@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 00401f23e7ba4cb36cd03298c36002d0
 inline_embed_id: 6324467rocketsledsolveforinitialvelocity13385639
+order_index: 1287
 parent_uid: ce8e09d4807a942257ee603eabb68035
 related_resources_text: ''
 short_url: rocket-sled-solve-for-initial-velocity

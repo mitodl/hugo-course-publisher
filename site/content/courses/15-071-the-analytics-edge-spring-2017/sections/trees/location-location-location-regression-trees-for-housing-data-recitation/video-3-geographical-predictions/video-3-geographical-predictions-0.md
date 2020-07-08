@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 956c3f263a6c11deb295c82bad4ba780
 inline_embed_id: 81168559video3geographicalpredictions2198850
+order_index: 976
 parent_uid: 0e5da8a56da7e6bd45cd2c10c9e313cd
 related_resources_text: ''
 short_url: video-3-geographical-predictions-0

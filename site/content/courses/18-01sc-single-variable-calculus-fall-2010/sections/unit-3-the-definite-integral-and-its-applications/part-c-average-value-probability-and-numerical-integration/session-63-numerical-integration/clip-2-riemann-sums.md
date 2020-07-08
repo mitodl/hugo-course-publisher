@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: c73960b678eef883995f9090fdaa861c
 inline_embed_id: '18561127clip2:riemannsums38453309'
+order_index: 2665
 parent_uid: be07f2bde3305a676f66884dbf8397d1
 related_resources_text: ''
 short_url: clip-2-riemann-sums

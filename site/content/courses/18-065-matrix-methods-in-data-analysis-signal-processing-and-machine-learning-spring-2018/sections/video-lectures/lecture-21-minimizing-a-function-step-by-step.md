@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 1b5b212f512ca9669d10daf0a0336110
 inline_embed_id: 41374427lecture21minimizingafunctionstepbystep74584489
+order_index: 215
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-21-minimizing-a-function-step-by-step

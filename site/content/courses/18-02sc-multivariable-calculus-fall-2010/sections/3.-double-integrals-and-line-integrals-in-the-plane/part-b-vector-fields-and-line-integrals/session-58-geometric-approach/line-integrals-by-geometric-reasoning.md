@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: e3c8858cd46e8502d199806f1c4a075b
 inline_embed_id: 34867598lineintegralsbygeometricreasoning87223043
+order_index: 1800
 parent_uid: fa095203c47d195db13fae16f977f84b
 related_resources_text: ''
 short_url: line-integrals-by-geometric-reasoning

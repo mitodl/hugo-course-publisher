@@ -64,6 +64,7 @@ embedded_media:
     type: Video
     uid: b15c2ce855930df03429e7d84750938d
 inline_embed_id: 66281754lecture32kineticsreactionmechanisms67104785
+order_index: 614
 parent_uid: 31564d9d89a99686791240b6ed37ef6f
 related_resources_text: ''
 short_url: lecture-32-kinetics-reaction-mechanisms

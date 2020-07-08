@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 1965a2e2f23d4b5224edf877c9e4a54f
 inline_embed_id: '16109273clip1:definitionofex36010153'
+order_index: 770
 parent_uid: 625f9141b9dc5a9365acef497e19af09
 related_resources_text: ''
 short_url: clip-1-definition-of-ex

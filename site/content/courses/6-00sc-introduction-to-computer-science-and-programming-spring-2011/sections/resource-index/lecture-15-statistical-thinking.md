@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 0ea7dbb0a28c2f3d39d5a6052ca0ef6f
 inline_embed_id: 41013024lecture15statisticalthinking73744571
+order_index: 755
 parent_uid: aa132f80df80dcc2e3500e9e999a3c25
 related_resources_text: ''
 short_url: lecture-15-statistical-thinking

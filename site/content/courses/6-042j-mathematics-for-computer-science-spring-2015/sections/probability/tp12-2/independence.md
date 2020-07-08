@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 7ead0956928f71535388693121149bb5
 inline_embed_id: 26194298independence82277750
+order_index: 1453
 parent_uid: 90eace8a4b31041773628667f8f3497b
 related_resources_text: ''
 short_url: independence

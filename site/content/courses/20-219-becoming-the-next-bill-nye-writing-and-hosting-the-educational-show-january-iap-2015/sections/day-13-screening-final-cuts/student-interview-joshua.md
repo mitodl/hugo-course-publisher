@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: ff7caafb6d94fec094a15bea86aaac1a
 inline_embed_id: '31358632studentinterview:joshua81300530'
+order_index: 949
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
 related_resources_text: ''
 short_url: student-interview-joshua

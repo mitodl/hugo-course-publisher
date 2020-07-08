@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 4da5c6bc8115d351b82422189a6f451c
 inline_embed_id: '62858398clip2:chainrule,revisited64140176'
+order_index: 948
 parent_uid: 0bc7f9cd2fd4599019832c45df40e073
 related_resources_text: ''
 short_url: clip-2-chain-rule-revisited

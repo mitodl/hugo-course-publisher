@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 116041738cf4ac25059a265150f72ace
 inline_embed_id: '21295756lecture11:dynamicprogramming:all-pairsshortestpaths85118296'
+order_index: 207
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-11-dynamic-programming-all-pairs-shortest-paths

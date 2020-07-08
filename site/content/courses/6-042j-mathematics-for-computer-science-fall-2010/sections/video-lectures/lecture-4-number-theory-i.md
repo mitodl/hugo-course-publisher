@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: e459b110b2b59e1c8b20f172addf14ab
 inline_embed_id: '49098925lecture4:numbertheoryi77008399'
+order_index: 58
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-4-number-theory-i

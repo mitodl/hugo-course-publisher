@@ -4,7 +4,7 @@ course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-201
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: 584c2218ca0f3ca2a5801dd42e0019e1
-    weight: 40
+    weight: 60
     parent: 93633c3e763e0e991be7a7388bafdbb7
 ---
 _In this section, Kristen Railey shares her insights about supporting workshop participants with different background experiences in coding._

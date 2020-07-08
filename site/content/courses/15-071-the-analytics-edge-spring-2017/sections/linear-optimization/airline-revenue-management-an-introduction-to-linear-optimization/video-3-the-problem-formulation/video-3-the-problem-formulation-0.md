@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 0f28692e24bd8eb1990871854a0b18f6
 inline_embed_id: 26228954video3theproblemformulation1267899
+order_index: 1814
 parent_uid: e9725d1bf88eacdd5ae8cd5e31dbe7cc
 related_resources_text: ''
 short_url: video-3-the-problem-formulation-0

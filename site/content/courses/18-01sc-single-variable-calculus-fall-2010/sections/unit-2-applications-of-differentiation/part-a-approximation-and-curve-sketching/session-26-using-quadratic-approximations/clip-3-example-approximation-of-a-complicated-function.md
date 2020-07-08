@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: d4aea5c0c057e476dc4d7f5421d62ad9
 inline_embed_id: '7044995clip3:example:approximationofacomplicatedfunction3612068'
+order_index: 1222
 parent_uid: 83a48b57d3d2a4086881aa5771dbfcba
 related_resources_text: ''
 short_url: clip-3-example-approximation-of-a-complicated-function

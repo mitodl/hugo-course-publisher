@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 76f7470842105d91404f00ea256e65cb
 inline_embed_id: 42897888bipartitematching50374003
+order_index: 1096
 parent_uid: 68230ebe4f1e941843d991caad882931
 related_resources_text: ''
 short_url: bipartite-matching-0

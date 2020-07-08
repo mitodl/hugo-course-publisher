@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 999866b9a02c84d7079cf1336a50efe7
 inline_embed_id: 27841187video1predictivepolicing75277966
+order_index: 1612
 parent_uid: 716f78f61fe6c5f47370d7a3c4127827
 related_resources_text: ''
 short_url: video-1-predictive-policing-0

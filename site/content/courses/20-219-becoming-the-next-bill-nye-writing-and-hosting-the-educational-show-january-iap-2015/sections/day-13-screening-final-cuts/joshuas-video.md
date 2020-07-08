@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: e3845a223015bfe83e5ca469f9b4990e
 inline_embed_id: 26253308joshua'svideo32871641
+order_index: 999
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
 related_resources_text: ''
 short_url: joshuas-video

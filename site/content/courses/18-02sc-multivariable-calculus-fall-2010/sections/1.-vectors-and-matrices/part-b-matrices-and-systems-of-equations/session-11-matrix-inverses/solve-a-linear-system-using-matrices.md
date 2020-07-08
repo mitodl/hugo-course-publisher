@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 1b47f06a2aaa059136d0fbc662ff64aa
 inline_embed_id: 58871904solvealinearsystemusingmatrices94096632
+order_index: 334
 parent_uid: 1d9d5040576ea02c3a979204ca7b1e30
 related_resources_text: ''
 short_url: solve-a-linear-system-using-matrices

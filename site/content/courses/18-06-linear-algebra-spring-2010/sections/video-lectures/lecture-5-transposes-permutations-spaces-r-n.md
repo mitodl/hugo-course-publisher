@@ -85,6 +85,7 @@ embedded_media:
     type: Transcript
     uid: ba832020bdbc8f3af2cd8c7800c2b1a9
 inline_embed_id: '93755024lecture5:transposes,permutations,spacesr^n31642041'
+order_index: 110
 parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"

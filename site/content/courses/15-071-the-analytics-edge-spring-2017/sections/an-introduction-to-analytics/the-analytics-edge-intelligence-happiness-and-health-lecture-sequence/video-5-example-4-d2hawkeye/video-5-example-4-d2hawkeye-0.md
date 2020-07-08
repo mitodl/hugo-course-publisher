@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 83e4bae5afa1b453f63d3bc4993b0aaa
 inline_embed_id: 14538733video5example4d2hawkeye18019554
+order_index: 86
 parent_uid: dd0e31df5551708af83d36da17c4c663
 related_resources_text: ''
 short_url: video-5-example-4-d2hawkeye-0

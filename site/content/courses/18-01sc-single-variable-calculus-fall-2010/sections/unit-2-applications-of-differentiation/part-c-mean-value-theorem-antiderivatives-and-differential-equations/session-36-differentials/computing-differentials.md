@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 276ea13515323651d3ca75f95b7a071e
 inline_embed_id: 31453935computingdifferentials90112499
+order_index: 1662
 parent_uid: fa53a54f73841c72094dc4856e73978e
 related_resources_text: ''
 short_url: computing-differentials

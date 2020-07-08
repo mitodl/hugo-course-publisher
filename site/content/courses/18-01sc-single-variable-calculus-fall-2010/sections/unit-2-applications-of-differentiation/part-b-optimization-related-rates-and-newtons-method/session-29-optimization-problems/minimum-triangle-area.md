@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 04af8c226ff1c179b63b366835f5abc4
 inline_embed_id: 36601435minimumtrianglearea97860682
+order_index: 1366
 parent_uid: 588fcaecbbe5091660dfdf0b2efe6908
 related_resources_text: ''
 short_url: minimum-triangle-area

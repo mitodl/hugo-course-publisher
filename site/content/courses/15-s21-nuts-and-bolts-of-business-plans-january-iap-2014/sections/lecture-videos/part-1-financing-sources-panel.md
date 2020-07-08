@@ -58,6 +58,7 @@ embedded_media:
     type: Video
     uid: 6a3194e0be5d6788e8e39135413a9429
 inline_embed_id: '90927220part1:financingsourcespanel80891870'
+order_index: 64
 parent_uid: 7425dbab24bd40b9d0c0c704cab7eab2
 related_resources_text: ''
 short_url: part-1-financing-sources-panel

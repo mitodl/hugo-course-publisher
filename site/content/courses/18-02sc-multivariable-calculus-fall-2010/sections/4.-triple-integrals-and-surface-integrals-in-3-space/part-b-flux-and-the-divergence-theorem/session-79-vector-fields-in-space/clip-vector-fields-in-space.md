@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 29445c31a396a77950c1cfeb17fc7dc7
 inline_embed_id: '59133957clip:vectorfieldsinspace21904125'
+order_index: 2518
 parent_uid: cb1f2e44229f3ba50543b58ec8cc851e
 related_resources_text: ''
 short_url: clip-vector-fields-in-space

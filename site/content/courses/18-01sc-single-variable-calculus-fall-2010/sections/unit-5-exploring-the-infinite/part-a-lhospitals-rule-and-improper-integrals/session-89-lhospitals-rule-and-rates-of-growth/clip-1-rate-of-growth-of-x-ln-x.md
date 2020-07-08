@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: e318cb19133ef5fdb41f618debb8d674
 inline_embed_id: '81262189clip1:rateofgrowthofxln(x)88259496'
+order_index: 3776
 parent_uid: 2f33db827cc33056ef710f503d79cc8f
 related_resources_text: ''
 short_url: clip-1-rate-of-growth-of-x-ln-x

@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: 330136e756f55ae4a5f8403bff48a155
 inline_embed_id: '62480281lecture7:incrementalanalysis2481484'
+order_index: 189
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture notes (<a title="Open in a new window." target="_blank"

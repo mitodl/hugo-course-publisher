@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 4451976f83020c3a50db0a40f6cc4ed1
 inline_embed_id: '84001787studentinterview:yuliya71859708'
+order_index: 929
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
 related_resources_text: ''
 short_url: student-interview-yuliya

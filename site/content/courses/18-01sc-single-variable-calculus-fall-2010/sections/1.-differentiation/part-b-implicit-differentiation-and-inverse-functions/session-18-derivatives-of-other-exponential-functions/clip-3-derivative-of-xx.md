@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 6fc0a7dcb044055587a2f155bfa3796e
 inline_embed_id: '60137589clip3:derivativeofxx51385087'
+order_index: 849
 parent_uid: 0cf2fa75aeb682dbf14c169c98cd1a15
 related_resources_text: ''
 short_url: clip-3-derivative-of-xx

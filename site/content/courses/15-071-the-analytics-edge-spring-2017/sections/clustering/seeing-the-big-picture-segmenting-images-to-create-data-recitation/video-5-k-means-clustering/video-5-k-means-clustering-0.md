@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 8b836addc67a0fe657f492ae7955a2db
 inline_embed_id: 86641707video5kmeansclustering4804050
+order_index: 1507
 parent_uid: 463ba1ca1b89e0017fa87ebc26673bd4
 related_resources_text: ''
 short_url: video-5-k-means-clustering-0

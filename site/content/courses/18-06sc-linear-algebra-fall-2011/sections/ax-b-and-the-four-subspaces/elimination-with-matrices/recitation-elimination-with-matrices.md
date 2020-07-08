@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 3a88674ba7589c224b18a8ef4586cc28
 inline_embed_id: '47583709recitation:eliminationwithmatrices21737920'
+order_index: 95
 parent_uid: 060c0abff39949c6f5beff6291e747a5
 related_resources_text: ''
 short_url: recitation-elimination-with-matrices

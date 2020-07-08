@@ -63,6 +63,7 @@ embedded_media:
     type: Video
     uid: 58645a45538586c95d2fdf6d8ecdd0f6
 inline_embed_id: 68885198lecture17thermodynamicsnowwhathappenswhenyouheatitup88736385
+order_index: 375
 parent_uid: 74d44776ec127476168be0f074e4269b
 related_resources_text: ''
 short_url: lecture-17-thermodynamics-now-what-happens-when-you-heat-it-up

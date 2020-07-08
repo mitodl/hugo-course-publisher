@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: f2ad66bd52fba57493ad14db9336e46b
 inline_embed_id: '43446302clip:fluxacrossacurve25549710'
+order_index: 2151
 parent_uid: 667a15fc543385da7673e4a4912acd3d
 related_resources_text: ''
 short_url: clip-flux-across-a-curve

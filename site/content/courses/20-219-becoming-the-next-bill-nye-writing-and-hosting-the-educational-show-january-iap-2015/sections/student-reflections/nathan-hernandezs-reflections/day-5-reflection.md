@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: b35aede216f53a2a068298c08c732fd4
 inline_embed_id: 18638267day5reflection20557423
+order_index: 1524
 parent_uid: f96632a88b4225f3f84e318abddd7856
 related_resources_text: ''
 short_url: day-5-reflection

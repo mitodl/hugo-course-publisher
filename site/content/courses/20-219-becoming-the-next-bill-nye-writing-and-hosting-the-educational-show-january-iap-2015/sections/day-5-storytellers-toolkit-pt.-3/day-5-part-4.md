@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: ef46f2d26817f235989fffee01603e88
 inline_embed_id: '98835927day5,part475441368'
+order_index: 551
 parent_uid: eee7bfe91be2975c496fb04747f0e092
 related_resources_text: ''
 short_url: day-5-part-4

@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: b68a70994ef3253d542db35c88f0baa3
 inline_embed_id: 44365373partiiioffixed-incomesecurities48732370
+order_index: 89
 parent_uid: e36e45817f0efb9e693035ba1f600e6d
 related_resources_text: ''
 short_url: part-iii-of-fixed-income-securities

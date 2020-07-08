@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: e42c7ffe2613c64e9b22e1b60c1c96c0
 inline_embed_id: '519306clip1:introductiontol''hospital''srule87769885'
+order_index: 3672
 parent_uid: c9916c2b11369b0f6489e2805c8cd4c5
 related_resources_text: ''
 short_url: clip-1-introduction-to-lhospitals-rule

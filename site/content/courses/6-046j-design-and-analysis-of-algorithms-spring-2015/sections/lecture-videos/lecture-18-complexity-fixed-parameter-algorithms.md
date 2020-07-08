@@ -59,6 +59,7 @@ embedded_media:
     type: Transcript
     uid: 2f72faa3b639f27b718d718a42bf38fe
 inline_embed_id: '81350518lecture18:complexity:fixed-parameteralgorithms14428533'
+order_index: 277
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-18-complexity-fixed-parameter-algorithms

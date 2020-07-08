@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 717b15627bfc5032e59591b55ecb66c7
 inline_embed_id: '91701459clip3:numericalintegrationstudytips29098590'
+order_index: 2732
 parent_uid: 602ce034a62f6b4a95884c519f8f4412
 related_resources_text: ''
 short_url: copy2_of_clip-1-integral-of-1-x-trapezoids

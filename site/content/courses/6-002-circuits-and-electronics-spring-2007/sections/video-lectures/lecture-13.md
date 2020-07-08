@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: ee6ff1f33746a884d303ed42223ed855
 inline_embed_id: '30955810lecture13:digitalcircuitspeed77922670'
+order_index: 273
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture notes (<a target="_blank" title="Open in a new window."

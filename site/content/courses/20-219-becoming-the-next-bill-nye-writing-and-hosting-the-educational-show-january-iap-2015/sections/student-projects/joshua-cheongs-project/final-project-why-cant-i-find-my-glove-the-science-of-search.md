@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 83e34e056fd6f43674db9b1c6bb9e24b
 inline_embed_id: '30383488finalproject:whycan''tifindmyglove?thescienceofsearch72118486'
+order_index: 1115
 parent_uid: 32b67e5b521005d4f8119b60fb7ee964
 related_resources_text: ''
 short_url: final-project-why-cant-i-find-my-glove-the-science-of-search

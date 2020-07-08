@@ -85,6 +85,7 @@ embedded_media:
     type: Transcript
     uid: 4b0009c10a96a5d3c6b46506e72426ef
 inline_embed_id: '90997373lecture30:lineartransformationsandtheirmatrices98658916'
+order_index: 448
 parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"

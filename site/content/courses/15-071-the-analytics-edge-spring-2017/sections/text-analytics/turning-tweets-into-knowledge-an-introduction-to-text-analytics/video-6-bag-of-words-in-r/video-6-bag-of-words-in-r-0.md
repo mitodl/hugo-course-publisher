@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: a598e76bfb7a82caa4a96a45d629d62c
 inline_embed_id: 29274325video6bagofwordsinr25075963
+order_index: 1098
 parent_uid: b8c9ec4867a6977eb31db490c342ef38
 related_resources_text: ''
 short_url: video-6-bag-of-words-in-r-0

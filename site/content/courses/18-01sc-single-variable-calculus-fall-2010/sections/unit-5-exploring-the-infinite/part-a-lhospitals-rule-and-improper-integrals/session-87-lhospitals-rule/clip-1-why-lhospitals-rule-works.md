@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: d4827faf6ffebca46578e23220dcc845
 inline_embed_id: '97336007clip1:whyl''hospital''sruleworks46433803'
+order_index: 3692
 parent_uid: c9916c2b11369b0f6489e2805c8cd4c5
 related_resources_text: ''
 short_url: clip-1-why-lhospitals-rule-works

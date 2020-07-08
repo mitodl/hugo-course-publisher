@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 7caad61a6e2f12029714b697f67ef9c2
 inline_embed_id: 19237435engagingstudents25731095
+order_index: 39
 parent_uid: 92d158be1dbd82a1c08d824bff9d0d79
 related_resources_text: ''
 short_url: engaging-learners

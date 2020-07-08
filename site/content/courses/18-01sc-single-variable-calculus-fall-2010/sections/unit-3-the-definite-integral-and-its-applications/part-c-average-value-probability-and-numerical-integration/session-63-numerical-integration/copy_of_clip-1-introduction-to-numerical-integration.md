@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: c66d203a3021c10f71118f9b8d20779d
 inline_embed_id: '72550146clip3:trapezoidalrule25433129'
+order_index: 2675
 parent_uid: be07f2bde3305a676f66884dbf8397d1
 related_resources_text: ''
 short_url: copy_of_clip-1-introduction-to-numerical-integration

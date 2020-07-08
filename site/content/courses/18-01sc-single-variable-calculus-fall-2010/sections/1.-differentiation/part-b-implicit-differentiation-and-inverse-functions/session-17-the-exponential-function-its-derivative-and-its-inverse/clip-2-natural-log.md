@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: a9707203de1c5e58477cbf6a5aafbd7f
 inline_embed_id: '24353710clip2:naturallog61935176'
+order_index: 790
 parent_uid: 625f9141b9dc5a9365acef497e19af09
 related_resources_text: ''
 short_url: clip-2-natural-log

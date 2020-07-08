@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 611ae869b6b31d29694939cc2082238b
 inline_embed_id: 73276326modellingaresonance60703864
+order_index: 993
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: modelling-a-resonance

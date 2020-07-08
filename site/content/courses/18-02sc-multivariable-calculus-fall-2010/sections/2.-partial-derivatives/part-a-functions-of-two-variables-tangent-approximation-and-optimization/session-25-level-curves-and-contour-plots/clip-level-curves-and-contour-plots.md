@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 2ef4eb1b0d742298633681fc55ecca9f
 inline_embed_id: '27524075clip:levelcurvesandcontourplots60953647'
+order_index: 745
 parent_uid: 1d6472489b24f4368ee8e9e8a2dd7c81
 related_resources_text: ''
 short_url: clip-level-curves-and-contour-plots

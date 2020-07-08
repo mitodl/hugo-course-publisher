@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: dff9fbc794add529feafdee0ed753144
 inline_embed_id: 84882541anoverviewoflinearalgebra76996120
+order_index: 60
 parent_uid: ff755187ef4826e2abafb9c76026cfdb
 related_resources_text: ''
 short_url: an-overview-of-linear-algebra

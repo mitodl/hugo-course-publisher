@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 41e1f690bf55f919a0f2b832ae1d7426
 inline_embed_id: 7577494sketchingacurve57339410
+order_index: 1289
 parent_uid: 9e376e9f57362241223df5e959ea707e
 related_resources_text: ''
 short_url: sketching-a-curve

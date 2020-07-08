@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 1261afc9e7faf8ec3d06b7d166d91fdc
 inline_embed_id: '78117566clip:fundamentaltheorem44899152'
+order_index: 1861
 parent_uid: 5959801571e055a7023b590e1522b972
 related_resources_text: ''
 short_url: clip-fundamental-theorem

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: c848413447896c7c4e2a6f34e5521711
 inline_embed_id: '39009097clip1:differentialsandlinearapproximation66644663'
+order_index: 1642
 parent_uid: fa53a54f73841c72094dc4856e73978e
 related_resources_text: ''
 short_url: clip-1-differentials-and-linear-approximation

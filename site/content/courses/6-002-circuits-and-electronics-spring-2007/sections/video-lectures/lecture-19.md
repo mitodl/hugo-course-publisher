@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: 59f21145cb1e8b517b3d5c552384ed5f
 inline_embed_id: '24124917lecture19:theoperationalamplifierabstraction69326228'
+order_index: 357
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture Notes (<a target="_blank" title="Open in a new window."

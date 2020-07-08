@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: ca161c3eb83de58b93b4fd394d2f870a
 inline_embed_id: '47300611clip1:doubleintegrals,jacobian,tripleintegrals26300715'
+order_index: 3167
 parent_uid: 3dcafa5b3b8b27b9e70f458ddfc579bd
 related_resources_text: ''
 short_url: clip-1-double-integrals-jacobian-triple-integrals

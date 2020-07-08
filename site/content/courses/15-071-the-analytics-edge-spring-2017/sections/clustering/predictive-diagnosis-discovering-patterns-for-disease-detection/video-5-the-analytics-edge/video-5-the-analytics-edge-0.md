@@ -51,6 +51,7 @@ embedded_media:
     type: Thumbnail
     uid: cd36a8336475e0187a27aa97c97db4f0
 inline_embed_id: 11795849video5theanalyticsedge74168325
+order_index: 1442
 parent_uid: 738ec89ee32e8ed68e9df4d6924ebe0b
 related_resources_text: ''
 short_url: video-5-the-analytics-edge-0

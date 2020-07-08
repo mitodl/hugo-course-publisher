@@ -27,6 +27,7 @@ embedded_media:
     type: Video
     uid: 44e352797e36a837b5fb410e14f77979
 inline_embed_id: '51564594teamfirebolt:flightattempt66322136'
+order_index: 1114
 parent_uid: 87e8f47c351cccd450e9b5e03c5bbee2
 related_resources_text: ''
 short_url: team-firebolt-flight-attempt

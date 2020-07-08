@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: dd1db7c934c334502d4421b6c564b7d9
 inline_embed_id: 62459406averagevelocity25953008
+order_index: 2540
 parent_uid: 7e226a8ff6296ef690524c46584132b9
 related_resources_text: ''
 short_url: average-velocity

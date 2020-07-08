@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: fa8509b5ccb97552d6614764b5acdf38
 inline_embed_id: 637524ps.2.1workedexampleslidingblock3899235
+order_index: 578
 parent_uid: 049199c2b750bf9b074389e653cf5020
 related_resources_text: ''
 short_url: ps.2.1-worked-example-sliding-block

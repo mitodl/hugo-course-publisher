@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 3b8e9741ee1867909e29f4f940cf2922
 inline_embed_id: 53176681effectivepotentialandboundaryconditionsatr028299483
+order_index: 1083
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: effective-potential-and-boundary-conditions-at-r-0

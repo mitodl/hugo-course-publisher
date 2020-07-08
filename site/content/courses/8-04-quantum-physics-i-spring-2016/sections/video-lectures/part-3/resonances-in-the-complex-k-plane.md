@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 4a618ff6b83e526b60a0b0bc0161ba2f
 inline_embed_id: 15870283resonancesinthecomplexkplane79355447
+order_index: 1013
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: resonances-in-the-complex-k-plane

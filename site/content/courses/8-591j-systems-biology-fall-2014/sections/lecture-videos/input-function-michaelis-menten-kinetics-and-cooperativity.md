@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: bdc94f2468fa78fb170e029c0af462cc
 inline_embed_id: '48799677inputfunction,michaelis-mentenkinetics,andcooperativity48136760'
+order_index: 24
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: input-function-michaelis-menten-kinetics-and-cooperativity

@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 7af5e416979fcf790d5b41492d023d9b
 inline_embed_id: '66366751clip1:previewofstackingblocks36627978'
+order_index: 4198
 parent_uid: 67af89504ffe36b570ec6996515b988c
 related_resources_text: ''
 short_url: clip-1-preview-of-stacking-blocks

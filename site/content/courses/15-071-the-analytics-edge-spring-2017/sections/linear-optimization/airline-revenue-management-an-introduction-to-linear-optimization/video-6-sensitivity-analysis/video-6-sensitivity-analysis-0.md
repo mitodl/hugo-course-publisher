@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: c692a7d2a05a292fbda8ccf401401767
 inline_embed_id: 72873272video6sensitivityanalysis9268083
+order_index: 1851
 parent_uid: f20e206f20f79b3c410bc053183afdbb
 related_resources_text: ''
 short_url: video-6-sensitivity-analysis-0

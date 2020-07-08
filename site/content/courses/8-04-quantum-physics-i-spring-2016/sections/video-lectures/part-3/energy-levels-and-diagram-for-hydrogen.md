@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 9140a6e1fabc11d45b084312e0a1a74a
 inline_embed_id: 5370024energylevelsanddiagramforhydrogen21715703
+order_index: 1153
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: energy-levels-and-diagram-for-hydrogen

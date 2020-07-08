@@ -77,6 +77,7 @@ embedded_media:
     type: Transcript
     uid: 78373a0139c746d5183c87d6c82c61f0
 inline_embed_id: '36054473lecture5:implicitdifferentiation86912428'
+order_index: 166
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

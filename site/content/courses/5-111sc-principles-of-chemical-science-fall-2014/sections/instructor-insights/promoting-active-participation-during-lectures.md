@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 9c4e96385cb01a9c698fc5502717f554
 inline_embed_id: 23561829promotingactiveparticipationduringlectures48344966
+order_index: 61
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
 related_resources_text: ''
 short_url: promoting-active-participation-during-lectures

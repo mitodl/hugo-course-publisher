@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 26a2b5e93a4183f665ec8ecdeeee8560
 inline_embed_id: 86939556day1gödel'stheoremvideopitch1833131
+order_index: 1296
 parent_uid: 199a8a68327fee7d62ee54642710c541
 related_resources_text: ''
 short_url: day-1-goedels-theorem-video-pitch

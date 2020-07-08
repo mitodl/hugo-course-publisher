@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 986ba606aeb03291ffa9baf616caa289
 inline_embed_id: 30694188integratingsinn(x)usingreduction4959144
+order_index: 3238
 parent_uid: b196b3d2413fa8015d43695883cc671a
 related_resources_text: ''
 short_url: integrating-sinn-x-using-reduction

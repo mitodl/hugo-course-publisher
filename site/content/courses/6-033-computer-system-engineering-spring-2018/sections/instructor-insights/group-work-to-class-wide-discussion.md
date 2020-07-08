@@ -50,6 +50,7 @@ embedded_media:
     type: Video
     uid: dcfba3e0e0472cb29cfa8d578f073d06
 inline_embed_id: 37564372activelearningactivitygroupworktoclasswidediscussion66270540
+order_index: 83
 parent_uid: e75a8c08e11786c535031b5e10f0fe19
 related_resources_text: ''
 short_url: group-work-to-class-wide-discussion

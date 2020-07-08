@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: a283abd83b432d100843ebb6665b036a
 inline_embed_id: '3707640lecture6:graphtheoryandcoloring8293570'
+order_index: 78
 parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
 short_url: lecture-6-graph-theory-and-coloring

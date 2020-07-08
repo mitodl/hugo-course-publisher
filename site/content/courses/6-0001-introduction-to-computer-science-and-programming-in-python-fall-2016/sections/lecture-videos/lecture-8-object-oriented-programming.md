@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: 1891688f55320679379aa910228e1c77
 inline_embed_id: 95848175lecture8objectorientedprogramming11287831
+order_index: 76
 parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
 short_url: lecture-8-object-oriented-programming

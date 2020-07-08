@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: ad5e61193b9b74341bef71e106223e9e
 inline_embed_id: 45696203video4bagofwords45299313
+order_index: 1238
 parent_uid: 8a96d7cd01b950c8be68959be293ab00
 related_resources_text: ''
 short_url: video-4-bag-of-words-3

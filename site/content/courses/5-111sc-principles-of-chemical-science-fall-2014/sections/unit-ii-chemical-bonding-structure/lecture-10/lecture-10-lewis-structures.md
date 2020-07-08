@@ -65,6 +65,7 @@ embedded_media:
     type: Video
     uid: 2e456841b2f7afb60408a284773bacea
 inline_embed_id: 97244095lecture10lewisstructures79418893
+order_index: 262
 parent_uid: 5f89679faa0fab38a4eca4a166b9093f
 related_resources_text: ''
 short_url: lecture-10-lewis-structures

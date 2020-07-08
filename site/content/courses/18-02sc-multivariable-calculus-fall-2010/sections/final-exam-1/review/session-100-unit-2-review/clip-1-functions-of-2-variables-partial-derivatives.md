@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: 3d1da83c48881d4fbfbf19f3158c618f
 inline_embed_id: '16640603clip1:functionsof2variables,partialderivatives38653298'
+order_index: 3142
 parent_uid: ba74dfa449c8210a5b7d14173c6666b7
 related_resources_text: ''
 short_url: clip-1-functions-of-2-variables-partial-derivatives

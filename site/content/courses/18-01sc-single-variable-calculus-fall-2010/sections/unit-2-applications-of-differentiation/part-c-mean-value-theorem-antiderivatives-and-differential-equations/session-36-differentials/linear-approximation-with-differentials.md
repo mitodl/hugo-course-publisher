@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: f63fbc5ff04a47ccb7ecf34783ffe8bb
 inline_embed_id: 53352949linearapproximationwithdifferentials29215061
+order_index: 1652
 parent_uid: fa53a54f73841c72094dc4856e73978e
 related_resources_text: ''
 short_url: linear-approximation-with-differentials

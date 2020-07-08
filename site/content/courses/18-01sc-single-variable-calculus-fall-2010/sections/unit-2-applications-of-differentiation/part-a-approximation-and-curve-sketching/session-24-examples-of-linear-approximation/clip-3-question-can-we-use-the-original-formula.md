@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 1b9ae322c6af6188afe3fd48dc930c6f
 inline_embed_id: '76053183clip3:question:canweusetheoriginalformula?69629736'
+order_index: 1104
 parent_uid: 332503c09be8a2d7ca749e218630b6f3
 related_resources_text: ''
 short_url: clip-3-question-can-we-use-the-original-formula

@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 25ac5e8c0621267f45925a231d8f514a
 inline_embed_id: 55748943video3predictingheartattacksusingclustering23019763
+order_index: 1420
 parent_uid: d7f89a0bf4f5ad76faeb94bf9b442e5b
 related_resources_text: ''
 short_url: video-3-predicting-heart-attacks-using-clustering-0

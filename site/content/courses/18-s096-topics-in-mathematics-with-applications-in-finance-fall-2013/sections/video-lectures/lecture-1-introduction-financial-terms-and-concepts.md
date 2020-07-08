@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 4ab3a6c4847e5854d85b028e392b9a35
 inline_embed_id: '27495864lecture1:introduction,financialtermsandconcepts42481353'
+order_index: 56
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-1-introduction-financial-terms-and-concepts

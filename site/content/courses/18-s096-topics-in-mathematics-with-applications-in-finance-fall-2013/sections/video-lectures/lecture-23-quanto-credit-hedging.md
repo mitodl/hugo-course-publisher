@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 4b51fed8749a736cd95e1b6f89ce93b7
 inline_embed_id: '45535850lecture23:quantocredithedging34063108'
+order_index: 256
 parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
 short_url: lecture-23-quanto-credit-hedging

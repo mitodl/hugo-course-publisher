@@ -58,6 +58,7 @@ embedded_media:
     type: Transcript
     uid: 93a2569317482ef208bc5672a785d551
 inline_embed_id: 6467959asolidwithfinitevolumeandinﬁnitecrosssection95700288
+order_index: 3877
 parent_uid: 3fa268819900b3ee4bc8d590323f17dc
 related_resources_text: ''
 short_url: a-solid-with-finite-volume-and-infinite-cross-section

@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: e28189367beaec37548818c3d48f25a4
 inline_embed_id: 16332411wavesonthefinitesquarewell21323259
+order_index: 640
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: waves-on-the-finite-square-well

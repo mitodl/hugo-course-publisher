@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 2d38d3ab6d2f9ce642baa8beddf47f9c
 inline_embed_id: 39560080energyeigenstatesonagenericsymmetricpotential.shootingmethod95311930
+order_index: 722
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: energy-eigenstates-on-a-generic-symmetric-potential.-shooting-method

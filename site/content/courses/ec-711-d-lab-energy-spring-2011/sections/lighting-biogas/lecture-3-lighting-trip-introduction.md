@@ -31,6 +31,7 @@ embedded_media:
     type: Video
     uid: 9c23af403a582ef5512b71975a213146
 inline_embed_id: '24564597lecture3:lighting;tripintroduction79232098'
+order_index: 48
 parent_uid: 70e2edb13971cd3b00913ae541bcdecc
 related_resources_text: ''
 short_url: lecture-3-lighting-trip-introduction

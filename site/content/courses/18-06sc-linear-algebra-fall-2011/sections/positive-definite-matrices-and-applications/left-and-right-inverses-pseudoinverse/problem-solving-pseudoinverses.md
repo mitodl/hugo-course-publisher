@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 746cfe44a8d94b0998af418a08ef37da
 inline_embed_id: '56165631problemsolving:pseudoinverses52964421'
+order_index: 969
 parent_uid: ab040c1791a2dbfe0cb975cf0190634f
 related_resources_text: ''
 short_url: problem-solving-pseudoinverses

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 8ec807ca7a88cb9de5b718afda76679e
 inline_embed_id: '54027281clip1:derivativeofax46326619'
+order_index: 780
 parent_uid: 625f9141b9dc5a9365acef497e19af09
 related_resources_text: ''
 short_url: clip-1-derivative-of-ax

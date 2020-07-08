@@ -71,6 +71,7 @@ embedded_media:
     type: Transcript
     uid: 874d99ce478c3a73025967e9b8348fc2
 inline_embed_id: '8109634lecture23:energy,cmos18708005'
+order_index: 405
 parent_uid: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
 related_resources_text: >-
   <p>Lecture Notes (<a target="_blank" title="Open in a new window."

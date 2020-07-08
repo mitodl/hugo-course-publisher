@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: cdd6a330eeccd6dc62535f5e84eaa9d2
 inline_embed_id: '19870809clip:physicalmeaningofflux;delnotation78073845'
+order_index: 2713
 parent_uid: 249236df69e4092033efe2787a0cd1ad
 related_resources_text: ''
 short_url: clip-physical-meaning-of-flux-del-notation

@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 50dd83a42f78dc71818461dc7281a133
 inline_embed_id: 9861396subspacesofthreedimensionalspace19749853
+order_index: 170
 parent_uid: 78c64d70411ee481e2bbd7a7244a0bf3
 related_resources_text: ''
 short_url: subspaces-of-three-dimensional-space

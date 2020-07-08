@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: baa98eb88bc52f34a184cf2282a89ad8
 inline_embed_id: 38037665samplespaces80167086
+order_index: 1384
 parent_uid: 1b1e43ca67493c0e8934c9e3615247d5
 related_resources_text: ''
 short_url: sample-spaces

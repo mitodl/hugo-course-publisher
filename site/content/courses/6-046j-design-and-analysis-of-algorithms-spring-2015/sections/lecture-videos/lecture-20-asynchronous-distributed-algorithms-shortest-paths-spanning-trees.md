@@ -60,6 +60,7 @@ embedded_media:
     uid: e6dccb9301463d7676202314e0f2bf75
 inline_embed_id: >-
   58613250lecture20:asynchronousdistributedalgorithms:shortest-pathsspanningtrees37500271
+order_index: 297
 parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
 short_url: lecture-20-asynchronous-distributed-algorithms-shortest-paths-spanning-trees

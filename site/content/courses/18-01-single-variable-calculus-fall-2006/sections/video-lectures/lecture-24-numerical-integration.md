@@ -76,6 +76,7 @@ embedded_media:
     type: Transcript
     uid: 5ea0a3dd370460508c809cd0c136c6a4
 inline_embed_id: '8084751lecture24:numericalintegration17235574'
+order_index: 387
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

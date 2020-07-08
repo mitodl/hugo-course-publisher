@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 22a36e40df9e5d84be5e0e036c5d71cc
 inline_embed_id: 40747959lecture22capitalsupplyandmarketsii32959760
+order_index: 476
 parent_uid: 66c54ff6d57018af9a41352ad16e70f7
 related_resources_text: ''
 short_url: lecture-22-capital-supply-and-markets-ii

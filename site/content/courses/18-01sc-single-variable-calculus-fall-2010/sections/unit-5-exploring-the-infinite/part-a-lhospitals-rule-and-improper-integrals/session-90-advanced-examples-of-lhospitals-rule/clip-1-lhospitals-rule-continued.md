@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 0557bc5c5d5a9cfb9a76e27fb2630903
 inline_embed_id: '23230479clip1:l''hospital''srule,continued17308355'
+order_index: 3836
 parent_uid: 6cc72b08f8717a2d7b737df7f698c876
 related_resources_text: ''
 short_url: clip-1-lhospitals-rule-continued

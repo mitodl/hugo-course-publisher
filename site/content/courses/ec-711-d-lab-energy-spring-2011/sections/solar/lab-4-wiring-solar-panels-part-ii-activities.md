@@ -32,6 +32,7 @@ embedded_media:
     type: Thumbnail
     uid: 069bc708de984b5e125236ea980491f3
 inline_embed_id: '88661073lab4:wiringsolarpanels,partii:activities89284362'
+order_index: 78
 parent_uid: 97d18199d8e130f96762504a4894e1bc
 related_resources_text: ''
 short_url: lab-4-wiring-solar-panels-part-ii-activities

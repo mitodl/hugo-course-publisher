@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 5250a6771281dfda07876c86d6d2b047
 inline_embed_id: 70123389ps.1.4sketchthemotion14780301
+order_index: 387
 parent_uid: 0f1188dc261abcd9fb9aa4c677f9db3a
 related_resources_text: ''
 short_url: ps.1.4-sketch-the-motion

@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: d84865b3f5b8bb6851e8c0823cce2ee4
 inline_embed_id: 7991347lecture11formalchargeandresonance21461650
+order_index: 275
 parent_uid: bbd6f3cbd22ba979f3c53baa993e82b8
 related_resources_text: ''
 short_url: lecture-11-formal-charge-and-resonance

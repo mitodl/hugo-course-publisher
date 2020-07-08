@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: d3ee4795ca8d14720f2d590f345abb29
 inline_embed_id: 315976video7theroccurve52985046
+order_index: 1268
 parent_uid: 19c7a1c6b044e1b2c2b1916f5be9f51f
 related_resources_text: ''
 short_url: video-7-the-roc-curve-0

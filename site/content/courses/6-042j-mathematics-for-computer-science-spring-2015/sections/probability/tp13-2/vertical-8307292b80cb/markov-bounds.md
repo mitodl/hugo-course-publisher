@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: efa3f13a7a3b1d3c6a8acaed585238ab
 inline_embed_id: 89196972markovboundsvideo91210697
+order_index: 1604
 parent_uid: f72196b0fb5125ce246847fc86beda90
 related_resources_text: ''
 short_url: markov-bounds

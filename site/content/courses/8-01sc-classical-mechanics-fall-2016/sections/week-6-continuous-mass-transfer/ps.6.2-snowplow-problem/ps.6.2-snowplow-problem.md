@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 1e02c3634aa8690493afd7d58e8f1617
 inline_embed_id: 96398810ps.6.2snowplowproblem96202065
+order_index: 1299
 parent_uid: a58a3ece6fdc129d75645ca98d437fce
 related_resources_text: ''
 short_url: ps.6.2-snowplow-problem

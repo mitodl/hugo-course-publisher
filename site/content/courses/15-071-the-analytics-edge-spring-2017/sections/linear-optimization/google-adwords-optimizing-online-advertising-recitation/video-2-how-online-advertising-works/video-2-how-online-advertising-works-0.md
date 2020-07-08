@@ -58,6 +58,7 @@ embedded_media:
     type: Video
     uid: eec54781ab8e98927720b1fa7c40a659
 inline_embed_id: 17701981video2howonlineadvertisingworks52695620
+order_index: 1978
 parent_uid: 9ca8d5221938d4b571f2f13ccdb46a19
 related_resources_text: ''
 short_url: video-2-how-online-advertising-works-0

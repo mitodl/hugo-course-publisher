@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 1c8e36ecb0377270d6d0219d31495913
 inline_embed_id: '20229414green''stheorem:anoffcentercircle45019706'
+order_index: 2033
 parent_uid: bb85ae20524b81e6eb9ad8ae9cd2220c
 related_resources_text: ''
 short_url: greens-theorem-an-off-center-circle

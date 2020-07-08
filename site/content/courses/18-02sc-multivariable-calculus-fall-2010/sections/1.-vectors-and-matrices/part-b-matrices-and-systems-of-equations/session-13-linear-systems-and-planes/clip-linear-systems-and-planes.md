@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 2029c6618cb8ddf115918fe6d2380009
 inline_embed_id: '69350590clip:linearsystemsandplanes48603838'
+order_index: 399
 parent_uid: 6362fcf67aa8fa07ec5a3312c93ef17d
 related_resources_text: ''
 short_url: clip-linear-systems-and-planes

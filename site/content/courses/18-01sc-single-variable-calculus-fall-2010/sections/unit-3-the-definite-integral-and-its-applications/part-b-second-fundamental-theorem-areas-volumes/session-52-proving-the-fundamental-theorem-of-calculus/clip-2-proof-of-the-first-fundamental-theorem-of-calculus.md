@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 5a152ffc67927039ad33e6b5348bfddf
 inline_embed_id: '99141792clip2:proofofthefirstfundamentaltheoremofcalculus64510329'
+order_index: 2273
 parent_uid: 593f157526f1927fd6ea05e37c3d4475
 related_resources_text: ''
 short_url: clip-2-proof-of-the-first-fundamental-theorem-of-calculus

@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 56df328608b0300f6b9d53498d64e790
 inline_embed_id: '62718722clip:examplesofdoubleintegration70351331'
+order_index: 1474
 parent_uid: 3ad461149d5e6097256336b54cf159d4
 related_resources_text: ''
 short_url: clip-examples-of-double-integration

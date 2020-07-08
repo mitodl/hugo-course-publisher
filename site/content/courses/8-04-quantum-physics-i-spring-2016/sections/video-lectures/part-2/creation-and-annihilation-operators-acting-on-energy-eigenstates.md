@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 7f8d751ba19098ed20c783202b7faf9a
 inline_embed_id: 24063500creationandannihilationoperatorsactingonenergyeigenstates55393593
+order_index: 892
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: creation-and-annihilation-operators-acting-on-energy-eigenstates

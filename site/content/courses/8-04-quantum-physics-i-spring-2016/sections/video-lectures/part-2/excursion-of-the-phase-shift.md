@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 13ace1f4cd179cc71517c16b1de4f25a
 inline_embed_id: 47864016excursionofthephaseshift48446823
+order_index: 743
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: excursion-of-the-phase-shift

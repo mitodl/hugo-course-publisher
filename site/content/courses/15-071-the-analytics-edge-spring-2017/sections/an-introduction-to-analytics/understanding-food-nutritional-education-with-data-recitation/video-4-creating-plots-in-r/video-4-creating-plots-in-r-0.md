@@ -51,6 +51,7 @@ embedded_media:
     type: Thumbnail
     uid: 4aa0dcf1070ca56112ae0537ab41e6a6
 inline_embed_id: 71661747video4creatingplotsinr33452004
+order_index: 231
 parent_uid: f02a2b52b26ae5f08dddd7d9208d585d
 related_resources_text: ''
 short_url: video-4-creating-plots-in-r-0

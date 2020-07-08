@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 6dfe524c819366619b6c3023c1ae225a
 inline_embed_id: 87251609video4solvingtheproblem66939274
+order_index: 1829
 parent_uid: 86a033cce142d448a8bb9112a73f89db
 related_resources_text: ''
 short_url: video-4-solving-the-problem-0

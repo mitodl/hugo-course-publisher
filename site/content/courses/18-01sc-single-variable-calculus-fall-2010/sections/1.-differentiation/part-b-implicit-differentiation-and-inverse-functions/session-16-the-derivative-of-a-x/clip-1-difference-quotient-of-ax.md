@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: e02ccd1a14df42b7a1829c605cfdde60
 inline_embed_id: '4667395clip1:differencequotientofax30974517'
+order_index: 740
 parent_uid: a08812a629e76732837d8a39d48fc8fa
 related_resources_text: ''
 short_url: clip-1-difference-quotient-of-ax

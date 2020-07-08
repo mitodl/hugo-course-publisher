@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: d22e843debbef9cb375464486ea6c0f4
 inline_embed_id: 77776328consequencesofstokes'theorem38509573
+order_index: 3020
 parent_uid: f551eb109c522f31323984495ef23ce8
 related_resources_text: ''
 short_url: consequences-of-stokes-theorem

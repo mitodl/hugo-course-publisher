@@ -36,6 +36,7 @@ embedded_media:
     type: Caption
     uid: 200ab86f94f3ce1938569da3fd8a5fea
 inline_embed_id: '55168856clip:potentialfunctions79506002'
+order_index: 1962
 parent_uid: d4f09bad1bc504b82a719aa7c3f72168
 related_resources_text: ''
 short_url: clip-potential-functions

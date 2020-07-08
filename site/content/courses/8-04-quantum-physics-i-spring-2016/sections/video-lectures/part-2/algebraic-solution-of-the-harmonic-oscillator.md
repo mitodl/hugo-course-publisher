@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 2486fd0bf3fce26ccde5da4011a20fbd
 inline_embed_id: 58763513algebraicsolutionoftheharmonicoscillator68926511
+order_index: 850
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: algebraic-solution-of-the-harmonic-oscillator

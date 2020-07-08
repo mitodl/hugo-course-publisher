@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 0fc04ce38d3a30712931299e7c216cc9
 inline_embed_id: '70642278lecture9:constraints:visualobjectrecognition75030584'
+order_index: 99
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: >-
   <p>Prof. Winston wrote about <a

@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 5624d34a2f3ef9ef87841d9ae829ff73
 inline_embed_id: 99459931usinghumortoenhancelearning80500656
+order_index: 51
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
 related_resources_text: ''
 short_url: using-humor-to-enhance-learning

@@ -51,6 +51,7 @@ embedded_media:
     type: Transcript
     uid: 981bee4e2f0587724a43eb4a95321a02
 inline_embed_id: 23175250video1theproblem72729334
+order_index: 2185
 parent_uid: 5e9398f5808e614ec06fe6634bc50d7e
 related_resources_text: ''
 short_url: video-1-the-problem-0

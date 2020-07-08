@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: e3918c118cb2ec643ae62079bdc93892
 inline_embed_id: '87169865lecture6:avltrees,avlsort48833804'
+order_index: 106
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-6-avl-trees-avl-sort

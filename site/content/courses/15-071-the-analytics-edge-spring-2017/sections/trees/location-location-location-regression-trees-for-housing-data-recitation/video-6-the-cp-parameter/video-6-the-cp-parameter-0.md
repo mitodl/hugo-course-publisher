@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: 4a765890ce1f2b9f41ca7c2e38f89ba6
 inline_embed_id: 62326559video6thecpparameter51737652
+order_index: 1006
 parent_uid: 14da7d12ae8a4e886ad3ec1166945b9c
 related_resources_text: ''
 short_url: video-6-the-cp-parameter-0

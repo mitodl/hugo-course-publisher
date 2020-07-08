@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 08b52a8df02b856e0ee4715db4c3e819
 inline_embed_id: '96379344clip3:boilingcauldron,continued66588762'
+order_index: 2577
 parent_uid: d2dac4c5783973f0083cdd3859d4cda5
 related_resources_text: ''
 short_url: clip-3-boiling-cauldron-continued

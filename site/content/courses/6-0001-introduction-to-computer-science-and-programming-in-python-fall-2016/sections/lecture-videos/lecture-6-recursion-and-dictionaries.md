@@ -59,6 +59,7 @@ embedded_media:
     type: Video
     uid: a40ebdd2f48c32dc968cd65777f09867
 inline_embed_id: 88468141lecture6recursionanddictionaries29035895
+order_index: 56
 parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
 short_url: lecture-6-recursion-and-dictionaries

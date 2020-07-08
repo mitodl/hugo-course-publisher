@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: f30e66507139f5014a0fc08a6781faf4
 inline_embed_id: '80534225lecture14:samplingandmontecarlosimulation52623742'
+order_index: 283
 parent_uid: eb6bcb74e4a6c927a72e0bf586910c4c
 related_resources_text: ''
 short_url: lecture-14-sampling-and-monte-carlo-simulation

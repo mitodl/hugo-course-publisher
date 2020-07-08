@@ -35,7 +35,9 @@ course_info:
     - Prof. Cleve Moler
   departments:
     - Supplemental Resources
-  course_features: []
+  course_features:
+    - feature: AV lectures
+      subfeature: Video
   topics:
     Engineering:
       Computer Science:

@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: b9040d73a265288bc75c27ee304195c5
 inline_embed_id: 75300119fluxthrougheasysurfaces23559121
+order_index: 2546
 parent_uid: 076b5dffcda3d135851cf7a311c53208
 related_resources_text: ''
 short_url: flux-through-easy-surfaces

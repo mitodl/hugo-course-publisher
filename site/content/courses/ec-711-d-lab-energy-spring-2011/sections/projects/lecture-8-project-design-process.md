@@ -31,6 +31,7 @@ embedded_media:
     type: Video
     uid: 26898bb6009597ccd6701283b8670f55
 inline_embed_id: '75482616lecture8:projectdesignprocess42060913'
+order_index: 136
 parent_uid: b769b31f283dae0eca5f75068d997bdb
 related_resources_text: ''
 short_url: lecture-8-project-design-process

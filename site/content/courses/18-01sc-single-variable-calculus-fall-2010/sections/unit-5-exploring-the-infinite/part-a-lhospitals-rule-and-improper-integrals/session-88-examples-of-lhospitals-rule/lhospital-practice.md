@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: 1c1169e2537fbf9f6ab9afe0a50a0bb6
 inline_embed_id: 83549612l'hospitalpractice58714652
+order_index: 3741
 parent_uid: 7a8cdab56a9e46b35225a2bc22295a0f
 related_resources_text: ''
 short_url: lhospital-practice

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 03fe68a26aa6a871cc386cb945175dc0
 inline_embed_id: '17028456clip1:graphofr=2acos(theta)71705017'
+order_index: 3536
 parent_uid: cfd25e33da1a2e54749f33591f59a4ba
 related_resources_text: ''
 short_url: clip-1-graph-of-r-2a-cos-theta-1

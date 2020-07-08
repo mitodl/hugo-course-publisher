@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 0c2e25f54a73ce540742dfbac6ce5172
 inline_embed_id: 3899252oscillatorygeneticnetworks36964253
+order_index: 54
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: oscillatory-genetic-networks

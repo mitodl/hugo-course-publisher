@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 13fc9b43175f805d7b2adf48d7cf0721
 inline_embed_id: 2635683angularmomentumoperatorsandtheiralgebra49040029
+order_index: 1033
 parent_uid: 8d915edda01487758e5f16d04eeccd76
 related_resources_text: ''
 short_url: angular-momentum-operators-and-their-algebra

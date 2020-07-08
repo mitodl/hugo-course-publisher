@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 5dd0d6f557531de3efc22acb2d135d10
 inline_embed_id: 87671473exam2review8038919
+order_index: 703
 parent_uid: 1d3266496e0830e57e069f94d70f88bb
 related_resources_text: ''
 short_url: exam-2-review

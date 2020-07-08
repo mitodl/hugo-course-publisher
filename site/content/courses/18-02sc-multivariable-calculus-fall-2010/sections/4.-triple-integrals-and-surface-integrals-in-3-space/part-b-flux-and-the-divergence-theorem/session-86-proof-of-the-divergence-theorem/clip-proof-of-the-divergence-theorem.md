@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: 7f82af87053ac86188cb49e6600af935
 inline_embed_id: '58609109clip:proofofthedivergencetheorem39546480'
+order_index: 2743
 parent_uid: 03a91fede2f7988b991d1ddd6eb70a7c
 related_resources_text: ''
 short_url: clip-proof-of-the-divergence-theorem

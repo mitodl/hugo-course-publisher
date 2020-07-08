@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: 5c2d39ac09c4c9daa3dafcdb81784314
 inline_embed_id: 7008579wopvsinductionoptional2964861
+order_index: 512
 parent_uid: 5f6a10de78bd30e31029095bd5d73d7b
 related_resources_text: ''
 short_url: wop-vs-induction

@@ -60,6 +60,7 @@ embedded_media:
     uid: 5b6bda1979b7910275236c1d671fdc14
 inline_embed_id: >-
   54374831recitation7:incrementalimprovement:applicationsofnetworkflow&matching79954929
+order_index: 410
 parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
 short_url: recitation-7-incremental-improvement-applications-of-network-flow-matching

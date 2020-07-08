@@ -35,6 +35,7 @@ embedded_media:
     type: Caption
     uid: a166e6c55457d450079ecb0b65d3ff98
 inline_embed_id: '46067547clip:proof62390838'
+order_index: 1114
 parent_uid: 35a3500caf50f550a59f1b0dfe9285b9
 related_resources_text: ''
 short_url: clip-proof

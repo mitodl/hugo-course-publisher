@@ -60,6 +60,7 @@ embedded_media:
     type: Video
     uid: 36b8c499e336f85378855e2264a1e1d9
 inline_embed_id: 76370732lecture19saddlepointscontinuedmaxminprinciple49769046
+order_index: 197
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-19-saddle-points-continued-maxmin-principle

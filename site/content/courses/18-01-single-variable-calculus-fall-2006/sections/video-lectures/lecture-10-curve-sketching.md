@@ -76,6 +76,7 @@ embedded_media:
     type: Transcript
     uid: c33362682787b30b5046e52b16e71c19
 inline_embed_id: '13868120lecture10:curvesketching56307699'
+order_index: 218
 parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a

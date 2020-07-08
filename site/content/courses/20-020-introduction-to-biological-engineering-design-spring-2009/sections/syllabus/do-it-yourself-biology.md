@@ -15,6 +15,7 @@ embedded_media:
     type: Thumbnail
     uid: b0f435b34b46a28c57bf41096df2794d
 inline_embed_id: 58770845do-it-yourselfbiology64348417
+order_index: 5
 parent_uid: 39c524155b2790c75ad9577dafb7b7a3
 related_resources_text: ''
 short_url: do-it-yourself-biology

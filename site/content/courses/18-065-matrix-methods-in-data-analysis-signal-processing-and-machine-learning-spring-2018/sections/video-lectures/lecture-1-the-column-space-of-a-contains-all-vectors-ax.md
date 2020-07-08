@@ -58,6 +58,7 @@ embedded_media:
     type: Video
     uid: c3aa6488f78920e71fd4d7cf2c3a4ad7
 inline_embed_id: 59617895lecture1thecolumnspaceofacontainsallvectorsax44184714
+order_index: 32
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
 short_url: lecture-1-the-column-space-of-a-contains-all-vectors-ax

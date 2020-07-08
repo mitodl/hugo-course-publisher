@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: f81f36599edb4eeab1fe45f792d2e2db
 inline_embed_id: 57792533randomwalks76390244
+order_index: 1700
 parent_uid: ec31be5e21ec45ab3eab7ab45d2e85b7
 related_resources_text: ''
 short_url: random-walks

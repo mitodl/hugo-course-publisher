@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: b8385f86160ab10ba4ebed4bd2ef0a05
 inline_embed_id: 56673256extendedgauss'theorem52555895
+order_index: 2690
 parent_uid: d088492f402f9db5c30dcd82be2c37a6
 related_resources_text: ''
 short_url: extended-gauss-theorem

@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 486324215ec3dce854082e0a09fac509
 inline_embed_id: '89208381clip2:summationnotation79838983'
+order_index: 1931
 parent_uid: 9f42b86cbcb7812f84f2846c3d7ce9f5
 related_resources_text: ''
 short_url: clip-2-summation-notation

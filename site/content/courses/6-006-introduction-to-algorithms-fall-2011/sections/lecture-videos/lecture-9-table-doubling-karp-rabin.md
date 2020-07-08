@@ -60,6 +60,7 @@ embedded_media:
     type: Transcript
     uid: 65678fa6cff56fc95cf6eaacc1c39332
 inline_embed_id: '76238220lecture9:tabledoubling,karp-rabin28992044'
+order_index: 136
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-9-table-doubling-karp-rabin

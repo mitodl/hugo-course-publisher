@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 0cd0fdff38b16d720939af9316bac073
 inline_embed_id: 89027204introductiontotheclassandoverviewoftopics97113749
+order_index: 14
 parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
 short_url: introduction-to-the-class-and-overview-of-topics

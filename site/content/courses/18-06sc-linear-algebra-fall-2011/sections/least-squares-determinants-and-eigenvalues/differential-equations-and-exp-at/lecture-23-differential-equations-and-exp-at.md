@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: e5ac87f41f6884abfd51dd1ba55dc51c
 inline_embed_id: '46503941lecture23:differentialequationsandexp(at)49693487'
+order_index: 646
 parent_uid: 2e8f3fde52a442affa1d8cd0213b4d74
 related_resources_text: ''
 short_url: lecture-23-differential-equations-and-exp-at

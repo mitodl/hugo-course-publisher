@@ -56,6 +56,7 @@ embedded_media:
     type: Transcript
     uid: 8df0db963f733d9a3942cb306b2e1c5f
 inline_embed_id: 16338963quotientrule19016264
+order_index: 502
 parent_uid: 94a0d0fdde324bb54b34d0ea12a6d94d
 related_resources_text: ''
 short_url: quotient-rule

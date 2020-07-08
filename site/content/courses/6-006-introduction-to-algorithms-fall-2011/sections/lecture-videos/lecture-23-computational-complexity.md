@@ -61,6 +61,7 @@ embedded_media:
     type: Transcript
     uid: 0ad72928c863fc9c372b6c460ba4e7df
 inline_embed_id: '79453430lecture23:computationalcomplexity16005934'
+order_index: 276
 parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
 short_url: lecture-23-computational-complexity

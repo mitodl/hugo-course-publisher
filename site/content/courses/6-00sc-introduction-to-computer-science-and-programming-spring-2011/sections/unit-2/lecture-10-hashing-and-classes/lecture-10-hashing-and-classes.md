@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: a09e6e922a00b687e325c0796d214bdf
 inline_embed_id: '39441665lecture10:hashingandclasses44844170'
+order_index: 211
 parent_uid: 174105568f302907b32746f2da54236f
 related_resources_text: ''
 short_url: lecture-10-hashing-and-classes

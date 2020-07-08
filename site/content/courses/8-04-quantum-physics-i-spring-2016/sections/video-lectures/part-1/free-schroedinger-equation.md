@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: f6d712eeb39310131c685fc9f77b6047
 inline_embed_id: 42097316freeschrdingerequation35594960
+order_index: 234
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: free-schroedinger-equation

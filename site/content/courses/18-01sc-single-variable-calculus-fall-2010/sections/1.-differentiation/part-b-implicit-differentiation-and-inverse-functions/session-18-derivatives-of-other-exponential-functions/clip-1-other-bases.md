@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: ce28a437c356ae4613b16b579569a48d
 inline_embed_id: '37187958clip1:otherbases43374925'
+order_index: 829
 parent_uid: 0cf2fa75aeb682dbf14c169c98cd1a15
 related_resources_text: ''
 short_url: clip-1-other-bases

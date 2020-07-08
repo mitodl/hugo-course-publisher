@@ -343,6 +343,7 @@ embedded_media:
     type: Video
     uid: 228b418a1f5391148dec4cd2481bdd7e
 inline_embed_id: '94095746session1,part1:introductionandoverviewofbusinessplans97548136'
+order_index: 95
 parent_uid: c26333e10b77931a494216b5acafb6ce
 related_resources_text: ''
 short_url: part-1-introduction-and-overview-of-business-plans

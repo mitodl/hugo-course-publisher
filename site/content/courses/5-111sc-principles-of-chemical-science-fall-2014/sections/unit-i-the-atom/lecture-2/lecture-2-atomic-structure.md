@@ -62,6 +62,7 @@ embedded_media:
     type: Video
     uid: c736b8ebe913640e65dfe0a9bbb07025
 inline_embed_id: 85547402lecture2atomicstructure64443157
+order_index: 138
 parent_uid: 5f132e2de0def5883a9112c82ff3e6ec
 related_resources_text: ''
 short_url: lecture-2-atomic-structure

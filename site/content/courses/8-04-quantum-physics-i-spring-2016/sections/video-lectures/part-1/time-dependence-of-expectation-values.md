@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: d89f90b7bd7a1a7feafb25d622020d00
 inline_embed_id: 55299289timedependenceofexpectationvalues47175689
+order_index: 421
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: time-dependence-of-expectation-values

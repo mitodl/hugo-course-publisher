@@ -31,6 +31,7 @@ embedded_media:
     type: Thumbnail
     uid: fbf01e23e8bcf61136fafdb39f30ddb1
 inline_embed_id: '5424066lab4:wiringsolarpanels,parti:lecture40969401'
+order_index: 73
 parent_uid: 97d18199d8e130f96762504a4894e1bc
 related_resources_text: ''
 short_url: lab-4-wiring-solar-panels-part-i-lecture

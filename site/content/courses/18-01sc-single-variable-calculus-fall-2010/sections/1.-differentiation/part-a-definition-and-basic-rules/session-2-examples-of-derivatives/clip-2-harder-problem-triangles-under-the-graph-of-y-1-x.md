@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 7fb08e2765967e64c3eee1817f948d4a
 inline_embed_id: '44429575clip2:harderproblem:trianglesunderthegraphofy=1/x76666677'
+order_index: 120
 parent_uid: 29ef5f87bae9a94ad04425b8efabe1ac
 related_resources_text: ''
 short_url: clip-2-harder-problem-triangles-under-the-graph-of-y-1-x

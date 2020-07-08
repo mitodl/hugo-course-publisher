@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 5dcbd968ba27120de0d3a22b2a019273
 inline_embed_id: 75759907deltafunctionpotentialipreliminaries35282937
+order_index: 753
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: delta-function-potential-i-preliminaries

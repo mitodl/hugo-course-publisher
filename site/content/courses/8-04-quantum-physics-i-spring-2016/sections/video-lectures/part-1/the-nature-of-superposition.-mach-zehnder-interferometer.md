@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 56f533dc219cc804581cb516d4d9f2a8
 inline_embed_id: 73861742thenatureofsuperposition.machzehnderinterferometer91396215
+order_index: 68
 parent_uid: 71777a8528aa183c9060b392a1839df5
 related_resources_text: ''
 short_url: the-nature-of-superposition.-mach-zehnder-interferometer

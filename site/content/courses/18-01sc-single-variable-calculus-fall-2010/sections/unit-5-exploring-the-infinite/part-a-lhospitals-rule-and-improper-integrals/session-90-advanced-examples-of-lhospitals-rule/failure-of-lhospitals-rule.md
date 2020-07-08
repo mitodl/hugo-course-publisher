@@ -57,6 +57,7 @@ embedded_media:
     type: Transcript
     uid: eae0e76c6eb90f0375e8ec754838325e
 inline_embed_id: 94551339failureofl'hospital'srule69092265
+order_index: 3816
 parent_uid: 6cc72b08f8717a2d7b737df7f698c876
 related_resources_text: ''
 short_url: failure-of-lhospitals-rule

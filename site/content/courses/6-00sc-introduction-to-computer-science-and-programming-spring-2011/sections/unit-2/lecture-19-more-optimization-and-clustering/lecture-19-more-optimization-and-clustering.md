@@ -57,6 +57,7 @@ embedded_media:
     type: Video
     uid: 786d96c1bb3ee6f46b5828bde7b526c0
 inline_embed_id: '71117508lecture19:moreoptimizationandclustering13001596'
+order_index: 384
 parent_uid: d043866217d68f32df53321e932aba07
 related_resources_text: ''
 short_url: lecture-19-more-optimization-and-clustering

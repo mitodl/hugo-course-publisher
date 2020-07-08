@@ -62,6 +62,7 @@ embedded_media:
     type: Transcript
     uid: 7e1cbbe5359800da9cabd22540b4a8a6
 inline_embed_id: '33593032lecture8:constraints:search,domainreduction85942943'
+order_index: 89
 parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
 short_url: lecture-8-constraints-search-domain-reduction

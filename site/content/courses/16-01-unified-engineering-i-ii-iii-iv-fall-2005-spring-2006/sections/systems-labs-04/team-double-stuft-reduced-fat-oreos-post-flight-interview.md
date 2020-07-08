@@ -27,6 +27,7 @@ embedded_media:
     type: Video
     uid: bd2ab1c3d076e4faed21e174f25419b7
 inline_embed_id: '95979679teamdouble-stuftreduced-fatoreos:post-flightinterview24949090'
+order_index: 1134
 parent_uid: 87e8f47c351cccd450e9b5e03c5bbee2
 related_resources_text: ''
 short_url: team-double-stuft-reduced-fat-oreos-post-flight-interview

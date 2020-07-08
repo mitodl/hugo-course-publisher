@@ -51,6 +51,7 @@ embedded_media:
     type: Video
     uid: f1385d1a900d4b94731789ef99e67020
 inline_embed_id: 11313674video6correlationandmulticollinearity27448499
+order_index: 349
 parent_uid: 1ab830be7abc5468421c996f95e8e252
 related_resources_text: ''
 short_url: video-6-correlation-and-multicollinearity-0

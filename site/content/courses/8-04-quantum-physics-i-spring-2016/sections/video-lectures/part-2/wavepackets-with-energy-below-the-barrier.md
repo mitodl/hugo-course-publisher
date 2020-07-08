@@ -56,6 +56,7 @@ embedded_media:
     type: Video
     uid: 082a2ca8e590551433ee7dd50f2b23b2
 inline_embed_id: 21828579wavepacketswithenergybelowthebarrier18753439
+order_index: 952
 parent_uid: 47c9328d422d967423c384164ff51d36
 related_resources_text: ''
 short_url: wavepackets-with-energy-below-the-barrier

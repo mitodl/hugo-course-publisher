@@ -61,6 +61,7 @@ embedded_media:
     type: Video
     uid: 94c215f2b10d3ecef2bf12caff17e464
 inline_embed_id: '46148354clip1:introductiontosurfacearea11119948'
+order_index: 3338
 parent_uid: 17929c9ec324e987cc81f0233bae0eee
 related_resources_text: ''
 short_url: clip-1-introduction-to-surface-area
