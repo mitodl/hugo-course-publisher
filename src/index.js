@@ -13,6 +13,7 @@ import "screenfull"
 import "nanogallery2/src/jquery.nanogallery2.core.js"
 import { initTheme } from "./js/stylesheets"
 import { initPdfViewers } from "./js/pdf_viewer"
+import { initSentry } from "./js/sentry"
 
 window.jQuery = $
 window.$ = $
@@ -32,4 +33,5 @@ $(document).ready(() => {
 
   initTheme()
   initPdfViewers()
+  initSentry()
 })
