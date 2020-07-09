@@ -44,7 +44,7 @@ Please use the mathlet below to complete the problem.
 Mathlet
 -------
 
-[Secant Approximation](http://ocw.mit.edu/ans7870/18/18.01SC/f10/mathlets/secantApproximation.html "Open in a new window.")
+[Secant Approximation](/ans7870/18/18.01SC/f10/mathlets/secantApproximation.html "Open in a new window.")
 
 Recitation Video
 ----------------

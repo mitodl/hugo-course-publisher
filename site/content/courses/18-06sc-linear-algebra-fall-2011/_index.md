@@ -8,10 +8,6 @@ course_thumbnail_image_url: >-
   https://open-learning-course-data-ci.s3.amazonaws.com/18-06sc-linear-algebra-fall-2011/ecd40b5c89e03d9483b1a25656487d63_18-06scf11-th.jpg
 course_image_alternate_text: ''
 course_image_caption_text: ''
-course_description: >-
-  This syllabus section provides a video introduction to the course, a course
-  overview, and information on prerequisites, course goals, format, and the
-  team.
 course_info:
   instructors:
     - Prof. Gilbert Strang
@@ -41,3 +37,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This syllabus section provides a video introduction to the course, a course overview, and information on prerequisites, course goals, format, and the team.

@@ -78,4 +78,4 @@ Recommended Citation
 
 For any use or distribution of this textbook, please cite as follows:
 
-Markus Zahn, _Electromagnetic Field Theory_. (Massachusetts Institute of Technology: MIT OpenCourseWare). http://ocw.mit.edu (accessed MM DD, YYYY). License: Creative Commons Attribution-NonCommercial-Share Alike.
+Markus Zahn, _Electromagnetic Field Theory_. (Massachusetts Institute of Technology: MIT OpenCourseWare). (accessed MM DD, YYYY). License: Creative Commons Attribution-NonCommercial-Share Alike.

@@ -29,4 +29,4 @@ _Free downloads_
 _Free streaming_  
 [» YouTube](http://www.youtube.com/mit#g/c/F07555F3CC669D01)
 
-For help downloading and using course materials, read our [frequently asked questions](http://ocw.mit.edu/help/faq-technology/).
+For help downloading and using course materials, read our [frequently asked questions](/help/faq-technology/).

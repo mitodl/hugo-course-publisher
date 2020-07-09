@@ -12,23 +12,6 @@ course_image_caption_text: >-
   <p>Screenshot from the video <a
   href="./resolveuid/9605f7f536596cdac73fc74f9e6554a4"><em>Tumbling
   Box</em></a>. (Image by The MathWorks.)</p>
-course_description: >-
-  <p><em>Learn Differential Equations:  Up Close with </em><em><em>Gilbert
-  Strang</em> and </em><em>Cleve Moler</em> is an in-depth series of videos
-  about differential equations and the MATLAB<sup>&reg;</sup> ODE suite.  These
-  videos are suitable for students and life-long learners to enjoy.</p><h2
-  class="subhead">About the Instructors</h2>  <p>Gilbert Strang is the MathWorks
-  Professor of Mathematics at MIT. His research focuses on mathematical
-  analysis, linear algebra and PDEs. He has written textbooks on linear algebra,
-  computational science, finite elements, wavelets, GPS, and
-  calculus.</p><p>Cleve Moler is chief mathematician, chairman, and cofounder
-  of  MathWorks. He was a professor of math and computer science for almost 20 
-  years at the University of Michigan, Stanford University, and the  University
-  of New Mexico.</p> <p>These videos were produced by <a
-  href="http://in.mathworks.com/">The MathWorks<sup>&reg;</sup></a> and are also
-  available on <a
-  href="http://in.mathworks.com/academia/courseware/learn-differential-equations.html">The
-  MathWorks website</a>.</p>
 course_info:
   instructors:
     - Prof. Gilbert Strang
@@ -55,3 +38,13 @@ menu:
     identifier: course-home
     weight: -10
 ---
+_Learn Differential Equations: Up Close with_ __Gilbert Strang_ and_ _Cleve Moler_ is an in-depth series of videos about differential equations and the MATLAB® ODE suite. These videos are suitable for students and life-long learners to enjoy.
+
+About the Instructors
+---------------------
+
+Gilbert Strang is the MathWorks Professor of Mathematics at MIT. His research focuses on mathematical analysis, linear algebra and PDEs. He has written textbooks on linear algebra, computational science, finite elements, wavelets, GPS, and calculus.
+
+Cleve Moler is chief mathematician, chairman, and cofounder of MathWorks. He was a professor of math and computer science for almost 20 years at the University of Michigan, Stanford University, and the University of New Mexico.
+
+These videos were produced by [The MathWorks®](http://in.mathworks.com/) and are also available on [The MathWorks website](http://in.mathworks.com/academia/courseware/learn-differential-equations.html).

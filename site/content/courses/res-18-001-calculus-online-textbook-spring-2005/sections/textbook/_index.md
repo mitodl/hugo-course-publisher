@@ -8,7 +8,7 @@ menu:
 ---
 Published in 1991 by [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), the book is a useful resource for educators and self-learners alike. It is well organized, covers single variable and multivariable calculus in depth, and is rich with applications. There is also an online [Instructor's Manual](/resources/res-18-001-calculus-online-textbook-spring-2005/instructor-s-manual) and a student [Study Guide](/resources/res-18-001-calculus-online-textbook-spring-2005/study-guide).
 
-The complete textbook is also available as a single file. ([PDF - 38.5MB](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf))
+The complete textbook is also available as a single file. ([PDF - 38.5MB](/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf))
 
 | ![Photo of Professor Gilbert Strang in front of a chalkboard. ](/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/highlights_detail.jpg) | {{< br >}}{{< br >}}**Highlights of Calculus**{{< br >}}{{< br >}}MIT Professor Gilbert Strang has created [a series of videos](./resolveuid/817612f934670738545d19f8fb231e80) to show ways in which calculus is important in our lives. The videos, which include real-life examples to illustrate the concepts, are ideal for high school students, college students, and anyone interested in learning the basics of calculus.{{< br >}}{{< br >}}› [Watch the videos](./resolveuid/817612f934670738545d19f8fb231e80){{< br >}}{{< br >}} 
 

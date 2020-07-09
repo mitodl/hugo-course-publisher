@@ -10,11 +10,6 @@ course_image_alternate_text: Graph of an eighth of a sphere.
 course_image_caption_text: >-
   <p>Directional derivatives for functions of two variables. (Image courtesy of
   John B. Lewis.)</p>
-course_description: >-
-  <p>This course covers differential, integral and vector calculus for functions
-  of more than one variable. These mathematical tools and methods are used
-  extensively in the physical sciences, engineering, economics and computer
-  graphics.</p>
 course_info:
   instructors:
     - Prof. Denis Auroux
@@ -45,3 +40,30 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This course covers differential, integral and vector calculus for functions of more than one variable. These mathematical tools and methods are used extensively in the physical sciences, engineering, economics and computer graphics.
+##### Course Formats
+
+* * *
+
+[!\[Click to get started.\](/images/button\_start.png)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/Syllabus/_index.md" %}})The materials have been organized to support independent study. The website includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:
+
+*   **Lecture Videos** recorded on the MIT campus
+*   **Recitation Videos** with problem-solving tips
+*   **Examples** of solutions to sample problems
+*   **Problem** for you to solve, with solutions
+*   **Exams** with solutions
+*   **Interactive Java Applets** ("Mathlets") to reinforce key concepts
+
+##### Content Development
+
+* * *
+
+Denis Auroux  
+Arthur Mattuck  
+Jeremy Orloff  
+John Lewis
+
+Heidi Burgiel  
+Christine Breiner  
+David Jordan  
+Joel Lewis

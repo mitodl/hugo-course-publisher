@@ -14,12 +14,6 @@ course_image_caption_text: >-
   matchmaking matches rather than solely relying on subscribers to browse
   profiles. (Male and female icons are in the public domain. Source: <a
   href="https://openclipart.org/">Openclipart</a>.)</p>
-course_description: >-
-  <p>This course presents real-world examples in which quantitative methods
-  provide a significant competitive edge that has led to a first order impact on
-  some of today's most important companies. We outline the competitive landscape
-  and present the key quantitative methods that created the edge (data-mining,
-  dynamic optimization, simulation), and discuss their impact.</p>
 course_info:
   instructors:
     - Prof. Dimitris Bertsimas
@@ -48,3 +42,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This course presents real-world examples in which quantitative methods provide a significant competitive edge that has led to a first order impact on some of today's most important companies. We outline the competitive landscape and present the key quantitative methods that created the edge (data-mining, dynamic optimization, simulation), and discuss their impact.

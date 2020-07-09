@@ -12,14 +12,6 @@ course_image_caption_text: >-
   is in the public domain, found on <a
   href="http://commons.wikimedia.org/wiki/File:NYSE-floor.jpg">Wikimedia
   Commons</a>.)&nbsp;</p>
-course_description: >-
-  <p>This course introduces the core theory of modern financial economics and
-  financial management, with a focus on capital markets and investments. Topics
-  include functions of capital markets and financial intermediaries, asset
-  valuation, fixed-income securities, common stocks, capital budgeting,
-  diversification and portfolio selection, equilibrium pricing of risky assets,
-  the theory of efficient markets, and an introduction to derivatives and
-  options.</p>
 course_info:
   instructors:
     - Prof. Andrew Lo
@@ -47,3 +39,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This course introduces the core theory of modern financial economics and financial management, with a focus on capital markets and investments. Topics include functions of capital markets and financial intermediaries, asset valuation, fixed-income securities, common stocks, capital budgeting, diversification and portfolio selection, equilibrium pricing of risky assets, the theory of efficient markets, and an introduction to derivatives and options.

@@ -27,7 +27,7 @@ Video: Center for American Progress: Unions Make the Middle Class
 
 {{< youtube HxwCQgFJzlg >}}
 
-The video above, "Unions Make the Middle Class: Beresford's Story," was published by [the Center for American Progress](http://www.americanprogress.org) and is excluded from our [Creative Commons license](http://ocw.mit.edu/terms/#cc).
+The video above, "Unions Make the Middle Class: Beresford's Story," was published by [the Center for American Progress](http://www.americanprogress.org) and is excluded from our [Creative Commons license](/terms/#cc).
 
 Now, let's take a look at new forms of worker advocacy, including organizing efforts mediated by technology and organizations that provide an alternative to the traditional union model.
 
@@ -40,7 +40,7 @@ Below, we move on to looking at new organizational forms and exploration of new 
 Video: Restaurant Opportunities Center: Do You Eat Ethically?
 -------------------------------------------------------------
 
-This video was published by the [Restaurant Opportunities Center](https://www.youtube.com/watch?v=LZEUwvIHdSs&feature=youtu.be) and is excluded from our [Creative Commons license](http://ocw.mit.edu/terms/#cc).
+This video was published by the [Restaurant Opportunities Center](https://www.youtube.com/watch?v=LZEUwvIHdSs&feature=youtu.be) and is excluded from our [Creative Commons license](/terms/#cc).
 
 {{< youtube 3geNQWKLDmk >}}
 

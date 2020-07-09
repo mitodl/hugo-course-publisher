@@ -49,6 +49,6 @@ Further Study
 
 ### Matrix Multiplication
 
-*   An [interactive demo](http://ocw.mit.edu/ans7870/18/18.06/tools/Applets_sound/uropmovie.html) (with voiceover explanation) on Matrix Multiplication, _A = LU_, and _PA = LU_
+*   An [interactive demo](/ans7870/18/18.06/tools/Applets_sound/uropmovie.html) (with voiceover explanation) on Matrix Multiplication, _A = LU_, and _PA = LU_
 
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/elimination-with-matrices/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/factorization-into-a-lu/_index.md" %}}) »

@@ -10,11 +10,6 @@ course_image_alternate_text: 'A photograph of windows in Philadelphia, represent
 course_image_caption_text: >-
   <p class="instruction">These windows in Philadelphia represent a beautiful
   block matrix. (Courtesy Gail Corbett. Used with permission.)</p>
-course_description: >-
-  <p>This is a basic subject on matrix theory and linear algebra. Emphasis is
-  given to topics that will be useful in other disciplines, including systems of
-  equations, vector spaces, determinants, eigenvalues, similarity, and positive
-  definite matrices.</p>
 course_info:
   instructors:
     - Prof. Gilbert Strang
@@ -42,3 +37,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.

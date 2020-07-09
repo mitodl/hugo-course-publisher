@@ -13,20 +13,6 @@ course_image_caption_text: >-
   <p>Girls built and programmed their own Raspberry Pi cameras as part of the
   Girls Who Build Cameras workshop. (Courtesy of Jon Barron, MIT Lincoln
   Laboratory.)</p>
-course_description: >-
-  <p>The Girls Who Build Cameras workshop for high school girls is a one-day,
-  hands-on introduction to camera physics and technology (i.e. how Instagram
-  works!) at the <a href="https://beaverworks.ll.mit.edu/CMS/bw/">MIT Lincoln
-  Laboratory Beaverworks Center</a>. The workshop includes tearing down old dSLR
-  cameras, building a Raspberry Pi camera, and designing Instagram filters and
-  Photoshop tools. Participants also get to listen to keynote speakers from the
-  camera technology industry, including Kris Clark who engineers space cameras
-  for NASA and MIT Lincoln Laboratory, and Uyanga Tsedev who creates imaging
-  probes to help surgeons find tumors at MIT. During lunch, representatives from
-  the <a href="http://societyofwomenengineers.swe.org/">Society of Women
-  Engineers</a> and the <a href="http://wtp.mit.edu/">Women's Technology
-  Program</a> at MIT will present future opportunities to get involved in
-  engineering in high school and college.</p>
 course_info:
   instructors:
     - Prof. Kristen Railey
@@ -61,3 +47,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+The Girls Who Build Cameras workshop for high school girls is a one-day, hands-on introduction to camera physics and technology (i.e. how Instagram works!) at the [MIT Lincoln Laboratory Beaverworks Center](https://beaverworks.ll.mit.edu/CMS/bw/). The workshop includes tearing down old dSLR cameras, building a Raspberry Pi camera, and designing Instagram filters and Photoshop tools. Participants also get to listen to keynote speakers from the camera technology industry, including Kris Clark who engineers space cameras for NASA and MIT Lincoln Laboratory, and Uyanga Tsedev who creates imaging probes to help surgeons find tumors at MIT. During lunch, representatives from the [Society of Women Engineers](http://societyofwomenengineers.swe.org/) and the [Women's Technology Program](http://wtp.mit.edu/) at MIT will present future opportunities to get involved in engineering in high school and college.

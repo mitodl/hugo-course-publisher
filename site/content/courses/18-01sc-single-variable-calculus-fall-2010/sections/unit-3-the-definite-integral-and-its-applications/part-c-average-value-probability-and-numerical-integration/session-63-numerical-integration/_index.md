@@ -53,6 +53,6 @@ Please use the mathlet below to complete this problem.
 Mathlet
 -------
 
-[Riemann Sums](http://ocw.mit.edu/ans7870/18/18.01SC/f10/mathlets/riemannSums.html "Open in a new window.")
+[Riemann Sums](/ans7870/18/18.01SC/f10/mathlets/riemannSums.html "Open in a new window.")
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-64-numerical-integration-continued/_index.md" %}}) »

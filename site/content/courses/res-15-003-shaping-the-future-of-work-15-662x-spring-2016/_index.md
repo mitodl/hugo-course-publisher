@@ -15,14 +15,6 @@ course_image_caption_text: >-
   (Courtesy of <a
   href="https://www.flickr.com/photos/streamingmeemee/14836581424/">Tim
   Carter</a> on Flickr. License: CC BY-NC.)</p>
-course_description: >-
-  <p>The goal of this course is to explore and develop plans of action for
-  improving the job and career opportunities for today and tomorrow's workforce.
-  If we take the right actions we can shape the future of work in ways that meet
-  the needs of workers, families, and their economies and societies. To do so we
-  first have to understand how the world of work is changing, how firms can
-  compete and prosper and support good jobs and careers, and how to update the
-  policies and practices governing the world of work.</p>
 course_info:
   instructors:
     - Prof. Thomas Kochan
@@ -54,3 +46,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+The goal of this course is to explore and develop plans of action for improving the job and career opportunities for today and tomorrow's workforce. If we take the right actions we can shape the future of work in ways that meet the needs of workers, families, and their economies and societies. To do so we first have to understand how the world of work is changing, how firms can compete and prosper and support good jobs and careers, and how to update the policies and practices governing the world of work.

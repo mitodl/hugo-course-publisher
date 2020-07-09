@@ -15,13 +15,6 @@ course_image_caption_text: >-
   Allen</a> on Flickr; electric guitar courtesy of <a
   href="http://www.flickr.com/photos/eprater/8305906536/">Ethan Prater</a> on
   Flickr. Licenses: CC BY.)</p> <p>&nbsp;</p> <p>&nbsp;</p>
-course_description: >-
-  <p>This course surveys the development of popular music in the United States
-  and in a cross-cultural milieu relative to the history and sociology of the
-  last two hundred years. It examines the ethnic mixture that characterizes
-  modern music, how it reflects many rich traditions and styles, and provides a
-  background for understanding the musical vocabulary of current popular music
-  styles.</p>
 course_info:
   instructors:
     - Prof. Teresa Neff
@@ -45,3 +38,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This course surveys the development of popular music in the United States and in a cross-cultural milieu relative to the history and sociology of the last two hundred years. It examines the ethnic mixture that characterizes modern music, how it reflects many rich traditions and styles, and provides a background for understanding the musical vocabulary of current popular music styles.

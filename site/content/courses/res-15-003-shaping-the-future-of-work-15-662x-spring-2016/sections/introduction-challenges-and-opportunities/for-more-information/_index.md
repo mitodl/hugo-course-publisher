@@ -18,7 +18,7 @@ layout: videogallery
 
 Below, we have included resources that explain various dimensions of the labor market discussed in this module.  As you go through the materials, consider what these labor market trends mean in terms of employment policy as well as your own experience (either current or anticipated) in the job market.
 
-The videos below are from YouTube and are not covered by our [Creative Commons license](http://ocw.mit.edu/terms/#cc).
+The videos below are from YouTube and are not covered by our [Creative Commons license](/terms/#cc).
 
 Video: Wealth Inequality in America
 -----------------------------------

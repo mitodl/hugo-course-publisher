@@ -11,13 +11,6 @@ course_image_alternate_text: A woman in an MIT shirt being filmed by a crew.
 course_image_caption_text: >-
   <p>MIT Sloan Fellow Andrea Desrosiers is making an educational video about
   orthodontics. (Photograph courtesy of Elizabeth Choe.)</p>
-course_description: >-
-  <p><em>Becoming the Next <a href="https://en.wikipedia.org/wiki/Bill_Nye">Bill
-  Nye</a></em> is about using video production techniques to develop your
-  ability to engagingly convey your passions for science, technology,
-  engineering, and / or math. You'll have the opportunity to script and
-  on-screen host 5-minute YouTube science, technology, engineering, and / or
-  math-related shows to inspire youth to consider a future in science.</p>
 course_info:
   instructors:
     - Prof. Ceri Riley
@@ -55,3 +48,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+_Becoming the Next [Bill Nye](https://en.wikipedia.org/wiki/Bill_Nye)_ is about using video production techniques to develop your ability to engagingly convey your passions for science, technology, engineering, and / or math. You'll have the opportunity to script and on-screen host 5-minute YouTube science, technology, engineering, and / or math-related shows to inspire youth to consider a future in science.

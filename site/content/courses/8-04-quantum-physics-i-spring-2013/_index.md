@@ -12,15 +12,6 @@ course_image_caption_text: >-
   the potential and the other along a free path of the same length, then we
   interfere the two beams to compare the phase. (Image courtesy of Allan
   Adams.)</p>
-course_description: >-
-  <p>This course covers the experimental basis of quantum physics. It introduces
-  wave mechanics, Schrödinger's equation in a single dimension, and
-  Schrödinger's equation in three dimensions.</p><p>It is the first course in
-  the undergraduate Quantum Physics sequence, followed by <a
-  href="./resolveuid/321148ee9b67a132b916bb5cdd90dd86"><em>8.05 Quantum Physics
-  II</em></a> and <a
-  href="./resolveuid/f1d2dbc7185330a6c9331d338a201c12"><em>8.06 Quantum Physics
-  III</em></a>.<br />&nbsp;</p>
 course_info:
   instructors:
     - Prof. Allan Adams
@@ -48,3 +39,6 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This course covers the experimental basis of quantum physics. It introduces wave mechanics, Schrödinger's equation in a single dimension, and Schrödinger's equation in three dimensions.
+
+It is the first course in the undergraduate Quantum Physics sequence, followed by [_8.05 Quantum Physics II_](./resolveuid/321148ee9b67a132b916bb5cdd90dd86) and [_8.06 Quantum Physics III_](./resolveuid/f1d2dbc7185330a6c9331d338a201c12).

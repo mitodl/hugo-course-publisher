@@ -11,15 +11,6 @@ course_image_caption_text: >-
   <p>The image above represents the clusters found by a clustering algorithm.
   The arms of each color equal the distance from the center to each point in the
   cluster. (Courtesy of Ana Bell.)</p>
-course_description: >-
-  <p>6.0002 is the continuation of <em><a
-  href="./resolveuid/9833b95b8cbb8e0e7928063857ea2761">6.0001 Introduction to
-  Computer Science and Programming in Python</a></em> and is intended for
-  students with little or no programming experience. It aims to provide students
-  with an understanding of the role computation can play in solving problems and
-  to help students, regardless of their major, feel justifiably confident of
-  their ability to write small programs that allow them to accomplish useful
-  goals. The class uses the Python 3.5 programming language.</p>
 course_info:
   instructors:
     - Prof. Eric Grimson
@@ -48,3 +39,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+6.0002 is the continuation of _[6.0001 Introduction to Computer Science and Programming in Python](./resolveuid/9833b95b8cbb8e0e7928063857ea2761)_ and is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.

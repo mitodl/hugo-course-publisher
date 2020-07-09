@@ -23,4 +23,4 @@ Exam Materials
 [Solutions to Final Exam (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/final-exam/MIT18_01SCF10_finalsol" %}})
 
 Did this course have everything you needed to learn the subject? Are there ways we could improve it?  
-[Let us know](http://ocw.mit.edu/jsp/feedback.jsp?Referer=OCWScholar).
+[Let us know](/jsp/feedback.jsp?Referer=OCWScholar).

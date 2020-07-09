@@ -10,13 +10,6 @@ course_image_alternate_text: A brightly colored image of virtually-generated bui
 course_image_caption_text: >-
   <p>A map of Manhattan generated using GIS data. (Jennie Murack, MIT Geospatial
   Data Librarian.)</p>
-course_description: >-
-  <p>The MIT GIS Services Group at the MIT Libraries hosts a number of tutorial
-  workshops throughout the year. This resource gathers together some of those
-  introductory workshop materials designed to accustom GIS novices to the
-  various available software packages and introduce them to some of the many
-  features included in GIS systems. Topics include an introduction to two GIS
-  applications, spatial data analysis, and spatial statistics.</p>
 course_info:
   instructors:
     - 'Prof. MIT GIS Services Group '
@@ -37,3 +30,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+The MIT GIS Services Group at the MIT Libraries hosts a number of tutorial workshops throughout the year. This resource gathers together some of those introductory workshop materials designed to accustom GIS novices to the various available software packages and introduce them to some of the many features included in GIS systems. Topics include an introduction to two GIS applications, spatial data analysis, and spatial statistics.

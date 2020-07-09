@@ -11,17 +11,6 @@ course_image_caption_text: >-
   <p>Meeting energy needs in a sustainable manner is a global challenge. (Image
   by <a href="http://www.openclipart.org/detail/2213">kuba</a> at the Open Clip
   Art Library.)</p>
-course_description: >-
-  <p>This class assesses current and potential future energy systems, covering
-  resources, extraction, conversion, and end-use technologies, with emphasis on
-  meeting regional and global energy needs in the 21st century in a sustainable
-  manner. Instructors and guest lecturers will examine various renewable and
-  conventional energy production technologies, energy end-use practices and
-  alternatives, and consumption practices in different countries. Students will
-  learn a quantitative framework to aid in evaluation and analysis of energy
-  technology system proposals in the context of engineering, political, social,
-  economic, and environmental goals. Students taking the graduate version,
-  <em>Sustainable Energy</em>, complete additional assignments.</p>
 course_info:
   instructors:
     - Prof. Michael Golay
@@ -75,3 +64,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This class assesses current and potential future energy systems, covering resources, extraction, conversion, and end-use technologies, with emphasis on meeting regional and global energy needs in the 21st century in a sustainable manner. Instructors and guest lecturers will examine various renewable and conventional energy production technologies, energy end-use practices and alternatives, and consumption practices in different countries. Students will learn a quantitative framework to aid in evaluation and analysis of energy technology system proposals in the context of engineering, political, social, economic, and environmental goals. Students taking the graduate version, _Sustainable Energy_, complete additional assignments.

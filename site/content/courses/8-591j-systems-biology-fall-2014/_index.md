@@ -18,14 +18,6 @@ course_image_caption_text: >-
   video of a neutrophil chasing and engulfing a bacterium. (Image by <a
   href="https://www.flickr.com/photos/54591706@N02/13743456084/">NIAID</a>, <a
   href="https://creativecommons.org/licenses/by/2.0/">CC-BY</a>.)</p><p>&nbsp;</p>
-course_description: >-
-  <p>This course provides an introduction to cellular and population-level
-  systems biology with an emphasis on synthetic biology, modeling of genetic
-  networks, cell-cell interactions, and evolutionary dynamics. Cellular systems
-  include genetic switches and oscillators, network motifs, genetic network
-  evolution, and cellular decision-making. Population-level systems include
-  models of pattern formation, cell-cell communication, and evolutionary systems
-  biology.</p>
 course_info:
   instructors:
     - Prof. Jeff Gore
@@ -60,3 +52,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This course provides an introduction to cellular and population-level systems biology with an emphasis on synthetic biology, modeling of genetic networks, cell-cell interactions, and evolutionary dynamics. Cellular systems include genetic switches and oscillators, network motifs, genetic network evolution, and cellular decision-making. Population-level systems include models of pattern formation, cell-cell communication, and evolutionary systems biology.

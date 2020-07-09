@@ -6,4 +6,4 @@ menu:
     identifier: 1e04a754a09b18e013ca4b11d93889d7
     weight: 20
 ---
-Students were given the opportunity to post questions. The instructor posted replies for the entire class to read. ([HTML](http://ocw.mit.edu/ans7870/resources/farjoun/qa.html))
+Students were given the opportunity to post questions. The instructor posted replies for the entire class to read. ([HTML](/ans7870/resources/farjoun/qa.html))

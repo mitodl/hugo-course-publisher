@@ -50,5 +50,5 @@ Reading assignments are also provided for the newer edition: [![Buy at Amazon](/
 | 36 | _Course review_ |   |   |
 | 37 | Exam 3: Chapters 1-8 (8.1, 2, 3, 5) |   |   |
 | 38 | Numerical linear algebra | 9.1-9.3 | 11.1-11.3 |
-| 39 | Computational science | See the Web site for [18.085](http://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/) |   |
+| 39 | Computational science | See the Web site for [18.085](/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/) |   |
 | 40 | Final exam |   |

@@ -36,7 +36,7 @@ The following images show the chalkboard contents from these video excerpts. Cli
 Related Resources
 -----------------
 
-[Cycloid Mathlet](http://ocw.mit.edu/ans7870/18/18.02SC/f10/mathlets/wheel.html "Open in a new window.")
+[Cycloid Mathlet](/ans7870/18/18.02SC/f10/mathlets/wheel.html "Open in a new window.")
 
 Reading and Examples
 --------------------

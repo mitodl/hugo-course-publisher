@@ -20,7 +20,7 @@ As you read, think about
 *   Why are chains of trust necessary?
 *   Who should be in charge of the root key?
 
-#### Questions for Recitation
+##### Questions for Recitation
 
 **Before you come to this recitation**, write up (on paper) a _brief_ answer to the following (really—we don't need more than a couple sentences for each question). 
 

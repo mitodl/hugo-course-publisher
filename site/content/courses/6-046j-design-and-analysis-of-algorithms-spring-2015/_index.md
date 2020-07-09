@@ -10,12 +10,6 @@ course_image_alternate_text: A picture of a blue frisbee with a four node graph 
 course_image_caption_text: >-
   <p>Frisbees&reg; featuring a flow network were tossed out during lectures to
   reward class participation. (Photo courtesy of Prof. Devadas)</p>
-course_description: >-
-  <p>This is an intermediate algorithms course with an emphasis on teaching
-  techniques for the design and analysis of efficient algorithms, emphasizing
-  methods of application. Topics include divide-and-conquer, randomization,
-  dynamic programming, greedy algorithms, incremental improvement, complexity,
-  and cryptography.</p>
 course_info:
   instructors:
     - Prof. Srini Devadas
@@ -53,3 +47,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This is an intermediate algorithms course with an emphasis on teaching techniques for the design and analysis of efficient algorithms, emphasizing methods of application. Topics include divide-and-conquer, randomization, dynamic programming, greedy algorithms, incremental improvement, complexity, and cryptography.
