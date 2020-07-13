@@ -1,11 +1,6 @@
 ---
 title: 'Session 20: Velocity and Arc Length'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 25cd5a91eff0444d5fd85ec6178eef45
-    weight: 270
-    parent: 6f575227d3038c113827c5c3b8aaf897
 type: courses
 layout: videogallery
 ---

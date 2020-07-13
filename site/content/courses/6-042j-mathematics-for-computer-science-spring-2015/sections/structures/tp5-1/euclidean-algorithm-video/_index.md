@@ -1,11 +1,6 @@
 ---
 title: 2.1  GCDs
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: b0f86e4b63f0d0f58ef1b5a8f357f718
-    weight: 970
-    parent: 405693053755e5d6fb1b1e2592fa311e
 type: courses
 layout: videogallery
 ---

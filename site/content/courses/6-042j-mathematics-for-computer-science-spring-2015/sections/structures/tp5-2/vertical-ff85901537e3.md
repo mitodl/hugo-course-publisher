@@ -1,11 +1,6 @@
 ---
 title: 2.2  Congruences
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 962b15fd2acb3e886b1849f0f69d6778
-    weight: 1090
-    parent: 30a0182e39fc2a66241efb67db839b1d
 ---
 *   [<Inverses mod n: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-2/vertical-5a82e8c3077d" %}})
 *   [2.2.1Congruence mod n: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-2/_index.md" %}})

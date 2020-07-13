@@ -1,11 +1,6 @@
 ---
 title: '6.2 Recommendations Worth a Million: An Introduction to Clustering '
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 47a1cfac748d6647732ef8b91e90cc4f
-    weight: 2070
-    parent: b091b1bec85a85e060a83b7905c9dcce
 ---
 *   [<Video 6: Getting the Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-6-getting-the-data/_index.md" %}})
 *   [6.2.1Video 1: Introduction to Netflix]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering/_index.md" %}})

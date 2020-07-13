@@ -1,11 +1,6 @@
 ---
 title: '5.3 Man vs. Machine: How IBM Built a Jeopardy Champion '
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 10a0455f0a4b69f3568b887aeec88323
-    weight: 1770
-    parent: 0c9bd7c26f88e1f372bb45bfb1705096
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 1.7 Binary Relations
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 4941b091a92c7ad57d473ac2e53ba426
-    weight: 500
-    parent: dc4329a206935f01be73cf0b227cc3ed
 type: courses
 layout: videogallery
 ---

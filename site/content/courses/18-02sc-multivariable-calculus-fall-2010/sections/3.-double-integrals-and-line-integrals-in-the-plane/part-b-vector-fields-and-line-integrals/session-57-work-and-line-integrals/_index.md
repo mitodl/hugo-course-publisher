@@ -1,11 +1,6 @@
 ---
 title: 'Session 57: Work and Line Integrals'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 966d4aa4c089ef8644151b6c0f5a967b
-    weight: 820
-    parent: 14558d9f4e08d12a419154f3c8100c75
 type: courses
 layout: videogallery
 ---

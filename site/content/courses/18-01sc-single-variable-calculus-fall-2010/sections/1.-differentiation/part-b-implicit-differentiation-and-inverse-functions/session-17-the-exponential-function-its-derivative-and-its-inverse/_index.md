@@ -1,11 +1,6 @@
 ---
 title: 'Session 17: The Exponential Function, its Derivative, and its Inverse'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 625f9141b9dc5a9365acef497e19af09
-    weight: 220
-    parent: ea455a8ae7f0daad0b8d5033112f5f5e
 type: courses
 layout: videogallery
 ---

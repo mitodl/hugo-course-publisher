@@ -1,11 +1,6 @@
 ---
 title: 'Session 2: Examples of Derivatives'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 29ef5f87bae9a94ad04425b8efabe1ac
-    weight: 50
-    parent: 962d171611a101d49f865818d41217eb
 type: courses
 layout: videogallery
 ---

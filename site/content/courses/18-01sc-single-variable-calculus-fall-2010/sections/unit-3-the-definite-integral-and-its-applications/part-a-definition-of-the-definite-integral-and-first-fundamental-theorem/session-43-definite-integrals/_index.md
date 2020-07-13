@@ -1,11 +1,6 @@
 ---
 title: 'Session 43: Definite Integrals'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 5170b79f5b62ed3a4d96b27fc3edc468
-    weight: 600
-    parent: 0b76caa8a52837fdba43c151842bb90a
 type: courses
 layout: videogallery
 ---

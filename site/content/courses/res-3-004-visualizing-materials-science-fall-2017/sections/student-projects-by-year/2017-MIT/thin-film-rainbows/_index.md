@@ -1,11 +1,6 @@
 ---
 title: Thin Film Rainbows
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: ffc5ef48f9f9f9b3c011e50cc6ed5797
-    weight: 50
-    parent: faf869f8afddf72b42b0a478ed652c8c
 type: courses
 layout: videogallery
 ---

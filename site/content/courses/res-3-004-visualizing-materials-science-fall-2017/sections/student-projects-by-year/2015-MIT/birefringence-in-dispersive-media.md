@@ -1,11 +1,6 @@
 ---
 title: Birefringence in Dispersive Media
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: d38f6eba15c3d47caf8b1a9e1107a7c0
-    weight: 270
-    parent: c97327e3f58e5c5ecfe5c9199c8b02d5
 ---
 Note that this project does not include video content.
 

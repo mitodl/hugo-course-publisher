@@ -1,11 +1,6 @@
 ---
 title: Problem Set 12
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: d4c9cf6237043e6841b7c0d8b46caa17
-    weight: 1340
-    parent: 55dd338036332e8cfa4236beffad3294
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-96-summary-of-multiple-integration/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/exam-4/_index.md" %}}) »
 

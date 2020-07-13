@@ -1,11 +1,6 @@
 ---
 title: 4.1 Intro to Discrete Probability
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 20eaa759e1ceede11f3592ee28109ca2
-    weight: 2300
-    parent: 4414c612ae424c737466f4715f85e319
 ---
 *   [<Addition Rule]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-d95cbbc345c2" %}})
 *   [4.1.1Tree Model: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/_index.md" %}})

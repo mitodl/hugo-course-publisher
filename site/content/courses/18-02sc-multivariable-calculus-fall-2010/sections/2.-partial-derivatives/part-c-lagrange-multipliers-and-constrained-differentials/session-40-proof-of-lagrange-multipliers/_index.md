@@ -1,11 +1,6 @@
 ---
 title: 'Session 40: Proof of Lagrange Multipliers'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 211a985ba1cd42a3ab78a18bc42ff996
-    weight: 570
-    parent: c2b5d17477309fb5372bd98ef12fed7d
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: '5.2 Turning Tweets into Knowledge: An Introduction to Text Analytics'
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: c08c448dba2f6d4e4aa3a930b6c97c07
-    weight: 1690
-    parent: aea3bc9c07f7364865c46fec93dd8515
 ---
 *   [<Video 7: Predicting Sentiment]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-7-predicting-sentiment" %}})
 *   [5.2.1Video 1: Twitter]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/_index.md" %}})

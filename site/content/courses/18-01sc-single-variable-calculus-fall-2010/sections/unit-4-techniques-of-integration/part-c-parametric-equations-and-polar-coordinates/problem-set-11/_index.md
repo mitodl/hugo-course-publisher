@@ -1,11 +1,6 @@
 ---
 title: Problem Set 11
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: b4238780f29b563a34b05363b1ac982c
-    weight: 1140
-    parent: f19e1f54f348a68a730889ee63f5b9d6
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/exam-4/_index.md" %}}) »
 

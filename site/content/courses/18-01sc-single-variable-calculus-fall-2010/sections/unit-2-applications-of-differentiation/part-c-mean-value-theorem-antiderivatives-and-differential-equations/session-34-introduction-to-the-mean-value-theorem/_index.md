@@ -1,11 +1,6 @@
 ---
 title: 'Session 34: Introduction to the Mean Value Theorem'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 7a88ceaa20502ee6fbc4c0ceeb51122e
-    weight: 470
-    parent: cc849d5801781635e7d929c121e176fe
 type: courses
 layout: videogallery
 ---

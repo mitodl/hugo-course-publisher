@@ -1,11 +1,6 @@
 ---
 title: 'Session 19: Velocity and Acceleration'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: dcdc00f031ba84ce819f58d5b2584e2e
-    weight: 260
-    parent: 6f575227d3038c113827c5c3b8aaf897
 type: courses
 layout: videogallery
 ---

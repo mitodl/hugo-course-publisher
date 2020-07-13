@@ -3,11 +3,6 @@ title: >-
   1.2 The Analytics Edge: Intelligence, Happiness, and Health  (Lecture
   Sequence)
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 3697235ab9798298ffc243742c5e644d
-    weight: 130
-    parent: 9fb459369f44df97dad389bb5d1aa82c
 type: courses
 layout: videogallery
 ---

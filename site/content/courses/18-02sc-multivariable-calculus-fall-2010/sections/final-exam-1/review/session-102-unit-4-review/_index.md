@@ -1,11 +1,6 @@
 ---
 title: 'Session 102: Unit 4 Review'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 1c1eefd6f3a6602f82cc22e51a322ada
-    weight: 1470
-    parent: d16553d30b552bab87a460f03b2e6366
 type: courses
 layout: videogallery
 ---

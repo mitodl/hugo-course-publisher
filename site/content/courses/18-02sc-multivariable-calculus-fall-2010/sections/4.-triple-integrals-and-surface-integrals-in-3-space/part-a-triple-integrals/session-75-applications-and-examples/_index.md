@@ -1,11 +1,6 @@
 ---
 title: 'Session 75: Applications and Examples'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: c4da9711508e8f11a356167da3376cd3
-    weight: 1080
-    parent: fae0471018712678ad1b80e80246916a
 type: courses
 layout: videogallery
 ---

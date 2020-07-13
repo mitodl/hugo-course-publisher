@@ -1,11 +1,6 @@
 ---
 title: 1.5 Assignment 1
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 89ce47d27edcdd9b8a8cbe641a59b520
-    weight: 360
-    parent: 0af41c2fca6884fab36c0a31155319b9
 ---
 *   [<Assignment 1]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/_index.md" %}})
 *   [1.5.1An Analytical Detective]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/_index.md" %}})

@@ -1,11 +1,6 @@
 ---
 title: 'Session 32: Ring on a String'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: b5f1b462271148f775cc618b67ef606b
-    weight: 430
-    parent: 7bd0936fcddbb454b9e5dab2884cc641
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 'Session 97: Power Series'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: bcbb45fdbe1b69cc80a82c9f73ca8d5d
-    weight: 1310
-    parent: 1c9b92776c16c587013d2f3b4e9b94a0
 type: courses
 layout: videogallery
 ---

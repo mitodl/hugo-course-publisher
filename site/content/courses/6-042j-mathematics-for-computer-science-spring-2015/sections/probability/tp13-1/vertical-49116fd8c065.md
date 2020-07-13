@@ -1,11 +1,6 @@
 ---
 title: 4.5 Expectation
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: e211deccac9515d49ceb30e7a41528a9
-    weight: 2660
-    parent: 025c498f3f5e1c53924f7e40eb06a220
 ---
 *   [<Fair and Biased Coins]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/vertical-4f20b89f006a" %}})
 *   [4.5.1Expectation: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/_index.md" %}})

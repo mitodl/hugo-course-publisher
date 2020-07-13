@@ -1,11 +1,6 @@
 ---
 title: Tight Binding Model
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: 7097053dd0a0137af30bb4c4debf9774
-    weight: 120
-    parent: 172a9af2383baa0a4e102ef1208f2781
 type: courses
 layout: videogallery
 ---

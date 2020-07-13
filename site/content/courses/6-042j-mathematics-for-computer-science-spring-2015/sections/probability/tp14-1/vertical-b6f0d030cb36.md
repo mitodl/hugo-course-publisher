@@ -1,11 +1,6 @@
 ---
 title: 4.7 Sampling & Confidence
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 5308092318e9043215b9d6ba6c644904
-    weight: 2870
-    parent: a3bc4574329a2834df030de577ce1f81
 ---
 *   [<Sampling & Confidence: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/vertical-83cee7032f8c" %}})
 *   [4.7.1Law Of Large Numbers: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/_index.md" %}})

@@ -1,11 +1,6 @@
 ---
 title: 'Session 7: Derivatives of Sine and Cosine'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 118fc2aa2f82b0483267f66bf76b6ba7
-    weight: 100
-    parent: 962d171611a101d49f865818d41217eb
 type: courses
 layout: videogallery
 ---

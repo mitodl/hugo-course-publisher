@@ -1,11 +1,6 @@
 ---
 title: '8.2 Airline Revenue Management: An Introduction to Linear Optimization '
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: e9725d1bf88eacdd5ae8cd5e31dbe7cc
-    weight: 2710
-    parent: 2900efa71aff756dfeba74c6d16f2d3d
 type: courses
 layout: videogallery
 ---

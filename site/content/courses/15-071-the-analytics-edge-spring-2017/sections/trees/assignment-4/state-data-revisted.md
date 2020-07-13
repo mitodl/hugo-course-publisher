@@ -1,11 +1,6 @@
 ---
 title: 4.5 Assignment 4
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 1ec4de196088678ec051d69160bc733a
-    weight: 1540
-    parent: 11ad34c810832b186afacd57f2616109
 ---
 *   [<Understanding Why People Vote]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote/_index.md" %}})
 *   [4.5.1Predicting Earnings from Census Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/_index.md" %}})

@@ -1,11 +1,6 @@
 ---
 title: 'Session 53: New Functions From Old'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 28016eb00515039ebda8eb0f6b6ddb58
-    weight: 720
-    parent: 82a633f32c2b0be84fba01f5e5741006
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 2.10 Trees
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 2a01183caf7f54882ed32634942e321c
-    weight: 1680
-    parent: cbeb9c37cb9ca67ccf216c0b8aeab325
 ---
 *   [<Minimum Spanning Trees]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp8-1/minimum-spanning-trees" %}})
 *   [2.10.1Trees: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp8-1/_index.md" %}})

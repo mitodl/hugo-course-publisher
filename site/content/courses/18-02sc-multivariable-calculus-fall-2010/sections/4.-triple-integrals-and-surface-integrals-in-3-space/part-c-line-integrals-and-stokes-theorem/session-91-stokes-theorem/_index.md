@@ -1,11 +1,6 @@
 ---
 title: 'Session 91: Stokes'' Theorem'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 369a5a9d53f8ab4da9f478cd9a5ab7c7
-    weight: 1280
-    parent: 55dd338036332e8cfa4236beffad3294
 type: courses
 layout: videogallery
 ---

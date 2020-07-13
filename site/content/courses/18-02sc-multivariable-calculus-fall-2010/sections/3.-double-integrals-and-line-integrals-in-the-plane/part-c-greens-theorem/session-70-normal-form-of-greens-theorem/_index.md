@@ -1,11 +1,6 @@
 ---
 title: 'Session 70: Normal Form of Green''s Theorem'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: dae7ac007cfa7edbc3d63aa45f355773
-    weight: 970
-    parent: 138f6170e946b9b122d9693749cc9860
 type: courses
 layout: videogallery
 ---

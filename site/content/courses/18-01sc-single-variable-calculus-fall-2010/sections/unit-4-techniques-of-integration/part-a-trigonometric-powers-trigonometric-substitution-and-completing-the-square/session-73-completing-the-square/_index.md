@@ -1,11 +1,6 @@
 ---
 title: 'Session 73: Completing the Square'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 3d81cd65aedbbd557617501fb6a0b493
-    weight: 980
-    parent: 6b4ef50053da70f0e8654886100e09bb
 type: courses
 layout: videogallery
 ---

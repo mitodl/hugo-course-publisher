@@ -1,11 +1,6 @@
 ---
 title: 1.11  Infinite Sets
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 3d1b60b99d2789b86c9d68b8d7c0db02
-    weight: 920
-    parent: 7b14af4d984597ad410998ecc9fb9f71
 ---
 *   [<Russell's Paradox: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/vertical-f1f52e8d7024" %}})
 *   [1.11.1Cardinality: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/_index.md" %}})

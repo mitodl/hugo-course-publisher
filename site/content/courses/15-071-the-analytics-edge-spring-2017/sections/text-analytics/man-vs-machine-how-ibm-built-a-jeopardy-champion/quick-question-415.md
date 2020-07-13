@@ -1,11 +1,6 @@
 ---
 title: '5.3 Man vs. Machine: How IBM Built a Jeopardy Champion '
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 40172c506b5c7c5f9589beb963f4adf1
-    weight: 1760
-    parent: 0c9bd7c26f88e1f372bb45bfb1705096
 ---
 *   [<Video 3: Watson's Database and Tools]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-3-watson-s-database-and-tools" %}})
 *   [5.3.1Video 1: IBM Watson]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/_index.md" %}})

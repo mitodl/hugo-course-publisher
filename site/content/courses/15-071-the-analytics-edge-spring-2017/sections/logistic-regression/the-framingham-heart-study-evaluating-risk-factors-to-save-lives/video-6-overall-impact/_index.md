@@ -1,11 +1,6 @@
 ---
 title: '3.3 The Framingham Heart Study: Evaluating Risk Factors to Save Lives '
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 001f5747862d225993bf38e6c5e9227e
-    weight: 1030
-    parent: 58bb606548df9c3a8c148318a4e0e5c7
 type: courses
 layout: videogallery
 ---

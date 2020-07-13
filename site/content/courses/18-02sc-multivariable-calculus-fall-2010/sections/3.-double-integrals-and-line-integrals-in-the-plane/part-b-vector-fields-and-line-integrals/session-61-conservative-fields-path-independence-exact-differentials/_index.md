@@ -1,11 +1,6 @@
 ---
 title: 'Session 61: Conservative Fields, Path Independence, Exact Differentials'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 9e1952de8d4da6a6dd3624e6169f4681
-    weight: 860
-    parent: 14558d9f4e08d12a419154f3c8100c75
 type: courses
 layout: videogallery
 ---

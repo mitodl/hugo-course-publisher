@@ -1,11 +1,6 @@
 ---
 title: Problem Set 6
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 2167c54555318868d77680b258acc02d
-    weight: 620
-    parent: c2b5d17477309fb5372bd98ef12fed7d
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-44-example/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/exam-2/_index.md" %}}) »
 

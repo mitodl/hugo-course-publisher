@@ -1,11 +1,6 @@
 ---
 title: Modeling & Energy Analysis of Liquid Crystals
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: e6790370a1867a2c6297fed449a26281
-    weight: 340
-    parent: 831df858853019079c4dadae1aacd80b
 type: courses
 layout: videogallery
 ---

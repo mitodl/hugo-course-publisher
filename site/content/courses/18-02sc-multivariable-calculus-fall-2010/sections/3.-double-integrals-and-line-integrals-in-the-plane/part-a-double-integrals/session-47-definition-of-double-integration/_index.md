@@ -1,11 +1,6 @@
 ---
 title: 'Session 47: Definition of Double Integration'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: c27b3aad7c204b2a4094be585177be01
-    weight: 700
-    parent: 9fa9495fe35f5fa9506bb63e2d42812f
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: '2.2 The Statistical Sommelier: An Introduction to Linear Regression'
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 1f0b61bba29b5ee75d265ed940cc2d1d
-    weight: 430
-    parent: 4495fb4839343c3323b22ef2104af559
 type: courses
 layout: videogallery
 ---

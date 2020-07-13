@@ -1,11 +1,6 @@
 ---
 title: '2.5  Digraphs: Walks & Paths'
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 2827e6c9e6883174fa8f3cbf0a54d29b
-    weight: 1260
-    parent: 711aeeca155265f221e5af2643f1a05f
 type: courses
 layout: videogallery
 ---

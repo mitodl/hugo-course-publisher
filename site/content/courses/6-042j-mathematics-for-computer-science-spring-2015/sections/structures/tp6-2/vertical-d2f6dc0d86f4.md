@@ -1,11 +1,6 @@
 ---
 title: 2.4  RSA Encryption
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 3853aca842d49b36aa0f70c309ca4fa2
-    weight: 1220
-    parent: df8008a79d68087d809bbd4cc447cdea
 ---
 *   [<Reducing Factoring To SAT: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/vertical-10e2576c9510" %}})
 *   [2.4.1RSA Public Key Encryption: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/_index.md" %}})

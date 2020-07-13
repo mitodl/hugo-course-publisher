@@ -1,11 +1,6 @@
 ---
 title: Problem Set 3
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: ca6eee8c85b2a8fd9dc9ca5e769b73b9
-    weight: 290
-    parent: 6f575227d3038c113827c5c3b8aaf897
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-21-keplers-second-law/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/exam-1/_index.md" %}}) »
 

@@ -1,11 +1,6 @@
 ---
 title: 'Session 37: Example'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 10e11645483c9e7bc1e8194ff0a40c7e
-    weight: 520
-    parent: e7048e4bfd0d70c8ef294e9d7a9c4a9d
 type: courses
 layout: videogallery
 ---

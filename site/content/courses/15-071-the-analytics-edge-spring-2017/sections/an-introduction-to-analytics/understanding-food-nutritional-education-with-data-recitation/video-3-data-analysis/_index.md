@@ -1,11 +1,6 @@
 ---
 title: '1.4 Understanding Food: Nutritional Education with Data  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 6ad5f5f03eab95b2b2855fe1042f41da
-    weight: 310
-    parent: 7ae5f9abee30803e522bc737bfb5e185
 type: courses
 layout: videogallery
 ---

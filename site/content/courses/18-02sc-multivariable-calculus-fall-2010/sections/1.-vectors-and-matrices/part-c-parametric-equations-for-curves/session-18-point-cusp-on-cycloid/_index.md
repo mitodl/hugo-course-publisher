@@ -1,11 +1,6 @@
 ---
 title: 'Session 18: Point (Cusp) on Cycloid'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 77d5c5f1c564ebd6027c3128c160dcb3
-    weight: 250
-    parent: 6f575227d3038c113827c5c3b8aaf897
 type: courses
 layout: videogallery
 ---

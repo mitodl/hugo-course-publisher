@@ -1,11 +1,6 @@
 ---
 title: 4.7 Sampling & Confidence
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 9d75474b6827a0564145140fa2e737ef
-    weight: 2860
-    parent: a3bc4574329a2834df030de577ce1f81
 type: courses
 layout: videogallery
 ---

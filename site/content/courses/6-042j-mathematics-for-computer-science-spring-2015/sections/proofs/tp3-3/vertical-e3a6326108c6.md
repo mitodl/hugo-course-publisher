@@ -1,11 +1,6 @@
 ---
 title: 1.7 Binary Relations
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: a2bc4d931390ac8a5707505bd40cf179
-    weight: 570
-    parent: dc4329a206935f01be73cf0b227cc3ed
 ---
 *   [<Inverse Relations]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-3/vertical-b100bd3fedc5" %}})
 *   [1.7.1Relations: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-3/_index.md" %}})

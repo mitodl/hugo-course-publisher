@@ -1,11 +1,6 @@
 ---
 title: 3.1 Sums & Products
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 5d280af97292c65b978cb823914e77ed
-    weight: 1900
-    parent: 93998ab0044352e85efcb877380e8e28
 ---
 *   [<Integral Method: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/vertical-65e8069d3ac4" %}})
 *   [3.1.1Arithmetic Sums: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/_index.md" %}})

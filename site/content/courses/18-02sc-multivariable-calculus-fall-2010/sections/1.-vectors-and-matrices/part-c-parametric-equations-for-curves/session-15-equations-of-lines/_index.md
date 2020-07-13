@@ -1,11 +1,6 @@
 ---
 title: 'Session 15: Equations of Lines'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: e53436693ea8a4e96e81941891967e93
-    weight: 220
-    parent: 6f575227d3038c113827c5c3b8aaf897
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 'Session 1: Vectors'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: a55f30b541f0fdb28aa6929b363cf479
-    weight: 40
-    parent: 5ec6e19ff0b098e40ec65f8bcf898f57
 type: courses
 layout: videogallery
 ---

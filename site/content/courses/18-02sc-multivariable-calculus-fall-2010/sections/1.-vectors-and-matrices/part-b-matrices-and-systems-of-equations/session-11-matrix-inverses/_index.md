@@ -1,11 +1,6 @@
 ---
 title: 'Session 11: Matrix Inverses'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 1d9d5040576ea02c3a979204ca7b1e30
-    weight: 160
-    parent: 5785559cca754f05db711c0de8a26bc4
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 'Session 11: Chain Rule'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 68feb14ba590b3b088c989717ae12492
-    weight: 140
-    parent: 962d171611a101d49f865818d41217eb
 type: courses
 layout: videogallery
 ---

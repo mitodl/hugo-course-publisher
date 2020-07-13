@@ -1,11 +1,6 @@
 ---
 title: 'Session 65: Bell Curve, Conclusion'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: e183dee9558e331a812d6190993e58fc
-    weight: 860
-    parent: e1f8a1b789b83e57da0e01f4ada7283a
 type: courses
 layout: videogallery
 ---

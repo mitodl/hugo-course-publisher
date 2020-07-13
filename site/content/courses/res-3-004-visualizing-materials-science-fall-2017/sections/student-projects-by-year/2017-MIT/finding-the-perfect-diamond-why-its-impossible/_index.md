@@ -1,11 +1,6 @@
 ---
 title: 'Finding the Perfect Diamond: Why It''s Impossible'
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: 7af90433eb145b024b2b76987e77d5a7
-    weight: 70
-    parent: faf869f8afddf72b42b0a478ed652c8c
 type: courses
 layout: videogallery
 ---

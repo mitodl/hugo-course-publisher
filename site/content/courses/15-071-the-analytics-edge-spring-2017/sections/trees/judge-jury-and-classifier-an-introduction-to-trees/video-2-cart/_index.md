@@ -1,11 +1,6 @@
 ---
 title: '4.2 Judge, Jury, and Classifier: An Introduction to Trees '
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: fbeabfb3e0a4b479efe5ffb5d7cf5d4a
-    weight: 1160
-    parent: 11f9b44dc2960689414b8c313764a18d
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 'Session 70: Preview of Trig Substitution and Polar Coordinates'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: a38f4a8dd90b153bd08f5ba8ba270970
-    weight: 950
-    parent: 6b4ef50053da70f0e8654886100e09bb
 type: courses
 layout: videogallery
 ---

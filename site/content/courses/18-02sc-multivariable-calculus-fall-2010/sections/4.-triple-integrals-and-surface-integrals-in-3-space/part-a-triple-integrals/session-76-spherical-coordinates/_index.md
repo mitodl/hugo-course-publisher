@@ -1,11 +1,6 @@
 ---
 title: 'Session 76: Spherical Coordinates'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 1a869f5f6349e1f5e91fd375e74314ee
-    weight: 1090
-    parent: fae0471018712678ad1b80e80246916a
 type: courses
 layout: videogallery
 ---

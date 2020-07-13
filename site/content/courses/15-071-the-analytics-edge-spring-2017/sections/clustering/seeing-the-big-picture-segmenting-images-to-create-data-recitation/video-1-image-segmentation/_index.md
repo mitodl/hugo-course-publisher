@@ -1,11 +1,6 @@
 ---
 title: '6.4 Seeing the Big Picture: Segmenting Images to Create Data  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 0282bf34dfbdc2eabaaf5214f299362b
-    weight: 2210
-    parent: c6d206ccfb1528f6048f29e817450da7
 type: courses
 layout: videogallery
 ---

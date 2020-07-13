@@ -1,11 +1,6 @@
 ---
 title: 'Session 73: Exam Review'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: d286d8f1d8acd0b20d8e58a9967f8be9
-    weight: 1030
-    parent: e79da896ae6c78898c52c2803214c68e
 type: courses
 layout: videogallery
 ---

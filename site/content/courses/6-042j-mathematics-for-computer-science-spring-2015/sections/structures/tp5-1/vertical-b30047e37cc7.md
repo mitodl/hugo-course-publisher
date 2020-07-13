@@ -1,11 +1,6 @@
 ---
 title: 2.1  GCDs
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 931735a579c9592721890d239a612bae
-    weight: 980
-    parent: 405693053755e5d6fb1b1e2592fa311e
 ---
 *   [<Euclidean Algorithm: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/euclidean-algorithm-video" %}})
 *   [2.1.1GCDs & Linear Combinations: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/_index.md" %}})

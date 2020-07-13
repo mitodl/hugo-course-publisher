@@ -3,11 +3,6 @@ title: >-
   Crystallography, a Visualisation Tool for CS, BCC, and FCC Bravais Lattice
   Structures
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: 419029898701f3c6139f1c9d5b8e1611
-    weight: 130
-    parent: 172a9af2383baa0a4e102ef1208f2781
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 'Session 68: Planimeter: Green''s Theorem and Area'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: fce780d8a145fae3fe0d349fbce595cf
-    weight: 950
-    parent: 138f6170e946b9b122d9693749cc9860
 type: courses
 layout: videogallery
 ---

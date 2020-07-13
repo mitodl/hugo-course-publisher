@@ -1,11 +1,6 @@
 ---
 title: 'Session 62: Gradient Fields'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 2e446b9021aa10b27a0d206567272851
-    weight: 870
-    parent: 14558d9f4e08d12a419154f3c8100c75
 type: courses
 layout: videogallery
 ---

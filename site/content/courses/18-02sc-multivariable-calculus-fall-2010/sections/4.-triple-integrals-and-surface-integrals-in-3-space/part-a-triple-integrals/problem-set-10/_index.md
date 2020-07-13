@@ -1,11 +1,6 @@
 ---
 title: Problem Set 10
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: fe00dce898b579f5334d838fe30030bb
-    weight: 1120
-    parent: fae0471018712678ad1b80e80246916a
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-78-applications-gravitational-attraction/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/_index.md" %}}) »
 

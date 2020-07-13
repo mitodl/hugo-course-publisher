@@ -1,11 +1,6 @@
 ---
 title: 1.1 Introduction to the Course and the 15.662x Team
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
-menu:
-  res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
-    identifier: 175957b91f4295ee0dbf02851407d048
-    weight: 190
-    parent: 114e23f4e7b1a0faec0ba7c0a7e4965b
 type: courses
 layout: videogallery
 ---

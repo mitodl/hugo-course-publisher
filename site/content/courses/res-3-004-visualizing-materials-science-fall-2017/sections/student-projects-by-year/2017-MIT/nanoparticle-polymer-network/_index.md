@@ -1,11 +1,6 @@
 ---
 title: Nanoparticle-polymer Network
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: 1bd121e3e26b2e8c07d22bfa7247724e
-    weight: 80
-    parent: faf869f8afddf72b42b0a478ed652c8c
 type: courses
 layout: videogallery
 ---

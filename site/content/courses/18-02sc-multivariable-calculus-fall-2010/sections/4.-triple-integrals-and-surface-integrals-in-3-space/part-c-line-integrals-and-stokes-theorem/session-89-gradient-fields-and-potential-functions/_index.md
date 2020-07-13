@@ -1,11 +1,6 @@
 ---
 title: 'Session 89: Gradient Fields and Potential Functions'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: f5c1d74de71a42eef54e858fdda4ad8f
-    weight: 1260
-    parent: 55dd338036332e8cfa4236beffad3294
 type: courses
 layout: videogallery
 ---

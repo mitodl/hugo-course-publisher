@@ -1,11 +1,6 @@
 ---
 title: 'Session 8: Limits of Sine and Cosine'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: efc851d816c458170838c60287c6388d
-    weight: 110
-    parent: 962d171611a101d49f865818d41217eb
 type: courses
 layout: videogallery
 ---

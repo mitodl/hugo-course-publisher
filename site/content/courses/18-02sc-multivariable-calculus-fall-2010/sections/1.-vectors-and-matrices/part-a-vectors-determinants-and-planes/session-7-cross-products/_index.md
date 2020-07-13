@@ -1,11 +1,6 @@
 ---
 title: 'Session 7: Cross Products'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 83e4aaa9ae8c110f1c2812e303bd3f4a
-    weight: 100
-    parent: 5ec6e19ff0b098e40ec65f8bcf898f57
 type: courses
 layout: videogallery
 ---

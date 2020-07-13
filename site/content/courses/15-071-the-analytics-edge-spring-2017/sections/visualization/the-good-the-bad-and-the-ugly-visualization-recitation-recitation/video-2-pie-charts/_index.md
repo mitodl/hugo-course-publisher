@@ -1,11 +1,6 @@
 ---
 title: '7.4 The Good, the Bad, and the Ugly: Visualization Recitation  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 8b0a3402f3ae148cc59dc8f6078637f0
-    weight: 2570
-    parent: 0af39afbaff0a226a397da1206ecd712
 type: courses
 layout: videogallery
 ---

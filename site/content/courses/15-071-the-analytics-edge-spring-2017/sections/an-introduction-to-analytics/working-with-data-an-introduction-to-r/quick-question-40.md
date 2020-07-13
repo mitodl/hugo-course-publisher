@@ -1,11 +1,6 @@
 ---
 title: '1.3 Working with Data: An Introduction to R '
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 64119b703f1d42bf97ce9f87d64a094c
-    weight: 260
-    parent: 1ac933da13d13dfa2e3803abf2d6971f
 ---
 *   [<Video 6: Data Analysis - Plots and Summary Tables]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-6-data-analysis-plots-and-summary-tables" %}})
 *   [1.3.1Download and Install R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/_index.md" %}})

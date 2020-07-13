@@ -1,11 +1,6 @@
 ---
 title: 1.4 Logic & Propositions
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 654a2726f7553e86742594b694d56a3c
-    weight: 330
-    parent: 8de160a9e7299f7fec8a58aef5106eef
 ---
 *   [<Equivalence and Truth Table]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/vertical-b8b2711c0ce8" %}})
 *   [1.4.1Propositional Operators: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/_index.md" %}})

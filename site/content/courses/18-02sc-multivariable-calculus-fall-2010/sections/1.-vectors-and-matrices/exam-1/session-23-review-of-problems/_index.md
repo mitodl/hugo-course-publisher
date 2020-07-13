@@ -1,11 +1,6 @@
 ---
 title: 'Session 23: Review of Problems'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 7095650b914e41680d64df9d74e9ffb8
-    weight: 330
-    parent: 7afcc16e1e669d994325103cb87d25c3
 type: courses
 layout: videogallery
 ---

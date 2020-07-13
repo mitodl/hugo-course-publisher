@@ -1,11 +1,6 @@
 ---
 title: 'Session 53: Change of Variables'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: efa093dc347fd4af527f1b857bb14f2c
-    weight: 760
-    parent: 9fa9495fe35f5fa9506bb63e2d42812f
 type: courses
 layout: videogallery
 ---

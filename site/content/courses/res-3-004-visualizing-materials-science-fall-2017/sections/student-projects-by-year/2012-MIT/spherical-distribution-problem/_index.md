@@ -1,11 +1,6 @@
 ---
 title: Spherical Distribution Problem
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: eba3f0027eb2a238bcacb770f342fa8f
-    weight: 360
-    parent: 831df858853019079c4dadae1aacd80b
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 'Session 8: Equations of Planes'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 5efcd66b0cb6bf6c41565b1820985c00
-    weight: 110
-    parent: 5ec6e19ff0b098e40ec65f8bcf898f57
 type: courses
 layout: videogallery
 ---

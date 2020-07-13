@@ -1,11 +1,6 @@
 ---
 title: 1.4 Logic & Propositions
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: e3e3f5940c0632b46da910e10c86d2ef
-    weight: 300
-    parent: 8de160a9e7299f7fec8a58aef5106eef
 type: courses
 layout: videogallery
 ---

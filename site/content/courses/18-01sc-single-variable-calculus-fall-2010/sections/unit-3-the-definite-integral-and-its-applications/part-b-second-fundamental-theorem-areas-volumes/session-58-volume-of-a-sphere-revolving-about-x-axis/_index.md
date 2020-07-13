@@ -1,11 +1,6 @@
 ---
 title: 'Session 58: Volume of a Sphere, Revolving About x-axis'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: ea17c591946bebd5f9a9889e9e6fa3ee
-    weight: 770
-    parent: 82a633f32c2b0be84fba01f5e5741006
 type: courses
 layout: videogallery
 ---

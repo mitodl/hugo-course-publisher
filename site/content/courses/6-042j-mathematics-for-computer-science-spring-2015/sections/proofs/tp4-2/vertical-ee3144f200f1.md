@@ -1,11 +1,6 @@
 ---
 title: 1.9  State Machines - Invariants
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: c9c18fad0944755462d1010531375954
-    weight: 710
-    parent: 470546ac81246c938505a0f7571765aa
 ---
 *   [< State Machines - Invariants]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/_index.md" %}})
 *   [1.9.1State Machines Invariants: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/_index.md" %}})

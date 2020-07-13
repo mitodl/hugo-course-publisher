@@ -1,11 +1,6 @@
 ---
 title: 2.8  Degrees & Isomorphism
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 7866ebc6cf40aff967a1b17515804c46
-    weight: 1460
-    parent: a3d452862b8219138b1e93f45114b315
 type: courses
 layout: videogallery
 ---

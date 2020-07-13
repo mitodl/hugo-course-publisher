@@ -1,11 +1,6 @@
 ---
 title: 3.5 Assignment 3
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 3b4628337389a83d66097f7597856e56
-    weight: 1110
-    parent: d4a650ea930c2c8c0f989b353a5a342e
 ---
 *   [<Assignment 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/_index.md" %}})
 *   [3.5.1Popularity of Music Records]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/_index.md" %}})

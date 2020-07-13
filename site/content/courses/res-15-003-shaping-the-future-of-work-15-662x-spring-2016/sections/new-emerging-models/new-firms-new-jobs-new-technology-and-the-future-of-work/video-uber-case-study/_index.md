@@ -1,11 +1,6 @@
 ---
 title: '4.1 New Firms, New Jobs, New Technology, and the Future of Work'
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
-menu:
-  res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
-    identifier: bcd4b906a293109e73995382a26109d7
-    weight: 580
-    parent: 18bae9892a0ad3ae85c22596eee9b14a
 type: courses
 layout: videogallery
 ---

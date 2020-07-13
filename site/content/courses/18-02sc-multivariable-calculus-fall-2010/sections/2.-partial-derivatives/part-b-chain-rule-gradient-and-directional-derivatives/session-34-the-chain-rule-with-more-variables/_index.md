@@ -1,11 +1,6 @@
 ---
 title: 'Session 34: The Chain Rule with More Variables'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: dce75e0b062819f0f3d6a420fbe9b880
-    weight: 490
-    parent: e7048e4bfd0d70c8ef294e9d7a9c4a9d
 type: courses
 layout: videogallery
 ---

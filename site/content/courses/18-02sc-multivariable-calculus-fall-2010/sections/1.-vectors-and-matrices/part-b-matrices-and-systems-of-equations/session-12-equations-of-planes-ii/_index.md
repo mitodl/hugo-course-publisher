@@ -1,11 +1,6 @@
 ---
 title: 'Session 12: Equations of Planes II'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 373d1bd0065482663191d1be06e5b406
-    weight: 170
-    parent: 5785559cca754f05db711c0de8a26bc4
 type: courses
 layout: videogallery
 ---

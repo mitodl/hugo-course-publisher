@@ -1,11 +1,6 @@
 ---
 title: 'Session 42: Constrained Differentials'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 189d8c48a28741d4f72b8613f8e35c61
-    weight: 590
-    parent: c2b5d17477309fb5372bd98ef12fed7d
 type: courses
 layout: videogallery
 ---

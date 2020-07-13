@@ -1,11 +1,6 @@
 ---
 title: 'Session 30: Second Derivative Test'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 471874852c83ac551b87dcff9cb3f6cc
-    weight: 430
-    parent: 5ee00816c5fb6f611e7327400ba69bef
 type: courses
 layout: videogallery
 ---

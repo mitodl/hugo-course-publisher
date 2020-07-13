@@ -1,11 +1,6 @@
 ---
 title: 'Session 79: Surface Area'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 17929c9ec324e987cc81f0233bae0eee
-    weight: 1060
-    parent: be9d889d28b57df1a77bbd83f2f4f214
 type: courses
 layout: videogallery
 ---

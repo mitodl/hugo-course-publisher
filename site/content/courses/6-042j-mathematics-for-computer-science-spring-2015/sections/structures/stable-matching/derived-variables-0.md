@@ -1,11 +1,6 @@
 ---
 title: 2.11 Stable Matching
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: a6543271d49ebb86c8804f833bca048b
-    weight: 1710
-    parent: 47305688cc389e2f9dc3019a395b3b37
 ---
 *   [<Matching Ritual: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/stable-matching/matching-ritual-video" %}})
 *   [2.11.1Stable Matching: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/stable-matching/_index.md" %}})

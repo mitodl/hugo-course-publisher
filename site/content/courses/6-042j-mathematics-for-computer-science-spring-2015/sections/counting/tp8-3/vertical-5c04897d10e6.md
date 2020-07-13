@@ -1,11 +1,6 @@
 ---
 title: 3.2 Asymptotics
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 1f7846cac133388fd786cae947c99035
-    weight: 1990
-    parent: 7fcb07616e2948a6ad10caa832263c78
 ---
 *   [<Asymptotic Properties: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-e35ce9684389" %}})
 *   [3.2.1Asymptotic Notation: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/_index.md" %}})

@@ -1,11 +1,6 @@
 ---
 title: 'Session 54: The Second Fundamental Theorem and ln(x)'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 435c91b08acc9a35fc0748ce22a11bfe
-    weight: 730
-    parent: 82a633f32c2b0be84fba01f5e5741006
 type: courses
 layout: videogallery
 ---

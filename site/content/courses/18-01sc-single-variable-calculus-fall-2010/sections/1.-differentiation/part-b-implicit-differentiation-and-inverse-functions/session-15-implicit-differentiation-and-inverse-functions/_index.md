@@ -1,11 +1,6 @@
 ---
 title: 'Session 15: Implicit Differentiation and Inverse Functions'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 5668bfaf4a4849cdc9fb5962b4a18003
-    weight: 200
-    parent: ea455a8ae7f0daad0b8d5033112f5f5e
 type: courses
 layout: videogallery
 ---

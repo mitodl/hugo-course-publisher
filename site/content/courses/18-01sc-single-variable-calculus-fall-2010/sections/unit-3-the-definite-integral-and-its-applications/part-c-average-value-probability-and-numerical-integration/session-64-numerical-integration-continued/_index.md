@@ -1,11 +1,6 @@
 ---
 title: 'Session 64: Numerical Integration, Continued'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 602ce034a62f6b4a95884c519f8f4412
-    weight: 850
-    parent: e1f8a1b789b83e57da0e01f4ada7283a
 type: courses
 layout: videogallery
 ---

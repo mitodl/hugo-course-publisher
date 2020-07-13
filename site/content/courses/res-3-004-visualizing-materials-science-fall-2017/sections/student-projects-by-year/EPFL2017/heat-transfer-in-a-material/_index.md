@@ -1,11 +1,6 @@
 ---
 title: Heat Transfer in a Material
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: 4e91db84c5dcc14883b64d997bf4b002
-    weight: 180
-    parent: 172a9af2383baa0a4e102ef1208f2781
 type: courses
 layout: videogallery
 ---

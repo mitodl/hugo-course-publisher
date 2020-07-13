@@ -1,11 +1,6 @@
 ---
 title: 'Session 56: Vector Fields'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: d5133beda26ea5ab008ffd452f137dfa
-    weight: 810
-    parent: 14558d9f4e08d12a419154f3c8100c75
 type: courses
 layout: videogallery
 ---

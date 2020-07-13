@@ -1,11 +1,6 @@
 ---
 title: Particle in a Tube
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: 975957149c9f90f86eea1a492674fe77
-    weight: 380
-    parent: 831df858853019079c4dadae1aacd80b
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 'Session 67: Proof of Green''s Theorem'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 213ba9d9b90914c618611b9025c7869d
-    weight: 940
-    parent: 138f6170e946b9b122d9693749cc9860
 type: courses
 layout: videogallery
 ---

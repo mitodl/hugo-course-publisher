@@ -1,11 +1,6 @@
 ---
 title: 'Session 81: Calculating Flux; Finding ndS'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 0dbd561e4c4face87b1afcf29eb32c91
-    weight: 1160
-    parent: 2afdabb0a4acff042357fe33b02c43c3
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 'Session 100: Operations on Power Series'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 7aaff01423b922b346afdcd6c0328e83
-    weight: 1340
-    parent: 1c9b92776c16c587013d2f3b4e9b94a0
 type: courses
 layout: videogallery
 ---

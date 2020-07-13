@@ -1,11 +1,6 @@
 ---
 title: 'Session 17: General Parametric Equations; the Cycloid'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: c5c027c845bf0f7dbc7b9514c509aeab
-    weight: 240
-    parent: 6f575227d3038c113827c5c3b8aaf897
 type: courses
 layout: videogallery
 ---

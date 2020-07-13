@@ -1,11 +1,6 @@
 ---
 title: 3.1 Sums & Products
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: fb3431223d7286e732ad39c23cdeea60
-    weight: 1930
-    parent: 93998ab0044352e85efcb877380e8e28
 ---
 *   [<Applying Stirling's Formula]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/vertical-109177f07958" %}})
 *   [3.1.1Arithmetic Sums: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/_index.md" %}})

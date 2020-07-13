@@ -1,11 +1,6 @@
 ---
 title: 2.10 Trees
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: cff972ffcc8ad21cf422d92a0e5a67fd
-    weight: 1600
-    parent: cbeb9c37cb9ca67ccf216c0b8aeab325
 ---
 *   [<Trees]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp8-1/_index.md" %}})
 *   [2.10.1Trees: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp8-1/_index.md" %}})

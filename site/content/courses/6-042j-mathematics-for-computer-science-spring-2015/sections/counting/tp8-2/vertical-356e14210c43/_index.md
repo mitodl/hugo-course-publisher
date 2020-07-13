@@ -1,11 +1,6 @@
 ---
 title: 3.1 Sums & Products
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: ed053e6a9bff7d1628dca28615458c2e
-    weight: 1910
-    parent: 93998ab0044352e85efcb877380e8e28
 type: courses
 layout: videogallery
 ---

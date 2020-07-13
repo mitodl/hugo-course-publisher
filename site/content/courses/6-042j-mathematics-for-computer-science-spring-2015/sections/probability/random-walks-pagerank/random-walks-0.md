@@ -1,11 +1,6 @@
 ---
 title: 4.8 Random Walks & Pagerank
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 00e81ecb3330a5f0b44c7680ed904aa8
-    weight: 2930
-    parent: ec31be5e21ec45ab3eab7ab45d2e85b7
 ---
 *   [<Page Rank: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/random-walks-pagerank/page-rank-video" %}})
 *   [4.8.1Random Walks: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/random-walks-pagerank/_index.md" %}})

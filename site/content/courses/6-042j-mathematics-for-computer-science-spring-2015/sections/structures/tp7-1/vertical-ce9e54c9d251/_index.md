@@ -1,11 +1,6 @@
 ---
 title: 2.6 Directed Acyclic Graphs (DAGs) & Scheduling
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 73fc19cef8be1c0516653a1d3df499ce
-    weight: 1340
-    parent: 30a03ec26577751dfb8c5b6d0813ce12
 type: courses
 layout: videogallery
 ---

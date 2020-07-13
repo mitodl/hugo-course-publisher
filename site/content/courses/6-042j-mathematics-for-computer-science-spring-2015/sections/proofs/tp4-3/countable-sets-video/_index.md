@@ -1,11 +1,6 @@
 ---
 title: 1.11  Infinite Sets
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: ce0115c8a168b1d5e094c10c79df8a3a
-    weight: 850
-    parent: 7b14af4d984597ad410998ecc9fb9f71
 type: courses
 layout: videogallery
 ---

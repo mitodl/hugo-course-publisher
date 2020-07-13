@@ -1,11 +1,6 @@
 ---
 title: 'Session 89: L''Hospital''s Rule and Rates of Growth'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 2f33db827cc33056ef710f503d79cc8f
-    weight: 1220
-    parent: 7011962365c7a7e31179a33dc8e95275
 type: courses
 layout: videogallery
 ---

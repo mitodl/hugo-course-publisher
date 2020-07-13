@@ -1,11 +1,6 @@
 ---
 title: 'Session 48: The Fundamental Theorem of Calculus'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: bdc58167f5508759dd279c33d7d08852
-    weight: 650
-    parent: 0b76caa8a52837fdba43c151842bb90a
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: '2.3 Moneyball: The Power of Sports Analytics '
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 682c2906ac6ac5e8e5195f32a6ceeaae
-    weight: 670
-    parent: fcb6a63f4737920a80bf15309d3ee7b6
 ---
 *   [<Video 6: The Analytics Edge in Sports]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-6-the-analytics-edge-in-sports" %}})
 *   [2.3.1A Quick Introduction to Baseball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/_index.md" %}})

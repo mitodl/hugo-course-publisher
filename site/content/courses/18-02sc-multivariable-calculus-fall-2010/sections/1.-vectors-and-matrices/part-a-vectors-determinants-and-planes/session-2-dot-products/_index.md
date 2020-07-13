@@ -1,11 +1,6 @@
 ---
 title: 'Session 2: Dot Products'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: ff28657b53d8149ed2060215c11e86bd
-    weight: 50
-    parent: 5ec6e19ff0b098e40ec65f8bcf898f57
 type: courses
 layout: videogallery
 ---

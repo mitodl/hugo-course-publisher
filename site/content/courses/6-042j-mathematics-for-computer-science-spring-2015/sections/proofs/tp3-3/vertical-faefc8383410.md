@@ -1,11 +1,6 @@
 ---
 title: 1.7 Binary Relations
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: b6ed254ac21f4efc32f8da844ccb8882
-    weight: 530
-    parent: dc4329a206935f01be73cf0b227cc3ed
 ---
 *   [<Finite Cardinality: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-3/vertical-aecd80da5c9a" %}})
 *   [1.7.1Relations: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-3/_index.md" %}})

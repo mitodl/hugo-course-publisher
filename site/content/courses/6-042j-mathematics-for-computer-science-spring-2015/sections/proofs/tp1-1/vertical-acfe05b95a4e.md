@@ -1,11 +1,6 @@
 ---
 title: 1.1 Intro to Proofs
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: d5dc757f5f6ae0d333de93a9f1a6d72e
-    weight: 120
-    parent: ea224ef6f868e6dea69a53241486c324
 ---
 *   [<Definitions To Know For Proofs]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-1/vertical-96ac16077819" %}})
 *   [1.1.1Welcome to 6.042: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-1/_index.md" %}})

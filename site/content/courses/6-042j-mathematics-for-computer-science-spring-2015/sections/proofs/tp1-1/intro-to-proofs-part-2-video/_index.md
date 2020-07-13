@@ -1,11 +1,6 @@
 ---
 title: 1.1 Intro to Proofs
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 6a9af7860097152936cfc7d478c637db
-    weight: 100
-    parent: ea224ef6f868e6dea69a53241486c324
 type: courses
 layout: videogallery
 ---

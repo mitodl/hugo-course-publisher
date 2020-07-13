@@ -1,11 +1,6 @@
 ---
 title: 1.8  Induction
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 6d413e3eb4403af3a21981e485215c1b
-    weight: 610
-    parent: 5179d7c0c3f7a60a33d7c24d9d219172
 ---
 *   [<Bogus Induction: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-1/vertical-9984d57d43e5" %}})
 *   [1.8.1Induction: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-1/_index.md" %}})

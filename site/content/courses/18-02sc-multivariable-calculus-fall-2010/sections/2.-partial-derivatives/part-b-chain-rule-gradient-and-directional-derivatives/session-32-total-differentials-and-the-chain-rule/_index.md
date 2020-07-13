@@ -1,11 +1,6 @@
 ---
 title: 'Session 32: Total Differentials and the Chain Rule'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: a7ce31320948c64037b7e082d4a53ecc
-    weight: 470
-    parent: e7048e4bfd0d70c8ef294e9d7a9c4a9d
 type: courses
 layout: videogallery
 ---

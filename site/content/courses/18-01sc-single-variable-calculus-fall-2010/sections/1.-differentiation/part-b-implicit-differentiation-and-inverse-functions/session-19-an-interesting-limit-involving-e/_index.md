@@ -1,11 +1,6 @@
 ---
 title: 'Session 19: An Interesting Limit Involving e'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 604424927fbe5ea476fd72662493105b
-    weight: 240
-    parent: ea455a8ae7f0daad0b8d5033112f5f5e
 type: courses
 layout: videogallery
 ---

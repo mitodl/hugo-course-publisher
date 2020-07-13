@@ -1,11 +1,6 @@
 ---
 title: 'Session 72: Simply Connected Regions and Conservative Fields'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 7e63a591cff7d483506d4b94bb0df706
-    weight: 990
-    parent: 138f6170e946b9b122d9693749cc9860
 type: courses
 layout: videogallery
 ---

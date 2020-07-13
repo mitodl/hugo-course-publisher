@@ -1,11 +1,6 @@
 ---
 title: 'Session 21: Review for Exam 1'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 0bc7f9cd2fd4599019832c45df40e073
-    weight: 280
-    parent: ffc4ad3d871527a0ef738ec4809f2038
 type: courses
 layout: videogallery
 ---

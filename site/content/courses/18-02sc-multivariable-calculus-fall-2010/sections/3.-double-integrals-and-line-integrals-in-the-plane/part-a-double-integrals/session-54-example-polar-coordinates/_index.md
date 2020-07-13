@@ -1,11 +1,6 @@
 ---
 title: 'Session 54: Example: Polar Coordinates'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 4298c9f52873d0fa0eca900cbdf04cdc
-    weight: 770
-    parent: 9fa9495fe35f5fa9506bb63e2d42812f
 type: courses
 layout: videogallery
 ---

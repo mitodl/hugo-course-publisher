@@ -1,11 +1,6 @@
 ---
 title: A Visualisation of Crystallographic Point Groups
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: cf9090295d0dc3b0e34b2d3b2cfa961d
-    weight: 160
-    parent: 172a9af2383baa0a4e102ef1208f2781
 type: courses
 layout: videogallery
 ---

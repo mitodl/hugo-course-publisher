@@ -1,11 +1,6 @@
 ---
 title: 3.4 Repetitions & Binomial Theorem
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 4dc649af8a5cb525a82a43e59d6549fd
-    weight: 2140
-    parent: c8103e15328b9991c0774e6c0892ba9f
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 'Session 55: Creating New Functions Using the Second Fundamental Theorem'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 2c6806175167ca26dcd9f490d43c4c0a
-    weight: 740
-    parent: 82a633f32c2b0be84fba01f5e5741006
 type: courses
 layout: videogallery
 ---

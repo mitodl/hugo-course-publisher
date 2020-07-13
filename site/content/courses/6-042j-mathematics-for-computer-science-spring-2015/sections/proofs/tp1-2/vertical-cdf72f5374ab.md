@@ -1,11 +1,6 @@
 ---
 title: 1.2 Proof Methods
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 93b788b4e73b5932f1e84ff4cd792ad8
-    weight: 190
-    parent: 604f8e0726803e778aac7885f0f6eaf0
 ---
 *   [<A Bogus Proof by Cases]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-2/vertical-70c0b579a359" %}})
 *   [1.2.1Proof By Contradiction: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-2/_index.md" %}})

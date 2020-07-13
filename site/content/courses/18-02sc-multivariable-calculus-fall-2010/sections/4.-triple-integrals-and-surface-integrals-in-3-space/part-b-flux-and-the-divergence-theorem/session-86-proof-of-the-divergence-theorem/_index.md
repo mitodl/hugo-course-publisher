@@ -1,11 +1,6 @@
 ---
 title: 'Session 86: Proof of the Divergence Theorem'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 03a91fede2f7988b991d1ddd6eb70a7c
-    weight: 1210
-    parent: 2afdabb0a4acff042357fe33b02c43c3
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 'Session 39: Introduction to Differential Equations'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 282fb51987e0067ffc0e5d6f637739cf
-    weight: 520
-    parent: cc849d5801781635e7d929c121e176fe
 type: courses
 layout: videogallery
 ---

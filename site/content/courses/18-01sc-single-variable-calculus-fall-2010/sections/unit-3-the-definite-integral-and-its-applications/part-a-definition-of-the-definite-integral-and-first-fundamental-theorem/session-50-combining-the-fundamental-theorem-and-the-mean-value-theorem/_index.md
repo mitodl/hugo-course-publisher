@@ -1,11 +1,6 @@
 ---
 title: 'Session 50: Combining the Fundamental Theorem and the Mean Value Theorem'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 40dfd7f7252455d1041a5ecfb183cd9f
-    weight: 670
-    parent: 0b76caa8a52837fdba43c151842bb90a
 type: courses
 layout: videogallery
 ---

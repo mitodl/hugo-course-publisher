@@ -1,11 +1,6 @@
 ---
 title: Fluid Flow in Pipes and Rivers
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: d00112fc7e60b4248966e4a1d04e59fe
-    weight: 320
-    parent: 831df858853019079c4dadae1aacd80b
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 9.5 Assignment 9
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 1ab3f4def0507a6b6327b8e7dfa4fb69
-    weight: 3270
-    parent: 2dbce7a6bb3717df55b4be0179616ad6
 ---
 *   [<Assignment 9]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/_index.md" %}})
 *   [9.5.1Even' Star Organic Farm Revisited]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/_index.md" %}})

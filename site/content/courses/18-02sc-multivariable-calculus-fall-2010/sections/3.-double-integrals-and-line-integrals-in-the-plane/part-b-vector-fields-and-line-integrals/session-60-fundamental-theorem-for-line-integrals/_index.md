@@ -1,11 +1,6 @@
 ---
 title: 'Session 60: Fundamental Theorem for Line Integrals'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 5959801571e055a7023b590e1522b972
-    weight: 850
-    parent: 14558d9f4e08d12a419154f3c8100c75
 type: courses
 layout: videogallery
 ---

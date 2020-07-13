@@ -1,11 +1,6 @@
 ---
 title: 2.4 Playing Moneyball in the NBA  (Recitation)
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 4a72056c6bbe0c01489fb7068637be07
-    weight: 720
-    parent: 3d4f0b49ab636ab4200c8f27a219c0dc
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 'Session 13: Linear Systems and Planes'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 6362fcf67aa8fa07ec5a3312c93ef17d
-    weight: 180
-    parent: 5785559cca754f05db711c0de8a26bc4
 type: courses
 layout: videogallery
 ---

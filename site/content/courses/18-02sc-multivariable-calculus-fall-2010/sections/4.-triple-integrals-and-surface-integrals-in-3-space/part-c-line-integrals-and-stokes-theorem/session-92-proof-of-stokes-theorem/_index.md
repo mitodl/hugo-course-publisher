@@ -1,11 +1,6 @@
 ---
 title: 'Session 92: Proof of Stokes'' Theorem'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 6bcf764105bf41d15a383392f24a4910
-    weight: 1290
-    parent: 55dd338036332e8cfa4236beffad3294
 type: courses
 layout: videogallery
 ---

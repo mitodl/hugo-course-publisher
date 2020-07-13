@@ -1,11 +1,6 @@
 ---
 title: 3.2 Asymptotics
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 6874492c98166ab01d32ee77315bd540
-    weight: 2010
-    parent: 7fcb07616e2948a6ad10caa832263c78
 type: courses
 layout: videogallery
 ---

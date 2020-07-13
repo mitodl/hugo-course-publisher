@@ -1,11 +1,6 @@
 ---
 title: 'Session 82: ndS for a Surface z = f(x, y)'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: d2fa06a08024e0282fdf891fe896985d
-    weight: 1170
-    parent: 2afdabb0a4acff042357fe33b02c43c3
 type: courses
 layout: videogallery
 ---

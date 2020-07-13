@@ -1,11 +1,6 @@
 ---
 title: 1.3 Well Ordering Principle
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: ce296ec83514e093cadf682b4da32586
-    weight: 220
-    parent: 376535e1bbaf1919fdc3bdd7b7043dea
 type: courses
 layout: videogallery
 ---

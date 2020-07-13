@@ -1,11 +1,6 @@
 ---
 title: 4.2 Conditional Probability
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 4aaa09671de179c1ae157f1105ab91b2
-    weight: 2340
-    parent: 79ebde2b537e9e26dc39d5d2e1c8f1d9
 ---
 *   [<Law of Total Probability: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/vertical-4689ff047559" %}})
 *   [4.2.1Conditional Probability Definitions: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/_index.md" %}})

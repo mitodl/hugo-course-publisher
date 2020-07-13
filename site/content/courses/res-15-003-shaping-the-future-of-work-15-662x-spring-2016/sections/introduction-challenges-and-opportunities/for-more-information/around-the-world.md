@@ -1,11 +1,6 @@
 ---
 title: 1.3 For More Information...
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
-menu:
-  res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
-    identifier: 6c63305c53db1adff5eb79fdbc697c29
-    weight: 300
-    parent: 8ca2073506db3b90ecd3e19b98bf4c54
 ---
 *   [<For More Information...]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/introduction-challenges-and-opportunities/for-more-information/_index.md" %}})
 *   [1.3.1Additional Resources]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/introduction-challenges-and-opportunities/for-more-information/_index.md" %}})

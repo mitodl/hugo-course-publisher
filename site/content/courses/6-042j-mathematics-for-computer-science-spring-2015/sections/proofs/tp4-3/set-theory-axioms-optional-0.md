@@ -1,11 +1,6 @@
 ---
 title: 1.11  Infinite Sets
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 2a872ada73264e5e242479718dd2615f
-    weight: 940
-    parent: 7b14af4d984597ad410998ecc9fb9f71
 ---
 *   [<Set Theory Axioms: Video \\\[Optional\\\]]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/set-theory-axioms-video-optional" %}})
 *   [1.11.1Cardinality: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/_index.md" %}})

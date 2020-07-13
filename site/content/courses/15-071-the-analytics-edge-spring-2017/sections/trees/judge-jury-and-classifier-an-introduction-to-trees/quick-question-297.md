@@ -1,11 +1,6 @@
 ---
 title: '4.2 Judge, Jury, and Classifier: An Introduction to Trees '
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: ff7dc49d2cdefc1ac3e5d01f07046ac1
-    weight: 1230
-    parent: 11f9b44dc2960689414b8c313764a18d
 ---
 *   [<Video 5: Random Forests]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-5-random-forests" %}})
 *   [4.2.1Video 1: The Supreme Court]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/_index.md" %}})

@@ -1,11 +1,6 @@
 ---
 title: 'Session 62: Integrals and Probability'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 1fa09ca81711139c23be618aa2768257
-    weight: 830
-    parent: e1f8a1b789b83e57da0e01f4ada7283a
 type: courses
 layout: videogallery
 ---
