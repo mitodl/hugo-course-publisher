@@ -11,25 +11,6 @@ course_image_caption_text: >-
   <p>Professor Patrick H. Winston and excerpts from his <em>How to Speak</em>
   talk. (Image by Brett Paci. Photo by Azeddine Tahiri. Used with
   permission.)</p>
-course_description: >-
-  <p>Patrick Winston's <em>How to Speak</em> talk has been an MIT tradition for
-  over 40 years. Offered every January during the&nbsp;Independent Activities
-  Period (IAP), usually to overflow crowds, the talk is intended to improve your
-  speaking ability in critical situations by teaching you a few heuristic rules.
-  Professor Winston's collection of rules is presented along with examples of
-  their application in job-interview talks, thesis defenses, oral examinations,
-  and lectures.</p><h2 class="subhead">About Professor Winston</h2><p>A
-  professor at MIT for almost 50 years, Patrick Winston was director of
-  MIT&rsquo;s Artificial Intelligence Laboratory from 1972 to 1997 before it
-  merged with the Laboratory for Computer Science to become <a
-  href="https://www.csail.mit.edu/">MIT&rsquo;s Computer Science and Artificial
-  Intelligence Laboratory (CSAIL)</a>.&nbsp;He led CSAIL&rsquo;s <a
-  href="https://groups.csail.mit.edu/genesis/">Genesis Research Group</a>, which
-  focused on developing a computational account of human intelligence and how
-  human intelligence differs from that of other species, with special attention
-  to modeling human story comprehension. Professor Winston <a
-  href="http://news.mit.edu/2019/patrick-winston-professor-obituary-0719">passed
-  away on July 19, 2019</a>.</p><p>&nbsp;</p><p>&nbsp;</p>
 course_info:
   instructors:
     - Prof. Patrick Winston
@@ -51,3 +32,9 @@ menu:
     identifier: course-home
     weight: -10
 ---
+Patrick Winston's _How to Speak_ talk has been an MIT tradition for over 40 years. Offered every January during the Independent Activities Period (IAP), usually to overflow crowds, the talk is intended to improve your speaking ability in critical situations by teaching you a few heuristic rules. Professor Winston's collection of rules is presented along with examples of their application in job-interview talks, thesis defenses, oral examinations, and lectures.
+
+About Professor Winston
+-----------------------
+
+A professor at MIT for almost 50 years, Patrick Winston was director of MIT’s Artificial Intelligence Laboratory from 1972 to 1997 before it merged with the Laboratory for Computer Science to become [MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL)](https://www.csail.mit.edu/). He led CSAIL’s [Genesis Research Group](https://groups.csail.mit.edu/genesis/), which focused on developing a computational account of human intelligence and how human intelligence differs from that of other species, with special attention to modeling human story comprehension. Professor Winston [passed away on July 19, 2019](http://news.mit.edu/2019/patrick-winston-professor-obituary-0719).

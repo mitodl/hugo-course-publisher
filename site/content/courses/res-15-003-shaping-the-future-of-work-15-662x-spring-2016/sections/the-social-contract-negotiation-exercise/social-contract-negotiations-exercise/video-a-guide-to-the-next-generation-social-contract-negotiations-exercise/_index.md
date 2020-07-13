@@ -16,7 +16,7 @@ layout: videogallery
 
 Students seeking a verified certificate in the 15.662x course participated in a contract negotiations exercise. Details and instructions about the exercise are outlined in the video below.
 
-The video below is from YouTube and is not covered by our [Creative Commons license](http://ocw.mit.edu/terms/#cc).
+The video below is from YouTube and is not covered by our [Creative Commons license](/terms/#cc).
 
 Video: A Guide to the Next Generation Social Contract Negotiations Exercise
 ---------------------------------------------------------------------------

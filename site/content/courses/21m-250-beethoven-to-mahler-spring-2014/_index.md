@@ -18,12 +18,6 @@ course_image_caption_text: >-
   the public domain. Source: <a
   href="http://commons.wikimedia.org/wiki/File:Erl_king_sterner.jpg">Wikimedia
   Commons</a>.)</p>
-course_description: >-
-  <p>This course surveys Romantic musical genres including song, choral music,
-  opera, piano sonata, character cycle, concerto,  symphony, and symphonic poem,
-  including the composers Beethoven, Schubert, Berlioz, Chopin, Brahms, Wagner,
-  Verdi, Tchaikovsky, and Mahler. Written essays and oral presentations are
-  based on live performances as well as listening and reading assignments.</p>
 course_info:
   instructors:
     - Prof. Teresa Neff
@@ -48,3 +42,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This course surveys Romantic musical genres including song, choral music, opera, piano sonata, character cycle, concerto, symphony, and symphonic poem, including the composers Beethoven, Schubert, Berlioz, Chopin, Brahms, Wagner, Verdi, Tchaikovsky, and Mahler. Written essays and oral presentations are based on live performances as well as listening and reading assignments.

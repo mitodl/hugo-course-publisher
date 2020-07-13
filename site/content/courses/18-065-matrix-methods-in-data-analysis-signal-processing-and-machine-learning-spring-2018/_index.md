@@ -14,12 +14,6 @@ course_image_caption_text: >-
   <p><a href="./resolveuid/81a89fea04ecc7d7959ab442d3e31986">Relationship</a>
   among linear algebra, probability and statistics, optimization, and deep
   learning. Courtesy of Jonathan Harmon. Used with permission.</p>
-course_description: >-
-  <p>Linear algebra concepts are key for understanding and creating machine
-  learning algorithms, especially as applied to deep learning and neural
-  networks. This course reviews linear algebra with applications to probability
-  and statistics and optimization&ndash;and above all a full explanation of deep
-  learning.</p>
 course_info:
   instructors:
     - Prof. Gilbert Strang
@@ -49,3 +43,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+Linear algebra concepts are key for understanding and creating machine learning algorithms, especially as applied to deep learning and neural networks. This course reviews linear algebra with applications to probability and statistics and optimization–and above all a full explanation of deep learning.

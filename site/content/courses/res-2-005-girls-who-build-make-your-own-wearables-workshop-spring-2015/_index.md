@@ -10,15 +10,6 @@ course_image_alternate_text: A girl holds up a boot that she is adding lights to
 course_image_caption_text: >-
   <p>Girls programmed their own light-up shoes as part of the Girls Who Build
   workshop. (Photograph courtesy of Jon Barron, MIT Lincoln Laboratory.)</p>
-course_description: >-
-  <p>The Girls Who Build: Make Your Own Wearables workshop for high school girls
-  is an introduction to computer science, electrical and mechanical engineering
-  through wearable technology. The workshop, developed by MIT Lincoln
-  Laboratory, consists of two major hands-on projects in manufacturing and
-  wearable electronics. These include 3D printing jewelry and laser cutting a
-  purse, as well as programming LEDs to light up when walking. Participants
-  learn the design process, 3D computer modeling, and machine shop tools, in
-  addition to writing code and building a circuit.</p>
 course_info:
   instructors:
     - Prof. David Scott
@@ -54,3 +45,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+The Girls Who Build: Make Your Own Wearables workshop for high school girls is an introduction to computer science, electrical and mechanical engineering through wearable technology. The workshop, developed by MIT Lincoln Laboratory, consists of two major hands-on projects in manufacturing and wearable electronics. These include 3D printing jewelry and laser cutting a purse, as well as programming LEDs to light up when walking. Participants learn the design process, 3D computer modeling, and machine shop tools, in addition to writing code and building a circuit.

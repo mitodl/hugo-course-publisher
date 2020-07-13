@@ -31,7 +31,7 @@ Session Activities
 > 
 > *   [Lecture code handout (PDF)]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-19-more-optimization-and-clustering/MIT6_00SCS11_lec19" %}})
 > *   [Lecture code (PY)](https://open-learning-course-data-ci.s3.amazonaws.com/6-00sc-introduction-to-computer-science-and-programming-spring-2011/9a8d515cdee58a002d312a1503e79a52_lec19.py)
-> *   [Lecture slides (!\[This resource may not render correctly in a screen reader.\](/images/inacessible.gif)PDF)]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-19-more-optimization-and-clustering/MIT6_00SCS11_lec19_slides" %}})
+> *   [Lecture slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-19-more-optimization-and-clustering/MIT6_00SCS11_lec19_slides" %}})
 
 Check Yourself
 --------------

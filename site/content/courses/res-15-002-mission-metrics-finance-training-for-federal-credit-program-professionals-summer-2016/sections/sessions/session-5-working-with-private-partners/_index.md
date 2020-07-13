@@ -49,7 +49,7 @@ Interactive
 Lecture Slides
 --------------
 
-[!\[Image of the Session 5 slide deck title page.\](https://open-learning-course-data-ci.s3.amazonaws.com/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/d77d319db23af9b8bc3693c284ff9591\_RES15-002\_Session\_5.jpg)]({{% getpage "courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/sections/sessions/session-5-working-with-private-partners/MITRES15-002SUM16_Session_5" %}})
+[![Image of the Session 5 slide deck title page.](https://open-learning-course-data-ci.s3.amazonaws.com/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/d77d319db23af9b8bc3693c284ff9591_RES15-002_Session_5.jpg)]({{% getpage "courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/sections/sessions/session-5-working-with-private-partners/MITRES15-002SUM16_Session_5" %}})
 
 [Session 5 Slides: Working with Private Partners (PDF)]({{% getpage "courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/sections/sessions/session-5-working-with-private-partners/MITRES15-002SUM16_Session_5" %}})
 

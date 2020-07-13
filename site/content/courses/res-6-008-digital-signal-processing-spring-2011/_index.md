@@ -12,23 +12,6 @@ course_image_caption_text: >-
   frequencies. Beginning at half the sampling frequency, the output sinusoidal
   frequency will decrease despite an increasing input frequency. These topics
   are covered in lecture 14 and the demonstration videos.</p>
-course_description: >-
-  <p>This course was developed in 1987 by the MIT Center for Advanced
-  Engineering Studies. It was designed as a distance-education course for
-  engineers and scientists in the workplace.</p> <p>Advances in integrated
-  circuit technology have had a major impact on the technical areas to which
-  digital signal processing techniques and hardware are being applied. A
-  thorough understanding of digital signal processing fundamentals and
-  techniques is essential for anyone whose work is concerned with signal
-  processing applications.</p> <p>Digital Signal Processing begins with a
-  discussion of the analysis and representation of discrete-time signal systems,
-  including discrete-time convolution, difference equations, the z-transform,
-  and the discrete-time Fourier transform. Emphasis is placed on the
-  similarities and distinctions between discrete-time. The course proceeds to
-  cover digital network and nonrecursive (finite impulse response) digital
-  filters. Digital Signal Processing concludes with digital filter design and a
-  discussion of the fast Fourier transform algorithm for computation of the
-  discrete Fourier transform.</p>
 course_info:
   instructors:
     - Prof. Alan Oppenheim
@@ -51,3 +34,8 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This course was developed in 1987 by the MIT Center for Advanced Engineering Studies. It was designed as a distance-education course for engineers and scientists in the workplace.
+
+Advances in integrated circuit technology have had a major impact on the technical areas to which digital signal processing techniques and hardware are being applied. A thorough understanding of digital signal processing fundamentals and techniques is essential for anyone whose work is concerned with signal processing applications.
+
+Digital Signal Processing begins with a discussion of the analysis and representation of discrete-time signal systems, including discrete-time convolution, difference equations, the z-transform, and the discrete-time Fourier transform. Emphasis is placed on the similarities and distinctions between discrete-time. The course proceeds to cover digital network and nonrecursive (finite impulse response) digital filters. Digital Signal Processing concludes with digital filter design and a discussion of the fast Fourier transform algorithm for computation of the discrete Fourier transform.

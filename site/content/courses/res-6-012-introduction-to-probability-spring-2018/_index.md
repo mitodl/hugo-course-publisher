@@ -12,15 +12,6 @@ course_image_alternate_text: >-
 course_image_caption_text: >-
   <p>The role of probability theory is to provide a framework for analyzing
   phenomena with uncertain outcomes. (Image by John Tsitsiklis.)</p>
-course_description: >-
-  <p>The tools of probability theory, and of the related field of statistical
-  inference, are the keys for being able to analyze and make sense of data.
-  These tools underlie important advances in many fields, from the basic
-  sciences to engineering and management.</p> <p>This resource is a companion
-  site to <a href="./resolveuid/bb36e37dde28d3a69c2e7565384a0c62">6.041SC
-  Probabilistic Systems Analysis and Applied Probability</a>. It covers the same
-  content, using videos developed for an <a href="https://www.edx.org/">edX
-  version</a> of the course.</p>
 course_info:
   instructors:
     - Prof. Patrick Jaillet
@@ -44,3 +35,6 @@ menu:
     identifier: course-home
     weight: -10
 ---
+The tools of probability theory, and of the related field of statistical inference, are the keys for being able to analyze and make sense of data. These tools underlie important advances in many fields, from the basic sciences to engineering and management.
+
+This resource is a companion site to [6.041SC Probabilistic Systems Analysis and Applied Probability](./resolveuid/bb36e37dde28d3a69c2e7565384a0c62). It covers the same content, using videos developed for an [edX version](https://www.edx.org/) of the course.

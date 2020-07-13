@@ -7,7 +7,7 @@ menu:
     identifier: 75be594286fc61820f93147523356fe2
     weight: 20
 ---
-[Gilbert Strang](http://ocw.mit.edu/faculty/gilbert-strang/) explains differential equations and linear algebra, which are two crucial subjects in science and engineering. This video series develops those subjects both separately and together and supplements Prof. Strang's textbook, [_Differential Equations and Linear Algebra_](http://www-math.mit.edu/~gs/dela/).
+[Gilbert Strang](/faculty/gilbert-strang/) explains differential equations and linear algebra, which are two crucial subjects in science and engineering. This video series develops those subjects both separately and together and supplements Prof. Strang's textbook, [_Differential Equations and Linear Algebra_](http://www-math.mit.edu/~gs/dela/).
 
 The video series is divided into eight parts corresponding to chapters of the textbook.
 

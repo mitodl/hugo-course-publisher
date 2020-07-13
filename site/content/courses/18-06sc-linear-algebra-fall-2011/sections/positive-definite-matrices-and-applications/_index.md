@@ -19,19 +19,19 @@ Further Study
 
 The _Java_® _Demos_ below were developed by [Professor Pavel Grinfeld](http://www.drexel.edu/math/contact/facultyDirectory/PavelGrinfeld/) and will be useful for a review of concepts covered throughout this unit.
 
-*   [Eigenvalues](http://ocw.mit.edu/ans7870/18/18.06/javademo/Eigen/)
-*   [SVD (Singular Value Decomposition)](http://ocw.mit.edu/ans7870/18/18.06/javademo/SVD/)
-*   [Gaussian Elimination](http://ocw.mit.edu/ans7870/18/18.06/javademo/GaussElim/)
-*   [Determinants](http://ocw.mit.edu/ans7870/18/18.06/javademo/Determinant/)
-*   [Gram-Schmidt = Orthogonalization](http://ocw.mit.edu/ans7870/18/18.06/javademo/Gram/)
-*   [Inner Product of Functions](http://ocw.mit.edu/ans7870/18/18.06/javademo/InnerProduct/)
-*   [Sum of Fourier Series](http://ocw.mit.edu/ans7870/18/18.06/javademo/FourierSeries/)
-*   [Sum of Trigonometric Series](http://ocw.mit.edu/ans7870/18/18.06/javademo/FourierSynthesis/)
-*   [Gibbs Phenomenon](http://ocw.mit.edu/ans7870/18/18.06/javademo/Gibbs/)
-*   [Aliasing](http://ocw.mit.edu/ans7870/18/18.06/javademo/Aliasing/)
-*   [Column Spaces](http://ocw.mit.edu/ans7870/18/18.06/javademo/ColSpace/)
-*   [Least Squares](http://ocw.mit.edu/ans7870/18/18.06/javademo/LeastSqr/)
-*   [Power Method](http://ocw.mit.edu/ans7870/18/18.06/javademo/power_method_applet/powerMethod.html)
+*   [Eigenvalues](/ans7870/18/18.06/javademo/Eigen/)
+*   [SVD (Singular Value Decomposition)](/ans7870/18/18.06/javademo/SVD/)
+*   [Gaussian Elimination](/ans7870/18/18.06/javademo/GaussElim/)
+*   [Determinants](/ans7870/18/18.06/javademo/Determinant/)
+*   [Gram-Schmidt = Orthogonalization](/ans7870/18/18.06/javademo/Gram/)
+*   [Inner Product of Functions](/ans7870/18/18.06/javademo/InnerProduct/)
+*   [Sum of Fourier Series](/ans7870/18/18.06/javademo/FourierSeries/)
+*   [Sum of Trigonometric Series](/ans7870/18/18.06/javademo/FourierSynthesis/)
+*   [Gibbs Phenomenon](/ans7870/18/18.06/javademo/Gibbs/)
+*   [Aliasing](/ans7870/18/18.06/javademo/Aliasing/)
+*   [Column Spaces](/ans7870/18/18.06/javademo/ColSpace/)
+*   [Least Squares](/ans7870/18/18.06/javademo/LeastSqr/)
+*   [Power Method](/ans7870/18/18.06/javademo/power_method_applet/powerMethod.html)
 
 Looking for something specific in this course? The [Resource Index]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/resource-index" %}}) compiles links to most course resources in a single page.
 

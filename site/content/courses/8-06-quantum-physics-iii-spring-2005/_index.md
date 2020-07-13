@@ -11,15 +11,6 @@ course_image_caption_text: >-
   <p>Energy levels in a certain time-dependent three state system with two
   off-diagonal matrix elements &alpha; and the third zero, a spherical harmonic,
   and the Stark effect for n=3. (Image by&nbsp;Prof. Krishna Rajagopal.)</p>
-course_description: >-
-  <p>Together, this course and its predecessor, <a
-  href="./resolveuid/4cc828ff9c6e246aa4a08f7c12251ced">8.05: Quantum Physics
-  II</a>, cover quantum physics with applications drawn from modern physics.
-  Topics in this course include units, time-independent approximation methods,
-  the structure of one- and two-electron atoms, charged particles in a magnetic
-  field, scattering, and time-dependent perturbation theory. In this second
-  term, students are required to research and write a paper on a topic related
-  to the content of 8.05 and 8.06.</p>
 course_info:
   instructors:
     - Prof. Krishna Rajagopal
@@ -41,3 +32,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+Together, this course and its predecessor, [8.05: Quantum Physics II](./resolveuid/4cc828ff9c6e246aa4a08f7c12251ced), cover quantum physics with applications drawn from modern physics. Topics in this course include units, time-independent approximation methods, the structure of one- and two-electron atoms, charged particles in a magnetic field, scattering, and time-dependent perturbation theory. In this second term, students are required to research and write a paper on a topic related to the content of 8.05 and 8.06.

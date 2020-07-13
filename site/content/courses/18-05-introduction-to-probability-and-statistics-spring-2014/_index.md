@@ -10,16 +10,6 @@ course_image_alternate_text: A graph plot with 5 curves in different colors.
 course_image_caption_text: >-
   <p>Bayesian updating with conjugate normal distributions. (Image by Jerry
   Orloff and Jonathan Bloom.)</p>
-course_description: >-
-  <p>This course provides an elementary introduction to probability and
-  statistics with applications. Topics include: basic combinatorics, random
-  variables, probability distributions, Bayesian inference, hypothesis testing,
-  confidence intervals, and linear regression.</p> <p>The Spring 2014 version of
-  this subject employed the residential MITx system, which enables on-campus
-  subjects to provide MIT students with learning and assessment tools such as
-  online problem sets, lecture videos, reading questions, pre-lecture questions,
-  problem set assistance, tutorial videos, exam review content, and even online
-  exams.</p>
 course_info:
   instructors:
     - Prof. Jeremy Orloff
@@ -47,3 +37,6 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This course provides an elementary introduction to probability and statistics with applications. Topics include: basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression.
+
+The Spring 2014 version of this subject employed the residential MITx system, which enables on-campus subjects to provide MIT students with learning and assessment tools such as online problem sets, lecture videos, reading questions, pre-lecture questions, problem set assistance, tutorial videos, exam review content, and even online exams.

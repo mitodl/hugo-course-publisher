@@ -18,14 +18,14 @@ Assorted Applets
 The Web page contains a plethora of interesting resources to help you visualize important mathematical concepts. Most of these are Java applets, which run interactively as plug-ins in your web browser. To use them you must have Java enabled in your browser preferences - by default, it probably is already.
 
 *   Some Java applets from MIT's OpenCourseWare page for 18.013A:
-    *   [Operations on functions](http://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools01.html)
-    *   [Trigonometric functions](http://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools02.html)
-    *   [Slope of a line](http://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools03.html)
-    *   [Derivative and tangent line](http://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools04.html)
-    *   [Constant, linear, quadratic and cubic approximations](http://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools05.html)
-    *   [Numerical integration](http://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools07.html)
-    *   [Polar plotter](http://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools16.html)
-    *   [Curves in two dimensions](http://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/tools/tools17.html)
+    *   [Operations on functions](/ans7870/18/18.013a/textbook/HTML/tools/tools01.html)
+    *   [Trigonometric functions](/ans7870/18/18.013a/textbook/HTML/tools/tools02.html)
+    *   [Slope of a line](/ans7870/18/18.013a/textbook/HTML/tools/tools03.html)
+    *   [Derivative and tangent line](/ans7870/18/18.013a/textbook/HTML/tools/tools04.html)
+    *   [Constant, linear, quadratic and cubic approximations](/ans7870/18/18.013a/textbook/HTML/tools/tools05.html)
+    *   [Numerical integration](/ans7870/18/18.013a/textbook/HTML/tools/tools07.html)
+    *   [Polar plotter](/ans7870/18/18.013a/textbook/HTML/tools/tools16.html)
+    *   [Curves in two dimensions](/ans7870/18/18.013a/textbook/HTML/tools/tools17.html)
 *   Function and Derivative Animations, by Przemyslaw Bogacki and Gordon Melrose (.avi files, can play e.g. with [Windows Media® Player](http://www.microsoft.com/windows/windowsmedia))
 *   Java applets of secant lines and tangent lines:
     *   [A smooth function](http://mathworld.wolfram.com/SmoothFunction.html)

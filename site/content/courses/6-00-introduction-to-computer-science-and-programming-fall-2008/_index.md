@@ -20,13 +20,6 @@ course_image_caption_text: >-
   href="http://www.flickr.com/photos/angelinawb/258801158/">Angelina</a> on
   Flickr; protein image courtesy of the <a href="https://www.lbl.gov/">Lawrence
   Berkeley National Laboratory</a>.)</p> <p>&nbsp;</p>
-course_description: >-
-  <p>This subject is aimed at students with little or no programming experience.
-  It aims to provide students with an understanding of the role computation can
-  play in solving problems. It also aims to help students, regardless of their
-  major, to feel justifiably confident of their ability to write small programs
-  that allow them to accomplish useful goals. The class will use the
-  Python&trade; programming language.</p>
 course_info:
   instructors:
     - Prof. Eric Grimson
@@ -53,3 +46,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This subject is aimed at students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems. It also aims to help students, regardless of their major, to feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class will use the Python™ programming language.

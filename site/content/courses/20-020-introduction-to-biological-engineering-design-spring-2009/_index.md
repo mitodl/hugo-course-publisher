@@ -12,25 +12,6 @@ course_image_caption_text: >-
   <p>This class is Course 20's project-based introduction to the engineering of
   synthetic biological systems. (Image courtesy of Justin Lo. Used with
   permission.)</p>
-course_description: >-
-
-  <P>This class is a project-based introduction to the engineering of synthetic
-  biological systems. Throughout the term, students develop projects that are
-  responsive to real-world problems of their choosing, and whose solutions
-  depend on biological technologies. Lectures, discussions, and studio exercises
-  will introduce (1) components and control of prokaryotic and eukaryotic
-  behavior, (2) DNA synthesis, standards, and abstraction in biological
-  engineering, and (3) issues of human practice, including biological safety;
-  security; ownership, sharing, and innovation; and ethics. Enrollment
-  preference is given to freshmen.</p>
-
-  <p>This subject was originally developed and first taught in Spring 2008 by
-  Drew Endy and Natalie Kuldell. Many of Drew's materials are used in this
-  Spring 2009 version, and are included with his permission.</p>
-
-  <p>This OCW Web site is based on the OpenWetWare class Wiki, found at <a
-  href="http://openwetware.org/wiki/20.20%28S09%29">OpenWetWare: 20.020
-  (S09)</a></p>
 course_info:
   instructors:
     - Prof. Andrew Endy
@@ -57,3 +38,8 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This class is a project-based introduction to the engineering of synthetic biological systems. Throughout the term, students develop projects that are responsive to real-world problems of their choosing, and whose solutions depend on biological technologies. Lectures, discussions, and studio exercises will introduce (1) components and control of prokaryotic and eukaryotic behavior, (2) DNA synthesis, standards, and abstraction in biological engineering, and (3) issues of human practice, including biological safety; security; ownership, sharing, and innovation; and ethics. Enrollment preference is given to freshmen.
+
+This subject was originally developed and first taught in Spring 2008 by Drew Endy and Natalie Kuldell. Many of Drew's materials are used in this Spring 2009 version, and are included with his permission.
+
+This OCW Web site is based on the OpenWetWare class Wiki, found at [OpenWetWare: 20.020 (S09)](http://openwetware.org/wiki/20.20%28S09%29)

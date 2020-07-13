@@ -10,12 +10,6 @@ course_image_alternate_text: 'The 6.006 course logo, with a 2x2x2 Rubik''s Cube 
 course_image_caption_text: >-
   <p>In Problem Set 6, students develop algorithms for solving the 2x2x2 Rubik's
   Cube.</p>
-course_description: >-
-  <p>This course provides an introduction to mathematical modeling of
-  computational problems. It covers the common algorithms, algorithmic
-  paradigms, and data structures used to solve these problems. The course
-  emphasizes the relationship between algorithms and programming, and introduces
-  basic performance measures and analysis techniques for these problems.</p>
 course_info:
   instructors:
     - Prof. Srini Devadas
@@ -44,3 +38,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.

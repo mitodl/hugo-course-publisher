@@ -21,7 +21,7 @@ As we move through the course, we'll also be talking about efforts currently und
 
 Kochan, Tom. “[American Doesn’t Just 'Need a Raise,' We Need a New National Norm for Wage Growth](https://theconversation.com/america-doesnt-just-need-a-raise-we-need-a-new-national-norm-for-wage-growth-46831).”
 
-The following video is from YouTube and is not covered by our [Creative Commons license](http://ocw.mit.edu/terms/#cc).
+The following video is from YouTube and is not covered by our [Creative Commons license](/terms/#cc).
 
 U.S. Department of Labor: It's Time to Lead on Leave
 ----------------------------------------------------

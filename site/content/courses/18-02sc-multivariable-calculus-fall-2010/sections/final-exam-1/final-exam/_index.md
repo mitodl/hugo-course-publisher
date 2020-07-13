@@ -25,6 +25,6 @@ Exam and Solutions
 [Solutions (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/final-exam-1/final-exam/MIT18_02SC_finalexamsol" %}})
 
 Did this course have everything you needed to learn the subject? Are there ways we could improve it?  
-[Let us know](http://ocw.mit.edu/jsp/feedback.jsp?Referer=OCWScholar).
+[Let us know](/jsp/feedback.jsp?Referer=OCWScholar).
 
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/final-exam-1/review/session-102-unit-4-review/_index.md" %}})

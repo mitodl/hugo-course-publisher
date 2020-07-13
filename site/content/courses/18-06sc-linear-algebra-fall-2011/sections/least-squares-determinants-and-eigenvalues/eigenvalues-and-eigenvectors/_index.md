@@ -51,21 +51,21 @@ Further Study
 
 These demonstrations employ Java® applets with voice-over narration by Professor Strang.
 
-*   [Eigenvectors of 2 by 2 matrices](http://ocw.mit.edu/ans7870/18/18.06/tools/Applets_sound_all/eigen_sound_all.html)
-*   [Powers AnV lead toward the top eigenvalue/eigenvector](http://ocw.mit.edu/ans7870/18/18.06/tools/Power_method/power_method_flash.html)
+*   [Eigenvectors of 2 by 2 matrices](/ans7870/18/18.06/tools/Applets_sound_all/eigen_sound_all.html)
+*   [Powers AnV lead toward the top eigenvalue/eigenvector](/ans7870/18/18.06/tools/Power_method/power_method_flash.html)
 
 ### Mini-lectures on Eigenvalues
 
 These mini-lectures with voice-over narration below help to explain some key Eigenvalue concepts.
 
-*   [det(A-λI)=0](http://ocw.mit.edu/ans7870/18/18.06/tools/individual/eigen_lecture_1.html)
-*   [Eigenvectors and Trace](http://ocw.mit.edu/ans7870/18/18.06/tools/individual/eigen_lecture_2.html)
-*   [Powers](http://ocw.mit.edu/ans7870/18/18.06/tools/individual/eigen_lecture_3.html)
-*   [Diagonalization](http://ocw.mit.edu/ans7870/18/18.06/tools/individual/eigen_lecture_4.html)
-*   [Differential Equations](http://ocw.mit.edu/ans7870/18/18.06/tools/individual/eigen_lecture_5.html)
-*   [Symmetry](http://ocw.mit.edu/ans7870/18/18.06/tools/individual/eigen_lecture_6.html)
-*   [Positive Definite](http://ocw.mit.edu/ans7870/18/18.06/tools/individual/eigen_lecture_7.html)
-*   [SVD](http://ocw.mit.edu/ans7870/18/18.06/tools/individual/eigen_lecture_8.html)
+*   [det(A-λI)=0](/ans7870/18/18.06/tools/individual/eigen_lecture_1.html)
+*   [Eigenvectors and Trace](/ans7870/18/18.06/tools/individual/eigen_lecture_2.html)
+*   [Powers](/ans7870/18/18.06/tools/individual/eigen_lecture_3.html)
+*   [Diagonalization](/ans7870/18/18.06/tools/individual/eigen_lecture_4.html)
+*   [Differential Equations](/ans7870/18/18.06/tools/individual/eigen_lecture_5.html)
+*   [Symmetry](/ans7870/18/18.06/tools/individual/eigen_lecture_6.html)
+*   [Positive Definite](/ans7870/18/18.06/tools/individual/eigen_lecture_7.html)
+*   [SVD](/ans7870/18/18.06/tools/individual/eigen_lecture_8.html)
 
 \*Funding for these demonstrations was provided by a grant from the [The d'Arbeloff Fund for Excellence in MIT Education](http://web.mit.edu/newsoffice/2000/darbeloff-1025.html) as part of The d'Arbeloff Interactive Mathematics Project (d'A I M P).
 

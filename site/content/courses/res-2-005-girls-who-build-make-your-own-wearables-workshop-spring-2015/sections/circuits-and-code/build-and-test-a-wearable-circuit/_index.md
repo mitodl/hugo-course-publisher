@@ -16,7 +16,7 @@ Students learn the components of an electrical circuit by building and testing t
 
 {{< youtube gWZi71JkPAA >}}
 
-This video is from [Adafruit Industries](https://www.youtube.com/channel/UCpOlOeQjj7EsVnDh3zuCgsA) on YouTube and is not provided under our [Creative Commons license](http://ocw.mit.edu/terms/#cc).
+This video is from [Adafruit Industries](https://www.youtube.com/channel/UCpOlOeQjj7EsVnDh3zuCgsA) on YouTube and is not provided under our [Creative Commons license](/terms/#cc).
 
 Materials
 ---------

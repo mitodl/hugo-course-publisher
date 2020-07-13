@@ -13,10 +13,6 @@ course_image_caption_text: >-
   boundary (top left) is used to selectively reconstruct (top right) an image
   that contains that spot&rsquo;s periodicity. (Image by Prof. W. Craig
   Carter.)&nbsp;</p>
-course_description: >-
-  <p>This resource is a collection of student tutorial videos that explore
-  various materials science and engineering topics using visualizations in the
-  Wolfram Mathematica programming system.&nbsp;</p>
 course_info:
   instructors:
     - Prof. W. Carter
@@ -44,3 +40,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This resource is a collection of student tutorial videos that explore various materials science and engineering topics using visualizations in the Wolfram Mathematica programming system.

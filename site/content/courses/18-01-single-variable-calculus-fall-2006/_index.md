@@ -10,9 +10,6 @@ course_image_alternate_text: An illustration of secant and tangent lines.
 course_image_caption_text: >-
   <p>You can use calculus to find the slope of any function at a given point.
   (Image by MIT OpenCourseWare.)</p>
-course_description: >-
-  <p>This introductory calculus course covers differentiation and integration of
-  functions of one variable, with applications.</p>
 course_info:
   instructors:
     - Prof. David Jerison
@@ -40,3 +37,4 @@ menu:
     identifier: course-home
     weight: -10
 ---
+This introductory calculus course covers differentiation and integration of functions of one variable, with applications.
