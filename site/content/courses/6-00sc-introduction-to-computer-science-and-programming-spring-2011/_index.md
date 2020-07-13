@@ -53,7 +53,7 @@ This subject is aimed at students with **little or no programming experience**. 
 
 * * *
 
-[!\[Click to get started.\](/images/button\_start.png)]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/Syllabus/_index.md" %}}) This course has been designed for independent study. It provides everything you will need to understand the concepts covered in the course. The materials include:
+[![Click to get started.](/images/button_start.png)]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/Syllabus/_index.md" %}}) This course has been designed for independent study. It provides everything you will need to understand the concepts covered in the course. The materials include:
 
 *   A complete set of **Lecture Videos** by Prof. Guttag.
 *   Resources for each lecture video, such as **Handouts, Slides,** and **Code Files.**

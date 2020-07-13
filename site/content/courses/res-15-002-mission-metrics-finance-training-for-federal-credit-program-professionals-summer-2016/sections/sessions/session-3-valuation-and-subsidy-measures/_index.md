@@ -41,7 +41,7 @@ Interactive
 Lecture Slides
 --------------
 
-[!\[Image of the Session 3 slide deck title page.\](https://open-learning-course-data-ci.s3.amazonaws.com/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/ed32ebd86612ff03198ad321fbc0c49e\_RES15-002\_Session\_3.jpg)]({{% getpage "courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/sections/sessions/session-3-valuation-and-subsidy-measures/MITRES15-002SUM16_Session_3" %}})
+[![Image of the Session 3 slide deck title page.](https://open-learning-course-data-ci.s3.amazonaws.com/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/ed32ebd86612ff03198ad321fbc0c49e_RES15-002_Session_3.jpg)]({{% getpage "courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/sections/sessions/session-3-valuation-and-subsidy-measures/MITRES15-002SUM16_Session_3" %}})
 
 [Session 3 Slides: Valuation and Subsidy Measures (PDF)]({{% getpage "courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/sections/sessions/session-3-valuation-and-subsidy-measures/MITRES15-002SUM16_Session_3" %}})
 

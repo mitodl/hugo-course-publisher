@@ -49,7 +49,7 @@ Interactive
 Lecture Slides
 --------------
 
-[!\[Image of the Session 1 slide deck title page.\](https://open-learning-course-data-ci.s3.amazonaws.com/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/080713cd7130a9155930ecc1ad2c12bc\_RES15-002\_Session\_1.jpg)]({{% getpage "courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/sections/sessions/session-1-program-objectives-understanding-mission-and-how-best-to-achieve-it/MITRES15-002SUM16_Session_1" %}})
+[![Image of the Session 1 slide deck title page.](https://open-learning-course-data-ci.s3.amazonaws.com/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/080713cd7130a9155930ecc1ad2c12bc_RES15-002_Session_1.jpg)]({{% getpage "courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/sections/sessions/session-1-program-objectives-understanding-mission-and-how-best-to-achieve-it/MITRES15-002SUM16_Session_1" %}})
 
 [Session 1 Slides: Introduction and Program Objectives (PDF)]({{% getpage "courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/sections/sessions/session-1-program-objectives-understanding-mission-and-how-best-to-achieve-it/MITRES15-002SUM16_Session_1" %}})
 

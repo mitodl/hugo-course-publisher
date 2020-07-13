@@ -45,7 +45,7 @@ This course covers differential, integral and vector calculus for functions of m
 
 * * *
 
-[!\[Click to get started.\](/images/button\_start.png)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/Syllabus/_index.md" %}})The materials have been organized to support independent study. The website includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:
+[![Click to get started.](/images/button_start.png)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/Syllabus/_index.md" %}})The materials have been organized to support independent study. The website includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:
 
 *   **Lecture Videos** recorded on the MIT campus
 *   **Recitation Videos** with problem-solving tips

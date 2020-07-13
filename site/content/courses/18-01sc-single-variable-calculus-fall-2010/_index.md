@@ -44,7 +44,7 @@ This calculus course covers differentiation and integration of functions of one 
 
 * * *
 
-[!\[Click to get started.\](/images/button\_start.png)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/syllabus/_index.md" %}})This course has been designed for independent study. It includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:
+[![Click to get started.](/images/button_start.png)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/syllabus/_index.md" %}})This course has been designed for independent study. It includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:
 
 *   **Lecture Videos** with supporting written notes
 *   **Recitation Videos** of problem-solving tips

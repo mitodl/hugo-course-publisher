@@ -49,7 +49,7 @@ Interactive
 Lecture Slides
 --------------
 
-[!\[Image of the Session 4 slide deck title page.\](https://open-learning-course-data-ci.s3.amazonaws.com/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/092224d872253d47132625bdfc79b160\_RES15-002\_Session\_4.jpg)]({{% getpage "courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/sections/sessions/session-4-credit-portfolio-costs-and-managing-performance/MITRES15-002SUM16_Session_4" %}})
+[![Image of the Session 4 slide deck title page.](https://open-learning-course-data-ci.s3.amazonaws.com/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/092224d872253d47132625bdfc79b160_RES15-002_Session_4.jpg)]({{% getpage "courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/sections/sessions/session-4-credit-portfolio-costs-and-managing-performance/MITRES15-002SUM16_Session_4" %}})
 
 [Session 4 Slides: Managing Operating Costs and Credit Risk (PDF)]({{% getpage "courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/sections/sessions/session-4-credit-portfolio-costs-and-managing-performance/MITRES15-002SUM16_Session_4" %}})
 

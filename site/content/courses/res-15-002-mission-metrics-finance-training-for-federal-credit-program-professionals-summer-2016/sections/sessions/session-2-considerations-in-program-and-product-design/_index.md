@@ -43,7 +43,7 @@ Interactive
 Lecture Slides
 --------------
 
-[!\[Image of the Session 2 slide deck title page.\](https://open-learning-course-data-ci.s3.amazonaws.com/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/926a807dd3b3ff4b957ea250cb3ba80d\_RES15-002\_Session\_2.jpg)]({{% getpage "courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/sections/sessions/session-2-considerations-in-program-and-product-design/MITRES15-002SUM16_Session_2" %}})
+[![Image of the Session 2 slide deck title page.](https://open-learning-course-data-ci.s3.amazonaws.com/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/926a807dd3b3ff4b957ea250cb3ba80d_RES15-002_Session_2.jpg)]({{% getpage "courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/sections/sessions/session-2-considerations-in-program-and-product-design/MITRES15-002SUM16_Session_2" %}})
 
 [Session 2 Slides: Considerations in Program and Product Design (PDF)]({{% getpage "courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/sections/sessions/session-2-considerations-in-program-and-product-design/MITRES15-002SUM16_Session_2" %}})
 

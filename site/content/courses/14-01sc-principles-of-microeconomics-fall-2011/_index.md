@@ -45,7 +45,7 @@ This course is a core subject in MIT's undergraduate [Energy Studies Minor](http
 
 * * *
 
-[!\[Click to get started.\](/images/button\_start.png)]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/Syllabus/_index.md" %}}) This course has been designed for independent study. It includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:
+[![Click to get started.](/images/button_start.png)]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/Syllabus/_index.md" %}}) This course has been designed for independent study. It includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:
 
 *   A complete set of **Lecture Videos** by Prof. Jon Gruber.
 *   **Reading Assignments** in your choice of two textbooks – one of which is a free online edition - as preparation for the lectures.

@@ -47,7 +47,7 @@ This course provides an introduction to the chemistry of biological, inorganic, 
 
 The aims include developing a unified and intuitive view of how electronic structure controls the three-dimensional shape of molecules, the physical and chemical properties of molecules in gases, liquids and solids, and ultimately the assembly of macromolecules as in polymers and DNA. Relationships between chemistry and other fundamental sciences such as biology and physics are emphasized, as are the relationships between the science of chemistry to its applications in environmental science, atmospheric chemistry and electronic devices. 
 
-[!\[Click to get started.\](/images/button\_start.png)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/syllabus" %}})
+[![Click to get started.](/images/button_start.png)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/syllabus" %}})
 
 ### Acknowledgements
 
