@@ -1,11 +1,6 @@
 ---
 title: 4.5 Expectation
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: b48a4b286073ca8ed6f8798aa6cc7b8c
-    weight: 2600
-    parent: 025c498f3f5e1c53924f7e40eb06a220
 type: courses
 layout: videogallery
 ---

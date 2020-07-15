@@ -1,11 +1,6 @@
 ---
 title: 'Session 99: Unit 1 Review'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 439b0e936f086aaa4e337925a9d02c17
-    weight: 1440
-    parent: d16553d30b552bab87a460f03b2e6366
 type: courses
 layout: videogallery
 ---

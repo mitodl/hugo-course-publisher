@@ -1,11 +1,6 @@
 ---
 title: '5.4 Predictive Coding: Bringing Text Analytics to the Courtroom  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 452a514d74e9b441d73ae42c18939bda
-    weight: 1900
-    parent: d4b1a3b942ed98d194feb3777ba22595
 type: courses
 layout: videogallery
 ---

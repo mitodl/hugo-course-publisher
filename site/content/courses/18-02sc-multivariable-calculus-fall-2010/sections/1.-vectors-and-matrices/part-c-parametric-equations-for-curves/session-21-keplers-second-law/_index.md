@@ -1,11 +1,6 @@
 ---
 title: 'Session 21: Kepler''s Second Law'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 8c2c314c763929344855b23ce9880749
-    weight: 280
-    parent: 6f575227d3038c113827c5c3b8aaf897
 type: courses
 layout: videogallery
 ---

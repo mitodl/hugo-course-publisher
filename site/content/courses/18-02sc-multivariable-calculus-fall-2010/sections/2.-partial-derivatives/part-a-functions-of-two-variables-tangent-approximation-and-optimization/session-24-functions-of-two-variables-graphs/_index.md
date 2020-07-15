@@ -1,11 +1,6 @@
 ---
 title: 'Session 24: Functions of Two Variables: Graphs'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: c2cc5b937ffbca979260841317394439
-    weight: 370
-    parent: 5ee00816c5fb6f611e7327400ba69bef
 type: courses
 layout: videogallery
 ---

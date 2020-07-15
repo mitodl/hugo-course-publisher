@@ -1,11 +1,6 @@
 ---
 title: 'Session 69: Integral of sin^n(x) cos^m(x), Even Exponents'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 60fd16b3d72fefca72098904f15c0f02
-    weight: 940
-    parent: 6b4ef50053da70f0e8654886100e09bb
 type: courses
 layout: videogallery
 ---

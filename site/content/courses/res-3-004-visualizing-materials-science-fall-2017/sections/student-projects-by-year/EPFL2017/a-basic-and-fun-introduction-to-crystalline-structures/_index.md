@@ -1,11 +1,6 @@
 ---
 title: A Basic and Fun Introduction to Crystalline Structures
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: 0a8b0cecdb48b1744f1b51cf4184962f
-    weight: 170
-    parent: 172a9af2383baa0a4e102ef1208f2781
 type: courses
 layout: videogallery
 ---

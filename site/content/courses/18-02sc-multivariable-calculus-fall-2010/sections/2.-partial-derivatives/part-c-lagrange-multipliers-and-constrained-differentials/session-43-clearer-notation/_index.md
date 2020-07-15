@@ -1,11 +1,6 @@
 ---
 title: 'Session 43: Clearer Notation'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: a853b2a1cf33cf9421984d602044e1f1
-    weight: 600
-    parent: c2b5d17477309fb5372bd98ef12fed7d
 type: courses
 layout: videogallery
 ---

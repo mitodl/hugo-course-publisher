@@ -1,11 +1,6 @@
 ---
 title: 2.1  GCDs
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 6a0a922fd84dea6eafee260f26d8c991
-    weight: 1050
-    parent: 405693053755e5d6fb1b1e2592fa311e
 ---
 *   [<Divisors]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/vertical-70eb5a2913c0" %}})
 *   [2.1.1GCDs & Linear Combinations: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/_index.md" %}})

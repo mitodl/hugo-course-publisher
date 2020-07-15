@@ -1,11 +1,6 @@
 ---
 title: Visualizing the Energies of Screw Dislocations
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: b31d06756f6ec9500ff743879e4c98b7
-    weight: 90
-    parent: faf869f8afddf72b42b0a478ed652c8c
 type: courses
 layout: videogallery
 ---

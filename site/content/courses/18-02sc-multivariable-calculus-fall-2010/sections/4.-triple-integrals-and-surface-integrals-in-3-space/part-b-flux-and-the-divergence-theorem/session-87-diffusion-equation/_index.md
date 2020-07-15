@@ -1,11 +1,6 @@
 ---
 title: 'Session 87: Diffusion Equation'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 7564bb64749a9b689ece4277dd91ada1
-    weight: 1220
-    parent: 2afdabb0a4acff042357fe33b02c43c3
 type: courses
 layout: videogallery
 ---

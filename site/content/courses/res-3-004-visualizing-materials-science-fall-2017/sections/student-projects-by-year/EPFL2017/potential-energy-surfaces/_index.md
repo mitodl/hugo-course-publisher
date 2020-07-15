@@ -1,11 +1,6 @@
 ---
 title: Potential Energy Surfaces
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: 3992924b799e3ac897596208995a2e7f
-    weight: 140
-    parent: 172a9af2383baa0a4e102ef1208f2781
 type: courses
 layout: videogallery
 ---

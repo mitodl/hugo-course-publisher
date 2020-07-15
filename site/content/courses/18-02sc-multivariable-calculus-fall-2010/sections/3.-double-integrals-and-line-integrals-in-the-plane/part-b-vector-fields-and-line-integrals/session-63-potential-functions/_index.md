@@ -1,11 +1,6 @@
 ---
 title: 'Session 63: Potential Functions'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: d4f09bad1bc504b82a719aa7c3f72168
-    weight: 880
-    parent: 14558d9f4e08d12a419154f3c8100c75
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 'Session 16: Intersection of a Line and a Plane'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: d48352f417dcb010c0a5ce62f99b2e0a
-    weight: 230
-    parent: 6f575227d3038c113827c5c3b8aaf897
 type: courses
 layout: videogallery
 ---

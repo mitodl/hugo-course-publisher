@@ -1,11 +1,6 @@
 ---
 title: 4.1 Intro to Discrete Probability
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: ad8e812ca9c8df630eb5a6ed30542233
-    weight: 2260
-    parent: 4414c612ae424c737466f4715f85e319
 ---
 *   [<Simplified Monty Hall Tree: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-65858dc50455" %}})
 *   [4.1.1Tree Model: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/_index.md" %}})

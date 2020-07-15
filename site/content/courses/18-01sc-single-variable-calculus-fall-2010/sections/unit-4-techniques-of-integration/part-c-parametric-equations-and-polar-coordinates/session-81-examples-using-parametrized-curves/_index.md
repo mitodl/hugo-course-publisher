@@ -1,11 +1,6 @@
 ---
 title: 'Session 81: Examples Using Parametrized Curves'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 7aa6522b6e8e0d13937e54ed6e52710d
-    weight: 1100
-    parent: f19e1f54f348a68a730889ee63f5b9d6
 type: courses
 layout: videogallery
 ---

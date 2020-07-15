@@ -1,11 +1,6 @@
 ---
 title: 'Session 76: Integration by Parts'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: b196b3d2413fa8015d43695883cc671a
-    weight: 1030
-    parent: be9d889d28b57df1a77bbd83f2f4f214
 type: courses
 layout: videogallery
 ---

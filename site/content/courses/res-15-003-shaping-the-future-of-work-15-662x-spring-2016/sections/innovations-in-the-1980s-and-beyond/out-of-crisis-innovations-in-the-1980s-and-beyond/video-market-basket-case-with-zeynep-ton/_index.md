@@ -1,11 +1,6 @@
 ---
 title: '3.1 Out of Crisis: Innovations in the 1980s and Beyond'
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
-menu:
-  res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
-    identifier: dac7ba91d880af8594595eec2ce66877
-    weight: 460
-    parent: 258e8c836d79345d402f95a9cd7cf2cd
 type: courses
 layout: videogallery
 ---

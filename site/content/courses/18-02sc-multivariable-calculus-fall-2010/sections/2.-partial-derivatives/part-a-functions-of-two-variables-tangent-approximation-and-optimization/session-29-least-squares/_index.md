@@ -1,11 +1,6 @@
 ---
 title: 'Session 29: Least Squares'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 4dee8231f05e53cc79cbf731a6390b29
-    weight: 420
-    parent: 5ee00816c5fb6f611e7327400ba69bef
 type: courses
 layout: videogallery
 ---

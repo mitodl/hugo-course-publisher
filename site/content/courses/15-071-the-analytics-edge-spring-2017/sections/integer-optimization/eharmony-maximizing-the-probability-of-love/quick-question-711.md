@@ -1,11 +1,6 @@
 ---
 title: '9.3 eHarmony: Maximizing the Probability of Love '
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: ff041fd1d8ec57190e25cb482bdb9cd2
-    weight: 3190
-    parent: 11e612d89845c6c96a7307cebaa24191
 ---
 *   [<Video 3: Predicting Compatibility Scores]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love/video-3-predicting-compatibility-scores" %}})
 *   [9.3.1Video 1: The Goal of eHarmony]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love/_index.md" %}})

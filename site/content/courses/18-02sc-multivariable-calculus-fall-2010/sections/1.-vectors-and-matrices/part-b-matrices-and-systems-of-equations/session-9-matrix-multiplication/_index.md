@@ -1,11 +1,6 @@
 ---
 title: '.Session 9: Matrix Multiplication'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 140906549310aba473941897b75d97d3
-    weight: 140
-    parent: 5785559cca754f05db711c0de8a26bc4
 type: courses
 layout: videogallery
 ---

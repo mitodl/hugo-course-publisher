@@ -1,11 +1,6 @@
 ---
 title: 'Session 74: Integration by Partial Fractions'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: bffb54f0e2e1cf685033820b5512e4e6
-    weight: 1010
-    parent: be9d889d28b57df1a77bbd83f2f4f214
 type: courses
 layout: videogallery
 ---

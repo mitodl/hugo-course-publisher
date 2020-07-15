@@ -1,11 +1,6 @@
 ---
 title: 3.1 Sums & Products
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 0dcf41e639e21212fcf32bf9560d209c
-    weight: 1940
-    parent: 93998ab0044352e85efcb877380e8e28
 ---
 *   [<Convergence of Geometric Series]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/convergence-of-geometric-series" %}})
 *   [3.1.1Arithmetic Sums: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/_index.md" %}})

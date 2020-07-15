@@ -1,11 +1,6 @@
 ---
 title: 'Session 52: Applications: Moment of Inertia'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 71ab1fd28595ea71a49dec2a50b44b1f
-    weight: 750
-    parent: 9fa9495fe35f5fa9506bb63e2d42812f
 type: courses
 layout: videogallery
 ---

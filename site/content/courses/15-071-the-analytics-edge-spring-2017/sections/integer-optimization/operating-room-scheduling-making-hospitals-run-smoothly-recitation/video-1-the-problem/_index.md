@@ -1,11 +1,6 @@
 ---
 title: '9.4 Operating Room Scheduling: Making Hospitals Run Smoothly  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 5e9398f5808e614ec06fe6634bc50d7e
-    weight: 3220
-    parent: 1ebaa9f0a112c16192d91227cd28b727
 type: courses
 layout: videogallery
 ---

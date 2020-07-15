@@ -1,11 +1,6 @@
 ---
 title: 'Session 35: Using the Mean Value Theorem'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 673ff3f8ec331bce1196314f7e83c11b
-    weight: 480
-    parent: cc849d5801781635e7d929c121e176fe
 type: courses
 layout: videogallery
 ---

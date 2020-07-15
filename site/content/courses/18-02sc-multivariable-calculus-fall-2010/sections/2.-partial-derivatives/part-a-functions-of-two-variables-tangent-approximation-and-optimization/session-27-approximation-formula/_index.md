@@ -1,11 +1,6 @@
 ---
 title: 'Session 27: Approximation Formula'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 137654825c1e9afc7157b73f07e97db6
-    weight: 400
-    parent: 5ee00816c5fb6f611e7327400ba69bef
 type: courses
 layout: videogallery
 ---

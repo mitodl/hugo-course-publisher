@@ -1,11 +1,6 @@
 ---
 title: '5.2 Turning Tweets into Knowledge: An Introduction to Text Analytics'
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: d4dd29197499fdd3dac1bca9ea53d04c
-    weight: 1620
-    parent: aea3bc9c07f7364865c46fec93dd8515
 type: courses
 layout: videogallery
 ---

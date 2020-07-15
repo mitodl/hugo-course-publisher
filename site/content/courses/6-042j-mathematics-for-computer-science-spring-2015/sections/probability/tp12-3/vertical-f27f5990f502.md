@@ -1,11 +1,6 @@
 ---
 title: '4.4 Random Variables, Density Functions'
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: e0649a8f87adc6b9ff43ef4494e94f2b
-    weight: 2550
-    parent: 5d000a4e2a13daae80b1331e90d2f442
 ---
 *   [<PDF to CDF]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-3/vertical-0527081b6af3" %}})
 *   [4.4.1Bigger Number Game: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-3/_index.md" %}})

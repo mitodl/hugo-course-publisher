@@ -1,11 +1,6 @@
 ---
 title: Real and Reciprocal Space in 2D and 3D
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: a76134ed4846cae72d42d67de4a5cb1f
-    weight: 60
-    parent: faf869f8afddf72b42b0a478ed652c8c
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 1.11  Infinite Sets
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: ec97b4240f286982e12ac8376f9e3c49
-    weight: 840
-    parent: 7b14af4d984597ad410998ecc9fb9f71
 ---
 *   [< Infinite Sets]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/_index.md" %}})
 *   [1.11.1Cardinality: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/_index.md" %}})

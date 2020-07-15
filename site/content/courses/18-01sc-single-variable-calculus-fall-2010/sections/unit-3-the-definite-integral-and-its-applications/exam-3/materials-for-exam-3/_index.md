@@ -1,11 +1,6 @@
 ---
 title: 'Session 67: Materials for Exam 3'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: be018db8352877b71152e364bf12af4b
-    weight: 900
-    parent: d008dd74a84e2b230239ba6f9604c6fa
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/exam-3/review-for-exam-3/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/_index.md" %}}) »
 

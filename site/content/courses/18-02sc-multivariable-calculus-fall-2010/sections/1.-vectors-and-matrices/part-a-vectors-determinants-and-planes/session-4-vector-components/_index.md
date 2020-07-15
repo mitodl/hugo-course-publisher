@@ -1,11 +1,6 @@
 ---
 title: 'Session 4: Vector Components'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 375dd1f685adf2e09b7114726b7f7b54
-    weight: 70
-    parent: 5ec6e19ff0b098e40ec65f8bcf898f57
 type: courses
 layout: videogallery
 ---

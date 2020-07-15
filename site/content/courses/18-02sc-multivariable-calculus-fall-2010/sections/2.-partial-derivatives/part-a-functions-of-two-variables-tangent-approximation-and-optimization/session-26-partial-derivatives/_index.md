@@ -1,11 +1,6 @@
 ---
 title: 'Session 26: Partial Derivatives'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 9bc5502d75dd79dd4f220e496468c323
-    weight: 390
-    parent: 5ee00816c5fb6f611e7327400ba69bef
 type: courses
 layout: videogallery
 ---

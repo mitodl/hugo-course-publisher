@@ -3,11 +3,6 @@ title: >-
   4.4 Location, Location, Location: Regression Trees for Housing Data 
   (Recitation)
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 14da7d12ae8a4e886ad3ec1166945b9c
-    weight: 1500
-    parent: aef27920c51cefd188ed937539251bd9
 type: courses
 layout: videogallery
 ---

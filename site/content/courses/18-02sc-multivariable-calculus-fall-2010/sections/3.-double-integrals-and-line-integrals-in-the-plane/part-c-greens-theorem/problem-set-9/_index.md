@@ -1,11 +1,6 @@
 ---
 title: Problem Set 9
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: c72cd9fc8acec42057f071dc278a5e5d
-    weight: 1000
-    parent: 138f6170e946b9b122d9693749cc9860
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-72-simply-connected-regions-and-conservative-fields/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/exam-3/_index.md" %}}) »
 

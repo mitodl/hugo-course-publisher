@@ -1,11 +1,6 @@
 ---
 title: 'Session 38: Directional Derivatives'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 39fb1a7a22ea5009fdbd92b8775e6362
-    weight: 530
-    parent: e7048e4bfd0d70c8ef294e9d7a9c4a9d
 type: courses
 layout: videogallery
 ---

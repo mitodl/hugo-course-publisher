@@ -1,11 +1,6 @@
 ---
 title: 'Session 5: Discontinuity'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: d0bc8735c3a450ca5aad8ed8059d679d
-    weight: 80
-    parent: 962d171611a101d49f865818d41217eb
 type: courses
 layout: videogallery
 ---

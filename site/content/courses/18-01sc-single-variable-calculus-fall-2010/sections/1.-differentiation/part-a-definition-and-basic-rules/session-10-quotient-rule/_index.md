@@ -1,11 +1,6 @@
 ---
 title: 'Session 10: Quotient Rule'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 94a0d0fdde324bb54b34d0ea12a6d94d
-    weight: 130
-    parent: 962d171611a101d49f865818d41217eb
 type: courses
 layout: videogallery
 ---

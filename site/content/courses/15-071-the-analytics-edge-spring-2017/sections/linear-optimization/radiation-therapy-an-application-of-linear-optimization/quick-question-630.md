@@ -1,11 +1,6 @@
 ---
 title: '8.3 Radiation Therapy: An Application of Linear Optimization '
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 12e6da5699311c837bce67f78b499ef3
-    weight: 2830
-    parent: 7a59278a134c5085244c381fc6090890
 ---
 *   [<Radiation Therapy: An Application of Linear Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/radiation-therapy-an-application-of-linear-optimization/_index.md" %}})
 *   [8.3.1Video 1: Introduction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/radiation-therapy-an-application-of-linear-optimization/_index.md" %}})

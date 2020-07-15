@@ -1,11 +1,6 @@
 ---
 title: 'Session 96: Summary of Multiple Integration'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 9fa0f56b39e8582fa9aafecfcba944f6
-    weight: 1330
-    parent: 55dd338036332e8cfa4236beffad3294
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: Hooke's Law in Cubic Solids
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: d81bc6cc6217d69ce399a1655dab00d2
-    weight: 330
-    parent: 831df858853019079c4dadae1aacd80b
 type: courses
 layout: videogallery
 ---

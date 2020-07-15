@@ -1,11 +1,6 @@
 ---
 title: 2.3  Euler's Theorem
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: e4755cd459fa090ffe9718a5211a4775
-    weight: 1150
-    parent: 8083cb558a36eb8dad32920ceb95cfdb
 ---
 *   [<The Ring Z: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-1/vertical-96037fd2d933" %}})
 *   [2.3.1Modular Exponentiation Euler's Function: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-1/_index.md" %}})

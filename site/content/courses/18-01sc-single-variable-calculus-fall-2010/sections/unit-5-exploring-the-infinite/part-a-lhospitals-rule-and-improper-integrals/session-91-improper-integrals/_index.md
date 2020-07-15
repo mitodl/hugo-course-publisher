@@ -1,11 +1,6 @@
 ---
 title: 'Session 91: Improper Integrals'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 3fa268819900b3ee4bc8d590323f17dc
-    weight: 1240
-    parent: 7011962365c7a7e31179a33dc8e95275
 type: courses
 layout: videogallery
 ---

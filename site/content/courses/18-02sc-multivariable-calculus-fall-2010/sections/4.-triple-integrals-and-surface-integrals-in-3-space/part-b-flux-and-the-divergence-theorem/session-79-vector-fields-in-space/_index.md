@@ -1,11 +1,6 @@
 ---
 title: 'Session 79: Vector Fields in Space'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: cb1f2e44229f3ba50543b58ec8cc851e
-    weight: 1140
-    parent: 2afdabb0a4acff042357fe33b02c43c3
 type: courses
 layout: videogallery
 ---

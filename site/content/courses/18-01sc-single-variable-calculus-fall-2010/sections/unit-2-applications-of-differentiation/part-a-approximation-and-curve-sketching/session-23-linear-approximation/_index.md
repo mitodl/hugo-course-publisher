@@ -1,11 +1,6 @@
 ---
 title: 'Session 23: Linear Approximation'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 6c111f0f1d0b5fade36a1ca3687104d2
-    weight: 320
-    parent: 8c88ae0417475c6dae97e569853bfd9e
 type: courses
 layout: videogallery
 ---

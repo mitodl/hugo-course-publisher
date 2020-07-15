@@ -1,11 +1,6 @@
 ---
 title: 'Session 66: Curl(F) = 0 Implies Conservative'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: bf983f8d7c6f881d2fbd5426ef1eaf4e
-    weight: 930
-    parent: 138f6170e946b9b122d9693749cc9860
 type: courses
 layout: videogallery
 ---

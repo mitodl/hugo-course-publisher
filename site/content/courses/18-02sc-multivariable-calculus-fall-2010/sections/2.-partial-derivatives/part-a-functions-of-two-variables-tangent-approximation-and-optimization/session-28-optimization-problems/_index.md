@@ -1,11 +1,6 @@
 ---
 title: 'Session 28: Optimization Problems'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: c9676214b810ddca3b9ff7a223b17158
-    weight: 410
-    parent: 5ee00816c5fb6f611e7327400ba69bef
 type: courses
 layout: videogallery
 ---

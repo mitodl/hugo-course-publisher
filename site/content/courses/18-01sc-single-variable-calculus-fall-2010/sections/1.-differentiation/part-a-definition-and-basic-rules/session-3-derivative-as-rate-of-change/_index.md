@@ -1,11 +1,6 @@
 ---
 title: 'Session 3: Derivative as Rate of Change'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 4eff05d7dd9bd856611cfe4f4cddcb98
-    weight: 60
-    parent: 962d171611a101d49f865818d41217eb
 type: courses
 layout: videogallery
 ---

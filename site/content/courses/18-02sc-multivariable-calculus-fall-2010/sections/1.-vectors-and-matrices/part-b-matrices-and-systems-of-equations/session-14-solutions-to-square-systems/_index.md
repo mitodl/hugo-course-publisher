@@ -1,11 +1,6 @@
 ---
 title: 'Session 14: Solutions to Square Systems'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 7d94f07b8bc70601a9431aa48d6b4518
-    weight: 190
-    parent: 5785559cca754f05db711c0de8a26bc4
 type: courses
 layout: videogallery
 ---

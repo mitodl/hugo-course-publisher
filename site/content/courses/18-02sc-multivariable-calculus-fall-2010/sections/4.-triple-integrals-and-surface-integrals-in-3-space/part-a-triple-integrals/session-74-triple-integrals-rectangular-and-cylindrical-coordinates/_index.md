@@ -1,11 +1,6 @@
 ---
 title: 'Session 74: Triple Integrals: Rectangular and Cylindrical Coordinates'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 6369fc2c0ed673b1973ba7af526cb70d
-    weight: 1070
-    parent: fae0471018712678ad1b80e80246916a
 type: courses
 layout: videogallery
 ---

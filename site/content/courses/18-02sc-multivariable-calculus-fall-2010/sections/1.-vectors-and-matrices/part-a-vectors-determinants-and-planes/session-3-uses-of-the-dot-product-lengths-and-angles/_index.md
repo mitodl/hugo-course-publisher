@@ -1,11 +1,6 @@
 ---
 title: 'Session 3: Uses of the Dot Product: Lengths and Angles'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 6bffee600f9e4f4fdbab82ddbed0e07d
-    weight: 60
-    parent: 5ec6e19ff0b098e40ec65f8bcf898f57
 type: courses
 layout: videogallery
 ---

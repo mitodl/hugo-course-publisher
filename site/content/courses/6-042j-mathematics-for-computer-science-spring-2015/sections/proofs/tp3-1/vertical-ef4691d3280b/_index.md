@@ -1,11 +1,6 @@
 ---
 title: 1.5 Quantifiers & Predicate Logic
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 7f46d5ade35f710989d4097648a7bead
-    weight: 400
-    parent: 101f2dc98b9878a06c0f57e750015c84
 type: courses
 layout: videogallery
 ---

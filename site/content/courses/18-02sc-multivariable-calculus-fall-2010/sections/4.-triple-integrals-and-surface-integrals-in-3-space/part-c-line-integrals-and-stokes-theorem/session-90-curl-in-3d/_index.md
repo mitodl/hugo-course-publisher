@@ -1,11 +1,6 @@
 ---
 title: 'Session 90: Curl in 3D'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: acfc5d4e3602454b1118b52cb66b3039
-    weight: 1270
-    parent: 55dd338036332e8cfa4236beffad3294
 type: courses
 layout: videogallery
 ---

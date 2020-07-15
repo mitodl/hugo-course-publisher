@@ -1,11 +1,6 @@
 ---
 title: 'Session 10: Meaning of Matrix Multiplication'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 2893633a059cb4ab36d77e4e15b1e870
-    weight: 150
-    parent: 5785559cca754f05db711c0de8a26bc4
 type: courses
 layout: videogallery
 ---

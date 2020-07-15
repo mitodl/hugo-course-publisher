@@ -1,11 +1,6 @@
 ---
 title: 'Session 97: Curl and Physics'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 8810a4ba7a95b6f869ae4b8347785a1b
-    weight: 1390
-    parent: e4a6d6711614af4073c1a224e90fc6b0
 type: courses
 layout: videogallery
 ---

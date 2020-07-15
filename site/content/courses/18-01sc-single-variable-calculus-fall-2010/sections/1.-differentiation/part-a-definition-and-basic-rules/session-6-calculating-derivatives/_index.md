@@ -1,11 +1,6 @@
 ---
 title: 'Session 6: Calculating Derivatives'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: a50336604c88798f90662c641ab35802
-    weight: 90
-    parent: 962d171611a101d49f865818d41217eb
 type: courses
 layout: videogallery
 ---

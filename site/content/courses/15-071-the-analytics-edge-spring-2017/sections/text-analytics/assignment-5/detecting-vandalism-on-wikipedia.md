@@ -1,11 +1,6 @@
 ---
 title: 5.5 Assignment 5
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 2e4c9dd96d084e8fd1d8111a5affc5a4
-    weight: 1920
-    parent: 81eae0fd28f287336b792210ba33dfbb
 ---
 *   [<Assignment 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/_index.md" %}})
 *   [5.5.1Separating Spam from Ham (Part 1)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/_index.md" %}})

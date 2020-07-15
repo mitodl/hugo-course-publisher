@@ -1,11 +1,6 @@
 ---
 title: 'Session 80: Flux Through a Surface'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 076b5dffcda3d135851cf7a311c53208
-    weight: 1150
-    parent: 2afdabb0a4acff042357fe33b02c43c3
 type: courses
 layout: videogallery
 ---

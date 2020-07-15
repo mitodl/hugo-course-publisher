@@ -1,11 +1,6 @@
 ---
 title: 'Session 29: Optimization Problems'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 588fcaecbbe5091660dfdf0b2efe6908
-    weight: 400
-    parent: 7bd0936fcddbb454b9e5dab2884cc641
 type: courses
 layout: videogallery
 ---

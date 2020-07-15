@@ -1,11 +1,6 @@
 ---
 title: 'Session 72: Trig Substitution'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 9894378ce8db90173778fc7a13cad022
-    weight: 970
-    parent: 6b4ef50053da70f0e8654886100e09bb
 type: courses
 layout: videogallery
 ---

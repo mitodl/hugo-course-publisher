@@ -1,11 +1,6 @@
 ---
 title: '3.3 The Framingham Heart Study: Evaluating Risk Factors to Save Lives '
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 332c772ac3431943e27c0bb91f073b40
-    weight: 1000
-    parent: 58bb606548df9c3a8c148318a4e0e5c7
 ---
 *   [<Video 4: Validating the Model]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/video-4-validating-the-model" %}})
 *   [3.3.1Video 1: The Framingham Heart Study]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/_index.md" %}})

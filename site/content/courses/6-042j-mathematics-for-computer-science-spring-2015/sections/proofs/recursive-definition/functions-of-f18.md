@@ -1,11 +1,6 @@
 ---
 title: 1.10 Recursive Definition
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: fdcfb358e60e4cb1911716fffe96f2dc
-    weight: 780
-    parent: dc6ecd4f10b94f9f9744a385e4bab210
 ---
 *   [<Matching Parentheses]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/recursive-definition/matching-parentheses" %}})
 *   [1.10.1Recursive Data: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/recursive-definition/_index.md" %}})

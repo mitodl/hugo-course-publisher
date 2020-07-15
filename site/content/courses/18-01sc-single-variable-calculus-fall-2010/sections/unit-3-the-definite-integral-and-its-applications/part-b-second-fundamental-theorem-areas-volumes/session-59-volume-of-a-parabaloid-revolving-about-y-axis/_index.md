@@ -1,11 +1,6 @@
 ---
 title: 'Session 59: Volume of a Parabaloid, Revolving About y-axis'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 2a892d50ed0126e15d3603ad2d218d9e
-    weight: 780
-    parent: 82a633f32c2b0be84fba01f5e5741006
 type: courses
 layout: videogallery
 ---

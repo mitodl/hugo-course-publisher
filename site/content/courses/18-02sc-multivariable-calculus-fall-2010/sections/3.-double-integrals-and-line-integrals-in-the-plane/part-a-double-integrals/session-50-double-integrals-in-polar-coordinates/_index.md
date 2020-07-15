@@ -1,11 +1,6 @@
 ---
 title: 'Session 50: Double Integrals in Polar Coordinates'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 526fb43eaa2051870cb72c769f2c80ae
-    weight: 730
-    parent: 9fa9495fe35f5fa9506bb63e2d42812f
 type: courses
 layout: videogallery
 ---

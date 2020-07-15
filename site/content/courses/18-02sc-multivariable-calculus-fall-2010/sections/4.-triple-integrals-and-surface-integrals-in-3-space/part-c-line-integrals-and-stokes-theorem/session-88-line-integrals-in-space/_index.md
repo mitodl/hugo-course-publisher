@@ -1,11 +1,6 @@
 ---
 title: 'Session 88: Line Integrals in Space'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 9d4fafc8bb3bb6f7f352581e663be4be
-    weight: 1250
-    parent: 55dd338036332e8cfa4236beffad3294
 type: courses
 layout: videogallery
 ---

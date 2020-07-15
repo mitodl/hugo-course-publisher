@@ -1,11 +1,6 @@
 ---
 title: 'Session 6: Volumes and Determinants in Space'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: bb78c434746c4a7d4c1a369991a0b5d2
-    weight: 90
-    parent: 5ec6e19ff0b098e40ec65f8bcf898f57
 type: courses
 layout: videogallery
 ---

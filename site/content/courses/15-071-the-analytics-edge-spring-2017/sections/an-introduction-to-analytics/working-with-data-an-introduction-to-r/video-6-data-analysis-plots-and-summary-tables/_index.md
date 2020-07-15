@@ -1,11 +1,6 @@
 ---
 title: '1.3 Working with Data: An Introduction to R '
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 050acd529f55fd87a5c298728b4daa03
-    weight: 250
-    parent: 1ac933da13d13dfa2e3803abf2d6971f
 type: courses
 layout: videogallery
 ---

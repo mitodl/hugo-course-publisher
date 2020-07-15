@@ -1,11 +1,6 @@
 ---
 title: 'Session 95: Stokes'' Theorem and Surface Independence'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: f551eb109c522f31323984495ef23ce8
-    weight: 1320
-    parent: 55dd338036332e8cfa4236beffad3294
 type: courses
 layout: videogallery
 ---

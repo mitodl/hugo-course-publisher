@@ -1,11 +1,6 @@
 ---
 title: 'Session 51: The Second Fundamental Theorem of Calculus'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 9b4c6b77599861b820e8c804596b8c24
-    weight: 700
-    parent: 82a633f32c2b0be84fba01f5e5741006
 type: courses
 layout: videogallery
 ---

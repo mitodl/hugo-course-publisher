@@ -1,11 +1,6 @@
 ---
 title: 4.2 Conditional Probability
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: d23517012859382416b7168f07711cf9
-    weight: 2380
-    parent: 79ebde2b537e9e26dc39d5d2e1c8f1d9
 ---
 *   [<Monty Hall Problem: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/vertical-038350815734" %}})
 *   [4.2.1Conditional Probability Definitions: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/_index.md" %}})

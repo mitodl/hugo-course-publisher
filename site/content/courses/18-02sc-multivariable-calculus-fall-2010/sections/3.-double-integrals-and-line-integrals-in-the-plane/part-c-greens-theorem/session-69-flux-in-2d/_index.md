@@ -1,11 +1,6 @@
 ---
 title: 'Session 69: Flux in 2D'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 667a15fc543385da7673e4a4912acd3d
-    weight: 960
-    parent: 138f6170e946b9b122d9693749cc9860
 type: courses
 layout: videogallery
 ---

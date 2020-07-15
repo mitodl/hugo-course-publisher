@@ -1,11 +1,6 @@
 ---
 title: 'Session 52: Proving the Fundamental Theorem of Calculus'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 593f157526f1927fd6ea05e37c3d4475
-    weight: 710
-    parent: 82a633f32c2b0be84fba01f5e5741006
 type: courses
 layout: videogallery
 ---

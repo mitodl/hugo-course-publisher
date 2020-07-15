@@ -1,11 +1,6 @@
 ---
 title: Practice Exam
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 654a80f50b3e994afe5f119759a792fb
-    weight: 310
-    parent: 7afcc16e1e669d994325103cb87d25c3
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/exam-1/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/exam-1/session-22-review-of-topics/_index.md" %}}) »
 

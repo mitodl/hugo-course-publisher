@@ -1,11 +1,6 @@
 ---
 title: '8.4 Google AdWords: Optimizing Online Advertising  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: ec76b4ff67804c693ea4a3a2695b4d2d
-    weight: 2980
-    parent: 696dd6e442cc1fc47c9f2924e2edfb26
 type: courses
 layout: videogallery
 ---

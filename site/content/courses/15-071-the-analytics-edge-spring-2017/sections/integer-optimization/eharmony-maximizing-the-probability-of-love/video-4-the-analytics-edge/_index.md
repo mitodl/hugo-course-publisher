@@ -1,11 +1,6 @@
 ---
 title: '9.3 eHarmony: Maximizing the Probability of Love '
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: 77d81d8b92b7acee0e6b7bc04c4a9533
-    weight: 3200
-    parent: 11e612d89845c6c96a7307cebaa24191
 type: courses
 layout: videogallery
 ---

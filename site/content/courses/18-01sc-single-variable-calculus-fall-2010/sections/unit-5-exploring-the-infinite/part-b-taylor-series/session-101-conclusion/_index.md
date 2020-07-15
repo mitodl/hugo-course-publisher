@@ -1,11 +1,6 @@
 ---
 title: 'Session 101: Conclusion'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: c22c320788f09de5fe78a6e305cad2b4
-    weight: 1350
-    parent: 1c9b92776c16c587013d2f3b4e9b94a0
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 'Session 71: Extended Green''s Theorem: Boundaries with Multiple Pieces'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 5bbb4de2941a4319bca341074dd6e5f3
-    weight: 980
-    parent: 138f6170e946b9b122d9693749cc9860
 type: courses
 layout: videogallery
 ---

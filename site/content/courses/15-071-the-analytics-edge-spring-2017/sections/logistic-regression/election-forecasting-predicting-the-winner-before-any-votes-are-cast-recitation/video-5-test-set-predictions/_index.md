@@ -3,11 +3,6 @@ title: >-
   3.4 Election Forecasting: Predicting the Winner Before any Votes are Cast 
   (Recitation)
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: bafc7d5602f9e47a53ea0d210aa17805
-    weight: 1090
-    parent: cd55cbba60f6d5d37320e05f520c4cf1
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 'Session 49: Applications of the Fundamental Theorem of Calculus'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: bd925f6f8a78fde6be8c709ded2799e9
-    weight: 660
-    parent: 0b76caa8a52837fdba43c151842bb90a
 type: courses
 layout: videogallery
 ---

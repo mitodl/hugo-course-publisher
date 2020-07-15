@@ -1,11 +1,6 @@
 ---
 title: 'Session 94: Simply Connected Regions; Topology'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 9da45f785868f3aefcb2c3ec1ad5293e
-    weight: 1310
-    parent: 55dd338036332e8cfa4236beffad3294
 type: courses
 layout: videogallery
 ---

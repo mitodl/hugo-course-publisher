@@ -1,11 +1,6 @@
 ---
 title: 'Session 20: Hyperbolic Trig Functions'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: da268fb0fd08ed16c1b1988ed700633a
-    weight: 250
-    parent: ea455a8ae7f0daad0b8d5033112f5f5e
 type: courses
 layout: videogallery
 ---

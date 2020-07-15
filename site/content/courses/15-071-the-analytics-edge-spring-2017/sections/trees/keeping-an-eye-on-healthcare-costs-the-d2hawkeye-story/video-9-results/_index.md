@@ -1,11 +1,6 @@
 ---
 title: '4.3 Keeping an Eye on Healthcare Costs: The D2Hawkeye Story '
 course_id: 15-071-the-analytics-edge-spring-2017
-menu:
-  15-071-the-analytics-edge-spring-2017:
-    identifier: bc9ba16df4b1d68bb2a3dfc6700cfac3
-    weight: 1430
-    parent: 52a221ddc01190a445b1a393b15cb810
 type: courses
 layout: videogallery
 ---

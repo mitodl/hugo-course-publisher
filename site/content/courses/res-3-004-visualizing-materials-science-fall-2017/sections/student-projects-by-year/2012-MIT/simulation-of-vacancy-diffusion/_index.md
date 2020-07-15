@@ -1,11 +1,6 @@
 ---
 title: Simulation of Vacancy Diffusion
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: 0e5fd4fbf523e9865d9ff051ce3d625b
-    weight: 370
-    parent: 831df858853019079c4dadae1aacd80b
 type: courses
 layout: videogallery
 ---

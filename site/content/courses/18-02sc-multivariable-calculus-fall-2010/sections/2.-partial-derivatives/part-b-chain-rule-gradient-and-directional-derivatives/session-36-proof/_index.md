@@ -1,11 +1,6 @@
 ---
 title: 'Session 36: Proof'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 35a3500caf50f550a59f1b0dfe9285b9
-    weight: 510
-    parent: e7048e4bfd0d70c8ef294e9d7a9c4a9d
 type: courses
 layout: videogallery
 ---

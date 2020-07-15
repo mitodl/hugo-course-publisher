@@ -1,11 +1,6 @@
 ---
 title: 'Session 98: Maxwell''s Equations'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 61a1ca32dff964776203bdd2b30e1875
-    weight: 1400
-    parent: e4a6d6711614af4073c1a224e90fc6b0
 type: courses
 layout: videogallery
 ---

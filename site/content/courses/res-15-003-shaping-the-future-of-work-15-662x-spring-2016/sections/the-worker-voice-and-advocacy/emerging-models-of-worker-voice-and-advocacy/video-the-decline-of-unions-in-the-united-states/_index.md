@@ -1,11 +1,6 @@
 ---
 title: 5.1 Emerging Models of Worker Voice and Advocacy
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
-menu:
-  res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
-    identifier: 0dae445d1cdda429797239550ed13736
-    weight: 650
-    parent: f64caa346fa70afba933c8855e020995
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: Mohr's Circle
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: 4c32642fc2688bbfea788c944f1362e3
-    weight: 310
-    parent: 831df858853019079c4dadae1aacd80b
 type: courses
 layout: videogallery
 ---

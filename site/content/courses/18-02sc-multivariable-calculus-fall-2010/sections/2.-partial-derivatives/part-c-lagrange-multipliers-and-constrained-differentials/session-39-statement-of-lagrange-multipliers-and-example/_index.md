@@ -1,11 +1,6 @@
 ---
 title: 'Session 39: Statement of Lagrange Multipliers and Example'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 353136b8318cd2cd224476fe67ed8426
-    weight: 560
-    parent: c2b5d17477309fb5372bd98ef12fed7d
 type: courses
 layout: videogallery
 ---

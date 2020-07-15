@@ -1,11 +1,6 @@
 ---
 title: 'Session 61: Integrals and Weighted Averages'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: d2dac4c5783973f0083cdd3859d4cda5
-    weight: 820
-    parent: e1f8a1b789b83e57da0e01f4ada7283a
 type: courses
 layout: videogallery
 ---

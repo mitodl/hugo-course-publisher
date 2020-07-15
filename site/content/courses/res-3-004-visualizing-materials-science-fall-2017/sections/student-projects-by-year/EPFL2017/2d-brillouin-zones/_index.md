@@ -1,11 +1,6 @@
 ---
 title: 2D Brillouin Zones
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: 6af867675646cdaeea8a8a61675515d6
-    weight: 150
-    parent: 172a9af2383baa0a4e102ef1208f2781
 type: courses
 layout: videogallery
 ---

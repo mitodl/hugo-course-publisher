@@ -1,11 +1,6 @@
 ---
 title: 'Session 26: Using Quadratic Approximations'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 83a48b57d3d2a4086881aa5771dbfcba
-    weight: 350
-    parent: 8c88ae0417475c6dae97e569853bfd9e
 type: courses
 layout: videogallery
 ---

@@ -1,11 +1,6 @@
 ---
 title: 'Session 27: Sketching Graphs I - Polynomials and Rational Functions'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 9e376e9f57362241223df5e959ea707e
-    weight: 360
-    parent: 8c88ae0417475c6dae97e569853bfd9e
 type: courses
 layout: videogallery
 ---

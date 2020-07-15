@@ -1,11 +1,6 @@
 ---
 title: 1.2 Challenges and Opportunities as You Enter the Workforce
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
-menu:
-  res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
-    identifier: 3072f788131772479b1a187d1904d078
-    weight: 260
-    parent: 173cc7ddfe9f3f4f025ef7e0b4b36f62
 type: courses
 layout: videogallery
 ---

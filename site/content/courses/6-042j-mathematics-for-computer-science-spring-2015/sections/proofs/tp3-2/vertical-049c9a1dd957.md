@@ -1,11 +1,6 @@
 ---
 title: 1.6  Sets
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 8fbc64a8ba8384eabf1b9b8065b97644
-    weight: 470
-    parent: ffb87b8b4f73c33bd6b35402fc830d03
 ---
 *   [<Sets Operations: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-2/vertical-822cbc94ed34" %}})
 *   [1.6.1Sets Definitions: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-2/_index.md" %}})

@@ -1,11 +1,6 @@
 ---
 title: '4.6 Deviation: Markov & Chebyshev Bounds'
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 719c67c20cf18d4d1d43176b0d540c1b
-    weight: 2760
-    parent: f195ee849b9aee3ccf61f90bea10cebb
 ---
 *   [<Variance: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2/vertical-0646c16ad916" %}})
 *   [4.6.1Deviation From The Mean: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2/_index.md" %}})

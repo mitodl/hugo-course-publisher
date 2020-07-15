@@ -1,11 +1,6 @@
 ---
 title: 4.3 Independence & Causality
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: f63022c535bcd949fd501ad10a3dc289
-    weight: 2460
-    parent: 90eace8a4b31041773628667f8f3497b
 ---
 *   [<Independent vs Disjoint]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-2/vertical-6700220de664" %}})
 *   [4.3.1Independence: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-2/_index.md" %}})

@@ -1,11 +1,6 @@
 ---
 title: 'Session 90: Advanced Examples of L''Hospital''s Rule'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 6cc72b08f8717a2d7b737df7f698c876
-    weight: 1230
-    parent: 7011962365c7a7e31179a33dc8e95275
 type: courses
 layout: videogallery
 ---

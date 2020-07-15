@@ -1,11 +1,6 @@
 ---
 title: 'Session 45: Review of Topics'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 0164897856668ae23f9581e972458de3
-    weight: 650
-    parent: 846864c2281f91044786c16555ecc0bf
 type: courses
 layout: videogallery
 ---

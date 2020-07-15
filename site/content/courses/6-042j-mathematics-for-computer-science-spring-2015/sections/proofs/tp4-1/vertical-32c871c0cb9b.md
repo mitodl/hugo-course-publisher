@@ -1,11 +1,6 @@
 ---
 title: 1.8  Induction
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 253ab197eaf3519a13efcb16953f03b0
-    weight: 660
-    parent: 5179d7c0c3f7a60a33d7c24d9d219172
 ---
 *   [<Strong vs Ordinary Induction vs WOP \\\[optional\\\]]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-1/vertical-b16ab258826d" %}})
 *   [1.8.1Induction: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-1/_index.md" %}})

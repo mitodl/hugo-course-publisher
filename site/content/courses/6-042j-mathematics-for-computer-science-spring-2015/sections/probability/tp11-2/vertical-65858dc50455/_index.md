@@ -1,11 +1,6 @@
 ---
 title: 4.1 Intro to Discrete Probability
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: c12a12b45c5de1d33720b9e686ef96ed
-    weight: 2250
-    parent: 4414c612ae424c737466f4715f85e319
 type: courses
 layout: videogallery
 ---

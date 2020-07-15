@@ -1,11 +1,6 @@
 ---
 title: 'Session 78: Applications: Gravitational Attraction'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 8a9672904a3f5c9cc88bb651406304a8
-    weight: 1110
-    parent: fae0471018712678ad1b80e80246916a
 type: courses
 layout: videogallery
 ---

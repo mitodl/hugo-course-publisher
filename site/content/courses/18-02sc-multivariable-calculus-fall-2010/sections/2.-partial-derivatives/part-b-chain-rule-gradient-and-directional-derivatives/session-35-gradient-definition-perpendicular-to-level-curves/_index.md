@@ -1,11 +1,6 @@
 ---
 title: 'Session 35: Gradient: Definition, Perpendicular to Level Curves'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: bec58626ee69e1c4dd1854a8969ab451
-    weight: 500
-    parent: e7048e4bfd0d70c8ef294e9d7a9c4a9d
 type: courses
 layout: videogallery
 ---

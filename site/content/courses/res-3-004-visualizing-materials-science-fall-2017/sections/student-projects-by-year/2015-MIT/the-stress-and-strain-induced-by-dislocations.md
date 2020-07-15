@@ -1,11 +1,6 @@
 ---
 title: The Stress and Strain Induced by Dislocations
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: b514c9abd2559c7aa2b8e856e410b4fe
-    weight: 250
-    parent: c97327e3f58e5c5ecfe5c9199c8b02d5
 ---
 Note that this project does not include video content.
 

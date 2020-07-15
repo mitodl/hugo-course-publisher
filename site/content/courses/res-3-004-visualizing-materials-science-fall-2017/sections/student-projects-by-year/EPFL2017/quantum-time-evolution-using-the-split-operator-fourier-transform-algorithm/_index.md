@@ -1,11 +1,6 @@
 ---
 title: Quantum Time Evolution Using the Split Operator Fourier Transform Algorithm
 course_id: res-3-004-visualizing-materials-science-fall-2017
-menu:
-  res-3-004-visualizing-materials-science-fall-2017:
-    identifier: 32705109d385bf553f642d98036987e0
-    weight: 110
-    parent: 172a9af2383baa0a4e102ef1208f2781
 type: courses
 layout: videogallery
 ---

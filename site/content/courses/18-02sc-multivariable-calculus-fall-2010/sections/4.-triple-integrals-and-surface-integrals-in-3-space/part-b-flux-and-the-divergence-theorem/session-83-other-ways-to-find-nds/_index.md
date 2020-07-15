@@ -1,11 +1,6 @@
 ---
 title: 'Session 83: Other Ways to Find ndS'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 3fca6127615a7e82becef2e551d0f223
-    weight: 1180
-    parent: 2afdabb0a4acff042357fe33b02c43c3
 type: courses
 layout: videogallery
 ---

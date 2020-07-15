@@ -1,11 +1,6 @@
 ---
 title: 'Session 77: Triple Integrals in Spherical Coordinates'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: f707a26eec56fdb6c3caf56567807058
-    weight: 1100
-    parent: fae0471018712678ad1b80e80246916a
 type: courses
 layout: videogallery
 ---

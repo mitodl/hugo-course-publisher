@@ -1,11 +1,6 @@
 ---
 title: 2.7 Partial Orders and Equivalence
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: d0057eb5ec5dc1abed43d7a30d142d1a
-    weight: 1420
-    parent: e3bcfae1ff3e4391a255e7aa0a942756
 ---
 *   [<Relational Properties]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-6ea0ba8a2d05" %}})
 *   [2.7.1Partial Orders: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/_index.md" %}})

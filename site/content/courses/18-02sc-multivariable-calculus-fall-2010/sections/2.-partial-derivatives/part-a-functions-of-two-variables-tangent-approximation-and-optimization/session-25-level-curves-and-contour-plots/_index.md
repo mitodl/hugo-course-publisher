@@ -1,11 +1,6 @@
 ---
 title: 'Session 25: Level Curves and Contour Plots'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 1d6472489b24f4368ee8e9e8a2dd7c81
-    weight: 380
-    parent: 5ee00816c5fb6f611e7327400ba69bef
 type: courses
 layout: videogallery
 ---

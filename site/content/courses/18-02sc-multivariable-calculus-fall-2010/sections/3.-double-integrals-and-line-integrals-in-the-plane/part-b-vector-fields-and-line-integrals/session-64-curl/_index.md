@@ -1,11 +1,6 @@
 ---
 title: 'Session 64: Curl'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 13adb394026751e6b83b43c03adb8511
-    weight: 890
-    parent: 14558d9f4e08d12a419154f3c8100c75
 type: courses
 layout: videogallery
 ---

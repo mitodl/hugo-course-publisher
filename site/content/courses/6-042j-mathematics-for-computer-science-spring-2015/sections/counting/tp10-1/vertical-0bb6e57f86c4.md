@@ -1,11 +1,6 @@
 ---
 title: '3.5 Pigeonhole Principle, Inclusion-Exclusion'
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-menu:
-  6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: c076cbe4f659fcd5229cb670f62eec68
-    weight: 2200
-    parent: d45e95172acf2a430d67a0ef15468161
 ---
 *   [<Pigeonhole Principle]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp10-1/vertical-138fcb49e968" %}})
 *   [3.5.1The Pigeonhole Principle: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp10-1/_index.md" %}})

@@ -1,11 +1,6 @@
 ---
 title: 'Session 51: Applications: Mass and Average Value'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: 43332687cd97d8542b2f75420455c62c
-    weight: 740
-    parent: 9fa9495fe35f5fa9506bb63e2d42812f
 type: courses
 layout: videogallery
 ---

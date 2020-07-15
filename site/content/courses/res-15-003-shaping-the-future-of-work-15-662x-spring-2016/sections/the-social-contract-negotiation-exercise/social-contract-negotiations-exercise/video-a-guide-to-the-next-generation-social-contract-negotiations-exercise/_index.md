@@ -1,11 +1,6 @@
 ---
 title: 6.1 Social Contract Negotiations Exercise
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
-menu:
-  res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
-    identifier: d0e726de68510598be55c4290f521f29
-    weight: 700
-    parent: d8a3dcd83f5997271c72ccbea16c8506
 type: courses
 layout: videogallery
 ---

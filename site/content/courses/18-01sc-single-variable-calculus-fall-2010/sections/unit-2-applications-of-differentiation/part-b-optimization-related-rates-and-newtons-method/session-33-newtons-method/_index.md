@@ -1,11 +1,6 @@
 ---
 title: 'Session 33: Newton''s Method'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 08bcebd887ee223af84741f0fef4d632
-    weight: 440
-    parent: 7bd0936fcddbb454b9e5dab2884cc641
 type: courses
 layout: videogallery
 ---

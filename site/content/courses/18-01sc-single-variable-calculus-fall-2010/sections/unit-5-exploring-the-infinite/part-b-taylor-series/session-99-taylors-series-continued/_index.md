@@ -1,11 +1,6 @@
 ---
 title: 'Session 99: Taylor''s Series, Continued'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: 9714534fbc6217589e4ab69f5ad147a4
-    weight: 1330
-    parent: 1c9b92776c16c587013d2f3b4e9b94a0
 type: courses
 layout: videogallery
 ---

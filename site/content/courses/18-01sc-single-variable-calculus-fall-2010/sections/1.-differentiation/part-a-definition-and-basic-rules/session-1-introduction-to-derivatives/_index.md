@@ -1,11 +1,6 @@
 ---
 title: 'Session 1: Introduction to Derivatives'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-menu:
-  18-01sc-single-variable-calculus-fall-2010:
-    identifier: c25a5592cbb582539daea82e3aeeda33
-    weight: 40
-    parent: 962d171611a101d49f865818d41217eb
 type: courses
 layout: videogallery
 ---

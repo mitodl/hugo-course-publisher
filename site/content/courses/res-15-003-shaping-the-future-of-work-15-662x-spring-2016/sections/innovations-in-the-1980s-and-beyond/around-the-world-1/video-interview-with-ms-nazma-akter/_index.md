@@ -1,11 +1,6 @@
 ---
 title: 3.2 Around the World
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
-menu:
-  res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
-    identifier: 41df094487b88a5cfe7759103bdb2464
-    weight: 520
-    parent: 0cc0671aff170e1e2077fc787eca8faa
 type: courses
 layout: videogallery
 ---

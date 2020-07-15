@@ -1,11 +1,6 @@
 ---
 title: 'Session 65: Green''s Theorem'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-menu:
-  18-02sc-multivariable-calculus-fall-2010:
-    identifier: bb85ae20524b81e6eb9ad8ae9cd2220c
-    weight: 920
-    parent: 138f6170e946b9b122d9693749cc9860
 type: courses
 layout: videogallery
 ---

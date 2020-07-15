@@ -1,11 +1,6 @@
 ---
 title: 2.1 What Made the Old Social Contract Work and Why did It Break Down?
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
-menu:
-  res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
-    identifier: 8900eb3663fbb5d1952e2cb816a7f7eb
-    weight: 360
-    parent: e9baa7d46103910577121907ecaeca9f
 type: courses
 layout: videogallery
 ---
