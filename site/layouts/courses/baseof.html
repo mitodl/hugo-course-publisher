@@ -51,11 +51,23 @@
         </div>
       </div>
       {{ block "footer" . }}{{ partial "footer" . }}{{end}}
-      {{ $script := .Site.Data.webpack.main }}
+      <script>
+      window.MathJax = {
+        TeX:           { equationNumbers: { autoNumber: "AMS" } },
+        displayAlign:  "left",
+        displayIndent: "2em",
+        menuSettings:  { zoom: "Double-Click", mpContext: true, mpMouse: true },
+        errorSettings: { message: ["[Math Error]"] }
+      }
+      </script>
+      {{ $main := .Site.Data.webpack.main }}
+      {{ $mathjax := .Site.Data.webpack.mathjax }}
       {{ if .Site.IsServer }}
-        <script src="{{ print "http://localhost:3001" $script.js }}"></script>
+        <script src="{{ print "http://localhost:3001" $main.js }}"></script>
+        <script src="{{ print "http://localhost:3001/mathjax/tex-svg.js" }}"></script>
       {{ else }}
-        <script src="{{ relURL $script.js }}"></script>
+        <script src="{{ relURL $main.js }}"></script>
+        <script src="{{ relURL "mathjax/tex-svg.js" }}" defer></script>
       {{ end }}
   </body>
 </html>
