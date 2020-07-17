@@ -4,6 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 296c66eaa30e98fbbe0474d631d544ec
+    name: Domain Name System (DNS) Assignment
     weight: 100
     parent: d23c09ff9de9dc9cb98905d72c54fd66
 ---

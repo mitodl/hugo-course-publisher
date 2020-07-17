@@ -4,6 +4,7 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 114e23f4e7b1a0faec0ba7c0a7e4965b
+    name: 1.1 Introduction to the Course and the 15.662x Team
     weight: 170
     parent: df93fe473c48d7d14fa8ea3d9f3faf34
 type: courses

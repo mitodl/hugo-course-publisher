@@ -4,6 +4,7 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: cc30bcc3b45c6b220f2145ce29d9b264
+    name: 'Week 3: Innovations in the 1980s and Beyond'
     weight: 390
 ---
 *   [BackFor More Information...]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/the-old-social-contract/for-more-information-0" %}})

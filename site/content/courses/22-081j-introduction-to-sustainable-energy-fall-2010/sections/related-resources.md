@@ -4,6 +4,7 @@ course_id: 22-081j-introduction-to-sustainable-energy-fall-2010
 menu:
   22-081j-introduction-to-sustainable-energy-fall-2010:
     identifier: 87983f9c4bae6c3e715c01bf63aca0d8
+    name: Related Resources
     weight: 50
 ---
 [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/047114827X/ref=nosim/mitopencourse-20) Bisio, Attilio, and Sharon Boots. _Wiley Encyclopedia of Energy Technology and the Environment_. Wiley-Interscience, 1996. ISBN: 9780471148272.

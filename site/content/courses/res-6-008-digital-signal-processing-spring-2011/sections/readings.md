@@ -4,6 +4,7 @@ course_id: res-6-008-digital-signal-processing-spring-2011
 menu:
   res-6-008-digital-signal-processing-spring-2011:
     identifier: 4419591e01dd7409881d56e7bd1ce4a7
+    name: Readings
     weight: 20
 ---
 Readings are from the required course text:

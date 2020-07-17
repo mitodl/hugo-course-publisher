@@ -4,6 +4,7 @@ course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 menu:
   8-02-physics-ii-electricity-and-magnetism-spring-2007:
     identifier: ad9d1a7e98d0b1ff318d13ddbf7639b1
+    name: Problem Solving
     weight: 60
 ---
 There are two types of problem solving activities for this class.

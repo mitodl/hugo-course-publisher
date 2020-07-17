@@ -4,6 +4,7 @@ course_id: 12-001-introduction-to-geology-fall-2013
 menu:
   12-001-introduction-to-geology-fall-2013:
     identifier: 70b1498729283aad0ccfe229bcdce4cb
+    name: Labs and Exercises
     weight: 100
 ---
 | SES # | LABS AND EXERCISES |

@@ -6,6 +6,9 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: cd55cbba60f6d5d37320e05f520c4cf1
+    name: >-
+      3.4 Election Forecasting: Predicting the Winner Before any Votes are Cast 
+      (Recitation)
     weight: 1040
     parent: c4464cf49ddb1a4bc78cfaa6f93b74de
 type: courses

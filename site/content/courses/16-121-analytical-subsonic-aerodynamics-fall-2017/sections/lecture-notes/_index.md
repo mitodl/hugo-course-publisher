@@ -4,6 +4,7 @@ course_id: 16-121-analytical-subsonic-aerodynamics-fall-2017
 menu:
   16-121-analytical-subsonic-aerodynamics-fall-2017:
     identifier: 91873b4cffe96d69c19b5e4cae1e0165
+    name: Lecture Notes
     weight: 30
 ---
 | SES # | LeCTURE NOTES |

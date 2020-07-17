@@ -4,6 +4,7 @@ course_id: 18-01-single-variable-calculus-fall-2006
 menu:
   18-01-single-variable-calculus-fall-2006:
     identifier: 75c30ff21d4265dfb95d2fac19adc3dc
+    name: 'Lecture 2: Limits '
     weight: 110
     parent: 34c980c272400d9288b02ea31fe70122
 type: courses

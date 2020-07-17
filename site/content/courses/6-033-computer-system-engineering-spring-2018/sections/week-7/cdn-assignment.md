@@ -4,6 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 0de7a026cc518d642305b1769d62af0f
+    name: CDN Assignment
     weight: 360
     parent: 0abfab7fcd019a6a159d1afa3fd61f99
 ---

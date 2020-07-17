@@ -4,6 +4,7 @@ course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-201
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: 29231ee458eef9e6f7e12bbfdf131b0f
+    name: Syllabus
     weight: 10
 ---
 Workshop Meeting Time

@@ -4,6 +4,7 @@ course_id: 6-0001-introduction-to-computer-science-and-programming-in-python-fal
 menu:
   6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016:
     identifier: 678646fa7bd0df014b7ac47adbdbe694
+    name: Syllabus
     weight: 10
 ---
 Course Meeting Times

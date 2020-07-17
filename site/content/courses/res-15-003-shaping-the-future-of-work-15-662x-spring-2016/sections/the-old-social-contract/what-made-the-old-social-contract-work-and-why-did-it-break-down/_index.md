@@ -4,6 +4,7 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: e9baa7d46103910577121907ecaeca9f
+    name: 2.1 What Made the Old Social Contract Work and Why did It Break Down?
     weight: 320
     parent: 70bd0a3633bf549f7c43cefbaf26cba9
 type: courses

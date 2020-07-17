@@ -4,6 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 6a5d4bdb70f448f5869782dbaa8537a8
+    name: 8.5 Assignment 8
     weight: 3020
     parent: daafaa58867c9765f1c4c60a9c0ed426
 ---

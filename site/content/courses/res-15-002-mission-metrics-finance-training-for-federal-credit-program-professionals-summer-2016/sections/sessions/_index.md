@@ -5,6 +5,7 @@ course_id: >-
 menu:
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016:
     identifier: c5cf8c5e59b0bc3e51ba6284d467e6d6
+    name: Sessions
     weight: 30
 ---
 [Session 1: Program Objectives]({{% getpage "courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/sections/sessions/session-1-program-objectives-understanding-mission-and-how-best-to-achieve-it/_index.md" %}})

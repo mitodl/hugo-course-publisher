@@ -4,6 +4,7 @@ course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: d95fa243cdab26296017a10a317dcc60
+    name: PDP8 Recombinant DNA and Asilomar
     weight: 220
     parent: f46140cde86ad79a318fba9b9f2dbf04
 ---

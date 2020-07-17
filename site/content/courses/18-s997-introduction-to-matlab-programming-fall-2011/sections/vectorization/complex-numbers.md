@@ -4,6 +4,7 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 0523856ec9fc9e7166c9d2d9aecf63e3
+    name: Complex Numbers
     weight: 170
     parent: 18645230e50f3945e34d99f24f40ca3a
 ---

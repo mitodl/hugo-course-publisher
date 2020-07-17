@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 7c6e1dca9e9d7e001941647141088a9a
+    name: International Trade
     weight: 360
     parent: 2b057e13f81e86aad632c23c1074b663
 type: courses

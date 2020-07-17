@@ -5,6 +5,7 @@ course_id: >-
 menu:
   18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018:
     identifier: aed242e035e0aa362885fec57af9db91
+    name: Final Project
     weight: 70
 ---
 Project Description

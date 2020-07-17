@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 81ee9da35071cf4221650926ad929f14
+    name: 'Lesson 27: Elastic Collisions [27.1-27.6]'
     weight: 1660
     parent: bc33ee80c8fd90e4dfda7092ddd24879
 type: courses

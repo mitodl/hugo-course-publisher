@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: fd8c8a4dfa1be88cec23abef203fca2a
+    name: Orthogonal Vectors and Subspaces
     weight: 200
     parent: cf73d07ac972ab3c450a0f10d0be0664
 type: courses

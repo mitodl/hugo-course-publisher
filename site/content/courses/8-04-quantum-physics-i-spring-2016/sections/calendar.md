@@ -4,6 +4,7 @@ course_id: 8-04-quantum-physics-i-spring-2016
 menu:
   8-04-quantum-physics-i-spring-2016:
     identifier: aab7ab06840edd8089e6b48b28de07a5
+    name: Calendar
     weight: 20
 ---
 | LEC # | TOPICS | KEY DATES |

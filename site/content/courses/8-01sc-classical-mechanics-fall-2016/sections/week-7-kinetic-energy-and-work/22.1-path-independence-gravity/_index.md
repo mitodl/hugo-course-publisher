@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 994114a0d0542ba9aeffab95b4cf1e57
+    name: 'Lesson 22: Conservative and Non-Conservative Forces [22.1-22.5]'
     weight: 1390
     parent: 1099b7667930f7e51cccc80d63899c02
 type: courses

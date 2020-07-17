@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 60772f9c0b9105ab07fd3e9186444031
+    name: 29.6 Derivation of the Parallel Axis Theorem
     weight: 1900
     parent: 146d8dd77c99bbafceb8ed10af8bee47
 type: courses

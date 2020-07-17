@@ -4,6 +4,7 @@ course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
     identifier: 327c8fbc058636374667dc2437a7f1eb
+    name: Unified Concepts
     weight: 170
 ---
 Instructor

@@ -4,6 +4,7 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: de60ad23ec34c2de5ad0d3eca23fb1e5
+    name: 'Lecture 2: Damped Free Oscillators'
     weight: 50
     parent: 6682a3d163976bcbb2fbe67db27d8f04
 type: courses

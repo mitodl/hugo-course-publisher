@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 3c7d357cbb95e729679b539d23714ede
+    name: 'Week 3: Circular Motion'
     weight: 580
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/problem-set-2" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/week-3-introduction" %}}) »

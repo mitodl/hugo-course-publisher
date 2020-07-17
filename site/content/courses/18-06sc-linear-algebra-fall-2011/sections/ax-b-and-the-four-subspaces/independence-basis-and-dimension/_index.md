@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: f4986e8213a7cf7cebaaaba5fa7882f0
+    name: 'Independence, Basis and Dimension'
     weight: 130
     parent: 34303ce19b45724122d2bd33d64df688
 type: courses

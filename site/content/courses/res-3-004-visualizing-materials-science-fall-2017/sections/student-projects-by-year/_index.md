@@ -4,6 +4,7 @@ course_id: res-3-004-visualizing-materials-science-fall-2017
 menu:
   res-3-004-visualizing-materials-science-fall-2017:
     identifier: 912fc0849e832bfd38afdf58a71a8917
+    name: Student Projects by Year
     weight: 20
 ---
 The following student projects are associated with MIT course _3.016 Computational Methods for Materials Scientists_ and the equivalent course taught by MIT professor W. Craig Carter at L'École polytechnique fédérale de Lausanne (EPFL).

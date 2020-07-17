@@ -5,6 +5,7 @@ course_id: >-
 menu:
   res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015:
     identifier: 75be594286fc61820f93147523356fe2
+    name: Differential Equations and Linear Algebra
     weight: 20
 ---
 [Gilbert Strang](/faculty/gilbert-strang/) explains differential equations and linear algebra, which are two crucial subjects in science and engineering. This video series develops those subjects both separately and together and supplements Prof. Strang's textbook, [_Differential Equations and Linear Algebra_](http://www-math.mit.edu/~gs/dela/).

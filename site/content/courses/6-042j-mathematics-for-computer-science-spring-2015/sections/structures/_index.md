@@ -4,6 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 20b0a2b7a262cb94efd44e9e00511cee
+    name: 'Unit 2: Structures'
     weight: 950
 ---
 *   [BackSet Theory Axioms \\\[Optional\\\]]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/set-theory-axioms-optional-0" %}})

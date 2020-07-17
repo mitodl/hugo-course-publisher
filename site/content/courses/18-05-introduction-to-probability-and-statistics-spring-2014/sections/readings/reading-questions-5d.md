@@ -4,6 +4,7 @@ course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: 311ca439afe757746b7261ed1efc2773
+    name: Reading Questions 5d
     weight: 310
     parent: 579c055accb4eb7ebb6bf294146b45a5
 ---

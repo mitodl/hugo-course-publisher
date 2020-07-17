@@ -4,6 +4,7 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 70bd0a3633bf549f7c43cefbaf26cba9
+    name: 'Week 2: The Old Social Contract'
     weight: 310
 ---
 *   [BackAround the World]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/introduction-challenges-and-opportunities/for-more-information/around-the-world" %}})

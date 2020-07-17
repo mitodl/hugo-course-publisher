@@ -4,6 +4,7 @@ course_id: res-2-006-girls-who-build-cameras-summer-2016
 menu:
   res-2-006-girls-who-build-cameras-summer-2016:
     identifier: fbebbb7e85f5545a6cf5d0e232504108
+    name: Workshop Schedule
     weight: 20
     parent: 1b7f2fb3e2695d6184a3bf3e7da02534
 ---

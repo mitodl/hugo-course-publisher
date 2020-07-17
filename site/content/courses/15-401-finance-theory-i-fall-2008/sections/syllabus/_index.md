@@ -4,6 +4,7 @@ course_id: 15-401-finance-theory-i-fall-2008
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: cf8df02a2969c473cd17c36c15b74aa4
+    name: Syllabus
     weight: 10
 ---
 Course Meeting Times

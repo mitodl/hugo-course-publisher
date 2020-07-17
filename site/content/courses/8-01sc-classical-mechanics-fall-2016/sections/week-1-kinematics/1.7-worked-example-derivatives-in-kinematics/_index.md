@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 4b4d3f00ac1019a8a4b66a56291c1228
+    name: 1.7 Worked Example - Derivatives in Kinematics
     weight: 200
     parent: 63e325a780c79e352fb5bddb9b8b2c6a
 type: courses

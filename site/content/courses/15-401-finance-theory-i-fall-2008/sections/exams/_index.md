@@ -4,6 +4,7 @@ course_id: 15-401-finance-theory-i-fall-2008
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: 703ba6ae4396ad87aeaccabcb57b7864
+    name: Exams
     weight: 60
 ---
 Review slides are provided courtesy of course TA Amir Khandani, and are used with permission.

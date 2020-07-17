@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: d8efae912fd602f9ac2e2cb9d064d22e
+    name: Syllabus
     weight: 10
 type: courses
 layout: videogallery

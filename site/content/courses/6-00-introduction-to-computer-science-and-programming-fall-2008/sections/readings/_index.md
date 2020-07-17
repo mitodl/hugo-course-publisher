@@ -4,6 +4,7 @@ course_id: 6-00-introduction-to-computer-science-and-programming-fall-2008
 menu:
   6-00-introduction-to-computer-science-and-programming-fall-2008:
     identifier: 9bc9392936acd9b0f975ae4d5ca38bf5
+    name: Readings
     weight: 30
 ---
 Below, you'll find a set of online resources designed to accompany the 6.00 lectures. We've found that the readings are generally more effective when done after the lecture, though you are of course welcome to read them at any time.

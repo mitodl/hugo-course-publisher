@@ -4,6 +4,7 @@ course_id: res-2-006-girls-who-build-cameras-summer-2016
 menu:
   res-2-006-girls-who-build-cameras-summer-2016:
     identifier: be7b0d4e8aa5fbd3d81023d3381d5f65
+    name: Applications of Camera Technology
     weight: 40
 type: courses
 layout: videogallery

@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 52d96c2f56aa990be3ea69526d59464b
+    name: 'Applying Consumer Theory: Labor'
     weight: 130
     parent: 6d0eabb4bf84c44f6ed5096dcf2cf3a4
 type: courses

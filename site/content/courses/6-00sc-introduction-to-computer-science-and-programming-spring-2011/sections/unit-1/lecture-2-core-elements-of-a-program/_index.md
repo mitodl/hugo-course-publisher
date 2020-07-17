@@ -4,6 +4,7 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 5a8ad51b351a4b3f0c09861452ea827d
+    name: Core Elements of a Program
     weight: 60
     parent: 975ad7bfdd9c4ffe26b6710fa718d5e6
 type: courses

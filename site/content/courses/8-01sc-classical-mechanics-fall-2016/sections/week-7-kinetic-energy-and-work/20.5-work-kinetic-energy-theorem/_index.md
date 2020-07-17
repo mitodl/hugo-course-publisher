@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: c160b17acec66cfd0370747c9660c0c8
+    name: 20.5 Work-Kinetic Energy Theorem
     weight: 1310
     parent: 1099b7667930f7e51cccc80d63899c02
 type: courses

@@ -4,6 +4,7 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: dfc9b1ca564e416fdcda0ab36e971640
+    name: null
     weight: 1370
 ---
 This package contains the same content as the online version of the course, except for the audio/video materials.

@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 40d55c0196943538eb35abbec810119d
+    name: 21.6 Worked Example - Block Going Down a Ramp
     weight: 1380
     parent: 1099b7667930f7e51cccc80d63899c02
 type: courses

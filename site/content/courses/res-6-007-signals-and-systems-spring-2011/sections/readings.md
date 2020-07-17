@@ -4,6 +4,7 @@ course_id: res-6-007-signals-and-systems-spring-2011
 menu:
   res-6-007-signals-and-systems-spring-2011:
     identifier: 62422d30fe317d7f554873ea79c81096
+    name: Readings
     weight: 20
 ---
 The assigned readings refer to the course textbook:

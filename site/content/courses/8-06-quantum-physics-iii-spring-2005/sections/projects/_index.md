@@ -4,6 +4,7 @@ course_id: 8-06-quantum-physics-iii-spring-2005
 menu:
   8-06-quantum-physics-iii-spring-2005:
     identifier: e9025da12adc4c0e00c2783d87667055
+    name: Projects
     weight: 50
 ---
 1) Project Summary

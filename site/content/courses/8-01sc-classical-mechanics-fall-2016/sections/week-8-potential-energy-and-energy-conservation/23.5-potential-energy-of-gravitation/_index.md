@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 8642f9ccd44fd74d777fed01b5adb01c
+    name: 23.5 Potential Energy of Gravitation
     weight: 1520
     parent: 1394998143efcc493f7c98265cfbd3ae
 type: courses

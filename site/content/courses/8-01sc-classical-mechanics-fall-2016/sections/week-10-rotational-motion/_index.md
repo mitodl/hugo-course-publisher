@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 146d8dd77c99bbafceb8ed10af8bee47
+    name: 'Week 10: Rotational Motion'
     weight: 1800
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/problem-set-9" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/week-10-introduction" %}}) »

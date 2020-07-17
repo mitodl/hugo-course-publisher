@@ -4,6 +4,7 @@ course_id: 6-006-introduction-to-algorithms-fall-2011
 menu:
   6-006-introduction-to-algorithms-fall-2011:
     identifier: 2060c3b619a4548e257e92c3216faf14
+    name: Related Resources
     weight: 110
 ---
 Textbooks

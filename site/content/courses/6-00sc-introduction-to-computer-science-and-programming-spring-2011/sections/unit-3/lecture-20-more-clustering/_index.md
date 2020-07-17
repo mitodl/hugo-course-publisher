@@ -4,6 +4,7 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: fc440c95aa3e3ffa8cff14461dc75eee
+    name: More Clustering
     weight: 280
     parent: 82c1509981b270b9823bc741f08c9b32
 type: courses

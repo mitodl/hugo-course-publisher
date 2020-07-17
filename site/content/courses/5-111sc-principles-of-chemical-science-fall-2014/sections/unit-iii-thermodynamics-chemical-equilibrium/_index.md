@@ -4,6 +4,7 @@ course_id: 5-111sc-principles-of-chemical-science-fall-2014
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: d1e2f8f6d6d078397f7b8fc6a1024b2a
+    name: 'Unit III: THERMODYNAMICS & CHEMICAL EQUILIBRIUM'
     weight: 190
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-14/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-15/_index.md" %}}) »

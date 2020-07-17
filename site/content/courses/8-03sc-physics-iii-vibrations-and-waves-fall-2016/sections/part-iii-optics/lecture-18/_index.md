@@ -4,6 +4,7 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 7d3296b3f48fd48abef124b6a4fa4305
+    name: 'Lecture 18: Wave Plates, Radiation'
     weight: 250
     parent: 562065223db4e5d13c0186ef14e4db6a
 type: courses

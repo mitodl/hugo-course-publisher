@@ -4,6 +4,7 @@ course_id: 18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013
 menu:
   18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013:
     identifier: 5595067eea85a8917808e0dc047689f1
+    name: Lecture Notes & Slides
     weight: 40
 ---
 | LEC # | TOPICS |

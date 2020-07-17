@@ -4,6 +4,7 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 173cc7ddfe9f3f4f025ef7e0b4b36f62
+    name: 1.2 Challenges and Opportunities as You Enter the Workforce
     weight: 200
     parent: df93fe473c48d7d14fa8ea3d9f3faf34
 type: courses

@@ -4,6 +4,7 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: c7f4e874e827c2ec07cb6c920e3e1ee3
+    name: OOP and Inheritance
     weight: 170
     parent: ddc5db7a5c64e3bda565b36f4ed76287
 type: courses

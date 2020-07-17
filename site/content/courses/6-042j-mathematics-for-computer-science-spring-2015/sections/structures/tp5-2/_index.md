@@ -4,6 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 30a0182e39fc2a66241efb67db839b1d
+    name: 2.2  Congruences
     weight: 1060
     parent: 20b0a2b7a262cb94efd44e9e00511cee
 type: courses

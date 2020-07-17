@@ -4,6 +4,7 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: fbfa64857038d1fe949774c45d99d5e0
+    name: Some Basic Probability and Plotting Data
     weight: 190
     parent: ddc5db7a5c64e3bda565b36f4ed76287
 type: courses

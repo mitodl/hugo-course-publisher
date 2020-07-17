@@ -4,6 +4,7 @@ course_id: res-6-012-introduction-to-probability-spring-2018
 menu:
   res-6-012-introduction-to-probability-spring-2018:
     identifier: 9ca6b310dc93095c9ac0f0e5f95e6930
+    name: 'Part I: The Fundamentals'
     weight: 10
 type: courses
 layout: videogallery

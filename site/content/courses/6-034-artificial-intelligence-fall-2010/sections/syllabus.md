@@ -4,6 +4,7 @@ course_id: 6-034-artificial-intelligence-fall-2010
 menu:
   6-034-artificial-intelligence-fall-2010:
     identifier: a2b2926836a2c230adb05be9acb8ab60
+    name: Syllabus
     weight: 10
 ---
 Course Meeting Times

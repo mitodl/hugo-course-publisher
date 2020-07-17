@@ -4,6 +4,7 @@ course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: c2228cb6b32179d4e0d89b54555761a7
+    name: 'PDP3: Write a Script and Storyboard'
     weight: 180
     parent: f46140cde86ad79a318fba9b9f2dbf04
 ---

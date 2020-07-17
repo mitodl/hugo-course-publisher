@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 68f8f062a1d7c90a66a704a60dcfb901
+    name: Midterm Exam 2
     weight: 330
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/oligopoly-ii/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/_index.md" %}}) »

@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 8b8f9078a29f76c6febabd9497648433
+    name: Related Resources
     weight: 480
 ---
 Professor Strang's Related Courses on OCW

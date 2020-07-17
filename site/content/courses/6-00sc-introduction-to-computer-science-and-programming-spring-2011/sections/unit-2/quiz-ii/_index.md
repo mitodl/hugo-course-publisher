@@ -4,6 +4,7 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: aebaeabd98214fe686959cd2099b8391
+    name: Quiz 2
     weight: 260
     parent: ddc5db7a5c64e3bda565b36f4ed76287
 type: courses

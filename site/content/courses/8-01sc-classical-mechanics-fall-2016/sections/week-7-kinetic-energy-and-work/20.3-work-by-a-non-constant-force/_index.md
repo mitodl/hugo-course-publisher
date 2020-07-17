@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 71c8f521ab31165926338a7ec1e2f40e
+    name: 20.3 Work by a Non-Constant Force
     weight: 1290
     parent: 1099b7667930f7e51cccc80d63899c02
 type: courses

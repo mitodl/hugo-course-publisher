@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 78c64d70411ee481e2bbd7a7244a0bf3
+    name: 'Transposes, Permutations, Vector Spaces'
     weight: 90
     parent: 34303ce19b45724122d2bd33d64df688
 type: courses

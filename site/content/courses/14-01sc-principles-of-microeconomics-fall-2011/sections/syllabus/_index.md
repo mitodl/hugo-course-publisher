@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 8abb293b49d8047a3f3674bfa02e78f7
+    name: Syllabus
     weight: 10
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/Syllabus/meet-the-tas/_index.md" %}}) »

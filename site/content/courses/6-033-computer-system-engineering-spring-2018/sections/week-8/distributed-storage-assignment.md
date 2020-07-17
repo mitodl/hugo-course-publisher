@@ -4,6 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 766d3b595f03a2f4b1ad4d15d2427648
+    name: Distributed Storage Assignment
     weight: 390
     parent: 038398268d831a706fad0af0bfa301d7
 ---

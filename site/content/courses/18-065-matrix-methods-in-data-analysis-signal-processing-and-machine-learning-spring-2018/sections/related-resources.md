@@ -5,6 +5,7 @@ course_id: >-
 menu:
   18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018:
     identifier: baf6dc028cee4e02d25e831b74c3d5a9
+    name: Related Resources
     weight: 80
 ---
 Professor Strang's Related Courses on OCW

@@ -4,6 +4,7 @@ course_id: 8-04-quantum-physics-i-spring-2016
 menu:
   8-04-quantum-physics-i-spring-2016:
     identifier: 8d915edda01487758e5f16d04eeccd76
+    name: 'One-dimensional Scattering, Angular Momentum & Central Potentials'
     weight: 70
     parent: fd67230c637e4133bfc507ab35776015
 type: courses

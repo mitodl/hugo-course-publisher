@@ -4,6 +4,7 @@ course_id: 6-0001-introduction-to-computer-science-and-programming-in-python-fal
 menu:
   6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016:
     identifier: cc74bf5b1a22399e271270abfff469d7
+    name: In-Class Questions and Video Solutions
     weight: 50
 ---
 In-class questions and video solutions are provided below. Video solutions can also be viewed by clicking the "Show Video Answer" button on the Questions page, or by viewing the Video Solutions section for each lecture.

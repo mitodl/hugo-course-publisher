@@ -4,6 +4,7 @@ course_id: 18-02sc-multivariable-calculus-fall-2010
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: 5ee00816c5fb6f611e7327400ba69bef
+    name: 'Part A: Functions of Two Variables, Tangent Approximation and Opt'
     weight: 360
     parent: c4eb7979ba24327046e3f4d3be8fc654
 ---

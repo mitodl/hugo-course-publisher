@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: ad04436f146e97c235883711b1ac5558
+    name: 22.5 Summary of Work and Kinetic Energy
     weight: 1430
     parent: 1099b7667930f7e51cccc80d63899c02
 type: courses

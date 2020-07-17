@@ -4,6 +4,7 @@ course_id: 8-04-quantum-physics-i-spring-2016
 menu:
   8-04-quantum-physics-i-spring-2016:
     identifier: fd67230c637e4133bfc507ab35776015
+    name: Video Lectures
     weight: 40
 ---
 The videos in this course are broadly divided into three parts:

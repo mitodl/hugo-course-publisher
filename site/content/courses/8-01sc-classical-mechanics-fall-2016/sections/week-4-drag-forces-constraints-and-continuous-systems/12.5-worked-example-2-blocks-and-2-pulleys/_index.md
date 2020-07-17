@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: f748652cb4c51b416e16e3ed086b9a18
+    name: 12.5 Worked Example - 2 Blocks and 2 Pulleys
     weight: 810
     parent: 919a2c506eb4551d940bb0dbab2356f0
 type: courses

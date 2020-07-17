@@ -4,6 +4,7 @@ course_id: 6-00-introduction-to-computer-science-and-programming-fall-2008
 menu:
   6-00-introduction-to-computer-science-and-programming-fall-2008:
     identifier: eb067e4b7d5b00c84edde93d6d744908
+    name: Calendar
     weight: 20
 ---
 | LEC # | TOPICS | KEY DATES |

@@ -4,6 +4,7 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 9582ec110aca9f2ffa0720af009e9a17
+    name: Syllabus
     weight: 10
 ---
 Course Meeting Times

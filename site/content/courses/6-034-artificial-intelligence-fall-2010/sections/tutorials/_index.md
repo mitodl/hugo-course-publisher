@@ -4,6 +4,7 @@ course_id: 6-034-artificial-intelligence-fall-2010
 menu:
   6-034-artificial-intelligence-fall-2010:
     identifier: 25b4d967a959c4cecc7d0545026be8c6
+    name: Tutorials
     weight: 120
 ---
 Tutorial notes are courtesy of Yuan Shen, and are used with permission.

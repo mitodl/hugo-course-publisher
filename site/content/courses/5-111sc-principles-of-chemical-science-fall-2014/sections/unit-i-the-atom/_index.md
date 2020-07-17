@@ -4,6 +4,7 @@ course_id: 5-111sc-principles-of-chemical-science-fall-2014
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 36cc671ac04c270e9cac7a210efd6846
+    name: 'Unit I : THE ATOM'
     weight: 30
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/instructor-insights/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-1/_index.md" %}}) »

@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: cf73d07ac972ab3c450a0f10d0be0664
+    name: 'Unit II: Least Squares, Determinants and Eigenvalues'
     weight: 190
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/exam-1/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/_index.md" %}}) »

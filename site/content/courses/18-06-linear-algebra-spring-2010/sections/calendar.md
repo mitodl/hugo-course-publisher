@@ -4,6 +4,7 @@ course_id: 18-06-linear-algebra-spring-2010
 menu:
   18-06-linear-algebra-spring-2010:
     identifier: dd9a953efeee023ce9f4e965b7a55d57
+    name: Calendar
     weight: 20
 ---
 | SES # | TOPICS | KEY DATES |

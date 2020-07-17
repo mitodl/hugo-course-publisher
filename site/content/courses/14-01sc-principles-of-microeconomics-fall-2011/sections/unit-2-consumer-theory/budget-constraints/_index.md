@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 0c0a7957a70dea1c20bc11996dd1090c
+    name: Budget Constraints
     weight: 100
     parent: 6d0eabb4bf84c44f6ed5096dcf2cf3a4
 type: courses

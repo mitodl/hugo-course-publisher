@@ -4,6 +4,7 @@ course_id: 18-02sc-multivariable-calculus-fall-2010
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: c4eb7979ba24327046e3f4d3be8fc654
+    name: ' 2. Partial Derivatives'
     weight: 350
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/exam-1/exam/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/_index.md" %}}) »

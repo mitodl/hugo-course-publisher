@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: d36579bd7dfcb71f76178b4b8d45c312
+    name: 'Week 11: Angular Momentum'
     weight: 2050
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/problem-set-10" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/week-11-introduction" %}}) »

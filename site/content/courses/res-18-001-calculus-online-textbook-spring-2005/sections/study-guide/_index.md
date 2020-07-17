@@ -4,6 +4,7 @@ course_id: res-18-001-calculus-online-textbook-spring-2005
 menu:
   res-18-001-calculus-online-textbook-spring-2005:
     identifier: 4bf319e50f57233baa553b126d0c8c6a
+    name: Study Guide
     weight: 30
 ---
 | ChapterS | FILES |

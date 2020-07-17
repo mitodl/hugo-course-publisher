@@ -4,6 +4,7 @@ course_id: 6-034-artificial-intelligence-fall-2010
 menu:
   6-034-artificial-intelligence-fall-2010:
     identifier: 26a2c9d23c7e8009be9911ab0a3d347b
+    name: Calendar
     weight: 20
 ---
 | LEC # | TOPICS | KEY DATES |

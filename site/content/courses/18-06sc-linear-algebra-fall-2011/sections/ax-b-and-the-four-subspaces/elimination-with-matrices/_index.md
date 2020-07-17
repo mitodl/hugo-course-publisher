@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 060c0abff39949c6f5beff6291e747a5
+    name: Elimination with Matrices
     weight: 60
     parent: 34303ce19b45724122d2bd33d64df688
 type: courses

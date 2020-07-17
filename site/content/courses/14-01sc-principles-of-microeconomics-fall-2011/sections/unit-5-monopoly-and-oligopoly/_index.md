@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 51ebf00753b9a85af746a5c03a54785d
+    name: 'Unit 5: Monopoly and Oligopoly'
     weight: 260
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics/principles-of-welfare-economics/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/monopoly-i/_index.md" %}}) »

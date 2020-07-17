@@ -5,6 +5,7 @@ course_id: >-
 menu:
   18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018:
     identifier: daef5f63da5b36f5ee6bf28e71eb7656
+    name: Readings
     weight: 40
 ---
 Reading assignments are all in the textbook: Strang, Gilbert. _[Linear Algebra and Learning from Data](http://math.mit.edu/~gs/learningfromdata/)_. Wellesley-Cambridge Press, 2018. ISBN: 9780692196380.

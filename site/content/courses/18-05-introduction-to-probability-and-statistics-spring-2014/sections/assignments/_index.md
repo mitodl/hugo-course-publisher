@@ -4,6 +4,7 @@ course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: fed85a98064c2e2a4378f3f7549df9b8
+    name: Assignments
     weight: 530
 ---
 Listed in the following table are problem sets and solutions. For each problem set, there is also an interactive [problem set checker]({{% getpage "courses/18-05-introduction-to-probability-and-statistics-spring-2014/sections/instructor-insights/problem-set-checker" %}}). Students in the class were able to work on the assigned problems in the PDF file, then use the problem set checker to input each answer into a box and find out if the answer was correct or incorrect. Students could use the problem set checker as many times as they wanted to, and they weren’t graded on this in any way. Another form of interactive assessment used in the course, Interactive Reading Questions, can be viewed on the [Readings]({{% getpage "courses/18-05-introduction-to-probability-and-statistics-spring-2014/sections/readings/_index.md" %}}) page.

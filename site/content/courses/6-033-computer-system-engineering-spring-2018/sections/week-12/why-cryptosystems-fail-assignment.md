@@ -4,6 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: d85bd78d4139ffc6609938511ef16101
+    name: Why Cryptosystems Fail Assignment
     weight: 550
     parent: 463ad0d7960d0f16fac5ad1eab91ef20
 ---

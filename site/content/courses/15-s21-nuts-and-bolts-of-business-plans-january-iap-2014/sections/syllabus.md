@@ -4,6 +4,7 @@ course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
 menu:
   15-s21-nuts-and-bolts-of-business-plans-january-iap-2014:
     identifier: 3d071376075b43d99c14867b6a999448
+    name: Syllabus
     weight: 10
 ---
 Course Meeting Times

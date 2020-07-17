@@ -4,6 +4,7 @@ course_id: 6-046j-design-and-analysis-of-algorithms-spring-2015
 menu:
   6-046j-design-and-analysis-of-algorithms-spring-2015:
     identifier: 6086105f01474c30928319d86f8ea363
+    name: Exams
     weight: 110
 ---
 | EXAMS | SOLUTIONS |

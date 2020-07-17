@@ -4,6 +4,7 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 421db63c9b50ba466bc29ae6df431a14
+    name: 'Lecture 20: Interference, Soap Bubble'
     weight: 270
     parent: 562065223db4e5d13c0186ef14e4db6a
 type: courses

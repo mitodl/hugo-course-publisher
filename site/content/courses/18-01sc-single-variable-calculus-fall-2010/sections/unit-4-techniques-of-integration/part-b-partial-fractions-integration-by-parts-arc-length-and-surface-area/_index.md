@@ -4,6 +4,7 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: be9d889d28b57df1a77bbd83f2f4f214
+    name: 'Part B: Partial Fractions, Integration by Parts, Arc Length, and '
     weight: 1000
     parent: 4da2f4d47b887d3f0da6a5405ecfef83
 ---

@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 9fb8e827040a6b8befe95b0076e804ce
+    name: 18.4 Solve for Velocity in the Moving Frame
     weight: 1140
     parent: 28d93f13f552de729aab415b7158be8e
 type: courses

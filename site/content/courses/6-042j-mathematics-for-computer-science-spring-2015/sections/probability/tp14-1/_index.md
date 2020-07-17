@@ -4,6 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: a3bc4574329a2834df030de577ce1f81
+    name: 4.7 Sampling & Confidence
     weight: 2800
     parent: 90a207e82f8b3b1369067b58f9c6f169
 type: courses

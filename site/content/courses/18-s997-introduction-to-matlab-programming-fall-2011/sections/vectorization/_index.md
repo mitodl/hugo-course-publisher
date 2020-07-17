@@ -4,6 +4,7 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 18645230e50f3945e34d99f24f40ca3a
+    name: Vectorization
     weight: 150
 ---
 ![Screenshot of a function definition to covert Fahrenheit to Celsius and the respective function call.](https://open-learning-course-data-ci.s3.amazonaws.com/18-s997-introduction-to-matlab-programming-fall-2011/36f255a2ce336eaa5299d030e4970a98_Unit_4_image.jpg)  

@@ -4,6 +4,7 @@ course_id: res-2-006-girls-who-build-cameras-summer-2016
 menu:
   res-2-006-girls-who-build-cameras-summer-2016:
     identifier: bec74b432d16b01773ecf480283c04c4
+    name: Instructor Insights
     weight: 30
 ---
 Workshop Overview

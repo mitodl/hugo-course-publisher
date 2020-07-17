@@ -4,6 +4,7 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 4f99d0cb2a633499552ceac598125a32
+    name: Readings
     weight: 90
 ---
 \[Kochan\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/1631574019/ref=nosim/mitopencourse-20) Kochan, Thomas A. _Shaping the Future of Work: What Future Worker, Business, Government, and Education Leaders Need To Do For All To Prosper_. Business Expert Press, 2015. ISBN: 9781631574016. \[Selected chapters of this book are provided below.\]

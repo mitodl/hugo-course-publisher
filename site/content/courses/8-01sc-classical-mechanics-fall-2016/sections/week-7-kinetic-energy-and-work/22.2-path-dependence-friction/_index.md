@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: fde3ea2c88fa1af493baccdf828242b0
+    name: 22.2 Path Dependence - Friction
     weight: 1400
     parent: 1099b7667930f7e51cccc80d63899c02
 type: courses

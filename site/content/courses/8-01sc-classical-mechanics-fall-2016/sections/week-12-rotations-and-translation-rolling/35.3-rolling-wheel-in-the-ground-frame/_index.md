@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 1be0384915bb98d7dc0482ff2da28f98
+    name: 35.3 Rolling Wheel in the Ground Frame
     weight: 2260
     parent: fbf76190d89eeed2930e51f9ac3bf2a6
 type: courses

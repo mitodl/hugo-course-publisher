@@ -4,6 +4,7 @@ course_id: 18-02sc-multivariable-calculus-fall-2010
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: a37bc057e8d25fabac7452de24929a06
+    name: null
     weight: 1490
 ---
 This package contains the same content as the online version of the course, except for the audio/video materials.

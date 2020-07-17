@@ -4,6 +4,7 @@ course_id: 18-02sc-multivariable-calculus-fall-2010
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: 6f575227d3038c113827c5c3b8aaf897
+    name: 'Part C: Parametric Equations for Curves'
     weight: 210
     parent: 670edba62cf4bbd8353793d6e066fb6c
 ---

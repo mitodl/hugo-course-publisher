@@ -4,6 +4,7 @@ course_id: res-str-001-geographic-information-system-gis-tutorial-january-iap-20
 menu:
   res-str-001-geographic-information-system-gis-tutorial-january-iap-2016:
     identifier: b500ca0acd5e89c3277a5218c379bbb8
+    name: Introduction to GIS
     weight: 10
 ---
 The following materials were drawn from two introductory GIS workshops given at MIT during IAP 2016 ![](/images/educator/icon-question-iap.png). They cover the basics of GIS, including data types, metadata, data sources, various GIS software options, multi-step GIS analysis, and automation.

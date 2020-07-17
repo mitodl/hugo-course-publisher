@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: b7f96b057d1013b3d2749791547f1e2f
+    name: '11.3 Demo: Rotating Bucket'
     weight: 720
     parent: 3c7d357cbb95e729679b539d23714ede
 type: courses

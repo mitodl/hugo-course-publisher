@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: a58a3ece6fdc129d75645ca98d437fce
+    name: PS.6.2 Snowplow Problem
     weight: 1230
     parent: 28d93f13f552de729aab415b7158be8e
 type: courses

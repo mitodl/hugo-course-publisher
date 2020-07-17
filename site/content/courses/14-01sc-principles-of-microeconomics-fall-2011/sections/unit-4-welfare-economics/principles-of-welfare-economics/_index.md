@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 12e64d3f06442707bfcb6442dc9daf1b
+    name: Principles of Welfare Economics
     weight: 250
     parent: 74a70dbf28134c7f25cae0a217b6ec6f
 type: courses

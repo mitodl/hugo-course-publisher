@@ -5,6 +5,7 @@ course_id: >-
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: 36586ba568db37caa516348b595214d8
+    name: 'Day 3: Storyteller''s Toolkit Pt. 1'
     weight: 160
 type: courses
 layout: videogallery

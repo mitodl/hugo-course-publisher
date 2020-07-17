@@ -4,6 +4,7 @@ course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: ad95d6948a5a21e8d68c2ed80b877e38
+    name: Exams
     weight: 640
 ---
 Listed in the following table are practice exam questions and solutions, and the exam questions and solutions. Additional materials for exam preparation can be found under the class sessions dedicated to exam review. Students were encouraged to prepare a 4x6 inch notecard to use for reference during each exam.

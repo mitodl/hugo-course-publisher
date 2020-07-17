@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 9a737552bdc9c829a1610f005e91aabd
+    name: 32.2 Calculating Angular Momentum
     weight: 2080
     parent: d36579bd7dfcb71f76178b4b8d45c312
 type: courses

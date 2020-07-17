@@ -4,6 +4,7 @@ course_id: res-6-007-signals-and-systems-spring-2011
 menu:
   res-6-007-signals-and-systems-spring-2011:
     identifier: 03f3a033eec681636dbcff50345fb002
+    name: Lecture Notes
     weight: 30
 ---
 The notes below are primarily still images of the slides and boards seen in the lecture videos. They can be used to reference the content of each lecture.

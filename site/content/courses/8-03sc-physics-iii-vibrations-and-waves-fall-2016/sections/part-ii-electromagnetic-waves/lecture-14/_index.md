@@ -4,6 +4,7 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: c1476a90000ba128f6d13a5e4049fafb
+    name: 'Lecture 14: Fourier Transform, AM Radio'
     weight: 190
     parent: 240ff61b57c23024881e75e9a0e68cde
 type: courses

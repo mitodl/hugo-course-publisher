@@ -4,6 +4,7 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: f0df76f9717f330e1b805da69fe42319
+    name: Final Exam
     weight: 350
     parent: 82c1509981b270b9823bc741f08c9b32
 ---

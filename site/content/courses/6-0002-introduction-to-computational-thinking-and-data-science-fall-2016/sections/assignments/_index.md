@@ -4,6 +4,7 @@ course_id: 6-0002-introduction-to-computational-thinking-and-data-science-fall-2
 menu:
   6-0002-introduction-to-computational-thinking-and-data-science-fall-2016:
     identifier: a838c44edc04ba9ec06466dfcfd64e41
+    name: Assignments
     weight: 50
 ---
 Please review the [Style Guide (PDF)]({{% getpage "courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/sections/assignments/MIT6_0002F16_StyleGuide" %}}) before attempting the problem sets. We have compiled a list of other Python resources that you may find helpful in this Additional [Python Resources document (PDF)]({{% getpage "courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/sections/assignments/MIT6_0002F16_PythonResurcs" %}}). It contains links to other online textbooks on Python, debugging tools, and fun online coding challenges.

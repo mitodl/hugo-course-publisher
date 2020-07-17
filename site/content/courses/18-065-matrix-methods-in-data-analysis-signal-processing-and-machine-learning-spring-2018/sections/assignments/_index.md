@@ -5,6 +5,7 @@ course_id: >-
 menu:
   18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018:
     identifier: e3ceba9ad584e1722dca08201f771295
+    name: Assignments
     weight: 60
 ---
 [All problem sets in one file (PDF)]({{% getpage "courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/sections/assignments/MIT18_065S18PSets" %}})

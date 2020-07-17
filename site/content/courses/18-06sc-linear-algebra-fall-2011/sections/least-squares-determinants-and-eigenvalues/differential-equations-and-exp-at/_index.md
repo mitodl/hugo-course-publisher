@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 2e8f3fde52a442affa1d8cd0213b4d74
+    name: Differential Equations and exp(At)
     weight: 290
     parent: cf73d07ac972ab3c450a0f10d0be0664
 type: courses

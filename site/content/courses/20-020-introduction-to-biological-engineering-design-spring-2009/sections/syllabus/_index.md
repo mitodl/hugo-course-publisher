@@ -4,6 +4,7 @@ course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: 39c524155b2790c75ad9577dafb7b7a3
+    name: Syllabus
     weight: 10
 type: courses
 layout: videogallery

@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 34303ce19b45724122d2bd33d64df688
+    name: 'Unit I: Ax = b and the Four Subspaces'
     weight: 30
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/syllabus/meet-the-tas/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/_index.md" %}}) »

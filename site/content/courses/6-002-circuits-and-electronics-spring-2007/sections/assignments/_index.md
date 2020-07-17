@@ -4,6 +4,7 @@ course_id: 6-002-circuits-and-electronics-spring-2007
 menu:
   6-002-circuits-and-electronics-spring-2007:
     identifier: e106059b2e3b50c2726da543c775c9c6
+    name: Assignments
     weight: 60
 ---
 Homework 1 ([PDF]({{% getpage "courses/6-002-circuits-and-electronics-spring-2007/sections/assignments/hw1" %}}))

@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 595db4b7b9099dcbd43d98e6d638ebc0
+    name: 1.5 Instantaneous Velocity in 1D
     weight: 180
     parent: 63e325a780c79e352fb5bddb9b8b2c6a
 type: courses

@@ -4,6 +4,7 @@ course_id: ec-711-d-lab-energy-spring-2011
 menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: 5638dda948ce2cd5f89513c4a9b480a7
+    name: Problem Set 1
     weight: 60
     parent: 32a22e0de0add67342ce41445297fce7
 ---

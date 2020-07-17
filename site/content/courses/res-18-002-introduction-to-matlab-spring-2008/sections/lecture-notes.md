@@ -4,6 +4,7 @@ course_id: res-18-002-introduction-to-matlab-spring-2008
 menu:
   res-18-002-introduction-to-matlab-spring-2008:
     identifier: 55802a31eda52a588d6fc30480672f50
+    name: Lecture Notes
     weight: 10
 ---
 | LECTURE NOTES CONTENTS | FILES |

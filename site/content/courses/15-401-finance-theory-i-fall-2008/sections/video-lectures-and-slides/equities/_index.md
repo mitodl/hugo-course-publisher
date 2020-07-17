@@ -4,6 +4,7 @@ course_id: 15-401-finance-theory-i-fall-2008
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: 4b678424fbf83decdfd0618d83b98f9b
+    name: Equities
     weight: 110
     parent: cc3f05d9f4e44ed3db60b79712de51f4
 type: courses

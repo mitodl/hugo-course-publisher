@@ -4,6 +4,7 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: e102fdaef6bcb1db5f201c1ced35714d
+    name: Syllabus
     weight: 10
 ---
 Course Information

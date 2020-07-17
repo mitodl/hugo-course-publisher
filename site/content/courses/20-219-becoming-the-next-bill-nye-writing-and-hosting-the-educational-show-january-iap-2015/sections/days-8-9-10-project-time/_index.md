@@ -5,6 +5,7 @@ course_id: >-
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: dd2e906439f582927c78a9141317dcc6
+    name: 'Days 8, 9, & 10: Project Time'
     weight: 210
 type: courses
 layout: videogallery

@@ -4,6 +4,7 @@ course_id: 6-0001-introduction-to-computer-science-and-programming-in-python-fal
 menu:
   6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016:
     identifier: 86807bcdf508e055618e74f3d00e6bc7
+    name: Lecture 3 Video Solutions
     weight: 160
     parent: cc74bf5b1a22399e271270abfff469d7
 type: courses

@@ -4,6 +4,7 @@ course_id: 6-046j-design-and-analysis-of-algorithms-spring-2015
 menu:
   6-046j-design-and-analysis-of-algorithms-spring-2015:
     identifier: f0632fab33feb54f79dbe7aead7c2a75
+    name: Lecture Notes
     weight: 60
 ---
 | LEC # | LECTURE NOTES | LECTURE NOTES (HANDWRITTEN) |

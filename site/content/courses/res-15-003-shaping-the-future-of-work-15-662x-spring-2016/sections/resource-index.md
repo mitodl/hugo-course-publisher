@@ -4,6 +4,7 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: e5f20d47d4ec6b5cb450805b230e1676
+    name: Resource Index
     weight: 80
 ---
 | TOPICS | COURSE MATERIALS |

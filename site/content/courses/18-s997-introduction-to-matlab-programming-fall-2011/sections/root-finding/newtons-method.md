@@ -4,6 +4,7 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: b66efdff770f0bea25c37377318de9c0
+    name: Newton's Method
     weight: 90
     parent: 33cb3bda3dc0895ff5de7bc1b91f60c2
 ---

@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 97f0d15bd57aaf5151bf26eb9fbf5004
+    name: DD.2.3 1D Elastic Collision Velocities in CM Frame
     weight: 1740
     parent: bc33ee80c8fd90e4dfda7092ddd24879
 type: courses

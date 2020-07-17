@@ -4,6 +4,7 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 71bd52f802118491207f722087127ab2
+    name: The Basics
     weight: 20
 ---
 ![Screenshot of MATLAB’s command prompt and a series of for basic mathematical operations.](https://open-learning-course-data-ci.s3.amazonaws.com/18-s997-introduction-to-matlab-programming-fall-2011/0994bdb943a6fe32a26e8ce8d392a5cb_Unit_1_image.jpg)  

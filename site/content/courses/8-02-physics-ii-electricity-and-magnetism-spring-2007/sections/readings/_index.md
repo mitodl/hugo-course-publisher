@@ -4,6 +4,7 @@ course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 menu:
   8-02-physics-ii-electricity-and-magnetism-spring-2007:
     identifier: 0daf498714598983aa855689f242c83b
+    name: Readings
     weight: 30
 ---
 Some of the Course Note files contain figures with associated animations or interactive simulations that can be found on the [Visualizations]({{% getpage "courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/sections/visualizations/_index.md" %}}) page. A table correlating the figures to the animations can be found here ([PDF]({{% getpage "courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/sections/readings/visualizn_links" %}})).

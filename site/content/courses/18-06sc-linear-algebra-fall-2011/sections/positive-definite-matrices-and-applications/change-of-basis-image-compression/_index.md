@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 7b90bea0f6ce9bfdc750ada6103da88c
+    name: Change of Basis; Image Compression
     weight: 430
     parent: 34f596bc232822be5fba75646f6970c5
 type: courses

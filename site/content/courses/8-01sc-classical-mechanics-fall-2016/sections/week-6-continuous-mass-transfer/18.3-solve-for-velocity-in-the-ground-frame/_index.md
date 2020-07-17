@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: fedac271b3c4823359f54d93cc01e4f4
+    name: 18.3 Solve for Velocity in the Ground Frame
     weight: 1130
     parent: 28d93f13f552de729aab415b7158be8e
 type: courses

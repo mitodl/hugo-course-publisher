@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 7a7ef11d6a6afd90c8bac360dbead3ef
+    name: Week 5 Introduction
     weight: 930
     parent: c1168b62a27dcf9f3fe2550af1ed72f5
 type: courses

@@ -4,6 +4,7 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 376c3d9771c7c91d107df6d7f5c02e64
+    name: Debugging with MATLAB
     weight: 250
 ---
 ![Screenshot of MATLAB's debugger mode and stepping into a function.](https://open-learning-course-data-ci.s3.amazonaws.com/18-s997-introduction-to-matlab-programming-fall-2011/7437327ae5bfda2370d06765bd18a913_Unit_6_image.jpg)

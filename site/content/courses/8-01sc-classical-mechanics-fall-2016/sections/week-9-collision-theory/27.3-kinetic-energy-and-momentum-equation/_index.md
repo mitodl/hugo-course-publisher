@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: e52887f91b568bf476807eb93ca4e396
+    name: 27.3 Kinetic Energy and Momentum Equation
     weight: 1680
     parent: bc33ee80c8fd90e4dfda7092ddd24879
 type: courses

@@ -4,6 +4,7 @@ course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-201
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: 1bfb99c608a6fb3b5087201cd73059c9
+    name: Framing Engineering as Problem Solving
     weight: 50
     parent: 93633c3e763e0e991be7a7388bafdbb7
 ---

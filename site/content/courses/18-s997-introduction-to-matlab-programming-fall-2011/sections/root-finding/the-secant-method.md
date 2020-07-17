@@ -4,6 +4,7 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 1bc369b7cf753e2ce0777b944523c88c
+    name: The Secant Method
     weight: 100
     parent: 33cb3bda3dc0895ff5de7bc1b91f60c2
 ---

@@ -4,6 +4,7 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 33cb3bda3dc0895ff5de7bc1b91f60c2
+    name: Root-Finding
     weight: 70
 ---
 ![Graph of a line and roots to verify second-order convergence of Newton’s method.](https://open-learning-course-data-ci.s3.amazonaws.com/18-s997-introduction-to-matlab-programming-fall-2011/c319a882228dad053930769a73e283e6_Unit_2_image.JPG)  

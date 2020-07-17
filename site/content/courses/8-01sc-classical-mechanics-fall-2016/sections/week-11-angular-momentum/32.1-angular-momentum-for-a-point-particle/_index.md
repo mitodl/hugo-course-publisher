@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 432d416e7880ce7980b507f7884c036e
+    name: 'Lesson 32: Angular Momentum of a Point Particle [32.1-32.4]'
     weight: 2070
     parent: d36579bd7dfcb71f76178b4b8d45c312
 type: courses

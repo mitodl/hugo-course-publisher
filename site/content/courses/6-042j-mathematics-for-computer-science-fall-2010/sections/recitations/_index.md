@@ -4,6 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-fall-2010
 menu:
   6-042j-mathematics-for-computer-science-fall-2010:
     identifier: 088adbb7d5125527c5ec766f9536ea40
+    name: Recitations
     weight: 50
 ---
 This section contains recitation problems and notes, which include solutions.

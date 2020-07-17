@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: bc33ee80c8fd90e4dfda7092ddd24879
+    name: 'Week 9: Collision Theory'
     weight: 1610
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/problem-set-8" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/week-9-introduction" %}}) »

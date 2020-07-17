@@ -4,6 +4,7 @@ course_id: 21g-049-french-photography-spring-2017
 menu:
   21g-049-french-photography-spring-2017:
     identifier: 5bd3d34afffcc08e9a877b3fd05637da
+    name: Assignments
     weight: 40
 ---
 Class Participation

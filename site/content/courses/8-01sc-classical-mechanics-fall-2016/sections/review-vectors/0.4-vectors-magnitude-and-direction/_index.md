@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: c1a289e502901cf91f51d05db53ebf8e
+    name: 0.4 Vectors - Magnitude and Direction
     weight: 90
     parent: f8da8d9bf6a478e6808baa7e6aa62306
 type: courses

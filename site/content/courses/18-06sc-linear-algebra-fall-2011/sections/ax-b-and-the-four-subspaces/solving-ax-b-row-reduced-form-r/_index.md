@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 5fa61a8acb4bace2b291fa9364395075
+    name: 'Solving Ax = b: Row Reduced Form R'
     weight: 120
     parent: 34303ce19b45724122d2bd33d64df688
 type: courses

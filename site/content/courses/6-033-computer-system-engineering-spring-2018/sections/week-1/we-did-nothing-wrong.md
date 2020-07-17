@@ -4,6 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: a4a9ba01b03011d9204cba12fbc0f60b
+    name: We Did Nothing Wrong Assignment
     weight: 60
     parent: 70f007d84ae8a0b0ea4f00fa8931c506
 ---

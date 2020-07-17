@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 74a70dbf28134c7f25cae0a217b6ec6f
+    name: 'Unit 4: Welfare Economics'
     weight: 220
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/competition-ii/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics/competition-iii/_index.md" %}}) »

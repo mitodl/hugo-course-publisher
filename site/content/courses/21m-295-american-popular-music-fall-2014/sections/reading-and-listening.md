@@ -4,6 +4,7 @@ course_id: 21m-295-american-popular-music-fall-2014
 menu:
   21m-295-american-popular-music-fall-2014:
     identifier: 3492dd60b705408190bd0ff4472c4b44
+    name: Reading and Listening
     weight: 30
 ---
 Please note that you also need to listen to the pieces that accompany the assigned reading in the text. Titles of supplemental required listening are included with the assignments below.

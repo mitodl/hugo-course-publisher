@@ -4,6 +4,7 @@ course_id: 6-0002-introduction-to-computational-thinking-and-data-science-fall-2
 menu:
   6-0002-introduction-to-computational-thinking-and-data-science-fall-2016:
     identifier: e2607fddb72b757eee93f0b6bfb8415d
+    name: Readings
     weight: 20
 ---
 The textbook is [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262529624) [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0262529629/ref=nosim/mitopencourse-20) Guttag, John. _Introduction to Computation and Programming Using Python: With Application to Understanding Data_. 2nd ed. MIT Press, 2016. ISBN: 9780262529624. \[Preview with [Google Books](http://books.google.com/books?id=KabKDAAAQBAJ&pg=PAfrontcover)\] It is available both in hard copy and as an e-book.

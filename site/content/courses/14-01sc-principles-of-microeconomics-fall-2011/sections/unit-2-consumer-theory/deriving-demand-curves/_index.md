@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: e0983a2e16f737a8ad574f6bb67502e5
+    name: Deriving Demand Curves
     weight: 120
     parent: 6d0eabb4bf84c44f6ed5096dcf2cf3a4
 type: courses

@@ -4,6 +4,7 @@ course_id: 21m-250-beethoven-to-mahler-spring-2014
 menu:
   21m-250-beethoven-to-mahler-spring-2014:
     identifier: e8a88ffcf11ef245df0576dd587bad36
+    name: Assignments
     weight: 60
 ---
 Written Assignments

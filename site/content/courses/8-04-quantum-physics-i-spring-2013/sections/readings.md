@@ -4,6 +4,7 @@ course_id: 8-04-quantum-physics-i-spring-2013
 menu:
   8-04-quantum-physics-i-spring-2013:
     identifier: 8754e1a83f55b46c094cc3f2a3f0fbe7
+    name: Readings
     weight: 30
 ---
 There are many good texts on introductory quantum mechanics. Which text is most appropriate for you depends on your interests and goals. To give you some choice, equivalent readings will be assigned each week from each of the following four texts:

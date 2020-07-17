@@ -4,6 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 5179d7c0c3f7a60a33d7c24d9d219172
+    name: 1.8  Induction
     weight: 590
     parent: 95af5c7b87a2e15790a7ad18331a125f
 type: courses

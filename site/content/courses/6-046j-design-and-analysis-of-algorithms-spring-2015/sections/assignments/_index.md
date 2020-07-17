@@ -4,6 +4,7 @@ course_id: 6-046j-design-and-analysis-of-algorithms-spring-2015
 menu:
   6-046j-design-and-analysis-of-algorithms-spring-2015:
     identifier: d03775d66b3d83cd723220b2fcdc643a
+    name: Assignments
     weight: 100
 ---
 Problem Sets

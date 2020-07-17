@@ -4,6 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-fall-2010
 menu:
   6-042j-mathematics-for-computer-science-fall-2010:
     identifier: 128af59a73713799436bb5af64143a22
+    name: Readings
     weight: 30
 ---
 This section contains the course notes, _Mathematics for Computer Science_. Chapter 8 is not available on MIT OpenCourseWare.

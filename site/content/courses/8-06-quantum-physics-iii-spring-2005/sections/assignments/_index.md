@@ -4,6 +4,7 @@ course_id: 8-06-quantum-physics-iii-spring-2005
 menu:
   8-06-quantum-physics-iii-spring-2005:
     identifier: 1f3f9318a2a3961b9631e30a0ce813a1
+    name: Assignments
     weight: 40
 ---
 The related readings from the textbooks shown in the table will help understand the assignments.

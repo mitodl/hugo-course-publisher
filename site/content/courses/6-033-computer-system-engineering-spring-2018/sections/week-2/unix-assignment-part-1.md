@@ -4,6 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 37760e09a6c509c9e969bcefe6230e7d
+    name: UNIX Assignment Part 1
     weight: 120
     parent: d23c09ff9de9dc9cb98905d72c54fd66
 ---

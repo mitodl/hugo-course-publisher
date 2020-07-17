@@ -4,6 +4,7 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 5561a0f4bcdf0f2e3ca2fe7ea9878867
+    name: 'Adapting Content, Communicating Differently'
     weight: 40
     parent: 533d102efe069d1db963beda43cca2a1
 ---

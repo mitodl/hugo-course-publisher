@@ -4,6 +4,7 @@ course_id: 18-02sc-multivariable-calculus-fall-2010
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: 2afdabb0a4acff042357fe33b02c43c3
+    name: 'Part B: Flux and the Divergence Theorem'
     weight: 1130
     parent: 80a7ff20650c3af9a002f822edced8a0
 ---

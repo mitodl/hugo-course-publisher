@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: dfa7cfb25de407214c7b99d451dc900f
+    name: 'Lesson 9: Uniform Circular Motion [9.1-9.3]'
     weight: 630
     parent: 3c7d357cbb95e729679b539d23714ede
 type: courses

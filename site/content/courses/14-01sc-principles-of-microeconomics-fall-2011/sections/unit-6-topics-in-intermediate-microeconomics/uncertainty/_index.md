@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: eb20a38656314e616324268b98c9df1d
+    name: Uncertainty
     weight: 370
     parent: 2b057e13f81e86aad632c23c1074b663
 type: courses

@@ -4,6 +4,7 @@ course_id: 6-002-circuits-and-electronics-spring-2007
 menu:
   6-002-circuits-and-electronics-spring-2007:
     identifier: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
+    name: Video Lectures
     weight: 90
 type: courses
 layout: videogallery

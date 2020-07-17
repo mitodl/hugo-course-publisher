@@ -4,6 +4,7 @@ course_id: 6-0002-introduction-to-computational-thinking-and-data-science-fall-2
 menu:
   6-0002-introduction-to-computational-thinking-and-data-science-fall-2016:
     identifier: c4d42078e168d096eb09fadfcff2fabc
+    name: Lecture Slides and Files
     weight: 40
 ---
 | SES # | LECTURE SLIDES | CODE AND ADDITIONAL FILES |

@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 1b95348a7b79a798d6356d4376464c0d
+    name: Equity and Efficiency
     weight: 420
     parent: c94fdf9054571202c278c37041d32e5c
 type: courses

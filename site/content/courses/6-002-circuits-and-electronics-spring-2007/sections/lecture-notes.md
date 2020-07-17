@@ -4,6 +4,7 @@ course_id: 6-002-circuits-and-electronics-spring-2007
 menu:
   6-002-circuits-and-electronics-spring-2007:
     identifier: 01eae522d85d5ca73d9fbf9b614500cc
+    name: Lecture Notes
     weight: 30
 ---
 This section contains lecture notes from the Fall 2000 version of the course. These notes can also be found in the [Video Lectures]({{% getpage "courses/6-002-circuits-and-electronics-spring-2007/sections/video-lectures/_index.md" %}}) section, under the Related Resources tab for each video. Demonstration handouts can be found there as well.

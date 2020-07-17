@@ -4,6 +4,7 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: fbfb11dfc87e8464a19b8f26fb75c77d
+    name: Exam 2
     weight: 240
     parent: 562065223db4e5d13c0186ef14e4db6a
 ---

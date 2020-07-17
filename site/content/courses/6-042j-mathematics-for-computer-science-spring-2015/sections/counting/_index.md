@@ -4,6 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 39106ddf6e8110d0b3ef0b61eb07512d
+    name: 'Unit 3: Counting'
     weight: 1820
 ---
 *   [BackStable Matching Invariants]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/stable-matching/stable-matching-invariants" %}})

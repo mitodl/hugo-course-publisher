@@ -4,6 +4,7 @@ course_id: 6-046j-design-and-analysis-of-algorithms-spring-2015
 menu:
   6-046j-design-and-analysis-of-algorithms-spring-2015:
     identifier: fdfd7d322e68f5da0be5481e351161c4
+    name: Syllabus
     weight: 10
 ---
 Course Meeting Times
