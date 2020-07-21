@@ -4,6 +4,7 @@ course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
 menu:
   15-s21-nuts-and-bolts-of-business-plans-january-iap-2014:
     identifier: c26333e10b77931a494216b5acafb6ce
+    name: Video and Slide Player
     weight: 100
 type: courses
 layout: videogallery

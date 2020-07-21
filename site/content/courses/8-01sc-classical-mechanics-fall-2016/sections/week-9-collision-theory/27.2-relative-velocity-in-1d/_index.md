@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 7e35cb4f1cddb7b70d4d9da7f855b9b9
+    name: 27.2 Relative Velocity in 1D
     weight: 1670
     parent: bc33ee80c8fd90e4dfda7092ddd24879
 type: courses

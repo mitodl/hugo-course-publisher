@@ -4,6 +4,7 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: f4a13423bdd7a17965ceb0f19b5833d3
+    name: 'Lecture 13: Dispersive Medium, Phase Velocity, Group Velocity'
     weight: 180
     parent: 240ff61b57c23024881e75e9a0e68cde
 type: courses

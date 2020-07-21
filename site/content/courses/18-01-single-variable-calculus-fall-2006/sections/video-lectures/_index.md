@@ -4,6 +4,7 @@ course_id: 18-01-single-variable-calculus-fall-2006
 menu:
   18-01-single-variable-calculus-fall-2006:
     identifier: eb1d53c3c4c145f03327e4698375e766
+    name: Video Lectures
     weight: 90
 type: courses
 layout: videogallery

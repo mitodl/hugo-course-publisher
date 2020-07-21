@@ -4,6 +4,7 @@ course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 menu:
   8-02-physics-ii-electricity-and-magnetism-spring-2007:
     identifier: c3d903ae1edf68e921e842ecdf1df073
+    name: Vector Fields
     weight: 90
     parent: ea1fcef11143e57e2f48a97bf8747dc2
 ---

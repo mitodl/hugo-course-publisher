@@ -4,6 +4,7 @@ course_id: 6-0001-introduction-to-computer-science-and-programming-in-python-fal
 menu:
   6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016:
     identifier: 4f4256e899a1396c7b788c0d1442d6ca
+    name: Assignments
     weight: 220
 ---
 Note: The links provided to software may no longer work. You can download the current and previous versions of [Anaconda](https://www.anaconda.com/distribution/) and [Python](https://www.python.org/) from their respective sites. This course is based on Python 3.5. 

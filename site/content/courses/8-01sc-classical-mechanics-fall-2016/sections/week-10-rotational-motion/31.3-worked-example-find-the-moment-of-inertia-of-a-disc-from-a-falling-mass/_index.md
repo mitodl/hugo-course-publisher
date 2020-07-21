@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 4c4b7dff9b7b8e4558c20037e21a15d8
+    name: 31.3 Worked Example - Find the Moment of Inertia of a Disc from a
     weight: 1980
     parent: 146d8dd77c99bbafceb8ed10af8bee47
 type: courses

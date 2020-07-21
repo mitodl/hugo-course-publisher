@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: ba38c15e87840d182ecdb838419b1bf3
+    name: Download Course Materials
     weight: 490
 ---
 This package contains the same content as the online version of the course, except for the audio/video materials.

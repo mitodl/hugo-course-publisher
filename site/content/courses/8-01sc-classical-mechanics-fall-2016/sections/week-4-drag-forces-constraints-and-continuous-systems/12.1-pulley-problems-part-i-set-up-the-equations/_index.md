@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 05c9879cc9102f5cb8c237c856cafd97
+    name: 'Lesson 12: Pulleys and Constraints [12.1-12.5]'
     weight: 770
     parent: 919a2c506eb4551d940bb0dbab2356f0
 type: courses

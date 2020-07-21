@@ -4,6 +4,7 @@ course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: 756e777879ee8a5b41b83cf5eefd127b
+    name: 'PDP6: Elements of Good Design'
     weight: 200
     parent: f46140cde86ad79a318fba9b9f2dbf04
 ---

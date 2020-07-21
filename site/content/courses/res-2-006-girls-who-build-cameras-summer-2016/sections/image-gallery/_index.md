@@ -4,6 +4,7 @@ course_id: res-2-006-girls-who-build-cameras-summer-2016
 menu:
   res-2-006-girls-who-build-cameras-summer-2016:
     identifier: c7c9456ac26c6dc00027638fc943dc52
+    name: Image Gallery
     weight: 80
 ---
 Images taken of participants during the 2016 Girls Who Build Cameras workshop.

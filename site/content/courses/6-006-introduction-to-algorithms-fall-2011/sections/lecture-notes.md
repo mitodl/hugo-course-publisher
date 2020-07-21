@@ -4,6 +4,7 @@ course_id: 6-006-introduction-to-algorithms-fall-2011
 menu:
   6-006-introduction-to-algorithms-fall-2011:
     identifier: e3deaf6cc9a54aec1ac1aaed88b15d2f
+    name: Lecture Notes
     weight: 70
 ---
 | LEC # | TOPICS |

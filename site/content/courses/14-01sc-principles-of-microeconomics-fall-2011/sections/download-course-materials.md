@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: f8e84db0293ce6604f1099f672564bbe
+    name: Download Course Materials
     weight: 480
 ---
 This package contains the same content as the online version of the course, except for the audio/video materials.

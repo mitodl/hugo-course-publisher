@@ -4,6 +4,7 @@ course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: 579c055accb4eb7ebb6bf294146b45a5
+    name: Readings
     weight: 200
 ---
 Listed in the following table are assigned readings and [reading questions]({{% getpage "courses/18-05-introduction-to-probability-and-statistics-spring-2014/sections/instructor-insights/readings-and-reading-questions" %}}) that students were expected to complete prior to attending class sessions. The reading questions are multiple choice or numerical answer questions. Students received instant feedback and could make multiple attempts. Another form of interactive assessment used in the course, Problem Set Checker, can be viewed on the [Assignments]({{% getpage "courses/18-05-introduction-to-probability-and-statistics-spring-2014/sections/assignments/_index.md" %}}) page.

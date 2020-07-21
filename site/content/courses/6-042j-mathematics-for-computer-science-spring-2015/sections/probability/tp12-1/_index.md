@@ -4,6 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 79ebde2b537e9e26dc39d5d2e1c8f1d9
+    name: 4.2 Conditional Probability
     weight: 2310
     parent: 90a207e82f8b3b1369067b58f9c6f169
 type: courses

@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 5d290005eb1b3ec203b4ec8540d3d163
+    name: 8.3 Angular Velocity
     weight: 620
     parent: 3c7d357cbb95e729679b539d23714ede
 type: courses

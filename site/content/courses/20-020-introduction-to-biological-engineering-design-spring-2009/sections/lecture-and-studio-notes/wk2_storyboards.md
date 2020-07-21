@@ -4,6 +4,7 @@ course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: 39b60acd82cefaf6199226ac3a7bc0ad
+    name: Week 2 Studio - Storyboards
     weight: 130
     parent: 6b3904784bb4fa184e86cd14829a747e
 ---

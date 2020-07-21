@@ -4,6 +4,7 @@ course_id: 6-034-artificial-intelligence-fall-2010
 menu:
   6-034-artificial-intelligence-fall-2010:
     identifier: d791c36b92a499f13db9fe303e12e948
+    name: Assignments
     weight: 130
 ---
 These problem sets (also known as "labs" in 6.034) are from the Fall 2012 version of the course, but should line up well with the Fall 2010 lectures.

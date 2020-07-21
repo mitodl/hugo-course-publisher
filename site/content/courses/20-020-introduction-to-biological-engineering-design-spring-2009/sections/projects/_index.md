@@ -4,6 +4,7 @@ course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: becca3d9df0a28caaa3817ca41c1c55b
+    name: Projects
     weight: 260
 ---
 This page describes the work required for the team projects - a development notebook and three team presentations - along with the contributions of the 20.902 student mentors.

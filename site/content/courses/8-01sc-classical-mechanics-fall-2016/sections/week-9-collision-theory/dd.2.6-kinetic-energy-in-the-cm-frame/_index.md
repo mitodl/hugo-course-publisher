@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 238a5fed478b3743fcd8f177046fe55d
+    name: DD.2.6 Kinetic Energy in the CM Frame
     weight: 1770
     parent: bc33ee80c8fd90e4dfda7092ddd24879
 type: courses

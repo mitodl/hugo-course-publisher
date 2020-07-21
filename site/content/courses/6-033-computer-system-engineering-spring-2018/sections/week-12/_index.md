@@ -4,6 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 463ad0d7960d0f16fac5ad1eab91ef20
+    name: 'Week 12: Security II'
     weight: 530
 ---
 Lecture 21: Authentication and Passwords

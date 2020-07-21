@@ -4,6 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: cbb27708c82e11a7a3f9be7fc848063b
+    name: Log-Structured File System (LFS) Assignment
     weight: 430
     parent: aa415ef7575219eea10afb9dc2dbef65
 ---

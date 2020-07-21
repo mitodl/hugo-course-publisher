@@ -4,6 +4,7 @@ course_id: 6-00-introduction-to-computer-science-and-programming-fall-2008
 menu:
   6-00-introduction-to-computer-science-and-programming-fall-2008:
     identifier: c1f60ec7ee6fdaf79fce8f9efe4eacbc
+    name: Syllabus
     weight: 10
 ---
 Course Meeting Times

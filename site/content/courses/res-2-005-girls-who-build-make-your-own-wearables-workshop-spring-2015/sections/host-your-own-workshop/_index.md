@@ -4,6 +4,7 @@ course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-201
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: 0fc487acb653029f8b267f919501013d
+    name: Host Your Own Workshop
     weight: 160
 ---
 Overview

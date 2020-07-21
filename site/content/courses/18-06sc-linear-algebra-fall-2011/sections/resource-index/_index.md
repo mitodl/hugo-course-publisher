@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 754d6be4ca3c378b6c8b2e4a955ffe64
+    name: Resource Index
     weight: 470
 type: courses
 layout: videogallery

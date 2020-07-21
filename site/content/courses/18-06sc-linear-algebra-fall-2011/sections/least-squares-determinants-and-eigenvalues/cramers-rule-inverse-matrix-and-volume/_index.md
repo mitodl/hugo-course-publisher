@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 86cb2711cb7c431342dec1540dfe8ce2
+    name: 'Cramer''s Rule, Inverse Matrix and Volume'
     weight: 260
     parent: cf73d07ac972ab3c450a0f10d0be0664
 type: courses

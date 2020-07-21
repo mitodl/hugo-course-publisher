@@ -4,6 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 6d991d2d9834a247946af6ed255c2dcf
+    name: Lecture and Recitation Notes
     weight: 30
 ---
 | Topics | Lecture and Recitation Notes |

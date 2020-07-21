@@ -4,6 +4,7 @@ course_id: res-18-001-calculus-online-textbook-spring-2005
 menu:
   res-18-001-calculus-online-textbook-spring-2005:
     identifier: 2842add08d1e680b3318d7f7f69d7739
+    name: Textbook
     weight: 10
 ---
 Published in 1991 by [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), the book is a useful resource for educators and self-learners alike. It is well organized, covers single variable and multivariable calculus in depth, and is rich with applications. There is also an online [Instructor's Manual](/resources/res-18-001-calculus-online-textbook-spring-2005/instructor-s-manual) and a student [Study Guide](/resources/res-18-001-calculus-online-textbook-spring-2005/study-guide).

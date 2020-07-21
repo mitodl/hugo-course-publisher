@@ -4,6 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: e3bcfae1ff3e4391a255e7aa0a942756
+    name: 2.7 Partial Orders and Equivalence
     weight: 1370
     parent: 20b0a2b7a262cb94efd44e9e00511cee
 type: courses

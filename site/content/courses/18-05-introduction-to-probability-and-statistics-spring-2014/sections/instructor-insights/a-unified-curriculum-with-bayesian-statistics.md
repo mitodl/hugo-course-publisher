@@ -4,6 +4,7 @@ course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: e612a220f47d26cb1df41379920545d8
+    name: A Unified Curriculum with Bayesian Statistics
     weight: 110
     parent: 1b6858820e39dbc6ba03dc47858871bd
 ---

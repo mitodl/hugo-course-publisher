@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 5971c4aefc287ba162ff58e6c76576b4
+    name: 'Lesson 35: Rolling Kinematics [35.1-35.5]'
     weight: 2240
     parent: fbf76190d89eeed2930e51f9ac3bf2a6
 type: courses

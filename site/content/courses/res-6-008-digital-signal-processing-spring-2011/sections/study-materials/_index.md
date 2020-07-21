@@ -4,6 +4,7 @@ course_id: res-6-008-digital-signal-processing-spring-2011
 menu:
   res-6-008-digital-signal-processing-spring-2011:
     identifier: d0980677541533446fb0bae3bb5be0e3
+    name: Study Materials
     weight: 30
 ---
 The notes for this course include chalkboard images and slides from lectures, explanatory notes, and homework problems.

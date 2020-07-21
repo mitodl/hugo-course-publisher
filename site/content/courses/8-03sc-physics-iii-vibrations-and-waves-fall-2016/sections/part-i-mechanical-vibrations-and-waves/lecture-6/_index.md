@@ -4,6 +4,7 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: cf85feedf452d0893365f5c9eca3acb0
+    name: 'Lecture 6: Driven Oscillators, Resonance'
     weight: 90
     parent: 6682a3d163976bcbb2fbe67db27d8f04
 type: courses

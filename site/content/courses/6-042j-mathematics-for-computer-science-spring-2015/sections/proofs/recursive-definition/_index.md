@@ -4,6 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: dc6ecd4f10b94f9f9744a385e4bab210
+    name: 1.10 Recursive Definition
     weight: 760
     parent: 95af5c7b87a2e15790a7ad18331a125f
 type: courses

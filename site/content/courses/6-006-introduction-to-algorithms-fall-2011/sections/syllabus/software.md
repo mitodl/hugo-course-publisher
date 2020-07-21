@@ -4,6 +4,7 @@ course_id: 6-006-introduction-to-algorithms-fall-2011
 menu:
   6-006-introduction-to-algorithms-fall-2011:
     identifier: 439d0ff367dd3140f769dbfd28c87874
+    name: Software
     weight: 20
     parent: f57345014b07a46bd16ff4d95aef57d5
 ---

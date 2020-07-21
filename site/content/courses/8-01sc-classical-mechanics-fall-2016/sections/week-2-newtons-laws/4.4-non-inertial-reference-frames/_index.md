@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 8e86b662b40ab1851a2ae25deec90980
+    name: 4.4 Non-inertial Reference Frames
     weight: 430
     parent: cf6d9ae85d7b6e788f1e70cf24afc329
 type: courses

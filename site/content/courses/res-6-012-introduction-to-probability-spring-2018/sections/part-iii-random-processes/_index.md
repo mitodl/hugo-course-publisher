@@ -4,6 +4,7 @@ course_id: res-6-012-introduction-to-probability-spring-2018
 menu:
   res-6-012-introduction-to-probability-spring-2018:
     identifier: ea0e960c7d6bb5ec3c28c2657fe85c0d
+    name: 'Part III: Random Processes'
     weight: 30
 type: courses
 layout: videogallery

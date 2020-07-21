@@ -4,6 +4,7 @@ course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-201
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: eea41b9f86c8705fe5263a7dbf353abb
+    name: Inspiration for the Workshop
     weight: 40
     parent: 93633c3e763e0e991be7a7388bafdbb7
 ---

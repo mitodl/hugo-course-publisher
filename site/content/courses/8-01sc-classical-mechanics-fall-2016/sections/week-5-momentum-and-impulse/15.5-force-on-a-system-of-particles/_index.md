@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: bde03ef1a56d0a421445595a935e6101
+    name: 15.5 Force on a System of Particles
     weight: 980
     parent: c1168b62a27dcf9f3fe2550af1ed72f5
 type: courses

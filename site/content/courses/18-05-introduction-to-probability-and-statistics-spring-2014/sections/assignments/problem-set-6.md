@@ -4,6 +4,7 @@ course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: b0eddea8adf44425489605d2eb589684
+    name: Problem Set 6
     weight: 600
     parent: fed85a98064c2e2a4378f3f7549df9b8
 ---

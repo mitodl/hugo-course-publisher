@@ -4,6 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: db42b40ad705f431a7e23a1d11cec341
+    name: 'Unit 9: Integer Optimization'
     weight: 3030
 ---
 *   [BackAssignment 8]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/assignment-8/_index.md" %}})

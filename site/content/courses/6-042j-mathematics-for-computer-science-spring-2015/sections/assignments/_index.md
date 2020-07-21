@@ -4,6 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 8da72fce08fec8a571c1e09779e12577
+    name: Assignments
     weight: 50
 ---
 Solutions to the following Problem Sets are not available to the general public, as the assignments took substantial effort to compose—often 4-6 hours per problem—so it is essential that the course staff be able to re-use problems in later terms. Instructors or their students at recognized institutions may contact Prof. Meyer to request solutions on a case-by-case basis.

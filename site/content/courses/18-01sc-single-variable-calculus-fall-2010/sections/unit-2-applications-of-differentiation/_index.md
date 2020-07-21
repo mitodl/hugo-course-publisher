@@ -4,6 +4,7 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: c2ca8a0d20e596b11e2ec5c48c7179ca
+    name: 2. Applications of Differentiation
     weight: 300
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1/session-22-materials-for-exam-1/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/_index.md" %}}) »

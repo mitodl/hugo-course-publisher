@@ -4,6 +4,7 @@ course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 menu:
   8-02-physics-ii-electricity-and-magnetism-spring-2007:
     identifier: 6aee550c7f1fc0a23b7785df1e2ab540
+    name: Class Slides
     weight: 70
 ---
 | WEEK # | SES # | TOPICS | CLASS SLIDES | CONCEPT QUESTIONS |

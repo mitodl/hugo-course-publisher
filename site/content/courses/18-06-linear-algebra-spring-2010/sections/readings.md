@@ -4,6 +4,7 @@ course_id: 18-06-linear-algebra-spring-2010
 menu:
   18-06-linear-algebra-spring-2010:
     identifier: 81d6a1cd707c29b29d6540b3e79d5433
+    name: Readings
     weight: 50
 ---
 The readings are assigned in: [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0980232716/ref=nosim/mitopencourse-20) Strang, Gilbert. _Introduction to Linear Algebra_. 4th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2009. ISBN: 9780980232714.

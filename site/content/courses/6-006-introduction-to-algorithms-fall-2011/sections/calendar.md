@@ -4,6 +4,7 @@ course_id: 6-006-introduction-to-algorithms-fall-2011
 menu:
   6-006-introduction-to-algorithms-fall-2011:
     identifier: 2614e308dd07490fb25081df82b2e3c9
+    name: Calendar
     weight: 30
 ---
 | LEC # | TOPICS | KEY DATES |

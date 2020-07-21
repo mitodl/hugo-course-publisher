@@ -4,6 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 790693dd03fa16d862fd02407cfcb455
+    name: Assignments
     weight: 40
 ---
 Individual Work Assignments

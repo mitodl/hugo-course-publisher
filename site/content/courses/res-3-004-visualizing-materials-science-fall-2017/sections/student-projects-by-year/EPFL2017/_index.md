@@ -4,6 +4,7 @@ course_id: res-3-004-visualizing-materials-science-fall-2017
 menu:
   res-3-004-visualizing-materials-science-fall-2017:
     identifier: 172a9af2383baa0a4e102ef1208f2781
+    name: 2017 EPFL Student Projects
     weight: 100
     parent: 912fc0849e832bfd38afdf58a71a8917
 ---

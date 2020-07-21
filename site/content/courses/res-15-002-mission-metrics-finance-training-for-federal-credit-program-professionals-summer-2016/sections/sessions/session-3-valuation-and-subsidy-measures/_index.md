@@ -5,6 +5,7 @@ course_id: >-
 menu:
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016:
     identifier: 219fe568e41ddc109cf5bce77c008a10
+    name: 'Session 3: Valuation and Subsidy Measures'
     weight: 60
     parent: c5cf8c5e59b0bc3e51ba6284d467e6d6
 ---

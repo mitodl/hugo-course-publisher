@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 2376f3e00c4de0f6634653041d685aed
+    name: Orthogonal Matrices and Gram-Schmidt
     weight: 230
     parent: cf73d07ac972ab3c450a0f10d0be0664
 type: courses

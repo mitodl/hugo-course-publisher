@@ -4,6 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: f3fea4556b1729b1b548eaf293e7bf2c
+    name: Databases Assignment
     weight: 450
     parent: aa415ef7575219eea10afb9dc2dbef65
 ---

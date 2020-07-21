@@ -4,6 +4,7 @@ course_id: res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spr
 menu:
   res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008:
     identifier: 3d3d7939a6f1a639d546f863d6a69b7b
+    name: About this book
     weight: 10
 ---
 First published in 1979 by John Wiley and Sons, Inc., this book is a useful resource for educators and self-learners alike. The book was reprinted in 1987 and again in 2003 with corrections by Krieger Publishing Company.

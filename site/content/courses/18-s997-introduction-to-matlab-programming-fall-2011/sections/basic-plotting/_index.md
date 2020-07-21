@@ -4,6 +4,7 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 81a610a835a9454d733fecd98304058c
+    name: Basic Plotting
     weight: 120
 ---
 ![Screenshot of plot commands and resultant red circle and black Lissajous curves.](https://open-learning-course-data-ci.s3.amazonaws.com/18-s997-introduction-to-matlab-programming-fall-2011/82c0f0e7b907c84465b23c309c5b3eee_Unit_3_image.jpg)  

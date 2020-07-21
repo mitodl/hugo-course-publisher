@@ -4,6 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: ea13cbf125e6cb4fd55253fee6563f83
+    name: Botnets Assignment
     weight: 600
     parent: 87aba98430c8d18b3f717bdec998328f
 ---

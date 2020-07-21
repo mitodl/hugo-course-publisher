@@ -4,6 +4,7 @@ course_id: 22-081j-introduction-to-sustainable-energy-fall-2010
 menu:
   22-081j-introduction-to-sustainable-energy-fall-2010:
     identifier: b2c4fd737344650b8c5fe166eeb8fdd0
+    name: Syllabus
     weight: 10
 ---
 Course Meeting Times

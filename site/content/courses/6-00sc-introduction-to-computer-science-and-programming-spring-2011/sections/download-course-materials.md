@@ -4,6 +4,7 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: c9d33973f2f8dc1c6dd8b7cd10a60c0e
+    name: Download Course Materials
     weight: 370
 ---
 This package contains the same content as the online version of the course, except for the audio/video materials.

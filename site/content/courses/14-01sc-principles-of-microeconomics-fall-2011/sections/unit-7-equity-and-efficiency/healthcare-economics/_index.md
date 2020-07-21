@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 41da8f547f2ad774baa0e7c50d7cf9e6
+    name: Healthcare Economics
     weight: 460
     parent: c94fdf9054571202c278c37041d32e5c
 type: courses

@@ -4,6 +4,7 @@ course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: 59aef7d7fdb01a1ffd2b9d9194f42dec
+    name: Team Building Resources
     weight: 300
 ---
 Glossary of useful terms for team building and teamwork: "[Fight Your Way to Breakthroughs](http://the99percent.com/tips/5673/fight-your-way-to-breakthroughs)."

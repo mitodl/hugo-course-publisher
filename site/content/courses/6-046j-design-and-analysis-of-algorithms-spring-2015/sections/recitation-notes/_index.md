@@ -4,6 +4,7 @@ course_id: 6-046j-design-and-analysis-of-algorithms-spring-2015
 menu:
   6-046j-design-and-analysis-of-algorithms-spring-2015:
     identifier: 15d515f8c4b84142510db3da89bcae54
+    name: Recitation Notes
     weight: 80
 ---
 | REC # | RECITATION NOTES |

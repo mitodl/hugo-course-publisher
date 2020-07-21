@@ -4,6 +4,7 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: e1b5ff21127dfb3033e398fce88c42e6
+    name: 'Using Graphs to Model Problems, Part 1'
     weight: 290
     parent: 82c1509981b270b9823bc741f08c9b32
 type: courses

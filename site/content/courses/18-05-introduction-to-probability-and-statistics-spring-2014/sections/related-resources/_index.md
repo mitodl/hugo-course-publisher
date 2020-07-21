@@ -4,6 +4,7 @@ course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: a4d4ed5237df946dc2b19d114f44c277
+    name: Related Resources
     weight: 660
 ---
 The following are useful resources that are frequently used during the course of the semester:

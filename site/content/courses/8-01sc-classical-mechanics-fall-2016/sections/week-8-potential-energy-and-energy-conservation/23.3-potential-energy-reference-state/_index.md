@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: dd51d5b7a6883a8d27a37de1a977163a
+    name: 23.3 Potential Energy Reference State
     weight: 1500
     parent: 1394998143efcc493f7c98265cfbd3ae
 type: courses

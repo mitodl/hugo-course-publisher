@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 825c4d36ebe062b5705d24b3f43a24f4
+    name: 21.4 Work in 2D and 3D
     weight: 1360
     parent: 1099b7667930f7e51cccc80d63899c02
 type: courses

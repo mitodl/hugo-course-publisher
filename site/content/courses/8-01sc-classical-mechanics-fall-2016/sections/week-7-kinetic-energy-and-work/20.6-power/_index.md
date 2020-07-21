@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 1d78b649fdf59d69aefb71cb5c8f8e16
+    name: 20.6 Power
     weight: 1320
     parent: 1099b7667930f7e51cccc80d63899c02
 type: courses

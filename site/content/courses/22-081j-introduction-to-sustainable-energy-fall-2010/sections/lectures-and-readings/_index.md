@@ -4,6 +4,7 @@ course_id: 22-081j-introduction-to-sustainable-energy-fall-2010
 menu:
   22-081j-introduction-to-sustainable-energy-fall-2010:
     identifier: e7a00e101594274350ffa5b52e167aa5
+    name: Lectures and Readings
     weight: 30
 ---
 Readings are assigned from the course text:

@@ -4,6 +4,7 @@ course_id: 6-006-introduction-to-algorithms-fall-2011
 menu:
   6-006-introduction-to-algorithms-fall-2011:
     identifier: e9e7eb5e68d56cf408cec2c19e2fac0b
+    name: Download Course Materials
     weight: 120
 ---
 This package contains the same content as the online version of the course, except for any audio/video materials and other interactive file types.

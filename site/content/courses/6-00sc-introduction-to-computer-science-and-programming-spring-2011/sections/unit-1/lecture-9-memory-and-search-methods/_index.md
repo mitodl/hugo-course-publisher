@@ -4,6 +4,7 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 518bf74ec414e8ecf4d555616396f6d0
+    name: Memory and Search Methods
     weight: 130
     parent: 975ad7bfdd9c4ffe26b6710fa718d5e6
 type: courses

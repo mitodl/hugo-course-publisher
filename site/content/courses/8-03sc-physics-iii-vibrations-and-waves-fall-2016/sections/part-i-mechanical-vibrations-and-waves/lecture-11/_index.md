@@ -4,6 +4,7 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 255269d470c4990b3edd8effa5e8213a
+    name: 'Lecture 11: Sound Waves'
     weight: 150
     parent: 6682a3d163976bcbb2fbe67db27d8f04
 type: courses

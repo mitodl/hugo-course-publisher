@@ -4,6 +4,7 @@ course_id: 5-111sc-principles-of-chemical-science-fall-2014
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: bbd6f3cbd22ba979f3c53baa993e82b8
+    name: Lecture 11
     weight: 150
     parent: 89ed642b22037e567593c80ff35cb3f4
 type: courses

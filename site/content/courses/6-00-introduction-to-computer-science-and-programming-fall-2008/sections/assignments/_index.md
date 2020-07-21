@@ -4,6 +4,7 @@ course_id: 6-00-introduction-to-computer-science-and-programming-fall-2008
 menu:
   6-00-introduction-to-computer-science-and-programming-fall-2008:
     identifier: 73abac88dca82c7f57bdbe466a9a5bc3
+    name: Assignments
     weight: 50
 ---
 Getting Started

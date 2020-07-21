@@ -4,6 +4,7 @@ course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-201
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: b5f263d4ba85f452d26922db237001f2
+    name: Introduction to Engineering & its Applications
     weight: 90
 ---
 Overview

@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 6cb6984b909be4a5266797f44b85b82e
+    name: 30.5 Torque from Gravity
     weight: 1950
     parent: 146d8dd77c99bbafceb8ed10af8bee47
 type: courses

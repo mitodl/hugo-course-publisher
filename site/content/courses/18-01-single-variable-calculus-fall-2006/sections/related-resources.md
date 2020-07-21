@@ -4,6 +4,7 @@ course_id: 18-01-single-variable-calculus-fall-2006
 menu:
   18-01-single-variable-calculus-fall-2006:
     identifier: 71c1ad1bad19cb35c6f7cf74f4be9214
+    name: Related Resources
     weight: 80
 ---
 [Tips for Success in Undergraduate Math Courses](http://www.stanford.edu/class/math41/jasp.html) by Jessica Purcell. Some very good advice for college calculus students. Read this carefully and do as it suggests.

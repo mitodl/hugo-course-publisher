@@ -4,6 +4,7 @@ course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: 34f1a99dc9122193c437231b1fc08afe
+    name: Calendar
     weight: 20
 ---
 Students are required to attend class sessions and studio sessions, the latter of which take place on Friday. Typically, studio sessions are used to introduce longer problems and the use of R.

@@ -4,6 +4,7 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 5b8b75cfd4b0ebf7e60627901932f396
+    name: Introduction to 6.00
     weight: 50
     parent: 975ad7bfdd9c4ffe26b6710fa718d5e6
 type: courses

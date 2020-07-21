@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 000aca2a6673bebebca1cca975a696f5
+    name: 37.3 Angular Momentum of Translation and Rotation
     weight: 2360
     parent: fbf76190d89eeed2930e51f9ac3bf2a6
 type: courses

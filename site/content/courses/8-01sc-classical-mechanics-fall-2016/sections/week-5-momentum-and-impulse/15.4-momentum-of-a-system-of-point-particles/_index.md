@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 180c4509b887d8f41e1b94fa387338fe
+    name: 15.4 Momentum of a System of Point Particles
     weight: 970
     parent: c1168b62a27dcf9f3fe2550af1ed72f5
 type: courses

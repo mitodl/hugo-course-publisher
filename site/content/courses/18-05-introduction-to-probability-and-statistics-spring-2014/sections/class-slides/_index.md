@@ -4,6 +4,7 @@ course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: 94de8151483a826f90af93d292b79cf2
+    name: Class Slides
     weight: 520
 ---
 Listed in the following table are the in-class slides and post-class materials for each of the class sessions. The post-class version of the slides contains the solutions to the board problems, clicker questions, and discussion questions that were posed to the students during class. It was not always the case that the end of the planned set of slides was reached in each class, so the last slides in one deck may be repeated in the next deck.

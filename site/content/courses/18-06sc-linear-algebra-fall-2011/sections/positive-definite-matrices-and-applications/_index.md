@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 34f596bc232822be5fba75646f6970c5
+    name: 'Unit III: Positive Definite Matrices and Applications'
     weight: 360
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/exam-2/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/_index.md" %}}) »

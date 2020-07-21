@@ -4,6 +4,7 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 8589bba533c686cede6beed8525d000b
+    name: 3.3 For More Information...
     weight: 530
     parent: cc30bcc3b45c6b220f2145ce29d9b264
 ---

@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: fc4bb7fe8852f18ed0a7cc1c4ea5e402
+    name: 'Lesson 10: Circular Motion – Acceleration [10.1-10.4]'
     weight: 660
     parent: 3c7d357cbb95e729679b539d23714ede
 type: courses

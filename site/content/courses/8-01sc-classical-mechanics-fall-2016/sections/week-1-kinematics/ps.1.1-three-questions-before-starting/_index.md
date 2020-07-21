@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: ee2f73c8bddde169e39ca455f12469aa
+    name: 'Week 1 Worked Examples [PS.1.1-PS.1.5]'
     weight: 310
     parent: 63e325a780c79e352fb5bddb9b8b2c6a
 type: courses

@@ -4,6 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 6e76f1ca8214a450c84cbced0d6be017
+    name: Critique Assignment 1
     weight: 70
     parent: 70f007d84ae8a0b0ea4f00fa8931c506
 ---

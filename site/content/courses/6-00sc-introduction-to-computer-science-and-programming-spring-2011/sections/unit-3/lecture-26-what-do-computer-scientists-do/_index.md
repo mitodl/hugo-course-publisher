@@ -4,6 +4,7 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: bf8aaef42d80e9c3f4d51760a6aa50ab
+    name: What Do Computer Scientists Do?
     weight: 340
     parent: 82c1509981b270b9823bc741f08c9b32
 type: courses

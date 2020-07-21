@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: b216375a21c7e9bd51b49883ed386898
+    name: 15.2 Impulse is a Vector
     weight: 950
     parent: c1168b62a27dcf9f3fe2550af1ed72f5
 type: courses

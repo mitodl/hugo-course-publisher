@@ -4,6 +4,7 @@ course_id: 18-02sc-multivariable-calculus-fall-2010
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: 373470152d61a30621c6ebdfe7e34763
+    name: Practice Final Exam
     weight: 1420
     parent: dd6fb5d90caac5e5061b3b20b27d5d15
 ---

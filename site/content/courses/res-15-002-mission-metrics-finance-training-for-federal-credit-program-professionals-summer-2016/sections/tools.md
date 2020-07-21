@@ -5,6 +5,7 @@ course_id: >-
 menu:
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016:
     identifier: 029d45917a8c3e6cdaef9b7a067f756e
+    name: Tools
     weight: 100
 ---
 A suite of financial software, the MIT Mission and Metrics (MM2) Pro suite, has been created specifically to assist users in applying these disciplines within their agencies, particularly for agency process of strategic planning, budget justification, budget submission, and GPRA, as well as for maximizing the day-to-day management of scarce federal resources.

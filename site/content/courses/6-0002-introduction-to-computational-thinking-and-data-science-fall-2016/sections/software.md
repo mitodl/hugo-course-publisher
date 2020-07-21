@@ -4,6 +4,7 @@ course_id: 6-0002-introduction-to-computational-thinking-and-data-science-fall-2
 menu:
   6-0002-introduction-to-computational-thinking-and-data-science-fall-2016:
     identifier: 8a9c704c976eb89f0669ffb242aa0ac8
+    name: Software
     weight: 60
 ---
 This course requires the Python programming language, specifically Python 3.5.

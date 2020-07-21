@@ -4,6 +4,7 @@ course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: 795a55210a16d54dc4e8910a0c21496f
+    name: Studio Resources
     weight: 650
 ---
 | SES # | INSTRUCTOR's PLAN FOR STUDIO | IN-CLASS SLIDES | SUPPORTING FILES | POST-CLASS SLIDES |

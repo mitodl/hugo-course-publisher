@@ -4,6 +4,7 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: e3b06d2c1ab6413e6e033e6f881df396
+    name: More on Loops
     weight: 220
     parent: 1d7068b5ce8d3b56622ae79682a1dd43
 ---

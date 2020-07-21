@@ -4,6 +4,7 @@ course_id: 18-01-single-variable-calculus-fall-2006
 menu:
   18-01-single-variable-calculus-fall-2006:
     identifier: adc88628f4afafbd2575962ba651df76
+    name: Exams
     weight: 70
 ---
 Format

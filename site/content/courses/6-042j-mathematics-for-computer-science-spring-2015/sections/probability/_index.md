@@ -4,6 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 90a207e82f8b3b1369067b58f9c6f169
+    name: 'Unit 4: Probability'
     weight: 2220
 ---
 *   [BackClass Schedules]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp10-1/class-schedules" %}})

@@ -4,6 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 3da02316bd16dd1dd117db2d3a5cdf73
+    name: Readings
     weight: 20
 ---
 \[AE\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/098991089X/ref=nosim/mitopencourse-20) Dimitris Bertsimas, Allison O'Hair and Bill Pulleyblank, _The Analytics Edge_, Dynamic Ideas, 2016. ISBN: 978-0989910897.

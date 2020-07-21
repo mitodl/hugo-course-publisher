@@ -4,6 +4,7 @@ course_id: 6-00-introduction-to-computer-science-and-programming-fall-2008
 menu:
   6-00-introduction-to-computer-science-and-programming-fall-2008:
     identifier: 3ca786937c3c657b17df50f07b16762e
+    name: Exams
     weight: 60
 ---
 This section contains sample problems and solutions for the two quizzes during the semester. For the final exam (also known as quiz 3), solutions are not available. Students were also given a code sample to study in preparation for the final exam.

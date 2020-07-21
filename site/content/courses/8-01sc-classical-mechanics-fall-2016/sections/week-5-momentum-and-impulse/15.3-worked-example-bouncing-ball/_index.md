@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 8eb0ed0af63c549edcc9c64765a58d66
+    name: 15.3 Worked Example - Bouncing Ball
     weight: 960
     parent: c1168b62a27dcf9f3fe2550af1ed72f5
 type: courses

@@ -4,6 +4,7 @@ course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: 748793deaf7d14468239f08710adb74a
+    name: 'PDP2: iGEM Review Questions'
     weight: 230
     parent: f46140cde86ad79a318fba9b9f2dbf04
 ---

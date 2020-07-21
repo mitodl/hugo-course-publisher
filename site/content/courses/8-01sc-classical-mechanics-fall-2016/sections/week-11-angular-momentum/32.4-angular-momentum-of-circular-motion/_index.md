@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: d7f63574cced76f69437a22b7fb74dfb
+    name: 32.4 Angular Momentum of Circular Motion
     weight: 2100
     parent: d36579bd7dfcb71f76178b4b8d45c312
 type: courses

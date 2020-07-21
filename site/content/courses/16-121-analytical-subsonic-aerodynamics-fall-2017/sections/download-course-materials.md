@@ -4,6 +4,7 @@ course_id: 16-121-analytical-subsonic-aerodynamics-fall-2017
 menu:
   16-121-analytical-subsonic-aerodynamics-fall-2017:
     identifier: 8a9aff13217cad6255d2ce0bfface34f
+    name: Download Course Materials
     weight: 50
 ---
 This package contains the same content as the online version of the course, except for any audio/video materials and other interactive file types.

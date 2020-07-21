@@ -4,6 +4,7 @@ course_id: res-2-006-girls-who-build-cameras-summer-2016
 menu:
   res-2-006-girls-who-build-cameras-summer-2016:
     identifier: c67fc51e79d4d91bb9aa7a48945edead
+    name: Host Your Own Workshop
     weight: 70
 type: courses
 layout: videogallery

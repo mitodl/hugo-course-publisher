@@ -4,6 +4,7 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: e97ad6fdf5f1abbc81c0a3cefd271812
+    name: Basins of Attraction
     weight: 140
     parent: 81a610a835a9454d733fecd98304058c
 ---

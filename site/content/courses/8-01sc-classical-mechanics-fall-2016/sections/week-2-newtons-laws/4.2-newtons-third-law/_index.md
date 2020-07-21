@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 2177d0e5d0ce54c654575859c51c9b60
+    name: 4.2 Newton's Third Law
     weight: 410
     parent: cf6d9ae85d7b6e788f1e70cf24afc329
 type: courses

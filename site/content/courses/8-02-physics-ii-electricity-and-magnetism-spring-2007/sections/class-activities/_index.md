@@ -4,6 +4,7 @@ course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 menu:
   8-02-physics-ii-electricity-and-magnetism-spring-2007:
     identifier: 588b48d5a3390347e6e5b16b0ec1fe7b
+    name: Class Activities
     weight: 40
 ---
 This course is taught in the TEAL/Studio Physics format. The course format differs substantially from the lecture/recitation format. In this format, classes are held three times a week, twice in a two-hour block, and once in a one-hour block. Students sit at tables of nine in a specially designed classroom, with three groups of three students at each table. Mini-lectures are interspersed with desktop experiments and group problem solving and discussion. The one-hour session on the third session of the week is reserved entirely for problem solving.

@@ -4,6 +4,7 @@ course_id: res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spr
 menu:
   res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008:
     identifier: 781cf7ce5cfceea8d860cb2207a215cd
+    name: Textbook contents
     weight: 20
 ---
 _Electromagnetic Field Theory_ as one file: [(PDF 1 of 3 - 3.9MB)]({{% getpage "courses/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/sections/textbook-contents/MITRES_6_002S08_Part1" %}}) [(PDF 2 of 3 -  3.2MB)]({{% getpage "courses/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/sections/textbook-contents/MITRES_6_002S08_Part2" %}}) [(PDF 3 of 3 - 3.3MB)]({{% getpage "courses/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/sections/textbook-contents/MITRES_6_002S08_Part3" %}})

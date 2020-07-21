@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: f0b3ed7cdca2a26b75e353d084b146b2
+    name: Meet the TAs
     weight: 20
     parent: 8abb293b49d8047a3f3674bfa02e78f7
 type: courses

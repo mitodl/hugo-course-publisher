@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 5f12aef90a3ea658e59ce968a672c0c2
+    name: Projection Matrices and Least Squares
     weight: 220
     parent: cf73d07ac972ab3c450a0f10d0be0664
 type: courses

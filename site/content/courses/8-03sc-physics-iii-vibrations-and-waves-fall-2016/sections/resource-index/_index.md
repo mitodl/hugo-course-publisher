@@ -4,6 +4,7 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 6e929eb17b686d3570ea402ec87c9a4b
+    name: Resource Index
     weight: 340
 type: courses
 layout: videogallery

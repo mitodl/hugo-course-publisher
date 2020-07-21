@@ -4,6 +4,7 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 45835dfcc452985714393b5178da3666
+    name: What is Programming?
     weight: 30
     parent: 71bd52f802118491207f722087127ab2
 ---

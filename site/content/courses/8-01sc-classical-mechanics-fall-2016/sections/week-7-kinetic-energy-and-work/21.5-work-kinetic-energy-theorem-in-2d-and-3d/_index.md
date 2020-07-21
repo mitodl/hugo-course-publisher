@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: be1a252808e7ef3378203d4b1748f6fe
+    name: 21.5 Work-Kinetic Energy Theorem in 2D and 3D
     weight: 1370
     parent: 1099b7667930f7e51cccc80d63899c02
 type: courses

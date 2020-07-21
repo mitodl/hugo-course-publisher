@@ -4,6 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-fall-2010
 menu:
   6-042j-mathematics-for-computer-science-fall-2010:
     identifier: 256d9b79e8b61d603b52b2d09a1736a8
+    name: Calendar
     weight: 20
 ---
 | LEC # | TOPICS | KEY DATES |

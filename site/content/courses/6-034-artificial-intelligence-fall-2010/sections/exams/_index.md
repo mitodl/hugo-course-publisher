@@ -4,6 +4,7 @@ course_id: 6-034-artificial-intelligence-fall-2010
 menu:
   6-034-artificial-intelligence-fall-2010:
     identifier: 03277b4c92af91b50815fe20702119a2
+    name: Exams
     weight: 140
 ---
 Fall 2010 Exams

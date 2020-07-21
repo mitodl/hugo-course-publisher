@@ -4,6 +4,7 @@ course_id: 8-591j-systems-biology-fall-2014
 menu:
   8-591j-systems-biology-fall-2014:
     identifier: d711409136157908241b6e081921581f
+    name: Assignments
     weight: 90
 ---
 | PROBLEM SETS |

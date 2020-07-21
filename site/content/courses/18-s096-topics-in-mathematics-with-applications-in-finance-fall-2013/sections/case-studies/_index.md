@@ -4,6 +4,7 @@ course_id: 18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013
 menu:
   18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013:
     identifier: 2b463a8a0a5209f138e5d6814ffaf688
+    name: Case Studies
     weight: 50
 ---
 Some of the case studies use R, a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. For more information and to download the software, visit The [R Project for Statistical Computing site](http://www.r-project.org/).

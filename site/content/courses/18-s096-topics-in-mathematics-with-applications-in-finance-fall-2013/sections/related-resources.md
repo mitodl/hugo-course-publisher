@@ -4,6 +4,7 @@ course_id: 18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013
 menu:
   18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013:
     identifier: afc5b70d0a56428ed5135c93b04cc74a
+    name: Related Resources
     weight: 90
 ---
 Useful Literature

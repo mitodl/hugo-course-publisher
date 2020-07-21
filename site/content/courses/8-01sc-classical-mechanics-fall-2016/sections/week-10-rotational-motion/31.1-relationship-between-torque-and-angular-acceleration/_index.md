@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 8aeb3db6496077bb75758a2fd60b6c7f
+    name: 'Lesson 31: Rotational Dynamics [31.1-31.7]'
     weight: 1960
     parent: 146d8dd77c99bbafceb8ed10af8bee47
 type: courses

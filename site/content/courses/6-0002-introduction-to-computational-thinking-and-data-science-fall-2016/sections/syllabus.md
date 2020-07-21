@@ -4,6 +4,7 @@ course_id: 6-0002-introduction-to-computational-thinking-and-data-science-fall-2
 menu:
   6-0002-introduction-to-computational-thinking-and-data-science-fall-2016:
     identifier: 6c01cda51eb2529df80a144c88f06849
+    name: Syllabus
     weight: 10
 ---
 Course Meeting Times

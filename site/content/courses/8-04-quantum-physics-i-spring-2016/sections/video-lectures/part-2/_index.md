@@ -4,6 +4,7 @@ course_id: 8-04-quantum-physics-i-spring-2016
 menu:
   8-04-quantum-physics-i-spring-2016:
     identifier: 47c9328d422d967423c384164ff51d36
+    name: Quantum Physics in One-dimensional Potentials
     weight: 60
     parent: fd67230c637e4133bfc507ab35776015
 type: courses

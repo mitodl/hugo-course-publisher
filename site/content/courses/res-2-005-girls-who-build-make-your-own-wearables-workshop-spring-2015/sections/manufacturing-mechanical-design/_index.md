@@ -4,6 +4,7 @@ course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-201
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: 9d919b61decdf95f4108ded3bef6c4dc
+    name: Manufacturing & Mechanical Design
     weight: 100
 ---
 Overview

@@ -4,6 +4,7 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 9bc913321f00f35265f3aede3364abeb
+    name: 'Lecture 5: Beat Phenomena'
     weight: 80
     parent: 6682a3d163976bcbb2fbe67db27d8f04
 type: courses

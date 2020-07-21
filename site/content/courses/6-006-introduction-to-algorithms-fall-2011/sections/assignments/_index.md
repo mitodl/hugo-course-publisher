@@ -4,6 +4,7 @@ course_id: 6-006-introduction-to-algorithms-fall-2011
 menu:
   6-006-introduction-to-algorithms-fall-2011:
     identifier: 7fd33342372155a25c910269de56eb8f
+    name: Assignments
     weight: 90
 ---
 6.006 students submitted their solutions using Gradetacular, which is not available through MIT OpenCourseWare. The solutions below contain all of the test data used by 6.006 staff, so you can use these files to grade your own code.

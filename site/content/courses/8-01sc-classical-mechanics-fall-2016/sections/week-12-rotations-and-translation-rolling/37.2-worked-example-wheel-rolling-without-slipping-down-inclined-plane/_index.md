@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 6dde6688f1fa20f2de5a06f1a9aa9665
+    name: 37.2 Worked Example - Wheel Rolling Without Slipping Down Incline
     weight: 2350
     parent: fbf76190d89eeed2930e51f9ac3bf2a6
 type: courses

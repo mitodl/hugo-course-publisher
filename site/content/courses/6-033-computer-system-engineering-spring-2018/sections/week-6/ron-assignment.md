@@ -4,6 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: c09c7d62696b071fffb088433fa31b32
+    name: RON Assignment
     weight: 310
     parent: 75800336c3a2ebee84a18bb126a5a60b
 ---

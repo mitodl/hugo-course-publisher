@@ -6,6 +6,9 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 9fb459369f44df97dad389bb5d1aa82c
+    name: >-
+      1.2 The Analytics Edge: Intelligence, Happiness, and Health  (Lecture
+      Sequence)
     weight: 80
     parent: bebdc8ab5b1f9682d6b762b671b5cf25
 type: courses

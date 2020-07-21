@@ -4,6 +4,7 @@ course_id: 18-02sc-multivariable-calculus-fall-2010
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: e20c7287dbfb8ff8c5a675c132a454cc
+    name: 3. Double Integrals and Line Integrals in the Plane
     weight: 680
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/exam-2/exam-materials/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/_index.md" %}}) »

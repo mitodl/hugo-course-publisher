@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 8488bde46909b726a411abeee039ef1a
+    name: Syllabus
     weight: 10
 type: courses
 layout: videogallery

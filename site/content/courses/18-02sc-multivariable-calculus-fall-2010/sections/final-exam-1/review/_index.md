@@ -4,6 +4,7 @@ course_id: 18-02sc-multivariable-calculus-fall-2010
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: d16553d30b552bab87a460f03b2e6366
+    name: Review
     weight: 1430
     parent: dd6fb5d90caac5e5061b3b20b27d5d15
 ---

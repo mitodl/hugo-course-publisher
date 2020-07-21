@@ -4,6 +4,7 @@ course_id: 16-121-analytical-subsonic-aerodynamics-fall-2017
 menu:
   16-121-analytical-subsonic-aerodynamics-fall-2017:
     identifier: ea6e8b31541775854c3047d34771a145
+    name: Assignments
     weight: 40
 ---
 There are only two problems for this course. They are listed below.

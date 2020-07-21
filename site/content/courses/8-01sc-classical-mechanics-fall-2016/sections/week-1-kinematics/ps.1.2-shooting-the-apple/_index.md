@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 3d4cf0c9ea1b525e0dda74b39d1080a8
+    name: PS.1.2 Shooting the Apple
     weight: 330
     parent: 63e325a780c79e352fb5bddb9b8b2c6a
 type: courses

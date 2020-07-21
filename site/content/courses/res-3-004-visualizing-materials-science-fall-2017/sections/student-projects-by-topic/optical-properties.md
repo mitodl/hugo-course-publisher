@@ -4,6 +4,7 @@ course_id: res-3-004-visualizing-materials-science-fall-2017
 menu:
   res-3-004-visualizing-materials-science-fall-2017:
     identifier: e82bf96174a9394ba378a97107a3ba23
+    name: Optical Properties
     weight: 450
     parent: f62d5df839342533e0228b16ea71313c
 ---

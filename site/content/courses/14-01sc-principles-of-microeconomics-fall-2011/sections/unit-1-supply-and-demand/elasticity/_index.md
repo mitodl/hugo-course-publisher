@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: e9dacfa6ab6fa244a25757f4d8b4b4f1
+    name: Elasticity
     weight: 60
     parent: 10bf5cbcf55318eeb09954ff31dafc1c
 type: courses

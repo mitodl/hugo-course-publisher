@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: df093ac7c42d8cf33aeb2ba906d4fedc
+    name: Instructor Insights
     weight: 330
 type: courses
 layout: videogallery

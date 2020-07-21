@@ -4,6 +4,7 @@ course_id: 6-002-circuits-and-electronics-spring-2007
 menu:
   6-002-circuits-and-electronics-spring-2007:
     identifier: 00ece47db258a468e01fc481743295a3
+    name: Calendar
     weight: 20
 ---
 The calendar provides information on the course's lecture (L), recitation (R), and quiz (Q) sessions.

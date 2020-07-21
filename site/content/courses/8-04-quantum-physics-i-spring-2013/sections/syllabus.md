@@ -4,6 +4,7 @@ course_id: 8-04-quantum-physics-i-spring-2013
 menu:
   8-04-quantum-physics-i-spring-2013:
     identifier: 552c603bf78eb3db703bf85e9773a9a8
+    name: Syllabus
     weight: 10
 ---
 Course Meeting Times

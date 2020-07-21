@@ -4,6 +4,7 @@ course_id: 15-401-finance-theory-i-fall-2008
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: fcc24add3c7bc945d80e38ca9e52d5dc
+    name: Recitations
     weight: 40
 ---
 Recitation slides are provided courtesy of course TA Yichuan Liu, and are used with permission.

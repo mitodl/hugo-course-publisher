@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 4e199c9d728f2361dba9e6d3e7975c88
+    name: 13.2 Differential Analysis of a Massive Rope
     weight: 830
     parent: 919a2c506eb4551d940bb0dbab2356f0
 type: courses

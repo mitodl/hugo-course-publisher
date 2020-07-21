@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 0a131ce58530cca6ffa83134297349da
+    name: Final Exam
     weight: 470
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-7-equity-and-efficiency/healthcare-economics" %}})

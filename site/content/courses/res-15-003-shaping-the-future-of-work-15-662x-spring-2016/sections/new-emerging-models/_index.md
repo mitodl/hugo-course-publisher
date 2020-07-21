@@ -4,6 +4,7 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 3540dcb6fb3e3c8efacac24bd7cb1835
+    name: 'Week 4: New Emerging Models'
     weight: 540
 ---
 *   [BackFor More Information...]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/innovations-in-the-1980s-and-beyond/for-more-information-1" %}})

@@ -4,6 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: ec31be5e21ec45ab3eab7ab45d2e85b7
+    name: 4.8 Random Walks & Pagerank
     weight: 2900
     parent: 90a207e82f8b3b1369067b58f9c6f169
 type: courses

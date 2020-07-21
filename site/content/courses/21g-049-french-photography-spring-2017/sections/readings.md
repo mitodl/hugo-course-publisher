@@ -4,6 +4,7 @@ course_id: 21g-049-french-photography-spring-2017
 menu:
   21g-049-french-photography-spring-2017:
     identifier: 6d4817abcde14cc274ce3a54c7243035
+    name: Readings
     weight: 30
 ---
 \[Myth\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0374532346/ref=nosim/mitopencourse-20) Barthes, Roland. Mythologies. 2nd ed. Translated by Richard Howard and Annette Lavers. Hill and Wang, 2012. ISBN: 9780374532345.

@@ -4,6 +4,7 @@ course_id: 18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013
 menu:
   18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013:
     identifier: 761a6c96fe7d0824528a490bc2252d5e
+    name: Projects
     weight: 80
 ---
 Sample Topics for the Final Paper

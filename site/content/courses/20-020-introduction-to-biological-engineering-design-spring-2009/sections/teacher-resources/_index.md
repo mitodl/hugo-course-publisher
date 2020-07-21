@@ -4,6 +4,7 @@ course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: b41a9c3e24b77fcdd44104c576e0f5d4
+    name: Teacher Resources
     weight: 310
 ---
 Dr. Kuldell would welcome your feedback on this course. Please use the Feedback link on this page to contact her via OCW.

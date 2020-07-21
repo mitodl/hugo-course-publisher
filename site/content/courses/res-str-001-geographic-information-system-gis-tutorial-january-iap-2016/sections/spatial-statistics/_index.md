@@ -4,6 +4,7 @@ course_id: res-str-001-geographic-information-system-gis-tutorial-january-iap-20
 menu:
   res-str-001-geographic-information-system-gis-tutorial-january-iap-2016:
     identifier: e50033f149a6f59d6646e17cae4d4fc2
+    name: Spatial Statistics
     weight: 30
 ---
 The following material was drawn from a workshop on Spatial Statistics given at MIT during IAP 2016 ![](/images/educator/icon-question-iap.png). It provides an introduction to spatial statistics and information on spatial autocorrelation, different conceptual models, data value measurement, regression analysis, and an exploration of problems that may arise. The workshop also featured two practice exercises, which can be found below.

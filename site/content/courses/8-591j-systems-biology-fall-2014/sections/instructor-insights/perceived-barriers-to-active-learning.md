@@ -4,6 +4,7 @@ course_id: 8-591j-systems-biology-fall-2014
 menu:
   8-591j-systems-biology-fall-2014:
     identifier: 15cd99a09dbc91ef52782c8a1f0e750c
+    name: Perceived Barriers to Active Learning
     weight: 50
     parent: b93901ceb2691028d9324ac654b23cf0
 ---

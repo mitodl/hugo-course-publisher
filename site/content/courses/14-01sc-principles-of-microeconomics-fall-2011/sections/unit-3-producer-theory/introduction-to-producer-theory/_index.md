@@ -4,6 +4,7 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: c282655da4961349b75e5b0e7692c61b
+    name: Introduction to Producer Theory
     weight: 170
     parent: 3abe52b206f4e0405bcb7ce684de6ae6
 type: courses

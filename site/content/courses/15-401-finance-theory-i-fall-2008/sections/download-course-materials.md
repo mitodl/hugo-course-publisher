@@ -4,6 +4,7 @@ course_id: 15-401-finance-theory-i-fall-2008
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: b6bda96268469f27a272613872f82793
+    name: null
     weight: 200
 ---
 This package contains the same content as the online version of the course.

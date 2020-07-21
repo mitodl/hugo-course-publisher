@@ -4,6 +4,7 @@ course_id: 8-04-quantum-physics-i-spring-2016
 menu:
   8-04-quantum-physics-i-spring-2016:
     identifier: 023ba68786a7e018674d9ae5887715ed
+    name: Assignments
     weight: 80
 ---
 [Problem Set 1 (PDF)]({{% getpage "courses/8-04-quantum-physics-i-spring-2016/sections/assignments/MIT8_04S16_ps1_2016" %}})

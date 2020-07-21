@@ -4,6 +4,7 @@ course_id: 6-002-circuits-and-electronics-spring-2007
 menu:
   6-002-circuits-and-electronics-spring-2007:
     identifier: 1ed78b87a5518c48b52c8a74a017d1bf
+    name: Tools
     weight: 80
 ---
 WebSim

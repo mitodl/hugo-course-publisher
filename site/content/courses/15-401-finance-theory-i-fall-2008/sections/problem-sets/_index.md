@@ -4,6 +4,7 @@ course_id: 15-401-finance-theory-i-fall-2008
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: c49086b5393127392fad42b6ea85a105
+    name: Problem Sets
     weight: 50
 ---
 Due to popular demand by OCW users, Professor Lo compiled the following problem sets and solutions. These materials were added in December 2019. All three sets of problems and the corresponding solutions are contained in the PDF below.

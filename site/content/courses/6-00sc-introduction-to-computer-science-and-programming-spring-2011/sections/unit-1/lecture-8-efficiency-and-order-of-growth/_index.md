@@ -4,6 +4,7 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 51a3082bb50bdc70f44fe076ffa558d6
+    name: Efficiency and Order of Growth
     weight: 120
     parent: 975ad7bfdd9c4ffe26b6710fa718d5e6
 type: courses

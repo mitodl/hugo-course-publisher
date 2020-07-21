@@ -4,6 +4,7 @@ course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
     identifier: 6a5f667b6fcaf0680ec8b203122154de
+    name: Fluid Mechanics
     weight: 130
 ---
 Instructor

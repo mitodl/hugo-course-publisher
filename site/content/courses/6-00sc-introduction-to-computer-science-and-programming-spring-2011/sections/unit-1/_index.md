@@ -4,6 +4,7 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 975ad7bfdd9c4ffe26b6710fa718d5e6
+    name: Unit 1
     weight: 40
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/references" %}}) | [Next](.{{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-1-introduction-to-6.00/_index.md" %}}) »

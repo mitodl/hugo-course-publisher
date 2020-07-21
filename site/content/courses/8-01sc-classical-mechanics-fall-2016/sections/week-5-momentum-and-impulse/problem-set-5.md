@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: ba6a17ec2a64e57634b00dd9fd6b8ab2
+    name: Problem Set 5
     weight: 1080
     parent: c1168b62a27dcf9f3fe2550af1ed72f5
 ---

@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 3117641223becbd3e6d5c694174cdbcf
+    name: 31.7 Worked Example - Two Blocks and a Pulley Using Energy
     weight: 2020
     parent: 146d8dd77c99bbafceb8ed10af8bee47
 type: courses

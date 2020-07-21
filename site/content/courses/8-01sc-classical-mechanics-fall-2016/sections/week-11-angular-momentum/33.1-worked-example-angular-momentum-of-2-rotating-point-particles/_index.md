@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 4dda04abf172a5441f39111d35ef45b3
+    name: 'Lesson 33: Angular Momentum of a Rigid Body [33.1-33.5]'
     weight: 2110
     parent: d36579bd7dfcb71f76178b4b8d45c312
 type: courses

@@ -4,6 +4,7 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 81aa80d14f27c72e1dd074d022a27aaa
+    name: Warm-up
     weight: 160
     parent: 18645230e50f3945e34d99f24f40ca3a
 ---

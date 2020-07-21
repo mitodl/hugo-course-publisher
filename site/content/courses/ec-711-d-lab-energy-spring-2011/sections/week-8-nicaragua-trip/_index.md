@@ -4,6 +4,7 @@ course_id: ec-711-d-lab-energy-spring-2011
 menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: fb9d6e56eac497fb24b46d3ac31a62da
+    name: Community Partner Trips
     weight: 180
 type: courses
 layout: videogallery

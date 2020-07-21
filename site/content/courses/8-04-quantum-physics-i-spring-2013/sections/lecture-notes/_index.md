@@ -4,6 +4,7 @@ course_id: 8-04-quantum-physics-i-spring-2013
 menu:
   8-04-quantum-physics-i-spring-2013:
     identifier: 63edb0d21a976ed4f730488186611a35
+    name: Lecture Notes
     weight: 40
 ---
 A partial set of Prof. Adams' lecture notes are currently available to OCW users.

@@ -4,6 +4,7 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 1d7068b5ce8d3b56622ae79682a1dd43
+    name: Fractals and Chaos
     weight: 200
 ---
 ![Graph of a Mandelbrot fractal.](https://open-learning-course-data-ci.s3.amazonaws.com/18-s997-introduction-to-matlab-programming-fall-2011/d647c10a8ecf3544d49f7aa60b9387d1_Unit_5_image.JPG)  

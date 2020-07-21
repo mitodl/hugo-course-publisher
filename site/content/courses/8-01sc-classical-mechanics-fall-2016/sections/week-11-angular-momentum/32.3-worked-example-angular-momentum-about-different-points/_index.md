@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 884110c0b77ae3a5d780c9d382fb5a33
+    name: 32.3 Worked Example - Angular Momentum About Different Points
     weight: 2090
     parent: d36579bd7dfcb71f76178b4b8d45c312
 type: courses

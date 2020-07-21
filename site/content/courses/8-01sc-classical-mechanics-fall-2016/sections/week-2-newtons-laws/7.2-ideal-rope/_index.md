@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 96bcf9f70c9bc9fbed7446f09a029c49
+    name: 7.2 Ideal Rope
     weight: 500
     parent: cf6d9ae85d7b6e788f1e70cf24afc329
 type: courses

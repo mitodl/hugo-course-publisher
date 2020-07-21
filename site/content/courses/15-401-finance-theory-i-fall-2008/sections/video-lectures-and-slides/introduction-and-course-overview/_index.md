@@ -4,6 +4,7 @@ course_id: 15-401-finance-theory-i-fall-2008
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: 4e09a61960e1e86a14bfd569cd4ed50e
+    name: Introduction and Course Overview
     weight: 80
     parent: cc3f05d9f4e44ed3db60b79712de51f4
 type: courses

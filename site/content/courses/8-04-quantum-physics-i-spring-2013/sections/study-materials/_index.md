@@ -4,6 +4,7 @@ course_id: 8-04-quantum-physics-i-spring-2013
 menu:
   8-04-quantum-physics-i-spring-2013:
     identifier: f03b3c6edce475bafd1cf3a7d18c8a99
+    name: Study Materials
     weight: 80
 ---
 **Mathematica Notebooks** (These files were used by Prof. Adams during lecture sessions.)

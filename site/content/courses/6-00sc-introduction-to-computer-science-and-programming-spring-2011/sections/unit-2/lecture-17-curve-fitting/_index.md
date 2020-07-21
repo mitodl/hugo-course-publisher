@@ -4,6 +4,7 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: e632ebd50e8f47bb2666d9152f62e9e4
+    name: Curve Fitting
     weight: 230
     parent: ddc5db7a5c64e3bda565b36f4ed76287
 type: courses

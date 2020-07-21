@@ -4,6 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: c71831d1bf7eac4ff0e021abe0cb6641
+    name: 11.2 Worked Example - Car on a Banked Turn
     weight: 710
     parent: 3c7d357cbb95e729679b539d23714ede
 type: courses

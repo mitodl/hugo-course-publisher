@@ -4,6 +4,7 @@ course_id: 8-591j-systems-biology-fall-2014
 menu:
   8-591j-systems-biology-fall-2014:
     identifier: 84eb1e49cca06c0161534f50406442d1
+    name: Readings
     weight: 60
 ---
 To facilitate interactions during class between students, there are short required [questions]({{% getpage "courses/8-591j-systems-biology-fall-2014/sections/pre-class-reading-questions" %}}) about the reading that will be due before class.

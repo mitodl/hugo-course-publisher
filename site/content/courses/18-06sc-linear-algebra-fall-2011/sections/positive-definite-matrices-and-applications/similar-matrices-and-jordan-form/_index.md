@@ -4,6 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: b358f2d2863654b7503b47b34cc0953a
+    name: Similar Matrices and Jordan Form
     weight: 400
     parent: 34f596bc232822be5fba75646f6970c5
 type: courses

@@ -4,6 +4,7 @@ course_id: res-6-004-principles-of-computer-system-design-an-introduction-spring
 menu:
   res-6-004-principles-of-computer-system-design-an-introduction-spring-2009:
     identifier: b4e8d5a90bdf6cd9d3f9716855fa7b12
+    name: Online Textbook
     weight: 10
 ---
 Guide to Parts I & II

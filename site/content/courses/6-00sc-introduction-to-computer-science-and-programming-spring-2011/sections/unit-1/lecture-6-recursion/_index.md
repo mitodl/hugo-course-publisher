@@ -4,6 +4,7 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 99fb7e49022e2ef590b8a591159332ed
+    name: Recursion
     weight: 100
     parent: 975ad7bfdd9c4ffe26b6710fa718d5e6
 type: courses
