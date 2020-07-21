@@ -11,7 +11,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous](./resolveuid/8f538d2a785ea37ad30133ad74e8e40e) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus/about-the-team/_index.md" %}}) »
+« [Previous](/courses/8-01sc-classical-mechanics-fall-2016) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus/about-the-team/_index.md" %}}) »
 
 Video Introduction by Prof. Deepto Chakrabarty and Dr. Peter Dourmashkin
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ Problem Solving: 1 session / week, 1 hour / session
 Prerequisites
 -------------
 
-This course has no prerequisites. [_18.01SC Single Variable Calculus_](./resolveuid/bfe41979b9593362793fd930b36efa01) is a corequisite.
+This course has no prerequisites. [_18.01SC Single Variable Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010) is a corequisite.
 
 Course Overview
 ---------------
@@ -97,4 +97,4 @@ Scientists and engineers work in groups as well as alone. Social interactions ar
 
 You will form groups of three for collaborative work. If you are not satisfied with the way your group is working, first try to discuss it with your group members. If you cannot arrive at a satisfactory solution, then discuss the problems with your instructor.
 
-« [Previous](./resolveuid/8f538d2a785ea37ad30133ad74e8e40e) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus/about-the-team/_index.md" %}}) »
+« [Previous](/courses/8-01sc-classical-mechanics-fall-2016) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus/about-the-team/_index.md" %}}) »

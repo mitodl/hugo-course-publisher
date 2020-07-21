@@ -9,7 +9,7 @@ menu:
     name: Syllabus
     weight: 10
 ---
-« [Previous](./resolveuid/4b83661227b2af6d81ff5f4ca0082540) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/instructor-insights/_index.md" %}}) »
+« [Previous](/courses/5-111sc-principles-of-chemical-science-fall-2014) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/instructor-insights/_index.md" %}}) »
 
 Overview
 --------
@@ -90,4 +90,4 @@ Clickers (student response devices) are used in the on-campus classroom during l
 3.  Reward students that consistently come to class and participate. This allows students on the borderline between two grades to be pushed into the higher grade category based on excellent effort. In addition, because attendance is taken automatically by clicker, the instructors can post lecture notes online without worrying that students are being tempted to skip class.
 4.  Create an interactive lecture and promote team building within recitation sections. Clicker competitions between recitation groups motivate students to work together to learn the material. Winning clicker competitions does not affect students’ grades, but there are small prizes (usually snacks) for the winning recitation teams.
 
-« [Previous](./resolveuid/4b83661227b2af6d81ff5f4ca0082540) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/instructor-insights/_index.md" %}}) »
+« [Previous](/courses/5-111sc-principles-of-chemical-science-fall-2014) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/instructor-insights/_index.md" %}}) »

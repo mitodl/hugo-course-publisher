@@ -28,7 +28,7 @@ The subject coverage is divided into three parts:
 Prerequisite
 ------------
 
-The prerequisite is [_18.01 Single Variable Calculus_](./resolveuid/bfe41979b9593362793fd930b36efa01). In particular, some familiarity with sequences and series, limits, and differentiation and integration of functions of one variable are necessary.
+The prerequisite is [_18.01 Single Variable Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010). In particular, some familiarity with sequences and series, limits, and differentiation and integration of functions of one variable are necessary.
 
 Objectives
 ----------
