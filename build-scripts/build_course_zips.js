@@ -26,7 +26,7 @@ if (directoryExists(distPath) && directoryExists(coursesPath)) {
       file: (root, fileStats, next) => {
         // add each file to a list
         baseSiteFiles.push({
-          root: root, 
+          root: root,
           name: fileStats.name
         })
         next()
@@ -58,7 +58,9 @@ if (directoryExists(distPath) && directoryExists(coursesPath)) {
                 next()
               },
               end: () => {
-                const output = fs.createWriteStream(path.join(zipsPath, `${course}.zip`))
+                const output = fs.createWriteStream(
+                  path.join(zipsPath, `${course}.zip`)
+                )
                 archive.pipe(output)
                 archive.finalize()
                 progressBar.increment()
