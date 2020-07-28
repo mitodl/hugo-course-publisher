@@ -4,6 +4,8 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 3063320a41756b8a4fa9892f61b52c0d
+    type: section
+    layout: section
     name: '3.2 Modeling the Expert: An Introduction to Logistic Regression'
     weight: 790
     parent: c4464cf49ddb1a4bc78cfaa6f93b74de

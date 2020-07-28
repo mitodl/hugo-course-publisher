@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: res-3-004-visualizing-materials-science-fall-2017
 course_title: Visualizing Materials Science
 course_image_url: >-

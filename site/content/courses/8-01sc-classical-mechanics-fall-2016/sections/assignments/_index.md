@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 14fc866ff60fc69f19eb4338bbc87675
+    type: section
+    layout: section
     name: Assignments
     weight: 40
 ---

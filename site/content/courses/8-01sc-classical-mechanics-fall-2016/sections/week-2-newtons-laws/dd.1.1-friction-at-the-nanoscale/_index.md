@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 9645d508f2f591c3d28668b53745d928
+    type: section
+    layout: section
     name: 'Deep Dive: Friction [DD 1.1]'
     weight: 530
     parent: cf6d9ae85d7b6e788f1e70cf24afc329

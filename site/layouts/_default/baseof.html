@@ -1,16 +1,72 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode | default "en-us" }}">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>{{ .Title }}</title>
-	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-</head>
-<body>
-	{{ partial "header" . }}
-	{{ block "main" . }}{{ end }}
-	{{ partial "footer" . }}
-</body>
+<!doctype html>
+<html lang="{{ $.Site.Language.Lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>{{ $.Site.Title }}</title>
+    {{ $stylesheet := .Site.Data.webpack.main }}
+    {{ if .Site.IsServer }}
+      <link href="{{ print "http://localhost:3001" $stylesheet.css  }}" rel="stylesheet">
+    {{ else }}
+      <link href="{{ relURL $stylesheet.css }}" rel="stylesheet">
+    {{ end }}
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="overflow-auto">
+      {{ partial "mobile_nav.html" . }}
+      {{ partial "mobile_course_info.html" . }}
+      {{ block "header" . }}{{ partial "header" . }}{{end}}
+      {{ if not (eq .Params.type "course_home") }}
+      <div class="mobile-course-info-toggle medium-and-below-only bg-light shadow-sm border border-right-0 rounded-left">
+        <div
+          id="toggle"
+          class="btn px-2 m-0 navbar-toggle offcanvas-toggle text-uppercase font-weight-bold"
+          data-toggle="offcanvas"
+          data-target="#course-info-drawer"
+          >
+          Course Info
+        </div>
+      </div>
+      {{ end}}
+      <div class="container-fluid">
+        <div class="row outer-wrapper">
+          {{ partial "desktop_nav.html" . }}
+          <div class="left-col-bg"></div>
+          <div id="main-content-wrapper" class="col-lg-9 p-0 bg-white">
+            <main aria-role="main">
+              <div class="container-fluid p-0">
+                <div class="row m-0">
+                  <div class="col-12 col-lg-8 col-xl-8 px-3 px-md-5 mt-3 mt-lg-6">
+                    {{ block "main" . }}{{end}}
+                  </div>
+                  <div class="col-12 col-lg-4 col-xl-4 px-6 mt-6 large-and-above-only border-left-light">
+                    {{ partial "course_info.html" . }}
+                  </div>
+                </div>
+              </div>
+            </main>
+          </div>
+        </div>
+      </div>
+      {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+      <script>
+      window.MathJax = {
+        TeX:           { equationNumbers: { autoNumber: "AMS" } },
+        displayAlign:  "left",
+        displayIndent: "2em",
+        menuSettings:  { zoom: "Double-Click", mpContext: true, mpMouse: true },
+        errorSettings: { message: ["[Math Error]"] }
+      }
+      </script>
+      {{ $main := .Site.Data.webpack.main }}
+      {{ $mathjax := .Site.Data.webpack.mathjax }}
+      {{ if .Site.IsServer }}
+        <script src="{{ print "http://localhost:3001" $main.js }}"></script>
+        <script src="{{ print "http://localhost:3001/mathjax/tex-svg.js" }}"></script>
+      {{ else }}
+        <script src="{{ relURL $main.js }}"></script>
+        <script src="{{ relURL "mathjax/tex-svg.js" }}" defer></script>
+      {{ end }}
+  </body>
 </html>

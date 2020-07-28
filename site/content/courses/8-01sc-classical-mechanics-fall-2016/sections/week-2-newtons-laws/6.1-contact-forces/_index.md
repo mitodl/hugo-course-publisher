@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: d1968a61bae60ee989bcbb1908425c38
+    type: section
+    layout: section
     name: 'Lesson 6: Contact Forces [6.1-6.2]'
     weight: 470
     parent: cf6d9ae85d7b6e788f1e70cf24afc329

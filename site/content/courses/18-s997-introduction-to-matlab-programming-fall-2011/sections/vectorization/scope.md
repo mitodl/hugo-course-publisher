@@ -4,6 +4,8 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 9feb7d76e06d418fa3792948357f1bec
+    type: section
+    layout: section
     name: Scope
     weight: 190
     parent: 18645230e50f3945e34d99f24f40ca3a

@@ -4,6 +4,8 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: b882122b9e06c5d661c97ce3e39fcf07
+    type: section
+    layout: section
     name: Critique Assignment 2
     weight: 220
     parent: 0466ee2b5ebb72d0ad4f7badf3b6c645

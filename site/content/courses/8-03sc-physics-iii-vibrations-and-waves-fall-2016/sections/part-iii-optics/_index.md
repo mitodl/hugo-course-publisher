@@ -4,6 +4,8 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 562065223db4e5d13c0186ef14e4db6a
+    type: section
+    layout: section
     name: 'Part III: Optics'
     weight: 220
 ---

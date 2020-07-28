@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: fa64fe6487b47146141a6e35eb5cb93c
+    type: section
+    layout: section
     name: 'DD.2.4 Worked Example: 1D Elastic Collision in CM'
     weight: 1750
     parent: bc33ee80c8fd90e4dfda7092ddd24879

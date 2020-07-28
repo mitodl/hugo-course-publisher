@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 3c7d357cbb95e729679b539d23714ede
+    type: section
+    layout: section
     name: 'Week 3: Circular Motion'
     weight: 580
 ---

@@ -4,6 +4,8 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 5f95245a6d5e2d61826e4de065f39fcc
+    type: section
+    layout: section
     name: 'Week 7: Student Reports on Their Plans for Action'
     weight: 710
 ---

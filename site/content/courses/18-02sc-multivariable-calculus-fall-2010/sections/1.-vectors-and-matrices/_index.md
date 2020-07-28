@@ -4,6 +4,8 @@ course_id: 18-02sc-multivariable-calculus-fall-2010
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: 670edba62cf4bbd8353793d6e066fb6c
+    type: section
+    layout: section
     name: 1. Vectors and Matrices
     weight: 20
 ---

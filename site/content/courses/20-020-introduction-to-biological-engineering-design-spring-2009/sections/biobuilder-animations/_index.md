@@ -4,6 +4,8 @@ course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: 31a53ae48080e2e123cc03ee978bb1bd
+    type: section
+    layout: section
     name: BioBuilder Animations
     weight: 320
 type: courses

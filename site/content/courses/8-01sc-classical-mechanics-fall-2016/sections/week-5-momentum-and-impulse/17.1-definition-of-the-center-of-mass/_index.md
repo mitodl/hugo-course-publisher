@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 656d7d883df9734990b5f657ebd9509a
+    type: section
+    layout: section
     name: 'Lesson 17: Center of Mass and Motion [17.1-17.7]'
     weight: 1010
     parent: c1168b62a27dcf9f3fe2550af1ed72f5

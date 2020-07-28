@@ -4,6 +4,8 @@ course_id: 18-06-linear-algebra-spring-2010
 menu:
   18-06-linear-algebra-spring-2010:
     identifier: b5785e071ddb991cf3dfd7cc469e6397
+    type: section
+    layout: section
     name: Tools
     weight: 90
 ---

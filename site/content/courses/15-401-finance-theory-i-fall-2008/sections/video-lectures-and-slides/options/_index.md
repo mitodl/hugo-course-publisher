@@ -4,6 +4,8 @@ course_id: 15-401-finance-theory-i-fall-2008
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: dcbca71781722df95972c7b3e9abe284
+    type: section
+    layout: section
     name: Options
     weight: 130
     parent: cc3f05d9f4e44ed3db60b79712de51f4

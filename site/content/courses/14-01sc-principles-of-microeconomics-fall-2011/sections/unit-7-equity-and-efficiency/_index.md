@@ -4,6 +4,8 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: c94fdf9054571202c278c37041d32e5c
+    type: section
+    layout: section
     name: 'Unit 7: Equity and Efficiency'
     weight: 410
 ---

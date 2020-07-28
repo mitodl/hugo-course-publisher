@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: d993643fdf0ae364c29ad9cf58089992
+    type: section
+    layout: section
     name: 13.6 Summary of Differential Analysis
     weight: 870
     parent: 919a2c506eb4551d940bb0dbab2356f0

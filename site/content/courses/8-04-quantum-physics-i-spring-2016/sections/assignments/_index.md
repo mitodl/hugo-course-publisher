@@ -4,6 +4,8 @@ course_id: 8-04-quantum-physics-i-spring-2016
 menu:
   8-04-quantum-physics-i-spring-2016:
     identifier: 023ba68786a7e018674d9ae5887715ed
+    type: section
+    layout: section
     name: Assignments
     weight: 80
 ---

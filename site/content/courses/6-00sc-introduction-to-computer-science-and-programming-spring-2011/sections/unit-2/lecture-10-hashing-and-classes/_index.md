@@ -4,6 +4,8 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 174105568f302907b32746f2da54236f
+    type: section
+    layout: section
     name: Hashing and Classes
     weight: 160
     parent: ddc5db7a5c64e3bda565b36f4ed76287

@@ -4,6 +4,8 @@ course_id: 5-111sc-principles-of-chemical-science-fall-2014
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 5089c39352dc3641930e0a0402373e96
+    type: section
+    layout: section
     name: Syllabus
     weight: 10
 ---

@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 4949b0401b5324465ed82aa4dcae6a93
+    type: section
+    layout: section
     name: 29.4 Parallel Axis Theorem
     weight: 1880
     parent: 146d8dd77c99bbafceb8ed10af8bee47

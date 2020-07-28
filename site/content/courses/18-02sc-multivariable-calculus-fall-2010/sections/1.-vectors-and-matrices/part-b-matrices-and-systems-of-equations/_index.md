@@ -4,6 +4,8 @@ course_id: 18-02sc-multivariable-calculus-fall-2010
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: 5785559cca754f05db711c0de8a26bc4
+    type: section
+    layout: section
     name: 'Part B: Matrices and Systems of Equations'
     weight: 130
     parent: 670edba62cf4bbd8353793d6e066fb6c

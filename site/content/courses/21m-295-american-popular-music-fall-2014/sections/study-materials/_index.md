@@ -4,6 +4,8 @@ course_id: 21m-295-american-popular-music-fall-2014
 menu:
   21m-295-american-popular-music-fall-2014:
     identifier: 0083b1a09f76a18a6e1ba60cd2ca1cfd
+    type: section
+    layout: section
     name: Study Materials
     weight: 50
 ---

@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 919a2c506eb4551d940bb0dbab2356f0
+    type: section
+    layout: section
     name: 'Week 4: Drag Forces, Constraints and Continuous Systems'
     weight: 750
 ---

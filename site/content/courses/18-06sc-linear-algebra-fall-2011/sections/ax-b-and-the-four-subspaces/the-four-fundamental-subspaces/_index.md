@@ -4,6 +4,8 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 0050fe07f47ab375ac0f3abe492f8ae1
+    type: section
+    layout: section
     name: The Four Fundamental Subspaces
     weight: 140
     parent: 34303ce19b45724122d2bd33d64df688

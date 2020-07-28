@@ -4,6 +4,8 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 7aadf9349df8d886646255a5ab83e424
+    type: section
+    layout: section
     name: Final Exam
     weight: 350
 ---

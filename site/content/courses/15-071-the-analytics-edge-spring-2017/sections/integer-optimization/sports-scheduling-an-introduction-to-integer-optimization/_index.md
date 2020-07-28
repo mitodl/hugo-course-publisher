@@ -4,6 +4,8 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: fbf2b7049246466ef24736bff248b7c3
+    type: section
+    layout: section
     name: '9.2 Sports Scheduling: An Introduction to Integer Optimization '
     weight: 3050
     parent: db42b40ad705f431a7e23a1d11cec341

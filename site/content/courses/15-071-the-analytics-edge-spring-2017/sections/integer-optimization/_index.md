@@ -4,6 +4,8 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: db42b40ad705f431a7e23a1d11cec341
+    type: section
+    layout: section
     name: 'Unit 9: Integer Optimization'
     weight: 3030
 ---

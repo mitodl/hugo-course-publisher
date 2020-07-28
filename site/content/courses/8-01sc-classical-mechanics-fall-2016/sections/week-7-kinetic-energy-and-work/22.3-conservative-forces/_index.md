@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 41d6991ecf40cacd171348f7b19ed23f
+    type: section
+    layout: section
     name: 22.3 Conservative Forces
     weight: 1410
     parent: 1099b7667930f7e51cccc80d63899c02

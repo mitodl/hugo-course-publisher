@@ -4,6 +4,8 @@ course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 menu:
   8-02-physics-ii-electricity-and-magnetism-spring-2007:
     identifier: ac0248111c7546a6f9a6435379cca7f3
+    type: section
+    layout: section
     name: Faraday's Law
     weight: 130
     parent: ea1fcef11143e57e2f48a97bf8747dc2

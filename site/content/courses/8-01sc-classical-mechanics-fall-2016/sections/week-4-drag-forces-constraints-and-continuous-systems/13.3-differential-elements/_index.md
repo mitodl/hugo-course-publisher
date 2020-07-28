@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 83cd4499a13278b877b6074b49f8e618
+    type: section
+    layout: section
     name: 13.3 Differential Elements
     weight: 840
     parent: 919a2c506eb4551d940bb0dbab2356f0

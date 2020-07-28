@@ -4,6 +4,8 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: d7e80479aaf338d9e79eb2f538c418b3
+    type: section
+    layout: section
     name: DNSSEC Assignment
     weight: 570
     parent: 463ad0d7960d0f16fac5ad1eab91ef20

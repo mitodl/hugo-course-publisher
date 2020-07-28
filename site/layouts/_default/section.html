@@ -1,6 +1,5 @@
 {{ define "main" }}
-{{ $course_home := printf "%s/%s/%s" "courses" .CurrentSection.Params.course_id "_index.md" }}
-{{ if eq .File.Path $course_home }}
+{{ if eq .Params.type "course_home" }}
 <div class="homepage-content d-flex">
   <div class="container-fluid pt-0 pb-4">
     <div class="row px-3 pb-2 justify-content-between">
@@ -14,11 +13,26 @@
     <h5 class="font-weight-bold pt-2">Course Description</h5>
     <div class="mb-3 course-description">{{- .Content -}}</div>
     <div class="medium-and-below-only">
-      {{ partial "course_info.html" .CurrentSection }}
+      {{ partial "course_info.html" .FirstSection }}
     </div>
   </div>
   <img class="w-25 course-image img-thumbnail large-and-above-only h-100" src="{{ relURL .CurrentSection.Params.course_image_url }}" />
 </div>
+{{ else if eq .Params.type "courseindex" }}
+  TEST
+  {{ range .Pages }}
+    <li style="padding-bottom: 5px;">
+      <a href="{{.Permalink}}">
+        {{- range $index, $course_number := .Params.course_info.course_numbers -}}
+        {{- if $index -}},&nbsp;{{- end -}}
+          {{- $course_number -}}
+        {{- end -}}&nbsp;-&nbsp;
+        {{ .Params.course_title}}</a>
+      <div class="pb-2">
+      {{ index .Site.Data.course_annotations .Params.course_id }}
+      </div>
+    </li>
+  {{ end }}
 {{ else }}
 {{ partial "course_section.html" . }}
 {{ end }}

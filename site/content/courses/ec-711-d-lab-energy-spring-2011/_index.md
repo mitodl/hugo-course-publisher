@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: ec-711-d-lab-energy-spring-2011
 course_title: 'D-Lab: Energy'
 course_image_url: >-

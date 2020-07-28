@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 62e5f5c1a360761ecc39c63c99de3ea7
+    type: section
+    layout: section
     name: 'Lesson 24: Conservation of Energy [24.1-24.4]'
     weight: 1530
     parent: 1394998143efcc493f7c98265cfbd3ae

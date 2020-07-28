@@ -5,6 +5,8 @@ course_id: >-
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: d8c0d81b2a38c0d7c4ff4a8cfacacb2d
+    type: section
+    layout: section
     name: 'Day 7: Table-read and Post-production'
     weight: 200
 type: courses

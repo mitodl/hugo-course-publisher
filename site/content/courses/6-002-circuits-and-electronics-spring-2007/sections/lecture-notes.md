@@ -4,6 +4,8 @@ course_id: 6-002-circuits-and-electronics-spring-2007
 menu:
   6-002-circuits-and-electronics-spring-2007:
     identifier: 01eae522d85d5ca73d9fbf9b614500cc
+    type: section
+    layout: section
     name: Lecture Notes
     weight: 30
 ---

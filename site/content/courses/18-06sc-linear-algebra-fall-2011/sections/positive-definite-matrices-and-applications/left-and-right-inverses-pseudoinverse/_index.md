@@ -4,6 +4,8 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: ab040c1791a2dbfe0cb975cf0190634f
+    type: section
+    layout: section
     name: Left and Right Inverses; Pseudoinverse
     weight: 440
     parent: 34f596bc232822be5fba75646f6970c5

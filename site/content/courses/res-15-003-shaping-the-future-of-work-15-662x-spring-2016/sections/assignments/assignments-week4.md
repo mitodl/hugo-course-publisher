@@ -4,6 +4,8 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 2cdcffb4876cb13683212e200c572bfc
+    type: section
+    layout: section
     name: Week 4 Assignments
     weight: 140
     parent: 94fe577d947e50f0ad69b2b814bc701f

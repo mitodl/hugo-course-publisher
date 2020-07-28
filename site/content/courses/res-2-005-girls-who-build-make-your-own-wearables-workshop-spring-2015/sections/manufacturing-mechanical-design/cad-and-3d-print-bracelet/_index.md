@@ -4,6 +4,8 @@ course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-201
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: edea5924f3ed6730a8e8b5fd50ce3eb2
+    type: section
+    layout: section
     name: CAD and 3D Print Bracelet
     weight: 110
     parent: 9d919b61decdf95f4108ded3bef6c4dc

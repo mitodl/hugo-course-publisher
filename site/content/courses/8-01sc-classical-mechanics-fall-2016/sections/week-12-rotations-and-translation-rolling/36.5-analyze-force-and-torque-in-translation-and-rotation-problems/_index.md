@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 015115c3d5ffc9f4317b0749ccfbd35d
+    type: section
+    layout: section
     name: 36.5 Analyze Force and Torque in Translation and Rotation Problem
     weight: 2330
     parent: fbf76190d89eeed2930e51f9ac3bf2a6

@@ -4,6 +4,8 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: d23c09ff9de9dc9cb98905d72c54fd66
+    type: section
+    layout: section
     name: 'Week 2: Operating Systems II'
     weight: 80
 ---

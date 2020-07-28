@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: 18-01sc-single-variable-calculus-fall-2010
 course_title: Single Variable Calculus
 course_image_url: >-

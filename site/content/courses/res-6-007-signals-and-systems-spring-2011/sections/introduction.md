@@ -4,6 +4,8 @@ course_id: res-6-007-signals-and-systems-spring-2011
 menu:
   res-6-007-signals-and-systems-spring-2011:
     identifier: d32b684bed06e8e654152f5dcf819873
+    type: section
+    layout: section
     name: Introduction
     weight: 10
 ---

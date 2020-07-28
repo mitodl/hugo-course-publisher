@@ -4,6 +4,8 @@ course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: f46140cde86ad79a318fba9b9f2dbf04
+    type: section
+    layout: section
     name: Assignments
     weight: 170
 ---

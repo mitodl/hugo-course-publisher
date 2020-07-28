@@ -1,8 +1,6 @@
 ---
-title: ps8.pdf
-description: >-
-  This resource provides information about the reading assignment, useful facts
-  and 6 problems for assignment 8.
+title: Assignment 8
+description: "Problem set on quantum physics. Problems include: Using the semiclassical approximation on the ground state, quantum mechanics of a bouncing ball, application of the semiclassical method to the double well potential, vibrational and rotational spectra in the Born­-Oppenheimer approximation, adiabatic spin rotation, and engineering adiabatic transitions.\r\n\r\n"
 type: courses
 layout: pdf
 uid: e234a78344a1de8b64e352d1646d4d22

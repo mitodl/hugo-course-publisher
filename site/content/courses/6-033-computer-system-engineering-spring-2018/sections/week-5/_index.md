@@ -4,6 +4,8 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: a8eaa3de11de35a2f8d6b2d186c97fc6
+    type: section
+    layout: section
     name: 'Week 5: Networking I'
     weight: 230
 ---

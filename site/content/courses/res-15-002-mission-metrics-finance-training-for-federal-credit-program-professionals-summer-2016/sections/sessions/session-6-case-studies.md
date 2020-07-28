@@ -5,6 +5,8 @@ course_id: >-
 menu:
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016:
     identifier: 856a783832ca9db79ae5863e83acc3cc
+    type: section
+    layout: section
     name: 'Session 6: Case Studies'
     weight: 90
     parent: c5cf8c5e59b0bc3e51ba6284d467e6d6

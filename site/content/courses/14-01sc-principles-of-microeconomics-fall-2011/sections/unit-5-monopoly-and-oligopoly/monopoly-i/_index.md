@@ -4,6 +4,8 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 617ef7a25dbc5b46dc2f8d1834973f63
+    type: section
+    layout: section
     name: Monopoly I
     weight: 270
     parent: 51ebf00753b9a85af746a5c03a54785d

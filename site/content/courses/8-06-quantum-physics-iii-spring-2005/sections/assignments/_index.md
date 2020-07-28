@@ -4,6 +4,8 @@ course_id: 8-06-quantum-physics-iii-spring-2005
 menu:
   8-06-quantum-physics-iii-spring-2005:
     identifier: 1f3f9318a2a3961b9631e30a0ce813a1
+    type: section
+    layout: section
     name: Assignments
     weight: 40
 ---

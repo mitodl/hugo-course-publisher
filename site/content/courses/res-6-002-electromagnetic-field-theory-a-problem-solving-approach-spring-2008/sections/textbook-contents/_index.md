@@ -4,6 +4,8 @@ course_id: res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spr
 menu:
   res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008:
     identifier: 781cf7ce5cfceea8d860cb2207a215cd
+    type: section
+    layout: section
     name: Textbook contents
     weight: 20
 ---

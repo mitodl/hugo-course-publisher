@@ -4,6 +4,8 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: f5c6f67632a0d7e7bcdfbc97569b662f
+    type: section
+    layout: section
     name: Exam 1
     weight: 180
     parent: 34303ce19b45724122d2bd33d64df688

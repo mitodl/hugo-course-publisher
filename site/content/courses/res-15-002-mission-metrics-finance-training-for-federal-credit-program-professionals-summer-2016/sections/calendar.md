@@ -5,6 +5,8 @@ course_id: >-
 menu:
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016:
     identifier: 95a3d99b4964c421a20eeb84f9477109
+    type: section
+    layout: section
     name: Calendar
     weight: 20
 ---

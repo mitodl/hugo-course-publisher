@@ -4,6 +4,8 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: a56e8e068426107ca093c76e207364bd
+    type: section
+    layout: section
     name: Variables
     weight: 60
     parent: 71bd52f802118491207f722087127ab2

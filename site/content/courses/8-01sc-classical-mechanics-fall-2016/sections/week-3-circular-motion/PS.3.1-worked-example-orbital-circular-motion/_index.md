@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 938ca53be5bedb207d92fe94493d1b80
+    type: section
+    layout: section
     name: Week 3 Worked Example
     weight: 730
     parent: 3c7d357cbb95e729679b539d23714ede

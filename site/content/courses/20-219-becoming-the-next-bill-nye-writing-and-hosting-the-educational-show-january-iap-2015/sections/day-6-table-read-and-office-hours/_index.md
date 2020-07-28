@@ -5,6 +5,8 @@ course_id: >-
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: 7c38a44e5ebb8403cf21c2adc0137e4b
+    type: section
+    layout: section
     name: 'Day 6: Table-read and Office Hours'
     weight: 190
 type: courses

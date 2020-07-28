@@ -4,6 +4,8 @@ course_id: 18-01-single-variable-calculus-fall-2006
 menu:
   18-01-single-variable-calculus-fall-2006:
     identifier: 80927d96f5066751c09a8a14ebf04f10
+    type: section
+    layout: section
     name: Calendar
     weight: 20
 ---

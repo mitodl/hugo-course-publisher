@@ -4,6 +4,8 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 240ff61b57c23024881e75e9a0e68cde
+    type: section
+    layout: section
     name: 'Part II: Electromagnetic Waves'
     weight: 160
 ---

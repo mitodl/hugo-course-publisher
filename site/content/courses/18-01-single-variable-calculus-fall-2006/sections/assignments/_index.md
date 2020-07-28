@@ -4,6 +4,8 @@ course_id: 18-01-single-variable-calculus-fall-2006
 menu:
   18-01-single-variable-calculus-fall-2006:
     identifier: 5b8a52b8e712bb234bb79190e7f1e1ad
+    type: section
+    layout: section
     name: Assignments
     weight: 60
 ---

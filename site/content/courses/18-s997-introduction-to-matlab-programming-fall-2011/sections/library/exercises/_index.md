@@ -4,6 +4,8 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: cd7c2d275ba5e73e6cc6551edae9359f
+    type: section
+    layout: section
     name: Exercises
     weight: 300
     parent: f9312176280b6b537b61db0880b99562

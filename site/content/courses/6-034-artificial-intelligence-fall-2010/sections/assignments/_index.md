@@ -4,6 +4,8 @@ course_id: 6-034-artificial-intelligence-fall-2010
 menu:
   6-034-artificial-intelligence-fall-2010:
     identifier: d791c36b92a499f13db9fe303e12e948
+    type: section
+    layout: section
     name: Assignments
     weight: 130
 ---

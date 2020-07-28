@@ -4,6 +4,8 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 0943bd811d9caf9e92bf3c7bf9d7b9f2
+    type: section
+    layout: section
     name: '6.3 Predictive Diagnosis: Discovering Patterns for Disease Detection '
     weight: 2110
     parent: 6e34350394a0f94851f48f324b5f657f

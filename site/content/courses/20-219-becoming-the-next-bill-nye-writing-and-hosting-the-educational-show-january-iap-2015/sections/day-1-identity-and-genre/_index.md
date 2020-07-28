@@ -5,6 +5,8 @@ course_id: >-
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: e7ab07a59bf478a18a95a815093ec211
+    type: section
+    layout: section
     name: 'Day 1: Identity and Genre'
     weight: 140
 type: courses

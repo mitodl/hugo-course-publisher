@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: cafeab961cc40b561181e1020195ed8c
+    type: section
+    layout: section
     name: 28.2 Introduction to Translation and Rotation
     weight: 1830
     parent: 146d8dd77c99bbafceb8ed10af8bee47

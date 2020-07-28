@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: ef2f6577d6ef5a6265c9c39914f4367e
+    type: section
+    layout: section
     name: 7.3 Solving Pulley Systems
     weight: 510
     parent: cf6d9ae85d7b6e788f1e70cf24afc329

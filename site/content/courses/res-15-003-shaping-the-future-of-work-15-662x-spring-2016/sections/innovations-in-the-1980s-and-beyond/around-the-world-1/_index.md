@@ -4,6 +4,8 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 0cc0671aff170e1e2077fc787eca8faa
+    type: section
+    layout: section
     name: 3.2 Around the World
     weight: 510
     parent: cc30bcc3b45c6b220f2145ce29d9b264

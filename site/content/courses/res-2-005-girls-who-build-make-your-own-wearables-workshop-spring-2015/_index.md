@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015
 course_title: 'Girls Who Build: Make Your Own Wearables Workshop'
 course_image_url: >-

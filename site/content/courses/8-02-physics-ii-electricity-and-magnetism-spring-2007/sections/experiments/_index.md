@@ -4,6 +4,8 @@ course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 menu:
   8-02-physics-ii-electricity-and-magnetism-spring-2007:
     identifier: 5b67d4a8cb63975881482c1bb40692c8
+    type: section
+    layout: section
     name: Experiments
     weight: 50
 ---

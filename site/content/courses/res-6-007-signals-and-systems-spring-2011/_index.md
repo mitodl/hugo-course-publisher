@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: res-6-007-signals-and-systems-spring-2011
 course_title: Signals and Systems
 course_image_url: >-

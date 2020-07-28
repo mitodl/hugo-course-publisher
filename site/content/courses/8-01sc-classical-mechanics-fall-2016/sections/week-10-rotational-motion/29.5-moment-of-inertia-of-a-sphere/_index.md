@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: a18c0f4604d0229d869810b8be0c7f68
+    type: section
+    layout: section
     name: 29.5 Moment of Inertia of a Sphere
     weight: 1890
     parent: 146d8dd77c99bbafceb8ed10af8bee47

@@ -4,6 +4,8 @@ course_id: 21m-250-beethoven-to-mahler-spring-2014
 menu:
   21m-250-beethoven-to-mahler-spring-2014:
     identifier: d41293da8ebbaa728f1f4b32a0e39353
+    type: section
+    layout: section
     name: Listening and Scores
     weight: 40
 ---

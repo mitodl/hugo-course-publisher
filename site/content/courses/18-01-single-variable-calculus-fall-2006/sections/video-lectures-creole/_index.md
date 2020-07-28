@@ -4,6 +4,8 @@ course_id: 18-01-single-variable-calculus-fall-2006
 menu:
   18-01-single-variable-calculus-fall-2006:
     identifier: 34c980c272400d9288b02ea31fe70122
+    type: section
+    layout: section
     name: Video Lectures - Creole
     weight: 100
 ---

@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: 12-001-introduction-to-geology-fall-2013
 course_title: Introduction to Geology
 course_image_url: >-

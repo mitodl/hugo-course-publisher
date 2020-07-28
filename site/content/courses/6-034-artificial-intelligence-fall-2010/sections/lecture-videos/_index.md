@@ -4,6 +4,8 @@ course_id: 6-034-artificial-intelligence-fall-2010
 menu:
   6-034-artificial-intelligence-fall-2010:
     identifier: 28d36d6426366698bf1ded18c6190be7
+    type: section
+    layout: section
     name: Lecture Videos
     weight: 100
 type: courses

@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: a8b95d557ec9770138ba9fcdf3e90149
+    type: section
+    layout: section
     name: 31.5 Massive Pulley Problems
     weight: 2000
     parent: 146d8dd77c99bbafceb8ed10af8bee47

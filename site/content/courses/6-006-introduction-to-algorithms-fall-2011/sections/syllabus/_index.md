@@ -4,6 +4,8 @@ course_id: 6-006-introduction-to-algorithms-fall-2011
 menu:
   6-006-introduction-to-algorithms-fall-2011:
     identifier: f57345014b07a46bd16ff4d95aef57d5
+    type: section
+    layout: section
     name: Syllabus
     weight: 10
 ---

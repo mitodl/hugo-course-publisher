@@ -5,6 +5,8 @@ course_id: >-
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: a70c0b5656986d460ee2e877495297b2
+    type: section
+    layout: section
     name: David Yam's Project
     weight: 310
     parent: 6df56ca86d884c27d497aee73b724945

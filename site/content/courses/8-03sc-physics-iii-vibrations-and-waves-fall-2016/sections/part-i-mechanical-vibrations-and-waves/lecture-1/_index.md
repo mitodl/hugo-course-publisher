@@ -4,6 +4,8 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 4f5f49df08e67313a6c5d113aba431c2
+    type: section
+    layout: section
     name: 'Lecture 1: Periodic Oscillations, Harmonic Oscillators'
     weight: 40
     parent: 6682a3d163976bcbb2fbe67db27d8f04

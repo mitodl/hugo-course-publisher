@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: bb452cf26f640545fd86309bbe4c1e09
+    type: section
+    layout: section
     name: '8.2 Circular Motion: Position and Velocity Vectors'
     weight: 610
     parent: 3c7d357cbb95e729679b539d23714ede

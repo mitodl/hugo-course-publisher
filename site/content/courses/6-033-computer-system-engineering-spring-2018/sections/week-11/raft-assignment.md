@@ -4,6 +4,8 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 664be575c00e8b731e9737cd0a323c01
+    type: section
+    layout: section
     name: Raft Assignment
     weight: 510
     parent: c7a234fbb37ee20a41b9581882a0afcd

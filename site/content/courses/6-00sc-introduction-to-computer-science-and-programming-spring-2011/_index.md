@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 course_title: Introduction to Computer Science and Programming
 course_image_url: >-

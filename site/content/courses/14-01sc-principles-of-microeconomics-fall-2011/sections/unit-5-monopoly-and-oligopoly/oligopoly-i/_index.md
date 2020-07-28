@@ -4,6 +4,8 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 2345b16d4f54dfc7a81191d1d1abbca2
+    type: section
+    layout: section
     name: Oligopoly I
     weight: 300
     parent: 51ebf00753b9a85af746a5c03a54785d

@@ -4,6 +4,8 @@ course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 menu:
   8-02-physics-ii-electricity-and-magnetism-spring-2007:
     identifier: 588b48d5a3390347e6e5b16b0ec1fe7b
+    type: section
+    layout: section
     name: Class Activities
     weight: 40
 ---

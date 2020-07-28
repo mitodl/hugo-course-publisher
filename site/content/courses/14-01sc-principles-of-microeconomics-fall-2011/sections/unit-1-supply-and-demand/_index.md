@@ -4,6 +4,8 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 10bf5cbcf55318eeb09954ff31dafc1c
+    type: section
+    layout: section
     name: 'Unit 1: Supply and Demand'
     weight: 30
 ---

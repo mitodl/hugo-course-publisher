@@ -1,44 +1,47 @@
-{{ $course_home := printf "%s/%s/%s" "courses" .CurrentSection.Params.course_id "_index.md" }}
-{{ with .Site.GetPage $course_home }}
+{{ $courseId := .Params.course_id }}
+
+{{ range first 1 (where .FirstSection.Sections ".Params.course_id" $courseId) }}
+  {{ if isset .Params "course_info" }}
+  {{ $courseInfo := .Params.course_info }}
   <div class="table-responsive course-info">
     <h5 class="font-weight-bold">Course Info</h5>
     <table class="table table-borderless border-bottom-light mb-2">
       <tr>
         <td class="pl-0">Instructor(s)</td>
         <td>
-          {{ partial "partial_collapse_list.html" (dict "list" .Params.course_info.instructors "id" "instructors") }}
+          {{ partial "partial_collapse_list.html" (dict "list" $courseInfo.instructors "id" "instructors") }}
         </td>
       </tr>
       <tr>
         <td class="pl-0">Department</td>
         <td>
           <a href="#" class="coming-soon">
-            {{ partial "partial_collapse_list.html" (dict "list" .Params.course_info.departments "id" "departments") }}
+            {{ partial "partial_collapse_list.html" (dict "list" $courseInfo.departments "id" "departments") }}
           </a>
         </td>
       </tr>
       <tr>
         <td class="pl-0">Course No.</td>
-        <td>{{ partial "partial_collapse_list.html" (dict "list" .Params.course_info.course_numbers "id" "course_numbers") }}</td>
+        <td>{{ partial "partial_collapse_list.html" (dict "list" $courseInfo.course_numbers "id" "course_numbers") }}</td>
       </tr>
       <tr>
         <td class="pl-0 text-nowrap">As Taught In</td>
         <td>
           <a href="#" class="coming-soon">
-            {{ .Params.course_info.term }}
+            {{ $courseInfo.term }}
           </a>
         </td>
       </tr>
       <tr>
         <td class="pl-0 pb-3">Level</td>
-        <td>{{ .Params.course_info.level }}</td>
+        <td>{{ $courseInfo.level }}</td>
       </tr>
     </table>
     <div class="border-bottom-light mb-2">
       <h5 class="font-weight-bold">Topic(s)</h5>
       <ul class="list-unstyled pb-2 m-0">
         {{- $.Scratch.Set "topicIndex" 0 -}}
-        {{ range $topic, $subtopics := .Params.course_info.topics }}
+        {{ range $topic, $subtopics := $courseInfo.topics }}
         <li>
           {{ partial "topic.html" (dict "context" $ "index" ($.Scratch.Get "topicIndex") "topic" $topic "subtopics" $subtopics) }}
         </li>
@@ -49,7 +52,7 @@
     <div>
       <h5 class="font-weight-bold">Course Features</h5>
       <ul class="list-unstyled m-0">
-      {{ range .Params.course_info.course_features }}
+      {{ range $courseInfo.course_features }}
         {{ partial "course_feature.html" . }}
       {{ end }}
       </ul>
@@ -58,4 +61,5 @@
       <div class="btn bg-link-blue text-white w-100 coming-soon">Download Course Materials</div>
     </div>
   </div>
+  {{ end }}
 {{ end }}

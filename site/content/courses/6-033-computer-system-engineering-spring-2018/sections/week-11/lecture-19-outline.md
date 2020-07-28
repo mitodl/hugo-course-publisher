@@ -4,6 +4,8 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 65aa4eed05a6e3c331b724d8f6b44e7d
+    type: section
+    layout: section
     name: Lecture 19 Outline
     weight: 500
     parent: c7a234fbb37ee20a41b9581882a0afcd

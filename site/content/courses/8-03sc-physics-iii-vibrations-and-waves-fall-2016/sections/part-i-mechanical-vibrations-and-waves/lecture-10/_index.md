@@ -4,6 +4,8 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 0a9b6b962334ae0f262460bcb2eaa2d6
+    type: section
+    layout: section
     name: 'Lecture 10: Traveling Waves'
     weight: 140
     parent: 6682a3d163976bcbb2fbe67db27d8f04

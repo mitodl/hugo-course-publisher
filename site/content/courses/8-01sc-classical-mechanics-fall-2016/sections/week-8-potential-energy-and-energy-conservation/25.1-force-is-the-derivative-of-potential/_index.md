@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 7764cf4840ca6295a59652406638f492
+    type: section
+    layout: section
     name: 'Lesson 25: Potential Energy Diagrams [25.1-25.3]'
     weight: 1570
     parent: 1394998143efcc493f7c98265cfbd3ae

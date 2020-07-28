@@ -4,6 +4,8 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: b3df47062059ac3f7af88832de93e0fb
+    type: section
+    layout: section
     name: Government Redistribution Policy
     weight: 430
     parent: c94fdf9054571202c278c37041d32e5c

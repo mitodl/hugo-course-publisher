@@ -4,6 +4,8 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 142ece9ee56e5c288b691c969251db2d
+    type: section
+    layout: section
     name: Dynamic Programming
     weight: 310
     parent: 82c1509981b270b9823bc741f08c9b32

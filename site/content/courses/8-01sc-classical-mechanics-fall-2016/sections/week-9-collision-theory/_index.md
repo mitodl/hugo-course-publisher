@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: bc33ee80c8fd90e4dfda7092ddd24879
+    type: section
+    layout: section
     name: 'Week 9: Collision Theory'
     weight: 1610
 ---

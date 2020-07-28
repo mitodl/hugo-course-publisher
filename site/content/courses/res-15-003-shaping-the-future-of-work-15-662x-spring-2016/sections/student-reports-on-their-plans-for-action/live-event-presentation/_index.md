@@ -4,6 +4,8 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: d1a164f4e850d6edb29a355c3e862085
+    type: section
+    layout: section
     name: 7.1 Live Event Presentation
     weight: 720
     parent: 5f95245a6d5e2d61826e4de065f39fcc

@@ -4,6 +4,8 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: d99be1d93dd7fc0a70ba351d93404d9c
+    type: section
+    layout: section
     name: 9.1 Welcome to Unit 9
     weight: 3040
     parent: db42b40ad705f431a7e23a1d11cec341

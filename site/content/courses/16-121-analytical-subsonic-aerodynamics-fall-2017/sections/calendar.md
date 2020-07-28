@@ -4,6 +4,8 @@ course_id: 16-121-analytical-subsonic-aerodynamics-fall-2017
 menu:
   16-121-analytical-subsonic-aerodynamics-fall-2017:
     identifier: eebfc29ea0b3fa962add7bd5b4ffa500
+    type: section
+    layout: section
     name: Calendar
     weight: 20
 ---

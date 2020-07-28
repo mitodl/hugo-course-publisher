@@ -4,6 +4,8 @@ course_id: 18-02sc-multivariable-calculus-fall-2010
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: d764fda499d7f9ddf72d00c4e7ae00c3
+    type: section
+    layout: section
     name: Syllabus
     weight: 10
 type: courses

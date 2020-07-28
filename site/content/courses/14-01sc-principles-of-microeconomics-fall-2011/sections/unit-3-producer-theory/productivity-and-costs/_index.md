@@ -4,6 +4,8 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 35e2a9c418975d5d2bfcb2dfa5fa18ac
+    type: section
+    layout: section
     name: Productivity and Costs
     weight: 180
     parent: 3abe52b206f4e0405bcb7ce684de6ae6

@@ -4,6 +4,8 @@ course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 menu:
   8-02-physics-ii-electricity-and-magnetism-spring-2007:
     identifier: 07d0fec17f84d7e034c4dabccd1b5a02
+    type: section
+    layout: section
     name: Syllabus
     weight: 10
 ---

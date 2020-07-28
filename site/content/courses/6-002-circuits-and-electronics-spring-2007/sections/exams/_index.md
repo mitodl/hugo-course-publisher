@@ -4,6 +4,8 @@ course_id: 6-002-circuits-and-electronics-spring-2007
 menu:
   6-002-circuits-and-electronics-spring-2007:
     identifier: cb0e3f618b9ca7c2109e5404ec6d2435
+    type: section
+    layout: section
     name: Exams
     weight: 70
 ---

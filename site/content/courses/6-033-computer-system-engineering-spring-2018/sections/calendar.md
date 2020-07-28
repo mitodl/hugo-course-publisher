@@ -4,6 +4,8 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: dcd25f88acf3f72ba2ad5aae10daef4f
+    type: section
+    layout: section
     name: Calendar
     weight: 20
 ---

@@ -4,6 +4,8 @@ course_id: 15-401-finance-theory-i-fall-2008
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: e381244141e1362f0e0dca35682b402f
+    type: section
+    layout: section
     name: Calendar
     weight: 20
 ---

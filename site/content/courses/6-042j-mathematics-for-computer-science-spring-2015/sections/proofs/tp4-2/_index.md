@@ -4,6 +4,8 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 470546ac81246c938505a0f7571765aa
+    type: section
+    layout: section
     name: 1.9  State Machines - Invariants
     weight: 700
     parent: 95af5c7b87a2e15790a7ad18331a125f

@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 770f89d773c1236df48f673fd378e5a4
+    type: section
+    layout: section
     name: 31.4 Worked Example - Atwood Machine
     weight: 1990
     parent: 146d8dd77c99bbafceb8ed10af8bee47

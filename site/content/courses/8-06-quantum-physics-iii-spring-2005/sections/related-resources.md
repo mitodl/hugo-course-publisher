@@ -4,6 +4,8 @@ course_id: 8-06-quantum-physics-iii-spring-2005
 menu:
   8-06-quantum-physics-iii-spring-2005:
     identifier: a5b3bb64fbaf308b64af0957cddad027
+    type: section
+    layout: section
     name: Related Resources
     weight: 60
 ---

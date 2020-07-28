@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: res-18-001-calculus-online-textbook-spring-2005
 course_title: Calculus Online Textbook
 course_image_url: >-

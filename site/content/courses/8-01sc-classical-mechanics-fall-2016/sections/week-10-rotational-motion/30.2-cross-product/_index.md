@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: efd7a8409c70c666ca2fc83a417da186
+    type: section
+    layout: section
     name: 30.2 Cross Product
     weight: 1920
     parent: 146d8dd77c99bbafceb8ed10af8bee47

@@ -4,6 +4,8 @@ course_id: 8-591j-systems-biology-fall-2014
 menu:
   8-591j-systems-biology-fall-2014:
     identifier: 09f5e89ed2329a2c359d4f4727253abe
+    type: section
+    layout: section
     name: Flipping the Classroom
     weight: 30
     parent: b93901ceb2691028d9324ac654b23cf0

@@ -1,8 +1,10 @@
 ---
-title: opt_prob_10.pdf
+title: Assignment 10
 description: >-
-  This resource provides information about the optional problem set, which
-  consists of 7 questions for optional problem set.
+  Problem set on quantum physics. Problems include: a time-dependent two-state
+  system, excitation of a hydrogen atom, decay of the three dimensional harmonic
+  oscillator, lifetime of excited states of hydrogen, a wave front crossing a
+  bound particle, and the Grover algorithm.
 type: courses
 layout: pdf
 uid: 83cd18d5b63d7f4decd7175f7ec3f45b

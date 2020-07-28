@@ -4,6 +4,8 @@ course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: 47372cd3e9190e97d65addc960247454
+    type: section
+    layout: section
     name: Problem Set Checkers
     weight: 130
     parent: 1b6858820e39dbc6ba03dc47858871bd

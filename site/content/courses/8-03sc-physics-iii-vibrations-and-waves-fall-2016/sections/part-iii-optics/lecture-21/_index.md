@@ -4,6 +4,8 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: babd702cf1121939a9e0c02a1d617ddb
+    type: section
+    layout: section
     name: 'Lecture 21: Phased Radar, Single Electron Interference'
     weight: 280
     parent: 562065223db4e5d13c0186ef14e4db6a

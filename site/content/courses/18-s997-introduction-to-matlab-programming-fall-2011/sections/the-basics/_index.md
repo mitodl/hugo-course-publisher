@@ -4,6 +4,8 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 71bd52f802118491207f722087127ab2
+    type: section
+    layout: section
     name: The Basics
     weight: 20
 ---

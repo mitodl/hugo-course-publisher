@@ -5,6 +5,8 @@ course_id: >-
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: 1d988e035e65811fe6d8e82355f3c4a7
+    type: section
+    layout: section
     name: Ceri Riley's Reflections
     weight: 340
     parent: dadfeb1198fbe700d205d71a4c85f081

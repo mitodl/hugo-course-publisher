@@ -15,7 +15,7 @@ embedded_media:
     uid: 7c678669be72ffe99ec8770ef9134f3a
   - id: Video-InternetArchive-MP4
     media_location: >-
-      http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_28_300k.mp4"
+      https://ia800200.us.archive.org/3/items/MIT18_02SCF10/MIT18_02SCF10Rec_28_300k.mp4
     parent_uid: 83265bf3633a0435f030fc0437c785a3
     title: Video-Internet Archive-MP4
     type: Video

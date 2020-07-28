@@ -4,6 +4,8 @@ course_id: res-str-001-geographic-information-system-gis-tutorial-january-iap-20
 menu:
   res-str-001-geographic-information-system-gis-tutorial-january-iap-2016:
     identifier: cd4865266db27a4c6d2a83b8b78cef23
+    type: section
+    layout: section
     name: Spatial Data
     weight: 20
 ---

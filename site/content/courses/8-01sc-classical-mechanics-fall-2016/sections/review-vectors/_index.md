@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: f8da8d9bf6a478e6808baa7e6aa62306
+    type: section
+    layout: section
     name: 'Review: Vectors'
     weight: 50
 ---

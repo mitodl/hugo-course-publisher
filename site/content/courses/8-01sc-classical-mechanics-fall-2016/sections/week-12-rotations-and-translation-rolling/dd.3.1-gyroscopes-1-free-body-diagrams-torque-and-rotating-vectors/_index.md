@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: d1c38e530c20d699f2e83e7f0242c713
+    type: section
+    layout: section
     name: 'Deep Dive: Gyroscopes [DD.3.1-DD.3.3]'
     weight: 2380
     parent: fbf76190d89eeed2930e51f9ac3bf2a6

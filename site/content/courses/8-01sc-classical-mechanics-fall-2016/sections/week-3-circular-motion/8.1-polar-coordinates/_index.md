@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: b3916d893c892c766d337a22583b3bcb
+    type: section
+    layout: section
     name: 'Lesson 8: Circular Motion - Position and Velocity [8.1-8.3]'
     weight: 600
     parent: 3c7d357cbb95e729679b539d23714ede

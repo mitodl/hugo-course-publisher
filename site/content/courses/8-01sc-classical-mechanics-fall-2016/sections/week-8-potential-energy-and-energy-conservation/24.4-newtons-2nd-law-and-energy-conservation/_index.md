@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: da2be0d8474e82d83048ae3e1a948f86
+    type: section
+    layout: section
     name: 24.4 Newton's 2nd Law and Energy Conservation
     weight: 1560
     parent: 1394998143efcc493f7c98265cfbd3ae

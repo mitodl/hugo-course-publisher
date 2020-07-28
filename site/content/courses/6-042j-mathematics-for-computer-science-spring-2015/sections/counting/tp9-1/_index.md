@@ -4,6 +4,8 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 71ca527263f24aa7d717ef63328e47ef
+    type: section
+    layout: section
     name: 3.3 Counting with Bijections
     weight: 2050
     parent: 39106ddf6e8110d0b3ef0b61eb07512d

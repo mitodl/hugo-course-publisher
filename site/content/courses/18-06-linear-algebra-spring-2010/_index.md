@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: 18-06-linear-algebra-spring-2010
 course_title: Linear Algebra
 course_image_url: >-

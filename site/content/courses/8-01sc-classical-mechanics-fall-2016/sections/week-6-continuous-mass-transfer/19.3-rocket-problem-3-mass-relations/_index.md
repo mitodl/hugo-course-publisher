@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 78a841525b28227bc8d08716d5847434
+    type: section
+    layout: section
     name: 19.3 Rocket Problem 3 - Mass Relations
     weight: 1170
     parent: 28d93f13f552de729aab415b7158be8e

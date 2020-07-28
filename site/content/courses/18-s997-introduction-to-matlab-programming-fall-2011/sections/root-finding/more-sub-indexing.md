@@ -4,6 +4,8 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 812910f01a913bddeb41585370bf7bef
+    type: section
+    layout: section
     name: More Sub-Indexing
     weight: 110
     parent: 33cb3bda3dc0895ff5de7bc1b91f60c2

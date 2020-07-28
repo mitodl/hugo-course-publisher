@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: f5d8f62152da952a86d883d83f2eb4fd
+    type: section
+    layout: section
     name: 21.2 Scalar Product in Cartesian Coordinates
     weight: 1340
     parent: 1099b7667930f7e51cccc80d63899c02

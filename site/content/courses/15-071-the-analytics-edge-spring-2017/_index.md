@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: 15-071-the-analytics-edge-spring-2017
 course_title: The Analytics Edge
 course_image_url: >-

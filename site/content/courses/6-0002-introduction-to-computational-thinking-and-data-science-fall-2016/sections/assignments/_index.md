@@ -4,6 +4,8 @@ course_id: 6-0002-introduction-to-computational-thinking-and-data-science-fall-2
 menu:
   6-0002-introduction-to-computational-thinking-and-data-science-fall-2016:
     identifier: a838c44edc04ba9ec06466dfcfd64e41
+    type: section
+    layout: section
     name: Assignments
     weight: 50
 ---

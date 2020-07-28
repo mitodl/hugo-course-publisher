@@ -4,6 +4,8 @@ course_id: ec-711-d-lab-energy-spring-2011
 menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: 32a22e0de0add67342ce41445297fce7
+    type: section
+    layout: section
     name: 'Introduction, Energy Basics & Human Power'
     weight: 20
 type: courses

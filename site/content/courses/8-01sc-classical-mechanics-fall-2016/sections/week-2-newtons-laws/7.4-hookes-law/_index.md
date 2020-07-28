@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: ca692322db83dbeda41e136bbd0ece16
+    type: section
+    layout: section
     name: 7.4 Hooke's Law
     weight: 520
     parent: cf6d9ae85d7b6e788f1e70cf24afc329

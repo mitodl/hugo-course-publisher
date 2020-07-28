@@ -4,6 +4,8 @@ course_id: 8-04-quantum-physics-i-spring-2013
 menu:
   8-04-quantum-physics-i-spring-2013:
     identifier: 67f4854df4045b15d6f7ac855583dd41
+    type: section
+    layout: section
     name: Assignments
     weight: 60
 ---

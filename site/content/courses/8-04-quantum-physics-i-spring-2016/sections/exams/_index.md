@@ -4,6 +4,8 @@ course_id: 8-04-quantum-physics-i-spring-2016
 menu:
   8-04-quantum-physics-i-spring-2016:
     identifier: 36bbae76d1b8a66f10617015715889ed
+    type: section
+    layout: section
     name: Exams
     weight: 90
 ---

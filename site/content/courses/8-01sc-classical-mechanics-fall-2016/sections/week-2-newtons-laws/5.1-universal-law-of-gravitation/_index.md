@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 5a03ea05c9496dde2e74b2e89df96295
+    type: section
+    layout: section
     name: 'Lesson 5: Gravity [5.1-5.3]'
     weight: 440
     parent: cf6d9ae85d7b6e788f1e70cf24afc329

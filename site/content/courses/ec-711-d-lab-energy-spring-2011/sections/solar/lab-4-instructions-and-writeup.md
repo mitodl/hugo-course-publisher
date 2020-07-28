@@ -4,6 +4,8 @@ course_id: ec-711-d-lab-energy-spring-2011
 menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: f14900f478f23db9257193b8b3c5f9c8
+    type: section
+    layout: section
     name: 'Lab 4 Wiring Solar Panels: Instructions and Writeup Assignment'
     weight: 140
     parent: 97d18199d8e130f96762504a4894e1bc

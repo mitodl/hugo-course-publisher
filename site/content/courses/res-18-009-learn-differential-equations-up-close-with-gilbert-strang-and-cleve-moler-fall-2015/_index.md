@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: >-
   res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015
 course_title: 'Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler'

@@ -4,6 +4,8 @@ course_id: 6-006-introduction-to-algorithms-fall-2011
 menu:
   6-006-introduction-to-algorithms-fall-2011:
     identifier: 3e392c68f217c957d2c870f39c63c084
+    type: section
+    layout: section
     name: Binary Search Trees
     weight: 60
     parent: aa632f8351fe4fa58aaf1513de806253

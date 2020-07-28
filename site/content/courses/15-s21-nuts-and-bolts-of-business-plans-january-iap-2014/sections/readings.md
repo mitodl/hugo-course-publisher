@@ -4,6 +4,8 @@ course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
 menu:
   15-s21-nuts-and-bolts-of-business-plans-january-iap-2014:
     identifier: 7bf757f0ee16467b183fa463ef550502
+    type: section
+    layout: section
     name: Readings
     weight: 60
 ---

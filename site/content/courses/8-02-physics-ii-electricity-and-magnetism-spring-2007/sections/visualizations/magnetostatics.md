@@ -4,6 +4,8 @@ course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 menu:
   8-02-physics-ii-electricity-and-magnetism-spring-2007:
     identifier: 9d6aa9bb7fdf4d7808ef326a86c0b45e
+    type: section
+    layout: section
     name: Magnetostatics
     weight: 110
     parent: ea1fcef11143e57e2f48a97bf8747dc2

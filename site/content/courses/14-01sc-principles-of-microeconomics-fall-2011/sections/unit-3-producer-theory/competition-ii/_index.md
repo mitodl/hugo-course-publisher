@@ -4,6 +4,8 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 032b458b15b16f20745336ff876c9f66
+    type: section
+    layout: section
     name: Competition II
     weight: 210
     parent: 3abe52b206f4e0405bcb7ce684de6ae6

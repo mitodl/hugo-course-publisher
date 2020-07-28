@@ -5,6 +5,8 @@ course_id: >-
 menu:
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016:
     identifier: f6ccc6d82b74032d508eeae78f9076bf
+    type: section
+    layout: section
     name: Practices and Innovations
     weight: 120
 ---

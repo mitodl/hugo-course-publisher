@@ -4,6 +4,8 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 66c54ff6d57018af9a41352ad16e70f7
+    type: section
+    layout: section
     name: Capital Supply and Markets II
     weight: 400
     parent: 2b057e13f81e86aad632c23c1074b663

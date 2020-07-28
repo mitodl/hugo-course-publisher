@@ -5,6 +5,8 @@ course_id: >-
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: 65f298a79f2a0550e78ed9fc7ff17ff4
+    type: section
+    layout: section
     name: Nathan Hernandez's Project
     weight: 290
     parent: 6df56ca86d884c27d497aee73b724945

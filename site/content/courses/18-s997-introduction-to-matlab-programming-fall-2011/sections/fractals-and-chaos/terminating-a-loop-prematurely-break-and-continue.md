@@ -4,6 +4,8 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 82a5f4af7795cec4224410e4df0f38ae
+    type: section
+    layout: section
     name: 'Terminating a Loop Prematurely: Break and Continue'
     weight: 230
     parent: 1d7068b5ce8d3b56622ae79682a1dd43

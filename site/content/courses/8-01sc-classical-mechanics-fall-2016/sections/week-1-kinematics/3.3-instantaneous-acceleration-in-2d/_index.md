@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 122d061df312d9cf7ff24783b71ff010
+    type: section
+    layout: section
     name: 3.3 Instantaneous Acceleration in 2D
     weight: 280
     parent: 63e325a780c79e352fb5bddb9b8b2c6a

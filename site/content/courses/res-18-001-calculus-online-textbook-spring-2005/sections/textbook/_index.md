@@ -4,6 +4,8 @@ course_id: res-18-001-calculus-online-textbook-spring-2005
 menu:
   res-18-001-calculus-online-textbook-spring-2005:
     identifier: 2842add08d1e680b3318d7f7f69d7739
+    type: section
+    layout: section
     name: Textbook
     weight: 10
 ---

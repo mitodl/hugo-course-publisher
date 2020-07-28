@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: ee20a48f3d823723cbbe56ea037659af
+    type: section
+    layout: section
     name: 'Lesson 36: Rolling Dynamics [36.1-36.5]'
     weight: 2290
     parent: fbf76190d89eeed2930e51f9ac3bf2a6

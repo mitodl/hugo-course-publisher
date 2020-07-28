@@ -4,6 +4,8 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 7bd0936fcddbb454b9e5dab2884cc641
+    type: section
+    layout: section
     name: 'Part B: Optimization, Related Rates and Newton''s Method'
     weight: 390
     parent: c2ca8a0d20e596b11e2ec5c48c7179ca

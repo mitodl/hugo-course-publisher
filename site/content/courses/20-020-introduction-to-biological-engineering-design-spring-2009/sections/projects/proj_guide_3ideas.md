@@ -4,6 +4,8 @@ course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: 20673f9184e90922eae00b6108713415
+    type: section
+    layout: section
     name: 'Project Presentation Guidelines: 3 Ideas'
     weight: 280
     parent: becca3d9df0a28caaa3817ca41c1c55b

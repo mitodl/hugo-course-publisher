@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 3f6e89962a826cca515de0c4378dde38
+    type: section
+    layout: section
     name: 'Lesson 19: Continuous Mass Transfer [19.1-19.7]'
     weight: 1150
     parent: 28d93f13f552de729aab415b7158be8e

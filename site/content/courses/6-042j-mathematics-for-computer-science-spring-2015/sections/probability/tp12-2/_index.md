@@ -4,6 +4,8 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 90eace8a4b31041773628667f8f3497b
+    type: section
+    layout: section
     name: 4.3 Independence & Causality
     weight: 2410
     parent: 90a207e82f8b3b1369067b58f9c6f169

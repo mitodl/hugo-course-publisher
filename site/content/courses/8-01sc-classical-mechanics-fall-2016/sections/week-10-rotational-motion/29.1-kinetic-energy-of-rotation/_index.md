@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: b83ad997553329c60233437ea49e895d
+    type: section
+    layout: section
     name: 'Lesson 29: Moment of Inertia [29.1-29.6]'
     weight: 1850
     parent: 146d8dd77c99bbafceb8ed10af8bee47

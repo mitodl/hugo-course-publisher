@@ -4,6 +4,8 @@ course_id: 21m-295-american-popular-music-fall-2014
 menu:
   21m-295-american-popular-music-fall-2014:
     identifier: 3492dd60b705408190bd0ff4472c4b44
+    type: section
+    layout: section
     name: Reading and Listening
     weight: 30
 ---

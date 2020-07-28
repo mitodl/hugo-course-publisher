@@ -4,6 +4,8 @@ course_id: 18-02sc-multivariable-calculus-fall-2010
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: 5ec6e19ff0b098e40ec65f8bcf898f57
+    type: section
+    layout: section
     name: 'Part A: Vectors, Determinants and Planes'
     weight: 30
     parent: 670edba62cf4bbd8353793d6e066fb6c

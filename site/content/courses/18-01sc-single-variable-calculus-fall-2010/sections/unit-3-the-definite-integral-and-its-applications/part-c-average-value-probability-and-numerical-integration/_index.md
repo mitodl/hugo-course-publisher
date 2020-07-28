@@ -4,6 +4,8 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: e1f8a1b789b83e57da0e01f4ada7283a
+    type: section
+    layout: section
     name: 'Part C: Average Value, Probability and Numerical Integration'
     weight: 800
     parent: 4c201b00a0470284ebd6c546e0cc59ab

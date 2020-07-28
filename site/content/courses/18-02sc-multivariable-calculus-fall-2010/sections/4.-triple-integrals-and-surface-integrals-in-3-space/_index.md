@@ -4,6 +4,8 @@ course_id: 18-02sc-multivariable-calculus-fall-2010
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: 80a7ff20650c3af9a002f822edced8a0
+    type: section
+    layout: section
     name: 4. Triple Integrals and Surface Integrals in 3-Space
     weight: 1050
 ---

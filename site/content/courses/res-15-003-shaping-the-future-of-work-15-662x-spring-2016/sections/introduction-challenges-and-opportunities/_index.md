@@ -4,6 +4,8 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: df93fe473c48d7d14fa8ea3d9f3faf34
+    type: section
+    layout: section
     name: 'Week 1: Introduction: Challenges and Opportunities'
     weight: 160
 ---

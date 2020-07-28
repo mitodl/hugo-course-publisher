@@ -4,6 +4,8 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 892e211f42f90c33de8e347b0fe16037
+    type: section
+    layout: section
     name: Logistic Equation
     weight: 210
     parent: 1d7068b5ce8d3b56622ae79682a1dd43

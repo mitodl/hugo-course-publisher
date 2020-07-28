@@ -1,8 +1,10 @@
 ---
-title: ps4.pdf
+title: Assignment 4
 description: >-
-  This resource provides information about the reading assignment, useful facts
-  and 4 problems for assignment 4.
+  Problem set on quantum physics. Problem include: off-­diagonal conductance in
+  two­-dimensions, quantum states in crossed constant electric fields and
+  constant magnetic fields, the Aharonov-­Bohm effect on energy eigenvalues, and
+  perturbation of the three­-dimensional harmonic occillator.
 type: courses
 layout: pdf
 uid: f4b67d0386ae336fe56340e82d506cb6

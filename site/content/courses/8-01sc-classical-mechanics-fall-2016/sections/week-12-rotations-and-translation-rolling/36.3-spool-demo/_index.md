@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: b5e3641a636bf14614bb038579a3ca63
+    type: section
+    layout: section
     name: 36.3 Spool Demo
     weight: 2310
     parent: fbf76190d89eeed2930e51f9ac3bf2a6

@@ -4,6 +4,8 @@ course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
     identifier: 0f11e3a88575774268b19fbbe9ada2d2
+    type: section
+    layout: section
     name: Calendar
     weight: 20
 ---

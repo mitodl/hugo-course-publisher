@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 00aef6423d37f1e08db3ced31e4003c0
+    type: section
+    layout: section
     name: 'PS.2.2 Worked Example: Pushing Stacked Blocks'
     weight: 550
     parent: cf6d9ae85d7b6e788f1e70cf24afc329

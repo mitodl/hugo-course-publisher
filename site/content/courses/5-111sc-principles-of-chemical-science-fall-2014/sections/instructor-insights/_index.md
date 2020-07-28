@@ -4,6 +4,8 @@ course_id: 5-111sc-principles-of-chemical-science-fall-2014
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 1eb2fd824dc02f22bc85743316b46947
+    type: section
+    layout: section
     name: Instructor Insights
     weight: 20
 type: courses

@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 016638c7858e4b42d525668d3166eba0
+    type: section
+    layout: section
     name: 'Lesson 30: Torque [30.1-30.5]'
     weight: 1910
     parent: 146d8dd77c99bbafceb8ed10af8bee47

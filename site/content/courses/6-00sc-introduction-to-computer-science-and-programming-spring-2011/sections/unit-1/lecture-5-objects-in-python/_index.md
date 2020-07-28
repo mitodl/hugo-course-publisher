@@ -4,6 +4,8 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 138c881e91b66b62fdc82ea403e07fc5
+    type: section
+    layout: section
     name: Objects in Python
     weight: 90
     parent: 975ad7bfdd9c4ffe26b6710fa718d5e6

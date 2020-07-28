@@ -4,6 +4,8 @@ course_id: res-2-006-girls-who-build-cameras-summer-2016
 menu:
   res-2-006-girls-who-build-cameras-summer-2016:
     identifier: af68e0ed0ea80df5d1e6013abae8e453
+    type: section
+    layout: section
     name: Digital Cameras
     weight: 50
 type: courses

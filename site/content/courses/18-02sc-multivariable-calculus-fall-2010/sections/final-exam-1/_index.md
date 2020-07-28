@@ -4,6 +4,8 @@ course_id: 18-02sc-multivariable-calculus-fall-2010
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: dd6fb5d90caac5e5061b3b20b27d5d15
+    type: section
+    layout: section
     name: Final Exam
     weight: 1410
 ---

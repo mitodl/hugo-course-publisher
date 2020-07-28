@@ -4,6 +4,8 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 0af39afbaff0a226a397da1206ecd712
+    type: section
+    layout: section
     name: >-
       7.4 The Good, the Bad, and the Ugly: Visualization Recitation 
       (Recitation)

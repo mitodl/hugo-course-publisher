@@ -4,6 +4,8 @@ course_id: 6-034-artificial-intelligence-fall-2010
 menu:
   6-034-artificial-intelligence-fall-2010:
     identifier: 8e1d494be6f32eb8ac1d9abc0eec8c3d
+    type: section
+    layout: section
     name: Readings
     weight: 90
 ---

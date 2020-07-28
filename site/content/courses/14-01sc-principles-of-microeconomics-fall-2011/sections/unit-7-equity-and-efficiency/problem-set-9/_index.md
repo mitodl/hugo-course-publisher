@@ -4,6 +4,8 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: c2b37480348dc949387b11748d4a62b0
+    type: section
+    layout: section
     name: Problem Set 9
     weight: 440
     parent: c94fdf9054571202c278c37041d32e5c
