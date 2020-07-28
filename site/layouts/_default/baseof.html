@@ -16,7 +16,7 @@
     <div class="overflow-auto">
       {{ partial "mobile_nav.html" . }}
       {{ partial "mobile_course_info.html" . }}
-      {{ block "header" . }}{{ partial "header" . }}{{end}}
+      {{ block "header" . }}{{ partial "header" . }}{{ end }}
       {{ if not (eq .Params.type "course_home") }}
       <div class="mobile-course-info-toggle medium-and-below-only bg-light shadow-sm border border-right-0 rounded-left">
         <div
@@ -28,7 +28,7 @@
           Course Info
         </div>
       </div>
-      {{ end}}
+      {{ end }}
       <div class="container-fluid">
         <div class="row outer-wrapper">
           {{ partial "desktop_nav.html" . }}
@@ -41,7 +41,7 @@
                     {{ block "main" . }}{{end}}
                   </div>
                   <div class="col-12 col-lg-4 col-xl-4 px-6 mt-6 large-and-above-only border-left-light">
-                    {{ partial "course_info.html" . }}
+                    {{ partial "chp_partial.html" (dict "partial" "course_info.html" "context" .) }}
                   </div>
                 </div>
               </div>

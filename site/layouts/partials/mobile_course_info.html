@@ -2,5 +2,5 @@
   id="course-info-drawer"
   class="bg-faded pt-3 bg-light navbar-offcanvas navbar-offcanvas-right medium-and-below-only nav-drawer"
 >
-  {{ partial "course_info.html" . }}
+  {{ partial "chp_partial.html" (dict "partial" "course_info.html" "context" .) }}
 </div>

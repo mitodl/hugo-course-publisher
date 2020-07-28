@@ -13,13 +13,12 @@
     <h5 class="font-weight-bold pt-2">Course Description</h5>
     <div class="mb-3 course-description">{{- .Content -}}</div>
     <div class="medium-and-below-only">
-      {{ partial "course_info.html" .FirstSection }}
+      {{ partial "chp_partial.html" (dict "partial" "course_info.html" "context" .) }}
     </div>
   </div>
   <img class="w-25 course-image img-thumbnail large-and-above-only h-100" src="{{ relURL .CurrentSection.Params.course_image_url }}" />
 </div>
 {{ else if eq .Params.type "courseindex" }}
-  TEST
   {{ range .Pages }}
     <li style="padding-bottom: 5px;">
       <a href="{{.Permalink}}">
