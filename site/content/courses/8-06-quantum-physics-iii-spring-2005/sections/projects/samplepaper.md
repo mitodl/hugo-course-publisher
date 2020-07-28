@@ -1,5 +1,5 @@
 ---
-title: samplepaper.pdf
+title: An Algebraic Approach to Reflectionless Potentials in One Dimension
 description: >-
   This resource includes information about wave mechanics, schrodinger equation,
   eigenstates and eigenenergies, hamiltonian equation and refernces to various

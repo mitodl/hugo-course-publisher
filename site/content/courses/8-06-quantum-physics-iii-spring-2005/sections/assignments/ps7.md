@@ -1,5 +1,5 @@
 ---
-title: ps7.pdf
+title: Assignment 7
 description: >-
   This resource provides information about the reading assignment, useful facts
   and 4 problems for assignment 7.

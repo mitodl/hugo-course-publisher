@@ -1,5 +1,5 @@
 ---
-title: ps3.pdf
+title: Assignment 3
 description: >-
   This resource provides information about the reading assignment, useful facts
   and 4 problems for assignment 3.

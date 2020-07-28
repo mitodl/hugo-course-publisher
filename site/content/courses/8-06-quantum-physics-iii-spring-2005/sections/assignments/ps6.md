@@ -1,5 +1,5 @@
 ---
-title: ps6.pdf
+title: Assignment 6
 description: >-
   This resource provides information about the reading assignment, useful facts
   and 5 problems for assignment 6.

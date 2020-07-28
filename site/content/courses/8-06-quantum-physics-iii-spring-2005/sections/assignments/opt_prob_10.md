@@ -1,5 +1,5 @@
 ---
-title: opt_prob_10.pdf
+title: Assignment 10
 description: >-
   This resource provides information about the optional problem set, which
   consists of 7 questions for optional problem set.

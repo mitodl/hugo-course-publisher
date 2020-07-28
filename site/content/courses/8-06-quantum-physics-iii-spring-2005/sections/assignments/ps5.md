@@ -1,5 +1,5 @@
 ---
-title: ps5.pdf
+title: Assignment 5
 description: >-
   This resource provides information about the reading assignment, useful facts
   and 5 problems for assignment 5.

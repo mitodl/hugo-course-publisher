@@ -1,5 +1,5 @@
 ---
-title: ps2.pdf
+title: Assignment 2
 description: >-
   This resource provides information about the reading assignment, useful facts
   and 5 problems for assignment 2.

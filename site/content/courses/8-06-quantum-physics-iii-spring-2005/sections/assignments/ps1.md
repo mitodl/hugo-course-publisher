@@ -1,5 +1,5 @@
 ---
-title: ps1.pdf
+title: Assignment 1
 description: >-
   This resource provides information about the reading assignment, useful facts
   and 7 problems for assignment 1.
