@@ -1,10 +1,8 @@
 ---
-title: Assignment 3
+title: ps3.pdf
 description: >-
-  Problem set on quantum physics. Problem include: gauge invariance and the
-  Schrödinger equation, electromagnetic current density in quantum mechanics,
-  translation invariance in a uniform magnetic field, and counting the states in
-  a Landau level.
+  This resource provides information about the reading assignment, useful facts
+  and 4 problems for assignment 3.
 type: courses
 layout: pdf
 uid: 64402aa9654a3fa53468ad0763095abb

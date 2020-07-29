@@ -1,9 +1,8 @@
 ---
-title: Assignment 2
+title: ps2.pdf
 description: >-
-  Problem set on quantum physics. Problems include: Fermi energy, velocity and
-  temperature of copper, the Kronig-Penney model, and analysis of a general
-  one-dimensional periodic potential.
+  This resource provides information about the reading assignment, useful facts
+  and 5 problems for assignment 2.
 type: courses
 layout: pdf
 uid: 9e3f5f56abc13f1a0d676bddf6456e44

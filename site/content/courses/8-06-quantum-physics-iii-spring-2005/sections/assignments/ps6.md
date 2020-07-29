@@ -1,10 +1,8 @@
 ---
-title: Assignment 6
+title: ps6.pdf
 description: >-
-  Problem set on quantum physics. Problem set on the Feynman­-Hellmann theorem,
-  energy shift due to finite nuclear size, weak­-field Zeeman effect, Stark
-  effect for n = 3 states of hydrogen, and Van der Waals interaction between two
-  "toy­-model atoms."
+  This resource provides information about the reading assignment, useful facts
+  and 5 problems for assignment 6.
 type: courses
 layout: pdf
 uid: 6398d8b3d4cb206d214e7cb8a1da107c

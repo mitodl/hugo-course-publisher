@@ -1,10 +1,8 @@
 ---
-title: Assignment 1
+title: ps1.pdf
 description: >-
-  Problem set on quantum physics. Problems include: cgs units for mechanical and
-  electromagnetic quantities, electromagnetic energy density, momentum density
-  and energy flux, magnetic moments, the bag pressure, quantum gravity, and
-  eigenstates of the "translation" operator.
+  This resource provides information about the reading assignment, useful facts
+  and 7 problems for assignment 1.
 type: courses
 layout: pdf
 uid: fab0ea8dcec32517f757f75e7e02af30

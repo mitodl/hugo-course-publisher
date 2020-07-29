@@ -1,10 +1,8 @@
 ---
-title: Assignment 9
+title: ps9.pdf
 description: >-
-  Problem set on quantum physics. Problem include: scattering from a
-  reflectionless potential, simple properties of cross sections, Born
-  approximation for scattering from Yukawa and Coulomb potentials, the Born
-  approximation in one dimension, the size of nuclei, and electron scattering.
+  This resource provides information about the reading assignment, useful facts
+  and 5 problems for assignment 9.
 type: courses
 layout: pdf
 uid: 0d61bc00811074b3c4c2ef99bd63ea40

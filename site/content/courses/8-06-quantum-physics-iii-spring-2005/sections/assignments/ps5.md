@@ -1,11 +1,8 @@
 ---
-title: Assignment 5
+title: ps5.pdf
 description: >-
-  Problem set on quantum physics. Problem include: The fractional quantum Hall
-  effect, a delta-function bump in the center of an infinite square well, a
-  delta-function interaction between two bosons in an infinite square well,
-  anharmonic oscillator, polarizability of a particle on a ring, and the ethane
-  molecule.
+  This resource provides information about the reading assignment, useful facts
+  and 5 problems for assignment 5.
 type: courses
 layout: pdf
 uid: 5ab0baf6ba8177bcaa26bf870168aa13
