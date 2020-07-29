@@ -1,5 +1,5 @@
 ---
-title: Assignment 9
+title: ps9.pdf
 description: >-
   This resource provides information about the reading assignment, useful facts
   and 5 problems for assignment 9.

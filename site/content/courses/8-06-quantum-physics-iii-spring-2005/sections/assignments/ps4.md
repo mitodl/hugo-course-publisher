@@ -1,5 +1,5 @@
 ---
-title: Assignment 4
+title: ps4.pdf
 description: >-
   This resource provides information about the reading assignment, useful facts
   and 4 problems for assignment 4.

@@ -1,5 +1,5 @@
 ---
-title: Quantum Physics III (8.06) Spring 2005 Outline
+title: calendar.pdf
 description: >-
   This resource gives the course outline, basically a detailed description of
   the topics covered in the course - Quantum Physics III, Spring 2005.
