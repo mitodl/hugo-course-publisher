@@ -9,7 +9,7 @@
     "start": "run-p start:multi:**",
     "start:multi:hugo": "hugo server -s site -p 3000 --bind 0.0.0.0",
     "start:multi:webpack": "webpack-dev-server --config src/webpack/webpack.dev.js --hot --host 0.0.0.0",
-    "start:single": "./build-scripts/start_single_course.sh ",
+    "start:single_course": "npm run build:pdfjs && ./build-scripts/start_single_course.sh ",
     "preview": "run-p preview:**",
     "preview:hugo": "npm run start:hugo -- -D -F",
     "preview:webpack": "npm run start:webpack",
