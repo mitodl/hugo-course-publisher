@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: 6-034-artificial-intelligence-fall-2010
 course_title: Artificial Intelligence
 course_image_url: >-

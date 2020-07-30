@@ -4,6 +4,8 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 3e1b528396cdc4ee29eb12fe1377a558
+    type: section
+    layout: section
     name: Queuing Network Models
     weight: 330
     parent: 82c1509981b270b9823bc741f08c9b32

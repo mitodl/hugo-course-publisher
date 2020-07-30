@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 869e8587bad05bba6781da19b701a57a
+    type: section
+    layout: section
     name: 'Lesson 13: Massive Rope [13.1-13.6]'
     weight: 820
     parent: 919a2c506eb4551d940bb0dbab2356f0

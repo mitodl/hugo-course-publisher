@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: ab5149d959c5d77fcf43b183d041c866
+    type: section
+    layout: section
     name: 19.7 Rocket Problem 7 - Solution with External Forces
     weight: 1210
     parent: 28d93f13f552de729aab415b7158be8e

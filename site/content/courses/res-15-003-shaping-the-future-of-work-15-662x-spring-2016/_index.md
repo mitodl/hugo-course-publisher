@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 course_title: Shaping the Future of Work (15.662x)
 course_image_url: >-

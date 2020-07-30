@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: b5ed45d27d0206a641481b289c91aa1a
+    type: section
+    layout: section
     name: 0.3 Coordinate Systems and Unit Vectors
     weight: 80
     parent: f8da8d9bf6a478e6808baa7e6aa62306

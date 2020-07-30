@@ -4,6 +4,8 @@ course_id: 12-001-introduction-to-geology-fall-2013
 menu:
   12-001-introduction-to-geology-fall-2013:
     identifier: abd48cefe43d11ae8b573e0d4a6872b9
+    type: section
+    layout: section
     name: Making Sense of Messiness
     weight: 70
     parent: 1c2cb2ad1c70fd66f19e20103dc94595

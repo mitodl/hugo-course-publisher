@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 4f7d82e573ddc5e12a96aef184e27ed2
+    type: section
+    layout: section
     name: DD.2.7 Change in the Kinetic Energy
     weight: 1780
     parent: bc33ee80c8fd90e4dfda7092ddd24879

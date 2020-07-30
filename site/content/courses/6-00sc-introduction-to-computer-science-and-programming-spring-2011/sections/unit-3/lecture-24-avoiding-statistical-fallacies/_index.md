@@ -4,6 +4,8 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 1516a60becbc5b34fa725b89a5ef9a21
+    type: section
+    layout: section
     name: Avoiding Statistical Fallacies
     weight: 320
     parent: 82c1509981b270b9823bc741f08c9b32

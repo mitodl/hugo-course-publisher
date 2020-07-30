@@ -1,0 +1,6 @@
+{{ $partial := .partial }}
+{{ $context := .context }}
+{{ $courseId := .context.Params.course_id }}
+{{ range first 1 (where $context.FirstSection.Sections ".Params.course_id" $courseId) }}
+  {{ partial $partial . }}
+{{ end }}

@@ -4,6 +4,8 @@ course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 menu:
   8-02-physics-ii-electricity-and-magnetism-spring-2007:
     identifier: 0daf498714598983aa855689f242c83b
+    type: section
+    layout: section
     name: Readings
     weight: 30
 ---

@@ -4,6 +4,8 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 6d80f058abf404cb43706b5cfc3197ef
+    type: section
+    layout: section
     name: Resource Index
     weight: 2950
 ---

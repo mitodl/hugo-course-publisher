@@ -4,6 +4,8 @@ course_id: 5-111sc-principles-of-chemical-science-fall-2014
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 542fb9a775828df9e5388d70d4c04741
+    type: section
+    layout: section
     name: Exams
     weight: 430
 ---

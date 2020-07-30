@@ -4,6 +4,8 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 62a94c78a5243c3060aa11c27ff81fc7
+    type: section
+    layout: section
     name: 'Week 10: Distributed Systems III'
     weight: 460
 ---

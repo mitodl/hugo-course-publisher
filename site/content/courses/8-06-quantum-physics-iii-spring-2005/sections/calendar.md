@@ -4,6 +4,8 @@ course_id: 8-06-quantum-physics-iii-spring-2005
 menu:
   8-06-quantum-physics-iii-spring-2005:
     identifier: 49d6e8ebdea348fd41aba83ab302db1e
+    type: section
+    layout: section
     name: Calendar
     weight: 20
 ---

@@ -4,6 +4,8 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: a49b4dade8870239342874b2309ddbed
+    type: section
+    layout: section
     name: Command Prompt and Expressions
     weight: 40
     parent: 71bd52f802118491207f722087127ab2

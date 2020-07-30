@@ -4,6 +4,8 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: c2ca8a0d20e596b11e2ec5c48c7179ca
+    type: section
+    layout: section
     name: 2. Applications of Differentiation
     weight: 300
 ---

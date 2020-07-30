@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 888218d8862bca274ac4c0d76f93da6e
+    type: section
+    layout: section
     name: 0.6 Going Between Representations
     weight: 110
     parent: f8da8d9bf6a478e6808baa7e6aa62306

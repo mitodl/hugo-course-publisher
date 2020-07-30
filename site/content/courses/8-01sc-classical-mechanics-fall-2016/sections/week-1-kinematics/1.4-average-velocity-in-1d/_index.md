@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: d33e0e7873462da711eca59fb555dab2
+    type: section
+    layout: section
     name: 1.4 Average Velocity in 1D
     weight: 170
     parent: 63e325a780c79e352fb5bddb9b8b2c6a

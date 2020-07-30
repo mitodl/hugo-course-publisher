@@ -4,6 +4,8 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 4da2f4d47b887d3f0da6a5405ecfef83
+    type: section
+    layout: section
     name: 4. Techniques of Integration
     weight: 910
 ---

@@ -4,6 +4,8 @@ course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
     identifier: f5e06907d71ddca43f2c29babd15fd05
+    type: section
+    layout: section
     name: Reflective Memo from Fall 2002
     weight: 100
     parent: 05b2ba6343e43028bad4cdf50e0b363a

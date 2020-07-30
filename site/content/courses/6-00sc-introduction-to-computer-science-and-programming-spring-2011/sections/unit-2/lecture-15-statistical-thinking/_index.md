@@ -4,6 +4,8 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: ce0b5b4679baa326f9fd0a1c40f8adae
+    type: section
+    layout: section
     name: Statistical Thinking
     weight: 210
     parent: ddc5db7a5c64e3bda565b36f4ed76287

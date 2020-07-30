@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 490e27c79c4c14bb971b8ce6ece1d220
+    type: section
+    layout: section
     name: PS.2.3 Window Washer Problem
     weight: 560
     parent: cf6d9ae85d7b6e788f1e70cf24afc329

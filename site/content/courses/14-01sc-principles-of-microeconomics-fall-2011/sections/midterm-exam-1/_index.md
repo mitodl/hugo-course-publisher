@@ -4,6 +4,8 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: d46e8fdc6892926428d5f67b02821e82
+    type: section
+    layout: section
     name: Midterm Exam 1
     weight: 150
 ---

@@ -4,6 +4,8 @@ course_id: 6-042j-mathematics-for-computer-science-fall-2010
 menu:
   6-042j-mathematics-for-computer-science-fall-2010:
     identifier: 54c9e1b7498257b4359ea21c60dd8bbf
+    type: section
+    layout: section
     name: Syllabus
     weight: 10
 ---

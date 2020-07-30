@@ -5,6 +5,8 @@ course_id: >-
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: 425fa285f1a6adea4de3e852e4e9b44a
+    type: section
+    layout: section
     name: Calendar
     weight: 30
     parent: 203eeb3a4839933a901cefa7c34f24d7

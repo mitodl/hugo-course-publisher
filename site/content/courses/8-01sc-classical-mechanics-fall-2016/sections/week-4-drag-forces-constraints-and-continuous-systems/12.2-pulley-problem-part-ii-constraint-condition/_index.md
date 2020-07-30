@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: e5a45c415f7a27b6b203fb8dbe933bd0
+    type: section
+    layout: section
     name: '12.2 Pulley Problem - Part II, Constraint Condition'
     weight: 780
     parent: 919a2c506eb4551d940bb0dbab2356f0

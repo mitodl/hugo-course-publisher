@@ -4,6 +4,8 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: eb6bcb74e4a6c927a72e0bf586910c4c
+    type: section
+    layout: section
     name: Sampling and Monte Carlo Simulation
     weight: 200
     parent: ddc5db7a5c64e3bda565b36f4ed76287

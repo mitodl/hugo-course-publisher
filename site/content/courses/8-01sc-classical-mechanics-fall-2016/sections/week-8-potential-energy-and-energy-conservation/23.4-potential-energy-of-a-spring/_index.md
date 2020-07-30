@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: dd8aac7e9f2da3f0154f6d55f2390179
+    type: section
+    layout: section
     name: 23.4 Potential Energy of a Spring
     weight: 1510
     parent: 1394998143efcc493f7c98265cfbd3ae

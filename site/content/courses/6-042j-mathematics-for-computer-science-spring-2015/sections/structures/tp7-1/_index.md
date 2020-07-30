@@ -4,6 +4,8 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 30a03ec26577751dfb8c5b6d0813ce12
+    type: section
+    layout: section
     name: 2.6 Directed Acyclic Graphs (DAGs) & Scheduling
     weight: 1300
     parent: 20b0a2b7a262cb94efd44e9e00511cee

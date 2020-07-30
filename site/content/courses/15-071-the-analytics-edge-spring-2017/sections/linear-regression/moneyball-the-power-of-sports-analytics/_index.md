@@ -4,6 +4,8 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: fcb6a63f4737920a80bf15309d3ee7b6
+    type: section
+    layout: section
     name: '2.3 Moneyball: The Power of Sports Analytics '
     weight: 560
     parent: c846ced6fc6d3bc964e047324e251a98

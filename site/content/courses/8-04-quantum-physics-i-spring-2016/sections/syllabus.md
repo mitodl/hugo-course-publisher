@@ -4,6 +4,8 @@ course_id: 8-04-quantum-physics-i-spring-2016
 menu:
   8-04-quantum-physics-i-spring-2016:
     identifier: 32ca58b63fe33bee28e6786f7ebda5aa
+    type: section
+    layout: section
     name: Syllabus
     weight: 10
 ---

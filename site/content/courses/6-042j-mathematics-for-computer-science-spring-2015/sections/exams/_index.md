@@ -4,6 +4,8 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: f88eb61558302f3dc3e22a63752606ef
+    type: section
+    layout: section
     name: Exams
     weight: 60
 ---

@@ -4,6 +4,8 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 9b324cb475a7af8abf5a0391414fa0b9
+    type: section
+    layout: section
     name: Optimization Problems and Algorithms
     weight: 240
     parent: ddc5db7a5c64e3bda565b36f4ed76287

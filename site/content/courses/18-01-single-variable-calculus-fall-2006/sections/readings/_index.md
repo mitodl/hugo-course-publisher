@@ -4,6 +4,8 @@ course_id: 18-01-single-variable-calculus-fall-2006
 menu:
   18-01-single-variable-calculus-fall-2006:
     identifier: 10aa412934a53f6649d19398bf5e5220
+    type: section
+    layout: section
     name: Readings
     weight: 30
 ---

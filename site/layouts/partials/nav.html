@@ -1,6 +1,6 @@
 {{ $currentPage := . }}
-{{ if (isset .CurrentSection.Params "course_id") }}
-  {{ $courseId := .CurrentSection.Params.course_id }}
+{{ if (isset $currentPage.Params "course_id") }}
+  {{ $courseId := $currentPage.Params.course_id }}
   {{ $menu := index .Site.Menus $courseId }}
   <nav id="course-nav" class="course-nav">
     <ul class="w-100 m-auto list-unstyled">

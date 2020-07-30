@@ -5,6 +5,8 @@ course_id: >-
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: f1e55a73f7cea5df7f8c3cdb40b62292
+    type: section
+    layout: section
     name: Grading and Feedback in a Course Focused on Creative Work
     weight: 110
     parent: 526193cf30dacdf1c6734faab57d51d7

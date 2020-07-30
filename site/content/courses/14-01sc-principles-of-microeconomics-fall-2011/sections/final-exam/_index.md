@@ -4,6 +4,8 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 0a131ce58530cca6ffa83134297349da
+    type: section
+    layout: section
     name: Final Exam
     weight: 470
 ---

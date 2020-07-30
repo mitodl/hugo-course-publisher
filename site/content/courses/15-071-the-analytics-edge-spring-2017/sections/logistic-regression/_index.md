@@ -4,6 +4,8 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: c4464cf49ddb1a4bc78cfaa6f93b74de
+    type: section
+    layout: section
     name: 'Unit 3: Logistic Regression'
     weight: 770
 ---

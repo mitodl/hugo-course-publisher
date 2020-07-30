@@ -4,6 +4,8 @@ course_id: 15-401-finance-theory-i-fall-2008
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: e36e45817f0efb9e693035ba1f600e6d
+    type: section
+    layout: section
     name: Fixed-Income Securities
     weight: 100
     parent: cc3f05d9f4e44ed3db60b79712de51f4

@@ -5,6 +5,8 @@ course_id: >-
 menu:
   18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018:
     identifier: daef5f63da5b36f5ee6bf28e71eb7656
+    type: section
+    layout: section
     name: Readings
     weight: 40
 ---

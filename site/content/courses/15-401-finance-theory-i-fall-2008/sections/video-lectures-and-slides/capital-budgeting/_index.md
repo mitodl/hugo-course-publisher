@@ -4,6 +4,8 @@ course_id: 15-401-finance-theory-i-fall-2008
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: 329f045ace4b7681d74390d050de0c19
+    type: section
+    layout: section
     name: Capital Budgeting
     weight: 170
     parent: cc3f05d9f4e44ed3db60b79712de51f4

@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: 16-121-analytical-subsonic-aerodynamics-fall-2017
 course_title: Analytical Subsonic Aerodynamics
 course_image_url: >-

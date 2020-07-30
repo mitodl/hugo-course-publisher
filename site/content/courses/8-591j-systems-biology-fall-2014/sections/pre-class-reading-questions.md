@@ -4,6 +4,8 @@ course_id: 8-591j-systems-biology-fall-2014
 menu:
   8-591j-systems-biology-fall-2014:
     identifier: 13a7597309d7d8c2339af03a176a0d72
+    type: section
+    layout: section
     name: 'Pre-class Reading Questions '
     weight: 70
 ---

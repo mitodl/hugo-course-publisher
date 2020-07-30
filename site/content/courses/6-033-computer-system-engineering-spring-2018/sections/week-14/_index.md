@@ -4,6 +4,8 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: a53ea92f4c3dbec43ffae7cf73d6eb29
+    type: section
+    layout: section
     name: 'Week 14: Security IV'
     weight: 630
 ---

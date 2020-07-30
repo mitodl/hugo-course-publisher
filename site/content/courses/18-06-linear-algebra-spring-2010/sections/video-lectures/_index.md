@@ -4,6 +4,8 @@ course_id: 18-06-linear-algebra-spring-2010
 menu:
   18-06-linear-algebra-spring-2010:
     identifier: 6b1f662457366951bfe85945521b0299
+    type: section
+    layout: section
     name: Video Lectures
     weight: 40
 type: courses

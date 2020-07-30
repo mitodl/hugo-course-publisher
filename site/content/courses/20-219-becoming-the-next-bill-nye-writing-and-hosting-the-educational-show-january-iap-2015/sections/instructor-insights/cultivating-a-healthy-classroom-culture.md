@@ -5,6 +5,8 @@ course_id: >-
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: 21d57d5a7bfd9ae94ece2d578ddbf16c
+    type: section
+    layout: section
     name: Cultivating a Healthy Classroom Culture
     weight: 120
     parent: 526193cf30dacdf1c6734faab57d51d7

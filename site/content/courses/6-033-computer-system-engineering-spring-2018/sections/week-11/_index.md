@@ -4,6 +4,8 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: c7a234fbb37ee20a41b9581882a0afcd
+    type: section
+    layout: section
     name: 'Week 11: Security I'
     weight: 490
 ---

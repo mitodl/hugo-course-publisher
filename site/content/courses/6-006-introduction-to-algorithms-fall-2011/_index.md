@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: 6-006-introduction-to-algorithms-fall-2011
 course_title: Introduction to Algorithms
 course_image_url: >-

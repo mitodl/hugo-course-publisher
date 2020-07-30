@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: res-18-002-introduction-to-matlab-spring-2008
 course_title: Introduction to MATLAB
 course_image_url: >-

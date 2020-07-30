@@ -4,6 +4,8 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: daafaa58867c9765f1c4c60a9c0ed426
+    type: section
+    layout: section
     name: 'Unit 8: Linear Optimization'
     weight: 2640
 ---

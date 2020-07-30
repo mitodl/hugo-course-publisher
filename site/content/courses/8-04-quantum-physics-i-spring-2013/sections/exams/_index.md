@@ -4,6 +4,8 @@ course_id: 8-04-quantum-physics-i-spring-2013
 menu:
   8-04-quantum-physics-i-spring-2013:
     identifier: d63f931ffb03933abc7cc96bb8670ff8
+    type: section
+    layout: section
     name: Exams
     weight: 70
 ---

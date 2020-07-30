@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 0e404fc32376af370fd1ea9139691b69
+    type: section
+    layout: section
     name: DD.3.3 Gyroscopes 3 - Nutation and Total Angular Momentum
     weight: 2400
     parent: fbf76190d89eeed2930e51f9ac3bf2a6

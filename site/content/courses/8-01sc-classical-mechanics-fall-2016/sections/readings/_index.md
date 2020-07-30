@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 8897a3b7567fb55281b32f8a1de7b53b
+    type: section
+    layout: section
     name: Readings
     weight: 30
 ---

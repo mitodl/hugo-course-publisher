@@ -4,6 +4,8 @@ course_id: 8-04-quantum-physics-i-spring-2013
 menu:
   8-04-quantum-physics-i-spring-2013:
     identifier: 244fee52e5e0c69c19846fa023848834
+    type: section
+    layout: section
     name: Calendar
     weight: 20
 ---

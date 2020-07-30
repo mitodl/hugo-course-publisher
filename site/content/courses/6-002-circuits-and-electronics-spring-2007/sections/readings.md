@@ -4,6 +4,8 @@ course_id: 6-002-circuits-and-electronics-spring-2007
 menu:
   6-002-circuits-and-electronics-spring-2007:
     identifier: d16a02830e6f7653cc683e4117335fff
+    type: section
+    layout: section
     name: Readings
     weight: 40
 ---

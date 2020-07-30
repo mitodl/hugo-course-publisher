@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 18f46ffbbe76a46e978065aa344ceef1
+    type: section
+    layout: section
     name: 'Lesson 26: Types of Collision [26.1-26.3]'
     weight: 1630
     parent: bc33ee80c8fd90e4dfda7092ddd24879

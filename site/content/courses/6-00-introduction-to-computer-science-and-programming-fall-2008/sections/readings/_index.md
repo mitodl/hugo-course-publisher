@@ -4,6 +4,8 @@ course_id: 6-00-introduction-to-computer-science-and-programming-fall-2008
 menu:
   6-00-introduction-to-computer-science-and-programming-fall-2008:
     identifier: 9bc9392936acd9b0f975ae4d5ca38bf5
+    type: section
+    layout: section
     name: Readings
     weight: 30
 ---

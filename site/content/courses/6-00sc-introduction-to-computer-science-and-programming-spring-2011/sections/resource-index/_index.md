@@ -4,6 +4,8 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: aa132f80df80dcc2e3500e9e999a3c25
+    type: section
+    layout: section
     name: Resource Index
     weight: 360
 type: courses

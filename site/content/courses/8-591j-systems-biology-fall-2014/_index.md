@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: 8-591j-systems-biology-fall-2014
 course_title: Systems Biology
 course_image_url: >-

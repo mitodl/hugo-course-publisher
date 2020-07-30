@@ -4,6 +4,8 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: ee8864032dd829b483a2ae7dfeb2da55
+    type: section
+    layout: section
     name: The Geometry of Linear Equations
     weight: 40
     parent: 34303ce19b45724122d2bd33d64df688

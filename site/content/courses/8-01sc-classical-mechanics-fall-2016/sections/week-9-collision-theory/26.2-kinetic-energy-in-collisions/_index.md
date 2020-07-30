@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 2ebec2a90ad827ea35ada76b78bd67bd
+    type: section
+    layout: section
     name: 26.2 Kinetic Energy in Collisions
     weight: 1640
     parent: bc33ee80c8fd90e4dfda7092ddd24879

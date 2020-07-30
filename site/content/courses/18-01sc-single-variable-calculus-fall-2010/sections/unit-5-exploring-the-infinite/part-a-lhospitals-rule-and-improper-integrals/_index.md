@@ -4,6 +4,8 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 7011962365c7a7e31179a33dc8e95275
+    type: section
+    layout: section
     name: 'Part A: L''Hospital''s Rule and Improper Integrals'
     weight: 1190
     parent: 6e3abd11deb09fc49199b1e8893935e7

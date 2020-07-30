@@ -5,6 +5,8 @@ course_id: >-
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: 7b1a98fc328d4951fd19a2109aff7506
+    type: section
+    layout: section
     name: Joshua Cheong's Reflections
     weight: 360
     parent: dadfeb1198fbe700d205d71a4c85f081

@@ -4,6 +4,8 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: af6bed81c4d0d0aa0ddfc05a4f082b9d
+    type: section
+    layout: section
     name: Homework
     weight: 310
     parent: f9312176280b6b537b61db0880b99562

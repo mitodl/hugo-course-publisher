@@ -4,6 +4,8 @@ course_id: ec-711-d-lab-energy-spring-2011
 menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: 97d18199d8e130f96762504a4894e1bc
+    type: section
+    layout: section
     name: Solar
     weight: 130
 type: courses

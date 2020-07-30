@@ -4,6 +4,8 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 47305688cc389e2f9dc3019a395b3b37
+    type: section
+    layout: section
     name: 2.11 Stable Matching
     weight: 1690
     parent: 20b0a2b7a262cb94efd44e9e00511cee

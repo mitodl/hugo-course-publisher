@@ -4,6 +4,8 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 7846c5e31518552402f119e7b530b4bd
+    type: section
+    layout: section
     name: U.S. Social Insurance Programs
     weight: 450
     parent: c94fdf9054571202c278c37041d32e5c

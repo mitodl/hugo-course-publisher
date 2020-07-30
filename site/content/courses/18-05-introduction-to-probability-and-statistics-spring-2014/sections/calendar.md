@@ -4,6 +4,8 @@ course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: 34f1a99dc9122193c437231b1fc08afe
+    type: section
+    layout: section
     name: Calendar
     weight: 20
 ---

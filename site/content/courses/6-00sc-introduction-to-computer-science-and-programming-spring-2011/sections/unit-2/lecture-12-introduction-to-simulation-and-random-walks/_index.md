@@ -4,6 +4,8 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: a7cc68bdf5bd3347c014209d6f7c9e17
+    type: section
+    layout: section
     name: Introduction to Simulation and Random Walks
     weight: 180
     parent: ddc5db7a5c64e3bda565b36f4ed76287

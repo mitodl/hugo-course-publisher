@@ -4,6 +4,8 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 34f596bc232822be5fba75646f6970c5
+    type: section
+    layout: section
     name: 'Unit III: Positive Definite Matrices and Applications'
     weight: 360
 ---

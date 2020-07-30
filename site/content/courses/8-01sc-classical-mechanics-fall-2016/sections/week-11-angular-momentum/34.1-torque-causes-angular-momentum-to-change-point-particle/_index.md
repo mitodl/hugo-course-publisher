@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 764c8090e1bbac3864463719891094c3
+    type: section
+    layout: section
     name: 'Lesson 34: Torque and Angular Impulse [34.1-34.5]'
     weight: 2160
     parent: d36579bd7dfcb71f76178b4b8d45c312

@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: fbf76190d89eeed2930e51f9ac3bf2a6
+    type: section
+    layout: section
     name: 'Week 12: Rotations and Translation - Rolling'
     weight: 2220
 ---

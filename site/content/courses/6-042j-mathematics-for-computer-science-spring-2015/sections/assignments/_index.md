@@ -4,6 +4,8 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 8da72fce08fec8a571c1e09779e12577
+    type: section
+    layout: section
     name: Assignments
     weight: 50
 ---

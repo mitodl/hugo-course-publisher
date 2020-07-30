@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: ce8e09d4807a942257ee603eabb68035
+    type: section
+    layout: section
     name: 'Week 6 Worked Examples [PS.6.1-PS.6.2]'
     weight: 1220
     parent: 28d93f13f552de729aab415b7158be8e

@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: 6-002-circuits-and-electronics-spring-2007
 course_title: Circuits and Electronics
 course_image_url: >-

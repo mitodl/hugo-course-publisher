@@ -4,6 +4,8 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: ebde421e0808fd2831950f1a9a69cfb3
+    type: section
+    layout: section
     name: Debugging
     weight: 110
     parent: 975ad7bfdd9c4ffe26b6710fa718d5e6

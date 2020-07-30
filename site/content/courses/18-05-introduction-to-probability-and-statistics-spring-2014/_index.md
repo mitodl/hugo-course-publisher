@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 course_title: Introduction to Probability and Statistics
 course_image_url: >-

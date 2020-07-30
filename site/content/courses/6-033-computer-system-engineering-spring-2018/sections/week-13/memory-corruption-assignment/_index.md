@@ -4,6 +4,8 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: f16c7835ea5199312f17c5652cc47102
+    type: section
+    layout: section
     name: Memory Corruption Assignment
     weight: 620
     parent: 87aba98430c8d18b3f717bdec998328f

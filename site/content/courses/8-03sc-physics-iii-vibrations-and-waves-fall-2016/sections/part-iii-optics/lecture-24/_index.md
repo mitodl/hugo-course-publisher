@@ -4,6 +4,8 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 9e7f58a6a5308e13cc42a1813a4fbd62
+    type: section
+    layout: section
     name: 'Lecture 24: Review for Final Exam'
     weight: 310
     parent: 562065223db4e5d13c0186ef14e4db6a

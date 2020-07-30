@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 80bbab7a52457ea7acb5deb15fb9c9cb
+    type: section
+    layout: section
     name: 2.4 Integration
     weight: 240
     parent: 63e325a780c79e352fb5bddb9b8b2c6a

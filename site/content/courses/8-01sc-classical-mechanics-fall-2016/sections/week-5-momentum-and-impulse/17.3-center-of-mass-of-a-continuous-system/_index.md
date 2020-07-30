@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: a497a7004a1cb6e774fca8b3fe964984
+    type: section
+    layout: section
     name: 17.3 Center of Mass of a Continuous System
     weight: 1030
     parent: c1168b62a27dcf9f3fe2550af1ed72f5

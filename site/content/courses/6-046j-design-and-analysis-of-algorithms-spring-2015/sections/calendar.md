@@ -4,6 +4,8 @@ course_id: 6-046j-design-and-analysis-of-algorithms-spring-2015
 menu:
   6-046j-design-and-analysis-of-algorithms-spring-2015:
     identifier: 7ce8bf64fb7a99a395f70cba6bec958c
+    type: section
+    layout: section
     name: Calendar
     weight: 20
 ---

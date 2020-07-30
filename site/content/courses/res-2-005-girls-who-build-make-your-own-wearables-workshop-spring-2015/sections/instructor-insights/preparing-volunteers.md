@@ -4,6 +4,8 @@ course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-201
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: 1f493c870fc82e0e70a87df3f3a9f17a
+    type: section
+    layout: section
     name: Preparing Volunteers
     weight: 70
     parent: 93633c3e763e0e991be7a7388bafdbb7

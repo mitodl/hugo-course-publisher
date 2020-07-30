@@ -4,6 +4,8 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: aa7bcfd6ec863e35a88d1a5eba2076b6
+    type: section
+    layout: section
     name: 'Lecture 7: Symmetry, Infinite Number of Coupled Oscillators'
     weight: 100
     parent: 6682a3d163976bcbb2fbe67db27d8f04

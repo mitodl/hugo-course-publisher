@@ -4,6 +4,8 @@ course_id: 6-0001-introduction-to-computer-science-and-programming-in-python-fal
 menu:
   6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016:
     identifier: 6f345174e0dcc7e81d42cb983600c3b0
+    type: section
+    layout: section
     name: Lecture 3
     weight: 80
     parent: cc74bf5b1a22399e271270abfff469d7

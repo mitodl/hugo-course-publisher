@@ -4,6 +4,8 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 30164ec69f858d020a1378d8b9c366fe
+    type: section
+    layout: section
     name: Singular Value Decomposition
     weight: 410
     parent: 34f596bc232822be5fba75646f6970c5

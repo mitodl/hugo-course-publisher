@@ -4,6 +4,8 @@ course_id: ec-711-d-lab-energy-spring-2011
 menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: 6e9b9baba0f993d05be2369160b9b3ca
+    type: section
+    layout: section
     name: Lab 1 Instructions
     weight: 30
     parent: 32a22e0de0add67342ce41445297fce7

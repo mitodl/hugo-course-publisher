@@ -4,6 +4,8 @@ course_id: res-2-006-girls-who-build-cameras-summer-2016
 menu:
   res-2-006-girls-who-build-cameras-summer-2016:
     identifier: a96a11854d733e8f0a13db3e104ba10d
+    type: section
+    layout: section
     name: Image Processing
     weight: 60
 type: courses

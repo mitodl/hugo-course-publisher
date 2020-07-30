@@ -4,6 +4,8 @@ course_id: 21g-049-french-photography-spring-2017
 menu:
   21g-049-french-photography-spring-2017:
     identifier: ff83dfbcd120dab0caee5f9e164fa6b9
+    type: section
+    layout: section
     name: Calendar
     weight: 20
 ---

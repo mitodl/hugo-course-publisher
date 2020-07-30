@@ -4,6 +4,8 @@ course_id: 6-046j-design-and-analysis-of-algorithms-spring-2015
 menu:
   6-046j-design-and-analysis-of-algorithms-spring-2015:
     identifier: 59a7a862feb85c8b52509910c07728e5
+    type: section
+    layout: section
     name: Lecture Videos
     weight: 70
 type: courses

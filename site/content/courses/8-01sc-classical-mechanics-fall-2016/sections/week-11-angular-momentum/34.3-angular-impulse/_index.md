@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: c05d690a2d84af9331cba14e62bbc9b6
+    type: section
+    layout: section
     name: 34.3 Angular Impulse
     weight: 2180
     parent: d36579bd7dfcb71f76178b4b8d45c312

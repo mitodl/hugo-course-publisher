@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 925902fb58d913d4f7cc63f17c643740
+    type: section
+    layout: section
     name: '13.5 Demo: Wrapping Friction'
     weight: 860
     parent: 919a2c506eb4551d940bb0dbab2356f0

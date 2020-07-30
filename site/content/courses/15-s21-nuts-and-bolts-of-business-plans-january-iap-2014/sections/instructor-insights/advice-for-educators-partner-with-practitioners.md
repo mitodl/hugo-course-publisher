@@ -4,6 +4,8 @@ course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
 menu:
   15-s21-nuts-and-bolts-of-business-plans-january-iap-2014:
     identifier: af386daaf958796636a97ab93e85af35
+    type: section
+    layout: section
     name: 'Advice for Educators: Partner with Practitioners'
     weight: 50
     parent: 68847d16d9620f2b7563d82fad77467d

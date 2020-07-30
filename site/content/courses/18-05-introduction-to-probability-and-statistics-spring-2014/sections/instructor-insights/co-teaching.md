@@ -4,6 +4,8 @@ course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: bcc7c9ac7b8171b23cc45d69d98f83cd
+    type: section
+    layout: section
     name: Co-Teaching
     weight: 160
     parent: 1b6858820e39dbc6ba03dc47858871bd

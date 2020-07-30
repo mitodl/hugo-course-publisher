@@ -4,6 +4,8 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 9b3392d99bebd11047c36d07bc404bbc
+    type: section
+    layout: section
     name: Linear Transformations and their Matrices
     weight: 420
     parent: 34f596bc232822be5fba75646f6970c5

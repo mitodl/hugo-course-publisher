@@ -4,6 +4,8 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 4ff3236dbb77bc3460226ad4dce64b50
+    type: section
+    layout: section
     name: Syllabus
     weight: 10
 ---

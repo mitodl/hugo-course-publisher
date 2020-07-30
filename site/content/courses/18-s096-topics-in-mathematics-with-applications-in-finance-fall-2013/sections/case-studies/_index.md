@@ -4,6 +4,8 @@ course_id: 18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013
 menu:
   18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013:
     identifier: 2b463a8a0a5209f138e5d6814ffaf688
+    type: section
+    layout: section
     name: Case Studies
     weight: 50
 ---

@@ -4,6 +4,8 @@ course_id: 15-401-finance-theory-i-fall-2008
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: cc3f05d9f4e44ed3db60b79712de51f4
+    type: section
+    layout: section
     name: Video Lectures and Slides
     weight: 70
 ---

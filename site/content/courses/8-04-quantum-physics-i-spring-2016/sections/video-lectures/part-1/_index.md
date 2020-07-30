@@ -4,6 +4,8 @@ course_id: 8-04-quantum-physics-i-spring-2016
 menu:
   8-04-quantum-physics-i-spring-2016:
     identifier: 71777a8528aa183c9060b392a1839df5
+    type: section
+    layout: section
     name: Basic Concepts
     weight: 50
     parent: fd67230c637e4133bfc507ab35776015

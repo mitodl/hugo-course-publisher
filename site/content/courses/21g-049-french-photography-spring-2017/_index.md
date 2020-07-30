@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: 21g-049-french-photography-spring-2017
 course_title: French Photography
 course_image_url: >-

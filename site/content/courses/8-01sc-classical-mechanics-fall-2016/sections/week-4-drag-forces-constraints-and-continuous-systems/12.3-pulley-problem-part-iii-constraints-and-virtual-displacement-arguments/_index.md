@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 52dabb10b187e457ddd49e0ee8193e03
+    type: section
+    layout: section
     name: '12.3 Pulley Problem - Part III, Constraints and Virtual Displacem'
     weight: 790
     parent: 919a2c506eb4551d940bb0dbab2356f0

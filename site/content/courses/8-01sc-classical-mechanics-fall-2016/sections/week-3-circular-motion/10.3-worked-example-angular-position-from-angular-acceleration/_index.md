@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 8992e0cfaf5f2ab2d813cd1facefbf81
+    type: section
+    layout: section
     name: 10.3 Worked Example - Angular Position from Angular Acceleration
     weight: 680
     parent: 3c7d357cbb95e729679b539d23714ede

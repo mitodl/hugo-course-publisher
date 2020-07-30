@@ -4,6 +4,8 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: f635ac92fa8971e368192518b537eb93
+    type: section
+    layout: section
     name: 'Lecture 3: Driven Oscillators, Transient Phenomena, Resonance'
     weight: 60
     parent: 6682a3d163976bcbb2fbe67db27d8f04

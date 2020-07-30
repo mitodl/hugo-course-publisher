@@ -4,6 +4,8 @@ course_id: 6-034-artificial-intelligence-fall-2010
 menu:
   6-034-artificial-intelligence-fall-2010:
     identifier: 72f651ef7c6c85f9293e445d51148aab
+    type: section
+    layout: section
     name: Challenges Teaching Assistants Face
     weight: 80
     parent: f55530ea3c456eb048484f3ee8291c38

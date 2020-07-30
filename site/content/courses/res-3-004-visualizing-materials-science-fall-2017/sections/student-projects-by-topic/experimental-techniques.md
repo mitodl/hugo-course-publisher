@@ -4,6 +4,8 @@ course_id: res-3-004-visualizing-materials-science-fall-2017
 menu:
   res-3-004-visualizing-materials-science-fall-2017:
     identifier: 402b1ba03dd1a8e37f789f8de895cded
+    type: section
+    layout: section
     name: Experimental Techniques
     weight: 420
     parent: f62d5df839342533e0228b16ea71313c

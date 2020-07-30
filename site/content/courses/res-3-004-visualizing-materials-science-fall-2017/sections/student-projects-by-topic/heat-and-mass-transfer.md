@@ -4,6 +4,8 @@ course_id: res-3-004-visualizing-materials-science-fall-2017
 menu:
   res-3-004-visualizing-materials-science-fall-2017:
     identifier: 209f8d4904536f9581ac455c8420af55
+    type: section
+    layout: section
     name: Heat and Mass Transfer
     weight: 430
     parent: f62d5df839342533e0228b16ea71313c

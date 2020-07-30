@@ -4,6 +4,8 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 7812a93a44efb5a1dc9ce62cd47381e1
+    type: section
+    layout: section
     name: Assessment in an Online Course
     weight: 60
     parent: 533d102efe069d1db963beda43cca2a1

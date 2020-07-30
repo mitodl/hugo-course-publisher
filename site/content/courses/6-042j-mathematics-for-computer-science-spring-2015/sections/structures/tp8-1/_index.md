@@ -4,6 +4,8 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: cbeb9c37cb9ca67ccf216c0b8aeab325
+    type: section
+    layout: section
     name: 2.10 Trees
     weight: 1590
     parent: 20b0a2b7a262cb94efd44e9e00511cee

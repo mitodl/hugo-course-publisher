@@ -4,6 +4,8 @@ course_id: res-tll-005-how-to-speak-january-iap-2018
 menu:
   res-tll-005-how-to-speak-january-iap-2018:
     identifier: a42b9bed499e353e1d55464656d8758c
+    type: section
+    layout: section
     name: How to Speak
     weight: 10
 type: courses

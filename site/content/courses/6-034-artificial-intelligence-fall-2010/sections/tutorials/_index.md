@@ -4,6 +4,8 @@ course_id: 6-034-artificial-intelligence-fall-2010
 menu:
   6-034-artificial-intelligence-fall-2010:
     identifier: 25b4d967a959c4cecc7d0545026be8c6
+    type: section
+    layout: section
     name: Tutorials
     weight: 120
 ---

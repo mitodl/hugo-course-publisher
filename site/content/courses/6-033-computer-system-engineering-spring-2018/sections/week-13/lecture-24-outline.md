@@ -4,6 +4,8 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: c4a5c6595c872d2d140b12b013818b4a
+    type: section
+    layout: section
     name: Lecture 24 Outline
     weight: 610
     parent: 87aba98430c8d18b3f717bdec998328f

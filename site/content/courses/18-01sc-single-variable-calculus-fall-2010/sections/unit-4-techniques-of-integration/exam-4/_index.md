@@ -4,6 +4,8 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 6484ae5940462fadf99f0d827e877e70
+    type: section
+    layout: section
     name: Exam 4
     weight: 1150
     parent: 4da2f4d47b887d3f0da6a5405ecfef83

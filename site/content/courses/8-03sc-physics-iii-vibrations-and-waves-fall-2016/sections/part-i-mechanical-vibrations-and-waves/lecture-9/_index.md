@@ -4,6 +4,8 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: de998eb5074b7df13d103d14ca8b2ced
+    type: section
+    layout: section
     name: 'Lecture 9: Wave Equation, Standing Waves, Fourier Series'
     weight: 120
     parent: 6682a3d163976bcbb2fbe67db27d8f04

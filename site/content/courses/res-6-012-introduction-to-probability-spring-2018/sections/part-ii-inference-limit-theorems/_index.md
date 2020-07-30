@@ -4,6 +4,8 @@ course_id: res-6-012-introduction-to-probability-spring-2018
 menu:
   res-6-012-introduction-to-probability-spring-2018:
     identifier: b8cdf274e2b0f82662e4cd137e85d308
+    type: section
+    layout: section
     name: 'Part II: Inference & Limit Theorems'
     weight: 20
 type: courses

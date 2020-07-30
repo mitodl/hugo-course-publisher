@@ -4,6 +4,8 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 376c3d9771c7c91d107df6d7f5c02e64
+    type: section
+    layout: section
     name: Debugging with MATLAB
     weight: 250
 ---

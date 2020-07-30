@@ -4,6 +4,8 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 40fb5a3b10aec787e007dfb9b099de9c
+    type: section
+    layout: section
     name: Syllabus
     weight: 10
 ---

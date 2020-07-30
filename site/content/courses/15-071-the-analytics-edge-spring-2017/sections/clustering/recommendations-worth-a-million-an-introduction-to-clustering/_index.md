@@ -4,6 +4,8 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: b091b1bec85a85e060a83b7905c9dcce
+    type: section
+    layout: section
     name: '6.2 Recommendations Worth a Million: An Introduction to Clustering '
     weight: 1960
     parent: 6e34350394a0f94851f48f324b5f657f

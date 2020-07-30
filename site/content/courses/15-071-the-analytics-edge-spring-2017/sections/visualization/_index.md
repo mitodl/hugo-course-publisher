@@ -4,6 +4,8 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: ab87d151cf8cfe95c873e816df164d38
+    type: section
+    layout: section
     name: 'Unit 7: Visualization'
     weight: 2300
 ---

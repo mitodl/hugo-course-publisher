@@ -4,6 +4,8 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 109f4d41cb88fdaade16336e6c117167
+    type: section
+    layout: section
     name: 2.9 Coloring & Connectivity
     weight: 1510
     parent: 20b0a2b7a262cb94efd44e9e00511cee

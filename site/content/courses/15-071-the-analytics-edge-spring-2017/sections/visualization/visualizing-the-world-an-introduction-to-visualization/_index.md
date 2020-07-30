@@ -4,6 +4,8 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 274ac6b9daf6cd65874ec643ab327953
+    type: section
+    layout: section
     name: '7.2 Visualizing the World: An Introduction to Visualization'
     weight: 2320
     parent: ab87d151cf8cfe95c873e816df164d38

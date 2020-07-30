@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 1453ead14cf51b679b6fbbde49dd2fe7
+    type: section
+    layout: section
     name: '34.4 Demo: Bicycle Wheel'
     weight: 2190
     parent: d36579bd7dfcb71f76178b4b8d45c312

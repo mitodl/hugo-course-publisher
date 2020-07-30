@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 8de92a30b4b3f264b6a68332032322e6
+    type: section
+    layout: section
     name: 17.6 Velocity and Acceleration of the Center of Mass
     weight: 1060
     parent: c1168b62a27dcf9f3fe2550af1ed72f5

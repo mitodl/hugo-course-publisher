@@ -4,6 +4,8 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: e96b35e94a979cbd2101868dae215a07
+    type: section
+    layout: section
     name: Syllabus
     weight: 10
 ---

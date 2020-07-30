@@ -4,6 +4,8 @@ course_id: res-tll-005-how-to-speak-january-iap-2018
 menu:
   res-tll-005-how-to-speak-january-iap-2018:
     identifier: 2d715977a60ba1ed159f652c0968c550
+    type: section
+    layout: section
     name: Related Resources
     weight: 20
 ---

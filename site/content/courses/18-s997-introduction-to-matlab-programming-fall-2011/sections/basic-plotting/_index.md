@@ -4,6 +4,8 @@ course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 81a610a835a9454d733fecd98304058c
+    type: section
+    layout: section
     name: Basic Plotting
     weight: 120
 ---

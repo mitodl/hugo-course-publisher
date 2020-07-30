@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 53ee58530a4921c2adae1adaaafb6510
+    type: section
+    layout: section
     name: 'Lesson 21: Kinetic Energy and Work in 2D and 3D [21.1-21.6]'
     weight: 1330
     parent: 1099b7667930f7e51cccc80d63899c02

@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: b4cadb9794c48f081f798ea3f224e263
+    type: section
+    layout: section
     name: Week 9 Introduction
     weight: 1620
     parent: bc33ee80c8fd90e4dfda7092ddd24879

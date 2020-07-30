@@ -4,6 +4,8 @@ course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 4ecd242644a738e7a27902211bfbfebc
+    type: section
+    layout: section
     name: 'Week 5: The Worker Voice and Advocacy'
     weight: 630
 ---

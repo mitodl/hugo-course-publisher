@@ -4,6 +4,8 @@ course_id: 18-02sc-multivariable-calculus-fall-2010
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: fae0471018712678ad1b80e80246916a
+    type: section
+    layout: section
     name: 'Part A: Triple Integrals'
     weight: 1060
     parent: 80a7ff20650c3af9a002f822edced8a0

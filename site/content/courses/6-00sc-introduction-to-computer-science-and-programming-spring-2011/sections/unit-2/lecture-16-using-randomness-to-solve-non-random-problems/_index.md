@@ -4,6 +4,8 @@ course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 76234e321a3a3b21e1e548190e089977
+    type: section
+    layout: section
     name: Using Randomness to Solve Non-random Problems
     weight: 220
     parent: ddc5db7a5c64e3bda565b36f4ed76287

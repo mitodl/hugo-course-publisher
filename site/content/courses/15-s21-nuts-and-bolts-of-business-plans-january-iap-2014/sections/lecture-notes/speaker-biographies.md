@@ -4,6 +4,8 @@ course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
 menu:
   15-s21-nuts-and-bolts-of-business-plans-january-iap-2014:
     identifier: c7ee5bb7639ff7e8b518da2c4546f236
+    type: section
+    layout: section
     name: Speaker Biographies
     weight: 80
     parent: ca3d66e66d2902d9e3726a8a8c156fcd

@@ -4,6 +4,8 @@ course_id: 21g-049-french-photography-spring-2017
 menu:
   21g-049-french-photography-spring-2017:
     identifier: e1123ff4e666a9f0c5bdb339668c1e5a
+    type: section
+    layout: section
     name: Syllabus
     weight: 10
 ---

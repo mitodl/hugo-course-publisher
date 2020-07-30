@@ -4,6 +4,8 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: d2f78aa297e682ccaea120a362c5d934
+    type: section
+    layout: section
     name: Complex Matrices; Fast Fourier Transform (FFT)
     weight: 380
     parent: 34f596bc232822be5fba75646f6970c5

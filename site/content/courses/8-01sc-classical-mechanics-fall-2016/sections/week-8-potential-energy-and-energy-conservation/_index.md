@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 1394998143efcc493f7c98265cfbd3ae
+    type: section
+    layout: section
     name: 'Week 8: Potential Energy and Energy Conservation'
     weight: 1460
 ---

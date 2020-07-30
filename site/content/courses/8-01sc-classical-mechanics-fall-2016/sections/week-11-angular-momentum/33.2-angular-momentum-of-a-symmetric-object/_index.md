@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 9deac7e75b47a11bf55726507f60685a
+    type: section
+    layout: section
     name: 33.2 Angular Momentum of a Symmetric Object
     weight: 2120
     parent: d36579bd7dfcb71f76178b4b8d45c312

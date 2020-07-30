@@ -4,6 +4,8 @@ course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: f3d7a1ea4cf95fa022ce86ee40bc078a
+    type: section
+    layout: section
     name: 'PDP5: Camp Catalog Favorites'
     weight: 240
     parent: f46140cde86ad79a318fba9b9f2dbf04

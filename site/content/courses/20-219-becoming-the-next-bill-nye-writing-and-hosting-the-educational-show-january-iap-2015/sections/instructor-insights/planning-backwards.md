@@ -5,6 +5,8 @@ course_id: >-
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: a0230e428e9afc439b1625558c1717d3
+    type: section
+    layout: section
     name: Planning Backwards
     weight: 100
     parent: 526193cf30dacdf1c6734faab57d51d7

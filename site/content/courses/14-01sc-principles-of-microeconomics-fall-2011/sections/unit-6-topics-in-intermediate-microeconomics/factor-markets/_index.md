@@ -4,6 +4,8 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 9af143892f78d160e3b7064bcdef0053
+    type: section
+    layout: section
     name: Factor Markets
     weight: 350
     parent: 2b057e13f81e86aad632c23c1074b663

@@ -4,6 +4,8 @@ course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-201
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: ee7a411e575464ae8fb6704e38f60bcf
+    type: section
+    layout: section
     name: Workshop Schedule
     weight: 20
     parent: 29231ee458eef9e6f7e12bbfdf131b0f

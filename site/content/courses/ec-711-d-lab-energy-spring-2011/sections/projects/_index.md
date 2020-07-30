@@ -4,6 +4,8 @@ course_id: ec-711-d-lab-energy-spring-2011
 menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: b769b31f283dae0eca5f75068d997bdb
+    type: section
+    layout: section
     name: Projects
     weight: 190
 type: courses

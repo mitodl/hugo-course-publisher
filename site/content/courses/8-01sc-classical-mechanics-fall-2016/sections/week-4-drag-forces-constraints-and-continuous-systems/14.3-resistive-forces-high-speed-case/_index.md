@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: cc32eace0df413671aa69a03a79b0c59
+    type: section
+    layout: section
     name: 14.3 Resistive Forces - High Speed Case
     weight: 900
     parent: 919a2c506eb4551d940bb0dbab2356f0

@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: e2681bc376381c8323b6624545050a09
+    type: section
+    layout: section
     name: 2.3 Worked Example - Acceleration from Position
     weight: 230
     parent: 63e325a780c79e352fb5bddb9b8b2c6a

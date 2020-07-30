@@ -5,6 +5,8 @@ course_id: >-
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: 0a26ad074929732e5270b0bfe8bbced9
+    type: section
+    layout: section
     name: Andrea Desrosiers's Reflections
     weight: 370
     parent: dadfeb1198fbe700d205d71a4c85f081

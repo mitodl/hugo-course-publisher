@@ -4,6 +4,8 @@ course_id: 18-02sc-multivariable-calculus-fall-2010
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: c4eb7979ba24327046e3f4d3be8fc654
+    type: section
+    layout: section
     name: ' 2. Partial Derivatives'
     weight: 350
 ---

@@ -1,5 +1,7 @@
 ---
 title: Course Home
+type: course_home
+layout: section
 course_id: >-
   18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018
 course_title: 'Matrix Methods in Data Analysis, Signal Processing, and Machine Learning'

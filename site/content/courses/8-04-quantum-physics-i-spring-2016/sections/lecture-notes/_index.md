@@ -4,6 +4,8 @@ course_id: 8-04-quantum-physics-i-spring-2016
 menu:
   8-04-quantum-physics-i-spring-2016:
     identifier: 6947b4d2b0d73d159ba3638f887f2509
+    type: section
+    layout: section
     name: Lecture Notes
     weight: 30
 ---

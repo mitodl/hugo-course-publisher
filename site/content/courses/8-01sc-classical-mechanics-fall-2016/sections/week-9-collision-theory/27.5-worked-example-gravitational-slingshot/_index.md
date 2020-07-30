@@ -4,6 +4,8 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 5f59027b133dd077d093570d40c67694
+    type: section
+    layout: section
     name: 27.5 Worked Example - Gravitational Slingshot
     weight: 1700
     parent: bc33ee80c8fd90e4dfda7092ddd24879
