@@ -24,7 +24,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_18.06 Linear Algebra_](./resolveuid/b89637d2d64abf7896f604f5d40d48a9)
+[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011)
 
 ### Requirements Satisfied
 

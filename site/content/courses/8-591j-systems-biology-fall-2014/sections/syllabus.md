@@ -22,7 +22,7 @@ This course provides an introduction to cellular and population-level systems bi
 Prerequisites
 -------------
 
-Given the wide range of backgrounds among students in this class we will try to avoid unnecessary jargon and mathematics. However, it will be very helpful if you are comfortable with the material in [_Introductory Biology 7.012_](./resolveuid/33817d1d1e0e0ec7a8a4bfbb92e959d3), [_Differential Equations 18.03_](./resolveuid/3caf857bc5c2495393d761d529a6b62b), and [_Probability 18.05_](./resolveuid/e5609df443ee617eddfe45413f3d7c5a). In addition, each weekly problem set will have a computational problem, so prior experience with a computational package such as MATLAB®, Mathematica®, or Python is expected. The "officially supported" package will be Python (sample code, etc), but problems can be done in any language.
+Given the wide range of backgrounds among students in this class we will try to avoid unnecessary jargon and mathematics. However, it will be very helpful if you are comfortable with the material in [_Introductory Biology 7.012_](./resolveuid/33817d1d1e0e0ec7a8a4bfbb92e959d3), [_Differential Equations 18.03_](./resolveuid/3caf857bc5c2495393d761d529a6b62b), and [_Probability 18.05_](/courses/18-05-introduction-to-probability-and-statistics-spring-2014). In addition, each weekly problem set will have a computational problem, so prior experience with a computational package such as MATLAB®, Mathematica®, or Python is expected. The "officially supported" package will be Python (sample code, etc), but problems can be done in any language.
 
 Textbooks
 ---------

@@ -14,7 +14,7 @@ Welcome to 6.042! In this course, we'll teach you some mathematics that we think
 Prerequisites
 -------------
 
-The only prerequisite is [18.01](./resolveuid/f5d4bf19ee14590de94d9e2b266614ba). If you have already taken [18.310](./resolveuid/34ebb76f72dcccd3be780d93a500a3ce) or [6.046](./resolveuid/9e6fbb548601d046b61fdff90c09f8c9), then you should not take 6.042.
+The only prerequisite is [18.01](/courses/18-01-single-variable-calculus-fall-2006). If you have already taken [18.310](./resolveuid/34ebb76f72dcccd3be780d93a500a3ce) or [6.046](./resolveuid/9e6fbb548601d046b61fdff90c09f8c9), then you should not take 6.042.
 
 Course Meeting Times
 --------------------

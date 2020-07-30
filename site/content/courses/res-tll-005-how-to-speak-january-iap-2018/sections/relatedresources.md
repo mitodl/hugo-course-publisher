@@ -19,7 +19,7 @@ The new book, covering many of the topics included in this video, will be publis
 Professor Winston’s Courses on OCW
 ----------------------------------
 
-Professor Winston was widely known for teaching _[6.034 Artificial Intelligence](./resolveuid/334ddfd35136fa9b4e540f1e2bf63cc0)_, a class that introduced students to the basic knowledge representation, problem solving, and learning methods of artificial intelligence.
+Professor Winston was widely known for teaching _[6.034 Artificial Intelligence](/courses/6-034-artificial-intelligence-fall-2010)_, a class that introduced students to the basic knowledge representation, problem solving, and learning methods of artificial intelligence.
 
 Another course long taught by Professor Winston was _[6.803 The Human Intelligence Enterprise](./resolveuid/8a095d0d68d7a24a5ea4c7d6aa5687d4),_ which was designed to help students learn about progress toward the scientific goal of understanding human intelligence from a computational point of view.
 

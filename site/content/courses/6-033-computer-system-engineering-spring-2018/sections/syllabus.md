@@ -49,7 +49,7 @@ Required Text
 
 The text supplements the lectures and recitations; it should be your first resource when you are confused by a lecture topic, or want more information.
 
-[Part II of the textbook](./resolveuid/c6b38c8ecf9c7599c9c88414f33b91f4) is available on MIT OpenCourseWare.
+[Part II of the textbook](/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009) is available on MIT OpenCourseWare.
 
 Course Structure
 ----------------

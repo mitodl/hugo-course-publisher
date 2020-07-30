@@ -9,14 +9,14 @@ menu:
     name: Syllabus
     weight: 10
 ---
-« [Previous](./resolveuid/19cb51d5cef7d0467691d444accc451d) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/instructor-insights/_index.md" %}}) »
+« [Previous](/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/instructor-insights/_index.md" %}}) »
 
 Prerequisites
 -------------
 
-[_18.02 Multivariable Calculus_](./resolveuid/90deb4124e379efd2f36bab248d3ce4e) and [_8.02 Electricity and Magnetism_](./resolveuid/8d3bdda7363b3a4b18d9d5b7c4083899).
+[_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010) and [_8.02 Electricity and Magnetism_](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007).
 
-This course is designed for students who are already familiar with the concepts taught in [_8.01 Classical Mechanics_](./resolveuid/8f538d2a785ea37ad30133ad74e8e40e) as well as [_8.02 Electricity and Magnetism_](./resolveuid/8d3bdda7363b3a4b18d9d5b7c4083899). We also rely on fundamental mathematics principles taught in [_18.01 Single Variable Calculus_](./resolveuid/bfe41979b9593362793fd930b36efa01) and [_18.02 Multivariable Calculus_](./resolveuid/90deb4124e379efd2f36bab248d3ce4e), as well as some aspects of [_18.06 Linear Algebra_](./resolveuid/b89637d2d64abf7896f604f5d40d48a9).
+This course is designed for students who are already familiar with the concepts taught in [_8.01 Classical Mechanics_](/courses/8-01sc-classical-mechanics-fall-2016) as well as [_8.02 Electricity and Magnetism_](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007). We also rely on fundamental mathematics principles taught in [_18.01 Single Variable Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010) and [_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010), as well as some aspects of [_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011).
 
 Course Overview
 ---------------
@@ -62,4 +62,4 @@ Suggested References
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262520478) [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0262520478/ref=nosim/mitopencourse-20) Bekefi, George, and Alan H. Barrett. _Electromagnetic Vibrations, Waves, and Radiation_. MIT Press, 1977. ISBN: 9780262520478. \[Preview with [Google Books](http://books.google.com/books?id=zRfTq6iMdNEC&pg=PAfrontcover)\]
 
-« [Previous](./resolveuid/19cb51d5cef7d0467691d444accc451d) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/instructor-insights/_index.md" %}}) »
+« [Previous](/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/instructor-insights/_index.md" %}}) »

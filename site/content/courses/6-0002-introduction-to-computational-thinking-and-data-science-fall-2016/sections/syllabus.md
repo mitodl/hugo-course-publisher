@@ -19,7 +19,7 @@ Recitations: 1 sessions / week, 1 hour / session
 Prerequisites
 -------------
 
-[_6.0001 Introduction to Computer Science and Programming in Python_ or permission of instructor](./resolveuid/9833b95b8cbb8e0e7928063857ea2761).
+[_6.0001 Introduction to Computer Science and Programming in Python_ or permission of instructor](/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016).
 
 Course Information
 ------------------
@@ -39,8 +39,8 @@ Students taking 6.00 will attend the 6.0001 and 6.0002 lectures and do the probl
 
 OCW has additional versions of 6.00 that include useful materials; this course will closely parallell the material covered in these versions:
 
-*   [_6.00SC Introduction to Computer Science and Programming_](./resolveuid/41b37938a604834d01f3e5faa9de5080)
-*   [_6.00 Introduction to Computer Science and Programming_](./resolveuid/b488f180a1af8ccc6e6ff1d20254e9de)
+*   [_6.00SC Introduction to Computer Science and Programming_](/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011)
+*   [_6.00 Introduction to Computer Science and Programming_](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008)
 
 Goals
 -----

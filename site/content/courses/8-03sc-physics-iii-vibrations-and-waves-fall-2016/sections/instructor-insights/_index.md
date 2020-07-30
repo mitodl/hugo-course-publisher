@@ -39,8 +39,8 @@ Curriculum Information
 
 ### Prerequisites
 
-[_18.02 Multivariable Calculus_](./resolveuid/90deb4124e379efd2f36bab248d3ce4e)  
-and [_8.02 Electricity and Magnetism_](./resolveuid/8d3bdda7363b3a4b18d9d5b7c4083899)
+[_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010)  
+and [_8.02 Electricity and Magnetism_](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007)
 
 ### Requirements Satisfied
 
