@@ -12,7 +12,7 @@ const { directoryExists } = require("../src/js/helpers")
 
 const distPath = "dist"
 const coursesPath = path.join("site", "content", "courses")
-const zipsPath = "zips"
+const zipsPath = path.join("site", "static", "zips")
 
 rimraf.sync(zipsPath)
 fs.mkdirSync(zipsPath, { recursive: true })
@@ -41,6 +41,7 @@ if (directoryExists(distPath) && directoryExists(coursesPath)) {
         const courses = fs
           .readdirSync(coursesPath)
           .filter(course => !course.includes("."))
+        console.log("Building course archives...")
         progressBar.start(courses.length, 0)
         courses.forEach(course => {
           // run the hugo build
@@ -57,7 +58,6 @@ if (directoryExists(distPath) && directoryExists(coursesPath)) {
               )} --quiet`
             ).code === 0
           ) {
-            const files = fs.readdirSync(tmpDir)
             // create the archive
             const archive = archiver("zip")
             // add the webpack files
