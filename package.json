@@ -24,7 +24,7 @@
     "build:hugo:debug": "hugo -d ../dist -s site -v --templateMetrics --debug",
     "build:pdfjs": "./build-scripts/build-pdfjs.sh",
     "build:webpack": "cross-env NODE_ENV=production webpack --config src/webpack/webpack.prod.js",
-    "build:zips": "rimraf dist && npm run build:webpack && node ./build-scripts/build_course_zips.js",
+    "build:zips": "rimraf dist && npm run build:webpack && node ./build-scripts/build_course_zips.js -d dist -c site/content/courses -z site/static/zips",
     "fmt": "LOG_LEVEL= prettier-eslint --write --no-semi $PWD/'build-scripts/**/*.js' $PWD/'src/**/*.js' $PWD/'src/**/*.scss'",
     "fmt:check": "LOG_LEVEL= prettier-eslint --list-different --no-semi $PWD/'src/**/*.js' $PWD/'src/**/*.scss'",
     "scss_lint": "node ./node_modules/sass-lint/bin/sass-lint.js --verbose --no-exit ./src",
