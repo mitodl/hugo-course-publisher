@@ -33,14 +33,20 @@ if (directoryExists(distPath) && directoryExists(coursesPath)) {
       end: () => {
         // filter out hidden files
         webpackFiles = webpackFiles.filter(file => !file.name.startsWith("."))
-        const hugoProgress = new cliProgress.SingleBar({
-          stopOnComplete: true,
-          forceRedraw: true
-        }, cliProgress.Presets.shades_classic)
-        const archiveProgress = new cliProgress.SingleBar({
-          stopOnComplete: true,
-          forceRedraw: true
-        }, cliProgress.Presets.shades_classic)
+        const hugoProgress = new cliProgress.SingleBar(
+          {
+            stopOnComplete: true,
+            forceRedraw:    true
+          },
+          cliProgress.Presets.shades_classic
+        )
+        const archiveProgress = new cliProgress.SingleBar(
+          {
+            stopOnComplete: true,
+            forceRedraw:    true
+          },
+          cliProgress.Presets.shades_classic
+        )
         let archiveStarted = false
         const courses = fs
           .readdirSync(coursesPath)
@@ -87,8 +93,7 @@ if (directoryExists(distPath) && directoryExists(coursesPath)) {
                     console.log("Archiving courses...")
                     archiveProgress.start(courses.length, 1)
                     archiveStarted = true
-                  }
-                  else {
+                  } else {
                     archiveProgress.increment()
                   }
                   const output = fs.createWriteStream(
