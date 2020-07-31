@@ -21,7 +21,7 @@ const newProgressBar = () => {
 }
 
 const options = yargs
-  .usage("Usage: -n <name>")
+  .usage("Usage: -d <dist> -c <courses> -z <zips>")
   .option("d", {
     alias:        "dist",
     describe:     "distribution path",
