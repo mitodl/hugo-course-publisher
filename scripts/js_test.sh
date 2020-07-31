@@ -14,7 +14,7 @@ else
     export CMD="node ./node_modules/mocha/bin/_mocha"
 fi
 
-export FILE_PATTERN=${1:-'"src/**/*_test.js"'}
+export FILE_PATTERN=${1:-'"*(src|build-scripts)/**/*_test.js"'}
 CMD_ARGS="--require ./src/babelhook.js $FILE_PATTERN"
 
 # Second argument (if specified) should be a string that will match specific test case descriptions
