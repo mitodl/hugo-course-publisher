@@ -47,7 +47,7 @@ const zipsPath = options.zips
 
 // clear out the distribution path and run the webpack build
 rimraf.sync(distPath)
-if (shell.exec("npm run build:weback").code !== 0) {
+if (shell.exec("npm run build:webpack").code !== 0) {
   console.error("Webpack build failed")
   process.exit(1)
 }
