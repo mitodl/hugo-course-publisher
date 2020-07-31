@@ -33,22 +33,25 @@ if (directoryExists(distPath) && directoryExists(coursesPath)) {
       end: () => {
         // filter out hidden files
         webpackFiles = webpackFiles.filter(file => !file.name.startsWith("."))
-        const progressBar = new cliProgress.SingleBar(
-          { stopOnComplete: true },
-          cliProgress.Presets.shades_classic
-        )
-        // find and iterate courses
+        const hugoProgress = new cliProgress.SingleBar({
+          stopOnComplete: true,
+          forceRedraw: true
+        }, cliProgress.Presets.shades_classic)
+        const archiveProgress = new cliProgress.SingleBar({
+          stopOnComplete: true,
+          forceRedraw: true
+        }, cliProgress.Presets.shades_classic)
+        let archiveStarted = false
         const courses = fs
           .readdirSync(coursesPath)
           .filter(course => !course.includes("."))
-        console.log("Building course archives...")
-        progressBar.start(courses.length, 0)
+        console.log("Generating Hugo sites...")
+        hugoProgress.start(courses.length, 0)
         courses.forEach(course => {
           // run the hugo build
           const tmpDir = tmp.dirSync({
             prefix: "dist"
           }).name
-          tmpDir.setGr
           if (
             shell.exec(
               `hugo -d ${tmpDir} -s site --theme single_course --contentDir ${path.join(
@@ -58,6 +61,7 @@ if (directoryExists(distPath) && directoryExists(coursesPath)) {
               )} --quiet`
             ).code === 0
           ) {
+            hugoProgress.increment()
             // create the archive
             const archive = archiver("zip")
             // add the webpack files
@@ -79,12 +83,19 @@ if (directoryExists(distPath) && directoryExists(coursesPath)) {
                   next()
                 },
                 end: () => {
+                  if (!archiveStarted) {
+                    console.log("Archiving courses...")
+                    archiveProgress.start(courses.length, 1)
+                    archiveStarted = true
+                  }
+                  else {
+                    archiveProgress.increment()
+                  }
                   const output = fs.createWriteStream(
                     path.join(zipsPath, `${course}.zip`)
                   )
                   archive.pipe(output)
                   archive.finalize()
-                  progressBar.increment()
                 }
               }
             })
