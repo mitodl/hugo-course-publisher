@@ -1,12 +1,11 @@
 {{ $currentPage := . }}
 {{ $courseId := .Params.course_id }}
-{{ $courseHome := .Page.FirstSection }}
 
 <div class="pb-4 rounded">
   <header>
-    <h5 class="text-muted text-uppercase course-title-section" >{{ $courseHome.Params.course_title }}</h5>
+    <h5 class="text-muted text-uppercase course-title-section" >{{ .Params.course_title }}</h5>
     <h1 class="text-uppercase font-weight-bold">{{ $currentPage.Title }}</h1>
-    {{ partial "course_instructor_number.html" $courseHome }}
+    {{ partial "chp_partial.html" (dict "partial" "course_instructor_number.html" "context" .) }}
     {{ with $currentPage.Params.course_info.subtitle }}
     <span class="subtitle">{{ . }}</span>
     {{ end }}
