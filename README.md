@@ -10,6 +10,17 @@ for the site using webpack.
 To install and run the site locally you can either use docker or run it
 natively.
 
+### search
+
+To use the search feature you need set an environment variable to tell the app
+where to find the search API. Write a `.env` file like this:
+
+```
+SEARCH_API_URL=http://localhost:8063/api/v0/search/
+```
+
+adjust it if your local open-discussions instance lives at a different URL.
+
 ### docker
 
 To run the site in docker you'll need docker and docker-compose. With those in
@@ -70,6 +81,28 @@ each course, and when the whole process is done they are placed in `site/static/
 
 For now this project is set to automatically deploy to netlify, so every commit
 both on the main branch and on PRs will be built and deployed automatically.
+
+## webpack bundle analysis
+
+We want to try to keep our webpack bundle small, even as were adding some React-based
+UI features. To help us keep an eye on it there's some setup for analyzing our webpack
+bundle and seeing what's being included and so on.
+
+To run [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
+and see a neat visualization of what's taking up space do:
+
+```
+npm run webpack:stats
+```
+
+this will run a prod build in `./dist` and generate a statistics file in
+`stats.json`. Then you can run
+
+```
+npm run webpack:analyze
+```
+
+to open a visualization of that file. Neat!
 
 ## project layout
 

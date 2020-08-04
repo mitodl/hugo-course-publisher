@@ -1,5 +1,4 @@
-const merge = require("webpack-merge")
-const path = require("path")
+const { merge } = require("webpack-merge")
 const { CleanWebpackPlugin } = require("clean-webpack-plugin")
 const MiniCssExtractPlugin = require("mini-css-extract-plugin")
 
@@ -13,6 +12,8 @@ module.exports = merge(common, {
     chunkFilename: "[id].css",
     publicPath:    "/"
   },
+
+  devtool: "eval-source-map",
 
   devServer: {
     port:    process.env.PORT || 3001,

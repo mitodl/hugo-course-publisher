@@ -1,17 +1,10 @@
 {{ define "main" }}
-<div class="outer-wrapper position-relative">
   {{ block "header" . }}{{ partial "header" . }}{{ end }}
-  <div class="search-header d-flex flex-column bg-light w-auto">
-    <h1 class="main-header font-weight-normal m-0-auto">Explore OpenCourseWare</h1>
-    <div class="search-box m-0-auto">
-      <label for="home-search">SEARCH</label>
-      <div class="icon-text-box-wrapper d-flex flex-row align-items-center form-group shadow-sm mb-5">
-        <i class="material-icons text-dark-gray input-group-prepend px-2">search</i>
-        <input id="home-search" type="text" class="form-control w-100 py-4 coming-soon" placeholder="Enter Course Name, Department, Course Number...">
-      </div>
+  <div class="d-flex flex-column align-items-center bg-light">
+    <div id="home-search-box" class="w-100">
     </div>
   </div>
-  <div class="beta-dialog bg-dark-grey px-8 py-4 d-none">
+  <div class="beta-dialog bg-dark-gray px-8 py-4 d-none">
     <h2>Next Generation OpenCourseWare</h2>
     <p>
       As we approach the 20th anniversary of MIT OpenCourseWare, we are redesigning our platform and user experience. 
@@ -73,7 +66,7 @@
         <div class="d-flex flex-column justify-content-center">
           <h5>SUBSCRIBE TO THE OCW NEWSLETTER</h5>
           <div class="newsletter-form d-flex">
-            <div class="icon-text-box-wrapper d-flex flex-row flex-grow-1 form-group bg-white shadow-sm border-dark-grey p-0 m-0">
+            <div class="icon-text-box-wrapper d-flex flex-row flex-grow-1 form-group bg-white shadow-sm border-dark-gray p-0 m-0">
               <img class="input-group-prepend px-2" src="/images/envelope.svg" />
               <input type="text" class="form-control py-3" placeholder="Your email address...">
             </div>
@@ -87,5 +80,4 @@
       </div>
     </div>
   </div>
-</div>
 {{ end }}

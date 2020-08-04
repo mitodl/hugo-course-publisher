@@ -3,7 +3,8 @@ const path = require("path")
 const CopyWebpackPlugin = require("copy-webpack-plugin")
 const MiniCssExtractPlugin = require("mini-css-extract-plugin")
 const AssetsPlugin = require("assets-webpack-plugin")
-const babelSharedLoader = require("../babel_config").babelSharedLoader
+const MomentLocalesPlugin = require("moment-locales-webpack-plugin")
+const Dotenv = require("dotenv-webpack")
 
 module.exports = {
   entry: {
@@ -42,7 +43,13 @@ module.exports = {
 
       { test: /\.json$/, loader: "json-loader" },
 
-      babelSharedLoader,
+      {
+        test:    /\.js$/,
+        exclude: /(node_modules)/,
+        use:     {
+          loader: "babel-loader"
+        }
+      },
 
       {
         test: /\.(sa|sc|c)ss$/,
@@ -87,10 +94,7 @@ module.exports = {
   },
 
   plugins: [
-    new webpack.ProvidePlugin({
-      fetch:
-        "imports-loader?this=>global!exports-loader?global.fetch!whatwg-fetch"
-    }),
+    new Dotenv(),
 
     new AssetsPlugin({
       filename:    "webpack.json",
@@ -119,6 +123,11 @@ module.exports = {
       jQuery:          "jquery",
       "window.jQuery": "jquery",
       Popper:          "popper.js/dist/umd/popper"
-    })
+    }),
+
+    // this strips locales other than en_US from moment's locale libraries
+    // we can include locales we want here later when we do UI translation
+    // but otherwise it just takes up extra space (~50kb) to include them
+    new MomentLocalesPlugin()
   ]
 }

@@ -100,7 +100,7 @@ $spacer8: map-get($spacers, 8);
 
   > div:first-child {
     background-color: $white;
-    border: 1px solid $border-darker-grey;
+    border: 1px solid $border-darker-gray;
     border-radius: 5px;
 
     @include media-breakpoint-down(md) {

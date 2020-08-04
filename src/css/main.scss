@@ -72,7 +72,7 @@ a {
     left: 0px;
     width: 50vw;
     height: 100vh;
-    background-color: $light-grey;
+    background-color: $light-gray;
     z-index: -1;
   }
 
@@ -121,10 +121,6 @@ a {
   object-fit: cover;
 }
 
-#search-box {
-  width: 300px;
-}
-
 /* BOOTSTRAP EXTENSIONS / OVERRIDES */
 
 nav {
@@ -152,15 +148,15 @@ table {
 }
 
 .bg-light {
-  background-color: $light-grey !important;
+  background-color: $light-gray !important;
 }
 
-.bg-darker-grey {
-  background-color: $darker-grey;
+.bg-darker-gray {
+  background-color: $darker-gray;
 }
 
-.bg-dark-grey {
-  background-color: $dark-grey;
+.bg-dark-gray {
+  background-color: $dark-gray;
 }
 
 .bg-link-blue {
@@ -180,7 +176,7 @@ table {
 }
 
 .text-dark-gray {
-  color: $dark-grey;
+  color: $dark-gray;
 }
 
 .icon-text-box-wrapper {
@@ -243,12 +239,12 @@ table {
   border-bottom: 1px solid $border-light-color;
 }
 
-.border-light-grey {
-  border: 1px solid $border-grey;
+.border-light-gray {
+  border: 1px solid $border-gray;
 }
 
-.border-dark-grey {
-  border: 1px solid $border-dark-grey;
+.border-dark-gray {
+  border: 1px solid $border-dark-gray;
 }
 
 .content {

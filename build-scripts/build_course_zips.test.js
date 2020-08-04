@@ -1,4 +1,3 @@
-const expect = require("chai").expect
 const path = require("path")
 const shell = require("shelljs")
 const tmp = require("tmp")
@@ -15,7 +14,7 @@ describe("build_course_zips", () => {
       shell.exec(`node ${scriptPath} -c ${coursesPath} -z ${zipsPath}`, {
         silent: true
       }).code
-    ).to.equal(1)
+    ).toEqual(1)
   })
 
   it("throws an error when called without a courses path", () => {
@@ -23,6 +22,6 @@ describe("build_course_zips", () => {
       shell.exec(`node ${scriptPath} -d ${distPath} -z ${zipsPath}`, {
         silent: true
       }).code
-    ).to.equal(1)
+    ).toEqual(1)
   })
 })

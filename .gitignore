@@ -24,15 +24,10 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.Python
 build/
 develop-eggs/
 dist/
 downloads/
-eggs/
-.eggs/
-lib/
-lib64/
 parts/
 sdist/
 var/
@@ -53,7 +48,6 @@ site/static/zips
 
 # Unit test / coverage reports
 htmlcov/
-.tox/
 .coverage
 .coverage.*
 .cache
@@ -69,3 +63,6 @@ ocw_data_parser/test_json/destination_dir/
 .venv
 env/
 venv/
+
+# webpack bundle analysis
+stats.json

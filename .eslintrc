@@ -6,11 +6,9 @@
       "version": "16.4.0"
     }
   },
-  "rules": {
-      "no-unused-vars": 0
-  },
   "env": {
       "browser": true,
-      "jquery": true
+      "jquery": true,
+      "jest": true
   }
 }
