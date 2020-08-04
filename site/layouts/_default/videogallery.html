@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ $page := . }}
-{{ partial "course_section.html" . }}
+{{ partial "chp_partial.html" (dict "partial" "course_section.html" "context" .) }}
 {{ range $index, $video := (where .Pages ".Params.layout" "video") }}
   <div class="mb-2 border-light-grey rounded video-gallery-card">
     <a class="video-link" href="{{ $video.Permalink }}">

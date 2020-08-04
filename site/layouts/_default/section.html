@@ -33,6 +33,6 @@
     </li>
   {{ end }}
 {{ else }}
-{{ partial "course_section.html" . }}
+{{ partial "chp_partial.html" (dict "partial" "course_section.html" "context" .) }}
 {{ end }}
 {{ end }}
