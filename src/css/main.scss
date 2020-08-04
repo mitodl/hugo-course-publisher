@@ -9,6 +9,7 @@ $material-icons-font-path: "~material-icons/iconfont/";
 @import "~material-icons/iconfont/material-icons.scss";
 @import "bootstrap-material-design";
 @import "header";
+@import "home";
 @import "course-nav";
 @import "course-info";
 @import "drawer";
@@ -64,7 +65,7 @@ a {
     left: 0px;
     width: 50vw;
     height: 100vh;
-    background-color: $light-gray;
+    background-color: $light-grey;
     z-index: -1;
   }
 
@@ -127,15 +128,15 @@ table {
 }
 
 .bg-light {
-  background-color: $light-gray !important;
+  background-color: $light-grey !important;
 }
 
-.bg-darker-gray {
-  background-color: $darker-gray;
+.bg-darker-grey {
+  background-color: $darker-grey;
 }
 
-.bg-dark-gray {
-  background-color: $dark-gray;
+.bg-dark-grey {
+  background-color: $dark-grey;
 }
 
 .bg-link-blue {
@@ -152,6 +153,10 @@ table {
   @include media-breakpoint-down(md) {
     color: $white !important;
   }
+}
+
+.text-dark-gray {
+  color: $dark-grey;
 }
 
 .container-fluid {
@@ -211,6 +216,10 @@ table {
 
 .border-light-grey {
   border: 1px solid $border-grey;
+}
+
+.border-dark-grey {
+  border: 1px solid $border-dark-grey;
 }
 
 .content {

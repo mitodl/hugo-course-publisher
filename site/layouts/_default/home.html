@@ -1,9 +1,32 @@
-<h1>Home</h1>
-
-This is basically a placeholder.
-
-{{ $courses := .Site.GetPage "/courses" }}
-
-<a href="{{ $courses.Permalink }}">
-  course listing
-</a>
+{{ define "main" }}
+{{ block "header" . }}{{ partial "header" . }}{{ end }}
+<div class="d-flex flex-column align-items-center bg-light">
+  <h1 class="font-weight-normal py-7">Explore Open Course Ware</h1>
+  <div class="d-flex flex-row align-items-center home-search form-group bg-white shadow-sm border-dark-grey mb-5">
+    <i class="material-icons text-dark-gray input-group-prepend">search</i>
+    <input type="text" class="form-control w-100 py-4" placeholder="Enter Course Name, Department, Course Number...">
+  </div>
+  <div class="bg-dark-grey px-8 py-4">
+    <h2>Next Generation OpenCourseWare</h2>
+    <p>
+      As we approach the 20th anniversary of MIT OpenCourseWare, we are redesigning our platform and user experience. 
+      This site is the first instantiation of this redesign and is being used to collect feedback from users (like you). 
+      We are currently focusing on the following features (each with varying levels of completeness). Be sure to checkout the following features:
+    </p>
+    <ul>
+      <li>Updated courses pages - new experience that works on mobile and desktop.</li>
+      <li>Search - find courses and individual resources from across the OpenCourseWare catalog.</li>
+      <li>...</li>
+    </ul>
+    <p>Please let us know if you have feedback or would like to be informed of new updates.</p>
+    <div class="d-flex justify-content-end w-100">
+      <a class="small-link coming-soon">
+        <div class="btn rounded-0 bg-dark text-white w-100 px-3 py-2">CONTACT</div>
+      </a>
+      <a class="small-link coming-soon">
+        <div class="btn rounded-0 text-black w-100 ml-3 px-3 py-2">DISMISS</div>
+      </a>
+    </div>
+  </div>
+</div>
+{{ end }}
