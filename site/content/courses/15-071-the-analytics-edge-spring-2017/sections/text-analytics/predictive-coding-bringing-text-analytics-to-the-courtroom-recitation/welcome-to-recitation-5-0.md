@@ -88,6 +88,6 @@ transcript: >-
   m='24060'>models.</span> </p><p><span m='24620'>Let's</span> <span
   m='25250'>get</span> <span m='25880'>started.</span> </p>
 uid: 7d2e790e26b9a645a0f83bf0e24e0a2f
-type: courses
+type: course
 layout: video
 ---

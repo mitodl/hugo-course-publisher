@@ -3,7 +3,7 @@ title: spring2004_sp6.pdf
 description: >-
   This resource contains information on problem set for design I - wing and
   tail.
-type: courses
+type: course
 layout: pdf
 uid: eda71b26ba82d349f8177e53fc4a6bf4
 file_type: application/pdf

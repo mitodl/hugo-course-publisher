@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Vector Fields'
 description: This resource contains information regarding vector fields.
-type: courses
+type: course
 layout: pdf
 uid: 19221c7b2cfd9bf5ed04c2cbe936abf8
 file_type: application/pdf

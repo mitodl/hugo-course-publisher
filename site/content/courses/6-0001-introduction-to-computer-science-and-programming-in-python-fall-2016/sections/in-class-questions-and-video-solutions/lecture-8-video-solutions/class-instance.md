@@ -218,6 +218,6 @@ transcript: >-
   m='138640'>this</span> <span m='138840'>one.</span> <span
   m='139170'>Perfect.</span> </p>
 uid: a27d927400617c812c699e410abedf09
-type: courses
+type: course
 layout: video
 ---

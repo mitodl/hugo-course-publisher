@@ -1,7 +1,7 @@
 ---
 title: 1.5 Quantifiers & Predicate Logic
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Satisfiability]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-1/vertical-071a48267f00" %}})

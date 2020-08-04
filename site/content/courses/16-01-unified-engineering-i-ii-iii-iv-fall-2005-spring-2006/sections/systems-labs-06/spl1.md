@@ -3,7 +3,7 @@ title: spl1.pdf
 description: >-
   This file contains notes for the topics: Bernoulli Equation, Pitot-Static
   Tube, Airspeed Measurement, and Pressure Nondimensionalization.
-type: courses
+type: course
 layout: pdf
 uid: 861a6a9d96e00c43c0970213d42e3edf
 file_type: application/pdf

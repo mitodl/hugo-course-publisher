@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Simply Connected Regions'
 description: This resource contains information regarding simply connected regions.
-type: courses
+type: course
 layout: pdf
 uid: 044a786f6b25d0a16387906e2555b31c
 file_type: application/pdf

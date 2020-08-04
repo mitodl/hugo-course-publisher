@@ -3131,6 +3131,6 @@ transcript: >-
   m="2938550">like</span> <span m="2938770">we</span> <span
   m="2938940">see.</span></p>
 uid: a0bfc251500691dcea20b3e78fedecd8
-type: courses
+type: course
 layout: video
 ---

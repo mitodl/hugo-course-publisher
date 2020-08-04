@@ -505,6 +505,6 @@ transcript: >-
   m='384067'>nutrition.</span> </p><p><span m='384470'>Stay</span> <span
   m='385390'>healthy.</span> </p>
 uid: 6cf203f1b14e4792530e59a31153bb94
-type: courses
+type: course
 layout: video
 ---

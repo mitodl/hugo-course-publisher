@@ -3,7 +3,7 @@ title: MIT6_0002F16_Style Guide
 description: >-
   This resource contains information regarding introduction to computational
   thinking and data science: Style guide.
-type: courses
+type: course
 layout: pdf
 uid: 1495604204e8f00c8b1e423f83395180
 file_type: application/pdf

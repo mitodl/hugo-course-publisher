@@ -7,7 +7,7 @@ description: >-
   to?the?transfer?function?G(s),?using?
 
   partial?fraction ?expansion?and?inverse?Laplace?techniques.
-type: courses
+type: course
 layout: pdf
 uid: 089433d43312e2dc7d357ed19c811033
 file_type: application/pdf

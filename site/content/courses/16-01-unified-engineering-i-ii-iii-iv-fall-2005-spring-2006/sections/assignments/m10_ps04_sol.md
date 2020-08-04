@@ -3,7 +3,7 @@ title: m10_ps04_sol.pdf
 description: >-
   This resource contains handwritten solutions and plotted graphs to the given
   problem set.
-type: courses
+type: course
 layout: pdf
 uid: 3fcb7df13ca766f9792927f4ca44883f
 file_type: application/pdf

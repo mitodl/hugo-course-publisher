@@ -3,7 +3,7 @@ title: 'Title: 12.001 Introduction to Geology, Exercise 1: Composition of the Ma
 description: >-
   This file contains information regarding exercise 1: composition of the
   mantle.
-type: courses
+type: course
 layout: pdf
 uid: 3d3af0ed4937792407dc4afdbfaf7dc8
 file_type: application/pdf

@@ -4,7 +4,7 @@ description: >-
   Outline of the topics covered by each of the four major sections of the
   course: introduction to finance, valuation, risk and return, and corporate
   finance.
-type: courses
+type: course
 layout: pdf
 uid: fc2d55329f1bf7e5af23b4724ee594c2
 file_type: application/pdf

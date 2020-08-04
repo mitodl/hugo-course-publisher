@@ -1,16 +1,14 @@
 ---
 title: 27.5 Worked Example - Gravitational Slingshot
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: videogallery
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 5f59027b133dd077d093570d40c67694
-    type: section
-    layout: section
     name: 27.5 Worked Example - Gravitational Slingshot
     weight: 1700
     parent: bc33ee80c8fd90e4dfda7092ddd24879
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.4-worked-example-elastic-1d-collision-again" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.6-2d-collisions" %}}) »
 

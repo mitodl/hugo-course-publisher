@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 4 Notes: Igneous Rocks'
 description: This is a file that contains information regarding igneous rocks.
-type: courses
+type: course
 layout: pdf
 uid: 0c6afef275a07fa8888f7ebb3730f0c8
 file_type: application/pdf

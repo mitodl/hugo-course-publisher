@@ -3,7 +3,7 @@ title: prsm11.pdf
 description: >-
   This resource contains concept questions and answers based on torque-twist and
   torque-stress relationships.
-type: courses
+type: course
 layout: pdf
 uid: 537e5605317da321fa9dc7f28a2c83de
 file_type: application/pdf

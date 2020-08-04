@@ -3998,6 +3998,6 @@ transcript: >-
   m="2814810">great</span> <span m="2815020">Thanksgiving</span> <span
   m="2815560">break.</span></p><p>&nbsp;</p>
 uid: cff712af630e9da564f47de2e684462c
-type: courses
+type: course
 layout: video
 ---

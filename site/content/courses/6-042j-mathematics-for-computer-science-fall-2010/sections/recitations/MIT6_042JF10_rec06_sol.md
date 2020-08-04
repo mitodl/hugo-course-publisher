@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_rec06_sol.pdf
 description: 'This resource contains solutions of graph basics. '
-type: courses
+type: course
 layout: pdf
 uid: 414803a4aff408a721f227c8508099d8
 file_type: application/pdf

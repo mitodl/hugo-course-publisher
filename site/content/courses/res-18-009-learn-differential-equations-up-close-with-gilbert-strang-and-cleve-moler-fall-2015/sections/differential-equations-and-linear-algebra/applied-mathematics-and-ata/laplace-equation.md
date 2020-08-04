@@ -735,6 +735,6 @@ transcript: >-
   m='790120'>video.</span> <span m='791130'>Thank</span> <span
   m='791290'>you.</span> </p>
 uid: a45a22e6015af79e33ac0a81cd94a3ff
-type: courses
+type: course
 layout: video
 ---

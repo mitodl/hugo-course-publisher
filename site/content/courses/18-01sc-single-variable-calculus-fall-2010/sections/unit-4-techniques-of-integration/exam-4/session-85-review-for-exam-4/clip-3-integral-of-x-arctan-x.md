@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Integral of x arctan(x)'
 transcript: ''
 uid: e35027b33aaed5ccc6015ec61e810b7e
-type: courses
+type: course
 layout: video
 ---

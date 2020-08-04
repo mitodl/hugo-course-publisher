@@ -1,7 +1,7 @@
 ---
 title: Lecture 2.2 Business Model Slides - 15.S21 Nuts and Bolts IAP 2014
 description: This resource contains information related to Business Model.
-type: courses
+type: course
 layout: pdf
 uid: dab4a349c072c4d9bbc7158a5c0be788
 file_type: application/pdf

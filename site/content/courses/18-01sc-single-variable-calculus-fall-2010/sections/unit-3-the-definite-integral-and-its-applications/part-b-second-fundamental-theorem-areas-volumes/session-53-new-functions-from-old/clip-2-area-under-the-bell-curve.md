@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Area Under the Bell Curve'
 transcript: ''
 uid: 691b34a49a700ecb340ecabded0fdd6b
-type: courses
+type: course
 layout: video
 ---

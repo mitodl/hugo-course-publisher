@@ -1,7 +1,7 @@
 ---
 title: MIT 8.03SC Fall 2016 Exam 2
 description: null
-type: courses
+type: course
 layout: pdf
 uid: ef55f1f8db2442af4042c26b1367a091
 file_type: application/pdf

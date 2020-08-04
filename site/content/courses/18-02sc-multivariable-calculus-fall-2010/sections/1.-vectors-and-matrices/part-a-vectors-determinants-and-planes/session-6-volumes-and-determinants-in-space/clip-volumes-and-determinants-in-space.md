@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Volumes and Determinants in Space'
 transcript: ''
 uid: aaf28ea9eb9058db1c1a62a2416340f6
-type: courses
+type: course
 layout: video
 ---

@@ -2923,6 +2923,6 @@ transcript: >-
   m="3035820">classification.</span> <span m="3037440">Thank</span> <span
   m="3037680">you.</span></p>
 uid: 69a5e3a8e8deaf121d42636a3e25d3bb
-type: courses
+type: course
 layout: video
 ---

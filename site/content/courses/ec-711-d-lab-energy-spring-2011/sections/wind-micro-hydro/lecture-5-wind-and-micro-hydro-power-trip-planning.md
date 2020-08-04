@@ -40,6 +40,6 @@ technical_location: >-
 title: 'Lecture 5: Wind and Micro-Hydro Power; Trip Planning'
 transcript: ''
 uid: 4181ae33bb696107975387a74cdbd923
-type: courses
+type: course
 layout: video
 ---

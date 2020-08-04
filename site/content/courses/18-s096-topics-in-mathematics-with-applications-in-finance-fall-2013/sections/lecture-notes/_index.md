@@ -1,11 +1,11 @@
 ---
 title: Lecture Notes & Slides
 course_id: 18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013
+type: course
+layout: course_section
 menu:
   18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013:
     identifier: 5595067eea85a8917808e0dc047689f1
-    type: section
-    layout: section
     name: Lecture Notes & Slides
     weight: 40
 ---

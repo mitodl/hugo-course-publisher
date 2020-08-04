@@ -1,6 +1,8 @@
 ---
 title: 2.10 Trees
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Tree Coloring: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp8-1/vertical-04923c3ed451" %}})
 *   [2.10.1Trees: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp8-1/_index.md" %}})

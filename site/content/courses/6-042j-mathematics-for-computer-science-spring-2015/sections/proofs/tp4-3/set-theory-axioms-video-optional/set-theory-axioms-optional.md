@@ -710,6 +710,6 @@ transcript: >-
   m='555820'>resolves</span> <span m='557160'>the</span> <span
   m='557300'>Russell</span> <span m='557640'>paradox.</span> </p>
 uid: 9caa0aca18e78863f1ec507bfbf67365
-type: courses
+type: course
 layout: video
 ---

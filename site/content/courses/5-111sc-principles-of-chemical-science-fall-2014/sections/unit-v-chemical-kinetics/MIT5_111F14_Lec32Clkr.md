@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Clicker Questions for Lecture 32: Kinetics:
   Reaction Mechanisms
 description: 'This resource contains information regarding Kinetics: Reaction Mechanisms.'
-type: courses
+type: course
 layout: pdf
 uid: 75dc4ea86ecbf485fc4d2bbc07134071
 file_type: application/pdf

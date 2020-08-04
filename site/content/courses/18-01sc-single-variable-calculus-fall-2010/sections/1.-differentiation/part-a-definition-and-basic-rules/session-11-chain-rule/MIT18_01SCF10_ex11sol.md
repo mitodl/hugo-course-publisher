@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex11sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to chain
   rule.
-type: courses
+type: course
 layout: pdf
 uid: 185582db40ef98dd7c70eab7736ae70f
 file_type: application/pdf

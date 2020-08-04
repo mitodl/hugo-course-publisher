@@ -3,7 +3,7 @@ title: 'Week I: Introduction and Beethoven - 21M.250 Beethoven to Mahler Spring 
 description: >-
   This is a resource file that contains information regarding week I:
   introduction and beethoven.
-type: courses
+type: course
 layout: pdf
 uid: a4c262289d1bb4c633e6237a2ae1d959
 file_type: application/pdf

@@ -5876,6 +5876,6 @@ transcript: >-
   m='4550570'>time.</span> </p><p><span m='4550870'>[APPLAUSE]</span>
   </p><p></p>
 uid: b56e1433852737588a1d91f0eb2661cd
-type: courses
+type: course
 layout: video
 ---

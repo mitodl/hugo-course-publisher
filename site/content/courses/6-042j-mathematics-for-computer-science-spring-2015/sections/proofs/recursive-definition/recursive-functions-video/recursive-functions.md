@@ -1017,6 +1017,6 @@ transcript: >-
   m='840270'>of</span> <span m='840590'>recursive</span> <span
   m='841090'>functions.</span> </p>
 uid: cacb8f2296349b9ed47b38390564e6db
-type: courses
+type: course
 layout: video
 ---

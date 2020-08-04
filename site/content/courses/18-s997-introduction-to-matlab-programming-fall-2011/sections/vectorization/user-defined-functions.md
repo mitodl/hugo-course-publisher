@@ -1,11 +1,11 @@
 ---
 title: User-Defined Functions
 course_id: 18-s997-introduction-to-matlab-programming-fall-2011
+type: course
+layout: course_section
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 38dcb8d2635f7663efc8af4d44a9d9ea
-    type: section
-    layout: section
     name: User-Defined Functions
     weight: 180
     parent: 18645230e50f3945e34d99f24f40ca3a

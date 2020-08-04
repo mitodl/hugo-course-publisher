@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Example: Cumulative Debts'
 transcript: ''
 uid: 2176fe2c33f57b135857dd40964ece06
-type: courses
+type: course
 layout: video
 ---

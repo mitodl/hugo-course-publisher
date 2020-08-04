@@ -1,7 +1,7 @@
 ---
 title: ' Volunteer Preparation Sessions'
 description: This file contains information regarding volunteer preparation sessions.
-type: courses
+type: course
 layout: pdf
 uid: decfb1f16e1df34ec80928372f9a4ea8
 file_type: application/pdf

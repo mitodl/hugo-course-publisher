@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_i1.pdf
 description: This resource contains information related to rectangular coordinates.
-type: courses
+type: course
 layout: pdf
 uid: 00ca45ccb749ea1c0a42b733eb8eb9bf
 file_type: application/pdf

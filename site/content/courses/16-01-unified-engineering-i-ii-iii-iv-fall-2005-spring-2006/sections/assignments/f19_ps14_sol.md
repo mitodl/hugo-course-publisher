@@ -3,7 +3,7 @@ title: f19_ps14_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on Cp
   variation.
-type: courses
+type: course
 layout: pdf
 uid: cd2789c68a0d3ce84b3adff6d7ff3254
 file_type: application/pdf

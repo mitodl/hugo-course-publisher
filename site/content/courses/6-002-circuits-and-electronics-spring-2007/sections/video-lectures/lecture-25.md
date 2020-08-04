@@ -777,6 +777,6 @@ transcript: >-
   all.</span> </p><p><span m='2784000'>I had a blast, and I hope you guys had
   fun</span> <span m='2787000'>too. Thank you.</span> </p>
 uid: b1f88029b9073e0923a3a6ca581e6d52
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: P3slides.pdf
 description: >-
   This file explains Newton?s 2nd Law,PRODUCTION OF THRUST,OVERALL PROPULSION
   SYSTEM EFFICIENCY.
-type: courses
+type: course
 layout: pdf
 uid: 100f026337caf8f3158e8caf456cc5ed
 file_type: application/pdf

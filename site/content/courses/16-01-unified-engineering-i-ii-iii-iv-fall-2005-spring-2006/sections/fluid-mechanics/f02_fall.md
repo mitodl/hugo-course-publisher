@@ -3,7 +3,7 @@ title: f02_fall.pdf
 description: >-
   This resource provides information on the topics of hydrostatic equation,
   manometer and buoyancy force.
-type: courses
+type: course
 layout: pdf
 uid: c1126a530528e858e56a41d7052e4126
 file_type: application/pdf

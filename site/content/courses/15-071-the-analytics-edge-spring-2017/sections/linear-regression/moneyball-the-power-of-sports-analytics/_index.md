@@ -1,16 +1,14 @@
 ---
 title: '2.3 Moneyball: The Power of Sports Analytics '
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: videogallery
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: fcb6a63f4737920a80bf15309d3ee7b6
-    type: section
-    layout: section
     name: '2.3 Moneyball: The Power of Sports Analytics '
     weight: 560
     parent: c846ced6fc6d3bc964e047324e251a98
-type: courses
-layout: videogallery
 ---
 *   [<Video 8: Comparing the Model to the Experts]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-8-comparing-the-model-to-the-experts" %}})
 *   [2.3.1A Quick Introduction to Baseball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/_index.md" %}})

@@ -3763,6 +3763,6 @@ transcript: >-
   m="3610300">Write</span> <span m="3610590">neatly,</span> <span
   m="3610970">please.</span></p>
 uid: 6c9fdac528fc89a70cdf7682c8f50ff0
-type: courses
+type: course
 layout: video
 ---

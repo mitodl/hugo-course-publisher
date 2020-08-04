@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 14: Mean Value Theorem and Inequalities'
 description: Lecture notes on the mean value theorem and inequalities.
-type: courses
+type: course
 layout: pdf
 uid: 1a211af8e4860b63b801aa3d6e7a2e95
 file_type: application/pdf

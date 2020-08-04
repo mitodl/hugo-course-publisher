@@ -513,6 +513,6 @@ transcript: >-
   m='563652'>can</span> <span m='564169'>provide</span> <span
   m='564686'>an</span> <span m='565203'>edge.</span> </p>
 uid: 3f95c5adb13cf1d6c97b2ee6e111992a
-type: courses
+type: course
 layout: video
 ---

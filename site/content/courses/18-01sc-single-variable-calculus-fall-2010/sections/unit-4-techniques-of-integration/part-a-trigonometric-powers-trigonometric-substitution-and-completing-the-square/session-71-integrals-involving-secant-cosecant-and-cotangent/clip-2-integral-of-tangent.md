@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Integral of Tangent'
 transcript: ''
 uid: f775c71236c9b091746dd3a98f7fd2b4
-type: courses
+type: course
 layout: video
 ---

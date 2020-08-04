@@ -113,6 +113,6 @@ transcript: >-
   applied</span> <span m='126740'>through a discussion of Newton's laws and
   their applications.</span> </p><p></p>
 uid: e55a1fdee531a4c14857d3a4f81e11b4
-type: courses
+type: course
 layout: video
 ---

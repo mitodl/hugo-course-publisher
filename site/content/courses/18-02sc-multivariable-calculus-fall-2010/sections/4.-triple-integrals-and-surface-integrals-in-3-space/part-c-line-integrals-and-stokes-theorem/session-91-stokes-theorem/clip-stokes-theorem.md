@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Stokes'' Theorem'
 transcript: ''
 uid: 32932c65f5cb60a50e2cde157fbc6850
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: f11_sp.pdf
 description: >-
   This resource contains information on the topic of Introduction to
   Compressible Flows and Thermodynamics Concepts.
-type: courses
+type: course
 layout: pdf
 uid: f6e317e1b0b600242b2877ad691bc938
 file_type: application/pdf

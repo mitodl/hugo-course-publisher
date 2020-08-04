@@ -281,6 +281,6 @@ transcript: >-
   having to tell what this conditional mean squared</span> <span
   m='774980'>error is for the different values of X.</span> </p><p></p>
 uid: 9ebccd9cb86d3295a079906b35db8c19
-type: courses
+type: course
 layout: video
 ---

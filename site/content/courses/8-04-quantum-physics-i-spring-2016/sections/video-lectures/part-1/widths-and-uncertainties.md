@@ -761,6 +761,6 @@ transcript: >-
   m='1148790'>about</span> <span m='1149290'>2</span> <span
   m='1149500'>pi.</span> </p>
 uid: 23bdc3fe549cd69da1672c78e9bbbf70
-type: courses
+type: course
 layout: video
 ---

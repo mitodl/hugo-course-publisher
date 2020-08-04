@@ -3,7 +3,7 @@ title: Review problems and solutions RP1-RP5
 description: >-
   Handout containing review problems and solutions for section 1 to 7 of the
   course.
-type: courses
+type: course
 layout: pdf
 uid: dde4ca7b6e22de6786373506604e2b1c
 file_type: application/pdf

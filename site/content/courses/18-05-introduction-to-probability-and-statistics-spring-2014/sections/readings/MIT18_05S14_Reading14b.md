@@ -3,7 +3,7 @@ title: 'Reading 14b: Continuous Data with Continuous Priors'
 description: >-
   This is a resource file that contains information regarding reading 14b:
   continuous data with continuous priors.
-type: courses
+type: course
 layout: pdf
 uid: 24075fadf310d49f4fe3888a9369567c
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: 'Directed Acyclic Graphs (DAGs) & Scheduling: Chapter 9.5'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Directed acyclic graphs (DAGs) & scheduling: Chapter 9.5.
-type: courses
+type: course
 layout: pdf
 uid: 55b73ef50001ae2b6425a914a79f8014
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: Week 4 Supreme Court Video 1 - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: fcf915a49a9cd84293282f66a1d255f4
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 11_sort_srch_alg.pdf
 description: Lecture 11 (2004) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 3ad763b7b19e1dbab8a02122926b2d81
 file_type: application/pdf

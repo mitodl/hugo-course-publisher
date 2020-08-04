@@ -2669,6 +2669,6 @@ transcript: >-
   m="2815190">luck</span> <span m="2815430">on</span> <span
   m="2815550">the</span> <span m="2815680">quiz.</span></p>
 uid: f4caeb4f5cbc108c5335e31427987a7e
-type: courses
+type: course
 layout: video
 ---

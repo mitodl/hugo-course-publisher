@@ -3,7 +3,7 @@ title: MIT20_020S09_prj5_grow_sp.pdf
 description: >-
   This file includes notes on the topics including details like impact, purpose,
   system and device overview, parts, and related issues. 
-type: courses
+type: course
 layout: pdf
 uid: c593c4beaaf47e1dbad713013693f119
 file_type: application/pdf

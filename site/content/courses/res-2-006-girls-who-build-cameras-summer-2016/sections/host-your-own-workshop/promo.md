@@ -230,6 +230,6 @@ transcript: >-
   m="128520">went</span> <span m="128660">off</span> <span m="128800">to</span>
   <span m="128880">college.</span></p><p>&nbsp;</p>
 uid: 843b6d6d7565047a58d3d74fa2e40467
-type: courses
+type: course
 layout: video
 ---

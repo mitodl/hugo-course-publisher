@@ -6,7 +6,7 @@ description: >-
   electric flux, Gauss?s law, conductors, force on a conductor, summary,
   appendix: tensions and pressures, problem-solving strategies, solved problems,
   conceptual questions, and additional problems.
-type: courses
+type: course
 layout: pdf
 uid: b6306257b5c818e4034919c3d8680a70
 file_type: application/pdf

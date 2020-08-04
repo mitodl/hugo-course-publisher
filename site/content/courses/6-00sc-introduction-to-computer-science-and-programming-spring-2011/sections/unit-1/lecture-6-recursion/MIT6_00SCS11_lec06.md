@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 6 handout: Recursion'
 description: This resource contains information about recursion.
-type: courses
+type: course
 layout: pdf
 uid: c49ccca569671754141d71e5aad25323
 file_type: application/pdf

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Linear Approximation of a Complicated Exponential'
 transcript: ''
 uid: 6866c7e06a0b09852d2da535f72ad06d
-type: courses
+type: course
 layout: video
 ---

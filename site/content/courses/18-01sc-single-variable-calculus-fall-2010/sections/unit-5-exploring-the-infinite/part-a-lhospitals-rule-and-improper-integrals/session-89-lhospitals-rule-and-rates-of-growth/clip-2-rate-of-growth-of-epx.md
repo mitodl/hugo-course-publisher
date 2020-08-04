@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Rate of Growth of epx'
 transcript: ''
 uid: 49c67f0ff29868b44efcbae63048de55
-type: courses
+type: course
 layout: video
 ---

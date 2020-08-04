@@ -422,6 +422,6 @@ transcript: >-
   <span m="312170">with.</span> <span m="312500">Thank</span> <span
   m="312740">you.</span></p>
 uid: 6df84a8a1b67ed9508ef1677b6dfdd4d
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_we_19_comb.pdf
 description: 'This resource contains problems and solutions of limits for double integrals. '
-type: courses
+type: course
 layout: pdf
 uid: 864f1462d06a5bde74c2fac6d93dabbd
 file_type: application/pdf

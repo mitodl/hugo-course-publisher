@@ -705,6 +705,6 @@ transcript: >-
   <span m='756740'>you</span> <span m='756800'>next</span> <span
   m='757020'>time.</span> </p>
 uid: 4deb39e1b0212c70668c7976e1cc8248
-type: courses
+type: course
 layout: video
 ---

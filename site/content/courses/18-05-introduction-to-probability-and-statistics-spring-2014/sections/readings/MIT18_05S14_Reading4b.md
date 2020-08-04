@@ -3,7 +3,7 @@ title: 'Reading 4b: Discrete Random Variables: Expected Value'
 description: >-
   This resource file contains information regarding reading 4b: discrete random
   variables: expected value.
-type: courses
+type: course
 layout: pdf
 uid: 79a290ef627e8f975fcbf93ff869d8ec
 file_type: application/pdf

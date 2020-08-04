@@ -1,7 +1,7 @@
 ---
 title: 'Session 45: Some Easy Integrals'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-type: courses
+type: course
 layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-44-adding-areas-of-rectangles/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/_index.md" %}}) »

@@ -831,6 +831,6 @@ transcript: >-
   m='698710'>forms. And</span> <span m='699510'>I'll</span> <span
   m='699600'>end</span> <span m='699800'>there.</span> </p>
 uid: 35f9656db881d40a13d8949975a0dd18
-type: courses
+type: course
 layout: video
 ---

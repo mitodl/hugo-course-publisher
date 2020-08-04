@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information related to bandstructure of graphene and
   carbon nanotubes: an exercise in condensed matter physics.
-type: courses
+type: course
 layout: pdf
 uid: 90f1629f3d1d7402b63e1ec821faf65d
 file_type: application/pdf

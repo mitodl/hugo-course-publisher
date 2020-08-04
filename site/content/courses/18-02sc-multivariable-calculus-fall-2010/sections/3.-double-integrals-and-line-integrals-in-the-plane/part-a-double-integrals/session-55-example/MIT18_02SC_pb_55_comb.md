@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Problems: Change of Variables Example'
 description: This resource contains information regarding change of variables example.
-type: courses
+type: course
 layout: pdf
 uid: bacba6e11e68d1f1bf5739abe23f8aef
 file_type: application/pdf

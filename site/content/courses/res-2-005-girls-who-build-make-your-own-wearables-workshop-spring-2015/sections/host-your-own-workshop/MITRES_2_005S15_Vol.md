@@ -1,7 +1,7 @@
 ---
 title: 'Volunteer Roles '
 description: This is a resource file that contains information regarding volunteer roles.
-type: courses
+type: course
 layout: pdf
 uid: 4e219d0e55a0c8d79deb5c75dfd5e1a7
 file_type: application/pdf

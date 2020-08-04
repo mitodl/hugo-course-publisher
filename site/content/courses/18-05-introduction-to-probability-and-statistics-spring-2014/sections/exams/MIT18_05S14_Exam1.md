@@ -1,7 +1,7 @@
 ---
 title: Exam 1
 description: This is a resource file that contains information regarding exam 1.
-type: courses
+type: course
 layout: pdf
 uid: bdce40d25e28ac939015325e0f9edc45
 file_type: application/pdf

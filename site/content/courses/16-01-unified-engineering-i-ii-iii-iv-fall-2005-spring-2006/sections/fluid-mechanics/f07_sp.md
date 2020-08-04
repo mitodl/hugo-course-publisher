@@ -3,7 +3,7 @@ title: f07_sp.pdf
 description: >-
   This resource provides information on the topic of Elliptical Lift
   Distribution.
-type: courses
+type: course
 layout: pdf
 uid: a98434567bca8d3bd587e27aeb9aae77
 file_type: application/pdf

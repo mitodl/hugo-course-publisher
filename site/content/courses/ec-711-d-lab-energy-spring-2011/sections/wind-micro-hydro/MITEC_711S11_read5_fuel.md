@@ -3,7 +3,7 @@ title: 'Fuel from the Fields: Charcoal from Agricultural Waste'
 description: >-
   This resource contains information related to fuel from the fields: charcoal
   from agricultural waste. 
-type: courses
+type: course
 layout: pdf
 uid: 2b5321517d0b0e6a217aeeaba60c6bbe
 file_type: application/pdf

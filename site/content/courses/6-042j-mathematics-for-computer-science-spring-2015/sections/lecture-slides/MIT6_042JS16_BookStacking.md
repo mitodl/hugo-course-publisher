@@ -3,7 +3,7 @@ title: 'Sums & Products: Book Stacking'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 0f7bb67ced75e69f976105e4f4b78834
 file_type: application/pdf

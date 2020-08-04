@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Examples of Double Integration'
 transcript: ''
 uid: f4bbc21cbed30f531fdca40d621ca9b8
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: num_sys_handout.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: b8fd0a192a3f53093634027db69c310b
 file_type: application/pdf

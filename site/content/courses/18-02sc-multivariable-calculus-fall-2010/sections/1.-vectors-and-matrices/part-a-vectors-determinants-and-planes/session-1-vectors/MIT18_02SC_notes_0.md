@@ -4,7 +4,7 @@ description: >-
   Lecture notes on the geometric and algebraic view of vectors, notation and
   terminology, vector algebra using coordinates, vectors in three dimensions,
   and unit vectors.
-type: courses
+type: course
 layout: pdf
 uid: 38223d6ec70b12de9d01446438100b9d
 file_type: application/pdf

@@ -924,6 +924,6 @@ transcript: >-
   <span m='3117000'>I won't have time for the demo. I will show it to you
   next</span> <span m='3122000'>time.</span> </p>
 uid: d2c6727517401c7ee31dd7e6be5a1185
-type: courses
+type: course
 layout: video
 ---

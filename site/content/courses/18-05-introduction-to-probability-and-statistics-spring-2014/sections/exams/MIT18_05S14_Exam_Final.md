@@ -1,7 +1,7 @@
 ---
 title: Final Exam
 description: This is a resource file that contains information regarding final exam.
-type: courses
+type: course
 layout: pdf
 uid: 6a3ead31a584d5ba3a30a88fe5c847f3
 file_type: application/pdf

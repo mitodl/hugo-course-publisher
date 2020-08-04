@@ -1,11 +1,11 @@
 ---
 title: 5. Exploring the Infinite
 course_id: 18-01sc-single-variable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 6e3abd11deb09fc49199b1e8893935e7
-    type: section
-    layout: section
     name: 5. Exploring the Infinite
     weight: 1180
 ---

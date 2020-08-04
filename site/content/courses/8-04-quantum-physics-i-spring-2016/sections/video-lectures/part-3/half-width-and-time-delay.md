@@ -411,6 +411,6 @@ transcript: >-
   m='495230'>near</span> <span m='495570'>a</span> <span
   m='496050'>resonance.</span> </p>
 uid: 2f5f168f77bed167d2438e284eedad8d
-type: courses
+type: course
 layout: video
 ---

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 4: Substitution of Power Series'
 transcript: ''
 uid: 2f8b0a3269be2886d5e4b0f102aaadb8
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: Week 1 Introduction to R - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 95e1dea61a0c566e8b1fe4ab6b1309ff
 file_type: application/pdf

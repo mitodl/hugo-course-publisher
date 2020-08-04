@@ -181,6 +181,6 @@ transcript: >-
   variables into simpler ones and then</span> <span m="502220">analyzing them
   separately.</span></p><p>&nbsp;</p>
 uid: 1bb7e459758e7ff8608e14883de0bb45
-type: courses
+type: course
 layout: video
 ---

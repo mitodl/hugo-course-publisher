@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 19 slides: More Optimization and Clustering'
 description: This resource contains lecture slides for more optimization and clustering.
-type: courses
+type: course
 layout: pdf
 uid: 094759947bb729ecf1a7c28ec7522374
 file_type: application/pdf

@@ -122,6 +122,6 @@ transcript: >-
   m='64385'>leading</span> <span m='65187'>the</span> <span
   m='65988'>effort.</span> </p>
 uid: 95bbe82834a95331f28b4b04683e69af
-type: courses
+type: course
 layout: video
 ---

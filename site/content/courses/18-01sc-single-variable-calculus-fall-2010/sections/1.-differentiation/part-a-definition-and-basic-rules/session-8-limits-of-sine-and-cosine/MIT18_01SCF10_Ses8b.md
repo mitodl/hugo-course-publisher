@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses8b.pdf
 description: This resource contains information related to limits of sine and cosine.
-type: courses
+type: course
 layout: pdf
 uid: 71f2919b73798dcb3005a14d6e9f3a02
 file_type: application/pdf

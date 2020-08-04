@@ -3,7 +3,7 @@ title: MITRES_18_001_strang151153.pdf
 description: >-
   This resource contains information related to vector fields and line
   integrals.
-type: courses
+type: course
 layout: pdf
 uid: db000f5b38d3f4b42d763a984a741d8e
 file_type: application/pdf

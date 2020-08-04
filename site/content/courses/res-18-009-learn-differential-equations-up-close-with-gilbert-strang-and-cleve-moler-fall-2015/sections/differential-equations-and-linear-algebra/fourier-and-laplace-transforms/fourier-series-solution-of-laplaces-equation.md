@@ -790,6 +790,6 @@ transcript: >-
   m='835900'>numerical</span> <span m='836510'>analysis.</span> <span
   m='837650'>Thank</span> <span m='837810'>you.</span> </p>
 uid: fb70843aa7bf2beedf811a68eab5fadf
-type: courses
+type: course
 layout: video
 ---

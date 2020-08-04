@@ -700,6 +700,6 @@ transcript: >-
   m='860290'>what</span> <span m='860440'>we'll</span> <span
   m='860650'>do</span> <span m='860860'>next.</span> </p>
 uid: 6e525ab34601c13dc674e847d79a37e2
-type: courses
+type: course
 layout: video
 ---

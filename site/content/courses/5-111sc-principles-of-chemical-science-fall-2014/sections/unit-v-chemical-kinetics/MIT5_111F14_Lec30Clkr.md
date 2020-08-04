@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Clicker Questions for Lecture 30: Kinetics:
   Rate Laws
 description: 'This resource contains information regarding Kinetics: Rate Laws.'
-type: courses
+type: course
 layout: pdf
 uid: 16c355a8eaa6547ee7e9eb260ae3a120
 file_type: application/pdf

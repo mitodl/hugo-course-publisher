@@ -675,6 +675,6 @@ transcript: >-
   m='528420'>it</span> <span m='528500'>with</span> <span
   m='528960'>that.</span> </p>
 uid: 1610e80681964f7ae1b116d20c966430
-type: courses
+type: course
 layout: video
 ---

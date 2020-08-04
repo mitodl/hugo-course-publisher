@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip 1: Cross Products'
 transcript: ''
 uid: 81fdc35b3328b37914c3fc4bec3ee72c
-type: courses
+type: course
 layout: video
 ---

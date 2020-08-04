@@ -1,11 +1,11 @@
 ---
 title: Calendar
 course_id: 12-001-introduction-to-geology-fall-2013
+type: course
+layout: course_section
 menu:
   12-001-introduction-to-geology-fall-2013:
     identifier: e9e621faf3861c1e4282d3854377dc3c
-    type: section
-    layout: section
     name: Calendar
     weight: 20
 ---

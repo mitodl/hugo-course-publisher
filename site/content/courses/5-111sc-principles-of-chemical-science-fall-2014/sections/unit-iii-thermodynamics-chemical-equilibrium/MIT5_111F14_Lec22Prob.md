@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 22:  Acid-Base
   Equilibrium: Salt Solutions and Buffers
 description: This resource contains information regarding lecture 22 problem.
-type: courses
+type: course
 layout: pdf
 uid: f9d6659dc6a27d60c3225d3a4218382e
 file_type: application/pdf

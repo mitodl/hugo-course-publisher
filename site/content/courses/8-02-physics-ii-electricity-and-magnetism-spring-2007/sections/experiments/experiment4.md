@@ -3,7 +3,7 @@ title: experiment4.pdf
 description: >-
   This resource contains an experiment on forces and torques on magnetic
   dipoles.
-type: courses
+type: course
 layout: pdf
 uid: c67532f2fd929f8bae57bd7099e83f79
 file_type: application/pdf

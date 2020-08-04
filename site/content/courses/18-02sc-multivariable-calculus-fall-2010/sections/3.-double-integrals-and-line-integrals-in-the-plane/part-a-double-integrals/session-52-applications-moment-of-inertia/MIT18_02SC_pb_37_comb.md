@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_37_comb.pdf
 description: 'This resource contains problems and solutions related to moment of inertia. '
-type: courses
+type: course
 layout: pdf
 uid: aa165f9aae6feb69ee35572906a8e620
 file_type: application/pdf

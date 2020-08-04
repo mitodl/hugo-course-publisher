@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Curl and Physics'
 transcript: ''
 uid: 2f8d635fcce37f09b6ccb9b449fba0a8
-type: courses
+type: course
 layout: video
 ---

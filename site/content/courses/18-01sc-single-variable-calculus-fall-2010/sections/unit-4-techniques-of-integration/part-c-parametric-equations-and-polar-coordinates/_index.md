@@ -1,11 +1,11 @@
 ---
 title: 'Part C: Parametric Equations and Polar Coordinates'
 course_id: 18-01sc-single-variable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: f19e1f54f348a68a730889ee63f5b9d6
-    type: section
-    layout: section
     name: 'Part C: Parametric Equations and Polar Coordinates'
     weight: 1080
     parent: 4da2f4d47b887d3f0da6a5405ecfef83

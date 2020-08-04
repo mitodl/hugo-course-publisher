@@ -1,7 +1,7 @@
 ---
 title: general_grading.pdf
 description: This resource contains the grading criteria for the course.
-type: courses
+type: course
 layout: pdf
 uid: 6f4274410e7deee8a6a4fee18a82efa5
 file_type: application/pdf

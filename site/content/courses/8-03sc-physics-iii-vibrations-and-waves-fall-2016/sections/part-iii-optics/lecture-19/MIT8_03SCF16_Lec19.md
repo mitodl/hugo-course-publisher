@@ -1,7 +1,7 @@
 ---
 title: 'MIT 8.03SC Fall 2016 Lecture 19: Waves in Medium'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: b54533f13f8ef512cc4041669b5fdfc7
 file_type: application/pdf

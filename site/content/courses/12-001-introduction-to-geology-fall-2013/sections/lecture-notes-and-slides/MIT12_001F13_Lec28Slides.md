@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 28 Slides: Rivers'
 description: 'This file contains the information regarding lecture 28 Slides: Rivers.'
-type: courses
+type: course
 layout: pdf
 uid: cf74a58b49c9caf991986d0ab832b3a6
 file_type: application/pdf

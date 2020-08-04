@@ -2650,6 +2650,6 @@ transcript: >-
   m='3008370'>do</span> <span m='3008520'>without</span> <span
   m='3008920'>mutation.</span> </p>
 uid: 483a4ea02e333cff5aeec362c96a59e4
-type: courses
+type: course
 layout: video
 ---

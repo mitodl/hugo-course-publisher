@@ -1,7 +1,7 @@
 ---
 title: spring2004_sp3.pdf
 description: This resource contains information on instructions for systems lab.
-type: courses
+type: course
 layout: pdf
 uid: cd615d2e4514de62c9e267efabad6598
 file_type: application/pdf

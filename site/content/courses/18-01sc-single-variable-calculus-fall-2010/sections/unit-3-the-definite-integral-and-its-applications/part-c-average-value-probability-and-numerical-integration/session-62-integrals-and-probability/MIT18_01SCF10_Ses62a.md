@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses62a.pdf
 description: This resource contains information about integrals and probability.
-type: courses
+type: course
 layout: pdf
 uid: ca87fbbc7c39c0e65522e050f1247b3d
 file_type: application/pdf

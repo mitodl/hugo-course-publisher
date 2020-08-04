@@ -97,6 +97,6 @@ transcript: >-
   estimate the</span> <span m='115050'>trajectory of an object from a few noisy
   measurements.</span> </p><p></p>
 uid: d7daadd47b972104cb7537f96c5d8c0f
-type: courses
+type: course
 layout: video
 ---

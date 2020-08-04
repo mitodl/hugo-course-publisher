@@ -678,6 +678,6 @@ transcript: >-
   m='890550'>and</span> <span m='890700'>Ill</span> <span m='890740'>see
   you</span> <span m='890980'>later.</span> </p>
 uid: c7c130b9288c108b8c30c079350b6f9d
-type: courses
+type: course
 layout: video
 ---

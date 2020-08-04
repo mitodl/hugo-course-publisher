@@ -588,6 +588,6 @@ transcript: >-
   m='616340'>you</span> <span m='616460'>for your</span> <span
   m='616850'>watching.</span> </p>
 uid: 38f28c996fa64335aab35db95fd21952
-type: courses
+type: course
 layout: video
 ---

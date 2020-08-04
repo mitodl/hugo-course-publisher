@@ -3,7 +3,7 @@ title: MITRES_6_007S11_lec18.pdf
 description: >-
   This resource contains information related to discrete-time processing of
   continuous-time signals.
-type: courses
+type: course
 layout: pdf
 uid: 9d7dd2f5a1a5281cbc6767e3e6188d8d
 file_type: application/pdf

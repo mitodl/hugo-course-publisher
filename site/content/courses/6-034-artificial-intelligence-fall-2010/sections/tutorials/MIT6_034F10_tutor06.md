@@ -3,7 +3,7 @@ title: '6.034 Tutorial 5: Probability, Bayes nets, naïve Bayes, model selection
 description: >-
   This resource contains information related to probability, Bayes nets, naïve
   Bayes, model selection.
-type: courses
+type: course
 layout: pdf
 uid: ef21cccdd50d0025bce0c72746ae182e
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: final_f00.pdf
 description: This resource is a final exam file.
-type: courses
+type: course
 layout: pdf
 uid: 0cb29e28115d9dfa9c44c2545111ce84
 file_type: application/pdf

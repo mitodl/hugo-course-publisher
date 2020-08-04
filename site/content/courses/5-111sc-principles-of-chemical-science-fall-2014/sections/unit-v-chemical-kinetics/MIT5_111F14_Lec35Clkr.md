@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Clicker Questions for Lecture 35: Applying
   chemical principles
 description: This resource contains information regarding Applying Chemical Principles.
-type: courses
+type: course
 layout: pdf
 uid: 9baba0be764c6eedc18e1b5b212482e6
 file_type: application/pdf

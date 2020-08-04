@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_23_quest.pdf
 description: >-
   This resource contains problem statements related to functions of two
   variables: graphs.
-type: courses
+type: course
 layout: pdf
 uid: 05b7530bb43b715861694fe2ab9e210d
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pset5.pdf
 description: "This resource contains information related to linear approximation.\r\n"
-type: courses
+type: course
 layout: pdf
 uid: 870f3d3f4063d3ac8513be605c29da14
 file_type: application/pdf

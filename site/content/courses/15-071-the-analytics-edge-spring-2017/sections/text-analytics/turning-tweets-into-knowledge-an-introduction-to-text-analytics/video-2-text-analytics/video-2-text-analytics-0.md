@@ -200,6 +200,6 @@ transcript: >-
   m='145648'>text</span> <span m='146226'>as</span> <span m='146804'>our</span>
   <span m='147382'>data.</span> </p>
 uid: 1d144885aff75c5ec4d8b2854e2865d3
-type: courses
+type: course
 layout: video
 ---

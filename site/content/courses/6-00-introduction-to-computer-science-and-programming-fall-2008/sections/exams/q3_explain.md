@@ -3,7 +3,7 @@ title: Explanation of code sample
 description: >-
   A note explaining code provided as a supplement to a quiz on computer science
   and programming.
-type: courses
+type: course
 layout: pdf
 uid: d9acfac17ff71054377411e609d3d8d3
 file_type: application/pdf

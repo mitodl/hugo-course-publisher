@@ -1,7 +1,7 @@
 ---
 title: 13_testing.pdf
 description: Lecture 13 (2004) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 37054a022d9d2bae5462e65bd2c76f3b
 file_type: application/pdf

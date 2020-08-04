@@ -1061,6 +1061,6 @@ transcript: >-
   m='1099020'>the</span> <span m='1099150'>next</span> <span
   m='1099480'>video.</span> </p>
 uid: 1f0a7e35915327add3a2e498a039dc78
-type: courses
+type: course
 layout: video
 ---

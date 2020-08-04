@@ -1,7 +1,7 @@
 ---
 title: Ross Recovery Theorem
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 65ff25bf0160cee676bbc5540cdf951f
 file_type: application/pdf

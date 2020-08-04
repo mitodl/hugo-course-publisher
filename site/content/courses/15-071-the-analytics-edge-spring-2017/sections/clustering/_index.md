@@ -1,11 +1,11 @@
 ---
 title: 6 Clustering
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: course_section
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 6e34350394a0f94851f48f324b5f657f
-    type: section
-    layout: section
     name: 'Unit 6: Clustering'
     weight: 1940
 ---

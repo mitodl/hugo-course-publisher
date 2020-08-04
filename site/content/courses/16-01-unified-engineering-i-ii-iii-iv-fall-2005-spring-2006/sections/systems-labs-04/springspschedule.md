@@ -1,7 +1,7 @@
 ---
 title: springspschedule.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: e60bc6be6aa673f04ad0c4d55357fdb7
 file_type: application/pdf

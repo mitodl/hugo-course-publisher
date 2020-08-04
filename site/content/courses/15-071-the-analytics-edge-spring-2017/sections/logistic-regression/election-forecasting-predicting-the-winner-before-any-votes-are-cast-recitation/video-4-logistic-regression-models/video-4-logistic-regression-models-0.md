@@ -615,6 +615,6 @@ transcript: >-
   m='476432'>on</span> <span m='476796'>the</span> <span
   m='477161'>testing</span> <span m='477525'>set.</span> </p>
 uid: a006fb509ea46226329f9975623c0c25
-type: courses
+type: course
 layout: video
 ---

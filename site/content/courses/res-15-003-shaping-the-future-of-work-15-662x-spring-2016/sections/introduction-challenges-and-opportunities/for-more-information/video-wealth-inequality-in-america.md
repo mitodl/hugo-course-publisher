@@ -29,6 +29,6 @@ technical_location: >-
 title: 'Video: Wealth Inequality in America'
 transcript: ''
 uid: 5db2b3aaf8f5bdfc137f44f116401342
-type: courses
+type: course
 layout: video
 ---

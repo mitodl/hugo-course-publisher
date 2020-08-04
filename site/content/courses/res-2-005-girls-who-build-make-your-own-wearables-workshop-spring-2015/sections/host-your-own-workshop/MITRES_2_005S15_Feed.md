@@ -3,7 +3,7 @@ title: 'Feedback from the Pilot Workshop '
 description: >-
   This is a resource file that contains information regarding feedback from the
   pilot workshop.
-type: courses
+type: course
 layout: pdf
 uid: 39faa72f5c1904fd8079a65dbfd863f8
 file_type: application/pdf

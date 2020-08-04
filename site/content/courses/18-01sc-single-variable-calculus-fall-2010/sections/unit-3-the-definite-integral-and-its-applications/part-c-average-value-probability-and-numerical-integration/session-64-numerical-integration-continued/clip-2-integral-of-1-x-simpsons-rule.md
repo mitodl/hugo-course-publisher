@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 2: Integral of 1/x, Simpson''s rule '
 transcript: ''
 uid: 72411e777f157e90935d69b37f791c7d
-type: courses
+type: course
 layout: video
 ---

@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Solubility and Acid-base
   Equilibrium.
-type: courses
+type: course
 layout: pdf
 uid: 34f8afd32c87ad4e59f14e2a40d1e5dd
 file_type: application/pdf

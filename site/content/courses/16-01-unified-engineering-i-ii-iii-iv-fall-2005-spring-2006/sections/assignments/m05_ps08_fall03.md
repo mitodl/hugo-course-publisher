@@ -1,7 +1,7 @@
 ---
 title: m05_ps08_fall03.pdf
 description: This resource contains a problem on 2-D planar truss.
-type: courses
+type: course
 layout: pdf
 uid: ba60092efaecf5c58921a6321bc0f549
 file_type: application/pdf

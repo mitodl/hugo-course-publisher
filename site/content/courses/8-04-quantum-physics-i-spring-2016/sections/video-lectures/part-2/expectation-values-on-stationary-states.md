@@ -411,6 +411,6 @@ transcript: >-
   m='538140'>most</span> <span m='538440'>[INAUDIBLE]</span> <span
   m='538740'>equation.</span> </p>
 uid: 3aee2946ae96ea080738df1413820dfb
-type: courses
+type: course
 layout: video
 ---

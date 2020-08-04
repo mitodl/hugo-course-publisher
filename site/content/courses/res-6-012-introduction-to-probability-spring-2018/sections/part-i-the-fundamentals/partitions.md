@@ -136,6 +136,6 @@ transcript: >-
   coefficient agrees with the</span> <span m="310480">expression that we had
   derived for the binomial coefficient.</span></p><p>&nbsp;</p>
 uid: b4d72f15bdbe1dd816b45d9308019eb9
-type: courses
+type: course
 layout: video
 ---

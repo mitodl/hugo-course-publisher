@@ -3,7 +3,7 @@ title: sysprob3.pdf
 description: >-
   This file contains exercise for the topic: Water Bottle Rocket Performance
   Analysis.
-type: courses
+type: course
 layout: pdf
 uid: a3334ac9fba24d4d4d7ddc8b437cdf1b
 file_type: application/pdf

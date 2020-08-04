@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Solutions for Lecture 13: Molecular Orbital
   Theory
 description: This resource contains information regarding lecture 13 solution.
-type: courses
+type: course
 layout: pdf
 uid: 901bb3225379643b4724190f11a1c42d
 file_type: application/pdf

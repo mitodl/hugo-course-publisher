@@ -1,7 +1,7 @@
 ---
 title: StudentSelfAssess.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 2b4ff33096c336cbdd0a9e7cfec40d4f
 file_type: application/pdf

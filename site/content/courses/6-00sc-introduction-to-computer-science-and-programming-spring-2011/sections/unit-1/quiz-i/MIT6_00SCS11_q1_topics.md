@@ -1,7 +1,7 @@
 ---
 title: 6.00SC Quiz 1 Topics
 description: This resource contains information about quiz 1 topics
-type: courses
+type: course
 layout: pdf
 uid: 32e0ceca60c2765046a4f5e2332a75a0
 file_type: application/pdf

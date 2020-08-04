@@ -1,11 +1,11 @@
 ---
 title: Exams
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
+type: course
+layout: course_section
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
     identifier: dc102ab9fad75fe06da4e71c66aab8ef
-    type: section
-    layout: section
     name: Exams
     weight: 40
 ---

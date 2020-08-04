@@ -3,7 +3,7 @@ title: S9_mud.pdf
 description: |-
   Review questions and answers on how?to?
   find?the?time?response?of?RC?circuits?to?initial?conditions.
-type: courses
+type: course
 layout: pdf
 uid: 13bfd9b9e11b3facc1b3300940975b43
 file_type: application/pdf

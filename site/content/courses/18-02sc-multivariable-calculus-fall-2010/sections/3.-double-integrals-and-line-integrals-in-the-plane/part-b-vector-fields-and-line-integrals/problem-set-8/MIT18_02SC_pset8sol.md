@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pset8sol.pdf
 description: This resource contains information related to potential function.
-type: courses
+type: course
 layout: pdf
 uid: bf5496992ab96752e11aa20b3482ef5a
 file_type: application/pdf

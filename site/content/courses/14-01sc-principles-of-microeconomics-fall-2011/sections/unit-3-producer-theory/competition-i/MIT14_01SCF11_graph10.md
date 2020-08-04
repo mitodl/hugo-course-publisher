@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_graph10.pdf
 description: This resource graphs related to competition I.
-type: courses
+type: course
 layout: pdf
 uid: f9add6bcf120f0c6298dd7ae3dcb5297
 file_type: application/pdf

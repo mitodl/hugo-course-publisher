@@ -3,7 +3,7 @@ title: MITRES_6_008S11_sol02.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   discrete-time signals and systems, part 1.
-type: courses
+type: course
 layout: pdf
 uid: f371214f549ea90489135d5461ba1338
 file_type: application/pdf

@@ -158,6 +158,6 @@ transcript: >-
   <span m="74030">that's</span> <span m="74330">my</span> <span
   m="74860">mini-pitch.</span></p>
 uid: ea710c2e6803d9ac8250c59ae89ce1e7
-type: courses
+type: course
 layout: video
 ---

@@ -575,6 +575,6 @@ transcript: >-
   m="470620">send</span> <span m="470820">that</span> <span m="470940">to</span>
   <span m="471100">you</span> <span m="471190">too.</span></p>
 uid: 248d2b83a6af8c3d33bbc1522b2908e2
-type: courses
+type: course
 layout: video
 ---

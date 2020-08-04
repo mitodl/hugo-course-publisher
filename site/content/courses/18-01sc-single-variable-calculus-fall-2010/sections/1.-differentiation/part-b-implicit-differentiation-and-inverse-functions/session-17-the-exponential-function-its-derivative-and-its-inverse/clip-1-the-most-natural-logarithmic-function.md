@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: The Most Natural Logarithmic Function'
 transcript: ''
 uid: 0e3d93422bde13c67d315aff15ef61d9
-type: courses
+type: course
 layout: video
 ---

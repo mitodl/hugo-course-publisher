@@ -461,6 +461,6 @@ transcript: >-
   <span m='355590'>that</span> <span m='356010'>in</span> <span
   m='356330'>future</span> <span m='356780'>sessions.</span> </p>
 uid: 756f96e91a4d4303fbe8060adcad5f66
-type: courses
+type: course
 layout: video
 ---

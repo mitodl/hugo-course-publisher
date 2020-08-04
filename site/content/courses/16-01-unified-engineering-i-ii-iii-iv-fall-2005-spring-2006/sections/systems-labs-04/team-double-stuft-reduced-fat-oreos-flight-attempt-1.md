@@ -36,6 +36,6 @@ technical_location: >-
 title: 'Team Double-Stuft Reduced-Fat Oreos: Flight Attempt 1'
 transcript: ''
 uid: d624819141adaeb950f2722d7a3b0e56
-type: courses
+type: course
 layout: video
 ---

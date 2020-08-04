@@ -620,6 +620,6 @@ transcript: >-
   m='734190'>a</span> <span m='734280'>medium</span> <span m='734910'>or</span>
   <span m='735420'>simple.</span> </p>
 uid: 2c31390c84a5245ff95255ea27c01e71
-type: courses
+type: course
 layout: video
 ---

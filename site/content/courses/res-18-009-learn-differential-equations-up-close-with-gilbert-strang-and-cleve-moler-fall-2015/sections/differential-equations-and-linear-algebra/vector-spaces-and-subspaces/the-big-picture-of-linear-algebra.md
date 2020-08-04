@@ -953,6 +953,6 @@ transcript: >-
   m='950670'>video.</span> <span m='951290'>Thank</span> <span
   m='951490'>you.</span> </p>
 uid: 464f0d5d4bae8ec343e04f19e86c43aa
-type: courses
+type: course
 layout: video
 ---

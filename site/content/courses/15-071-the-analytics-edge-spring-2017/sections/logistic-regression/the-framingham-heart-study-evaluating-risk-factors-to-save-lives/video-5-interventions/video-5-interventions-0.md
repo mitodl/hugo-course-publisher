@@ -142,6 +142,6 @@ transcript: >-
   m='100150'>is</span> <span m='100608'>more</span> <span m='101066'>than</span>
   <span m='101524'>$20</span> <span m='101982'>billion.</span> </p>
 uid: 3e1933bff94792761804f4b552131cc4
-type: courses
+type: course
 layout: video
 ---

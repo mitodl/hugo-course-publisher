@@ -6,7 +6,7 @@ description: >-
   action at a distance versus field theory, scalar fields, vector fields, fluid
   flow, gravitational field, electric fields, magnetic field, representations of
   a vector field, summary, solved problems, and additional problems.
-type: courses
+type: course
 layout: pdf
 uid: 10cac9d6b5a390de2251ba20a23e8be3
 file_type: application/pdf

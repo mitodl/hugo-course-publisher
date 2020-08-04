@@ -3,7 +3,7 @@ title: Solutions to Problem Set 9
 description: >-
   This is a resource file that contains information regarding solutions to
   problem set 9.
-type: courses
+type: course
 layout: pdf
 uid: d62a6abc1e89cbcf9ad8280465a51aa7
 file_type: application/pdf

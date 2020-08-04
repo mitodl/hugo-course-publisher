@@ -3,7 +3,7 @@ title: MIT22_081JF10_pset7.pdf
 description: >-
   This resource contains problem statements related to geothermal in US, trade
   offs in geothermal, and new solar generation prospects.
-type: courses
+type: course
 layout: pdf
 uid: eed15af260952533e3783ac1d660f333
 file_type: application/pdf

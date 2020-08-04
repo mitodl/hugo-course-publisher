@@ -1,7 +1,7 @@
 ---
 title: What Cameras can do for you… and how they do it!
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 58d2e4973f34833f00091f8aa54ebe5d
 file_type: application/pdf

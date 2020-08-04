@@ -1,7 +1,7 @@
 ---
 title: Midpoint Survey
 description: This resource contains information regarding midpoint survey.
-type: courses
+type: course
 layout: pdf
 uid: 0ca33476042a8cc2e31dcdf2b7e2848d
 file_type: application/pdf

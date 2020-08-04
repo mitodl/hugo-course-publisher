@@ -1,7 +1,7 @@
 ---
 title: 2.7 Partial Orders and Equivalence
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Population Partial Order]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-f4ebf555fc18" %}})

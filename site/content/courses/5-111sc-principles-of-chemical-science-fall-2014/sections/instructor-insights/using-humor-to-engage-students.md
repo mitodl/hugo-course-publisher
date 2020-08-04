@@ -404,6 +404,6 @@ transcript: >-
   m='233650'>want</span> <span m='233920'>them</span> <span m='234040'>to</span>
   <span m='234160'>remember</span> <span m='234550'>that.</span> </p>
 uid: f7297c940ac4058fbcee20b25649d385
-type: courses
+type: course
 layout: video
 ---

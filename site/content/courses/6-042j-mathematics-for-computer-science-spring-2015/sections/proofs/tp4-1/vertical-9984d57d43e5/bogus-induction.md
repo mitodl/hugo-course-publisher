@@ -443,6 +443,6 @@ transcript: >-
   m='299760'>proof</span> <span m='300220'>breaks</span> <span
   m='300550'>down.</span> </p>
 uid: 41b1f60efbc17acea6f567b2656481a8
-type: courses
+type: course
 layout: video
 ---

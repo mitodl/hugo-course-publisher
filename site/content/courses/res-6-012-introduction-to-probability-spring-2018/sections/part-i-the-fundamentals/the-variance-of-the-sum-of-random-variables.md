@@ -139,6 +139,6 @@ transcript: >-
   m='331280'>except that there's a few more symbols</span> <span m='333300'>that
   are floating around.</span> </p><p></p>
 uid: 09d98ba3f6dd40acd69004ec20dde9fd
-type: courses
+type: course
 layout: video
 ---

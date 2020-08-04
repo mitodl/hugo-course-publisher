@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Differentials and Linear Approximation'
 transcript: ''
 uid: db89af0b14a854241aa83ad5b3750054
-type: courses
+type: course
 layout: video
 ---

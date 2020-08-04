@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_v5.pdf
 description: This resource contains information related to extended green’s theorem.
-type: courses
+type: course
 layout: pdf
 uid: 1bc33736db05b99f564ba15fe7174311
 file_type: application/pdf

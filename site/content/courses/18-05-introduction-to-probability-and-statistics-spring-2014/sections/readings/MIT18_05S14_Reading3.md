@@ -3,7 +3,7 @@ title: 'Reading 3: Conditional Probability, Indepedence and Bayes'' Theorem'
 description: >-
   This resource file contains information regarding reading 3: conditional
   probability, indepedence and bayes' theorem.
-type: courses
+type: course
 layout: pdf
 uid: 01645f86d111e8fdca0be5fd46920851
 file_type: application/pdf

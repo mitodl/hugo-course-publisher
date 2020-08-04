@@ -4478,6 +4478,6 @@ transcript: >-
   m='4900260'>examples</span> <span m='4900560'>next</span> <span
   m='4900860'>time.</span> </p><p></p>
 uid: 6d588b3821aeaf00d101d86f29a4bacf
-type: courses
+type: course
 layout: video
 ---

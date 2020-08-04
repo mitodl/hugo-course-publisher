@@ -40,6 +40,6 @@ technical_location: >-
 title: 'Lab 4: Wiring Solar Panels, Part I: Lecture'
 transcript: ''
 uid: ebb9883f90220018ba82ee86f7e9f4e6
-type: courses
+type: course
 layout: video
 ---

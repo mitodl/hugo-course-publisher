@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Simply Connected Regions, Topology'
 transcript: ''
 uid: 3d5272f22d9808e780557748a3608345
-type: courses
+type: course
 layout: video
 ---

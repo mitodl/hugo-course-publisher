@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Example: Approximation of a Complicated Function'
 transcript: ''
 uid: 154b1447292c275fdfe06e9c09089a6d
-type: courses
+type: course
 layout: video
 ---

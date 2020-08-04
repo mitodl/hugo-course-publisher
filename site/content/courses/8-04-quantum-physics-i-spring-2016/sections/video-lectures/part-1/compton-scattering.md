@@ -1047,6 +1047,6 @@ transcript: >-
   m='1353750'>is</span> <span m='1353900'>it</span> <span
   m='1354040'>there?</span> </p>
 uid: 1939a9385ae97660100fb4cb1d8eca7e
-type: courses
+type: course
 layout: video
 ---

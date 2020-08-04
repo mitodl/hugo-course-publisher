@@ -732,6 +732,6 @@ transcript: >-
   m='947980'>we</span> <span m='948130'>can</span> <span m='948370'>use.</span>
   </p>
 uid: aefb540c9207d448ea44f2b6f95c74e7
-type: courses
+type: course
 layout: video
 ---

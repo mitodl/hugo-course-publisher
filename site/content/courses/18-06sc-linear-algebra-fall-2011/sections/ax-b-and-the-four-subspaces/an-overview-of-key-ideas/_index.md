@@ -1,16 +1,14 @@
 ---
 title: An Overview of Key Ideas
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: ff755187ef4826e2abafb9c76026cfdb
-    type: section
-    layout: section
     name: An Overview of Key Ideas
     weight: 50
     parent: 34303ce19b45724122d2bd33d64df688
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/elimination-with-matrices/_index.md" %}}) »
 

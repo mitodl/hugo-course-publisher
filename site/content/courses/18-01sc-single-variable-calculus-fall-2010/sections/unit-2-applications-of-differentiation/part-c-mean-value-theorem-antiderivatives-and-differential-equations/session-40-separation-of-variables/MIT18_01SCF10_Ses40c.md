@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses40c.pdf
 description: This resource contains information about separation of variables.
-type: courses
+type: course
 layout: pdf
 uid: fdad60c63032773eb98832f8b2b6e177
 file_type: application/pdf

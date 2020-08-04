@@ -4381,6 +4381,6 @@ transcript: >-
   m='4954000'>that's</span> <span m='4954230'>it</span> <span m='4954350'>for
   today.</span> </p>
 uid: 9694c2132f520ce3ddc5530aff3a2e4d
-type: courses
+type: course
 layout: video
 ---

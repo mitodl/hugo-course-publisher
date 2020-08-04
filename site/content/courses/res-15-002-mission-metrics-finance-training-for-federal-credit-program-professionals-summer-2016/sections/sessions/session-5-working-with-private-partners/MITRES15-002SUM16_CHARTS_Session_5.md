@@ -1,7 +1,7 @@
 ---
 title: Charts for Session 5 - RES.15-002 - Mission and Metrics
 description: Charts for session 5.
-type: courses
+type: course
 layout: pdf
 uid: 95522a82198566492ffd5ee114bc59fe
 file_type: application/pdf

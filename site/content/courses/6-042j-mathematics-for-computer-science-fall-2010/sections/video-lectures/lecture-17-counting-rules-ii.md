@@ -4671,6 +4671,6 @@ transcript: >-
   m='5113250'>proof.</span> <span m='5115630'>Thank</span> <span
   m='5116130'>you.</span> </p>
 uid: 1d57479283e7dce2a6ebf01d8ac8ee5f
-type: courses
+type: course
 layout: video
 ---

@@ -170,6 +170,6 @@ transcript: >-
   m='94233'>come</span> <span m='94700'>from</span> <span m='95166'>to</span>
   <span m='95633'>MIT.</span> </p>
 uid: 88204b6621542992d8f19497dcaa4867
-type: courses
+type: course
 layout: video
 ---

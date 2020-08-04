@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang_2527.pdf
 description: This resource contains information related to limits and continuous functions.
-type: courses
+type: course
 layout: pdf
 uid: 5b2ba163ea3de75dbbf50bae52934c7f
 file_type: application/pdf

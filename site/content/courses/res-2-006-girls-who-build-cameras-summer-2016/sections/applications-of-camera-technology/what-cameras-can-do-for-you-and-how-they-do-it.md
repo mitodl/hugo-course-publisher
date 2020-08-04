@@ -69,6 +69,6 @@ technical_location: >-
 title: What Cameras Can Do for You and How They Do It!
 transcript: ''
 uid: 8e22de68c60e0bb606bdb3509d90deae
-type: courses
+type: course
 layout: video
 ---

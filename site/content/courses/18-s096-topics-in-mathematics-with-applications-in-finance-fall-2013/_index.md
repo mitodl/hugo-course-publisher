@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013
 course_title: Topics in Mathematics with Applications in Finance
 course_image_url: >-

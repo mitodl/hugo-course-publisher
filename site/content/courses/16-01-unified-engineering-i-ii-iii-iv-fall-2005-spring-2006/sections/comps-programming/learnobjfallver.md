@@ -1,7 +1,7 @@
 ---
 title: learnobjfallver.pdf
 description: Learning Objectives for 16.01-16.02 Computers and Programming.
-type: courses
+type: course
 layout: pdf
 uid: e20555128399efc07d6b0a267bead555
 file_type: application/pdf

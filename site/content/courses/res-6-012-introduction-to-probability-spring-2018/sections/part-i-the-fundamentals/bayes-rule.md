@@ -136,6 +136,6 @@ transcript: >-
   what inference is all about, as</span> <span m="262520">we're going to see
   later in this class.</span></p><p>&nbsp;</p>
 uid: 1ce256796408575f96ebed3b52a87645
-type: courses
+type: course
 layout: video
 ---

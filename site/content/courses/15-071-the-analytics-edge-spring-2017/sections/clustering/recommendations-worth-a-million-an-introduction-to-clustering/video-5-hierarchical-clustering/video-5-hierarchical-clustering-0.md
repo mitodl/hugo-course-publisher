@@ -341,6 +341,6 @@ transcript: >-
   <span m='251276'>perform</span> <span m='251701'>content</span> <span
   m='252125'>filtering.</span> </p>
 uid: 4cf9eee479fadbf523c7c7504abc0c3e
-type: courses
+type: course
 layout: video
 ---

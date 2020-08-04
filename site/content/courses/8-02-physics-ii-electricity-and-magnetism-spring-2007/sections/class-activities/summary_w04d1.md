@@ -1,7 +1,7 @@
 ---
 title: summary_w04d1.pdf
 description: This resource is about conductors and capacitors.
-type: courses
+type: course
 layout: pdf
 uid: dfa628dd936b8daab27a2b66d6472dfa
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: prsm8.pdf
 description: >-
   This resource contains concept questions and answers based on symmetric
   distributed load and stresses and deflections.
-type: courses
+type: course
 layout: pdf
 uid: d81d7246cf7fae2b98bc73b4717a8868
 file_type: application/pdf

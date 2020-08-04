@@ -1,7 +1,7 @@
 ---
 title: 'Euler''s Theorem: The Ring Z_n'
 description: This file contains information regarding the ring Z_n.
-type: courses
+type: course
 layout: pdf
 uid: 0891c5ec4a20704cf9796b165984b113
 file_type: application/pdf

@@ -3110,6 +3110,6 @@ transcript: >-
   m="3035540">a</span> <span m="3035580">quarter</span> <span
   m="3035950">century.</span></p>
 uid: 200f4dde671b3c3e4d4c227348e14fe8
-type: courses
+type: course
 layout: video
 ---

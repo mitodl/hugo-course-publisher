@@ -3750,6 +3750,6 @@ transcript: >-
   m='3129540'>next</span> <span m='3129760'>two</span> <span
   m='3129880'>lectures.</span> </p>
 uid: b22b9a62f6fb04772c198d96c0ececbc
-type: courses
+type: course
 layout: video
 ---

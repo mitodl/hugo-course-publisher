@@ -1,6 +1,8 @@
 ---
 title: Problem Set 3
 course_id: 18-01sc-single-variable-calculus-fall-2010
+type: course
+layout: course_section
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-28-sketching-graphs-ii-general-strategies/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/_index.md" %}}) »
 

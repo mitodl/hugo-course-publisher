@@ -3,7 +3,7 @@ title: summary_w05d2.pdf
 description: >-
   This file gives a list of the expectations from the students in the
   examination.
-type: courses
+type: course
 layout: pdf
 uid: 29aa4190d8184fefa56498b77a3507e1
 file_type: application/pdf

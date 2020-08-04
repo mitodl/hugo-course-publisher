@@ -1,7 +1,7 @@
 ---
 title: Course Outline
 description: Handout containing an outline of topics covered over the entire course.
-type: courses
+type: course
 layout: pdf
 uid: 25808dab1504a9b2f2a582abee50e112
 file_type: application/pdf

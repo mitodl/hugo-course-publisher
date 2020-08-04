@@ -1,7 +1,7 @@
 ---
 title: Problem Set 7
 description: Problem set on computational complexity.
-type: courses
+type: course
 layout: pdf
 uid: b8d68e9befe83632912a64496fc72261
 file_type: application/pdf

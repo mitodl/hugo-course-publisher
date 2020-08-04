@@ -933,6 +933,6 @@ transcript: >-
   m='1002550'>order</span> <span m='1002890'>system,</span> <span
   m='1003440'>solved.</span> <span m='1004290'>Good.</span> </p>
 uid: 735ba29964233444dea76e3c95724bfa
-type: courses
+type: course
 layout: video
 ---

@@ -39,6 +39,6 @@ technical_location: >-
 title: 'Lecture 4: Solar Energy: Photovoltaics & Solar Thermal'
 transcript: ''
 uid: e9f41fd06a5e9e2f1fab8bef1626199b
-type: courses
+type: course
 layout: video
 ---

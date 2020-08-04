@@ -1,7 +1,7 @@
 ---
 title: Real and Reciprocal Space in 2D and 3D
 course_id: res-3-004-visualizing-materials-science-fall-2017
-type: courses
+type: course
 layout: videogallery
 ---
 ![visualization of real and reciprocal space](https://open-learning-course-data-ci.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/94ca634b27af25fcf310cc2410d9e672_MITRES_3_004F17_20_anon.jpg)

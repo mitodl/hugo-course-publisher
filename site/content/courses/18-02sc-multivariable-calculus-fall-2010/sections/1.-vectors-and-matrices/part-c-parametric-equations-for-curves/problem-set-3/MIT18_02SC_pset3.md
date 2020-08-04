@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pset3.pdf
 description: "This resource contains information related to parametric equations.\r\n"
-type: courses
+type: course
 layout: pdf
 uid: 04e1365ae9ea9e0263c9465669db310d
 file_type: application/pdf

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Surface Area of an Ellipsoid'
 transcript: ''
 uid: 5fc0efb02b63e4b2cd4bc9fbdd8919de
-type: courses
+type: course
 layout: video
 ---

@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 2: Limit of sin(x)/(x2)'
 transcript: ''
 uid: 1f20b84e051703f75db5d0ef1460949c
-type: courses
+type: course
 layout: video
 ---

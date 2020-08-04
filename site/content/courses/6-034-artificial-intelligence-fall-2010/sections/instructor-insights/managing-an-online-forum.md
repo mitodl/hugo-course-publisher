@@ -1,11 +1,11 @@
 ---
 title: Managing an Online Forum
 course_id: 6-034-artificial-intelligence-fall-2010
+type: course
+layout: course_section
 menu:
   6-034-artificial-intelligence-fall-2010:
     identifier: 7656320c8e4e1623d71300b38f3b7a49
-    type: section
-    layout: section
     name: Managing an Online Forum
     weight: 70
     parent: f55530ea3c456eb048484f3ee8291c38

@@ -3,7 +3,7 @@ title: 'Class 12 Slides: Bayesian updating: probabilistic prediction; odds'
 description: >-
   This is a resource file that contains information regarding bayesian updating:
   probabilistic prediction; odds.
-type: courses
+type: course
 layout: pdf
 uid: 2b5072b2746635658a0a13ddc7d6ca57
 file_type: application/pdf

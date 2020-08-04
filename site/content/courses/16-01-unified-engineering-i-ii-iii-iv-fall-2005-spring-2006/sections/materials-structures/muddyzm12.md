@@ -3,7 +3,7 @@ title: muddyzm12.pdf
 description: >-
   This resource contains review questions and answers based on sheer stress, and
   tensor equation.
-type: courses
+type: course
 layout: pdf
 uid: ce6cb5af0ebdeb0058e8f7a78262770c
 file_type: application/pdf

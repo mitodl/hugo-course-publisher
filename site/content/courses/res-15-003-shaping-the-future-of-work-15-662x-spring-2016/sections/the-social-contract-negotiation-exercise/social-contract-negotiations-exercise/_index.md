@@ -1,16 +1,14 @@
 ---
 title: 6.1 Social Contract Negotiations Exercise
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
+type: course
+layout: videogallery
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: d8a3dcd83f5997271c72ccbea16c8506
-    type: section
-    layout: section
     name: 6.1 Social Contract Negotiations Exercise
     weight: 690
     parent: 067004926eddaf8fbf2bdb9e3d3583b8
-type: courses
-layout: videogallery
 ---
 *   [<The Social Contract Negotiation Exercise]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/the-social-contract-negotiation-exercise/_index.md" %}})
 *   [6.1.1Video: Week 6 Introduction]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/the-social-contract-negotiation-exercise/social-contract-negotiations-exercise/_index.md" %}})

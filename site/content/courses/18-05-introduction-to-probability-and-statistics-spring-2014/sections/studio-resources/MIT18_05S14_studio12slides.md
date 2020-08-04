@@ -3,7 +3,7 @@ title: 'Studio 12 Slides with Solutions: Bootstrapping; linear regression'
 description: >-
   This is a resource file that contains information regarding bootstrapping;
   linear regression.
-type: courses
+type: course
 layout: pdf
 uid: 2998aba0219f1343ee939647e5c4610c
 file_type: application/pdf

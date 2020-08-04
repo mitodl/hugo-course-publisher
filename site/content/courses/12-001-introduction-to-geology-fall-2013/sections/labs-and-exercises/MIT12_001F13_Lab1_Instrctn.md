@@ -1,7 +1,7 @@
 ---
 title: '12.001 Introduction to Geology, Mineral Identification Guide'
 description: 'This file contains information regarding lab 1: mineral identification.'
-type: courses
+type: course
 layout: pdf
 uid: 3178dffb389bc9b0e742da818e0507ce
 file_type: application/pdf

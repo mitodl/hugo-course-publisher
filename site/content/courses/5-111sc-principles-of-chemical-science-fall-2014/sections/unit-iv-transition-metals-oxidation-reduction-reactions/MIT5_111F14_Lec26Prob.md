@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 26: Chemical and
   Biological Oxidations
 description: This resource contains information regarding lecture 26 problem.
-type: courses
+type: course
 layout: pdf
 uid: 6f3a939a6c1b8f389f84fed7d3598ef4
 file_type: application/pdf

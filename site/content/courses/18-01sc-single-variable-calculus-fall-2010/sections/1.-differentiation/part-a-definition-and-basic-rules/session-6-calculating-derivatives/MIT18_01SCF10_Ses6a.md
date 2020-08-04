@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses6a.pdf
 description: This resource contains information related to calculating derivatives.
-type: courses
+type: course
 layout: pdf
 uid: 1a66390a6b3d7adb27621ca4b0a2c534
 file_type: application/pdf

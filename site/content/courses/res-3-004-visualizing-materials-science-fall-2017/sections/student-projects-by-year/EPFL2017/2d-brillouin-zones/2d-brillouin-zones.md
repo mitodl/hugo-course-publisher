@@ -767,6 +767,6 @@ transcript: >-
   m='610560'>by</span> <span m='610880'>Jaroslaw</span> <span
   m='611430'>Klos.</span> </p>
 uid: 9410db34e55bca471da6f9411337b14f
-type: courses
+type: course
 layout: video
 ---

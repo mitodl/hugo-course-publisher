@@ -3262,6 +3262,6 @@ transcript: >-
   m='4678840'>try</span> <span m='4679140'>not to miss</span> <span
   m='4679440'>them.</span> </p>
 uid: a51f4e333e8242e4d6a56ed8f2478774
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: fall_2003_systems_lo.pdf
 description: Learning objectives for the course.
-type: courses
+type: course
 layout: pdf
 uid: 0cf7d7e5889adfc32e8850a3f6c40930
 file_type: application/pdf

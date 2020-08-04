@@ -1,7 +1,7 @@
 ---
 title: 19_evenmorelogic.pdf
 description: Lecture 19 (2004) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 1187ce38e8ccccd5d2679a3b604f3b59
 file_type: application/pdf

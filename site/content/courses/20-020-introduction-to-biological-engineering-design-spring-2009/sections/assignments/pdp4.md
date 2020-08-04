@@ -1,11 +1,11 @@
 ---
 title: PDP4 Teamwork and Learning Styles
 course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
+type: course
+layout: course_section
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: bab8ac23d57d1829c8f5903bfbaf410b
-    type: section
-    layout: section
     name: PDP4 Teamwork and Learning Styles
     weight: 190
     parent: f46140cde86ad79a318fba9b9f2dbf04

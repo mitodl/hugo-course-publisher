@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_7_comb.pdf
 description: >-
   This resource contains problem statements and solutions related to volumes and
   determinants.
-type: courses
+type: course
 layout: pdf
 uid: 03e5884632cf227fa21d007f329b12a8
 file_type: application/pdf

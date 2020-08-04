@@ -813,6 +813,6 @@ transcript: >-
   <span m='669350'>curls.</span> </p><p><span m='670380'>I'll</span> <span
   m='670570'>stop</span> <span m='670940'>there.</span> </p>
 uid: 966d9fdfe18616ddae43e675b0b56d79
-type: courses
+type: course
 layout: video
 ---

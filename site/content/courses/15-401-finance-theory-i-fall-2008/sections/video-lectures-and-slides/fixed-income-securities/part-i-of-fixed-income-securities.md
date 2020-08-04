@@ -5442,6 +5442,6 @@ transcript: >-
   m='4309400'>right,</span> <span m='4309530'>thank</span> <span
   m='4309740'>you.</span> </p>
 uid: 4d4da8eb773967718ebefaee5d8bbe71
-type: courses
+type: course
 layout: video
 ---

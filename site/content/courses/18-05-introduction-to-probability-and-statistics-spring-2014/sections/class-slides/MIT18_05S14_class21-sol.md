@@ -3,7 +3,7 @@ title: 'Class 21 Solutions File: Review for exam 2'
 description: >-
   This is a resource file that contains information regarding class 21
   solutions.
-type: courses
+type: course
 layout: pdf
 uid: 65af1b49b5b1d44dff615fd1b35717a7
 file_type: application/pdf

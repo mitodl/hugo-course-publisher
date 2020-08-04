@@ -1,7 +1,7 @@
 ---
 title: experiment6.pdf
 description: 'This resource contains an experiment on Ohm''s law, RC and RL circuits.'
-type: courses
+type: course
 layout: pdf
 uid: 4a47def39861449ef7407fd1003bc2e0
 file_type: application/pdf

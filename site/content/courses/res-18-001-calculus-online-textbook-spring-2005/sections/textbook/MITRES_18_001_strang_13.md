@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang_13.pdf
 description: This resource contains information related to partial derivatives.
-type: courses
+type: course
 layout: pdf
 uid: 306aaa4ef37b20e90940494ee6abdb43
 file_type: application/pdf

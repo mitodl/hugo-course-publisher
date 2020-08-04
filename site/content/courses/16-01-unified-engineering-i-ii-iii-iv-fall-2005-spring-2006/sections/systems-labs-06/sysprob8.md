@@ -3,7 +3,7 @@ title: sysprob8.pdf
 description: >-
   This file contains the objectives, procedures for the exercise: Basic Airplane
   Configuration Design.
-type: courses
+type: course
 layout: pdf
 uid: 3c3fb46af452653e4616e1918c63f218
 file_type: application/pdf

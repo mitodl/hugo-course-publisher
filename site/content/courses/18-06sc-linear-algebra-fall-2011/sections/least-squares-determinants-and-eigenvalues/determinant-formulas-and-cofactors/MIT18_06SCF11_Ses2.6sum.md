@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses2.6sum.pdf
 description: >-
   This resource contains information related to determinant dormulas and
   cofactors.
-type: courses
+type: course
 layout: pdf
 uid: cc79f04d92ee282758780bac2ec5e403
 file_type: application/pdf

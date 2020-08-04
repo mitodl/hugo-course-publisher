@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses2.1prob.pdf
 description: >-
   This resource contains problem set related to orthogonal vectors and
   subspaces.
-type: courses
+type: course
 layout: pdf
 uid: 31faf1ce3bab94b78feccf05107b9f93
 file_type: application/pdf

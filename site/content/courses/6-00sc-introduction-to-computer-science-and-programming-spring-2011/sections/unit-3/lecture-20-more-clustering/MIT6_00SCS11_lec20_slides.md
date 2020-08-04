@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 20 slides: More Clustering'
 description: This resource contains information related to more clustering.
-type: courses
+type: course
 layout: pdf
 uid: e09f895cc2c03cc07388e4440df7b2f7
 file_type: application/pdf

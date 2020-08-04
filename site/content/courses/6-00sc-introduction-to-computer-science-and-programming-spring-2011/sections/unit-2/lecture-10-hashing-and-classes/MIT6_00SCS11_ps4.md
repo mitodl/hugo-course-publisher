@@ -1,7 +1,7 @@
 ---
 title: MIT6_00SCS11_ps4.pdf
 description: This resource contains problem set related to the caesar cipher.
-type: courses
+type: course
 layout: pdf
 uid: ff50119bd441887d641fcdb569934b6d
 file_type: application/pdf

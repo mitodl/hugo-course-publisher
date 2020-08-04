@@ -370,6 +370,6 @@ transcript: >-
   m='273200'>to</span> <span m='273946'>regression</span> <span
   m='274693'>trees.</span> </p>
 uid: 1bab4dc064a0345fdbd9edeb7154d743
-type: courses
+type: course
 layout: video
 ---

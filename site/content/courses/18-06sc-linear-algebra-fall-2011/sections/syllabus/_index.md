@@ -1,15 +1,13 @@
 ---
 title: Syllabus
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: d8efae912fd602f9ac2e2cb9d064d22e
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/Syllabus/meet-the-tas/_index.md" %}}) »
 

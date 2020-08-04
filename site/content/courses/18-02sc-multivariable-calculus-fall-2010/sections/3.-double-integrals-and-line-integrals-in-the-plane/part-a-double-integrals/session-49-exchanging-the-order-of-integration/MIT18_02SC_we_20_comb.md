@@ -3,7 +3,7 @@ title: MIT18_02SC_we_20_comb.pdf
 description: >-
   This resource contains problems and solutions related to changing the order of
   integration. 
-type: courses
+type: course
 layout: pdf
 uid: 66d49509fdfe1afe1bb0fbc41dda93c7
 file_type: application/pdf

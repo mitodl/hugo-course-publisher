@@ -561,6 +561,6 @@ transcript: >-
   m='399650'>that's</span> <span m='399890'>about</span> <span
   m='400160'>it.</span> </p>
 uid: 80d3ffc3c55e8b0b8931195cebac5592
-type: courses
+type: course
 layout: video
 ---

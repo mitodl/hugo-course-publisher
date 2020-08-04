@@ -1,15 +1,13 @@
 ---
 title: Resource Index
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 754d6be4ca3c378b6c8b2e4a955ffe64
-    type: section
-    layout: section
     name: Resource Index
     weight: 470
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/final-exam/_index.md" %}}) »
 

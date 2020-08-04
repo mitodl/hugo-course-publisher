@@ -3,7 +3,7 @@ title: f18_ps14_fall03.pdf
 description: >-
   This resource contains problems on the topics superimposing uniform flow and
   boundary.
-type: courses
+type: course
 layout: pdf
 uid: 35111256b60d484136b72210583834a4
 file_type: application/pdf

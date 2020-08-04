@@ -3,7 +3,7 @@ title: 'Reading 8b: Exam Review'
 description: >-
   This is a resource file that contains information regarding reading 8b: Exam
   review.
-type: courses
+type: course
 layout: pdf
 uid: 98a67cf3cfb4ef0b9eecc5b92111ff83
 file_type: application/pdf

@@ -615,6 +615,6 @@ transcript: >-
   <span m='457390'>the</span> <span m='457510'>analysis</span> <span
   m='458090'>simpler.</span> </p>
 uid: b487d144ad62e820195c1d045889c48f
-type: courses
+type: course
 layout: video
 ---

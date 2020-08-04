@@ -4798,6 +4798,6 @@ transcript: >-
   competence</span> <span m="4840010">in that</span> <span
   m="4840310">sur--</span></p>
 uid: fccab379f1fc5a5de2fe49b20461eca2
-type: courses
+type: course
 layout: video
 ---

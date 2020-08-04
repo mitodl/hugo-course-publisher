@@ -1506,6 +1506,6 @@ transcript: >-
   m='1464340'>substitution</span> <span m='1465480'>and</span> <span
   m='1465670'>income</span> <span m='1466000'>effect.</span> </p>
 uid: eefd8039f649b5cb1ab527a81badece7
-type: courses
+type: course
 layout: video
 ---

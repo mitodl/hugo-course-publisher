@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Taylor''s Series of 1/(1 + x)'
 transcript: ''
 uid: 52214f10b4bfd3563b04b560ea00fe26
-type: courses
+type: course
 layout: video
 ---

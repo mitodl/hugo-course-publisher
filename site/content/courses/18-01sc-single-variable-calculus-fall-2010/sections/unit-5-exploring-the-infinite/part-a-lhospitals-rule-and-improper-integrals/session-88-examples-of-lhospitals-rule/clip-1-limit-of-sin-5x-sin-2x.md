@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Limit of sin(5x)/sin(2x)'
 transcript: ''
 uid: 827530ca77a259d7b9e79d7f49b93601
-type: courses
+type: course
 layout: video
 ---

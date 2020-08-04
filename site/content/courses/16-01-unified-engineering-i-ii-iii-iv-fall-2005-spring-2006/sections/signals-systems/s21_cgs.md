@@ -1,7 +1,7 @@
 ---
 title: s21_cgs.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: d7c7e99f8a876d329de51a26a5d9bd34
 file_type: application/pdf

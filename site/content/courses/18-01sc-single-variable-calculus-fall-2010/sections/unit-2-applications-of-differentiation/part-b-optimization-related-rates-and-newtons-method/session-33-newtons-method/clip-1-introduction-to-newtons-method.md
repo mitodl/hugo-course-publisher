@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Introduction to Newton''s Method '
 transcript: ''
 uid: 13a76551ad95d9ac7aa8de6f6d92cd7b
-type: courses
+type: course
 layout: video
 ---

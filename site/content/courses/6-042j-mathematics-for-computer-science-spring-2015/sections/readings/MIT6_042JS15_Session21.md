@@ -3,7 +3,7 @@ title: 'Trees: Chapter 11.9 – 11.10'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Trees: Chapter 11.9 – 11.10.
-type: courses
+type: course
 layout: pdf
 uid: dfa2be0e610ddb133986368515c74823
 file_type: application/pdf

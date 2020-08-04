@@ -4050,6 +4050,6 @@ transcript: >-
   m="4647210">you</span> <span m="4647300">have</span> <span
   m="4647480">any</span> <span m="4647660">questions.</span></p>
 uid: c0287a4174a9feba0471aafbf3c82e67
-type: courses
+type: course
 layout: video
 ---

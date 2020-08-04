@@ -1134,6 +1134,6 @@ transcript: >-
   <span m='1266290'>higher</span> <span m='1266660'>dimensions.</span> <span
   m='1268580'>Thank</span> <span m='1268820'>you.</span> </p>
 uid: 203d6e032e6218990f30a1986033767b
-type: courses
+type: course
 layout: video
 ---

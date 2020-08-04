@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SC_pset5prb.pdf
 description: 'This resource contains problem sets of integration techniques. '
-type: courses
+type: course
 layout: pdf
 uid: 50d9ff5b7a30fe96bd69017ca5104d6e
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_lec10.pdf
 description: This resource contains information related to discrete-time fourier series.
-type: courses
+type: course
 layout: pdf
 uid: cf3874410d609d71d6036e7572525222
 file_type: application/pdf

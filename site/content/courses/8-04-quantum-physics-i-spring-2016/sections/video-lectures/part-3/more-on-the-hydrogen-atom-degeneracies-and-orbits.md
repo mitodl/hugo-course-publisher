@@ -1133,6 +1133,6 @@ transcript: >-
   m='1400170'>it</span> <span m='1400290'>in</span> <span m='1400420'>a</span>
   <span m='1400520'>figure.</span> </p>
 uid: f026afa26cac37b643103eae46dc0704
-type: courses
+type: course
 layout: video
 ---

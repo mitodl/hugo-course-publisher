@@ -630,6 +630,6 @@ transcript: >-
   m="497580">in</span> <span m="497760">making</span> <span
   m="498050">that</span> <span m="498190">happen.</span></p>
 uid: aa7a0087fcecd027219eee9dc6c9b7fa
-type: courses
+type: course
 layout: video
 ---

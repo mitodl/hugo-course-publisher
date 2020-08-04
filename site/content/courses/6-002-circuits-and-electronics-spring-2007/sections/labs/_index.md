@@ -1,11 +1,11 @@
 ---
 title: Labs
 course_id: 6-002-circuits-and-electronics-spring-2007
+type: course
+layout: course_section
 menu:
   6-002-circuits-and-electronics-spring-2007:
     identifier: b8f61f376630251bb0634589f052d6ca
-    type: section
-    layout: section
     name: Labs
     weight: 50
 ---

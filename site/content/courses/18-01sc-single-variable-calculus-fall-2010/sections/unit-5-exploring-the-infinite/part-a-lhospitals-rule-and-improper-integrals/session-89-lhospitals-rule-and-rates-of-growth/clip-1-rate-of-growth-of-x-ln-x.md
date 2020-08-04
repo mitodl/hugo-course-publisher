@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Rate of Growth of x ln(x)'
 transcript: ''
 uid: 62cb8338ddc36272d8dd9ec6f31f1ccf
-type: courses
+type: course
 layout: video
 ---

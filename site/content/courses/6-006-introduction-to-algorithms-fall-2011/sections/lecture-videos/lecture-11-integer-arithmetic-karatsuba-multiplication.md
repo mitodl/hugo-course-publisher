@@ -2704,6 +2704,6 @@ transcript: >-
   m='2841030'>thanks</span> <span m='2841210'>for</span> <span
   m='2841510'>coming.</span> </p>
 uid: bf01629c2329ba5b7672f282b59f7c29
-type: courses
+type: course
 layout: video
 ---

@@ -572,6 +572,6 @@ transcript: >-
   </p><p><span m='529880'>Thank</span> <span m='530110'>you,</span> <span
   m='530200'>guys.</span> </p><p><span m='531270'>[APPLAUSE]</span> </p>
 uid: d18dab8d1d715e5c9893d178320da166
-type: courses
+type: course
 layout: video
 ---

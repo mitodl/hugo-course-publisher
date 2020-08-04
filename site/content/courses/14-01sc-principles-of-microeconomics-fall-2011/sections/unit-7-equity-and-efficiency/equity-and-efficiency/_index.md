@@ -1,16 +1,14 @@
 ---
 title: Equity and Efficiency
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 1b95348a7b79a798d6356d4376464c0d
-    type: section
-    layout: section
     name: Equity and Efficiency
     weight: 420
     parent: c94fdf9054571202c278c37041d32e5c
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-7-equity-and-efficiency/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-7-equity-and-efficiency/government-redistribution-policy/_index.md" %}}) »
 

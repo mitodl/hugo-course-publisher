@@ -1,6 +1,8 @@
 ---
 title: Exam Materials
 course_id: 18-02sc-multivariable-calculus-fall-2010
+type: course
+layout: course_section
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/exam-2/session-46-review-of-problems/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/_index.md" %}}) »
 

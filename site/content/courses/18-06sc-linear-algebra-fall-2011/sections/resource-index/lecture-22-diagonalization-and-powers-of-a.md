@@ -2990,6 +2990,6 @@ transcript: >-
   m="3106690">differential</span> <span
   m="3107800">equations.</span></p><p><span m="3108900">Thanks.</span></p>
 uid: fe80c90560e90865eea64d6cec42aab8
-type: courses
+type: course
 layout: video
 ---

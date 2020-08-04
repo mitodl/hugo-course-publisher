@@ -3,7 +3,7 @@ title: New Charters / Governance Models
 description: >-
   This resource contains the information regarding new charters / governance
   models.
-type: courses
+type: course
 layout: pdf
 uid: be66a30aa493032085a9a4c7fe3d4363
 file_type: application/pdf

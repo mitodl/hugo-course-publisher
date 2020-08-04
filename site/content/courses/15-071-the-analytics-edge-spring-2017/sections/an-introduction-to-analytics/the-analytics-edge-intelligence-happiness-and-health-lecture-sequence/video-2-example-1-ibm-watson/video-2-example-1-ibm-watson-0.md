@@ -464,6 +464,6 @@ transcript: >-
   m='391396'>the</span> <span m='391757'>world</span> <span m='392118'>is</span>
   <span m='392479'>unstructured.</span> </p>
 uid: cf2300f946cbbdd11fd2412911fdac2e
-type: courses
+type: course
 layout: video
 ---

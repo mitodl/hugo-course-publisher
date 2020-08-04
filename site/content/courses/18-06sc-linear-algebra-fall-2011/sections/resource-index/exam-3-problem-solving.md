@@ -733,6 +733,6 @@ transcript: >-
   m='767070'>luck</span> <span m='767290'>on</span> <span m='767340'>your</span>
   <span m='767450'>test.</span> </p>
 uid: 65b72ac36b79702053046db455ff79a4
-type: courses
+type: course
 layout: video
 ---

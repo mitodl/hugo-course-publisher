@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Problems: Limits in Spherical Coordinates'
 description: This resource contains information regarding limits in spherical coordinates.
-type: courses
+type: course
 layout: pdf
 uid: af12848253f4896a90771e073c650f26
 file_type: application/pdf

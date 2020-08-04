@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Solutions for Lecture 17: Thermodynamics: Now
   What Happens When You Heat It Up?
 description: This resource contains information regarding lecture 17 solution.
-type: courses
+type: course
 layout: pdf
 uid: 7562819c201749c283deb0e457fefd66
 file_type: application/pdf

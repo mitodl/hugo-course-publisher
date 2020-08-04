@@ -1196,6 +1196,6 @@ transcript: >-
   m='957300'>the</span> <span m='957400'>power</span> <span m='957960'>of</span>
   <span m='958110'>computation.</span> </p>
 uid: 46f59690f298511eee75704b20e74722
-type: courses
+type: course
 layout: video
 ---

@@ -608,6 +608,6 @@ transcript: >-
   have the underground guide folks</span> <span m='2398000'>go through the
   reviews.</span> </p>
 uid: eefb51ffea164547b60b310f1b8bdd11
-type: courses
+type: course
 layout: video
 ---

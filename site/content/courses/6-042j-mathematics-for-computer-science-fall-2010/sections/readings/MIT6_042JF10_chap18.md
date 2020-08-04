@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 18: Expectation'
 description: This resource contains information about Expectation.
-type: courses
+type: course
 layout: pdf
 uid: b61628dbe4b2e1d264f12c8ada491766
 file_type: application/pdf

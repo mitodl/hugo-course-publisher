@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Derivative of a Power Series'
 transcript: ''
 uid: dbdec6103bc19dbdea05e66dccd99a4e
-type: courses
+type: course
 layout: video
 ---

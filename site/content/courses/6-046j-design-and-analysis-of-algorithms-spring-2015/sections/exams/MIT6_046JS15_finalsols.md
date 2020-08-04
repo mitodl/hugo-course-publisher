@@ -3,7 +3,7 @@ title: 'Class on Design and Analysis of Algorithms, Solutions to Final Exam'
 description: >-
   This resource contains information regarding class on design and analysis of
   algorithms, solutions to final exam.
-type: courses
+type: course
 layout: pdf
 uid: c212df0eabebc6b2c271bd4a63480d70
 file_type: application/pdf

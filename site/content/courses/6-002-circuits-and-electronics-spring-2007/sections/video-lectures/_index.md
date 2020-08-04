@@ -1,15 +1,13 @@
 ---
 title: Video Lectures
 course_id: 6-002-circuits-and-electronics-spring-2007
+type: course
+layout: videogallery
 menu:
   6-002-circuits-and-electronics-spring-2007:
     identifier: 9b4a2ba7a556b2348b0c3f1bdd4fa8ab
-    type: section
-    layout: section
     name: Video Lectures
     weight: 90
-type: courses
-layout: videogallery
 is_media_gallery: true
 ---
 The course materials for 6.002 were last updated in Spring 2007. However, the lecture notes, demos, and videos presented in this section are taken from the Fall 2000 version.

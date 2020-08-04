@@ -1,7 +1,7 @@
 ---
 title: 'Intro to Discrete Probability: Tree Model'
 description: This file contains information regarding tree model.
-type: courses
+type: course
 layout: pdf
 uid: 9f37894427c04db6987a7e43a1e76517
 file_type: application/pdf

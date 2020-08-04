@@ -1,7 +1,7 @@
 ---
 title: Linear Algebra
 description: This file contains information regarding lecture 2 notes.
-type: courses
+type: course
 layout: pdf
 uid: bf77e900565f6487e3f46ba38dcc6dd6
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: chapter_5.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 65bdbad95ca098563ddcf76de3b6d7ee
 file_type: application/pdf

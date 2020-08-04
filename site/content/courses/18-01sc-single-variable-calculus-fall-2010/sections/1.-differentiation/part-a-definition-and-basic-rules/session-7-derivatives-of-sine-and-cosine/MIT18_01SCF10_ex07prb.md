@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex07prb.pdf
 description: >-
   This resource contains problem statements related to derivatives of sine and
   cosine.
-type: courses
+type: course
 layout: pdf
 uid: c29d87caee7001fc2b32365c40bc7c93
 file_type: application/pdf

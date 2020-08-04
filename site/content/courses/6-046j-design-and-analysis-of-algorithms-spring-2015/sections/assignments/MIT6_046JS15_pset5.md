@@ -3,7 +3,7 @@ title: 'Class on Design and Analysis of Algorithms, Problem Set 5'
 description: >-
   This resource contains information regarding class on design and analysis of
   algorithms, problem set 5.
-type: courses
+type: course
 layout: pdf
 uid: 45952953cb13d077bd35d4397d67fa7c
 file_type: application/pdf

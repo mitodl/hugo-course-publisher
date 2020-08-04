@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses33a.pdf
 description: This resource contains information about newton's method.
-type: courses
+type: course
 layout: pdf
 uid: 40bc34f4471c7c813910d7e006b28919
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 30: Kinetics: Rate Laws'
 description: This file contains information regarding  lecture 30.
-type: courses
+type: course
 layout: pdf
 uid: 9751e46d3f1b60428fb647aaeb7241d9
 file_type: application/pdf

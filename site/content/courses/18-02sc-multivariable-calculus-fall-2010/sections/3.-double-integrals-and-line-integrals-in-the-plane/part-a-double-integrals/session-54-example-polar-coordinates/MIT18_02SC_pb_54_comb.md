@@ -3,7 +3,7 @@ title: '18.02SC Problems and Solutions: Problems: Polar Coordinates and the Jaco
 description: >-
   This resource contains information regarding polar coordinates and the
   jacobian.
-type: courses
+type: course
 layout: pdf
 uid: 24f64a5e3d2082cbaa9b9397f6424606
 file_type: application/pdf

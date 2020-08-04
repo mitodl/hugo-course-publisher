@@ -559,6 +559,6 @@ transcript: >-
   m="501210">adaptive,</span> <span m="502060">lifelong</span> <span
   m="503120">learners.</span></p>
 uid: 0e471e1a76cbd4c46f1ecfd77bbd573b
-type: courses
+type: course
 layout: video
 ---

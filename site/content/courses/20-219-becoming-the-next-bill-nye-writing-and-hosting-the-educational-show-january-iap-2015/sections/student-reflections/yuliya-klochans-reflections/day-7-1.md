@@ -446,6 +446,6 @@ transcript: >-
   m="376480">for</span> <span m="376610">the</span> <span
   m="376730">filming</span> <span m="376990">tomorrow.</span></p>
 uid: 07e94a1fb3fefea31b9b5dfcf83e2125
-type: courses
+type: course
 layout: video
 ---

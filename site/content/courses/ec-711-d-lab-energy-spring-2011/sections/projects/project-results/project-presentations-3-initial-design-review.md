@@ -40,6 +40,6 @@ technical_location: >-
 title: 'Project Presentations 3:  Initial Design Review'
 transcript: ''
 uid: f6720eaa1df013639cba7f18456b8268
-type: courses
+type: course
 layout: video
 ---

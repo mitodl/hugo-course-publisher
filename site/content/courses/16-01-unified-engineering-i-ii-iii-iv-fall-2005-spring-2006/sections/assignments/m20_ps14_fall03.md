@@ -3,7 +3,7 @@ title: m20_ps14_fall03.pdf
 description: >-
   This resource contains a problem set based on in-plane principal stresses, and
   Young's modulus of an aluminium alloy.
-type: courses
+type: course
 layout: pdf
 uid: 45268747e3436e021e154db0fd6ef453
 file_type: application/pdf

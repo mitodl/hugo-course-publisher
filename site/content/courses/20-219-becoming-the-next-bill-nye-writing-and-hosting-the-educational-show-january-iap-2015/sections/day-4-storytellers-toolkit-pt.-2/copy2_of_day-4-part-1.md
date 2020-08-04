@@ -2007,6 +2007,6 @@ transcript: >-
   m="1647590">about</span> <span m="1647840">After</span> <span
   m="1648110">Effects.</span></p>
 uid: 43f16dbe09b7ebc481f314cc07640c44
-type: courses
+type: course
 layout: video
 ---

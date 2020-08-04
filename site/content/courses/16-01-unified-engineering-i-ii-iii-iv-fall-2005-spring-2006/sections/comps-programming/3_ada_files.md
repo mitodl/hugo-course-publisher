@@ -1,7 +1,7 @@
 ---
 title: 3_ada_files.pdf
 description: Lecture 3 (2004) presentation.
-type: courses
+type: course
 layout: pdf
 uid: a9bae4df0557eda28a87b5f8a371c751
 file_type: application/pdf

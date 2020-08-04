@@ -3207,6 +3207,6 @@ transcript: >-
   m='3165500'>all</span> <span m='3165630'>this</span> <span
   m='3165780'>work.</span> </p>
 uid: a601e0b64a32c32e4af0f5950e031d10
-type: courses
+type: course
 layout: video
 ---

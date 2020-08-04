@@ -1,11 +1,11 @@
 ---
 title: 'Part C: Lagrange Multipliers and Constrained Differentials'
 course_id: 18-02sc-multivariable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: c2b5d17477309fb5372bd98ef12fed7d
-    type: section
-    layout: section
     name: 'Part C: Lagrange Multipliers and Constrained Differentials'
     weight: 550
     parent: c4eb7979ba24327046e3f4d3be8fc654

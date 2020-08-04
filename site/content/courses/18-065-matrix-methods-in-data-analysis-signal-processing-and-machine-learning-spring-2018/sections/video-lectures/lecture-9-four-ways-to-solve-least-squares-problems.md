@@ -2733,6 +2733,6 @@ transcript: >-
   m="2988110">Good.</span> <span m="2988500">Thank</span> <span
   m="2988860">you.</span></p>
 uid: a575de1117f0e13b755d03aacd93f61b
-type: courses
+type: course
 layout: video
 ---

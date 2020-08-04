@@ -3020,6 +3020,6 @@ transcript: >-
   m='3052910'>and</span> <span m='3052980'>answer</span> <span
   m='3053220'>questions.</span> </p>
 uid: bd150a3fc0039e971b46e7cb296105cc
-type: courses
+type: course
 layout: video
 ---

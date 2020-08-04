@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex79prb.pdf
 description: This resource contains problem statements related surface area.
-type: courses
+type: course
 layout: pdf
 uid: 595db9139d7b8372fa33916b4c02bbce
 file_type: application/pdf

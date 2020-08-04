@@ -1,7 +1,7 @@
 ---
 title: sp_S20_mud.pdf
 description: Review questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: 85b9ffdf19749549cc6c14810b79636a
 file_type: application/pdf

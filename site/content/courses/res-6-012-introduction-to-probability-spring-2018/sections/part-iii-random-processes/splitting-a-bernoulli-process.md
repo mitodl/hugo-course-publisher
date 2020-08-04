@@ -164,6 +164,6 @@ transcript: >-
   the continuous time</span> <span m='348740'>analog of the Bernoulli process,
   namely the Poisson process.</span> </p><p></p>
 uid: 473ab0b622334f7abe49d96afd811d9a
-type: courses
+type: course
 layout: video
 ---

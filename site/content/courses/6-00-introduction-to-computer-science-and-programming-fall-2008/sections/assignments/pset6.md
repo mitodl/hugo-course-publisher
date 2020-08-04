@@ -1,7 +1,7 @@
 ---
 title: 'Problem Set 6: Word Game II'
 description: Problem set on programming a word game.
-type: courses
+type: course
 layout: pdf
 uid: 30edc1b7e5d3d845dde1869979b7db5c
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: >-
   Electromagnetic Field Theory - A Problem-Solving Approach - Chapter 7:
   Electrodynamics-Fields and Waves
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 85a1dfee83863a0bad0dee5c7305ec30
 file_type: application/pdf

@@ -769,6 +769,6 @@ transcript: >-
   m='558460'>we</span> <span m='558600'>give</span> <span m='558900'>on</span>
   <span m='559130'>the</span> <span m='559230'>right.</span> </p>
 uid: 439627b2591c00fa8c2d1454870fdabe
-type: courses
+type: course
 layout: video
 ---

@@ -242,6 +242,6 @@ transcript: >-
   <span m='203102'>maximize</span> <span m='203745'>their</span> <span
   m='204387'>revenue.</span> </p>
 uid: 205c64cf78949556544e1ff6439bb136
-type: courses
+type: course
 layout: video
 ---

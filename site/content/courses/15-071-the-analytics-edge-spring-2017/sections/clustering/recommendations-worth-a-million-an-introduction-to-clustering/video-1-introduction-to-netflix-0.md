@@ -308,6 +308,6 @@ transcript: >-
   m='256687'>recommendation</span> <span m='257118'>systems</span> <span
   m='257550'>generally</span> <span m='258560'>work.</span> </p>
 uid: da5550ffe197c76e29367d90b0747760
-type: courses
+type: course
 layout: video
 ---

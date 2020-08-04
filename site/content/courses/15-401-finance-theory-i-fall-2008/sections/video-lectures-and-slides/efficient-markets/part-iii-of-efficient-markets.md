@@ -4058,6 +4058,6 @@ transcript: >-
   m='3258180'>all</span> <span m='3258420'>of</span> <span
   m='3258540'>that</span> <span m='3258720'>material.</span> </p>
 uid: 265e3b2e91b91c1e15e6a3dadccd52f4
-type: courses
+type: course
 layout: video
 ---

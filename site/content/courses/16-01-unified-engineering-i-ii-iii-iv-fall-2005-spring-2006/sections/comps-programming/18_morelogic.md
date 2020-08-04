@@ -1,7 +1,7 @@
 ---
 title: 18_morelogic.pdf
 description: Lecture 18 (2004) presentation.
-type: courses
+type: course
 layout: pdf
 uid: fea0a1d522f11b5c596adb9ff37deee0
 file_type: application/pdf

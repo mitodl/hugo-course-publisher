@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex26prb.pdf
 description: >-
   This resource contains problem statements related to finding a formula for the
   best degree n approximation.
-type: courses
+type: course
 layout: pdf
 uid: dfcfe7b27c373626da08816b84885cdc
 file_type: application/pdf

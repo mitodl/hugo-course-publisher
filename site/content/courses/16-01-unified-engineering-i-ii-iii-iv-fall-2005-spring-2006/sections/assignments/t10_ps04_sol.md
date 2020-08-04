@@ -1,7 +1,7 @@
 ---
 title: t10_ps04_sol.pdf
 description: This resource contains hand written solution to problem T10.
-type: courses
+type: course
 layout: pdf
 uid: 00c2f828b23efc1895a842d10de0c224
 file_type: application/pdf

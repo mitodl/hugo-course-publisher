@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_we_7_comb.pdf
 description: 'This resource contains information related to equation of a plane. '
-type: courses
+type: course
 layout: pdf
 uid: 42a8b344ffc58e1df8b56144d245fdf1
 file_type: application/pdf

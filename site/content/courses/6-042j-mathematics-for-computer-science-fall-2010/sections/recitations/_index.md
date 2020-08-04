@@ -1,11 +1,11 @@
 ---
 title: Recitations
 course_id: 6-042j-mathematics-for-computer-science-fall-2010
+type: course
+layout: course_section
 menu:
   6-042j-mathematics-for-computer-science-fall-2010:
     identifier: 088adbb7d5125527c5ec766f9536ea40
-    type: section
-    layout: section
     name: Recitations
     weight: 50
 ---

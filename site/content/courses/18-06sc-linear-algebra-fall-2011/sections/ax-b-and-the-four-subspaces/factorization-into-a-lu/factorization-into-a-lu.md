@@ -699,6 +699,6 @@ transcript: >-
   2</span> <span m="2871660">and moves to Chapter 3.</span></p><p><span
   m="2875160">Thank you.</span></p>
 uid: 5f44ebe5416ffc8eb650554c8ebddfdf
-type: courses
+type: course
 layout: video
 ---

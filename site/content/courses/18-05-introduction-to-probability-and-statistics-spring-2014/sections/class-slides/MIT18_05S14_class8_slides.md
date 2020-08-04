@@ -1,7 +1,7 @@
 ---
 title: 'Class 8 Slides: Review for exam 1'
 description: This is a resource file that contains information regarding class 8.
-type: courses
+type: course
 layout: pdf
 uid: 7dd389b4c1fee2b096647489e9c6d38b
 file_type: application/pdf

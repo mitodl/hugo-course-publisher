@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_12_quest.pdf
 description: This resource contains problem statements related matrix inverses.
-type: courses
+type: course
 layout: pdf
 uid: e3d204905da69b83ff39bda630812ca2
 file_type: application/pdf

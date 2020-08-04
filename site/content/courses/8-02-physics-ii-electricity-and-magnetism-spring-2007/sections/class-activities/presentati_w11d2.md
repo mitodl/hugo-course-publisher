@@ -9,7 +9,7 @@ description: >-
   questions: phase, prs question: who dominates, RLC circuits: resonances,
   demonstration: RLC with light bulb, prs questions: resonance, experiment 11:
   driven RLC circuit; how to.
-type: courses
+type: course
 layout: pdf
 uid: 779104000f0fc40273a114107f124373
 file_type: application/pdf

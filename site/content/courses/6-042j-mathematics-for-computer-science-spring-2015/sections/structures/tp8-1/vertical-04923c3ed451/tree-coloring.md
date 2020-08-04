@@ -212,6 +212,6 @@ transcript: >-
   m='117650'>2-colorable</span> <span m='118380'>for</span> <span
   m='118560'>sure.</span> </p>
 uid: b32f0d34062495a5077ea440bdf97a6a
-type: courses
+type: course
 layout: video
 ---

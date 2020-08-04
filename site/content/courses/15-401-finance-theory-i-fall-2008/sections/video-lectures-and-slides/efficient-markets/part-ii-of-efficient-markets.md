@@ -6179,6 +6179,6 @@ transcript: >-
   m='4797200'>All</span> <span m='4797260'>right?</span> <span
   m='4797560'>Thanks.</span> </p>
 uid: e8e045a52e8f403d1379300d1c9f8b44
-type: courses
+type: course
 layout: video
 ---

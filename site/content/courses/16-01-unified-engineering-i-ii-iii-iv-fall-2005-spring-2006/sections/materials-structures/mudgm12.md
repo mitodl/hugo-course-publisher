@@ -3,7 +3,7 @@ title: mudgm12.pdf
 description: >-
   This resource contains review questions and answers based on euler buckling,
   transverse loading, and deformation solution.
-type: courses
+type: course
 layout: pdf
 uid: d72c29a82ce3c0f1f2bed1b8b116656e
 file_type: application/pdf

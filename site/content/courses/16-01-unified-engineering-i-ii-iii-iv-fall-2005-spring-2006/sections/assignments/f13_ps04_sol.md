@@ -3,7 +3,7 @@ title: f13_ps04_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on
   stagnation point.
-type: courses
+type: course
 layout: pdf
 uid: 1f5d1c3361900bf7295154ac68e668d7
 file_type: application/pdf

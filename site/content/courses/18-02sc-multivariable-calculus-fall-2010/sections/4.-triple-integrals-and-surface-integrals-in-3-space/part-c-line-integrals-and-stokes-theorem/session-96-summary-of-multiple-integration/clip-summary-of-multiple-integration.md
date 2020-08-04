@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Summary of Multiple Integration'
 transcript: ''
 uid: cbeb1d10a60c391f5a68d33603c0d570
-type: courses
+type: course
 layout: video
 ---

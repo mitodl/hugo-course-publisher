@@ -922,6 +922,6 @@ transcript: >-
   m='1127360'>minus</span> <span m='1127990'>1</span> <span
   m='1128820'>and</span> <span m='1129220'>0.</span> </p>
 uid: 1270d689b3c7f8ebc7e77475febeddaf
-type: courses
+type: course
 layout: video
 ---

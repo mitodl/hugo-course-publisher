@@ -1,6 +1,8 @@
 ---
 title: Problem Set 6
 course_id: 18-02sc-multivariable-calculus-fall-2010
+type: course
+layout: course_section
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-44-example/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/exam-2/_index.md" %}}) »
 

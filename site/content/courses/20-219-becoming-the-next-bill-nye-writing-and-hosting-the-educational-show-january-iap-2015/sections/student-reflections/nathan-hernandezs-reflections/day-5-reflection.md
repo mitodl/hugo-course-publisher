@@ -179,6 +179,6 @@ transcript: >-
   m="103010">on</span> <span m="103080">my</span> <span
   m="103200">script.</span></p>
 uid: 80b1e36925030cbbfb84974fe391fb3e
-type: courses
+type: course
 layout: video
 ---

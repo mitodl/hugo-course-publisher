@@ -898,6 +898,6 @@ transcript: >-
   m='3081590'>anything is useful in the subject in dimension learning,</span>
   <span m='3085740'>this is it.</span> </p><p></p>
 uid: bb982745cd8302ecb5ba7a0ee144c56f
-type: courses
+type: course
 layout: video
 ---

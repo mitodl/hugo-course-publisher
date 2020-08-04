@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_we_13_comb.pdf
 description: 'This resource contains information related to least squares interpolation. '
-type: courses
+type: course
 layout: pdf
 uid: af07112aca18cb84b977de34011c0077
 file_type: application/pdf

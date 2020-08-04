@@ -899,6 +899,6 @@ transcript: >-
   largely a matter of just controlling how you're going</span> <span
   m='2979500'>along, a kind of controlled hallucination.</span> </p><p></p>
 uid: b3069ee1368e4581c1c932e57363d93e
-type: courses
+type: course
 layout: video
 ---

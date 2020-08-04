@@ -3,7 +3,7 @@ title: f04_ps09_sol.pdf
 description: >-
   This resource contains the solution for the problem set based on the
   dimensionless parameters and the drag coefficient.
-type: courses
+type: course
 layout: pdf
 uid: e78319740d33a3801539ee4216d3baec
 file_type: application/pdf

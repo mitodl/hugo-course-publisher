@@ -3,7 +3,7 @@ title: ss_lo_s04.pdf
 description: >-
   This handout contains the learning objectives and the measurable outcomes
   (assessment method) for this course.
-type: courses
+type: course
 layout: pdf
 uid: 8f4bfb0d0f66c0cedd7fbba650ce4257
 file_type: application/pdf

@@ -29,6 +29,6 @@ technical_location: >-
 title: 'Video: Restaurant Opportunities Center: Do You Eat Ethically?'
 transcript: ''
 uid: 34f5db74bc3d157aab5eef0008f3f201
-type: courses
+type: course
 layout: video
 ---

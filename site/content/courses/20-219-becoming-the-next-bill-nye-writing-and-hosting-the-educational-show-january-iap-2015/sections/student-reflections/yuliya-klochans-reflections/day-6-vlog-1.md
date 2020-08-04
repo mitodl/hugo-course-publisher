@@ -509,6 +509,6 @@ transcript: >-
   m="467110">end</span> <span m="467350">this.</span> <span
   m="468590">Farewell.</span></p>
 uid: 17d0de5b6346f7a210daa0be35131e08
-type: courses
+type: course
 layout: video
 ---

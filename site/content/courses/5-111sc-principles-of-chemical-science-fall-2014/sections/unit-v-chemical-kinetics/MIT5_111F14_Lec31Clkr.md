@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Nuclear Chemistry and Chemical
   Kinetics.
-type: courses
+type: course
 layout: pdf
 uid: b12fe5e72cd270376a369872c807553f
 file_type: application/pdf

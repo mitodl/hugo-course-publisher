@@ -296,6 +296,6 @@ transcript: >-
   scenarios</span> <span m='843820'>and using the total expectation
   theorem.</span> </p>
 uid: 5c4001591adb2384f1183f0a0992a9aa
-type: courses
+type: course
 layout: video
 ---

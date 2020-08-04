@@ -2318,6 +2318,6 @@ transcript: >-
   m='2344200'>home</span> <span m='2344470'>forcefully,</span> <span
   m='2344563'>I</span> <span m='2344656'>think.</span> </p>
 uid: b8086018243d998c105a5a2921f16fc3
-type: courses
+type: course
 layout: video
 ---

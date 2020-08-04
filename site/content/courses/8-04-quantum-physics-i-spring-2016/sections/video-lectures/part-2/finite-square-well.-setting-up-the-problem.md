@@ -1152,6 +1152,6 @@ transcript: >-
   m='1348340'>the</span> <span m='1348520'>8x</span> <span
   m='1349060'>psi</span> <span m='1349430'>plane.</span> </p>
 uid: 26428fc0d4e0e80954f793f2893750a3
-type: courses
+type: course
 layout: video
 ---

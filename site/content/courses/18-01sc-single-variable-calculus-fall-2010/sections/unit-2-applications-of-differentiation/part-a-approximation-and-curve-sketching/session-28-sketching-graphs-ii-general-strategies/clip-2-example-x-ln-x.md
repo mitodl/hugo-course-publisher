@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Example: x/ln x'
 transcript: ''
 uid: edb9566c75a417bb6adcea0b6819b7e5
-type: courses
+type: course
 layout: video
 ---

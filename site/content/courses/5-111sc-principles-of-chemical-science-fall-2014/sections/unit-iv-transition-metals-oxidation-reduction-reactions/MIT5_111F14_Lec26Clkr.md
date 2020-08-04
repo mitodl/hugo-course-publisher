@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Chemical and Biological
   Oxidations.
-type: courses
+type: course
 layout: pdf
 uid: 69408f38994e9145f9cfcc5d7683dc67
 file_type: application/pdf

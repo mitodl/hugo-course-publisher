@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang_3538.pdf
 description: This resource contains information related to ellipses and iterations.
-type: courses
+type: course
 layout: pdf
 uid: b4df0882e4e344871dd0d1afad0af45c
 file_type: application/pdf

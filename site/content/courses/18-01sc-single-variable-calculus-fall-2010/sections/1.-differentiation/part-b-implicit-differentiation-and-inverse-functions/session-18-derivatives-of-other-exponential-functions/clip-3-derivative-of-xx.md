@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Derivative of xx'
 transcript: ''
 uid: 96ff5d0ae4e95eadbfcb3b650fab86d8
-type: courses
+type: course
 layout: video
 ---

@@ -149,6 +149,6 @@ transcript: >-
   m='299560'>for the case of general random variables, as well.</span>
   </p><p></p>
 uid: 1040f361c090cd12176f540549fcfbcf
-type: courses
+type: course
 layout: video
 ---

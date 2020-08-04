@@ -1,7 +1,7 @@
 ---
 title: 'Sampling and Confidence: Law of Large Numbers'
 description: This file contains information regarding law of large numbers.
-type: courses
+type: course
 layout: pdf
 uid: 04218f1795d033d0bd3de61c0f74c70a
 file_type: application/pdf

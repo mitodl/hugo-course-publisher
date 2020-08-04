@@ -242,6 +242,6 @@ transcript: >-
   <span m='205615'>x_31</span> <span m='206336'>=</span> <span
   m='207058'>2.</span> </p>
 uid: c489ba934eb3d8a1fd3d180a25962de5
-type: courses
+type: course
 layout: video
 ---

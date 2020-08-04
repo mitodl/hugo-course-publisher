@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Triple Integrals in Spherical Coordinates'
 transcript: ''
 uid: cc6ee3a84e009a39ab07a29b5f422b52
-type: courses
+type: course
 layout: video
 ---

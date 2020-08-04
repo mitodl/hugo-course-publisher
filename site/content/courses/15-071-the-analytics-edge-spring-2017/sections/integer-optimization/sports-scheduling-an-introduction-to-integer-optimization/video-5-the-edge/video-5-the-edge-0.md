@@ -295,6 +295,6 @@ transcript: >-
   m='241370'>and</span> <span m='241858'>in</span> <span m='242346'>the</span>
   <span m='242834'>homework</span> <span m='243322'>assignment.</span> </p>
 uid: dbeeb464096040af1a4d6300b6cc7d20
-type: courses
+type: course
 layout: video
 ---

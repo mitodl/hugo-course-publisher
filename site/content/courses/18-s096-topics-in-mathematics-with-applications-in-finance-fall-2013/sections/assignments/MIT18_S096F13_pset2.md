@@ -1,7 +1,7 @@
 ---
 title: 'Problem Set 2: Probability Theory and Stochastic Process'
 description: This file contains information regarding problem set 2.
-type: courses
+type: course
 layout: pdf
 uid: 86e64fb3acfdb8aab38af462aaac1ece
 file_type: application/pdf

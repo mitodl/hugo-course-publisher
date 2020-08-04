@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Review of Topics'
 transcript: ''
 uid: 826da3ac6a09a9ada71b47006745456a
-type: courses
+type: course
 layout: video
 ---

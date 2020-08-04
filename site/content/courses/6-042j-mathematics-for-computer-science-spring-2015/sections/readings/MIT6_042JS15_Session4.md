@@ -3,7 +3,7 @@ title: 'Logic & Propositions: Chapter 3.1 – 3.5'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Logic & propositions: Chapter 3.1 – 3.5.
-type: courses
+type: course
 layout: pdf
 uid: a75fe9634de5c9364fee309ddd724b90
 file_type: application/pdf

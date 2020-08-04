@@ -667,6 +667,6 @@ transcript: >-
   m='559890'>answer.</span> </p><p><span m='561240'>I'll</span> <span
   m='561440'>end</span> <span m='561660'>there.</span> </p>
 uid: c095baf2aff0011ac8f5050c53c0e3ea
-type: courses
+type: course
 layout: video
 ---

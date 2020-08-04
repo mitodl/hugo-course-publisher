@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 8: Efficiency and Order of Growth'
 transcript: ''
 uid: 305481f58dd263ef0252e64265918f0a
-type: courses
+type: course
 layout: video
 ---

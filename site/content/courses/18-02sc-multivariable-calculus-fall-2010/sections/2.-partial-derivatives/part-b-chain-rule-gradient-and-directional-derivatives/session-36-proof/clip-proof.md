@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Proof'
 transcript: ''
 uid: df9130ecc09e5207714dee7170031748
-type: courses
+type: course
 layout: video
 ---

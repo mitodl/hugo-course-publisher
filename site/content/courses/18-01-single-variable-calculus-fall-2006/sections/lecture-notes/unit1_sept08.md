@@ -6,7 +6,7 @@ description: >-
   trigonometric limits, chain rule, higher derivatives, implicit
   differentiation, inverses, exponential and log, logarithmic differentiation,
   and hyperbolic functions.
-type: courses
+type: course
 layout: pdf
 uid: c80e8c2fae48adb10be578dffac3bb60
 file_type: application/pdf

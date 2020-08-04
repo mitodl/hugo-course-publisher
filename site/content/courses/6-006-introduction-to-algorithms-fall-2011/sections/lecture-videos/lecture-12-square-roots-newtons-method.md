@@ -2931,6 +2931,6 @@ transcript: >-
   m='3074970'>Stick</span> <span m='3075190'>around</span> <span
   m='3075360'>for</span> <span m='3075430'>questions.</span> </p>
 uid: 1a241368a91359d13bc6f1475f93ca85
-type: courses
+type: course
 layout: video
 ---

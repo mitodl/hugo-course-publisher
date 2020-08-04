@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 6: Recursion'
 transcript: ''
 uid: a5297e4f7453a3f786ff55f4a5784732
-type: courses
+type: course
 layout: video
 ---

@@ -730,6 +730,6 @@ transcript: >-
   see numbers in recitation.</span> </p><p><span m='2931000'>And we'll see you
   at lecture on Tuesday.</span> </p>
 uid: 34fd3c70c1168fe8e9fa13c57bab8293
-type: courses
+type: course
 layout: video
 ---

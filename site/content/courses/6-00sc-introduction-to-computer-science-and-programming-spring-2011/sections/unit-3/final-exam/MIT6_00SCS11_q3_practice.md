@@ -1,7 +1,7 @@
 ---
 title: 6.00SC Practice Quiz 3
 description: This resource contains information about quiz 3 practice.
-type: courses
+type: course
 layout: pdf
 uid: a9f4789f53cc5120a37989d893f986d8
 file_type: application/pdf

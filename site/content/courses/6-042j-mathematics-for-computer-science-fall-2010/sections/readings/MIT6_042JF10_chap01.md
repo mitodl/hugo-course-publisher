@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 1: Propositions'
 description: This resource contains information about Propositions.
-type: courses
+type: course
 layout: pdf
 uid: 7853d585044ef21bce5f48ce5fc89d28
 file_type: application/pdf

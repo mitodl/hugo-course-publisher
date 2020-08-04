@@ -564,6 +564,6 @@ transcript: >-
   m='431780'>longer</span> <span m='432240'>missing</span> <span
   m='432700'>values.</span> </p>
 uid: 79124d3386ea21b34c77d47f604a52a8
-type: courses
+type: course
 layout: video
 ---

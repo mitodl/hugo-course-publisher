@@ -935,6 +935,6 @@ transcript: >-
   m='1128730'>the</span> <span m='1128850'>finite</span> <span
   m='1129420'>range</span> <span m='1129940'>potential.</span> </p>
 uid: 884b2d20bd016ff406dd6fa6baa4d447
-type: courses
+type: course
 layout: video
 ---

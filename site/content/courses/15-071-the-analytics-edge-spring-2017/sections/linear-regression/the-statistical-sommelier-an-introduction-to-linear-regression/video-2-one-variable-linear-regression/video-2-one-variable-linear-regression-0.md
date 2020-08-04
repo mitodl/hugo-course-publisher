@@ -584,6 +584,6 @@ transcript: >-
   m='524296'>both</span> <span m='524637'>types</span> <span
   m='524978'>of</span> <span m='525319'>problems.</span> </p>
 uid: 91ac06a2616cf560504c554da554adf0
-type: courses
+type: course
 layout: video
 ---

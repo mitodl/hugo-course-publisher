@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Definition of Definite Integrals'
 transcript: ''
 uid: 8de1cfd35f8c2869da8a95badfb51665
-type: courses
+type: course
 layout: video
 ---

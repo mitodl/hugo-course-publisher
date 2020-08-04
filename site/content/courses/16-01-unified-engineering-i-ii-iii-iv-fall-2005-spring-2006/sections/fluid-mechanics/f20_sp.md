@@ -1,7 +1,7 @@
 ---
 title: f20_sp.pdf
 description: This resource contains information on the topic of Laval Nozzle Flows.
-type: courses
+type: course
 layout: pdf
 uid: 9fb00fb3c4d38fadaa65c21f7ba2ce92
 file_type: application/pdf

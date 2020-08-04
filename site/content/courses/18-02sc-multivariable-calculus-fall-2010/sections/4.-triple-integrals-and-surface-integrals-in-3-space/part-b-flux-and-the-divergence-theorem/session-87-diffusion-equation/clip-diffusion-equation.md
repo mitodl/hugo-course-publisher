@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Diffusion Equation'
 transcript: ''
 uid: ad0fe7dfc59ac5059c570175e48e0402
-type: courses
+type: course
 layout: video
 ---

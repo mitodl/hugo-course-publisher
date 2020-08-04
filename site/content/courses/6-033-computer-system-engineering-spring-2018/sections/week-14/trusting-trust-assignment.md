@@ -1,11 +1,11 @@
 ---
 title: Trusting Trust Assignment
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 1f14778814937d9811fd9b451a7d7a4e
-    type: section
-    layout: section
     name: Trusting Trust Assignment
     weight: 660
     parent: a53ea92f4c3dbec43ffae7cf73d6eb29

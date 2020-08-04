@@ -130,6 +130,6 @@ transcript: >-
   m='247030'>So we conclude that the first busy period is also</span> <span
   m='251040'>a geometric random variable with parameter 1 minus p.</span> </p>
 uid: 8917b94992304ac6dc1f68ae4ad12b15
-type: courses
+type: course
 layout: video
 ---

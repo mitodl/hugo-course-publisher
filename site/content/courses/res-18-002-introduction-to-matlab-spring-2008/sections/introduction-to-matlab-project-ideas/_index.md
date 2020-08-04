@@ -1,11 +1,11 @@
 ---
 title: Introduction to MATLAB® Project Ideas
 course_id: res-18-002-introduction-to-matlab-spring-2008
+type: course
+layout: course_section
 menu:
   res-18-002-introduction-to-matlab-spring-2008:
     identifier: e22b7c4bf816692d5e527dc85706150f
-    type: section
-    layout: section
     name: Introduction to MATLAB® Project Ideas
     weight: 30
 ---

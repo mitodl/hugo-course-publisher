@@ -3,7 +3,7 @@ title: 'Proof Methods: Chapter 1.7 – 1.9'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Proof methods: Chapter 1.7 – 1.9.
-type: courses
+type: course
 layout: pdf
 uid: ae208667aae7888a8f14757b5c356056
 file_type: application/pdf

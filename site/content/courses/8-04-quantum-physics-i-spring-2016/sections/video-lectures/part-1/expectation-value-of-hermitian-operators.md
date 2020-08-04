@@ -730,6 +730,6 @@ transcript: >-
   m='997810'>to</span> <span m='998110'>the</span> <span
   m='998410'>eigenvalue.</span> </p>
 uid: b1dd9100a68e6be3948839f31e8f4ff6
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: Practice Final Solutions
 description: Solutions to the Practice Final Exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: ddc6b990286fcf509e8e1c53a00848fc
 file_type: application/pdf

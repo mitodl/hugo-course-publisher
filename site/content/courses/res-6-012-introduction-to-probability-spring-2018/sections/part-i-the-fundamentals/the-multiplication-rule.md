@@ -160,6 +160,6 @@ transcript: >-
   happening by multiplying probabilities and</span> <span m="373590">conditional
   probabilities.</span></p><p>&nbsp;</p>
 uid: 1e223a365540ee0c4e87ffe5b9e89b67
-type: courses
+type: course
 layout: video
 ---

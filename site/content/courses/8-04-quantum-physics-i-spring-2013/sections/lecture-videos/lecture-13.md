@@ -6173,6 +6173,6 @@ transcript: >-
   m='4951890'>See</span> <span m='4952040'>you next</span> <span
   m='4952110'>time.</span> </p>
 uid: 8bf472cfb481f41b462dea02a0d3ea6f
-type: courses
+type: course
 layout: video
 ---

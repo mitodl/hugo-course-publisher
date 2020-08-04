@@ -3,7 +3,7 @@ title: s13_ps09_sol.pdf
 description: >-
   Solutions to problem set S13 involving Solving State Equations Using
   Eigenvalues and Eigenvectors.
-type: courses
+type: course
 layout: pdf
 uid: 38ff57e83042bb9d9b7e4db0b61e8f36
 file_type: application/pdf

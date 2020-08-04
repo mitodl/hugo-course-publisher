@@ -740,6 +740,6 @@ transcript: >-
   <span m='836390'>goes</span> <span m='836630'>well.</span> <span
   m='837040'>Thanks.</span> </p>
 uid: fe99458d82962d255896064ac250f0ad
-type: courses
+type: course
 layout: video
 ---

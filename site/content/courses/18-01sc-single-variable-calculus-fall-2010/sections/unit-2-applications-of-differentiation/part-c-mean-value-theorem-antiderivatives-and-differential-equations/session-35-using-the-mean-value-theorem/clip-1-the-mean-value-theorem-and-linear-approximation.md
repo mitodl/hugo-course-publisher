@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 1: The Mean Value Theorem and Linear Approximation'
 transcript: ''
 uid: 448f01adbc35de7ff676b7d9fb2fb06f
-type: courses
+type: course
 layout: video
 ---

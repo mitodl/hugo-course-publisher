@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Solutions for Lecture 10: Introduction to
   Lewis Structures
 description: This resource contains information regarding lecture 10 solution.
-type: courses
+type: course
 layout: pdf
 uid: b381a9a13761c951237b14b96a4cd59a
 file_type: application/pdf

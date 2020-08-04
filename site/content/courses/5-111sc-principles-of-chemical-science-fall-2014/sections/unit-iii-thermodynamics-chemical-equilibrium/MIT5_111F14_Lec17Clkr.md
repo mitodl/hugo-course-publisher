@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Thermodynamics: Now What Happens
   When You Heat It Up?
-type: courses
+type: course
 layout: pdf
 uid: bba3789ee52a585e987bb7aaf519e551
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Principles of Chemical Science, Solutions for Lecture 7: Multielectron Atoms'
 description: This resource contains information regarding lecture note 7 solutions.
-type: courses
+type: course
 layout: pdf
 uid: 8309091816c0e05d2cbe81ad73a39634
 file_type: application/pdf

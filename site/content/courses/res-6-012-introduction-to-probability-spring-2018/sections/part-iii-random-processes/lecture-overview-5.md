@@ -91,6 +91,6 @@ transcript: >-
   chains usually</span> <span m="102080">known as birth-death
   processes.</span></p><p>&nbsp;</p>
 uid: adae1034dfeddc6b45046d46a7de6320
-type: courses
+type: course
 layout: video
 ---

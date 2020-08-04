@@ -5,7 +5,7 @@ title: >-
 description: >-
   This file contains information regarding representing partial orders as subset
   relations.
-type: courses
+type: course
 layout: pdf
 uid: e8f0ccab70bddc8c1132a47dd87a1bae
 file_type: application/pdf

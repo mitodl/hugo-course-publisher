@@ -1,6 +1,8 @@
 ---
 title: Problem Set 2
 course_id: 18-02sc-multivariable-calculus-fall-2010
+type: course
+layout: course_section
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-14-solutions-to-square-systems/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/_index.md" %}}) »
 

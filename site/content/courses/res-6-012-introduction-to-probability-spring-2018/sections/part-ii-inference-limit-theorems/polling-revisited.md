@@ -265,6 +265,6 @@ transcript: >-
   find that the sample size of about</span> <span m='830090'>1,000 will actually
   do.</span> </p><p></p>
 uid: 8046e5486b39a300c2e4c360d1993a83
-type: courses
+type: course
 layout: video
 ---

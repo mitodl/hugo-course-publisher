@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Identifying Potential Functions'
 description: This resource contains information regarding identifying potential functions.
-type: courses
+type: course
 layout: pdf
 uid: 2d231c82a1183ce0f529824e1858b7bc
 file_type: application/pdf

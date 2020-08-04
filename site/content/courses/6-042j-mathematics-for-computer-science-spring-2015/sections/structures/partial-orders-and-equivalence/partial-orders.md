@@ -760,6 +760,6 @@ transcript: >-
   m='630480'>including</span> <span m='631130'>length</span> <span
   m='631400'>zero</span> <span m='631960'>walks.</span> </p>
 uid: 6bae2a87b353aca1ad7099de86deb422
-type: courses
+type: course
 layout: video
 ---

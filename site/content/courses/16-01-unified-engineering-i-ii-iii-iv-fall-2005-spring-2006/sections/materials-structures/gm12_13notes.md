@@ -1,7 +1,7 @@
 ---
 title: gm12_13notes.pdf
 description: Lecture notes on Buckling of Simple Columns.
-type: courses
+type: course
 layout: pdf
 uid: 3ae07fdec6c3066a886e16f3d45534cf
 file_type: application/pdf

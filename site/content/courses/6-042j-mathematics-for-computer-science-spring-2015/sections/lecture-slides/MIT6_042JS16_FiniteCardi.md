@@ -3,7 +3,7 @@ title: 'Binary Relations: Finite Cardinality'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: c2842522085bd2b20e2313b824bea7b7
 file_type: application/pdf

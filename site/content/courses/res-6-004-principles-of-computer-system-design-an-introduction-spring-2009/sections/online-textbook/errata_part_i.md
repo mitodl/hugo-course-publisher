@@ -1,7 +1,7 @@
 ---
 title: errata_part_i.pdf
 description: 'This resource contains errata for part I. '
-type: courses
+type: course
 layout: pdf
 uid: 61432bbe14fec6d1c1ab12cf9fc4c1ad
 file_type: application/pdf

@@ -4,7 +4,7 @@ description: >-
   This resource contains review questions and answers based on beam theory,
   transverse loads, straight, slender, symmetric, members, linear elastic
   materials, small deflections.
-type: courses
+type: course
 layout: pdf
 uid: a088db5539af4f5d70a6b51e6aee322d
 file_type: application/pdf

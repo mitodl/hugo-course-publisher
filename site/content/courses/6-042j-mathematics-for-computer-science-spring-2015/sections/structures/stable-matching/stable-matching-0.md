@@ -932,6 +932,6 @@ transcript: >-
   m='676180'>used</span> <span m='676510'>by</span> <span m='676630'>that</span>
   <span m='676870'>group.</span> </p>
 uid: 781e6bc86f7eeaec971e17bc4e037f96
-type: courses
+type: course
 layout: video
 ---

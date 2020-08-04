@@ -564,6 +564,6 @@ transcript: >-
   <span m='492867'>actual</span> <span m='493268'>tumor</span> <span
   m='493669'>case.</span> </p>
 uid: b0a067b1f56c20184be028a4f9d79d43
-type: courses
+type: course
 layout: video
 ---

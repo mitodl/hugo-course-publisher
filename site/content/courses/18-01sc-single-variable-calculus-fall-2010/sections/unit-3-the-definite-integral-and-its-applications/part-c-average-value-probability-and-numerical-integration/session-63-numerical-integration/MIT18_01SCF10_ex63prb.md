@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex63prb.pdf
 description: This resource contains problem statements related to numerical integration.
-type: courses
+type: course
 layout: pdf
 uid: aa8d3256e1dc70a7a1fb5b7734d90ab6
 file_type: application/pdf

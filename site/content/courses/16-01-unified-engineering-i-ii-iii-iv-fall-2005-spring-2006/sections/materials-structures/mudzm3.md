@@ -3,7 +3,7 @@ title: mudzm3.pdf
 description: >-
   This resource contains review questions and answers based on center of mass,
   centre of pressure, aerodynamics center and equilibrium equation.
-type: courses
+type: course
 layout: pdf
 uid: 47969ec0e25cbd5e2c1776cb79637042
 file_type: application/pdf

@@ -1,11 +1,11 @@
 ---
 title: Syllabus
 course_id: 16-121-analytical-subsonic-aerodynamics-fall-2017
+type: course
+layout: course_section
 menu:
   16-121-analytical-subsonic-aerodynamics-fall-2017:
     identifier: 6591564697fbb21ad74f4415d6bec4c7
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
 ---

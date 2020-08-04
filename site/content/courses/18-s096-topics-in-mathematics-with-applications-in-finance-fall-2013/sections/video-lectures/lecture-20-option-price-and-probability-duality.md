@@ -4829,6 +4829,6 @@ transcript: >-
   <span m='4825630'>Right,</span> <span m='4825760'>thank you</span> <span
   m='4826025'>very much.</span> <span m='4826590'>Appreciate it.</span> </p>
 uid: e00d0e7b0ecb827fec3232e96e004668
-type: courses
+type: course
 layout: video
 ---

@@ -182,6 +182,6 @@ transcript: >-
   m='483870'>However, the result is true in general.</span> </p><p><span
   m='487040'>The technical details are beyond our scope.</span> </p><p></p>
 uid: d12d2305e1c3f99b07308a6773ba4f80
-type: courses
+type: course
 layout: video
 ---

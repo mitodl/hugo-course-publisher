@@ -191,6 +191,6 @@ transcript: >-
   that we derived</span> <span m="506050">earlier, we obtain 1 over 12 b minus a
   times b</span> <span m="514900">minus a plus 2.</span></p><p>&nbsp;</p>
 uid: 161d0b86bd261a988a6e8f5d20e55340
-type: courses
+type: course
 layout: video
 ---

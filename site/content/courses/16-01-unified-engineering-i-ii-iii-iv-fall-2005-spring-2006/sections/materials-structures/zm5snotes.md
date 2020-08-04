@@ -1,7 +1,7 @@
 ---
 title: zm5snotes.pdf
 description: This resource based on lecture notes.
-type: courses
+type: course
 layout: pdf
 uid: 77f2104f428526cf3172541dc589dcdf
 file_type: application/pdf

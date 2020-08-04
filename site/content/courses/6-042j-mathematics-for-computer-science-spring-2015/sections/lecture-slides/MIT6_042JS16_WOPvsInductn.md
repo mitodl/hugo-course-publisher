@@ -3,7 +3,7 @@ title: 'Induction: WOP vs Induction'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 93666d3154d2b4b06bf26aabe17e1ba8
 file_type: application/pdf

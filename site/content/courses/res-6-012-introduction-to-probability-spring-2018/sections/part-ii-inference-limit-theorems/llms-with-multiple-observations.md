@@ -176,6 +176,6 @@ transcript: >-
   reasons, linear estimation,</span> <span m='408420'>or estimation using linear
   estimators, is quite practical.</span> </p>
 uid: 5c84a09e25cd00a10cc24ac51411e9df
-type: courses
+type: course
 layout: video
 ---

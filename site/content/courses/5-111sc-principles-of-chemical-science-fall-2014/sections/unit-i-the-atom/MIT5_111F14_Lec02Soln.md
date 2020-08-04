@@ -1,7 +1,7 @@
 ---
 title: 'Principles of Chemical Science, Solutions for Lecture 2: Atomic Structure'
 description: This resource contains information regarding lecture note 2 solutions.
-type: courses
+type: course
 layout: pdf
 uid: 6012747897b29867a463fe6f2c99958f
 file_type: application/pdf

@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Curl in 3D'
 transcript: ''
 uid: 41b3871158c1552c74aaa6b260bea34f
-type: courses
+type: course
 layout: video
 ---

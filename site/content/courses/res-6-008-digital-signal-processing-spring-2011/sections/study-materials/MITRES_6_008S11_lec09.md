@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_008S11_lec09.pdf
 description: This resource contains information related to the discrete fourier transform.
-type: courses
+type: course
 layout: pdf
 uid: 5497001e7093fa4f752c71b3fd4e7932
 file_type: application/pdf

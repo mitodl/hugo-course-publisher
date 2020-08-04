@@ -1,7 +1,7 @@
 ---
 title: 15_matrices.pdf
 description: Lecture 15 (2003) presentation.
-type: courses
+type: course
 layout: pdf
 uid: ca8f1e6fa0aa767838719e029fbf047e
 file_type: application/pdf

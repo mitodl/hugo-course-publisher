@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
 course_title: Nuts and Bolts of Business Plans
 course_image_url: >-

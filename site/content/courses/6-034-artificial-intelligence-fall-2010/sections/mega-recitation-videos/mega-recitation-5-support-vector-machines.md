@@ -3077,6 +3077,6 @@ transcript: >-
   m='2988730'>vampires</span> <span m='2989450'>next</span> <span
   m='2989840'>week.</span> </p>
 uid: 9ee21cee870951df49203ea2ca822c05
-type: courses
+type: course
 layout: video
 ---

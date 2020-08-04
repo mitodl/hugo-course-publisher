@@ -1,7 +1,7 @@
 ---
 title: 'Studio 5 Slides: Bayesian updating'
 description: This is a resource file that contains information regarding bayesian updating.
-type: courses
+type: course
 layout: pdf
 uid: 413d1be9b4ac520d3d8d3e39f4a8f9b5
 file_type: application/pdf

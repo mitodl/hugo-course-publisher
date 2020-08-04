@@ -1528,6 +1528,6 @@ transcript: >-
   m="1754610">for</span> <span m="1754790">Monday</span> <span
   m="1755180">then.</span> <span m="1755560">Good.</span></p>
 uid: f7538bc908587cb80a7b3788d90a46d1
-type: courses
+type: course
 layout: video
 ---

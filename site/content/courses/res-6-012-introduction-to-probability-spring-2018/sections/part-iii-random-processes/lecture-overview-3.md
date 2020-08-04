@@ -97,6 +97,6 @@ transcript: >-
   states</span> <span m='115039'>and their importance in studying Markov chains
   in the long run.</span> </p>
 uid: 921f29a6bdeedd555cf92bf96a8fb6ba
-type: courses
+type: course
 layout: video
 ---

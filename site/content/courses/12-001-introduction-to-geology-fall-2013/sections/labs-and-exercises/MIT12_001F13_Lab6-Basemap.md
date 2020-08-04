@@ -1,7 +1,7 @@
 ---
 title: '12.001 Introduction to Geology, Lab 6: Base Map'
 description: This file contains information regarding base map.
-type: courses
+type: course
 layout: pdf
 uid: 2602f2af3bdc7ed6813e081188a2546d
 file_type: application/pdf

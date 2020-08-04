@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 22-081j-introduction-to-sustainable-energy-fall-2010
 course_title: Introduction to Sustainable Energy
 course_image_url: >-

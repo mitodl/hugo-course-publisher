@@ -5218,6 +5218,6 @@ transcript: >-
   anybody</span> <span m="4886480">has any</span> <span
   m="4886780">questions.</span></p>
 uid: 43d299714405eaa855ea4050a90f643f
-type: courses
+type: course
 layout: video
 ---

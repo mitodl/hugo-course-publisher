@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: By Vertical Slices'
 transcript: ''
 uid: a235ac8523f6eeb73bb2effa45e2a2b3
-type: courses
+type: course
 layout: video
 ---

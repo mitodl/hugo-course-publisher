@@ -3,7 +3,7 @@ title: m08_ps10_fall03.pdf
 description: >-
   This resource contains a problem based on the relationship between applied
   load and the deflection point.
-type: courses
+type: course
 layout: pdf
 uid: eac7f7bce0fb7e6bb1cca9a8b715edd7
 file_type: application/pdf

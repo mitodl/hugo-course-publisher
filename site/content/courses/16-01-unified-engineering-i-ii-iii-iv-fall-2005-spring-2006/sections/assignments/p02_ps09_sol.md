@@ -1,7 +1,7 @@
 ---
 title: p02_ps09_sol.pdf
 description: This resource contains solutions to problem set on the velocity.
-type: courses
+type: course
 layout: pdf
 uid: bfb7fc87b8c92567f964b12ad39bb0c5
 file_type: application/pdf

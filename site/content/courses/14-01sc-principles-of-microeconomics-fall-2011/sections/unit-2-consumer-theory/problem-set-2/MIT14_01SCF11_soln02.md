@@ -3,7 +3,7 @@ title: MIT14_01SCF11_soln02.pdf
 description: >-
   This resource contains solutions to the problem statements related to rational
   preferences and transitivity.
-type: courses
+type: course
 layout: pdf
 uid: 7f7098ba18351b03b31b9f9376902d13
 file_type: application/pdf

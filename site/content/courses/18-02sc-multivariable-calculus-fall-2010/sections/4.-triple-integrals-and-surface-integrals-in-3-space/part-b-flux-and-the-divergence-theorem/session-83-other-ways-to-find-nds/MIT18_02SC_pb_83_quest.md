@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Flux Through a Paraboloid'
 description: This resource contains information regarding flux through a paraboloid.
-type: courses
+type: course
 layout: pdf
 uid: bab1baf129226891079d2662ec0c2a8a
 file_type: application/pdf

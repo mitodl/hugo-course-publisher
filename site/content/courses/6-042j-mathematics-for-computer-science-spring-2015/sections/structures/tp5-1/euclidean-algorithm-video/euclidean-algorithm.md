@@ -742,6 +742,6 @@ transcript: >-
   m='567570'>is</span> <span m='567790'>really</span> <span
   m='568540'>very</span> <span m='568920'>efficient.</span> </p>
 uid: ae623ce0e219f2db9919c713bb301dcc
-type: courses
+type: course
 layout: video
 ---

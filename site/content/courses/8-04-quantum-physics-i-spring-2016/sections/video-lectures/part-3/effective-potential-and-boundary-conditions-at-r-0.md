@@ -707,6 +707,6 @@ transcript: >-
   m='866980'>going</span> <span m='867170'>to</span> <span
   m='867330'>turn</span> <span m='867720'>to that.</span> </p>
 uid: d0916a19e8d2ef4e46d44fe253e936ab
-type: courses
+type: course
 layout: video
 ---

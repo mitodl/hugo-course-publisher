@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip: Work and Line Integrals'
 transcript: ''
 uid: 07fb6fdea4eb0415a466c8988942a45c
-type: courses
+type: course
 layout: video
 ---

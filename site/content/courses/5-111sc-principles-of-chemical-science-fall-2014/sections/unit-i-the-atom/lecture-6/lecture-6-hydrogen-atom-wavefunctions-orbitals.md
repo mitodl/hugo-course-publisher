@@ -3826,6 +3826,6 @@ transcript: >-
   m="3626100">next</span> <span m="3626620">lowest</span> <span
   m="3627060">energy</span> <span m="3627440">orbital.</span></p>
 uid: ab35c82daf8071bd2879ff3d57b76ca3
-type: courses
+type: course
 layout: video
 ---

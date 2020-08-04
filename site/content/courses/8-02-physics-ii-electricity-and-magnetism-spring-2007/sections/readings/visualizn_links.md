@@ -1,7 +1,7 @@
 ---
 title: visualizn_links.pdf
 description: This resource contain the links of this course.
-type: courses
+type: course
 layout: pdf
 uid: 79c95fa1862a1f33d6b79b40448ce14a
 file_type: application/pdf

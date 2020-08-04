@@ -1,7 +1,7 @@
 ---
 title: '6.006 Lecture 9 Original: Table doubling, Karp-Rabin'
 description: 'This resource contains information related to Table doubling, Karp-Rabin.'
-type: courses
+type: course
 layout: pdf
 uid: 490e699b6f5f91383dfcaf65851186fb
 file_type: application/pdf

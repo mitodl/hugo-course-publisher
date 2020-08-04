@@ -3,7 +3,7 @@ title: MITRES_18_001_strang111113.pdf
 description: >-
   This resource contains information on topics vectors and dot products and
   planes and projections.
-type: courses
+type: course
 layout: pdf
 uid: c77080ede0b991bdab9f480119eb0e90
 file_type: application/pdf

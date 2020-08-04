@@ -1,7 +1,7 @@
 ---
 title: Lecture 24
 description: null
-type: courses
+type: course
 layout: pdf
 uid: e64d8ea1ba08d31dcdf1cda1cec619be
 file_type: application/pdf

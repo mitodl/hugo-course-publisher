@@ -546,6 +546,6 @@ transcript: >-
   m='637290'>you</span> <span m='637470'>need</span> <span m='637980'>a</span>
   <span m='638280'>computer to</span> <span m='638580'>solve.</span> </p>
 uid: f4cce89ace15852da75d487ce796b15c
-type: courses
+type: course
 layout: video
 ---

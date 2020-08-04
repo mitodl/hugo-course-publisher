@@ -771,6 +771,6 @@ transcript: >-
   m='771610'>So</span> <span m='771880'>thank</span> <span m='772060'>you</span>
   <span m='772180'>for</span> <span m='772330'>watching.</span> </p>
 uid: 6ab6a81ae921cda47d92d0fec6f0c33e
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pracfinalsol.pdf
 description: This resource contains information related to lagrange equations.
-type: courses
+type: course
 layout: pdf
 uid: a0d43da5e56f31dd1e41e874fe5415d2
 file_type: application/pdf

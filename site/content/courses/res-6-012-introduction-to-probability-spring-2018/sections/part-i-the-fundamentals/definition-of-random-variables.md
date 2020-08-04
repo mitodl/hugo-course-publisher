@@ -213,6 +213,6 @@ transcript: >-
   give some examples, and</span> <span m="549130">introduce some new concepts
   associated with them.</span></p><p>&nbsp;</p>
 uid: e103df2d79382a5ac0762924fb427cfe
-type: courses
+type: course
 layout: video
 ---

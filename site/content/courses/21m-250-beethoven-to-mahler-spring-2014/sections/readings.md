@@ -1,11 +1,11 @@
 ---
 title: Readings
 course_id: 21m-250-beethoven-to-mahler-spring-2014
+type: course
+layout: course_section
 menu:
   21m-250-beethoven-to-mahler-spring-2014:
     identifier: 5216f24ddf08a6f6965085eedcc58189
-    type: section
-    layout: section
     name: Readings
     weight: 30
 ---

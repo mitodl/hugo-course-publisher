@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_lec12.pdf
 description: This resource contains information related to filtering.
-type: courses
+type: course
 layout: pdf
 uid: 5996085dee876b97bedcf6aa82a7d9b4
 file_type: application/pdf

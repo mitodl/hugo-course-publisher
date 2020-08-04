@@ -910,6 +910,6 @@ transcript: >-
   <span m='919400'>numbers</span> <span m='919770'>in</span> <span
   m='920140'>the</span> <span m='920510'>problem.</span> </p>
 uid: 9969df461a30e94797859b83eb2e7ad4
-type: courses
+type: course
 layout: video
 ---

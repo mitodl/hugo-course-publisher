@@ -4416,6 +4416,6 @@ transcript: >-
   m='5311050'>All</span> <span m='5311140'>right,</span> <span
   m='5311320'>thank</span> <span m='5311550'>you.</span> </p>
 uid: 30b5b5b869e14f4f3531198b93597988
-type: courses
+type: course
 layout: video
 ---

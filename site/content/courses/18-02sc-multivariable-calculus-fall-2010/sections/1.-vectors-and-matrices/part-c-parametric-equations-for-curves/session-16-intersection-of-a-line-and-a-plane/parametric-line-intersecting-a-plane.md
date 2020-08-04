@@ -514,6 +514,6 @@ transcript: >-
   m='482985'>it</span> <span m='483100'>at</span> <span m='483190'>that.</span>
   </p>
 uid: d72c5c240b8d3508c4a6e5c1696571ba
-type: courses
+type: course
 layout: video
 ---

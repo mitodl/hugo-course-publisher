@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang_7.pdf
 description: This resource contains information related to technicques of integration.
-type: courses
+type: course
 layout: pdf
 uid: d38c679d9d4b5b4d2fca0c984bf12932
 file_type: application/pdf

@@ -261,6 +261,6 @@ transcript: >-
   <span m='218426'>analytics</span> <span m='219084'>eHarmony</span> <span
   m='219742'>uses.</span> </p>
 uid: 2616e6125d8c82a0cbaab8b3829716c1
-type: courses
+type: course
 layout: video
 ---

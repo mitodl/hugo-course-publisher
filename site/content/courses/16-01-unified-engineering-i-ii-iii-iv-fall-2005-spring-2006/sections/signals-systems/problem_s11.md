@@ -1,7 +1,7 @@
 ---
 title: problem_s11.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 7c171b2c6a953a7821d40cc46bfa7a57
 file_type: application/pdf

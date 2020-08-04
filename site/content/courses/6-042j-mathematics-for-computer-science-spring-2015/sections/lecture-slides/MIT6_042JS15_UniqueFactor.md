@@ -1,7 +1,7 @@
 ---
 title: 'GCDs: Unique Factorization'
 description: This file contains information regarding unique factorization.
-type: courses
+type: course
 layout: pdf
 uid: ab0a2359d774f14c2358e3ce1c929db7
 file_type: application/pdf

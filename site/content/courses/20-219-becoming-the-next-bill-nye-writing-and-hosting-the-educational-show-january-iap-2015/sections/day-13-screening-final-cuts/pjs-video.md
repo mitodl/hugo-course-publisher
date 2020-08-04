@@ -4211,6 +4211,6 @@ transcript: >-
   m='4031720'>thanks</span> <span m='4031940'>again,</span> <span
   m='4032240'>everyone.</span> </p>
 uid: 4ca7d5bdba1d9c845105dd00afd7f16f
-type: courses
+type: course
 layout: video
 ---

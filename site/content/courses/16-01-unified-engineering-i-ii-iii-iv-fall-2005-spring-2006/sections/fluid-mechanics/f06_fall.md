@@ -3,7 +3,7 @@ title: f06_fall.pdf
 description: >-
   This resource contains information on the topics of Control Volumes , Mass
   Conservation and Control Volume Applications.
-type: courses
+type: course
 layout: pdf
 uid: 3bd40cbc5a3e608582476937d91d0822
 file_type: application/pdf

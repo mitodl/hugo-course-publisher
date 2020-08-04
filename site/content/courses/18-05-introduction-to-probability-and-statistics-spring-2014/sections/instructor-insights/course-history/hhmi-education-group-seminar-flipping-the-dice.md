@@ -4522,6 +4522,6 @@ transcript: >-
   m='3174530'>thank</span> <span m='3174740'>you</span> <span
   m='3174820'>so</span> <span m='3175020'>much.</span> </p>
 uid: 3befc92b56ffe742ed3b2371af3df269
-type: courses
+type: course
 layout: video
 ---

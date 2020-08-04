@@ -734,6 +734,6 @@ transcript: >-
   circuit,</span> <span m='3001000'>and go back to doing simple stuff
   again.</span> </p><p><span m='3004000'>Thank you.</span> </p>
 uid: 2e4700443c2efe725ef91d2c94128ac6
-type: courses
+type: course
 layout: video
 ---

@@ -579,6 +579,6 @@ transcript: >-
   <span m='692790'>was</span> <span m='692910'>a</span> <span
   m='692960'>helpful</span> <span m='693550'>illustration.</span> </p>
 uid: f784f9981cd6157d6c804e854abd09f5
-type: courses
+type: course
 layout: video
 ---

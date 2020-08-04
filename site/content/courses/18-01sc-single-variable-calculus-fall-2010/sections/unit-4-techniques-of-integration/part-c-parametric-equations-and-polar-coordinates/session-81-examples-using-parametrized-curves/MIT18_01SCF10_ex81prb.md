@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex81prb.pdf
 description: This resource contains problem statements related to parametrized curves.
-type: courses
+type: course
 layout: pdf
 uid: 73760153dca7b12c949d77f07f6140ca
 file_type: application/pdf

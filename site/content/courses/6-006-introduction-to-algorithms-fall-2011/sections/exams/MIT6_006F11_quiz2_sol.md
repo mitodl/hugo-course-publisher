@@ -1,7 +1,7 @@
 ---
 title: '6.006 Introduction to Algorithms, Fall 2011 Quiz 2 Solutions'
 description: This resource contains information regarding quiz 2 solution.
-type: courses
+type: course
 layout: pdf
 uid: c9dacb06398e3504b12dc1c28c8c6a3b
 file_type: application/pdf

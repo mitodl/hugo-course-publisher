@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Student Questions on Test IV'
 transcript: ''
 uid: 44cd0f6495bc1e9862e4b349eabea7c1
-type: courses
+type: course
 layout: video
 ---

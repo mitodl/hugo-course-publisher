@@ -928,6 +928,6 @@ transcript: >-
   m='1236800'>This</span> <span m='1237160'>is</span> <span m='1237330'>a</span>
   <span m='1237460'>Hermitian</span> <span m='1238060'>operator.</span> </p>
 uid: da8ac9fbe344185339dd1788e2ccce1a
-type: courses
+type: course
 layout: video
 ---

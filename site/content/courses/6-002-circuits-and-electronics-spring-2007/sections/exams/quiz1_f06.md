@@ -1,7 +1,7 @@
 ---
 title: quiz1_f06.pdf
 description: This resource is a quiz file.
-type: courses
+type: course
 layout: pdf
 uid: 30af3faaaae25b7115141a1f7fcf9434
 file_type: application/pdf

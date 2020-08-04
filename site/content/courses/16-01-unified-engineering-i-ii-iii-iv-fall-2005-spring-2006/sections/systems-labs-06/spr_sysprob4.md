@@ -1,7 +1,7 @@
 ---
 title: spr_sysprob4.pdf
 description: This file contains notes for Design Problem Formulation.
-type: courses
+type: course
 layout: pdf
 uid: 400bd260288e08194f8c57719befaa5f
 file_type: application/pdf

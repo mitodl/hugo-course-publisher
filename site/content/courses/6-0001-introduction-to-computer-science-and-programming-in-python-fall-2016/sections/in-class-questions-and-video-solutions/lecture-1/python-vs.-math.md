@@ -155,6 +155,6 @@ transcript: >-
   <span m="92690">characters,</span> <span m="93320">x</span> <span
   m="93530">and</span> <span m="93650">y.</span></p>
 uid: 54cf75d9557a304eadf910e53493a388
-type: courses
+type: course
 layout: video
 ---

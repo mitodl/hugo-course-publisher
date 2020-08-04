@@ -1,7 +1,7 @@
 ---
 title: t11_ps04_sol.pdf
 description: This resource contains hand written solution to problem T11.
-type: courses
+type: course
 layout: pdf
 uid: 940a1e8670eeb132b331df1b717bc976
 file_type: application/pdf

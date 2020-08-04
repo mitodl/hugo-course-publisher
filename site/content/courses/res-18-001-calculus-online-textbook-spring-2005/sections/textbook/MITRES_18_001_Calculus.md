@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_Calculus.pdf
 description: New file Uplaod
-type: courses
+type: course
 layout: pdf
 uid: e7f7f60d3efd6635e436c49469cec0e4
 file_type: application/pdf

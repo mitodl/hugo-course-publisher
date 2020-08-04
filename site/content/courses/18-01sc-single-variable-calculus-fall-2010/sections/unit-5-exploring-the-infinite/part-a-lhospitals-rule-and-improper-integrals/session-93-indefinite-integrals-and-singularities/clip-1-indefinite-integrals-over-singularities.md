@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 1: Indeﬁnite Integrals over Singularities'
 transcript: ''
 uid: 4883e30414e43db033122478c67a3844
-type: courses
+type: course
 layout: video
 ---

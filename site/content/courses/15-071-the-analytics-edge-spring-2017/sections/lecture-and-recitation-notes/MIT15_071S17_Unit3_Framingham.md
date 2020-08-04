@@ -1,7 +1,7 @@
 ---
 title: Week 3 Framingham Video 1 - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: ca6980b2bff267cf66dd890efa3f0caa
 file_type: application/pdf

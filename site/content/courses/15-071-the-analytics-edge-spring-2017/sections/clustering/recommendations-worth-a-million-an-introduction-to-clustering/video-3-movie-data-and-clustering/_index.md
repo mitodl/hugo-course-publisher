@@ -1,7 +1,7 @@
 ---
 title: '6.2 Recommendations Worth a Million: An Introduction to Clustering '
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering/quick-question-438" %}})

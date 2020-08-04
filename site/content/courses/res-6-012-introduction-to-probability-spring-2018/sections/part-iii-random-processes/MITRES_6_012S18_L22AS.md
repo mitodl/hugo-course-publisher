@@ -3,7 +3,7 @@ title: 'Introduction to Probability: Lecture 22: The Poisson Process Part I'
 description: >-
   This resource contains information regarding introduction to probability:
   Random processes: The Poisson process part I.
-type: courses
+type: course
 layout: pdf
 uid: 1f25a3930276f573b7be8cce5243f885
 file_type: application/pdf

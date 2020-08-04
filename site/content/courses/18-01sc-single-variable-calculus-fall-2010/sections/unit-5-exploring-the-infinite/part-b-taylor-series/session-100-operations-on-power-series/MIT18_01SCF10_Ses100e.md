@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses100e.pdf
 description: This resource contains informations related to operations on power series.
-type: courses
+type: course
 layout: pdf
 uid: 4f477c5893e496cd5bf18e777e95414c
 file_type: application/pdf

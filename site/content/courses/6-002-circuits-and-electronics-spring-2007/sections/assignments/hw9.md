@@ -3,7 +3,7 @@ title: hw9.pdf
 description: >-
   This resource discusses about inductance of the all-inductor network, and the
   capacitance of the all-capacitor network
-type: courses
+type: course
 layout: pdf
 uid: 3bcfb33ff7a4e60cee8cf8acbffbd110
 file_type: application/pdf

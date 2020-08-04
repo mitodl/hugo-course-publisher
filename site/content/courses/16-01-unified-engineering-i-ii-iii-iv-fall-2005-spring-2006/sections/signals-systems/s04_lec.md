@@ -1,7 +1,7 @@
 ---
 title: s04_lec.pdf
 description: Handwritten lecture notes.
-type: courses
+type: course
 layout: pdf
 uid: 74b35834dffa7202d05d9f9bf714846b
 file_type: application/pdf

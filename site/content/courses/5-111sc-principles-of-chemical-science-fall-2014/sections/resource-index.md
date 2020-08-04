@@ -1,11 +1,11 @@
 ---
 title: Resource Index
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: course_section
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 34312feb9a219b7bae7feeb632542766
-    type: section
-    layout: section
     name: RESOURCE INDEX
     weight: 440
 ---

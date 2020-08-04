@@ -1,7 +1,7 @@
 ---
 title: sp_S6_mud.pdf
 description: Review questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: d63bba24f7820966ddf1886b44f192b5
 file_type: application/pdf

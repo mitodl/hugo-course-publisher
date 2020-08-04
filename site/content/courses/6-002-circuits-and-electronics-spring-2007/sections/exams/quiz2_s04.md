@@ -1,7 +1,7 @@
 ---
 title: quiz2_s04.pdf
 description: This resource is a quiz file.
-type: courses
+type: course
 layout: pdf
 uid: 3f3668c71e80478edb84cc2130fda230
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: part_ii_open_5_0.pdf
 description: >-
   This resource contains part II of "principles of computer system design: an
   introduction."
-type: courses
+type: course
 layout: pdf
 uid: e962408d900226fef264fd1cd1b81468
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Session 54: The Second Fundamental Theorem and ln(x)'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-type: courses
+type: course
 layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-53-new-functions-from-old/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-55-creating-new-functions-using-the-second-fundamental-theorem/_index.md" %}}) »

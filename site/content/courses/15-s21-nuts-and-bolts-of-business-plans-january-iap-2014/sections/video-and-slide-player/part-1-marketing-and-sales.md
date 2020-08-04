@@ -450,6 +450,6 @@ technical_location: >-
 title: 'Session 2, Part 1: Marketing and Sales'
 transcript: ''
 uid: bbab6d747de54683d4d00d5ed9eb106d
-type: courses
+type: course
 layout: video
 ---

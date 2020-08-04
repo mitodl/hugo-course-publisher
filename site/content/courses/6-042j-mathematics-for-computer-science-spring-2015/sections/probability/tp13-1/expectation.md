@@ -1441,6 +1441,6 @@ transcript: >-
   <span m='1131370'>think</span> <span m='1131570'>about</span> <span
   m='1131870'>it.</span> </p>
 uid: 43fb2ad78788cad331453ae01d48cfbb
-type: courses
+type: course
 layout: video
 ---

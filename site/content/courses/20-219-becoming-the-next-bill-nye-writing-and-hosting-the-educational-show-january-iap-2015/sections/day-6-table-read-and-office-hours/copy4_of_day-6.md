@@ -9079,6 +9079,6 @@ transcript: >-
   free</span> <span m="8056740">to go.</span> <span m="8057040">I'll see
   you</span> <span m="8057340">tomorrow.</span></p>
 uid: a1782b8aca6dbe8a11bcf85b4c96aeff
-type: courses
+type: course
 layout: video
 ---

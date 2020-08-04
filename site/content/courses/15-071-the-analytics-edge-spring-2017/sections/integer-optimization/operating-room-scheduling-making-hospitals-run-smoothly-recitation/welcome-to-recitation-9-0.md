@@ -83,6 +83,6 @@ transcript: >-
   m='20533'>rooms.</span> </p><p><span m='20950'>Let's</span> <span
   m='21573'>get</span> <span m='22196'>started.</span> </p>
 uid: 5d8ba136ed5c734e4d5f2fb87899c786
-type: courses
+type: course
 layout: video
 ---

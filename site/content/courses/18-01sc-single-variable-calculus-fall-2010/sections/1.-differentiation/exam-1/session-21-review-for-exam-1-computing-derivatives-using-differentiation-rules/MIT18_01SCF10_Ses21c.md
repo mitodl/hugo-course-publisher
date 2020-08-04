@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses21c.pdf
 description: 'This resource contains information related to derivative of secant. '
-type: courses
+type: course
 layout: pdf
 uid: f8e05f6f6d7f75b54b6d990eaa667901
 file_type: application/pdf

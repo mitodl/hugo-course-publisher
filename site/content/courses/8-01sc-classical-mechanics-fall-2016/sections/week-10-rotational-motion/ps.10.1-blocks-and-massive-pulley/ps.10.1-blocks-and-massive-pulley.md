@@ -1014,6 +1014,6 @@ transcript: >-
   m='962060'>we've</span> <span m='962180'>done</span> <span
   m='962370'>it.</span> </p>
 uid: 5cf00389a0ba8028bf27d129a2a4d39e
-type: courses
+type: course
 layout: video
 ---

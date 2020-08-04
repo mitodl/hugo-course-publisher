@@ -1,11 +1,11 @@
 ---
 title: Readings
 course_id: 18-06-linear-algebra-spring-2010
+type: course
+layout: course_section
 menu:
   18-06-linear-algebra-spring-2010:
     identifier: 81d6a1cd707c29b29d6540b3e79d5433
-    type: section
-    layout: section
     name: Readings
     weight: 50
 ---

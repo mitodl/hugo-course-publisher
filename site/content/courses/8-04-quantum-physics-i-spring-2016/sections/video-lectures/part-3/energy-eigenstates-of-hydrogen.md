@@ -591,6 +591,6 @@ transcript: >-
   m='742530'>state</span> <span m='742950'>of</span> <span
   m='743100'>hydrogen.</span> </p>
 uid: c8dc09f8f7ab8230327c2c91e18bdd2b
-type: courses
+type: course
 layout: video
 ---

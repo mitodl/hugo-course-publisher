@@ -1,7 +1,7 @@
 ---
 title: 'MIT 8.03SC Fall 2016 Lecture 14: Fourier Transform, AM Radio'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 6d84763c8dfdf014dcbcb4c9e44d7198
 file_type: application/pdf

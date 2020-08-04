@@ -2808,6 +2808,6 @@ transcript: >-
   m="3130780">after</span> <span m="3131140">the</span> <span
   m="3131230">break.</span> <span m="3131830">Good.</span></p>
 uid: 1a9b96a6848456dd2b380557ed66a416
-type: courses
+type: course
 layout: video
 ---

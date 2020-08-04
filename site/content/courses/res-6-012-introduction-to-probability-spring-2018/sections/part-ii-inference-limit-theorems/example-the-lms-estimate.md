@@ -166,6 +166,6 @@ transcript: >-
   m='383620'>we apply this particular function g.</span> </p><p><span
   m='386650'>And we come up with an estimate.</span> </p><p></p>
 uid: 31e00f44f1e8308cc2dac91034cc9184
-type: courses
+type: course
 layout: video
 ---

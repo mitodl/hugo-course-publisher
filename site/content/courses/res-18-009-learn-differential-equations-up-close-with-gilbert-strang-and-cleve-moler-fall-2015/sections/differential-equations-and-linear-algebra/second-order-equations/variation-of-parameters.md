@@ -1050,6 +1050,6 @@ transcript: >-
   m='1153220'>the</span> <span m='1153420'>end.</span> </p><p><span
   m='1155090'>Thank</span> <span m='1155330'>you.</span> </p>
 uid: 84a678c4b78894f8ffd8f8ee2da62cea
-type: courses
+type: course
 layout: video
 ---

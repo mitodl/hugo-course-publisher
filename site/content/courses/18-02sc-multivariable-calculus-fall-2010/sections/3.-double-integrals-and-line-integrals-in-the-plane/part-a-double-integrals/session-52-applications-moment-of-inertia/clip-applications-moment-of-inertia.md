@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Applications: Moment of Inertia'
 transcript: ''
 uid: 76e34d515cd674c38db9d76e7e7c64ef
-type: courses
+type: course
 layout: video
 ---

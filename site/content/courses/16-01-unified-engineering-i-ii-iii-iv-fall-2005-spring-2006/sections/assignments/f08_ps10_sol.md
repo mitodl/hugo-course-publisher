@@ -3,7 +3,7 @@ title: f08_ps10_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem of Wright
   Brothers wind tunnel.
-type: courses
+type: course
 layout: pdf
 uid: 251c1553e0e9d6f09f2d69380f91f241
 file_type: application/pdf

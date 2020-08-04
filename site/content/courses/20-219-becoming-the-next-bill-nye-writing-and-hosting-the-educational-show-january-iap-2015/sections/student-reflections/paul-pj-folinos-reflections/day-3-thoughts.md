@@ -270,6 +270,6 @@ transcript: >-
   m="185210">that.</span> <span m="186410">All</span> <span
   m="186710">right.</span> <span m="187010">Bye.</span></p>
 uid: 070a6bf6dff0fb133efe5b845627c50d
-type: courses
+type: course
 layout: video
 ---

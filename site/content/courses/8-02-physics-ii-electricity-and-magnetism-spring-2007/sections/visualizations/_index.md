@@ -1,11 +1,11 @@
 ---
 title: Visualizations
 course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
+type: course
+layout: course_section
 menu:
   8-02-physics-ii-electricity-and-magnetism-spring-2007:
     identifier: ea1fcef11143e57e2f48a97bf8747dc2
-    type: section
-    layout: section
     name: Visualizations
     weight: 80
 ---

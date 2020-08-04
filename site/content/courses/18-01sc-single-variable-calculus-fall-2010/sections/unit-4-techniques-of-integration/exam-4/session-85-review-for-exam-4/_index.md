@@ -1,7 +1,7 @@
 ---
 title: 'Session 85: Review for Exam 4'
 course_id: 18-01sc-single-variable-calculus-fall-2010
-type: courses
+type: course
 layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/exam-4/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/exam-4/session-86-materials-for-exam-4/_index.md" %}}) »

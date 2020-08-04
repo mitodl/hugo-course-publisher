@@ -3,7 +3,7 @@ title: 5.111 F14 Exam 1 Equation Sheet
 description: >-
   This resource contains information regarding principles of chemical science:
   Exam 1 equation sheet.
-type: courses
+type: course
 layout: pdf
 uid: 5173a515227d5268a3ddbdc869f355b3
 file_type: application/pdf

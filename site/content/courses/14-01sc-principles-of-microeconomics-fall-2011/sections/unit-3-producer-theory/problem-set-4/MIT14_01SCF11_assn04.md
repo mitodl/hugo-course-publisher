@@ -3,7 +3,7 @@ title: MIT14_01SCF11_assn04.pdf
 description: >-
   This resource contains 4 problem statements related to representative
   isoquant, total, average, ,arginal cost curves. 
-type: courses
+type: course
 layout: pdf
 uid: ad3334b81b1ae8f429ec09f4d4a1daa4
 file_type: application/pdf

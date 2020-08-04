@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_SupProb1.pdf
 description: This resource contains problem statements related to vectors and matrices.
-type: courses
+type: course
 layout: pdf
 uid: 389f3f3c18e4b8b8975947306993983c
 file_type: application/pdf

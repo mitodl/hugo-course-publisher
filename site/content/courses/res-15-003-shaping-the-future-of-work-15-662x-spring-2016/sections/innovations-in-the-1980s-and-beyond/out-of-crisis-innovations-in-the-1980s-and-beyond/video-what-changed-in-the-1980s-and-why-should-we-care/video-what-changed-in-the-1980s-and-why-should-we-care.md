@@ -363,6 +363,6 @@ transcript: >-
   m='267920'>to</span> <span m='267990'>be</span> <span m='268120'>your</span>
   <span m='268330'>challenge.</span> </p>
 uid: 269f8c18e507067f4e072f08f5a72dce
-type: courses
+type: course
 layout: video
 ---

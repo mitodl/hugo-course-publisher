@@ -431,6 +431,6 @@ transcript: >-
   m='331002'>the</span> <span m='331369'>MRI</span> <span
   m='331736'>brain</span> <span m='332103'>image.</span> </p>
 uid: 1f8fd9019e891e8faca428f0ff5b4254
-type: courses
+type: course
 layout: video
 ---

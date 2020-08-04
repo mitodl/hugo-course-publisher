@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Physical Meaning of Flux, Del Notation'
 transcript: ''
 uid: 961f94d299c335c51900f391a66fd15b
-type: courses
+type: course
 layout: video
 ---

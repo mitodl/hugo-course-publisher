@@ -158,6 +158,6 @@ transcript: >-
   m="97630">why</span> <span m="97740">it</span> <span m="97820">didn't</span>
   <span m="97970">work.</span></p>
 uid: 4798c8d1b216faca9232e4f0127f18bd
-type: courses
+type: course
 layout: video
 ---

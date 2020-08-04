@@ -1,7 +1,7 @@
 ---
 title: spl9b.pdf
 description: This file contains the diagram for AA CNC Foam Cutter.
-type: courses
+type: course
 layout: pdf
 uid: 1ec8d49756867c2531ad3bf8e9c0e3ec
 file_type: application/pdf

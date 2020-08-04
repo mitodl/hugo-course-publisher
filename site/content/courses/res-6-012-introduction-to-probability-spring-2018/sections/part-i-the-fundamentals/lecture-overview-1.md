@@ -101,6 +101,6 @@ transcript: >-
   all the time, all over</span> <span m="124580">science and
   engineering.</span></p><p>&nbsp;</p>
 uid: 0a953eb4300ef057a581aee0ab2dfbe5
-type: courses
+type: course
 layout: video
 ---

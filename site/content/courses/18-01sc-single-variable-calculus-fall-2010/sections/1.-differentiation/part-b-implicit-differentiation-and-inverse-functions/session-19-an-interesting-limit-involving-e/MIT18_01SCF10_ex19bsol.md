@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex19bsol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   interesting limit involving e.
-type: courses
+type: course
 layout: pdf
 uid: 8988d219f9ea21f081844df41b649e9e
 file_type: application/pdf

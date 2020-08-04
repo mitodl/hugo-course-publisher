@@ -116,6 +116,6 @@ transcript: >-
   <span m='176079'>and which rest on Poisson models involve service
   operations</span> <span m='180540'>of this type.</span> </p>
 uid: ab5e7e5d05c92f9c488cd9e014b3fbd5
-type: courses
+type: course
 layout: video
 ---

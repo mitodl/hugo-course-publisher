@@ -1,11 +1,11 @@
 ---
 title: Exams
 course_id: 8-591j-systems-biology-fall-2014
+type: course
+layout: course_section
 menu:
   8-591j-systems-biology-fall-2014:
     identifier: a54254f5d11d54a1030beb1b17c6c447
-    type: section
-    layout: section
     name: Exams
     weight: 100
 ---

@@ -455,6 +455,6 @@ transcript: >-
   m='365950'>I'm</span> <span m='366130'>going to</span> <span
   m='366280'>stop</span> <span m='366560'>there.</span> </p>
 uid: 969ec0d7888457100b086ca3dac7ebd5
-type: courses
+type: course
 layout: video
 ---

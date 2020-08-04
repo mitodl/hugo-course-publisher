@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Asymptotes of Antiderivatives'
 transcript: ''
 uid: c615aba90b6cee0055d5e807ff8c3e42
-type: courses
+type: course
 layout: video
 ---

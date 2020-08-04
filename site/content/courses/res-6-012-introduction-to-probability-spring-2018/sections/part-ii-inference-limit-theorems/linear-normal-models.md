@@ -145,6 +145,6 @@ transcript: >-
   m='306280'>And they're probably the most widely used class</span> <span
   m='309440'>of statistical models.</span> </p>
 uid: 8e7e230bd21e25af74cb235609877272
-type: courses
+type: course
 layout: video
 ---

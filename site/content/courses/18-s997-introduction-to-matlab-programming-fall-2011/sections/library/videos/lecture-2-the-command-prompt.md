@@ -544,6 +544,6 @@ transcript: >-
   m='445550'>could</span> <span m='445700'>just</span> <span
   m='446460'>press</span> <span m='446670'>Control-C.</span> </p>
 uid: 9b4a2cc9714d7cf675be79f825505e30
-type: courses
+type: course
 layout: video
 ---

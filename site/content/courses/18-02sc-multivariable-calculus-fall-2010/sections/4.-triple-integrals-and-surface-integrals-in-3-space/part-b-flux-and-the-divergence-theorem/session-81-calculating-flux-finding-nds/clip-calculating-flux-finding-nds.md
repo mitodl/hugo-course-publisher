@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Calculating Flux, Finding ndS'
 transcript: ''
 uid: 1530f4c6fa21a88cabf9c78edf103946
-type: courses
+type: course
 layout: video
 ---

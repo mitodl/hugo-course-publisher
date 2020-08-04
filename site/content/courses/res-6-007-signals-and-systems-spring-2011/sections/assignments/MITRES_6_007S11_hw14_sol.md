@@ -3,7 +3,7 @@ title: MITRES_6_007S11_hw14_sol.pdf
 description: >-
   This resource contains solution to the problem set related to demonstration of
   amplitude modulation.
-type: courses
+type: course
 layout: pdf
 uid: b7a84672b3010c8396913e13982ab642
 file_type: application/pdf

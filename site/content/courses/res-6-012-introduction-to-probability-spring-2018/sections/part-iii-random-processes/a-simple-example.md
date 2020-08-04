@@ -115,6 +115,6 @@ transcript: >-
   2.</span></p><p><span m="183580">And we take the third power of
   this.</span></p>
 uid: 7a8b890735e429239e80eb0092d67308
-type: courses
+type: course
 layout: video
 ---

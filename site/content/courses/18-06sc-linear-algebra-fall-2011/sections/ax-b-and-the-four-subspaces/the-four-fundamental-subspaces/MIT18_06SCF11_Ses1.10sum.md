@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses1.10sum.pdf
 description: This resource contains information related to the four fundamental subspaces.
-type: courses
+type: course
 layout: pdf
 uid: 62a9db9eeab190694d40afe4734068ca
 file_type: application/pdf

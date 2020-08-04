@@ -673,6 +673,6 @@ transcript: >-
   m='578170'>the</span> <span m='578320'>GCD</span> <span m='579240'>is</span>
   <span m='579540'>1.</span> </p>
 uid: 72daff24ba2abe106acfe5407a1da49f
-type: courses
+type: course
 layout: video
 ---

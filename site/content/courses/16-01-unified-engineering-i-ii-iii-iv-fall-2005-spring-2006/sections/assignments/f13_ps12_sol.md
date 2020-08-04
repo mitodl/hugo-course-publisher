@@ -3,7 +3,7 @@ title: f13_ps12_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on
   sea-level wind speed.
-type: courses
+type: course
 layout: pdf
 uid: a0c14cd2a48f938940de31335c840659
 file_type: application/pdf

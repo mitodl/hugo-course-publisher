@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: res-6-008-digital-signal-processing-spring-2011
 course_title: Digital Signal Processing
 course_image_url: >-

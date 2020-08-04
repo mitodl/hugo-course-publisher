@@ -3,7 +3,7 @@ title: 'Reading 23b: Confidence Intervals for the Mean of Non-normal Data'
 description: >-
   This is a resource file that contains information regarding reading 23b:
   confidence intervals for the mean of non-normal data.
-type: courses
+type: course
 layout: pdf
 uid: e4ae022a2a88213ddca89f6e161098c9
 file_type: application/pdf

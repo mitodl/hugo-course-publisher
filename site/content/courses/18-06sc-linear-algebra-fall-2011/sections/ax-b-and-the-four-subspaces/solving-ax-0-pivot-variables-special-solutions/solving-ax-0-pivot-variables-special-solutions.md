@@ -2461,6 +2461,6 @@ transcript: >-
   m='2584510'>the</span> <span m='2584650'>null</span> <span
   m='2584830'>space.</span> </p><p><span m='2585370'>Thanks.</span> </p>
 uid: 37d5a2a48317a81eff070da4bb0cb994
-type: courses
+type: course
 layout: video
 ---

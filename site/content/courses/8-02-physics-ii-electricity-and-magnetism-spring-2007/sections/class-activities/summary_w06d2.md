@@ -3,7 +3,7 @@ title: summary_w06d2.pdf
 description: >-
   This resource is about magnetic fields: creating magnetic fields ? Ampere?s
   Law.
-type: courses
+type: course
 layout: pdf
 uid: 326f5c984272edcbb32b0ebccfb2236a
 file_type: application/pdf

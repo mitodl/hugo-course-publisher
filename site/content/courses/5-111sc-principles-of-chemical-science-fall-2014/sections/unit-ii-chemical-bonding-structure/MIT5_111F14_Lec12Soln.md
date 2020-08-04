@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Solutions for Lecture 12: The Shapes of
   Molecules: VSEPR Theory
 description: This resource contains information regarding lecture 12 solution.
-type: courses
+type: course
 layout: pdf
 uid: cbc43098cae7a73207c630760460c080
 file_type: application/pdf

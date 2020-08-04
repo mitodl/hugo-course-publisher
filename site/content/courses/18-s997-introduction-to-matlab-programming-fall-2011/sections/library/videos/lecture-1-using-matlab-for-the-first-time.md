@@ -407,6 +407,6 @@ transcript: >-
   m='321510'>I</span> <span m='321610'>can</span> <span m='321680'>type</span>
   <span m='322030'>exit.</span> </p>
 uid: 43dd1e031b2e412267e44b5e6d9d7a1f
-type: courses
+type: course
 layout: video
 ---

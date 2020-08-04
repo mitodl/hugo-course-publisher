@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_2_quest.pdf
 description: This resource contains problem statements related to dot products.
-type: courses
+type: course
 layout: pdf
 uid: 5e57c2a835c623ace0ac87f67e8a3158
 file_type: application/pdf

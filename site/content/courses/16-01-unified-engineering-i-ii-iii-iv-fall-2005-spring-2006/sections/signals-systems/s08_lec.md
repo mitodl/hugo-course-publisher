@@ -1,7 +1,7 @@
 ---
 title: s08_lec.pdf
 description: Handwritten lecture notes regarding the Time Response Of RC Circuis.
-type: courses
+type: course
 layout: pdf
 uid: 8520b970059b0e380a602b79c04c90ca
 file_type: application/pdf

@@ -863,6 +863,6 @@ transcript: >-
   m='631560'>structure</span> <span m='632550'>of</span> <span
   m='632790'>the</span> <span m='632920'>digraph.</span> </p>
 uid: 2fe0d31482b213afa0e6cdf8efeeb2e1
-type: courses
+type: course
 layout: video
 ---

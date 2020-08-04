@@ -1,7 +1,7 @@
 ---
 title: 'Class 2 Slides: Probability basics'
 description: This is a resource file that contains information regarding class 2.
-type: courses
+type: course
 layout: pdf
 uid: 0c69ebd20c54e552e6d268d8a801a710
 file_type: application/pdf

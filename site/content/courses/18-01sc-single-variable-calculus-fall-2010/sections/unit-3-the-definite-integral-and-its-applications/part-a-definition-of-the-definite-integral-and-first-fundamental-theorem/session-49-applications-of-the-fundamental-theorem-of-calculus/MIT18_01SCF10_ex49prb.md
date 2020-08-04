@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex49prb.pdf
 description: >-
   This resource contains problem statements related to integration by change of
   variables.
-type: courses
+type: course
 layout: pdf
 uid: 8bf9c58094c2838a33e33eced5b6473f
 file_type: application/pdf

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Overview of Improper Integrals'
 transcript: ''
 uid: 06790b771efc5f35926275ad81996dd0
-type: courses
+type: course
 layout: video
 ---

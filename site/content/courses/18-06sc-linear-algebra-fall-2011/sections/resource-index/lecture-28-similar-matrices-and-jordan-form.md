@@ -2642,6 +2642,6 @@ transcript: >-
   m='2742890'>great</span> <span m='2742990'>weekend.</span> </p><p><span
   m='2743130'>Bye.</span> </p>
 uid: 6b0d21c06b955950aa99895be824eb2a
-type: courses
+type: course
 layout: video
 ---

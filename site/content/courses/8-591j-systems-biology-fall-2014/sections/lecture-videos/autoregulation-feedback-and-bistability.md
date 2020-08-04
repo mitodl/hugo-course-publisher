@@ -4452,6 +4452,6 @@ transcript: >-
   m="4717410">and</span> <span m="4717550">I'll see you</span> <span
   m="4717940">on</span> <span m="4718160">Tuesday.</span></p>
 uid: 6b503d8f9074f1967c543a385a4ad57b
-type: courses
+type: course
 layout: video
 ---

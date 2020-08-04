@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 25: Queuing Network Models'
 transcript: ''
 uid: 3cc80887822e6e46482f91ff5bf75d3a
-type: courses
+type: course
 layout: video
 ---

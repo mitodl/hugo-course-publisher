@@ -1,11 +1,11 @@
 ---
 title: Readings
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 1bd2d3576523fe6c8a8f82aaec579197
-    type: section
-    layout: section
     name: Readings
     weight: 20
 ---

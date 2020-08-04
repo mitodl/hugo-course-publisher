@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pset5sol.pdf
 description: This resource contains information related to velocity vectors.
-type: courses
+type: course
 layout: pdf
 uid: d0b03519d3263f0a90f98553dcf7d9f4
 file_type: application/pdf

@@ -548,6 +548,6 @@ transcript: >-
   m='533370'>and</span> <span m='533520'>maximum</span> <span
   m='535320'>shear</span> <span m='535650'>stresses.</span> </p><p></p>
 uid: d27271ee5abf30b986dbf6c059c95824
-type: courses
+type: course
 layout: video
 ---

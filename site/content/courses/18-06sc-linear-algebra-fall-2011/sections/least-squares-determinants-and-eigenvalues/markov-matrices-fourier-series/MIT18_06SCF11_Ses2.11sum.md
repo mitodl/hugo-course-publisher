@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses2.11sum.pdf
 description: This resource contains information related to markov matrices; fourier series.
-type: courses
+type: course
 layout: pdf
 uid: c8a22883b5e0cc402b3df9c1d754ef5b
 file_type: application/pdf

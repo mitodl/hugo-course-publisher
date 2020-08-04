@@ -312,6 +312,6 @@ transcript: >-
   <span m='1101500'>when we choose s equal to a.</span> </p><p><span
   m='1103770'>And this is Hoeffding's inequality.</span> </p><p></p>
 uid: 19b16f2bf841311e89ba8d6844c62b1c
-type: courses
+type: course
 layout: video
 ---

@@ -5,7 +5,7 @@ description: >-
 
   why physics?, why studio physics? (and how?), vector and scalar fields,
   gravitational fields, and electric fields.
-type: courses
+type: course
 layout: pdf
 uid: 576bb3137e9ce4ecc87f73f18221278d
 file_type: application/pdf

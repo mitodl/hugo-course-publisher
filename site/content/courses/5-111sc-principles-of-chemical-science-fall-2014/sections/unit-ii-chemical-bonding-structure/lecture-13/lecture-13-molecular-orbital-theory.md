@@ -4069,6 +4069,6 @@ transcript: >-
   m="3923620">molecular</span> <span m="3924200">orbital</span> <span
   m="3924600">theory.</span></p>
 uid: bddcd1418844ccb0fbdfe3cd883a782b
-type: courses
+type: course
 layout: video
 ---

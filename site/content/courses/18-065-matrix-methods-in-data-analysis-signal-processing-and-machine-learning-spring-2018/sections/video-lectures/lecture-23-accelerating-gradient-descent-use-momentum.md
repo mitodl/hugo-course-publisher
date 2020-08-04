@@ -2562,6 +2562,6 @@ transcript: >-
   m="2939150">also</span> <span m="2939450">see</span> <span
   m="2939750">you.</span></p>
 uid: d701065a0c65a65f846f2d1b676f9614
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: f09_sp.pdf
 description: This resource contains information on the topic of General Wings.
-type: courses
+type: course
 layout: pdf
 uid: d77d7c793e7a22e20b5305547196adbf
 file_type: application/pdf

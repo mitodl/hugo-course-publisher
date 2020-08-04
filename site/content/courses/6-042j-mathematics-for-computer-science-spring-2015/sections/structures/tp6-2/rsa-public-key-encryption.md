@@ -1649,6 +1649,6 @@ transcript: >-
   m='1297140'>believe</span> <span m='1297440'>in</span> <span
   m='1297590'>it.</span> </p>
 uid: 94726ea0be8e2d8ec47a50322cd3e0e3
-type: courses
+type: course
 layout: video
 ---

@@ -1,16 +1,14 @@
 ---
 title: Healthcare Economics
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 41da8f547f2ad774baa0e7c50d7cf9e6
-    type: section
-    layout: section
     name: Healthcare Economics
     weight: 460
     parent: c94fdf9054571202c278c37041d32e5c
-type: courses
-layout: videogallery
 ---
 « [Previous](/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/u.s.-social-insurance-programs) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/final-exam/_index.md" %}}) »
 

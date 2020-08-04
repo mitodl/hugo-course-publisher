@@ -1560,6 +1560,6 @@ transcript: >-
   m='1177740'>I</span> <span m='1177870'>will</span> <span
   m='1178020'>stop.</span> </p>
 uid: 6aa9e798b5fce91005764051cf752e3e
-type: courses
+type: course
 layout: video
 ---

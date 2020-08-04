@@ -4992,6 +4992,6 @@ transcript: >-
   m="4804780">guys</span> <span m="4805010">next</span> <span
   m="4805210">week.</span></p>
 uid: 18a52c47bbf4fa4f805d67f50ece05de
-type: courses
+type: course
 layout: video
 ---

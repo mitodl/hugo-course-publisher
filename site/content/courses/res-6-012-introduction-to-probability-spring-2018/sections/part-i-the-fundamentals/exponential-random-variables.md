@@ -193,6 +193,6 @@ transcript: >-
   <span m='485300'>the time until a meteorite falls on your house.</span>
   </p><p></p>
 uid: 9322165a4eeea95a22312cb19262ad88
-type: courses
+type: course
 layout: video
 ---

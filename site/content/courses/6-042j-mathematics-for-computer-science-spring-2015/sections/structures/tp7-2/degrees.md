@@ -927,6 +927,6 @@ transcript: >-
   m='675920'>fooled</span> <span m='676330'>by</span> <span
   m='676510'>such</span> <span m='676850'>nonsense.</span> </p>
 uid: cc58b2514e3d4e5c5ae8b3bd1dfadf7a
-type: courses
+type: course
 layout: video
 ---

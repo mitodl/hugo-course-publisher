@@ -1,11 +1,11 @@
 ---
 title: Valuing the Contributions of Others
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
+type: course
+layout: course_section
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: aa059fb3678ccdd986923b443c48a843
-    type: section
-    layout: section
     name: Valuing the Contributions of Others
     weight: 50
     parent: 533d102efe069d1db963beda43cca2a1

@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex76prb.pdf
 description: This resource contains problem statements related to integration by parts.
-type: courses
+type: course
 layout: pdf
 uid: f3ce76b69d575ae6b9903e57a0459f79
 file_type: application/pdf

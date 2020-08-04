@@ -4,7 +4,7 @@ description: >-
   This resource contains solutions to the problem statements related to
   government borrowing, intertemporal consumption, savings supply, government
   redistribution, and social welfare. 
-type: courses
+type: course
 layout: pdf
 uid: 159872e54c1c9fe15cff0295ebbdde00
 file_type: application/pdf

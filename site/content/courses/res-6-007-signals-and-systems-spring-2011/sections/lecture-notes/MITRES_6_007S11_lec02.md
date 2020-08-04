@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_lec02.pdf
 description: 'This resource contains information related to signals and systems: part I.'
-type: courses
+type: course
 layout: pdf
 uid: b061322022d65a4bc2ed2e2d3c54d3c5
 file_type: application/pdf

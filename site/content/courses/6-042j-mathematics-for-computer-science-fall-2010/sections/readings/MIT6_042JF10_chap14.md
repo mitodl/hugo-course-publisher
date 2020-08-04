@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 14: Events and probability spaces'
 description: This resource contains information about Events and probability spaces.
-type: courses
+type: course
 layout: pdf
 uid: 67563e626df1b795165a7bf1426cc166
 file_type: application/pdf

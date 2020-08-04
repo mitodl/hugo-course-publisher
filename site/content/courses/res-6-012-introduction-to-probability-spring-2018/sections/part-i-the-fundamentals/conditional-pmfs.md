@@ -223,6 +223,6 @@ transcript: >-
   given that the first</span> <span m="645210">two events have
   happened.</span></p><p>&nbsp;</p>
 uid: 1f1d7ddc82f8522930c4778638fa5915
-type: courses
+type: course
 layout: video
 ---

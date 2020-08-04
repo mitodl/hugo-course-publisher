@@ -177,6 +177,6 @@ transcript: >-
   m='103740'>gotten</span> <span m='103980'>it</span> <span
   m='104070'>right.</span> </p>
 uid: 3081a61e871fbb6035b4014be75c3392
-type: courses
+type: course
 layout: video
 ---

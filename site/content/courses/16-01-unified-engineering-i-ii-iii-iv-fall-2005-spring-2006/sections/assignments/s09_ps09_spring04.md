@@ -1,7 +1,7 @@
 ---
 title: s09_ps09_spring04.pdf
 description: Problem set on RC Circuits.
-type: courses
+type: course
 layout: pdf
 uid: d4f44d9b4883fc9a0ac582b70ed21435
 file_type: application/pdf

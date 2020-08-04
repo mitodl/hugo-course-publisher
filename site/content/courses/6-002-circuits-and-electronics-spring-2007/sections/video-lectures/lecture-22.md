@@ -781,6 +781,6 @@ transcript: >-
   do our cell phones</span> <span m='3123000'>work, how does life go on despite
   this horrendous</span> <span m='3131000'>calculation here.</span> </p>
 uid: 90779581eef93b5624c90b75bdfdc5f2
-type: courses
+type: course
 layout: video
 ---

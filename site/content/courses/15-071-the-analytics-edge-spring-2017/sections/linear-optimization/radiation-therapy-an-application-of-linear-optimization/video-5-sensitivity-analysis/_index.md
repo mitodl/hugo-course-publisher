@@ -1,7 +1,7 @@
 ---
 title: '8.3 Radiation Therapy: An Application of Linear Optimization '
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/radiation-therapy-an-application-of-linear-optimization/quick-question-648" %}})

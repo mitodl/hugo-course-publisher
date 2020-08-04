@@ -1,11 +1,11 @@
 ---
 title: Unit 3
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: course_section
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 82c1509981b270b9823bc741f08c9b32
-    type: section
-    layout: section
     name: Unit 3
     weight: 270
 ---

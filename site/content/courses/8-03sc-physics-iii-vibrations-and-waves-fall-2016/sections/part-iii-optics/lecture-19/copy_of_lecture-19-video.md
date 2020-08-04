@@ -4457,6 +4457,6 @@ transcript: >-
   m="4952160">in</span> <span m="4952610">electromagnetic</span> <span
   m="4953500">waves.</span></p>
 uid: 40d784228f7747f7a190b56f06dc19fb
-type: courses
+type: course
 layout: video
 ---

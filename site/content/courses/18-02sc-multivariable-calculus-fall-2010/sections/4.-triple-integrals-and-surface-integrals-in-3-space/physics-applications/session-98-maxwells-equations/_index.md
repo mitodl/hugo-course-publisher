@@ -1,7 +1,7 @@
 ---
 title: 'Session 98: Maxwell''s Equations'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-type: courses
+type: course
 layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/physics-applications/session-97-curl-and-physics/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/final-exam-1/practice-final-exam/_index.md" %}}) »

@@ -1,6 +1,8 @@
 ---
 title: '7.2 Visualizing the World: An Introduction to Visualization'
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: course_section
 ---
 *   [<Video 3: What is Data Visualization?]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-3-what-is-data-visualization" %}})
 *   [7.2.1Video 1: The Power of Visualizations]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/_index.md" %}})

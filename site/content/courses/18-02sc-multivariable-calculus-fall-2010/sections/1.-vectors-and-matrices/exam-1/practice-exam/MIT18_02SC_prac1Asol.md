@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_prac1Asol.pdf
 description: This resource contains information related to octant.
-type: courses
+type: course
 layout: pdf
 uid: 32defabf2f2d0b9c2064cd3f65f26a53
 file_type: application/pdf

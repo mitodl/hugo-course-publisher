@@ -1,11 +1,11 @@
 ---
 title: Syllabus
 course_id: 15-401-finance-theory-i-fall-2008
+type: course
+layout: course_section
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: cf8df02a2969c473cd17c36c15b74aa4
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
 ---

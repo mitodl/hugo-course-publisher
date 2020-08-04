@@ -729,6 +729,6 @@ transcript: >-
   m='792010'>linear</span> <span m='792340'>algebra.</span> <span
   m='793400'>Thank</span> <span m='793620'>you.</span> </p>
 uid: f87248fe8d30114bfb5a3ac5d5c92905
-type: courses
+type: course
 layout: video
 ---

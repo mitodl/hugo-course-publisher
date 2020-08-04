@@ -1,7 +1,7 @@
 ---
 title: 'Stable Matching: Stable Matching'
 description: This file contains information regarding stable matching.
-type: courses
+type: course
 layout: pdf
 uid: e8d29892ec88223be6963d989b6f6434
 file_type: application/pdf

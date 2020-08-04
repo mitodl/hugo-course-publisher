@@ -2401,6 +2401,6 @@ transcript: >-
   m="2802020">quit</span> <span m="2802220">for</span> <span
   m="2802370">today.</span></p>
 uid: 5f7dd9802debaa6cd92d7937e74b95a6
-type: courses
+type: course
 layout: video
 ---

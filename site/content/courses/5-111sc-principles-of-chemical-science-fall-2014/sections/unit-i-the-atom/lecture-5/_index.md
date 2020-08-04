@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 5: Hydrogen Atom Energy Levels'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: videogallery
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 19bd276c98fb61bc72af22c0567e02a2
-    type: section
-    layout: section
     name: Lecture 5
     weight: 80
     parent: 36cc671ac04c270e9cac7a210efd6846
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6/_index.md" %}}) »
 

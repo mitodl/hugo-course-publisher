@@ -380,6 +380,6 @@ transcript: >-
   m='315151'>a</span> <span m='315697'>sports</span> <span
   m='316243'>schedule.</span> </p>
 uid: 791263a1ac27eeace62cdd8ef3261b2c
-type: courses
+type: course
 layout: video
 ---

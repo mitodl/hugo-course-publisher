@@ -1,7 +1,7 @@
 ---
 title: gm5_8_notes.pdf
 description: Lecture notes on Simple Beam Theory.
-type: courses
+type: course
 layout: pdf
 uid: f66f80cd5fbd5cf8295d7b1e1e28a368
 file_type: application/pdf

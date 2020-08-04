@@ -1,7 +1,7 @@
 ---
 title: p04_ps10_spring04.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: a962b93cc130a775115007d4075a730f
 file_type: application/pdf

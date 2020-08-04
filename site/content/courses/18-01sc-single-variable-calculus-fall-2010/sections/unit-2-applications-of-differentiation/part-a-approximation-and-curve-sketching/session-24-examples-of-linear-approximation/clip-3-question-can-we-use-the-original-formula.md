@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Question: Can We Use the Original Formula?'
 transcript: ''
 uid: c6751fb04db959380f34845876b1a4cb
-type: courses
+type: course
 layout: video
 ---

@@ -3518,6 +3518,6 @@ transcript: >-
   m="3021760">both</span> <span m="3022120">of</span> <span
   m="3022210">those</span> <span m="3022500">pitfalls.</span></p><p>&nbsp;</p>
 uid: d67e9fa2ff5992d57e3ca98cb72df2ec
-type: courses
+type: course
 layout: video
 ---

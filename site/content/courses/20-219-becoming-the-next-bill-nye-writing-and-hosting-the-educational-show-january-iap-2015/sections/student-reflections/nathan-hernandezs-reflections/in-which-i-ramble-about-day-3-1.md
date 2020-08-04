@@ -379,6 +379,6 @@ transcript: >-
   <span m="302690">sleep.</span> <span m="303730">So,</span> <span
   m="303760">yay.</span></p>
 uid: 0c1bfe63dedb6068f8f82152bc254271
-type: courses
+type: course
 layout: video
 ---

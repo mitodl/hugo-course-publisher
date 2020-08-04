@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_graph23.pdf
 description: This resource contains graphs related to equity and efficiency.
-type: courses
+type: course
 layout: pdf
 uid: d00f6be000ade00a451df1a0d5417821
 file_type: application/pdf

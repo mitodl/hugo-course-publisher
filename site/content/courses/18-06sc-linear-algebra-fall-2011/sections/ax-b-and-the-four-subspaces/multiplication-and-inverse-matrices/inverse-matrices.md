@@ -506,6 +506,6 @@ transcript: >-
   m='502520'>you</span> <span m='502560'>next</span> <span
   m='502810'>time.</span> </p>
 uid: 8320d50635cc029e9ae67f45968e617e
-type: courses
+type: course
 layout: video
 ---

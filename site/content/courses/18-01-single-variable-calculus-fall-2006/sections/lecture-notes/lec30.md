@@ -3,7 +3,7 @@ title: 'Lecture 30: Integration by Parts, Reduction Formulae'
 description: >-
   Lecture notes on integration by parts, reduction formulas, arc length, and
   parametric equations.
-type: courses
+type: course
 layout: pdf
 uid: e2ae9ec87ea3cb1a02d02400c4c2a276
 file_type: application/pdf

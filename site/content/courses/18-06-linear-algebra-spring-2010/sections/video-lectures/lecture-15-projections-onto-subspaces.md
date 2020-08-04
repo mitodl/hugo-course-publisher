@@ -2717,6 +2717,6 @@ transcript: >-
   m="2927000">numbers</span> <span m="2927750">next</span> <span
   m="2928500">time.</span></p><p><span m="2929250">Thanks.</span></p>
 uid: 05e98eb5937aa5c6346b20da0d9c7f68
-type: courses
+type: course
 layout: video
 ---

@@ -261,6 +261,6 @@ transcript: >-
   m='196017'>our</span> <span m='196585'>training</span> <span
   m='197152'>data.</span> </p>
 uid: f9cbbfc8e55567a7e230811e9fd7c2e6
-type: courses
+type: course
 layout: video
 ---

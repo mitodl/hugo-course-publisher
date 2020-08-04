@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex10sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   quotient rule.
-type: courses
+type: course
 layout: pdf
 uid: 52f9d8dc2dd679f9b04aad2d581ac7b7
 file_type: application/pdf

@@ -222,6 +222,6 @@ transcript: >-
   <span m='191503'>visualizations</span> <span m='192176'>effectively.</span>
   </p>
 uid: 0f1d95d5557658e3801b5fa220a433f3
-type: courses
+type: course
 layout: video
 ---

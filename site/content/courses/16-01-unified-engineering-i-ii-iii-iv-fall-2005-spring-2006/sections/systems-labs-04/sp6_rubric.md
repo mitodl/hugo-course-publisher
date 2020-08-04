@@ -1,7 +1,7 @@
 ---
 title: sp6_rubric.pdf
 description: This resource contains information on Grading rubric for systems problem.
-type: courses
+type: course
 layout: pdf
 uid: 9bcee7259095679b6871d2579aaca085
 file_type: application/pdf

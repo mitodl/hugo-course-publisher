@@ -341,6 +341,6 @@ transcript: >-
   m='213590'>a</span> <span m='213640'>one-line</span> <span
   m='214110'>proof.</span> </p>
 uid: 342201e5e547efd164508f843c853bea
-type: courses
+type: course
 layout: video
 ---

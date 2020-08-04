@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 2: Minimal Surface Area of a Box: Implicit   Differentiation'
 transcript: ''
 uid: 86818551bc8fbba355e85f6069468d41
-type: courses
+type: course
 layout: video
 ---

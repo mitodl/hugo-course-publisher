@@ -835,6 +835,6 @@ transcript: >-
   m='678550'>that's</span> <span m='679370'>it.</span> <span m='679700'>I'll
   stop there.</span> </p>
 uid: 5a3ddda222486dbe2ef8334fbef0d0e8
-type: courses
+type: course
 layout: video
 ---

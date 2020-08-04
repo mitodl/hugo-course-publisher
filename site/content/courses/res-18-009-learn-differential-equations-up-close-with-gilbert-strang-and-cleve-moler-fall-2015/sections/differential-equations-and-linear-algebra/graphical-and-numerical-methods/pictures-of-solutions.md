@@ -1225,6 +1225,6 @@ transcript: >-
   m='1252130'>you</span> <span m='1252970'>the</span> <span
   m='1253110'>derivative.</span> <span m='1254650'>Thanks.</span> </p>
 uid: ad0ede524034111d755f893b77c8ce7a
-type: courses
+type: course
 layout: video
 ---

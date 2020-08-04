@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Oxidation-Reduction and
   Electrochemical Cells.
-type: courses
+type: course
 layout: pdf
 uid: f0a331b2c7f9252921028362eb487287
 file_type: application/pdf

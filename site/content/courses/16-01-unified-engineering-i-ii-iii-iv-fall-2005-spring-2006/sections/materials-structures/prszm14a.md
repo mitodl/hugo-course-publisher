@@ -1,7 +1,7 @@
 ---
 title: prszm14a.pdf
 description: This resource contains concept questions and answers based on shear stress.
-type: courses
+type: course
 layout: pdf
 uid: 809d95e76ca220f92b4c2e9549d2233a
 file_type: application/pdf

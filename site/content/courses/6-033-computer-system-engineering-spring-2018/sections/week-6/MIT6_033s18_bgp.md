@@ -1,7 +1,7 @@
 ---
 title: 'Computer System Engineering, BGP Routing'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: fcf7a1c903920c1f03b485ee143bdeaa
 file_type: application/pdf

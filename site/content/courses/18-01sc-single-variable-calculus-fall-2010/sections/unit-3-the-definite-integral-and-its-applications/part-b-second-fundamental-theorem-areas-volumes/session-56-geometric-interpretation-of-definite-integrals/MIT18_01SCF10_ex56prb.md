@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex56prb.pdf
 description: This resource contains problem statements related area of smile.
-type: courses
+type: course
 layout: pdf
 uid: a57dc0ba7d7df8fec4c7bb53acc3f9d1
 file_type: application/pdf

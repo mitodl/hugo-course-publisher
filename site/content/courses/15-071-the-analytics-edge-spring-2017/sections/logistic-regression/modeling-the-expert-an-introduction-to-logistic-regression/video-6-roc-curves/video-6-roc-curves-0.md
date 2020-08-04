@@ -522,6 +522,6 @@ transcript: >-
   m='476422'>of</span> <span m='476838'>our</span> <span
   m='477254'>model.</span> </p>
 uid: 6b84313fbeb78cbe52d63413bfb5bb01
-type: courses
+type: course
 layout: video
 ---

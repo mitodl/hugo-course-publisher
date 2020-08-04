@@ -215,6 +215,6 @@ transcript: >-
   equal, and they're just two different</span> <span
   m="602650">alternatives.</span></p><p>&nbsp;</p>
 uid: 2cbf23216ac3b04536743aee1e0fa934
-type: courses
+type: course
 layout: video
 ---

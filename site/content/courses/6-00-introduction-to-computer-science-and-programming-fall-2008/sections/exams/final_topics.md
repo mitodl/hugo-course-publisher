@@ -1,7 +1,7 @@
 ---
 title: 'Topics Covered in 6.00, Fall 2008'
 description: List of topics covered in the final exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: 32b8dbf34c23f84dc405cf64d62455f1
 file_type: application/pdf

@@ -8,7 +8,7 @@ description: >-
   field off the symmetry axis of a current loop, appendix 2: helmholtz coils,
   problem-solving strategies, solved problems, conceptual questions, and
   additional problems.
-type: courses
+type: course
 layout: pdf
 uid: 378f66ab154c54f34f58ab72fbcf9414
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Problems: Non-independent Variables'
 description: This resource contains information regarding non-independent variables.
-type: courses
+type: course
 layout: pdf
 uid: eae43e99915ca70c4545b1e4d694dbbd
 file_type: application/pdf

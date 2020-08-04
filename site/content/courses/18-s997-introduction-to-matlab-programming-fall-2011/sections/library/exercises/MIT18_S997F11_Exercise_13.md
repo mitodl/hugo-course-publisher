@@ -1,7 +1,7 @@
 ---
 title: '18.S997 Vectorization: Exercise 13'
 description: This resource contains information regarding exercise 13.
-type: courses
+type: course
 layout: pdf
 uid: 520a60c4fbd62ec1acb37afa457808a8
 file_type: application/pdf

@@ -659,6 +659,6 @@ transcript: >-
   m='632840'>this</span> <span m='633080'>in</span> <span m='633170'>the</span>
   <span m='633230'>future.</span> </p>
 uid: 01e581a81cba3b530d297eb44635a452
-type: courses
+type: course
 layout: video
 ---

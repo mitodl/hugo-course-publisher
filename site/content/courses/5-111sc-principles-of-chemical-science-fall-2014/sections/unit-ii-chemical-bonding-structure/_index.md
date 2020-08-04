@@ -1,11 +1,11 @@
 ---
 title: 'Unit II: Chemical Bonding & Structure'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: course_section
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 89ed642b22037e567593c80ff35cb3f4
-    type: section
-    layout: section
     name: 'Unit II: CHEMICAL BONDING & STRUCTURE'
     weight: 110
 ---

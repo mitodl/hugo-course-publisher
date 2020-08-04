@@ -3,7 +3,7 @@ title: f15_ps05_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on shock
   waves.
-type: courses
+type: course
 layout: pdf
 uid: 57ded071cbc91bd9b9fbf68f796f4399
 file_type: application/pdf

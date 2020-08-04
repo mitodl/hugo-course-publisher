@@ -3,7 +3,7 @@ title: '18.02SC Problems : Fundamental Theorem for Line Integrals'
 description: >-
   This resource contains information regarding fundamental theorem for line
   integrals.
-type: courses
+type: course
 layout: pdf
 uid: 0e5255d3c80f8330cdf0de8baac68c83
 file_type: application/pdf

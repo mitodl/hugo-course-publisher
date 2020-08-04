@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 15-401-finance-theory-i-fall-2008
 course_title: Finance Theory I
 course_image_url: >-

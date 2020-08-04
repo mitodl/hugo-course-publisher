@@ -4563,6 +4563,6 @@ transcript: >-
   m='4695180'>time</span> <span m='4695280'>with</span> <span
   m='4695380'>this</span> <span m='4695480'>stuff.</span> </p>
 uid: 3ab159732cf8753652d2c1ff154f1a4a
-type: courses
+type: course
 layout: video
 ---

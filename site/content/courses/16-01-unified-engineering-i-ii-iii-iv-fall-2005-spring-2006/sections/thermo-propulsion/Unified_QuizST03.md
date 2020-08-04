@@ -1,7 +1,7 @@
 ---
 title: Unified_QuizST03.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 052daa2a5fc3d199482b786e31a5e3f0
 file_type: application/pdf

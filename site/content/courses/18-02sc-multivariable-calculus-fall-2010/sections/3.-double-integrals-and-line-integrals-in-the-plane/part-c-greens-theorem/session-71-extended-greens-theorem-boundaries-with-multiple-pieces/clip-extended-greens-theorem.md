@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip: Extended Green''s Theorem'
 transcript: ''
 uid: e591b229b09d3f28463effbaf38a5507
-type: courses
+type: course
 layout: video
 ---

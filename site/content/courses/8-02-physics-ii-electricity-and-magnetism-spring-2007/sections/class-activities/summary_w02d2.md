@@ -1,7 +1,7 @@
 ---
 title: summary_w02d2.pdf
 description: 'This resource is about electric potential, equipotentials.'
-type: courses
+type: course
 layout: pdf
 uid: 0ec98a8ce7e9369f18a726cbe0a745c2
 file_type: application/pdf

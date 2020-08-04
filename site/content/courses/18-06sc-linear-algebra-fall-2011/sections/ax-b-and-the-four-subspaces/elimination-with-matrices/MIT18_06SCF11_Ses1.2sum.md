@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses1.2sum.pdf
 description: This resource contains information related to elimination with matrices.
-type: courses
+type: course
 layout: pdf
 uid: 0903b4b404284cd14b66ecccea103fd4
 file_type: application/pdf

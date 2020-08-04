@@ -107,6 +107,6 @@ transcript: >-
   m='46470'>in</span> <span m='46897'>coming</span> <span
   m='47323'>years.</span> </p>
 uid: 8c8bd8ddf7f5fa5a4df65ac0721ca708
-type: courses
+type: course
 layout: video
 ---

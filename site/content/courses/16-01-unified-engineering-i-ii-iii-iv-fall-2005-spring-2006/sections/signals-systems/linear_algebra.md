@@ -3,7 +3,7 @@ title: linear_algebra.pdf
 description: >-
   This file discusses about elimination of variables, gaussian reduction,
   Cramer?s rule and determinants.
-type: courses
+type: course
 layout: pdf
 uid: 6d6cf6d6a9f398b71ad950c7fd3d0adf
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: f05_ps02_spring04.pdf
 description: >-
   This resource contains the problem set based on the downwash velocity for a
   rectangular wing.
-type: courses
+type: course
 layout: pdf
 uid: 80fecf56c257d4f391eb9564ad7e18fc
 file_type: application/pdf

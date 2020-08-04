@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex57prb.pdf
 description: This resource contains problem statements related to revolution about x-axis.
-type: courses
+type: course
 layout: pdf
 uid: d06918b918ec707d6923f240d8d9803e
 file_type: application/pdf

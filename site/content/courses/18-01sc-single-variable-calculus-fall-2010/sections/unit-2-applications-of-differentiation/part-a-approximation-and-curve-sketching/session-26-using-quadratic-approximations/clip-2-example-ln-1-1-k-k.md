@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Example: ln((1+1/k)k)'
 transcript: ''
 uid: 29732684216dba55e2decbb66af279d3
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: p01_ps09_spring04.pdf
 description: This resource contains problem set based on thrust of the engine.
-type: courses
+type: course
 layout: pdf
 uid: cf0a59b575e24fa89d5dfd343b5ef805
 file_type: application/pdf

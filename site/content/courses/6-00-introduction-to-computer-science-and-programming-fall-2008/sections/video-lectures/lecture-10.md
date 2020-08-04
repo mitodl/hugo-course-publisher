@@ -3662,6 +3662,6 @@ transcript: >-
   m='2775800'>are</span> <span m='2775920'>a</span> <span m='2776090'>good
   thing</span> <span m='2776310'>to use.</span> </p>
 uid: 8fb79950ff59e6898e46bd7cfa647f89
-type: courses
+type: course
 layout: video
 ---

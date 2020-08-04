@@ -1,7 +1,7 @@
 ---
 title: Exam 2
 description: Second exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: daea3cad537fab8e3d158209d75fb407
 file_type: application/pdf

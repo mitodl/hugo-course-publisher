@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses3.5sum.pdf
 description: This resource contains information related to singular value decomposition.
-type: courses
+type: course
 layout: pdf
 uid: d273f75ee2552a5c3c35ccab37e5edce
 file_type: application/pdf

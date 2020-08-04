@@ -774,6 +774,6 @@ transcript: >-
   m='601940'>constantly</span> <span m='602560'>and</span> <span
   m='602860'>repeatedly.</span> </p>
 uid: 979a01f9f701fdf06c70ba22ba86fe68
-type: courses
+type: course
 layout: video
 ---

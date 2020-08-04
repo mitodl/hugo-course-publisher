@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Slope of ax at 0'
 transcript: ''
 uid: 8486afd8ccea362d200e30100ece5688
-type: courses
+type: course
 layout: video
 ---

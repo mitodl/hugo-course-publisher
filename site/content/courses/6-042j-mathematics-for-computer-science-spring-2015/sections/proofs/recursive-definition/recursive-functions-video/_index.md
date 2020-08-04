@@ -1,7 +1,7 @@
 ---
 title: 1.10 Recursive Definition
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Counting Cases]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/recursive-definition/counting-cases" %}})

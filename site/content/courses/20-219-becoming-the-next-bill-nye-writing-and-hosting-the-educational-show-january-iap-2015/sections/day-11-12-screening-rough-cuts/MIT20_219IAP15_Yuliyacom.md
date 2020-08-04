@@ -1,7 +1,7 @@
 ---
 title: Comments on Yuliya's Rough Cut
 description: This resource contains information regarding yuliya's rough cut.
-type: courses
+type: course
 layout: pdf
 uid: d258a936561ff1185517476f739b6230
 file_type: application/pdf

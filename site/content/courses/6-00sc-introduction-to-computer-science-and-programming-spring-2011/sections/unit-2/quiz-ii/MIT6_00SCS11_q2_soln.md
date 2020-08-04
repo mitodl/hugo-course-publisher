@@ -1,7 +1,7 @@
 ---
 title: 6.00SC Quiz 2 Solutions
 description: This resource contains information about quiz 2 solutions.
-type: courses
+type: course
 layout: pdf
 uid: 28b623fb982881ab483103bd72636478
 file_type: application/pdf

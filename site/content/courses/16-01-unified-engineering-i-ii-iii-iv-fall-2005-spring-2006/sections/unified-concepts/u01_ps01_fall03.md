@@ -1,7 +1,7 @@
 ---
 title: u01_ps01_fall03.pdf
 description: This file contains an exercise question on Problem U1. (Range Equation).
-type: courses
+type: course
 layout: pdf
 uid: d15ad8304c61eab3843825d78ceb4fe4
 file_type: application/pdf

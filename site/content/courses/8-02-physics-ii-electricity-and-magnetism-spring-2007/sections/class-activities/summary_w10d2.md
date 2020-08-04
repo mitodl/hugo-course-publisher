@@ -1,7 +1,7 @@
 ---
 title: summary_w10d2.pdf
 description: This resource is about what we expect from you on the exam.
-type: courses
+type: course
 layout: pdf
 uid: 15c89b737e7fbda13b95ff31b92e29b8
 file_type: application/pdf

@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip: Exchanging the Order of Integration'
 transcript: ''
 uid: 563c7e72868c85756d398ae98bcad77e
-type: courses
+type: course
 layout: video
 ---

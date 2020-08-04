@@ -3,7 +3,7 @@ title: 5.111 F14 Exam 3 Equation Sheet
 description: >-
   This resource contains information regarding principles of chemical science:
   Exam 3 equation sheet.
-type: courses
+type: course
 layout: pdf
 uid: 90772b2c0e019022ac714264af2afa22
 file_type: application/pdf

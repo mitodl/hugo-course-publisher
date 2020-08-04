@@ -1,7 +1,7 @@
 ---
 title: q2f.pdf
 description: Quiz on fluid problems.
-type: courses
+type: course
 layout: pdf
 uid: 97b7295e75b93c3fa5b56b10006bb8b3
 file_type: application/pdf

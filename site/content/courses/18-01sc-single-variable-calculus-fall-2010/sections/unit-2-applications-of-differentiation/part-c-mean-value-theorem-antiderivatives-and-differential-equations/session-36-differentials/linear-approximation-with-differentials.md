@@ -397,6 +397,6 @@ transcript: >-
   right,</span> <span m='332750'>so</span> <span m='332920'>that's</span> <span
   m='333150'>that.</span> </p>
 uid: 1892d4decd244627b65988bcabd7bb9c
-type: courses
+type: course
 layout: video
 ---

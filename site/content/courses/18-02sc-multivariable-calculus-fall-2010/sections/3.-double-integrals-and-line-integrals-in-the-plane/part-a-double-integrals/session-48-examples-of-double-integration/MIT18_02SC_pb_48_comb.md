@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Problems: Regions of Integration'
 description: This resource contains information regarding regions of integration.
-type: courses
+type: course
 layout: pdf
 uid: 5dc8551962fec09ae8a45c774a506d47
 file_type: application/pdf

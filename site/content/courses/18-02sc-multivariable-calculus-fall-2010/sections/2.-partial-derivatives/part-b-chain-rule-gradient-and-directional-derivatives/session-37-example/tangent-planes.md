@@ -606,6 +606,6 @@ transcript: >-
   m='538850'>So</span> <span m='539070'>I'll</span> <span m='539200'>stop</span>
   <span m='539520'>there.</span> </p>
 uid: 8178b0890c9d24c5b8fb9155e19a09ce
-type: courses
+type: course
 layout: video
 ---

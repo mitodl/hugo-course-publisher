@@ -1,7 +1,7 @@
 ---
 title: 'Session 19: Velocity and Acceleration'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-type: courses
+type: course
 layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-18-point-cusp-on-cycloid/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-20-velocity-and-arc-length/_index.md" %}}) »

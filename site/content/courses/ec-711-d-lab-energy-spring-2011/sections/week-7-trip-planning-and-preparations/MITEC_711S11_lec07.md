@@ -1,7 +1,7 @@
 ---
 title: Lecture 7 slides
 description: This resource contains information regarding lecture 7 slides.
-type: courses
+type: course
 layout: pdf
 uid: 4dd64dddf4dbaa81899a7f676b0d931c
 file_type: application/pdf

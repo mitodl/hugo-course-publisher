@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_lec17.pdf
 description: This resource contains information related to interpolation.
-type: courses
+type: course
 layout: pdf
 uid: 8d5b8d4542cb5981605e26501d260517
 file_type: application/pdf

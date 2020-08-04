@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex91prb.pdf
 description: This resource contains problem statements related to improper integrals.
-type: courses
+type: course
 layout: pdf
 uid: a66fcfeb7409639c6cce6ad67831c25c
 file_type: application/pdf

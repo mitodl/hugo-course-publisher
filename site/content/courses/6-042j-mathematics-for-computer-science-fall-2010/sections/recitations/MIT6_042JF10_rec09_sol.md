@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_rec09_sol.pdf
 description: 'This resource contains solutions of traveling salesperson problem. '
-type: courses
+type: course
 layout: pdf
 uid: 000384de70214ce860b45a5c3fc4ba6b
 file_type: application/pdf

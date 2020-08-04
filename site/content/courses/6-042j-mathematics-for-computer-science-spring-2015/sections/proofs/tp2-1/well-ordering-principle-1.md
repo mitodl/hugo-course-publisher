@@ -477,6 +477,6 @@ transcript: >-
   m='332870'>expressed</span> <span m='333470'>in</span> <span
   m='333630'>lowest</span> <span m='334010'>terms.</span> </p>
 uid: d9581b2628670fdea72eba2c5d0383b4
-type: courses
+type: course
 layout: video
 ---

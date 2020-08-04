@@ -1,7 +1,7 @@
 ---
 title: 11for_while_loop.pdf
 description: Lecture 11 (2003) presentation.
-type: courses
+type: course
 layout: pdf
 uid: c1746d6b390c043e9dc076002e9eeeec
 file_type: application/pdf

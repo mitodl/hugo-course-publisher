@@ -1,6 +1,8 @@
 ---
 title: 2.1  GCDs
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Divisors]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/vertical-70eb5a2913c0" %}})
 *   [2.1.1GCDs & Linear Combinations: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/_index.md" %}})

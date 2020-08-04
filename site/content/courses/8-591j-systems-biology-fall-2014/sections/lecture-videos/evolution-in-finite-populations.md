@@ -4724,6 +4724,6 @@ transcript: >-
   m="4853100">otherwise</span> <span m="4854000">accumulate</span> <span
   m="4854300">in the</span> <span m="4854600">population.</span></p>
 uid: 0a5eef946f4006ee8fb84f80badfd67e
-type: courses
+type: course
 layout: video
 ---

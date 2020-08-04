@@ -1,7 +1,7 @@
 ---
 title: 'Trees: Spanning Trees'
 description: This file contains information regarding spanning trees.
-type: courses
+type: course
 layout: pdf
 uid: 1df1fa1cb3b2d9e9f0b985e6c3fdc24a
 file_type: application/pdf

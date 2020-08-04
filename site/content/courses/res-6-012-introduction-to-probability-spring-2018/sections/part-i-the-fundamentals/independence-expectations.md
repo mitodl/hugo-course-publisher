@@ -118,6 +118,6 @@ transcript: >-
   <span m="257100">expected value of g of X times the expected value of h of
   Y.</span></p>
 uid: 0e8be2bea6c608f6d162c352f0c08d97
-type: courses
+type: course
 layout: video
 ---

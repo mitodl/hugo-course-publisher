@@ -604,6 +604,6 @@ transcript: >-
   m='462230'>JOSHUA GUNN: Awareness</span> <span m='462530'>of</span> <span
   m='462830'>an</span> <span m='463130'>audience.</span> </p>
 uid: f079282df10abc025d05341dd52e2d8a
-type: courses
+type: course
 layout: video
 ---

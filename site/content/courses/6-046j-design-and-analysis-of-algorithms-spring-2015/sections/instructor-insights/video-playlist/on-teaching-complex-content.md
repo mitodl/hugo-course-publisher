@@ -340,6 +340,6 @@ transcript: >-
   <span m='220150'>semester,</span> <span m='221350'>they</span> <span
   m='221460'>get</span> <span m='221760'>there.</span> </p>
 uid: 6d1731c95f41d5c803dfac5d90e5d19d
-type: courses
+type: course
 layout: video
 ---

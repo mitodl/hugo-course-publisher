@@ -1,7 +1,7 @@
 ---
 title: 18.S997 Project 3
 description: 'This resource contains information regarding project 3. '
-type: courses
+type: course
 layout: pdf
 uid: 962800729194ff0b9b61fa78ce4f362c
 file_type: application/pdf

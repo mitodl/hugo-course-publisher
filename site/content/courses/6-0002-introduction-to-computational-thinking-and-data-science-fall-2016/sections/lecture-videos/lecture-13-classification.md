@@ -2950,6 +2950,6 @@ transcript: >-
   m="2983230">I'll</span> <span m="2983560">see</span> <span
   m="2983770">you</span> <span m="2983890">then.</span></p>
 uid: 2b093ef50c5f66e3716e8e495b5ba072
-type: courses
+type: course
 layout: video
 ---

@@ -1,11 +1,11 @@
 ---
 title: Readings
 course_id: 6-042j-mathematics-for-computer-science-fall-2010
+type: course
+layout: course_section
 menu:
   6-042j-mathematics-for-computer-science-fall-2010:
     identifier: 128af59a73713799436bb5af64143a22
-    type: section
-    layout: section
     name: Readings
     weight: 30
 ---

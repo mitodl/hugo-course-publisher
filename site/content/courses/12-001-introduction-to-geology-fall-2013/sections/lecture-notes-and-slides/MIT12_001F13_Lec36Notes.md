@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 36 Notes: Comparative Planetology'
 description: This is a file that contains information regarding comparitive planetology.
-type: courses
+type: course
 layout: pdf
 uid: 46af56797a1dfd6bdd111a36a87ccc0b
 file_type: application/pdf

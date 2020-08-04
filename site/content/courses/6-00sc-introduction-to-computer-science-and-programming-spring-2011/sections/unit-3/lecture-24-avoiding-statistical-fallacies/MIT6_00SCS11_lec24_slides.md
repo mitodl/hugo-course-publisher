@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 24 slides: Avoiding Statistical Fallacies'
 description: This resource contains information related to avoiding statistical fallacies.
-type: courses
+type: course
 layout: pdf
 uid: 83f72e388342769c489ca880346f5869
 file_type: application/pdf

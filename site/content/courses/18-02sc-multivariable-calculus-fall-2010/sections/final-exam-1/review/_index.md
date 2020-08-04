@@ -1,11 +1,11 @@
 ---
 title: Review
 course_id: 18-02sc-multivariable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: d16553d30b552bab87a460f03b2e6366
-    type: section
-    layout: section
     name: Review
     weight: 1430
     parent: dd6fb5d90caac5e5061b3b20b27d5d15

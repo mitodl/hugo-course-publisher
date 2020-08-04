@@ -1,7 +1,7 @@
 ---
 title: '12.001 Introduction to Geology, Blank Chart for Metamorphic Rocks'
 description: This file contains information regarding blank chart for metamorphic rocks.
-type: courses
+type: course
 layout: pdf
 uid: 2c4f3e1ab6f372c79a3816e81f787507
 file_type: application/pdf

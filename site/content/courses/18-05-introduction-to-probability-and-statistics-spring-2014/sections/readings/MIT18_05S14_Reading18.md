@@ -3,7 +3,7 @@ title: 'Reading 18: Null Hypothesis Significance Testing II'
 description: >-
   This is a resource file that contains information regarding reading 18: null
   hypothesis significance testing II.
-type: courses
+type: course
 layout: pdf
 uid: fb9bdc8ea76dcbb4da3fba11a6eb0ab7
 file_type: application/pdf

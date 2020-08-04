@@ -1,7 +1,7 @@
 ---
 title: demo_23.pdf
 description: This resource contains domonstration on resonant LC circuit.
-type: courses
+type: course
 layout: pdf
 uid: 6c083e5c1e2a184afa76806a70889ce7
 file_type: application/pdf

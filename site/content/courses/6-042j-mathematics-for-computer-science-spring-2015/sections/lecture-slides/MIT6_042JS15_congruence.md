@@ -1,7 +1,7 @@
 ---
 title: 'Congruences: Congruence Mod N'
 description: This file contains information regarding congruence Mod N.
-type: courses
+type: course
 layout: pdf
 uid: e71c765cfc3bc8194dac5979d560b9e3
 file_type: application/pdf

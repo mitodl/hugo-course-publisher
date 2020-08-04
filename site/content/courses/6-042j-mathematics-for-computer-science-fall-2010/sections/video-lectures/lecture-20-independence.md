@@ -4881,6 +4881,6 @@ transcript: >-
   m='4916750'>done</span> <span m='4917030'>for</span> <span
   m='4917160'>today.</span> </p>
 uid: 8e18030450f67e1dd860281e4c93b825
-type: courses
+type: course
 layout: video
 ---

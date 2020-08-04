@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Flux Through General Surfaces'
 description: This resource contains information regarding flux through general surfaces.
-type: courses
+type: course
 layout: pdf
 uid: 957b1c66cf1fb2e465c73195972130bc
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_manual8.pdf
 description: 'This resource contains information related to applications of the integral. '
-type: courses
+type: course
 layout: pdf
 uid: 6a0171965e1998c472ff1cfc8240ea86
 file_type: application/pdf

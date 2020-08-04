@@ -3,7 +3,7 @@ title: f10_ps11_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem on
   streamline shapes of the 2-D velocity field, and pressure gradient.
-type: courses
+type: course
 layout: pdf
 uid: d48d0f4eb5996fddbeae1ec7993c187e
 file_type: application/pdf

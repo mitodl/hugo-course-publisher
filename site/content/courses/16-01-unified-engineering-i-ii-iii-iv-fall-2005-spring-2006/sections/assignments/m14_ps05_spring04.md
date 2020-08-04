@@ -3,7 +3,7 @@ title: m14_ps05_spring04.pdf
 description: >-
   This resource contains problems based on allowable load, lateral central
   deflection, and critical buckling load.
-type: courses
+type: course
 layout: pdf
 uid: 20c86f5de9611d6b1c1452bcf176255f
 file_type: application/pdf

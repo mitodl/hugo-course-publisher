@@ -4585,6 +4585,6 @@ transcript: >-
   m="4796760">forced</span> <span m="4797170">oscillators.</span> <span
   m="4799570">All right?</span> <span m="4799870">Thank you.</span></p>
 uid: e2dd12c901f337c0c04d838e1199faca
-type: courses
+type: course
 layout: video
 ---

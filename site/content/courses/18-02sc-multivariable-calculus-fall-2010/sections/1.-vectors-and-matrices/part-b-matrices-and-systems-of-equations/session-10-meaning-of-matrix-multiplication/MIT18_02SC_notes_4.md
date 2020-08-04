@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_4.pdf
 description: This resource contains information related to matrix multiplication.
-type: courses
+type: course
 layout: pdf
 uid: e6f05e8dd95b31f2dc80fe3b5a6a955f
 file_type: application/pdf

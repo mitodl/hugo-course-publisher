@@ -3538,6 +3538,6 @@ transcript: >-
   m="3181660">run</span> <span m="3181930">these</span> <span
   m="3182140">reactions.</span></p>
 uid: 9200a8f2b955387713821f4beaced19a
-type: courses
+type: course
 layout: video
 ---

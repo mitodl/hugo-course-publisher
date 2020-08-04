@@ -1,6 +1,8 @@
 ---
 title: Problem Set 1
 course_id: 18-01sc-single-variable-calculus-fall-2010
+type: course
+layout: course_section
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-12-higher-derivatives/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/_index.md" %}}) »
 

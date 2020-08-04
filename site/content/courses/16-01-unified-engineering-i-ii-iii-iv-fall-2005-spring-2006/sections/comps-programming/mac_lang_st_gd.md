@@ -1,7 +1,7 @@
 ---
 title: mac_lang_st_gd.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 66bafee6f77784b322dfc8351976f14f
 file_type: application/pdf

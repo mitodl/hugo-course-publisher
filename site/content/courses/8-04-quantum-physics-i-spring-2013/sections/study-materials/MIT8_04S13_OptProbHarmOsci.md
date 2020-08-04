@@ -3,7 +3,7 @@ title: '8.04 Quantum Physics, Optional Problems on the Harmonic Oscillator'
 description: >-
   This resource contains information related to optional problems on the
   harmonic oscillator.
-type: courses
+type: course
 layout: pdf
 uid: 2f51c056ceb53bff855bacf0eea2d4b0
 file_type: application/pdf

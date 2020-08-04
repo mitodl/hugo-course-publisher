@@ -40,6 +40,6 @@ technical_location: >-
 title: 'Project Presentations 2: Trip Reports'
 transcript: ''
 uid: e4f8943812dd19d773d1a4360f2dfa01
-type: courses
+type: course
 layout: video
 ---

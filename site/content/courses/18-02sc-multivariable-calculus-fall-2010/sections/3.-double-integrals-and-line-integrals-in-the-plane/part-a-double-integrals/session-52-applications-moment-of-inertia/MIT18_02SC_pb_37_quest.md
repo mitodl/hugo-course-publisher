@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_37_quest.pdf
 description: 'This resource contains problem sets related to moment of inertia. '
-type: courses
+type: course
 layout: pdf
 uid: aa19eb97ed091f9954395208d73c1a65
 file_type: application/pdf

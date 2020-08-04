@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_guide2.pdf
 description: 'This resource contains information related to derivatives. '
-type: courses
+type: course
 layout: pdf
 uid: bafde944ad741f645871580576e40604
 file_type: application/pdf

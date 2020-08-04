@@ -3001,6 +3001,6 @@ transcript: >-
   m="2949790">to</span> <span m="2949940">an</span> <span
   m="2950060">end.</span></p>
 uid: fe7432090d3f0ab259746a105ebe5f63
-type: courses
+type: course
 layout: video
 ---

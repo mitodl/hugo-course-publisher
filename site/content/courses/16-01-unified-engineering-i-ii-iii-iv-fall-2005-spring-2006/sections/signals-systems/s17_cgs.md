@@ -1,7 +1,7 @@
 ---
 title: s17_cgs.pdf
 description: Concept questions on Fourier Transform of Complex Exponential.
-type: courses
+type: course
 layout: pdf
 uid: 36b10f3e0dd385d6037ea01baadfcad5
 file_type: application/pdf

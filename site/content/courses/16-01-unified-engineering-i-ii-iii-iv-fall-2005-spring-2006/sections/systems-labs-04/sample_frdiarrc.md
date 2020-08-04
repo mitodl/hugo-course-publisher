@@ -1,7 +1,7 @@
 ---
 title: sample_frdiarrc.pdf
 description: Sample lab report table.
-type: courses
+type: course
 layout: pdf
 uid: 4db43a3fa76ba8ad1ef84d550b629095
 file_type: application/pdf

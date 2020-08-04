@@ -1268,6 +1268,6 @@ transcript: >-
   m='1366040'>axis.</span> <span m='1367150'>Thank</span> <span
   m='1367400'>you.</span> </p>
 uid: 9f8a54daa2c0fc079a4d42b036a54012
-type: courses
+type: course
 layout: video
 ---

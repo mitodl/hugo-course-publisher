@@ -97,6 +97,6 @@ transcript: >-
   center of mass</span> <span m='86460'>to the radius and the rotational angular
   velocity.</span> </p><p></p>
 uid: 714c927ad43269e3e5004745cfc06b82
-type: courses
+type: course
 layout: video
 ---

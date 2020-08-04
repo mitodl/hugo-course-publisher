@@ -1,7 +1,7 @@
 ---
 title: 6.033 DNS Critique Worksheet 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 40c59cdf5cc3002f4f5752bcd63188fe
 file_type: application/pdf

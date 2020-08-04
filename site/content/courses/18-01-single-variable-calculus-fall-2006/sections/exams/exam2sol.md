@@ -1,7 +1,7 @@
 ---
 title: Exam 2 Solutions
 description: Solutions to the second exam of the semester.
-type: courses
+type: course
 layout: pdf
 uid: 2b26407260f12f6c1babf3078d1be635
 file_type: application/pdf

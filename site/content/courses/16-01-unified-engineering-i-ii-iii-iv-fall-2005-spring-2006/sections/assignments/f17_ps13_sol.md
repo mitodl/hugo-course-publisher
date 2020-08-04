@@ -3,7 +3,7 @@ title: f17_ps13_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on
   vortex flow and uniform flow.
-type: courses
+type: course
 layout: pdf
 uid: c249434ac9abf445daff18ca6bad415e
 file_type: application/pdf

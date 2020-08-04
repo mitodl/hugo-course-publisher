@@ -3,7 +3,7 @@ title: hw1.pdf
 description: >-
   This resource discusses about voltage across and the current through each
   element in the network and polarity of the voltages.
-type: courses
+type: course
 layout: pdf
 uid: ab181ec7aec9431046763e8dd8f55286
 file_type: application/pdf

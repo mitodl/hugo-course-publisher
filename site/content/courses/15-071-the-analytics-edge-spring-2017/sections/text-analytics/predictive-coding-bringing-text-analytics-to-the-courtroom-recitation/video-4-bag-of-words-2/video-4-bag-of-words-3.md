@@ -215,6 +215,6 @@ transcript: >-
   m='145860'>the</span> <span m='146563'>outcome</span> <span
   m='147266'>variable.</span> </p>
 uid: 73969d4c90251c4460878d4aaaa03de3
-type: courses
+type: course
 layout: video
 ---

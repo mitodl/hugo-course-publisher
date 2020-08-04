@@ -1,16 +1,14 @@
 ---
 title: Problem Solving
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 3c3069d4e0edfe69ce4f6de217d649a5
-    type: section
-    layout: section
     name: Problem Solving
     weight: 70
     parent: 975ad7bfdd9c4ffe26b6710fa718d5e6
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-2-core-elements-of-a-program/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-4-machine-interpretation-of-a-program/_index.md" %}}) »
 

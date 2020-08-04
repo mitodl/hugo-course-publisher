@@ -1,7 +1,7 @@
 ---
 title: sp4_notes.pdf
 description: This resource contains information on diagrams for water bottle rocket lab 1.
-type: courses
+type: course
 layout: pdf
 uid: a157a1125a8d91244769504d630eedcf
 file_type: application/pdf

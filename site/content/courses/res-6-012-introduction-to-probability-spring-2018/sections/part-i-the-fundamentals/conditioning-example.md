@@ -103,6 +103,6 @@ transcript: >-
   which is not too hard to evaluate, and</span> <span m='182920'>there's no
   point in carrying out the evaluation to the end.</span> </p><p></p>
 uid: d650aa643493fafc25aab5e948418693
-type: courses
+type: course
 layout: video
 ---

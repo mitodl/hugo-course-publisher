@@ -1,11 +1,11 @@
 ---
 title: 'Part C: Line Integrals and Stokes'' Theorem'
 course_id: 18-02sc-multivariable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: 55dd338036332e8cfa4236beffad3294
-    type: section
-    layout: section
     name: 'Part C: Line Integrals and Stokes'' Theorem'
     weight: 1240
     parent: 80a7ff20650c3af9a002f822edced8a0

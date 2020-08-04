@@ -180,6 +180,6 @@ transcript: >-
   m='561330'>Is this always the case for any Markov chains?</span> </p><p><span
   m='564640'>Let us see.</span> </p>
 uid: 87364d02192b2acfe1a8631dc158abae
-type: courses
+type: course
 layout: video
 ---

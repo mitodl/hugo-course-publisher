@@ -5,7 +5,7 @@ description: >-
   application of a force, moment, force and moment, Unified Concepts, Thevinin
   and Norton equivalent circuits, and constitutive law for capacitors and
   inductors.
-type: courses
+type: course
 layout: pdf
 uid: a71c0252b68480e8abb955cd8c3cd940
 file_type: application/pdf

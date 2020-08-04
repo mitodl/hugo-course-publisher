@@ -4243,6 +4243,6 @@ transcript: >-
   m='5143970'>structural</span> <span m='5144450'>relationships.</span> <span
   m='5147150'>So we'll finish</span> <span m='5147450'>there.</span> </p>
 uid: f2cea03b00faec530ca2ac8df352ce38
-type: courses
+type: course
 layout: video
 ---

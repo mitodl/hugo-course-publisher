@@ -3,7 +3,7 @@ title: 'GCDs: The Pulverizer'
 description: >-
   This resource contains information regarding mathematics for computer science,
   GCDs: The Pulverizer.
-type: courses
+type: course
 layout: pdf
 uid: ffe827551f88e996025960e05ae93082
 file_type: application/pdf

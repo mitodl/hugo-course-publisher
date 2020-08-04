@@ -6,7 +6,7 @@ description: >-
   only inductance; and (3) only capacitance, to examine these same relationships
   in the general case where R, L, and C are all present, and to do two sample
   problems on the LRC circuits.
-type: courses
+type: course
 layout: pdf
 uid: 5df72d7b916f753da20a6b075115612d
 file_type: application/pdf

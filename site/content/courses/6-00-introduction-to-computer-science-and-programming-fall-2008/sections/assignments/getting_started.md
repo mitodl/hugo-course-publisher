@@ -3,7 +3,7 @@ title: 'Getting Started: Python and IDLE'
 description: >-
   This recitation will cover how to set up Python and introduce you to IDLE, the
   Python development environment we will be using throughout this course. 
-type: courses
+type: course
 layout: pdf
 uid: b29f4dce1bad3a660842efb674f1c928
 file_type: application/pdf

@@ -783,6 +783,6 @@ transcript: >-
   m='826290'>to</span> <span m='826380'>seeing</span> <span
   m='826680'>you</span> <span m='826840'>soon.</span> </p>
 uid: 4e6de3b304265fd6e8076a4025962f5a
-type: courses
+type: course
 layout: video
 ---

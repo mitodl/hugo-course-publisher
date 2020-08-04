@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 11: Max/Min Problems'
 description: Lecture notes on maximum and minimum problems.
-type: courses
+type: course
 layout: pdf
 uid: 8896949be9dd22428b03e64dbcd990af
 file_type: application/pdf

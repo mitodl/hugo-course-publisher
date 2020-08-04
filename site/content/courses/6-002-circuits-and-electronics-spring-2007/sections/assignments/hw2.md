@@ -3,7 +3,7 @@ title: hw2.pdf
 description: >-
   This resource discusses about resistance, node method and matrix of
   conductance.
-type: courses
+type: course
 layout: pdf
 uid: 15878f74dcca61c4298c957999778bc0
 file_type: application/pdf

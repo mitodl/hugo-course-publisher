@@ -2535,6 +2535,6 @@ transcript: >-
   m="2919680">Rule.</span> <span m="2920640">OK,</span> <span m="2921120">see
   you</span> <span m="2921260">next</span> <span m="2921510">time.</span></p>
 uid: 64b70d00baa4a4f3ac740c815f607e9b
-type: courses
+type: course
 layout: video
 ---

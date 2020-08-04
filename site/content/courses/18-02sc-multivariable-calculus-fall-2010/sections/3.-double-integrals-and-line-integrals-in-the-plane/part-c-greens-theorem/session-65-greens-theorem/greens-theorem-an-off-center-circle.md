@@ -618,6 +618,6 @@ transcript: >-
   <span m='449770'>that's</span> <span m='449930'>where</span> <span
   m='450040'>I'll</span> <span m='450180'>stop.</span> </p>
 uid: 713b229c5331e8c6e80111454d292356
-type: courses
+type: course
 layout: video
 ---

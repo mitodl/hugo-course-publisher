@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses3c.pdf
 description: This resource contains information related to serivative as a rate of change.
-type: courses
+type: course
 layout: pdf
 uid: abb7e03ceca1497311d16b409e43676e
 file_type: application/pdf

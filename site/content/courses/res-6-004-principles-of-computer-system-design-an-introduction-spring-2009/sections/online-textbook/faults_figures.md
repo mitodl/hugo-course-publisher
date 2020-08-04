@@ -1,7 +1,7 @@
 ---
 title: faults_figures.pdf
 description: 'This resource contains slides of chapter 8 figures. '
-type: courses
+type: course
 layout: pdf
 uid: aafc5306d23570ffc787cbf624d15277
 file_type: application/pdf

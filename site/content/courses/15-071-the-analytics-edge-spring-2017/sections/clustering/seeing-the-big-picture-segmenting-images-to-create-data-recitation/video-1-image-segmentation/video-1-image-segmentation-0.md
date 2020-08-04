@@ -320,6 +320,6 @@ transcript: >-
   m='237503'>is</span> <span m='238025'>coming</span> <span m='238546'>up</span>
   <span m='239068'>soon.</span> </p>
 uid: 455b4cc258d4b076c4ab89c1978e246d
-type: courses
+type: course
 layout: video
 ---

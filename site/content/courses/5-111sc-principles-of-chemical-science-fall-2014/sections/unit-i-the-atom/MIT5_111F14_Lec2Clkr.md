@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Clicker Questions for Lecture 2: Atomic
   Structure
 description: This resource contains information regarding Atomic structure.
-type: courses
+type: course
 layout: pdf
 uid: c9fae6c161db1c8c165185fc484f7924
 file_type: application/pdf

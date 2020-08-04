@@ -827,6 +827,6 @@ transcript: >-
   m='778210'>I'll</span> <span m='778280'>see</span> <span m='778410'>you</span>
   <span m='778470'>next</span> <span m='778690'>time.</span> </p>
 uid: c5c4b500a5b5aed015960b79e54350ba
-type: courses
+type: course
 layout: video
 ---

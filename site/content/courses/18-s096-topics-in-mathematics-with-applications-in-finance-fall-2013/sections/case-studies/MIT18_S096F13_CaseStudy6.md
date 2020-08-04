@@ -1,7 +1,7 @@
 ---
 title: 'Case study 6: Portfolio Theory'
 description: This file contains information regarding case studies 6.
-type: courses
+type: course
 layout: pdf
 uid: f9775f1179d20bc788a0d1a623107a7b
 file_type: application/pdf

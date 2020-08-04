@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses1.5sol.pdf
 description: >-
   This resource contains solution to the problem sets related to transposes,
   permutations, spaces.
-type: courses
+type: course
 layout: pdf
 uid: 76bdb83fe7ac8f76eccd5c7c1849c50b
 file_type: application/pdf

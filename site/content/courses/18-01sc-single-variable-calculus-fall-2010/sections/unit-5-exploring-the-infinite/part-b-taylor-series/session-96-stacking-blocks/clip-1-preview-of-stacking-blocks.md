@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 1: Preview of Stacking Blocks'
 transcript: ''
 uid: a4017b4d8cdc5ccc232f9b0324e28381
-type: courses
+type: course
 layout: video
 ---

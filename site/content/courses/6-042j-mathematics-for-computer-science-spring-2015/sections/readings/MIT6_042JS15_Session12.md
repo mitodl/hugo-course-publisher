@@ -3,7 +3,7 @@ title: 'GCDs: Chapter 8.1 – 8.5'
 description: >-
   This resource contains information regarding mathematics for computer science:
   GCDs: Chapter 8.1 – 8.5.
-type: courses
+type: course
 layout: pdf
 uid: 9697958998608067df0f919a6f5afd46
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: f21_fall.pdf
 description: This resource contains information on the topic of Airfoil Polar Relations.
-type: courses
+type: course
 layout: pdf
 uid: 6a6b1a28eb43d704d251e1992fdb4a70
 file_type: application/pdf

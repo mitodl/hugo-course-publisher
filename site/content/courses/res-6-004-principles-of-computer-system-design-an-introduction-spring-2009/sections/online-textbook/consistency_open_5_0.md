@@ -1,7 +1,7 @@
 ---
 title: consistency_open_5_0.pdf
 description: 'This resource contains information related to consistency. '
-type: courses
+type: course
 layout: pdf
 uid: 4b85ec16d86e2963ace8e7c4b0fd71a6
 file_type: application/pdf

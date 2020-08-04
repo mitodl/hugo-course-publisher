@@ -193,6 +193,6 @@ transcript: >-
   that actually much smaller</span> <span m='487620'>values of n will be enough
   for our purposes.</span> </p><p></p>
 uid: 006eecb3db122ef9e4f498209ce394c3
-type: courses
+type: course
 layout: video
 ---

@@ -4,7 +4,7 @@ description: >-
   This resource contains review questions and answers based on rotating
   coordinate systems, maximum and minimum stress, mohr's circle and tensor from
   transformation.
-type: courses
+type: course
 layout: pdf
 uid: 45959732a28fb55a10ea68437cd5ca9e
 file_type: application/pdf

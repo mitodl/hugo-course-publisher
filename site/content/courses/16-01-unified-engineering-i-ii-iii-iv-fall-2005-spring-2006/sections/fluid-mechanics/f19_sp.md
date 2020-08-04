@@ -1,7 +1,7 @@
 ---
 title: f19_sp.pdf
 description: This resource contains information on the topic of Compressible Channel Flow.
-type: courses
+type: course
 layout: pdf
 uid: 80217e8347e981e23f90537042280b8c
 file_type: application/pdf

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Exponent Review'
 transcript: ''
 uid: 2c2a291f026babb2f0c3d54d796800dd
-type: courses
+type: course
 layout: video
 ---

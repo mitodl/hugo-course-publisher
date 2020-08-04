@@ -1,7 +1,7 @@
 ---
 title: Regularized Pricing and Risk Models
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 0d3edf3e95c22b1b217a0ec8b59d8ecc
 file_type: application/pdf

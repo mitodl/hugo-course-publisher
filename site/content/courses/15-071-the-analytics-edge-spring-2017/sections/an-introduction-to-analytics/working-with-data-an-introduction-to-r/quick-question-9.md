@@ -1,6 +1,8 @@
 ---
 title: '1.3 Working with Data: An Introduction to R '
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: course_section
 ---
 *   [<Video 3: Vectors and Data Frames]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-3-vectors-and-data-frames" %}})
 *   [1.3.1Download and Install R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/_index.md" %}})

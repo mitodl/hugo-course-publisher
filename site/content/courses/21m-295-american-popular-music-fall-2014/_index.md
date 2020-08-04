@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 21m-295-american-popular-music-fall-2014
 course_title: American Popular Music
 course_image_url: >-

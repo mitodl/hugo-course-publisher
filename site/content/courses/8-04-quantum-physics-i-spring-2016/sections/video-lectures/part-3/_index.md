@@ -1,16 +1,14 @@
 ---
 title: 'Part 3: One-dimensional Scattering, Angular Momentum, and Central Potentials'
 course_id: 8-04-quantum-physics-i-spring-2016
+type: course
+layout: videogallery
 menu:
   8-04-quantum-physics-i-spring-2016:
     identifier: 8d915edda01487758e5f16d04eeccd76
-    type: section
-    layout: section
     name: 'One-dimensional Scattering, Angular Momentum & Central Potentials'
     weight: 70
     parent: fd67230c637e4133bfc507ab35776015
-type: courses
-layout: videogallery
 ---
   
 | lec # | topics |

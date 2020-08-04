@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses65a.pdf
 description: 'This resource contains information about bell curve, conclusion.'
-type: courses
+type: course
 layout: pdf
 uid: 8f010974972c100f3627d4d7d55aca35
 file_type: application/pdf

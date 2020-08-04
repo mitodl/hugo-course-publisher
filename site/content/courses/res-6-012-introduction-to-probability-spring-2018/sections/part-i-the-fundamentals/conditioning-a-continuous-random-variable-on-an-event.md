@@ -222,6 +222,6 @@ transcript: >-
   replace summations with integrations.</span> </p><p><span m='590360'>And we
   replace PMFs by PDFs.</span> </p><p></p>
 uid: 840a0d32e569cb2a71cd912f06afc6d3
-type: courses
+type: course
 layout: video
 ---

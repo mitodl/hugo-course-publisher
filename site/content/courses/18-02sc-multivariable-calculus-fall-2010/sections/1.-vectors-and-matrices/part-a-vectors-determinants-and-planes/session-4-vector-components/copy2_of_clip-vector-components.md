@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Vector Components'
 transcript: ''
 uid: e10acdc3fbc159768686903dedf77788
-type: courses
+type: course
 layout: video
 ---

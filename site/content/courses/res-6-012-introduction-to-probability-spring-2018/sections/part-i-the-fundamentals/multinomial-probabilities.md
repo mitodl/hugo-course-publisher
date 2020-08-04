@@ -679,6 +679,6 @@ transcript: >-
   <span m='633060'>there</span> <span m='633240'>will</span> <span
   m='633450'>be.</span> </p>
 uid: c2134060f9af5b5e1078061d1cf1788e
-type: courses
+type: course
 layout: video
 ---

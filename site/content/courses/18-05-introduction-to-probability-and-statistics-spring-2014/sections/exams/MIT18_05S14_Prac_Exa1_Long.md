@@ -1,7 +1,7 @@
 ---
 title: 'Exam 1 Practice Questions: Long List'
 description: This is a resource file that contains information regarding long list.
-type: courses
+type: course
 layout: pdf
 uid: be09142a58bb780dee7502115ee1f4b9
 file_type: application/pdf

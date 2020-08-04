@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses1.1sol.pdf
 description: >-
   This resource contains solution to the problem sets related to the geometry of
   linear equations.
-type: courses
+type: course
 layout: pdf
 uid: 290a5d857d2a51bf21d4eebf05905620
 file_type: application/pdf

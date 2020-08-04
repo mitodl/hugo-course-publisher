@@ -240,6 +240,6 @@ transcript: >-
   way, construct a complete time history</span> <span m='630710'>of the Poisson
   process.</span> </p>
 uid: b10102d08afbd4985eef3391a991aa36
-type: courses
+type: course
 layout: video
 ---

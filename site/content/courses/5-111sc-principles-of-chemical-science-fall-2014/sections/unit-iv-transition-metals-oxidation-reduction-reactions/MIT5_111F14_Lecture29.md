@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 29: Transition Metals: Crystal Field Theory Part II'
 description: This file contains information regarding lecture 29.
-type: courses
+type: course
 layout: pdf
 uid: 84db180b85507f804b7631d3e6c6a726
 file_type: application/pdf

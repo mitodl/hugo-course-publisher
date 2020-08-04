@@ -552,6 +552,6 @@ transcript: >-
   m='406700'>other</span> <span m='406870'>people</span> <span
   m='407400'>as</span> <span m='407750'>needed?</span> </p>
 uid: 6dcde0b69a783805cd1f82ca6aa80d28
-type: courses
+type: course
 layout: video
 ---

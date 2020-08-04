@@ -1,7 +1,7 @@
 ---
 title: '7.3 The Analytical Policeman: Visualization for Law and Order'
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-575" %}})

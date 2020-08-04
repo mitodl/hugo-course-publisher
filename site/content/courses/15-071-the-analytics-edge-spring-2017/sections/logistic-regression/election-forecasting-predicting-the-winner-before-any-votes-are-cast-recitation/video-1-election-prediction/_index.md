@@ -3,7 +3,7 @@ title: >-
   3.4 Election Forecasting: Predicting the Winner Before any Votes are Cast 
   (Recitation)
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Election Forecasting: Predicting the Winner Before any Votes are Cast (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/_index.md" %}})

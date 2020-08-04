@@ -1,16 +1,14 @@
 ---
 title: Preferences and Utility
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: eba60351486e44573f84ae3b47789fde
-    type: section
-    layout: section
     name: Preferences and Utility
     weight: 90
     parent: 6d0eabb4bf84c44f6ed5096dcf2cf3a4
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/budget-constraints/_index.md" %}}) »
 

@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 23: Dynamic Programming'
 transcript: ''
 uid: 3666afbbf44f3208aa7d746cabf1401e
-type: courses
+type: course
 layout: video
 ---

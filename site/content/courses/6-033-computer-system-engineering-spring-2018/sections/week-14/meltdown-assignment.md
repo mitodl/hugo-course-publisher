@@ -1,11 +1,11 @@
 ---
 title: Meltdown Assignment
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 447da471034fb3474c11bbe7bfa9e6b3
-    type: section
-    layout: section
     name: Meltdown Assignment
     weight: 650
     parent: a53ea92f4c3dbec43ffae7cf73d6eb29

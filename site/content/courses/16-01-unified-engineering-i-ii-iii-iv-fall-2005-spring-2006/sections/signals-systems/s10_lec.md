@@ -3,7 +3,7 @@ title: s10_lec.pdf
 description: >-
   Lecture notes involving example to describe how to solve a linear dynamic
   network.
-type: courses
+type: course
 layout: pdf
 uid: d5bb533612b2857b8d23a368c5df6699
 file_type: application/pdf

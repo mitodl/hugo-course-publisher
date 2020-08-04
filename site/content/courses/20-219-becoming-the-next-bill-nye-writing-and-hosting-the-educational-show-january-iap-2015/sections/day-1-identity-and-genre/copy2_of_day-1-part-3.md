@@ -1553,6 +1553,6 @@ transcript: >-
   m="1203590">you</span> <span m="1203890">tomorrow</span> <span
   m="1204190">at</span> <span m="1204490">12:10.</span></p>
 uid: 899f93eaecd20cb7609245b9f1f54fcb
-type: courses
+type: course
 layout: video
 ---

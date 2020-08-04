@@ -1,7 +1,7 @@
 ---
 title: Image Processing
 description: null
-type: courses
+type: course
 layout: pdf
 uid: f36817f5d89877a86669d10f43826a02
 file_type: application/pdf

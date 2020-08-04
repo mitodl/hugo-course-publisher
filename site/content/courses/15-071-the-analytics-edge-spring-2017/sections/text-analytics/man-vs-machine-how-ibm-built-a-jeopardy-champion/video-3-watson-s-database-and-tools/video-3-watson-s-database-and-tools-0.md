@@ -334,6 +334,6 @@ transcript: >-
   <span m='260792'>these</span> <span m='261056'>steps</span> <span
   m='261320'>work.</span> </p>
 uid: 0fb191077b2e70aa1ae0e07705d4d1d7
-type: courses
+type: course
 layout: video
 ---

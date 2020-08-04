@@ -36,6 +36,6 @@ technical_location: >-
 title: 'Team 15: Flight Attempt'
 transcript: ''
 uid: 6a9833823f44c4bfcdd2e97e208f033d
-type: courses
+type: course
 layout: video
 ---

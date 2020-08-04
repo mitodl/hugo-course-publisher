@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_32.pdf
 description: This resource contains information related to limits in spherical coordinates.
-type: courses
+type: course
 layout: pdf
 uid: 531bea2b84351ea2732b4815a104cd37
 file_type: application/pdf

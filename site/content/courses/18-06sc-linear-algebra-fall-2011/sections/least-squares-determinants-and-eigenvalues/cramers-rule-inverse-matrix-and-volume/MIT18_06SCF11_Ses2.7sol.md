@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses2.7sol.pdf
 description: >-
   This resource contains solution to problem set related to cramer's rule,
   inverse matrix and volume.
-type: courses
+type: course
 layout: pdf
 uid: 3a6198ee2541298bec4f5810f996bf42
 file_type: application/pdf

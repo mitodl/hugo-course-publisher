@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Solutions to Square Systems'
 transcript: ''
 uid: 83579c5fa2f01ca08731a9870a66c822
-type: courses
+type: course
 layout: video
 ---

@@ -2,15 +2,13 @@
 title: Syllabus
 course_id: >-
   18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018
+type: course
+layout: videogallery
 menu:
   18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018:
     identifier: eec60d510dcd1e8d4f9aa3f45fb90640
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
-type: courses
-layout: videogallery
 ---
 Video Introduction by Professor Strang
 --------------------------------------

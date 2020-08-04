@@ -1,7 +1,7 @@
 ---
 title: 9pckgs_prc_fnc.pdf
 description: Lecture 9 (2003) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 610f7cc284e04e31708fe871054e4420
 file_type: application/pdf

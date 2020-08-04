@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses76b.pdf
 description: This resource contains informations related to integration by parts.
-type: courses
+type: course
 layout: pdf
 uid: 63e79bee226f88b7aa27482bbef0713f
 file_type: application/pdf

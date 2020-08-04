@@ -1,7 +1,7 @@
 ---
 title: 'Class 11 Slides: Bayesian updating with known discrete priors'
 description: This is a resource file that contains information regarding class 11.
-type: courses
+type: course
 layout: pdf
 uid: e33a33ee27fc93a5d7950fd626aca8e3
 file_type: application/pdf

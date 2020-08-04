@@ -3,7 +3,7 @@ title: 'Lecture 24: Numerical Integration'
 description: >-
   Lecture notes on numerical integration, Riemann sums, the trapezoidal rule,
   and Simpson’s rule.
-type: courses
+type: course
 layout: pdf
 uid: f141a3b7777511268cd1b1e1d21e38fb
 file_type: application/pdf

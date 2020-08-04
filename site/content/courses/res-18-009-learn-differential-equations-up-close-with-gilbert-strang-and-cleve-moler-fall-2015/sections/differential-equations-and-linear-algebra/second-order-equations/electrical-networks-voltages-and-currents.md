@@ -885,6 +885,6 @@ transcript: >-
   m='985570'>matrices.</span> <span m='986810'>Thank</span> <span
   m='987090'>you.</span> </p>
 uid: 328887a2c80325bfc1ce887c618b7d06
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: gm19_20notes2.pdf
 description: >-
   Lecture notes on Fatigue and Fracture and M20: Other Factors in Materials
   Selection and Design.
-type: courses
+type: course
 layout: pdf
 uid: f46ab73b31f6a4622ba62ab4e5366e95
 file_type: application/pdf

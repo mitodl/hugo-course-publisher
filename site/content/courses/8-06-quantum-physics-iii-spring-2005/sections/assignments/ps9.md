@@ -3,7 +3,7 @@ title: ps9.pdf
 description: >-
   This resource provides information about the reading assignment, useful facts
   and 5 problems for assignment 9.
-type: courses
+type: course
 layout: pdf
 uid: 0d61bc00811074b3c4c2ef99bd63ea40
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: Regression Analysis
 description: This file contains information regarding lecture 6 notes.
-type: courses
+type: course
 layout: pdf
 uid: fc0c08db6b497cc3bd09020aec39f9b5
 file_type: application/pdf

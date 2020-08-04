@@ -306,6 +306,6 @@ transcript: >-
   m='281520'>at</span> <span m='281650'>that.</span> <span
   m='282300'>Thank</span> <span m='282490'>you.</span> </p>
 uid: 7be43a00d3c8502c1dbfb6eaa6207974
-type: courses
+type: course
 layout: video
 ---

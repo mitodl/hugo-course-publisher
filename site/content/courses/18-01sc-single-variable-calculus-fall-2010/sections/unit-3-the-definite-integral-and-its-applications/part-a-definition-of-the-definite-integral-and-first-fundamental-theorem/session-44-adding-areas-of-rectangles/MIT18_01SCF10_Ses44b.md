@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses44b.pdf
 description: This resource contains information about adding areas of rectangles.
-type: courses
+type: course
 layout: pdf
 uid: 234e6a3637298cdd8d8291bcdd7e4f73
 file_type: application/pdf

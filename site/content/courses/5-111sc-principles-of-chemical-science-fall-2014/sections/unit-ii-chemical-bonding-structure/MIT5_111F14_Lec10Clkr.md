@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Clicker Questions for Lecture 10: Introduction
   to Lewis Structures
 description: This resource contains information regarding Introduction to Lewis Structures.
-type: courses
+type: course
 layout: pdf
 uid: 24dc37bc0c1dfb973de638a443503003
 file_type: application/pdf

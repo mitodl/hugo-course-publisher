@@ -1,6 +1,8 @@
 ---
 title: 4.8 Random Walks & Pagerank
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Page Rank: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/random-walks-pagerank/page-rank-video" %}})
 *   [4.8.1Random Walks: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/random-walks-pagerank/_index.md" %}})

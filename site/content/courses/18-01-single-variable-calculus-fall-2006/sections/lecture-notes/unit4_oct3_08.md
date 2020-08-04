@@ -8,7 +8,7 @@ description: >-
   coordinates, area in polar coordinates, indeterminate forms - L'Hôspital's
   rule, improper integrals, infinite series and convergence tests, and Taylor's
   series.
-type: courses
+type: course
 layout: pdf
 uid: c7f91295bbcc5204ad67e84f7d42f408
 file_type: application/pdf

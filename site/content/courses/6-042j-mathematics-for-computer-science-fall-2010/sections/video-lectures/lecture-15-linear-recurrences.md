@@ -3884,6 +3884,6 @@ transcript: >-
   m='4697590'>OK.</span> <span m='4697890'>That's it</span> <span
   m='4698190'>for</span> <span m='4698490'>today.</span> </p>
 uid: 2f2431fee730cb09e8fa0bd8a756ecf2
-type: courses
+type: course
 layout: video
 ---

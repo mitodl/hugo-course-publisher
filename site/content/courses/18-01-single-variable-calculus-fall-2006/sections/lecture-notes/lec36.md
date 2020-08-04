@@ -3,7 +3,7 @@ title: 'Lecture 36: Infinite Series and Convergence Tests'
 description: >-
   Lecture notes on infinite series, geometric series, notation, harmonic series,
   integral comparison, and convergence tests.
-type: courses
+type: course
 layout: pdf
 uid: ba5ce991638cf6285e431937132e5b32
 file_type: application/pdf

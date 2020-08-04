@@ -1,6 +1,8 @@
 ---
 title: 4.7 Sampling & Confidence
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Independent Sampling Theorem: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/vertical-872c5ec0974e" %}})
 *   [4.7.1Law Of Large Numbers: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/_index.md" %}})

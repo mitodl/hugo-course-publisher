@@ -222,6 +222,6 @@ transcript: >-
   absorbing state given that you started in 1, 2, and 4,</span> <span
   m='593820'>and you do the same kind of calculation.</span> </p><p></p>
 uid: 032e7640350e2a6ffcc7ce13f65e0b7a
-type: courses
+type: course
 layout: video
 ---

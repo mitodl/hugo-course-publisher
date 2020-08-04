@@ -1,6 +1,8 @@
 ---
 title: An Introduction to Spintronics
 course_id: res-3-004-visualizing-materials-science-fall-2017
+type: course
+layout: course_section
 ---
 Note that this project does not include video content.
 

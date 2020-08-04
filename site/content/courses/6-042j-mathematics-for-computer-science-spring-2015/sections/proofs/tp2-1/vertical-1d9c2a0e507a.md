@@ -1,6 +1,8 @@
 ---
 title: 1.3 Well Ordering Principle
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Well Ordering Principle]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1/_index.md" %}})
 *   [1.3.1Well Ordering Principle 1: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1/_index.md" %}})

@@ -1,7 +1,7 @@
 ---
 title: MIT18_06S10_symmbases.pdf
 description: This resource contains information related to 3 by 3 matrices.
-type: courses
+type: course
 layout: pdf
 uid: 2c925bea168888404287bb6b848f79ca
 file_type: application/pdf

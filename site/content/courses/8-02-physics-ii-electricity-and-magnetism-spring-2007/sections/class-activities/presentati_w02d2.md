@@ -9,7 +9,7 @@ description: >-
   open and closed surfaces; prs question: flux through sphere; arbitrary
   gaussian surfaces; applying gauss?s law; gauss: spherical symmetry,
   cylindrical symmetry, planar symmetry; and group problem: charge slab.
-type: courses
+type: course
 layout: pdf
 uid: ae0d9b601b83812b25ed6a4fb0c19a03
 file_type: application/pdf

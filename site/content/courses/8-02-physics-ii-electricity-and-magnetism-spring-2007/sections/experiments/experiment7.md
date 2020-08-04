@@ -1,7 +1,7 @@
 ---
 title: experiment7.pdf
 description: This resource contains an experiment on undriven and driven RLC circuits.
-type: courses
+type: course
 layout: pdf
 uid: 2f97bce93e297cfc286cfddb7d653053
 file_type: application/pdf

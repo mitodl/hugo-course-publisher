@@ -1,7 +1,7 @@
 ---
 title: Practice Exam 1 Solutions
 description: Solutions to the first practice exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: 6b8dc6e9248fac9328da413eb2fb193e
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Class 26 Problems File: Review for final exam'
 description: This is a resource file that contains information regarding class 26 problems.
-type: courses
+type: course
 layout: pdf
 uid: f33703aa15e3e310b80cf96ae2afc2e7
 file_type: application/pdf

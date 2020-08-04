@@ -3321,6 +3321,6 @@ transcript: >-
   m='3193230'>do</span> <span m='3193340'>that</span> <span
   m='3193740'>next</span> <span m='3193980'>time.</span> </p>
 uid: a701d9c2591ce2a00362e8f085c9098d
-type: courses
+type: course
 layout: video
 ---

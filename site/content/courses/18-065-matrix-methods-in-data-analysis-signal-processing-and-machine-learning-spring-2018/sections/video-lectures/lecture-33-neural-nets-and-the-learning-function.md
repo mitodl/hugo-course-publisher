@@ -2621,6 +2621,6 @@ transcript: >-
   m="3362660">if</span> <span m="3363170">necessary.</span> <span
   m="3363920">OK,</span> <span m="3364330">thanks.</span></p>
 uid: 33f50eb0834bb3703bab34db3bc9745f
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: ps7.pdf
 description: >-
   This resource provides information about the reading assignment, useful facts
   and 4 problems for assignment 7.
-type: courses
+type: course
 layout: pdf
 uid: c6c398c4ed806495624142ebf8293486
 file_type: application/pdf

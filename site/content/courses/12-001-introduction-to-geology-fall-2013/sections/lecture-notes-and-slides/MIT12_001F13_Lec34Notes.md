@@ -3,7 +3,7 @@ title: 'Lecture 34 Notes: Earth History and Geobiology'
 description: >-
   This is a resource file that contains information regarding earth history and
   geobiology.
-type: courses
+type: course
 layout: pdf
 uid: 730a8be9baea5c1090f794490c792f6d
 file_type: application/pdf

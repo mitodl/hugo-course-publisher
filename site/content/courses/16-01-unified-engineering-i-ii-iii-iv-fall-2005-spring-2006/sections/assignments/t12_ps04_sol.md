@@ -1,7 +1,7 @@
 ---
 title: t12_ps04_sol.pdf
 description: This resource contains hand written solution of problem T12.
-type: courses
+type: course
 layout: pdf
 uid: 22c4222160acf4a2e877f2cccac11f51
 file_type: application/pdf

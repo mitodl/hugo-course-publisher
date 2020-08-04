@@ -4731,6 +4731,6 @@ transcript: >-
   draw</span> <span m="4802200">these</span> <span
   m="4802500">options.</span></p>
 uid: 027f29c1695d4859aa27188a0e22313d
-type: courses
+type: course
 layout: video
 ---

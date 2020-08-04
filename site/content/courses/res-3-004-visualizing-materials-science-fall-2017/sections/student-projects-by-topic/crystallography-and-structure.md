@@ -1,11 +1,11 @@
 ---
 title: Crystallography and Structure
 course_id: res-3-004-visualizing-materials-science-fall-2017
+type: course
+layout: course_section
 menu:
   res-3-004-visualizing-materials-science-fall-2017:
     identifier: fbbb38c6f4b804df878fa67586e06b71
-    type: section
-    layout: section
     name: Crystallography and Structure
     weight: 400
     parent: f62d5df839342533e0228b16ea71313c

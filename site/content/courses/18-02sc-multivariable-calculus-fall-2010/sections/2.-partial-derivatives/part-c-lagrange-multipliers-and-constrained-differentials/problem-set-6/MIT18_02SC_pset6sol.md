@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pset6sol.pdf
 description: "This resource contains information related to lagrange multipliers and voltage.  \r\n\r\n "
-type: courses
+type: course
 layout: pdf
 uid: e17d1ae13c8fbbe66bccbc3a55b556fb
 file_type: application/pdf

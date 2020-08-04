@@ -1,7 +1,7 @@
 ---
 title: t07_ps03_fall03.pdf
 description: Problem set on Brayton cycle.
-type: courses
+type: course
 layout: pdf
 uid: 936b0bc027823102d2f3d06c45c4e9f8
 file_type: application/pdf

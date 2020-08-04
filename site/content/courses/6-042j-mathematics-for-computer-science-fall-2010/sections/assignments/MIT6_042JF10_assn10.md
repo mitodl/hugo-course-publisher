@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_assn10.pdf
 description: 'This resource contains assignment 10. '
-type: courses
+type: course
 layout: pdf
 uid: 2c8325cfcd72647ed39997c314411367
 file_type: application/pdf

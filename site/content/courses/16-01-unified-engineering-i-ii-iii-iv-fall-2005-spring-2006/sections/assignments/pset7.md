@@ -4,7 +4,7 @@ description: >-
   This file includes problems on Materials and Structures, application of a
   force, moment, force and moment, Unified Concepts, Thevinin and Norton
   equivalent circuits, and constitutive law for capacitors and inductors.
-type: courses
+type: course
 layout: pdf
 uid: 67700dbf50da0859f9dede7817ef0230
 file_type: application/pdf

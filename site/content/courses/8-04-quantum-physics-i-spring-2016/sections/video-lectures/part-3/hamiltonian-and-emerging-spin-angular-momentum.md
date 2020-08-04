@@ -754,6 +754,6 @@ transcript: >-
   m='941140'>fluids</span> <span m='941710'>in</span> <span
   m='941860'>the</span> <span m='941980'>body.</span> </p>
 uid: fe9707873fef5f52f5f6436e628768a9
-type: courses
+type: course
 layout: video
 ---

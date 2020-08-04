@@ -4597,6 +4597,6 @@ transcript: >-
   m="3080810">examples</span> <span m="3081320">of</span> <span
   m="3081380">this.</span></p><p>&nbsp;</p>
 uid: dd779f84f03099cfa408202267bcd832
-type: courses
+type: course
 layout: video
 ---

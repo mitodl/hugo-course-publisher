@@ -211,6 +211,6 @@ transcript: >-
   <span m='555000'>going to be no better than what you obtain if you were</span>
   <span m='558580'>to use the conditional expectation.</span> </p><p></p>
 uid: da89b30a944e3802356318ee69ff6966
-type: courses
+type: course
 layout: video
 ---

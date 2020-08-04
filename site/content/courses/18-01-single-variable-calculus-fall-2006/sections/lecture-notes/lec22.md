@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 22: Volumes by Disks and Shells'
 description: Lecture notes on finding volume using disks and shells.
-type: courses
+type: course
 layout: pdf
 uid: dcd410f264f661f8ac1e53ea6df740cc
 file_type: application/pdf

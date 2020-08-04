@@ -1,7 +1,7 @@
 ---
 title: MIT22_081JF10_finalexam.pdf
 description: This resource contains information related to solar reflector array.
-type: courses
+type: course
 layout: pdf
 uid: 6bebe69d0408e9eea94095244c45fcd7
 file_type: application/pdf

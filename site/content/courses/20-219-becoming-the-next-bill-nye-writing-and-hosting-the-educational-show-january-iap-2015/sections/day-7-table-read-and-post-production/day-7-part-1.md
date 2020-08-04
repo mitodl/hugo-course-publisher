@@ -3033,6 +3033,6 @@ transcript: >-
   m='2567770'>mastery,</span> <span m='2568670'>which is</span> <span
   m='2568970'>nice.</span> </p>
 uid: 6942b8e923f9420c9ae4ae945bb68b29
-type: courses
+type: course
 layout: video
 ---

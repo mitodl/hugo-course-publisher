@@ -1,7 +1,7 @@
 ---
 title: Properties of Definite Integrals
 description: Supplement to the textbook on the properties of definite integrals.
-type: courses
+type: course
 layout: pdf
 uid: 1e8fe8c3547318a2648aebc582c55e54
 file_type: application/pdf

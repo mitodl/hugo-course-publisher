@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Unique Up to a Constant'
 transcript: ''
 uid: dfb75152409ce6796b407f4591085130
-type: courses
+type: course
 layout: video
 ---

@@ -755,6 +755,6 @@ transcript: >-
   m='1036010'>to</span> <span m='1036160'>do</span> <span m='1036400'>it.</span>
   </p>
 uid: d338345f77a4560078b6a0b607bf2169
-type: courses
+type: course
 layout: video
 ---

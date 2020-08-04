@@ -3773,6 +3773,6 @@ transcript: >-
   m='4397990'>see</span> <span m='4398140'>you</span> <span
   m='4398320'>on</span> <span m='4398530'>Thursday.</span> </p>
 uid: 25ea9d01f0eb7e522936e2ccfd39d3c2
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: Practice Exam 3 Solutions
 description: Solutions to the third practice exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: 204fbfbf46cea3c9af775855a3bec084
 file_type: application/pdf

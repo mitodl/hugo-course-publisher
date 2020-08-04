@@ -3,7 +3,7 @@ title: 'Global Firms: Can we hold them Accountable?'
 description: >-
   This resource contains the information regarding global firms: can we hold
   them accountable?.
-type: courses
+type: course
 layout: pdf
 uid: 58fa95f3c2e6839a0241753e6c496f4f
 file_type: application/pdf

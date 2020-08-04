@@ -1,7 +1,7 @@
 ---
 title: p08_ps12_sol.pdf
 description: Handwritten problem set solution.
-type: courses
+type: course
 layout: pdf
 uid: 4d33c61ec5c92d1ca7d829779e4c227b
 file_type: application/pdf

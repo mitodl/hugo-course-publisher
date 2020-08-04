@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses31c.pdf
 description: This resource contains information about related rates.
-type: courses
+type: course
 layout: pdf
 uid: e5d68397cdc831a1f69d1ffd8970ddc9
 file_type: application/pdf

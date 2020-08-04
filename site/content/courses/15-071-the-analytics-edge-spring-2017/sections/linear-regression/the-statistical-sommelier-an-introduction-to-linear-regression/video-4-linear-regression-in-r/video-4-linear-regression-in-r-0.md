@@ -495,6 +495,6 @@ transcript: >-
   m='503786'>in</span> <span m='504130'>our</span> <span m='504473'>final</span>
   <span m='504816'>model.</span> </p>
 uid: 7e9bdd5e21043813ff938a472e74c206
-type: courses
+type: course
 layout: video
 ---

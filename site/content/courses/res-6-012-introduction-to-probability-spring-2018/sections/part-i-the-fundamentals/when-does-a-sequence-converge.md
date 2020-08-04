@@ -102,6 +102,6 @@ transcript: >-
   or without even referring to</span> <span m="162190">these facts in an
   explicit manner.</span></p><p>&nbsp;</p>
 uid: a7ec4df088118f2859c38cc71b718a10
-type: courses
+type: course
 layout: video
 ---

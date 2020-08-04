@@ -2911,6 +2911,6 @@ transcript: >-
   m='3067110'>you</span> <span m='3067300'>guys</span> <span
   m='3067620'>next</span> <span m='3067890'>week.</span> </p>
 uid: 575617b3ca2aa029c96f3173c4177b9b
-type: courses
+type: course
 layout: video
 ---

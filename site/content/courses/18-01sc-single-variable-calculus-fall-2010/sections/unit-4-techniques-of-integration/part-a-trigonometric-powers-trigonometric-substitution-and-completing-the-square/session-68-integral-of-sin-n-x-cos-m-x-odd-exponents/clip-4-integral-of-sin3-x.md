@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 4: Integral of sin3(x)'
 transcript: ''
 uid: 3a158e4a28942d872f4ea0edecb20877
-type: courses
+type: course
 layout: video
 ---

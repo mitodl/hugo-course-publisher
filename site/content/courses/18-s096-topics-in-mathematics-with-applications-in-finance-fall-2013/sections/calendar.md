@@ -1,11 +1,11 @@
 ---
 title: Calendar
 course_id: 18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013
+type: course
+layout: course_section
 menu:
   18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013:
     identifier: 5463da3d52e258d982e685a89a986e40
-    type: section
-    layout: section
     name: Calendar
     weight: 20
 ---

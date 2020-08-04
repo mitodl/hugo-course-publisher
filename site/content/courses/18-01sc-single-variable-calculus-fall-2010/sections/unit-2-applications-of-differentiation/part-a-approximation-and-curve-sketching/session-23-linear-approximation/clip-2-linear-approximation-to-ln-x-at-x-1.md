@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Linear Approximation to ln x at x=1'
 transcript: ''
 uid: 1829ea7f0b844f607dc5cf440a6d3737
-type: courses
+type: course
 layout: video
 ---

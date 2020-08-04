@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip: Simply Connected Regions and Conservative Fields'
 transcript: ''
 uid: 5cf5dee0c8a43b8d7e2559533abe7d93
-type: courses
+type: course
 layout: video
 ---

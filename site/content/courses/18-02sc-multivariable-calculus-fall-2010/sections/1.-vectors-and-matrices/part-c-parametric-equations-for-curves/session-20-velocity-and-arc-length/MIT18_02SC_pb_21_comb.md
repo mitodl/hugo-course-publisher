@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_21_comb.pdf
 description: >-
   This resource contains problem statements and solutions related to velocity
   and arc length.
-type: courses
+type: course
 layout: pdf
 uid: a1474709791ee9a8ef675196521acc38
 file_type: application/pdf

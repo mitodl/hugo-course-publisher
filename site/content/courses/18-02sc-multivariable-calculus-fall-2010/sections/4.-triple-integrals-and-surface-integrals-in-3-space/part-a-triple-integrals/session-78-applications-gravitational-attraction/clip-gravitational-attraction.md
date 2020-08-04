@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Gravitational Attraction'
 transcript: ''
 uid: 6dd834eadbe8217fdedd308c36546856
-type: courses
+type: course
 layout: video
 ---

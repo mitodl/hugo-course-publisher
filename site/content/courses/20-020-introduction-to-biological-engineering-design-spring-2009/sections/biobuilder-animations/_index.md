@@ -1,15 +1,13 @@
 ---
 title: BioBuilder Animations
 course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
+type: course
+layout: videogallery
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: 31a53ae48080e2e123cc03ee978bb1bd
-    type: section
-    layout: section
     name: BioBuilder Animations
     weight: 320
-type: courses
-layout: videogallery
 is_media_gallery: true
 ---
 [BioBuilder](http://www.biobuilder.org/)® is a resource for hands-on activities and informative animations on synthetic biology, and a place to discuss the challenge of engineering biological systems.

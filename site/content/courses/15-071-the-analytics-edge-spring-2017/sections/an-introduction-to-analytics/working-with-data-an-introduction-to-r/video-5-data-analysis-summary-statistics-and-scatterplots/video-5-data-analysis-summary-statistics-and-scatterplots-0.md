@@ -478,6 +478,6 @@ transcript: >-
   m='473766'>build</span> <span m='474080'>some</span> <span
   m='474395'>summary</span> <span m='474710'>tables.</span> </p>
 uid: 1735c9a4aef3d551427a00030f28f2e6
-type: courses
+type: course
 layout: video
 ---

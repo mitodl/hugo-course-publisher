@@ -687,6 +687,6 @@ transcript: >-
   m='731750'>case</span> <span m='732110'>possible.</span> <span
   m='733580'>Thank</span> <span m='733820'>you.</span> </p>
 uid: 7cea74d0be0ca77a1fb3e1f89bb3e4e0
-type: courses
+type: course
 layout: video
 ---

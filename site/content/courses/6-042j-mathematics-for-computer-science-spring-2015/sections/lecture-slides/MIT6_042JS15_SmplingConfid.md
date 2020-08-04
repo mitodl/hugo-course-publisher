@@ -1,7 +1,7 @@
 ---
 title: 'Sampling and Confidence: Sampling and Confidence'
 description: This file contains information regarding sampling and confidence.
-type: courses
+type: course
 layout: pdf
 uid: 2fa38dd9db1015fbf93505a68e64cb4a
 file_type: application/pdf

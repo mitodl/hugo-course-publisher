@@ -1,11 +1,11 @@
 ---
 title: Introduction to Engineering & its Applications
 course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015
+type: course
+layout: course_section
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: b5f263d4ba85f452d26922db237001f2
-    type: section
-    layout: section
     name: Introduction to Engineering & its Applications
     weight: 90
 ---

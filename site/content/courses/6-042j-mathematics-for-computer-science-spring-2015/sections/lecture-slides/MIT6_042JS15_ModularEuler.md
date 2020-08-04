@@ -3,7 +3,7 @@ title: 'Euler''s Theorem: Modular Exponentiation: Euler’s Function'
 description: >-
   This resource contains information regarding mathematics for computer science,
   Euler's theorem: Modular exponentiation: Euler’s function.
-type: courses
+type: course
 layout: pdf
 uid: 91e04b04925cfd7aeea16909b7f336e2
 file_type: application/pdf

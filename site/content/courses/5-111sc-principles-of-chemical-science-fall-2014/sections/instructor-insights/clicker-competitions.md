@@ -358,6 +358,6 @@ transcript: >-
   m='233020'>sense</span> <span m='233320'>of</span> <span
   m='233440'>team.</span> </p>
 uid: 66f633784b3edc50643955bf0aee9bd0
-type: courses
+type: course
 layout: video
 ---

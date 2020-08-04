@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 2: Natural Log'
 transcript: ''
 uid: 08952d98c63c228b17be0412c524d36f
-type: courses
+type: course
 layout: video
 ---

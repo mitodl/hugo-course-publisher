@@ -1,11 +1,11 @@
 ---
 title: Exams
 course_id: 18-06-linear-algebra-spring-2010
+type: course
+layout: course_section
 menu:
   18-06-linear-algebra-spring-2010:
     identifier: c13c4766c0cf1486f0cf6435c531eaad
-    type: section
-    layout: section
     name: Exams
     weight: 70
 ---

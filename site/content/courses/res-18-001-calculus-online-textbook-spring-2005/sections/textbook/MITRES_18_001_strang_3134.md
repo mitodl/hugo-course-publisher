@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang_3134.pdf
 description: This resource contains information related to applications of derivatives.
-type: courses
+type: course
 layout: pdf
 uid: 15c98f2ab2802fbf72049781daba464e
 file_type: application/pdf

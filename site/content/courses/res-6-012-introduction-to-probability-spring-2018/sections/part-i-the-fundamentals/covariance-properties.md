@@ -154,6 +154,6 @@ transcript: >-
   m='340800'>They behave linearly with respect to one of the</span> <span
   m='344490'>arguments involved.</span> </p><p></p>
 uid: ed5e1d99f29963faf21352d5e35fc995
-type: courses
+type: course
 layout: video
 ---

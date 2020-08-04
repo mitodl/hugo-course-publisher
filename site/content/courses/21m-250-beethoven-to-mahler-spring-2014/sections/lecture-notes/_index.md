@@ -1,11 +1,11 @@
 ---
 title: Lecture Notes
 course_id: 21m-250-beethoven-to-mahler-spring-2014
+type: course
+layout: course_section
 menu:
   21m-250-beethoven-to-mahler-spring-2014:
     identifier: a9f8e2bf0abc153aee1556514fecae9b
-    type: section
-    layout: section
     name: Lecture Notes
     weight: 50
 ---

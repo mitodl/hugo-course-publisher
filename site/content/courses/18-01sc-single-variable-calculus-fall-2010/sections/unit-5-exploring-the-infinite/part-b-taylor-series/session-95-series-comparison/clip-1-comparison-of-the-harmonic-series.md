@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Comparison of the Harmonic Series'
 transcript: ''
 uid: 8457d830226078716c20ba475c31040d
-type: courses
+type: course
 layout: video
 ---

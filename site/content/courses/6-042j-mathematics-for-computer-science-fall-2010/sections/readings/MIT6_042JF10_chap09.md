@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 9: Sums and asymptotics'
 description: This resource contains information about Sums and asymptotics.
-type: courses
+type: course
 layout: pdf
 uid: c110f2c1483fd57a9c97ebde0be38f75
 file_type: application/pdf

@@ -197,6 +197,6 @@ transcript: >-
   m="105950">that</span> <span m="107740">is</span> <span
   m="107950">through</span> <span m="108160">subdivision.</span></p>
 uid: 3c665d01b6089199a462cc2b1510e997
-type: courses
+type: course
 layout: video
 ---

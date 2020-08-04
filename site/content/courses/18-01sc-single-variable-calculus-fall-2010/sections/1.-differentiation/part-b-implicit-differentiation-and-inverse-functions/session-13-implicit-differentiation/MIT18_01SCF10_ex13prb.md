@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex13prb.pdf
 description: >-
   This resource contains problem statements related to implicit differentiation
   and the second derivatives.
-type: courses
+type: course
 layout: pdf
 uid: 6e273c25410614e27b916b697d86aac7
 file_type: application/pdf

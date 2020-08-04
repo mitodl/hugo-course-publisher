@@ -1,7 +1,7 @@
 ---
 title: '18.S997 Fractals and Chaos: Homework 7'
 description: This resource contains information regarding homework 7.
-type: courses
+type: course
 layout: pdf
 uid: 350767a9947afc41bd673deafa3f2b8b
 file_type: application/pdf

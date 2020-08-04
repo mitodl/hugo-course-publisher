@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 1: Differentiation Formulas'
 transcript: ''
 uid: ec847d9de9f6a158fdaca01b14367028
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex50prb.pdf
 description: This resource contains problem statements related to estimating ln (5).
-type: courses
+type: course
 layout: pdf
 uid: a7bb8a35dacf44c1ae34b89143656f82
 file_type: application/pdf

@@ -81,6 +81,6 @@ transcript: >-
   m="59100">the so-called birth/death processes.</span></p><p><span m="62840">So
   let us start.</span></p>
 uid: 5c42ba1ee525f6ea01984b1bae3d0ea2
-type: courses
+type: course
 layout: video
 ---

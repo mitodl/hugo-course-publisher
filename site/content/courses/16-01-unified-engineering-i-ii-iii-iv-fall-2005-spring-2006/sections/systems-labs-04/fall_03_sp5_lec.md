@@ -1,7 +1,7 @@
 ---
 title: fall_03_sp5_lec.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: e8a7bedeb89448ef3840ca0aa8818664
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: MITRES_6_008S11_sol07.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   z-transform properties.
-type: courses
+type: course
 layout: pdf
 uid: 342ac6628b7581a089803b1f0d42fc08
 file_type: application/pdf

@@ -87,6 +87,6 @@ transcript: >-
   random</span> <span m='85580'>variable, given the value of another.</span>
   </p><p></p>
 uid: 44363295dcc3dfda7638881d92607262
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_24_quest.pdf
 description: >-
   This resource contains problem statements related to level curves and contour
   plots.
-type: courses
+type: course
 layout: pdf
 uid: 1b2901c7999988358a6c913b0c6669f9
 file_type: application/pdf

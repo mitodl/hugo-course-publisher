@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_graph18.pdf
 description: This resource contains graphs related to factor markets.
-type: courses
+type: course
 layout: pdf
 uid: 0e1e66cab31c61557e4b1e13695c6299
 file_type: application/pdf

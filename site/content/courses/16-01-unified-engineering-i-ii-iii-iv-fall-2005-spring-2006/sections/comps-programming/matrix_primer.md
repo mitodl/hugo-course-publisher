@@ -1,7 +1,7 @@
 ---
 title: matrix_primer.pdf
 description: Lecture C15 handout.
-type: courses
+type: course
 layout: pdf
 uid: 6b6b0cfa844d47b20f91a8a58ef91eaa
 file_type: application/pdf

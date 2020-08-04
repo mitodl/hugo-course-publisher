@@ -1,7 +1,7 @@
 ---
 title: '12.001 Introduction to Geology, Lab: Geologic Mapping'
 description: 'This file contains information regarding lab 6: geologic mapping.'
-type: courses
+type: course
 layout: pdf
 uid: 86fd88ad15c8ddaa6a5a1bd6d54abece
 file_type: application/pdf

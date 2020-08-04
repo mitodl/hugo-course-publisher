@@ -1,7 +1,7 @@
 ---
 title: problem_sets_open_5_0.pdf
 description: 'This resource contains problem sets. '
-type: courses
+type: course
 layout: pdf
 uid: 3a90b82f880eee5a7870dacf89d2e1af
 file_type: application/pdf

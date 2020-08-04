@@ -1,7 +1,7 @@
 ---
 title: Exam 4 Solutions
 description: Solutions to the fourth exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: e5f819f98b7ab0e42a38ff9ef5960c0d
 file_type: application/pdf

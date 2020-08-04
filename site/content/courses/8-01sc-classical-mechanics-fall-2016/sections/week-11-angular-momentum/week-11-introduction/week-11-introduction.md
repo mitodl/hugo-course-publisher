@@ -102,6 +102,6 @@ transcript: >-
   m='101470'>And the resulting motion is often surprising.</span> </p><p><span
   m='103960'>It is worthy of particularly careful study.</span> </p><p></p>
 uid: 0b0fbc515b5a171674f7cc97ff0b3ce2
-type: courses
+type: course
 layout: video
 ---

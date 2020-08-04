@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Vector Fields in Space'
 description: This resource contains information regarding vector fields in space.
-type: courses
+type: course
 layout: pdf
 uid: 8611e7557da0e611c37867896cd405ad
 file_type: application/pdf

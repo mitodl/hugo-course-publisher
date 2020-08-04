@@ -656,6 +656,6 @@ transcript: >-
   m='864580'>the</span> <span m='864700'>books</span> <span m='865330'>on</span>
   <span m='865480'>this</span> <span m='866050'>algebra.</span> </p>
 uid: aec82f1cac1de8721ce5634f516ab425
-type: courses
+type: course
 layout: video
 ---

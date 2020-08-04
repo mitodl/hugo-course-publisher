@@ -1,11 +1,11 @@
 ---
 title: Syllabus
 course_id: 18-s997-introduction-to-matlab-programming-fall-2011
+type: course
+layout: course_section
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 9582ec110aca9f2ffa0720af009e9a17
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
 ---

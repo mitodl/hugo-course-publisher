@@ -4742,6 +4742,6 @@ transcript: >-
   m='3205340'>for</span> <span m='3205460'>recitation</span> <span
   m='3206050'>for</span> <span m='3206180'>tomorrow.</span> </p>
 uid: be8673bf1f2aca606c49d98c2f5e35c6
-type: courses
+type: course
 layout: video
 ---

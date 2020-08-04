@@ -1,7 +1,7 @@
 ---
 title: index_open_5_0.pdf
 description: 'This resource contains index to parts I and II. '
-type: courses
+type: course
 layout: pdf
 uid: 1de0fe84e05bf886444b2012bdc12711
 file_type: application/pdf

@@ -1,6 +1,8 @@
 ---
 title: 'Session 67: Materials for Exam 3'
 course_id: 18-01sc-single-variable-calculus-fall-2010
+type: course
+layout: course_section
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/exam-3/review-for-exam-3/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/_index.md" %}}) »
 

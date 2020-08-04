@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Problems: Harmonic Functions and Averages'
 description: This resource contains information regarding harmonic functions and averages.
-type: courses
+type: course
 layout: pdf
 uid: ce9a5e77be429010ae34c7355f9a0c54
 file_type: application/pdf

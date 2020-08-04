@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip: Line Integrals'
 transcript: ''
 uid: 1d37884d2bc05093d9a91c93b79a48b1
-type: courses
+type: course
 layout: video
 ---

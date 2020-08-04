@@ -3,7 +3,7 @@ title: 'Intro to Discrete Probability: Chapter 16.1 – 16.5'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Intro to discrete probability: Chapter 16.1 – 16.5.
-type: courses
+type: course
 layout: pdf
 uid: 786ba904b8a97f894bf891ffe00d4615
 file_type: application/pdf

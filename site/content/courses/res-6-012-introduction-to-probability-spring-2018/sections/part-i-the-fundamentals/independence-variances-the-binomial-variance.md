@@ -161,6 +161,6 @@ transcript: >-
   m="417580">And therefore, this is the formula for the variance of a</span>
   <span m="422890">binomial random variable.</span></p><p>&nbsp;</p>
 uid: 7583bc046f96a5b9f75c8f9516e8a0bb
-type: courses
+type: course
 layout: video
 ---

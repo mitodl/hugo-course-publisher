@@ -6614,6 +6614,6 @@ transcript: >-
   m='5182640'>So</span> <span m='5182800'>thank</span> <span m='5183040'>you
   all.</span> </p><p><span m='5183340'>[APPLAUSE]</span> </p>
 uid: a4e5f6c42d3368b187f010e785310758
-type: courses
+type: course
 layout: video
 ---

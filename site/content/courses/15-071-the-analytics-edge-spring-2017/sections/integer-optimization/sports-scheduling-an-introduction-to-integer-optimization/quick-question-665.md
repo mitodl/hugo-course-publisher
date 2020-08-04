@@ -1,6 +1,8 @@
 ---
 title: '9.2 Sports Scheduling: An Introduction to Integer Optimization '
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: course_section
 ---
 *   [<Sports Scheduling: An Introduction to Integer Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/_index.md" %}})
 *   [9.2.1Video 1: Introduction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/_index.md" %}})

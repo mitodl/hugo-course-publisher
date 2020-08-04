@@ -116,6 +116,6 @@ transcript: >-
   periodicity,</span> <span m="235420">the initial state does not
   matter.</span></p>
 uid: 477627fbed5d6817c71f13f6c141c07a
-type: courses
+type: course
 layout: video
 ---

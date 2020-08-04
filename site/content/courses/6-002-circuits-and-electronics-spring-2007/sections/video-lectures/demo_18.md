@@ -3,7 +3,7 @@ title: demo_18.pdf
 description: >-
   This resource contains a demo showing power consumption using MOSFET and RC
   Network.
-type: courses
+type: course
 layout: pdf
 uid: 98560390d55ef52996905598bd0ed2e1
 file_type: application/pdf

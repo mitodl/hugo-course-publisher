@@ -4468,6 +4468,6 @@ transcript: >-
   m="4708150">slit</span> <span m="4709060">diffraction</span> <span
   m="4709360">pattern.</span></p><p>&nbsp;</p><p>&nbsp;</p>
 uid: 15f1b30fa6d5f5390c2e11c517af4611
-type: courses
+type: course
 layout: video
 ---

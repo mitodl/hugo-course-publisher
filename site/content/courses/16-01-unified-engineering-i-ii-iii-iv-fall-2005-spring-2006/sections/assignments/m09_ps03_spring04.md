@@ -3,7 +3,7 @@ title: m09_ps03_spring04.pdf
 description: >-
   This resource contains problems related to standard solutions for deflections
   of beams under commonly encountered loading.
-type: courses
+type: course
 layout: pdf
 uid: 35a20ee4b53f9e53945536d0e77c26ee
 file_type: application/pdf

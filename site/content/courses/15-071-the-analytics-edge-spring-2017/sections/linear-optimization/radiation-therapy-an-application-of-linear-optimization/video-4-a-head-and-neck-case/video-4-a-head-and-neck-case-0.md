@@ -237,6 +237,6 @@ transcript: >-
   m='185342'>prices</span> <span m='185807'>of</span> <span
   m='186271'>our</span> <span m='186735'>constraints.</span> </p>
 uid: 8564e25dfe28fc7746506aa53d45e61e
-type: courses
+type: course
 layout: video
 ---

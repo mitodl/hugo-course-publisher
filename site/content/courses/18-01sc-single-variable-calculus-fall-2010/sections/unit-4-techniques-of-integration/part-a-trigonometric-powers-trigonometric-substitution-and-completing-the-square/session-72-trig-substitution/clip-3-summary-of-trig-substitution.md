@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Summary of Trig Substitution'
 transcript: ''
 uid: 438ca828b5936a3b844786286c9d7959
-type: courses
+type: course
 layout: video
 ---

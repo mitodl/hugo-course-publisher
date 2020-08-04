@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Thermodynamics: Gibbs Free Energy
   and Entropy.
-type: courses
+type: course
 layout: pdf
 uid: d7a23fbdf710023e9d67639a07a468e8
 file_type: application/pdf

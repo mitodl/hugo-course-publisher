@@ -1,11 +1,11 @@
 ---
 title: Lecture Slides and Files
 course_id: 6-0002-introduction-to-computational-thinking-and-data-science-fall-2016
+type: course
+layout: course_section
 menu:
   6-0002-introduction-to-computational-thinking-and-data-science-fall-2016:
     identifier: c4d42078e168d096eb09fadfcff2fabc
-    type: section
-    layout: section
     name: Lecture Slides and Files
     weight: 40
 ---

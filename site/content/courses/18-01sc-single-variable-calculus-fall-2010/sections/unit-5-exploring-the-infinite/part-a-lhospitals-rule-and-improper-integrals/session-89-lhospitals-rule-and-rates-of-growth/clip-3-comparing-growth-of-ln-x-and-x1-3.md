@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Comparing Growth of ln(x) and x1/3'
 transcript: ''
 uid: 9d115bd02419655e06feff0bd27cb562
-type: courses
+type: course
 layout: video
 ---

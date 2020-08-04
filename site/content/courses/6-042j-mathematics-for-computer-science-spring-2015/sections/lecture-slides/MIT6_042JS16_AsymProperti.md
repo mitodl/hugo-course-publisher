@@ -3,7 +3,7 @@ title: 'Asymptotics: Asymptotic Properties'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 8eda0e03a7faf4166143287f5937248b
 file_type: application/pdf

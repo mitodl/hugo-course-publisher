@@ -88,6 +88,6 @@ transcript: >-
   m='88570'>So all of these wonderful quantities</span> <span m='91690'>make the
   little prince really happy.</span> </p><p></p>
 uid: aa25475c905c40926156481af7c75ed8
-type: courses
+type: course
 layout: video
 ---

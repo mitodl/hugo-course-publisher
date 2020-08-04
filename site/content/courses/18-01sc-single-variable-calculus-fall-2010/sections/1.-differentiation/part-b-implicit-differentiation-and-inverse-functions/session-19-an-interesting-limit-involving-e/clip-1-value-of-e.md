@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Value of e'
 transcript: ''
 uid: f0f84a995eb384f91f7641358c61b150
-type: courses
+type: course
 layout: video
 ---

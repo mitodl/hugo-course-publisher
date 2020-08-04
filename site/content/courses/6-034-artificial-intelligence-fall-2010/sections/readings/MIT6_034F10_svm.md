@@ -1,7 +1,7 @@
 ---
 title: MIT6_034F10_svm.pdf
 description: This resource contains information related to fortunate choices.
-type: courses
+type: course
 layout: pdf
 uid: c12a7a6a32ad7497b815b6b93b6d5c00
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: summary_w14d2.pdf
 description: This resource is about what we expect from you on the exam.
-type: courses
+type: course
 layout: pdf
 uid: 8d7083ee3b4c0c80bf252836c63dc59e
 file_type: application/pdf

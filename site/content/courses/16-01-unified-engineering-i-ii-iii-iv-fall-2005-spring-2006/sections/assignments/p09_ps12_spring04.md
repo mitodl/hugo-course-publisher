@@ -1,7 +1,7 @@
 ---
 title: p09_ps12_spring04.pdf
 description: This resource contains problems based on turbine and aerodynamic performance.
-type: courses
+type: course
 layout: pdf
 uid: f8148555d48a0c881e3fa597ae7100cd
 file_type: application/pdf

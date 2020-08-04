@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 18-02sc-multivariable-calculus-fall-2010
 course_title: Multivariable Calculus
 course_image_url: >-

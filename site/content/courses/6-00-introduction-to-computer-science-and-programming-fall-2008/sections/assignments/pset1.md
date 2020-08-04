@@ -3,7 +3,7 @@ title: Problem Set 1
 description: >-
   Problem set on using control flow in Python and formulating a computational
   solution to a problem.
-type: courses
+type: course
 layout: pdf
 uid: 0da7848324c6dbd96bcf889bef729854
 file_type: application/pdf

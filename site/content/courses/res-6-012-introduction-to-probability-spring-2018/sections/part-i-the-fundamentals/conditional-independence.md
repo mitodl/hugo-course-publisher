@@ -104,6 +104,6 @@ transcript: >-
   no.</span></p><p><span m="160160">Given C, A and B are not
   independent.</span></p><p>&nbsp;</p>
 uid: b755ce9b1cad5aa13c11e2ee7732c23c
-type: courses
+type: course
 layout: video
 ---

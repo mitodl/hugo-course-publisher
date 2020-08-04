@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex101sol.pdf
 description: >-
   This resource contains solutions for the problems related to the hyperbolic
   sine.
-type: courses
+type: course
 layout: pdf
 uid: f5a44e75403692c5cfbf7882a79d77d3
 file_type: application/pdf

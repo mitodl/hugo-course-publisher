@@ -139,6 +139,6 @@ transcript: >-
   <span m="80050">Great</span> <span m="80200">job,</span> <span
   m="80440">guys.</span></p>
 uid: 65aaf4468cd399bbe70987a4b31ced35
-type: courses
+type: course
 layout: video
 ---

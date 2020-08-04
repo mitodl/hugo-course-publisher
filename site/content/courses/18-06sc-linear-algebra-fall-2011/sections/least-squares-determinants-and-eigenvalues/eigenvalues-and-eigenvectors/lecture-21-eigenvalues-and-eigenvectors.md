@@ -2878,6 +2878,6 @@ transcript: >-
   m='3078790'>New</span> <span m='3079860'>England</span> <span
   m='3080930'>weekend.</span> </p>
 uid: fec5dff8f78667ba0f9ee801f434d996
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: f10_sp.pdf
 description: >-
   This resource contains informaton on the topic of Aircraft Performance
   Analysis and Parasite Drag Estimation.
-type: courses
+type: course
 layout: pdf
 uid: 41a90a0cb8aa01783ebfbd7aaca42855
 file_type: application/pdf

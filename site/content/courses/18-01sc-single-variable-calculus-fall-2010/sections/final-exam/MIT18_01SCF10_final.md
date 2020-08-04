@@ -1,7 +1,7 @@
 ---
 title: 18.01SC Final Exam
 description: This resource contains problem statements of final exam.
-type: courses
+type: course
 layout: pdf
 uid: 93c7107d33490a892fdf426e5033062e
 file_type: application/pdf

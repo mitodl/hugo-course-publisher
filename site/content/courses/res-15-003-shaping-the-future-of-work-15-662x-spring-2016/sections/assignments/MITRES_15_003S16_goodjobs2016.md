@@ -3,7 +3,7 @@ title: 'The Good Jobs Survey: 2016'
 description: >-
   This survey is also linked to in the text, but this is a backup in case the
   online survey disappears.
-type: courses
+type: course
 layout: pdf
 uid: 606c3386de852cab188ee303536b1540
 file_type: application/pdf

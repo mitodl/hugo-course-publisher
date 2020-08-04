@@ -1,7 +1,7 @@
 ---
 title: s06_ps08_sol.pdf
 description: Solutions to problem set.
-type: courses
+type: course
 layout: pdf
 uid: 932e3d96dd1b52b44bf82cd04daa389d
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: 'Reading 7a: Joint Distributions, Independence'
 description: >-
   This is a resource file that contains information regarding reading 7a: joint
   distributions, independence.
-type: courses
+type: course
 layout: pdf
 uid: bc2aecd33d981fe4625fa8a434a9dca7
 file_type: application/pdf

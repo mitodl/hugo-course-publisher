@@ -4,7 +4,7 @@ description: >-
   This resource contains 6 problem statements related to marginal cost of
   production, annual fixed cost of production, demand for labor, and market
   price.
-type: courses
+type: course
 layout: pdf
 uid: 1e7f3ad24377c2ce5b92c9017d63e2fc
 file_type: application/pdf

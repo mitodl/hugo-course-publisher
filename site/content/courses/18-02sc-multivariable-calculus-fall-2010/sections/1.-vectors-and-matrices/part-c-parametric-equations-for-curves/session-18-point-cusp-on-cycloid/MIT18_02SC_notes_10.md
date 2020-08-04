@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_10.pdf
 description: This resource contains information related to cusp on the cycloid.
-type: courses
+type: course
 layout: pdf
 uid: bca8693ceb5b6b22e5aeadb272a9d9a6
 file_type: application/pdf

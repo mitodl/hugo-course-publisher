@@ -1,7 +1,7 @@
 ---
 title: Week 9 Revenue Management Video 1 - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 9468def16b70becbb496f014c82b535d
 file_type: application/pdf

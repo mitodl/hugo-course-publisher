@@ -3498,6 +3498,6 @@ transcript: >-
   m='2993340'>get</span> <span m='2993450'>anything</span> <span
   m='2993750'>better.</span> </p>
 uid: c711b49802b55f7046bebaaca1f2f882
-type: courses
+type: course
 layout: video
 ---

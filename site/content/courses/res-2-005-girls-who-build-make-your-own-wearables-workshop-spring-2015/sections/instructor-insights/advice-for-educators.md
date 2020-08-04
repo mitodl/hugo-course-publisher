@@ -1,11 +1,11 @@
 ---
 title: Advice for Educators
 course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015
+type: course
+layout: course_section
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: 2da070a85dad718ad6b72e08bffc76ab
-    type: section
-    layout: section
     name: Advice for Educators
     weight: 80
     parent: 93633c3e763e0e991be7a7388bafdbb7

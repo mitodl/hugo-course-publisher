@@ -1,7 +1,7 @@
 ---
 title: 18.01SC Final Exam Solutions
 description: This resource contains information regarding final exam solutions.
-type: courses
+type: course
 layout: pdf
 uid: bbbf05286af4bd705af325080bea0e23
 file_type: application/pdf

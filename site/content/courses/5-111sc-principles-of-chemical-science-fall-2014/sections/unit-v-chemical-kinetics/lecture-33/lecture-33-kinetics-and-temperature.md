@@ -3381,6 +3381,6 @@ transcript: >-
   m="3091230">of</span> <span m="3091530">the</span> <span
   m="3091610">big</span> <span m="3091910">barrier.</span></p><p>&nbsp;</p>
 uid: d432fdb038a3a208ede4281fe8799dfb
-type: courses
+type: course
 layout: video
 ---

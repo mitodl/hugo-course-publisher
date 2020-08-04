@@ -249,6 +249,6 @@ transcript: >-
   just forget</span> <span m="726190">about these subtle
   issues.</span></p><p>&nbsp;</p>
 uid: 34e5984bb1182e37e7b9c137804249d5
-type: courses
+type: course
 layout: video
 ---

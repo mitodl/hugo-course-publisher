@@ -2526,6 +2526,6 @@ transcript: >-
   m='2618970'>forget</span> <span m='2619330'>symmetric</span> <span
   m='2619830'>matrixes.</span> </p><p><span m='2620710'>Thanks.</span> </p>
 uid: a6cb6916486e6185cb2794f184a58fac
-type: courses
+type: course
 layout: video
 ---

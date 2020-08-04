@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_rec01_sol.pdf
 description: 'This resource contains solutions of logic, proving an implication. '
-type: courses
+type: course
 layout: pdf
 uid: a48e6fe503bf94a1ac3d78cb659026fc
 file_type: application/pdf

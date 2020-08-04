@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses93d.pdf
 description: >-
   This resource contains informations related to indefinite integrals and
   singularities.
-type: courses
+type: course
 layout: pdf
 uid: 69cbe9b226774e56effadc31c8195b97
 file_type: application/pdf

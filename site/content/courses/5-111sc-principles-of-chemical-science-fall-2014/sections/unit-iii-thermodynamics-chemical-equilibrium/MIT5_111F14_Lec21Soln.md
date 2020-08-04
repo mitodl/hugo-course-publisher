@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Solutions for Lecture 21: Acid-Base
   Equilibrium: Is MIT Water Safe to Drink?
 description: This resource contains information regarding lecture 21 solution.
-type: courses
+type: course
 layout: pdf
 uid: c1aa78881bfbaacca239d55a9cf66c9c
 file_type: application/pdf

@@ -1,11 +1,11 @@
 ---
 title: Readings
 course_id: 6-006-introduction-to-algorithms-fall-2011
+type: course
+layout: course_section
 menu:
   6-006-introduction-to-algorithms-fall-2011:
     identifier: aa632f8351fe4fa58aaf1513de806253
-    type: section
-    layout: section
     name: Readings
     weight: 40
 ---

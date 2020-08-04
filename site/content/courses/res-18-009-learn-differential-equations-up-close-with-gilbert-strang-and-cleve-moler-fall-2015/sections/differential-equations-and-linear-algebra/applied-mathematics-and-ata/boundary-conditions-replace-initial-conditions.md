@@ -972,6 +972,6 @@ transcript: >-
   m='1015600'>value</span> <span m='1016040'>problem.</span> <span
   m='1017190'>Thank</span> <span m='1017410'>you.</span> </p>
 uid: 95a316f0ea50a1679abf55d4872405d0
-type: courses
+type: course
 layout: video
 ---

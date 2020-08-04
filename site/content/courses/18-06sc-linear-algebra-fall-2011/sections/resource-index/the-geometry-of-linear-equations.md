@@ -2383,6 +2383,6 @@ transcript: >-
   m='2367390'>any</span> <span m='2367630'>size</span> <span
   m='2368560'>and</span> </p>
 uid: 8f33cda63dc9109a0110eb47e3c1f7c9
-type: courses
+type: course
 layout: video
 ---

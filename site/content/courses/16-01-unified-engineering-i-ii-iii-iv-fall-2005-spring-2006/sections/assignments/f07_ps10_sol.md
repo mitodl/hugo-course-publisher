@@ -3,7 +3,7 @@ title: f07_ps10_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem on velocity
   and the pressure difference.
-type: courses
+type: course
 layout: pdf
 uid: 5b5e284269254c02fe9b1aa3436a56f0
 file_type: application/pdf

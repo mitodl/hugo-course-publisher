@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses63c.pdf
 description: This resource contains information about numerical integration.
-type: courses
+type: course
 layout: pdf
 uid: a9e3cf4f65b01e02b81a07867b883466
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: Summary of various significance tests
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 20296d480c0ea5458f267602021470e4
 file_type: application/pdf

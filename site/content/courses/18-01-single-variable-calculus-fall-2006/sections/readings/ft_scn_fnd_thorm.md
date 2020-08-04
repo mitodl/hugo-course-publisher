@@ -1,7 +1,7 @@
 ---
 title: Second Fundamental Theorem
 description: Supplement to the textbook on the second fundamental theorem of calculus.
-type: courses
+type: course
 layout: pdf
 uid: 5ee9af81a652866ad75ee70e4c4a07c7
 file_type: application/pdf

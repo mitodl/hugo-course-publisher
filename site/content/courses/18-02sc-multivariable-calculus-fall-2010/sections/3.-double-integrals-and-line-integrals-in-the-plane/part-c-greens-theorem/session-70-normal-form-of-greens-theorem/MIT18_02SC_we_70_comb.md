@@ -3,7 +3,7 @@ title: '18.02SC Problems and Solutions: Verify Green''s Theorem in Normal Form'
 description: >-
   This resource contains information regarding verify green's theorem in normal
   form.
-type: courses
+type: course
 layout: pdf
 uid: c97542e5cf23fa96ce8f8cb93b576aa6
 file_type: application/pdf

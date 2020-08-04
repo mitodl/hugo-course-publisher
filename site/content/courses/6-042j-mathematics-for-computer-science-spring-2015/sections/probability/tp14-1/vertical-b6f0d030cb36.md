@@ -1,6 +1,8 @@
 ---
 title: 4.7 Sampling & Confidence
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Sampling & Confidence: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/vertical-83cee7032f8c" %}})
 *   [4.7.1Law Of Large Numbers: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/_index.md" %}})

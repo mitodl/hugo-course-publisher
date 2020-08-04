@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_sd.pdf
 description: This resource contains information related to second derivative test.
-type: courses
+type: course
 layout: pdf
 uid: a4685876e286873102a9937e1998a098
 file_type: application/pdf

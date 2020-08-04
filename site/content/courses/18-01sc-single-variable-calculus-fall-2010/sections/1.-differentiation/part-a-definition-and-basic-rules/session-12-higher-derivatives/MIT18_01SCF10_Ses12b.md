@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses12b.pdf
 description: This resource contains information related to higher derivatives.
-type: courses
+type: course
 layout: pdf
 uid: 5c9581961d0f94feac9253771dd94547
 file_type: application/pdf

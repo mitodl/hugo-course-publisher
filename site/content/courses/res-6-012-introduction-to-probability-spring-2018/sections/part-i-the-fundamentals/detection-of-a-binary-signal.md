@@ -196,6 +196,6 @@ transcript: >-
   using the Bayes rule, and we need to write down the</span> <span
   m='551710'>different terms that are involved.</span> </p><p></p>
 uid: 13af1afc342b90eac50c687b6be96687
-type: courses
+type: course
 layout: video
 ---

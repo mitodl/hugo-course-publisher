@@ -41,6 +41,6 @@ technical_location: >-
 title: 'Lecture  6: Cooking, Stoves & Fuel'
 transcript: ''
 uid: 12b632ef12caaccb8031afd33f06de48
-type: courses
+type: course
 layout: video
 ---

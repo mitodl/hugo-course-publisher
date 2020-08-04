@@ -1,7 +1,7 @@
 ---
 title: UnifiedSchedule_S04.pdf
 description: This handout contains the course calendar.
-type: courses
+type: course
 layout: pdf
 uid: 8929177117ad02b1d92c5ffb394ad52c
 file_type: application/pdf

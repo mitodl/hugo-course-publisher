@@ -6,7 +6,7 @@ description: >-
   traveling waves, traveling sine wave, standing waves, maxwell?s equations,
   properties of em waves, direction of propagation, wave equation, 1d wave
   equation for e, and electromagnetic radiation.
-type: courses
+type: course
 layout: pdf
 uid: f0730dc7fb61895fa43251265809c52f
 file_type: application/pdf

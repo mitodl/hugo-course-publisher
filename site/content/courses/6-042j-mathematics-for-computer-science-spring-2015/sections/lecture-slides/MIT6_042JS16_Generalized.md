@@ -3,7 +3,7 @@ title: 'Repetitions & Binomial Theorem: Generalized Counting Rules'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: de0236b7ddd07867a12181cbc9257768
 file_type: application/pdf

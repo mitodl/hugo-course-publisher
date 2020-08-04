@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 15: Statistical Thinking'
 transcript: ''
 uid: c0ced5e85bcad2aa88862462d9894177
-type: courses
+type: course
 layout: video
 ---

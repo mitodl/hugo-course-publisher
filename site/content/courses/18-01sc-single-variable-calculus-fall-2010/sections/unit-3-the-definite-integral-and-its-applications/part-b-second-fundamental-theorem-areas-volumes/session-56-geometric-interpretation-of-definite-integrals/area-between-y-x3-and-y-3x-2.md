@@ -625,6 +625,6 @@ transcript: >-
   m='529770'>area.</span> <span m='530710'>So I'll end</span> <span
   m='531130'>there.</span> </p>
 uid: ecedaefad64f4369b70d1217b88cc0a9
-type: courses
+type: course
 layout: video
 ---

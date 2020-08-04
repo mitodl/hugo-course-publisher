@@ -3,7 +3,7 @@ title: Firewalker Fill-in-the-Blank Code Words
 description: >-
   This file contains information regarding firewalker fill-in-the-blank code
   words.
-type: courses
+type: course
 layout: pdf
 uid: 4bbef5b47f569175eb3f379d17336658
 file_type: application/pdf

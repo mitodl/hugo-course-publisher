@@ -260,6 +260,6 @@ transcript: >-
   m='219058'>four</span> <span m='219636'>and</span> <span
   m='220214'>eight</span> <span m='220792'>inches.</span> </p>
 uid: a45eec02d316afae45fb3041650e1173
-type: courses
+type: course
 layout: video
 ---

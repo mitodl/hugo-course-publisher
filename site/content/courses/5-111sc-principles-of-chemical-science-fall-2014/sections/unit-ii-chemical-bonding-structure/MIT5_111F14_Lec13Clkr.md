@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Clicker Questions for Lecture 13: Molecular
   orbital theory
 description: This resource contains information regarding Molecular Orbital Theory.
-type: courses
+type: course
 layout: pdf
 uid: 020b2e349c4314db63b9794c924786de
 file_type: application/pdf

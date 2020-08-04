@@ -463,6 +463,6 @@ transcript: >-
   m='371867'>preprocessing</span> <span m='372180'>steps</span> <span
   m='372836'>in</span> <span m='373493'>R.</span> </p>
 uid: c3bb194aa2411c6d3118cd7a0056bb05
-type: courses
+type: course
 layout: video
 ---

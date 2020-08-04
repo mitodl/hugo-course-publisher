@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Using the Second Fundamental Theorem of Calculus'
 transcript: ''
 uid: 4fa23bfb54baea5abb1a9efecf78d179
-type: courses
+type: course
 layout: video
 ---

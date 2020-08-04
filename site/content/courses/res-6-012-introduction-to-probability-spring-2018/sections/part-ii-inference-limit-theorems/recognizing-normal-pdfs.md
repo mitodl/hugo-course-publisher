@@ -174,6 +174,6 @@ transcript: >-
   m='428680'>Negative exponential of a quadratic function of x</span> <span
   m='431940'>is always a normal PDF.</span> </p>
 uid: 7b0a15836dacbf3fd311a95bb2c3abc6
-type: courses
+type: course
 layout: video
 ---

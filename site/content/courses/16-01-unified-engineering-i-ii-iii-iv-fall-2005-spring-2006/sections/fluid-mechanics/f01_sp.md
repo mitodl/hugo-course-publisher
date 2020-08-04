@@ -3,7 +3,7 @@ title: f01_sp.pdf
 description: >-
   This resource provides information on formation of lifting flow and
   established steady flow.
-type: courses
+type: course
 layout: pdf
 uid: d608811c5c62f1d00c9b28810af4bfbe
 file_type: application/pdf

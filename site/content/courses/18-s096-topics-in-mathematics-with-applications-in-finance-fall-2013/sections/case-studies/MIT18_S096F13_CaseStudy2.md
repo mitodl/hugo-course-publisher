@@ -1,7 +1,7 @@
 ---
 title: 'Case Study 2: Linear Regression Models for Exchange Rate Regimes'
 description: 'This file contains information regarding lecture 2 case studies. '
-type: courses
+type: course
 layout: pdf
 uid: f8c5c85ab8873fb4ef4b0bfcc6aec835
 file_type: application/pdf

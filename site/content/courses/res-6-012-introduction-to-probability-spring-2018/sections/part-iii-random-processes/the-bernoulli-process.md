@@ -139,6 +139,6 @@ transcript: >-
   m='251190'>derived quite deep results on a sequence of what we now</span>
   <span m='257920'>call Bernoulli trials.</span> </p>
 uid: 994861c0bb7c8ec26b50c228bd8a6c09
-type: courses
+type: course
 layout: video
 ---

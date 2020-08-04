@@ -76,6 +76,6 @@ technical_location: >-
 title: 'Clip 4: Integral of 1/x'
 transcript: ''
 uid: 856c2ef2077d5244b0c2bdf1f5ac42fa
-type: courses
+type: course
 layout: video
 ---

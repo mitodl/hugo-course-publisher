@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_final.pdf
 description: This resource contains final exam.
-type: courses
+type: course
 layout: pdf
 uid: 23dc3226199eb8825acea5e7590f7caf
 file_type: application/pdf

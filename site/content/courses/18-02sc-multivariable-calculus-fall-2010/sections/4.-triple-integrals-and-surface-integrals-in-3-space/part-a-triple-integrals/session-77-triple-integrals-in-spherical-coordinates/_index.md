@@ -1,7 +1,7 @@
 ---
 title: 'Session 77: Triple Integrals in Spherical Coordinates'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-type: courses
+type: course
 layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-76-spherical-coordinates/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-78-applications-gravitational-attraction/_index.md" %}}) »

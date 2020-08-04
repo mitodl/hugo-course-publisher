@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses3.4prob.pdf
 description: >-
   This resource contains problem set related to similar matrices and jordan
   form.
-type: courses
+type: course
 layout: pdf
 uid: dd8682e0d4a5df4ce8b5d65095a63592
 file_type: application/pdf

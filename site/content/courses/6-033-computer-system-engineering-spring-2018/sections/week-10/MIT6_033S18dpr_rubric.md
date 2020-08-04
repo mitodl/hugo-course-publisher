@@ -1,7 +1,7 @@
 ---
 title: 'Computer System Engineering, Design Project Final Rubric'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: df7097db2a3753b906cd51adc0ef46a5
 file_type: application/pdf

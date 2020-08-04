@@ -4045,6 +4045,6 @@ transcript: >-
   m='2904040'>week</span> <span m='2904160'>on the</span> <span
   m='2904330'>exam.</span> </p>
 uid: 60b6d7f086da7900b115ac07b4bea8bd
-type: courses
+type: course
 layout: video
 ---

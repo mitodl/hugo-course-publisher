@@ -1,11 +1,11 @@
 ---
 title: Lecture Notes
 course_id: 8-04-quantum-physics-i-spring-2013
+type: course
+layout: course_section
 menu:
   8-04-quantum-physics-i-spring-2013:
     identifier: 63edb0d21a976ed4f730488186611a35
-    type: section
-    layout: section
     name: Lecture Notes
     weight: 40
 ---

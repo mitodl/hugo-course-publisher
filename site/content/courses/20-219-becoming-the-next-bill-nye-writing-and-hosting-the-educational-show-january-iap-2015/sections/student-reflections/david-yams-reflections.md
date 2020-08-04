@@ -2,11 +2,11 @@
 title: David Yam's Reflections
 course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
+type: course
+layout: course_section
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: 4cdc73134a0d59d41bc06e46b48b9564
-    type: section
-    layout: section
     name: David Yam's Reflections
     weight: 410
     parent: dadfeb1198fbe700d205d71a4c85f081

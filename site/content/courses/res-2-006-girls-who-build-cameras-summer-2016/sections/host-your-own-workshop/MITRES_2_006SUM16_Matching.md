@@ -1,7 +1,7 @@
 ---
 title: Team Matching
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 03cba51099825843fc8ffee394729faf
 file_type: application/pdf

@@ -786,6 +786,6 @@ transcript: >-
   Wednesday and Friday,</span> <span m='2708660'>as advertised.</span>
   </p><p></p>
 uid: ee1eaf7d3728b0c47e7f2c98261083f4
-type: courses
+type: course
 layout: video
 ---

@@ -1,16 +1,14 @@
 ---
 title: PS.10.1 Blocks and Massive Pulley
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: videogallery
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 1ea17804f8617e6c0bcee9e83c087d94
-    type: section
-    layout: section
     name: Week 10 Worked Example
     weight: 2030
     parent: 146d8dd77c99bbafceb8ed10af8bee47
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/31.7-worked-example-two-blocks-and-a-pulley-using-energy" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/problem-set-10" %}}) »
 

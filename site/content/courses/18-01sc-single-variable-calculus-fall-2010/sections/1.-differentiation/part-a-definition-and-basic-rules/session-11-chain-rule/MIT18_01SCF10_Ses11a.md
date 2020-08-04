@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses11a.pdf
 description: This resource contains information related to chain rule.
-type: courses
+type: course
 layout: pdf
 uid: 66ba9836b3c9e99138bc8d766d913bc5
 file_type: application/pdf

@@ -360,6 +360,6 @@ transcript: >-
   m='287644'>in</span> <span m='288148'>our</span> <span m='288651'>next</span>
   <span m='289155'>video.</span> </p>
 uid: 51adae7fc07ede7834f1530585f66d11
-type: courses
+type: course
 layout: video
 ---

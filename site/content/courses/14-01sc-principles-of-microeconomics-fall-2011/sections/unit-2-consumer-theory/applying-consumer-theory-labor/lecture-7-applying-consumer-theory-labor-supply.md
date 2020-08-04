@@ -3812,6 +3812,6 @@ transcript: >-
   m='3022490'>through</span> <span m='3023870'>my</span> <span
   m='3023980'>next</span> <span m='3024260'>lecture.</span> </p>
 uid: 08a84aae8961aa0d6ea2798e975825fa
-type: courses
+type: course
 layout: video
 ---

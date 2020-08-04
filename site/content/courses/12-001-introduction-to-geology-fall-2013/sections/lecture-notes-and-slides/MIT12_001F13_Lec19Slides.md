@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 19 Slides: Earthquakes'
 description: 'This file contains the information regarding lecture 19 Slides: Earthquakes.'
-type: courses
+type: course
 layout: pdf
 uid: c1f05935417d91f6887916de7b316f46
 file_type: application/pdf

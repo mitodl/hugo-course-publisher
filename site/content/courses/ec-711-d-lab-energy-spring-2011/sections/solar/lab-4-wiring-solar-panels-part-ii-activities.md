@@ -41,6 +41,6 @@ technical_location: >-
 title: 'Lab 4: Wiring Solar Panels, Part II: Activities'
 transcript: ''
 uid: 97a34ce75fb2a23054a4c6c113127714
-type: courses
+type: course
 layout: video
 ---

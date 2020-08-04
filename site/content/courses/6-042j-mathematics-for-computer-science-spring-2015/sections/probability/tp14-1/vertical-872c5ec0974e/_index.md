@@ -1,7 +1,7 @@
 ---
 title: 4.7 Sampling & Confidence
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Not So Strong]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/vertical-84aa6f70d1c0" %}})

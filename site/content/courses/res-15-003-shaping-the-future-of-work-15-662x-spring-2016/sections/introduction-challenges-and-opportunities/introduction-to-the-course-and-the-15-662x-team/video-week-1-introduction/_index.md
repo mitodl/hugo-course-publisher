@@ -1,7 +1,7 @@
 ---
 title: 1.1 Introduction to the Course and the 15.662x Team
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Video: Meet Professor Kochan and the 16.662x Team]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/introduction-challenges-and-opportunities/introduction-to-the-course-and-the-15-662x-team/video-meet-professor-kochan-and-the-16-662x-team" %}})

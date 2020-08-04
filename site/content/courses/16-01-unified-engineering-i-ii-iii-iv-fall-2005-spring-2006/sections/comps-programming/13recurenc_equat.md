@@ -1,7 +1,7 @@
 ---
 title: 13recurenc_equat.pdf
 description: Lecture 13 (2003) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 8ff1cef6f24ec6ed3564ec47db149ac0
 file_type: application/pdf

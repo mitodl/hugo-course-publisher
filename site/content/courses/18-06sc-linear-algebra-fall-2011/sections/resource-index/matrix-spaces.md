@@ -563,6 +563,6 @@ transcript: >-
   m='532430'>We're</span> <span m='532710'>done.</span> <span
   m='533310'>Thank</span> <span m='533550'>you.</span> </p>
 uid: d6d7b8f97296fbdad85e54a12c580630
-type: courses
+type: course
 layout: video
 ---

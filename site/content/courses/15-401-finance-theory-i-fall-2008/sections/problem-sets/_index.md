@@ -1,11 +1,11 @@
 ---
 title: Problem Sets
 course_id: 15-401-finance-theory-i-fall-2008
+type: course
+layout: course_section
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: c49086b5393127392fad42b6ea85a105
-    type: section
-    layout: section
     name: Problem Sets
     weight: 50
 ---

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: More Examples of Integration'
 transcript: ''
 uid: 54ce1cabb09a94edf6932aa0684bb0d8
-type: courses
+type: course
 layout: video
 ---

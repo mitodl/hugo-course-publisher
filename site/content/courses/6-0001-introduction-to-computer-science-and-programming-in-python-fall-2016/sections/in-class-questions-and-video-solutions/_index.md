@@ -1,11 +1,11 @@
 ---
 title: In-Class Questions and Video Solutions
 course_id: 6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016
+type: course
+layout: course_section
 menu:
   6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016:
     identifier: cc74bf5b1a22399e271270abfff469d7
-    type: section
-    layout: section
     name: In-Class Questions and Video Solutions
     weight: 50
 ---

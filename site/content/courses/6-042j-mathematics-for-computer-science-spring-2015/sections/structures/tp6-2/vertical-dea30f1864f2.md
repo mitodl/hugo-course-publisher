@@ -1,6 +1,8 @@
 ---
 title: 2.4  RSA Encryption
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Relative Primality]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/vertical-d2f6dc0d86f4" %}})
 *   [2.4.1RSA Public Key Encryption: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/_index.md" %}})

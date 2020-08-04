@@ -517,6 +517,6 @@ transcript: >-
   m='448388'>we've</span> <span m='448932'>just</span> <span
   m='449476'>done.</span> </p>
 uid: 598eb710c9675a9df54b9369f24d426f
-type: courses
+type: course
 layout: video
 ---

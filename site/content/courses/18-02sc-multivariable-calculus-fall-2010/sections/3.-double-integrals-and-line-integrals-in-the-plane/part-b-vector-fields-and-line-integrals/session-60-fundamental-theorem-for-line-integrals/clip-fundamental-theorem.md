@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Fundamental Theorem'
 transcript: ''
 uid: fe235f3b01caf8b1e18cb152acc77c6e
-type: courses
+type: course
 layout: video
 ---

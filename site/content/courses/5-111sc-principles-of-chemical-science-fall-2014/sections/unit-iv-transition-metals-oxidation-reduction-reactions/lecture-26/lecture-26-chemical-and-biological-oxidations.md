@@ -2805,6 +2805,6 @@ transcript: >-
   m='2618470'>sorts</span> <span m='2618770'>of</span> <span
   m='2618860'>things.</span> </p>
 uid: f19c0c30bba3ecd0e09fa752c8e7fe13
-type: courses
+type: course
 layout: video
 ---

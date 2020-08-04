@@ -1,7 +1,7 @@
 ---
 title: f16_mud.pdf
 description: Review questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: cafcfa3c4ff3029c04a7557d42e3afa9
 file_type: application/pdf

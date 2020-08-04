@@ -1,7 +1,7 @@
 ---
 title: '9.4 Operating Room Scheduling: Making Hospitals Run Smoothly  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Video 2: An Optimization Model]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-2-an-optimization-model" %}})

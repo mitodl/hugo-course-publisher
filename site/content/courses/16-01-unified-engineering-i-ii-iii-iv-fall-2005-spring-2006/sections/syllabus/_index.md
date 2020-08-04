@@ -1,15 +1,13 @@
 ---
 title: Syllabus
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
+type: course
+layout: videogallery
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
     identifier: c4fd6fd61378ecf4a56ab73c6b455e18
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
-type: courses
-layout: videogallery
 ---
 Course Meeting Times
 --------------------

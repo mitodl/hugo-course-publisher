@@ -1,7 +1,7 @@
 ---
 title: t02_ps02_sol.pdf
 description: This resource contains hand written solution to Unified T2 problem.
-type: courses
+type: course
 layout: pdf
 uid: 308330f1cf228e364495bc289deea299
 file_type: application/pdf

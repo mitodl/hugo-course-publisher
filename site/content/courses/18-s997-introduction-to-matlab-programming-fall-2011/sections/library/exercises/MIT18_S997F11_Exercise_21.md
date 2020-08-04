@@ -1,7 +1,7 @@
 ---
 title: 18.S997 Conway Game Exercise 21
 description: This resource contains information regarding exercise 21.
-type: courses
+type: course
 layout: pdf
 uid: 8c7811569df44e1f4d1ca2a15c9f9b11
 file_type: application/pdf

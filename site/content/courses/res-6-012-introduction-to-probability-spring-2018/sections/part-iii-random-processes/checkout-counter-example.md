@@ -253,6 +253,6 @@ transcript: >-
   state Markov</span> <span m='724230'>chain model of our simple supermarket
   checkout counter</span> <span m='728030'>example.</span> </p>
 uid: 6d92716339ff35aa26e8d9060ef78838
-type: courses
+type: course
 layout: video
 ---

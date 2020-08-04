@@ -3,7 +3,7 @@ title: prsm15.pdf
 description: >-
   This resource contains concept questions and answers based on concept of
   structural integrity and stress-strain.
-type: courses
+type: course
 layout: pdf
 uid: 424e85e4575417d0257515623e119538
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 32 Notes: Glaciers'
 description: This is a file that contains information regarding glaciers.
-type: courses
+type: course
 layout: pdf
 uid: bcca3aeb2b6a50bcc665b2b7f93d4ff4
 file_type: application/pdf

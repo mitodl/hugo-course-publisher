@@ -1,7 +1,7 @@
 ---
 title: Barrel on Fire
 description: This resource contains the information related to Barrel on Fire.
-type: courses
+type: course
 layout: pdf
 uid: e39f6e11e20a4ab9c3d0adfd836c580e
 file_type: application/pdf

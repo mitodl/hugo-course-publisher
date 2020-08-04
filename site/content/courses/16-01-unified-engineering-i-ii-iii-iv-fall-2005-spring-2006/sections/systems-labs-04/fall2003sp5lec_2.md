@@ -1,7 +1,7 @@
 ---
 title: fall2003sp5lec_2.pdf
 description: Ideas and suggestions for the Water Rocket Lab.
-type: courses
+type: course
 layout: pdf
 uid: f6b88fb87d5a7ceddbf3ad81314c3183
 file_type: application/pdf

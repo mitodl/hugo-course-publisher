@@ -114,6 +114,6 @@ transcript: >-
   <span m='166490'>and develop them again for their continuous
   counterparts.</span> </p><p></p>
 uid: 15d831a5d5b9a774ed255a7d5c120c73
-type: courses
+type: course
 layout: video
 ---

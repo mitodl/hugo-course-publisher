@@ -2809,6 +2809,6 @@ transcript: >-
   m="2996780">their</span> <span m="2996940">dimensions.</span></p><p><span
   m="2997280">Thanks.</span></p>
 uid: 82b0ea120c0d050cca292f8e1b7d8a55
-type: courses
+type: course
 layout: video
 ---

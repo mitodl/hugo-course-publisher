@@ -1,11 +1,11 @@
 ---
 title: 3.5 Assignment 3
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: course_section
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: d4a650ea930c2c8c0f989b353a5a342e
-    type: section
-    layout: section
     name: 3.5 Assignment 3
     weight: 1100
     parent: c4464cf49ddb1a4bc78cfaa6f93b74de

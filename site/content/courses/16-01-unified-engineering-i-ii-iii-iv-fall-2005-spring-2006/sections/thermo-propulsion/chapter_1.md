@@ -1,7 +1,7 @@
 ---
 title: chapter_1.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: fbdcd9da522663068e79db3701bf44fd
 file_type: application/pdf

@@ -182,6 +182,6 @@ transcript: >-
   m='168177'>and</span> <span m='168902'>improving</span> <span
   m='169628'>quantitative</span> <span m='170353'>models.</span> </p>
 uid: d3bf6fcee70d07785c6c12c87dfbe83e
-type: courses
+type: course
 layout: video
 ---

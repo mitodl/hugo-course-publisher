@@ -121,6 +121,6 @@ transcript: >-
   collision.</span> </p><p><span m='256600'>It's only negative 1/2 mu V1, 2
   initial quantity squared.</span> </p><p></p>
 uid: fc027945fed6319af573f86bc60d219d
-type: courses
+type: course
 layout: video
 ---

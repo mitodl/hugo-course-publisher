@@ -848,6 +848,6 @@ transcript: >-
   m='947520'>equations.</span> <span m='948310'>Thank</span> <span
   m='948480'>you.</span> </p>
 uid: 017fc5c876cf7fb4800ec44e312b3d8d
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: t03_ps02_fall03.pdf
 description: This resource contains problem set on quasi-static expansion processes.
-type: courses
+type: course
 layout: pdf
 uid: 49ce76025d5d0e46964d26f5c7ca3011
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses24e.pdf
 description: >-
   This resource contains information related to examples of linear
   approximation.
-type: courses
+type: course
 layout: pdf
 uid: 6bfd76aaf26c1e40c41419010dfba1ff
 file_type: application/pdf

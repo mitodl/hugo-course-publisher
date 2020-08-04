@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_k.pdf
 description: This resource contains information related to kepler’s second law.
-type: courses
+type: course
 layout: pdf
 uid: 040b72c08d4f0ef67faf085066e1cc71
 file_type: application/pdf

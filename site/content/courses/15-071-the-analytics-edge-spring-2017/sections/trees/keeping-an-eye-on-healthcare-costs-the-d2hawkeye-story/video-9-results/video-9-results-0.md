@@ -221,6 +221,6 @@ transcript: >-
   m='182683'>Analytics</span> <span m='183155'>in</span> <span
   m='183627'>2009.</span> </p>
 uid: e78b27f219eb8b15b4f486e9af94661c
-type: courses
+type: course
 layout: video
 ---

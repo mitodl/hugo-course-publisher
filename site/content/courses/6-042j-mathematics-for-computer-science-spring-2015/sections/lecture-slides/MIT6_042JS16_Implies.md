@@ -3,7 +3,7 @@ title: 'Logic and Propositions: Implies'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 6b4b295b00280e95f91b359b3449920b
 file_type: application/pdf

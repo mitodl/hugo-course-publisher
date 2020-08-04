@@ -1,11 +1,11 @@
 ---
 title: Exam 4
 course_id: 18-02sc-multivariable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: 0965bb3a959cb82bae94acd89d51076e
-    type: section
-    layout: section
     name: Exam 4
     weight: 1350
     parent: 80a7ff20650c3af9a002f822edced8a0

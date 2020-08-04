@@ -596,6 +596,6 @@ transcript: >-
   m='542940'>to</span> <span m='543783'>geographical</span> <span
   m='544626'>maps.</span> </p>
 uid: 4ed777efe89a7ba8862e8441c0bc4ea5
-type: courses
+type: course
 layout: video
 ---

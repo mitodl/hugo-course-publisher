@@ -1,7 +1,7 @@
 ---
 title: online_sub_inst.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 35098308b9323f8104c234a1e9b31f39
 file_type: application/pdf

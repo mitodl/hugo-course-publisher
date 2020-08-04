@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses74c.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: fb05f2c841853ffbbd15d83c22c2055d
 file_type: application/pdf

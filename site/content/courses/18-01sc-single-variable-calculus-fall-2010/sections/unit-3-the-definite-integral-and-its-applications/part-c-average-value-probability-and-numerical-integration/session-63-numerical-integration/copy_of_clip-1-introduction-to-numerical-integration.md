@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Trapezoidal Rule'
 transcript: ''
 uid: 5b6a504fbd96499de19dacfc7ab17dc6
-type: courses
+type: course
 layout: video
 ---

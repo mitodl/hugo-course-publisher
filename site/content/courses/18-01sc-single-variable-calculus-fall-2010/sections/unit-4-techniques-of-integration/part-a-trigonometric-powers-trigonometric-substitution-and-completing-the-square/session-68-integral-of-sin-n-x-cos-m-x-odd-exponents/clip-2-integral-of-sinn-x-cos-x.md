@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Integral of sinn(x) cos(x)'
 transcript: ''
 uid: 057c3e6b2baefe5cfaeedfd0d49060a0
-type: courses
+type: course
 layout: video
 ---

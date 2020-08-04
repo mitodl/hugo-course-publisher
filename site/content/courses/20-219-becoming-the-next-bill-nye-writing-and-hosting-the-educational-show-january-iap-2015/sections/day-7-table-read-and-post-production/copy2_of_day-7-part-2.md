@@ -7509,6 +7509,6 @@ transcript: >-
   m="6218080">see</span> <span m="6218220">your</span> <span
   m="6218350">videos.</span></p><p>&nbsp;</p>
 uid: 8efd191ad6b0e37c2f3ed18d67e5b086
-type: courses
+type: course
 layout: video
 ---

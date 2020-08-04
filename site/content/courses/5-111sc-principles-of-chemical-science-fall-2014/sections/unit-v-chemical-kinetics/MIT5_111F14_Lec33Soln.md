@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 33: Kinetics and
   Temperature
 description: This resource contains information regarding lecture 33 solution.
-type: courses
+type: course
 layout: pdf
 uid: 1f0f0b1fba763afd809cd086a03d5384
 file_type: application/pdf

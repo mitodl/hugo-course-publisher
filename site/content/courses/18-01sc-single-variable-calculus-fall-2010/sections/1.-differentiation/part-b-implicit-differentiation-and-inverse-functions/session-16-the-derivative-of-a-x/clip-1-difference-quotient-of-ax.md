@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Difference Quotient of ax'
 transcript: ''
 uid: 86e8e0e0dcf738a3e928d15f1e0437de
-type: courses
+type: course
 layout: video
 ---

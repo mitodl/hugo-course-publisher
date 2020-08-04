@@ -1,7 +1,7 @@
 ---
 title: '18.S997 Fractals and Chaos: Exercise 16'
 description: This resource contains information regarding exercise 16.
-type: courses
+type: course
 layout: pdf
 uid: 73d9acd77066bf17b49b679de24741a8
 file_type: application/pdf

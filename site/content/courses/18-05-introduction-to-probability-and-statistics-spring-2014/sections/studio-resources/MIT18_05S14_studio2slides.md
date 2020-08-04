@@ -1,7 +1,7 @@
 ---
 title: 'Studio 2 Slides with Solutions: Expected value'
 description: This is a resource file that contains information regarding expected value.
-type: courses
+type: course
 layout: pdf
 uid: 7d3b4bdeb5ae1f94f70a2948ff57456f
 file_type: application/pdf

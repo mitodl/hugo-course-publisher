@@ -1,7 +1,7 @@
 ---
 title: '8.2 Airline Revenue Management: An Introduction to Linear Optimization '
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/quick-question-606" %}})

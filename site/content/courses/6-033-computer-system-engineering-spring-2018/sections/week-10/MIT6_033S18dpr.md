@@ -1,7 +1,7 @@
 ---
 title: 'Computer System Engineering, Design Project Final Report'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 85a82c1bd74e0931df5036a9cbc97de6
 file_type: application/pdf

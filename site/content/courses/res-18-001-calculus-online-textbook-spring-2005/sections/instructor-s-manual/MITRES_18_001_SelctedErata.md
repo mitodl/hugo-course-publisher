@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_SelctedErata.pdf
 description: This resource contains information related to selected errata.
-type: courses
+type: course
 layout: pdf
 uid: 3b0b38a9b4a6d0a8e111e999d4fc52e5
 file_type: application/pdf

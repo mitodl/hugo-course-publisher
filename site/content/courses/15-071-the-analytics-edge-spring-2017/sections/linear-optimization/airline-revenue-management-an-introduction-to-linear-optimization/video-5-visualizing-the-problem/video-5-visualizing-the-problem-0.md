@@ -227,6 +227,6 @@ transcript: >-
   m='160100'>and</span> <span m='160640'>demands</span> <span
   m='161180'>change.</span> </p>
 uid: 7049189f24cfe5e0b7a78b4c6f748eb7
-type: courses
+type: course
 layout: video
 ---

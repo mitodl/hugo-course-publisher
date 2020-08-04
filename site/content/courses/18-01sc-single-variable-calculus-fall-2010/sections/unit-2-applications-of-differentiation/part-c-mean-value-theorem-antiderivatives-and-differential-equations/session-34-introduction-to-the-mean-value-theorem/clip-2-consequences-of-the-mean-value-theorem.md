@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Consequences of the Mean Value Theorem'
 transcript: ''
 uid: e33e5f75a2fc21fa276f88c31e8f1487
-type: courses
+type: course
 layout: video
 ---

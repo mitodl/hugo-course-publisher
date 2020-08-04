@@ -3,7 +3,7 @@ title: Solutions to Final Exam
 description: >-
   This is a resource file that contains information regarding solutions to final
   exam.
-type: courses
+type: course
 layout: pdf
 uid: f183a74ae540f64e1bd9ff1172bae7e4
 file_type: application/pdf

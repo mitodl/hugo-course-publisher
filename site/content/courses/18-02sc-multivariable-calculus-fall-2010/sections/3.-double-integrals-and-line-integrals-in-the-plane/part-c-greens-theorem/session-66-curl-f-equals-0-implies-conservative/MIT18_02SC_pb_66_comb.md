@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding identifying gradient fields and
   exact differentials.
-type: courses
+type: course
 layout: pdf
 uid: 4967c4adab8b6f26e3f0952d460d4e80
 file_type: application/pdf

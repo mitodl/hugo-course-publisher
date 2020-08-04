@@ -2,11 +2,11 @@
 title: Kenneth Cheah's Reflections
 course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
+type: course
+layout: course_section
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: e9794c3b05c88173ff70a55f9946067b
-    type: section
-    layout: section
     name: Kenneth Cheah's Reflections
     weight: 350
     parent: dadfeb1198fbe700d205d71a4c85f081

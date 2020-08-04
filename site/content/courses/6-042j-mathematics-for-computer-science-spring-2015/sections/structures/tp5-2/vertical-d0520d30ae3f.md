@@ -1,6 +1,8 @@
 ---
 title: 2.2  Congruences
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [< Congruences]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-2/_index.md" %}})
 *   [2.2.1Congruence mod n: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-2/_index.md" %}})

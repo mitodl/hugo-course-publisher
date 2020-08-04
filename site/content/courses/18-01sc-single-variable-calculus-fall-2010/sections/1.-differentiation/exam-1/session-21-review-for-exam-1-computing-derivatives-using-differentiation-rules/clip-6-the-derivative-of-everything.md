@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 6: The Derivative of Everything?'
 transcript: ''
 uid: db72e3be9987e7cffe7ce83999f2f2fb
-type: courses
+type: course
 layout: video
 ---

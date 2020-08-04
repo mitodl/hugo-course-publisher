@@ -780,6 +780,6 @@ transcript: >-
   m='584550'>equal</span> <span m='584850'>to</span> <span m='584950'>1.</span>
   </p>
 uid: c28a68cf275c4b1c676b3e286543012a
-type: courses
+type: course
 layout: video
 ---

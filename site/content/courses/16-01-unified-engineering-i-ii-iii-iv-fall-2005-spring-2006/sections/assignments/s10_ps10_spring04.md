@@ -3,7 +3,7 @@ title: s10_ps10_spring04.pdf
 description: >-
   Problem set involving five questions on
   using?partial?fraction?expansions?to?determine?inverse?Laplace?transforms.
-type: courses
+type: course
 layout: pdf
 uid: 391c2b379ff13bb9315064004f3c593f
 file_type: application/pdf

@@ -349,6 +349,6 @@ transcript: >-
   m='288595'>and</span> <span m='289220'>many</span> <span
   m='289845'>others.</span> </p>
 uid: 06385c34bf64201c1d6b4f00929b15b1
-type: courses
+type: course
 layout: video
 ---

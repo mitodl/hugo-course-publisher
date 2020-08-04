@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Introduction to Curve Sketching'
 transcript: ''
 uid: a93937ba5f1f20b70d959170c9043130
-type: courses
+type: course
 layout: video
 ---

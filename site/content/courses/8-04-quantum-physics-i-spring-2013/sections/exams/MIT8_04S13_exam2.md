@@ -1,7 +1,7 @@
 ---
 title: 8.04 Spring 2013 Exam 2
 description: This is a resource file that contains information regarding exam 2.
-type: courses
+type: course
 layout: pdf
 uid: 27f26cbde859698525f652bf3f0353cd
 file_type: application/pdf

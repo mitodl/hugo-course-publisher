@@ -3001,6 +3001,6 @@ transcript: >-
   <span m="2494630">this</span> <span m="2494930">lecture</span> <span
   m="2495530">today.</span></p>
 uid: 3b1818505a4c6c7284941360f5401ec2
-type: courses
+type: course
 layout: video
 ---

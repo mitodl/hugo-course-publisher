@@ -3,7 +3,7 @@ title: MIT18_02SC_we_10_comb.pdf
 description: >-
   This resource contains information related to product rule for vector
   derivatives. 
-type: courses
+type: course
 layout: pdf
 uid: c529e257bc14aa65e365699bf9e3d787
 file_type: application/pdf

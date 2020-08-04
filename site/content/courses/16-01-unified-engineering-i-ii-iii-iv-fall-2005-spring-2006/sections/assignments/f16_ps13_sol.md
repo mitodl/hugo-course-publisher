@@ -3,7 +3,7 @@ title: f16_ps13_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on
   physically-possible flows.
-type: courses
+type: course
 layout: pdf
 uid: 6893163e5e564f68d48d9eea0f589bf4
 file_type: application/pdf

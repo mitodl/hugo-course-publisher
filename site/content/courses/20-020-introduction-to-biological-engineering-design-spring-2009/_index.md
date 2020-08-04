@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 course_title: Introduction to Biological Engineering Design
 course_image_url: >-

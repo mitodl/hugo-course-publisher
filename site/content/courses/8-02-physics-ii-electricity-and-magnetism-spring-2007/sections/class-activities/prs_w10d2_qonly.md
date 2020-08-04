@@ -3,7 +3,7 @@ title: prs_w10d2_qonly.pdf
 description: >-
   This resource contains experiments on inductor connected to a battery,
   potential difference and driving a motor.
-type: courses
+type: course
 layout: pdf
 uid: 1186b333b072ff2ad4c1bafd79cd97ee
 file_type: application/pdf

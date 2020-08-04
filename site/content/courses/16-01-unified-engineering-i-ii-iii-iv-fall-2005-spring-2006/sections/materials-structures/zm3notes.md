@@ -1,7 +1,7 @@
 ---
 title: zm3notes.pdf
 description: Lecture notes.
-type: courses
+type: course
 layout: pdf
 uid: f5adf9ad718f25ddf630a140672fd94c
 file_type: application/pdf

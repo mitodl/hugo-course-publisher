@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses3.4sum.pdf
 description: >-
   This resource contains information related to similar matrices and jordan
   form.
-type: courses
+type: course
 layout: pdf
 uid: 6e1f793f6c25fd39e002c100e278bf1b
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: prszu2.pdf
 description: This file contains the questions asked in unified lecture.
-type: courses
+type: course
 layout: pdf
 uid: d81cfb13c3acddb9ee90209a9de30713
 file_type: application/pdf

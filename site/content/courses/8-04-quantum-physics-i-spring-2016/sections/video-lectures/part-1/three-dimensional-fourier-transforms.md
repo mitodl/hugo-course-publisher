@@ -304,6 +304,6 @@ transcript: >-
   m='359050'>Parseval</span> <span m='361650'>hold</span> <span
   m='362400'>equally</span> <span m='362880'>well.</span> </p>
 uid: be28e446ee4e93867a115f31e5134a11
-type: courses
+type: course
 layout: video
 ---

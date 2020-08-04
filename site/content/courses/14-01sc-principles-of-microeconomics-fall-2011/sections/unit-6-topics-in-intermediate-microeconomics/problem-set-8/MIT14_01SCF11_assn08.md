@@ -3,7 +3,7 @@ title: MIT14_01SCF11_assn08.pdf
 description: >-
   This resource contains 4 problem statements related to equilibrium, market
   price, and profits.
-type: courses
+type: course
 layout: pdf
 uid: a0daeb011d937f560b8cba4d164a45a7
 file_type: application/pdf

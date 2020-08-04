@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 5: d/dx (x10 + 8x)6'
 transcript: ''
 uid: ebd6b4355f820415829f6e1b89b28353
-type: courses
+type: course
 layout: video
 ---

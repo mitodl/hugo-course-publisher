@@ -1,7 +1,7 @@
 ---
 title: ' 6.00SC Optional Recitation: Notes on Big-O Notation'
 description: This resource contains information about rec 4.
-type: courses
+type: course
 layout: pdf
 uid: 40c9c46fcf6cd68e91a011ea04feb1d9
 file_type: application/pdf

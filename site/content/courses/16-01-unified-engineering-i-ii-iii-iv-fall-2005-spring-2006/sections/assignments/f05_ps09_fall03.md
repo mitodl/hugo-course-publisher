@@ -3,7 +3,7 @@ title: f05_ps09_fall03.pdf
 description: >-
   This resource contains the problem set based on the aircraft and the Wright
   Brothers Wind Tunnel.
-type: courses
+type: course
 layout: pdf
 uid: 569856de1d4fb26350cf0a3f888a8b80
 file_type: application/pdf

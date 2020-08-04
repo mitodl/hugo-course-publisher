@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Line Integrals in Space'
 transcript: ''
 uid: 496ae7304b4ee8763b858d5058c37112
-type: courses
+type: course
 layout: video
 ---

@@ -1653,6 +1653,6 @@ transcript: >-
   m="1261320">and</span> <span m="1261440">table</span> <span
   m="1261650">tennis</span> <span m="1262140">too.</span></p>
 uid: b28a83d0a182a5bf266602ff98c10c16
-type: courses
+type: course
 layout: video
 ---

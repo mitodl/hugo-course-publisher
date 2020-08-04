@@ -3,7 +3,7 @@ title: What is an Engineer?
 description: >-
   This is a resource file that contains information regarding what is an
   engineer?
-type: courses
+type: course
 layout: pdf
 uid: 7f337397e9aff434c489fdd7c4c58bf4
 file_type: application/pdf

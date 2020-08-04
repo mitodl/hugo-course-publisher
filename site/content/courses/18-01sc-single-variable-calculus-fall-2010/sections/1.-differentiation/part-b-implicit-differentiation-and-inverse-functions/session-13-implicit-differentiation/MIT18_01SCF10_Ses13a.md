@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses13a.pdf
 description: This resource contains information related to implicit differentiation.
-type: courses
+type: course
 layout: pdf
 uid: c87d369196899c8a3171084e513c4c21
 file_type: application/pdf

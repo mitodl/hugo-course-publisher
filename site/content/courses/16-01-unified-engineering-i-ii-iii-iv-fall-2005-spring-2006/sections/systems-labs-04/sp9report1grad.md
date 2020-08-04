@@ -1,7 +1,7 @@
 ---
 title: sp9report1grad.pdf
 description: This resource contains information on grading rubric for systems problem.
-type: courses
+type: course
 layout: pdf
 uid: 6f6d4c5160ced0a8bd0af94df14dee34
 file_type: application/pdf

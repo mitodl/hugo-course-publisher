@@ -1,7 +1,7 @@
 ---
 title: f14_ps04_spring04.pdf
 description: This resource contains problems on the topics Mach number and Mach limit.
-type: courses
+type: course
 layout: pdf
 uid: f8a5c6faa7060c5191194b26029599c0
 file_type: application/pdf

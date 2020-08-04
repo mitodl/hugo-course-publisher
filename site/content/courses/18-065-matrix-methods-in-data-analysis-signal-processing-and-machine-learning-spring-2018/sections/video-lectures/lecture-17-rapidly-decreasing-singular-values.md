@@ -2779,6 +2779,6 @@ transcript: >-
   m="3022890">thanks.</span></p><p><span
   m="3024190">[APPLAUSE]</span></p><p>&nbsp;</p>
 uid: 2e886024ae523bdce29d1126eac0b14d
-type: courses
+type: course
 layout: video
 ---

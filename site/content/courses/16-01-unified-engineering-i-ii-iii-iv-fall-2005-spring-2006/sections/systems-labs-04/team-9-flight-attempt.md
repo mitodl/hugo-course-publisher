@@ -36,6 +36,6 @@ technical_location: >-
 title: 'Team 9: Flight Attempt'
 transcript: ''
 uid: 1ede513c886a7fba1a8a43e9e61cf90c
-type: courses
+type: course
 layout: video
 ---

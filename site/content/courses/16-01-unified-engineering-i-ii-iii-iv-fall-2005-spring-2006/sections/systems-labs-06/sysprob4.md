@@ -1,7 +1,7 @@
 ---
 title: sysprob4.pdf
 description: This file contains the lab exercise for Water Bottle Rocket Build and Test.
-type: courses
+type: course
 layout: pdf
 uid: 44916949a807c3a6d4eefef2d490679b
 file_type: application/pdf

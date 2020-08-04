@@ -3,7 +3,7 @@ title: MIT6_00SCS11_ps7.pdf
 description: >-
   This resource contains problem set related to simulating the spread of disease
   and virus population.
-type: courses
+type: course
 layout: pdf
 uid: 3148f85435eac0d2537af61b908905f4
 file_type: application/pdf

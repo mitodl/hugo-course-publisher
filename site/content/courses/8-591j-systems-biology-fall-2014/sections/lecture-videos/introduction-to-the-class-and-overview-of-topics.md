@@ -5286,6 +5286,6 @@ transcript: >-
   m='3993000'>your tickets</span> <span m='3993300'>before</span> <span
   m='3993600'>then.</span> </p>
 uid: 2d56d1e569c77968d0077c6c6f1d4ffc
-type: courses
+type: course
 layout: video
 ---

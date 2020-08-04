@@ -372,6 +372,6 @@ transcript: >-
   <span m='285780'>method</span> <span m='286263'>called</span> <span
   m='286746'>clustering.</span> </p>
 uid: b97c54af921ff79471b67d5e5ee70456
-type: courses
+type: course
 layout: video
 ---

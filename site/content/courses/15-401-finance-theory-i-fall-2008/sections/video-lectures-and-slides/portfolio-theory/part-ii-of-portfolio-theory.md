@@ -6074,6 +6074,6 @@ transcript: >-
   m='4837830'>right?</span> <span m='4838130'>I'll see</span> <span
   m='4838430'>you on</span> <span m='4838730'>Monday.</span> </p>
 uid: 8a6475c759ec868126fa6a37313edd3d
-type: courses
+type: course
 layout: video
 ---

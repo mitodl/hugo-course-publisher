@@ -151,6 +151,6 @@ transcript: >-
   independence</span> <span m="324530">between the different
   tosses.</span></p><p>&nbsp;</p>
 uid: 5c9c6fddfcf64b006a421acb4cc1b397
-type: courses
+type: course
 layout: video
 ---

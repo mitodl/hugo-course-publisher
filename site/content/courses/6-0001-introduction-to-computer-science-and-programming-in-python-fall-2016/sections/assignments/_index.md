@@ -1,11 +1,11 @@
 ---
 title: Assignments
 course_id: 6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016
+type: course
+layout: course_section
 menu:
   6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016:
     identifier: 4f4256e899a1396c7b788c0d1442d6ca
-    type: section
-    layout: section
     name: Assignments
     weight: 220
 ---

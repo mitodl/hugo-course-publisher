@@ -1,11 +1,11 @@
 ---
 title: 5 Text Analytics
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: course_section
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 5847ad879afecf3e9b93c20cffe87acf
-    type: section
-    layout: section
     name: 'Unit 5: Text Analytics'
     weight: 1550
 ---

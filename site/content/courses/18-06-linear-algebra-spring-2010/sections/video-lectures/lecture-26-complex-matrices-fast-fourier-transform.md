@@ -2820,6 +2820,6 @@ transcript: >-
   m="2861250">next</span> <span m="2861490">time.</span></p><p><span
   m="2866240">Thanks.</span></p>
 uid: 7da4985ac0765564c8aa3eccb1a1e97e
-type: courses
+type: course
 layout: video
 ---

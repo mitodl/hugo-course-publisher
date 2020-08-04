@@ -798,6 +798,6 @@ transcript: >-
   m='949920'>how</span> <span m='950190'>this</span> <span
   m='950400'>thing</span> <span m='950730'>looks.</span> </p>
 uid: bee2a8ec3bc5e1660020b0ea555b0ab5
-type: courses
+type: course
 layout: video
 ---

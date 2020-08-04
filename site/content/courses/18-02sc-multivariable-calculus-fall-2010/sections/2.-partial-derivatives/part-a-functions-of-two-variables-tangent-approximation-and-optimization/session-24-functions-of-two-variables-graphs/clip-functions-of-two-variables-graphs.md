@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Functions of Two Variables: Graphs'
 transcript: ''
 uid: ce571812358546c6d40bfd4291354f4e
-type: courses
+type: course
 layout: video
 ---

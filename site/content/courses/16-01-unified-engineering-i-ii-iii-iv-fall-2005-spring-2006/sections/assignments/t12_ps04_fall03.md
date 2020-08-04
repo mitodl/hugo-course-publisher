@@ -3,7 +3,7 @@ title: t12_ps04_fall03.pdf
 description: >-
   This resource contains problem set on reversibility and irreversibility of
   various thermodynamic processes.
-type: courses
+type: course
 layout: pdf
 uid: b738fc7289d10b532dea59605fe4d977
 file_type: application/pdf

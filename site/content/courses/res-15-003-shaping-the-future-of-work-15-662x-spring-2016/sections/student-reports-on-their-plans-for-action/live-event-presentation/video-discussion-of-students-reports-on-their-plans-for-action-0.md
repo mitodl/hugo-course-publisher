@@ -7025,6 +7025,6 @@ transcript: >-
   m="5484320">very</span> <span m="5484470">much.</span></p><p><span
   m="5485070">AUDIENCE:</span> <span m="5485220">[APPLAUSE]</span></p>
 uid: 9dfe75e0028ce06cce9c144b68206b7a
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: f19_cyl_coord.pdf
 description: Lecture notes.
-type: courses
+type: course
 layout: pdf
 uid: 6bef9d498fa2f71628dfe44e7281a550
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: 'Lecture 14 handout: Sampling and Monte Carlo Simulation'
 description: >-
   This resource contains information related to sampling and monte carlo
   simulation.
-type: courses
+type: course
 layout: pdf
 uid: a6f0b19f29928c48902382bab7c02220
 file_type: application/pdf

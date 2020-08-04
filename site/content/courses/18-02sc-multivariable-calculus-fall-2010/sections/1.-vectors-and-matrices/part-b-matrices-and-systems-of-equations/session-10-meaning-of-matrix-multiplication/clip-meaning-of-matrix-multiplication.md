@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Meaning of Matrix Multiplication'
 transcript: ''
 uid: 3c702621c2145925a663f13e5b7b97c3
-type: courses
+type: course
 layout: video
 ---

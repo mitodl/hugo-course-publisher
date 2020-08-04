@@ -1,7 +1,7 @@
 ---
 title: adagide_instrctn.pdf
 description: Instructions for using a lab software.
-type: courses
+type: course
 layout: pdf
 uid: 310f3cca615ecfe2007d40c425e90b07
 file_type: application/pdf

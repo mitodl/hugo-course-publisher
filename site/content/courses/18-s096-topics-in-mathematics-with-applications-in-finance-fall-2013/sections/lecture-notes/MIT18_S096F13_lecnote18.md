@@ -1,7 +1,7 @@
 ---
 title: Itō calculus
 description: This file contains information regarding lecture 18 notes.
-type: courses
+type: course
 layout: pdf
 uid: ef2c66c8079ba656210ad1fd4a5e2fa8
 file_type: application/pdf

@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Valence Bond Theory and
   Hybridization.
-type: courses
+type: course
 layout: pdf
 uid: 55c7f25b45fde528f4d55a71f7191f40
 file_type: application/pdf

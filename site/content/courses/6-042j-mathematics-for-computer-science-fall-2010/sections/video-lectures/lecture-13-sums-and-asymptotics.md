@@ -4595,6 +4595,6 @@ transcript: >-
   m='5012020'>induction</span> <span m='5012440'>or</span> <span
   m='5012500'>predicates.</span> <span m='5013400'>Thanks.</span> </p>
 uid: cf215213a0c6da44f33fb7e6725bdaf2
-type: courses
+type: course
 layout: video
 ---

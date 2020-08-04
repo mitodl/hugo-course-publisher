@@ -378,6 +378,6 @@ transcript: >-
   m='249870'>appealing</span> <span m='250470'>to</span> <span
   m='250720'>total</span> <span m='251070'>expectation.</span> </p>
 uid: 19c748cedee50879df99e1d65a2d36ae
-type: courses
+type: course
 layout: video
 ---

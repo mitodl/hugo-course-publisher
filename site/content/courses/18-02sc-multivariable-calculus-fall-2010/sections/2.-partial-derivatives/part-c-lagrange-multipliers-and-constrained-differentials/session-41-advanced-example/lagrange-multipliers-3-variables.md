@@ -1030,6 +1030,6 @@ transcript: >-
   m='793890'>well.</span> <span m='794370'>I'll</span> <span
   m='794600'>end</span> <span m='794830'>there.</span> </p>
 uid: f1908be4ad3f5c171840a903edfbb545
-type: courses
+type: course
 layout: video
 ---

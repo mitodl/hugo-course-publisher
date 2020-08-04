@@ -146,6 +146,6 @@ transcript: >-
   though this random variable does not</span> <span m='331590'>have a PDF or a
   PMF of its own.</span> </p><p></p>
 uid: ebf265e13cf097a3071a6db96aa080df
-type: courses
+type: course
 layout: video
 ---

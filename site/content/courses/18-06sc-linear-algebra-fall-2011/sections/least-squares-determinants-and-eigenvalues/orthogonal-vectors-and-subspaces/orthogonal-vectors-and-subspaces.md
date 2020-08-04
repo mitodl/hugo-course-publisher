@@ -2612,6 +2612,6 @@ transcript: >-
   m='2975300'>you</span> <span m='2975410'>Friday.</span> </p><p><span
   m='2975590'>Thanks.</span> </p>
 uid: 0e13cc7d542344b52333ffe442deb35e
-type: courses
+type: course
 layout: video
 ---

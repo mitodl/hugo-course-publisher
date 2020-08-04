@@ -783,6 +783,6 @@ transcript: >-
   m='832300'>difference</span> <span m='832760'>equations.</span> <span
   m='834400'>Thank</span> <span m='834570'>you.</span> </p>
 uid: 66fcfa68200ee46d774b10efd6d7204a
-type: courses
+type: course
 layout: video
 ---

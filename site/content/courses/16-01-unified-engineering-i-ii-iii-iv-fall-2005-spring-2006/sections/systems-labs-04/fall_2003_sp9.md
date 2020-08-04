@@ -1,7 +1,7 @@
 ---
 title: fall_2003_sp9.pdf
 description: Problem set for Unified Engineering course.
-type: courses
+type: course
 layout: pdf
 uid: 833de6490375d5a2f61965893f040458
 file_type: application/pdf

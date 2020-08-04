@@ -253,6 +253,6 @@ transcript: >-
   will be some freedom as to what approaches</span> <span m='657020'>one might
   take.</span> </p><p></p>
 uid: 6208435d9b8108dfae6f074a3f9587c7
-type: courses
+type: course
 layout: video
 ---

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: The Formula for Quadratic Approximation'
 transcript: ''
 uid: 39f4e415e7d03c4ffc1652acf225e4c4
-type: courses
+type: course
 layout: video
 ---

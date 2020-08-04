@@ -4356,6 +4356,6 @@ transcript: >-
   m='3085520'>you</span> <span m='3085590'>next</span> <span
   m='3085820'>time.</span> </p>
 uid: 12e94da3fa6eb6a4e4400559af9c917a
-type: courses
+type: course
 layout: video
 ---

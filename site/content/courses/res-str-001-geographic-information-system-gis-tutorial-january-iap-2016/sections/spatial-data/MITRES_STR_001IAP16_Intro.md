@@ -1,7 +1,7 @@
 ---
 title: All About Spatial Data
 description: This resource contains information regarding spatial data.
-type: courses
+type: course
 layout: pdf
 uid: 23b7c5bd5aa8b062f654045b94ba2abf
 file_type: application/pdf

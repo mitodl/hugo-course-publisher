@@ -5,7 +5,7 @@ description: >-
   price, growth stocks, commercial airline, american call option, fixed income,
   CAPM, common stock, forwards and futures, capital budgeting, and portfolio
   theory.
-type: courses
+type: course
 layout: pdf
 uid: d28223e0ac8822df9538f33b1542881e
 file_type: application/pdf

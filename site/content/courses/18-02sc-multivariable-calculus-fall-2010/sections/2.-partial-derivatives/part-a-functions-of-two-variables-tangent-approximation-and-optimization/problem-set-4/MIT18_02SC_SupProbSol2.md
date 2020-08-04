@@ -3,7 +3,7 @@ title: MIT18_02SC_SupProbSol2.pdf
 description: >-
   This resource contains solutions for the problem statements related to partial
   differentiation.
-type: courses
+type: course
 layout: pdf
 uid: 9f91babaa26e03faba6eddc1b302575e
 file_type: application/pdf

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Differential Equations and Slope, Part 2'
 transcript: ''
 uid: d09cece95e045ad81effd0f9369c8175
-type: courses
+type: course
 layout: video
 ---

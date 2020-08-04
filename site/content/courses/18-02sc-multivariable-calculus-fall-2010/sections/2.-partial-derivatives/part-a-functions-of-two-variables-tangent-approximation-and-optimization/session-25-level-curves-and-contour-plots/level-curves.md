@@ -640,6 +640,6 @@ transcript: >-
   m='623620'>it</span> <span m='623690'>at</span> <span m='623770'>that.</span>
   </p>
 uid: ccf2b91b7551d1a66a7832793db356ba
-type: courses
+type: course
 layout: video
 ---

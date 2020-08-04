@@ -334,6 +334,6 @@ transcript: >-
   m='218060'>can</span> <span m='218180'>be</span> <span m='218310'>drawn</span>
   <span m='218610'>up this</span> <span m='218910'>way.</span> </p>
 uid: eb6623c871579a02c9ad4395013c586a
-type: courses
+type: course
 layout: video
 ---

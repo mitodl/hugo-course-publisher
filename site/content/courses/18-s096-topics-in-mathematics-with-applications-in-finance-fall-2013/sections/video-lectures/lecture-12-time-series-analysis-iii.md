@@ -3766,6 +3766,6 @@ transcript: >-
   m='4655500'>finish</span> <span m='4655740'>there.</span> <span
   m='4656940'>Thank you.</span> </p>
 uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
-type: courses
+type: course
 layout: video
 ---

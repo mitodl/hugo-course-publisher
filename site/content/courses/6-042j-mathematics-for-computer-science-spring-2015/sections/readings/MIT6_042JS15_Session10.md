@@ -3,7 +3,7 @@ title: 'Recursive Definition: Chapter 6'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Recursive definition: Chapter 6.
-type: courses
+type: course
 layout: pdf
 uid: 19dac7a6cb652452d611dd2e0aed9b0c
 file_type: application/pdf

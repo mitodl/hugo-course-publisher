@@ -1,7 +1,7 @@
 ---
 title: S8_mud.pdf
 description: Review questions and answers on capacitive?circuits.
-type: courses
+type: course
 layout: pdf
 uid: c1c69576765004736aca0f90c45d8b03
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: spl2a.pdf
 description: This file contains the notes for UE Flight Competition Rules.
-type: courses
+type: course
 layout: pdf
 uid: 369c0ff02ee833cbd02a8033e5ad34da
 file_type: application/pdf

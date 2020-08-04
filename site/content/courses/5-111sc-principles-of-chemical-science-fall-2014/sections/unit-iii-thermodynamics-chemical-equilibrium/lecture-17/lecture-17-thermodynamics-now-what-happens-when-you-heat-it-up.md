@@ -2006,6 +2006,6 @@ transcript: >-
   m="1942260">it</span> <span m="1942560">as</span> <span m="1942850">an</span>
   <span m="1942950">energy</span> <span m="1943450">storage.</span></p>
 uid: 186fbfaa444f5f39e0592f3a9707720a
-type: courses
+type: course
 layout: video
 ---

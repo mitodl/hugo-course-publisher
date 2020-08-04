@@ -4647,6 +4647,6 @@ transcript: >-
   m="4862830">come</span> <span m="4862930">on</span> <span
   m="4863030">up.</span></p>
 uid: 6bb72263531a40624e88118c575bbf24
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_15_comb.pdf
 description: >-
   This resource contains problem statements and solutions related to linear
   systems and planes.
-type: courses
+type: course
 layout: pdf
 uid: 988501af6a641704fdaadd8cb8c40960
 file_type: application/pdf

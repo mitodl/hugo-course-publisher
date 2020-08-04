@@ -3,7 +3,7 @@ title: m19_ps14_fall03.pdf
 description: >-
   This resource provides a problem set based on number of independent
   engineering elastic constants and fibre volume fraction.
-type: courses
+type: course
 layout: pdf
 uid: bffcbbe67b1a47773f09f156f57f9b29
 file_type: application/pdf

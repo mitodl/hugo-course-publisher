@@ -617,6 +617,6 @@ transcript: >-
   <span m='623630'>live</span> <span m='623880'>with.</span> <span
   m='625000'>Good,</span> <span m='625400'>thanks.</span> </p>
 uid: 3aa6c7a68745acda38d30ec2e405822d
-type: courses
+type: course
 layout: video
 ---

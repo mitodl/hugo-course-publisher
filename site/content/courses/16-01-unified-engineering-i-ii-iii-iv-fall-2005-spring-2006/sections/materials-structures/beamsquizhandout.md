@@ -4,7 +4,7 @@ description: >-
   This handout contains notes for Spring Term quizzes about Basic modeling
   process for 1-D structural members , Analytical process for 1-D structural
   members & Elastic bending formulae.
-type: courses
+type: course
 layout: pdf
 uid: 26a4c795200c276094411ecf58e297d3
 file_type: application/pdf

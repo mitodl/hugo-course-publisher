@@ -868,6 +868,6 @@ transcript: >-
   m='941230'>sides.</span> <span m='942830'>Good.</span> <span
   m='943060'>Thanks.</span> </p>
 uid: 0dab0d623c7188bbfe7523ad3f75bcb1
-type: courses
+type: course
 layout: video
 ---

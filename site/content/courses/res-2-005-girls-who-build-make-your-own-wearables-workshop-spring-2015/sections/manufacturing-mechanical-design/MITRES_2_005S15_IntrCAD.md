@@ -3,7 +3,7 @@ title: Computer Aided Design (CAD)
 description: >-
   This is a resource file that contains information regarding computer aided
   design.
-type: courses
+type: course
 layout: pdf
 uid: 72ed33ab14198492a5aec39bb4672837
 file_type: application/pdf

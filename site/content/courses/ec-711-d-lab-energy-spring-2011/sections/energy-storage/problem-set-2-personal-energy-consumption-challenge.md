@@ -1,11 +1,11 @@
 ---
 title: 'Problem Set 2: Personal Energy Consumption Challenge'
 course_id: ec-711-d-lab-energy-spring-2011
+type: course
+layout: course_section
 menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: 8c249fc1ff672f6fb82a52720d7b2694
-    type: section
-    layout: section
     name: 'Problem Set 2: Personal Energy Consumption Challenge'
     weight: 100
     parent: bd09c1cc93fd481d39456e105dc16816

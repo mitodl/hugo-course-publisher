@@ -1,16 +1,14 @@
 ---
 title: 23.2 Potential Energy of Gravity near the Surface of the Earth
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: videogallery
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 9cf2a72d97f71b21642374286fe7c20b
-    type: section
-    layout: section
     name: 23.2 Potential Energy of Gravity near the Surface of the Earth
     weight: 1490
     parent: 1394998143efcc493f7c98265cfbd3ae
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/23.1-introduction-to-potential-energy" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/23.3-potential-energy-reference-state" %}}) »
 

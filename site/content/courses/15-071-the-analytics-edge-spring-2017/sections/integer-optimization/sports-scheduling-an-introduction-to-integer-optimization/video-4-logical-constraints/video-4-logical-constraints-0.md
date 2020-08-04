@@ -394,6 +394,6 @@ transcript: >-
   m='327970'>solved</span> <span m='328540'>in</span> <span
   m='329110'>practice.</span> </p>
 uid: e6ede9a2e335e6eaa0cf1502526a360d
-type: courses
+type: course
 layout: video
 ---

@@ -602,6 +602,6 @@ transcript: >-
   m='434770'>it.</span> </p><p><span m='434940'>Thank</span> <span
   m='435220'>you.</span> </p>
 uid: 21c939044d805bd5c6b996f70e9358e1
-type: courses
+type: course
 layout: video
 ---

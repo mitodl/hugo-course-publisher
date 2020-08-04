@@ -4,7 +4,7 @@ description: >-
   This resource contains concept questions and answers based on level of
   confidence in understanding and applying the concepts associated with simple
   of beam theory.
-type: courses
+type: course
 layout: pdf
 uid: 15c4a5315a077786cfca1882f8025301
 file_type: application/pdf

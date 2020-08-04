@@ -1,7 +1,7 @@
 ---
 title: 'Random Variables, Density Functions: Bigger Number Game'
 description: This file contains information regarding bigger number game.
-type: courses
+type: course
 layout: pdf
 uid: 4f9b82d254399041862ae1c13ffc014a
 file_type: application/pdf

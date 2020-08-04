@@ -152,6 +152,6 @@ transcript: >-
   us some intuition about what these</span> <span m='296040'>terms mean and why
   this equality makes sense.</span> </p><p></p>
 uid: ed1a8a7f0d5755cc65aafefc6b396809
-type: courses
+type: course
 layout: video
 ---

@@ -3713,6 +3713,6 @@ transcript: >-
   m="3220290">taking</span> <span m="3220690">certain</span> <span
   m="3221050">vitamin</span> <span m="3221510">supplements.</span></p>
 uid: e6cda11578a3b7e07c665e5ae9bf2fa2
-type: courses
+type: course
 layout: video
 ---

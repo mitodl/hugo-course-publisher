@@ -1,7 +1,7 @@
 ---
 title: Stochastic Processes I
 description: This file contains information regarding lecture 5 notes.
-type: courses
+type: course
 layout: pdf
 uid: f5784e4facf3de690210d17c97358eba
 file_type: application/pdf

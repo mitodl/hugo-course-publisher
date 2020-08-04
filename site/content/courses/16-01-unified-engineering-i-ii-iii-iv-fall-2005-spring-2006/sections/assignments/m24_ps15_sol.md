@@ -3,7 +3,7 @@ title: m24_ps15_sol.pdf
 description: >-
   This resource contains solutions to problem set on two metals of interest for
   aerospace applications, nickel and magnesium.
-type: courses
+type: course
 layout: pdf
 uid: 0831bb39992c17f5bc0a67ddc2da6207
 file_type: application/pdf

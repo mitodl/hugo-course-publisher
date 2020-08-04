@@ -1,7 +1,7 @@
 ---
 title: Travel Tips
 description: 'This resource contains the information related to travel tips. '
-type: courses
+type: course
 layout: pdf
 uid: be777a1746d4b2283888658b6b114d54
 file_type: application/pdf

@@ -1247,6 +1247,6 @@ transcript: >-
   m='1293930'>there.</span> <span m='1294670'>Thank</span> <span
   m='1294790'>you.</span> </p>
 uid: 128115ddaf260f5fe44bf64a91cb5d40
-type: courses
+type: course
 layout: video
 ---

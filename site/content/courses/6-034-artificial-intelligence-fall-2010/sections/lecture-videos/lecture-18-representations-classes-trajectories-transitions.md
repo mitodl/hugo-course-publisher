@@ -835,6 +835,6 @@ transcript: >-
   the people who are</span> <span m='2915700'>reading your stuff.</span>
   </p><p></p>
 uid: 6ec4e8a98402433915c74fc0cf8da9f3
-type: courses
+type: course
 layout: video
 ---

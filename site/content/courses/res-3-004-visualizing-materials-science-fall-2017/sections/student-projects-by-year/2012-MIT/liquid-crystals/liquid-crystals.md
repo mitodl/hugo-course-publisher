@@ -347,6 +347,6 @@ transcript: >-
   m='285030'>about</span> <span m='285240'>liquid</span> <span
   m='285510'>crystals.</span> </p>
 uid: ff1b235c96853f8cb41ad272e7154de8
-type: courses
+type: course
 layout: video
 ---

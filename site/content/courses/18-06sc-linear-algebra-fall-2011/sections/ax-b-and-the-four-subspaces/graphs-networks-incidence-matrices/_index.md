@@ -1,16 +1,14 @@
 ---
 title: 'Graphs, Networks, Incidence Matrices'
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 8be90057938141d7712d45f0e42d1cfc
-    type: section
-    layout: section
     name: 'Graphs, Networks, Incidence Matrices'
     weight: 160
     parent: 34303ce19b45724122d2bd33d64df688
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/exam-1-review/_index.md" %}}) »
 

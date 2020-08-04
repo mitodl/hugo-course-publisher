@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip 1: Double Integrals, Jacobian, Triple Integrals'
 transcript: ''
 uid: 1658ea010b6fd3afdbe946596c62b586
-type: courses
+type: course
 layout: video
 ---

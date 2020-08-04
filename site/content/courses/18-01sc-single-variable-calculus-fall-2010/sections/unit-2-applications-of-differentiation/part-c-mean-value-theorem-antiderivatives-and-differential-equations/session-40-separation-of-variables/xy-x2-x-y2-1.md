@@ -287,6 +287,6 @@ transcript: >-
   <span m='202360'>I'll</span> <span m='202450'>stop</span> <span
   m='202680'>there.</span> </p>
 uid: be498b0d9f8809c4b6e93a17ac0e9038
-type: courses
+type: course
 layout: video
 ---

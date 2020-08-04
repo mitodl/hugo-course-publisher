@@ -1,7 +1,7 @@
 ---
 title: '5.4 Predictive Coding: Bringing Text Analytics to the Courtroom  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Video 6: Evaluating the Model]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-6-evaluating-the-model" %}})

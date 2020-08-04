@@ -1,7 +1,7 @@
 ---
 title: 'Session 18: Point (Cusp) on Cycloid'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-type: courses
+type: course
 layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-17-general-parametric-equations-the-cycloid/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-19-velocity-and-acceleration/_index.md" %}}) »

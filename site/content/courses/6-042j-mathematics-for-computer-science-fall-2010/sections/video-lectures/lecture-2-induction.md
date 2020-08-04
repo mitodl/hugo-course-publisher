@@ -4678,6 +4678,6 @@ transcript: >-
   m='4760400'>it</span> <span m='4760510'>for</span> <span
   m='4760630'>today.</span> </p>
 uid: 538a5a75a30978324d0ba06505eff624
-type: courses
+type: course
 layout: video
 ---

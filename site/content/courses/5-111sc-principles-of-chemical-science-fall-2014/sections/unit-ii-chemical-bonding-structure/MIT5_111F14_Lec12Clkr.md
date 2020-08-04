@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding The Shapes of Molecules: VSEPR
   Theory.
-type: courses
+type: course
 layout: pdf
 uid: 6d3fd6f24c033953c1808d24d97b9524
 file_type: application/pdf

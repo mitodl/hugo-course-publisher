@@ -1,7 +1,7 @@
 ---
 title: sysprob9.pdf
 description: This file contains the overview and procedures for Airplane Construction.
-type: courses
+type: course
 layout: pdf
 uid: 15004914510f0ed70d7520017828bf3e
 file_type: application/pdf

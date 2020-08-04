@@ -1,16 +1,14 @@
 ---
 title: Projections onto Subspaces
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 1ff24ba867b5ac72fcad41dcf3e79e10
-    type: section
-    layout: section
     name: Projections onto Subspaces
     weight: 210
     parent: cf73d07ac972ab3c450a0f10d0be0664
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/_index.md" %}}) »
 

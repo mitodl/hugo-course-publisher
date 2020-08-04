@@ -2555,6 +2555,6 @@ transcript: >-
   m="3028480">rank.</span> <span m="3029440">Good.</span> <span
   m="3029950">Thank</span> <span m="3030270">you.</span></p>
 uid: ca9ef9c6a11c9143705b6606448b4ddb
-type: courses
+type: course
 layout: video
 ---

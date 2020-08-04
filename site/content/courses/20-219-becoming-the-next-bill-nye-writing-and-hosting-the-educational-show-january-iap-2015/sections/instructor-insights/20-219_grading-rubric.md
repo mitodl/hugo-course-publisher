@@ -1,7 +1,7 @@
 ---
 title: 20-219_grading-rubric.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 1c8f9dacc806d40a0a6eeff8bf37d8d7
 file_type: application/pdf

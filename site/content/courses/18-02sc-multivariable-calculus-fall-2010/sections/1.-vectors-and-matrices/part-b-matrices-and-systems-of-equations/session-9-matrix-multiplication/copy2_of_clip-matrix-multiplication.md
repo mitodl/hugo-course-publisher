@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Matrix Multiplication'
 transcript: ''
 uid: 4ff368a3648cff1f043889b0f9ad97cb
-type: courses
+type: course
 layout: video
 ---

@@ -6440,6 +6440,6 @@ transcript: >-
   m='4934180'>time.</span> </p><p><span m='4935080'>AUDIENCE: [APPLAUSE]</span>
   </p>
 uid: 02682b46f6ce0aa0a8e2489648a6ceea
-type: courses
+type: course
 layout: video
 ---

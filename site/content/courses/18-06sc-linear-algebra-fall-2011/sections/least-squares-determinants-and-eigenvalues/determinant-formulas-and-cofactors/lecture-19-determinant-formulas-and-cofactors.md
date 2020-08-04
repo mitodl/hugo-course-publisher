@@ -3406,6 +3406,6 @@ transcript: >-
   m='3185520'>See</span> <span m='3186040'>you</span> <span
   m='3186240'>on</span> <span m='3186710'>Wednesday.</span> </p>
 uid: a1abd37bdb843609de291dd0ff7465c8
-type: courses
+type: course
 layout: video
 ---

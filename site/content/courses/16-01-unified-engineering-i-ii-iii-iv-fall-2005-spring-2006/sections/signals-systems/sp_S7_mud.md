@@ -1,7 +1,7 @@
 ---
 title: sp_S7_mud.pdf
 description: Review questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: b20bbe4175de55238beaf3de2aeb187c
 file_type: application/pdf

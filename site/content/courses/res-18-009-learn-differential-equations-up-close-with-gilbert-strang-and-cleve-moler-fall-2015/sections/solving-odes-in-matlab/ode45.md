@@ -375,6 +375,6 @@ transcript: >-
   m='398390'>get</span> <span m='398700'>to</span> <span
   m='398820'>computing</span> <span m='399350'>pi.</span> </p><p></p>
 uid: d00834c2129566d7159f85f74a58c729
-type: courses
+type: course
 layout: video
 ---

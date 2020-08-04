@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 1: Introduction to 6.00'
 transcript: ''
 uid: f26ead7de21192cff948a5e055a756d6
-type: courses
+type: course
 layout: video
 ---

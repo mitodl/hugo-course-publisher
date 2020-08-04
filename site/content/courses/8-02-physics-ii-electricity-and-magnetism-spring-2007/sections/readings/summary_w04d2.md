@@ -3,7 +3,7 @@ title: summary_w04d2.pdf
 description: >-
   This file defines current, current density, and resistance and discuss how to
   analyze simple DC (constant current) circuits using Kirchhoff?s Circuit Rules.
-type: courses
+type: course
 layout: pdf
 uid: 3db0d6aa49a807ad07f978b511a3bf60
 file_type: application/pdf

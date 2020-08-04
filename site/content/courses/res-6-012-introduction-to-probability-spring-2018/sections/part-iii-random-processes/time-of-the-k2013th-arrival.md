@@ -251,6 +251,6 @@ transcript: >-
   m='634310'>And the more you increase k, the more the distribution</span> <span
   m='637640'>will be shifting towards the right.</span> </p><p></p>
 uid: 86da8e224a91eea220192518cfa3e2b2
-type: courses
+type: course
 layout: video
 ---

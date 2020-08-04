@@ -1,7 +1,7 @@
 ---
 title: spl4a.pdf
 description: This file contains additional notes for Design Variable Concepts.
-type: courses
+type: course
 layout: pdf
 uid: 617cd1c9f9fe9d5c28102e101babdd5a
 file_type: application/pdf

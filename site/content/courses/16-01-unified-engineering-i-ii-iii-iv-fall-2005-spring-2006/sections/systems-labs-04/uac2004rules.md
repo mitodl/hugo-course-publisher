@@ -8,7 +8,7 @@ description: >-
   system, each team must evaluate trades between payload, endurance,
   maneuverability and durability, subject to the constraints and objectives of
   the aerial competition.
-type: courses
+type: course
 layout: pdf
 uid: 9953fd4ea08ace5204473af434e6f47a
 file_type: application/pdf

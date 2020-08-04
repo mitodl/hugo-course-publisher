@@ -1,7 +1,7 @@
 ---
 title: MITRES_STR_001IAP16_Sour.pdf
 description: This resource contains information regarding spatial data.
-type: courses
+type: course
 layout: pdf
 uid: a8dcf343da76c175462947a68cd92d2a
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: MIT18_02SC_notes_7.pdf
 description: >-
   This resource contains information related to geometry of linear systems of
   equations.
-type: courses
+type: course
 layout: pdf
 uid: b75b75a77749292f4bb34d709e91379d
 file_type: application/pdf

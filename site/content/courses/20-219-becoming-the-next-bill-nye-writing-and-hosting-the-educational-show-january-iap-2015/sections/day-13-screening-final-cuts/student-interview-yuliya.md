@@ -152,6 +152,6 @@ transcript: >-
   m='104670'>INTERVIEWER: Thank you</span> <span m='104970'>very much.</span>
   </p><p><span m='106170'>YULIYA KLOCHAN: Thank you.</span> </p>
 uid: 4672c2f7c09453a07cde24f9d4064c80
-type: courses
+type: course
 layout: video
 ---

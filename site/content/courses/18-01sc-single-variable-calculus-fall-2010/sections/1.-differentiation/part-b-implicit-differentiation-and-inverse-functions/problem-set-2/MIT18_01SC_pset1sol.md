@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SC_pset1sol.pdf
 description: 'This resource contains solutions of differentiation problems. '
-type: courses
+type: course
 layout: pdf
 uid: 84d01945d2eaf93351ca1371cbf98a5e
 file_type: application/pdf

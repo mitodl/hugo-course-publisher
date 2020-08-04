@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang154156.pdf
 description: This resource contains information related to vector calculus.
-type: courses
+type: course
 layout: pdf
 uid: 3dc994b1c2b342e2c1feb31816e7d76c
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: s12_ps09_sol.pdf
 description: Solutions to problem set S12 involving eigenvalues and eigenvectors.
-type: courses
+type: course
 layout: pdf
 uid: fda2d39492962dd2174f527a07cd4200
 file_type: application/pdf

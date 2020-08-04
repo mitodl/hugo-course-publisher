@@ -3,7 +3,7 @@ title: c03_ps02_sol.pdf
 description: >-
   This handout contains solutions to the Problem set based on the user weight as
   an input.
-type: courses
+type: course
 layout: pdf
 uid: ed0e906d2391cf0122b0287e9fab01a4
 file_type: application/pdf

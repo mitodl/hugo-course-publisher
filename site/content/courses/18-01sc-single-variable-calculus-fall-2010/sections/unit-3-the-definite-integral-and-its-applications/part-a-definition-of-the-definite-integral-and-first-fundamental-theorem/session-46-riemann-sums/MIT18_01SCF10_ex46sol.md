@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex46sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to Riemann
   sums.
-type: courses
+type: course
 layout: pdf
 uid: 4753403f8cb7f8cc48f6e5196c051160
 file_type: application/pdf

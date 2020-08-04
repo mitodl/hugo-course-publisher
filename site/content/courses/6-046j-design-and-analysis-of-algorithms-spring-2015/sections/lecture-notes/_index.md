@@ -1,11 +1,11 @@
 ---
 title: Lecture Notes
 course_id: 6-046j-design-and-analysis-of-algorithms-spring-2015
+type: course
+layout: course_section
 menu:
   6-046j-design-and-analysis-of-algorithms-spring-2015:
     identifier: f0632fab33feb54f79dbe7aead7c2a75
-    type: section
-    layout: section
     name: Lecture Notes
     weight: 60
 ---

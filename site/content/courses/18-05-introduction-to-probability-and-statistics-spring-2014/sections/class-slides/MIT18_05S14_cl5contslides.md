@@ -1,7 +1,7 @@
 ---
 title: 'Class 5 Slides: Gallery of continuous variables, histograms'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 707e918d091ac513d8a9a515997e56dd
 file_type: application/pdf

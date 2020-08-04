@@ -248,6 +248,6 @@ transcript: >-
   <span m='163500'>are</span> <span m='163590'>getting</span> <span
   m='163830'>that</span> <span m='163950'>right.</span> </p>
 uid: 3132d26963545a693b6e44be988225f9
-type: courses
+type: course
 layout: video
 ---

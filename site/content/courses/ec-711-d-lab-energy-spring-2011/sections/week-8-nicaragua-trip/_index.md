@@ -1,15 +1,13 @@
 ---
 title: 'Week 8: Community Partner Trips'
 course_id: ec-711-d-lab-energy-spring-2011
+type: course
+layout: videogallery
 menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: fb9d6e56eac497fb24b46d3ac31a62da
-    type: section
-    layout: section
     name: Community Partner Trips
     weight: 180
-type: courses
-layout: videogallery
 is_media_gallery: true
 ---
 Trip Resources

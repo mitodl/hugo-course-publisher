@@ -360,6 +360,6 @@ transcript: >-
   <span m='319965'>side</span> <span m='320374'>of</span> <span
   m='320782'>the</span> <span m='321191'>picture.</span> </p>
 uid: 9eef535b92d62dc7d00a0a6f1b600f78
-type: courses
+type: course
 layout: video
 ---

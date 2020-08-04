@@ -250,6 +250,6 @@ transcript: >-
   result</span> <span m='678440'>should be fairly clear, and we will use it
   freely</span> <span m='682150'>whenever we need it.</span> </p><p></p>
 uid: 06f44b977f737c40b521e0d11f330353
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: Quiz 1 Practice Problem Solutions
 description: Solutions to practice problems for a quiz on computer science and programming.
-type: courses
+type: course
 layout: pdf
 uid: 54f11f0fb2ae829e182ec483d57f8307
 file_type: application/pdf

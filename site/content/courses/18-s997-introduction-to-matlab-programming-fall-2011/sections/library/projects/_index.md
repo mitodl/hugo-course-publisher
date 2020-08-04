@@ -1,11 +1,11 @@
 ---
 title: More Projects
 course_id: 18-s997-introduction-to-matlab-programming-fall-2011
+type: course
+layout: course_section
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 08cfb41f1f5eb1e9bb10ba9eae5b1b45
-    type: section
-    layout: section
     name: More Projects
     weight: 320
     parent: f9312176280b6b537b61db0880b99562

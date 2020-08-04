@@ -1,7 +1,7 @@
 ---
 title: 'Conditional Probability: Bayes'' Theorem'
 description: This file contains information regarding  bayes' theorem.
-type: courses
+type: course
 layout: pdf
 uid: 2b4290c1d5ade1df07285efc09abc511
 file_type: application/pdf

@@ -198,6 +198,6 @@ transcript: >-
   of the Bayes rule that we have</span> <span m='511030'>just derived.</span>
   </p><p></p>
 uid: 3d5897f7afd705e39725a1613e7c0943
-type: courses
+type: course
 layout: video
 ---

@@ -251,6 +251,6 @@ transcript: >-
   <span m='185410'>at</span> <span m='185800'>the</span> <span
   m='186190'>company.</span> </p>
 uid: 44f2c8d2bfd23ac14fedf07e81c827a7
-type: courses
+type: course
 layout: video
 ---

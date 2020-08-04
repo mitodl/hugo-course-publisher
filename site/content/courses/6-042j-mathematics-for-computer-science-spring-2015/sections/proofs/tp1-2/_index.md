@@ -1,16 +1,14 @@
 ---
 title: 1.2 Proof Methods
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: videogallery
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 604f8e0726803e778aac7885f0f6eaf0
-    type: section
-    layout: section
     name: 1.2 Proof Methods
     weight: 130
     parent: 95af5c7b87a2e15790a7ad18331a125f
-type: courses
-layout: videogallery
 ---
 *   [<Modus Ponens]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-1/vertical-acfe05b95a4e" %}})
 *   [1.2.1Proof By Contradiction: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-2/_index.md" %}})

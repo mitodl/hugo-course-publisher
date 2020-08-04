@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Other Ways to Find ndS'
 transcript: ''
 uid: 40d101798a636fca327d355e2065bf0a
-type: courses
+type: course
 layout: video
 ---

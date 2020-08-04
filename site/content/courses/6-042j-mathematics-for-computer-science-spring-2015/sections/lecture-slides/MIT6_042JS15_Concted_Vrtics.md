@@ -1,7 +1,7 @@
 ---
 title: 'Digraphs: Walks & Paths: Digraphs: Connected Vertices'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 131f578a03564eb3b29a064d38186966
 file_type: application/pdf

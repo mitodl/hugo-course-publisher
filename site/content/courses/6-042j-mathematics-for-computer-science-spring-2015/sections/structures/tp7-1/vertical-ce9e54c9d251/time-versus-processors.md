@@ -803,6 +803,6 @@ transcript: >-
   m='582120'>antichain</span> <span m='583130'>in</span> <span
   m='583290'>this</span> <span m='583480'>case.</span> </p>
 uid: 40f030f8544233fdedf385a464827bc5
-type: courses
+type: course
 layout: video
 ---

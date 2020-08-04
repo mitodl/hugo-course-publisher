@@ -934,6 +934,6 @@ transcript: >-
   m='734410'>about</span> <span m='734690'>proving</span> <span
   m='735030'>them</span> <span m='735210'>again.</span> </p><p></p>
 uid: 462324971709c7c9f4079e06b58b68c5
-type: courses
+type: course
 layout: video
 ---

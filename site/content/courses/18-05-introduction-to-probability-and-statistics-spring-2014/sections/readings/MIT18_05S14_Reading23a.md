@@ -3,7 +3,7 @@ title: 'Reading 23a: Confidence Intervals: Three Views'
 description: >-
   This is a resource file that contains information regarding reading 23a:
   confidence intervals: three views.
-type: courses
+type: course
 layout: pdf
 uid: 820c5508d52426d511d4e2e7c9d452b8
 file_type: application/pdf

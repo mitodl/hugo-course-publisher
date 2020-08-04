@@ -1,7 +1,7 @@
 ---
 title: xfoil_inst.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 92711fd74589bf6ad83ed8a4d2c3183a
 file_type: application/pdf

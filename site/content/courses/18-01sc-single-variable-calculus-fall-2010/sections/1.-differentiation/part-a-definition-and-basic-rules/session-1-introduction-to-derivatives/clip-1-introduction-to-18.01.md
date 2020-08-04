@@ -2533,6 +2533,6 @@ transcript: >-
   goes to 0.</span> <span m="3089910">OK,</span> <span m="3090740">see
   you</span> <span m="3090890">next</span> <span m="3091130">time.</span></p>
 uid: 099ee1d0b79e344d3f9c2ec66861ace3
-type: courses
+type: course
 layout: video
 ---

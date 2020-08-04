@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_13.pdf
 description: This resource contains information related to functions of two variables.
-type: courses
+type: course
 layout: pdf
 uid: 68e54de412d9ab63d40838c414467472
 file_type: application/pdf

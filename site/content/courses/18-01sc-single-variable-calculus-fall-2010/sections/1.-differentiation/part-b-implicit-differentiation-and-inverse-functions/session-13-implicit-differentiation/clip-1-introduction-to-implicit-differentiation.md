@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 1: Introduction to Implicit Differentiation'
 transcript: ''
 uid: 377dbb96e73367854aeda3c4ae49119c
-type: courses
+type: course
 layout: video
 ---

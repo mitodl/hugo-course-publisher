@@ -2000,6 +2000,6 @@ transcript: >-
   m='1549100'>to</span> <span m='1549970'>programming</span> <span
   m='1550500'>language</span> <span m='1551100'>parsing.</span> </p>
 uid: 893cbbfeccf5130ecd64f525d69cd901
-type: courses
+type: course
 layout: video
 ---

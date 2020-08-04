@@ -3284,6 +3284,6 @@ transcript: >-
   m='3833500'>of</span> <span m='3833640'>this</span> <span
   m='3833880'>proof.</span> </p>
 uid: 762918d2d7c923dfc476ebdab88adf4c
-type: courses
+type: course
 layout: video
 ---

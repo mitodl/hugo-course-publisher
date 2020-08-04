@@ -543,6 +543,6 @@ transcript: >-
   m='619540'>transforms.</span> <span m='621420'>OK.</span> <span
   m='622000'>Thank</span> <span m='622250'>you.</span> </p>
 uid: e0a0f654df78e4ff92ef5f4ff4ff9eaf
-type: courses
+type: course
 layout: video
 ---

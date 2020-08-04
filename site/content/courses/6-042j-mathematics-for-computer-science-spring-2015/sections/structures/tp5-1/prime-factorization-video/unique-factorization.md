@@ -591,6 +591,6 @@ transcript: >-
   m='465440'>the</span> <span m='465880'>unique</span> <span
   m='466300'>factorization</span> <span m='466600'>theorem.</span> </p>
 uid: 2bfa290d72f863e95b41364a0ee19971
-type: courses
+type: course
 layout: video
 ---

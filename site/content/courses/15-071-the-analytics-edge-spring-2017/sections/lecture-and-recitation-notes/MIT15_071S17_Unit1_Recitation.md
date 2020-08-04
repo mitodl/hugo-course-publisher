@@ -1,7 +1,7 @@
 ---
 title: Week 1 Recitation Video 1 - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: a1132d6c3b097727fdb6c0d04b6cbb5e
 file_type: application/pdf

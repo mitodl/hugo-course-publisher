@@ -3,7 +3,7 @@ title: sp2_part2.pdf
 description: >-
   This resource contains information on problem set on system requirements &
   design, build, fly.
-type: courses
+type: course
 layout: pdf
 uid: 7ffdd2a8d12522462913b16a9f4a345e
 file_type: application/pdf

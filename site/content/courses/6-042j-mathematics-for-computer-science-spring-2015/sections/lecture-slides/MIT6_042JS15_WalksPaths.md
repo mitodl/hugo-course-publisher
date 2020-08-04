@@ -1,7 +1,7 @@
 ---
 title: 'Digraphs: Walks & Paths: Digraphs: Walks & Paths'
 description: 'This file contains information regarding digraphs: walks & paths.'
-type: courses
+type: course
 layout: pdf
 uid: 7e646d08f58af7dbe789a7d28561e166
 file_type: application/pdf

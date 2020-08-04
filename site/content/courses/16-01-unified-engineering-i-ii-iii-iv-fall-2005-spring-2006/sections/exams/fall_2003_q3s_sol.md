@@ -1,7 +1,7 @@
 ---
 title: fall_2003_q3s_sol.pdf
 description: 'Quiz solutions based on KVL,differential equation.'
-type: courses
+type: course
 layout: pdf
 uid: 39ee0f81e6386af9331a317f406440d2
 file_type: application/pdf

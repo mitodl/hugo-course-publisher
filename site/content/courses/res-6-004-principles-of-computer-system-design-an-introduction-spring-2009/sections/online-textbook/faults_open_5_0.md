@@ -3,7 +3,7 @@ title: faults_open_5_0.pdf
 description: >-
   This resource contains information related to fault tolerance: reliable
   systems from unreliable components. 
-type: courses
+type: course
 layout: pdf
 uid: 6b31587ec59b1b002cb7a710d9781453
 file_type: application/pdf

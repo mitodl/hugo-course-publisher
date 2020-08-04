@@ -95,6 +95,6 @@ transcript: >-
   to the</span> <span m='113520'>common notion of convergence of numbers.</span>
   </p><p></p>
 uid: 50335b6b63e4391187115d5ab5b802fc
-type: courses
+type: course
 layout: video
 ---

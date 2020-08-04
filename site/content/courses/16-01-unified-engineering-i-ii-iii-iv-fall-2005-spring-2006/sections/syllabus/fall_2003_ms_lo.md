@@ -3,7 +3,7 @@ title: fall_2003_ms_lo.pdf
 description: >-
   This handout contains the learning objectives and measurable outcomes for this
   course.
-type: courses
+type: course
 layout: pdf
 uid: 469c735f435494d6a4fc45c3e190147b
 file_type: application/pdf

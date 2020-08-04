@@ -1,7 +1,7 @@
 ---
 title: MIT20_020S09_proj_neur_fin.pdf
 description: This resource contains final presentation of sleep-away.
-type: courses
+type: course
 layout: pdf
 uid: 23d9c8e43d3176eaf46b0732e5ba535b
 file_type: application/pdf

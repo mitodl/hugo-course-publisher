@@ -1,11 +1,11 @@
 ---
 title: Final Exam
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
+type: course
+layout: course_section
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 40206992200d017eca64aac5b6b7d1e4
-    type: section
-    layout: section
     name: Final Exam
     weight: 320
 ---

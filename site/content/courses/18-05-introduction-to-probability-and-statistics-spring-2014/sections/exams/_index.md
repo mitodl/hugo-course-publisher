@@ -1,11 +1,11 @@
 ---
 title: Exams
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
+type: course
+layout: course_section
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: ad95d6948a5a21e8d68c2ed80b877e38
-    type: section
-    layout: section
     name: Exams
     weight: 640
 ---

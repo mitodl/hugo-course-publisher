@@ -178,6 +178,6 @@ transcript: >-
   it means, how we use it, and we will go</span> <span m='413460'>through a few
   examples to see how we actually apply it.</span> </p><p></p>
 uid: abaf82966998b81205c131404a013fa7
-type: courses
+type: course
 layout: video
 ---

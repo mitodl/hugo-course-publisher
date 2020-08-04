@@ -3,7 +3,7 @@ title: m13_ps12_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on sheer
   strength constant along the length of a beam.
-type: courses
+type: course
 layout: pdf
 uid: f00789f33ae6ffe8b1272eaf6b283002
 file_type: application/pdf

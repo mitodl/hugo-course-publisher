@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex14prb.pdf
 description: >-
   This resource contains problem statements related to the implicit
   differentiation and the chain rule.
-type: courses
+type: course
 layout: pdf
 uid: 7a7d3f0e340ddff6b31f08134f9ef302
 file_type: application/pdf

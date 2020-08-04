@@ -692,6 +692,6 @@ transcript: >-
   m='778075'>square</span> <span m='778660'>well</span> <span
   m='779170'>and</span> <span m='779530'>continued.</span> </p>
 uid: 86a6650a310f959731198828b080f1c8
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 14_wrtng_largprog.pdf
 description: Lecture 14 (2004) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 8441f8a659127df8940245dcb3b65bc4
 file_type: application/pdf

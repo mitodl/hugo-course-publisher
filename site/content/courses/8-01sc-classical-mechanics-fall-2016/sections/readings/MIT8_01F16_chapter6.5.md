@@ -1,7 +1,7 @@
 ---
 title: 8.01 Classical Mechanics Chapter 6.5
 description: This resource contains information regarding classical mechanics.
-type: courses
+type: course
 layout: pdf
 uid: 06ddcce4b9dc976410d6b600e0985b4c
 file_type: application/pdf

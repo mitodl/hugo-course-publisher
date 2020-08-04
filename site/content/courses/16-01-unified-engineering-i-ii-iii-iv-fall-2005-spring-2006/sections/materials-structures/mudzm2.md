@@ -3,7 +3,7 @@ title: mudzm2.pdf
 description: >-
   This resource contains review questions and answers based on moment, forces,
   materials and structures, vectors.
-type: courses
+type: course
 layout: pdf
 uid: d6fa12e31298f48ad19aa4397eba280a
 file_type: application/pdf

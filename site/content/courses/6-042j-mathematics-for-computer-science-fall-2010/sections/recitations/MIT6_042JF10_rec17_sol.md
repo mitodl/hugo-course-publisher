@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_rec17_sol.pdf
 description: 'This resource contains solutions of probability, Monty Hall problem. '
-type: courses
+type: course
 layout: pdf
 uid: aceafb7e60eac3c2c9a55e40a5a376bf
 file_type: application/pdf

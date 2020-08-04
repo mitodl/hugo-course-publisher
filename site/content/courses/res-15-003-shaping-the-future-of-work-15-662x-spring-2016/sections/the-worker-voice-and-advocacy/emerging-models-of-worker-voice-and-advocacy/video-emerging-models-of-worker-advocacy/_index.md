@@ -1,7 +1,7 @@
 ---
 title: 5.1 Emerging Models of Worker Voice and Advocacy
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Video: The Decline of Unions in the United States]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/video-the-decline-of-unions-in-the-united-states" %}})

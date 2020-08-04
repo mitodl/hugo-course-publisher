@@ -1464,6 +1464,6 @@ transcript: >-
   m="1240950">of</span> <span m="1241060">Exam</span> <span m="1241500">3</span>
   <span m="1241870">material.</span></p>
 uid: 46fc85ea2cab0cd7cf4345ff924fb834
-type: courses
+type: course
 layout: video
 ---

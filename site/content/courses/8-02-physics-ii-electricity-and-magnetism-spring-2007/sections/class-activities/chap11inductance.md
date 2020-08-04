@@ -8,7 +8,7 @@ description: >-
   general solutions for the RLC series circuit, appendix 2: stresses transmitted
   by magnetic fields, problem-solving strategies, solved problems, conceptual
   questions, and additional problems.
-type: courses
+type: course
 layout: pdf
 uid: f5c35823a7faac0d893754ab42804e7e
 file_type: application/pdf

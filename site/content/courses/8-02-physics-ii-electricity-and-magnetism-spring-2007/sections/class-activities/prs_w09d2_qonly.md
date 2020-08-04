@@ -4,7 +4,7 @@ description: >-
   This resource contains informations about a  coil moving up from underneath a
   magnet with its north pole pointing upward, Faraday?s law: Rails and Faraday?s
   Law: Generator.
-type: courses
+type: course
 layout: pdf
 uid: 1d1b4559fa40bcadc64db7769528e872
 file_type: application/pdf

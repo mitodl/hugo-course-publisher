@@ -3,7 +3,7 @@ title: 'Asymptotics: Asymptotic Notation'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: c5748b424476b0ea219bc5dadbc7eee7
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: Carbonization checklist & documentation form
 description: 'This resource contains the information related to carbonization checklist. '
-type: courses
+type: course
 layout: pdf
 uid: 60955952a9c740f27cf83754d4774592
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: spring04_pset4.pdf
 description: Problem set on Str-Mat / Fluids Problem M10/Fxx.
-type: courses
+type: course
 layout: pdf
 uid: 3b720d5ef4913c675adf56e3580baa29
 file_type: application/pdf

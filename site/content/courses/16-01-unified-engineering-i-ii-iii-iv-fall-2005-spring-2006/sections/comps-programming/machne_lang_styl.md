@@ -1,7 +1,7 @@
 ---
 title: machne_lang_styl.pdf
 description: Lecture C7 handout.
-type: courses
+type: course
 layout: pdf
 uid: 87885aa12753853b4f254fc24a35e504
 file_type: application/pdf

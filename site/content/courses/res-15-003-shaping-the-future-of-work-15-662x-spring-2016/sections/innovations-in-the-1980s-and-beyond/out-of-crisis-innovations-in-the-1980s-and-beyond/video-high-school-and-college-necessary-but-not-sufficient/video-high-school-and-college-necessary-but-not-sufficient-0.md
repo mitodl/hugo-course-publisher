@@ -258,6 +258,6 @@ transcript: >-
   m='173550'>in</span> <span m='173730'>the</span> <span
   m='173800'>future.</span> </p>
 uid: 4d01c7ffdd16496d06ee2f6cd57ae2c4
-type: courses
+type: course
 layout: video
 ---

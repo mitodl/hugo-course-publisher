@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_2_comb.pdf
 description: >-
   This resource contains problem statements and solutions related to dot
   products.
-type: courses
+type: course
 layout: pdf
 uid: 587fbea1a707a5deedadaa483e995d8a
 file_type: application/pdf

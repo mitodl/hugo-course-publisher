@@ -249,6 +249,6 @@ transcript: >-
   m='200965'>the</span> <span m='201486'>next</span> <span
   m='202008'>video.</span> </p>
 uid: 08dfa3e4f5a98af0f1ebeb3cea5ff492
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: spring2004_sp11.pdf
 description: This resource contains problem set.
-type: courses
+type: course
 layout: pdf
 uid: 5f13e3b032f8bb4decaf9ae5961326eb
 file_type: application/pdf

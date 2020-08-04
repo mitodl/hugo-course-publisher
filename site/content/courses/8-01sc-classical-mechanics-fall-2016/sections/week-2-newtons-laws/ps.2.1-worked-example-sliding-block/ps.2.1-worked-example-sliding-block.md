@@ -170,6 +170,6 @@ transcript: >-
   down.</span> </p><p><span m='371040'>And that's because of the
   direction</span> <span m='373080'>of the kinetic friction force.</span> </p>
 uid: 7c680db7f47dfbb7982714bcd1b39e90
-type: courses
+type: course
 layout: video
 ---

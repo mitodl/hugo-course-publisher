@@ -1,16 +1,14 @@
 ---
 title: '2.5  Digraphs: Walks & Paths'
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: videogallery
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 711aeeca155265f221e5af2643f1a05f
-    type: section
-    layout: section
     name: '2.5  Digraphs: Walks & Paths'
     weight: 1240
     parent: 20b0a2b7a262cb94efd44e9e00511cee
-type: courses
-layout: videogallery
 ---
 *   [<RSA computations]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/vertical-dea30f1864f2" %}})
 *   [2.5.1Digraphs: Walks & Paths: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-3/_index.md" %}})

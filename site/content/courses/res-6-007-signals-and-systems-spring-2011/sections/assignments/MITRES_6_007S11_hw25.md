@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_hw25.pdf
 description: This resource contains problem set related to feedback.
-type: courses
+type: course
 layout: pdf
 uid: 1c16f0f87514ec62b768b07c69411228
 file_type: application/pdf

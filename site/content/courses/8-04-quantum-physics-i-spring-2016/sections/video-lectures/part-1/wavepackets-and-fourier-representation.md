@@ -586,6 +586,6 @@ transcript: >-
   m='670999'>understand</span> <span m='671475'>it</span> <span
   m='671952'>intuitively.</span> </p>
 uid: e8a97aa312028d812288eabe185fb1bf
-type: courses
+type: course
 layout: video
 ---

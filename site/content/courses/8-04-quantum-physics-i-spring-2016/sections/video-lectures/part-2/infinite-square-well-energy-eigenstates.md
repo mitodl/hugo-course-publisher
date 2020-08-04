@@ -647,6 +647,6 @@ transcript: >-
   <span m='792810'>be</span> <span m='793860'>very</span> <span
   m='794280'>relevant</span> <span m='794580'>soon.</span> </p>
 uid: effa3d077d964f6743c186109ca8cdd7
-type: courses
+type: course
 layout: video
 ---

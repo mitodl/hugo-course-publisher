@@ -3,7 +3,7 @@ title: prsm7.pdf
 description: >-
   This resource contains concept questions and answers based on maximum tensile
   stress and deformed shape.
-type: courses
+type: course
 layout: pdf
 uid: b86d34bddf19d9af1e627c746b1ec7f1
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_FinalRevsum.pdf
 description: This resource contains information related to final course review.
-type: courses
+type: course
 layout: pdf
 uid: 89e753b45eed437828821e585bed0e59
 file_type: application/pdf

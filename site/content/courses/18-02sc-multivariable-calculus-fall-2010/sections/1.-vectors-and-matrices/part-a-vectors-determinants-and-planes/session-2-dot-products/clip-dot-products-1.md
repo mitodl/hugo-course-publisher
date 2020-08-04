@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Dot Products'
 transcript: ''
 uid: 0b96c68717c47d7f0a1b5ff19ae13255
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MIT22_081JF10_pset8.pdf
 description: >-
   This resource contains problem statements related to petroleum savings via
   ethanol use.
-type: courses
+type: course
 layout: pdf
 uid: 737e29b4cd0638fc08ca4aaea81e7481
 file_type: application/pdf

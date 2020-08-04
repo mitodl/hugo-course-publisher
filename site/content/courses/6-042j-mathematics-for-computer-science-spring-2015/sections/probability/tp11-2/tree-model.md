@@ -1979,6 +1979,6 @@ transcript: >-
   m='1516020'>the</span> <span m='1516090'>next</span> <span
   m='1516400'>video.</span> </p>
 uid: 6959e0abb52aa69c22d2ee84474d131f
-type: courses
+type: course
 layout: video
 ---

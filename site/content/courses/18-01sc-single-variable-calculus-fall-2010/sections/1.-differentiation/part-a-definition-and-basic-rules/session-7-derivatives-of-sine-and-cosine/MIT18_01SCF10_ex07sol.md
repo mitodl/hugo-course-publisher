@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex07sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   derivatives of sine and cosine.
-type: courses
+type: course
 layout: pdf
 uid: 62ed1c8d2b1d28026a66480a7ce55a42
 file_type: application/pdf

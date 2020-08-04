@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Divergent Series'
 transcript: ''
 uid: eb4aa9c6d11ed1a656d91c573593761e
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MIT15_401F08_final.pdf
 description: >-
   This resource contains 10 questions related to bond maturing, annual
   membership, US treasury bonds, and fiber optic switches.
-type: courses
+type: course
 layout: pdf
 uid: f8870d5f537f04e75e7ecc243416e02a
 file_type: application/pdf

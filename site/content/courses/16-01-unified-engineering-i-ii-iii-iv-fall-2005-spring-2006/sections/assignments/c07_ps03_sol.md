@@ -3,7 +3,7 @@ title: c07_ps03_sol.pdf
 description: >-
   This handout contains the solutions Problem set based on algorithms in the
   assembly language.
-type: courses
+type: course
 layout: pdf
 uid: 940e92e087186c0a45d793c5afceff06
 file_type: application/pdf

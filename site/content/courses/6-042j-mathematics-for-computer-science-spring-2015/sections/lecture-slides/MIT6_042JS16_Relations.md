@@ -3,7 +3,7 @@ title: 'Binary Relations: Relations'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: ad95499ba81e1ccbacfff6d45584bd2b
 file_type: application/pdf

@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information related to business plan financial
   projections.
-type: courses
+type: course
 layout: pdf
 uid: 09b5bb7de6d9ca4db7e4b2924c484f20
 file_type: application/pdf

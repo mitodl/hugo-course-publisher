@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 15 handout: statistical thinking'
 description: This resource contains information related to statistical thinking.
-type: courses
+type: course
 layout: pdf
 uid: 26b03957d86721958dbe57766d380ef4
 file_type: application/pdf

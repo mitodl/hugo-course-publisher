@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex100sol.pdf
 description: >-
   This resource contains the solutions for the problems related to the
   operations on power series and taylor series.
-type: courses
+type: course
 layout: pdf
 uid: e5f4299378ee87484d49640281ca1828
 file_type: application/pdf

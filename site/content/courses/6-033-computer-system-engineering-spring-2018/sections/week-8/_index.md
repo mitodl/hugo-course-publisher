@@ -1,11 +1,11 @@
 ---
 title: 'Week 8: Distributed Systems Part I'
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 038398268d831a706fad0af0bfa301d7
-    type: section
-    layout: section
     name: 'Week 8: Distributed Systems I'
     weight: 370
 ---

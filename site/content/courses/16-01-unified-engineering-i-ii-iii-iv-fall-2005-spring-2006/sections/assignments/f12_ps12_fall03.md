@@ -1,7 +1,7 @@
 ---
 title: f12_ps12_fall03.pdf
 description: This resource contains problems related to flows and velocity fields.
-type: courses
+type: course
 layout: pdf
 uid: 8b0438eb36331dfb50bc93db25210b7f
 file_type: application/pdf

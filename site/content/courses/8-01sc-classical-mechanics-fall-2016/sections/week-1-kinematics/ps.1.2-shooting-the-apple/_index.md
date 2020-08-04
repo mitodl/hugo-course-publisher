@@ -1,16 +1,14 @@
 ---
 title: PS.1.2 Shooting the Apple
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: videogallery
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 3d4cf0c9ea1b525e0dda74b39d1080a8
-    type: section
-    layout: section
     name: PS.1.2 Shooting the Apple
     weight: 330
     parent: 63e325a780c79e352fb5bddb9b8b2c6a
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.1-three-questions-before-starting/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.3-worked-example-braking-car/_index.md" %}}) »
 

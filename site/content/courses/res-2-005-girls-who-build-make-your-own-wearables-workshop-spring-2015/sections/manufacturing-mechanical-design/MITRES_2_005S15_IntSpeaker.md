@@ -3,7 +3,7 @@ title: 'Speaker Notes: Introduction to Manufacturing'
 description: >-
   This file contains information regarding speaker notes: introduction to
   manufacturing.
-type: courses
+type: course
 layout: pdf
 uid: a3cae0efd69a3dee79626d820d4c960a
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_v12.pdf
 description: This resource contains information related to gradient fields in space.
-type: courses
+type: course
 layout: pdf
 uid: b30cc37bba576d91d0c9c60dd7368b16
 file_type: application/pdf

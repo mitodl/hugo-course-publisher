@@ -449,6 +449,6 @@ transcript: >-
   m='479740'>we</span> <span m='479910'>can</span> <span m='480230'>do.</span>
   <span m='481910'>Thanks.</span> </p>
 uid: 3dc50bfe4aac3c755760053db761e0d1
-type: courses
+type: course
 layout: video
 ---

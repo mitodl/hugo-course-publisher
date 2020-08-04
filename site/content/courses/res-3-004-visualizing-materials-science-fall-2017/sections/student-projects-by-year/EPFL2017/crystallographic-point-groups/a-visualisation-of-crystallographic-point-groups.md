@@ -704,6 +704,6 @@ transcript: >-
   m='586310'>for</span> <span m='586490'>your</span> <span
   m='586640'>attention.</span> </p>
 uid: a5f296f88702eedb3182b2b1af46fb52
-type: courses
+type: course
 layout: video
 ---

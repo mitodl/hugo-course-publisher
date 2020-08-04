@@ -3,7 +3,7 @@ title: 'Logic and Propositions: Propositional Logic'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: b1a164f44644fb42297493763695f0e1
 file_type: application/pdf

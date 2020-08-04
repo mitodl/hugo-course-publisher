@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Vectors'
 transcript: ''
 uid: 3057df3e666043ce1af9aef436711887
-type: courses
+type: course
 layout: video
 ---

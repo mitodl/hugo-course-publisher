@@ -1,7 +1,7 @@
 ---
 title: Q8C_sol.pdf
 description: Exam with solutions provided by the professor.
-type: courses
+type: course
 layout: pdf
 uid: 0ab75a817ac8715ac7aa59469dbedad8
 file_type: application/pdf

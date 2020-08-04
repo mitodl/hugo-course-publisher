@@ -396,6 +396,6 @@ transcript: >-
   m="294080">to</span> <span m="294310">match</span> <span m="294590">to</span>
   <span m="294700">the</span> <span m="294830">objectives.</span></p>
 uid: b4aab433321e3c469c8e3cd78eb0c343
-type: courses
+type: course
 layout: video
 ---

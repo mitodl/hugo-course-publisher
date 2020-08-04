@@ -3,7 +3,7 @@ title: 'Class 19 Slides: NHST III: Gallery of tests'
 description: >-
   This is a resource file that contains information regarding NHST III: gallery
   of tests.
-type: courses
+type: course
 layout: pdf
 uid: 98a5762fa899c5992d6f81280bb7485a
 file_type: application/pdf

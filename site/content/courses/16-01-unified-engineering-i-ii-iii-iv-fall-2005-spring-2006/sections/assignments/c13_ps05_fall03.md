@@ -1,7 +1,7 @@
 ---
 title: c13_ps05_fall03.pdf
 description: This handout contains the Problem set based on iteration method.
-type: courses
+type: course
 layout: pdf
 uid: 2d37d54beec07b8d4693c1280fe65340
 file_type: application/pdf

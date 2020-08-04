@@ -1,16 +1,14 @@
 ---
 title: 'Applying Consumer Theory: Labor'
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 52d96c2f56aa990be3ea69526d59464b
-    type: section
-    layout: section
     name: 'Applying Consumer Theory: Labor'
     weight: 130
     parent: 6d0eabb4bf84c44f6ed5096dcf2cf3a4
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/deriving-demand-curves/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/problem-set-3/_index.md" %}}) »
 

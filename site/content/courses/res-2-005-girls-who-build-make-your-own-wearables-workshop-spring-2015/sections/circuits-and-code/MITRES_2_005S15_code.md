@@ -1,7 +1,7 @@
 ---
 title: Circuits and Code
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 9ebf380db630d0ab20939b4046caf378
 file_type: application/pdf

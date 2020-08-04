@@ -615,6 +615,6 @@ transcript: >-
   m='467270'>things</span> <span m='467710'>about</span> <span
   m='468320'>non-negative</span> <span m='468970'>integers.</span> </p>
 uid: a1cf65b2d87dc878fad1569717aedc35
-type: courses
+type: course
 layout: video
 ---

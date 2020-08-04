@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 1: Periodic Oscillations, Harmonic Oscillators'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
+type: course
+layout: videogallery
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 4f5f49df08e67313a6c5d113aba431c2
-    type: section
-    layout: section
     name: 'Lecture 1: Periodic Oscillations, Harmonic Oscillators'
     weight: 40
     parent: 6682a3d163976bcbb2fbe67db27d8f04
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-2/_index.md" %}}) »
 

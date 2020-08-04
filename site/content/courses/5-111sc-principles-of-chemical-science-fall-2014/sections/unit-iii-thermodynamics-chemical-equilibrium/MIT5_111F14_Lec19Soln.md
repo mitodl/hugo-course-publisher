@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Solutions for Lecture 19: Chemical
   Equilibrium: Le Châtelier's Principle
 description: "This resource contains information regarding lecture 19 solution.\r\n"
-type: courses
+type: course
 layout: pdf
 uid: ef503c9bbca756d53f18f206b099a792
 file_type: application/pdf

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 4: Simpson''s Rule'
 transcript: ''
 uid: ffb16330ca31f621fbfb28e49187170e
-type: courses
+type: course
 layout: video
 ---

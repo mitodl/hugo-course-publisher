@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_rev_midtm01.pdf
 description: 'This resource contains information related to unit 2: consumer theory.'
-type: courses
+type: course
 layout: pdf
 uid: 20c1312e8e56a899ed91790b22f39938
 file_type: application/pdf

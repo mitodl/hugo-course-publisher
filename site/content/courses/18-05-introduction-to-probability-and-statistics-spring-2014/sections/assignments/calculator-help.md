@@ -1,11 +1,11 @@
 ---
 title: Calculator Help
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
+type: course
+layout: course_section
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: 758ceee0d2905d7c50727d458581a3b3
-    type: section
-    layout: section
     name: Calculator Help
     weight: 540
     parent: fed85a98064c2e2a4378f3f7549df9b8

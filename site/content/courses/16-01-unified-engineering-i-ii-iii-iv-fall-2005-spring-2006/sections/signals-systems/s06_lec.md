@@ -1,7 +1,7 @@
 ---
 title: s06_lec.pdf
 description: Handwritten lecture notes.
-type: courses
+type: course
 layout: pdf
 uid: 3f2c8db5efa10e0b95dbb57e4a7f92ed
 file_type: application/pdf

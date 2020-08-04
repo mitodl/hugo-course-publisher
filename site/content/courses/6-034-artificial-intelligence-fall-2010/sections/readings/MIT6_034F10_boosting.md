@@ -1,7 +1,7 @@
 ---
 title: MIT6_034F10_boosting.pdf
 description: This resource contains information related to adaptive boosting.
-type: courses
+type: course
 layout: pdf
 uid: 6f12118abb4d06b7fe816142e59dc883
 file_type: application/pdf

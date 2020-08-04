@@ -4423,6 +4423,6 @@ transcript: >-
   m="4893640">of</span> <span m="4893940">the</span> <span
   m="4894240">normal</span> <span m="4894540">modes.</span></p>
 uid: d11af7b988c9df4a8303a0df4a808886
-type: courses
+type: course
 layout: video
 ---

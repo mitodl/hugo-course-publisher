@@ -1,11 +1,11 @@
 ---
 title: 'Part B: Vector Fields and Line Integrals'
 course_id: 18-02sc-multivariable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: 14558d9f4e08d12a419154f3c8100c75
-    type: section
-    layout: section
     name: 'Part B: Vector Fields and Line Integrals'
     weight: 800
     parent: e20c7287dbfb8ff8c5a675c132a454cc

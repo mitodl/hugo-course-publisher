@@ -1,16 +1,14 @@
 ---
 title: 2.6 Directed Acyclic Graphs (DAGs) & Scheduling
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: videogallery
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 30a03ec26577751dfb8c5b6d0813ce12
-    type: section
-    layout: section
     name: 2.6 Directed Acyclic Graphs (DAGs) & Scheduling
     weight: 1300
     parent: 20b0a2b7a262cb94efd44e9e00511cee
-type: courses
-layout: videogallery
 ---
 *   [<Counting Paths]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-3/counting-paths" %}})
 *   [2.6.1DAGs: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-1/_index.md" %}})

@@ -1008,6 +1008,6 @@ transcript: >-
   m='1010340'>vector</span> <span m='1010730'>in</span> <span
   m='1010880'>space.</span> </p>
 uid: 6caeb841157864b9d7b0142bd0f61b42
-type: courses
+type: course
 layout: video
 ---

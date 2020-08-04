@@ -3,7 +3,7 @@ title: 'Infinite Sets: The Halting Problem'
 description: >-
   This resource contains information regarding mathematics for computer science,
   infinite sets: The Halting problem.
-type: courses
+type: course
 layout: pdf
 uid: 6241d989b3ca0a4e61780e8a55e55f83
 file_type: application/pdf

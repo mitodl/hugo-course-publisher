@@ -1,7 +1,7 @@
 ---
 title: 'Stable Matching: Mating Ritual'
 description: This file contains information regarding mating ritual.
-type: courses
+type: course
 layout: pdf
 uid: 160b51d2d21381f8fe9ff72ca0698875
 file_type: application/pdf

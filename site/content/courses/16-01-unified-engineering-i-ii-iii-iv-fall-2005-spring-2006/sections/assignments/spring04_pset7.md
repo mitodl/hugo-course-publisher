@@ -1,7 +1,7 @@
 ---
 title: spring04_pset7.pdf
 description: 'Problem set on fluids,Signals and Systems.'
-type: courses
+type: course
 layout: pdf
 uid: 297f5265c1dd9bcd41421d977afbf42d
 file_type: application/pdf

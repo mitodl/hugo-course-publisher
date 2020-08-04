@@ -2384,6 +2384,6 @@ transcript: >-
   m="2099310">be</span> <span m="2099430">able</span> <span m="2099730">to
   do.</span></p>
 uid: 0c05aa4a3cdad9bb73f8e338fac01285
-type: courses
+type: course
 layout: video
 ---

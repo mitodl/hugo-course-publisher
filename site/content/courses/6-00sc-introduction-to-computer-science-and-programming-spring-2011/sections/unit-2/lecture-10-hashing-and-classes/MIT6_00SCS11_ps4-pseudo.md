@@ -1,7 +1,7 @@
 ---
 title: MIT6_00SCS11_ps4-pseudo.pdf
 description: This resource contains problem set related to pseudocode.
-type: courses
+type: course
 layout: pdf
 uid: dc7676bdec5c909f89f943a4cd4043a9
 file_type: application/pdf

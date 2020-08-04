@@ -948,6 +948,6 @@ transcript: >-
   m='735140'>counts</span> <span m='735420'>for</span> <span
   m='735520'>three</span> <span m='735810'>pairs.</span> </p>
 uid: b9152b35e08b558db2bee5f409d74aa6
-type: courses
+type: course
 layout: video
 ---

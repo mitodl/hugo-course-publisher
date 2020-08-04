@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 10: Hashing and Classes'
 transcript: ''
 uid: 69efe9207e840a316ad8130da743a5f9
-type: courses
+type: course
 layout: video
 ---

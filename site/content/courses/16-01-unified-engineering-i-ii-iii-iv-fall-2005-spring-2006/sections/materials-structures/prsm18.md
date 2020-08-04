@@ -3,7 +3,7 @@ title: prsm18.pdf
 description: >-
   This resource contains concept questions and answers based on the phenomena
   and underlying mechanisms.
-type: courses
+type: course
 layout: pdf
 uid: 9a3e0c3c335d5b0d9aff0a3403df2460
 file_type: application/pdf

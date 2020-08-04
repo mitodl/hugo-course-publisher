@@ -294,6 +294,6 @@ transcript: >-
   m='322820'>the</span> <span m='323470'>ODE</span> <span
   m='324000'>solvers.</span> </p><p></p>
 uid: d255105b3f1c9a1de9fbbc907b26972c
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_22_comb.pdf
 description: >-
   This resource contains problem statements and solutions related to Kepler's
   second law.
-type: courses
+type: course
 layout: pdf
 uid: be0f5c94987e9cda6ecd7a69c7f708b3
 file_type: application/pdf

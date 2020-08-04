@@ -1,7 +1,7 @@
 ---
 title: 'Case Study 4: Volatility Modeling of Exchange Rate Returns'
 description: This file contains information regarding case studies 4.
-type: courses
+type: course
 layout: pdf
 uid: 809b321c4ffe634b3db0e8c59c4049df
 file_type: application/pdf

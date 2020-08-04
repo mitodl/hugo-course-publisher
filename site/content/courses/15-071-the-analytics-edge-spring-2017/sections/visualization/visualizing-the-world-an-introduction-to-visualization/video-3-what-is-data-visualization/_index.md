@@ -1,7 +1,7 @@
 ---
 title: '7.2 Visualizing the World: An Introduction to Visualization'
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-510" %}})

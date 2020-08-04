@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_rec08_sol.pdf
 description: 'This resource contains solutions of build-up error, the grow algorithm. '
-type: courses
+type: course
 layout: pdf
 uid: 09a7ad2282e4c198e03c74e342be8b2f
 file_type: application/pdf

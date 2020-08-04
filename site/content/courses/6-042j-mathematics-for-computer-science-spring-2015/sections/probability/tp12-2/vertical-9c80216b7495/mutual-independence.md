@@ -680,6 +680,6 @@ transcript: >-
   m='496250'>most</span> <span m='496540'>of</span> <span m='496600'>the</span>
   <span m='496720'>time.</span> </p>
 uid: 102ca7541081e73713c9f143aaed5615
-type: courses
+type: course
 layout: video
 ---

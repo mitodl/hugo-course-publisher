@@ -1,7 +1,7 @@
 ---
 title: 'Expectation: Total Expectation'
 description: This file contains information regarding total expectation.
-type: courses
+type: course
 layout: pdf
 uid: 2408aaffbf0d7adc6f5ce6e5e938d4ad
 file_type: application/pdf

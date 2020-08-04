@@ -1,7 +1,7 @@
 ---
 title: breguetnoteseps.pdf
 description: This file contains the outline for The Breguet Range Equation.
-type: courses
+type: course
 layout: pdf
 uid: 92ab2685b6773e7679e7beac1db1b763
 file_type: application/pdf

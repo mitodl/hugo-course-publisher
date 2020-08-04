@@ -1,7 +1,7 @@
 ---
 title: 'Session 35: Gradient: Definition, Perpendicular to Level Curves'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-type: courses
+type: course
 layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-34-the-chain-rule-with-more-variables/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-36-proof/_index.md" %}}) »

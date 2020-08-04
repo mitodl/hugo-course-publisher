@@ -263,6 +263,6 @@ transcript: >-
   m="162680">see</span> <span m="162900">where</span> <span
   m="163050">these</span> <span m="163290">go.</span></p>
 uid: fe7601ee92249d5bc7b350cb9c8bf95f
-type: courses
+type: course
 layout: video
 ---

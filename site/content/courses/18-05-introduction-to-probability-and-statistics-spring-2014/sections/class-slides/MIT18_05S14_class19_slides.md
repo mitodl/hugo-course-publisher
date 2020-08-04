@@ -1,7 +1,7 @@
 ---
 title: 'Class 19 Slides: NHST III: Gallery of tests'
 description: This is a resource file that contains information regarding class 19.
-type: courses
+type: course
 layout: pdf
 uid: 207a19ed30f8fde3b10aff84c64e2f60
 file_type: application/pdf

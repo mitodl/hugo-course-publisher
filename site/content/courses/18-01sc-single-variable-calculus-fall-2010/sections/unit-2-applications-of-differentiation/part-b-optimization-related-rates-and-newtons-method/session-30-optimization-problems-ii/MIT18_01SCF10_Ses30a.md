@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses30a.pdf
 description: This resource contains information about optimization problems II.
-type: courses
+type: course
 layout: pdf
 uid: cfe6429026ae441c61a097904ccda0cb
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Kochan Chapter 5: A New Age of Innovation?'
 description: Chapter 5 of Kochan's book
-type: courses
+type: course
 layout: pdf
 uid: 815ead7f49fabe325d658cec6f9b30ad
 file_type: application/pdf

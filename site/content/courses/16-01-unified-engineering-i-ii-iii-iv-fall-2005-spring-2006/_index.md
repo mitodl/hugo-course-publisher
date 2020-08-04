@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 course_title: 'Unified Engineering I, II, III, & IV'
 course_image_url: >-

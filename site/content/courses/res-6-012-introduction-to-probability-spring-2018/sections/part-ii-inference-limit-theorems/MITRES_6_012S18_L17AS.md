@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding introduction to probability:
   Inference & limit theorems: Linear least mean squares (LLMS) estimation.
-type: courses
+type: course
 layout: pdf
 uid: 2e009499f8b84dc3cdc1363dfb299399
 file_type: application/pdf

@@ -608,6 +608,6 @@ transcript: >-
   m='462810'>of</span> <span m='462940'>two-pair</span> <span
   m='463530'>hands.</span> </p>
 uid: 47a047055d59b5b72ba645f4d5de4aea
-type: courses
+type: course
 layout: video
 ---

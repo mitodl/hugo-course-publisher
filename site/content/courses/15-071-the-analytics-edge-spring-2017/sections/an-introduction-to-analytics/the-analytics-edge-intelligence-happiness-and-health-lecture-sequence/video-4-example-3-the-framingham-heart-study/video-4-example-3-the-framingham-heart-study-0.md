@@ -196,6 +196,6 @@ transcript: >-
   m='150990'>predictions</span> <span m='151560'>for</span> <span
   m='152130'>patients</span> <span m='152700'>worldwide.</span> </p>
 uid: 2e9b83b848ed13111f576d5590d823be
-type: courses
+type: course
 layout: video
 ---

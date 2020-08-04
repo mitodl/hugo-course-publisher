@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Integral of ln(x)2'
 transcript: ''
 uid: f7d1ebe5d9cb78c3d35fdcc0712cce78
-type: courses
+type: course
 layout: video
 ---

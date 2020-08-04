@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: The Mean Value Theorem and Estimation'
 transcript: ''
 uid: 09b631e898bb2abcd19c2df04d1a0c63
-type: courses
+type: course
 layout: video
 ---

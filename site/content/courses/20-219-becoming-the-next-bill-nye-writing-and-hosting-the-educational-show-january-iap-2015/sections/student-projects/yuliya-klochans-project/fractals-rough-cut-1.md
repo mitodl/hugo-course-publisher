@@ -301,6 +301,6 @@ transcript: >-
   m="201270">do</span> <span m="201570">you</span> <span
   m="201870">see?</span></p>
 uid: 0c990edf7f5341aded670e524f7e2be4
-type: courses
+type: course
 layout: video
 ---

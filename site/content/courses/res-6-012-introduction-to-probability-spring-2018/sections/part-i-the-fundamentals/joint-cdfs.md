@@ -121,6 +121,6 @@ transcript: >-
   variables, and that we can recover the joint</span> <span m='252610'>PDF from
   the joint CDF.</span> </p><p></p>
 uid: 079a22e8d1861f0582aefebe0f6bc72c
-type: courses
+type: course
 layout: video
 ---

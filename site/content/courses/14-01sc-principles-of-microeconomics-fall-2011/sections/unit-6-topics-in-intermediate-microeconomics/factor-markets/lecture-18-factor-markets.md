@@ -3509,6 +3509,6 @@ transcript: >-
   <span m='2795730'>talk</span> <span m='2795880'>about</span> <span
   m='2796070'>why.</span> </p>
 uid: 3ae2c458766aab9b97e3d966ea9539dd
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: pset9_sol.pdf
 description: >-
   This file includes solutions to problems on Pi products, Reynolds and Mach
   numbers, eigenvalues?and?eigenvectors, and method of joints.
-type: courses
+type: course
 layout: pdf
 uid: 98ba7a4120363cb84e4ac85da2dc1fb4
 file_type: application/pdf

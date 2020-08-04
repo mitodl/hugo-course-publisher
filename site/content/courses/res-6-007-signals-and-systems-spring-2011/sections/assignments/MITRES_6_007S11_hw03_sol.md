@@ -3,7 +3,7 @@ title: MITRES_6_007S11_hw03_sol.pdf
 description: >-
   This resource contains solution to the problem set related to signals and
   systems: part II.
-type: courses
+type: course
 layout: pdf
 uid: aa6f4739cf29d78a12a23fcf2033e298
 file_type: application/pdf

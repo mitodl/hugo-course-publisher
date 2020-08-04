@@ -1,7 +1,7 @@
 ---
 title: Comments on PJ's Rough Cut
 description: This resource contains information regarding PJ's rough cut.
-type: courses
+type: course
 layout: pdf
 uid: 7e32aa4115bc210a9ae82862f0acc6c0
 file_type: application/pdf

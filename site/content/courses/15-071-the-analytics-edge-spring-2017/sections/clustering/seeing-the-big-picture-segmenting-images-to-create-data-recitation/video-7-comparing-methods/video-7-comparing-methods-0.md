@@ -307,6 +307,6 @@ transcript: >-
   m='218660'>week.</span> </p><p><span m='219110'>Good</span> <span
   m='220065'>luck.</span> </p>
 uid: 7d9d982ffc1f4c98ad85839fd33007f7
-type: courses
+type: course
 layout: video
 ---

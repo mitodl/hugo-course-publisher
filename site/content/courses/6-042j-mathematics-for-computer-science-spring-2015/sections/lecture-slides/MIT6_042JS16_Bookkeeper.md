@@ -3,7 +3,7 @@ title: 'Repetitions & Binomial Theorem: Bookkeeper Rule, Multinomial Theorem'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 61f041cc2a034ffb89fa495bb4d9207f
 file_type: application/pdf

@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 4: Machine Interpretation of a Program'
 transcript: ''
 uid: da4ac4d9220c7447dc5fedf0414e7b79
-type: courses
+type: course
 layout: video
 ---

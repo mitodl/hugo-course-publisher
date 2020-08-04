@@ -632,6 +632,6 @@ transcript: >-
   <span m='463350'>is</span> <span m='463460'>where</span> <span m='463650'>I
   will</span> <span m='463820'>stop.</span> </p>
 uid: ce35dfa20f34e7af4515befaaf4526f8
-type: courses
+type: course
 layout: video
 ---

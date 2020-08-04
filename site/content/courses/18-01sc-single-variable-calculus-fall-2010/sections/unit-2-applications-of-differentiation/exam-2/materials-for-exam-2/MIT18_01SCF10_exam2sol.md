@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_exam2sol.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 8bc1745cc348551cb9b30fb6cc7f9ecf
 file_type: application/pdf

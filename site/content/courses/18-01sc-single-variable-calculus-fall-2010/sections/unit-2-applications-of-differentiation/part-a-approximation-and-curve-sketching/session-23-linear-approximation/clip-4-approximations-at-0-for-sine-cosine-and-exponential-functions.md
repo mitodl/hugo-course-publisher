@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 4: Approximations at 0 for Sine, Cosine and Exponential Functions'
 transcript: ''
 uid: d05d2844d71ce6e4b18856df7c3bd252
-type: courses
+type: course
 layout: video
 ---

@@ -721,6 +721,6 @@ transcript: >-
   boundaries of valid operation so</span> <span m='3023000'>that the MOSFET
   stays in saturation?</span> </p>
 uid: 6b64779b5126fd1f7536e398e31f8bba
-type: courses
+type: course
 layout: video
 ---

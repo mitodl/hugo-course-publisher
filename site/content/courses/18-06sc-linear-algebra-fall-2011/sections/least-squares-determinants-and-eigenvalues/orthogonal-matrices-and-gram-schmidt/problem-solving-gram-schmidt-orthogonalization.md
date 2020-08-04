@@ -580,6 +580,6 @@ transcript: >-
   m='597210'>Bye.</span> <span m='597420'>See</span> <span m='597640'>you</span>
   <span m='597710'>next</span> <span m='597970'>time.</span> </p>
 uid: 12bacd0a7df9373200c2592939c97906
-type: courses
+type: course
 layout: video
 ---

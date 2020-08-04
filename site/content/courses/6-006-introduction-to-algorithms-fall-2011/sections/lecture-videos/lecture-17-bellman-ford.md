@@ -2752,6 +2752,6 @@ transcript: >-
   m='2927770'>in</span> <span m='2927880'>the</span> <span
   m='2927960'>term.</span> </p>
 uid: ae43980d9777639340a8b145999421d3
-type: courses
+type: course
 layout: video
 ---

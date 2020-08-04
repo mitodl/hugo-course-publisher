@@ -3,7 +3,7 @@ title: 'Binary Relations: Relational Mapping'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 77e36b055916b9ebc3bb42170281924b
 file_type: application/pdf

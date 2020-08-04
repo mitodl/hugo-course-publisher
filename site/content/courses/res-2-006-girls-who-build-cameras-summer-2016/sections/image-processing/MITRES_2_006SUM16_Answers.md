@@ -3,7 +3,7 @@ title: Processing Instructions Answer Key
 description: >-
   This resource contains information regarding processing instructions answer
   key.
-type: courses
+type: course
 layout: pdf
 uid: a763761e668cb30dfe01b3a4008b90a8
 file_type: application/pdf

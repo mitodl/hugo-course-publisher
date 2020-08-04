@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses91c.pdf
 description: This resource contains informations related to improper integrals.
-type: courses
+type: course
 layout: pdf
 uid: 84dd90e10f6a430c4880d3ef2b74e654
 file_type: application/pdf

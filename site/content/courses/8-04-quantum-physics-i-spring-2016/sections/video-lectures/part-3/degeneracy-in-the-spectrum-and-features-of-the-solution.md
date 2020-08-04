@@ -733,6 +733,6 @@ transcript: >-
   m='857050'>we</span> <span m='857270'>should</span> <span
   m='857570'>understand.</span> </p>
 uid: b2b03a31092a37776797ee7921092c0d
-type: courses
+type: course
 layout: video
 ---

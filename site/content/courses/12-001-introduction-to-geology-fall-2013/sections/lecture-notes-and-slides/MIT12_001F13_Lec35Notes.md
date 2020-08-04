@@ -3,7 +3,7 @@ title: 'Lecture 35 Notes: Earth Science and Society'
 description: >-
   This is a resource file that contains information regarding earth science and
   society.
-type: courses
+type: course
 layout: pdf
 uid: aa123b818503ad107b864c3c21571f95
 file_type: application/pdf

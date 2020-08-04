@@ -980,6 +980,6 @@ transcript: >-
   </p><p><span m='836600'>I'll</span> <span m='836750'>end</span> <span
   m='836970'>there.</span> </p>
 uid: add425632f8d94c680d9ad76333b38b6
-type: courses
+type: course
 layout: video
 ---

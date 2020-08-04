@@ -384,6 +384,6 @@ transcript: >-
   m='319174'>a</span> <span m='319711'>super</span> <span m='320248'>high</span>
   <span m='320785'>speed</span> <span m='321322'>network.</span> </p>
 uid: 91f32951c5c185945f56427cb440c0f6
-type: courses
+type: course
 layout: video
 ---

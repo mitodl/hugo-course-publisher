@@ -3,7 +3,7 @@ title: fall_2003_pset10.pdf
 description: >-
   This resource contains problems on mass conservation law and materials and
   structures.
-type: courses
+type: course
 layout: pdf
 uid: 414cc049fb3356fe07a6e5ab0c9fffaa
 file_type: application/pdf

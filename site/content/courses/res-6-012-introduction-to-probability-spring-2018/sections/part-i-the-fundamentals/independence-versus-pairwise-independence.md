@@ -186,6 +186,6 @@ transcript: >-
   H1.</span></p><p><span m="508810">H2, and C are not
   independent.</span></p><p>&nbsp;</p>
 uid: 19188ac0f24dbfeadf49449100a95aa1
-type: courses
+type: course
 layout: video
 ---

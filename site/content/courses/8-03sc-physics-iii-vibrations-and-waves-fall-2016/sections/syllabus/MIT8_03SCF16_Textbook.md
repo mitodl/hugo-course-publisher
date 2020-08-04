@@ -1,7 +1,7 @@
 ---
 title: MIT8_03SCF16_Textbook.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: ef731c1b91d77a6db003f6c27e300d25
 file_type: application/pdf

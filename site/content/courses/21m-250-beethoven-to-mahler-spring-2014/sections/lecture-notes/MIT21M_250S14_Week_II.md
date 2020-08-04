@@ -5,7 +5,7 @@ title: >-
 description: >-
   This is a resource file that contains information regarding week II: beethoven
   and rossini; bellini; field; schubert.
-type: courses
+type: course
 layout: pdf
 uid: 5f5dab995fb72c10b1758be850627ca3
 file_type: application/pdf

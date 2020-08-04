@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information related to String subproblems,
   psuedopolynomial time; parenthesization, edit distance, knapsack.
-type: courses
+type: course
 layout: pdf
 uid: 06fe52fd13d711cb32dd0e5c6c8f0980
 file_type: application/pdf

@@ -40,6 +40,6 @@ technical_location: >-
 title: 'Lab 2: Solar Power Measurement, Part I: Lecture'
 transcript: ''
 uid: 5e800d0e334f0e1ea68b69dd206b63fa
-type: courses
+type: course
 layout: video
 ---

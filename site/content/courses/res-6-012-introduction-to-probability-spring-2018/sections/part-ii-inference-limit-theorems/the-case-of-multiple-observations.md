@@ -268,6 +268,6 @@ transcript: >-
   the formula that we have, itself,</span> <span m='822670'>has an appealing
   intuitive content.</span> </p>
 uid: 2d1052097ac349511459acc191b61fcb
-type: courses
+type: course
 layout: video
 ---

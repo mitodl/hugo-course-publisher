@@ -1,7 +1,7 @@
 ---
 title: INTRO TO DIGITAL CAMERAS
 description: This resource contains information regarding intro to digital cameras.
-type: courses
+type: course
 layout: pdf
 uid: ecb217873f12b035c8e85b3c8f16d3be
 file_type: application/pdf

@@ -2736,6 +2736,6 @@ transcript: >-
   m='2936390'>OK.</span> </p><p><span m='2936930'>Thanks,</span> <span
   m='2937676'>that's</span> <span m='2938423'>great.</span> </p>
 uid: 214efbacd6f9755c68b174332e9bf0c2
-type: courses
+type: course
 layout: video
 ---

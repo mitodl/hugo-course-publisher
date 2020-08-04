@@ -3,7 +3,7 @@ title: ps5.pdf
 description: >-
   This resource provides information about the reading assignment, useful facts
   and 5 problems for assignment 5.
-type: courses
+type: course
 layout: pdf
 uid: 5ab0baf6ba8177bcaa26bf870168aa13
 file_type: application/pdf

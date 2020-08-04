@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_21_quest.pdf
 description: This resource contains problem statements related to velocity and arc length.
-type: courses
+type: course
 layout: pdf
 uid: 26c788675387b3565a473e3ba0915d26
 file_type: application/pdf

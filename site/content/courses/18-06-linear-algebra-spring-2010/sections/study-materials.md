@@ -1,11 +1,11 @@
 ---
 title: Study Materials
 course_id: 18-06-linear-algebra-spring-2010
+type: course
+layout: course_section
 menu:
   18-06-linear-algebra-spring-2010:
     identifier: 554b504960907e6ae65566acc1c314b9
-    type: section
-    layout: section
     name: Study Materials
     weight: 80
 ---

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: General Power Series'
 transcript: ''
 uid: 1c99b36050ffe6be17a16d6faa28a530
-type: courses
+type: course
 layout: video
 ---

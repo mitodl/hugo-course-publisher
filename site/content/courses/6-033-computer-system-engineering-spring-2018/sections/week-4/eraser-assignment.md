@@ -1,11 +1,11 @@
 ---
 title: Eraser Assignment
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 85894c2022fb054e580a61a43ed2648d
-    type: section
-    layout: section
     name: Eraser Assignment
     weight: 190
     parent: 0466ee2b5ebb72d0ad4f7badf3b6c645

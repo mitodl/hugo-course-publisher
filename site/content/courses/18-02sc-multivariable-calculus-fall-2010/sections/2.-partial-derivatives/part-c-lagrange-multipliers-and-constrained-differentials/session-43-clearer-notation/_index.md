@@ -1,7 +1,7 @@
 ---
 title: 'Session 43: Clearer Notation'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-type: courses
+type: course
 layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-42-constrained-differentials/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-44-example/_index.md" %}}) »

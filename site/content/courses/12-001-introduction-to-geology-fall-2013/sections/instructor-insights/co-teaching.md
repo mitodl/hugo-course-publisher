@@ -1,11 +1,11 @@
 ---
 title: Co-Teaching
 course_id: 12-001-introduction-to-geology-fall-2013
+type: course
+layout: course_section
 menu:
   12-001-introduction-to-geology-fall-2013:
     identifier: e843f795081ac616d0cebdff6e956e33
-    type: section
-    layout: section
     name: Co-Teaching
     weight: 40
     parent: 1c2cb2ad1c70fd66f19e20103dc94595

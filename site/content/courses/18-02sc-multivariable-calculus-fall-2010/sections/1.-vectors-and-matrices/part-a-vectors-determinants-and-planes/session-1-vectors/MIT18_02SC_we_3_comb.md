@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_we_3_comb.pdf
 description: 'This resource contains information related to force as a vector. '
-type: courses
+type: course
 layout: pdf
 uid: d4971e811683f61b5c9b0102131ab9e6
 file_type: application/pdf

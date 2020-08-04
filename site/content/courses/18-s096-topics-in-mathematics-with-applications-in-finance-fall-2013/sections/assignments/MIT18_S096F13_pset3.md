@@ -1,7 +1,7 @@
 ---
 title: 'Problem Set 3: Regression Analysis'
 description: This file contains information regarding problem set 3.
-type: courses
+type: course
 layout: pdf
 uid: 61d868106b4de23e5c59c04512954a8b
 file_type: application/pdf

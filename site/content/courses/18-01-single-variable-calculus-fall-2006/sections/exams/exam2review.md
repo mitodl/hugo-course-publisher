@@ -1,7 +1,7 @@
 ---
 title: Unit 2 Review
 description: Review materials for the second exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: 6674b3af71a312ed81359e727d376ef1
 file_type: application/pdf

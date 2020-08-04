@@ -828,6 +828,6 @@ transcript: >-
   ask your recitation</span> <span m='3138000'>instructors to cover the very
   simple method that is on page 9.</span> </p>
 uid: 4aa4220dc30f836dd6848ba21f591686
-type: courses
+type: course
 layout: video
 ---

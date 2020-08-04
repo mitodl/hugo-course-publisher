@@ -702,6 +702,6 @@ transcript: >-
   m='2343540'>actually arises from the properties of friction</span> <span
   m='2346160'>at the nano scale?</span> </p>
 uid: 4e6fe5353a145f092f92ebaf1b4c4def
-type: courses
+type: course
 layout: video
 ---

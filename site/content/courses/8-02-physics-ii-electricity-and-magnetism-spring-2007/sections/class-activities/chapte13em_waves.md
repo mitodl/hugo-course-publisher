@@ -9,7 +9,7 @@ description: >-
   appendix: reflection of electromagnetic waves at conducting surfaces,
   problem-solving strategy: traveling electromagnetic waves, solved problems,
   conceptual questions, and additional problems.
-type: courses
+type: course
 layout: pdf
 uid: 2d2f227e6fd26ee25f366759e02f03dc
 file_type: application/pdf

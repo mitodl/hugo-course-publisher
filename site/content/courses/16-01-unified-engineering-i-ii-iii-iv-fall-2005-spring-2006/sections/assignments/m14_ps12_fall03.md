@@ -3,7 +3,7 @@ title: m14_ps12_fall03.pdf
 description: >-
   This resource contains problems based on Mohr's circle, principal stress, and
   maximum shear stress.
-type: courses
+type: course
 layout: pdf
 uid: d528fe354b462e4e070b2bcd468d8ce9
 file_type: application/pdf

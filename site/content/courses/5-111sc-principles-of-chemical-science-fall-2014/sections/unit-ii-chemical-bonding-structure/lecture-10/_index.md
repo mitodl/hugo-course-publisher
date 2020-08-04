@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 10: Introduction to Lewis Structures'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: videogallery
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 5f89679faa0fab38a4eca4a166b9093f
-    type: section
-    layout: section
     name: Lecture 10
     weight: 140
     parent: 89ed642b22037e567593c80ff35cb3f4
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-9/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-11/_index.md" %}}) »
 

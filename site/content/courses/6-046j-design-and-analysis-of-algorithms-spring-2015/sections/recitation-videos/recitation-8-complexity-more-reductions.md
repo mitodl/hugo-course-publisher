@@ -2814,6 +2814,6 @@ transcript: >-
   m="2742440">another</span> <span m="2742680">problem,</span> <span
   m="2743030">so</span> <span m="2743330">we're done.</span></p>
 uid: ee6f3c270c10d7b9558d51a2dca6fde3
-type: courses
+type: course
 layout: video
 ---

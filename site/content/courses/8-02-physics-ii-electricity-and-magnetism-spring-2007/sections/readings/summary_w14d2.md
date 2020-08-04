@@ -3,7 +3,7 @@ title: summary_w14d2.pdf
 description: >-
   Investigation on the subject of interference, both theoretically and
   experimentally.
-type: courses
+type: course
 layout: pdf
 uid: f9e3f5dd2855358b85a8a4c820c35187
 file_type: application/pdf

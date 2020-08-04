@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Slope of Tangent to Circle: Implicit'
 transcript: ''
 uid: 21cba79697d161975ea4a92cb2b3d356
-type: courses
+type: course
 layout: video
 ---

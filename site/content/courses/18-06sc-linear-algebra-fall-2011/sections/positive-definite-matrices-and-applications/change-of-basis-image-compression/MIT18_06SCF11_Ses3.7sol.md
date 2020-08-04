@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses3.7sol.pdf
 description: >-
   This resource contains solution to problem set related to change of basis;
   image compression.
-type: courses
+type: course
 layout: pdf
 uid: 59b81b79eaab5acab8135f0dbe502955
 file_type: application/pdf

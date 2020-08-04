@@ -3237,6 +3237,6 @@ transcript: >-
   m='3116680'>And</span> <span m='3117220'>I'll</span> <span
   m='3117690'>stop</span> <span m='3117940'>there.</span> </p>
 uid: 3ac96f3039c3e0bb24e9603d0c4aae3c
-type: courses
+type: course
 layout: video
 ---

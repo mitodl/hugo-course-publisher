@@ -3,7 +3,7 @@ title: 'Introduction to Probability: Lecture 5: Discrete Random Variables Part I
 description: >-
   This resource contains information regarding introduction to probability: The
   fundamentals: Discrete random variables part I.
-type: courses
+type: course
 layout: pdf
 uid: 6d117aafaee7e6456172645570c90359
 file_type: application/pdf

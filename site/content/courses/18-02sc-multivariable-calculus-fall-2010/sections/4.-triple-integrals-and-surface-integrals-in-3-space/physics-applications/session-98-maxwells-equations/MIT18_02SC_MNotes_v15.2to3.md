@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_v15.2to3.pdf
 description: This resource contains information related to relation to physics.
-type: courses
+type: course
 layout: pdf
 uid: 3f371db51e1ee3540e6f0ff50e46d07b
 file_type: application/pdf

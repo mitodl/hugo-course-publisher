@@ -3,7 +3,7 @@ title: c06_ps03_sol.pdf
 description: >-
   This handout contains the solutions Problem set based on excess-16
   representation and von Neumann architecture.
-type: courses
+type: course
 layout: pdf
 uid: 54d8bccdd79d8bb59173318bef285ab5
 file_type: application/pdf

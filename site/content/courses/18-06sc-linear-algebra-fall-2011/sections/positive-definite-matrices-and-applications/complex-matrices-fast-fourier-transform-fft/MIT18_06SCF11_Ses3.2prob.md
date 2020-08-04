@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses3.2prob.pdf
 description: >-
   This resource contains problem set related to complex matrices; fast fourier
   transform (FFT).
-type: courses
+type: course
 layout: pdf
 uid: ca8938713de08907994e9be8b7c8630a
 file_type: application/pdf

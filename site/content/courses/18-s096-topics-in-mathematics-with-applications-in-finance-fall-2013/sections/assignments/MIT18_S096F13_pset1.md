@@ -1,7 +1,7 @@
 ---
 title: 'Problem Set 1: Linear Algebra'
 description: This file contains information regarding problem set 1.
-type: courses
+type: course
 layout: pdf
 uid: 79abc7077a91900369bbb9823211bba1
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_hw12_sol.pdf
 description: This resource contains solution to the problem set related to filtering.
-type: courses
+type: course
 layout: pdf
 uid: 1152c6c78844fc1b4b26cf74706c641d
 file_type: application/pdf

@@ -3498,6 +3498,6 @@ transcript: >-
   m="3180695">That'll</span> <span m="3181160">be</span> <span
   m="3181250">great.</span></p>
 uid: cc1df015cfc3b3dd42f1d611e51bd754
-type: courses
+type: course
 layout: video
 ---

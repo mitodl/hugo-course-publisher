@@ -2498,6 +2498,6 @@ transcript: >-
   m="2724090">Tuesday</span> <span m="2725560">next</span> <span
   m="2725890">week.</span></p>
 uid: c7517d37c7aa58f639adf87b01e4e892
-type: courses
+type: course
 layout: video
 ---

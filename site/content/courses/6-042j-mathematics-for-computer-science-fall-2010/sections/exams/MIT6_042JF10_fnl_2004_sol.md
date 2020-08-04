@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_fnl_2004_sol.pdf
 description: 'This resource contains solutions of 2004 final exam. '
-type: courses
+type: course
 layout: pdf
 uid: ada5226b2986f45a03ce10a46137d8ee
 file_type: application/pdf

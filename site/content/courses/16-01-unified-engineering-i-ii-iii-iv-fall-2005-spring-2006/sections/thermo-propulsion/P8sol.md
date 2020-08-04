@@ -1,7 +1,7 @@
 ---
 title: P8sol.pdf
 description: Problem set solutions based on relative Mach number.
-type: courses
+type: course
 layout: pdf
 uid: e57bfc300ce2948a695083ce20ff3c67
 file_type: application/pdf

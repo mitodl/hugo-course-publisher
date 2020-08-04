@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses35b.pdf
 description: This resource contains information related to mean value theorem.
-type: courses
+type: course
 layout: pdf
 uid: d564cd7fe40fca45b09ebf3e11fbe08c
 file_type: application/pdf

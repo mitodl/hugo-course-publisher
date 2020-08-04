@@ -1,7 +1,7 @@
 ---
 title: 'Session 5: Area and Determinants in 2D'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-type: courses
+type: course
 layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-4-vector-components/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-6-volumes-and-determinants-in-space/_index.md" %}}) »

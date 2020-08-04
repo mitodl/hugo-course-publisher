@@ -3,7 +3,7 @@ title: MIT14_01SCF11_graph08a.pdf
 description: >-
   This resource contains graphs and figures related to applying consumer theory:
   labor.
-type: courses
+type: course
 layout: pdf
 uid: 2cd9a13ca8ccbc9c6bb19c713bf52fc1
 file_type: application/pdf

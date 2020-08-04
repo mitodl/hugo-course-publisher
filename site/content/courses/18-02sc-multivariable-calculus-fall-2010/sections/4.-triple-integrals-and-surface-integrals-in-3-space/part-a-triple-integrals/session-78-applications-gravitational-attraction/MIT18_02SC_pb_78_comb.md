@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding applications of spherical
   coordinates.
-type: courses
+type: course
 layout: pdf
 uid: a9db1509eac4d651c71d7e3bedc54607
 file_type: application/pdf

@@ -183,6 +183,6 @@ transcript: >-
   pieces.</span></p><p><span m="513200">And that's exactly the expression</span>
   <span m="515470">the we have up here.</span></p><p>&nbsp;</p>
 uid: 621f90cfe15aef9f67fa5706ceaa1f9f
-type: courses
+type: course
 layout: video
 ---

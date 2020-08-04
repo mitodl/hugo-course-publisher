@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_v10.2.pdf
 description: This resource contains information related to proof of the divergence theorem.
-type: courses
+type: course
 layout: pdf
 uid: 33885c2a159aacc124716eb082db7263
 file_type: application/pdf

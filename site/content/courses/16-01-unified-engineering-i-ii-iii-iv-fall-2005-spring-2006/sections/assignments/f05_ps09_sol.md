@@ -3,7 +3,7 @@ title: f05_ps09_sol.pdf
 description: >-
   This resource contains the handwritten solution to the problem set based on
   the aircraft and the Wright Brothers Wind Tunnel.
-type: courses
+type: course
 layout: pdf
 uid: 70b1b398a2371cb074c93259b3266c9c
 file_type: application/pdf

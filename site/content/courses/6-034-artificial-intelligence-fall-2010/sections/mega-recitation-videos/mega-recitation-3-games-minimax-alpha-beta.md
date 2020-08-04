@@ -3914,6 +3914,6 @@ transcript: >-
   m='3052470'>much</span> <span m='3052830'>about</span> <span
   m='3053260'>the</span> <span m='3053400'>quiz.</span> </p>
 uid: b605863f59de0428fe1c8571132dfba5
-type: courses
+type: course
 layout: video
 ---

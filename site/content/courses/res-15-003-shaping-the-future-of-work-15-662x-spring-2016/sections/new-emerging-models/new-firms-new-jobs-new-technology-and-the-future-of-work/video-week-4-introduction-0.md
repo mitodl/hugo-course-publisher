@@ -712,6 +712,6 @@ transcript: >-
   m='547120'>and</span> <span m='547500'>in</span> <span m='547580'>the</span>
   <span m='547670'>weeks</span> <span m='547940'>ahead.</span> </p>
 uid: 4c3f850e565772799640440daaf6cc45
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: '18.S997 Root-Finding: Homework 2'
 description: This resource contains information regarding homework 2.
-type: courses
+type: course
 layout: pdf
 uid: 71b2006683856e95cbe3bf554db91854
 file_type: application/pdf

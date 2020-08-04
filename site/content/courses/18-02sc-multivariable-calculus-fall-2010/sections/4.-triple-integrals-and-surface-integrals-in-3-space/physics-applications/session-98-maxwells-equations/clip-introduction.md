@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Introduction'
 transcript: ''
 uid: 3e5b0dac0fedfad9a30030f4a990aec0
-type: courses
+type: course
 layout: video
 ---

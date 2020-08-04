@@ -1,7 +1,7 @@
 ---
 title: f16_ps13_fall03.pdf
 description: This resource contains problems on the topic physically-possible flows.
-type: courses
+type: course
 layout: pdf
 uid: ee81f5cacae71b7c4f562405629acc89
 file_type: application/pdf

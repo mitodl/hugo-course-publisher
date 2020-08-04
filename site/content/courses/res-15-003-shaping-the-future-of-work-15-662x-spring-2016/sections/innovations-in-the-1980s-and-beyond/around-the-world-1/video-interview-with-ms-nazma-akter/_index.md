@@ -1,7 +1,7 @@
 ---
 title: 3.2 Around the World
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Around the World]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/innovations-in-the-1980s-and-beyond/around-the-world-1/_index.md" %}})

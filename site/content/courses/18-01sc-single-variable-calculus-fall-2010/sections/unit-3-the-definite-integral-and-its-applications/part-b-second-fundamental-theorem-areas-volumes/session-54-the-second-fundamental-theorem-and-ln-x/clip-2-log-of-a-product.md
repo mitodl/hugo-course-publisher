@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Log of a Product'
 transcript: ''
 uid: 04597b1208844991106e487e1a1c9ef7
-type: courses
+type: course
 layout: video
 ---

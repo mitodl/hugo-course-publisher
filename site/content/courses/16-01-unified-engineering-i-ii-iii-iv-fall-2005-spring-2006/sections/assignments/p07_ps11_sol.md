@@ -1,7 +1,7 @@
 ---
 title: p07_ps11_sol.pdf
 description: Handwritten problem set solution.
-type: courses
+type: course
 layout: pdf
 uid: 384603bef887d9d366d012cc80983f7b
 file_type: application/pdf

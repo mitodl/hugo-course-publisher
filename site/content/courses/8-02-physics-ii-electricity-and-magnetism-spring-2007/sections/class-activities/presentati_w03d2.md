@@ -9,7 +9,7 @@ description: >-
   capacitors in parallel, equivalent capacitance, capacitors in series,
   dielectric in capacitor, dielectrics, Gauss?s law for dielectrics, and
   dielectric in a capacitor.
-type: courses
+type: course
 layout: pdf
 uid: 868f2e3078fb1489fdda2ba2cff75452
 file_type: application/pdf

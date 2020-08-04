@@ -2757,6 +2757,6 @@ transcript: >-
   m='2982900'>dramatic.</span> <span m='2984510'>Thank</span> <span
   m='2984780'>you.</span> </p>
 uid: 0b75a44ed266ff62633ff3bc5ed76657
-type: courses
+type: course
 layout: video
 ---

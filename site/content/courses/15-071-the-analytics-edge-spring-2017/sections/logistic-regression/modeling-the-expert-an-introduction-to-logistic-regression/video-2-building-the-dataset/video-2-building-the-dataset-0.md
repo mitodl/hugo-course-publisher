@@ -247,6 +247,6 @@ transcript: >-
   <span m='218870'>0</span> <span m='219400'>or</span> <span
   m='219930'>1.</span> </p>
 uid: a366c4f34d869a7669ccc095cd8ed1ab
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Reading for Class 1: Introduction'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 6c10b75b2d6bf7efd42874e32f7d6f1c
 file_type: application/pdf

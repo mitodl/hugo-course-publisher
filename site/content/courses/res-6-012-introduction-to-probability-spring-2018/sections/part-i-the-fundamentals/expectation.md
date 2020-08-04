@@ -223,6 +223,6 @@ transcript: >-
   interpretation as the average</span> <span m="632040">over a particular
   population.</span></p><p>&nbsp;</p>
 uid: 0ba2358c042feaf97a76a1e899f5e930
-type: courses
+type: course
 layout: video
 ---

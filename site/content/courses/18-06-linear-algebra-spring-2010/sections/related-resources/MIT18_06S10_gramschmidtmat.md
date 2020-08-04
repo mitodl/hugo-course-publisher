@@ -3,7 +3,7 @@ title: MIT18_06S10_gramschmidtmat.pdf
 description: >-
   This resource contains information related to Gram-Schmidt in 9 lines of
   MATLAb.
-type: courses
+type: course
 layout: pdf
 uid: 768d6fe735722547c3f5e74824532c53
 file_type: application/pdf

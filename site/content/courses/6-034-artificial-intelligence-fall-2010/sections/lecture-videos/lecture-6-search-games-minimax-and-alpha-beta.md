@@ -884,6 +884,6 @@ transcript: >-
   309.1.</span> </p><p><span m='2876940'>And, therefore, I will see you on
   Wednesday,</span> <span m='2880440'>all of you, I imagine.</span> </p><p></p>
 uid: b280315e784ecd65c07fac3940bddbbf
-type: courses
+type: course
 layout: video
 ---

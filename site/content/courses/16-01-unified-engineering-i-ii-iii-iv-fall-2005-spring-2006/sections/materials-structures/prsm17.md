@@ -3,7 +3,7 @@ title: prsm17.pdf
 description: >-
   This resource contains concept questions and answers based on strength of
   metal.
-type: courses
+type: course
 layout: pdf
 uid: 2d81ef47f7cee1ec204d02dfdd4c6125
 file_type: application/pdf

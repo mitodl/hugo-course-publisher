@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Surface Area of a Sphere'
 transcript: ''
 uid: 2f90fa542821b8d60f70b75ddd84f9d3
-type: courses
+type: course
 layout: video
 ---

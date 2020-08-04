@@ -625,6 +625,6 @@ transcript: >-
   m='490920'>the</span> <span m='491010'>k-connectivity</span> <span
   m='492240'>story.</span> </p>
 uid: e207e2ccfacd7625cd9047595a57e166
-type: courses
+type: course
 layout: video
 ---

@@ -3251,6 +3251,6 @@ transcript: >-
   m='3158170'>you</span> <span m='3158210'>next</span> <span
   m='3158400'>time.</span> </p>
 uid: 30b1227d461b32e4b54c38350eb51ea4
-type: courses
+type: course
 layout: video
 ---

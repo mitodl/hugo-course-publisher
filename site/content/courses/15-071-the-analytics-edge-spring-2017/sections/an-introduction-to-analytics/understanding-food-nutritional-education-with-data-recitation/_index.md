@@ -1,16 +1,14 @@
 ---
 title: '1.4 Understanding Food: Nutritional Education with Data  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: videogallery
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 7ae5f9abee30803e522bc737bfb5e185
-    type: section
-    layout: section
     name: '1.4 Understanding Food: Nutritional Education with Data  (Recitation)'
     weight: 280
     parent: bebdc8ab5b1f9682d6b762b671b5cf25
-type: courses
-layout: videogallery
 ---
 *   [<Video 7: Saving with Script Files]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-7-saving-with-script-files/_index.md" %}})
 *   [1.4.1Welcome to Recitation 1]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/_index.md" %}})

@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex28prb.pdf
 description: This resource contains problem statements related to graph features.
-type: courses
+type: course
 layout: pdf
 uid: ac72acef5944940fc75a76ca8bee16a9
 file_type: application/pdf

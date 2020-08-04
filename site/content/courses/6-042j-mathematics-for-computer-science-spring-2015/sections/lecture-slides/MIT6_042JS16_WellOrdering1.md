@@ -3,7 +3,7 @@ title: 'Well Ordering Principle: Well Ordering Principle 1'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 4cdeb5d8e2a983636d4a6bb7d31fc714
 file_type: application/pdf

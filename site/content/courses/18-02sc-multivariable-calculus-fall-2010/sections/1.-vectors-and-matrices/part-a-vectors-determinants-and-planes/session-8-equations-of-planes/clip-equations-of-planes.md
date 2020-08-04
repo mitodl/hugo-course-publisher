@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Equations of Planes'
 transcript: ''
 uid: 7c011f35f41f845676186793929a3417
-type: courses
+type: course
 layout: video
 ---

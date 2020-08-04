@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Long Division'
 transcript: ''
 uid: 1788c141d8a329c3bf5d57fd73326adc
-type: courses
+type: course
 layout: video
 ---

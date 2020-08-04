@@ -1,7 +1,7 @@
 ---
 title: '.Session 9: Matrix Multiplication'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-type: courses
+type: course
 layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-10-meaning-of-matrix-multiplication/_index.md" %}}) »

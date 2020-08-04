@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex74prb.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 160495eb552e15d3a310fb9a4d8844ef
 file_type: application/pdf

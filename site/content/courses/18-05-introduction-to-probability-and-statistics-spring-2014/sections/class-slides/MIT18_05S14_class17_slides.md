@@ -1,7 +1,7 @@
 ---
 title: 'Class 17 Slides: Frequentist methods; NHST'
 description: This is a resource file that contains information regarding class 17.
-type: courses
+type: course
 layout: pdf
 uid: d5309817734184b9c8f4fccba8b8d110
 file_type: application/pdf

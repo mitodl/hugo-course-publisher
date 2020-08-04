@@ -7,7 +7,7 @@ description: >-
   loads in the internal bars/members; (d) Compare the loads to values from
   analysis of a two-dimensional model of the truss; (e) Write a short laboratory
   report documenting your findings.
-type: courses
+type: course
 layout: pdf
 uid: 15569ea4c1a5e3d201c368fe044897dc
 file_type: application/pdf

@@ -1,11 +1,11 @@
 ---
 title: Problem Set 11
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: course_section
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: b8ea2fe1fcf0283ab156028db7d562eb
-    type: section
-    layout: section
     name: Problem Set 11
     weight: 2210
     parent: d36579bd7dfcb71f76178b4b8d45c312

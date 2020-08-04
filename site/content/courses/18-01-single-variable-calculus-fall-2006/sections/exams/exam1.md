@@ -1,7 +1,7 @@
 ---
 title: Exam 1
 description: The first exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: f59cd98e31f25c1690accfb8821eef13
 file_type: application/pdf

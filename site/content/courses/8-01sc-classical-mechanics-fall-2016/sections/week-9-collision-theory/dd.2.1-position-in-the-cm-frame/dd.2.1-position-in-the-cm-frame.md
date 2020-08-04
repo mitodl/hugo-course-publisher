@@ -134,6 +134,6 @@ transcript: >-
   2 and 2, r1, 2.</span> </p><p><span m='265540'>And that's our key
   result.</span> </p>
 uid: 277d00a1dae5cf4fd5f648ebe9ff691a
-type: courses
+type: course
 layout: video
 ---

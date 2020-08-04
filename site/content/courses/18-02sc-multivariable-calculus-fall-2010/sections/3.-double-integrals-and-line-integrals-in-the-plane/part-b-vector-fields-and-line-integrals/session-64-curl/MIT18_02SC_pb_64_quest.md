@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Two Dimensional Curl'
 description: This resource contains information regarding two dimensional curl.
-type: courses
+type: course
 layout: pdf
 uid: 4c198066f23c4ec6b9e3b706da72edb1
 file_type: application/pdf

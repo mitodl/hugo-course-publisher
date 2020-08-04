@@ -2524,6 +2524,6 @@ transcript: >-
   m='2483600'>electronegativity</span> <span m='2484670'>on</span> <span
   m='2484820'>Friday.</span> </p>
 uid: 04ab645d46c8a1cf0c97299cef7fa7a7
-type: courses
+type: course
 layout: video
 ---

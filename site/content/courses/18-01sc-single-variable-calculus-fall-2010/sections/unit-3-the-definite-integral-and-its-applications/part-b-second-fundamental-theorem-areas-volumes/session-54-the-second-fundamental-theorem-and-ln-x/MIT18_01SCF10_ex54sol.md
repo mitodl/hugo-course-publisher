@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex54sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to the
   second fundamental theorem.
-type: courses
+type: course
 layout: pdf
 uid: 65cd6b4b4cd6c5a49383ca3254fe8aed
 file_type: application/pdf

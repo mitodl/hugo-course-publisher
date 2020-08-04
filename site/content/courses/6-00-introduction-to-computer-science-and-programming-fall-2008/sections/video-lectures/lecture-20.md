@@ -2539,6 +2539,6 @@ transcript: >-
   m='2871690'>look</span> <span m='2871890'>at</span> <span
   m='2872180'>next</span> <span m='2872500'>week.</span> </p>
 uid: bd8756a4b857f6305d75eee857488ecb
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: 'Introduction to Probability: Lecture 14: Introduction to Bayesian Infere
 description: >-
   This resource contains information regarding introduction to probability:
   Inference & limit theorems: Introduction to Bayesian inference.
-type: courses
+type: course
 layout: pdf
 uid: 7c553fc6efe7e82a70f96adab0be9ff5
 file_type: application/pdf

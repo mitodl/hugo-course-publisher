@@ -755,6 +755,6 @@ transcript: >-
   detailed model of the switch where the switch behaves</span> <span
   m='3053000'>like a resistor.</span> </p>
 uid: 4f0054f5076b953db7fe572d6d701a2a
-type: courses
+type: course
 layout: video
 ---

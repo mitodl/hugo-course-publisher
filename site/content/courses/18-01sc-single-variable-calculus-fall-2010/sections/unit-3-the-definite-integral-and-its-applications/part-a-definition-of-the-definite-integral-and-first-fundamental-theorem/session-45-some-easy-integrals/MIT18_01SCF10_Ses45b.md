@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses45b.pdf
 description: This resource contains information about some easy integrals.
-type: courses
+type: course
 layout: pdf
 uid: a76b14bf67d60914d0ecb38e9d32cfb3
 file_type: application/pdf

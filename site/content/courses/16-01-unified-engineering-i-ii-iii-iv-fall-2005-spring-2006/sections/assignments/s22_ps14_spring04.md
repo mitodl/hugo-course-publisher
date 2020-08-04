@@ -1,7 +1,7 @@
 ---
 title: s22_ps14_spring04.pdf
 description: Problem set regarding Signals and Systems..
-type: courses
+type: course
 layout: pdf
 uid: b7d52dd8f3a5ba151f4c74e64ecd8b0a
 file_type: application/pdf

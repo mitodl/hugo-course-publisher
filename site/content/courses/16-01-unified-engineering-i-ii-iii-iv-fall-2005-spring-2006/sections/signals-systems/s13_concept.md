@@ -1,7 +1,7 @@
 ---
 title: s13_concept.pdf
 description: Concept questions on LCR Circuits with different sources.
-type: courses
+type: course
 layout: pdf
 uid: d033b35a3b00ede5f748cfefa2ac02b3
 file_type: application/pdf

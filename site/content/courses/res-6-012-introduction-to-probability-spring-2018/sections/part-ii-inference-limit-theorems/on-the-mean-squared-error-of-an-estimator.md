@@ -178,6 +178,6 @@ transcript: >-
   also tries to find a way to calculate and report</span> <span m='409260'>the
   associated standard error.</span> </p><p></p>
 uid: 4eda0ecf3c08877c0d035dd8ed8b3a82
-type: courses
+type: course
 layout: video
 ---

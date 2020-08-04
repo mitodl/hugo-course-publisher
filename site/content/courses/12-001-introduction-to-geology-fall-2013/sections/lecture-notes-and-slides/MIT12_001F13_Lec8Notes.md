@@ -3,7 +3,7 @@ title: 'Lecture 8 Notes: Rock Structure and Deformation'
 description: >-
   This is a resource file that contains information regarding rock structure and
   deformation.
-type: courses
+type: course
 layout: pdf
 uid: 64987778c6eaea423d4ee8b8beaa9fcb
 file_type: application/pdf

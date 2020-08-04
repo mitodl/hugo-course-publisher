@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_rec20_sol.pdf
 description: This resource contains solutions of philosophy of probability.
-type: courses
+type: course
 layout: pdf
 uid: 9224f62575a0721793815249656f967e
 file_type: application/pdf

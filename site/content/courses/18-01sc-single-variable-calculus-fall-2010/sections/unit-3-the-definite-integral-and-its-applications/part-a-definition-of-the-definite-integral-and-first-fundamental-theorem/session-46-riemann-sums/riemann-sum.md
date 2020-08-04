@@ -576,6 +576,6 @@ transcript: >-
   m='443420'>will</span> <span m='443570'>stop</span> <span
   m='443900'>there.</span> </p>
 uid: b7f1c76c0cbd01a5efd1732977cc3bf5
-type: courses
+type: course
 layout: video
 ---

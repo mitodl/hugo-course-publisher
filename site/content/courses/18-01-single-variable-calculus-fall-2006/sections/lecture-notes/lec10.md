@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 10: Curve Sketching'
 description: Lecture notes on curve sketching and 2nd derivative information.
-type: courses
+type: course
 layout: pdf
 uid: d41418f410d1e11d0e606a0fc8441b82
 file_type: application/pdf

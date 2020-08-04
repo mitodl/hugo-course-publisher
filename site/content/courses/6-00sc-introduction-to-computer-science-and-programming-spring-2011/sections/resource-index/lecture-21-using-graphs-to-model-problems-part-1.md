@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 21: Using Graphs to Model Problems, Part 1'
 transcript: ''
 uid: 139e28c73f3a874c41c8aad79af934c4
-type: courses
+type: course
 layout: video
 ---

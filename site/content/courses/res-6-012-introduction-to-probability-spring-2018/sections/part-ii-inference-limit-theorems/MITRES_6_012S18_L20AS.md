@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding introduction to probability:
   Inference & limit theorems: An introduction to classical statistics.
-type: courses
+type: course
 layout: pdf
 uid: e926c7b7ff184dec8f275046f6f14662
 file_type: application/pdf

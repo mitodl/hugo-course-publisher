@@ -1,7 +1,7 @@
 ---
 title: c10_ps04_fall03.pdf
 description: This handout contains the Problem set based on Simple Math Functions.
-type: courses
+type: course
 layout: pdf
 uid: 05af060256294c8ca33c6740abbd64f0
 file_type: application/pdf

@@ -1,11 +1,11 @@
 ---
 title: Recitations
 course_id: 15-401-finance-theory-i-fall-2008
+type: course
+layout: course_section
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: fcc24add3c7bc945d80e38ca9e52d5dc
-    type: section
-    layout: section
     name: Recitations
     weight: 40
 ---

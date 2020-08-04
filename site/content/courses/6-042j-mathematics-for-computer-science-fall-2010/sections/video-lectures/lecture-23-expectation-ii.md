@@ -4671,6 +4671,6 @@ transcript: >-
   m='5017930'>this</span> <span m='5018290'>tomorrow</span> <span
   m='5018550'>on</span> <span m='5018660'>recitation.</span> </p><p></p>
 uid: ffc3342feaa1ee9e66c8d6cdbb30ca8d
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: Expanded Solutions for Studio 2
 description: This resource contains information related to Expanded Solutions for Studio 2.
-type: courses
+type: course
 layout: pdf
 uid: 1a5c0c8eeb504db1d129c05bd3fd0fa1
 file_type: application/pdf

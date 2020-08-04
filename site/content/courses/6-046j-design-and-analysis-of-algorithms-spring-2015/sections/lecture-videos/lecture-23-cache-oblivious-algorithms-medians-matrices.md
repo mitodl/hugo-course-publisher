@@ -1503,6 +1503,6 @@ transcript: >-
   m='4822680'>Or, Thursday?</span> </p><p><span m='4824120'>Yes.</span>
   </p><p><span m='4824620'>OK, we'll cover it on Thursday.</span> </p>
 uid: 36de4aed40b6873c5a4130464bacc185
-type: courses
+type: course
 layout: video
 ---

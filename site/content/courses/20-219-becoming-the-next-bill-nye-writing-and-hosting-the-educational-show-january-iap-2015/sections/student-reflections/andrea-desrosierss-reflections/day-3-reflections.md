@@ -148,6 +148,6 @@ transcript: >-
   m="69580">best</span> <span m="69830">way</span> <span m="69930">to</span>
   <span m="70040">do</span> <span m="70240">that.</span></p>
 uid: d4157cb43db307018e1864aec685547e
-type: courses
+type: course
 layout: video
 ---

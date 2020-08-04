@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Summation Notation'
 transcript: ''
 uid: f90ffc17f89df7942dfd6457b9dbed77
-type: courses
+type: course
 layout: video
 ---

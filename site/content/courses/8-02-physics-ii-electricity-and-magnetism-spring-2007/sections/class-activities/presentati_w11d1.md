@@ -7,7 +7,7 @@ description: >-
   spring: simple harmonic motion (demonstration), electronic analog: LC
   circuits, prs questions: LC circuit, adding damping: RLC circuits, experiment
   10: part II-RLC circuit, prs questions: 2 lab questions
-type: courses
+type: course
 layout: pdf
 uid: a0c9e1a4529a09388c80f78bc62494de
 file_type: application/pdf

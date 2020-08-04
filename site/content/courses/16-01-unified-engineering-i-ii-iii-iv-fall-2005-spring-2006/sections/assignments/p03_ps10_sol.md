@@ -1,7 +1,7 @@
 ---
 title: p03_ps10_sol.pdf
 description: Handwritten problem set solution.
-type: courses
+type: course
 layout: pdf
 uid: 101b704a2704aa4d3cdefb6dacfe467c
 file_type: application/pdf

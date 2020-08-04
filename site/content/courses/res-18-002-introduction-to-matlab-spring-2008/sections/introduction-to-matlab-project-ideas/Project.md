@@ -1,7 +1,7 @@
 ---
 title: Project.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 1bb63e29935862fdd679b1b384862cb2
 file_type: application/pdf

@@ -708,6 +708,6 @@ transcript: >-
   m='518680'>yeah,</span> <span m='518990'>that's</span> <span m='519170'>where
   we'll</span> <span m='519280'>leave</span> <span m='519560'>it.</span> </p>
 uid: 97a71aa917d344fd80cf6810ebc2419e
-type: courses
+type: course
 layout: video
 ---

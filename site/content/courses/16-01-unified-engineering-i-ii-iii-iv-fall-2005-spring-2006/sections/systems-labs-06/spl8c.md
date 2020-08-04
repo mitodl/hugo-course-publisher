@@ -1,7 +1,7 @@
 ---
 title: spl8c.pdf
 description: This file contains notes for Equivalent Dihedral Angle.
-type: courses
+type: course
 layout: pdf
 uid: ca01d7e9b5368501925496732c787126
 file_type: application/pdf

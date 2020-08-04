@@ -1,7 +1,7 @@
 ---
 title: '6.006 Lecture 13 Original: Breadth-first search (BFS)'
 description: This resource contains information related to Breadth-first search (BFS).
-type: courses
+type: course
 layout: pdf
 uid: 8f89fd0ad2e9af6dbe075dd503e81d18
 file_type: application/pdf

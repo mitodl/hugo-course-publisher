@@ -3,7 +3,7 @@ title: 'GCDs: Euclidean Algorithm'
 description: >-
   This resource contains information regarding mathematics for computer science,
   GCDs: Euclidean algorithm.
-type: courses
+type: course
 layout: pdf
 uid: f9729dfd04ff32abdb9c1c8e3a00d34a
 file_type: application/pdf

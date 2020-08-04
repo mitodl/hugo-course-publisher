@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses88c.pdf
 description: This resource contains informations related to examples of l'hospital's rule.
-type: courses
+type: course
 layout: pdf
 uid: a106982e10c2e7869b8eb34823408739
 file_type: application/pdf

@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 25: Oxidation-Reduction and Electrochemical Cells'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: videogallery
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 3d31835d06e0f144b71eae67819fa795
-    type: section
-    layout: section
     name: Lecture 25
     weight: 310
     parent: 898636543b8426a3a53091cb22239ee9
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26/_index.md" %}}) »
 

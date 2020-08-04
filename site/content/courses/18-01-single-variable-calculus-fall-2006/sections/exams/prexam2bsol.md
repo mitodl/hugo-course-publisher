@@ -1,7 +1,7 @@
 ---
 title: Practice Exam 2 Solutions
 description: Solutions to the second practice exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: 193066d33989e9c58ae911c4ffc58891
 file_type: application/pdf

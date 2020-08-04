@@ -3,7 +3,7 @@ title: 'Quantum Physics I, Lecture Notes 20-21'
 description: >-
   This resource contains information regarding quantum physics: Lecture Notes
   20-21.
-type: courses
+type: course
 layout: pdf
 uid: d1dbe77bd49b6a2eab52401dba351f64
 file_type: application/pdf

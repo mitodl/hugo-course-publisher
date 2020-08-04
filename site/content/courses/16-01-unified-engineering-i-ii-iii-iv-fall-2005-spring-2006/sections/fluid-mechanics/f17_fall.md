@@ -3,7 +3,7 @@ title: f17_fall.pdf
 description: >-
   This resource contains infomration on the topics of Flow field prediction and
   SourceSheets.
-type: courses
+type: course
 layout: pdf
 uid: b729a1ccb0cfb7a4a94f1c4b5dd06388
 file_type: application/pdf

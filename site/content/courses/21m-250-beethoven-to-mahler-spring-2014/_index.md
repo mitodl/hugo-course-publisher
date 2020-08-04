@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 21m-250-beethoven-to-mahler-spring-2014
 course_title: Beethoven to Mahler
 course_image_url: >-

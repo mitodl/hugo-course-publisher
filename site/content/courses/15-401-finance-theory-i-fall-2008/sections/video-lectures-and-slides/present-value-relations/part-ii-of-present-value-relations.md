@@ -5811,6 +5811,6 @@ transcript: >-
   m='4811400'>next</span> <span m='4811610'>time.</span> <span m='4812510'>Thank
   you.</span> </p>
 uid: a35f17a40698b9894d633d0c15886ef4
-type: courses
+type: course
 layout: video
 ---

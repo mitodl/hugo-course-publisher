@@ -1,7 +1,7 @@
 ---
 title: 6.033S18 MapReduce Critique Worksheet 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 35980840d44ecd95ad8eec4fda5f3030
 file_type: application/pdf

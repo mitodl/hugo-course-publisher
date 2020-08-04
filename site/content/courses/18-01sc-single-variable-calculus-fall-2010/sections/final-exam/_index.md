@@ -1,11 +1,11 @@
 ---
 title: 'Session 102: Materials for Final Exam'
 course_id: 18-01sc-single-variable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: fe839db025a83d5085ecae3d78b54553
-    type: section
-    layout: section
     name: Final Exam
     weight: 1360
 ---

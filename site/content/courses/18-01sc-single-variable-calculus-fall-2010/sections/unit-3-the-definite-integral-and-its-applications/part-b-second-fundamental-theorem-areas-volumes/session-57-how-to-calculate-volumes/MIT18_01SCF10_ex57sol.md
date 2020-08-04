@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex57sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   calculating volumes.
-type: courses
+type: course
 layout: pdf
 uid: bc1ab4a7fc56f6acd939f29c072fe58f
 file_type: application/pdf

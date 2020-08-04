@@ -340,6 +340,6 @@ transcript: >-
   m="224300">of</span> <span m="224410">it.</span> <span m="227880">See
   you.</span></p>
 uid: 5a2180c7d4d77bcffa1e4487b37626f9
-type: courses
+type: course
 layout: video
 ---

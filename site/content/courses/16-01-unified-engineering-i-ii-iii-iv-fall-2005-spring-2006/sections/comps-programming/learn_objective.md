@@ -1,7 +1,7 @@
 ---
 title: learn_objective.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 138b7c9a3040721a72bedab43a4fac28
 file_type: application/pdf

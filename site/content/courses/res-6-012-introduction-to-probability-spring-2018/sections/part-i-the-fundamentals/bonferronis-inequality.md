@@ -584,6 +584,6 @@ transcript: >-
   m='563790'>interesting</span> <span m='564330'>relations</span> <span
   m='564960'>between</span> <span m='565350'>probabilities.</span> </p>
 uid: 00448b08d7c2481cb413026bdfd506ed
-type: courses
+type: course
 layout: video
 ---

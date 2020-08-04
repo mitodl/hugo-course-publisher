@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_manual16.pdf
 description: 'This resource contains information related to mathematics after calculus. '
-type: courses
+type: course
 layout: pdf
 uid: 74e9abf495c17bccb81bc058750fbe46
 file_type: application/pdf

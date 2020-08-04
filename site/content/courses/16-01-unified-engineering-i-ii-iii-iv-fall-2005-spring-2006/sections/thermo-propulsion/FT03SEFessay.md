@@ -1,7 +1,7 @@
 ---
 title: FT03SEFessay.pdf
 description: This resource contains information on course survey essay question responses.
-type: courses
+type: course
 layout: pdf
 uid: 1c535afdf65c44091ca49683ba2ceea3
 file_type: application/pdf

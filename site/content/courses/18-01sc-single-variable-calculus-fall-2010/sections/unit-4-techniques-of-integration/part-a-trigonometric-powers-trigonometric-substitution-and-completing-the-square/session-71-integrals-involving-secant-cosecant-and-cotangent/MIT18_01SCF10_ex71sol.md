@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex71sol.pdf
 description: >-
   This resource contains solutions related to integrals involving secant,
   cosecant and cotangent.
-type: courses
+type: course
 layout: pdf
 uid: c05c05172bf0f7543b3c2daeaf308521
 file_type: application/pdf

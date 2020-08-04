@@ -1,11 +1,11 @@
 ---
 title: Landmark Routing Assignment
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 88350e45d2abeb7d9d77bcfb2ecec721
-    type: section
-    layout: section
     name: Landmark Routing Assignment
     weight: 270
     parent: a8eaa3de11de35a2f8d6b2d186c97fc6

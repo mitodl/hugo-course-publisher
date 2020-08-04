@@ -928,6 +928,6 @@ transcript: >-
   m='933090'>time.</span> <span m='934250'>Thank</span> <span
   m='934450'>you.</span> </p>
 uid: 22c5af9b27e0a9efdffecd25991207b6
-type: courses
+type: course
 layout: video
 ---

@@ -1,11 +1,11 @@
 ---
 title: 'Week 1: Kinematics'
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: course_section
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 63e325a780c79e352fb5bddb9b8b2c6a
-    type: section
-    layout: section
     name: 'Week 1: Kinematics'
     weight: 120
 ---

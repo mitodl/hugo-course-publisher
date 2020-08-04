@@ -650,6 +650,6 @@ transcript: >-
   m='907970'>per</span> <span m='908690'>unit</span> <span
   m='911090'>time.</span> </p>
 uid: 1622e088d308d15782be4a5e2a42b51b
-type: courses
+type: course
 layout: video
 ---

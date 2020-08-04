@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses3.6sum.pdf
 description: >-
   This resource contains information related to linear transformations and their
   matrices.
-type: courses
+type: course
 layout: pdf
 uid: cc829145eee5220b2024424bcb14c263
 file_type: application/pdf

@@ -232,6 +232,6 @@ transcript: >-
   the probability of this event that's comprised</span> <span m="656490">only of
   a particular element S1 and so on.</span></p><p>&nbsp;</p>
 uid: 2f4a390f83726d51bac08079f1618ffb
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: sp_S15_mud.pdf
 description: Review questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: aede263fc97ef31244e2c6e79450d5a5
 file_type: application/pdf

@@ -220,6 +220,6 @@ transcript: >-
   here.</span></p><p><span m="595400">And this is going to be our next
   topic.</span></p><p>&nbsp;</p>
 uid: e658bf70eb70fcb817d59cd879820b82
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 2.9 Coloring & Connectivity
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Connectivity: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-3/vertical-857c6f8a582c" %}})

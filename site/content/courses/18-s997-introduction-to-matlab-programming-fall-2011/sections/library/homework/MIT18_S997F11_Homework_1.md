@@ -1,7 +1,7 @@
 ---
 title: '18.S997 The Basics: Homework 1'
 description: This resource contains information regarding homework 1.
-type: courses
+type: course
 layout: pdf
 uid: 3d1cd21b18b4b58396db02e24061a05e
 file_type: application/pdf

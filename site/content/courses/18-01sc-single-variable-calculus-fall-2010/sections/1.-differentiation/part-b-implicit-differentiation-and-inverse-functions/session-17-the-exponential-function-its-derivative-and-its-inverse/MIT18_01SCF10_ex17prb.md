@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex17prb.pdf
 description: >-
   This resource contains problem statements related to solving equations with e
   and ln x.
-type: courses
+type: course
 layout: pdf
 uid: dd69d3c6a003824b372038b310574867
 file_type: application/pdf

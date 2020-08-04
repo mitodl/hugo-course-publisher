@@ -3530,6 +3530,6 @@ transcript: >-
   m='2849060'>talk</span> <span m='2849270'>about</span> <span
   m='2849450'>competition.</span> </p>
 uid: 4bd7c3956d90f2dcc912234dd2900b7c
-type: courses
+type: course
 layout: video
 ---

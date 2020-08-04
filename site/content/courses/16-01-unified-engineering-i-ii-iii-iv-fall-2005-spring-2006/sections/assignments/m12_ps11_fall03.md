@@ -3,7 +3,7 @@ title: m12_ps11_fall03.pdf
 description: >-
   This resource contains problems related to the course based on two-dimensional
   plane.
-type: courses
+type: course
 layout: pdf
 uid: 68dec65114b7b3696f3c82b841a57cf3
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Random Variables, Density Functions: Random Variables: Independence'
 description: 'This file contains information regarding random variables: independence.'
-type: courses
+type: course
 layout: pdf
 uid: f5330495586a5e3454f9f208946c0192
 file_type: application/pdf

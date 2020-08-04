@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses5c.pdf
 description: This resource contains information related to discontinuity.
-type: courses
+type: course
 layout: pdf
 uid: 08d1a256abcd86ac1a25dcb1b07a3516
 file_type: application/pdf

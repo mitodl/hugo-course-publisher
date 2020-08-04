@@ -1,11 +1,11 @@
 ---
 title: 'Week 6: Networking Part II'
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 75800336c3a2ebee84a18bb126a5a60b
-    type: section
-    layout: section
     name: 'Week 6: Networking II'
     weight: 280
 ---

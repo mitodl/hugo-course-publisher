@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex81sol.pdf
 description: >-
   This resource contains the solutions for the problems related to the path of a
   falling object.
-type: courses
+type: course
 layout: pdf
 uid: 67baf73b6ba9ae11a967b3c792897b38
 file_type: application/pdf

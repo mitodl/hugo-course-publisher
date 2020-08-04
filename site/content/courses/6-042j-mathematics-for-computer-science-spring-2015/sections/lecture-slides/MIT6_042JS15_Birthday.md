@@ -3,7 +3,7 @@ title: 'Sampling & Confidence: Birthday Matching'
 description: >-
   This resource contains information regarding mathematics for computer science,
   sampling & confidence: Birthday matching.
-type: courses
+type: course
 layout: pdf
 uid: f0844ee0134bc71f19a02cc6c23de46f
 file_type: application/pdf

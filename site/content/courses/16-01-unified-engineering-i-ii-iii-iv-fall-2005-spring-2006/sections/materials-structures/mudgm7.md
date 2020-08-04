@@ -4,7 +4,7 @@ description: >-
   This resource contains review questions and answers based on re-examining
   derivation of shear stress-shear force equation from point of view of
   equilibrium of a partial section of the beam.
-type: courses
+type: course
 layout: pdf
 uid: 8f22587b2f6ab55f58aad8bc9894ab52
 file_type: application/pdf

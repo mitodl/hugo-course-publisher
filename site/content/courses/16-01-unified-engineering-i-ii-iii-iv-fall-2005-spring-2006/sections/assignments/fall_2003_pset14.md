@@ -3,7 +3,7 @@ title: fall_2003_pset14.pdf
 description: >-
   This resource contains problems on flows, elastic constants and in-plane
   principal stresses.
-type: courses
+type: course
 layout: pdf
 uid: 873a51373050a15df290c95b52be86a8
 file_type: application/pdf

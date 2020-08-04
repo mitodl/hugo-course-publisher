@@ -3,7 +3,7 @@ title: >-
   Creating Mathematica Functions to Determine Degree of Crystallinity from XRD
   Plots
 course_id: res-3-004-visualizing-materials-science-fall-2017
-type: courses
+type: course
 layout: videogallery
 ---
 ![XRD plots of crystallinity](https://open-learning-course-data-ci.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/f9494f94241d921611ed097187d1eba5_MITRES_3_004F17_18_anon.jpg)

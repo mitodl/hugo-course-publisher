@@ -189,6 +189,6 @@ transcript: >-
   m='113717'>the</span> <span m='114074'>World</span> <span
   m='114431'>Series.</span> </p>
 uid: 3184bdd3937f729bdd8c57d39cef9a32
-type: courses
+type: course
 layout: video
 ---

@@ -2374,6 +2374,6 @@ transcript: >-
   m="2490740">a</span> <span m="2490790">great</span> <span
   m="2491090">weekend,</span> <span m="2491490">everybody.</span></p>
 uid: 4ae9565189e654fedede9f98ea377bc9
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: Spatial Statistics using GIS
 description: This resource contains information regarding spatial statistics using GIS.
-type: courses
+type: course
 layout: pdf
 uid: ae9e1c3e67ee9d1b572a124dc922ec42
 file_type: application/pdf

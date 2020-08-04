@@ -753,6 +753,6 @@ transcript: >-
   m='910950'>compute</span> <span m='911410'>the</span> <span
   m='911510'>simple</span> <span m='911960'>interest.</span> </p>
 uid: 26ac4621ab8d05919736377a8c52d0f7
-type: courses
+type: course
 layout: video
 ---

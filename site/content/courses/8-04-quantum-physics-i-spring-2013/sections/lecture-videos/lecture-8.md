@@ -4378,6 +4378,6 @@ transcript: >-
   m="4844820">next</span> <span m="4845120">time.</span></p><p><span
   m="4846620">[APPLAUSE]</span></p>
 uid: 9fe0b4d63693cf4dbbbf957a873329b3
-type: courses
+type: course
 layout: video
 ---

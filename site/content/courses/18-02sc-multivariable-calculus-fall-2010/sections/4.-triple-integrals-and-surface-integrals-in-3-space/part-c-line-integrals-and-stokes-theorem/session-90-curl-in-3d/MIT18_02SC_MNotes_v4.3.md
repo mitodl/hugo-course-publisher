@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_v4.3.pdf
 description: This resource contains information related to green’s theorem in normal form.
-type: courses
+type: course
 layout: pdf
 uid: d18774dd8a3f24001bf3d502fef7f854
 file_type: application/pdf

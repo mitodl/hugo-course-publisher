@@ -159,6 +159,6 @@ transcript: >-
   consider a simple question</span> <span m="390080">to check your understanding
   of the binomial probabilities.</span></p><p>&nbsp;</p>
 uid: 5e80ae3b12c956aaa4d3bbf144fa9113
-type: courses
+type: course
 layout: video
 ---

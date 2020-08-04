@@ -844,6 +844,6 @@ transcript: >-
   m='632720'>about</span> <span m='633680'>that</span> <span
   m='633910'>question.</span> </p>
 uid: b949e89686fd950f361e8a18df0066b9
-type: courses
+type: course
 layout: video
 ---

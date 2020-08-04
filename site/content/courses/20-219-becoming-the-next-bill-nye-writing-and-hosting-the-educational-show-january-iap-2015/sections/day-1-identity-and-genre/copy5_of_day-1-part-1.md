@@ -6429,6 +6429,6 @@ transcript: >-
   m="5313270">let</span> <span m="5313500">you</span> <span
   m="5313570">take</span> <span m="5313740">over.</span></p>
 uid: b3360da674449e4c8df029fdc9a05b89
-type: courses
+type: course
 layout: video
 ---

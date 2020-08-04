@@ -5487,6 +5487,6 @@ transcript: >-
   m='4048000'>you</span> <span m='4048090'>all.</span> <span
   m='4048920'>[APPLAUSE]</span> </p>
 uid: c22f91fc5f609c9669b31cd88a4cef7b
-type: courses
+type: course
 layout: video
 ---

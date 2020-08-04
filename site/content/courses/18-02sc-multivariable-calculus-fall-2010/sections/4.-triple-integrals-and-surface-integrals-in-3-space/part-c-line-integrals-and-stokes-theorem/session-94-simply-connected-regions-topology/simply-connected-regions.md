@@ -1212,6 +1212,6 @@ transcript: >-
   m='883490'>that's</span> <span m='883670'>where</span> <span
   m='883770'>I'll</span> <span m='883890'>stop.</span> </p>
 uid: 4a8674890486bf11587cf4519831ed6e
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_008S11_lec16.pdf
 description: This resource contains information related to digital Butterworth filters.
-type: courses
+type: course
 layout: pdf
 uid: a99637c58c1224795c9d03faa1bd4323
 file_type: application/pdf

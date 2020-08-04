@@ -1,11 +1,11 @@
 ---
 title: 'Unit 3: Producer Theory'
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: course_section
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 3abe52b206f4e0405bcb7ce684de6ae6
-    type: section
-    layout: section
     name: 'Unit 3: Producer Theory'
     weight: 160
 ---

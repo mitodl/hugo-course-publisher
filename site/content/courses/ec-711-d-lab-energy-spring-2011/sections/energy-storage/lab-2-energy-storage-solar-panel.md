@@ -1,11 +1,11 @@
 ---
 title: Lab 2 Instructions
 course_id: ec-711-d-lab-energy-spring-2011
+type: course
+layout: course_section
 menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: 5e001ecb027ee84ad79b0cb04f1b0990
-    type: section
-    layout: section
     name: Lab 2 Instructions
     weight: 80
     parent: bd09c1cc93fd481d39456e105dc16816

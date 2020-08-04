@@ -3,7 +3,7 @@ title: 'Sets: Sets Definition'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 25f5fafba03746c7808a6c7c3458b2bc
 file_type: application/pdf

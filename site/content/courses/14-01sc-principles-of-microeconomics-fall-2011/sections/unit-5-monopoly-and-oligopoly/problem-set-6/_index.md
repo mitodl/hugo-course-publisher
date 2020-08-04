@@ -1,16 +1,14 @@
 ---
 title: Problem Set 6
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 63a175ea2f4e7188fe6edf59d477548c
-    type: section
-    layout: section
     name: Problem Set 6
     weight: 280
     parent: 51ebf00753b9a85af746a5c03a54785d
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/monopoly-i/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/monopoly-ii/_index.md" %}}) »
 

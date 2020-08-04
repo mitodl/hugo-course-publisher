@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Testing for a Conservative Field'
 description: This resource contains information regarding testing for a conservative field.
-type: courses
+type: course
 layout: pdf
 uid: 9af9200acf4862e5548d81ef8333888e
 file_type: application/pdf

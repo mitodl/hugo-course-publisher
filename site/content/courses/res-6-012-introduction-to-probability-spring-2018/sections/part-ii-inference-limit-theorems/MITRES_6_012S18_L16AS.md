@@ -3,7 +3,7 @@ title: 'Introduction to Probability: Lecture 16: Least Mean Squares (LMS) Estima
 description: >-
   This resource contains information regarding introduction to probability:
   Inference & limit theorems: Least mean squares (LMS) estimation.
-type: courses
+type: course
 layout: pdf
 uid: dcd2a9f78b20e201f3c8d1ad8d4a854f
 file_type: application/pdf

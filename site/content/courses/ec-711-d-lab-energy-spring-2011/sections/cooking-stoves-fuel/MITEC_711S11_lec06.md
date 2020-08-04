@@ -1,7 +1,7 @@
 ---
 title: Lecture 6 slides
 description: 'This resource contains information regarding lecture 6 slides. '
-type: courses
+type: course
 layout: pdf
 uid: b5ddc2317eaeb1960423a15ed805f2e2
 file_type: application/pdf

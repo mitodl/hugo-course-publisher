@@ -3,7 +3,7 @@ title: sysprob10.pdf
 description: >-
   This file contains notes for the topic: Wing Structural Analysis and Bending
   Test.
-type: courses
+type: course
 layout: pdf
 uid: 9901c3db7142ec78f5abdd9714488df7
 file_type: application/pdf

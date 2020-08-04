@@ -2572,6 +2572,6 @@ transcript: >-
   m="3152210">projects.</span> <span m="3153280">OK,</span> <span
   m="3153950">thank</span> <span m="3154250">you.</span></p>
 uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses2.4sum.pdf
 description: >-
   This resource contains information related to orthogonal matrices and
   gram-schmidt.
-type: courses
+type: course
 layout: pdf
 uid: 7ac32be444c25e48590f47573833ccc6
 file_type: application/pdf

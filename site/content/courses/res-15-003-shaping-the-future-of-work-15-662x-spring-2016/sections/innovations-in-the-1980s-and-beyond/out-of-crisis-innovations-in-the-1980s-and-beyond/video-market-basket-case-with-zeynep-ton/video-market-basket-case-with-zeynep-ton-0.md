@@ -486,6 +486,6 @@ transcript: >-
   m='374580'>make</span> <span m='374830'>those</span> <span
   m='375050'>decisions</span> <span m='375780'>wisely.</span> </p>
 uid: a9b7a147c8cba054cc6cbf413fe489c3
-type: courses
+type: course
 layout: video
 ---

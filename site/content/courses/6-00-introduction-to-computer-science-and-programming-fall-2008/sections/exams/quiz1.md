@@ -1,7 +1,7 @@
 ---
 title: Sample Quiz Questions
 description: Sample quiz questions computer science and programming.
-type: courses
+type: course
 layout: pdf
 uid: 06a2385ea259cc3de48fc3c8b7605516
 file_type: application/pdf

@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Partial Derivatives'
 transcript: ''
 uid: fd3d0624544c703b0db680627d95fe79
-type: courses
+type: course
 layout: video
 ---

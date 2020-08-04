@@ -3,7 +3,7 @@ title: 'Day 2 Script: Elizabeth''s (very) Rough Draft'
 description: >-
   This resource contains information regarding elizabeth's stem nugget
   brainstorm.
-type: courses
+type: course
 layout: pdf
 uid: 3ada2ee80d250e3f1cba3fb4f00205e1
 file_type: application/pdf

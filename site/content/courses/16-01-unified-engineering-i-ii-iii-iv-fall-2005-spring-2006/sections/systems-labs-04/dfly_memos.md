@@ -3,7 +3,7 @@ title: dfly_memos.pdf
 description: >-
   This resource contains information on additional information on the lab
   assignment.
-type: courses
+type: course
 layout: pdf
 uid: 76eb360514e729fcaf0432cb883f9d3e
 file_type: application/pdf

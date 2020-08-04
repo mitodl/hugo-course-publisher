@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 12 Slides: Volcanoes'
 description: This is a resource file that contains information regarding volcanoes.
-type: courses
+type: course
 layout: pdf
 uid: 5642a0c11593cfae7b86e1b019f95dd9
 file_type: application/pdf

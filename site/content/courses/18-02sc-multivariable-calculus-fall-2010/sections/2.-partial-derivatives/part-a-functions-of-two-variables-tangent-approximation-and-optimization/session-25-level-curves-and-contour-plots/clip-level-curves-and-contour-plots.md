@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Level Curves and Contour Plots'
 transcript: ''
 uid: 9c18d65ea51964d63e390f691a774142
-type: courses
+type: course
 layout: video
 ---

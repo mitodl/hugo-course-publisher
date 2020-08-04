@@ -3,7 +3,7 @@ title: '18.02SC Problems : Problems: Geometric Approach to Line Integrals'
 description: >-
   This resource contains information regarding geometric approach to line
   integrals.
-type: courses
+type: course
 layout: pdf
 uid: 5146472c592aba62ea76dadd9f4de250
 file_type: application/pdf

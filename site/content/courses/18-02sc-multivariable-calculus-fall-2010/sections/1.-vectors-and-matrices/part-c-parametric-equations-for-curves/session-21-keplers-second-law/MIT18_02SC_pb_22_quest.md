@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_22_quest.pdf
 description: This resource contains problem statements related to Kepler's second law.
-type: courses
+type: course
 layout: pdf
 uid: fb00223c41260e607ce425e459e8b6d0
 file_type: application/pdf

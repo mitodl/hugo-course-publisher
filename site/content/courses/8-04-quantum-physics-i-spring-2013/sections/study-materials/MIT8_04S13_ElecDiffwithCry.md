@@ -3,7 +3,7 @@ title: '8.04 Quantum Physics, Recitation Notes: Electron Diffraction with Crysta
 description: >-
   This resource contains information related to electron diffraction with
   crystals.
-type: courses
+type: course
 layout: pdf
 uid: 6b9c41b54e554d0ccb58502f0d019433
 file_type: application/pdf

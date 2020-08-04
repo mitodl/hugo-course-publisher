@@ -4938,6 +4938,6 @@ transcript: >-
   m="4318710">security?</span> <span m="4319430">OK,</span> <span
   m="4320730">yeah.</span></p>
 uid: 0e521636640fe0d169e7316908d3b369
-type: courses
+type: course
 layout: video
 ---

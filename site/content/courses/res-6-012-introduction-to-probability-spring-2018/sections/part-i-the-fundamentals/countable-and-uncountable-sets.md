@@ -167,6 +167,6 @@ transcript: >-
   will actually be</span> <span m="375930">presenting it to
   you.</span></p><p>&nbsp;</p>
 uid: 6d653151412782a1aa4ed55ccc524f22
-type: courses
+type: course
 layout: video
 ---

@@ -1,11 +1,11 @@
 ---
 title: Assignments
 course_id: res-6-007-signals-and-systems-spring-2011
+type: course
+layout: course_section
 menu:
   res-6-007-signals-and-systems-spring-2011:
     identifier: 2e9a8aff96f8e55911edfb8887012a8e
-    type: section
-    layout: section
     name: Assignments
     weight: 40
 ---

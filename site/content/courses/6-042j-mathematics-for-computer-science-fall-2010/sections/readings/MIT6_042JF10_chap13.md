@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 13: Infinite sets'
 description: This resource contains information about Infinite sets.
-type: courses
+type: course
 layout: pdf
 uid: ddbf7b0dec318467d2a3bf1fa9191100
 file_type: application/pdf

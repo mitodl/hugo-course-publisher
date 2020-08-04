@@ -1,11 +1,11 @@
 ---
 title: Lecture 4 Outline
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 4bd4d775885a266147dc64a6eba38676
-    type: section
-    layout: section
     name: Lecture 4 Outline
     weight: 140
     parent: 81056cb9554591390582b2e55570d21a

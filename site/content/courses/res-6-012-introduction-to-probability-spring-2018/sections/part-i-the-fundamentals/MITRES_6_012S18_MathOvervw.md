@@ -3,7 +3,7 @@ title: 'Introduction to Probability: Lecture 1 Supplement: Mathematical Backgrou
 description: >-
   This resource contains information regarding introduction to probability: The
   fundamentals: Mathematical background.
-type: courses
+type: course
 layout: pdf
 uid: 5620e9f86ac94f9c87a11a523e8ed57f
 file_type: application/pdf

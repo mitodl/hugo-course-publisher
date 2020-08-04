@@ -1,7 +1,7 @@
 ---
 title: 'Computer Systems Engineering, Example Design Project Report FastTrack'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 107a17fe69ebb3fb9b3560cd823d41a3
 file_type: application/pdf

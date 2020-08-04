@@ -229,6 +229,6 @@ transcript: >-
   m='189083'>of</span> <span m='189510'>life</span> <span m='189936'>for</span>
   <span m='190363'>patients.</span> </p>
 uid: 5777e908aef0edbe4bc09938cd63fcd3
-type: courses
+type: course
 layout: video
 ---

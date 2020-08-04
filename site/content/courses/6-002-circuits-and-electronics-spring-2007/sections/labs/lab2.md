@@ -1,7 +1,7 @@
 ---
 title: lab2.pdf
 description: This lab examines the behavior of an inverting MOSFET amplifier.
-type: courses
+type: course
 layout: pdf
 uid: 56c767318f89cccd7448ac5e8af375bf
 file_type: application/pdf

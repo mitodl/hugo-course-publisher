@@ -903,6 +903,6 @@ transcript: >-
   m='695640'>no--</span> <span m='696500'>food</span> <span
   m='696840'>for</span> <span m='696980'>thought.</span> </p>
 uid: 456fda927d9f2e2ad2728d21eeecd3e4
-type: courses
+type: course
 layout: video
 ---

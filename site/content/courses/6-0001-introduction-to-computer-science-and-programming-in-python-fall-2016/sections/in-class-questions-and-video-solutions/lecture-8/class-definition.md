@@ -118,6 +118,6 @@ transcript: >-
   <span m='47170'>right</span> <span m='47380'>one</span> <span
   m='47560'>here.</span> </p>
 uid: 60c821743d50865a1e3a3835d4ffc1f1
-type: courses
+type: course
 layout: video
 ---

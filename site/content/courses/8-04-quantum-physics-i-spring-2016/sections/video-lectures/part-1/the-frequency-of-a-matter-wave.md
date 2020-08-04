@@ -526,6 +526,6 @@ transcript: >-
   m='621580'>h</span> <span m='621880'>bar</span> <span m='622210'>omega.</span>
   </p>
 uid: 68f965b830d1313eae1dfa04664ef6c4
-type: courses
+type: course
 layout: video
 ---

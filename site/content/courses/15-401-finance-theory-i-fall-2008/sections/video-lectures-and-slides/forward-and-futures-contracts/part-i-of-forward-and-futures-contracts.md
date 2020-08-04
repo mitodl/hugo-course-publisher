@@ -6165,6 +6165,6 @@ transcript: >-
   m='4749980'>I'll</span> <span m='4750050'>see</span> <span m='4750350'>you a
   week</span> <span m='4750650'>from Monday.</span> </p>
 uid: 5db7c7412c2fae71a76d3c191446d2c7
-type: courses
+type: course
 layout: video
 ---

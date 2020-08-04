@@ -3,7 +3,7 @@ title: m09_ps10_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on bar
   forces and deflection of a point.
-type: courses
+type: course
 layout: pdf
 uid: a87ae06ce572d2df158a03b904bdba94
 file_type: application/pdf

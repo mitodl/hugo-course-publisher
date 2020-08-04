@@ -1,16 +1,14 @@
 ---
 title: 'Solving Ax = 0: Pivot Variables, Special Solutions'
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 0689e9a0f66ba169b57a71e60e59cfa2
-    type: section
-    layout: section
     name: 'Solving Ax = 0: Pivot Variables, Special Solutions'
     weight: 110
     parent: 34303ce19b45724122d2bd33d64df688
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/column-space-and-nullspace/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/solving-ax-b-row-reduced-form-r/_index.md" %}}) »
 

@@ -3,7 +3,7 @@ title: 'Reading for 24: Bootstrap Confidence Intervals'
 description: >-
   This resource file contains information regarding reading for 24: bootstrap
   confidence intervals.
-type: courses
+type: course
 layout: pdf
 uid: 77906546c17ee79eb6e64194175e82ed
 file_type: application/pdf

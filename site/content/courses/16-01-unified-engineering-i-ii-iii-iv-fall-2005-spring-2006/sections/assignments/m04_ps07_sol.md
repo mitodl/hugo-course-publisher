@@ -3,7 +3,7 @@ title: m04_ps07_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on free
   body diagram.
-type: courses
+type: course
 layout: pdf
 uid: 3a9631d38cb5d015be0bac66ac8ab320
 file_type: application/pdf

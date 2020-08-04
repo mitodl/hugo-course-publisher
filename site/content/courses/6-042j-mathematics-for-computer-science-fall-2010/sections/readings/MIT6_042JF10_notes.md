@@ -1,7 +1,7 @@
 ---
 title: '6.042J Complete course notes '
 description: This resource contains Complete course notes.
-type: courses
+type: course
 layout: pdf
 uid: 93cad640cf3ed0b23ef70688f452d4d5
 file_type: application/pdf

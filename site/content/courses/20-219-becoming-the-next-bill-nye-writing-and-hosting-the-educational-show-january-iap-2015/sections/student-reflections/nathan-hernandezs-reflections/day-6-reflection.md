@@ -227,6 +227,6 @@ transcript: >-
   m="130039">everyone</span> <span m="130299">in</span> <span
   m="130560">class.</span></p>
 uid: 10dcd9ef0c24c4dc5dd5917ec8220427
-type: courses
+type: course
 layout: video
 ---

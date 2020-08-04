@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_35_quest.pdf
 description: "This resource contains the problem related to double integration. \r\n\r\n"
-type: courses
+type: course
 layout: pdf
 uid: a1179f6a43514c7dc7f8cf02b833950e
 file_type: application/pdf

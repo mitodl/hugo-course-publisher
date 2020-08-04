@@ -3,7 +3,7 @@ title: 'Induction: Strong Induction'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 719630a69d5f3a4761118e3636ec51a5
 file_type: application/pdf

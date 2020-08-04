@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses1.1sum.pdf
 description: >-
   This resource contains information related to the geometry of linear
   equations.
-type: courses
+type: course
 layout: pdf
 uid: 6913aa2f37dada8fdda334168b30339b
 file_type: application/pdf

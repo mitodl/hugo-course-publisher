@@ -3,7 +3,7 @@ title: MIT20_020S09_prj9_neuro_3id.pdf
 description: >-
   This file includes maerial on sleep and its importance, neuron regeneration,
   and Alzheimer's (a bioengineering approach). 
-type: courses
+type: course
 layout: pdf
 uid: 65dbe953ec3e42d8aa44f586207f1c3b
 file_type: application/pdf

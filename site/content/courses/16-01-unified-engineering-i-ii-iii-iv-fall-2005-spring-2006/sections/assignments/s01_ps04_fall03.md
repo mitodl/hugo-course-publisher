@@ -3,7 +3,7 @@ title: s01_ps04_fall03.pdf
 description: >-
   This file contains problems on elimination of variables, Gaussian?reduction,
   and Cramer's rule.
-type: courses
+type: course
 layout: pdf
 uid: db9eb95126f951827efaef478e47eb0d
 file_type: application/pdf

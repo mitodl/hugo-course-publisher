@@ -3,7 +3,7 @@ title: prsm19.pdf
 description: >-
   This resource contains concept questions and answers based on aerospace
   component and maximum uniaxial tensile stress.
-type: courses
+type: course
 layout: pdf
 uid: b4f9123305cd72e7b506dbc99a37985a
 file_type: application/pdf

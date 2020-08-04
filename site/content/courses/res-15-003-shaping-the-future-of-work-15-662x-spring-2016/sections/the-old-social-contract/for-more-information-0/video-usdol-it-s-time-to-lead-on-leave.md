@@ -29,6 +29,6 @@ technical_location: >-
 title: 'Video: USDOL: It''s Time to Lead on Leave'
 transcript: ''
 uid: fa9498a1a2058cdf40ac55d719d459a3
-type: courses
+type: course
 layout: video
 ---

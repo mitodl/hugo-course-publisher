@@ -429,6 +429,6 @@ transcript: >-
   m='395650'>improve</span> <span m='395950'>in</span> <span
   m='396250'>our</span> <span m='396550'>results.</span> </p>
 uid: 070b68f3638b910196a177c831982623
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 10: Recurrences'
 description: This resource contains information about Recurrences.
-type: courses
+type: course
 layout: pdf
 uid: 18b5495f7408055f9679e3afebb108ab
 file_type: application/pdf

@@ -389,6 +389,6 @@ transcript: >-
   m='285890'>was very</span> <span m='286190'>ambitious,</span> <span
   m='286490'>I thought.</span> </p>
 uid: fb9aef4b24542e0edf12b76b6da6c798
-type: courses
+type: course
 layout: video
 ---

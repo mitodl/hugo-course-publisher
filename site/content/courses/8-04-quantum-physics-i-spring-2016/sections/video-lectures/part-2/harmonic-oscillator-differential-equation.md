@@ -863,6 +863,6 @@ transcript: >-
   <span m='995530'>squared</span> <span m='995990'>minus</span> <span
   m='996710'>E</span> <span m='997880'>phi.</span> </p>
 uid: f9d7dec3c2b37079adabf14e3c621148
-type: courses
+type: course
 layout: video
 ---

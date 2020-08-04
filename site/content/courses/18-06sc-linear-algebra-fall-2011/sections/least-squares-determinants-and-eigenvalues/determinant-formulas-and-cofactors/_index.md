@@ -1,16 +1,14 @@
 ---
 title: Determinant Formulas and Cofactors
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 172571ec14688c38e3a602925af8e7d9
-    type: section
-    layout: section
     name: Determinant Formulas and Cofactors
     weight: 250
     parent: cf73d07ac972ab3c450a0f10d0be0664
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/properties-of-determinants/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/_index.md" %}}) »
 

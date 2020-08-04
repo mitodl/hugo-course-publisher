@@ -538,6 +538,6 @@ transcript: >-
   m='500056'>WHO</span> <span m='500514'>data</span> <span
   m='500972'>set.</span> </p>
 uid: 32985d653926f77987ee22cd46589384
-type: courses
+type: course
 layout: video
 ---

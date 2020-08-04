@@ -1,7 +1,7 @@
 ---
 title: MIT18_06S10_exam3_s10_soln.pdf
 description: This resource contains solutions related to symmetric matrix.
-type: courses
+type: course
 layout: pdf
 uid: edf08929f3b2b435c7d8ca85e8d5118d
 file_type: application/pdf

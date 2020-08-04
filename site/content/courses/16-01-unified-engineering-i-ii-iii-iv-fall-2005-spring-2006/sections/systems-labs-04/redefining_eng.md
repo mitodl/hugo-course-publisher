@@ -1,7 +1,7 @@
 ---
 title: redefining_eng.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: ec93bf027d4e75021b09d35ff8a4922c
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: s06_ps05_fall03.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 1f177de6be4bf5a233331ee729609683
 file_type: application/pdf

@@ -1,11 +1,11 @@
 ---
 title: Trust in an Active Learning Classroom
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
+type: course
+layout: course_section
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: 3f220109a2fac42b47f0b1be29e4f8ab
-    type: section
-    layout: section
     name: Trust in an Active Learning Classroom
     weight: 150
     parent: 1b6858820e39dbc6ba03dc47858871bd

@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_hw17.pdf
 description: This resource contains problem set related to interpolation.
-type: courses
+type: course
 layout: pdf
 uid: bf03eadf8df817e605ac66ddb879abc8
 file_type: application/pdf

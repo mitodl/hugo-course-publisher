@@ -2190,6 +2190,6 @@ transcript: >-
   m='5051740'>out</span> <span m='5051790'>the</span> <span
   m='5051840'>piano.</span> </p>
 uid: aaed1b7649f686885777c367bd242829
-type: courses
+type: course
 layout: video
 ---

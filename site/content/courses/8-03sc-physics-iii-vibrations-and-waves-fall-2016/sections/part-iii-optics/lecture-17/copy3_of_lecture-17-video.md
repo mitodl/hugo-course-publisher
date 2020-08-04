@@ -3958,6 +3958,6 @@ transcript: >-
   m="4380180">know.</span></p><p><span m="4382280">AUDIENCE:</span> <span
   m="4382580">[INAUDIBLE]</span></p><p>&nbsp;</p>
 uid: f41e2a7f8000f5ca6d4b0cf1af47ceb2
-type: courses
+type: course
 layout: video
 ---

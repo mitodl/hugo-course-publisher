@@ -4716,6 +4716,6 @@ transcript: >-
   m="4547810">minutes.</span> <span m="4549674">Cool.</span> <span
   m="4550140">That's</span> <span m="4550380">amortization.</span></p>
 uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
-type: courses
+type: course
 layout: video
 ---

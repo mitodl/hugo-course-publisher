@@ -1,7 +1,7 @@
 ---
 title: s01_concept.pdf
 description: This file contains lecture S1 concept questions.
-type: courses
+type: course
 layout: pdf
 uid: 81dca6b7f7f5ea020bf95a09ff1655a1
 file_type: application/pdf

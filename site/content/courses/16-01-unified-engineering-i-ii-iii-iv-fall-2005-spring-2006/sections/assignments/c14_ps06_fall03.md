@@ -3,7 +3,7 @@ title: c14_ps06_fall03.pdf
 description: >-
   This handout contains the Problem set based on arrays and bubble sort
   algorithm.
-type: courses
+type: course
 layout: pdf
 uid: e85e702e56ff611b2ad2776317a07a0a
 file_type: application/pdf

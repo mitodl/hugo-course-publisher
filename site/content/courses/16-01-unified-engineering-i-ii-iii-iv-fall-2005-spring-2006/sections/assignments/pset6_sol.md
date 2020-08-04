@@ -3,7 +3,7 @@ title: pset6_sol.pdf
 description: >-
   This file includes solutions to problems on bubble sort algorithm, materials
   and structures, forces, extension, deflection, and unified concepts.
-type: courses
+type: course
 layout: pdf
 uid: 0fa2886bb26b52e4e2eef86dcdcdc82f
 file_type: application/pdf

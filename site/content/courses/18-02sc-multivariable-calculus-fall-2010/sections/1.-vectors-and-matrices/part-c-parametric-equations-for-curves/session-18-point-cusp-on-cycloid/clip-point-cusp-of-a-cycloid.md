@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Point (Cusp) of a Cycloid'
 transcript: ''
 uid: 7dd0b1c12ec6e9a2251128bd7cdbf51d
-type: courses
+type: course
 layout: video
 ---

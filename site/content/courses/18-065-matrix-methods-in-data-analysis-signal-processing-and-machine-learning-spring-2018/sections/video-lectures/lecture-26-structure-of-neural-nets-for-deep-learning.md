@@ -2627,6 +2627,6 @@ transcript: >-
   m='3194040'>7.1</span> <span m='3194940'>is</span> <span
   m='3195240'>done.</span> </p>
 uid: 2cf9f8cbf7d406397a5cf4361ec9fc66
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: fall_2003_pset8.pdf
 description: >-
   This resource contains problems on signals and systems, materials and
   structures, and hydrostatic and state relations.
-type: courses
+type: course
 layout: pdf
 uid: d62fa0cc853eda3c678cadb393ef123d
 file_type: application/pdf

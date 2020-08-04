@@ -1,7 +1,7 @@
 ---
 title: spl2.pdf
 description: 'This file contains notes for trajectory equations, numerical integration.'
-type: courses
+type: course
 layout: pdf
 uid: af59df7c34ec80675d75c0bc2ac61e02
 file_type: application/pdf

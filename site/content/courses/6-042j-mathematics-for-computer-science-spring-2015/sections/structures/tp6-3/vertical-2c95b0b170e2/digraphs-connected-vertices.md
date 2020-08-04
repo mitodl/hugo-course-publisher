@@ -511,6 +511,6 @@ transcript: >-
   m='408280'>the</span> <span m='409280'>adjacency</span> <span
   m='409820'>matrices.</span> </p><p></p>
 uid: 3163c895b8788c38c78065b0aa74bd69
-type: courses
+type: course
 layout: video
 ---

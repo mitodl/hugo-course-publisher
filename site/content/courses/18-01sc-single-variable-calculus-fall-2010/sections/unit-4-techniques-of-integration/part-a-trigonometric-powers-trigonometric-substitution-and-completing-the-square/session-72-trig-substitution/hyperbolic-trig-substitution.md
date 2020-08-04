@@ -1074,6 +1074,6 @@ transcript: >-
   m='983930'>toolbox.</span> <span m='985380'>I'll end</span> <span
   m='985690'>with</span> <span m='985830'>that.</span> </p>
 uid: cf89f2eb5b8a6c7626ccd07755f63b16
-type: courses
+type: course
 layout: video
 ---

@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 8: Translation Symmetry'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
+type: course
+layout: videogallery
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: ca53d2a975399f6f97d2cbedae117060
-    type: section
-    layout: section
     name: 'Lecture 8: Translation Symmetry'
     weight: 110
     parent: 6682a3d163976bcbb2fbe67db27d8f04
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-7/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-9/_index.md" %}}) »
 

@@ -3,7 +3,7 @@ title: t08_ps03_fall03.pdf
 description: >-
   This resource contains problem set on static and stagnation temperatures, and
   static and stagnation pressures.
-type: courses
+type: course
 layout: pdf
 uid: a0695009ce400abf121bae43075dd2b3
 file_type: application/pdf

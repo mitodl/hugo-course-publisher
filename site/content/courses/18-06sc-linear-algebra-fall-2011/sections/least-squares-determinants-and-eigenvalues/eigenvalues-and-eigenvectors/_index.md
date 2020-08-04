@@ -1,16 +1,14 @@
 ---
 title: Eigenvalues and Eigenvectors
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 3d8f60a80fef5e0fbd7a13ad5eb457f7
-    type: section
-    layout: section
     name: Eigenvalues and Eigenvectors
     weight: 270
     parent: cf73d07ac972ab3c450a0f10d0be0664
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/_index.md" %}}) »
 

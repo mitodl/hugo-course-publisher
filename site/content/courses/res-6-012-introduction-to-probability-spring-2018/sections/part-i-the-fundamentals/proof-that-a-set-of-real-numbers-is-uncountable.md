@@ -124,6 +124,6 @@ transcript: >-
   it's so beautiful that it's worth for</span> <span m="238340">everyone to see
   it once in their lifetime.</span></p><p>&nbsp;</p>
 uid: a2dbc5dd3ad5917b9b47b3a49b3f64fd
-type: courses
+type: course
 layout: video
 ---

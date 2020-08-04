@@ -594,6 +594,6 @@ transcript: >-
   m='628520'>provided</span> <span m='629070'>by</span> <span
   m='629850'>ODE23.</span> </p>
 uid: 1bac5d45b4229cc3b16dcd3e25279c20
-type: courses
+type: course
 layout: video
 ---

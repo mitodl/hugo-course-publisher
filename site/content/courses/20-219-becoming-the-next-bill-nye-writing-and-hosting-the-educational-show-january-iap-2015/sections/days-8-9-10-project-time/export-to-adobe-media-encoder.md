@@ -2253,6 +2253,6 @@ transcript: >-
   be</span> <span m="2104900">around</span> <span m="2105500">to answer</span>
   <span m="2106100">your</span> <span m="2106400">questions.</span></p>
 uid: bc899937a1b6c61fe3212a52126ddebb
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: c07_ps03_fall03.pdf
 description: >-
   This handout contains the Problem set based on algorithms in the assembly
   language.
-type: courses
+type: course
 layout: pdf
 uid: d4122137478be88d0515871c65b80492
 file_type: application/pdf

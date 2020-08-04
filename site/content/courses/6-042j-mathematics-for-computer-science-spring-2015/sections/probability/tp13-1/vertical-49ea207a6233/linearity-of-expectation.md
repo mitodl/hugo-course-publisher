@@ -1385,6 +1385,6 @@ transcript: >-
   m='1105640'>blunder.</span> <span m='1106360'>You</span> <span
   m='1106520'>shouldn't.</span> </p>
 uid: acb46c9ed0416f6f338d093458e7eed1
-type: courses
+type: course
 layout: video
 ---

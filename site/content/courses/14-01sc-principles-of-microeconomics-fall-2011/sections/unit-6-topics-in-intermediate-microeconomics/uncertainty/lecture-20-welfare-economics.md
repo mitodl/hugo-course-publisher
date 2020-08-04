@@ -3352,6 +3352,6 @@ transcript: >-
   m='2879080'>and</span> <span m='2879380'>how much to</span> <span
   m='2879680'>spend.</span> </p>
 uid: 683bafdbe2564f215d179a305e402bd4
-type: courses
+type: course
 layout: video
 ---

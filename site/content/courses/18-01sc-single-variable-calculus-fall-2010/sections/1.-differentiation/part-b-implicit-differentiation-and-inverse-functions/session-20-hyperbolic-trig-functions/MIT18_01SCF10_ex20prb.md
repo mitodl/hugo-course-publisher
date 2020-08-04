@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex20prb.pdf
 description: >-
   This resource contains problem statements related to hyperbolic angle sum
   formula.
-type: courses
+type: course
 layout: pdf
 uid: 19beee5694df5686f971de3c1bc4abec
 file_type: application/pdf

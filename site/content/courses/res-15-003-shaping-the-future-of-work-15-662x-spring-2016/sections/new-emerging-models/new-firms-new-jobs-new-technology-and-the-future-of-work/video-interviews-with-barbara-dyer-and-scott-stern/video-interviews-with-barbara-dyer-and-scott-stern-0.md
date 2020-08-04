@@ -653,6 +653,6 @@ transcript: >-
   <span m="536770">time</span> <span m="536980">today.</span></p><p><span
   m="537080">You're</span> <span m="537140">welcome.</span></p>
 uid: 9929e6dffc41da132af4ef8993263437
-type: courses
+type: course
 layout: video
 ---

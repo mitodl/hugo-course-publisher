@@ -3924,6 +3924,6 @@ transcript: >-
   m="4538290">the</span> <span m="4538740">office</span> <span
   m="4539110">hour</span> <span m="4539410">tomorrow.</span></p>
 uid: 64997f3b4b9e8169394e78c6734b6839
-type: courses
+type: course
 layout: video
 ---

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 4: Example: Length of a Parabola'
 transcript: ''
 uid: b15a0be49fb36a0548dde597f2bb428a
-type: courses
+type: course
 layout: video
 ---

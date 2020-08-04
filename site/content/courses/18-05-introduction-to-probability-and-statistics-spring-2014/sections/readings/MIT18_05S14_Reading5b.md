@@ -3,7 +3,7 @@ title: 'Reading 5b: Continuous Random Variables'
 description: >-
   This is a resource file that contains information regarding reading 5b:
   continuous random variables.
-type: courses
+type: course
 layout: pdf
 uid: 1f88c7c765d2532fd57d8ee719a751b3
 file_type: application/pdf

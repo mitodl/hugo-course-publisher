@@ -9,7 +9,7 @@ description: >-
   plate capacitor, calculating e using Gauss's law, parallel plate capacitor,
   spherical capacitor, capacitance of earth, energy to charge capacitor, energy
   stored in capacitor, and dissectible capacitor.
-type: courses
+type: course
 layout: pdf
 uid: 30f84e5307b76d469b9f8901964ca1cd
 file_type: application/pdf

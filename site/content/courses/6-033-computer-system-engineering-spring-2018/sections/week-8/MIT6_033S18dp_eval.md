@@ -1,7 +1,7 @@
 ---
 title: 'Computer System Engineering, Design Project Presentation - Evaluation tips'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 8c1339227ec3a880031c26d2ae95dca5
 file_type: application/pdf

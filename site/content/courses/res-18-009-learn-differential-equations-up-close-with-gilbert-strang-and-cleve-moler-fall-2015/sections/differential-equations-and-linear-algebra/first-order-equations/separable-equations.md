@@ -778,6 +778,6 @@ transcript: >-
   m='778700'>separately.</span> <span m='779860'>Good.</span> <span
   m='780310'>Thank</span> <span m='780580'>you.</span> </p><p></p>
 uid: 5cf1edbbfdbee791bd1df872ce6e0614
-type: courses
+type: course
 layout: video
 ---

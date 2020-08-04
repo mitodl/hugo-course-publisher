@@ -354,6 +354,6 @@ transcript: >-
   m='352950'>it's</span> <span m='353030'>not</span> <span m='353240'>so</span>
   <span m='353450'>big.</span> </p>
 uid: c51fc91dee1f8cc73f2c0842d8160583
-type: courses
+type: course
 layout: video
 ---

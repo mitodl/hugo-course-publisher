@@ -1,7 +1,7 @@
 ---
 title: fall_2003_pset13.pdf
 description: This resource contains problems oh physically-possible flows.
-type: courses
+type: course
 layout: pdf
 uid: a7bd170f1c132e986933e633e77ede95
 file_type: application/pdf

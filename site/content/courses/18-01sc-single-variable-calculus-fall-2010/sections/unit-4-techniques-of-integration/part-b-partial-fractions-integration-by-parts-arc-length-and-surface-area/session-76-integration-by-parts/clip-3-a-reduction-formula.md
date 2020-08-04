@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: A Reduction Formula'
 transcript: ''
 uid: 856a5c4a62df05bd48199f932b30dbaf
-type: courses
+type: course
 layout: video
 ---

@@ -1,11 +1,11 @@
 ---
 title: Related Resources
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: course_section
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 8b8f9078a29f76c6febabd9497648433
-    type: section
-    layout: section
     name: Related Resources
     weight: 480
 ---

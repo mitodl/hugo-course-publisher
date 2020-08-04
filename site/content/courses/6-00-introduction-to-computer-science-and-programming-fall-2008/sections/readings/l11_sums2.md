@@ -3,7 +3,7 @@ title: 'Sums, Approximations, and Asymptotics II'
 description: >-
   Lecture notes on sums, approximations, block stacking, asymptotic notation,
   and the factorial function.
-type: courses
+type: course
 layout: pdf
 uid: ed6f464fa5d1318b66e792709d447dee
 file_type: application/pdf

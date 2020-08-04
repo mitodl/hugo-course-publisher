@@ -1,7 +1,7 @@
 ---
 title: Introduction & Financial Terms and Concepts
 description: This file contains information regarding lecture 1 notes.
-type: courses
+type: course
 layout: pdf
 uid: 10802d98a8af7ca93a024eac0cb0dded
 file_type: application/pdf

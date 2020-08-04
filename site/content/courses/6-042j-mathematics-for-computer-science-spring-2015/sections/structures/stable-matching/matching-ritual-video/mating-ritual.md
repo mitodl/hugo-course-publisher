@@ -737,6 +737,6 @@ transcript: >-
   m='555340'>there</span> <span m='555580'>are</span> <span m='555760'>no</span>
   <span m='556530'>rogue</span> <span m='556900'>couples.</span> </p>
 uid: 591bd140f1b1301098f4fc6b99444f4f
-type: courses
+type: course
 layout: video
 ---

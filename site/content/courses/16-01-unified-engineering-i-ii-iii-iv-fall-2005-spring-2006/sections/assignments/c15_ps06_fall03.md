@@ -3,7 +3,7 @@ title: c15_ps06_fall03.pdf
 description: >-
   This handout contains the Problem set based on the matrix package and
   non-invertible matrices.
-type: courses
+type: course
 layout: pdf
 uid: 408e42874d7fc332ad80b3257c7ba661
 file_type: application/pdf

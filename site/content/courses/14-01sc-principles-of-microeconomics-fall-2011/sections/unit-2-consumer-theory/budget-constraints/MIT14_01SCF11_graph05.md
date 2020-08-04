@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_graph05.pdf
 description: This resource contains graphs and figures related to budget constraints.
-type: courses
+type: course
 layout: pdf
 uid: c636ae76a2d35d9f05e3345286cce3b0
 file_type: application/pdf

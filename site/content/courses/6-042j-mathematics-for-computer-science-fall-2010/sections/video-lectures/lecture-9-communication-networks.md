@@ -4462,6 +4462,6 @@ transcript: >-
   m='4996460'>real</span> <span m='4997490'>insight.</span> <span
   m='4998820'>Thank</span> <span m='4999120'>you.</span> </p>
 uid: b0784a8c6f5097fbdafe14c3da96e8a6
-type: courses
+type: course
 layout: video
 ---

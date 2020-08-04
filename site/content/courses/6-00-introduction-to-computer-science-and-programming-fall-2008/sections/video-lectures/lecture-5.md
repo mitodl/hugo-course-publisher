@@ -2461,6 +2461,6 @@ transcript: >-
   m='2647340'>the</span> <span m='2647450'>answer.</span> </p><p><span
   m='2648820'>Thank</span> <span m='2649020'>you.</span> </p>
 uid: 5cf77ed9a77e401b283d315358149495
-type: courses
+type: course
 layout: video
 ---

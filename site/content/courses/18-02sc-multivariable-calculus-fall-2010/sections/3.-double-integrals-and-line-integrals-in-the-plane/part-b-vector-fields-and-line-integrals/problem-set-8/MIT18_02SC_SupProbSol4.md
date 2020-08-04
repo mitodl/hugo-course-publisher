@@ -3,7 +3,7 @@ title: MIT18_02SC_SupProbSol4.pdf
 description: >-
   This resource contains solutions for the problem statements related to vector
   fields and line integrals.
-type: courses
+type: course
 layout: pdf
 uid: ed1bd49d544dd379667b790eeddc852f
 file_type: application/pdf

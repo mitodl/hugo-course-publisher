@@ -1,7 +1,7 @@
 ---
 title: pset11_sol_04.pdf
 description: This resource contains problem set with solutions provided by the professor.
-type: courses
+type: course
 layout: pdf
 uid: cd8c545cdaddfc240c268628140184e3
 file_type: application/pdf

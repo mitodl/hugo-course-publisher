@@ -3,7 +3,7 @@ title: prsm20.pdf
 description: >-
   This resource contains concept questions and answers based on level of
   confidence to explain the phenomena and underlying mechanisms.
-type: courses
+type: course
 layout: pdf
 uid: 624b8b875115feaa260f69f2a1f0c72f
 file_type: application/pdf

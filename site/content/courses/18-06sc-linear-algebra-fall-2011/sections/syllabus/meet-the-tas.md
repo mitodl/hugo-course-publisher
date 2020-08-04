@@ -1,11 +1,11 @@
 ---
 title: Meet the TAs
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: course_section
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 451c7be33c2ff17f4881adfa981fc5e7
-    type: section
-    layout: section
     name: Meet the TAs
     weight: 20
     parent: d8efae912fd602f9ac2e2cb9d064d22e

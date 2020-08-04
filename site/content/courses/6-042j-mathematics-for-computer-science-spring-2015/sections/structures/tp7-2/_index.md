@@ -1,16 +1,14 @@
 ---
 title: 2.8  Degrees & Isomorphism
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: videogallery
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: a3d452862b8219138b1e93f45114b315
-    type: section
-    layout: section
     name: 2.8  Degrees & Isomorphism
     weight: 1440
     parent: 20b0a2b7a262cb94efd44e9e00511cee
-type: courses
-layout: videogallery
 ---
 *   [<Equivalence Relations & Partial Orders]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-d757201744eb" %}})
 *   [2.8.1Degree: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-2/_index.md" %}})

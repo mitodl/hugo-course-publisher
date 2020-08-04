@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 2: Patterns of proof'
 description: This resource contains information about Patterns of proof.
-type: courses
+type: course
 layout: pdf
 uid: 38ca8d7baeedd6aa476010a0cbd041d0
 file_type: application/pdf

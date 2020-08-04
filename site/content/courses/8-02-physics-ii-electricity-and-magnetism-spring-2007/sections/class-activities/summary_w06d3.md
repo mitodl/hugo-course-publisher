@@ -1,7 +1,7 @@
 ---
 title: summary_w06d3.pdf
 description: This resource is about Ampere?s Law.
-type: courses
+type: course
 layout: pdf
 uid: c845120ad059744ea312d72742ad6394
 file_type: application/pdf

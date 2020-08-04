@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Description of the Mean Value Theorem'
 transcript: ''
 uid: 7db9631e9094684d5a9c9b00970fab26
-type: courses
+type: course
 layout: video
 ---

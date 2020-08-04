@@ -1,7 +1,7 @@
 ---
 title: 8.01 Classical Mechanics Chapter 15
 description: This resource contains information regarding classical mechanics.
-type: courses
+type: course
 layout: pdf
 uid: 16d5d8cf5fff4f115d83a034261fbed3
 file_type: application/pdf

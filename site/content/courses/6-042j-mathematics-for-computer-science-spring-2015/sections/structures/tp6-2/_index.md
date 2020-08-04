@@ -1,16 +1,14 @@
 ---
 title: 2.4  RSA Encryption
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: videogallery
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: df8008a79d68087d809bbd4cc447cdea
-    type: section
-    layout: section
     name: 2.4  RSA Encryption
     weight: 1190
     parent: 20b0a2b7a262cb94efd44e9e00511cee
-type: courses
-layout: videogallery
 ---
 *   [<Euler's Theorem]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-1/vertical-f4e414f3a824" %}})
 *   [2.4.1RSA Public Key Encryption: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/_index.md" %}})

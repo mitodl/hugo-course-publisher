@@ -3,7 +3,7 @@ title: 'D-Lab Do-It Module: Fuel from the Fields Charcoal'
 description: >-
   This resource contains the information related to fuel from the fields
   charcoal. 
-type: courses
+type: course
 layout: pdf
 uid: 534345fd317e100b558a103f4d5630ff
 file_type: application/pdf

@@ -175,6 +175,6 @@ transcript: >-
   <span m='138395'>baseline--</span> <span m='138993'>was</span> <span
   m='139591'>0.56.</span> </p>
 uid: f324b402ba7235854c0bad5ed6229b95
-type: courses
+type: course
 layout: video
 ---

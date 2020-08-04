@@ -1,7 +1,7 @@
 ---
 title: 'Introduction to Circuits '
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 74a79a24b00760ae1ec377b219fd5f2f
 file_type: application/pdf

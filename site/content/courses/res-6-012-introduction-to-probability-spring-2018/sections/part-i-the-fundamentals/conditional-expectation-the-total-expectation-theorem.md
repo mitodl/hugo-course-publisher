@@ -155,6 +155,6 @@ transcript: >-
   m="363110">tool that can be used to divide and</span> <span m="365670">conquer
   complicated models.</span></p><p>&nbsp;</p>
 uid: 84c3d8842f06242217278b44e1672699
-type: courses
+type: course
 layout: video
 ---

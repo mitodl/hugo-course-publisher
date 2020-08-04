@@ -3,7 +3,7 @@ title: c16_ps06_sol.pdf
 description: >-
   This handout contains the solutions for the problem set based on the aircraft
   problem.
-type: courses
+type: course
 layout: pdf
 uid: e3ad98bd25e93ec728cef60dd9fadb26
 file_type: application/pdf

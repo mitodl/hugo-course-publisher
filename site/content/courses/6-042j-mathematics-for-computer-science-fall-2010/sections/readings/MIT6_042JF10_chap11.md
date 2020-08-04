@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 11: Cardinality rules'
 description: This resource contains information about Cardinality rules.
-type: courses
+type: course
 layout: pdf
 uid: fd14182dfb1a679eda5cbd38c48c8bb5
 file_type: application/pdf

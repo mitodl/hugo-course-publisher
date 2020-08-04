@@ -1,7 +1,7 @@
 ---
 title: MIT18_06S10_Final_Exam.pdf
 description: This resource contains information related to problems for final exam.
-type: courses
+type: course
 layout: pdf
 uid: b799045edd80df18879088bcf872b214
 file_type: application/pdf

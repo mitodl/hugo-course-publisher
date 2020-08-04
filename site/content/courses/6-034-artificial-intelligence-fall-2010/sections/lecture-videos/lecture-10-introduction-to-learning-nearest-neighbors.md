@@ -910,6 +910,6 @@ transcript: >-
   correlation, but they don't understand the</span> <span m='2974040'>cause, so
   that's why they make a mistake.</span> </p><p></p>
 uid: 5ecfa634ca4a6d6a6acb0be675223f88
-type: courses
+type: course
 layout: video
 ---

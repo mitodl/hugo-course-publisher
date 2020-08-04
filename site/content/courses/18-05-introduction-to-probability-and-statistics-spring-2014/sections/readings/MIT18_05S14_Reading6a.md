@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource file contains information regarding reading 6a: expectation,
   variance and standard deviation for continuous random variables.
-type: courses
+type: course
 layout: pdf
 uid: c7bd52cd1c881d4b32bbe3cfb55f58d7
 file_type: application/pdf

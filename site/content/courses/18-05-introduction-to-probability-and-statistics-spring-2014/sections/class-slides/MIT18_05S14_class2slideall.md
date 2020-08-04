@@ -3,7 +3,7 @@ title: 'Reading for Class 2: Probability: Terminology and Examples'
 description: >-
   This is a resource file that contains information regarding reading for class
   2.
-type: courses
+type: course
 layout: pdf
 uid: 7af56cb7689b87c041ff6abea26767ab
 file_type: application/pdf

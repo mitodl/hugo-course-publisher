@@ -150,6 +150,6 @@ transcript: >-
   m="88310">that</span> <span m="88730">and</span> <span m="89150">so</span>
   <span m="89820">much</span> <span m="90510">more.</span></p>
 uid: 8e63c18276510bb99b752c2254bc2a59
-type: courses
+type: course
 layout: video
 ---

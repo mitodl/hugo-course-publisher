@@ -153,6 +153,6 @@ transcript: >-
   </p><p><span m='300910'>And we will not go through that derivation,</span>
   <span m='303450'>but it's a useful fact to know.</span> </p>
 uid: 84a84972fa1a7f877891d1d1cf90eabe
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: 'Reading 17b: Null Hypothesis Significance Testing I'
 description: >-
   This is a resource file that contains information regarding reading 17b: null
   hypothesis significance testing I.
-type: courses
+type: course
 layout: pdf
 uid: 11b300b528689cba71f91588d6248143
 file_type: application/pdf

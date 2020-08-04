@@ -3328,6 +3328,6 @@ transcript: >-
   m="2708680">S,</span> <span m="2709220">the</span> <span
   m="2709360">equivalence</span> <span m="2710030">point.</span></p>
 uid: 7baa34a9e9301bc7e2b5e32985d729db
-type: courses
+type: course
 layout: video
 ---

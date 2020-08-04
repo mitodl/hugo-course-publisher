@@ -3,7 +3,7 @@ title: Instructions for reading reaction posts
 description: >-
   This resource contains information related to Instructions for reading
   reaction posts.
-type: courses
+type: course
 layout: pdf
 uid: 8e0e114c6add3da2130fc85ca3884596
 file_type: application/pdf

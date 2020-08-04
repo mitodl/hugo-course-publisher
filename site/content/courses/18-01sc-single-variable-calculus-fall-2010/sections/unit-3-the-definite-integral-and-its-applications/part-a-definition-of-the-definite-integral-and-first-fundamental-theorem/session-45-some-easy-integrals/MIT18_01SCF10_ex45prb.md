@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex45prb.pdf
 description: This resource contains problem statements related to integral of |x|.
-type: courses
+type: course
 layout: pdf
 uid: b09a9ab0e113c68d30dd7be9812fec19
 file_type: application/pdf

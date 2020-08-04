@@ -184,6 +184,6 @@ transcript: >-
   m='100880'>answer</span> <span m='101210'>is</span> <span m='102060'>D.</span>
   <span m='103260'>Great job.</span> </p>
 uid: fb14b6699b1e0956b009ca00ceb48af6
-type: courses
+type: course
 layout: video
 ---

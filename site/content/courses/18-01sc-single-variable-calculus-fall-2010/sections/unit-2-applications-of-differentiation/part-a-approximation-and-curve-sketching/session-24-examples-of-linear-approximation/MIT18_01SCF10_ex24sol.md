@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex24sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   examples of linear approximations.
-type: courses
+type: course
 layout: pdf
 uid: 71d62ab9e8517a42728509375403a51f
 file_type: application/pdf

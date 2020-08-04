@@ -5682,6 +5682,6 @@ transcript: >-
   m="5293310">the</span> <span m="5293420">resources</span> <span
   m="5294110">here.</span></p>
 uid: 3a66c994cc5822442a8194f3bbc70666
-type: courses
+type: course
 layout: video
 ---

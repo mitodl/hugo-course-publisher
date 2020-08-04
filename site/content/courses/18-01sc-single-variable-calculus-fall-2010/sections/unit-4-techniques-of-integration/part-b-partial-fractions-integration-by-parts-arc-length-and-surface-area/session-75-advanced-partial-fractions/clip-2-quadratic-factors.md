@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Quadratic Factors'
 transcript: ''
 uid: 2bb3005d9b4cf5cb63ac2fa5e733e714
-type: courses
+type: course
 layout: video
 ---

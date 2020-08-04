@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses3.5sol.pdf
 description: >-
   This resource contains solution to problem set related to singular value
   decomposition.
-type: courses
+type: course
 layout: pdf
 uid: 6c64bb0a0ede9ba88977078db4563ea0
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_rec07.pdf
 description: This resource is a recitation file for competition review.
-type: courses
+type: course
 layout: pdf
 uid: 036a42dbf99a143561e9b40cc2d2faf2
 file_type: application/pdf

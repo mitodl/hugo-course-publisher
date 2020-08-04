@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Elliptic Paraboloid'
 description: This resource contains information regarding elliptic paraboloid.
-type: courses
+type: course
 layout: pdf
 uid: fe168079318988d439420b1204a09ce4
 file_type: application/pdf

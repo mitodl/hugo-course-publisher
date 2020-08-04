@@ -2599,6 +2599,6 @@ transcript: >-
   m='2874550'>Okay,</span> <span m='2874880'>see you</span> <span
   m='2875250'>next</span> <span m='2875500'>time.</span> </p>
 uid: 4eb4b05ae62a61367c3eb0c3f2917865
-type: courses
+type: course
 layout: video
 ---

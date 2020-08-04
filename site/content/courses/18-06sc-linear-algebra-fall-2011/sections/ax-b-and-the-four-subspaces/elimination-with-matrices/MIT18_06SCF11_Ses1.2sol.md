@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses1.2sol.pdf
 description: >-
   This resource contains solution to the problem sets related to elimination
   with matrices.
-type: courses
+type: course
 layout: pdf
 uid: 43e6b5f1175983c7220ce471d4a93317
 file_type: application/pdf

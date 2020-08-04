@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 32: Kinetics: Reaction
   Mechanisms
 description: This resource contains information regarding lecture 32 problem.
-type: courses
+type: course
 layout: pdf
 uid: 18db0db2803312f3ba64f702c0c06786
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex02prb.pdf
 description: this resource contains problem statements related to derivatives of |x|.
-type: courses
+type: course
 layout: pdf
 uid: 8f1965641704eb5b4e78246c67564a60
 file_type: application/pdf

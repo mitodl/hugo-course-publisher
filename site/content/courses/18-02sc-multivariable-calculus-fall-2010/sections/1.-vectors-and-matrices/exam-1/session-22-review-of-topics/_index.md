@@ -1,7 +1,7 @@
 ---
 title: 'Session 22: Review of Topics'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-type: courses
+type: course
 layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/exam-1/practice-exam/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/exam-1/session-23-review-of-problems/_index.md" %}}) »

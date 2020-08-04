@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 23 handout: Dynamic Programming'
 description: This resource contains information related to dynamic programming.
-type: courses
+type: course
 layout: pdf
 uid: 8d35be044e4ec20af733097af85e1fa5
 file_type: application/pdf

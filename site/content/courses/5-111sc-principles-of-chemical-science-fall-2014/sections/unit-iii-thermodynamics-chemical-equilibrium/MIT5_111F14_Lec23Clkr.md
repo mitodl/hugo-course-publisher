@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Clicker Questions for Lecture 23: Acid-Base
   Titrations Part I
 description: This resource contains information regarding Acid-Base Titrations Part I.
-type: courses
+type: course
 layout: pdf
 uid: a1cbfef9ed48bc44aaa3f25463aae2b6
 file_type: application/pdf

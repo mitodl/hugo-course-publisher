@@ -5,7 +5,7 @@ description: >-
   currents, field from a single moving charge, field from a current: 
   biot-savart law, right hand rules, important equations and experiment for
   magnetic force on current-carrying wires.
-type: courses
+type: course
 layout: pdf
 uid: 27cf2dc11f705845db38ec8683e2a1a2
 file_type: application/pdf

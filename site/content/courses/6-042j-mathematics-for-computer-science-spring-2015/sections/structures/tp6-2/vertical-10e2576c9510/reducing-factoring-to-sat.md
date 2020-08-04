@@ -576,6 +576,6 @@ transcript: >-
   m='425970'>to</span> <span m='426510'>a</span> <span m='426620'>few</span>
   <span m='426990'>SAT</span> <span m='427320'>tests.</span> </p>
 uid: 034d3d950c7eaeae33bcb498f8a00c52
-type: courses
+type: course
 layout: video
 ---

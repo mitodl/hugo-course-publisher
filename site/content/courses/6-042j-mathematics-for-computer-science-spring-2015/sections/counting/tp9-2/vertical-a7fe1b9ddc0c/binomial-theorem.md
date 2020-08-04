@@ -471,6 +471,6 @@ transcript: >-
   m='335040'>That</span> <span m='335720'>is</span> <span m='336120'>the</span>
   <span m='336190'>binomial</span> <span m='336840'>formula.</span> </p>
 uid: 5390315c3d860a991081bf7905629cbe
-type: courses
+type: course
 layout: video
 ---

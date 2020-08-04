@@ -1,7 +1,7 @@
 ---
 title: spring04_pset8.pdf
 description: 'Problem set on double link list,Signals and systems.'
-type: courses
+type: course
 layout: pdf
 uid: 44c57ded7fed04ab0c9ac6f7df8e790a
 file_type: application/pdf

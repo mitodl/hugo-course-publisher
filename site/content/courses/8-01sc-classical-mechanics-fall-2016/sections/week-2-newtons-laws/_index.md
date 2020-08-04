@@ -1,11 +1,11 @@
 ---
 title: 'Week 2: Newton''s Laws'
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: course_section
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: cf6d9ae85d7b6e788f1e70cf24afc329
-    type: section
-    layout: section
     name: 'Week 2: Newton''s Laws'
     weight: 380
 ---

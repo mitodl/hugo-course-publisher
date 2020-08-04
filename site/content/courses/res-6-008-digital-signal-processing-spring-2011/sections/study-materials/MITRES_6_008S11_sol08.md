@@ -3,7 +3,7 @@ title: MITRES_6_008S11_sol08.pdf
 description: >-
   This resource contains solutions for the problem statements related to the
   discrete Fourier series.
-type: courses
+type: course
 layout: pdf
 uid: 2e36bc9983d8c60a4d11c6fe89cf1369
 file_type: application/pdf

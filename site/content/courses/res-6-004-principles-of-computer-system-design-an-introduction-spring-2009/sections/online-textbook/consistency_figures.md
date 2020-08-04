@@ -1,7 +1,7 @@
 ---
 title: consistency_figures.pdf
 description: 'This resource contains slides of chapter 10 figures. '
-type: courses
+type: course
 layout: pdf
 uid: 39db27e4e4c819f2039491e13952f071
 file_type: application/pdf

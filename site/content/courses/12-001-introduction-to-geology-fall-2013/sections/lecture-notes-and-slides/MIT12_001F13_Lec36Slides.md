@@ -3,7 +3,7 @@ title: 'Lecture 36: Comparative Planetology'
 description: >-
   This file contains the information regarding lecture 36: Comparative
   Planetology.
-type: courses
+type: course
 layout: pdf
 uid: 89cf411fce39330a1b3aaf426c9bcb1c
 file_type: application/pdf

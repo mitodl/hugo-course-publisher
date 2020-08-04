@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses73a.pdf
 description: This resource contains information about completing the square.
-type: courses
+type: course
 layout: pdf
 uid: fb9139b81f463eaa67642bcc598c620b
 file_type: application/pdf

@@ -808,6 +808,6 @@ transcript: >-
   m='618410'>the</span> <span m='618560'>standard</span> <span
   m='618880'>deviation</span> <span m='619420'>continues.</span> </p>
 uid: 84716f19adcb42af8135e454cfc25aff
-type: courses
+type: course
 layout: video
 ---

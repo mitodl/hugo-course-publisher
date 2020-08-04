@@ -1,7 +1,7 @@
 ---
 title: 'Case Study 3: Time Series Analysis of 10-Year US Treasury Yields'
 description: This file contains information regarding case studies 3.
-type: courses
+type: course
 layout: pdf
 uid: 080e2e5b442051fae5099cf224f58c0f
 file_type: application/pdf

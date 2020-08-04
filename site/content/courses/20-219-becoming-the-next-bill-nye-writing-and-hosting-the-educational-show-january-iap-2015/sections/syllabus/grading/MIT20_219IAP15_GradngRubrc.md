@@ -1,7 +1,7 @@
 ---
 title: Grading Rubric for STEM Nuggets
 description: This resource contains information regarding grading.
-type: courses
+type: course
 layout: pdf
 uid: c2ed478ee025e0c81ba06c63caeef992
 file_type: application/pdf

@@ -232,6 +232,6 @@ transcript: >-
   m='212020'>with</span> <span m='212420'>the</span> <span
   m='212820'>homework.</span> </p>
 uid: e4c6aeb7d0116de1e848b554e11656ed
-type: courses
+type: course
 layout: video
 ---

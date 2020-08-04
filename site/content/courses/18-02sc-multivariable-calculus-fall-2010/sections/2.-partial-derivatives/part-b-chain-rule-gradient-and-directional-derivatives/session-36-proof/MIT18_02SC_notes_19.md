@@ -3,7 +3,7 @@ title: MIT18_02SC_notes_19.pdf
 description: >-
   This resource contains information related to gradient: proof that it is
   perpendicular to level curves and surfaces.
-type: courses
+type: course
 layout: pdf
 uid: 85c1d85363d9808505351b571d2750aa
 file_type: application/pdf

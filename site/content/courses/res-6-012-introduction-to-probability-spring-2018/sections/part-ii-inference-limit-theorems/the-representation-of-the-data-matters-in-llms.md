@@ -186,6 +186,6 @@ transcript: >-
   closer to the art</span> <span m='416520'>that you need to exercise in any
   particular problem domain.</span> </p><p></p>
 uid: 032eba356f880b8ca7679b2bc485ae4a
-type: courses
+type: course
 layout: video
 ---

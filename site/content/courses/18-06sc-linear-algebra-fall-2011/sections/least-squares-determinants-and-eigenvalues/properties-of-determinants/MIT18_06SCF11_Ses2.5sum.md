@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses2.5sum.pdf
 description: This resource contains information related to properties of determinants.
-type: courses
+type: course
 layout: pdf
 uid: 5dd3f8ec0a398fd74264fef3fd591f81
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: Connect to Raspberry Pi from Windows
 description: This resource contains information regarding setting up SSH.
-type: courses
+type: course
 layout: pdf
 uid: 03018a1e04cb9a96dd6e6023a25708b1
 file_type: application/pdf

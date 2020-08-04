@@ -1343,6 +1343,6 @@ transcript: >-
   m='1084240'>I'll</span> <span m='1084400'>stop</span> <span
   m='1084710'>there.</span> </p>
 uid: 17b91cc556d3528d5d73b7b17fe9b427
-type: courses
+type: course
 layout: video
 ---

@@ -3675,6 +3675,6 @@ transcript: >-
   m='3627750'>Thank</span> <span m='3627970'>you</span> <span
   m='3628030'>very</span> <span m='3628150'>much.</span> </p>
 uid: 6ede4ce9cdd8a4f1662ba800fa43faa0
-type: courses
+type: course
 layout: video
 ---

@@ -203,6 +203,6 @@ transcript: >-
   example.</span> </p><p><span m='479475'>Or we try to bound it somehow and
   still show</span> <span m='482500'>that it goes to 0.</span> </p><p></p>
 uid: 6f24211d1d5f92604cbd09b527ceeb04
-type: courses
+type: course
 layout: video
 ---

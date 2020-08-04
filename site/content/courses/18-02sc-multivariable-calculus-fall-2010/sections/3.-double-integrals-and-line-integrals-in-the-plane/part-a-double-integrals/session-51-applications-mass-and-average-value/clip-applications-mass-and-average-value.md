@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Applications: Mass and Average Value'
 transcript: ''
 uid: 9fd1f97f9b6c6521cc1af2400a9f6107
-type: courses
+type: course
 layout: video
 ---

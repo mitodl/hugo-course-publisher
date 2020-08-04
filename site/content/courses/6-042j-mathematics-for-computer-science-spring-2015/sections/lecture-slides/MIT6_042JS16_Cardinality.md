@@ -3,7 +3,7 @@ title: 'Infinite Sets: Cardinality'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 64e5470012c32827eea19e271d98a39f
 file_type: application/pdf

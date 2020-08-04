@@ -2344,6 +2344,6 @@ transcript: >-
   m='2500110'>of</span> <span m='2500180'>this</span> </p><p><span
   m='2500410'>course.</span> <span m='2500560'>Thanks.</span> </p>
 uid: 7b7a7cf8c32308843dfbadde6278babe
-type: courses
+type: course
 layout: video
 ---

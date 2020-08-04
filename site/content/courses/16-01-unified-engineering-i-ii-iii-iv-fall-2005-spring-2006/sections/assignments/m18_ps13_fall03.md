@@ -3,7 +3,7 @@ title: m18_ps13_fall03.pdf
 description: >-
   This resource provides a problem set based on Young's modulus of a homogenous
   material, glass transition temperature of a polymer, and interatomic bonds.
-type: courses
+type: course
 layout: pdf
 uid: abe20323078be3becc048537e78b422c
 file_type: application/pdf

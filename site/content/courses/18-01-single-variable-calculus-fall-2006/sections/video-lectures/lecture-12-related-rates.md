@@ -2647,6 +2647,6 @@ transcript: >-
   m='2992090'>compute</span> <span m='2993000'>dx</span> <span
   m='2993150'>/</span> <span m='2993760'>dt.</span> </p>
 uid: 41ea5f9493e49c56e0c2e280319042dc
-type: courses
+type: course
 layout: video
 ---

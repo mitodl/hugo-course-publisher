@@ -1088,6 +1088,6 @@ transcript: >-
   m='842530'>have</span> <span m='842770'>to</span> <span
   m='842860'>stop.</span> </p>
 uid: 06d5e5b264f607dcea9924a7727c880a
-type: courses
+type: course
 layout: video
 ---

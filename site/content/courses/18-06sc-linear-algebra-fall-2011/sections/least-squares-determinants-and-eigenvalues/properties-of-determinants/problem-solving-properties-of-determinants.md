@@ -601,6 +601,6 @@ transcript: >-
   m='592960'>today.</span> <span m='593500'>Thank</span> <span
   m='593730'>you.</span> </p>
 uid: e40658b5c7696793780f1fa8e07ac8e7
-type: courses
+type: course
 layout: video
 ---

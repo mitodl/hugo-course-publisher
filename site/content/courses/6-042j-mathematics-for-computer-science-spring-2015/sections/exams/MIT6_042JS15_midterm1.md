@@ -3,7 +3,7 @@ title: MIT6_042JS15_midterm1.pdf
 description: >-
   This resource contains information regarding mathematics for computer science,
   midterm 1.
-type: courses
+type: course
 layout: pdf
 uid: 9ce2910b0a6d0b78e5d80df651ace63d
 file_type: application/pdf

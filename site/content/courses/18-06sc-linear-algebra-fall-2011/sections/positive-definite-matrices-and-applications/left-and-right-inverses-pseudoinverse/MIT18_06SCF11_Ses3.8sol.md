@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses3.8sol.pdf
 description: >-
   This resource contains problem set related to left and right inverses;
   pseudoinverse.
-type: courses
+type: course
 layout: pdf
 uid: 65f6a7ea1da9932a2939085151ca23a0
 file_type: application/pdf

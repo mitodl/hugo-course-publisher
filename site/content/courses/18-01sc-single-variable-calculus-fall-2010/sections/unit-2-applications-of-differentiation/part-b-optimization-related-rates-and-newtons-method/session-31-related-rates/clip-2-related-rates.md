@@ -3056,6 +3056,6 @@ transcript: >-
   m="3199250">ask</span> <span m="3199790">other</span> <span
   m="3199990">questions</span> <span m="3200360">after class.</span></p>
 uid: 427ffe9db02309a2673848e4e658cdf7
-type: courses
+type: course
 layout: video
 ---

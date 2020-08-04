@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex30sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   optimization problems II.
-type: courses
+type: course
 layout: pdf
 uid: 9b8a2a35294350b387e24b0d8adfd632
 file_type: application/pdf

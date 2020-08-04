@@ -3,7 +3,7 @@ title: t05_ps02_sol.pdf
 description: >-
   Problem set solution on adiabatic expansion, 2-3: constant volume heat
   addition, constant pressure expansion, isothermal compression.
-type: courses
+type: course
 layout: pdf
 uid: 635f1af7c50d65ec16ad6124d0415c26
 file_type: application/pdf

@@ -143,6 +143,6 @@ transcript: >-
   m='51140'>to</span> <span m='51200'>working</span> <span m='51470'>with</span>
   <span m='51770'>you.</span> </p>
 uid: 105aad1a7bf9b43b4f95902cae6cbd03
-type: courses
+type: course
 layout: video
 ---

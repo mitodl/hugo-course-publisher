@@ -3,7 +3,7 @@ title: 'Recursive Definition: Recursive Functions'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 0f3bc167a55a4f946466720e8984ec9d
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: s08_ps09_spring04.pdf
 description: This resouce includes problem set S8 regarding radar system.
-type: courses
+type: course
 layout: pdf
 uid: 2eb95749cfc597e789ae8d96a6e77552
 file_type: application/pdf

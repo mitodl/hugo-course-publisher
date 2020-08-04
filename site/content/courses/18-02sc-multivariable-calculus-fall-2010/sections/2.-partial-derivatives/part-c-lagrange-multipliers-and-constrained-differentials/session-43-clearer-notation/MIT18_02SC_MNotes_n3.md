@@ -3,7 +3,7 @@ title: MIT18_02SC_MNotes_n3.pdf
 description: >-
   This resource contains information related to abstract partial
   differentiation.
-type: courses
+type: course
 layout: pdf
 uid: ab0c0ef91fd30539282a3fd2477abdf0
 file_type: application/pdf

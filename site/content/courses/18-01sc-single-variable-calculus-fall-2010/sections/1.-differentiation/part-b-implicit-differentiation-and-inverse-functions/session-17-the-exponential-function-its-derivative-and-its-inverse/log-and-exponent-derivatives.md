@@ -581,6 +581,6 @@ transcript: >-
   m='416300'>will</span> <span m='416430'>stop</span> <span
   m='416780'>with</span> <span m='417130'>these.</span> </p>
 uid: a6b34bae595deca1685be6eeaa11ff73
-type: courses
+type: course
 layout: video
 ---

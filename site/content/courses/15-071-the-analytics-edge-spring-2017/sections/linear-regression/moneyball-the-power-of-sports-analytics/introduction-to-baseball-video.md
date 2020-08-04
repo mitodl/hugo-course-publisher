@@ -29,6 +29,6 @@ technical_location: >-
 title: Introduction to Baseball Video
 transcript: ''
 uid: f49d752d0bd46e9c9c25c720cc65aa8c
-type: courses
+type: course
 layout: video
 ---

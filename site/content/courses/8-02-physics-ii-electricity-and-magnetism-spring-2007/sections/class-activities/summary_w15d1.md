@@ -1,7 +1,7 @@
 ---
 title: summary_w15d1.pdf
 description: This resource is about Interference.
-type: courses
+type: course
 layout: pdf
 uid: 0074069cc26449b61cfdf1c36b258309
 file_type: application/pdf

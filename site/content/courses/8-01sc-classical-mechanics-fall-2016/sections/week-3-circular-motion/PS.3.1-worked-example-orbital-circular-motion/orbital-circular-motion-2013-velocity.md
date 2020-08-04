@@ -79,6 +79,6 @@ transcript: >-
   m='57590'>that we've calculated over there with Kepler's laws.</span>
   </p><p></p>
 uid: af3c3bb4c5eb1863177e4639846425bc
-type: courses
+type: course
 layout: video
 ---

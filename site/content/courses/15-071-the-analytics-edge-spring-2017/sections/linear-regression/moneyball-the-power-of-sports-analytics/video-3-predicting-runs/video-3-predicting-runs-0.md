@@ -416,6 +416,6 @@ transcript: >-
   <span m='345500'>will</span> <span m='345620'>make</span> <span
   m='345920'>the</span> <span m='346010'>playoffs.</span> </p>
 uid: fa46e82d615a31eec8896b6e74afc1f5
-type: courses
+type: course
 layout: video
 ---

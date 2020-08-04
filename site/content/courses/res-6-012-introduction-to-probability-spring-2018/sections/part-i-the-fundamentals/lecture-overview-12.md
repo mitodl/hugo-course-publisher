@@ -93,6 +93,6 @@ transcript: >-
   be able to derive</span> <span m='104050'>formulas for the mean and the
   variance.</span> </p><p></p>
 uid: 300632faa0f918e57d99368db0d6472e
-type: courses
+type: course
 layout: video
 ---

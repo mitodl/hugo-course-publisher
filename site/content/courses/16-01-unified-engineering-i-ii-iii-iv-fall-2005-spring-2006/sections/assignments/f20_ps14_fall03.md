@@ -1,7 +1,7 @@
 ---
 title: f20_ps14_fall03.pdf
 description: This resource contains problems on velocity.
-type: courses
+type: course
 layout: pdf
 uid: cad0f4a168798a8b8a1b8e2a70789fc4
 file_type: application/pdf

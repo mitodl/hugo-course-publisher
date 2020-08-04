@@ -1,7 +1,7 @@
 ---
 title: 'Conditional Probability: Conditional Probability Definitions'
 description: This file contains information regarding conditional probability definitions.
-type: courses
+type: course
 layout: pdf
 uid: 411d20732ed975f09364396bb9f59517
 file_type: application/pdf

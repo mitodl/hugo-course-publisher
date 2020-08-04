@@ -278,6 +278,6 @@ transcript: >-
   <span m="141160">all</span> <span m="141280">this.</span></p><p><span
   m="141580">[MUSIC PLAYING]</span></p><p>&nbsp;</p>
 uid: 7031f7beca8b2ffa1a47555bc3c4c018
-type: courses
+type: course
 layout: video
 ---

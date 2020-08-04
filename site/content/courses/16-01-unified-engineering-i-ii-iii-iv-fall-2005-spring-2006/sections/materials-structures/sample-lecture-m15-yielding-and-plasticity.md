@@ -30,6 +30,6 @@ technical_location: >-
 title: 'Sample Lecture M15: Yielding and Plasticity'
 transcript: ''
 uid: de59a8b8539839f8f3b604e755fb6879
-type: courses
+type: course
 layout: video
 ---

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Example: 3x-x3'
 transcript: ''
 uid: bae609b729aeb61c18af57bd4e0bef0c
-type: courses
+type: course
 layout: video
 ---

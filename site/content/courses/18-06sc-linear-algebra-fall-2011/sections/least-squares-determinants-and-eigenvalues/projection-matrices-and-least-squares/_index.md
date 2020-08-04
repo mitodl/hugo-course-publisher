@@ -1,16 +1,14 @@
 ---
 title: Projection Matrices and Least Squares
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 5f12aef90a3ea658e59ce968a672c0c2
-    type: section
-    layout: section
     name: Projection Matrices and Least Squares
     weight: 220
     parent: cf73d07ac972ab3c450a0f10d0be0664
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/projections-onto-subspaces/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/_index.md" %}}) »
 

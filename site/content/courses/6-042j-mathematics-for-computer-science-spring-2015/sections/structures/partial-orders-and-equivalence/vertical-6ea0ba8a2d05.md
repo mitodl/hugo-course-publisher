@@ -1,6 +1,8 @@
 ---
 title: 2.7 Partial Orders and Equivalence
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Equivalence Relations: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-c6c01eb0d061" %}})
 *   [2.7.1Partial Orders: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/_index.md" %}})

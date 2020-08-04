@@ -857,6 +857,6 @@ transcript: >-
   the</span> <span m='2815250'>programmer, not necessarily in the idea of
   genetic</span> <span m='2818000'>algorithms.</span> </p><p></p>
 uid: 94a831264c372f49131ba025945d85ee
-type: courses
+type: course
 layout: video
 ---

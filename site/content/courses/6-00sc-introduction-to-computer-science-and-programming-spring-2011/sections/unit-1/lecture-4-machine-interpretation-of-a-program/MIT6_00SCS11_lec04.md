@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 4 handout: Machine interpretation of a program'
 description: This resource contains information about lecture 4.
-type: courses
+type: course
 layout: pdf
 uid: d526dee89fccf34eb9bd030a6cf6c712
 file_type: application/pdf

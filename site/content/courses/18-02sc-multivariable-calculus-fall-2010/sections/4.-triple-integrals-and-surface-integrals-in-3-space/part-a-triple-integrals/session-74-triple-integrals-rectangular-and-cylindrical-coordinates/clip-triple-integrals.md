@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Triple Integrals'
 transcript: ''
 uid: d27541ba9964e4df289e7e41934ff399
-type: courses
+type: course
 layout: video
 ---

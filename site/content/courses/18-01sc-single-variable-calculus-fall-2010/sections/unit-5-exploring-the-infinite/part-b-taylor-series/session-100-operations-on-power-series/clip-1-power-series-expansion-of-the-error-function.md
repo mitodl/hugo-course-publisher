@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Power Series Expansion of the Error Function'
 transcript: ''
 uid: 245d8878895c1cda82278e7ae0f33dc4
-type: courses
+type: course
 layout: video
 ---

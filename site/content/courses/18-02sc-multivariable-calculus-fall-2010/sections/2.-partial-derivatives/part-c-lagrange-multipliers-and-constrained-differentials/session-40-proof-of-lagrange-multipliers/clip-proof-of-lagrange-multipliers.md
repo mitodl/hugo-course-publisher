@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Proof of Lagrange Multipliers'
 transcript: ''
 uid: 79905b41ac51b1f8280c242e0f1c9e13
-type: courses
+type: course
 layout: video
 ---

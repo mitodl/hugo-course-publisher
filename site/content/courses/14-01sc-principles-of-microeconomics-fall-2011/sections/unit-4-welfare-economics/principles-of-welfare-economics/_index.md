@@ -1,16 +1,14 @@
 ---
 title: Principles of Welfare Economics
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 12e64d3f06442707bfcb6442dc9daf1b
-    type: section
-    layout: section
     name: Principles of Welfare Economics
     weight: 250
     parent: 74a70dbf28134c7f25cae0a217b6ec6f
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics/problem-set-5/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/_index.md" %}}) »
 

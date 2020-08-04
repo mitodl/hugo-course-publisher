@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses37c.pdf
 description: This resource contains information about antidervatives.
-type: courses
+type: course
 layout: pdf
 uid: 4cc131a648a70191a09bfccaa8228723
 file_type: application/pdf

@@ -421,6 +421,6 @@ transcript: >-
   m='357400'>formulation</span> <span m='358037'>for</span> <span
   m='358675'>this</span> <span m='359312'>problem.</span> </p>
 uid: cb1ec5c5dfc10fdb760d4d93a5d37daa
-type: courses
+type: course
 layout: video
 ---

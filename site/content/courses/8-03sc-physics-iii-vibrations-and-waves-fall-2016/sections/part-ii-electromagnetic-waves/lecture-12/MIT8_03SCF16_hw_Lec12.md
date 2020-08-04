@@ -1,7 +1,7 @@
 ---
 title: 'MIT 8.03SC Fall 2016 Lecture 12: Maxwell''s Equation, Electromagnetic Waves'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: d2b105c94e2497b78e4493ef1e6a8a75
 file_type: application/pdf

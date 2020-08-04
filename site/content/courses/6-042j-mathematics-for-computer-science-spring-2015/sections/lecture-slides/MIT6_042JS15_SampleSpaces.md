@@ -1,7 +1,7 @@
 ---
 title: 'Intro to Discrete Probability: Sample Spaces'
 description: This file contains information regarding sample spaces.
-type: courses
+type: course
 layout: pdf
 uid: 004c80ce81c8559850c2c74ec6d5e029
 file_type: application/pdf

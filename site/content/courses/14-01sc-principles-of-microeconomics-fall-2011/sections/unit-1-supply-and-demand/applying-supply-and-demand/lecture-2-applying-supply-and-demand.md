@@ -3781,6 +3781,6 @@ transcript: >-
   m='2944940'>about</span> <span m='2945180'>consumer</span> <span
   m='2945540'>demand.</span> </p>
 uid: 1b672806d05a1d962eddc38d7d01cc64
-type: courses
+type: course
 layout: video
 ---

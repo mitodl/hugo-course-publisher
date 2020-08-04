@@ -161,6 +161,6 @@ transcript: >-
   obtain</span> <span m="399040">the form of the linear
   estimator.</span></p><p>&nbsp;</p>
 uid: d92b9e27e11f33b73f75e9e20a8f1ff3
-type: courses
+type: course
 layout: video
 ---

@@ -1,11 +1,11 @@
 ---
 title: Unified Concepts
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
+type: course
+layout: course_section
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
     identifier: 327c8fbc058636374667dc2437a7f1eb
-    type: section
-    layout: section
     name: Unified Concepts
     weight: 170
 ---

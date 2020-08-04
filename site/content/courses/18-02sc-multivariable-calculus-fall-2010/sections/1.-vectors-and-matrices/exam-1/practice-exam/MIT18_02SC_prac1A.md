@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_prac1A.pdf
 description: This resource contains information related to parametric equations.
-type: courses
+type: course
 layout: pdf
 uid: fab3055ba2c2f06834f14004c7d0047e
 file_type: application/pdf

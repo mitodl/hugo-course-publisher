@@ -3,7 +3,7 @@ title: '18.02SC Problems and Solutions: Finding Area Using Line Integrals'
 description: >-
   This resource contains information regarding finding area using line
   integrals.
-type: courses
+type: course
 layout: pdf
 uid: 655c095c066cee478027d815328d38a9
 file_type: application/pdf

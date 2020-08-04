@@ -3,7 +3,7 @@ title: c13_ps05_sol.pdf
 description: >-
   This handout contains the solutions for the Problem set based on iteration
   method.
-type: courses
+type: course
 layout: pdf
 uid: b17cabff63b95172ec46f915df5069d5
 file_type: application/pdf

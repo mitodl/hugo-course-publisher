@@ -3,7 +3,7 @@ title: pset15_sol.pdf
 description: >-
   This file includes solutions to problems on nonlifting irrotational flow,
   exterior and interior normal flows, Young's modulus, and polymer.
-type: courses
+type: course
 layout: pdf
 uid: 47dfad261dbf2101a5b1f316f95c8ffa
 file_type: application/pdf

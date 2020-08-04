@@ -456,6 +456,6 @@ transcript: >-
   <span m="319800">it</span> <span m="319910">nice</span> <span
   m="320410">and</span> <span m="320760">tasty.</span></p>
 uid: eca079a789cb91cef2c3d73770b56f42
-type: courses
+type: course
 layout: video
 ---

@@ -2304,6 +2304,6 @@ transcript: >-
   m='2591130'>Thank</span> <span m='2591360'>you.</span> </p><p><span
   m='2591400'>Thanks.</span> </p>
 uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
-type: courses
+type: course
 layout: video
 ---

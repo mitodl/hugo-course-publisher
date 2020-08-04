@@ -1,7 +1,7 @@
 ---
 title: fall_2003_q7m_sol.pdf
 description: Materials and Structures quiz with solutions.
-type: courses
+type: course
 layout: pdf
 uid: 006447eeb5c5290bcdc99cb62adcc376
 file_type: application/pdf

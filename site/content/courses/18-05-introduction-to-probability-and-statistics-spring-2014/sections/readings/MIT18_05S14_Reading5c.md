@@ -3,7 +3,7 @@ title: 'Reading 5c: Gallery of Continuous Random Variables'
 description: >-
   This resource file contains information regarding reading 5c: gallery of
   continuous random variables.
-type: courses
+type: course
 layout: pdf
 uid: 3dcb25dca7833a7c062d516701da5c8d
 file_type: application/pdf

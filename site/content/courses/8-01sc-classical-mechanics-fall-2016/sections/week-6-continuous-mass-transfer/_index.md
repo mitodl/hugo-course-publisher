@@ -1,11 +1,11 @@
 ---
 title: 'Week 6: Continuous Mass Transfer'
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: course_section
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 28d93f13f552de729aab415b7158be8e
-    type: section
-    layout: section
     name: 'Week 6: Continuous Mass Transfer'
     weight: 1090
 ---

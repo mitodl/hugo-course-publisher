@@ -256,6 +256,6 @@ transcript: >-
   <span m="157750">get</span> <span m="157960">out of</span> <span
   m="158240">the</span> <span m="158390">video.</span></p>
 uid: 5cba30d15ae469750f9f36b6aee5dd34
-type: courses
+type: course
 layout: video
 ---

@@ -107,6 +107,6 @@ transcript: >-
   examples</span> <span m='115700'>of both conservative and non-conservative
   forces.</span> </p><p></p>
 uid: 654f44e2b2423671ec9064b8cdedbad0
-type: courses
+type: course
 layout: video
 ---

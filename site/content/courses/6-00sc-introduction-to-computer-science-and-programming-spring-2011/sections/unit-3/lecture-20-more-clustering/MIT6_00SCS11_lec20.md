@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 20 handout: More Clustering'
 description: This resource contains information related to more clustering.
-type: courses
+type: course
 layout: pdf
 uid: 60df582d4c812a787695952b65aced83
 file_type: application/pdf

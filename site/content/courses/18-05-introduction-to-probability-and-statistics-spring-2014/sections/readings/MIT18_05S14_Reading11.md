@@ -3,7 +3,7 @@ title: 'Reading 11: Bayesian Updating with Discrete Priors'
 description: >-
   This is a resource file that contains information regarding reading 11:
   bayesian updating with discrete priors.
-type: courses
+type: course
 layout: pdf
 uid: 139aff133c83fe5e4335f942b0ea353c
 file_type: application/pdf

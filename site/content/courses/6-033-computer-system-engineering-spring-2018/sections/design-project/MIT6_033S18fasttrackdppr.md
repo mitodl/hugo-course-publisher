@@ -1,7 +1,7 @@
 ---
 title: 'Computer System Engineering, Final DP Report Example Fast Track'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: e1f355b7cede384adb3809486938e9aa
 file_type: application/pdf

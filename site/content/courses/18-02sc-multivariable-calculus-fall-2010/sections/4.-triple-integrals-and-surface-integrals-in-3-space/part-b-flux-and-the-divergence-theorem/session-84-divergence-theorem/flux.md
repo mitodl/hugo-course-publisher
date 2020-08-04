@@ -772,6 +772,6 @@ transcript: >-
   m='674630'>answer.</span> <span m='675150'>And I'll</span> <span
   m='675370'>end</span> <span m='675740'>there.</span> </p>
 uid: dcc5a24d5cddeef20eb24490574465f5
-type: courses
+type: course
 layout: video
 ---

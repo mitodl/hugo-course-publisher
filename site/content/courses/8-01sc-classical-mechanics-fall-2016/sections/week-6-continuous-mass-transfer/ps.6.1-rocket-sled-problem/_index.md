@@ -1,16 +1,14 @@
 ---
 title: PS.6.1 Rocket Sled Problem
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: videogallery
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: ce8e09d4807a942257ee603eabb68035
-    type: section
-    layout: section
     name: 'Week 6 Worked Examples [PS.6.1-PS.6.2]'
     weight: 1220
     parent: 28d93f13f552de729aab415b7158be8e
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.7-rocket-problem-7-solution-with-external-forces" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem/_index.md" %}}) »
 

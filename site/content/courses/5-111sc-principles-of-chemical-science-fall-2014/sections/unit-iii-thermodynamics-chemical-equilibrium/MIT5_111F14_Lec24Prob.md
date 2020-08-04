@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 24: Acid-Base Titrations
   Part II
 description: This resource contains information regarding lecture 24 problem.
-type: courses
+type: course
 layout: pdf
 uid: ab233900a7d051e3f1bc99dd486f31f7
 file_type: application/pdf

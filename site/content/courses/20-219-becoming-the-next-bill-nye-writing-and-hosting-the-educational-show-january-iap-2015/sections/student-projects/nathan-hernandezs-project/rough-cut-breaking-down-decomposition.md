@@ -280,6 +280,6 @@ transcript: >-
   m="152460">why</span> <span m="152580">we</span> <span m="152710">have</span>
   <span m="152880">all</span> <span m="153020">this.</span></p>
 uid: efa8ff07330a2e858521901f6add332b
-type: courses
+type: course
 layout: video
 ---

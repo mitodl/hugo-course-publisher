@@ -778,6 +778,6 @@ transcript: >-
   m='749976'>rest</span> <span m='750375'>of</span> <span m='750773'>this</span>
   <span m='751171'>lecture.</span> </p>
 uid: ff4f6c651cb5148f435aa8b23b576052
-type: courses
+type: course
 layout: video
 ---

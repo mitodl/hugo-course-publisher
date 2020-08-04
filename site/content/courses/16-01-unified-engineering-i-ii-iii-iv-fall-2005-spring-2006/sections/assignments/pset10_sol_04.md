@@ -1,7 +1,7 @@
 ---
 title: pset10_sol_04.pdf
 description: Problem set with solutions provided by the professor.
-type: courses
+type: course
 layout: pdf
 uid: f588ff1c35c16fff0734693629e0b075
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 3.4 Repetitions & Binomial Theorem
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Binomial Theorem: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-2/vertical-a7fe1b9ddc0c" %}})

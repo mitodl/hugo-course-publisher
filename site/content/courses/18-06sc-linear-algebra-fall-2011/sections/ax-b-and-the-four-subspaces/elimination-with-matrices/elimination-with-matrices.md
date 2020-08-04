@@ -2743,6 +2743,6 @@ transcript: >-
   m='2841140'>see</span> <span m='2841380'>you</span> <span
   m='2841500'>Monday.</span> </p>
 uid: da3102b83af8ca9c519500bb85334fcc
-type: courses
+type: course
 layout: video
 ---

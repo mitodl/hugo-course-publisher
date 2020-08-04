@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses2.2prob.pdf
 description: This resource contains problem set related to projections onto subspaces.
-type: courses
+type: course
 layout: pdf
 uid: 0f9710135b3fbcb08477ed8534c07229
 file_type: application/pdf

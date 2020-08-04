@@ -105,6 +105,6 @@ transcript: >-
   mechanics is a powerful tool for understanding the world around us.</span>
   </p><p><span m='124849'>Welcome to 8.01.</span> </p>
 uid: 24b6705d39fd0da50fc0092d8b2c1a8a
-type: courses
+type: course
 layout: video
 ---

@@ -602,6 +602,6 @@ transcript: >-
   m='629430'>everything</span> <span m='630030'>works</span> <span
   m='630330'>out.</span> </p>
 uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
-type: courses
+type: course
 layout: video
 ---

@@ -751,6 +751,6 @@ transcript: >-
   m='541930'>So</span> <span m='542160'>that's</span> <span m='542380'>where
   I'll end</span> <span m='542490'>it.</span> </p>
 uid: bfae7fb1a37a280fcb08b50cd9e75adf
-type: courses
+type: course
 layout: video
 ---

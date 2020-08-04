@@ -1,11 +1,11 @@
 ---
 title: Related Resources
 course_id: 22-081j-introduction-to-sustainable-energy-fall-2010
+type: course
+layout: course_section
 menu:
   22-081j-introduction-to-sustainable-energy-fall-2010:
     identifier: 87983f9c4bae6c3e715c01bf63aca0d8
-    type: section
-    layout: section
     name: Related Resources
     weight: 50
 ---

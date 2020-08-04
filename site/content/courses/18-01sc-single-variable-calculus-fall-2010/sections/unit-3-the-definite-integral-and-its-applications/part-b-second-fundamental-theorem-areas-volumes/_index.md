@@ -1,11 +1,11 @@
 ---
 title: 'Part B: Second Fundamental Theorem, Areas, Volumes'
 course_id: 18-01sc-single-variable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 82a633f32c2b0be84fba01f5e5741006
-    type: section
-    layout: section
     name: 'Part B: Second Fundamental Theorem, Areas, Volumes'
     weight: 690
     parent: 4c201b00a0470284ebd6c546e0cc59ab

@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 3 Notes: Introduction to Minerals'
 description: This is a file that contains information regarding introduction to minerals.
-type: courses
+type: course
 layout: pdf
 uid: 1b86cb3a4854134975175f73a85c2f23
 file_type: application/pdf

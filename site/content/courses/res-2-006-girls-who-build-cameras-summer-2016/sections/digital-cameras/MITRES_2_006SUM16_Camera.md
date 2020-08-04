@@ -1,7 +1,7 @@
 ---
 title: Camera Instructions
 description: null
-type: courses
+type: course
 layout: pdf
 uid: bd36dbbc9476541bc5402f776628d202
 file_type: application/pdf

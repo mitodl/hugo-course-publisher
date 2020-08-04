@@ -4803,6 +4803,6 @@ transcript: >-
   m='5031070'>next</span> <span m='5031320'>week</span> <span
   m='5031510'>or</span> <span m='5031590'>two.</span> </p>
 uid: a579fb860521a3052cce0f404f80fc7c
-type: courses
+type: course
 layout: video
 ---

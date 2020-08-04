@@ -374,6 +374,6 @@ transcript: >-
   <span m='253930'>And</span> <span m='254130'>that's</span> <span
   m='254440'>the</span> <span m='254520'>story.</span> </p>
 uid: 128928955050bb68805f3cdca450eac4
-type: courses
+type: course
 layout: video
 ---

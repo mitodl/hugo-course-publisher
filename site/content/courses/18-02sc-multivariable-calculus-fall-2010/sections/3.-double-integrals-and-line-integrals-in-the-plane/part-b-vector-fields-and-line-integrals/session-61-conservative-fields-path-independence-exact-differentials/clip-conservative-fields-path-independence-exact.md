@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Conservative Fields, Path Independence, Exact'
 transcript: ''
 uid: 2e51cb723f8ec67b5f1587cee4c9ba87
-type: courses
+type: course
 layout: video
 ---

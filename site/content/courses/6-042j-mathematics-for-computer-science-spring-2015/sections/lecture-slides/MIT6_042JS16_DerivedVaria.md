@@ -3,7 +3,7 @@ title: 'State Machines – Invariants: Derived Variables'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: f9002f3ff9f6cd89dad22a4536635ebf
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: Week 2 Moneyball Video 1 - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 9573ac589ee65559695bb7ef1962866b
 file_type: application/pdf

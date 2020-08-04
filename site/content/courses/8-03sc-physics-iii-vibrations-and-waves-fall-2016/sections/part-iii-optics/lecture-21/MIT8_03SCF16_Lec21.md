@@ -1,7 +1,7 @@
 ---
 title: MIT8_03SCF16_Lec21.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 717fadf8fcc2b8da983cae9cde6c04d9
 file_type: application/pdf

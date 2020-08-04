@@ -1,7 +1,7 @@
 ---
 title: Black-Scholes Formula & Risk neutral valuation
 description: This file contains information regarding lecture 19 notes.
-type: courses
+type: course
 layout: pdf
 uid: d19208c017ada04f9261cfb41ab8d702
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: q5s.pdf
 description: Quiz problems based on Signals and systems.
-type: courses
+type: course
 layout: pdf
 uid: 99fddaf30e81f495e8443e7235f14056
 file_type: application/pdf

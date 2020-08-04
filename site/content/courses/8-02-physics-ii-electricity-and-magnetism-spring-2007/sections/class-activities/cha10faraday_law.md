@@ -7,7 +7,7 @@ description: >-
   eddy currents, summary, appendix: induced emf and reference frames,
   problem-solving tips: Faraday?s law and Lenz?s law, solved problems,
   conceptual questions, and additional problems.
-type: courses
+type: course
 layout: pdf
 uid: ce1720fd4b21def8c2189ff4779f27f7
 file_type: application/pdf

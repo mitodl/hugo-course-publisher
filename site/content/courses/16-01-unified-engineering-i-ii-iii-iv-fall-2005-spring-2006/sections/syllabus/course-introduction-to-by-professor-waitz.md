@@ -30,6 +30,6 @@ technical_location: >-
 title: Course Introduction to by Professor Waitz
 transcript: ''
 uid: be693db82f86101d8082ca7c0241ad26
-type: courses
+type: course
 layout: video
 ---

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Riemann Sums'
 transcript: ''
 uid: e0620ef7c36dd4414353def6aeb2a181
-type: courses
+type: course
 layout: video
 ---

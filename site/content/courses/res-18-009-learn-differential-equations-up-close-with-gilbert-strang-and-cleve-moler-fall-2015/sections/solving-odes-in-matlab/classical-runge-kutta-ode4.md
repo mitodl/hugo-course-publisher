@@ -507,6 +507,6 @@ transcript: >-
   m='566450'>90%</span> <span m='567290'>of</span> <span m='567430'>its</span>
   <span m='567720'>final</span> <span m='568050'>value?</span> </p>
 uid: 5f26137fa0da7e39a9621c844373ad1b
-type: courses
+type: course
 layout: video
 ---

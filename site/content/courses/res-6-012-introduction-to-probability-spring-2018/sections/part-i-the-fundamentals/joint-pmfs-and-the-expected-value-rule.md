@@ -228,6 +228,6 @@ transcript: >-
   possible (x,y) pairs that may occur,</span> <span m="611290">and we sum over
   all these (x,y) pairs.</span></p><p>&nbsp;</p>
 uid: 93e7014f1662b25def3030fcc4453e12
-type: courses
+type: course
 layout: video
 ---

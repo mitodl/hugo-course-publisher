@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses1.14sum.pdf
 description: This resource contains information related to exam 1 review.
-type: courses
+type: course
 layout: pdf
 uid: b547dd4153ccc350860df8f43085c2d6
 file_type: application/pdf

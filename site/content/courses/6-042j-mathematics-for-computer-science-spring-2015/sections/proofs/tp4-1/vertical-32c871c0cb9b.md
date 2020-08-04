@@ -1,6 +1,8 @@
 ---
 title: 1.8  Induction
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Strong vs Ordinary Induction vs WOP \\\[optional\\\]]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-1/vertical-b16ab258826d" %}})
 *   [1.8.1Induction: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-1/_index.md" %}})

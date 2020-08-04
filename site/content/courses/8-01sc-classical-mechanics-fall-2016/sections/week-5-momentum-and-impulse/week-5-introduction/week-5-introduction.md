@@ -114,6 +114,6 @@ transcript: >-
   to our advantage</span> <span m='140720'>in understanding what will
   happen.</span> </p><p></p>
 uid: 62a4747b9feca09295d454652b687b2b
-type: courses
+type: course
 layout: video
 ---

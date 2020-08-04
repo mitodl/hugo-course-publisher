@@ -826,6 +826,6 @@ transcript: >-
   <span m='882790'>you</span> <span m='882890'>next</span> <span
   m='883170'>time.</span> </p>
 uid: b3714d52ef943390d8d6b490460f96a9
-type: courses
+type: course
 layout: video
 ---

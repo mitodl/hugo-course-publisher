@@ -295,6 +295,6 @@ transcript: >-
   <span m="279220">segment</span> <span m="279940">of</span> <span
   m="280070">this</span> <span m="280310">course.</span></p>
 uid: e6d781a53a0f6719100650f9dd10a331
-type: courses
+type: course
 layout: video
 ---

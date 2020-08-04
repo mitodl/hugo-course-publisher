@@ -1,7 +1,7 @@
 ---
 title: demo_28.pdf
 description: This resource contains input output waveforms of a boost converter.
-type: courses
+type: course
 layout: pdf
 uid: e8ee0bb462d26ef0f72da6f87928ed75
 file_type: application/pdf

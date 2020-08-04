@@ -163,6 +163,6 @@ transcript: >-
   we get a</span> <span m='345610'>correlation coefficient of 0.</span>
   </p><p></p>
 uid: 9c0bd94356b96d7686363356739e3405
-type: courses
+type: course
 layout: video
 ---

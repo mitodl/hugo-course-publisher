@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_guide12.pdf
 description: 'This resource contains information related to motion along a curve. '
-type: courses
+type: course
 layout: pdf
 uid: d51f2b2173280c8621a80d57603b2e82
 file_type: application/pdf

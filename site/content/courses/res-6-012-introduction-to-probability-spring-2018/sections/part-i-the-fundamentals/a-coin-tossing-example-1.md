@@ -238,6 +238,6 @@ transcript: >-
   was that the</span> <span m="691110">conditional universe, the event B, had a
   uniform</span> <span m="695970">probability law on it.</span></p><p>&nbsp;</p>
 uid: df64784a6463177f3ce04937a3c7819b
-type: courses
+type: course
 layout: video
 ---

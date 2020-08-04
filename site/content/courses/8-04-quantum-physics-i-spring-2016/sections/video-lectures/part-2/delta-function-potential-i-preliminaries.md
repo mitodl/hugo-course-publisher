@@ -911,6 +911,6 @@ transcript: >-
   m='972050'>solve</span> <span m='972560'>that</span> <span
   m='972860'>now.</span> </p>
 uid: fb7fc364da912138a6d2afc169ebe0c3
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MITRES_6_008S11_sol12.pdf
 description: >-
   This resource contains solutions for the problem statements related to network
   structures for infinite impulse response (IIR) systems.
-type: courses
+type: course
 layout: pdf
 uid: 8a764b7d4dc089d1162a19ee58192a14
 file_type: application/pdf

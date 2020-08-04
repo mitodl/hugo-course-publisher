@@ -1,7 +1,7 @@
 ---
 title: s13_lec.pdf
 description: Lecture notes on Solving a Linear Dynamic Network Using Eigenvalue Method.
-type: courses
+type: course
 layout: pdf
 uid: 3f243378a7b0b1ae1fd8d51ff9990a68
 file_type: application/pdf

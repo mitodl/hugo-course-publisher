@@ -1,7 +1,7 @@
 ---
 title: t09_ps03_fall03.pdf
 description: Problem set on micro-heat engines.
-type: courses
+type: course
 layout: pdf
 uid: ad9c32f722858f1a6f02943dc48bc094
 file_type: application/pdf

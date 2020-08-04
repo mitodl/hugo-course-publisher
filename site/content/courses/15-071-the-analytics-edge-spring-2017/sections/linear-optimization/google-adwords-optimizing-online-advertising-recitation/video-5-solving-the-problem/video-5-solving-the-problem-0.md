@@ -799,6 +799,6 @@ transcript: >-
   m='624817'>price</span> <span m='625241'>per</span> <span
   m='625665'>display.</span> </p>
 uid: e95d8df22c804b1231396b13b4ac2dcf
-type: courses
+type: course
 layout: video
 ---

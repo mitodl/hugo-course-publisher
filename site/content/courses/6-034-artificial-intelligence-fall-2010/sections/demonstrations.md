@@ -1,11 +1,11 @@
 ---
 title: Demonstrations
 course_id: 6-034-artificial-intelligence-fall-2010
+type: course
+layout: course_section
 menu:
   6-034-artificial-intelligence-fall-2010:
     identifier: 6083a261cf578b917651f1c1e1ef5001
-    type: section
-    layout: section
     name: Demonstrations
     weight: 150
 ---

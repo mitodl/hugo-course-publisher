@@ -1,7 +1,7 @@
 ---
 title: '18.S997 Project Idea: Autostereograms'
 description: This resource contains information regarding autostereograms.
-type: courses
+type: course
 layout: pdf
 uid: ec4952de13837ef40c5dfba40a7d3c4a
 file_type: application/pdf

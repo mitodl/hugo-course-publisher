@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_assn09.pdf
 description: 'This resource contains assignment 9. '
-type: courses
+type: course
 layout: pdf
 uid: 634ff37bc1a5139ccdd58dc7494193f9
 file_type: application/pdf

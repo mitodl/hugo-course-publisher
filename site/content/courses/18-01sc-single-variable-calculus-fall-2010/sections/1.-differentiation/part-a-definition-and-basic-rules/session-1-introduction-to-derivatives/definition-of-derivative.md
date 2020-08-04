@@ -896,6 +896,6 @@ transcript: >-
   m='745230'>So</span> <span m='745690'>that's</span> <span
   m='745930'>that.</span> </p>
 uid: 4b7d5d5daa4c1b71ea8fa877841ac214
-type: courses
+type: course
 layout: video
 ---

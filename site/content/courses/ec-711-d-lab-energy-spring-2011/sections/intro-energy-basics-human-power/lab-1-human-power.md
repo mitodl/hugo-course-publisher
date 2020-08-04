@@ -41,6 +41,6 @@ technical_location: >-
 title: 'Lab 1: Human Power'
 transcript: ''
 uid: b03952e4bdfcea4962271aeae1dedb3f
-type: courses
+type: course
 layout: video
 ---

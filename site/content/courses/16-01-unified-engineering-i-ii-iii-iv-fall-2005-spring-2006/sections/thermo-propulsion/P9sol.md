@@ -3,7 +3,7 @@ title: P9sol.pdf
 description: >-
   This resource contains argument based on kinetic energy, euler theorem, and
   aerodynamics.
-type: courses
+type: course
 layout: pdf
 uid: b56696430930351ae95a0966f79e1151
 file_type: application/pdf

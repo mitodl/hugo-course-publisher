@@ -172,6 +172,6 @@ transcript: >-
   </p><p><span m='405600'>And we can also find the expected value for the
   overall</span> <span m='409140'>experiment.</span> </p><p></p>
 uid: 90e289088a640496606bf9c1e6895ac6
-type: courses
+type: course
 layout: video
 ---

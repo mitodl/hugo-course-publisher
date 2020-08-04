@@ -209,6 +209,6 @@ transcript: >-
   m='529660'>before deciding to choose one versus the other
   approximation.</span> </p><p></p>
 uid: de1573d6f63203b6b6cc3eaa656df554
-type: courses
+type: course
 layout: video
 ---

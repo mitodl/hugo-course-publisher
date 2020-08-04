@@ -3,7 +3,7 @@ title: MIT18_02SC_notes_29.pdf
 description: >-
   This resource contains information related to fundamental theorem for line
   integrals.
-type: courses
+type: course
 layout: pdf
 uid: 878cd7a9630352d5d7deb651ee3504c7
 file_type: application/pdf

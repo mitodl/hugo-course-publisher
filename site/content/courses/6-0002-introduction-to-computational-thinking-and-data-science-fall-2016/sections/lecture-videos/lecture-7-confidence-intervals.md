@@ -2937,6 +2937,6 @@ transcript: >-
   <span m="3016150">different</span> <span m="3016540">topic</span> <span
   m="3017650">on</span> <span m="3018340">Wednesday.</span></p>
 uid: 63d84d8a4d31d13aee5b13d954e6579d
-type: courses
+type: course
 layout: video
 ---

@@ -3077,6 +3077,6 @@ transcript: >-
   m='2574560'>another?</span> <span m='2575550'>All</span> <span
   m='2575610'>right.</span> </p>
 uid: 323e80051abe3b35143a5f5d9c0d0eaa
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: 'Sampling & Confidence: Chapter 19.4 – 19.5'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Sampling & confidence: Chapter 19.4 – 19.5.
-type: courses
+type: course
 layout: pdf
 uid: a9c3e260c5e3d85cc2e3e94869a73d72
 file_type: application/pdf

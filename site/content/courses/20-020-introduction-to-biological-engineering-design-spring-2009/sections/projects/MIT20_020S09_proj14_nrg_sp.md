@@ -3,7 +3,7 @@ title: MIT20_020S09_proj14_nrg_sp.pdf
 description: >-
   This file includes materialon world energy problems and their possible
   solutions. 
-type: courses
+type: course
 layout: pdf
 uid: 4e9e04751749ce7ee50b56aedf89d943
 file_type: application/pdf

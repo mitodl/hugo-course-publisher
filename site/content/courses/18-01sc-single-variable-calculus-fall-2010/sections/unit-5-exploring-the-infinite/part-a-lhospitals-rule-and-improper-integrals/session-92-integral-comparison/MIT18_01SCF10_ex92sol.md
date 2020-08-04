@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex92sol.pdf
 description: >-
   This resource contains the solutions for the problems related to the conﬁrming
   an integral converges.
-type: courses
+type: course
 layout: pdf
 uid: d6bdcc7164b54c3e84165f05a34cdc60
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: Lecture 4.2 Legal Issues and Business Plans - 15.S21 Nuts and Bolts IAP 2014
 description: This resource contains information related to Legal Issues and Business Plans.
-type: courses
+type: course
 layout: pdf
 uid: 3f93ef48ea74975e211a136e9053f052
 file_type: application/pdf

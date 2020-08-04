@@ -1,6 +1,8 @@
 ---
 title: 4.3 Independence & Causality
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Labeled Balls]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-2/vertical-324cac33b048" %}})
 *   [4.3.1Independence: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-2/_index.md" %}})

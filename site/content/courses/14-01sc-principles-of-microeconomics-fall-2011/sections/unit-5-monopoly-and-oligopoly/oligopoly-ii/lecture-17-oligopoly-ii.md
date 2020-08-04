@@ -3538,6 +3538,6 @@ transcript: >-
   m='2839930'>on</span> <span m='2840120'>to</span> <span
   m='2840180'>factor</span> <span m='2840480'>markets.</span> </p>
 uid: 97573ff42d52a86a1612247da41c63d8
-type: courses
+type: course
 layout: video
 ---

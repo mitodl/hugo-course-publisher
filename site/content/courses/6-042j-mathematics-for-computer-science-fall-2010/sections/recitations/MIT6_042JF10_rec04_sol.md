@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_rec04_sol.pdf
 description: 'This resource contains solutions of greatest common divisor. '
-type: courses
+type: course
 layout: pdf
 uid: 4f6767747decf6209215cfe789cef5f6
 file_type: application/pdf

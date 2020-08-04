@@ -1,7 +1,7 @@
 ---
 title: f4_mud.pdf
 description: Review questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: 05d480a483d76d61c3ba195c750e066f
 file_type: application/pdf

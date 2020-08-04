@@ -3,7 +3,7 @@ title: Solutions to Problem Set 1
 description: >-
   This is a resource file that contains information regarding solutions to
   problem set 1.
-type: courses
+type: course
 layout: pdf
 uid: dcd3abc5eb643e1a0d4874b61e3979f1
 file_type: application/pdf

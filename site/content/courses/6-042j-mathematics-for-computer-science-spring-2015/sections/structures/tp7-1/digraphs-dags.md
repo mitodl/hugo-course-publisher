@@ -951,6 +951,6 @@ transcript: >-
   m='680850'>terms</span> <span m='681180'>of</span> <span m='681280'>a</span>
   <span m='681320'>DAG.</span> </p>
 uid: 65e786428b76a391305a67a28a230fa1
-type: courses
+type: course
 layout: video
 ---

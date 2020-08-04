@@ -823,6 +823,6 @@ transcript: >-
   m='970590'>wave</span> <span m='970830'>function</span> <span
   m='971340'>means.</span> </p>
 uid: 0f3c09a4dd8a653c23b44c8ed28a3e63
-type: courses
+type: course
 layout: video
 ---

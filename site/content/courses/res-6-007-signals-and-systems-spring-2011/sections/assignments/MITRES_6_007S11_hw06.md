@@ -3,7 +3,7 @@ title: MITRES_6_007S11_hw06.pdf
 description: >-
   This resource contains problem set related to systems represented by
   differential and difference equations.
-type: courses
+type: course
 layout: pdf
 uid: f459a0f4f110bfbe4014ac71638a963b
 file_type: application/pdf

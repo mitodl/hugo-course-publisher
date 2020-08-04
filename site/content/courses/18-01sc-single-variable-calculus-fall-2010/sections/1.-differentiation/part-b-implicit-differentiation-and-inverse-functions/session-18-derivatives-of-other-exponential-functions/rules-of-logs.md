@@ -795,6 +795,6 @@ transcript: >-
   <span m='546380'>I'll</span> <span m='546490'>stop</span> <span
   m='546680'>there.</span> </p>
 uid: 783f5f4e9439755780721f88403883fa
-type: courses
+type: course
 layout: video
 ---

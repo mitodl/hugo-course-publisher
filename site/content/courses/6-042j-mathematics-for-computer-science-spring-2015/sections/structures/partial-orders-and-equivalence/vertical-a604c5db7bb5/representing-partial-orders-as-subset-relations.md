@@ -576,6 +576,6 @@ transcript: >-
   m='415700'>collection</span> <span m='416240'>of</span> <span
   m='416320'>sets.</span> </p>
 uid: 52d6117a250a15059c5c41bc42f676f9
-type: courses
+type: course
 layout: video
 ---

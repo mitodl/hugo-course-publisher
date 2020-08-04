@@ -367,6 +367,6 @@ transcript: >-
   <span m='344875'>more.</span> </p><p><span m='345270'>Thanks</span> <span
   m='345893'>for</span> <span m='346516'>watching.</span> </p>
 uid: caa81b71b1ff585dd1b0d5d9b652f0b0
-type: courses
+type: course
 layout: video
 ---

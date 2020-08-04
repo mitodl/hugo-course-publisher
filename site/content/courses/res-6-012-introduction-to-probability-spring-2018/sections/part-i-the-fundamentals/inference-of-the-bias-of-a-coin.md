@@ -153,6 +153,6 @@ transcript: >-
   we will see</span> <span m="357040">later on in this
   class.</span></p><p>&nbsp;</p>
 uid: c1221d1d31a5e301b53c426fcab86a6e
-type: courses
+type: course
 layout: video
 ---

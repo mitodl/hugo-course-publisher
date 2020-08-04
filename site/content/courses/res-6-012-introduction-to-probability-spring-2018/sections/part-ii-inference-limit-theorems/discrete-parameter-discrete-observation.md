@@ -178,6 +178,6 @@ transcript: >-
   m='400670'>where we want to minimize the probability of error.</span>
   </p><p></p>
 uid: bb490dfa1a07088e4dc611891b812b10
-type: courses
+type: course
 layout: video
 ---

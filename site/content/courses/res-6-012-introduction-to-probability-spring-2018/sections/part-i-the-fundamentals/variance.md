@@ -203,6 +203,6 @@ transcript: >-
   into a few</span> <span m="638280">examples of variance
   calculations.</span></p><p>&nbsp;</p>
 uid: 56d6f83b7eccd2749fbed9adb229678f
-type: courses
+type: course
 layout: video
 ---

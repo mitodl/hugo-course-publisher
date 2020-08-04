@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 4: d/dx (ln(sec x))'
 transcript: ''
 uid: db93f55447f2421044175fd65f1ff8f9
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Surface Independence'
 description: This resource contains information regarding surface independence.
-type: courses
+type: course
 layout: pdf
 uid: e61f04f1956293a7c16cbc61df907e41
 file_type: application/pdf

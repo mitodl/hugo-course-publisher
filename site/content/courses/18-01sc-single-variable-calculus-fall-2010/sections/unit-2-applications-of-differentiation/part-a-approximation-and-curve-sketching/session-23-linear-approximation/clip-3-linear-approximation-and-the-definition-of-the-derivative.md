@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 3: Linear Approximation and the Definition of the Derivative'
 transcript: ''
 uid: b04e8b1226341893a32fff2f8e7ca789
-type: courses
+type: course
 layout: video
 ---

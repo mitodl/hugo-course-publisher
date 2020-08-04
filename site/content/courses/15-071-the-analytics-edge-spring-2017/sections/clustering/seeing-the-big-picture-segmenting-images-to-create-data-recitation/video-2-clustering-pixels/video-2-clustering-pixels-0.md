@@ -583,6 +583,6 @@ transcript: >-
   <span m='459528'>computing</span> <span m='460031'>the</span> <span
   m='460534'>hierarchical</span> <span m='461037'>clusters.</span> </p>
 uid: ed08d97fd9e9eb76cb1ca6bc1457fe09
-type: courses
+type: course
 layout: video
 ---

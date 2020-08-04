@@ -1,7 +1,7 @@
 ---
 title: '18.S997 Basic Plotting: Exercise 11'
 description: This resource contains information regarding exercise 11.
-type: courses
+type: course
 layout: pdf
 uid: 857af918a604c276277dc1a27ef1718c
 file_type: application/pdf

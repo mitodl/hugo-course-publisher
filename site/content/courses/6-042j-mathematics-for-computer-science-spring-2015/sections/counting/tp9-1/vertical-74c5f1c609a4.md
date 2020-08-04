@@ -1,6 +1,8 @@
 ---
 title: 3.3 Counting with Bijections
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Counting with Bijections: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-1/vertical-96a6db418419" %}})
 *   [3.3.1Sum And Product Rules: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-1/_index.md" %}})

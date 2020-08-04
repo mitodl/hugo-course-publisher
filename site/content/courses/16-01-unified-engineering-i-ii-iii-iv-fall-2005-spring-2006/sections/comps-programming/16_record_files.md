@@ -1,7 +1,7 @@
 ---
 title: 16_record_files.pdf
 description: Lecture 16 (2003) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 0bcb4b9aee8995edb9718543aa5e9e98
 file_type: application/pdf

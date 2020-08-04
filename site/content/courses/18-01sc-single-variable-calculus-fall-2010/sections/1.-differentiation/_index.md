@@ -1,11 +1,11 @@
 ---
 title: 1. Differentiation
 course_id: 18-01sc-single-variable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: ff2c27eff0de39810c3e51a37548e568
-    type: section
-    layout: section
     name: 1. Differentiation
     weight: 20
 ---

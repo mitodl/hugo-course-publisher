@@ -1,7 +1,7 @@
 ---
 title: null
 description: 'Resource:'
-type: courses
+type: course
 layout: pdf
 uid: be980d089f5912141b025d0f8ccfd9e7
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_rec16_sol.pdf
 description: 'This resource contains solutions of combinatorial proof, more counting. '
-type: courses
+type: course
 layout: pdf
 uid: 92126efe49394a8564aa0bf70aea3f37
 file_type: application/pdf

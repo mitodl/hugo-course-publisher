@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses3.3prob.pdf
 description: >-
   This resource contains problem set related to positive definite matrices and
   minima.
-type: courses
+type: course
 layout: pdf
 uid: fdeb589c9d29a1f60e306667dd886dba
 file_type: application/pdf

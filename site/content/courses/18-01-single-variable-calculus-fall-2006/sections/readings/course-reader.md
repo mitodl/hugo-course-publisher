@@ -1,11 +1,11 @@
 ---
 title: Course Reader
 course_id: 18-01-single-variable-calculus-fall-2006
+type: course
+layout: course_section
 menu:
   18-01-single-variable-calculus-fall-2006:
     identifier: 98fdab81f6f5a25624a5128fe1261e9b
-    type: section
-    layout: section
     name: Course Reader
     weight: 40
     parent: 10aa412934a53f6649d19398bf5e5220

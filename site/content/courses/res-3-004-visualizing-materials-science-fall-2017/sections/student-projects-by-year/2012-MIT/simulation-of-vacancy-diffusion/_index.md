@@ -1,7 +1,7 @@
 ---
 title: Simulation of Vacancy Diffusion
 course_id: res-3-004-visualizing-materials-science-fall-2017
-type: courses
+type: course
 layout: videogallery
 ---
 ![vacancy diffusion visualization](https://open-learning-course-data-ci.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/7090dab80cbe3d024a356bdc36fbbe18_MITRES_3_004F17_7_chen.jpg)

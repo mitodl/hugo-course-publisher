@@ -1,16 +1,14 @@
 ---
 title: 4.8 Random Walks & Pagerank
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: videogallery
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: ec31be5e21ec45ab3eab7ab45d2e85b7
-    type: section
-    layout: section
     name: 4.8 Random Walks & Pagerank
     weight: 2900
     parent: 90a207e82f8b3b1369067b58f9c6f169
-type: courses
-layout: videogallery
 ---
 *   [<Above Average Number of Fingers]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/vertical-2f9ccec3fdf7" %}})
 *   [4.8.1Random Walks: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/random-walks-pagerank/_index.md" %}})

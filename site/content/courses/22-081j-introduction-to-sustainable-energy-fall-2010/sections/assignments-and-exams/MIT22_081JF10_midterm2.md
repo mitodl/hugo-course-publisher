@@ -1,7 +1,7 @@
 ---
 title: MIT22_081JF10_midterm2.pdf
 description: This resource contains problem statements related to nuclear power economy.
-type: courses
+type: course
 layout: pdf
 uid: b3d43bf172b25572ebd9d3dac25a21c2
 file_type: application/pdf

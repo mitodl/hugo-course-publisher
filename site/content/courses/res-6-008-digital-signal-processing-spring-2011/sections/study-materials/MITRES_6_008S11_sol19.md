@@ -3,7 +3,7 @@ title: MITRES_6_008S11_sol19.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   computation of the discrete Fourier transform, part 2.
-type: courses
+type: course
 layout: pdf
 uid: 60afc58da9ae3ffd042f672a1b642f81
 file_type: application/pdf

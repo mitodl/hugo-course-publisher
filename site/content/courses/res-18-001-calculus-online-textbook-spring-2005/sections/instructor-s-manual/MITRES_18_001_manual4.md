@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_manual4.pdf
 description: "This resource contains information related to the chain rule. \r\n"
-type: courses
+type: course
 layout: pdf
 uid: 66fd259b109bd7cb35fa5c5ae0d83ee9
 file_type: application/pdf

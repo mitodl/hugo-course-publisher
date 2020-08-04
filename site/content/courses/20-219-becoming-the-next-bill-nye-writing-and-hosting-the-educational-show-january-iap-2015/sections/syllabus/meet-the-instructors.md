@@ -2,11 +2,11 @@
 title: Meet the Instructors
 course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
+type: course
+layout: course_section
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: 32b7558a888da05cb9fc29fe9381506b
-    type: section
-    layout: section
     name: Meet the Instructors
     weight: 20
     parent: 203eeb3a4839933a901cefa7c34f24d7

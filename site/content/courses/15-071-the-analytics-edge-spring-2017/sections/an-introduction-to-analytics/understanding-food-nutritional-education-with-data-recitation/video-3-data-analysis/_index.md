@@ -1,7 +1,7 @@
 ---
 title: '1.4 Understanding Food: Nutritional Education with Data  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Video 2: Working with Data in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-2-working-with-data-in-r/_index.md" %}})

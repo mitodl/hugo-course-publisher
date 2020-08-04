@@ -2820,6 +2820,6 @@ transcript: >-
   m='2847570'>I'll</span> <span m='2847820'>talk</span> <span m='2848050'>to
   you</span> <span m='2848690'>individually.</span> </p>
 uid: 1a8a83ed9ab0f55e4e4e6dc0bc500094
-type: courses
+type: course
 layout: video
 ---

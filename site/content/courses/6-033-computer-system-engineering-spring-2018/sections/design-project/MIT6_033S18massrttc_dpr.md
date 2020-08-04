@@ -1,7 +1,7 @@
 ---
 title: 'Computer System Engineering, Example Final Design Project Report MASSTTC'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: e9aca0e198434db86e55af17078c27d9
 file_type: application/pdf

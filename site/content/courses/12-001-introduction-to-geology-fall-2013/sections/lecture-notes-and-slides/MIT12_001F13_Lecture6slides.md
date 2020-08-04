@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 6 Slides: Sedimentary Rocks'
 description: This is a resource file that contains information regarding sedimentary rocks.
-type: courses
+type: course
 layout: pdf
 uid: feefeb51ec6d693e201a36c00b7729a3
 file_type: application/pdf

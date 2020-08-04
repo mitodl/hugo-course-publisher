@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_11_quest.pdf
 description: >-
   This resource contains problem statements related to meaning of matrix
   multiplication.
-type: courses
+type: course
 layout: pdf
 uid: f13cd9df6df538215a0af6826db6bb7d
 file_type: application/pdf

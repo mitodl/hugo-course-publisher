@@ -478,6 +478,6 @@ transcript: >-
   m='565400'>do</span> <span m='565830'>in</span> <span m='566260'>the</span>
   <span m='566690'>next</span> <span m='567120'>video.</span> </p>
 uid: 5c2a43b01c80bbe2f87039d8c132f17e
-type: courses
+type: course
 layout: video
 ---

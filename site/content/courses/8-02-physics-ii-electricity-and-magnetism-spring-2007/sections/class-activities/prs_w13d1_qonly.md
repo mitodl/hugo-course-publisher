@@ -3,7 +3,7 @@ title: prs_w13d1_qonly.pdf
 description: >-
   This resource contains informations about E field of a plane EM wave, magnetic
   field and B field of a plane EM wave.
-type: courses
+type: course
 layout: pdf
 uid: ad2d1a7c5cbe8b2289b430dd5d078d01
 file_type: application/pdf

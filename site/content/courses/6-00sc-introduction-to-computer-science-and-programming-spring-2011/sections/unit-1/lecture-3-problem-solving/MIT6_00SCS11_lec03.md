@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 3 handout: problem solving'
 description: This resource contains information about lecture 3.
-type: courses
+type: course
 layout: pdf
 uid: eba5e6fd322af1ea1ed826051df22062
 file_type: application/pdf

@@ -187,6 +187,6 @@ transcript: >-
   value f of x that the function takes if we feed it</span> <span
   m="484310">with a specific argument.</span></p><p>&nbsp;</p>
 uid: bea976dcd4e3dc810e4146fed7180b05
-type: courses
+type: course
 layout: video
 ---

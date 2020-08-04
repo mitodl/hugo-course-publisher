@@ -3,7 +3,7 @@ title: f15_mud.pdf
 description: >-
   This resource contains information on the topic of Uniform flow, sources,
   sinks, doublets.
-type: courses
+type: course
 layout: pdf
 uid: 559f11db4aedafec8c4e03c01114c9c6
 file_type: application/pdf

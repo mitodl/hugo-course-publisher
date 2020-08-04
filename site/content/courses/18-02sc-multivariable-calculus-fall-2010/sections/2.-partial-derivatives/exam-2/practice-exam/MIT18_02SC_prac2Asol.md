@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_prac2Asol.pdf
 description: This resource contains information related to lagrange multiplier equation.
-type: courses
+type: course
 layout: pdf
 uid: 28e92bddfd9d2affcbda6a982c2d2a75
 file_type: application/pdf

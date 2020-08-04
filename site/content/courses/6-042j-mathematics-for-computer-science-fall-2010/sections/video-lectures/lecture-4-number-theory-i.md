@@ -4288,6 +4288,6 @@ transcript: >-
   m='4819550'>see</span> <span m='4819780'>next</span> <span
   m='4820220'>Thursday.</span> </p><p></p>
 uid: a71dc64caf8c846a0eb83536fdaa2f19
-type: courses
+type: course
 layout: video
 ---

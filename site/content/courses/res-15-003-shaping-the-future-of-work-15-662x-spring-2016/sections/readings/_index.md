@@ -1,11 +1,11 @@
 ---
 title: Readings
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
+type: course
+layout: course_section
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 4f99d0cb2a633499552ceac598125a32
-    type: section
-    layout: section
     name: Readings
     weight: 90
 ---

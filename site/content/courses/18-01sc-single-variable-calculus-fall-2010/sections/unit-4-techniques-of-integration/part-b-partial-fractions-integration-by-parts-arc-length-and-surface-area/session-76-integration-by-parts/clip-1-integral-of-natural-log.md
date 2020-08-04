@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Integral of Natural Log'
 transcript: ''
 uid: 7da07ac45c9c895503c5f24addcec7e1
-type: courses
+type: course
 layout: video
 ---

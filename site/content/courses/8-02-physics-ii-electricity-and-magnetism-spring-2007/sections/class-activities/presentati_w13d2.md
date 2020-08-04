@@ -4,7 +4,7 @@ description: >-
   This resource includes exam 3 topics, general exam suggestions, prs questions:
   faraday?s & lenz?s law; inductors & LR circuits; undriven RLC circuits; driven
   RLC circuits; displacement/poynting; sample exam problems and solutions.
-type: courses
+type: course
 layout: pdf
 uid: 02bd2558fd158e363ae36e4f026ddd79
 file_type: application/pdf

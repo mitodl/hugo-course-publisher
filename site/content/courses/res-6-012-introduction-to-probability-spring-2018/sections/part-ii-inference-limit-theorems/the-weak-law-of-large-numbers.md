@@ -176,6 +176,6 @@ transcript: >-
   reinforces or justifies the</span> <span m='446610'>interpretation of
   probabilities as frequencies.</span> </p><p></p>
 uid: 0c99bea8c55420a40b4f63565ee0f078
-type: courses
+type: course
 layout: video
 ---

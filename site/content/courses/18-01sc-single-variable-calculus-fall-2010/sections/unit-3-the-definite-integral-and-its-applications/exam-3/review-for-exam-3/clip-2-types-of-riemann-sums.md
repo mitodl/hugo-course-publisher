@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Types of Riemann Sums'
 transcript: ''
 uid: d59e58acaac57ebb694cf341e282159a
-type: courses
+type: course
 layout: video
 ---

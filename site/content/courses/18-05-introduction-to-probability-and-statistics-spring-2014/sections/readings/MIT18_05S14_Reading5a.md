@@ -3,7 +3,7 @@ title: 'Reading 5a: Variance of Discrete Random Variables'
 description: >-
   This resource file contains information regarding reading 5a: variance of
   discrete random variables.
-type: courses
+type: course
 layout: pdf
 uid: b09f8047e25079e59d379a4d9782b621
 file_type: application/pdf

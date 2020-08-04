@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Review of Problems'
 transcript: ''
 uid: 426a826b4b8d94ed952a26859b253cc7
-type: courses
+type: course
 layout: video
 ---

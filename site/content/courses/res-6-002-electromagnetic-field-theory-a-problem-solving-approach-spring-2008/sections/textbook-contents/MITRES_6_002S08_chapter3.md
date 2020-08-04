@@ -3,7 +3,7 @@ title: >-
   Electromagnetic Field Theory - A Problem-Solving Approach – Chapter 3:
   Sections 3.1-3.10
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 39ad8ce30f1940971429fd3b173523c1
 file_type: application/pdf

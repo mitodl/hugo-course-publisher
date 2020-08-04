@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 11: Lewis Structures:
   Breakdown of the Octet Rule
 description: This resource contains information regarding lecture 11 problem.
-type: courses
+type: course
 layout: pdf
 uid: 70c23656a0c02b351009759350e25a93
 file_type: application/pdf

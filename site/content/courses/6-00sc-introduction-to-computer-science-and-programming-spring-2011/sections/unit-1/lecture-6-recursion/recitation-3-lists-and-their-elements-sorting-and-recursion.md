@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Recitation 3: Lists and their Elements, Sorting, and Recursion'
 transcript: ''
 uid: 97977763b598d90be9910e0e7b258383
-type: courses
+type: course
 layout: video
 ---

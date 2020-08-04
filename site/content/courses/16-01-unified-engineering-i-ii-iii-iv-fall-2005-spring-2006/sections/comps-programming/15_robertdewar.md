@@ -3,7 +3,7 @@ title: 15_robertdewar.pdf
 description: |-
   Presentation given by guest lecturer  Prof. Robert Dewar
   University of Chicago (Courtesy of Robert Dewar. Used with permission.)
-type: courses
+type: course
 layout: pdf
 uid: 6b7aae7dc07dc4c4a5127be8483ecfc9
 file_type: application/pdf

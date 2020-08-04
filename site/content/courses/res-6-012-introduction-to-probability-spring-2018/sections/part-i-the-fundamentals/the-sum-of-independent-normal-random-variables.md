@@ -122,6 +122,6 @@ transcript: >-
   m='184830'>and still remain in the world of normal random variables.</span>
   </p>
 uid: 9f033515a1dcb0a57813d678180708fb
-type: courses
+type: course
 layout: video
 ---

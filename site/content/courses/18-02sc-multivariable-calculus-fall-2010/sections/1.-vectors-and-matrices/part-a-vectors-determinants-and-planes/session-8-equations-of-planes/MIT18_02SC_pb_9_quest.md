@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_9_quest.pdf
 description: This resource contains problem statements related to equations of plane.
-type: courses
+type: course
 layout: pdf
 uid: f2884ea6b068fcf14d5a5fb94ff3ce74
 file_type: application/pdf

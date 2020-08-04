@@ -1,7 +1,7 @@
 ---
 title: f10drag_sp.pdf
 description: This resource provides information on the drag estimation.
-type: courses
+type: course
 layout: pdf
 uid: 82ead7bc6972d5853b81a6686156f474
 file_type: application/pdf

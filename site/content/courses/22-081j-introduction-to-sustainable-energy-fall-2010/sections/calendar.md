@@ -1,11 +1,11 @@
 ---
 title: Calendar
 course_id: 22-081j-introduction-to-sustainable-energy-fall-2010
+type: course
+layout: course_section
 menu:
   22-081j-introduction-to-sustainable-energy-fall-2010:
     identifier: 5a8ae26b67ff6c73e36febc76f66983b
-    type: section
-    layout: section
     name: Calendar
     weight: 20
 ---

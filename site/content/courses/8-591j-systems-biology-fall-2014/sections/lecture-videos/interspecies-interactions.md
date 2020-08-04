@@ -4861,6 +4861,6 @@ transcript: >-
   <span m="4860440">I'll see</span> <span m="4860660">you guys</span> <span
   m="4860960">on</span> <span m="4861260">Tuesday.</span></p>
 uid: df70acfb667b4bb1e97f2c8a62b06432
-type: courses
+type: course
 layout: video
 ---

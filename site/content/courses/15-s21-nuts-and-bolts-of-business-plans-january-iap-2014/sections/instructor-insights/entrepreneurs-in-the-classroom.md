@@ -1,11 +1,11 @@
 ---
 title: Entrepreneurs in the Classroom
 course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
+type: course
+layout: course_section
 menu:
   15-s21-nuts-and-bolts-of-business-plans-january-iap-2014:
     identifier: 985ac65bcc684e1991e3f8c9b61ab09e
-    type: section
-    layout: section
     name: Entrepreneurs in the Classroom
     weight: 40
     parent: 68847d16d9620f2b7563d82fad77467d

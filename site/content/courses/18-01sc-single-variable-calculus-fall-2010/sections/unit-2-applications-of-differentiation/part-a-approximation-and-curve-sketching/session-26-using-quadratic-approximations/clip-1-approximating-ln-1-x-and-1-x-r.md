@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Approximating ln(1+x) and (1+x)r'
 transcript: ''
 uid: 82afe245ad95678afe9915e13bcd6b81
-type: courses
+type: course
 layout: video
 ---

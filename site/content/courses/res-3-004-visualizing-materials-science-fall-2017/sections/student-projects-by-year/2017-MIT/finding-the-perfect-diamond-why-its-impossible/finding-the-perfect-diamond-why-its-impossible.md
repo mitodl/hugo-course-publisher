@@ -478,6 +478,6 @@ transcript: >-
   m='342380'>Emma,</span> <span m='342790'>Burhan,</span> <span
   m='343220'>and</span> <span m='343340'>Philippe.</span> </p>
 uid: 6a8411bb4ef7b1b242d87887c66bf699
-type: courses
+type: course
 layout: video
 ---

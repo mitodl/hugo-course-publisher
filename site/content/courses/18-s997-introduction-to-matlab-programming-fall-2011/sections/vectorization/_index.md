@@ -1,11 +1,11 @@
 ---
 title: Vectorization and User-Defined Functions
 course_id: 18-s997-introduction-to-matlab-programming-fall-2011
+type: course
+layout: course_section
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 18645230e50f3945e34d99f24f40ca3a
-    type: section
-    layout: section
     name: Vectorization
     weight: 150
 ---

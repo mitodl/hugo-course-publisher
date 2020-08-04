@@ -3,7 +3,7 @@ title: s14_ps12_spring04.pdf
 description: >-
   Problem set S14 involving nine questions on
   finding?the?inverse?Laplace?transform for the given Laplace transform.
-type: courses
+type: course
 layout: pdf
 uid: 8ca568e7920efb5f0376efbf614cc8c3
 file_type: application/pdf

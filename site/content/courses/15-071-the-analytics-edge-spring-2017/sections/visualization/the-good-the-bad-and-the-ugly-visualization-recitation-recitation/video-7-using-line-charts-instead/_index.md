@@ -1,7 +1,7 @@
 ---
 title: '7.4 The Good, the Bad, and the Ugly: Visualization Recitation  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Video 6: Scales]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-6-scales" %}})

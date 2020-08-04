@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_lec04.pdf
 description: This resource contains information related to convolution.
-type: courses
+type: course
 layout: pdf
 uid: 27da9a018e92fc06d2cf1fbce5cd3e71
 file_type: application/pdf

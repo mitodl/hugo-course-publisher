@@ -1,7 +1,7 @@
 ---
 title: equationcompendium.pdf
 description: 'This file explains forms of First law of thermodynamics,Expressions of work.'
-type: courses
+type: course
 layout: pdf
 uid: 8dda908d284bcd5e490c8403e641819f
 file_type: application/pdf

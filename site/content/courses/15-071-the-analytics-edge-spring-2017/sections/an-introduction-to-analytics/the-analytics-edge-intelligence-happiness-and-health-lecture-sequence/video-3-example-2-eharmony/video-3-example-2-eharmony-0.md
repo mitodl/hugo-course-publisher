@@ -139,6 +139,6 @@ transcript: >-
   <span m='103295'>US</span> <span m='104116'>online</span> <span
   m='104937'>dating</span> <span m='105758'>market.</span> </p>
 uid: 9dbe3caed1412ceb3a3feb09685ab952
-type: courses
+type: course
 layout: video
 ---

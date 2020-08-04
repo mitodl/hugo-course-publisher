@@ -1,7 +1,7 @@
 ---
 title: Raspberry PI Assembly Instructions
 description: This resource contains information regarding assembly instructions.
-type: courses
+type: course
 layout: pdf
 uid: 74015cad1285e014a45fd17d6196429c
 file_type: application/pdf

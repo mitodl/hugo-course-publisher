@@ -3,7 +3,7 @@ title: f07_new_fall.pdf
 description: >-
   This resource provides information on the topic of Momentum Flow and Momentum
   Conservation.
-type: courses
+type: course
 layout: pdf
 uid: e78030a19790b44d240e17607de9f8c6
 file_type: application/pdf

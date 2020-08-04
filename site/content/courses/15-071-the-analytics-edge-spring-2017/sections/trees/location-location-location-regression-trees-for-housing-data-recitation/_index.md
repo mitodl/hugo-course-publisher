@@ -3,18 +3,16 @@ title: >-
   4.4 Location, Location, Location: Regression Trees for Housing Data 
   (Recitation)
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: videogallery
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: aef27920c51cefd188ed937539251bd9
-    type: section
-    layout: section
     name: >-
       4.4 Location, Location, Location: Regression Trees for Housing Data 
       (Recitation)
     weight: 1440
     parent: 19c8cf92e31d034a1ea15ad53194d892
-type: courses
-layout: videogallery
 ---
 *   [<Video 9: Results]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-9-results" %}})
 *   [4.4.1Welcome to Recitation 4]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/_index.md" %}})

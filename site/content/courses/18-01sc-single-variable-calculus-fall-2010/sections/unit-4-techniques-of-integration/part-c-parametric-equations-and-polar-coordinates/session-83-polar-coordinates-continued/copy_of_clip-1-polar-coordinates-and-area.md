@@ -2782,6 +2782,6 @@ transcript: >-
   m="2944090">that</span> <span m="2944290">in</span> <span
   m="2944370">mind.</span></p>
 uid: f9ab02fb90fc603d7c271db29e848cfc
-type: courses
+type: course
 layout: video
 ---

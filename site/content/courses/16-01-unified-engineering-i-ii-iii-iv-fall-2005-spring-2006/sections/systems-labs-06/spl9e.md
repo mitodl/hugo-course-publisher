@@ -1,7 +1,7 @@
 ---
 title: spl9e.pdf
 description: This file contains diagrams for Decalage Angle Definitions.
-type: courses
+type: course
 layout: pdf
 uid: 56061159f5137df4000608074e4f8182
 file_type: application/pdf

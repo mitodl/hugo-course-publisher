@@ -3,7 +3,7 @@ title: 'Introduction to Probability: Lecture 3: Independence'
 description: >-
   This resource contains information regarding introduction to probability: The
   fundamentals: Independence.
-type: courses
+type: course
 layout: pdf
 uid: b252f66a64dfdfeba5387696f78c1039
 file_type: application/pdf

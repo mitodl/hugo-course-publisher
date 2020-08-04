@@ -3,7 +3,7 @@ title: Exam 2 Practice Questions
 description: >-
   This is a resource file that contains information regarding exam 2 practice
   questions.
-type: courses
+type: course
 layout: pdf
 uid: fd36d76033e2c1328aec811a6d9d2fde
 file_type: application/pdf

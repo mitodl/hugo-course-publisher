@@ -1,7 +1,7 @@
 ---
 title: Intro to Programming
 description: null
-type: courses
+type: course
 layout: pdf
 uid: b39298fa3db6a4c67532e5970347286c
 file_type: application/pdf

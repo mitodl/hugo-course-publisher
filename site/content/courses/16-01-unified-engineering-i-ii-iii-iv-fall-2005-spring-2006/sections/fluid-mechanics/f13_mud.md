@@ -1,7 +1,7 @@
 ---
 title: f13_mud.pdf
 description: This resource contains information on the topic of Bernoulli Equation.
-type: courses
+type: course
 layout: pdf
 uid: f49cbeb3093a7bde017163e3c605830e
 file_type: application/pdf

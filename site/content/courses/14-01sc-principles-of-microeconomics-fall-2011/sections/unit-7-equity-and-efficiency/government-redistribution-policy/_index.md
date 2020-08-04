@@ -1,16 +1,14 @@
 ---
 title: Government Redistribution Policy
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: b3df47062059ac3f7af88832de93e0fb
-    type: section
-    layout: section
     name: Government Redistribution Policy
     weight: 430
     parent: c94fdf9054571202c278c37041d32e5c
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-7-equity-and-efficiency/equity-and-efficiency/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-7-equity-and-efficiency/problem-set-9/_index.md" %}}) »
 

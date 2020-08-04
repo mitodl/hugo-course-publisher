@@ -423,6 +423,6 @@ transcript: >-
   <span m='455350'>with</span> <span m='455560'>plotting</span> <span
   m='455860'>in</span> <span m='456160'>MATLAB.</span> </p>
 uid: c7743755b8df49d5d6197d5e70a2bad0
-type: courses
+type: course
 layout: video
 ---

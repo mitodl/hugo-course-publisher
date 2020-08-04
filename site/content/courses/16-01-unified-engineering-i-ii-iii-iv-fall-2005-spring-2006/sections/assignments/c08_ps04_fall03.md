@@ -1,7 +1,7 @@
 ---
 title: c08_ps04_fall03.pdf
 description: This handout contains the Problem set based on Ada95 program for date.
-type: courses
+type: course
 layout: pdf
 uid: 379466f3ddda9b65f79db0cc7235b0b2
 file_type: application/pdf

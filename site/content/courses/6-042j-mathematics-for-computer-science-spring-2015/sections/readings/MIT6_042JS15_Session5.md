@@ -3,7 +3,7 @@ title: 'Quantifiers & Predicate Logic: Chapter 3.6'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Quantifiers & predicate logic: Chapter 3.6.
-type: courses
+type: course
 layout: pdf
 uid: f75cc145f8e2c51fb7cef9390973ff1c
 file_type: application/pdf

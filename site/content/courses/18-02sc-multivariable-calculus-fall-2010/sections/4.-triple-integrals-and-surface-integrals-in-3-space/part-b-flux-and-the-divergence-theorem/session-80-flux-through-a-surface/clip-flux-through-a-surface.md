@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Flux Through a Surface'
 transcript: ''
 uid: 8f97d6d9e91c37b23a2e74c9f929547a
-type: courses
+type: course
 layout: video
 ---

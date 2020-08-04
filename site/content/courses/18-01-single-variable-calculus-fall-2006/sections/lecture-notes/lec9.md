@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 9: Linear and Quadratic Approximations'
 description: Lecture notes on linear and quadratic approximations.
-type: courses
+type: course
 layout: pdf
 uid: 40cb41807e6d67373f3299ce87c4d9b3
 file_type: application/pdf

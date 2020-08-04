@@ -251,6 +251,6 @@ transcript: >-
   procedure, one usually</span> <span m='647560'>obtains estimates that are very
   helpful and very informative.</span> </p><p></p>
 uid: 1a5b6484d7355052ee87edff14cd3a84
-type: courses
+type: course
 layout: video
 ---

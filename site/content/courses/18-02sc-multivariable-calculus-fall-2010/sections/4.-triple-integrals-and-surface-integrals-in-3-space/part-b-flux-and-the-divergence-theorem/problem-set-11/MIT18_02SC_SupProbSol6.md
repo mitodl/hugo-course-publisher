@@ -3,7 +3,7 @@ title: MIT18_02SC_SupProbSol6.pdf
 description: >-
   This resource contains solutions for the problem statements related to flux
   and the divergence theorem.
-type: courses
+type: course
 layout: pdf
 uid: 45302ef9b328a6c32869077580cd685d
 file_type: application/pdf

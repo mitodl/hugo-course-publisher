@@ -98,6 +98,6 @@ transcript: >-
   <span m='35652'>data.</span> </p><p><span m='36020'>Let's</span> <span
   m='36680'>get</span> <span m='37340'>started.</span> </p>
 uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
-type: courses
+type: course
 layout: video
 ---

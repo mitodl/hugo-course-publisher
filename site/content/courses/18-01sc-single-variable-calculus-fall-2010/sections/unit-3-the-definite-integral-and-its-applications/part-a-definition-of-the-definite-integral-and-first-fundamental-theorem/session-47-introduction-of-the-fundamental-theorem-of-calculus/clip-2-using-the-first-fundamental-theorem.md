@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Using the First Fundamental Theorem'
 transcript: ''
 uid: 475203cc5783e0a04b16bad8325469b6
-type: courses
+type: course
 layout: video
 ---

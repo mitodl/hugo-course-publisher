@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 21 Notes: Topography'
 description: This is a file that contains information regarding topography.
-type: courses
+type: course
 layout: pdf
 uid: 66687cb68ded354da25bd27ca3d81a26
 file_type: application/pdf

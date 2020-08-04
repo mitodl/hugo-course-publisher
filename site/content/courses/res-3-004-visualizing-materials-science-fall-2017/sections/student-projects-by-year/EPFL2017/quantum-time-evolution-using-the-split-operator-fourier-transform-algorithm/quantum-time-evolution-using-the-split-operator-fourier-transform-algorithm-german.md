@@ -898,6 +898,6 @@ transcript: >-
   m='752676'>besser</span> <span m='753015'>verstehen</span> <span
   m='753354'>kann.</span> </p>
 uid: dc7b88ceb2a076629fee89159651d6ad
-type: courses
+type: course
 layout: video
 ---

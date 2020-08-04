@@ -1,7 +1,7 @@
 ---
 title: s18_ps13_sol.pdf
 description: Solutions to problem set regarding Signals and system.
-type: courses
+type: course
 layout: pdf
 uid: d0be921a071ed41713792a13f931c97f
 file_type: application/pdf

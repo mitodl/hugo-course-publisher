@@ -1,6 +1,8 @@
 ---
 title: 2.11 Stable Matching
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Derived Variables]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/stable-matching/derived-variables-0" %}})
 *   [2.11.1Stable Matching: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/stable-matching/_index.md" %}})

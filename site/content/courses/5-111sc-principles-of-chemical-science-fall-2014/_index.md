@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
 course_title: Principles of Chemical Science
 course_image_url: >-

@@ -1,7 +1,7 @@
 ---
 title: Week 6 Heart Attacks Video 1 - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 3d75c67e442e35d4194a59943ba87f14
 file_type: application/pdf

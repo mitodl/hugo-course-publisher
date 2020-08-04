@@ -723,6 +723,6 @@ transcript: >-
   m='835370'>representation</span> <span m='836340'>to</span> <span
   m='836490'>show</span> <span m='836850'>them.</span> </p>
 uid: eae7119d8ce4b23ee8ca37c056fd99d8
-type: courses
+type: course
 layout: video
 ---

@@ -862,6 +862,6 @@ transcript: >-
   m='933890'>leave</span> <span m='934050'>it</span> <span m='934115'>at</span>
   <span m='934180'>that.</span> </p>
 uid: d538b66a63a6e76664ef9814111781cf
-type: courses
+type: course
 layout: video
 ---

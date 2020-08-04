@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 7: Relations and partial orders'
 description: This resource contains information about Relations and partial orders.
-type: courses
+type: course
 layout: pdf
 uid: efac321fdc8d0b27586ca35b04aab808
 file_type: application/pdf

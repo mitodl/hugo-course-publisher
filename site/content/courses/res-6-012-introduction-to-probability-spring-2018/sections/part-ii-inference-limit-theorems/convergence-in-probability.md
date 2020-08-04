@@ -197,6 +197,6 @@ transcript: >-
   </p><p><span m='501370'>And we will be seeing an example where this
   convergence</span> <span m='505310'>does not take place.</span> </p><p></p>
 uid: 9146faf023809410af5927d1b7cfcd03
-type: courses
+type: course
 layout: video
 ---

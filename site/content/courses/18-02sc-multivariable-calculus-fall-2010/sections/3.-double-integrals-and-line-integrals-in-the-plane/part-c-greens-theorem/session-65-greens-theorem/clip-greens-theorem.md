@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Green''s Theorem'
 transcript: ''
 uid: 09e8a35459c09d270832d0d4a3ba806f
-type: courses
+type: course
 layout: video
 ---

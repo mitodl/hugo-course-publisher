@@ -1,7 +1,7 @@
 ---
 title: 21_adagenerics.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: a9780d802a41c6048b2c5a3b177c80b5
 file_type: application/pdf

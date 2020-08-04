@@ -1,7 +1,7 @@
 ---
 title: p05_ps11_spring04.pdf
 description: This resource contains problems based on weight and sound.
-type: courses
+type: course
 layout: pdf
 uid: 7a961fc1424a91b88574d214a9f5ae69
 file_type: application/pdf

@@ -352,6 +352,6 @@ transcript: >-
   m='262390'>text</span> <span m='262820'>into</span> <span
   m='263670'>independent</span> <span m='264520'>variables.</span> </p>
 uid: fe903a774e04cd284db618d4b9c9b53a
-type: courses
+type: course
 layout: video
 ---

@@ -1,6 +1,8 @@
 ---
 title: 3.5 Assignment 3
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: course_section
 ---
 *   [<Assignment 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/_index.md" %}})
 *   [3.5.1Popularity of Music Records]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/_index.md" %}})

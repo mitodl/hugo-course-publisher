@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_27_quest.pdf
 description: This resource contains problem statements related to optimization problems.
-type: courses
+type: course
 layout: pdf
 uid: ff30391fbc54043a2ca393a12b0a33a8
 file_type: application/pdf

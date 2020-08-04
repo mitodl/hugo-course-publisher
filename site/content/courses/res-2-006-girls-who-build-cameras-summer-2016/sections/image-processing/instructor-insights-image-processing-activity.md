@@ -535,6 +535,6 @@ transcript: >-
   m='372350'>Email:</span> </p><p><span m='377750'>Girls Who Build.</span>
   </p><p><span m='378950'>Girlswhobuild.org</span> </p>
 uid: 2ca5342388e463a5b258fce838e5e27f
-type: courses
+type: course
 layout: video
 ---

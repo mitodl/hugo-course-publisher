@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
 course_title: Principles of Microeconomics
 course_image_url: >-

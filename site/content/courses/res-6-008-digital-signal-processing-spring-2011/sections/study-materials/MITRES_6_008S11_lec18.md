@@ -3,7 +3,7 @@ title: MITRES_6_008S11_lec18.pdf
 description: >-
   This resource contains information related to computation of the discrete
   Fourier transform, part 1.
-type: courses
+type: course
 layout: pdf
 uid: 30433d4ac3003ee02003ad8ccb726ab0
 file_type: application/pdf

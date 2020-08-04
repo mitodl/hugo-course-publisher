@@ -719,6 +719,6 @@ transcript: >-
   m='799680'>the next</span> <span m='799820'>video.</span> <span
   m='801020'>Thank</span> <span m='801200'>you.</span> </p>
 uid: f0638260b9ac2ec4671d6e6542924dc2
-type: courses
+type: course
 layout: video
 ---

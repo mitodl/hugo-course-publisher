@@ -217,6 +217,6 @@ transcript: >-
   sometimes find very easy derivations and explanations</span> <span
   m='619660'>why such a formula has to be true.</span> </p><p></p>
 uid: 6ae68fff51ee30a30c5c75e035597819
-type: courses
+type: course
 layout: video
 ---

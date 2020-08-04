@@ -1,7 +1,7 @@
 ---
 title: Comments on Joshua's Rough Cut
 description: This resource contains information regarding joshua's rough cut.
-type: courses
+type: course
 layout: pdf
 uid: cef98b83aedd875bdbb8241bf6e9abe6
 file_type: application/pdf

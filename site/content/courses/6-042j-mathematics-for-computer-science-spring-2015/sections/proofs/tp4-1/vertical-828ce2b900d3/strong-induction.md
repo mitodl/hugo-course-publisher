@@ -868,6 +868,6 @@ transcript: >-
   m='600370'>comes</span> <span m='600670'>out</span> <span
   m='600870'>the</span> <span m='600960'>same.</span> </p>
 uid: bafc0b54f818f5fd3f4464ab6a7c5d29
-type: courses
+type: course
 layout: video
 ---

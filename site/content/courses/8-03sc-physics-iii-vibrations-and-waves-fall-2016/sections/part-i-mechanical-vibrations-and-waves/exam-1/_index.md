@@ -1,11 +1,11 @@
 ---
 title: Exam 1
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
+type: course
+layout: course_section
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 766280587df7eac43ea13bd07d2c6250
-    type: section
-    layout: section
     name: Exam 1
     weight: 130
     parent: 6682a3d163976bcbb2fbe67db27d8f04

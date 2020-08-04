@@ -704,6 +704,6 @@ transcript: >-
   m='517500'>of</span> <span m='517620'>confusing</span> <span
   m='518200'>situations.</span> </p>
 uid: b9dc8f4cfbb0cdaaa44c0e3335df091d
-type: courses
+type: course
 layout: video
 ---

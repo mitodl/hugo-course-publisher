@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses43a.pdf
 description: This resource contains information about definite integrals.
-type: courses
+type: course
 layout: pdf
 uid: afc9cd2d3f0b87d0a313b3188013a102
 file_type: application/pdf

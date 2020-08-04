@@ -1,11 +1,11 @@
 ---
 title: Experiencing the Large Lecture as Theater
 course_id: 6-034-artificial-intelligence-fall-2010
+type: course
+layout: course_section
 menu:
   6-034-artificial-intelligence-fall-2010:
     identifier: 622ec6365134c39b7cca04a28496740f
-    type: section
-    layout: section
     name: Experiencing the Large Lecture as Theater
     weight: 50
     parent: f55530ea3c456eb048484f3ee8291c38

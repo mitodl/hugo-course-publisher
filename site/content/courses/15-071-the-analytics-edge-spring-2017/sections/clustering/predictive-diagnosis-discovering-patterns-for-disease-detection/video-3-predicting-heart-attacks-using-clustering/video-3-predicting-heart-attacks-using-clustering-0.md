@@ -339,6 +339,6 @@ transcript: >-
   <span m='318572'>58%</span> <span m='319345'>to</span> <span
   m='320117'>78%.</span> </p>
 uid: 58197ebb100f5b918181cb8202497dfb
-type: courses
+type: course
 layout: video
 ---

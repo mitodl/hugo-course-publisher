@@ -1,7 +1,7 @@
 ---
 title: spl8b.pdf
 description: This file contains notes for planform and dihedral considerations.
-type: courses
+type: course
 layout: pdf
 uid: 919cfa4ebb7cbaf46679f0b13be6d222
 file_type: application/pdf

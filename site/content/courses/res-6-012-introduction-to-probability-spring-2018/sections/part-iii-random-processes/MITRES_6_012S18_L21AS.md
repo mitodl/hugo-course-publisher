@@ -3,7 +3,7 @@ title: 'Introduction to Probability: Lecture 21: The Bernoulli Process'
 description: >-
   This resource contains information regarding introduction to probability:
   Random processes: The Bernoulli process.
-type: courses
+type: course
 layout: pdf
 uid: 64ea75362ae2fa78c0766c4f17120006
 file_type: application/pdf

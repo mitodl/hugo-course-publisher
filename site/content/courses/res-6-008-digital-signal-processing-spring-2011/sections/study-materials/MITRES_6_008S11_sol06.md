@@ -3,7 +3,7 @@ title: MITRES_6_008S11_sol06.pdf
 description: >-
   This resource contains solutions for the problem statements related to the
   inverse z-transform.
-type: courses
+type: course
 layout: pdf
 uid: 17b14f2676abd06f7d76928692681ce2
 file_type: application/pdf

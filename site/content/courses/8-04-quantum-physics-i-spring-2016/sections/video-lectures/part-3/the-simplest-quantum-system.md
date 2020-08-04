@@ -704,6 +704,6 @@ transcript: >-
   m='832510'>conjugates</span> <span m='833080'>the</span> <span
   m='833200'>first</span> <span m='833590'>object.</span> </p>
 uid: 7e81ef6f1ab4d1ba2e9a351cecc0c316
-type: courses
+type: course
 layout: video
 ---

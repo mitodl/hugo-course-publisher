@@ -4,7 +4,7 @@ description: >-
   This resource contains a demo measuring the temperature of a CMOS inverter
   using a thermocouple and verifies that the dissipated power is proportional to
   Vs2 F, where Vs is the supply voltage, and F is the switching frequency.
-type: courses
+type: course
 layout: pdf
 uid: e264f9172ec6471b0d7de55866653812
 file_type: application/pdf

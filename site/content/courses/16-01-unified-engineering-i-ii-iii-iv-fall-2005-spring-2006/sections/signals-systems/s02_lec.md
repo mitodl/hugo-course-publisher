@@ -3,7 +3,7 @@ title: s02_lec.pdf
 description: >-
   This file discusses about the voltage source, the current source, solving
   networks and Kirchhoff's laws.
-type: courses
+type: course
 layout: pdf
 uid: de37ee90eb6dd11a83f843bc264359e4
 file_type: application/pdf

@@ -1,11 +1,11 @@
 ---
 title: DCTCP Assignment
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 72f0d675cb14ba194c5d7a81051af829
-    type: section
-    layout: section
     name: DCTCP Assignment
     weight: 340
     parent: 0abfab7fcd019a6a159d1afa3fd61f99

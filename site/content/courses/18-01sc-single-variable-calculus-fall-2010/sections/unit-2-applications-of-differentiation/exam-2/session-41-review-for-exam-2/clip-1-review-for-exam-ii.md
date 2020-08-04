@@ -2430,6 +2430,6 @@ transcript: >-
   m='2722460'>when</span> <span m='2722560'>we</span> <span
   m='2722660'>did</span> <span m='2722960'>approximations.</span> </p>
 uid: ff1c760623c82c73441e68dc6e4a8945
-type: courses
+type: course
 layout: video
 ---

@@ -1046,6 +1046,6 @@ transcript: >-
   <span m='756000'>of</span> <span m='756080'>x,</span> <span
   m='757130'>as</span> <span m='757390'>claimed.</span> </p>
 uid: 34667c05427bca08132711d72ea223e8
-type: courses
+type: course
 layout: video
 ---

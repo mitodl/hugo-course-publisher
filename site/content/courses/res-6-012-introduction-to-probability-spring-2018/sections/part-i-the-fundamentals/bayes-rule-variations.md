@@ -121,6 +121,6 @@ transcript: >-
   into more</span> <span m='202270'>detail on the subject of inference</span>
   <span m='204300'>later in this course.</span> </p><p></p>
 uid: b7647dbcb8585dbd2b51ae26f3934043
-type: courses
+type: course
 layout: video
 ---

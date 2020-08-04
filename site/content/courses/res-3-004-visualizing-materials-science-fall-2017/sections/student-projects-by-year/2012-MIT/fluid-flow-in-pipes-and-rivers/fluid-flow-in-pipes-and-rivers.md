@@ -457,6 +457,6 @@ transcript: >-
   m='355440'>for</span> <span m='355560'>watching.</span> </p><p><span
   m='355860'>[MUSIC PLAYING]</span> </p><p></p>
 uid: 717c974e9e940f9ee162174c86e62f87
-type: courses
+type: course
 layout: video
 ---

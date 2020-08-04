@@ -1,7 +1,7 @@
 ---
 title: q3m_sol.pdf
 description: Materials and Structures quiz with solutions.
-type: courses
+type: course
 layout: pdf
 uid: c78ef7a7e1d4326279831182deecd1b8
 file_type: application/pdf

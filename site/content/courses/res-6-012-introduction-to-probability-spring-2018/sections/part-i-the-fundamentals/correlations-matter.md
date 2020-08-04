@@ -160,6 +160,6 @@ transcript: >-
   m='375980'>unthinkable, that is large losses, actually did occur.</span>
   </p><p></p>
 uid: c299d0486eda22cf19eeaaa17333a826
-type: courses
+type: course
 layout: video
 ---

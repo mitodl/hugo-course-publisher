@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding gradient fields and potential
   functions.
-type: courses
+type: course
 layout: pdf
 uid: 60326597ed2ec64640dccfc7a8bd2480
 file_type: application/pdf

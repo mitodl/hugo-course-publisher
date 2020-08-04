@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information related to polarizers vs. hyper-intelligent
   monkeys.
-type: courses
+type: course
 layout: pdf
 uid: a9e36f82f528cb39452ef1ab5abb233c
 file_type: application/pdf

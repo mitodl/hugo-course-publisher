@@ -1,7 +1,7 @@
 ---
 title: '12.001 Introduction to Geology, Lab 7: Rivers'
 description: 'This file contains information regarding lab 7: rivers.'
-type: courses
+type: course
 layout: pdf
 uid: 0e22c29fbaa64b0dcfb8ff17f5166e63
 file_type: application/pdf

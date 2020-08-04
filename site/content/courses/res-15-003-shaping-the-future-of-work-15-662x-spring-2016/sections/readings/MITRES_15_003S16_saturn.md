@@ -1,7 +1,7 @@
 ---
 title: The Rise and Fall of Saturn
 description: This resource contains the information regarding the rise and fall of saturn.
-type: courses
+type: course
 layout: pdf
 uid: ce897bdb46edea3dd5548b7150839760
 file_type: application/pdf

@@ -348,6 +348,6 @@ transcript: >-
   m='293351'>visualizations</span> <span m='293984'>using</span> <span
   m='294617'>ggplot.</span> </p>
 uid: 5742f8e9bff1e1b40a773f3ee4f8d57a
-type: courses
+type: course
 layout: video
 ---

@@ -931,6 +931,6 @@ transcript: >-
   m='952660'>engineering.</span> <span m='953930'>Good.</span> <span
   m='955220'>Thank</span> <span m='955570'>you.</span> </p>
 uid: bee19b4ff95b0042639fd74606655061
-type: courses
+type: course
 layout: video
 ---

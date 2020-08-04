@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_23_comb.pdf
 description: >-
   This resource contains problem statements and solutions related to functions
   of two variables: graphs.
-type: courses
+type: course
 layout: pdf
 uid: 9d3a3e718f5c4d077fa51cf307c92bef
 file_type: application/pdf

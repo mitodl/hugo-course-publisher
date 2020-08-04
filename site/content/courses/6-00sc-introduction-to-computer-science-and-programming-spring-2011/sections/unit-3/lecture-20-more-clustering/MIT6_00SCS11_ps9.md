@@ -1,7 +1,7 @@
 ---
 title: MIT6_00SCS11_ps9.pdf
 description: 'This resource contains instruction for problem set9: schedule optimization.'
-type: courses
+type: course
 layout: pdf
 uid: 74fa9ea1abae236f3f0615f8ec039e39
 file_type: application/pdf

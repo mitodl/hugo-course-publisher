@@ -5,7 +5,7 @@ title: >-
 description: >-
   This is a resource file that contains information regarding NHST; comparing
   frequentist and bayesian methods.
-type: courses
+type: course
 layout: pdf
 uid: 2f99c9ba3eabf304f555d8dc481838ad
 file_type: application/pdf

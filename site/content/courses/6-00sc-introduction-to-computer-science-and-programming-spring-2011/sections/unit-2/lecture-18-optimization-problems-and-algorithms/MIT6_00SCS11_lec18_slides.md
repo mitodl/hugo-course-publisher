@@ -3,7 +3,7 @@ title: 'Lecture 18 slides: Optimization Problems and Algorithms'
 description: >-
   This resource contains information related to optimization problems and
   algorithms.
-type: courses
+type: course
 layout: pdf
 uid: a905cad9eaf3fb1935ad4b4bf807cbac
 file_type: application/pdf

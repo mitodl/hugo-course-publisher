@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 13-15 Notes: Plate Tectonics'
 description: This is a resource file that contains information regarding plate tectonics.
-type: courses
+type: course
 layout: pdf
 uid: 7883fdc65f0f4ffe3ef319beedc4bdc8
 file_type: application/pdf

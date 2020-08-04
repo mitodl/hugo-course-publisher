@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_graph14.pdf
 description: This resource contains graphs related to monopoly I.
-type: courses
+type: course
 layout: pdf
 uid: 550ee0bda81834f6d656e192a2a68c5b
 file_type: application/pdf

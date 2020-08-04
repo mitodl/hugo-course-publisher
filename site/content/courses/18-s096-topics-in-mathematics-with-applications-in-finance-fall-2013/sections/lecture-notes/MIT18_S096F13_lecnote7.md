@@ -1,7 +1,7 @@
 ---
 title: Value At Risk (VAR) Models
 description: This file contains information regarding lecture 7 notes.
-type: courses
+type: course
 layout: pdf
 uid: 8c9f9d321f7c8bb34b289f178f7cfc32
 file_type: application/pdf

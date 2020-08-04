@@ -3048,6 +3048,6 @@ transcript: >-
   <span m="2476530">wrong</span> <span m="2476710">code.</span> <span
   m="2477880">All</span> <span m="2477940">right.</span></p>
 uid: 0cef52e782d21dee44747687efafef6f
-type: courses
+type: course
 layout: video
 ---

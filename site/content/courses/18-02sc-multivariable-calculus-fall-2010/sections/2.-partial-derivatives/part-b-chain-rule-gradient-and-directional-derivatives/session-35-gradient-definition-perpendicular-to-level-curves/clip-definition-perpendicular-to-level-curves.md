@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Definition, Perpendicular to Level Curves'
 transcript: ''
 uid: a6cac70945037ad33a82765192dfca4a
-type: courses
+type: course
 layout: video
 ---

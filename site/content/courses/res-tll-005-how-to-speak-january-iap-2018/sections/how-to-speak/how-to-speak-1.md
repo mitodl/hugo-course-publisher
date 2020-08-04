@@ -4202,6 +4202,6 @@ transcript: >-
   m="3783590">friends.</span></p><p><span
   m="3785990">[APPLAUSE]</span></p><p>&nbsp;</p>
 uid: 49d18e1a087195bf24a1d04da1165e1f
-type: courses
+type: course
 layout: video
 ---

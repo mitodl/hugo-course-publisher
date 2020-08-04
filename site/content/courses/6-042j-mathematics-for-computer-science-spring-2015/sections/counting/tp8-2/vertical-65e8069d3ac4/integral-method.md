@@ -790,6 +790,6 @@ transcript: >-
   m='571530'>rate</span> <span m='571750'>of</span> <span
   m='571820'>sums.</span> </p>
 uid: e6368d6c376441d81a08321f9587ea40
-type: courses
+type: course
 layout: video
 ---

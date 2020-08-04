@@ -1,7 +1,7 @@
 ---
 title: 'Session 50: Double Integrals in Polar Coordinates'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-type: courses
+type: course
 layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-49-exchanging-the-order-of-integration/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-51-applications-mass-and-average-value/_index.md" %}}) »

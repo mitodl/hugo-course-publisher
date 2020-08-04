@@ -730,6 +730,6 @@ transcript: >-
   <span m='2926000'>about partial differential equations that were the form
   of</span> <span m='2929000'>Maxwell's equations.</span> </p>
 uid: 57209815d2453d822c4131e9e8a3de60
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Class 4 Slides: Discrete random variables, expectation'
 description: This is a resource file that contains information regarding class 4.
-type: courses
+type: course
 layout: pdf
 uid: 6448395269457c2ca743676f4a9a0783
 file_type: application/pdf

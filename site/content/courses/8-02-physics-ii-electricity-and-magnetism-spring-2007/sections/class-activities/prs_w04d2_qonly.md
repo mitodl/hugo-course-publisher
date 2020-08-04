@@ -1,7 +1,7 @@
 ---
 title: prs_w04d2_qonly.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 6937238f454844933103369468a0e6e1
 file_type: application/pdf

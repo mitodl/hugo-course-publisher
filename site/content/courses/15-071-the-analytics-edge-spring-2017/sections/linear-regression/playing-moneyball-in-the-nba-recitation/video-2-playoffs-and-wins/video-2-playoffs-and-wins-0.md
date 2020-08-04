@@ -425,6 +425,6 @@ transcript: >-
   <span m='413335'>at</span> <span m='413739'>least</span> <span
   m='414142'>42</span> <span m='414546'>games.</span> </p>
 uid: 1f7cd2f6895386f043d2113f690931b0
-type: courses
+type: course
 layout: video
 ---

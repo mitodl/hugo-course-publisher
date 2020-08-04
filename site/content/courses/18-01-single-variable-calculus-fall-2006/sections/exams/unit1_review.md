@@ -4,7 +4,7 @@ description: >-
   Review materials for the first exam of the course. Topics include: general
   differentiation formulas, implicit differentiation, and specific
   differentiation formulas.
-type: courses
+type: course
 layout: pdf
 uid: 18a28c4c5da3c4fd876e376f1917d7ba
 file_type: application/pdf

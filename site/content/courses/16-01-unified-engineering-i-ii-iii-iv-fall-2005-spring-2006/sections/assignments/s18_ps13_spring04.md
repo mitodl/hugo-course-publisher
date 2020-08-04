@@ -1,7 +1,7 @@
 ---
 title: s18_ps13_spring04.pdf
 description: Problem set regarding Signals and System.
-type: courses
+type: course
 layout: pdf
 uid: b15c56cdef8602823634ab83620d1e2e
 file_type: application/pdf

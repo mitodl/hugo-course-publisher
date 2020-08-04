@@ -3,7 +3,7 @@ title: 'Lecture 13 handout: Some Basic Probability and Plotting Data'
 description: >-
   This resource contains information related to some basic probability and
   plotting data.
-type: courses
+type: course
 layout: pdf
 uid: 869905938f72c7527d7c80390a1fe6b0
 file_type: application/pdf

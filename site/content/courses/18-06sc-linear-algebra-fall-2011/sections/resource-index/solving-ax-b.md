@@ -463,6 +463,6 @@ transcript: >-
   <span m='541210'>to</span> <span m='541280'>say</span> <span
   m='541580'>today.</span> </p>
 uid: 1ad97ac8333f714a3920ef04ed7eb0c8
-type: courses
+type: course
 layout: video
 ---

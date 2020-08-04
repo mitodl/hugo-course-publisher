@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 30: Kinetics: Rate Laws'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: videogallery
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: bd55059e8b182febfb2bc8aef5adde05
-    type: section
-    layout: section
     name: Lecture 30
     weight: 370
     parent: 124cd4e89ed86cbe95d852c3908bfac3
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31/_index.md" %}}) »
 

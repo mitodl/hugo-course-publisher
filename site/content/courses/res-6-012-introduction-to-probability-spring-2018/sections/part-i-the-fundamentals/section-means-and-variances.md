@@ -210,6 +210,6 @@ transcript: >-
   the student scores as measured by</span> <span m='539460'>the variance of the
   entire class.</span> </p><p></p>
 uid: 295d05f1294127ff4e0730f883bebc7d
-type: courses
+type: course
 layout: video
 ---

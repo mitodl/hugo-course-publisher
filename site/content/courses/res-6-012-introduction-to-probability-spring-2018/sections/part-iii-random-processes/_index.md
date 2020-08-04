@@ -1,15 +1,13 @@
 ---
 title: 'Part III: Random Processes'
 course_id: res-6-012-introduction-to-probability-spring-2018
+type: course
+layout: videogallery
 menu:
   res-6-012-introduction-to-probability-spring-2018:
     identifier: ea0e960c7d6bb5ec3c28c2657fe85c0d
-    type: section
-    layout: section
     name: 'Part III: Random Processes'
     weight: 30
-type: courses
-layout: videogallery
 ---
 The videos in Part III provide an introduction to both classical statistical methods and to random processes (Poisson processes and Markov chains).
 

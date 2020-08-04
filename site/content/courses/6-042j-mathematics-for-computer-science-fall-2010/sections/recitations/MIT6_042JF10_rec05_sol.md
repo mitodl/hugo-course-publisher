@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_rec05_sol.pdf
 description: 'This resource contains solutions of exponentiation, modular arithmetic, RSA. '
-type: courses
+type: course
 layout: pdf
 uid: a03580fed17b49e312157151e4a8602d
 file_type: application/pdf

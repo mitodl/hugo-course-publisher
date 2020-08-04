@@ -1,7 +1,7 @@
 ---
 title: f07mathgrad_fall.pdf
 description: This resource contains information on the topic of Grad review.
-type: courses
+type: course
 layout: pdf
 uid: 29fa0771085a3889f5a70145a1cc53f1
 file_type: application/pdf

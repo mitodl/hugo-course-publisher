@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_28_quest.pdf
 description: This resource contains problem statements related to least squares.
-type: courses
+type: course
 layout: pdf
 uid: fd127c938827eab01ab5d0aff1b20f72
 file_type: application/pdf

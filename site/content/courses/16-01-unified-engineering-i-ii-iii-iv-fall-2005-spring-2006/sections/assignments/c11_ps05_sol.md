@@ -3,7 +3,7 @@ title: c11_ps05_sol.pdf
 description: >-
   This handout contains the solutions for the problem set based on the Euler?s
   2nd order integration.
-type: courses
+type: course
 layout: pdf
 uid: e1c9904590349231cef64f22cec7a8d0
 file_type: application/pdf

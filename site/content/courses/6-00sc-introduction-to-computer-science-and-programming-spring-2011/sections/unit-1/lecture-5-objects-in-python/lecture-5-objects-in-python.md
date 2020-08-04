@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 5: Objects in Python'
 transcript: ''
 uid: 0cc081c0168aeb409f09fbd7978a2981
-type: courses
+type: course
 layout: video
 ---

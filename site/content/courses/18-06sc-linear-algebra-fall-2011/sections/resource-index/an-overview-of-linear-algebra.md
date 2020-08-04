@@ -2804,6 +2804,6 @@ transcript: >-
   m="2969920">is</span> <span m="2970120">some</span> <span
   m="2970320">help.</span></p>
 uid: c33566cdcab68df531c4bba171843a74
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 4: Chain Rule, and Higher Derivatives'
 description: Lecture notes on chain rule and higher derivatives.
-type: courses
+type: course
 layout: pdf
 uid: b8051c7c7a28e2cd03667de9dd4865fb
 file_type: application/pdf

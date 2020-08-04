@@ -1,7 +1,7 @@
 ---
 title: sp9_report1.pdf
 description: This resource contains information on system problem report sheet.
-type: courses
+type: course
 layout: pdf
 uid: 9c95744407b456c71cec82f7d508d09f
 file_type: application/pdf

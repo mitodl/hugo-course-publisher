@@ -1,7 +1,7 @@
 ---
 title: 6.00SC Quiz 2 Topics
 description: This resource contains information about quiz 2 topics.
-type: courses
+type: course
 layout: pdf
 uid: 353486f7ee1094711451806bbef5939f
 file_type: application/pdf

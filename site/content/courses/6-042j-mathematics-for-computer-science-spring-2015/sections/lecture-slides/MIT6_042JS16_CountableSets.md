@@ -3,7 +3,7 @@ title: 'Infinite Sets: Countable Sets'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: a6b2c2c8c46843d0d3764db76339ce66
 file_type: application/pdf

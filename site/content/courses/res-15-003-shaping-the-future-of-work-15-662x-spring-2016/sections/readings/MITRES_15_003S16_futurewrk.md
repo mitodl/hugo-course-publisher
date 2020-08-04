@@ -3,7 +3,7 @@ title: Preparing for and Shaping the Future of Work and Organizations
 description: >-
   This resource contains the information regarding preparing for and shaping the
   future of work and organizations.
-type: courses
+type: course
 layout: pdf
 uid: dde67a6f1ad64f495a9cb519a68c35f3
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: S7_mud.pdf
 description: Review questions and answers on Thevenin?equivalent?circuit.
-type: courses
+type: course
 layout: pdf
 uid: e3f4fbc4a79ef7f77283a26f72fbf53f
 file_type: application/pdf

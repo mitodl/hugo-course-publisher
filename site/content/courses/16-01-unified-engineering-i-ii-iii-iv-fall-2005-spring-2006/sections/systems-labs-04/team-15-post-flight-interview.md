@@ -36,6 +36,6 @@ technical_location: >-
 title: 'Team 15: Post-Flight Interview'
 transcript: ''
 uid: 0dc6abb8fd7550fdaa95fab8359e3d9f
-type: courses
+type: course
 layout: video
 ---

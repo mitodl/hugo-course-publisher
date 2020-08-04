@@ -1,11 +1,11 @@
 ---
 title: 'Unit 4: Welfare Economics'
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: course_section
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 74a70dbf28134c7f25cae0a217b6ec6f
-    type: section
-    layout: section
     name: 'Unit 4: Welfare Economics'
     weight: 220
 ---

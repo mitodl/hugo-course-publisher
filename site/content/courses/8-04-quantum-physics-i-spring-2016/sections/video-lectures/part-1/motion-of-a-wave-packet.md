@@ -478,6 +478,6 @@ transcript: >-
   m='537200'>we</span> <span m='537320'>need</span> <span m='537500'>to</span>
   <span m='537680'>understand.</span> </p>
 uid: 67b0d4a901267b99e884a6ff1ed3be0d
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses1.11sum.pdf
 description: >-
   This resource contains information related to matrix spaces; rank 1; small
   world graphs.
-type: courses
+type: course
 layout: pdf
 uid: 732789d4b5c1247ccab5faf13b6f29d2
 file_type: application/pdf

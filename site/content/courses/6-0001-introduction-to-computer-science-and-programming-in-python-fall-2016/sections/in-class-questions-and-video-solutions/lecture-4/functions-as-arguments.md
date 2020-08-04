@@ -234,6 +234,6 @@ transcript: >-
   <span m='207550'>was</span> <span m='207730'>right.</span> <span
   m='209990'>Yay.</span> </p>
 uid: 116b77d972856a45a5404ffe27132bd5
-type: courses
+type: course
 layout: video
 ---

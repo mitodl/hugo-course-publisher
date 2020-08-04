@@ -3,7 +3,7 @@ title: objectives.pdf
 description: >-
   This file contains learning objectives and measurable outcomes (assessment
   method) for this course.
-type: courses
+type: course
 layout: pdf
 uid: 731cc2de043a89b6798f94a2b5a952c3
 file_type: application/pdf

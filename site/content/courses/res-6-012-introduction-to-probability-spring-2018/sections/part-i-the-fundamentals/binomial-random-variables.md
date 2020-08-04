@@ -163,6 +163,6 @@ transcript: >-
   20.</span></p><p><span m="362440">But anything above 20 is extremely
   unlikely.</span></p><p>&nbsp;</p>
 uid: 92c51d4a56a2395944a137c853248ebb
-type: courses
+type: course
 layout: video
 ---

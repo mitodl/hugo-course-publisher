@@ -3,7 +3,7 @@ title: fall_2003_pset15.pdf
 description: >-
   This resource contains problems on velocity using sheet-jump relations and
   first principles.
-type: courses
+type: course
 layout: pdf
 uid: 8f79369a095315ceff424fff6a04bfc8
 file_type: application/pdf

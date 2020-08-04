@@ -747,6 +747,6 @@ transcript: >-
   through these in the context of and amplifier and</span> <span
   m='3022000'>look at some design issues in the next lecture.</span> </p>
 uid: 3cd676bf13e83155e604a18997f6c102
-type: courses
+type: course
 layout: video
 ---

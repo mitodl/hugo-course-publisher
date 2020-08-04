@@ -1,6 +1,8 @@
 ---
 title: 1.2 Proof Methods
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<A Bogus Proof by Cases]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-2/vertical-70c0b579a359" %}})
 *   [1.2.1Proof By Contradiction: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-2/_index.md" %}})

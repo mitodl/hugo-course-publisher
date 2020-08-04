@@ -251,6 +251,6 @@ transcript: >-
   calculation</span> <span m="681440">to see what it takes to figure out</span>
   <span m="684030">the different terms in this formula.</span></p><p>&nbsp;</p>
 uid: 6994e497cd0277b6c2c20387256eab01
-type: courses
+type: course
 layout: video
 ---

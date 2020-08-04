@@ -1,7 +1,7 @@
 ---
 title: p03_ps10_spring04.pdf
 description: This resource contains problems based on velocity and pressure.
-type: courses
+type: course
 layout: pdf
 uid: 741f13c0c1508dd95f904f13c7453656
 file_type: application/pdf

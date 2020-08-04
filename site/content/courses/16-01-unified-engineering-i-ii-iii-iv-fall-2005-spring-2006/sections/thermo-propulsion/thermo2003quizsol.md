@@ -1,7 +1,7 @@
 ---
 title: thermo2003quizsol.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: b93dde0a1eb59e39cd1463c7df97023a
 file_type: application/pdf

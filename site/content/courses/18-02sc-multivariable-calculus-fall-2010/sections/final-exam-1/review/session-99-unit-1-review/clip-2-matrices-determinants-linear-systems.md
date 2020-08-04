@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip 2: Matrices, Determinants, Linear Systems'
 transcript: ''
 uid: 2465d1ac83eaafc99afa9f31bf08ab3b
-type: courses
+type: course
 layout: video
 ---

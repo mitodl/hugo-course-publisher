@@ -1,6 +1,8 @@
 ---
 title: 1.4 Logic & Propositions
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Truth Tables: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/truth-tables-video" %}})
 *   [1.4.1Propositional Operators: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/_index.md" %}})

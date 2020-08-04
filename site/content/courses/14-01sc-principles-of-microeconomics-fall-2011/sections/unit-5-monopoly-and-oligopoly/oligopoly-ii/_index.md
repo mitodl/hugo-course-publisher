@@ -1,16 +1,14 @@
 ---
 title: Oligopoly II
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 2954fa8488a1a8cb0a6abcfda77e25b9
-    type: section
-    layout: section
     name: Oligopoly II
     weight: 320
     parent: 51ebf00753b9a85af746a5c03a54785d
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/problem-set-7/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/midterm-exam-2/_index.md" %}}) »
 

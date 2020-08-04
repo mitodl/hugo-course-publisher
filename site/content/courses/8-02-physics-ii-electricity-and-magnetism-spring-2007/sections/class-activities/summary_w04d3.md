@@ -1,7 +1,7 @@
 ---
 title: summary_w04d3.pdf
 description: This resource is about capacitors.
-type: courses
+type: course
 layout: pdf
 uid: 2c38e8809f87d98a907a0b6b4781e809
 file_type: application/pdf

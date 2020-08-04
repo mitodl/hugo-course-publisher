@@ -428,6 +428,6 @@ transcript: >-
   m='301690'>think</span> <span m='301900'>I'll</span> <span
   m='301970'>stop</span> <span m='302210'>there.</span> </p>
 uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
-type: courses
+type: course
 layout: video
 ---

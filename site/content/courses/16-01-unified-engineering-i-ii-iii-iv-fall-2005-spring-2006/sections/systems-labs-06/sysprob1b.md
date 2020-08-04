@@ -3,7 +3,7 @@ title: sysprob1b.pdf
 description: >-
   This file contains the exercise for Centerline pressures, Maximum, minimum
   pressures etc.
-type: courses
+type: course
 layout: pdf
 uid: dc7964563e7b0a63759d70857d51e597
 file_type: application/pdf

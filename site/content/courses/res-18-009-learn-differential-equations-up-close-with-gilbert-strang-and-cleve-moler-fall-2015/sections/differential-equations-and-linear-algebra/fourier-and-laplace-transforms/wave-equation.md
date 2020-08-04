@@ -814,6 +814,6 @@ transcript: >-
   m='905390'>like</span> <span m='905690'>this.</span> <span
   m='907120'>Thank</span> <span m='907370'>you.</span> </p>
 uid: a9ffc5f7832626f6b734379e7b908087
-type: courses
+type: course
 layout: video
 ---

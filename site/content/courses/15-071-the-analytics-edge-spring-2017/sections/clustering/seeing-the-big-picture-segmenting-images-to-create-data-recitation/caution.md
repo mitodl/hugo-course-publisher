@@ -1,6 +1,8 @@
 ---
 title: '6.4 Seeing the Big Picture: Segmenting Images to Create Data  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: course_section
 ---
 *   [<Video 3: Hierarchical Clustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-3-hierarchical-clustering" %}})
 *   [6.4.1Welcome to Recitation 6]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/_index.md" %}})

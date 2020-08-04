@@ -1,7 +1,7 @@
 ---
 title: 4bitsbytesifthen.pdf
 description: Lecture 4 (2003) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 301e1b14953103cb0d254242c59da47c
 file_type: application/pdf

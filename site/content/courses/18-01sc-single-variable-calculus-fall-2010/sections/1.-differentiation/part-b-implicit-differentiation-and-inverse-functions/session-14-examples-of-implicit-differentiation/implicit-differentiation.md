@@ -569,6 +569,6 @@ transcript: >-
   m='490610'>1.</span> <span m='492150'>Great.</span> <span m='493220'>So</span>
   <span m='493360'>that's</span> <span m='493540'>that.</span> </p>
 uid: 6c084b12593294b8fde120dc2bfd26a1
-type: courses
+type: course
 layout: video
 ---

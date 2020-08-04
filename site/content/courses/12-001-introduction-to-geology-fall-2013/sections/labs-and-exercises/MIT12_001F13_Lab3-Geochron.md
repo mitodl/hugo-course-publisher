@@ -1,7 +1,7 @@
 ---
 title: '12.001 Introduction to Geology, Geochronology'
 description: 'This file contains information regarding lab 3: geochronology.'
-type: courses
+type: course
 layout: pdf
 uid: bc30d4d5d7fbfb851f1aea0d7dcf53de
 file_type: application/pdf

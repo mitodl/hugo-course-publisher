@@ -224,6 +224,6 @@ transcript: >-
   all of the time</span> <span m="649290">without making any special comment
   about them.</span></p><p>&nbsp;</p>
 uid: 4bef82798cc9d41c044f33538dcd1eef
-type: courses
+type: course
 layout: video
 ---

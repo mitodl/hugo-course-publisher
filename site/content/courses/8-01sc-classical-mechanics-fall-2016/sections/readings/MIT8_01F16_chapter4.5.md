@@ -1,7 +1,7 @@
 ---
 title: 8.01 Classical Mechanics Chapter 4.5
 description: This resource contains information regarding classical mechanics.
-type: courses
+type: course
 layout: pdf
 uid: 2ca43633605f37a51de1af06aad672e4
 file_type: application/pdf

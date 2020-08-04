@@ -184,6 +184,6 @@ transcript: >-
   recursive ways of updating the posterior of Theta</span> <span m='451170'>as
   we get more and more observations.</span> </p>
 uid: 5aa563820bc21b034be0cb4c3f371190
-type: courses
+type: course
 layout: video
 ---

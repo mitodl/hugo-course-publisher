@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 25 handout: Queuing Network Models'
 description: This resource contains information related to queuing network models.
-type: courses
+type: course
 layout: pdf
 uid: 1eff8cb6d1dbe780d0711e6bb6e95f70
 file_type: application/pdf

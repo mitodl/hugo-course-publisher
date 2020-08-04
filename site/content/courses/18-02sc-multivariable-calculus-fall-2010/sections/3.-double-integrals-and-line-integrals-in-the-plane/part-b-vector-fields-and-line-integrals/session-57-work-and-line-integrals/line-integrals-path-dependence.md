@@ -1031,6 +1031,6 @@ transcript: >-
   m='928815'>right.</span> <span m='929400'>I'll</span> <span
   m='929570'>end</span> <span m='929770'>there.</span> </p>
 uid: f6d451e903f45c2d8db0ab9bcefc2818
-type: courses
+type: course
 layout: video
 ---

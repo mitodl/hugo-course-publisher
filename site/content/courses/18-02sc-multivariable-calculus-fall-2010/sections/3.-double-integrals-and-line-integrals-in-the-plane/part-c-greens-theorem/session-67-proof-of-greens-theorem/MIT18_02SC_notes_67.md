@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Notes: Green''s Theorem: Sketch of Proof'
 description: This resource contains information regarding sketch of proof.
-type: courses
+type: course
 layout: pdf
 uid: fc757ef1e527abe8ac1154d78b084637
 file_type: application/pdf

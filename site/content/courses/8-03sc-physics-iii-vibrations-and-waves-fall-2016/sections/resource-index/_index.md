@@ -1,15 +1,13 @@
 ---
 title: Resource Index
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
+type: course
+layout: videogallery
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 6e929eb17b686d3570ea402ec87c9a4b
-    type: section
-    layout: section
     name: Resource Index
     weight: 340
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/problem-solving-help-videos" %}})
 

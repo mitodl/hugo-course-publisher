@@ -1,7 +1,7 @@
 ---
 title: lec9ses2ex1-linearprod.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: f9559e0393ec511dd94023a5ea8b3aad
 file_type: application/pdf

@@ -199,6 +199,6 @@ transcript: >-
   m='149780'>during</span> <span m='150050'>my</span> <span
   m='150230'>lecture.</span> </p>
 uid: 4088abc0fa5b8c7963794f3c5004f972
-type: courses
+type: course
 layout: video
 ---

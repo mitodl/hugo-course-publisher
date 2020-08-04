@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Proof of the First Fundamental Theorem of Calculus'
 transcript: ''
 uid: 58f5b4f2afb220f1ec7a5eb30727a2b1
-type: courses
+type: course
 layout: video
 ---

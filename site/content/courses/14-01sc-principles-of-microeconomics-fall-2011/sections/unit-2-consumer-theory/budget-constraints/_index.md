@@ -1,16 +1,14 @@
 ---
 title: Budget Constraints
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 0c0a7957a70dea1c20bc11996dd1090c
-    type: section
-    layout: section
     name: Budget Constraints
     weight: 100
     parent: 6d0eabb4bf84c44f6ed5096dcf2cf3a4
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/preferences-and-utility/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/problem-set-2/_index.md" %}}) »
 

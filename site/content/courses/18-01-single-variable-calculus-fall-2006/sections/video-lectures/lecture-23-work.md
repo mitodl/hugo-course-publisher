@@ -2647,6 +2647,6 @@ transcript: >-
   m='2912810'>find</span> <span m='2913100'>out</span> <span
   m='2913660'>next</span> <span m='2913990'>time.</span> </p>
 uid: 7aeca319306fe55cf8f429cbcff600ac
-type: courses
+type: course
 layout: video
 ---

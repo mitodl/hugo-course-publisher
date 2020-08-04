@@ -1,11 +1,11 @@
 ---
 title: 'Unit 3: Counting'
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 39106ddf6e8110d0b3ef0b61eb07512d
-    type: section
-    layout: section
     name: 'Unit 3: Counting'
     weight: 1820
 ---

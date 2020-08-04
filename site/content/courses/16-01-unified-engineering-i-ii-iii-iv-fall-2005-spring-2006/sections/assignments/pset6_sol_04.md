@@ -3,7 +3,7 @@ title: pset6_sol_04.pdf
 description: >-
   This file includes solutions to problems on Mach number, surface pressures,
   and material selection criterion.
-type: courses
+type: course
 layout: pdf
 uid: 32d2db11bbed659a275729062437bbdc
 file_type: application/pdf

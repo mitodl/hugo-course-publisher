@@ -1,11 +1,11 @@
 ---
 title: Readings
 course_id: 15-401-finance-theory-i-fall-2008
+type: course
+layout: course_section
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: 364fddf02a0bc7c2f81cd1d8bb22e160
-    type: section
-    layout: section
     name: Readings
     weight: 30
 ---

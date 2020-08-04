@@ -365,6 +365,6 @@ transcript: >-
   m='344018'>method</span> <span m='344535'>would</span> <span
   m='345052'>perform.</span> </p>
 uid: 02abace966ce4574f235413cc9324cb9
-type: courses
+type: course
 layout: video
 ---

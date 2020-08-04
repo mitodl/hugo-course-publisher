@@ -165,6 +165,6 @@ transcript: >-
   independence using either the</span> <span m="365700">mathematical or
   intuitive definition.</span></p><p>&nbsp;</p>
 uid: b1fd634628fa0e43033a920074e46f48
-type: courses
+type: course
 layout: video
 ---

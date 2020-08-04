@@ -146,6 +146,6 @@ transcript: >-
   less</span> <span m='317890'>demanding in terms of the model that we</span>
   <span m='321100'>need to have in our hands.</span> </p>
 uid: abe9ec232e75cf5af1fb3a94a5058b3e
-type: courses
+type: course
 layout: video
 ---

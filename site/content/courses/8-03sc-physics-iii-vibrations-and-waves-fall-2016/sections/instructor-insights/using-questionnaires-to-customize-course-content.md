@@ -202,6 +202,6 @@ transcript: >-
   <span m='155970'>of</span> <span m='156690'>the</span> <span
   m='156790'>class.</span> </p>
 uid: e24fe9f225ca69204a13c5d19bd65a9d
-type: courses
+type: course
 layout: video
 ---

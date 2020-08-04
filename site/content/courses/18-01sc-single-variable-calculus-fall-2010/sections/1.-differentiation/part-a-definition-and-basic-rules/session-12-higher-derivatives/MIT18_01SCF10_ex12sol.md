@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex12sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to higher
   derivatives.
-type: courses
+type: course
 layout: pdf
 uid: c8a0089e4888f8d7bdef0fdd920c3760
 file_type: application/pdf

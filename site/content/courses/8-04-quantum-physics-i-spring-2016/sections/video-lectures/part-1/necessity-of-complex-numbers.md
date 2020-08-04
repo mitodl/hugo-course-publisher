@@ -449,6 +449,6 @@ transcript: >-
   m='457150'>out</span> <span m='457300'>to</span> <span m='457420'>be</span>
   <span m='457570'>very</span> <span m='457870'>important.</span> </p>
 uid: a7f805f92c447e25a54913af2d9c2611
-type: courses
+type: course
 layout: video
 ---

@@ -179,6 +179,6 @@ transcript: >-
   m='136144'>way,</span> <span m='136588'>using</span> <span
   m='137032'>linear</span> <span m='137476'>optimization.</span> </p>
 uid: 16b9e20c802bebc4126b2ef0546def59
-type: courses
+type: course
 layout: video
 ---

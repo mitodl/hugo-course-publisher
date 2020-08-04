@@ -3,7 +3,7 @@ title: prs_w07d2_qonly.pdf
 description: >-
   This resource contains informations about field created by two loops of
   current, current carrying loop above a permanent magnet and Ampere?s Law.
-type: courses
+type: course
 layout: pdf
 uid: 9c3d4041f9f0fe15efe2adb4856cba52
 file_type: application/pdf

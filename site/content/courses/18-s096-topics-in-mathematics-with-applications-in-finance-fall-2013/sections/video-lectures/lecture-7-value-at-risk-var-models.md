@@ -5537,6 +5537,6 @@ transcript: >-
   m='4872290'>there.</span> <span m='4872890'>All right?</span> <span
   m='4873790'>Go home.</span> </p>
 uid: 66928378cbe814dd6699527a82b7a045
-type: courses
+type: course
 layout: video
 ---

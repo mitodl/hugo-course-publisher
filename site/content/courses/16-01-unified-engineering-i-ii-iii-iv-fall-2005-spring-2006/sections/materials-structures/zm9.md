@@ -1,7 +1,7 @@
 ---
 title: zm9.pdf
 description: This resource based on truss deflection.
-type: courses
+type: course
 layout: pdf
 uid: deda963fe45a0357bdc91aa3fd73d6e6
 file_type: application/pdf

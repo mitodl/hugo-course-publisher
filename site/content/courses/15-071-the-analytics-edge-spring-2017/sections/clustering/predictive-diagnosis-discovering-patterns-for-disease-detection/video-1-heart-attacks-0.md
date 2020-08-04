@@ -210,6 +210,6 @@ transcript: >-
   m='147514'>early</span> <span m='148102'>and</span> <span
   m='148691'>effectively.</span> </p>
 uid: 8584b4b2b658d77d6c103cfdec5b2e86
-type: courses
+type: course
 layout: video
 ---

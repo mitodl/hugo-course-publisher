@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses2.3prob.pdf
 description: >-
   This resource contains problem set related to projection matrices and least
   squares.
-type: courses
+type: course
 layout: pdf
 uid: 33fdb9f7b7787e26752169e249def994
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: 'Lecture 38: Final Review'
 description: >-
   Lecture notes containing review materials for the final exam. Topics include:
   differentiating and integrating series, and weighted averages.
-type: courses
+type: course
 layout: pdf
 uid: 7cf354a7d1697b69ad8b7d28879b1edb
 file_type: application/pdf

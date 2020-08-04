@@ -595,6 +595,6 @@ transcript: >-
   <span m='743350'>looks</span> <span m='744160'>pretty</span> <span
   m='744370'>much</span> <span m='744670'>OK.</span> </p>
 uid: 5eb09ee64d6f1e9af787330114969181
-type: courses
+type: course
 layout: video
 ---

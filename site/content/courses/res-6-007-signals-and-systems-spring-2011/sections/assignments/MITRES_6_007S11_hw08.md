@@ -3,7 +3,7 @@ title: MITRES_6_007S11_hw08.pdf
 description: >-
   This resource contains problem set related to continuous-time fourier
   transform.
-type: courses
+type: course
 layout: pdf
 uid: f6a14de1d6c3b5579ddc8216a9f59449
 file_type: application/pdf

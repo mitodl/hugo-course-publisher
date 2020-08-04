@@ -3,7 +3,7 @@ title: m06_ps02_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on
   designing a beam-like structure.
-type: courses
+type: course
 layout: pdf
 uid: 47710ecd8f1e6cdcf10fd54655819633
 file_type: application/pdf

@@ -321,6 +321,6 @@ transcript: >-
   m='316790'>lower</span> <span m='317290'>than</span> <span
   m='317790'>0.74.</span> </p>
 uid: 708d44411f55cd4c23a7889b54bd7cd8
-type: courses
+type: course
 layout: video
 ---

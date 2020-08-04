@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Curves are Hard, Lines are Easy'
 transcript: ''
 uid: ee9e8d5dba30f738e2da376233d75fc6
-type: courses
+type: course
 layout: video
 ---

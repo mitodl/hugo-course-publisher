@@ -1,7 +1,7 @@
 ---
 title: labpractices.pdf
 description: This handout discusses aspects of the experimental lab work.
-type: courses
+type: course
 layout: pdf
 uid: 8d05b0f4d4ce5dab988346463658efa7
 file_type: application/pdf

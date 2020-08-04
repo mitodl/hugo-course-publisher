@@ -346,6 +346,6 @@ transcript: >-
   m='214900'>So</span> <span m='215100'>enjoy</span> <span
   m='215430'>watching.</span> </p>
 uid: 0167732cde17c8d04e3234e21877a558
-type: courses
+type: course
 layout: video
 ---

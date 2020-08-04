@@ -3,7 +3,7 @@ title: s03_lec.pdf
 description: >-
   This file contains notes for Kirchhoff's voltage law, Kirchhoff's current law
   etc.
-type: courses
+type: course
 layout: pdf
 uid: c43e5cf3d45c38459673ba3a4f827469
 file_type: application/pdf

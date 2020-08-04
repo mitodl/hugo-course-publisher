@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses2.6prob.pdf
 description: >-
   This resource contains problem set related to determinant dormulas and
   cofactors.
-type: courses
+type: course
 layout: pdf
 uid: d4004842b468da7628c422e2e403ba2c
 file_type: application/pdf

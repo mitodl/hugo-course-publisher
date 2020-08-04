@@ -102,6 +102,6 @@ transcript: >-
   m='126290'>For this reason, we will be going over several examples.</span>
   </p><p></p>
 uid: 58fb04ff51ba259d644509e915a36716
-type: courses
+type: course
 layout: video
 ---

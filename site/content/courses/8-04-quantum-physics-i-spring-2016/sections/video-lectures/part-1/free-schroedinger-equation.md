@@ -576,6 +576,6 @@ transcript: >-
   m='594820'>right</span> <span m='595150'>job</span> <span
   m='595690'>for</span> <span m='595930'>us.</span> </p>
 uid: 60fe7d60cf50afdcf6b7960ecde83813
-type: courses
+type: course
 layout: video
 ---

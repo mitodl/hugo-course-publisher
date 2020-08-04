@@ -1,7 +1,7 @@
 ---
 title: Map of the Day
 description: This resource contains information regarding map of the day.
-type: courses
+type: course
 layout: pdf
 uid: e8c3b3d11f0a559a0bfd805982862f67
 file_type: application/pdf

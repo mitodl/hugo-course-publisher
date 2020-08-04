@@ -3,7 +3,7 @@ title: 'Introduction to Probability: Lecture 2: Conditioning and Bayes'' Rule'
 description: >-
   This resource contains information regarding introduction to probability: The
   fundamentals: Conditioning and Bayes' rule.
-type: courses
+type: course
 layout: pdf
 uid: 50482e8cd4e5e382b6691dd5fe8cba05
 file_type: application/pdf

@@ -9750,6 +9750,6 @@ transcript: >-
   m="7899920">a</span> <span m="7900220">Lynda</span> <span
   m="7900520">series</span> <span m="7900820">for example.</span></p>
 uid: 4e925bca1e5e6f25a67b4f7ebfabdea6
-type: courses
+type: course
 layout: video
 ---

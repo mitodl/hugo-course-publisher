@@ -784,6 +784,6 @@ transcript: >-
   m='971000'>a</span> <span m='971060'>finite</span> <span
   m='971800'>well.</span> </p>
 uid: aad1cf20713c32957be4df11f469169d
-type: courses
+type: course
 layout: video
 ---

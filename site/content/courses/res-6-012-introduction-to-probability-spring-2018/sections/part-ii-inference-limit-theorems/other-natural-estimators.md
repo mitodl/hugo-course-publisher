@@ -145,6 +145,6 @@ transcript: >-
   inference.</span> </p><p><span m='272860'>But we will not go any deeper in
   this course.</span> </p><p></p>
 uid: ea04a527a8c1765048c92fe48a921934
-type: courses
+type: course
 layout: video
 ---

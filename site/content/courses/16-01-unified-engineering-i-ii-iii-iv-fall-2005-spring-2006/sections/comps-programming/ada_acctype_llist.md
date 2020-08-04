@@ -1,7 +1,7 @@
 ---
 title: ada_acctype_llist.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: cd4b8cf2c68e97eba8f92da8ed664f8d
 file_type: application/pdf

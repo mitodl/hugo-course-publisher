@@ -3,7 +3,7 @@ title: m02_ps01_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on cable
   tension.
-type: courses
+type: course
 layout: pdf
 uid: 58acb35b19df154551b380712b6a5ad9
 file_type: application/pdf

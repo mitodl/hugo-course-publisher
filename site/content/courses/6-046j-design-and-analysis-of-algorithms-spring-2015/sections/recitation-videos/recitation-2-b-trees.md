@@ -1952,6 +1952,6 @@ transcript: >-
   m="1840190">other</span> <span m="1840490">topics,</span> <span
   m="1841600">lecture,</span> <span m="1841970">anything?</span></p>
 uid: 0aa6d2318687217d3b332190d8d710e6
-type: courses
+type: course
 layout: video
 ---

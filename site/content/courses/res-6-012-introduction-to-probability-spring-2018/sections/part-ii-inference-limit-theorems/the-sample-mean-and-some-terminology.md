@@ -143,6 +143,6 @@ transcript: >-
   situations and with other estimators, you</span> <span m='294340'>might
   actually obtain here a function of theta.</span> </p><p></p>
 uid: 3e2c784f1e08ceb8a18c4acb7261adff
-type: courses
+type: course
 layout: video
 ---

@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 14: Sampling and Monte Carlo Simulation'
 transcript: ''
 uid: 951931ca4e2f04a1e3bbe7eecc892f59
-type: courses
+type: course
 layout: video
 ---

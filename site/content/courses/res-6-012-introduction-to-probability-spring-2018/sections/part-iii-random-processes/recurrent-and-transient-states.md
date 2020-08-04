@@ -137,6 +137,6 @@ transcript: >-
   m='330270'>the long range probability of being eventually in state six</span>
   <span m='334159'>will not be the same.</span> </p>
 uid: 5f9bd9d000d22ebe15a601a364459cfc
-type: courses
+type: course
 layout: video
 ---

@@ -156,6 +156,6 @@ transcript: >-
   parameter that we're</span> <span m="337530">dealing with is
   positive.</span></p><p>&nbsp;</p>
 uid: bd0c73e2b29898ec3772a4a24a5b972c
-type: courses
+type: course
 layout: video
 ---

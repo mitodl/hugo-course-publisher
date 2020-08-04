@@ -1,11 +1,11 @@
 ---
 title: Assignments
 course_id: 18-06-linear-algebra-spring-2010
+type: course
+layout: course_section
 menu:
   18-06-linear-algebra-spring-2010:
     identifier: 87609dbba9d13a6b234d62de21a20433
-    type: section
-    layout: section
     name: Assignments
     weight: 60
 ---

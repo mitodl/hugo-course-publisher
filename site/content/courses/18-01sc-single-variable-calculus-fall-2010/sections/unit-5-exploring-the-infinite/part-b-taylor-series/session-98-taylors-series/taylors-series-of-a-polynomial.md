@@ -539,6 +539,6 @@ transcript: >-
   m='426070'>right,</span> <span m='426300'>that's</span> <span
   m='426470'>where</span> <span m='426570'>I'll stop.</span> </p>
 uid: 4148c44b846d05d1d938188ff3d052c4
-type: courses
+type: course
 layout: video
 ---

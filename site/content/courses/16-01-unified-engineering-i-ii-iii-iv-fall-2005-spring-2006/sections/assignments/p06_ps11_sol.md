@@ -1,7 +1,7 @@
 ---
 title: p06_ps11_sol.pdf
 description: This resource contains handwritten problem set solution.
-type: courses
+type: course
 layout: pdf
 uid: c363a1bde606d5b54a1b4b34c4796a19
 file_type: application/pdf

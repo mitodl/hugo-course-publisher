@@ -1583,6 +1583,6 @@ transcript: >-
   m="1340640">great</span> <span m="1340850">spring</span> <span
   m="1340990">break.</span></p>
 uid: 19fe435aba2f322a4d0a2193a3fd96bd
-type: courses
+type: course
 layout: video
 ---

@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Wave-particle duality of matter;
   Schrödinger equation.
-type: courses
+type: course
 layout: pdf
 uid: 5a6558088911c6dfb671ed9e0b136d54
 file_type: application/pdf

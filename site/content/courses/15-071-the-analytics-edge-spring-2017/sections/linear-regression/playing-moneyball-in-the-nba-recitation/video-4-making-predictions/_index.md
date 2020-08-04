@@ -1,7 +1,7 @@
 ---
 title: 2.4 Playing Moneyball in the NBA  (Recitation)
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Video 3: Points Scored]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-3-points-scored" %}})

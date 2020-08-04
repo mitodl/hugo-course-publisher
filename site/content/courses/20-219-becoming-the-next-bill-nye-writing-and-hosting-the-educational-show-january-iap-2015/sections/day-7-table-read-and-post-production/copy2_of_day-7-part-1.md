@@ -3037,6 +3037,6 @@ transcript: >-
   m="2567770">mastery,</span> <span m="2568670">which is</span> <span
   m="2568970">nice.</span></p>
 uid: c7eb88c0dc42ecb1c442cd83d1212afe
-type: courses
+type: course
 layout: video
 ---

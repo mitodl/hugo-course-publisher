@@ -1,11 +1,11 @@
 ---
 title: Readings
 course_id: 8-04-quantum-physics-i-spring-2013
+type: course
+layout: course_section
 menu:
   8-04-quantum-physics-i-spring-2013:
     identifier: 8754e1a83f55b46c094cc3f2a3f0fbe7
-    type: section
-    layout: section
     name: Readings
     weight: 30
 ---

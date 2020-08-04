@@ -1,7 +1,7 @@
 ---
 title: '6.034 Tutorial 1: Rule-based systems, search'
 description: 'This resource contains information related to rule-based systems, search.'
-type: courses
+type: course
 layout: pdf
 uid: f0d6c16f941891b8a270b9b6f5358b98
 file_type: application/pdf

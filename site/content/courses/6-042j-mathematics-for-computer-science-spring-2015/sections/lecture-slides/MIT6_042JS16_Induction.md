@@ -3,7 +3,7 @@ title: 'Induction: Induction'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 88ea5af10d09d04374d5154a6fce8e9b
 file_type: application/pdf

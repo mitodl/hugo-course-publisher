@@ -3,7 +3,7 @@ title: prsm6.pdf
 description: >-
   This resource contains concept questions and answers based on the stresses
   vary linearly through the thickness of rectangular section beam.
-type: courses
+type: course
 layout: pdf
 uid: 6346b4d61e8a04d2caab4d97af36f003
 file_type: application/pdf

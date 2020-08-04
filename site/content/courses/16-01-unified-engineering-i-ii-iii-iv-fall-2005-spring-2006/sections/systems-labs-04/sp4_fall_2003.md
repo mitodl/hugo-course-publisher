@@ -3,7 +3,7 @@ title: sp4_fall_2003.pdf
 description: >-
   This resource contains information on problem set for unified engineering
   course.
-type: courses
+type: course
 layout: pdf
 uid: 3dcc59f23dcfc3aa4e50c3de233ad799
 file_type: application/pdf

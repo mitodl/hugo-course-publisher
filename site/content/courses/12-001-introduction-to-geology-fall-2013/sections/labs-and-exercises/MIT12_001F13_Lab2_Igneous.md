@@ -1,7 +1,7 @@
 ---
 title: '12.001 Introduction to Geology, Blank Chart for Igneous Rocks'
 description: This file contains information regarding blank chart for igneous rocks.
-type: courses
+type: course
 layout: pdf
 uid: bc1f0badc8039d4656e615342f468904
 file_type: application/pdf

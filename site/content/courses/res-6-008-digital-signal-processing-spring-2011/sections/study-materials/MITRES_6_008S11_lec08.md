@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_008S11_lec08.pdf
 description: This resource contains information related to the discrete Fourier series.
-type: courses
+type: course
 layout: pdf
 uid: 141df660a47242462de44d94ca36a555
 file_type: application/pdf

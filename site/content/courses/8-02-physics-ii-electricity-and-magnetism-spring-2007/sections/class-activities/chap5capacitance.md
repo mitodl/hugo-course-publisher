@@ -8,7 +8,7 @@ description: >-
   appendix: electric fields hold atoms together, problem-solving strategy:
   calculating capacitance, solved problems, conceptual questions, and additional
   problems.
-type: courses
+type: course
 layout: pdf
 uid: ba7ba4fb31a34a167dc98bf25904d38a
 file_type: application/pdf

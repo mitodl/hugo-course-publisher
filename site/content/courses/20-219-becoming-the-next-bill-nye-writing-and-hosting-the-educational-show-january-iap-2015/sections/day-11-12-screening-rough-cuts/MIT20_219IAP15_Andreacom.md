@@ -1,7 +1,7 @@
 ---
 title: Comments on Andrea's Rough Cut
 description: This resource contains information regarding andrea's rough cut.
-type: courses
+type: course
 layout: pdf
 uid: bce8f8926c1af8f24fb8072ee79e862d
 file_type: application/pdf

@@ -191,6 +191,6 @@ transcript: >-
   m='153204'>machine</span> <span m='153632'>learning</span> <span
   m='154061'>algorithms.</span> </p>
 uid: 4e41dd76b35c6d67c10d2253c4352758
-type: courses
+type: course
 layout: video
 ---

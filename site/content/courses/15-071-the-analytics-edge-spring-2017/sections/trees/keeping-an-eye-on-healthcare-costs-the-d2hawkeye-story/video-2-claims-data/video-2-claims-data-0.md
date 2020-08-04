@@ -240,6 +240,6 @@ transcript: >-
   m='243890'>the</span> <span m='244410'>data</span> <span m='244930'>to</span>
   <span m='245450'>400,000</span> <span m='245970'>people.</span> </p>
 uid: 078b21ae9bdd6b82905cfff26743b919
-type: courses
+type: course
 layout: video
 ---

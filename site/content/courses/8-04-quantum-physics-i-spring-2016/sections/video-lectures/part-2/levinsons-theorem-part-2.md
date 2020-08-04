@@ -451,6 +451,6 @@ transcript: >-
   m='564705'>no</span> <span m='565140'>lost</span> <span
   m='566440'>states.</span> </p>
 uid: 701f3267998528292e9a1e007e3dd8bd
-type: courses
+type: course
 layout: video
 ---

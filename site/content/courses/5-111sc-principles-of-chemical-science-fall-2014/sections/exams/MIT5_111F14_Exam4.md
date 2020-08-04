@@ -3,7 +3,7 @@ title: 5.111 F14 Exam 4
 description: >-
   This resource contains information regarding principles of chemical science:
   Exam 4.
-type: courses
+type: course
 layout: pdf
 uid: 2e58dd276be56ee03521ee7922e61413
 file_type: application/pdf

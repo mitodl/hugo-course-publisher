@@ -826,6 +826,6 @@ transcript: >-
   m='600820'>So I'll</span> <span m='601150'>stop</span> <span
   m='601280'>there.</span> </p>
 uid: 12e5d444e22b414117b72b72bd1e4d30
-type: courses
+type: course
 layout: video
 ---

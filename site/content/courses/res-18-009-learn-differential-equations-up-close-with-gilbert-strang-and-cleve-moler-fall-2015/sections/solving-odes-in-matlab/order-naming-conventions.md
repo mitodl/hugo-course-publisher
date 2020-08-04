@@ -321,6 +321,6 @@ transcript: >-
   <span m='317490'>1,</span> <span m='317840'>2,</span> <span
   m='318030'>and</span> <span m='318160'>4.</span> </p>
 uid: 0b52f37030123b8806e8b2c389223497
-type: courses
+type: course
 layout: video
 ---

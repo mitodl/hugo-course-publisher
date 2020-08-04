@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses83b.pdf
 description: This resource contains informations related to polar coordinates.
-type: courses
+type: course
 layout: pdf
 uid: 545fbd5776098bdc96b6cdc702211d7b
 file_type: application/pdf

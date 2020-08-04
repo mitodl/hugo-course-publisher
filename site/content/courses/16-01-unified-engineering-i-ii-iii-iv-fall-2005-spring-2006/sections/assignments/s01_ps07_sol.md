@@ -3,7 +3,7 @@ title: s01_ps07_sol.pdf
 description: >-
   This file contains homogeneous solution, particular solution and total
   solution.
-type: courses
+type: course
 layout: pdf
 uid: be38ceb6afa2cde70bee5f9734f094ed
 file_type: application/pdf

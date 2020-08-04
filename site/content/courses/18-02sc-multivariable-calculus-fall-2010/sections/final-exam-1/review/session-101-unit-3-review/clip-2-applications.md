@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip 2: Applications'
 transcript: ''
 uid: 4bcb33c71927f593bbb01100896914f4
-type: courses
+type: course
 layout: video
 ---

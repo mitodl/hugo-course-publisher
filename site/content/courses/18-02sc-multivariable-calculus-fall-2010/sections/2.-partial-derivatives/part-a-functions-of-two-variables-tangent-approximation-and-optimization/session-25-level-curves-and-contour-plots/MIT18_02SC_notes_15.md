@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_15.pdf
 description: This resource contains information related to level curves and contour plots.
-type: courses
+type: course
 layout: pdf
 uid: d32be016df4d1bcf9c9e32cb109db15b
 file_type: application/pdf

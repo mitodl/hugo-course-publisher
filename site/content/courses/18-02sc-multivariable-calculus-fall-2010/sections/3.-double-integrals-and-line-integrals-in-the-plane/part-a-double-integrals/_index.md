@@ -1,11 +1,11 @@
 ---
 title: 'Part A: Double Integrals'
 course_id: 18-02sc-multivariable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: 9fa9495fe35f5fa9506bb63e2d42812f
-    type: section
-    layout: section
     name: 'Part A: Double Integrals'
     weight: 690
     parent: e20c7287dbfb8ff8c5a675c132a454cc

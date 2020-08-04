@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_4_quest.pdf
 description: This resource contains problem statements related to vector components.
-type: courses
+type: course
 layout: pdf
 uid: 6d37211262443a5748b24696f1801841
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: Camera Code Instructions
 description: This resource contains information regarding camera code instructions.
-type: courses
+type: course
 layout: pdf
 uid: 272fba9b6a453e08e37b650a5d6acdbb
 file_type: application/pdf

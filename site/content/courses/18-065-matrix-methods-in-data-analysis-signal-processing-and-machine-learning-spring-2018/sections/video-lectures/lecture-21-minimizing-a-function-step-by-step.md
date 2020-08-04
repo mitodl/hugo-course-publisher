@@ -2741,6 +2741,6 @@ transcript: >-
   m="3221510">look</span> <span m="3221690">forward</span> <span
   m="3221990">to</span> <span m="3222140">Wednesday.</span></p>
 uid: 1f32e87cb6abcb28fefb267c9a2d5796
-type: courses
+type: course
 layout: video
 ---

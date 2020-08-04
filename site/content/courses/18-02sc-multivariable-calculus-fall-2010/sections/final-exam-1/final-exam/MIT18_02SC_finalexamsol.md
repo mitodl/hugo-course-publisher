@@ -1,7 +1,7 @@
 ---
 title: Final Exam Solution
 description: Solutions to a final exam on multivariable calculus.
-type: courses
+type: course
 layout: pdf
 uid: 02b7e64d338b9c8561d01377ddfd8c7d
 file_type: application/pdf

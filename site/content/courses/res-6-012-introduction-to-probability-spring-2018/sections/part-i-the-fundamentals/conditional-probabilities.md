@@ -197,6 +197,6 @@ transcript: >-
   conditional probabilities.</span></p><p><span m="532600">Let us now continue
   with a simple example.</span></p><p>&nbsp;</p>
 uid: efbff85df56391b7be2c39e44adee68d
-type: courses
+type: course
 layout: video
 ---

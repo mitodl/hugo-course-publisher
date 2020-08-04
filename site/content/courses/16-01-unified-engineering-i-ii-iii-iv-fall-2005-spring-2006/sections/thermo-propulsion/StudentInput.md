@@ -1,7 +1,7 @@
 ---
 title: StudentInput.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: eff13d25f5129a3469db9d20dd68a978
 file_type: application/pdf

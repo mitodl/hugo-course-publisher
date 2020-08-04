@@ -1,7 +1,7 @@
 ---
 title: sp_S21_mud.pdf
 description: Review questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: cf71e6ef792440178fddd391e2d556cd
 file_type: application/pdf

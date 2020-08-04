@@ -3,7 +3,7 @@ title: 'Class 18 Slides: NHST II: Significance level, power, t-tests'
 description: >-
   This is a resource file that contains information regarding NHST II:
   significance level, power, t-tests.
-type: courses
+type: course
 layout: pdf
 uid: 0865f7732228ef9f123148f11aedcd61
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses26b.pdf
 description: This resource contains information about using quadratic approximations.
-type: courses
+type: course
 layout: pdf
 uid: a0e3b6d954bd96583f87daf355323163
 file_type: application/pdf

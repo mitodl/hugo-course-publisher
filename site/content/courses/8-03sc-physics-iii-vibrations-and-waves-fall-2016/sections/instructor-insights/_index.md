@@ -1,15 +1,13 @@
 ---
 title: Instructor Insights
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
+type: course
+layout: videogallery
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 04ff44e40d3409c8726bf5bd29021df8
-    type: section
-    layout: section
     name: Instructor Insights
     weight: 20
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/_index.md" %}}) »
 

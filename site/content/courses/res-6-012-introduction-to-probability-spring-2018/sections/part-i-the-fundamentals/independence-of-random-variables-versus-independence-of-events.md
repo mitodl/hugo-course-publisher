@@ -174,6 +174,6 @@ transcript: >-
   m="403970">And therefore, random variables X and Y will also be</span> <span
   m="407830">independent.</span></p><p>&nbsp;</p>
 uid: 3d07ab437244a7136087263548ae4ecb
-type: courses
+type: course
 layout: video
 ---

@@ -422,6 +422,6 @@ transcript: >-
   <span m='269730'>name</span> <span m='270040'>of</span> <span
   m='270170'>a</span> <span m='270220'>relation.</span> </p>
 uid: 2bbeed2d7cef90a0e17ad806eee542dc
-type: courses
+type: course
 layout: video
 ---

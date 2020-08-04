@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Normal Form of Green''s Theorem'
 description: This resource contains information regarding normal form of green's theorem.
-type: courses
+type: course
 layout: pdf
 uid: aba13555e576d7bbe4ce573bc5f3b1f4
 file_type: application/pdf

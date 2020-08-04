@@ -1,7 +1,7 @@
 ---
 title: summary_w09d1.pdf
 description: This resource is about Faraday?s Law.
-type: courses
+type: course
 layout: pdf
 uid: dd4d04e11900e696ec2895bf4f7df285
 file_type: application/pdf

@@ -1,16 +1,14 @@
 ---
 title: Applying Supply and Demand
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: bf5626a7d48dd3b258c678a13912ef84
-    type: section
-    layout: section
     name: Applying Supply and Demand
     weight: 50
     parent: 10bf5cbcf55318eeb09954ff31dafc1c
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/introduction-to-microeconomics/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/elasticity/_index.md" %}}) »
 

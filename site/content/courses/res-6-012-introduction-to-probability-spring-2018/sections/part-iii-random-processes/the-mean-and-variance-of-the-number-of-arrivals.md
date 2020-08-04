@@ -120,6 +120,6 @@ transcript: >-
   m='195150'>exactly the same as the expected value.</span> </p><p><span
   m='197850'>And this is a special property of the Poisson PMF.</span> </p>
 uid: cfdaad1bea6d07683238d12373ad73bd
-type: courses
+type: course
 layout: video
 ---

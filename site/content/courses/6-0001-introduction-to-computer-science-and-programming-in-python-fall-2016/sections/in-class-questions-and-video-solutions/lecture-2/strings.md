@@ -116,6 +116,6 @@ transcript: >-
   m="48380">right</span> <span m="48500">here.</span> <span
   m="51200">Great.</span></p>
 uid: 0796587a1cf0daace1ad9a6066185a1d
-type: courses
+type: course
 layout: video
 ---

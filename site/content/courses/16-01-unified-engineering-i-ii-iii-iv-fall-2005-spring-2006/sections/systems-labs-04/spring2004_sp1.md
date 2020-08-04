@@ -3,7 +3,7 @@ title: spring2004_sp1.pdf
 description: >-
   This resource contains information on problem set for system requirements and
   team work.
-type: courses
+type: course
 layout: pdf
 uid: 392091533fe46ae82646ac79468de823
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: sp4lecture2.pdf
 description: >-
   This resource contains information on lecture presentation on engineering
   education and baseline assessment.
-type: courses
+type: course
 layout: pdf
 uid: 30484fa74149f87b2e04a59602056a90
 file_type: application/pdf

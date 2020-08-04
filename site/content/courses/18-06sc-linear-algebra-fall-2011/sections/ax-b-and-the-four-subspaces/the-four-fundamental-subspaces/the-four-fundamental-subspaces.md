@@ -2793,6 +2793,6 @@ transcript: >-
   m='2948340'>you.</span> </p><p><span m='2949380'>That's</span> <span
   m='2949720'>lecture</span> <span m='2950380'>ten.</span> </p>
 uid: 03148065ca2a6020bc7ff5527c47b191
-type: courses
+type: course
 layout: video
 ---

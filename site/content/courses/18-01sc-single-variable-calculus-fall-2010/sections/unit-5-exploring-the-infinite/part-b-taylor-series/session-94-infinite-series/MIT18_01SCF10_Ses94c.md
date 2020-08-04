@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses94c.pdf
 description: This resource contains informations related to infinite series.
-type: courses
+type: course
 layout: pdf
 uid: 8eb6f949cdcfe1a4dca3ceab1a5e93e3
 file_type: application/pdf

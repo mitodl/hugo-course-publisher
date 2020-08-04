@@ -1,7 +1,7 @@
 ---
 title: 4.1 Intro to Discrete Probability
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Simplify Prize Tree]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-9542d6e9bbc8" %}})

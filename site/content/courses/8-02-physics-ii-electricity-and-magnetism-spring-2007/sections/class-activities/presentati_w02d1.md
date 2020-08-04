@@ -10,7 +10,7 @@ description: >-
   gravity - electrostatics, potential and energy, potential landscape, potential
   created by pt charge, deriving E from V, configuration energy, and in class
   problem.
-type: courses
+type: course
 layout: pdf
 uid: f74376aa598f51e8f95c37beda1bf23f
 file_type: application/pdf

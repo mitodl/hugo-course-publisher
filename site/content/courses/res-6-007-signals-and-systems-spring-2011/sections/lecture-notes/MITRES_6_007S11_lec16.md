@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_lec16.pdf
 description: This resource contains information related to sampling.
-type: courses
+type: course
 layout: pdf
 uid: 8708ec068ebdea2c4ee2f38fad39fb83
 file_type: application/pdf

@@ -100,6 +100,6 @@ transcript: >-
   <span m='42162'>models.</span> </p><p><span m='42560'>Let's</span> <span
   m='43216'>get</span> <span m='43873'>started.</span> </p>
 uid: e013fb33e25a6bb1162f869046e9408a
-type: courses
+type: course
 layout: video
 ---

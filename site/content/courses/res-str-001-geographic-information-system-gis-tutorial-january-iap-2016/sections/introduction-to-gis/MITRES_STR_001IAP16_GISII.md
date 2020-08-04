@@ -1,7 +1,7 @@
 ---
 title: GIS Level 2
 description: This resource contains information regarding GIS level 2.
-type: courses
+type: course
 layout: pdf
 uid: a50b6e6b6d8e88e9e653fb02085724b1
 file_type: application/pdf

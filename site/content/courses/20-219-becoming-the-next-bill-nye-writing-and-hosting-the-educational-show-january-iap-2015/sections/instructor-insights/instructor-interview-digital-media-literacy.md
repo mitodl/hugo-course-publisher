@@ -488,6 +488,6 @@ transcript: >-
   m='342800'>final</span> <span m='343200'>self</span> <span
   m='343490'>awareness</span> <span m='344280'>conclusion.</span> </p>
 uid: 10bd67ad2f119e9b54374944dda4994a
-type: courses
+type: course
 layout: video
 ---

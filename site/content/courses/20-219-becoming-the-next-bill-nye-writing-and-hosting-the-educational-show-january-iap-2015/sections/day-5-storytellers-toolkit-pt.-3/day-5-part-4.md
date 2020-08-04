@@ -177,6 +177,6 @@ transcript: >-
   m='151040'>MALE SPEAKER: So like,</span> <span m='151340'>I'm kind of</span>
   <span m='151640'>like--</span> <span m='151940'>[INAUDIBLE]</span> </p>
 uid: e59b1cc63485b384b0b030ae4ffa2f78
-type: courses
+type: course
 layout: video
 ---

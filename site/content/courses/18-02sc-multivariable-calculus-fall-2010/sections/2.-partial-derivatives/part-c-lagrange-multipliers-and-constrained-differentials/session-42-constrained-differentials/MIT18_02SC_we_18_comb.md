@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_we_18_comb.pdf
 description: 'This resource contains information related to non-independent variables. '
-type: courses
+type: course
 layout: pdf
 uid: 182461fdd6c5687262a711810904db32
 file_type: application/pdf

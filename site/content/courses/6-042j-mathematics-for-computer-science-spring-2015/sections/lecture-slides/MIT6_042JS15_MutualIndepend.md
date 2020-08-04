@@ -1,7 +1,7 @@
 ---
 title: 'Independence & Causality: Mutual Independence'
 description: This file contains information regarding mutual independence.
-type: courses
+type: course
 layout: pdf
 uid: b3640ec469e8f6627a210794afa62a18
 file_type: application/pdf

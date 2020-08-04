@@ -41,6 +41,6 @@ technical_location: >-
 title: 'Lab 5: Savonius Wind Turbine Construction and Testing'
 transcript: ''
 uid: b9bf46e59ba1eb6f15504c934e7fb9e0
-type: courses
+type: course
 layout: video
 ---

@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Matrix Inverses'
 transcript: ''
 uid: 36b9e72825dfbf4de6d7317bfb07e9c9
-type: courses
+type: course
 layout: video
 ---

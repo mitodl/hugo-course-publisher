@@ -5,7 +5,7 @@ description: >-
   should study, prs questions: light bulbs; DC circuits with capacitors; right
   hand rule; magnetic dipole moments; making B fields, sample exam problems and
   solutions.
-type: courses
+type: course
 layout: pdf
 uid: 9a49c4afe5e57b5733cd2ee557c12b38
 file_type: application/pdf

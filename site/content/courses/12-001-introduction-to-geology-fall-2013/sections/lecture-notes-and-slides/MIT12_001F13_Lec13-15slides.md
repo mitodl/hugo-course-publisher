@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 13-15 Slides: Plate Tectonics'
 description: This resource contains information regarding plate tectonics.
-type: courses
+type: course
 layout: pdf
 uid: b71391731640eec130d5377e17a58f9f
 file_type: application/pdf

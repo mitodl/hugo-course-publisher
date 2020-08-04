@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_18_comb.pdf
 description: >-
   This resource contains problem statements and solutions related to
   intersections of a line and a plane.
-type: courses
+type: course
 layout: pdf
 uid: c045007c12c0914232c10423f37ddd95
 file_type: application/pdf

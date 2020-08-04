@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: More New Functions from Old'
 transcript: ''
 uid: dd15da9cddce0c12a786648c98a324a1
-type: courses
+type: course
 layout: video
 ---

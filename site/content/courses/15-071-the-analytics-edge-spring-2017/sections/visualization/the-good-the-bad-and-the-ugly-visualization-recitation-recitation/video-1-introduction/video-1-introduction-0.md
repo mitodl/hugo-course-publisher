@@ -203,6 +203,6 @@ transcript: >-
   m='130231'>a</span> <span m='130794'>bad</span> <span
   m='131357'>visualization.</span> </p>
 uid: 17461d990a6be67c33527c2e1681898e
-type: courses
+type: course
 layout: video
 ---

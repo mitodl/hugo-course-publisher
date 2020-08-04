@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex98sol.pdf
 description: "This resource contains the solutions for the problems related to the function equal its Taylor series.\r\n"
-type: courses
+type: course
 layout: pdf
 uid: 51bf782966d0896f0c183541e1c3cf22
 file_type: application/pdf

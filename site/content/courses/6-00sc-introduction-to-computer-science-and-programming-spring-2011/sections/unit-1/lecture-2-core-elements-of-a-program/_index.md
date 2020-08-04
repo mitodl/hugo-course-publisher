@@ -1,16 +1,14 @@
 ---
 title: Core Elements of a Program
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 5a8ad51b351a4b3f0c09861452ea827d
-    type: section
-    layout: section
     name: Core Elements of a Program
     weight: 60
     parent: 975ad7bfdd9c4ffe26b6710fa718d5e6
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-1-introduction-to-6.00/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-3-problem-solving/_index.md" %}}) »
 

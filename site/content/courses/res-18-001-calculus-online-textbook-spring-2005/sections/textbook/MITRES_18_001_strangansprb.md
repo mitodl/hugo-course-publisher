@@ -3,7 +3,7 @@ title: MITRES_18_001_strangansprb.pdf
 description: >-
   This resource contains information related to answers to the odd numbered
   problems.
-type: courses
+type: course
 layout: pdf
 uid: 5d3bcd4cbb6b3f25ac393b92a3685019
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Class 25 Slides: Linear regression'
 description: This is a resource file that contains information regarding class 25.
-type: courses
+type: course
 layout: pdf
 uid: c352da676eb4c72d00d59215e6924cce
 file_type: application/pdf

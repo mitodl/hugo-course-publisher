@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_graph03.pdf
 description: This resource contains graphs and figures related to elasticity.
-type: courses
+type: course
 layout: pdf
 uid: a672f1a9ca56a6b05caa742c7915bc2d
 file_type: application/pdf

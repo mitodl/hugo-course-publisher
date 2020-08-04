@@ -1,7 +1,7 @@
 ---
 title: Week 9 Sports Scheduling Video 1 - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 50d4360fd1a6bbe40fc0e0bc694963ce
 file_type: application/pdf

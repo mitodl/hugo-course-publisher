@@ -1,11 +1,11 @@
 ---
 title: Syllabus
 course_id: 21m-250-beethoven-to-mahler-spring-2014
+type: course
+layout: course_section
 menu:
   21m-250-beethoven-to-mahler-spring-2014:
     identifier: eee6cb2fc73d5c5d028a4561dba87255
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
 ---

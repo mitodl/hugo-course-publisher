@@ -1022,6 +1022,6 @@ transcript: >-
   <span m='949040'>found</span> <span m='949230'>this</span> <span
   m='949370'>part</span> <span m='949560'>helpful.</span> </p>
 uid: 8ef43bcc0f640ae32a7c2c9c7eedfde7
-type: courses
+type: course
 layout: video
 ---

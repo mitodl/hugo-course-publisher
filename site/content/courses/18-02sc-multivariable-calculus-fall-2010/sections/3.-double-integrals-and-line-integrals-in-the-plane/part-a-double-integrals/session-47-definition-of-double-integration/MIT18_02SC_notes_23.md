@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_23.pdf
 description: This resource contains information related to double integration.
-type: courses
+type: course
 layout: pdf
 uid: 6e4a3ff68be72d26d3c70d8ea7347331
 file_type: application/pdf

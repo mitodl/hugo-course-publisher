@@ -2733,6 +2733,6 @@ transcript: >-
   m='3224640'>a</span> <span m='3224700'>great</span> <span
   m='3224940'>holiday,</span> <span m='3225330'>everybody.</span> </p>
 uid: 4733e53d2b79062c086b6e5d8e3d2f99
-type: courses
+type: course
 layout: video
 ---

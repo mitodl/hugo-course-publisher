@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_rec05.pdf
 description: This resource is a recitation file for production function and costs.
-type: courses
+type: course
 layout: pdf
 uid: d5e3984e1e3d5b5a67985441ce486b66
 file_type: application/pdf

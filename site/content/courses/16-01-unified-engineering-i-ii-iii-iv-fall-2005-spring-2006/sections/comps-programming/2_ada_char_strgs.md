@@ -1,7 +1,7 @@
 ---
 title: 2_ada_char_strgs.pdf
 description: Lecture 2 (2004) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 7805921f5e1a3a93a3b0f15aecf87444
 file_type: application/pdf

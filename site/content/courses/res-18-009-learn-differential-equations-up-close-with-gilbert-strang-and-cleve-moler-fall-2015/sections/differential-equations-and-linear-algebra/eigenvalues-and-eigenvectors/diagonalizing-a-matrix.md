@@ -653,6 +653,6 @@ transcript: >-
   <span m='688870'>to</span> <span m='689010'>that</span> <span
   m='689610'>next.</span> <span m='690330'>Thanks.</span> </p>
 uid: e08dc333beec3570d6ce20a5fff3f0e2
-type: courses
+type: course
 layout: video
 ---

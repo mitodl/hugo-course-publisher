@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_guide3.pdf
 description: This resource contains information related to applications of the derivative.
-type: courses
+type: course
 layout: pdf
 uid: 0d138a33cd22548ee1991cd1299ce774
 file_type: application/pdf

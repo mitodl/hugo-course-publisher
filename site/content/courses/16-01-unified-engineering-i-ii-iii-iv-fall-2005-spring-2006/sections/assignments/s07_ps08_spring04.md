@@ -1,7 +1,7 @@
 ---
 title: s07_ps08_spring04.pdf
 description: This resource includes the problem set on laplace transform.
-type: courses
+type: course
 layout: pdf
 uid: 14a05935c494bcdab72f6dfbd9587640
 file_type: application/pdf

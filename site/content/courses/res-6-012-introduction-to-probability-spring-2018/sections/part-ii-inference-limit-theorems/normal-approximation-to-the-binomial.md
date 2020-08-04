@@ -251,6 +251,6 @@ transcript: >-
   and</span> <span m="705590">in a certain regime--</span> <span m="707380">does
   give us very accurate approximations.</span></p> <p>&nbsp;</p>
 uid: a6e754e6610f7c8f1a85407d5c93b707
-type: courses
+type: course
 layout: video
 ---

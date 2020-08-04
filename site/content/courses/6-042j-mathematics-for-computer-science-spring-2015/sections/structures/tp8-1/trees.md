@@ -706,6 +706,6 @@ transcript: >-
   m='485160'>enough</span> <span m='485450'>for</span> <span
   m='485760'>today.</span> </p>
 uid: 8e0b8d2e973540d1eb840acc5ef5a55e
-type: courses
+type: course
 layout: video
 ---

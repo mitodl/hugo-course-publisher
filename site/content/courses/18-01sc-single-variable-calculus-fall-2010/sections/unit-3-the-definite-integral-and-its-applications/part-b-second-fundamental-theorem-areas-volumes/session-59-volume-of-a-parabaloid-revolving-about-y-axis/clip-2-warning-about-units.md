@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Warning about Units'
 transcript: ''
 uid: bbf685011cc0de38524442d29e1b11b2
-type: courses
+type: course
 layout: video
 ---

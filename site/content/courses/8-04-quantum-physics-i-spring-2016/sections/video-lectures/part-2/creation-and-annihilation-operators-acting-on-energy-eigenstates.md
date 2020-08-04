@@ -1008,6 +1008,6 @@ transcript: >-
   m='1261120'>How</span> <span m='1261360'>much</span> <span m='1261690'>it
   is.</span> </p>
 uid: 44362ac998aa1d1238d21f33b471f1fd
-type: courses
+type: course
 layout: video
 ---

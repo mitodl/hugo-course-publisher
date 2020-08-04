@@ -3642,6 +3642,6 @@ transcript: >-
   m="3404720">for</span> <span m="3405020">an</span> <span
   m="3405320">exam.</span></p>
 uid: b307450f47abb9f74d1a25d9df966ee0
-type: courses
+type: course
 layout: video
 ---

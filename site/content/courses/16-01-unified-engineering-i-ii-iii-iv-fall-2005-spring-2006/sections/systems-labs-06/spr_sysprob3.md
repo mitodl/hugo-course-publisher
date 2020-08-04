@@ -1,7 +1,7 @@
 ---
 title: spr_sysprob3.pdf
 description: This file contains notes for DC Motor / Propeller Characterization.
-type: courses
+type: course
 layout: pdf
 uid: 392cba00e9c7a64061f29292072b472c
 file_type: application/pdf

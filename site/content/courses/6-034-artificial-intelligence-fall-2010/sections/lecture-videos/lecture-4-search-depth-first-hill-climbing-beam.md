@@ -866,6 +866,6 @@ transcript: >-
   m='2903660'>eyes but me.</span> </p><p><span m='2905830'>So, that will
   conclude what we have to do today.</span> </p><p></p>
 uid: dc703721c6e2ddf8ecf3384b2ca0f006
-type: courses
+type: course
 layout: video
 ---

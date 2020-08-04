@@ -1721,6 +1721,6 @@ transcript: >-
   m='2086030'>the</span> <span m='2086179'>final</span> <span
   m='2086540'>class.</span> </p>
 uid: 3d3111b5d8ec1cc04ce6e84c758a5976
-type: courses
+type: course
 layout: video
 ---

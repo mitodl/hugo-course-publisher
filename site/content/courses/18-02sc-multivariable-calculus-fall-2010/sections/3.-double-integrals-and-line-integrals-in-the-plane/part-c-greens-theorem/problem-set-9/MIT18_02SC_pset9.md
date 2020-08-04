@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pset9.pdf
 description: This resource contains information related to green’s thm.
-type: courses
+type: course
 layout: pdf
 uid: fa18a2da43d105c7b8c633df974652e6
 file_type: application/pdf

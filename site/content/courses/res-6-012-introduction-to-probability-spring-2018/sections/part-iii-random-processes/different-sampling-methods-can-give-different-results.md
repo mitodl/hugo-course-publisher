@@ -127,6 +127,6 @@ transcript: >-
   m="232390">methods measure different things,</span> <span m="235000">and will
   generally give you different results.</span></p><p>&nbsp;</p>
 uid: 7d49b37e13c102b15352a88f67b1329e
-type: courses
+type: course
 layout: video
 ---

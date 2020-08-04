@@ -293,6 +293,6 @@ transcript: >-
   m='184170'>only</span> <span m='184470'>one</span> <span
   m='185070'>connected</span> <span m='185630'>component.</span> </p>
 uid: f805a13566b9c2888c6e6eee83e44b68
-type: courses
+type: course
 layout: video
 ---

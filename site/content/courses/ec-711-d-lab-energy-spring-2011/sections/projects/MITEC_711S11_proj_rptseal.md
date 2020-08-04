@@ -1,7 +1,7 @@
 ---
 title: Orange Juice Sealer
 description: This resource contains the information related to Orange Juice Sealer.
-type: courses
+type: course
 layout: pdf
 uid: 1494323b6c9e7f35cd886582d22ab20a
 file_type: application/pdf

@@ -3918,6 +3918,6 @@ transcript: >-
   m="4654130">Thank</span> <span m="4654340">you</span> <span
   m="4654410">very</span> <span m="4654530">much.</span></p>
 uid: 44001968ecb4c760821d873d77450d50
-type: courses
+type: course
 layout: video
 ---

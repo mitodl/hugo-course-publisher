@@ -3,7 +3,7 @@ title: MIT22_081JF10_pset5.pdf
 description: >-
   This resource contains problem statements related to turbine generator
   efficiency, and conversion ratio.
-type: courses
+type: course
 layout: pdf
 uid: bd000c2f83db0cd377f12ff8c395aa15
 file_type: application/pdf

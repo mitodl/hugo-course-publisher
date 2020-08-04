@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex38prb.pdf
 description: >-
   This resource contains problem statements related to anti derivative of tax
   sec 2 x.
-type: courses
+type: course
 layout: pdf
 uid: 7ba77820e3c62210093ba02359def088
 file_type: application/pdf

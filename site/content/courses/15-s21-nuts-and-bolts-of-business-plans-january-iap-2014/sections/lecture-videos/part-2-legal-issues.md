@@ -5471,6 +5471,6 @@ transcript: >-
   m='4360900'>So</span> <span m='4361200'>hopefully you'll</span> <span
   m='4361500'>find</span> <span m='4361800'>that.</span> </p>
 uid: 1280c6688db5f307eac45b146fee9897
-type: courses
+type: course
 layout: video
 ---

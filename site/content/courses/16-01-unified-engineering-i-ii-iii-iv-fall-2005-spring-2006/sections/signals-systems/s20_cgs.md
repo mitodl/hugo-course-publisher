@@ -3,7 +3,7 @@ title: s20_cgs.pdf
 description: |-
   Concept questions on Duration-Bandwidth
   Product.
-type: courses
+type: course
 layout: pdf
 uid: 6f8ca3e7926f517fed12f76e68776852
 file_type: application/pdf

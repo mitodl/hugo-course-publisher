@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Work Along a Space Curve'
 description: This resource contains information regarding work along a space curve.
-type: courses
+type: course
 layout: pdf
 uid: bffe62a10b5d9eeaaf5df931d4acd476
 file_type: application/pdf

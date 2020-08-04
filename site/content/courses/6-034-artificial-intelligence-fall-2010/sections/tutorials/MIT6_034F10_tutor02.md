@@ -3,7 +3,7 @@ title: '6.034 Tutorial 2: Games, constraint satisfaction problems'
 description: >-
   This resource contains information related to games, constraint satisfaction
   problems.
-type: courses
+type: course
 layout: pdf
 uid: 431e41b074adef2a0b72d270a9ddc8e9
 file_type: application/pdf

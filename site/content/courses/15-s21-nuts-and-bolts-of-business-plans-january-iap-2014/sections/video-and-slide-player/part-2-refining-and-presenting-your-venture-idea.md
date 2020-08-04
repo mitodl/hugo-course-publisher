@@ -289,6 +289,6 @@ technical_location: >-
 title: 'Session 1, Part 2: Refining and Presenting Your Venture Idea'
 transcript: ''
 uid: 2edf84fa7e434b42516e65304c99bcc4
-type: courses
+type: course
 layout: video
 ---

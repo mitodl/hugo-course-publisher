@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Solids of Revolution'
 transcript: ''
 uid: 5f5a2b551d97ca50e52d590dec025888
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: Time Series Analysis II
 description: This file contains information regarding lecture 11 notes.
-type: courses
+type: course
 layout: pdf
 uid: e4cd8dc88db55a6049b4d2aa3e4a1fb1
 file_type: application/pdf

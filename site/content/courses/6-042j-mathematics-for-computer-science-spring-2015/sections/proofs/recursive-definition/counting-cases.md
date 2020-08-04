@@ -1,6 +1,8 @@
 ---
 title: 1.10 Recursive Definition
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Structural Induction: Definition]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/recursive-definition/structural-induction-definition" %}})
 *   [1.10.1Recursive Data: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/recursive-definition/_index.md" %}})

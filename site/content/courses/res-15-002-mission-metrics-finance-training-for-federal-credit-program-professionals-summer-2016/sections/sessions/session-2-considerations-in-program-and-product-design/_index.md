@@ -2,11 +2,11 @@
 title: 'Session 2: Considerations in Program and Product Design'
 course_id: >-
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016
+type: course
+layout: course_section
 menu:
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016:
     identifier: 4215d1867d4f8eba84774b8d85ec43fc
-    type: section
-    layout: section
     name: 'Session 2: Considerations in Program and Product Design'
     weight: 50
     parent: c5cf8c5e59b0bc3e51ba6284d467e6d6

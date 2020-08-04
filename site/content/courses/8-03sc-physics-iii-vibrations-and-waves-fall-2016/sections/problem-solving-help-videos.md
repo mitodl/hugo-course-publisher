@@ -1,11 +1,11 @@
 ---
 title: Problem Solving Help Videos
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
+type: course
+layout: course_section
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: b6ee7c446a3a2ad7fbfc44db748bf0a4
-    type: section
-    layout: section
     name: Problem Solving Help Videos
     weight: 330
 ---

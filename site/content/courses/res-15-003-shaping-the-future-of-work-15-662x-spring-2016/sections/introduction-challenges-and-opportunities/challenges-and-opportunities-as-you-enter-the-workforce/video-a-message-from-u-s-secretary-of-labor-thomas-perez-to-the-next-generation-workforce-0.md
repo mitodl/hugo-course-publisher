@@ -744,6 +744,6 @@ transcript: >-
   m="548910">care.</span> <span m="549340">Thanks</span> <span
   m="549730">again.</span></p>
 uid: ba65aa004052cd6e221b251f36545678
-type: courses
+type: course
 layout: video
 ---

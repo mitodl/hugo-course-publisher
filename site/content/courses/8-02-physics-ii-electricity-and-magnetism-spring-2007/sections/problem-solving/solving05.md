@@ -6,7 +6,7 @@ description: >-
   field of a cylindrical current-carrying shell of inner radius a and outer
   radius b using Ampere?s Law and to find an expression for the magnetic field
   of a slab of current using Ampere?s Law.
-type: courses
+type: course
 layout: pdf
 uid: e2f3a5b9680b1fe5d269dd989048ba02
 file_type: application/pdf

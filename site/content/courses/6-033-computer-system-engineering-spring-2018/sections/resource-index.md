@@ -1,11 +1,11 @@
 ---
 title: Resource Index
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 1731a3caac5ffaa78e0f4b3bff50a1cc
-    type: section
-    layout: section
     name: Resource Index
     weight: 680
 ---

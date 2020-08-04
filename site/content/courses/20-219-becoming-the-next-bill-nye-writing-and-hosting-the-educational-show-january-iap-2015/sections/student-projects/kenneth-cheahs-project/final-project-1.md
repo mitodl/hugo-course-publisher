@@ -326,6 +326,6 @@ transcript: >-
   m="218790">time</span> <span m="218940">travel,</span> <span
   m="219710">yet.</span></p>
 uid: 194439b450832014fd9be0a93fa3e3f2
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: 'Digraphs: Walks & Paths: Chapter 9.1 – 9.4'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Digraphs: Walks & paths: Chapter 9.1 – 9.4.
-type: courses
+type: course
 layout: pdf
 uid: 3b84e258403a15513e56a1e447e3608f
 file_type: application/pdf

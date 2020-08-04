@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Example: Area Between x = y2 and y = x − 2'
 transcript: ''
 uid: 01bbfa591b578216eced3cb210524b9b
-type: courses
+type: course
 layout: video
 ---

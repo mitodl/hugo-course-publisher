@@ -708,6 +708,6 @@ transcript: >-
   m='636890'>area.</span> <span m='637820'>So I'll</span> <span
   m='638050'>end</span> <span m='638300'>there.</span> </p>
 uid: f9ed3aacf6aa84bed514c0264d85d760
-type: courses
+type: course
 layout: video
 ---

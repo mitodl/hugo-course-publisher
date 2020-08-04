@@ -40,6 +40,6 @@ technical_location: >-
 title: 'Project Presentations 1: Trip Planning '
 transcript: ''
 uid: 67e18e370c68be4f026e43718c40e7c0
-type: courses
+type: course
 layout: video
 ---

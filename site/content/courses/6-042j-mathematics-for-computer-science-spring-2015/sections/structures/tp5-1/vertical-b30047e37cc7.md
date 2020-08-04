@@ -1,6 +1,8 @@
 ---
 title: 2.1  GCDs
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Euclidean Algorithm: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/euclidean-algorithm-video" %}})
 *   [2.1.1GCDs & Linear Combinations: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/_index.md" %}})

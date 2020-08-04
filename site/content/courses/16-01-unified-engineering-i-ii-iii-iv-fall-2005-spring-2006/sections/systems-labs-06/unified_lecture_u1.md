@@ -3,7 +3,7 @@ title: unified_lecture_u1.pdf
 description: >-
   The introductory lecture for this course. The structure of the course and
   course requirements are discussed.
-type: courses
+type: course
 layout: pdf
 uid: 71194e1acb081bf67cd013b4a9271b16
 file_type: application/pdf

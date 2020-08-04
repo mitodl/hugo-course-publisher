@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Derivative of the Arctan Function'
 transcript: ''
 uid: fadb7e63601151421f1ccddc71cb33d6
-type: courses
+type: course
 layout: video
 ---

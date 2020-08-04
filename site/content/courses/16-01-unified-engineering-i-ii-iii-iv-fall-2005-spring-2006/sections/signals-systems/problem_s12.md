@@ -1,7 +1,7 @@
 ---
 title: problem_s12.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 04030881e891addf05703fe85e8c2b62
 file_type: application/pdf

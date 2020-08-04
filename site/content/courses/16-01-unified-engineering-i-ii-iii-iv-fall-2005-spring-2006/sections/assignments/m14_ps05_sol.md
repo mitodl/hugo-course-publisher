@@ -3,7 +3,7 @@ title: m14_ps05_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on
   allowable load, lateral central deflection, and critical buckling load.
-type: courses
+type: course
 layout: pdf
 uid: 08b5f2a02dff172a5f6ec65e3ba7dcaf
 file_type: application/pdf

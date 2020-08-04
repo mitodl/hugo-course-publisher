@@ -1,11 +1,11 @@
 ---
 title: CAD and Lasercut Purse
 course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015
+type: course
+layout: course_section
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: 92d5b5f894f644a9c23b844e1426fda0
-    type: section
-    layout: section
     name: CAD and Lasercut Purse
     weight: 120
     parent: 9d919b61decdf95f4108ded3bef6c4dc

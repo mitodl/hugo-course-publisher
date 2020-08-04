@@ -3,7 +3,7 @@ title: MITRES_6_008S11_lec01.pdf
 description: >-
   This resource contains information related to introduction of digital signal
   processing.
-type: courses
+type: course
 layout: pdf
 uid: 0b1fed8c695e21f5eaea4ba3be05eb55
 file_type: application/pdf

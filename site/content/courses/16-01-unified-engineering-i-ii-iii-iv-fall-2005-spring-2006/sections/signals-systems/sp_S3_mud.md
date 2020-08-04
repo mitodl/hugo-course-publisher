@@ -1,7 +1,7 @@
 ---
 title: sp_S3_mud.pdf
 description: Review questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: 7da47fb5e91f4cddf804875754728302
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: velocitytriangles.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: bb4791acf83c9c0e4bca0d6493cebfff
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Stable Matching: Hall''s Theorem'
 description: This file contains information regarding hall's theorem.
-type: courses
+type: course
 layout: pdf
 uid: 56503bade231041965edcc4287608551
 file_type: application/pdf

@@ -1079,6 +1079,6 @@ transcript: >-
   m='1249290'>of</span> <span m='1249440'>it</span> <span
   m='1249590'>becomes</span> <span m='1250090'>reflected.</span> </p>
 uid: 35f1f136694e6d8c855b242f96b9ce03
-type: courses
+type: course
 layout: video
 ---

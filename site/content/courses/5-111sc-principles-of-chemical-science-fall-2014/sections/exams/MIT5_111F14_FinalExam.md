@@ -3,7 +3,7 @@ title: 5.111 F14 Final Exam
 description: >-
   This resource contains information regarding principles of chemical science:
   Final exam.
-type: courses
+type: course
 layout: pdf
 uid: 41aeba6556669a385d30f5d1ee44d39b
 file_type: application/pdf

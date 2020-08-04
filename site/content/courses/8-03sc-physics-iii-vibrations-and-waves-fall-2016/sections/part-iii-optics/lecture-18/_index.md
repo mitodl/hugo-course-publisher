@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 18: Wave Plates, Radiation'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
+type: course
+layout: videogallery
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 7d3296b3f48fd48abef124b6a4fa4305
-    type: section
-    layout: section
     name: 'Lecture 18: Wave Plates, Radiation'
     weight: 250
     parent: 562065223db4e5d13c0186ef14e4db6a
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-19/_index.md" %}}) »
 

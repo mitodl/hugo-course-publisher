@@ -7622,6 +7622,6 @@ transcript: >-
   m='5538580'>semester.</span> </p><p><span m='5540080'>[APPLAUSE]</span>
   </p><p></p>
 uid: 3e8f5e36eb1904474437a209b2f13504
-type: courses
+type: course
 layout: video
 ---

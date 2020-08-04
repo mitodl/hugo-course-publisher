@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex28sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   sketching graphs II.
-type: courses
+type: course
 layout: pdf
 uid: e222d667734a7909e218f4fdcafe553e
 file_type: application/pdf

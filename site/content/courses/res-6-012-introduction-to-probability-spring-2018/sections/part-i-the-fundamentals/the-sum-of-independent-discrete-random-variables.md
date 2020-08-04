@@ -194,6 +194,6 @@ transcript: >-
   is not hard to</span> <span m='469000'>implement on a computer.</span>
   </p><p></p>
 uid: 0fcf4f1b681780ed1f9821f6f7910243
-type: courses
+type: course
 layout: video
 ---

@@ -442,6 +442,6 @@ transcript: >-
   m='488110'>are</span> <span m='488550'>not</span> <span
   m='489000'>similar.</span> <span m='490360'>Thanks.</span> </p>
 uid: faedf63c3bdc84f2e5ad455b6295d011
-type: courses
+type: course
 layout: video
 ---

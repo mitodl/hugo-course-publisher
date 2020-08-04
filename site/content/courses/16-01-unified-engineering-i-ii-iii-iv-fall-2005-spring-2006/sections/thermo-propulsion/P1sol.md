@@ -1,7 +1,7 @@
 ---
 title: P1sol.pdf
 description: Hand written solution of problem P1.
-type: courses
+type: course
 layout: pdf
 uid: edde99d2b3a560ffec601b0d4fd58dee
 file_type: application/pdf

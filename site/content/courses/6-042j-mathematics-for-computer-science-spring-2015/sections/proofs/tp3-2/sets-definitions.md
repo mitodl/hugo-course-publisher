@@ -956,6 +956,6 @@ transcript: >-
   m='716980'>is</span> <span m='717150'>a</span> <span m='717200'>subset</span>
   <span m='717750'>of.</span> </p>
 uid: 5c850257e988d01a96c9cf7048cf49b7
-type: courses
+type: course
 layout: video
 ---

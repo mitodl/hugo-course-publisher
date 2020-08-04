@@ -1,16 +1,14 @@
 ---
 title: 4.5 Expectation
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: videogallery
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 025c498f3f5e1c53924f7e40eb06a220
-    type: section
-    layout: section
     name: 4.5 Expectation
     weight: 2560
     parent: 90a207e82f8b3b1369067b58f9c6f169
-type: courses
-layout: videogallery
 ---
 *   [<Dice And Coin Game]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-3/vertical-f27f5990f502" %}})
 *   [4.5.1Expectation: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/_index.md" %}})

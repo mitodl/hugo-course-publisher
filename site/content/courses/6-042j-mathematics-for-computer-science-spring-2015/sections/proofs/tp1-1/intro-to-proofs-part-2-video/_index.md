@@ -1,7 +1,7 @@
 ---
 title: 1.1 Intro to Proofs
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Intro To Proofs: Part 1: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-1/intro-to-proofs-part-1-video" %}})

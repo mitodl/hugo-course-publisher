@@ -1,7 +1,7 @@
 ---
 title: MIT18_06S10_pascal_work.pdf
 description: This resource contains information related to Pascal matrices.
-type: courses
+type: course
 layout: pdf
 uid: d61af89db7c6303dc024e52d8ff18f96
 file_type: application/pdf

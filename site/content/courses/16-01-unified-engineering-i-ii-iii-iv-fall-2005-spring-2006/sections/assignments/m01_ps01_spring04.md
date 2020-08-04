@@ -1,7 +1,7 @@
 ---
 title: m01_ps01_spring04.pdf
 description: This resource contains a problem on truss design.
-type: courses
+type: course
 layout: pdf
 uid: 499da874840d0d7431e684f53cbd2373
 file_type: application/pdf

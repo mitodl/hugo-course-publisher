@@ -3,7 +3,7 @@ title: MITRES_6_007S11_lec08.pdf
 description: >-
   This resource contains information related to continuous-time fourier
   transform.
-type: courses
+type: course
 layout: pdf
 uid: 3730bb94a928490f9726ff18b8760e67
 file_type: application/pdf

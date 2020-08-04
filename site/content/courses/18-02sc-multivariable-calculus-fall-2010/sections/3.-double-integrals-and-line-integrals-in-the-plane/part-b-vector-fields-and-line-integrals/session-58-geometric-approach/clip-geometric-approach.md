@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip: Geometric Approach'
 transcript: ''
 uid: 6da135dae4b6b8fa025b8c75c217183d
-type: courses
+type: course
 layout: video
 ---

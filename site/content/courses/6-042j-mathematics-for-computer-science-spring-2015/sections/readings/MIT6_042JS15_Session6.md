@@ -3,7 +3,7 @@ title: 'Sets: Chapter 4.1 – 4.2'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Sets: Chapter 4.1 – 4.2.
-type: courses
+type: course
 layout: pdf
 uid: bcb8021cea390090eadc4f3b449b7d87
 file_type: application/pdf

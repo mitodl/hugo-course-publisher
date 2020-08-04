@@ -1,7 +1,7 @@
 ---
 title: 'Class 15 Slides: Conjugate priors; choosing priors'
 description: This is a resource file that contains information regarding class 15.
-type: courses
+type: course
 layout: pdf
 uid: 9169638ad13e68e5711644fadf97a173
 file_type: application/pdf

@@ -993,6 +993,6 @@ transcript: >-
   <span m='910120'>people</span> <span m='910570'>want</span> <span
   m='910790'>a</span> <span m='910840'>product.</span> </p>
 uid: 053f558dc0159e04970136e06e1f1d0b
-type: courses
+type: course
 layout: video
 ---

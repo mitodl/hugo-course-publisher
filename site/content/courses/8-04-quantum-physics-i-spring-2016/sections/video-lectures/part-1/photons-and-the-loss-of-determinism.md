@@ -949,6 +949,6 @@ transcript: >-
   m='1039140'>out</span> <span m='1039560'>of</span> <span
   m='1039680'>the</span> <span m='1039800'>polarizer.</span> </p>
 uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
-type: courses
+type: course
 layout: video
 ---

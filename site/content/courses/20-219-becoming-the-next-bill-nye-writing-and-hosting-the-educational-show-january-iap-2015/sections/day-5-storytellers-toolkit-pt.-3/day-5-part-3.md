@@ -3195,6 +3195,6 @@ transcript: >-
   m='2352830'>end</span> <span m='2352980'>of</span> <span
   m='2353060'>it.</span> <span m='2354520'>OK.</span> </p>
 uid: 70a3e2f4575601b6ab8cb90f055edd72
-type: courses
+type: course
 layout: video
 ---

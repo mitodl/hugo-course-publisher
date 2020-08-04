@@ -3,7 +3,7 @@ title: MIT6_0001F16_Additional Python Resources
 description: >-
   This resource contains information regarding introduction to computer science
   and programming in Python: Problem set.
-type: courses
+type: course
 layout: pdf
 uid: 5dbf3131e472f4f013b1896c05b9f7a3
 file_type: application/pdf

@@ -93,6 +93,6 @@ transcript: >-
   with respect</span> <span m='85980'>to the other is simply reversed by the
   collision.</span> </p>
 uid: 7124573300d4c0153545225274eae400
-type: courses
+type: course
 layout: video
 ---

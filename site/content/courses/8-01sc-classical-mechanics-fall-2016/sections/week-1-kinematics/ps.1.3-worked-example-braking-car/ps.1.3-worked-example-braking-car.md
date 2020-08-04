@@ -434,6 +434,6 @@ transcript: >-
   m='401750'>of</span> <span m='401860'>v</span> <span m='402070'>not.</span>
   </p>
 uid: fe8b455cdf5fd088086d719c83d5d1ef
-type: courses
+type: course
 layout: video
 ---

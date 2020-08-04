@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex05prb.pdf
 description: This resource contains problem statements related to limits and discontinuity.
-type: courses
+type: course
 layout: pdf
 uid: a1e0d052dd845914254bffa2686b3fa5
 file_type: application/pdf

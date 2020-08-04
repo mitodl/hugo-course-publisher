@@ -1,7 +1,7 @@
 ---
 title: Introduction to GIS
 description: This resource contains information regarding introduction to GIS.
-type: courses
+type: course
 layout: pdf
 uid: 5b24f942b9d6359381d3934a9afa7377
 file_type: application/pdf

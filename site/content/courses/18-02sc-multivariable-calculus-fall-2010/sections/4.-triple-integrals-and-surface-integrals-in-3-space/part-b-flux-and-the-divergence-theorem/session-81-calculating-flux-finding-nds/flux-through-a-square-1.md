@@ -746,6 +746,6 @@ transcript: >-
   m='599040'>think</span> <span m='599240'>I'll</span> <span
   m='599330'>stop.</span> </p>
 uid: 1392043442c40c3e3089d4af75c1816a
-type: courses
+type: course
 layout: video
 ---

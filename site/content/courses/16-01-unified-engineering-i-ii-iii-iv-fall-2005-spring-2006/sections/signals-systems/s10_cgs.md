@@ -1,7 +1,7 @@
 ---
 title: s10_cgs.pdf
 description: Concept questions about the the partial fraction expansion of transform.
-type: courses
+type: course
 layout: pdf
 uid: 693c373297802920b15f233de61863f9
 file_type: application/pdf

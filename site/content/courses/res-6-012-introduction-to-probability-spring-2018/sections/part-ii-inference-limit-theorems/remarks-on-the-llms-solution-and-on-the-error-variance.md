@@ -190,6 +190,6 @@ transcript: >-
   uncertainty in Theta</span> <span m="477310">will be reduced through the
   process of estimation.</span></p>
 uid: b4f9390b47de37cbfe23d3983359e2cc
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: u03_ps07_sol.pdf
 description: This file contains the solutions for the questions asked in U3.
-type: courses
+type: course
 layout: pdf
 uid: b74d645902e5622f60d37dbf58d99094
 file_type: application/pdf

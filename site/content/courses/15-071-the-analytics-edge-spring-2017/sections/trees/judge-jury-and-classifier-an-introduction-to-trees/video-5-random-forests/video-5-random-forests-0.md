@@ -518,6 +518,6 @@ transcript: >-
   m='459176'>to</span> <span m='459597'>this</span> <span
   m='460018'>method.</span> </p>
 uid: 192445d3c87575029cd760d454ff78e8
-type: courses
+type: course
 layout: video
 ---

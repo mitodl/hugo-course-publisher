@@ -1,7 +1,7 @@
 ---
 title: 'Conditional Probability: Monty Hall Conditional Confusions'
 description: This file contains information regarding monty hall conditional confusions.
-type: courses
+type: course
 layout: pdf
 uid: ea1bf02b2ee8ccc0e0885bfc6e812242
 file_type: application/pdf

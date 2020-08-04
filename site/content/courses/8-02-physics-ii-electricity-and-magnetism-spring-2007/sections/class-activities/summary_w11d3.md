@@ -1,7 +1,7 @@
 ---
 title: summary_w11d3.pdf
 description: This resurce is about RC and RL Circuits.
-type: courses
+type: course
 layout: pdf
 uid: 0b555c18394564326a00eea65928cdae
 file_type: application/pdf

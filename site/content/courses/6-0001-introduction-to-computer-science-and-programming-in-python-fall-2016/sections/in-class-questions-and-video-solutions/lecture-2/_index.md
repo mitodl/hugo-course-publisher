@@ -1,16 +1,14 @@
 ---
 title: Lecture 2
 course_id: 6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016
+type: course
+layout: videogallery
 menu:
   6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016:
     identifier: 666db218db6d8103cdcf41e2960132be
-    type: section
-    layout: section
     name: Lecture 2
     weight: 70
     parent: cc74bf5b1a22399e271270abfff469d7
-type: courses
-layout: videogallery
 ---
 1.  ### Strings
     

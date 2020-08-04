@@ -1,7 +1,7 @@
 ---
 title: f08_ps10_fall03.pdf
 description: This resource contains problems related to Wright Brothers wind tunnel.
-type: courses
+type: course
 layout: pdf
 uid: a0a7db4ef99a41bb644e4e03a0cadddf
 file_type: application/pdf

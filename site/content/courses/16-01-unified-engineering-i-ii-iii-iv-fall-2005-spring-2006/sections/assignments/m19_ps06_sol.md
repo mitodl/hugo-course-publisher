@@ -3,7 +3,7 @@ title: m19_ps06_sol.pdf
 description: >-
   This resource provides solutions to the problem set on power density, critical
   crack size, and usage of damage tolerant design approach.
-type: courses
+type: course
 layout: pdf
 uid: e0a617ab03185cee4f28986178ce0968
 file_type: application/pdf

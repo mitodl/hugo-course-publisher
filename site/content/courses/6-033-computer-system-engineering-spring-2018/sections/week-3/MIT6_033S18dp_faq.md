@@ -1,7 +1,7 @@
 ---
 title: 'Computer System Engineering, Design Project FAQ'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 64c76f726de3a311cd25009c4ea1e872
 file_type: application/pdf

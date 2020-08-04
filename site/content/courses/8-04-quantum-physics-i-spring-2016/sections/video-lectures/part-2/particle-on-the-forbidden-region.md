@@ -395,6 +395,6 @@ transcript: >-
   m='407580'>Nothing</span> <span m='407970'>strange</span> <span
   m='408500'>about it.</span> </p>
 uid: c69a097e066525be9101aab64bd286f1
-type: courses
+type: course
 layout: video
 ---

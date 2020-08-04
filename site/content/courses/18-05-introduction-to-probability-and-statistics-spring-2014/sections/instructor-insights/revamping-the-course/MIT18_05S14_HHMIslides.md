@@ -1,7 +1,7 @@
 ---
 title: MIT18_05S14_HHMIslides
 description: Slide deck for HHMI seminar
-type: courses
+type: course
 layout: pdf
 uid: 984478a872e781bd1c501cc0b0dd90ac
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: egg_info.pdf
 description: >-
   This resource contains information on resource related to the aerial
   competition.
-type: courses
+type: course
 layout: pdf
 uid: 04acb69ea0a09ae676dcfe24b9d16b50
 file_type: application/pdf

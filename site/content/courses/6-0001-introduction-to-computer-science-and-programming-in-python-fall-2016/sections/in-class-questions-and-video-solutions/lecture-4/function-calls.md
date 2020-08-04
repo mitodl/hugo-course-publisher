@@ -233,6 +233,6 @@ transcript: >-
   <span m='151110'>being</span> <span m='151350'>this</span> <span
   m='151560'>none.</span> </p>
 uid: aa5ba8eda730fe61e8d642e0aa2dd5c5
-type: courses
+type: course
 layout: video
 ---

@@ -1,11 +1,11 @@
 ---
 title: Software
 course_id: 6-0002-introduction-to-computational-thinking-and-data-science-fall-2016
+type: course
+layout: course_section
 menu:
   6-0002-introduction-to-computational-thinking-and-data-science-fall-2016:
     identifier: 8a9c704c976eb89f0669ffb242aa0ac8
-    type: section
-    layout: section
     name: Software
     weight: 60
 ---

@@ -1,7 +1,7 @@
 ---
 title: Week 9 Recitation Video 1 - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: e4319f683e5e7f910c276f5157ef4545
 file_type: application/pdf

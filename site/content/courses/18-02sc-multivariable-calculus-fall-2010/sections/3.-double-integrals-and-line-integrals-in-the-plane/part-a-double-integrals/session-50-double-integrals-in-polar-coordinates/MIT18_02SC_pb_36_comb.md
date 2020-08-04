@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_36_comb.pdf
 description: >-
   This resource contains problems and solutions for double integration in polar
   coordinates. 
-type: courses
+type: course
 layout: pdf
 uid: 06f13867c21c1e94e825a0d0a95ff846
 file_type: application/pdf

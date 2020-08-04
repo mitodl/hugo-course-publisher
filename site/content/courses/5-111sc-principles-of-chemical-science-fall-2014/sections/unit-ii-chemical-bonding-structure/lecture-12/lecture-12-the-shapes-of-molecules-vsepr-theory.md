@@ -2965,6 +2965,6 @@ transcript: >-
   m="2703910">everybody</span> <span m="2704520">on</span> <span
   m="2704710">Monday.</span></p><p>&nbsp;</p>
 uid: 3b4ec3ab52c4e6aec53e7e0745fd1565
-type: courses
+type: course
 layout: video
 ---

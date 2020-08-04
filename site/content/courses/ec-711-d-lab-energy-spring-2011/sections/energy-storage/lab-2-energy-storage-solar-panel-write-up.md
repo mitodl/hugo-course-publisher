@@ -1,11 +1,11 @@
 ---
 title: Lab 2 Writeup Assignment
 course_id: ec-711-d-lab-energy-spring-2011
+type: course
+layout: course_section
 menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: 5e62a2ae6757222a296a99da52f7bade
-    type: section
-    layout: section
     name: Lab 2 Writeup Assignment
     weight: 90
     parent: bd09c1cc93fd481d39456e105dc16816

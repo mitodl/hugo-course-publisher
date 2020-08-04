@@ -1,7 +1,7 @@
 ---
 title: MIT18_06S10_pset7_s10_soln.pdf
 description: This resource contains information related to tridiagonal matrix of order n.
-type: courses
+type: course
 layout: pdf
 uid: 4d1ef28c0836e81caec9122a69c7b931
 file_type: application/pdf

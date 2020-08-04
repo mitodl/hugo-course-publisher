@@ -471,6 +471,6 @@ transcript: >-
   m='343027'>logistic</span> <span m='343735'>regression-based</span> <span
   m='344442'>approach.</span> </p>
 uid: 93d87890df832e4f0789963c954b04fc
-type: courses
+type: course
 layout: video
 ---

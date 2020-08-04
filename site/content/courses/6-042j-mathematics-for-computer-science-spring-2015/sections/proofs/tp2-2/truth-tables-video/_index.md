@@ -1,7 +1,7 @@
 ---
 title: 1.4 Logic & Propositions
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Digital Logic: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/digital-logic-video" %}})

@@ -517,6 +517,6 @@ transcript: >-
   m='495186'>our</span> <span m='495468'>problem</span> <span
   m='495750'>in</span> <span m='496520'>LibreOffice.</span> </p>
 uid: 3b933458bb21e6d85701e79e8fd8e0f6
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: 'Sums & Products: Arithmetic Sums'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: b3301f2691a75f6c7a1c19c28837bdfe
 file_type: application/pdf

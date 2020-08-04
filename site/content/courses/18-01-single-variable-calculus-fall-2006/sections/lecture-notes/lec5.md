@@ -3,7 +3,7 @@ title: 'Lecture 5: Implicit Differentiation and Inverses'
 description: >-
   Lecture notes on implicit differentiation, inverse functions, and graphing and
   inverse function.
-type: courses
+type: course
 layout: pdf
 uid: 18d6a86a30a4bc046c5f7034d47587f1
 file_type: application/pdf

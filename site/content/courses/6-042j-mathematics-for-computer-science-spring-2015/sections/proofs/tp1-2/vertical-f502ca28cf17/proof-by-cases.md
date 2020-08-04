@@ -544,6 +544,6 @@ transcript: >-
   m='404280'>to</span> <span m='404430'>you</span> <span m='405420'>in</span>
   <span m='405610'>class</span> <span m='407510'>tomorrow.</span> </p>
 uid: da1566f6621343d1a672a28be438fb01
-type: courses
+type: course
 layout: video
 ---

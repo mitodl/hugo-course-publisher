@@ -1132,6 +1132,6 @@ transcript: >-
   m='984270'>answers</span> <span m='984590'>against</span> <span
   m='984780'>the</span> <span m='984970'>solution.</span> </p>
 uid: dd63367b4aab419633aebfaca6802285
-type: courses
+type: course
 layout: video
 ---

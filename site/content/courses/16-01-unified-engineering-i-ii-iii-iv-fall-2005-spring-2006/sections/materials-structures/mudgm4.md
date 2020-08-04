@@ -4,7 +4,7 @@ description: >-
   This resource contains review questions and answers based on general
   expression for relationships between applied load, sheer forces and bending
   moment distribution.
-type: courses
+type: course
 layout: pdf
 uid: c5c4f49b7440b1a5a78c7bfcc0eddd81
 file_type: application/pdf

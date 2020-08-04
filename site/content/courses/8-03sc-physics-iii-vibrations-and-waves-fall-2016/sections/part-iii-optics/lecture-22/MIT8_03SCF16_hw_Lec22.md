@@ -1,7 +1,7 @@
 ---
 title: 'MIT 8.03SC Fall 2016 Lecture 22: Diffraction, Resolution'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 31bce0c99a001d405b5c6be14ac9e249
 file_type: application/pdf

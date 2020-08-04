@@ -620,6 +620,6 @@ transcript: >-
   m='575140'>and</span> <span m='576070'>I'll</span> <span m='576420'>end</span>
   <span m='576630'>with</span> <span m='576800'>that.</span> </p>
 uid: 59437ff025d8721880b85a663e9c3fba
-type: courses
+type: course
 layout: video
 ---

@@ -4818,6 +4818,6 @@ transcript: >-
   again.</span> </p><p><span m='5380850'>IVAN MASYUKOV: Thank</span> <span
   m='5381060'>you.</span> </p><p></p>
 uid: 79e71cc1f7a5385f180bdae971024f9d
-type: courses
+type: course
 layout: video
 ---

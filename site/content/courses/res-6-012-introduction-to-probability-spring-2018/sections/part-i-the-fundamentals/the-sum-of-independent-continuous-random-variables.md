@@ -163,6 +163,6 @@ transcript: >-
   an amount of little z, cross multiply</span> <span m='401070'>terms, and
   integrate them out.</span> </p><p></p>
 uid: 95ae217f5c8ce577c8559e1a9df23d82
-type: courses
+type: course
 layout: video
 ---

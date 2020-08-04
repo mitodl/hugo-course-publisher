@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_guide7.pdf
 description: 'This resource contains information related to techniques of integration. '
-type: courses
+type: course
 layout: pdf
 uid: ae2c0045d3c78928e58a658e3bd4de66
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: MITRES_6_007S11_hw21.pdf
 description: >-
   This resource contains problem set related to continuous-time second-order
   systems.
-type: courses
+type: course
 layout: pdf
 uid: 31896d1c870ed52b6dbd82b5787b4cba
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: hw8.pdf
 description: This resources discusses about MOSFET.
-type: courses
+type: course
 layout: pdf
 uid: 65346a991b4299dfc3e7ce4a8dd6165b
 file_type: application/pdf

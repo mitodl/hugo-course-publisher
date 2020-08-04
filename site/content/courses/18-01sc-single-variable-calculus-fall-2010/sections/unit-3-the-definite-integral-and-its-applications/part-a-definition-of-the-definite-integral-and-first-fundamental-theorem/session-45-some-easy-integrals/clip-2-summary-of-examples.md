@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Summary of Examples'
 transcript: ''
 uid: 26f6623d9d22bf7c88e71630a8cb811b
-type: courses
+type: course
 layout: video
 ---

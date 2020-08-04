@@ -1,11 +1,11 @@
 ---
 title: Class Topics
 course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
+type: course
+layout: course_section
 menu:
   8-02-physics-ii-electricity-and-magnetism-spring-2007:
     identifier: c88cb40ffffd4c20c361c1647b887b4e
-    type: section
-    layout: section
     name: Class Topics
     weight: 20
 ---

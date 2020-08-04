@@ -163,6 +163,6 @@ transcript: >-
   PDF of</span> <span m='438880'>X and also the marginal PDF of Y.</span>
   </p><p></p>
 uid: d5803cb91876b1ece46f8bdf933bfb0b
-type: courses
+type: course
 layout: video
 ---

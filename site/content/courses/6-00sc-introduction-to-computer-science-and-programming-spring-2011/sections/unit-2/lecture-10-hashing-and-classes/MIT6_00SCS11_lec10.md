@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 10 handout: hashing and classes'
 description: This resource contains information related to hashing and classes.
-type: courses
+type: course
 layout: pdf
 uid: e299b670216c731c44f1a9038c495852
 file_type: application/pdf

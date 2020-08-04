@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Optimization Problem'
 transcript: ''
 uid: ea9f5076906fd2e1c09180435a82baaf
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses1.7prob.pdf
 description: >-
   This resource contains problem sets related to solving Ax = 0: pivot
   variables, special solutions.
-type: courses
+type: course
 layout: pdf
 uid: 67a97b58e4ee19bfe2ac57ab94cddff8
 file_type: application/pdf

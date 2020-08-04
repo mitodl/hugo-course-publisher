@@ -1,16 +1,14 @@
 ---
 title: '11.3 Demo: Rotating Bucket'
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: videogallery
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: b7f96b057d1013b3d2749791547f1e2f
-    type: section
-    layout: section
     name: '11.3 Demo: Rotating Bucket'
     weight: 720
     parent: 3c7d357cbb95e729679b539d23714ede
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/11.2-worked-example-car-on-a-banked-turn" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion" %}}) »
 

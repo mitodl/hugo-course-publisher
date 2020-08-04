@@ -1,7 +1,7 @@
 ---
 title: hiMIT18_01SCF10_Ses34b.pdf
 description: This resource contains information about introduction to the mean.
-type: courses
+type: course
 layout: pdf
 uid: 70b03126d02cdf5b87bc59e6e515bc73
 file_type: application/pdf

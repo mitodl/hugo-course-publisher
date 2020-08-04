@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex90sol.pdf
 description: >-
   This resource contains the solutions for the problems related to the extension
   of l’Hˆopital’s rule.
-type: courses
+type: course
 layout: pdf
 uid: 299f052a016230a785ca6bf44b79d6db
 file_type: application/pdf

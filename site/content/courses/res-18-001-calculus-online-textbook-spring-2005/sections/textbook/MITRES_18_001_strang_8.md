@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang_8.pdf
 description: This resource contains information related to applications of integrals.
-type: courses
+type: course
 layout: pdf
 uid: 93abff40e57c59af839979f32e763688
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: 'Sums & Products: Integral Method'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: e59c25b34b58471afa83f72aa79d419e
 file_type: application/pdf

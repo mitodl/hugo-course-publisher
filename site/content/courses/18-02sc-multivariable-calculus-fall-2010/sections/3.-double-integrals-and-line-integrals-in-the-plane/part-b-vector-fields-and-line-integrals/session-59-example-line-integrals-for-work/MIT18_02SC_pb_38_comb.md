@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_38_comb.pdf
 description: 'This resource contains problems and solutions related to work integrals. '
-type: courses
+type: course
 layout: pdf
 uid: 9130c47c485030c068cf2323d6fe984c
 file_type: application/pdf

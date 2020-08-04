@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 1: Derivatives, Slope, Velocity, and Rate of Change'
 description: 'Lecture notes on derivatives, slope, velocity, and rate of change.'
-type: courses
+type: course
 layout: pdf
 uid: c6a2d4081848972d197c41332e604d49
 file_type: application/pdf

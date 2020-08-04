@@ -157,6 +157,6 @@ transcript: >-
   <span m='100379'>of</span> <span m='100849'>text</span> <span
   m='101319'>analytics.</span> </p>
 uid: 09086b89e3fe1b0284c59e4633719b24
-type: courses
+type: course
 layout: video
 ---

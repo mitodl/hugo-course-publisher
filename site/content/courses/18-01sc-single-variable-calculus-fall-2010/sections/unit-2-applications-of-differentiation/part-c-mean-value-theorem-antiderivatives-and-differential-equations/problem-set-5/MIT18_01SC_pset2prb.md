@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SC_pset2prb.pdf
 description: 'This resource contains problem sets of applications of differentiation. '
-type: courses
+type: course
 layout: pdf
 uid: 0d7855ac225e4020cd3f258691a286cd
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: 'Counting with Bijections: Bijections'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: b7fe836d609ba16688f50c3642fda67a
 file_type: application/pdf

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Integration by "Advanced Guessing"'
 transcript: ''
 uid: f82e29b872d7610198c045e3dc6eb273
-type: courses
+type: course
 layout: video
 ---

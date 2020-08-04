@@ -286,6 +286,6 @@ transcript: >-
   m='222500'>the</span> <span m='223253'>software,</span> <span
   m='224006'>LibreOffice.</span> </p>
 uid: 5452930d6f27986d4b45a529f5debada
-type: courses
+type: course
 layout: video
 ---

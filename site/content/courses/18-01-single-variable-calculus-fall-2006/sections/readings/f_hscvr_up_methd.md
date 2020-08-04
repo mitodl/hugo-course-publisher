@@ -1,7 +1,7 @@
 ---
 title: Heaviside's Cover-up Method
 description: Supplement to the textbook on Heaviside's cover-up method.
-type: courses
+type: course
 layout: pdf
 uid: dda2e5c7522ac8cd77fba8ba9f8524ac
 file_type: application/pdf

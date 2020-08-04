@@ -1,7 +1,7 @@
 ---
 title: 'Class 16 Slides: Probability intervals'
 description: This is a resource file that contains information regarding class 16.
-type: courses
+type: course
 layout: pdf
 uid: b38b4bd8b31cd5d2d2e31892c7649f7d
 file_type: application/pdf

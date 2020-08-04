@@ -3189,6 +3189,6 @@ transcript: >-
   m='3045250'>it</span> <span m='3045400'>for</span> <span
   m='3045540'>BFS.</span> </p>
 uid: b65b8bf0e34e8fb4a3d34c0f51f75d6c
-type: courses
+type: course
 layout: video
 ---

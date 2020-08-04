@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_guide1.pdf
 description: This resource contains information related to introduction to calculus.
-type: courses
+type: course
 layout: pdf
 uid: 459aa0101207e31159ab5d0e07d62644
 file_type: application/pdf

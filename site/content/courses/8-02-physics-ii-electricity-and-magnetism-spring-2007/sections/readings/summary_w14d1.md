@@ -4,7 +4,7 @@ description: >-
   This resource talks about one of the most common types of antennae, the
   quarter-wavelength antenna, and a lab using a type of this antenna, called the
   spark-gap transmitter.
-type: courses
+type: course
 layout: pdf
 uid: 52a0153a9552f8f4deb459efd3bd1392
 file_type: application/pdf

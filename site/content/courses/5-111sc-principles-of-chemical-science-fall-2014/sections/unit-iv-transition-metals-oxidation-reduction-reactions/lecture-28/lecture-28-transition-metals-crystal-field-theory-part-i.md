@@ -3808,6 +3808,6 @@ transcript: >-
   m="3204300">time</span> <span m="3204540">of</span> <span
   m="3204670">year.</span></p><p>&nbsp;</p>
 uid: cea5735d3ed5ba463b11ea6575b9ea5e
-type: courses
+type: course
 layout: video
 ---

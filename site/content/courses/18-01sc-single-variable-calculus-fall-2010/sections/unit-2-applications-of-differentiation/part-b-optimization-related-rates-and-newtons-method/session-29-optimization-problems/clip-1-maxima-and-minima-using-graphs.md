@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 1: Maxima and Minima Using Graphs'
 transcript: ''
 uid: 2b5b02553beb7e4b5611f43156cf17e1
-type: courses
+type: course
 layout: video
 ---

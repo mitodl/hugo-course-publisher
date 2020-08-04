@@ -3,7 +3,7 @@ title: 'Well Ordering Principle: Chapter 2.1 – 2.3'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Well ordering principle: Chapter 2.1 – 2.3.
-type: courses
+type: course
 layout: pdf
 uid: e998dc8f0e9f1624f02c4740799d72a1
 file_type: application/pdf

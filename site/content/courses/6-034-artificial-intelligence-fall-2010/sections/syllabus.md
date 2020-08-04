@@ -1,11 +1,11 @@
 ---
 title: Syllabus
 course_id: 6-034-artificial-intelligence-fall-2010
+type: course
+layout: course_section
 menu:
   6-034-artificial-intelligence-fall-2010:
     identifier: a2b2926836a2c230adb05be9acb8ab60
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
 ---

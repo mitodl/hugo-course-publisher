@@ -1251,6 +1251,6 @@ transcript: >-
   m='1050766'>I'll</span> <span m='1050880'>end</span> <span
   m='1050995'>there.</span> </p>
 uid: 079c829fd16cbb1c7f208f883f412385
-type: courses
+type: course
 layout: video
 ---

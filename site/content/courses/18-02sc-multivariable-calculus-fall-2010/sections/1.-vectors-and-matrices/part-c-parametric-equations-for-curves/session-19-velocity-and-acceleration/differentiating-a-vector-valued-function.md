@@ -1213,6 +1213,6 @@ transcript: >-
   m='843440'>that's</span> <span m='843590'>where</span> <span
   m='843710'>I'll</span> <span m='843750'>stop.</span> </p>
 uid: 51a9d36ac051dba1159773cedeb06974
-type: courses
+type: course
 layout: video
 ---

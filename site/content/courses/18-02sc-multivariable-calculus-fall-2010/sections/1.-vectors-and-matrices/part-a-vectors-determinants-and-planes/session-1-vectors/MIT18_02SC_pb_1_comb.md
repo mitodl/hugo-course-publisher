@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_1_comb.pdf
 description: This resource contains problem statements and solutions related to vectors.
-type: courses
+type: course
 layout: pdf
 uid: bc8ee5dc17d5d9e222e8bdcdedeb10dd
 file_type: application/pdf

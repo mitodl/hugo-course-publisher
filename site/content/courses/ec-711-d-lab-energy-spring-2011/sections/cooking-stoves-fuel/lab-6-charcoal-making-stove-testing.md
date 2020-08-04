@@ -41,6 +41,6 @@ technical_location: >-
 title: 'Lab 6: Charcoal Making & Stove Testing'
 transcript: ''
 uid: 773a1612a184f4d43e834ed4fcbd9093
-type: courses
+type: course
 layout: video
 ---

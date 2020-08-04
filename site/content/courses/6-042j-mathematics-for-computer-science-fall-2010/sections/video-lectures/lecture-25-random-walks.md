@@ -4374,6 +4374,6 @@ transcript: >-
   m='4667970'>class</span> <span m='4668270'>this year.</span> </p><p><span
   m='4669170'>[APPLAUSE]</span> </p><p></p>
 uid: db334a5e76cc98b14e66f2c6004ec744
-type: courses
+type: course
 layout: video
 ---

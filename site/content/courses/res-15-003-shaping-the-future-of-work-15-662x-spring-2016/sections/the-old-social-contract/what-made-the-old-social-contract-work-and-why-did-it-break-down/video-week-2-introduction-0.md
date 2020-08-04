@@ -569,6 +569,6 @@ transcript: >-
   m='406290'>the</span> <span m='406390'>future</span> <span
   m='406810'>of</span> <span m='407400'>work.</span> </p>
 uid: 06d035ba63e4685595e08e152f634bb9
-type: courses
+type: course
 layout: video
 ---

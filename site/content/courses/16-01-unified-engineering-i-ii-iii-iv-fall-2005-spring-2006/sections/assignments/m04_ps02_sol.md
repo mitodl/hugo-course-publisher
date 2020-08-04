@@ -3,7 +3,7 @@ title: m04_ps02_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on
   deflection.
-type: courses
+type: course
 layout: pdf
 uid: e23c292efb88a8968b8684ec916fad1f
 file_type: application/pdf

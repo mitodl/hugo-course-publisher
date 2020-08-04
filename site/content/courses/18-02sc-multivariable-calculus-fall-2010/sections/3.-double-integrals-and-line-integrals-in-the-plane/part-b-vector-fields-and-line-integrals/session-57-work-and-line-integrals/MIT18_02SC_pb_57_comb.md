@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Problems: Work and Line Integrals'
 description: This resource contains information regarding work and line integrals.
-type: courses
+type: course
 layout: pdf
 uid: 4fd0224e89b48c9cc51c3acfd3a77aad
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: if_then.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 031e11c3d2360d83bb0e173457069b2b
 file_type: application/pdf

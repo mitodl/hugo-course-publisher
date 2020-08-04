@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_we_14_comb.pdf
 description: 'This resource contains information related to second derivative test. '
-type: courses
+type: course
 layout: pdf
 uid: 9c26765a95f72e9d2b317f6687b7e629
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: spring04_pset14.pdf
 description: Problem set on Signals?and?SystemsSignals?and?Systems.
-type: courses
+type: course
 layout: pdf
 uid: 2afff076e74b4b5e06baaa004565f79d
 file_type: application/pdf

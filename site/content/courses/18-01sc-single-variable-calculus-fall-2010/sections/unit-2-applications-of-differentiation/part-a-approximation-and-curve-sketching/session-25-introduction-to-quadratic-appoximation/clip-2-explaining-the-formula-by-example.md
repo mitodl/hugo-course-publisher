@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Explaining the Formula by Example'
 transcript: ''
 uid: dc1bd676ec0195afbeba7edc262a9af9
-type: courses
+type: course
 layout: video
 ---

@@ -122,6 +122,6 @@ transcript: >-
   missed the coefficient of static friction.</span> </p><p><span m='273820'>And
   there we have it, a tricky problem.</span> </p><p></p>
 uid: 96220e96d702364180d2bdf5cae5d365
-type: courses
+type: course
 layout: video
 ---

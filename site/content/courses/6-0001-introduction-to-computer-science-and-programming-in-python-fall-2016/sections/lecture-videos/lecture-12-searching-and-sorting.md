@@ -4190,6 +4190,6 @@ transcript: >-
   m="2901810">luck</span> <span m="2902020">on</span> <span
   m="2902140">the</span> <span m="2902200">exam.</span></p><p>&nbsp;</p>
 uid: a9ad80008108c3c623be7fa49037b76a
-type: courses
+type: course
 layout: video
 ---

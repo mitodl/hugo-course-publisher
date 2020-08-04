@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 9 handout: Memory and search methods'
 description: This resource contains information related to memory and search methods.
-type: courses
+type: course
 layout: pdf
 uid: 18f23403c7c5e742a0bf9886b859f300
 file_type: application/pdf

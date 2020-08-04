@@ -452,6 +452,6 @@ transcript: >-
   m='280980'>future</span> <span m='281330'>of</span> <span
   m='281410'>work.</span> </p>
 uid: f7af3a2213d7cd3714e1620527115339
-type: courses
+type: course
 layout: video
 ---

@@ -124,6 +124,6 @@ transcript: >-
   of the interval over which we</span> <span m='231670'>have our
   distribution.</span> </p><p></p>
 uid: b7a2b42b1aac6ecf5f1a77388d08ef10
-type: courses
+type: course
 layout: video
 ---

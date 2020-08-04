@@ -1,7 +1,7 @@
 ---
 title: s08_concept.pdf
 description: Concept questions.
-type: courses
+type: course
 layout: pdf
 uid: e1792dc774d3ced627ab669b29d175eb
 file_type: application/pdf

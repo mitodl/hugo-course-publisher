@@ -1,7 +1,7 @@
 ---
 title: s11_ps10_sol.pdf
 description: This resource includes the solutions to problem set S11.
-type: courses
+type: course
 layout: pdf
 uid: 845b703380d9f1faf4b5a248229f101a
 file_type: application/pdf

@@ -969,6 +969,6 @@ transcript: >-
   <span m='771850'>95%</span> <span m='773250'>confidence</span> <span
   m='773800'>level.</span> </p>
 uid: 4f8c26c593b96abb75dd6d9dae48a27a
-type: courses
+type: course
 layout: video
 ---

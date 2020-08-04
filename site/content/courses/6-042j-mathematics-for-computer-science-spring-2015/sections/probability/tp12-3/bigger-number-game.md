@@ -1012,6 +1012,6 @@ transcript: >-
   m='736050'>a</span> <span m='736160'>random</span> <span
   m='736480'>variable?</span> </p>
 uid: 8d5f09f355cbee24d39aa64e3d954a55
-type: courses
+type: course
 layout: video
 ---

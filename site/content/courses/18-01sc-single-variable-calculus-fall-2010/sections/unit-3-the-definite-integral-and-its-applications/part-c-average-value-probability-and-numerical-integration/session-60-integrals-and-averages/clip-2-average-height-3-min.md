@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Average Height (3 min)'
 transcript: ''
 uid: 23b977c215c6c476cfc3d8c93c944fdc
-type: courses
+type: course
 layout: video
 ---

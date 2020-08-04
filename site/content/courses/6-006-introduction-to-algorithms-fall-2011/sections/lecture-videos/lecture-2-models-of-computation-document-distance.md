@@ -3498,6 +3498,6 @@ transcript: >-
   m="2929750">be</span> <span m="2929840">about</span> <span
   m="2930070">sorting.</span></p>
 uid: 76c28e47a69f788cf8b45b5d6605cc2c
-type: courses
+type: course
 layout: video
 ---

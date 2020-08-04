@@ -8,7 +8,7 @@ description: >-
   the induced current in the circuit from Lenz?s Law and to look at the forces
   on the current carrying wires in our circuit and determine the effects of
   these forces on the dynamics of the circuit.
-type: courses
+type: course
 layout: pdf
 uid: 79b9a68279c9bfb7452898c5170097e4
 file_type: application/pdf

@@ -6161,6 +6161,6 @@ transcript: >-
   m='4787200'>these</span> <span m='4787320'>subprime</span> <span
   m='4787830'>securities.</span> </p>
 uid: 9ea1f87596ba5afe484a73078861bb4d
-type: courses
+type: course
 layout: video
 ---

@@ -2578,6 +2578,6 @@ transcript: >-
   m='3362300'>Now</span> <span m='3362610'>it's</span> <span m='3362905'>time
   to</span> <span m='3363200'>enjoy.</span> </p>
 uid: bd90017963c3d6eb9b51a8acdf4e0102
-type: courses
+type: course
 layout: video
 ---

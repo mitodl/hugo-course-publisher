@@ -1,7 +1,7 @@
 ---
 title: p06_ps11_spring04.pdf
 description: Problem set.
-type: courses
+type: course
 layout: pdf
 uid: 3de18b49e89354a4dcc02223dd690861
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 7 handout: Debugging'
 description: This resource contains information related to debugging.
-type: courses
+type: course
 layout: pdf
 uid: 20b78cd60fbaf0854b5352b8cf94cae0
 file_type: application/pdf

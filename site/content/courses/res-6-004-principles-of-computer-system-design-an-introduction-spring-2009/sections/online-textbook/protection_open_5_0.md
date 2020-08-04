@@ -1,7 +1,7 @@
 ---
 title: protection_open_5_0.pdf
 description: 'This resource contains information related to information security. '
-type: courses
+type: course
 layout: pdf
 uid: 96b949dd64825a5624ff805aa38e96cd
 file_type: application/pdf

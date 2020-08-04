@@ -994,6 +994,6 @@ transcript: >-
   m='825570'>limit</span> <span m='825880'>is</span> <span
   m='826050'>approached.</span> </p>
 uid: 2c7c152b3256f937767a7ff961c6d5ea
-type: courses
+type: course
 layout: video
 ---

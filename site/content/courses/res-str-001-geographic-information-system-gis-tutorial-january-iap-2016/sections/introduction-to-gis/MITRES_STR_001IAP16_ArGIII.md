@@ -1,7 +1,7 @@
 ---
 title: MITRES_STR_001IAP16_ArGIII.pdf
 description: This resource contains information regarding ArcGIS exercise II.
-type: courses
+type: course
 layout: pdf
 uid: d96872203a1900a59560b3007abd03e3
 file_type: application/pdf

@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip: Exam Review'
 transcript: ''
 uid: 9dd2176f35ad3956ede62d26f792f142
-type: courses
+type: course
 layout: video
 ---

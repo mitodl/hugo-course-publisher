@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip: Planimeter: Green''s Theorem and Area'
 transcript: ''
 uid: fe239332be950ed46b4667a30d855ded
-type: courses
+type: course
 layout: video
 ---

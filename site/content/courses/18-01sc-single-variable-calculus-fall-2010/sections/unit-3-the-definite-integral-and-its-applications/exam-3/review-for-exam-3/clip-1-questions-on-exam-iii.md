@@ -2783,6 +2783,6 @@ transcript: >-
   m='2954180'>other</span> <span m='2954350'>way.</span> <span m='2954670'>Good
   luck,</span> <span m='2956240'>folks.</span> </p>
 uid: 6860e51f44f26502d468b264a800dc5a
-type: courses
+type: course
 layout: video
 ---

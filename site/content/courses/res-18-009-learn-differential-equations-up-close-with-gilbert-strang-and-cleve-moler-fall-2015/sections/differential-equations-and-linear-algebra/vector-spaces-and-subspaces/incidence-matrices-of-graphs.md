@@ -1094,6 +1094,6 @@ transcript: >-
   m='1181960'>many</span> <span m='1182210'>loops.</span> </p><p><span
   m='1183490'>Good.</span> <span m='1184390'>Thank you.</span> </p>
 uid: 322add54a32a286a03c8d2787b771ffa
-type: courses
+type: course
 layout: video
 ---

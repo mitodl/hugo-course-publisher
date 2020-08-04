@@ -1,7 +1,7 @@
 ---
 title: '18.S997 The Basics: Exercise 2'
 description: This resource contains information regarding exercise 2.
-type: courses
+type: course
 layout: pdf
 uid: 01d3a55deacc16722d6209afbfd9ee44
 file_type: application/pdf

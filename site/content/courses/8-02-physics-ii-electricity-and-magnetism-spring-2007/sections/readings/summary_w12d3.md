@@ -3,7 +3,7 @@ title: summary_w12d3.pdf
 description: >-
   This file deals with practicing the ideas of displacement current and the
   Poynting vector.
-type: courses
+type: course
 layout: pdf
 uid: 3034ee731a152a139915c63e8fa1a675
 file_type: application/pdf

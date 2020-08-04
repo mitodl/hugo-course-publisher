@@ -969,6 +969,6 @@ transcript: >-
   m='785690'>60,</span> <span m='785765'>04,</span> <span m='785840'>or</span>
   <span m='785915'>42.</span> </p>
 uid: 9e66098a083569eeee967d5b6291fe4b
-type: courses
+type: course
 layout: video
 ---

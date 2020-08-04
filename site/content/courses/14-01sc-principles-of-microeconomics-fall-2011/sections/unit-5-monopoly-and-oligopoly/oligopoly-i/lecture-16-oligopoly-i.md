@@ -3470,6 +3470,6 @@ transcript: >-
   m='3001860'>the</span> <span m='3001950'>math</span> <span m='3002220'>behind
   it</span> <span m='3002530'>as</span> <span m='3002710'>well.</span> </p>
 uid: 8361fefade400714e9c68b151720ada7
-type: courses
+type: course
 layout: video
 ---

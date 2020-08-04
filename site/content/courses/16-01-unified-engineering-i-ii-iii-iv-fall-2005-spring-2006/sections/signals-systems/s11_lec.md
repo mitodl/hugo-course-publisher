@@ -1,7 +1,7 @@
 ---
 title: s11_lec.pdf
 description: Handwritten lecture notes on Concept of state and state variables.
-type: courses
+type: course
 layout: pdf
 uid: 7fcc883570a26a9afab51eebe5c5edbb
 file_type: application/pdf

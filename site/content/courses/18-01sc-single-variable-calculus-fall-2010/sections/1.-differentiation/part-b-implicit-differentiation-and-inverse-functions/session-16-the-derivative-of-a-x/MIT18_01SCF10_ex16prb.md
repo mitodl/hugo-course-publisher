@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex16prb.pdf
 description: This resource contains problem statements related to compound interest.
-type: courses
+type: course
 layout: pdf
 uid: fe31d67dca131a9e328bad9d864e2a0f
 file_type: application/pdf

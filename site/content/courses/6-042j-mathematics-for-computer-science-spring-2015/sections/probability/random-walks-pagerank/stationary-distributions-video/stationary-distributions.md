@@ -1193,6 +1193,6 @@ transcript: >-
   m='959320'>on</span> <span m='959440'>the</span> <span
   m='959530'>graph.</span> </p>
 uid: cd94c07f582fe3cfe01344ee872b8f3d
-type: courses
+type: course
 layout: video
 ---

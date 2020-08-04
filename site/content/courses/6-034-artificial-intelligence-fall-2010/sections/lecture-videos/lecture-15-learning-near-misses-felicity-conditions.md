@@ -906,6 +906,6 @@ transcript: >-
   yourself smarter, and how to make</span> <span m='2798220'>yourself more
   famous.</span> </p><p></p>
 uid: 69c3f174890ae9d040802ca9e013df19
-type: courses
+type: course
 layout: video
 ---

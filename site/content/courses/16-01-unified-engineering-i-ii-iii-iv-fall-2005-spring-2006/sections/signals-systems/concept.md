@@ -1,7 +1,7 @@
 ---
 title: concept.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 5626ebc438354ac1776267caca4af2cd
 file_type: application/pdf

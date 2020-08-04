@@ -741,6 +741,6 @@ transcript: >-
   m='837090'>of</span> <span m='837170'>it.</span> <span
   m='837470'>Thanks.</span> </p>
 uid: f6953ad9996049360951922933fe9c4e
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 2.1 What Made the Old Social Contract Work and Why did It Break Down?
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Video: The New Deal at Work]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/the-old-social-contract/what-made-the-old-social-contract-work-and-why-did-it-break-down/video-the-new-deal-at-work" %}})

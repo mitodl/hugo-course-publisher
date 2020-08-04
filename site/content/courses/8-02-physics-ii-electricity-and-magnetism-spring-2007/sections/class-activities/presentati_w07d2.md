@@ -6,7 +6,7 @@ description: >-
   right hand rules, magnetic dipole, magnetic levitation, para/ferromagnetism,
   diamagnetism, the biot-savart law, applying Ampere?s law, magnetic field of
   solenoid, and maxwell?s equations.
-type: courses
+type: course
 layout: pdf
 uid: 4d875c9c95656abc535e7416d90c333f
 file_type: application/pdf

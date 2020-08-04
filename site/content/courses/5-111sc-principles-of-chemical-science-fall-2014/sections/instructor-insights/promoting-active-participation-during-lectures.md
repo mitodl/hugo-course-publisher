@@ -341,6 +341,6 @@ transcript: >-
   m='227710'>with</span> <span m='228030'>the</span> <span
   m='228110'>material.</span> </p>
 uid: b47d148ba984da92972a10881621edd4
-type: courses
+type: course
 layout: video
 ---

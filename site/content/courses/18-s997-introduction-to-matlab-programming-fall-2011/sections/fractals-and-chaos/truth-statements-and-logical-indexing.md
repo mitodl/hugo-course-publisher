@@ -1,11 +1,11 @@
 ---
 title: Truth Statements and Logical Indexing
 course_id: 18-s997-introduction-to-matlab-programming-fall-2011
+type: course
+layout: course_section
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: f5001e474d284c8ad02d71a23087e038
-    type: section
-    layout: section
     name: Truth Statements and Logical Indexing
     weight: 240
     parent: 1d7068b5ce8d3b56622ae79682a1dd43

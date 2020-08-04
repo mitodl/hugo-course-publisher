@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang_16.pdf
 description: This resource contains information related to mathematics after calculus.
-type: courses
+type: course
 layout: pdf
 uid: 1d361df5d5913da2b61f0e0cd509a357
 file_type: application/pdf

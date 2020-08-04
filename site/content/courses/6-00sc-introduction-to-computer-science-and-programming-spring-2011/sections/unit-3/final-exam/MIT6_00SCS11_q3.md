@@ -1,7 +1,7 @@
 ---
 title: MIT6_00SCS11_q3.pdf
 description: This resource contains problem set related to final exam.
-type: courses
+type: course
 layout: pdf
 uid: b32eb3ce352938c884d0da30459f8033
 file_type: application/pdf

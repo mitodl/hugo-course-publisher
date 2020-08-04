@@ -3516,6 +3516,6 @@ transcript: >-
   m='3159320'>you</span> <span m='3159400'>do</span> <span
   m='3159570'>it.</span> </p>
 uid: a394c84bb84c79e401a7614c549dc8e2
-type: courses
+type: course
 layout: video
 ---

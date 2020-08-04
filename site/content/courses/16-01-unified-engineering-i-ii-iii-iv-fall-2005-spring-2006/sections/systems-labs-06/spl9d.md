@@ -1,7 +1,7 @@
 ---
 title: spl9d.pdf
 description: This file contains the diagrams for Wing Mount Alternatives.
-type: courses
+type: course
 layout: pdf
 uid: 53d25e39b0df7c1b25ed7b3718bd1691
 file_type: application/pdf

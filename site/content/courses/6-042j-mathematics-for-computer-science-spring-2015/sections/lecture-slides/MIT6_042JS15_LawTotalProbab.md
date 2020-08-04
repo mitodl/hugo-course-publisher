@@ -1,7 +1,7 @@
 ---
 title: 'Conditional Probability: Law Of Total Probability'
 description: This file contains information regarding law Of total probability.
-type: courses
+type: course
 layout: pdf
 uid: 45e48b56fcd1d69f667095a3c33ead7b
 file_type: application/pdf

@@ -2629,6 +2629,6 @@ transcript: >-
   m='2987300'>basically</span> <span m='2989790'>reduce</span> <span
   m='2990020'>the risks.</span> </p>
 uid: 9b6e0e7955ed6dede9cb1596c955d5c7
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_NotesText.pdf
 description: This resource contains information related to notes.
-type: courses
+type: course
 layout: pdf
 uid: 00565011343cff296f38f7f319f5e37d
 file_type: application/pdf

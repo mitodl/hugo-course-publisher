@@ -1,11 +1,11 @@
 ---
 title: 'Part A: Approximation and Curve Sketching'
 course_id: 18-01sc-single-variable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 8c88ae0417475c6dae97e569853bfd9e
-    type: section
-    layout: section
     name: 'Part A: Approximation and Curve Sketching'
     weight: 310
     parent: c2ca8a0d20e596b11e2ec5c48c7179ca

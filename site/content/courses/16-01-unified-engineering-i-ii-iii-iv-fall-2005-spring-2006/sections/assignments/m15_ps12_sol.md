@@ -4,7 +4,7 @@ description: >-
   This resource contains handwritten solutions to the given problem set on
   components of strain tensor, principal strain and principal strain directions,
   and volumetric strain.
-type: courses
+type: course
 layout: pdf
 uid: 36111e03ff4324d47f7b19830b8104dc
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: spring04_pset11.pdf
 description: 'Problem set regarding robust algorithm,Ada95 program.'
-type: courses
+type: course
 layout: pdf
 uid: 323be974f0fbcb8dd4842a996d08582c
 file_type: application/pdf

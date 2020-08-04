@@ -2,11 +2,11 @@
 title: Student Reflections
 course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
+type: course
+layout: course_section
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: dadfeb1198fbe700d205d71a4c85f081
-    type: section
-    layout: section
     name: Student Reflections
     weight: 320
 ---

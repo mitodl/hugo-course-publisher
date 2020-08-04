@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 33: Kinetics and Temperature'
 description: This file contains information regarding  lecture 33.
-type: courses
+type: course
 layout: pdf
 uid: 8cc04e9633b3f2e219d52f546d14e39c
 file_type: application/pdf

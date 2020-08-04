@@ -1,7 +1,7 @@
 ---
 title: bigorecurrences.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 9ea490a9e30d004f9a24f4151b05749b
 file_type: application/pdf

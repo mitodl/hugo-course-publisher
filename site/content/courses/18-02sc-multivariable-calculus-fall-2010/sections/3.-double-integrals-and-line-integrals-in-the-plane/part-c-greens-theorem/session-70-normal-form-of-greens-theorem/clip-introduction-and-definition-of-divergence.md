@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip: Introduction and Definition of Divergence'
 transcript: ''
 uid: fc88312bb5764131ad81164e80c8de92
-type: courses
+type: course
 layout: video
 ---

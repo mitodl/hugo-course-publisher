@@ -1,7 +1,7 @@
 ---
 title: 7_assembly.pdf
 description: Lecture 7 (2003) presentation.
-type: courses
+type: course
 layout: pdf
 uid: bad38792bf945c7b2dd0592fd80e285a
 file_type: application/pdf

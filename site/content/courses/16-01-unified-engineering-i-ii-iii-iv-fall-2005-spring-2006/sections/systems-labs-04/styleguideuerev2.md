@@ -5,7 +5,7 @@ description: >-
   for deliverables
 
   required in 16.62X experimental projects lab.
-type: courses
+type: course
 layout: pdf
 uid: 9b70013b752d0b3b82f118de640f646b
 file_type: application/pdf

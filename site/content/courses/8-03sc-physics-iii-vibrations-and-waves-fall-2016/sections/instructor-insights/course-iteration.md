@@ -182,6 +182,6 @@ transcript: >-
   <span m='142805'>in</span> <span m='143100'>the</span> <span
   m='143370'>2016</span> <span m='144210'>version.</span> </p>
 uid: b55c02a86ffa5a6ef25d5f8d0323aa86
-type: courses
+type: course
 layout: video
 ---

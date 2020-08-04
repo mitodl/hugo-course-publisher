@@ -3,7 +3,7 @@ title: 'Asymptotics: Chapter 13.7'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Asymptotics: Chapter 13.7.
-type: courses
+type: course
 layout: pdf
 uid: 0e4b31e7291a69e157a4a224c36724c3
 file_type: application/pdf

@@ -827,6 +827,6 @@ transcript: >-
   m='831140'>equations.</span> <span m='831990'>Good.</span> <span
   m='832300'>Thank</span> <span m='832580'>you.</span> </p>
 uid: 999d15724c39b0ae6f9fc8f61ac5d7ac
-type: courses
+type: course
 layout: video
 ---

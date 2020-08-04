@@ -3,7 +3,7 @@ title: f12_fall.pdf
 description: >-
   This resource contains information on the topics of Stream Function and
   Velocity Potential.
-type: courses
+type: course
 layout: pdf
 uid: f3b71ae9f458955c60c66305be20afbd
 file_type: application/pdf

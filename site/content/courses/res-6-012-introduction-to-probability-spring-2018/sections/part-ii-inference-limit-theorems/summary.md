@@ -163,6 +163,6 @@ transcript: >-
   tools</span> <span m='336400'>with the specific new concepts that we have
   introduced here.</span> </p>
 uid: 9bbd464de376277d543f9d60a5f78268
-type: courses
+type: course
 layout: video
 ---

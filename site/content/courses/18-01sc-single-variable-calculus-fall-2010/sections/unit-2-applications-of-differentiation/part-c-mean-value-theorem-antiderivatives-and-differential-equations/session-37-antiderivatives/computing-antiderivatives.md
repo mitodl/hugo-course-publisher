@@ -627,6 +627,6 @@ transcript: >-
   m='527710'>the</span> <span m='527790'>beginning.</span> <span
   m='528750'>So</span> <span m='528950'>that's that.</span> </p>
 uid: c85a5bb7d874a76062485fc3dc7d3704
-type: courses
+type: course
 layout: video
 ---

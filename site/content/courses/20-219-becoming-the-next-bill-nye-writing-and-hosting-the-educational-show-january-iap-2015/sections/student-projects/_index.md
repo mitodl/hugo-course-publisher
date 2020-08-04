@@ -2,11 +2,11 @@
 title: Student Projects
 course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
+type: course
+layout: course_section
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: 6df56ca86d884c27d497aee73b724945
-    type: section
-    layout: section
     name: Student Projects
     weight: 240
 ---

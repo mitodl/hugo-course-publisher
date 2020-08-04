@@ -1352,6 +1352,6 @@ transcript: >-
   m='1140270'>and</span> <span m='1140780'>I'm</span> <span m='1140930'>going
   to</span> <span m='1141140'>end</span> <span m='1141310'>there.</span> </p>
 uid: edcda0140b6aaac8c0a0f20f9083e164
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: fall_2003_pset11.pdf
 description: >-
   This resource contains problems on streamline shapes, pressure gradient,
   pressure field, rotation and shearing element motions.
-type: courses
+type: course
 layout: pdf
 uid: f8d7216c0b3e09ef0b692222065bd8d0
 file_type: application/pdf

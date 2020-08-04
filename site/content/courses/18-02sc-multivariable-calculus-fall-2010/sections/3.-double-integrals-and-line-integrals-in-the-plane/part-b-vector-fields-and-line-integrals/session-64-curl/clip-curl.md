@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Curl'
 transcript: ''
 uid: 563784bb7e67efb5452d6d8109d1c117
-type: courses
+type: course
 layout: video
 ---

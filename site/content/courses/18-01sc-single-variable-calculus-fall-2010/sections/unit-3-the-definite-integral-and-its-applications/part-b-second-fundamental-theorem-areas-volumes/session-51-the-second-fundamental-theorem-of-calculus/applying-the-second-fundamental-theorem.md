@@ -330,6 +330,6 @@ transcript: >-
   <span m='253680'>I'll</span> <span m='253780'>stop</span> <span
   m='253990'>there.</span> </p>
 uid: 9667e6c935fc2d3554c5988f8d8a656f
-type: courses
+type: course
 layout: video
 ---

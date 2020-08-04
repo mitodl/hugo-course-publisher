@@ -578,6 +578,6 @@ transcript: >-
   <span m='442860'>to</span> <span m='443030'>the</span> <span
   m='443320'>n.</span> </p>
 uid: 4a69e143e2dd462d8b441244698abebe
-type: courses
+type: course
 layout: video
 ---

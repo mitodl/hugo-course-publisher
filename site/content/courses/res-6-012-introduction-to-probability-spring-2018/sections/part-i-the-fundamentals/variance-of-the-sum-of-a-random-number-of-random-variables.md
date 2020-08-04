@@ -142,6 +142,6 @@ transcript: >-
   power of the law of the</span> <span m='306190'>total variance.</span>
   </p><p></p>
 uid: d68b7d1ac9549bddd358bcc09c8946ad
-type: courses
+type: course
 layout: video
 ---

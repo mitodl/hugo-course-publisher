@@ -3,7 +3,7 @@ title: sp4_asgnt_notes.pdf
 description: >-
   This resource contains information on handwritten notes from a lecture for
   SP7.
-type: courses
+type: course
 layout: pdf
 uid: 5f4354a3d2f6a552115c0c35d1cb5ed5
 file_type: application/pdf

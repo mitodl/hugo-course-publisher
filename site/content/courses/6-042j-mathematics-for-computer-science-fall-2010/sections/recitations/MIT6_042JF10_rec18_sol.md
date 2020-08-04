@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_rec18_sol.pdf
 description: 'This resource contains solutions of total probability law. '
-type: courses
+type: course
 layout: pdf
 uid: 7567cfececbed06faf7e11cc32f6f4ad
 file_type: application/pdf

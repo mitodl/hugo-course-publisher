@@ -1,7 +1,7 @@
 ---
 title: zm7notes.pdf
 description: This resource based on constitutive behavior and compatibility.
-type: courses
+type: course
 layout: pdf
 uid: 01cc8bc2ab8191c3fde969350611bb71
 file_type: application/pdf

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Value of e, Revisited'
 transcript: ''
 uid: ca34ad2429c506afa9cec1a783853611
-type: courses
+type: course
 layout: video
 ---

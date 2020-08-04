@@ -1,11 +1,11 @@
 ---
 title: Readings
 course_id: 6-0002-introduction-to-computational-thinking-and-data-science-fall-2016
+type: course
+layout: course_section
 menu:
   6-0002-introduction-to-computational-thinking-and-data-science-fall-2016:
     identifier: e2607fddb72b757eee93f0b6bfb8415d
-    type: section
-    layout: section
     name: Readings
     weight: 20
 ---

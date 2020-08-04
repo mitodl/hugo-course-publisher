@@ -4939,6 +4939,6 @@ transcript: >-
   m='4018950'>right,</span> <span m='4019160'>see</span> <span
   m='4019330'>you</span> <span m='4019630'>then.</span> </p>
 uid: 2a72f39998ea65ca9ba84ed7e74eba10
-type: courses
+type: course
 layout: video
 ---

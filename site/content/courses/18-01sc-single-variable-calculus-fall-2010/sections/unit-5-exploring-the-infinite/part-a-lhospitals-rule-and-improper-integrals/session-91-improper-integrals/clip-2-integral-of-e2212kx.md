@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Integral of e-kx'
 transcript: ''
 uid: 701d97e93387aae03af499f9fa14663a
-type: courses
+type: course
 layout: video
 ---

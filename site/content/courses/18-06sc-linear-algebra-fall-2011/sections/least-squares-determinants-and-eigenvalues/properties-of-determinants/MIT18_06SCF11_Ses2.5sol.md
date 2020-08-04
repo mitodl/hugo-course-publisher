@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses2.5sol.pdf
 description: >-
   This resource contains solution to problem set related to properties of
   determinants.
-type: courses
+type: course
 layout: pdf
 uid: 4898a00edcd5ddfa9a545446ff6c2e88
 file_type: application/pdf

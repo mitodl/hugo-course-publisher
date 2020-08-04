@@ -1397,6 +1397,6 @@ transcript: >-
   m='1064130'>think</span> <span m='1064370'>I'll</span> <span
   m='1064460'>end</span> <span m='1064565'>there.</span> </p>
 uid: 61c4eae457fa3a716932006a41a5c820
-type: courses
+type: course
 layout: video
 ---

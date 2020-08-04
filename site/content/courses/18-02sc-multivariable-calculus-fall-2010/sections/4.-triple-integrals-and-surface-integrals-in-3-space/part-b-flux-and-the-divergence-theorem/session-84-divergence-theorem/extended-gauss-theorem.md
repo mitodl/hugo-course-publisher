@@ -1365,6 +1365,6 @@ transcript: >-
   m='1128972'>4*pi.</span> <span m='1130220'>I'll</span> <span
   m='1130410'>stop</span> <span m='1130760'>there.</span> </p>
 uid: 57faf95ee8e71453d7e78401d09e355c
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Problem Set 9: Stochastic Differential Equations'
 description: This file contains information regarding problem set 9.
-type: courses
+type: course
 layout: pdf
 uid: c02bf5203e965227082b82fa1e59afa9
 file_type: application/pdf

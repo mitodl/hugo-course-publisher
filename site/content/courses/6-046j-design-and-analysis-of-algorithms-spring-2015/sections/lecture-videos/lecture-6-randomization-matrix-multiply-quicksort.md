@@ -5293,6 +5293,6 @@ transcript: >-
   m="4909470">you</span> <span m="4909530">next</span> <span
   m="4909750">time.</span></p>
 uid: 8484e787729f4e732109065f90f0f5d9
-type: courses
+type: course
 layout: video
 ---

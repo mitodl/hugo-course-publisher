@@ -1,16 +1,14 @@
 ---
 title: Problem Set 5
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 8853fb2e2f47a6f16c5b5b422b69abeb
-    type: section
-    layout: section
     name: Problem Set 5
     weight: 240
     parent: 74a70dbf28134c7f25cae0a217b6ec6f
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics/competition-iii/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics/principles-of-welfare-economics/_index.md" %}}) »
 

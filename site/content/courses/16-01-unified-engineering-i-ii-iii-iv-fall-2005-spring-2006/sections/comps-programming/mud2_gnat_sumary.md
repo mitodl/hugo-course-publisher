@@ -1,7 +1,7 @@
 ---
 title: mud2_gnat_sumary.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: ad6a0a97e743d90d4630fbfec9d00b99
 file_type: application/pdf

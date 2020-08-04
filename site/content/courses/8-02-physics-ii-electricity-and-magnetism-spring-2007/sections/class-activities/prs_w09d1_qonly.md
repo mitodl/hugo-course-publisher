@@ -3,7 +3,7 @@ title: prs_w09d1_qonly.pdf
 description: >-
   This resource contains informations about current carrying coil and loop in
   changing field.
-type: courses
+type: course
 layout: pdf
 uid: 77ed33994e628863e396d460f9e7c5a2
 file_type: application/pdf

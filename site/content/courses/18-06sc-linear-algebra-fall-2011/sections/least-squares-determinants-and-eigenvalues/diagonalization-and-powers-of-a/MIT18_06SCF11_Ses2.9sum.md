@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses2.9sum.pdf
 description: This resource contains information related to diagonalization and powers of A.
-type: courses
+type: course
 layout: pdf
 uid: d05795355f5cbe35356a4a1b39658336
 file_type: application/pdf

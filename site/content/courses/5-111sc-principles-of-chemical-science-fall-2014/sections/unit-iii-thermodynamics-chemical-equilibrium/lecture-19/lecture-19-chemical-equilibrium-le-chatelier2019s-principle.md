@@ -2882,6 +2882,6 @@ transcript: >-
   m="2806480">any</span> <span m="2806750">borrowed</span> <span
   m="2807360">clickers.</span></p>
 uid: 342e3cfa7d8d4157d8bd67279e636560
-type: courses
+type: course
 layout: video
 ---

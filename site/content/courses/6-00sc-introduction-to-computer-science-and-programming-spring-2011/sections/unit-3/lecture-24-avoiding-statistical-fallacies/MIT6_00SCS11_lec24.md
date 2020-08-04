@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 24 handout: Avoiding Statistical Fallacies'
 description: this resource contains information about avoiding statistical fallacies.
-type: courses
+type: course
 layout: pdf
 uid: 088e3e12db9e5f3f90479136ace619a5
 file_type: application/pdf

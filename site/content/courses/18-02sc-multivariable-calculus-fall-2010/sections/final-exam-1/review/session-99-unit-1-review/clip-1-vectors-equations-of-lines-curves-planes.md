@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip 1: Vectors, Equations of Lines/Curves/Planes'
 transcript: ''
 uid: 255f67c0aeb837dce5b8fb391ff804c8
-type: courses
+type: course
 layout: video
 ---

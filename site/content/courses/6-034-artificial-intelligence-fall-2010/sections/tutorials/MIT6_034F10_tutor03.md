@@ -3,7 +3,7 @@ title: '6.034 Tutorial 3: K-nearest neighbors, decision trees, neural nets'
 description: >-
   This resource contains information related to K-nearest neighbors, decision
   trees, neural nets.
-type: courses
+type: course
 layout: pdf
 uid: 4efa5e563ccb9d54fdd72068a8dda879
 file_type: application/pdf

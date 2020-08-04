@@ -3,7 +3,7 @@ title: 'Repetitions & Binomial Theorem: Two Pair Poker Hands'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 0e9cc985bf5f9fbf7d2dd77be99f4754
 file_type: application/pdf

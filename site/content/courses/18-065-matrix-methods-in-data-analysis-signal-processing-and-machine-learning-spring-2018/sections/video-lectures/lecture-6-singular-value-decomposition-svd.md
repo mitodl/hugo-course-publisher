@@ -2882,6 +2882,6 @@ transcript: >-
   m="3209120">the</span> <span m="3210680">principal</span> <span
   m="3211250">components.</span> <span m="3212450">Good.</span></p>
 uid: 3433b303aa4bd7690c8c1d76a8edfc50
-type: courses
+type: course
 layout: video
 ---

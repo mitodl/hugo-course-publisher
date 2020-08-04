@@ -1212,6 +1212,6 @@ transcript: >-
   m='1693170'>it's</span> <span m='1693320'>similar</span> <span
   m='1693920'>to</span> <span m='1694220'>this.</span> </p>
 uid: aba817807a1b4aa0681c095052cfa35b
-type: courses
+type: course
 layout: video
 ---

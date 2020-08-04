@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses2.10prob.pdf
 description: >-
   This resource contains problem set related to differential equations and
   exp(At).
-type: courses
+type: course
 layout: pdf
 uid: be691a8976e7e7b946834654669c24d7
 file_type: application/pdf

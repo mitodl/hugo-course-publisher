@@ -3467,6 +3467,6 @@ transcript: >-
   m='2874280'>movie</span> <span m='2874860'>on</span> <span m='2875000'>Friday
   the</span> <span m='2875330'>30th.</span> </p>
 uid: 2b072f9a436c6d9b5b1b9859898ef6e9
-type: courses
+type: course
 layout: video
 ---

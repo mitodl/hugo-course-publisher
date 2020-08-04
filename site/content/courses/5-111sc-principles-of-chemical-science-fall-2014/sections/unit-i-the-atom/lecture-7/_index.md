@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 7: Multi-electron Atoms'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: videogallery
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 3cbec0b6342c45e219dbb316c53f0274
-    type: section
-    layout: section
     name: Lecture 7
     weight: 100
     parent: 36cc671ac04c270e9cac7a210efd6846
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/_index.md" %}}) »
 

@@ -246,6 +246,6 @@ transcript: >-
   m='239460'>effectiveness</span> <span m='239937'>of</span> <span
   m='240415'>such</span> <span m='240892'>rules.</span> </p>
 uid: d3e4cfea9adcefb96bdeacb9718607a1
-type: courses
+type: course
 layout: video
 ---

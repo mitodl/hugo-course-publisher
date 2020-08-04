@@ -159,6 +159,6 @@ transcript: >-
   m='99670'>things.</span> </p><p><span m='101020'>Yeah.</span> <span
   m='104840'>Thank</span> <span m='105040'>you.</span> </p>
 uid: 9bd1dcc7ad7bcad68b66bcc757f6818e
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_v9.1.pdf
 description: This resource contains information related to surface integrals.
-type: courses
+type: course
 layout: pdf
 uid: 2c1720a794622fa3dbec65e82e1f2503
 file_type: application/pdf

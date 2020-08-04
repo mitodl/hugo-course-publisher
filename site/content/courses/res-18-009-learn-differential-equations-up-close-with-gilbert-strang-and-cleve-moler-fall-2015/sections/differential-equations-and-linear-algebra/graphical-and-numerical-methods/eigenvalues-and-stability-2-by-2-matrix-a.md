@@ -1027,6 +1027,6 @@ transcript: >-
   m='1162460'>by</span> <span m='1162690'>twos.</span> <span
   m='1163900'>Thank</span> <span m='1164100'>you.</span> </p>
 uid: 9ff45c5f6c4fb29fc56be8dc2dd686cb
-type: courses
+type: course
 layout: video
 ---

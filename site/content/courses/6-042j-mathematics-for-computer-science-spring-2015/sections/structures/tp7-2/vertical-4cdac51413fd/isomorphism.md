@@ -886,6 +886,6 @@ transcript: >-
   m='657540'>some</span> <span m='657790'>example</span> <span
   m='658710'>or</span> <span m='658880'>another.</span> </p>
 uid: cfba671f534d3abae0aadcf606a0aa34
-type: courses
+type: course
 layout: video
 ---

@@ -1,11 +1,11 @@
 ---
 title: Assignments
 course_id: 6-00-introduction-to-computer-science-and-programming-fall-2008
+type: course
+layout: course_section
 menu:
   6-00-introduction-to-computer-science-and-programming-fall-2008:
     identifier: 73abac88dca82c7f57bdbe466a9a5bc3
-    type: section
-    layout: section
     name: Assignments
     weight: 50
 ---

@@ -175,6 +175,6 @@ transcript: >-
   m='132480'>my</span> <span m='132660'>chalkboard</span> <span
   m='134700'>teaching</span> <span m='135180'>style.</span> </p>
 uid: f75bef336d1026b8e6bdb5b3261128a5
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 6.00SC Quiz 3 Solutions
 description: This resource contains information about quiz 3 solutions.
-type: courses
+type: course
 layout: pdf
 uid: 1d720b8922cc34ad5de65330be0caf12
 file_type: application/pdf

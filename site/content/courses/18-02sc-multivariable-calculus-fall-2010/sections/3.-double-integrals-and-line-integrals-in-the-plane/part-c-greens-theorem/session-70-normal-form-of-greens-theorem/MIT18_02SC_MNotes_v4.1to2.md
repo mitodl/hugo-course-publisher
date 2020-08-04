@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_v4.1to2.pdf
 description: This resource contains information related to green’s theorem for flux.
-type: courses
+type: course
 layout: pdf
 uid: ea8e087bdf4408dda425f48d85f02ada
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: prsm10.pdf
 description: >-
   This resource contains concept questions and answers based on torsional
   loading, components of strain and shear stresses.
-type: courses
+type: course
 layout: pdf
 uid: 2d50afbcb9a025dadcb6db7107a87d97
 file_type: application/pdf

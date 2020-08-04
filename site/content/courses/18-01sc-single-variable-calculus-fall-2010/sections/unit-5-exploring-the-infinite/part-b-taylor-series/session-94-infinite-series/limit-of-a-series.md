@@ -433,6 +433,6 @@ transcript: >-
   m='292790'>1.</span> <span m='293130'>So I'll</span> <span m='293570'>end
   there.</span> </p>
 uid: efcee0c128c0baa1d7428326eface084
-type: courses
+type: course
 layout: video
 ---

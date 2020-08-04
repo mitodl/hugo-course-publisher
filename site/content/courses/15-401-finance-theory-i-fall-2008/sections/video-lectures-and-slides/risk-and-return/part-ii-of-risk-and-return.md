@@ -5927,6 +5927,6 @@ transcript: >-
   m='4710080'>that</span> <span m='4710530'>on</span> <span
   m='4710680'>Monday.</span> </p>
 uid: 709beabd081771526e60ece4296cd76a
-type: courses
+type: course
 layout: video
 ---

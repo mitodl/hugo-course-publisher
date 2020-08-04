@@ -3,7 +3,7 @@ title: Solutions to Exam 2 Practice Questions
 description: >-
   This is a resource file that contains information regarding solutions to exam
   2 practice questions.
-type: courses
+type: course
 layout: pdf
 uid: 181c27d35d4ce7bbb7d526f10a632e98
 file_type: application/pdf

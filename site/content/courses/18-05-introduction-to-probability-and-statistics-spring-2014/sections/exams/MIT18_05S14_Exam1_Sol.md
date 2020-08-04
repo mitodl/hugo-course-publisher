@@ -3,7 +3,7 @@ title: Solutions to Exam 1
 description: >-
   This is a resource file that contains information regarding solutions to exam
   1.
-type: courses
+type: course
 layout: pdf
 uid: 3745797e973d57f4bcb2ab6e28e1badc
 file_type: application/pdf

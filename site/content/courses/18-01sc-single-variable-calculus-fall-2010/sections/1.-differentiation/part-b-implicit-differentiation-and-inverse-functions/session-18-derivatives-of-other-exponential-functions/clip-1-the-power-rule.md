@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: The Power Rule'
 transcript: ''
 uid: c4ce10babb2f7a361f6a3069cb0e1cdd
-type: courses
+type: course
 layout: video
 ---

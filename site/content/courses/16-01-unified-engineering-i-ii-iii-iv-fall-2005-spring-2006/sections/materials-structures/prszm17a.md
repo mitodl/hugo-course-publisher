@@ -3,7 +3,7 @@ title: prszm17a.pdf
 description: >-
   This resource contains concept questions and answers based on strain and
   Young's modulus.
-type: courses
+type: course
 layout: pdf
 uid: 9297e2e75cfda1a10ab1b30dd6d9850e
 file_type: application/pdf

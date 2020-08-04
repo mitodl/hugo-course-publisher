@@ -1,16 +1,14 @@
 ---
 title: Queuing Network Models
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 3e1b528396cdc4ee29eb12fe1377a558
-    type: section
-    layout: section
     name: Queuing Network Models
     weight: 330
     parent: 82c1509981b270b9823bc741f08c9b32
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/lecture-24-avoiding-statistical-fallacies/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/lecture-26-what-do-computer-scientists-do/_index.md" %}}) »
 

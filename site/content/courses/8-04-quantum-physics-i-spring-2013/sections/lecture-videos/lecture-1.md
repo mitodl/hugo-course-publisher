@@ -5363,6 +5363,6 @@ transcript: >-
   m='4559505'>see</span> <span m='4559940'>you</span> <span
   m='4560090'>on</span> <span m='4560190'>Thursday.</span> </p><p></p>
 uid: 11b2d6c2e8017d997b0e8d045d706628
-type: courses
+type: course
 layout: video
 ---

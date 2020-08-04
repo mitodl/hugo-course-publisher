@@ -69,6 +69,6 @@ technical_location: >-
 title: 'Clip 2: Separation of Variables'
 transcript: ''
 uid: 13966f0e37915ab7d9dcca7357ad2b9f
-type: courses
+type: course
 layout: video
 ---

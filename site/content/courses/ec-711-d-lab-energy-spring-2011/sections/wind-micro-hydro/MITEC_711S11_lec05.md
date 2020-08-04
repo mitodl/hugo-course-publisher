@@ -1,7 +1,7 @@
 ---
 title: MITEC_711S11_lec05.pdf
 description: 'This resource contains information regarding lecture 5 slides. '
-type: courses
+type: course
 layout: pdf
 uid: ee63a3af81a24cd8ed0235f7c98907b9
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Clicker Questions for Lecture 34: Kinetics:
   Catalysts
 description: 'This resource contains information regarding Kinetics: Catalysts.'
-type: courses
+type: course
 layout: pdf
 uid: ada140456d0c262289653dea47294ac4
 file_type: application/pdf

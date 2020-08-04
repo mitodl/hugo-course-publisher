@@ -1,7 +1,7 @@
 ---
 title: '6.006 Lecture 8 Original: Hashing with chaining'
 description: This resource contains information related to Hashing with chaining.
-type: courses
+type: course
 layout: pdf
 uid: 69d45fd7439f9dc6eb9fff8b183c67ee
 file_type: application/pdf

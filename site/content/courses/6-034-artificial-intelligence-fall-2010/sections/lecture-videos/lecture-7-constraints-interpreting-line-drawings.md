@@ -909,6 +909,6 @@ transcript: >-
   scheduling, because that turns out to be</span> <span m='2941100'>the same
   problem.</span> </p><p></p>
 uid: 610d4a009bca99ce1e2875664719d4a3
-type: courses
+type: course
 layout: video
 ---

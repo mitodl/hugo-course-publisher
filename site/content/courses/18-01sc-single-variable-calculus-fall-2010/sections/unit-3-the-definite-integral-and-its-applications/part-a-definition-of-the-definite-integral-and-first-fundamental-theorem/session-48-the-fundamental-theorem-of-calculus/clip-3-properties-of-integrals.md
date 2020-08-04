@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Properties of Integrals'
 transcript: ''
 uid: 44c7a8597fabfcc73a1095481ed65928
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pracfinal.pdf
 description: This resource contains information related to vectore methods.
-type: courses
+type: course
 layout: pdf
 uid: 904c6ca3318bd35307bb65ba3dd0f50e
 file_type: application/pdf

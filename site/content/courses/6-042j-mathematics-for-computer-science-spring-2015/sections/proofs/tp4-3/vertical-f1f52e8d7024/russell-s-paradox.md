@@ -992,6 +992,6 @@ transcript: >-
   m='803680'>set</span> <span m='804000'>theory</span> <span
   m='804290'>axiom.</span> </p>
 uid: 9cc22f7e2abee336d5730f025c6633e9
-type: courses
+type: course
 layout: video
 ---

@@ -527,6 +527,6 @@ transcript: >-
   m='427410'>happen.</span> </p><p><span m='428190'>So</span> <span
   m='428420'>that's</span> <span m='428650'>that.</span> </p>
 uid: f941a2b8c3731e9834c3c5a50c30d794
-type: courses
+type: course
 layout: video
 ---

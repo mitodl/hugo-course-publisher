@@ -1,7 +1,7 @@
 ---
 title: MIT20_020S09_prj16_onco_ctct.pdf
 description: 'This file includes details for class project work on Cancer treatment. '
-type: courses
+type: course
 layout: pdf
 uid: 72a79b9f97b47040b5d305f84cc601e2
 file_type: application/pdf

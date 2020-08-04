@@ -1,7 +1,7 @@
 ---
 title: From Steady State to Atrophy
 description: This resource contains the information regarding from steady state to atrophy.
-type: courses
+type: course
 layout: pdf
 uid: 30d1d66833c48c5adbaeb16ccac40efc
 file_type: application/pdf

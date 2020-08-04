@@ -3,7 +3,7 @@ title: m10_ps04_spring04.pdf
 description: >-
   This resource contains problems based on structural and aerodynamic merits of
   straight vs. tapered wings.
-type: courses
+type: course
 layout: pdf
 uid: fae88838ebc7c1859febda104a1ea23d
 file_type: application/pdf

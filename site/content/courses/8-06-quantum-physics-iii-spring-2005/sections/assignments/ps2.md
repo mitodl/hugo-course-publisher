@@ -3,7 +3,7 @@ title: ps2.pdf
 description: >-
   This resource provides information about the reading assignment, useful facts
   and 5 problems for assignment 2.
-type: courses
+type: course
 layout: pdf
 uid: 9e3f5f56abc13f1a0d676bddf6456e44
 file_type: application/pdf

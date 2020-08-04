@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 12 Notes: Volcanoes'
 description: This is a resource file that contains information regarding volcanoes.
-type: courses
+type: course
 layout: pdf
 uid: 40968288047d50c309013dc03719e117
 file_type: application/pdf

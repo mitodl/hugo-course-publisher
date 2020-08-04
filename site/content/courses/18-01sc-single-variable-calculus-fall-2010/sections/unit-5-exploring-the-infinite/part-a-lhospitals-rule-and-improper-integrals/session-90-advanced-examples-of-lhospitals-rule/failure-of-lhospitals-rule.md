@@ -485,6 +485,6 @@ transcript: >-
   <span m='353400'>question.</span> <span m='354330'>So</span> <span
   m='354560'>I'll end there.</span> </p>
 uid: 23df603fd6c79a16488d6b9ae507e8da
-type: courses
+type: course
 layout: video
 ---

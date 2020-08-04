@@ -1,7 +1,7 @@
 ---
 title: 8_binary_trees.pdf
 description: Lecture 8 (2004) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 23510d24455f42f4ebf1c893f2a1b56b
 file_type: application/pdf

@@ -2801,6 +2801,6 @@ transcript: >-
   m='2954180'>other</span> <span m='2954350'>way.</span> <span m='2954670'>Good
   luck,</span> <span m='2956240'>folks.</span> </p>
 uid: 887ff0e3a1fc14c0e6978dbb4b02ba97
-type: courses
+type: course
 layout: video
 ---

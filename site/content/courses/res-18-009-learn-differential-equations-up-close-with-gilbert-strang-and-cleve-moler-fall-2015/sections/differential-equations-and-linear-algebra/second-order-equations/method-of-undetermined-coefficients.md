@@ -931,6 +931,6 @@ transcript: >-
   m='984090'>OK.</span> <span m='984860'>All</span> <span
   m='985080'>good,</span> <span m='985360'>thanks.</span> </p>
 uid: c6a4d51043838138b0cfd8f29e3fdf50
-type: courses
+type: course
 layout: video
 ---

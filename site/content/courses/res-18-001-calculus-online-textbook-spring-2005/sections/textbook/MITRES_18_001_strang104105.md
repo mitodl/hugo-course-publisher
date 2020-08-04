@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang104105.pdf
 description: This resource contains information related to infinite series.
-type: courses
+type: course
 layout: pdf
 uid: 4f109c56c4e1bbf993e233e09d280101
 file_type: application/pdf

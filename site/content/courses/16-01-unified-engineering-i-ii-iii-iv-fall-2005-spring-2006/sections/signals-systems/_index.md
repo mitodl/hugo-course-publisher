@@ -1,11 +1,11 @@
 ---
 title: Signals and Systems
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
+type: course
+layout: course_section
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
     identifier: 85c1b0de227de38d9a55dc7008c03de7
-    type: section
-    layout: section
     name: Signals and Systems
     weight: 110
 ---

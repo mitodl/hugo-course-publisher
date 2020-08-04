@@ -3,7 +3,7 @@ title: 'Partial Orders and Equivalence: Chapter 9.5 – 9.11'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Partial orders and equivalence: Chapter 9.5 – 9.11.
-type: courses
+type: course
 layout: pdf
 uid: a7a3dd33c00131b079f95f27dfc060c5
 file_type: application/pdf

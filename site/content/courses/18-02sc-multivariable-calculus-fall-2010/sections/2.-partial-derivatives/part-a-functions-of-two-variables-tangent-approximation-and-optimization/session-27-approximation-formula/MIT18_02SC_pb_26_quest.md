@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_26_quest.pdf
 description: This resource contains problem statements related to approximation formula.
-type: courses
+type: course
 layout: pdf
 uid: 117a2585c4344fe5633dbcc669b94e92
 file_type: application/pdf

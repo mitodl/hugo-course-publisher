@@ -3,7 +3,7 @@ title: >-
   4.4 Location, Location, Location: Regression Trees for Housing Data 
   (Recitation)
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Video 1: Boston Housing Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-1-boston-housing-data" %}})

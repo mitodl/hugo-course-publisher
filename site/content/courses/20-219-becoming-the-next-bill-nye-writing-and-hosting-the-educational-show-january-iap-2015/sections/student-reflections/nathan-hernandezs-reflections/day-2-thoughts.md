@@ -280,6 +280,6 @@ transcript: >-
   m="189150">script.</span></p><p><span m="189540">So</span> <span
   m="190100">yeah,</span> <span m="190700">bye.</span></p>
 uid: b1874025c2cf669052e9a4c16b51a0c2
-type: courses
+type: course
 layout: video
 ---

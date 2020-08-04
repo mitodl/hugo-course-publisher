@@ -6,7 +6,7 @@ description: >-
   you will be working with an RC circuit. You should carefully consider what
   would change if the capacitor were replaced with an inductor and to calculate
   the time dependent currents in such circuits.
-type: courses
+type: course
 layout: pdf
 uid: 6856832edbdd677670094393947e4645
 file_type: application/pdf

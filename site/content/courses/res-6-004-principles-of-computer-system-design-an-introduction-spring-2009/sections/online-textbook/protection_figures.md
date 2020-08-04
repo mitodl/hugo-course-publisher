@@ -1,7 +1,7 @@
 ---
 title: protection_figures.pdf
 description: 'This resource contains slides of chapter 11 figures. '
-type: courses
+type: course
 layout: pdf
 uid: 3b6df7ee69d2064643f19fbfa871dee8
 file_type: application/pdf

@@ -316,6 +316,6 @@ transcript: >-
   m='259420'>in</span> <span m='259757'>the</span> <span m='260094'>next</span>
   <span m='260431'>video.</span> </p>
 uid: 5945967c28e4502c043fa8fe61f0a40a
-type: courses
+type: course
 layout: video
 ---

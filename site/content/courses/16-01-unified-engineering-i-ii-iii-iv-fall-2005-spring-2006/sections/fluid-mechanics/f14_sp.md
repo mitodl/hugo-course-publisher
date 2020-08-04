@@ -3,7 +3,7 @@ title: f14_sp.pdf
 description: >-
   This resource contains information on the topics of Normal Shock Waves and
   Speed of Sound.
-type: courses
+type: course
 layout: pdf
 uid: 45f84d580623b6a895f60195917994eb
 file_type: application/pdf

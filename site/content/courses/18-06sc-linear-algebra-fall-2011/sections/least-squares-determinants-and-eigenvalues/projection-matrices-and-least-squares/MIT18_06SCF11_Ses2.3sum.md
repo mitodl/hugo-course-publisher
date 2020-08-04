@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses2.3sum.pdf
 description: >-
   This resource contains information related to projection matrices and least
   squares.
-type: courses
+type: course
 layout: pdf
 uid: 198bde3a6536b62989b6cc09495575c1
 file_type: application/pdf

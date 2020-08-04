@@ -3,7 +3,7 @@ title: MIT20_020S09_lec3_wk3_st4h.pdf
 description: >-
   This file includes notes on topics like sleep, memory loss, anorexia,
   Huntington?s disease, etc. 
-type: courses
+type: course
 layout: pdf
 uid: b2406f5406a8b5be35ea742ce79319b5
 file_type: application/pdf

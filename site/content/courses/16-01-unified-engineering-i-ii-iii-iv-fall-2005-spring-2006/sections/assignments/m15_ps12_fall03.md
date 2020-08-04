@@ -3,7 +3,7 @@ title: m15_ps12_fall03.pdf
 description: >-
   This resource contains problems based on components of strain tensor,
   principal strain and principal strain directions, and volumetric strain.
-type: courses
+type: course
 layout: pdf
 uid: 421a9524bb45ea815c8a07a3ea8a76be
 file_type: application/pdf

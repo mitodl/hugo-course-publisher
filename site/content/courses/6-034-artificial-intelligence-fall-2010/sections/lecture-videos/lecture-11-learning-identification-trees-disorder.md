@@ -945,6 +945,6 @@ transcript: >-
   <span m='2965610'>especially since Halloween's just around the corner.</span>
   </p><p></p>
 uid: 342cedb5e418c11da216a12272faae2c
-type: courses
+type: course
 layout: video
 ---

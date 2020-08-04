@@ -3,7 +3,7 @@ title: MIT20_020S09_lec1_rvw2_phg.pdf
 description: >-
   This file includes details on phage life cycles, DNA transfer mechanisms and
   "parts", and contains review of these processes. 
-type: courses
+type: course
 layout: pdf
 uid: f506003fe114add097a8e4c7f23c1927
 file_type: application/pdf

@@ -810,6 +810,6 @@ transcript: >-
   m='608010'>of</span> <span m='608120'>that</span> <span
   m='608360'>fact.</span> </p>
 uid: d69ccd43e66912224e0dbac10b67e72e
-type: courses
+type: course
 layout: video
 ---

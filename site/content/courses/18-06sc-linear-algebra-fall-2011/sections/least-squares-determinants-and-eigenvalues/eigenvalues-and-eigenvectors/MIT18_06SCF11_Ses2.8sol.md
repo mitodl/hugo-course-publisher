@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses2.8sol.pdf
 description: >-
   This resource contains solution to problem set related to eigenvalues and
   eigenvectors.
-type: courses
+type: course
 layout: pdf
 uid: a5b090d92c330788febc5b2092906af9
 file_type: application/pdf

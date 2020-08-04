@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses2.9prob.pdf
 description: This resource contains problem set related to diagonalization and powers of A.
-type: courses
+type: course
 layout: pdf
 uid: dde9fec9ef59ca07608a98c8cfdf47e3
 file_type: application/pdf

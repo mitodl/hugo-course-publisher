@@ -1,7 +1,7 @@
 ---
 title: f20_fall.pdf
 description: 'This resource provides information on the topic of Airfoils: Detailed Look.'
-type: courses
+type: course
 layout: pdf
 uid: eb0b880faacdc1c46679160157ed0f08
 file_type: application/pdf

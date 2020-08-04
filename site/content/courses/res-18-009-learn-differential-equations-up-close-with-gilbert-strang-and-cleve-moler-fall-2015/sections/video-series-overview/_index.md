@@ -2,15 +2,13 @@
 title: Video Series Overview
 course_id: >-
   res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015
+type: course
+layout: videogallery
 menu:
   res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015:
     identifier: a9916d12f128bdd2a11b02e75f786ba1
-    type: section
-    layout: section
     name: Video Series Overview
     weight: 10
-type: courses
-layout: videogallery
 ---
 {{< youtube ZvL88xqYSak >}}
 

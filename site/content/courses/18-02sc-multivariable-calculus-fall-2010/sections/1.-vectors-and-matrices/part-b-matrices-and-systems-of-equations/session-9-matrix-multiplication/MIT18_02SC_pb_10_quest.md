@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_10_quest.pdf
 description: This resource contains problem statements related to matrix multiplication.
-type: courses
+type: course
 layout: pdf
 uid: 4092f473c2952ceda8dcf204ee096167
 file_type: application/pdf

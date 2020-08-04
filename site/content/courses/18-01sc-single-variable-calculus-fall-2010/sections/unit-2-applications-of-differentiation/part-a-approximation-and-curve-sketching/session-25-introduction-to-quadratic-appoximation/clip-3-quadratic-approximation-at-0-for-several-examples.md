@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Quadratic Approximation at 0 for Several Examples'
 transcript: ''
 uid: aca7d082e9034e2dba1ef0b35ef6baa7
-type: courses
+type: course
 layout: video
 ---

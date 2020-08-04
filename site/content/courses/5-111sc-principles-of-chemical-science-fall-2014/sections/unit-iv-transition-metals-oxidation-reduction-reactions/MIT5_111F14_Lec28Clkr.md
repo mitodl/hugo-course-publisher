@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Transition Metals: Crystal Field
   Theory Part I.
-type: courses
+type: course
 layout: pdf
 uid: 8daa90581534ef01d87bfbe4ea7d20b7
 file_type: application/pdf

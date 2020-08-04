@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses4b.pdf
 description: This resource contains information related to continuity.
-type: courses
+type: course
 layout: pdf
 uid: 98249dc379f2f104980eb24a9e7a3ad8
 file_type: application/pdf

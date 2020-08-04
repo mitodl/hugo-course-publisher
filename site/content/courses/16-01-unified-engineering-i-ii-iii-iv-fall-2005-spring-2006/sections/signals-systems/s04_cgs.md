@@ -1,7 +1,7 @@
 ---
 title: s04_cgs.pdf
 description: Concept questions.
-type: courses
+type: course
 layout: pdf
 uid: a2f98fc7f388c3b7b0b9d386f2d96432
 file_type: application/pdf

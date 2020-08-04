@@ -3734,6 +3734,6 @@ transcript: >-
   m="4399260">you</span> <span m="4399470">enjoyed</span> <span
   m="4400010">this</span> <span m="4400250">lecture.</span></p>
 uid: 0b16b0beb64792516fca51e92306574f
-type: courses
+type: course
 layout: video
 ---

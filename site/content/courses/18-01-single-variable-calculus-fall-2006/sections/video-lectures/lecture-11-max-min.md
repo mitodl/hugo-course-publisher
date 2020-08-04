@@ -2622,6 +2622,6 @@ transcript: >-
   <span m='2978720'>examples</span> <span m='2979250'>of</span> <span
   m='2979330'>that next time.</span> </p>
 uid: 73974e466246212b99fec8cd8d4548a1
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: q4f.pdf
 description: Fluid Mechanics quiz with solutions.
-type: courses
+type: course
 layout: pdf
 uid: 36ffb58462b875b2f2323dad758b6dd8
 file_type: application/pdf

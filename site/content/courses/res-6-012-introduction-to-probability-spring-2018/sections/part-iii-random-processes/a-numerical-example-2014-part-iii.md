@@ -225,6 +225,6 @@ transcript: >-
   m='624490'>With these kind of probabilities, 0.99 and 0.998,</span> <span
   m='628980'>the c would be 0.997.</span> </p><p></p>
 uid: d1e57ef98eca7d92d40a44ccd754d8fb
-type: courses
+type: course
 layout: video
 ---

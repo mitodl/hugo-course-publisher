@@ -72,6 +72,6 @@ transcript: >-
   m='33300'>over a finite time horizon as opposed to in the long run.</span>
   </p><p><span m='37790'>So let us start.</span> </p>
 uid: 24a800e43619d91ecb12d85722a0eba7
-type: courses
+type: course
 layout: video
 ---

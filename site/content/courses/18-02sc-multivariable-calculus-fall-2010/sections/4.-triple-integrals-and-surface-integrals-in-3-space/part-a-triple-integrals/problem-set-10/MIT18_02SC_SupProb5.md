@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_SupProb5.pdf
 description: Tis resource contains problem statements related to triple integrals.
-type: courses
+type: course
 layout: pdf
 uid: 768cfad15f60e810a846cfba8a71f488
 file_type: application/pdf

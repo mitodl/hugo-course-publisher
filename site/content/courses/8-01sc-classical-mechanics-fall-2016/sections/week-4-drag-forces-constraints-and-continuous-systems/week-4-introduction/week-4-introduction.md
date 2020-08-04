@@ -110,6 +110,6 @@ transcript: >-
   sophisticated treatment</span> <span m='129240'>to what has come
   before.</span> </p><p></p>
 uid: 0add57792a24e0aee2b187916361674b
-type: courses
+type: course
 layout: video
 ---

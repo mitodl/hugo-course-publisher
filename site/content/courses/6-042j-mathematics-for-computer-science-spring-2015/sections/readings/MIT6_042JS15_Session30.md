@@ -3,7 +3,7 @@ title: 'Independence & Causality: Chapter 17.7 – 17.8'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Independence & causality: Chapter 17.7 – 17.8.
-type: courses
+type: course
 layout: pdf
 uid: b8bd455ddf326628a1c8773de1a17a28
 file_type: application/pdf

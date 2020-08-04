@@ -3,7 +3,7 @@ title: MIT6_042JF10_rec13_sol.pdf
 description: >-
   This resource contains solutions of asymptotic notation, asymptotic
   equivalence. 
-type: courses
+type: course
 layout: pdf
 uid: d3a401bca011ac96cfc8d0f689b5522f
 file_type: application/pdf

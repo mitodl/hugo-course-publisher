@@ -1,7 +1,7 @@
 ---
 title: course_facts_fall_2003.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 07bc3ad3f1e3cf06d789bb9b06e9d5e3
 file_type: application/pdf

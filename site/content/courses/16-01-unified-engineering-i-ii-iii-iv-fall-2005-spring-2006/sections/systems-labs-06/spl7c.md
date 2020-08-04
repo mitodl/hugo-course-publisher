@@ -1,7 +1,7 @@
 ---
 title: spl7c.pdf
 description: This file contains notes for Plain Vanilla Fuselage Drag Measurements.
-type: courses
+type: course
 layout: pdf
 uid: 110c029896e3d6d97bb525968970109f
 file_type: application/pdf

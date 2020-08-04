@@ -3,7 +3,7 @@ title: f9_mud.pdf
 description: >-
   This resource provides information on the topic of Momentum Theorem
   Applications.
-type: courses
+type: course
 layout: pdf
 uid: 5db93b879389ae13be96961f0852f43e
 file_type: application/pdf

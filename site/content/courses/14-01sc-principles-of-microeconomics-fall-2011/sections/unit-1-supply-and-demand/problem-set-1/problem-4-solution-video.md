@@ -1039,6 +1039,6 @@ transcript: >-
   m='906200'>found</span> <span m='906360'>this</span> <span
   m='906480'>problem</span> <span m='906770'>helpful.</span> </p>
 uid: ac7aeaa846e4a06caeb241202213f0ca
-type: courses
+type: course
 layout: video
 ---

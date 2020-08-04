@@ -1,7 +1,7 @@
 ---
 title: 5no_rpr_cdng_sys.pdf
 description: Lecture 5 (2003) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 747a087a4c683247e0a75cf2841b3b65
 file_type: application/pdf

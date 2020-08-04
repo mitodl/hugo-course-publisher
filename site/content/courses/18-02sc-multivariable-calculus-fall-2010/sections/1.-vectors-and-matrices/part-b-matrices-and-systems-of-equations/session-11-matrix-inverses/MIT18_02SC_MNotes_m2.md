@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_m2.pdf
 description: This resource contains information related to inverse matrices.
-type: courses
+type: course
 layout: pdf
 uid: f1388eddd0f3047bcfd70cf5da379f78
 file_type: application/pdf

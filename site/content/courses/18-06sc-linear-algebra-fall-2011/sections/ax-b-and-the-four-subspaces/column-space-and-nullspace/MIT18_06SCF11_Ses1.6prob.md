@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses1.6prob.pdf
 description: This resource contains problem sets related to column space and nullspace.
-type: courses
+type: course
 layout: pdf
 uid: 255ec48e518355a8ef94b086e3a5a247
 file_type: application/pdf

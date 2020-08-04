@@ -3523,6 +3523,6 @@ transcript: >-
   m='4553890'>minute</span> <span m='4554070'>questions?</span> <span
   m='4556770'>Great.</span> </p>
 uid: 9abb2d8bdd5401b36ed359e3ddf5fc6a
-type: courses
+type: course
 layout: video
 ---

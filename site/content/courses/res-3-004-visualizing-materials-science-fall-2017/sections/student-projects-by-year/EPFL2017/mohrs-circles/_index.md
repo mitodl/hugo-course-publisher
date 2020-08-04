@@ -1,7 +1,7 @@
 ---
 title: Mohr's Circles
 course_id: res-3-004-visualizing-materials-science-fall-2017
-type: courses
+type: course
 layout: videogallery
 ---
 ![Mohr's circles visualization](https://open-learning-course-data-ci.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/1fcc1b0820f2d855b1b546953f9b5c8d_MITRES_3_004F17_33_burnad.jpg)

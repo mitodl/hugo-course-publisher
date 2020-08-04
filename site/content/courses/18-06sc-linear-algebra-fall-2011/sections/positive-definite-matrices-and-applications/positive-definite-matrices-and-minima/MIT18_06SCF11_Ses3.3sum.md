@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses3.3sum.pdf
 description: >-
   This resource contains information related to positive definite matrices and
   minima.
-type: courses
+type: course
 layout: pdf
 uid: d163e012754258d3b374548504d8a18a
 file_type: application/pdf

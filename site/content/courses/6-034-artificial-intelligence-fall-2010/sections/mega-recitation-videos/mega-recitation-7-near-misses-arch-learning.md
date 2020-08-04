@@ -2126,6 +2126,6 @@ transcript: >-
   m='1982570'>running</span> <span m='1982820'>arch</span> <span
   m='1982980'>learning.</span> </p>
 uid: 156ec04d637823c702af0dfe27e4c3cf
-type: courses
+type: course
 layout: video
 ---

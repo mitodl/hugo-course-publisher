@@ -223,6 +223,6 @@ transcript: >-
   way.</span></p><p><span m="623740">This is going to be a recurring theme
   throughout</span> <span m="626450">this class.</span></p><p>&nbsp;</p>
 uid: 3e0bb3c2fc67d54f2a7798f8241a5165
-type: courses
+type: course
 layout: video
 ---

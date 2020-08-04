@@ -324,6 +324,6 @@ transcript: >-
   <span m='200560'>we'll</span> <span m='200700'>stop</span> <span
   m='200830'>there.</span> </p>
 uid: cbe1bbf45b554105deab8c04852e12f3
-type: courses
+type: course
 layout: video
 ---

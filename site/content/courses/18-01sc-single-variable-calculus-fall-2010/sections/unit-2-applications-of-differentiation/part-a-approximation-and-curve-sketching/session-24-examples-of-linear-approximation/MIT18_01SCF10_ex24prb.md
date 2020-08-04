@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex24prb.pdf
 description: >-
   This resource contains problem statements related to product of linear
   approximation.
-type: courses
+type: course
 layout: pdf
 uid: 6e8aadf9ec0a5e4e299ff94932d72f40
 file_type: application/pdf

@@ -1,11 +1,11 @@
 ---
 title: Systems/Labs 06
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
+type: course
+layout: course_section
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
     identifier: 1f88d71a905437a18163daf60a1dd696
-    type: section
-    layout: section
     name: Systems/Labs 06
     weight: 160
 ---

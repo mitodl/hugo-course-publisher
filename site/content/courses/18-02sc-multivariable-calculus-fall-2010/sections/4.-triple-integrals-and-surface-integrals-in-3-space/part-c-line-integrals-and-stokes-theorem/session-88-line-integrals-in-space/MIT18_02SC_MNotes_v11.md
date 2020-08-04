@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_v11.pdf
 description: This resource contains information related to curves in space.
-type: courses
+type: course
 layout: pdf
 uid: 6fff06c9bb0a38f76f9cd2015798f8ed
 file_type: application/pdf

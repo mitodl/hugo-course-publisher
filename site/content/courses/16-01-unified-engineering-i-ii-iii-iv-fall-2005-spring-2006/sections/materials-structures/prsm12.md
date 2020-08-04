@@ -1,7 +1,7 @@
 ---
 title: prsm12.pdf
 description: This resource contains concept questions and answers based on buckling load.
-type: courses
+type: course
 layout: pdf
 uid: 99dec618f03732f744146eea72959d5d
 file_type: application/pdf

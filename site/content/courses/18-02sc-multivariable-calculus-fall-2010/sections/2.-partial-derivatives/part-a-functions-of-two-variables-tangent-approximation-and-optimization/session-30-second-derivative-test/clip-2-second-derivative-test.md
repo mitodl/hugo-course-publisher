@@ -50,6 +50,6 @@ technical_location: >-
 title: 'Clip 2: Second Derivative Test'
 transcript: ''
 uid: 618e7165d44957ad218813f73f15291b
-type: courses
+type: course
 layout: video
 ---

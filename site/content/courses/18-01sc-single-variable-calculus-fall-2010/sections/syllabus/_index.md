@@ -1,15 +1,13 @@
 ---
 title: Syllabus
 course_id: 18-01sc-single-variable-calculus-fall-2010
+type: course
+layout: videogallery
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 08db2ed910adc41a6bceda6c3bf65e1f
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/index.htm" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/_index.md" %}}) »
 

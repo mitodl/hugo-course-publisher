@@ -213,6 +213,6 @@ transcript: >-
   m='186420'>excited</span> <span m='186810'>to see</span> <span
   m='187030'>everyone's</span> <span m='187330'>videos.</span> </p>
 uid: 1cb6db6889e0ee625573d103020df823
-type: courses
+type: course
 layout: video
 ---

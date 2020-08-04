@@ -193,6 +193,6 @@ transcript: >-
   force</span> <span m='483790'>between the blocks, minus gravity is 0.</span>
   </p><p></p>
 uid: 9fd8cdaadb78a95fb336a99a5867fd43
-type: courses
+type: course
 layout: video
 ---

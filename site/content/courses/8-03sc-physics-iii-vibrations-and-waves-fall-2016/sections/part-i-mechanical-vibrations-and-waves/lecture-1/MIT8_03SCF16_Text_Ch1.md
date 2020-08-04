@@ -1,7 +1,7 @@
 ---
 title: MIT8_03SCF16_Text_Ch1.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 8eb46d081c5ba4728cbbb369a03ba45e
 file_type: application/pdf

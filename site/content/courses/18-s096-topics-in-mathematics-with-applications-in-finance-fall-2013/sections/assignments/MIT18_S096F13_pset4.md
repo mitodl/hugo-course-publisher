@@ -1,7 +1,7 @@
 ---
 title: 'Problem Set 4: Time Series Analysis'
 description: This file contains information regarding problem set 4.
-type: courses
+type: course
 layout: pdf
 uid: 64b58a3283830d9448e769a201824bfb
 file_type: application/pdf

@@ -98,6 +98,6 @@ transcript: >-
   shaped.</span> </p><p><span m='159420'>And so the final PDF is again a bell
   shaped normal PDF.</span> </p><p></p>
 uid: 31e6e9bd46fcaa99758e60101f078e08
-type: courses
+type: course
 layout: video
 ---

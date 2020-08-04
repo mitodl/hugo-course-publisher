@@ -3,7 +3,7 @@ title: Lecture 2 slides
 description: >-
   This resource contains information regarding week 2: energy storage, ouput and
   efficiency. 
-type: courses
+type: course
 layout: pdf
 uid: f7c2c564359a741ef5de50dfd675098b
 file_type: application/pdf

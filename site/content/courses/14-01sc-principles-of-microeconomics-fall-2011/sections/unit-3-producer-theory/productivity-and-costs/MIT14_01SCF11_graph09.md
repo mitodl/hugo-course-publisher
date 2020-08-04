@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_graph09.pdf
 description: This resource contains graphs and figures related to productivity and costs.
-type: courses
+type: course
 layout: pdf
 uid: 1ef458b02967425a924134a2668e08c5
 file_type: application/pdf

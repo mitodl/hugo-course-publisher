@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 3: Problem Solving'
 transcript: ''
 uid: 3983511fbf079526cc8f85e7e71ab634
-type: courses
+type: course
 layout: video
 ---

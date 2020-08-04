@@ -1,7 +1,7 @@
 ---
 title: MIT15_401F08_final_sol.pdf
 description: This resource contains solutions for the final exam questions.
-type: courses
+type: course
 layout: pdf
 uid: 984300de6e683683f0924ff450cc51ee
 file_type: application/pdf

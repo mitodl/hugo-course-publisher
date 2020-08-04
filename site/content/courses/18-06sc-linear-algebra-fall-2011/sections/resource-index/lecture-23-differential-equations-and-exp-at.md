@@ -3104,6 +3104,6 @@ transcript: >-
   m="3050350">now</span> <span m="3050560">do</span> <span
   m="3050810">exponentials.</span></p><p><span m="3052060">Thanks.</span></p>
 uid: a6a838b1045c56a30b9c855c238e7a31
-type: courses
+type: course
 layout: video
 ---

@@ -825,6 +825,6 @@ transcript: >-
   m="604060">you</span> <span m="604140">very</span> <span
   m="604330">much.</span></p>
 uid: dc3d9cd2cce75179e29e5095137bffa4
-type: courses
+type: course
 layout: video
 ---

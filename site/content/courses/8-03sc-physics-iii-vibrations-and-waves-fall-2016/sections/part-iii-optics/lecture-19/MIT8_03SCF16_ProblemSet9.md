@@ -1,7 +1,7 @@
 ---
 title: MIT 8.03SC Fall 2016 Problem Set 9
 description: This resource contains information regarding Problem Set 5
-type: courses
+type: course
 layout: pdf
 uid: a0f581f5339db96711d292950a9b233a
 file_type: application/pdf

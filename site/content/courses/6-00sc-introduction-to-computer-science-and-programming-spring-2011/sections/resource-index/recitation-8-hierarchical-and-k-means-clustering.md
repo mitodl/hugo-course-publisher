@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Recitation 8: Hierarchical and k-means Clustering'
 transcript: ''
 uid: bf18414683d1aed8d65a2d4b8b584cc0
-type: courses
+type: course
 layout: video
 ---

@@ -843,6 +843,6 @@ transcript: >-
   m="675940">this</span> <span m="676360">in</span> <span m="676580">our</span>
   <span m="676710">discussions.</span></p>
 uid: 42f91a6941c74237799afe1fc97a4a3b
-type: courses
+type: course
 layout: video
 ---

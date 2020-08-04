@@ -155,6 +155,6 @@ transcript: >-
   for the expected</span> <span m='304030'>number of arrivals during a time
   interval.</span> </p>
 uid: 683712b3ae91628f5abcd4925f1e5733
-type: courses
+type: course
 layout: video
 ---

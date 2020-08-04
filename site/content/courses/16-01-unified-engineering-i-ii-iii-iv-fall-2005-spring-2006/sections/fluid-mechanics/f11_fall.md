@@ -3,7 +3,7 @@ title: f11_fall.pdf
 description: >-
   This resource contains information on the topic of Vorticity and Strain Rate
   and Circulation.
-type: courses
+type: course
 layout: pdf
 uid: ccb62d23c9d74295c70cce919996400d
 file_type: application/pdf

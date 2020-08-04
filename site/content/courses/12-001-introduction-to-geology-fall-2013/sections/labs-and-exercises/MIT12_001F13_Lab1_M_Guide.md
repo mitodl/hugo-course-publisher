@@ -1,7 +1,7 @@
 ---
 title: '12.001 Introduction to Geology, Blank Chart for Minerals'
 description: This file contains information regarding mineral identification guide.
-type: courses
+type: course
 layout: pdf
 uid: ca9d1d21763c564ad4fd651054c3d738
 file_type: application/pdf

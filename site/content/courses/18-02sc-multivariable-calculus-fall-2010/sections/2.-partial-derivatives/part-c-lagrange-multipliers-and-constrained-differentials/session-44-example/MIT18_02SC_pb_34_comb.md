@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_34_comb.pdf
 description: >-
   This resource contains problem statements and solutions related to example for
   Lagrange's multipliers and constrained differentials.
-type: courses
+type: course
 layout: pdf
 uid: 43eaedda87972dcb36183e369c33b7be
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: u2_mud.pdf
 description: >-
   This file contains the review of 'Muddy Points' from the course. The review
   had 51 student respondents.
-type: courses
+type: course
 layout: pdf
 uid: 4fd8e98344e9ee1470d835ee55d39515
 file_type: application/pdf

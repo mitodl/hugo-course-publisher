@@ -1,7 +1,7 @@
 ---
 title: P2sol.pdf
 description: Problem set hand written solutions based on equation of motion.
-type: courses
+type: course
 layout: pdf
 uid: 1693e5ffce81d296cbb182f0324a92e2
 file_type: application/pdf

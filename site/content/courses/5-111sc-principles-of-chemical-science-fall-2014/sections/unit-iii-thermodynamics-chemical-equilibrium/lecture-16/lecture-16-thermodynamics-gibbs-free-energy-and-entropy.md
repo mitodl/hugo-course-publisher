@@ -1974,6 +1974,6 @@ transcript: >-
   m="1912540">that</span> <span m="1912820">exact</span> <span
   m="1913400">same</span> <span m="1914040">equation.</span></p>
 uid: 3d7fe49f9902776567b54df60acb7d1a
-type: courses
+type: course
 layout: video
 ---

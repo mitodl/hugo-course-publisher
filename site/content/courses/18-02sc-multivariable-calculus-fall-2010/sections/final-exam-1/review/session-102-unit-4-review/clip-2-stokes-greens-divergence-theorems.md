@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip 2: Stokes, Green''s, Divergence Theorems'
 transcript: ''
 uid: 2950d63898c4bce9d77259563d4aa220
-type: courses
+type: course
 layout: video
 ---

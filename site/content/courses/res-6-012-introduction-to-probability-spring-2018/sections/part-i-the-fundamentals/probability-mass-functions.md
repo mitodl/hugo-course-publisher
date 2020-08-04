@@ -230,6 +230,6 @@ transcript: >-
   provide a plot with the</span> <span m="618790">answers that we
   have.</span></p><p>&nbsp;</p>
 uid: 6cae5cad6959722f390440c111f0a62c
-type: courses
+type: course
 layout: video
 ---

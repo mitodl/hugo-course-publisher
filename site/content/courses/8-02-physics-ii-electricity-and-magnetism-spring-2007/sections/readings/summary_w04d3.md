@@ -4,7 +4,7 @@ description: >-
   This file talks about calculating capacitance and energy storage by solving a
   problem and also includes a quick summary of capacitance and some notes on
   calculating it.
-type: courses
+type: course
 layout: pdf
 uid: c3f6dd666de36736d0972fbc1e281f68
 file_type: application/pdf

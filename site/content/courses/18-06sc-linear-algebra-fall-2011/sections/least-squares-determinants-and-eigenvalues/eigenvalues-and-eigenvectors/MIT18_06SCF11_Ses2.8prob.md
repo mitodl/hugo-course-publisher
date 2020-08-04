@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses2.8prob.pdf
 description: This resource contains problem set related to eigenvalues and eigenvectors.
-type: courses
+type: course
 layout: pdf
 uid: 45bdf363c6f1a564a61fdf61aa86748c
 file_type: application/pdf

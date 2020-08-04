@@ -3,7 +3,7 @@ title: learningobject.pdf
 description: >-
   This file discusses about learning objectives and measurable outcomes
   (assessment method).
-type: courses
+type: course
 layout: pdf
 uid: b0ee1a21e5cbc1b48fa7eba042817874
 file_type: application/pdf

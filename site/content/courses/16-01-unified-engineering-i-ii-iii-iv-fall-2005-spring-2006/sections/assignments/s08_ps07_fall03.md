@@ -1,7 +1,7 @@
 ---
 title: s08_ps07_fall03.pdf
 description: This resource includes problem set regarding signals and systems.
-type: courses
+type: course
 layout: pdf
 uid: bd2ec4a174a91c1548495eafbc2e00e4
 file_type: application/pdf

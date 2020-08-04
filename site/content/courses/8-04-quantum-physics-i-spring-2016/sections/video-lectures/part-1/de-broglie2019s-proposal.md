@@ -595,6 +595,6 @@ transcript: >-
   m='635510'>suddenly</span> <span m='636050'>becomes</span> <span
   m='636650'>clear.</span> </p>
 uid: 733eb15bd0af0178567b20f4ccca8223
-type: courses
+type: course
 layout: video
 ---

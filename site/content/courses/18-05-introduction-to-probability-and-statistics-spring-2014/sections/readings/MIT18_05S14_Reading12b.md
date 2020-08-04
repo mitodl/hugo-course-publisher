@@ -3,7 +3,7 @@ title: 'Reading 12b: Bayesian Updating: Odds'
 description: >-
   This resource file contains information regarding reading 12b: bayesian
   updating: odds.
-type: courses
+type: course
 layout: pdf
 uid: 65200614be80c2c1efcd0f9f3db8c0e7
 file_type: application/pdf

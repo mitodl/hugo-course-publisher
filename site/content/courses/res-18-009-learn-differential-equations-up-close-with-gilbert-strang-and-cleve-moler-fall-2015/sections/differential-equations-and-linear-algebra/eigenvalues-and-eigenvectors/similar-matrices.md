@@ -820,6 +820,6 @@ transcript: >-
   m='883900'>OK.</span> <span m='884380'>Thank</span> <span
   m='884640'>you.</span> </p>
 uid: d80ad5afa7eed96f95cc1aa88d638eb3
-type: courses
+type: course
 layout: video
 ---

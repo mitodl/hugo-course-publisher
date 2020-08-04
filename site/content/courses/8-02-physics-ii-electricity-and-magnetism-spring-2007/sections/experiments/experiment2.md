@@ -1,7 +1,7 @@
 ---
 title: experiment2.pdf
 description: This resource contains an experiment on Faraday ice pail.
-type: courses
+type: course
 layout: pdf
 uid: f803575fba24ecde393da41a40708777
 file_type: application/pdf

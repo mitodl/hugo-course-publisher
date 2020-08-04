@@ -1,11 +1,11 @@
 ---
 title: Syllabus
 course_id: 6-00-introduction-to-computer-science-and-programming-fall-2008
+type: course
+layout: course_section
 menu:
   6-00-introduction-to-computer-science-and-programming-fall-2008:
     identifier: c1f60ec7ee6fdaf79fce8f9efe4eacbc
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
 ---

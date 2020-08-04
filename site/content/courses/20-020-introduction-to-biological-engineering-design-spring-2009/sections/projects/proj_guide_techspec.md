@@ -1,11 +1,11 @@
 ---
 title: 'Project Presentation Guidelines: Technical Specification Review'
 course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
+type: course
+layout: course_section
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: dce3c24ddc8816f57ff7e6660efae32d
-    type: section
-    layout: section
     name: 'Project Presentation Guidelines: Technical Specification Review'
     weight: 270
     parent: becca3d9df0a28caaa3817ca41c1c55b

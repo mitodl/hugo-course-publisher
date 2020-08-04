@@ -1,7 +1,7 @@
 ---
 title: u03_ps07_fall03.pdf
 description: This file contains the questions asked for the concepts covered in the course.
-type: courses
+type: course
 layout: pdf
 uid: 04b3ffdc36d46ccec7ff6b477228ced2
 file_type: application/pdf

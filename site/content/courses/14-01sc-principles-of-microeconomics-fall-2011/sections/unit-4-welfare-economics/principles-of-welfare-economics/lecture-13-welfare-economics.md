@@ -3726,6 +3726,6 @@ transcript: >-
   m='2825060'>to</span> <span m='2825100'>talk</span> <span
   m='2825290'>about</span> <span m='2825460'>monopoly.</span> </p>
 uid: b6bca2c70e25ca48b77bed4f9e3624b0
-type: courses
+type: course
 layout: video
 ---

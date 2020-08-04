@@ -3158,6 +3158,6 @@ transcript: >-
   m='4354500'>you</span> <span m='4354800'>on</span> <span
   m='4355100'>Thursday.</span> </p>
 uid: 18598adb2f60b61731a18a308a3f7332
-type: courses
+type: course
 layout: video
 ---

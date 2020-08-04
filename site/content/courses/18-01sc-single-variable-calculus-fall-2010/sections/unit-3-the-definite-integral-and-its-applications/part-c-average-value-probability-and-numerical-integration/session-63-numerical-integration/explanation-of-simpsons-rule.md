@@ -1066,6 +1066,6 @@ transcript: >-
   <span m='888670'>think</span> <span m='888830'>I'll</span> <span
   m='888920'>stop</span> <span m='889120'>there.</span> </p>
 uid: 3f93839d9f460a25b64b99e79eaadd7f
-type: courses
+type: course
 layout: video
 ---

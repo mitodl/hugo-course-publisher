@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Introduction to Transition
   Metals.
-type: courses
+type: course
 layout: pdf
 uid: 284780d6ca959ebb88bc6500f14d2111
 file_type: application/pdf

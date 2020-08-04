@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Approximation Formula'
 transcript: ''
 uid: dfb7ef867b0886402feb6a46597d83bc
-type: courses
+type: course
 layout: video
 ---

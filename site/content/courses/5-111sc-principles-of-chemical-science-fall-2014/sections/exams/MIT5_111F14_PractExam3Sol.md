@@ -3,7 +3,7 @@ title: 5.111 F14 Practice Exam 3 Solutions
 description: >-
   This resource contains information regarding principles of chemical science:
   Practice exam 3 solutions.
-type: courses
+type: course
 layout: pdf
 uid: aa32fb79e9a625ddf766da285a3d5da5
 file_type: application/pdf

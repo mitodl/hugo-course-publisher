@@ -2768,6 +2768,6 @@ transcript: >-
   m="2795380">right,</span> <span m="2795780">thanks</span> <span
   m="2796080">a</span> <span m="2796380">lot.</span></p>
 uid: 79b17c3a63cf71e5cb6c2947ba80aee1
-type: courses
+type: course
 layout: video
 ---

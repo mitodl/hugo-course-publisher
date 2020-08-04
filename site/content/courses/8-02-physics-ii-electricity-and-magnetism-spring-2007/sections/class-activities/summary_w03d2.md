@@ -1,7 +1,7 @@
 ---
 title: summary_w03d2.pdf
 description: This resource is about Gauss?s Law.
-type: courses
+type: course
 layout: pdf
 uid: 1f14654c795599e1cc060d5194060dce
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: s02_concept.pdf
 description: Concept questions.
-type: courses
+type: course
 layout: pdf
 uid: 92e297cc96702eb364c1b2d50913461d
 file_type: application/pdf

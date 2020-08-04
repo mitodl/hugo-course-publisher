@@ -3,7 +3,7 @@ title: m03_ps07_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on
   equilibrium in 2-D.
-type: courses
+type: course
 layout: pdf
 uid: 8b5ba571706ab1455c3fc07d01a99136
 file_type: application/pdf

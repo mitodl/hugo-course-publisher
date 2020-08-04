@@ -3,7 +3,7 @@ title: MIT18_02SC_notes_31.pdf
 description: >-
   This resource contains information related to green's theorem and conversation
   fields.
-type: courses
+type: course
 layout: pdf
 uid: b952917b2edd0382f7dd14fe3e0c32fb
 file_type: application/pdf

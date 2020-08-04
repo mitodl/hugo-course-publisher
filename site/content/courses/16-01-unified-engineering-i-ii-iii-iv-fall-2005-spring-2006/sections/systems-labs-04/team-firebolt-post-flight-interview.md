@@ -36,6 +36,6 @@ technical_location: >-
 title: 'Team Firebolt: Post-Flight Interview'
 transcript: ''
 uid: 932c56bfd99b006197426b9882ad1175
-type: courses
+type: course
 layout: video
 ---

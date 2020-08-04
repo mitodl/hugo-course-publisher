@@ -502,6 +502,6 @@ transcript: >-
   m='347870'>you</span> <span m='348000'>haven't</span> <span
   m='348380'>memorized</span> <span m='349010'>it.</span> </p>
 uid: 2815be1852320861419d3c669703b64d
-type: courses
+type: course
 layout: video
 ---

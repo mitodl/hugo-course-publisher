@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Antiderivative of xa'
 transcript: ''
 uid: 22bfcd5c6c767ae74f1ec119bdfc0885
-type: courses
+type: course
 layout: video
 ---

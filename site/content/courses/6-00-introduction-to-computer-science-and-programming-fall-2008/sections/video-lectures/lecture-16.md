@@ -3858,6 +3858,6 @@ transcript: >-
   m='3019930'>that</span> <span m='3020310'>next</span> <span
   m='3020570'>week.</span> <span m='3021260'>Thanks.</span> </p>
 uid: 19674a305e76f2e9359782082e318e08
-type: courses
+type: course
 layout: video
 ---

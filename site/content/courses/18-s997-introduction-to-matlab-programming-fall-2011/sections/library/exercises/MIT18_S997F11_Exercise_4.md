@@ -1,7 +1,7 @@
 ---
 title: '18.S997 Root-Finding: Exercise 4'
 description: This resource contains information regarding exercise 4.
-type: courses
+type: course
 layout: pdf
 uid: c692ec310e1bff839c1dab6e590d483f
 file_type: application/pdf

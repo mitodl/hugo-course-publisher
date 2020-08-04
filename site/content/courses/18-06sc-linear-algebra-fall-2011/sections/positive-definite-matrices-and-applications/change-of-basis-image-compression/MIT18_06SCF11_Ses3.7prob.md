@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses3.7prob.pdf
 description: >-
   This resource contains problem set related to change of basis; image
   compression.
-type: courses
+type: course
 layout: pdf
 uid: 253f93ba4904c5d757f6be7e16b9aeea
 file_type: application/pdf

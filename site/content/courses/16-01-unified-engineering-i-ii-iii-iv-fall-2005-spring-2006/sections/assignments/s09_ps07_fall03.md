@@ -1,7 +1,7 @@
 ---
 title: s09_ps07_fall03.pdf
 description: This resource includes information on capacitor voltage.
-type: courses
+type: course
 layout: pdf
 uid: 8ad9effe73f891c8b2c27ecdbec90755
 file_type: application/pdf

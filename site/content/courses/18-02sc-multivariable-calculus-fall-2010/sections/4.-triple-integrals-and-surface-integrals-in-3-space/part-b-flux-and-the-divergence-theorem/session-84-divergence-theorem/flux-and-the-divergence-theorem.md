@@ -874,6 +874,6 @@ transcript: >-
   m='715380'>squared.</span> </p><p><span m='716220'>I'll</span> <span
   m='716480'>stop</span> <span m='716800'>there.</span> </p>
 uid: faa0b05cc4a5b2e55ff56453d12c69c6
-type: courses
+type: course
 layout: video
 ---

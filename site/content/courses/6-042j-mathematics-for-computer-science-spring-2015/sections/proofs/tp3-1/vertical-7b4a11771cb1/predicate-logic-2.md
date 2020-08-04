@@ -903,6 +903,6 @@ transcript: >-
   m='716160'>we'll</span> <span m='716230'>stop</span> <span
   m='716630'>with</span> <span m='716730'>that.</span> </p>
 uid: 636bda1f72476bc39b2099c6202fbd0d
-type: courses
+type: course
 layout: video
 ---

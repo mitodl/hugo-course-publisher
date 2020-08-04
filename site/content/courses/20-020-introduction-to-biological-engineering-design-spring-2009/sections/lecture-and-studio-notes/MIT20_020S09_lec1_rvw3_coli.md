@@ -4,7 +4,7 @@ description: >-
   This file includes details on programming genetic logic, growth phases of
   bacterial cultures, ethical questions of human experimentation, and contains
   review of these processes. 
-type: courses
+type: course
 layout: pdf
 uid: e6bf8a074c756925d42d6676bded6272
 file_type: application/pdf

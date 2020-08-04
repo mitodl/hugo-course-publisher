@@ -2735,6 +2735,6 @@ transcript: >-
   m="2991940">these</span> <span m="2992170">kinds</span> <span
   m="2992430">of</span> <span m="2992510">proofs.</span></p>
 uid: f01976589b8116464c52be16e5adc44a
-type: courses
+type: course
 layout: video
 ---

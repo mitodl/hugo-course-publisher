@@ -1,7 +1,7 @@
 ---
 title: summary_w11d3.pdf
 description: This file focuses on the driven RLC circuit.
-type: courses
+type: course
 layout: pdf
 uid: e42e6433384750d921e6adf321f41f6c
 file_type: application/pdf

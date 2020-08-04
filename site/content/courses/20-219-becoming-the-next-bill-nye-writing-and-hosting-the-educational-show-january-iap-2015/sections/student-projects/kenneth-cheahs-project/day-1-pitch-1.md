@@ -366,6 +366,6 @@ transcript: >-
   m="224470">time--</span> <span m="224730">grandfather</span> <span
   m="225630">paradox.</span></p>
 uid: 26391e2687c9c57e242bc6c91217dd27
-type: courses
+type: course
 layout: video
 ---

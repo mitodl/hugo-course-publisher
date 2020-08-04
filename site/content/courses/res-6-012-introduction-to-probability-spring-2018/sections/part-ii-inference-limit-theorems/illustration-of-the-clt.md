@@ -107,6 +107,6 @@ transcript: >-
   take larger values of n before we can get a very</span> <span
   m='171250'>accurate approximation.</span> </p><p></p>
 uid: 9e9de27fe1eac368ad0b32fea28357cf
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: f06_ps10_sol.pdf
 description: >-
   This resource contains the solutions to the given problem on streamline shapes
   of 2-D velocity field.
-type: courses
+type: course
 layout: pdf
 uid: 815220062a057b9fc3503dfba7b63a59
 file_type: application/pdf

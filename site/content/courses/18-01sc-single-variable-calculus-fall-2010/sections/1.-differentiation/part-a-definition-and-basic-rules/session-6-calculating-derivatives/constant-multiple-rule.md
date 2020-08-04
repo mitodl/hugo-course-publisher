@@ -530,6 +530,6 @@ transcript: >-
   <span m='422090'>proved.</span> <span m='423280'>So</span> <span
   m='423440'>that's</span> <span m='423690'>that.</span> </p>
 uid: bf01bf7dbd0cec6e0994f9ab0361063f
-type: courses
+type: course
 layout: video
 ---

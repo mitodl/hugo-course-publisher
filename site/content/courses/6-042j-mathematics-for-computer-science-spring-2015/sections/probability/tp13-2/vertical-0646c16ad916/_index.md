@@ -1,7 +1,7 @@
 ---
 title: '4.6 Deviation: Markov & Chebyshev Bounds'
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Inside the TA's Brain]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2/vertical-82fa33baa07e" %}})

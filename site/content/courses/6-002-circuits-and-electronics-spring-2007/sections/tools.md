@@ -1,11 +1,11 @@
 ---
 title: Tools
 course_id: 6-002-circuits-and-electronics-spring-2007
+type: course
+layout: course_section
 menu:
   6-002-circuits-and-electronics-spring-2007:
     identifier: 1ed78b87a5518c48b52c8a74a017d1bf
-    type: section
-    layout: section
     name: Tools
     weight: 80
 ---

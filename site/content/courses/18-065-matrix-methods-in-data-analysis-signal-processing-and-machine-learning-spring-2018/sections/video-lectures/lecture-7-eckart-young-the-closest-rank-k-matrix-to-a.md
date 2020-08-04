@@ -2635,6 +2635,6 @@ transcript: >-
   m='2832970'>the</span> <span m='2833310'>SVD</span> <span
   m='2833635'>solves</span> <span m='2833960'>these.</span> </p>
 uid: 7d689bdb8da9848c569f85e93ce9b9d4
-type: courses
+type: course
 layout: video
 ---

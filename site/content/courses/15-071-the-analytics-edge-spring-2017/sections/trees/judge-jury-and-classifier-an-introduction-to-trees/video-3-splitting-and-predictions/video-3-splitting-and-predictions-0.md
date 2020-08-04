@@ -217,6 +217,6 @@ transcript: >-
   m='153851'>a</span> <span m='154344'>ROC</span> <span m='154836'>curve.</span>
   </p>
 uid: c184fec72119efd87eed2e021c080c71
-type: courses
+type: course
 layout: video
 ---

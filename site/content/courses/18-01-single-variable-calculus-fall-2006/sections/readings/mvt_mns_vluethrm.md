@@ -1,7 +1,7 @@
 ---
 title: Mean-value Theorem
 description: Supplement to the textbook on the two forms of the mean-value theorem.
-type: courses
+type: course
 layout: pdf
 uid: 4dbb60ed1403fc2616e337fe9fb43224
 file_type: application/pdf

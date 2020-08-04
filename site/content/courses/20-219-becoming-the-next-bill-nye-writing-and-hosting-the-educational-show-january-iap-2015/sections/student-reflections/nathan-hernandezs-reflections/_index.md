@@ -2,16 +2,14 @@
 title: Nathan Hernandez's Reflections
 course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
+type: course
+layout: videogallery
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: f96632a88b4225f3f84e318abddd7856
-    type: section
-    layout: section
     name: Nathan Hernandez's Reflections
     weight: 390
     parent: dadfeb1198fbe700d205d71a4c85f081
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/paul-pj-folinos-reflections" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/yuliya-klochans-reflections" %}}) »
 

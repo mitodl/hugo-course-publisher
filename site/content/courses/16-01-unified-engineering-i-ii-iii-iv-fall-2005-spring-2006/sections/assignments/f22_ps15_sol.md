@@ -3,7 +3,7 @@ title: f22_ps15_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on drag
   polar.
-type: courses
+type: course
 layout: pdf
 uid: f9c8f45019e9f3a6b2126fd238cc3b88
 file_type: application/pdf

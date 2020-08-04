@@ -618,6 +618,6 @@ transcript: >-
   m='600080'>the</span> <span m='600160'>board.</span> </p><p><span
   m='600870'>Thank</span> <span m='601080'>you.</span> </p>
 uid: 2188d301df19f1088846bba4385ce874
-type: courses
+type: course
 layout: video
 ---

@@ -1,16 +1,14 @@
 ---
 title: 3.2 Around the World
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
+type: course
+layout: videogallery
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 0cc0671aff170e1e2077fc787eca8faa
-    type: section
-    layout: section
     name: 3.2 Around the World
     weight: 510
     parent: cc30bcc3b45c6b220f2145ce29d9b264
-type: courses
-layout: videogallery
 ---
 *   [<Video: Life Long Learning: Moving from Rhetoric to Reality]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/innovations-in-the-1980s-and-beyond/out-of-crisis-innovations-in-the-1980s-and-beyond/video-life-long-learning-moving-from-rhetoric-to-reality" %}})
 *   [3.2.1Video: Role of the Corporation in Different Societies]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/innovations-in-the-1980s-and-beyond/around-the-world-1/_index.md" %}})

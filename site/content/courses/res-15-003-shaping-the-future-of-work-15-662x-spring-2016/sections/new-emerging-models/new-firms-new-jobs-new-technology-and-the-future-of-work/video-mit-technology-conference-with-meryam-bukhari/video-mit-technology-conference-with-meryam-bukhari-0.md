@@ -1001,6 +1001,6 @@ transcript: >-
   m="674200">members</span> <span m="674610">of</span> <span
   m="674870">society.</span></p>
 uid: 8c4fe55104c01179b0149df7384fa0ca
-type: courses
+type: course
 layout: video
 ---

@@ -809,6 +809,6 @@ transcript: >-
   m='897510'>all</span> <span m='897720'>works</span> <span
   m='898140'>well.</span> </p>
 uid: 28021f550a19745881e6262fa57427ae
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: prs_w12d2_qonly.pdf
 description: >-
   This resource contains informations about circular capacitor, Amperian loop
   and surface spanning the Amperian loop.
-type: courses
+type: course
 layout: pdf
 uid: 04682c99a334a3433df3fc3e15480edb
 file_type: application/pdf

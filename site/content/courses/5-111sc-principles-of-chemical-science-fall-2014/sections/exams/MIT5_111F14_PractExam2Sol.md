@@ -3,7 +3,7 @@ title: 5.111 F14 Practice Exam 2 Solutions
 description: >-
   This resource contains information regarding principles of chemical science:
   Practice exam 2 solutions.
-type: courses
+type: course
 layout: pdf
 uid: 770cbe602fc902d84aaa559f3762d8d4
 file_type: application/pdf

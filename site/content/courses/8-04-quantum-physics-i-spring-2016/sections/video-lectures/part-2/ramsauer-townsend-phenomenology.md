@@ -492,6 +492,6 @@ transcript: >-
   m='613550'>agreement</span> <span m='614110'>is</span> <span
   m='614590'>pretty</span> <span m='614950'>reasonable.</span> </p>
 uid: 460492ba0ca2a5bdae4b319caf09198c
-type: courses
+type: course
 layout: video
 ---

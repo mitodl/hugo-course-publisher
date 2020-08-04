@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 1: Introduction to Inﬁnite Series'
 transcript: ''
 uid: 1602117f778eb5e7eb1c34b09a4456f5
-type: courses
+type: course
 layout: video
 ---

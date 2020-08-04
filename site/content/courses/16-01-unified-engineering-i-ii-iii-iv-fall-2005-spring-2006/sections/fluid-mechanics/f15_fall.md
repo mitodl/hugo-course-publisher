@@ -1,7 +1,7 @@
 ---
 title: f15_fall.pdf
 description: 'This resource contains information on the topic of Source, Sinks and Doublets.'
-type: courses
+type: course
 layout: pdf
 uid: d44c58cd206521ec5011683f8b97199e
 file_type: application/pdf

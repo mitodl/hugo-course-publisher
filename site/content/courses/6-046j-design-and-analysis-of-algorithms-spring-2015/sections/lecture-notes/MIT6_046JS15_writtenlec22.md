@@ -1,7 +1,7 @@
 ---
 title: 'Class on Design and Analysis of Algorithms, Lecture 22 Notes, Handwritten'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 6889d9a50117051ef21dc4c975567dfe
 file_type: application/pdf

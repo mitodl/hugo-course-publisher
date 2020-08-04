@@ -4036,6 +4036,6 @@ transcript: >-
   m="4583310">the</span> <span m="4583510">oscillator.</span> <span
   m="4584770">Bye-bye.</span></p><p>&nbsp;</p>
 uid: ea8fb652ed760b5ad337a4bc428a1e24
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex37prb.pdf
 description: This resource contains problem statements related anti - derivative rules.
-type: courses
+type: course
 layout: pdf
 uid: c083a2a2def41a9c22a0f09e4c1fa623
 file_type: application/pdf

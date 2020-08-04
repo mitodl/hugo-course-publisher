@@ -3,7 +3,7 @@ title: demo_13.pdf
 description: >-
   This resource contains a demo examining first order sinusoidal steady state
   responses of the inverting amplifier and an RC circuit.
-type: courses
+type: course
 layout: pdf
 uid: a90fd417e34cc937fdfbe711413de192
 file_type: application/pdf

@@ -380,6 +380,6 @@ transcript: >-
   calculation</span> <span m='1106600'>before Markov chains were
   invented.</span> </p><p></p>
 uid: 8e6bf2a14463d596239cc6ead054c781
-type: courses
+type: course
 layout: video
 ---

@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 33: Kinetics and Temperature'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: videogallery
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: bfdc3eed5d1b3d9ce32cf1f3c4868b27
-    type: section
-    layout: section
     name: Lecture 33
     weight: 400
     parent: 124cd4e89ed86cbe95d852c3908bfac3
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-34/_index.md" %}}) »
 

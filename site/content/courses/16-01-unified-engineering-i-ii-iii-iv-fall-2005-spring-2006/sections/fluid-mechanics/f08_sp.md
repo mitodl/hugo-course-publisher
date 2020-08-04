@@ -3,7 +3,7 @@ title: f08_sp.pdf
 description: >-
   This resource provides information on the topics of Wing Geometry and Wing
   Design Problem.
-type: courses
+type: course
 layout: pdf
 uid: 5dc2ae739ef7b2c4136d3d5b379bc32b
 file_type: application/pdf

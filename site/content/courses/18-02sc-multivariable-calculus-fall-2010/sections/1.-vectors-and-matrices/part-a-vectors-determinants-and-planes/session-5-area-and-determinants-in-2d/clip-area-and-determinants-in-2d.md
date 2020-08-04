@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Area and Determinants in 2D'
 transcript: ''
 uid: ef26247230db42f51799c22b31134215
-type: courses
+type: course
 layout: video
 ---

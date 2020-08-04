@@ -1,7 +1,7 @@
 ---
 title: Week 5 Twitter Video 1 - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: e2479d78ae043e3cea7264cac2c0242b
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: quiz_sol.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: a505817210d2eae2eb78998ad5609da1
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: Heat Transfer in a Material
 course_id: res-3-004-visualizing-materials-science-fall-2017
-type: courses
+type: course
 layout: videogallery
 ---
 ![heat transfer visualization](https://open-learning-course-data-ci.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/43a7b70a1182a327472210dbf0fe8213_MITRES_3_004F17_32_bingg.jpg)

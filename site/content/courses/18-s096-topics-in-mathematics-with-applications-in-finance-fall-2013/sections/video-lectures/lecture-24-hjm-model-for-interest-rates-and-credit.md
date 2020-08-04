@@ -6324,6 +6324,6 @@ transcript: >-
   m='6432930'>[APPLAUSE]</span> </p><p><span m='6433530'>DENIS GOROKHOV: Thank
   you.</span> </p>
 uid: e8422b26855ccf77d27f157dce64c7aa
-type: courses
+type: course
 layout: video
 ---

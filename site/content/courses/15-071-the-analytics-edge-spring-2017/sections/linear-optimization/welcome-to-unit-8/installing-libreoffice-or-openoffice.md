@@ -1,6 +1,8 @@
 ---
 title: 8.1 Welcome to Unit 8
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: course_section
 ---
 *   [<Welcome to Unit 8]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/_index.md" %}})
 *   [8.1.1Welcome to Unit 8]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/_index.md" %}})

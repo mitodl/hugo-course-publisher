@@ -41,6 +41,6 @@ technical_location: >-
 title: 'Lecture 7: Solar Cookers, Creative Capacity Building, Trip Preparation'
 transcript: ''
 uid: 98a4193c1cdc77fddd38ec6bae808b8f
-type: courses
+type: course
 layout: video
 ---

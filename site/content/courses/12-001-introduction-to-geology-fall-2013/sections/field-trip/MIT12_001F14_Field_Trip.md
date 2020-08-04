@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains the information regarding a field trip to ancient plate
   tectonics structures in massachusetts and new york.
-type: courses
+type: course
 layout: pdf
 uid: f828208d0d04e1f39c1bb31d6fbe5f2d
 file_type: application/pdf

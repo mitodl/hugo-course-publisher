@@ -153,6 +153,6 @@ transcript: >-
   dependence between these</span> <span m='351440'>two random variables.</span>
   </p><p></p>
 uid: 623f4b9ff9c569e189f19e00be7138ba
-type: courses
+type: course
 layout: video
 ---

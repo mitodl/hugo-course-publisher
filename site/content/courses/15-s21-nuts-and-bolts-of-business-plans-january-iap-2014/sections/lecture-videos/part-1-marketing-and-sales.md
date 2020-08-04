@@ -5047,6 +5047,6 @@ transcript: >-
   m='4336010'>much.</span> </p><p><span m='4336910'>[APPLAUSE]</span>
   </p><p></p>
 uid: 2824de7a4a7f509accad99a3ad533f19
-type: courses
+type: course
 layout: video
 ---

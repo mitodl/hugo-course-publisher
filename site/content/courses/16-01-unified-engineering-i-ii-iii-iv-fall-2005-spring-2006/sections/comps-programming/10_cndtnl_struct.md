@@ -1,7 +1,7 @@
 ---
 title: 10_cndtnl_struct.pdf
 description: Lecture 10 (2003) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 4963980ae433e4f64c30a22aea54004a
 file_type: application/pdf

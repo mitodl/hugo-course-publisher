@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Least Squares'
 transcript: ''
 uid: 5d5e3041ea4a143b4ce8208df6a654d7
-type: courses
+type: course
 layout: video
 ---

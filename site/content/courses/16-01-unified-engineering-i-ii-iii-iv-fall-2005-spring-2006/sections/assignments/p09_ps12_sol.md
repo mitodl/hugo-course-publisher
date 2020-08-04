@@ -1,7 +1,7 @@
 ---
 title: p09_ps12_sol.pdf
 description: This resource contains handwritten problem set solution.
-type: courses
+type: course
 layout: pdf
 uid: 8b6ff79cb62059ad9c963069aedc3bea
 file_type: application/pdf

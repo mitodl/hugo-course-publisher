@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Examples of Comparison'
 transcript: ''
 uid: 7360e2ad8187eadde3cb45d5c3b0b7b9
-type: courses
+type: course
 layout: video
 ---

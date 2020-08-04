@@ -1,7 +1,7 @@
 ---
 title: quiz_hdot_m11_14.pdf
 description: This resource based on study guide and formula table for quiz.
-type: courses
+type: course
 layout: pdf
 uid: d6610abb79ace81984f041be6249952a
 file_type: application/pdf

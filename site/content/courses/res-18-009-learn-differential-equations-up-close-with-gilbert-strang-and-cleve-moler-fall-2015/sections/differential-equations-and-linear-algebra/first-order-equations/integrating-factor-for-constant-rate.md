@@ -726,6 +726,6 @@ transcript: >-
   <span m='819780'>deal.</span> <span m='820780'>Thank</span> <span
   m='821050'>you.</span> </p>
 uid: 77668ad8f3221e837815aa225905084c
-type: courses
+type: course
 layout: video
 ---

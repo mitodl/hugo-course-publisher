@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Other Bases'
 transcript: ''
 uid: ed7ba095189059c4435cd524e9c87ac8
-type: courses
+type: course
 layout: video
 ---

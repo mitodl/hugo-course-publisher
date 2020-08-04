@@ -1,7 +1,7 @@
 ---
 title: p07_ps11_spring04.pdf
 description: This resource contains problems based on turbojet engine.
-type: courses
+type: course
 layout: pdf
 uid: 5e30f919b41f02c9446d518693d3a963
 file_type: application/pdf

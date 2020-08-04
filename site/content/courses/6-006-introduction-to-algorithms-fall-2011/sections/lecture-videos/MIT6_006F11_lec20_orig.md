@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information related to Parent pointers; text
   justification, perfect-information blackjack.
-type: courses
+type: course
 layout: pdf
 uid: 3081465d1ec6840ddc2be9f6beb4b3f4
 file_type: application/pdf

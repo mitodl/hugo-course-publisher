@@ -1,7 +1,7 @@
 ---
 title: sprh04.pdf
 description: This resource based on handout for spring term quizzes.
-type: courses
+type: course
 layout: pdf
 uid: 1f1b4e82bae2ff8ce609bc96fe20eedb
 file_type: application/pdf

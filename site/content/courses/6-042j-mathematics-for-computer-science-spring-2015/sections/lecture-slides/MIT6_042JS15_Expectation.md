@@ -1,7 +1,7 @@
 ---
 title: 'Expectation: Expectation'
 description: This file contains information regarding expectation.
-type: courses
+type: course
 layout: pdf
 uid: 4c94bc85880bbc7c023de1fd284b33cd
 file_type: application/pdf

@@ -144,6 +144,6 @@ transcript: >-
   solution</span> <span m='301360'>and also to give a number of examples.</span>
   </p><p></p>
 uid: d762899ccad56318432d2a3c821c2e91
-type: courses
+type: course
 layout: video
 ---

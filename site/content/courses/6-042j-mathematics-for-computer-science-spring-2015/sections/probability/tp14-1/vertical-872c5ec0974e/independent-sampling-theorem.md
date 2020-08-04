@@ -560,6 +560,6 @@ transcript: >-
   m='407880'>to</span> <span m='407980'>be</span> <span m='408220'>less</span>
   <span m='408460'>than</span> <span m='408930'>1.</span> </p>
 uid: 616dd599af632357ebde8be128156266
-type: courses
+type: course
 layout: video
 ---

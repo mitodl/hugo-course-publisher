@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: More Antiderivatives'
 transcript: ''
 uid: 183f9d8e4fff7ab8c31ebbebf03b81c3
-type: courses
+type: course
 layout: video
 ---

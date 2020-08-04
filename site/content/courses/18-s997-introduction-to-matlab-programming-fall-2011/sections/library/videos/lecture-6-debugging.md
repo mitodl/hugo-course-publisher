@@ -674,6 +674,6 @@ transcript: >-
   m='613000'>use</span> <span m='613210'>the</span> <span
   m='613440'>debugger.</span> </p>
 uid: 67220f396760eeb42a09af32a393ec79
-type: courses
+type: course
 layout: video
 ---

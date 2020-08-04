@@ -3,7 +3,7 @@ title: m12_ps11_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on
   Mohr's circle.
-type: courses
+type: course
 layout: pdf
 uid: 7de3cc8f06c0d8187722662f38a128d6
 file_type: application/pdf

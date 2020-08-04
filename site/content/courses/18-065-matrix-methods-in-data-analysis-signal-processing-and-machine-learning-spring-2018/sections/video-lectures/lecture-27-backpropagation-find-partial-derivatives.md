@@ -2505,6 +2505,6 @@ transcript: >-
   m="3155910">a</span> <span m="3156030">good</span> <span
   m="3156330">welcome.</span></p>
 uid: a11969b72781922397269718da7c7cb1
-type: courses
+type: course
 layout: video
 ---

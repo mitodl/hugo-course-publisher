@@ -292,6 +292,6 @@ transcript: >-
   m='230180'>in</span> <span m='230680'>the</span> <span m='231180'>final</span>
   <span m='231680'>model.</span> </p>
 uid: e17d1af2238356cd2c4a02e7e2d06158
-type: courses
+type: course
 layout: video
 ---

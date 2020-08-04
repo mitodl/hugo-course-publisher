@@ -864,6 +864,6 @@ transcript: >-
   Elliot, you can ask a question after class.</span> </p><p><span
   m='2901590'>Why don't you come up and ask it now?</span> </p><p></p>
 uid: 559f4256c248c62f1030af5edcd5895c
-type: courses
+type: course
 layout: video
 ---

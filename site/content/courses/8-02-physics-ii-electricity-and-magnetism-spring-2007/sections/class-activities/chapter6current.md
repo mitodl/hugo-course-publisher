@@ -5,7 +5,7 @@ description: >-
 
   electric current, Ohm?s law, electrical energy and power, summary, solved
   problems, conceptual questions, and additional problems.
-type: courses
+type: course
 layout: pdf
 uid: f17999d1b7efeb010a71df797453554b
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: cp5_6_ps08_sol.pdf
 description: >-
   This handout contains the  solutions for the Problem set based on doubly
   linked lists and Dijkstra?s algorithm.
-type: courses
+type: course
 layout: pdf
 uid: 9a02f1359b7827d5ea27b38dc79727be
 file_type: application/pdf

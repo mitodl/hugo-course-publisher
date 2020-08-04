@@ -859,6 +859,6 @@ transcript: >-
   m='641920'>round of</span> <span m='642220'>applause.</span> </p><p><span
   m='643120'>[APPLAUSE]</span> </p><p></p>
 uid: 351567bb664c889187d113479e9d0fcf
-type: courses
+type: course
 layout: video
 ---

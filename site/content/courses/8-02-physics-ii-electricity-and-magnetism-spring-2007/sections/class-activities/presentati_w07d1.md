@@ -6,7 +6,7 @@ description: >-
   force between wires, rectangular current loop, torque on rectangular loop,
   magnetic dipole moment, galvanometer, magnetic dipole moment, torque on dipole
   in uniform field, and force on magnetic dipole.
-type: courses
+type: course
 layout: pdf
 uid: 12a4e5e16764f41aa8f735b2f8be6c78
 file_type: application/pdf

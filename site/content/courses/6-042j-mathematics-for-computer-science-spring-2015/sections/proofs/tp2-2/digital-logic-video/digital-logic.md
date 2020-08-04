@@ -815,6 +815,6 @@ transcript: >-
   m='600690'>these</span> <span m='600910'>different</span> <span
   m='601240'>variables.</span> </p>
 uid: beab7ce01799dce7a6fa09ab4fba6190
-type: courses
+type: course
 layout: video
 ---

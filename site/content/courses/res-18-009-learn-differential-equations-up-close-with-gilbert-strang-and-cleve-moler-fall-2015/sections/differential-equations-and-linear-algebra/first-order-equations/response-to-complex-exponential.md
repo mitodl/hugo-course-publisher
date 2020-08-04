@@ -735,6 +735,6 @@ transcript: >-
   m='761940'>term.</span> <span m='764170'>Thank</span> <span
   m='764440'>you.</span> </p>
 uid: 04a1983c170e1c985d376c7b81c114a8
-type: courses
+type: course
 layout: video
 ---

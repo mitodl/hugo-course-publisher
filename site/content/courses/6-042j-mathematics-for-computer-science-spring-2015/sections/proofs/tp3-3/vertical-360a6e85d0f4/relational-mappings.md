@@ -699,6 +699,6 @@ transcript: >-
   m='528100'>they're</span> <span m='528230'>the</span> <span
   m='528350'>same</span> <span m='528710'>size.</span> </p>
 uid: 696f5c792d08b56e72477cd03dce3ef9
-type: courses
+type: course
 layout: video
 ---

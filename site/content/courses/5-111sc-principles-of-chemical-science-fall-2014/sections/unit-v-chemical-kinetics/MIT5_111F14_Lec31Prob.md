@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 31: Nuclear Chemistry and
   Chemical Kinetics
 description: This resource contains information regarding lecture 31 problem.
-type: courses
+type: course
 layout: pdf
 uid: b8c17bff73d3d842efd8e576eba543c1
 file_type: application/pdf

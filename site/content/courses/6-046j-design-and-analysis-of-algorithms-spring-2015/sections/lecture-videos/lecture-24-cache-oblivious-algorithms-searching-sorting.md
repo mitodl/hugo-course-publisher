@@ -5189,6 +5189,6 @@ transcript: >-
   final</span> <span m='4657830'>exam.</span> </p><p><span
   m='4658430'>[APPLAUSE]</span> </p><p></p>
 uid: efc8b80e509595eb8d26e020f63b3e70
-type: courses
+type: course
 layout: video
 ---

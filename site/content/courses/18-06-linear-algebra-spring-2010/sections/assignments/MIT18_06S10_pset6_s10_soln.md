@@ -1,7 +1,7 @@
 ---
 title: MIT18_06S10_pset6_s10_soln.pdf
 description: This resource contains information related to normal equations.
-type: courses
+type: course
 layout: pdf
 uid: ace08d2d5a7b321229f191765c5ff2e3
 file_type: application/pdf

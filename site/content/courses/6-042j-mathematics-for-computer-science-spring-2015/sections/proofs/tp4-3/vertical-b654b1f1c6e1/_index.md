@@ -1,7 +1,7 @@
 ---
 title: 1.11  Infinite Sets
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Countable and Uncountable Sets]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/vertical-3077e4479731" %}})

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 4: Extensions of L''Hospital''s Rule'
 transcript: ''
 uid: e42b79dc3e171ac0f4abaa0510c46d16
-type: courses
+type: course
 layout: video
 ---

@@ -779,6 +779,6 @@ transcript: >-
   <span m='555180'>that's</span> <span m='555380'>where</span> <span
   m='555490'>I'll</span> <span m='555630'>stop.</span> </p>
 uid: 4d0c19be3665ac689c77336ae614fb1c
-type: courses
+type: course
 layout: video
 ---

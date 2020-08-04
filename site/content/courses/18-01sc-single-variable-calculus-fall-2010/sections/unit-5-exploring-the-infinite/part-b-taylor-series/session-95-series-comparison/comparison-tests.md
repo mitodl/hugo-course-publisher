@@ -320,6 +320,6 @@ transcript: >-
   m='851575'>also converges.</span> </p><p><span m='853515'>So I'll end
   there.</span> </p>
 uid: 320a8ca55ca282ca055c621fda9a468c
-type: courses
+type: course
 layout: video
 ---

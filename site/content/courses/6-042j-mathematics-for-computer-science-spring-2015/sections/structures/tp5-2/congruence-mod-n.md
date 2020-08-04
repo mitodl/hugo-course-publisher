@@ -991,6 +991,6 @@ transcript: >-
   m='790410'>the</span> <span m='790520'>ninth</span> <span
   m='790910'>power.</span> </p>
 uid: df344596ac8ba471553b02e5172c93b3
-type: courses
+type: course
 layout: video
 ---

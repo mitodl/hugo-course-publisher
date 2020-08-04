@@ -1,7 +1,7 @@
 ---
 title: sp7_notes.pdf
 description: This resource contains information on lecture notes for lab assignment.
-type: courses
+type: course
 layout: pdf
 uid: 122da0ffdc4a15d958685358dde118f3
 file_type: application/pdf

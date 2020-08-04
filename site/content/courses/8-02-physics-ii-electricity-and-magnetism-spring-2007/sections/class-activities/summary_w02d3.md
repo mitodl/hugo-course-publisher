@@ -1,7 +1,7 @@
 ---
 title: summary_w02d3.pdf
 description: This resource is about continuous charge distributions.
-type: courses
+type: course
 layout: pdf
 uid: 382a4c914b3e91dadb7c92ecfbb4bb45
 file_type: application/pdf

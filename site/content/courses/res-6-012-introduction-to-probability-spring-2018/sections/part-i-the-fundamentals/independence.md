@@ -124,6 +124,6 @@ transcript: >-
   provide any</span> <span m='211980'>information about the other.</span>
   </p><p></p>
 uid: f7d85d61b29f17c940c0c0a2441b7a56
-type: courses
+type: course
 layout: video
 ---

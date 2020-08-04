@@ -1,7 +1,7 @@
 ---
 title: objectives.pdf
 description: Learning objectives and measurable outcomes for the course.
-type: courses
+type: course
 layout: pdf
 uid: 7388adedca07885c4cc2bfb6b98338de
 file_type: application/pdf

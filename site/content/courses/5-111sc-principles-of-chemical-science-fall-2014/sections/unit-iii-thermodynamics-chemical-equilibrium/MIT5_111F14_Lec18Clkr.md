@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Introduction to Chemical
   Equilibrium.
-type: courses
+type: course
 layout: pdf
 uid: dc2c31954cfac487a59717849a44f10f
 file_type: application/pdf

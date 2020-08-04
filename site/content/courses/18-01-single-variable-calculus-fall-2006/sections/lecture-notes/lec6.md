@@ -5,7 +5,7 @@ title: >-
 description: >-
   Lecture notes on topics exponential and log, logarithmic differentiation, and
   hyperbolic functions.
-type: courses
+type: course
 layout: pdf
 uid: f9af0e98490296c99d330faf47389507
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: summary_w15d2.pdf
 description: This resource is about Final Exam Information.
-type: courses
+type: course
 layout: pdf
 uid: b9b500681ffb06a4fc6179fc409d571c
 file_type: application/pdf

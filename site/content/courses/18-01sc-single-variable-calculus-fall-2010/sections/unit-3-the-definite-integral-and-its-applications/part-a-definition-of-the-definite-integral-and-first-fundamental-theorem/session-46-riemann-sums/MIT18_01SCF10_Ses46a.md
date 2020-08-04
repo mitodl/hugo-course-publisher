@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses46a.pdf
 description: This resource contains information about riemann sums.
-type: courses
+type: course
 layout: pdf
 uid: 523ebde51093f1b01b42191bde0ec1dc
 file_type: application/pdf

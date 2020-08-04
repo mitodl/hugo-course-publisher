@@ -235,6 +235,6 @@ transcript: >-
   which</span> <span m="548660">should be numerically a straightforward
   procedure.</span></p>
 uid: 2edf269db49b1aa2de1a1de94608721d
-type: courses
+type: course
 layout: video
 ---

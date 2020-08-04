@@ -174,6 +174,6 @@ transcript: >-
   particular special structure that</span> <span m='389520'>you can exploit
   otherwise.</span> </p><p></p>
 uid: cf092724db8c19761236d90415fe9f52
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: DERIVE_Information.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: ba1278f8d11c69c59ad4d72b31babb9d
 file_type: application/pdf

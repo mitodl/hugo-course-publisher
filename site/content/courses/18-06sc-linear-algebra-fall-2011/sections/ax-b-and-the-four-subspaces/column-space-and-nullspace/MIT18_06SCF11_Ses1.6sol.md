@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses1.6sol.pdf
 description: >-
   This resource contains solution to the problem sets related to column space
   and nullspace.
-type: courses
+type: course
 layout: pdf
 uid: f4ae8cc2b4f36574983dd4c313f106eb
 file_type: application/pdf

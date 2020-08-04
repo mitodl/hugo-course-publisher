@@ -89,6 +89,6 @@ transcript: >-
   m='30050'>treatments.</span> </p><p><span m='31310'>Let's</span> <span
   m='31990'>get</span> <span m='32670'>started.</span> </p>
 uid: 92d4983707212eb468802b2929ad74b0
-type: courses
+type: course
 layout: video
 ---

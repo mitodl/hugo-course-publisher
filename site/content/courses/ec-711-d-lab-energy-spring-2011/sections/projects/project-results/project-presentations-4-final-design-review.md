@@ -40,6 +40,6 @@ technical_location: >-
 title: 'Project Presentations 4: Final Design Review'
 transcript: ''
 uid: 7c41af11049c0024e724b005519c8fd1
-type: courses
+type: course
 layout: video
 ---

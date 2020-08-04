@@ -36,6 +36,6 @@ technical_location: >-
 title: 'Team 9: Pre-Flight Interview'
 transcript: ''
 uid: c16f9897a6523b4c479c5dc1fc242aaa
-type: courses
+type: course
 layout: video
 ---

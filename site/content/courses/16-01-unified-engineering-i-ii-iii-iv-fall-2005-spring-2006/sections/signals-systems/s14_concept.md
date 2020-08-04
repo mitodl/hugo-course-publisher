@@ -1,7 +1,7 @@
 ---
 title: s14_concept.pdf
 description: Concept questions on Signal representation in sine and cosines.
-type: courses
+type: course
 layout: pdf
 uid: 29fe9a327b904ed693b3d718b59bb7a2
 file_type: application/pdf

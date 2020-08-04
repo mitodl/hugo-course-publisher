@@ -1191,6 +1191,6 @@ transcript: >-
   m='926070'>proof</span> <span m='926945'>of</span> <span
   m='927330'>Hall's</span> <span m='927630'>theorem.</span> </p>
 uid: 9275766a29629b0c629a7035ff5c4349
-type: courses
+type: course
 layout: video
 ---

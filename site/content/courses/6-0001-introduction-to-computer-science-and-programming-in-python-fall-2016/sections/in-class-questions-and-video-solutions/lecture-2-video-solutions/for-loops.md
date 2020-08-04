@@ -178,6 +178,6 @@ transcript: >-
   m='112470'>step</span> <span m='112710'>by</span> <span
   m='112860'>step.</span> </p>
 uid: fd2e2e45802d0a8d766a7ed5f77db5a3
-type: courses
+type: course
 layout: video
 ---

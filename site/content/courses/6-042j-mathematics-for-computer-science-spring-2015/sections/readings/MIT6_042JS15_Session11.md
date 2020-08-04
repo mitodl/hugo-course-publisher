@@ -3,7 +3,7 @@ title: 'Infinite Sets: Chapter 7'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Infinite sets: Chapter 7.
-type: courses
+type: course
 layout: pdf
 uid: 4889188d71c494c48a81939c627e98fa
 file_type: application/pdf

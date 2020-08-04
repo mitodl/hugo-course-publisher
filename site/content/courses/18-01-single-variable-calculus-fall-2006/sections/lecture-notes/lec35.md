@@ -3,7 +3,7 @@ title: 'Lecture 35: Improper Integrals'
 description: >-
   Lecture notes on determining divergence and convergence, improper integrals,
   and improper integrals of the second type.
-type: courses
+type: course
 layout: pdf
 uid: 6f78763852e7fd656a9aa1dc67fef6ee
 file_type: application/pdf
