@@ -4819,6 +4819,6 @@ transcript: >-
   m="4926710">tree</span> <span m="4927280">and</span> <span
   m="4927580">nearly</span> <span m="4927880">linear time.</span></p>
 uid: b09226a5ff9c1d4df19cd0dd1145fda4
-type: courses
+type: course
 layout: video
 ---

@@ -152,6 +152,6 @@ transcript: >-
   m='82560'>of</span> <span m='82710'>a</span> <span m='82740'>particular</span>
   <span m='83400'>object.</span> </p>
 uid: b93ae723a689f41a9536414ea54960e7
-type: courses
+type: course
 layout: video
 ---

@@ -282,6 +282,6 @@ transcript: >-
   m="177790">where</span> <span m="177950">my</span> <span
   m="178090">gloves</span> <span m="178450">are.</span></p>
 uid: 11250ad8ad7f167c266e8e512d400e96
-type: courses
+type: course
 layout: video
 ---

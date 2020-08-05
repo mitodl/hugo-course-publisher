@@ -271,6 +271,6 @@ transcript: >-
   m="206600">right.</span> <span m="207520">See</span> <span
   m="207730">you</span> <span m="207820">tomorrow.</span></p>
 uid: b7c5609ac223bc15a4cb0f0b82740ab6
-type: courses
+type: course
 layout: video
 ---

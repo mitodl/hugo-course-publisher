@@ -3,7 +3,7 @@ title: mudgm17.pdf
 description: >-
   This resource contains review questions and answers based on carbon
   nano-tubes, and Tresca and Vona Mises multiaxial yield criteria.
-type: courses
+type: course
 layout: pdf
 uid: 766d91362beb813ecb8027164891fa71
 file_type: application/pdf

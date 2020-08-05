@@ -3,7 +3,7 @@ title: 'Design and Analysis of Algorithms, Final Exam'
 description: >-
   This resource contains information regarding class on design and analysis of
   algorithms, final exam.
-type: courses
+type: course
 layout: pdf
 uid: 4c82af3a9820b038e2caba09d023de12
 file_type: application/pdf

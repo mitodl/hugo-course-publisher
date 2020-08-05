@@ -89,6 +89,6 @@ transcript: >-
   m="80650">versus models that involve continuous
   outcomes.</span></p><p>&nbsp;</p>
 uid: fe9cfbed4067048bd1ebc43f1be2b7d7
-type: courses
+type: course
 layout: video
 ---

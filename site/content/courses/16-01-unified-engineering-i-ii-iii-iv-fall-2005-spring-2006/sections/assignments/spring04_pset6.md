@@ -1,7 +1,7 @@
 ---
 title: spring04_pset6.pdf
 description: Unified Engineering Fluids Problems.
-type: courses
+type: course
 layout: pdf
 uid: 8a33d8f4bd769ee082629e1c22a9352f
 file_type: application/pdf

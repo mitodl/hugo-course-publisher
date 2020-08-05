@@ -2,16 +2,14 @@
 title: Nathan Hernandez's Project
 course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
+type: course
+layout: videogallery
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: 65f298a79f2a0550e78ed9fc7ff17ff4
-    type: section
-    layout: section
     name: Nathan Hernandez's Project
     weight: 290
     parent: 6df56ca86d884c27d497aee73b724945
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project/_index.md" %}}) »
 

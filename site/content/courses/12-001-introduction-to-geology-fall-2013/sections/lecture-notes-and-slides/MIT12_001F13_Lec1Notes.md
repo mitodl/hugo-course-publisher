@@ -3,7 +3,7 @@ title: 'Lecture 1 Notes: Overview: Introduction to the Introduction of Geology'
 description: >-
   This is a resource file that contains information regarding introduction to
   the introduction of geology.
-type: courses
+type: course
 layout: pdf
 uid: afe6a58db228c6f134a347dd2225e78a
 file_type: application/pdf

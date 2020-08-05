@@ -504,6 +504,6 @@ transcript: >-
   m='486498'>create</span> <span m='486916'>a</span> <span
   m='487334'>heat</span> <span m='487752'>map.</span> </p>
 uid: 336eebaee5e68533c8be4f7ffd6a66c0
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Class 5 Slides: Variance, continuous random variables'
 description: This is a resource file that contains information regarding class 5.
-type: courses
+type: course
 layout: pdf
 uid: 1e466ecab08f5a395ad5a12c77bb08d5
 file_type: application/pdf

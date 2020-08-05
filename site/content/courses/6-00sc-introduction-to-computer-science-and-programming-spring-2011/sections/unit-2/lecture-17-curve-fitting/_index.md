@@ -1,16 +1,14 @@
 ---
 title: Curve Fitting
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: e632ebd50e8f47bb2666d9152f62e9e4
-    type: section
-    layout: section
     name: Curve Fitting
     weight: 230
     parent: ddc5db7a5c64e3bda565b36f4ed76287
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-16-using-randomness-to-solve-non-random-problems/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-18-optimization-problems-and-algorithms/_index.md" %}}) »
 

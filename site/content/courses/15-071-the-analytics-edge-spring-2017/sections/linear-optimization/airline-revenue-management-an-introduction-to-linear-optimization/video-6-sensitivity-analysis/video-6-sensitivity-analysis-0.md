@@ -426,6 +426,6 @@ transcript: >-
   m='392316'>next</span> <span m='392674'>quick</span> <span
   m='393032'>question.</span> </p>
 uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
-type: courses
+type: course
 layout: video
 ---

@@ -525,6 +525,6 @@ transcript: >-
   <span m="398430">workers</span> <span m="398770">throughout</span> <span
   m="399030">the</span> <span m="399120">economy.</span></p>
 uid: e25d800bf79db53c9cdd107aec7fed2c
-type: courses
+type: course
 layout: video
 ---

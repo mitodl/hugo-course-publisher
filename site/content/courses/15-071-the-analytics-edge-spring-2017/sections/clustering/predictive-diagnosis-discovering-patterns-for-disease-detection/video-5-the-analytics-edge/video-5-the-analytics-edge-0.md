@@ -125,6 +125,6 @@ transcript: >-
   m='70152'>this</span> <span m='70618'>deadly</span> <span
   m='71084'>disease."</span> </p>
 uid: 087c0a8992ffb355b956938e5927b59a
-type: courses
+type: course
 layout: video
 ---

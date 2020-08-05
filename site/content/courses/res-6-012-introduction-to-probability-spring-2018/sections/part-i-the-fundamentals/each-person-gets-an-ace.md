@@ -226,6 +226,6 @@ transcript: >-
   numerical expression we had</span> <span m="581940">derived
   earlier.</span></p><p>&nbsp;</p>
 uid: 40771a2ac79eb619f568f0b2eb3da640
-type: courses
+type: course
 layout: video
 ---

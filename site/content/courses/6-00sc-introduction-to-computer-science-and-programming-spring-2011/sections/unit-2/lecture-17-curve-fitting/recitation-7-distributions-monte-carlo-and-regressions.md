@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Recitation 7: Distributions, Monte Carlo, and Regressions'
 transcript: ''
 uid: 867fde8625856315b2c653a49cbe1605
-type: courses
+type: course
 layout: video
 ---

@@ -185,6 +185,6 @@ transcript: >-
   way, by using conditional PDFs</span> <span m='411770'>instead of ordinary
   PDFs.</span> </p><p></p>
 uid: 690b7de84538a157b02c5a57d491daa6
-type: courses
+type: course
 layout: video
 ---

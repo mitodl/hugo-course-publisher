@@ -3,7 +3,7 @@ title: eesafety.pdf
 description: >-
   This resource discusses about the topics: never work alone, voltage rules and
   prevent accidents.
-type: courses
+type: course
 layout: pdf
 uid: 4232f38c3f2a88558a44f62beb490698
 file_type: application/pdf

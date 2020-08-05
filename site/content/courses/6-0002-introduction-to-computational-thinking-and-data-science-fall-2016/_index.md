@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 6-0002-introduction-to-computational-thinking-and-data-science-fall-2016
 course_title: Introduction to Computational Thinking and Data Science
 course_image_url: >-

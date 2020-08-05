@@ -3040,6 +3040,6 @@ transcript: >-
   m='3101580'>talk</span> <span m='3101800'>about</span> <span
   m='3101960'>it</span> <span m='3102020'>next time.</span> </p>
 uid: 51576e19a6f32aa4f24ba9fee8bdd486
-type: courses
+type: course
 layout: video
 ---

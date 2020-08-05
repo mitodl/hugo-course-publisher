@@ -1,7 +1,7 @@
 ---
 title: The New Deal
 description: This resource contains the information regarding the new deal.
-type: courses
+type: course
 layout: pdf
 uid: 860d8e82906ad4d719fb61867e428e99
 file_type: application/pdf

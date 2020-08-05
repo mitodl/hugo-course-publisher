@@ -1,11 +1,11 @@
 ---
 title: 6 The Social Contract Negotiation Exercise
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
+type: course
+layout: course_section
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 067004926eddaf8fbf2bdb9e3d3583b8
-    type: section
-    layout: section
     name: 'Week 6: The Social Contract Negotiation Exercise'
     weight: 680
 ---

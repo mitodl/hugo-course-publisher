@@ -1,16 +1,14 @@
 ---
 title: 4.2 Conditional Probability
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: videogallery
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 79ebde2b537e9e26dc39d5d2e1c8f1d9
-    type: section
-    layout: section
     name: 4.2 Conditional Probability
     weight: 2310
     parent: 90a207e82f8b3b1369067b58f9c6f169
-type: courses
-layout: videogallery
 ---
 *   [<Fun With Coins]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-a2b75a4824b8" %}})
 *   [4.2.1Conditional Probability Definitions: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/_index.md" %}})

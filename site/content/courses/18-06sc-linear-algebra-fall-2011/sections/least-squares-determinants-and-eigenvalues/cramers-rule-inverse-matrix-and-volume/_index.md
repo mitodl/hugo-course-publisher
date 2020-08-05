@@ -1,16 +1,14 @@
 ---
 title: 'Cramer''s Rule, Inverse Matrix and Volume'
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 86cb2711cb7c431342dec1540dfe8ce2
-    type: section
-    layout: section
     name: 'Cramer''s Rule, Inverse Matrix and Volume'
     weight: 260
     parent: cf73d07ac972ab3c450a0f10d0be0664
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/_index.md" %}}) »
 

@@ -4549,6 +4549,6 @@ transcript: >-
   m="5011780">you</span> <span m="5011860">guys</span> <span
   m="5012080">next</span> <span m="5012280">time.</span></p>
 uid: 14102aa0a874b7d9e76b5de716542363
-type: courses
+type: course
 layout: video
 ---

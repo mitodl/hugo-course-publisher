@@ -281,6 +281,6 @@ transcript: >-
   m='219256'>rank</span> <span m='219814'>the</span> <span
   m='220372'>hypotheses.</span> </p>
 uid: 46670c2dcdeebd23950c9778d1fca469
-type: courses
+type: course
 layout: video
 ---

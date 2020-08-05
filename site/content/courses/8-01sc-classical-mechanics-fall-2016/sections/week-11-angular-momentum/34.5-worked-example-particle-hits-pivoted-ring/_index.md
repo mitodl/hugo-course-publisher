@@ -1,16 +1,14 @@
 ---
 title: 34.5 Worked Example - Particle Hits Pivoted Ring
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: videogallery
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: fd5621acf9af8265912d22db4bdfad0a
-    type: section
-    layout: section
     name: 34.5 Worked Example - Particle Hits Pivoted Ring
     weight: 2200
     parent: d36579bd7dfcb71f76178b4b8d45c312
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/34.4-demo-bicycle-wheel" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/problem-set-11" %}}) »
 

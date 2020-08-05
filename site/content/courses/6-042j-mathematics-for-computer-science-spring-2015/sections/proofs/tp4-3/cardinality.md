@@ -1030,6 +1030,6 @@ transcript: >-
   m='772820'>necessarily</span> <span m='773470'>having</span> <span
   m='773770'>a</span> <span m='773820'>formula.</span> </p>
 uid: c2ca270d0bb3aaf664bff6334eac04a0
-type: courses
+type: course
 layout: video
 ---

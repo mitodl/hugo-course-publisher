@@ -1,16 +1,14 @@
 ---
 title: 'Independence, Basis and Dimension'
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: f4986e8213a7cf7cebaaaba5fa7882f0
-    type: section
-    layout: section
     name: 'Independence, Basis and Dimension'
     weight: 130
     parent: 34303ce19b45724122d2bd33d64df688
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/solving-ax-b-row-reduced-form-r/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/_index.md" %}}) »
 

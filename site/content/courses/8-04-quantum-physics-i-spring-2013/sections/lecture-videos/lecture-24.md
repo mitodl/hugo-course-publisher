@@ -6093,6 +6093,6 @@ transcript: >-
   m='4940700'>mechanics.</span> <span m='4940960'>Thanks</span> <span
   m='4941380'>guys.</span> </p>
 uid: 9a66c1b06161f774da8dcf3129bca3bd
-type: courses
+type: course
 layout: video
 ---

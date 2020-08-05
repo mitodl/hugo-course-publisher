@@ -1,16 +1,14 @@
 ---
 title: Meet the TAs
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: f0b3ed7cdca2a26b75e353d084b146b2
-    type: section
-    layout: section
     name: Meet the TAs
     weight: 20
     parent: 8abb293b49d8047a3f3674bfa02e78f7
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/_index.md" %}}) »
 

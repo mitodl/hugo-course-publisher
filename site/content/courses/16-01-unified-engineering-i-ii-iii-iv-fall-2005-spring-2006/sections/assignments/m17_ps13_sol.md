@@ -4,7 +4,7 @@ description: >-
   This resource contains solutions to problem set on representing strains as a
   matrix to calculate the principal strains and principal directions via the
   eigenvalue and eigenvectorsof the matrix.
-type: courses
+type: course
 layout: pdf
 uid: 0dcf9a3d2def3b5a5f2fd8245623088a
 file_type: application/pdf

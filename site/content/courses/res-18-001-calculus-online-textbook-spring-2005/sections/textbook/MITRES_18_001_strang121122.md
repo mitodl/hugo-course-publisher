@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang121122.pdf
 description: This resource contains information on topics tangent vector and normal vector.
-type: courses
+type: course
 layout: pdf
 uid: c9e973aa1c92dea778a8ae3ca48a10ca
 file_type: application/pdf

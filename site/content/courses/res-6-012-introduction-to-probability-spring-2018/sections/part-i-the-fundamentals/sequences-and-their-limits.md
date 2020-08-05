@@ -144,6 +144,6 @@ transcript: >-
   ais converge to a, then the</span> <span m="351890">sequence ai squared is
   going to converge to a squared.</span></p><p>&nbsp;</p>
 uid: 157a587804d90871cc35477ea14c482a
-type: courses
+type: course
 layout: video
 ---

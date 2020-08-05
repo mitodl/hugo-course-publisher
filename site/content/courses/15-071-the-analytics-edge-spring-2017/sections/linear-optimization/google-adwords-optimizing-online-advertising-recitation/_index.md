@@ -1,16 +1,14 @@
 ---
 title: '8.4 Google AdWords: Optimizing Online Advertising  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: videogallery
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 696dd6e442cc1fc47c9f2924e2edfb26
-    type: section
-    layout: section
     name: '8.4 Google AdWords: Optimizing Online Advertising  (Recitation)'
     weight: 2930
     parent: daafaa58867c9765f1c4c60a9c0ed426
-type: courses
-layout: videogallery
 ---
 *   [<Video 6: The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-6-the-analytics-edge" %}})
 *   [8.4.1Welcome to Recitation 8]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/_index.md" %}})

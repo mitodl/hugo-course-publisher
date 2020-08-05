@@ -1,7 +1,7 @@
 ---
 title: Exam 1 Solutions
 description: Solutions to the first exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: c19bbbeab0d30f010c2d8f52c60b8c8e
 file_type: application/pdf

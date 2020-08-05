@@ -2563,6 +2563,6 @@ transcript: >-
   m='2979740'>end</span> <span m='2979920'>of</span> <span m='2979990'>the
   course.</span> </p>
 uid: a3c4543cc1d88ba39dda2cd165ce78b9
-type: courses
+type: course
 layout: video
 ---

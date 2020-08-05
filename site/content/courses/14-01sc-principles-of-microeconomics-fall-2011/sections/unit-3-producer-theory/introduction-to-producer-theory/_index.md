@@ -1,16 +1,14 @@
 ---
 title: Introduction to Producer Theory
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: c282655da4961349b75e5b0e7692c61b
-    type: section
-    layout: section
     name: Introduction to Producer Theory
     weight: 170
     parent: 3abe52b206f4e0405bcb7ce684de6ae6
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/productivity-and-costs/_index.md" %}}) »
 

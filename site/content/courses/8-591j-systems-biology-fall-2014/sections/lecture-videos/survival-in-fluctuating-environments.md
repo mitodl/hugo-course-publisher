@@ -4968,6 +4968,6 @@ transcript: >-
   m="4704310">in</span> <span m="4704430">each</span> <span
   m="4704730">case.</span></p>
 uid: 98c34715802b2bbdb372552a0c870720
-type: courses
+type: course
 layout: video
 ---

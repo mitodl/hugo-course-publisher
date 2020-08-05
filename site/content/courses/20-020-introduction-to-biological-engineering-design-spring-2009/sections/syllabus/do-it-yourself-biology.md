@@ -24,6 +24,6 @@ technical_location: >-
 title: Do-It-Yourself Biology
 transcript: ''
 uid: b162dd7641eaae6c13a870790220fbbe
-type: courses
+type: course
 layout: video
 ---

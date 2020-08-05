@@ -130,6 +130,6 @@ transcript: >-
   the value of sigma, then we may</span> <span m='263160'>have to do some
   additional work.</span> </p><p></p>
 uid: b16a392ff20ffe2c46855618932ee6f4
-type: courses
+type: course
 layout: video
 ---

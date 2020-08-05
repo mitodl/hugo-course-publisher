@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_we_1_comb.pdf
 description: 'This resource contains information related to vector addition. '
-type: courses
+type: course
 layout: pdf
 uid: 917c7cf9f5de397a6e66bfe77f1ad5df
 file_type: application/pdf

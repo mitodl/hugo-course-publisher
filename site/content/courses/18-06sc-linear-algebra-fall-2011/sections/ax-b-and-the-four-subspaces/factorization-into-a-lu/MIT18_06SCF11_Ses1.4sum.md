@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses1.4sum.pdf
 description: This resource contains information related to factorization into A = LU.
-type: courses
+type: course
 layout: pdf
 uid: c5961452fbb31f8a0b34ecd0ffc5cdc4
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: learnobjctsprver.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: e3fe5ccf269461216cc24c79eb3b8a90
 file_type: application/pdf

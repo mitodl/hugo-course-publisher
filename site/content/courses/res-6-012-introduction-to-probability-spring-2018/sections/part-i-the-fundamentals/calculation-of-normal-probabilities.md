@@ -216,6 +216,6 @@ transcript: >-
   m='606880'>And then finally, use the standard normal tables.</span>
   </p><p></p>
 uid: 5d464db7e1c4ac9c3ae41bec39b71cc5
-type: courses
+type: course
 layout: video
 ---

@@ -338,6 +338,6 @@ transcript: >-
   m='350900'>general</span> <span m='351530'>wave</span> <span
   m='351770'>function.</span> </p>
 uid: ae7761b9756a391320248b5cbc2181b9
-type: courses
+type: course
 layout: video
 ---

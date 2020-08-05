@@ -1,11 +1,11 @@
 ---
 title: Questions and Answers
 course_id: res-18-002-introduction-to-matlab-spring-2008
+type: course
+layout: course_section
 menu:
   res-18-002-introduction-to-matlab-spring-2008:
     identifier: 1e04a754a09b18e013ca4b11d93889d7
-    type: section
-    layout: section
     name: Questions and Answers
     weight: 20
 ---

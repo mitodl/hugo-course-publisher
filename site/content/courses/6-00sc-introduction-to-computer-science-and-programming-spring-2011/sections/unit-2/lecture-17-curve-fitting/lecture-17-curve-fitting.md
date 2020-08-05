@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 17: Curve Fitting'
 transcript: ''
 uid: e2f0ac474808f24221843b4f4448f85e
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: s14_ps12_sol.pdf
 description: This resource contains solutions to problem set S14.
-type: courses
+type: course
 layout: pdf
 uid: 94edc2bd61fa2ae9fea0ac9aa7d22f11
 file_type: application/pdf

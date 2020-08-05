@@ -1,7 +1,7 @@
 ---
 title: array_based_stk_q.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: fb77c7005d8fe64cb081839ad3c550b1
 file_type: application/pdf

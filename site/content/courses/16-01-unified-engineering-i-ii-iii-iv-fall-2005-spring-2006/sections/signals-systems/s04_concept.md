@@ -1,7 +1,7 @@
 ---
 title: s04_concept.pdf
 description: Concept questions.
-type: courses
+type: course
 layout: pdf
 uid: 4970de9e30a6cd2b05023a33947cf16a
 file_type: application/pdf

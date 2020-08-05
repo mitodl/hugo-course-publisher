@@ -1,7 +1,7 @@
 ---
 title: '6.006 Lecture 24 Original: Algorithms research topics'
 description: This resource contains information related to Algorithms research topics.
-type: courses
+type: course
 layout: pdf
 uid: 9a29dd1cb6855fce0c8839b2d95bef91
 file_type: application/pdf

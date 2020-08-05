@@ -846,6 +846,6 @@ transcript: >-
   m='891690'>certain</span> <span m='891960'>amount</span> <span
   m='892170'>of</span> <span m='892260'>quantity.</span> </p>
 uid: 765bf87dd700a3abe736e698385c9771
-type: courses
+type: course
 layout: video
 ---

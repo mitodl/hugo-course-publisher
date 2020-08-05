@@ -3,7 +3,7 @@ title: fall_03_ms_lo.pdf
 description: >-
   Learning objectives for the Materials and Structures section of Unified
   Engineering.
-type: courses
+type: course
 layout: pdf
 uid: 3ca1ba39498be552a88110ffe53fc308
 file_type: application/pdf

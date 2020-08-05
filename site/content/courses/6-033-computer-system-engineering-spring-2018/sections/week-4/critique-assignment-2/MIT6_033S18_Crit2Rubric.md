@@ -1,7 +1,7 @@
 ---
 title: 6.033S18 Rubric for Critique 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 2c8eaac631f2d2324fa77fe0ffa313dd
 file_type: application/pdf

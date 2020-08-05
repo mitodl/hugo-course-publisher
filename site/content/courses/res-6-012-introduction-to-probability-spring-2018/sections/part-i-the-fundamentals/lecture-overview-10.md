@@ -92,6 +92,6 @@ transcript: >-
   about is the expected value of g of X we</span> <span m='108440'>can just use
   the expected value rule.</span> </p><p></p>
 uid: 36037a6019b0d7b99dc01d53e404c408
-type: courses
+type: course
 layout: video
 ---

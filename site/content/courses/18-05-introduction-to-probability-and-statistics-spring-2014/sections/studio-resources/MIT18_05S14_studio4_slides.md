@@ -3,7 +3,7 @@ title: 'Studio 4 Slides: Covariance, correlation, CLT'
 description: >-
   This is a resource file that contains information regarding covariance,
   correlation, CLT.
-type: courses
+type: course
 layout: pdf
 uid: 2bf8ef7cfe3f500704114e7ed9330acb
 file_type: application/pdf

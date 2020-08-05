@@ -1,7 +1,7 @@
 ---
 title: s07_cgs.pdf
 description: 'Concept questions based on laplace transforms of a signal, exponential.'
-type: courses
+type: course
 layout: pdf
 uid: 013909c04702af001e27aa9efd7629bc
 file_type: application/pdf

@@ -2702,6 +2702,6 @@ transcript: >-
   m='2937370'>I'll</span> <span m='2937460'>see</span> <span
   m='2937700'>you</span> <span m='2937820'>Wednesday.</span> </p>
 uid: 372ba2977de951f257035e929fb72095
-type: courses
+type: course
 layout: video
 ---

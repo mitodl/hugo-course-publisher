@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 31: Parametric Equations, Arclength, Surface Area'
 description: 'Lecture notes on parametric equations, arclength, and surface area.'
-type: courses
+type: course
 layout: pdf
 uid: 4e595a52d48ece2a2d6b9cc8fd71136a
 file_type: application/pdf

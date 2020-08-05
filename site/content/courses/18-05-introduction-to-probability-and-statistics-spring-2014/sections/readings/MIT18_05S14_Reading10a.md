@@ -3,7 +3,7 @@ title: 'Reading 10a: Introduction to Statistics'
 description: >-
   This resource file contains information regarding reading 10a: introduction to
   statistics.
-type: courses
+type: course
 layout: pdf
 uid: b0fb718b2087b997b5672f47b9abee82
 file_type: application/pdf

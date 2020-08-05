@@ -3,7 +3,7 @@ title: MITRES_18_001_strang_6164.pdf
 description: >-
   This resource contains information on topics exponential e^x, growth and decay
   in science and economics, and logarithms.
-type: courses
+type: course
 layout: pdf
 uid: df98a39442e57fbd0528ee00308f1279
 file_type: application/pdf

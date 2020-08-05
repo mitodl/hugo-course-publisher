@@ -615,6 +615,6 @@ transcript: >-
   m='783940'>span</span> <span m='784440'>the</span> <span
   m='784550'>space.</span> </p>
 uid: 2dafd7afb397d070bf2fa6dd6304b1cf
-type: courses
+type: course
 layout: video
 ---

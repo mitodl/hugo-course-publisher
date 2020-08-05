@@ -1,7 +1,7 @@
 ---
 title: 'Computer System Engineering, Design Project Preliminary Report'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: a9f0f3ac6818852369704595096259f3
 file_type: application/pdf

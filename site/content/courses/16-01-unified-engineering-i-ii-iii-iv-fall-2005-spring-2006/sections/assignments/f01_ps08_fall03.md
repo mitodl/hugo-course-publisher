@@ -3,7 +3,7 @@ title: f01_ps08_fall03.pdf
 description: >-
   This resource contains the problem set based on hydrostatic and state
   relations.
-type: courses
+type: course
 layout: pdf
 uid: ca277b95467efab511fe0e69ec273a2e
 file_type: application/pdf

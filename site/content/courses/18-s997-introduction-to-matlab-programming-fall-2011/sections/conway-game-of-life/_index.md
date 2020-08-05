@@ -1,11 +1,11 @@
 ---
 title: Conway Game of Life
 course_id: 18-s997-introduction-to-matlab-programming-fall-2011
+type: course
+layout: course_section
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 71d3260e1e774a0ead3b6b3411cacf8c
-    type: section
-    layout: section
     name: Conway Game of Life
     weight: 260
 ---

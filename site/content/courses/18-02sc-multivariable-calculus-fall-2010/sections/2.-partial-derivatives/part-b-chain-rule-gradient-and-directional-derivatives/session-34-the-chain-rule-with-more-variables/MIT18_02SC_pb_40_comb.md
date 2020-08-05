@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Problems: Chain Rule Practice'
 description: This resource contains information regarding chain rule practice.
-type: courses
+type: course
 layout: pdf
 uid: d9c0d13bbd583e2e3ea926966abb47f0
 file_type: application/pdf

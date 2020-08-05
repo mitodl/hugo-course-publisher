@@ -1234,6 +1234,6 @@ transcript: >-
   m='1055530'>this</span> <span m='1055630'>problem</span> <span
   m='1055900'>helpful.</span> </p>
 uid: ba568042296cd3b6ea830b0737ee004e
-type: courses
+type: course
 layout: video
 ---

@@ -878,6 +878,6 @@ transcript: >-
   m='705470'>facts</span> <span m='705870'>that</span> <span
   m='706040'>we'll</span> <span m='706200'>build on.</span> </p>
 uid: 09552990d91df37d38465cd87d1db100
-type: courses
+type: course
 layout: video
 ---

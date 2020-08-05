@@ -5740,6 +5740,6 @@ transcript: >-
   m='5029350'>pick up</span> <span m='5029650'>next</span> <span
   m='5029950'>time.</span> </p><p><span m='5032050'>[APPLAUSE]</span> </p>
 uid: 27fdc48fae50589a6a2dce4c5551b488
-type: courses
+type: course
 layout: video
 ---

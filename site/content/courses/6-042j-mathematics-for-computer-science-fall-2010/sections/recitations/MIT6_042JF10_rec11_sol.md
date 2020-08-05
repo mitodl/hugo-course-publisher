@@ -3,7 +3,7 @@ title: MIT6_042JF10_rec11_sol.pdf
 description: >-
   This resource contains solutions of equivalence relations, chains, topological
   sort. 
-type: courses
+type: course
 layout: pdf
 uid: db1689be7127808e448c0a9600a028b6
 file_type: application/pdf

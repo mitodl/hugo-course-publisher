@@ -456,6 +456,6 @@ transcript: >-
   m='363073'>optimization</span> <span m='363480'>in</span> <span
   m='364096'>online</span> <span m='364713'>advertising.</span> </p>
 uid: 7b99d590e1c2c0487c57840afaa7264e
-type: courses
+type: course
 layout: video
 ---

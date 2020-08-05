@@ -5,7 +5,7 @@ description: >-
   not infinite), and that an open circuit does not always behave as stated in
   6.002, various length cables are attached to a square wave input and the
   oscilloscope (also at the input).
-type: courses
+type: course
 layout: pdf
 uid: d501e3923e26066ec89d99152544fbba
 file_type: application/pdf

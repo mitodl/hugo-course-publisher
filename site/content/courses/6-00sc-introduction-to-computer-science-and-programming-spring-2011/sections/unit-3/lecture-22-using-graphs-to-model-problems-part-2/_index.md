@@ -1,16 +1,14 @@
 ---
 title: 'Using Graphs to Model Problems, Part 2'
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: d4f15989167b6654ef5ca2931d758afd
-    type: section
-    layout: section
     name: 'Using Graphs to Model Problems, Part 2'
     weight: 300
     parent: 82c1509981b270b9823bc741f08c9b32
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/lecture-21-using-graphs-to-model-problems-part-1/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/lecture-23-dynamic-programming/_index.md" %}}) »
 

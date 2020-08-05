@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang_6.pdf
 description: This resource contains information related to exponentials and logarithms.
-type: courses
+type: course
 layout: pdf
 uid: 593f71ade474078c4471ea560dbd804d
 file_type: application/pdf

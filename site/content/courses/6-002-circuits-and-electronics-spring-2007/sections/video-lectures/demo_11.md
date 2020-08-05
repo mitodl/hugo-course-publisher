@@ -3,7 +3,7 @@ title: demo_11.pdf
 description: >-
   This resource contains a demo which examines gate delay using two cascaded
   MOSFET inverters, and also an RC circuit model.
-type: courses
+type: course
 layout: pdf
 uid: ea27f12a0b4fbeb27b179af572b97daa
 file_type: application/pdf

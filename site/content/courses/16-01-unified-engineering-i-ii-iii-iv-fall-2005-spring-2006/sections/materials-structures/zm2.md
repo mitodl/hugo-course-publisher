@@ -1,7 +1,7 @@
 ---
 title: zm2.pdf
 description: This resource based on lecture notes.
-type: courses
+type: course
 layout: pdf
 uid: bf9d90c6bff131ec3790206cbe3594b2
 file_type: application/pdf

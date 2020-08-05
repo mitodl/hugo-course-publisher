@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 15: Uncertainty Principle, 2D Waves'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
+type: course
+layout: videogallery
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 57be2ced3a20f9a7fa7c61386e73f839
-    type: section
-    layout: section
     name: 'Lecture 15: Uncertainty Principle, 2D Waves'
     weight: 200
     parent: 240ff61b57c23024881e75e9a0e68cde
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-14/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-16/_index.md" %}}) »
 

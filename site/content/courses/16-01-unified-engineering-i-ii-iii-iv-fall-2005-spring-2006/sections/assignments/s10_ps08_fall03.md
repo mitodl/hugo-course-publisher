@@ -1,7 +1,7 @@
 ---
 title: s10_ps08_fall03.pdf
 description: Problem set involving questions on RC Circuits.
-type: courses
+type: course
 layout: pdf
 uid: 17322f96de6f0b37ffb700f002cb67cd
 file_type: application/pdf

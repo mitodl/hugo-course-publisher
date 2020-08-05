@@ -1,7 +1,7 @@
 ---
 title: 'Class 24 Slides: Bootstrap confidence intervals'
 description: This is a resource file that contains information regarding class 24.
-type: courses
+type: course
 layout: pdf
 uid: cc69f4c98343619f004b438dbe40872a
 file_type: application/pdf

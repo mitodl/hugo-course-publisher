@@ -3,7 +3,7 @@ title: c04_ps02_sol.pdf
 description: >-
   This handout contains the solutions Problem set based on ASCII and hexadecimal
   notations.
-type: courses
+type: course
 layout: pdf
 uid: d123a1fe47be1b3d4b5a76a1657824db
 file_type: application/pdf

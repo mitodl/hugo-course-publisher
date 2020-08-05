@@ -1,7 +1,7 @@
 ---
 title: zm10notes.pdf
 description: This resource based on supplementary notes for lecture M10.
-type: courses
+type: course
 layout: pdf
 uid: 9ae93240f61181e464a83556f4c11f09
 file_type: application/pdf

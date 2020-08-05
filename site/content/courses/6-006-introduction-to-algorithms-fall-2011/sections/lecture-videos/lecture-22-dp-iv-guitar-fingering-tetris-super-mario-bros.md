@@ -3338,6 +3338,6 @@ transcript: >-
   m='2951380'>memoize</span> <span m='2951680'>the</span> <span
   m='2951980'>result.</span> </p>
 uid: ac9d24ab0cc72faf8761d9ef9268af6d
-type: courses
+type: course
 layout: video
 ---

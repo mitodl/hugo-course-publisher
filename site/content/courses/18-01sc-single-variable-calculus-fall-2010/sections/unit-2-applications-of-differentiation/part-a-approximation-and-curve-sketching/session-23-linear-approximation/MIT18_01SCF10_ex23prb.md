@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex23prb.pdf
 description: >-
   This resource contains problem statements related to linear approximation to
   calculator computations.
-type: courses
+type: course
 layout: pdf
 uid: f94c79bce97c8292a73f4a678200d80e
 file_type: application/pdf

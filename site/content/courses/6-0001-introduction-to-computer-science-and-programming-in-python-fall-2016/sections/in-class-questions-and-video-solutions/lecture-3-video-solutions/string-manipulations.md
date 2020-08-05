@@ -247,6 +247,6 @@ transcript: >-
   m="181990">think,</span> <span m="182430">yes.</span> <span
   m="183020">Perfect.</span></p>
 uid: 9d60429be266c60a1276132a267dd5bf
-type: courses
+type: course
 layout: video
 ---

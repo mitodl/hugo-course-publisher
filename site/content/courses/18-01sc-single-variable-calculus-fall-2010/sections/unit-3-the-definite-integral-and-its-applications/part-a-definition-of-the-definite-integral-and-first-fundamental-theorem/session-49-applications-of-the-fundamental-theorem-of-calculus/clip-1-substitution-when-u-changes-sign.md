@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Substitution When u'' Changes Sign'
 transcript: ''
 uid: 9bf78a0704091203f5e86499961cc320
-type: courses
+type: course
 layout: video
 ---

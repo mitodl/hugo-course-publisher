@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 2: Comparison Tests'
 transcript: ''
 uid: 0fae367ab6ad00a1134e90a124d98f74
-type: courses
+type: course
 layout: video
 ---

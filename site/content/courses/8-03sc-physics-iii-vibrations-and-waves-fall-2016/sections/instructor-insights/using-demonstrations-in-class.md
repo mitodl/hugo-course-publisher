@@ -194,6 +194,6 @@ transcript: >-
   m='159310'>in</span> <span m='159460'>that</span> <span m='159850'>demo</span>
   <span m='160150'>very, very</span> <span m='160630'>much.</span> </p>
 uid: 543f393ef3dc45da3aa21cf113a499ce
-type: courses
+type: course
 layout: video
 ---

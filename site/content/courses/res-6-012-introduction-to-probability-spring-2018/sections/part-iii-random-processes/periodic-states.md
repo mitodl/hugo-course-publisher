@@ -183,6 +183,6 @@ transcript: >-
   easiest way</span> <span m="403590">that we can tell, most of the time,</span>
   <span m="405340">that the chain is not periodic.</span></p><p>&nbsp;</p>
 uid: e4870bac20488bbe7be16db80bb0098b
-type: courses
+type: course
 layout: video
 ---

@@ -915,6 +915,6 @@ transcript: >-
   m='1027380'>really</span> <span m='1028280'>seem</span> <span
   m='1028640'>to</span> <span m='1028819'>exist.</span> </p>
 uid: 751f4412b97d3b5acada0530d65e4021
-type: courses
+type: course
 layout: video
 ---

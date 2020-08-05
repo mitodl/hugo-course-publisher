@@ -308,6 +308,6 @@ transcript: >-
   m='228650'>trade-offs</span> <span m='229160'>in</span> <span
   m='229670'>our</span> <span m='230180'>problem.</span> </p>
 uid: b7fc87087918a749a674a16caaea5625
-type: courses
+type: course
 layout: video
 ---

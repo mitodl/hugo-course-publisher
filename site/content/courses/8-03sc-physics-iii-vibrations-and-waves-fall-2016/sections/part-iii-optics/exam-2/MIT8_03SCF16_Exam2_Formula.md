@@ -1,7 +1,7 @@
 ---
 title: MIT 8.03SC Fall 2016 Exam 1 Formula Sheet
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 7ae2a57a878f7d978f33179c983a6008
 file_type: application/pdf

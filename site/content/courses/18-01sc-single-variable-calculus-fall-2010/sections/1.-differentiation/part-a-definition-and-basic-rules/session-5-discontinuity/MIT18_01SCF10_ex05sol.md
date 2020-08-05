@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex05sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   discontinuity.
-type: courses
+type: course
 layout: pdf
 uid: 5014374a5054c09b52041b1fe02774ba
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Case Study Plots: Simulation'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: e3419b9cff967dbccefd7bd9017066d0
 file_type: application/pdf

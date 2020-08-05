@@ -1,11 +1,11 @@
 ---
 title: Introduction to GIS
 course_id: res-str-001-geographic-information-system-gis-tutorial-january-iap-2016
+type: course
+layout: course_section
 menu:
   res-str-001-geographic-information-system-gis-tutorial-january-iap-2016:
     identifier: b500ca0acd5e89c3277a5218c379bbb8
-    type: section
-    layout: section
     name: Introduction to GIS
     weight: 10
 ---

@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_008S11_lec13.pdf
 description: "This resource contains information related to network structures for finite impulse response (FIR) systems and parameter quantization effects in digital filter structures.\t"
-type: courses
+type: course
 layout: pdf
 uid: 07f6933da5245d48778613cbcc05823c
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_exam1.pdf
 description: This resource contains information related to volkswagen bug.
-type: courses
+type: course
 layout: pdf
 uid: b5f9a492d8df6830a816bba6c13aecef
 file_type: application/pdf

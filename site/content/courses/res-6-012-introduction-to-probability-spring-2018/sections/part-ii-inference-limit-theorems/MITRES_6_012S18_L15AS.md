@@ -3,7 +3,7 @@ title: 'Introduction to Probability: Lecture 15: Linear Models With Normal Noise
 description: >-
   This resource contains information regarding introduction to probability:
   Inference & limit theorems: Linear models with normal noise.
-type: courses
+type: course
 layout: pdf
 uid: 851c9ee1454e7a370a04b385923a9ce5
 file_type: application/pdf

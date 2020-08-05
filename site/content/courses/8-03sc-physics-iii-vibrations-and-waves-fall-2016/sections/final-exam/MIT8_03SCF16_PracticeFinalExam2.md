@@ -1,7 +1,7 @@
 ---
 title: MIT 8.03SC Fall 2016 Practice Final Exam 2
 description: null
-type: courses
+type: course
 layout: pdf
 uid: ed647a1afd8b0e910d66870560597db3
 file_type: application/pdf

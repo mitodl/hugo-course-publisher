@@ -3,7 +3,7 @@ title: learning_objectives_fall_version.pdf
 description: >-
   This file contains the learning objectives, measurable outcomes and assessment
   strategies for this course.
-type: courses
+type: course
 layout: pdf
 uid: 46fe6205220249a524420e57709aab87
 file_type: application/pdf

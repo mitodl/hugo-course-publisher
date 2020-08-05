@@ -1,11 +1,11 @@
 ---
 title: Overview
 course_id: res-3-004-visualizing-materials-science-fall-2017
+type: course
+layout: course_section
 menu:
   res-3-004-visualizing-materials-science-fall-2017:
     identifier: 51d77c2dd13f45cee7618d429cebc078
-    type: section
-    layout: section
     name: Overview
     weight: 10
 ---

@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SC_pset4sol.pdf
 description: 'This resource contains solutions of applications of integration problems. '
-type: courses
+type: course
 layout: pdf
 uid: d79b8c2edf681e2b38ddce74c468ea26
 file_type: application/pdf

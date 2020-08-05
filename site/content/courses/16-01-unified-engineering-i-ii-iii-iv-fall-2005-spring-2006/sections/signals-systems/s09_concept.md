@@ -1,7 +1,7 @@
 ---
 title: s09_concept.pdf
 description: Concept questions verifying the understanding of RC Circuit Equations II.
-type: courses
+type: course
 layout: pdf
 uid: 1aa186f85daecc577adae3cca89ca07c
 file_type: application/pdf

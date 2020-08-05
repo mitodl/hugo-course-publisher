@@ -1,11 +1,11 @@
 ---
 title: Computer Programming
 course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015
+type: course
+layout: course_section
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: 5f06dcfb6d8d0d6fd26641a00bf57aaa
-    type: section
-    layout: section
     name: Computer Programming
     weight: 150
     parent: 702bfcbbdf401ecdff943eaa6807cb80

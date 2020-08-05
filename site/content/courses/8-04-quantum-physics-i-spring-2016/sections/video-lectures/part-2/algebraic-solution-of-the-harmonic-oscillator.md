@@ -752,6 +752,6 @@ transcript: >-
   m='1008090'>Hermitian,</span> <span m='1009000'>they're</span> <span
   m='1009320'>good.</span> </p>
 uid: 374226f3868b79555fa49ffc519fbf5e
-type: courses
+type: course
 layout: video
 ---

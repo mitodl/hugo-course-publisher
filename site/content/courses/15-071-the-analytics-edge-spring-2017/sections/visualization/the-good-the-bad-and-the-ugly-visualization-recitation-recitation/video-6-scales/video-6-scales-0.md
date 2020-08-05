@@ -393,6 +393,6 @@ transcript: >-
   m='281566'>data</span> <span m='281923'>as</span> <span m='282280'>a</span>
   <span m='282636'>line</span> <span m='282993'>chart.</span> </p>
 uid: ede5f39f3c0ed9c77ea9d909d11c6873
-type: courses
+type: course
 layout: video
 ---

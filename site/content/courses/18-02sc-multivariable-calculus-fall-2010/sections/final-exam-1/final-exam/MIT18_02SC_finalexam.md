@@ -1,7 +1,7 @@
 ---
 title: Final Exam
 description: Final exam on multivariable calculus.
-type: courses
+type: course
 layout: pdf
 uid: 8048c12b339cefb160f8540aa3507fc7
 file_type: application/pdf

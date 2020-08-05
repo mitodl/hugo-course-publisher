@@ -1,7 +1,7 @@
 ---
 title: s11_ps08_fall03.pdf
 description: This resource includes problem set involving a question on LCR Circuits.
-type: courses
+type: course
 layout: pdf
 uid: 534f784c622be0fc47fe77f2f06f4bd4
 file_type: application/pdf

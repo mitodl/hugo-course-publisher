@@ -1183,6 +1183,6 @@ transcript: >-
   <span m='927620'>of</span> <span m='927810'>large</span> <span
   m='928090'>numbers.</span> </p>
 uid: df290a595426a84026f2f7dff79f0d16
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: c05_ps03_fall03.pdf
 description: This handout contains the Problem set based on 2's complement notation.
-type: courses
+type: course
 layout: pdf
 uid: a5d8a8060b26dff406260fe36eb9a4e6
 file_type: application/pdf

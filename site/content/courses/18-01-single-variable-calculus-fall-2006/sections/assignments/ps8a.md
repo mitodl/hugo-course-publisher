@@ -1,7 +1,7 @@
 ---
 title: Problem Set 8A
 description: Problem set on single variable calculus.
-type: courses
+type: course
 layout: pdf
 uid: 7b0ef3784e4eabf239d95286d01ca139
 file_type: application/pdf

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: L''Hospital''s Rule, Version 1'
 transcript: ''
 uid: f7d225d43ad0224e5a39596c13d8f001
-type: courses
+type: course
 layout: video
 ---

@@ -1088,6 +1088,6 @@ transcript: >-
   m='839810'>I</span> <span m='839870'>think</span> <span m='840020'>I'll</span>
   <span m='840100'>stop</span> <span m='840310'>there.</span> </p>
 uid: 55564a46467697e39819e54963fcb5ae
-type: courses
+type: course
 layout: video
 ---

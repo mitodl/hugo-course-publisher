@@ -3,7 +3,7 @@ title: Exam 3 Review
 description: >-
   Review materials for the third exam of the course. Topics include integration
   and work.
-type: courses
+type: course
 layout: pdf
 uid: b91c3e6e1593a7ddeac5a6e3fbe0c0db
 file_type: application/pdf

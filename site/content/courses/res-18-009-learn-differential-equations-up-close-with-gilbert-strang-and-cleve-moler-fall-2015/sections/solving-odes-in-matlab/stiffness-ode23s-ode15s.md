@@ -386,6 +386,6 @@ transcript: >-
   m='421320'>higher</span> <span m='421850'>tolerances</span> <span
   m='423520'>then</span> <span m='424570'>23s.</span> </p>
 uid: fddcde3d30032fc932c7316f7535dbe0
-type: courses
+type: course
 layout: video
 ---

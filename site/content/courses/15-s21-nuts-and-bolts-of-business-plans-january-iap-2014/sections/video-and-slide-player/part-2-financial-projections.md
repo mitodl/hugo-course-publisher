@@ -457,6 +457,6 @@ technical_location: >-
 title: 'Session 3, Part 2: Financial Projections'
 transcript: ''
 uid: 84adec407d3f45bc52589269951f3b07
-type: courses
+type: course
 layout: video
 ---

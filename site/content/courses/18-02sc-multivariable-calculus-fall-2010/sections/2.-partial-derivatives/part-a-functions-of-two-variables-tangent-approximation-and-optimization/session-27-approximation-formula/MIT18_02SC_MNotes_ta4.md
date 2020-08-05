@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_ta4.pdf
 description: This resource contains information related to smoothness hypothesis.
-type: courses
+type: course
 layout: pdf
 uid: ff89ab81dc34627259fcf4dc45909f85
 file_type: application/pdf

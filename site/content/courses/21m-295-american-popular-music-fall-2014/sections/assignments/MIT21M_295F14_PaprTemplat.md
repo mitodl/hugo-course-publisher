@@ -1,7 +1,7 @@
 ---
 title: Paper Template and Citation Format Examples
 description: Guidelines on formatting written assignments and citations.
-type: courses
+type: course
 layout: pdf
 uid: 4bae68cab5d12785c3bde33899dd5529
 file_type: application/pdf

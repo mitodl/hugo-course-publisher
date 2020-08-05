@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses3.9sum.pdf
 description: This resource contains information related to exam 3 review.
-type: courses
+type: course
 layout: pdf
 uid: 7285f40986020f97ebe138acc914c66c
 file_type: application/pdf

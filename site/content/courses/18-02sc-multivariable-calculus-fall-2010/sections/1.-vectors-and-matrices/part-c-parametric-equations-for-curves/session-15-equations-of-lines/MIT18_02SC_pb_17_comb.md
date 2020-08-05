@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_17_comb.pdf
 description: >-
   This resource contains problem statements and solutions related to equations
   of lines.
-type: courses
+type: course
 layout: pdf
 uid: b823f1bb039eb5adddc36d9ad8d72d54
 file_type: application/pdf

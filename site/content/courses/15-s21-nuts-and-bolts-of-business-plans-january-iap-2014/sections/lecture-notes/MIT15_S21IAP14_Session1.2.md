@@ -1,7 +1,7 @@
 ---
 title: Lecture 1.2 How to Make a Pitch - 15.S21 Nuts and Bolts IAP 2014
 description: This resource contains information related to How to Make a Pitch.
-type: courses
+type: course
 layout: pdf
 uid: ed54344b909ef3c265d6e9def909fd46
 file_type: application/pdf

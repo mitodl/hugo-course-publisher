@@ -926,6 +926,6 @@ transcript: >-
   m='1118510'>how</span> <span m='1118720'>it</span> <span
   m='1118840'>behaves.</span> </p>
 uid: 17ee7bd0df0dc3d7f8b038f00639b328
-type: courses
+type: course
 layout: video
 ---

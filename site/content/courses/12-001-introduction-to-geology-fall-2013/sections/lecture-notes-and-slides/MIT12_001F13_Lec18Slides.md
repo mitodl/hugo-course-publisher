@@ -3,7 +3,7 @@ title: 'Lecture 18 Slides: Oceanic Crust Formation'
 description: >-
   This file contains the information regarding Lecture 18 Slides: Oceanic Crust
   Formation.
-type: courses
+type: course
 layout: pdf
 uid: 7ae34483a731c75347e2e65e2862c52c
 file_type: application/pdf

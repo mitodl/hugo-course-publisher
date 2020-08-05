@@ -1,7 +1,7 @@
 ---
 title: '6.006 Introduction to Algorithms, Problem Set 3 Solutions'
 description: This resource contains information about ps3_sol.
-type: courses
+type: course
 layout: pdf
 uid: 0c6a7b57bb0732a5752198a6e68fa4c6
 file_type: application/pdf

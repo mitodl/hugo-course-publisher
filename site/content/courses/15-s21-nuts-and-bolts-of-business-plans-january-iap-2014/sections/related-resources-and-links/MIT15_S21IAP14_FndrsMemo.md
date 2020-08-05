@@ -1,7 +1,7 @@
 ---
 title: Founders Memo - 15.S21 Nuts and Bolts IAP 2014
 description: This resource contains information related to Founders Memo.
-type: courses
+type: course
 layout: pdf
 uid: 1e6bb65bd5f2d49b36b3739495f00ce8
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: MIT14_01SCF11_assn07.pdf
 description: >-
   This resource contains 4 problem statements related to demand curves, consumer
   surplus, and producer surplus.
-type: courses
+type: course
 layout: pdf
 uid: 11a3cae628a7d063176809cb89f8de48
 file_type: application/pdf

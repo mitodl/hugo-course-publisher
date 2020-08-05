@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_hw22.pdf
 description: This resource contains problem set related to the z-transform.
-type: courses
+type: course
 layout: pdf
 uid: 1ac28716b8eeb7d41628d8b281c68c20
 file_type: application/pdf

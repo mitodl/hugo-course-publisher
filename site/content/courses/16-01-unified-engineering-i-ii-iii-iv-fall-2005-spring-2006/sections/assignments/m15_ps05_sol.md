@@ -4,7 +4,7 @@ description: >-
   This resource contains handwritten solutions to the given problem set on edge
   dislocations, aerospace structures and the dependence of hardness on time of
   exposure to heat.
-type: courses
+type: course
 layout: pdf
 uid: 100aa0843c7a761e64f08b8f7561e312
 file_type: application/pdf

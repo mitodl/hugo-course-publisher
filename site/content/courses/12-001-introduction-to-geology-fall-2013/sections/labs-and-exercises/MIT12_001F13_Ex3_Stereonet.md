@@ -1,7 +1,7 @@
 ---
 title: '12.001 Introduction to Geology, Exercise 3: Stereonets'
 description: 'This file contains information regarding exercise 3: stereonets.'
-type: courses
+type: course
 layout: pdf
 uid: e2c78d0a4801f8e2fa4083dcec911330
 file_type: application/pdf

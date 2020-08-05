@@ -1,7 +1,7 @@
 ---
 title: MITRES_STR_001IAP16_ArGISI.pdf
 description: This resource contains information regarding ArcGIS exercise I.
-type: courses
+type: course
 layout: pdf
 uid: 1dad9efd1e84ee7d3fcb235dae091841
 file_type: application/pdf

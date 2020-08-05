@@ -139,6 +139,6 @@ transcript: >-
   which are the</span> <span m='289600'>two terms up here, give us the variance
   of X.</span> </p>
 uid: 396bdff28c4149afd5fe624dc57417b2
-type: courses
+type: course
 layout: video
 ---

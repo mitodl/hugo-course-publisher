@@ -153,6 +153,6 @@ transcript: >-
   m='105154'>a</span> <span m='105605'>traditionally</span> <span
   m='106057'>qualitative</span> <span m='106508'>problem.</span> </p>
 uid: 9d19e349427d6ab2947947c0189b88c3
-type: courses
+type: course
 layout: video
 ---

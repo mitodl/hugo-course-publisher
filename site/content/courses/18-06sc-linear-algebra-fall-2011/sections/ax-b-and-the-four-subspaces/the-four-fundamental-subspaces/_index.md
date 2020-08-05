@@ -1,16 +1,14 @@
 ---
 title: The Four Fundamental Subspaces
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 0050fe07f47ab375ac0f3abe492f8ae1
-    type: section
-    layout: section
     name: The Four Fundamental Subspaces
     weight: 140
     parent: 34303ce19b45724122d2bd33d64df688
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/independence-basis-and-dimension/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/_index.md" %}}) »
 

@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex08sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to limits
   of sine and cosine.
-type: courses
+type: course
 layout: pdf
 uid: 79b4433976af9485f4e6d84919bc61de
 file_type: application/pdf

@@ -383,6 +383,6 @@ transcript: >-
   <span m='275390'>of</span> <span m='275710'>the</span> <span
   m='276050'>binomial</span> <span m='276850'>theorem.</span> </p>
 uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
-type: courses
+type: course
 layout: video
 ---

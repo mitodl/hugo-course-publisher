@@ -1,11 +1,11 @@
 ---
 title: Assignments
 course_id: 18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013
+type: course
+layout: course_section
 menu:
   18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013:
     identifier: 91a7a31d49e503a847137266cb07cfbb
-    type: section
-    layout: section
     name: Assignments
     weight: 70
 ---

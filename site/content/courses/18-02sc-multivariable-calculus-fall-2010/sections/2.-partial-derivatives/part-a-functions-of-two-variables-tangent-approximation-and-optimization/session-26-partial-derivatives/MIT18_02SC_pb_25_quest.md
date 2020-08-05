@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_25_quest.pdf
 description: This resource contains problem statements related to partial derivatives.
-type: courses
+type: course
 layout: pdf
 uid: e6b035a2ad04ca78b89e0e3c22d306e2
 file_type: application/pdf

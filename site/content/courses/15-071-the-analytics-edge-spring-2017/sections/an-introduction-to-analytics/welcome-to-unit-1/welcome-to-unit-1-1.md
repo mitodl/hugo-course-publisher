@@ -105,6 +105,6 @@ transcript: >-
   m='41190'>Let's</span> <span m='41843'>get</span> <span
   m='42496'>started.</span> </p>
 uid: d1eb865eba7f99890be1348ba7cad5bd
-type: courses
+type: course
 layout: video
 ---

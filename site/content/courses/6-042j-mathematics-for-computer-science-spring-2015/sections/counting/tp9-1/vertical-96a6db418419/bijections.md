@@ -907,6 +907,6 @@ transcript: >-
   m='699650'>counted</span> <span m='700080'>yet</span> <span
   m='700340'>either</span> <span m='700620'>one.</span> </p>
 uid: 9508c7fbf491838bd8594afb1e5ee904
-type: courses
+type: course
 layout: video
 ---

@@ -104,6 +104,6 @@ transcript: >-
   m='144430'>independent coin tosses.</span> </p><p><span m='146710'>So, let us
   get started.</span> </p><p></p>
 uid: 319bf5b353f0e7d3a8af119c41d46a5d
-type: courses
+type: course
 layout: video
 ---

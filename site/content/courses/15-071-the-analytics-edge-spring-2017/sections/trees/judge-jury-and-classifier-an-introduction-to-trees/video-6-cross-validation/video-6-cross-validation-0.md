@@ -607,6 +607,6 @@ transcript: >-
   m='645244'>a</span> <span m='645688'>smart</span> <span
   m='646132'>parameter</span> <span m='646576'>value.</span> </p>
 uid: 2c3b57653e27972f213356dd1c0025e1
-type: courses
+type: course
 layout: video
 ---

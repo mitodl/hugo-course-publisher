@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Hydrogen atom wavefunctions
   (orbitals).
-type: courses
+type: course
 layout: pdf
 uid: 367a405162c519738381542066827391
 file_type: application/pdf

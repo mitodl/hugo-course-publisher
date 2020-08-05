@@ -1,16 +1,14 @@
 ---
 title: '5.2 Worked Example: Gravity Superposition'
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: videogallery
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: f38128e4b503ea049e1fd330c59669a7
-    type: section
-    layout: section
     name: '5.2 Worked Example: Gravity Superposition'
     weight: 450
     parent: cf6d9ae85d7b6e788f1e70cf24afc329
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/5.1-universal-law-of-gravitation" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/5.3-gravity-at-the-surface-of-the-earth-the-value-of-g" %}}) »
 

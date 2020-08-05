@@ -663,6 +663,6 @@ transcript: >-
   <span m='785200'>very</span> <span m='785830'>subtle</span> <span
   m='786340'>way.</span> </p>
 uid: 82cabaa126dcbc5a334d27cda290f118
-type: courses
+type: course
 layout: video
 ---

@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information related to counting sort, radix sort, lower
   bounds for sorting and searching.
-type: courses
+type: course
 layout: pdf
 uid: 47a412008dc74679e9072891be09f351
 file_type: application/pdf

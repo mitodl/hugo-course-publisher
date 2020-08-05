@@ -698,6 +698,6 @@ transcript: >-
   you the output as a</span> <span m='2988000'>function of the input. It can't
   get any simpler.</span> </p><p><span m='2992000'>Thank you.</span> </p>
 uid: 06a5b568ebe572789bc12135907e523d
-type: courses
+type: course
 layout: video
 ---

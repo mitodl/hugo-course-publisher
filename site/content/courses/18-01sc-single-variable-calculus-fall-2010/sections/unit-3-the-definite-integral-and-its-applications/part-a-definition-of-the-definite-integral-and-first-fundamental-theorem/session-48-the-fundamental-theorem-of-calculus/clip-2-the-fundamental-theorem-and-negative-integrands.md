@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: The Fundamental Theorem and Negative Integrands'
 transcript: ''
 uid: 83ede83915758b9ec732ce30c0b4083e
-type: courses
+type: course
 layout: video
 ---

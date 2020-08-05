@@ -579,6 +579,6 @@ transcript: >-
   <span m='460020'>our</span> <span m='460620'>next</span> <span
   m='461220'>video.</span> </p>
 uid: 7b76c708288483f1384a424fbad747de
-type: courses
+type: course
 layout: video
 ---

@@ -127,6 +127,6 @@ transcript: >-
   also we avoid</span> <span m='233100'>having to deal separately with discrete
   or</span> <span m='235680'>continuous random variables.</span> </p><p></p>
 uid: fbbe7e2594e92598c4cd00447ec5db82
-type: courses
+type: course
 layout: video
 ---

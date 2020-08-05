@@ -17,7 +17,7 @@
       center;
   }
   @include media-breakpoint-down(md) {
-    background: linear-gradient(transparent, transparent, $light-gray) no-repeat
+    background: linear-gradient(transparent, transparent, $light-grey) no-repeat
       center;
   }
 }

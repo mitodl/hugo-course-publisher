@@ -2622,6 +2622,6 @@ transcript: >-
   m="3163430">stuff</span> <span m="3163770">after</span> <span
   m="3164070">lecture.</span></p>
 uid: 87ed7666d3971bd62acf1eab7c853c29
-type: courses
+type: course
 layout: video
 ---

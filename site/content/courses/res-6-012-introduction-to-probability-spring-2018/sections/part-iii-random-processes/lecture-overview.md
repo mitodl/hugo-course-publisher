@@ -95,6 +95,6 @@ transcript: >-
   of</span> <span m='114509'>arrivals can be well approximated by the
   so-called</span> <span m='119080'>Poisson PMF.</span> </p><p></p>
 uid: 4246359d438cd136da325cef17f9b0b5
-type: courses
+type: course
 layout: video
 ---

@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: ndS for a Surface z=f(x,y)'
 transcript: ''
 uid: 1a1ebcb363a8bd1b5e437bd0e824cfa0
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Class 21 Slides: Review for exam 2'
 description: This is a resource file that contains information regarding class 21.
-type: courses
+type: course
 layout: pdf
 uid: fc8aff4d6b41f21c4656e951f806258d
 file_type: application/pdf

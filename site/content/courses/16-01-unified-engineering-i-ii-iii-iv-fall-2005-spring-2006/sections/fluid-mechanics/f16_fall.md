@@ -1,7 +1,7 @@
 ---
 title: f16_fall.pdf
 description: This resource contains information on the topics of Vortex and Lifting Flow.
-type: courses
+type: course
 layout: pdf
 uid: 52b148916995923bec75c35a36deedd0
 file_type: application/pdf

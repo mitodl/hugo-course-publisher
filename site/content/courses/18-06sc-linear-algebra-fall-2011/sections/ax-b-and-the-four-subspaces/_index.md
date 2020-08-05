@@ -1,11 +1,11 @@
 ---
 title: 'Unit I: Ax = b and the Four Subspaces'
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: course_section
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 34303ce19b45724122d2bd33d64df688
-    type: section
-    layout: section
     name: 'Unit I: Ax = b and the Four Subspaces'
     weight: 30
 ---

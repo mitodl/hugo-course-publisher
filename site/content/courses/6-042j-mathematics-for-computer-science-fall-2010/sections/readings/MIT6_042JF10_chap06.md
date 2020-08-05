@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 6: Directed graphs'
 description: This resource contains information about Directed graphs.
-type: courses
+type: course
 layout: pdf
 uid: e6db7638031b754f5f68012946af4763
 file_type: application/pdf

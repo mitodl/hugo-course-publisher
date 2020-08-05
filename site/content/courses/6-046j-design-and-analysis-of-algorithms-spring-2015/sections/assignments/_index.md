@@ -1,11 +1,11 @@
 ---
 title: Assignments
 course_id: 6-046j-design-and-analysis-of-algorithms-spring-2015
+type: course
+layout: course_section
 menu:
   6-046j-design-and-analysis-of-algorithms-spring-2015:
     identifier: d03775d66b3d83cd723220b2fcdc643a
-    type: section
-    layout: section
     name: Assignments
     weight: 100
 ---

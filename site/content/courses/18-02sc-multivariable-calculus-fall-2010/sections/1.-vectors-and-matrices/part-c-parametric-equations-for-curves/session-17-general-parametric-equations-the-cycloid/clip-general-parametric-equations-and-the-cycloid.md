@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: General Parametric Equations and the Cycloid'
 transcript: ''
 uid: 273e6dac19a4c2399593f0ae9ef0525f
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses89c.pdf
 description: >-
   This resource contains informations related to l'hospital's rule and rates of
   growth.
-type: courses
+type: course
 layout: pdf
 uid: 9c9fed8a05ffaec6b597ca77756bb91f
 file_type: application/pdf

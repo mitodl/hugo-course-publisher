@@ -3,7 +3,7 @@ title: 'Reading 17a: The Frequentist School of Statistics'
 description: >-
   This is a resource file that contains information regarding reading 17a: the
   frequentist school of statistics. 
-type: courses
+type: course
 layout: pdf
 uid: 8f068c9e8c401b75f9542dcf7997e542
 file_type: application/pdf

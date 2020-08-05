@@ -1,15 +1,13 @@
 ---
 title: Syllabus
 course_id: 18-02sc-multivariable-calculus-fall-2010
+type: course
+layout: videogallery
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: d764fda499d7f9ddf72d00c4e7ae00c3
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/index.htm" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/_index.md" %}}) »
 

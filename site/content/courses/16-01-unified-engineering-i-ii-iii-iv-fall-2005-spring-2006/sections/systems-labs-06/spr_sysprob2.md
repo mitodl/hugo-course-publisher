@@ -1,7 +1,7 @@
 ---
 title: spr_sysprob2.pdf
 description: This file contains notes for Wind Tunnel Testing a 3-D Wings.
-type: courses
+type: course
 layout: pdf
 uid: 35cc8971325b9d791af2b512f210b799
 file_type: application/pdf

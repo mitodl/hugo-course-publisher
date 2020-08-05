@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Example: y=mx'
 transcript: ''
 uid: 71bcc4e1863012ca4060d786387fd5b2
-type: courses
+type: course
 layout: video
 ---

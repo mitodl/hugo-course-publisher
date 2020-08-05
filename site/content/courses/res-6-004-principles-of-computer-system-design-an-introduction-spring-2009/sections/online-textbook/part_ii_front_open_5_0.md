@@ -1,7 +1,7 @@
 ---
 title: part_ii_front_open_5_0.pdf
 description: 'This resource contains information related to front end matter. '
-type: courses
+type: course
 layout: pdf
 uid: 1b2e625d8a338f59898c6357a9950414
 file_type: application/pdf

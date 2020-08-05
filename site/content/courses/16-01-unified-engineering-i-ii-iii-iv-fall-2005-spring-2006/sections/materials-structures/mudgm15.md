@@ -3,7 +3,7 @@ title: mudgm15.pdf
 description: >-
   This resource contains review questions and answers based on prototypical
   stress-strain curve, yield stress, and tensile strength.
-type: courses
+type: course
 layout: pdf
 uid: 5b0875dfe93688bfc42dd607b7632838
 file_type: application/pdf

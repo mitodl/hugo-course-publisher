@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Solutions for Lecture 15: Thermodynamics: Bond
   and Reaction Enthalpies
 description: This resource contains information regarding lecture 15 solution.
-type: courses
+type: course
 layout: pdf
 uid: 7ecba7d32f4896584db36ab2e1017baf
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_manual15.pdf
 description: This resource contains information related to vector calculus.
-type: courses
+type: course
 layout: pdf
 uid: 9a5f1b23ecfcfbb147f825dbe9cc05cc
 file_type: application/pdf

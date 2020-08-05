@@ -461,6 +461,6 @@ transcript: >-
   m='522480'>see</span> <span m='522679'>you</span> <span m='522770'>guys</span>
   <span m='523000'>later.</span> </p>
 uid: 1096ba09771964a95295a5e322a54990
-type: courses
+type: course
 layout: video
 ---

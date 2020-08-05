@@ -3,7 +3,7 @@ title: f7_mud.pdf
 description: >-
   This resource provides information on the topic of Momentum Flow and Momentum
   Conservation.
-type: courses
+type: course
 layout: pdf
 uid: 8daebd699e851c237fd46a288ad392df
 file_type: application/pdf

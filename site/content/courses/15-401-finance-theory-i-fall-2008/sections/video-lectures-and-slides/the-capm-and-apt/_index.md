@@ -1,16 +1,14 @@
 ---
 title: The CAPM and APT
 course_id: 15-401-finance-theory-i-fall-2008
+type: course
+layout: videogallery
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: b00cb68693dac5443dd80c6ae861dd7c
-    type: section
-    layout: section
     name: The CAPM and APT
     weight: 160
     parent: cc3f05d9f4e44ed3db60b79712de51f4
-type: courses
-layout: videogallery
 ---
 Video Lectures
 --------------

@@ -8,7 +8,7 @@ description: >-
   waves, quarter-wavelength antenna, an lc oscillator, spark gap transmitter,
   prs question: spark gap antenna, polarization, demonstration: microwave
   polarization, experiment 12: microwaves, and exam 3 results.
-type: courses
+type: course
 layout: pdf
 uid: 06f0c8a465591c61e544a127cd52600a
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MITRES_STR_001IAP16_QGISI.pdf
 description: This resource contains information regarding QGIS exercise I.
-type: courses
+type: course
 layout: pdf
 uid: a29f5c524fb3f11120c88124905ec45e
 file_type: application/pdf

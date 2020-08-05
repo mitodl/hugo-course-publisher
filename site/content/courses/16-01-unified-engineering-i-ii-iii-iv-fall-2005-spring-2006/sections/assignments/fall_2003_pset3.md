@@ -3,7 +3,7 @@ title: fall_2003_pset3.pdf
 description: >-
   This resource contains problems on thermodynamics and computers and
   programming.
-type: courses
+type: course
 layout: pdf
 uid: 8ecebb2d57e660422576991c3574d42b
 file_type: application/pdf

@@ -4,7 +4,7 @@ description: >-
   This resource includes information about wave mechanics, schrodinger equation,
   eigenstates and eigenenergies, hamiltonian equation and refernces to various
   textbooks.
-type: courses
+type: course
 layout: pdf
 uid: bf86cc8aad3679c72227f8705ed80bcc
 file_type: application/pdf

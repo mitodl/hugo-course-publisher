@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 26: What Do Computer Scientists Do?'
 transcript: ''
 uid: fd1a10c94c3a2d48d2470e447761a0bb
-type: courses
+type: course
 layout: video
 ---

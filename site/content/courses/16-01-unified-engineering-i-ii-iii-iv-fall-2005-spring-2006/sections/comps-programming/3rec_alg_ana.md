@@ -1,7 +1,7 @@
 ---
 title: 3rec_alg_ana.pdf
 description: Recitation lecture presentation.
-type: courses
+type: course
 layout: pdf
 uid: 126fc6436f1ee6d226ad43760555fe67
 file_type: application/pdf

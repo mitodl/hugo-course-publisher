@@ -806,6 +806,6 @@ transcript: >-
   m='718341'>of</span> <span m='718714'>our</span> <span
   m='719087'>predictions.</span> </p>
 uid: d56beae65d3eccccadba697fc8c6288b
-type: courses
+type: course
 layout: video
 ---

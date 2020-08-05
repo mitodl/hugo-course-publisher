@@ -3,7 +3,7 @@ title: 'Congruences: Chapter 8.6 – 8.9'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Congruences: Chapter 8.6 – 8.9.
-type: courses
+type: course
 layout: pdf
 uid: 6247eaad5764e3b06bdd4f1b0a660aab
 file_type: application/pdf

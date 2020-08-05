@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 20: More Clustering'
 transcript: ''
 uid: 8e437d60466211a1b9ed6bd1be497165
-type: courses
+type: course
 layout: video
 ---

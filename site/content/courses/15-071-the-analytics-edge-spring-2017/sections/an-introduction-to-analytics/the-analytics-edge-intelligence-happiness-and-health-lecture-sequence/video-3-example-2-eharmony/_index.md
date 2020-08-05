@@ -3,7 +3,7 @@ title: >-
   1.2 The Analytics Edge: Intelligence, Happiness, and Health  (Lecture
   Sequence)
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Video 2: Example 1 - IBM Watson]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-2-example-1-ibm-watson" %}})

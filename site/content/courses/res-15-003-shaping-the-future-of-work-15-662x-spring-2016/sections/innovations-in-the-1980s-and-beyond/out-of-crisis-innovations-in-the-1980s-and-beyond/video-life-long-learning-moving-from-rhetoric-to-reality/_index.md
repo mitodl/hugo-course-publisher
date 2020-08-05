@@ -1,7 +1,7 @@
 ---
 title: '3.1 Out of Crisis: Innovations in the 1980s and Beyond'
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Video: High School and College: Necessary but Not Sufficient]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/innovations-in-the-1980s-and-beyond/out-of-crisis-innovations-in-the-1980s-and-beyond/video-high-school-and-college-necessary-but-not-sufficient" %}})

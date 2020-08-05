@@ -6142,6 +6142,6 @@ transcript: >-
   m='4776700'>news.</span> </p><p><span m='4777220'>OK,</span> <span
   m='4777620'>see you</span> <span m='4777810'>then.</span> </p><p></p>
 uid: 3a1ec3dfa7071e666f3beea21b469795
-type: courses
+type: course
 layout: video
 ---

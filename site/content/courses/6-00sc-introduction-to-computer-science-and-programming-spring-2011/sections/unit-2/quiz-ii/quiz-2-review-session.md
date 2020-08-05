@@ -66,6 +66,6 @@ technical_location: >-
 title: Quiz 2 Review Session
 transcript: ''
 uid: 30f1944a882a1f26cb8ac4c28af62164
-type: courses
+type: course
 layout: video
 ---

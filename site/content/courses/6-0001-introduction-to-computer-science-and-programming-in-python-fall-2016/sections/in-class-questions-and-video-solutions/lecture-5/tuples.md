@@ -240,6 +240,6 @@ transcript: >-
   m='204370'>and</span> <span m='204460'>what</span> <span m='204640'>a</span>
   <span m='204700'>tuple</span> <span m='205060'>is.</span> </p>
 uid: c9f180f7568dfdb955f64ae1ae784390
-type: courses
+type: course
 layout: video
 ---

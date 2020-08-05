@@ -817,6 +817,6 @@ transcript: >-
   m='919430'>two</span> <span m='919630'>delta</span> <span
   m='920030'>function</span> <span m='920330'>cases.</span> </p>
 uid: b23d3b896a9f4d52348e875f3dbe22ac
-type: courses
+type: course
 layout: video
 ---

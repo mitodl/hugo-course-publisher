@@ -1,7 +1,7 @@
 ---
 title: hw3.pdf
 description: This resource discusses about The number of Boolean functions of one variable.
-type: courses
+type: course
 layout: pdf
 uid: 78ffb2358df6708444c4b05fc44f920c
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: f04_fall.pdf
 description: >-
   This resource contains information on the topic of Dimensional Analysis ?
   Buckingham Pi Theorem and Dynamic Similarity ? Mach and Reynolds Numbers.
-type: courses
+type: course
 layout: pdf
 uid: b0d2168f3fc45735017ff56c05bd9a0c
 file_type: application/pdf

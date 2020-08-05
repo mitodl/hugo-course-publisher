@@ -138,6 +138,6 @@ transcript: >-
   m='262680'>attributes of this special random variable, and also to</span>
   <span m='267820'>use it in several examples.</span> </p><p></p>
 uid: b4ded57ef298cf5384cc06494c051a42
-type: courses
+type: course
 layout: video
 ---

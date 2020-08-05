@@ -4,7 +4,7 @@ description: >-
   This resource describe the solution of conversions of energy (internal,
   potential, kinetic and chemical) and exchanges of heat and work for this
   system and that of the rocket itself.
-type: courses
+type: course
 layout: pdf
 uid: 9d0bb7e9cc9f03e2eded6fb95c3fdd4d
 file_type: application/pdf

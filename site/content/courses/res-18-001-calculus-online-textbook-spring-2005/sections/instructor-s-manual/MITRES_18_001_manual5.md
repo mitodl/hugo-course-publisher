@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_manual5.pdf
 description: "This resource contains information related to integrals.\r\n"
-type: courses
+type: course
 layout: pdf
 uid: e3406a5d7e1faaf6460db2a6d529aeb2
 file_type: application/pdf

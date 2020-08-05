@@ -483,6 +483,6 @@ transcript: >-
   m='442542'>Age</span> <span m='443164'>as</span> <span m='443785'>the</span>
   <span m='444407'>independent</span> <span m='445028'>variables.</span> </p>
 uid: b1f84e0e4096e15fc254e782612a2cea
-type: courses
+type: course
 layout: video
 ---

@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 18: Optimization Problems and Algorithms'
 transcript: ''
 uid: eceffca9442bd3a370510ebb253fea4e
-type: courses
+type: course
 layout: video
 ---

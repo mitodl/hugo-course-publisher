@@ -29,6 +29,6 @@ technical_location: >-
 title: 'Video: Center for American Progress: Unions Make the Middle Class'
 transcript: ''
 uid: 6957e0feb844957d29564f0f250ce7c9
-type: courses
+type: course
 layout: video
 ---

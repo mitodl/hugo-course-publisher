@@ -2053,6 +2053,6 @@ transcript: >-
   m="3068890">that's</span> <span m="3069180">everything</span> <span
   m="3069460">for</span> <span m="3069640">today.</span></p>
 uid: faf5f000ed69bbf4396664e6819bcccd
-type: courses
+type: course
 layout: video
 ---

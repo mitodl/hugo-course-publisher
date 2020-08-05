@@ -130,6 +130,6 @@ transcript: >-
   m='85980'>we</span> <span m='86160'>introduce</span> <span m='86850'>in</span>
   <span m='87720'>8.03.</span> </p>
 uid: cf726a1284cdfa24ed9b0f23255aac2e
-type: courses
+type: course
 layout: video
 ---

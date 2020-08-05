@@ -82,6 +82,6 @@ transcript: >-
   associated performance</span> <span m='69490'>analysis in the context of an
   example.</span> </p><p></p>
 uid: 206b26cd5dd3b40dd17f2a12a2128cae
-type: courses
+type: course
 layout: video
 ---

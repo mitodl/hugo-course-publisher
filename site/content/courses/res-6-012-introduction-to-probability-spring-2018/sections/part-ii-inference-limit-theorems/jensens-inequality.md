@@ -238,6 +238,6 @@ transcript: >-
   X,</span> <span m='734180'>and Jensen's inequality allows us to do
   that.</span> </p><p></p>
 uid: 703ccbc42ab1d7f1a4d2e80d4cfa3e1c
-type: courses
+type: course
 layout: video
 ---

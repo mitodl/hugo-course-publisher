@@ -142,6 +142,6 @@ transcript: >-
   <span m="297159">conditional probability [equal to]</span> <span
   m="299230">2/5.</span></p><p>&nbsp;</p>
 uid: 847c1d70d7d27088f1ec3618f70fa520
-type: courses
+type: course
 layout: video
 ---

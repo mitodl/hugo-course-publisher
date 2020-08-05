@@ -1,7 +1,7 @@
 ---
 title: MIT20_020S09_prj19_onco_sp.pdf
 description: This resource contains information related to tech spec review for oncucures.
-type: courses
+type: course
 layout: pdf
 uid: bea9ecfa4f947bf851ad5038eb078661
 file_type: application/pdf

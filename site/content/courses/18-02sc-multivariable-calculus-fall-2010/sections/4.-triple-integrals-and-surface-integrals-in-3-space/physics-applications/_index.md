@@ -1,11 +1,11 @@
 ---
 title: Physics Applications
 course_id: 18-02sc-multivariable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: e4a6d6711614af4073c1a224e90fc6b0
-    type: section
-    layout: section
     name: Physics Applications
     weight: 1380
     parent: 80a7ff20650c3af9a002f822edced8a0

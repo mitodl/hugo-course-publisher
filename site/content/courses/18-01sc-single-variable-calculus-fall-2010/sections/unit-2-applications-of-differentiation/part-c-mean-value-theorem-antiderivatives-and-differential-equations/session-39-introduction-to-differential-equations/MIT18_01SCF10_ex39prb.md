@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex39prb.pdf
 description: This resource contains problem statements related to differential equations.
-type: courses
+type: course
 layout: pdf
 uid: f84f043305232520221e776274e80597
 file_type: application/pdf

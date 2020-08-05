@@ -3,7 +3,7 @@ title: '6.034 Tutorial 4: Top-down approach to neural nets'
 description: >-
   This resource contains information related to top-down approach to neural
   nets.
-type: courses
+type: course
 layout: pdf
 uid: 281ccaf416d0de3c1609395df5d7a5fe
 file_type: application/pdf

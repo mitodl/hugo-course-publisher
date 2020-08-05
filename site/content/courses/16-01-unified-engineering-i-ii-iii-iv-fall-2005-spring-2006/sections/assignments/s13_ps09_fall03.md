@@ -3,7 +3,7 @@ title: s13_ps09_fall03.pdf
 description: |-
   Problem set S13 on state space?description?
   of an RLC Circuit.
-type: courses
+type: course
 layout: pdf
 uid: ae4646f18bc6f96e4fd0f508d01cecd2
 file_type: application/pdf

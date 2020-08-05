@@ -1,7 +1,7 @@
 ---
 title: Sample equipment travel letter
 description: 'This resource contains the sample letter of equipment travel. '
-type: courses
+type: course
 layout: pdf
 uid: bdb620eb52dbf8267672ea1d6ff15fc8
 file_type: application/pdf

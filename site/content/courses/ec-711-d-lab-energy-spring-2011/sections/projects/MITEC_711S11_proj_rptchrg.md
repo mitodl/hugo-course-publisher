@@ -1,7 +1,7 @@
 ---
 title: Solar Cellphone Charger
 description: This resource contains the information related to Solar Cellphone Charger.
-type: courses
+type: course
 layout: pdf
 uid: 98bd865f3f4ffaeeb99fbc1c3c3c18be
 file_type: application/pdf

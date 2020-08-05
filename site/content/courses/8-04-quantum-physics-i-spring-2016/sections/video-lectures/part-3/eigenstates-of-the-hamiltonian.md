@@ -704,6 +704,6 @@ transcript: >-
   <span m='841420'>good</span> <span m='841720'>place</span> <span
   m='842110'>to</span> <span m='842270'>stop.</span> </p>
 uid: f31a1547feef29e31990e0254167cca5
-type: courses
+type: course
 layout: video
 ---

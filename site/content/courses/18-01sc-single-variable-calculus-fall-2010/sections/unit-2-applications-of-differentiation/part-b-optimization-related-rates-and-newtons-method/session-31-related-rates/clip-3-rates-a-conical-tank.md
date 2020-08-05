@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Rates: A Conical Tank'
 transcript: ''
 uid: 22e6be89849d831e29cd1c09ecbf510b
-type: courses
+type: course
 layout: video
 ---

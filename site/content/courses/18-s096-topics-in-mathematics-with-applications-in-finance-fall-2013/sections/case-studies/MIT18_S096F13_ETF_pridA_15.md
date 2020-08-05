@@ -1,7 +1,7 @@
 ---
 title: 'Case Study Plots: US ETFS 2009-2013, Max Alloc 0.30'
 description: This file contains information regarding case studies.
-type: courses
+type: course
 layout: pdf
 uid: 6da5f0570f7ed8594a3c84365795a572
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'MIT 8.03SC Fall 2016 Lecture 20: Interference, Soap Bubble'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: df878c2fd24e9a337bc0051767d4a697
 file_type: application/pdf

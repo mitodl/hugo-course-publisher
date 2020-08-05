@@ -1,7 +1,7 @@
 ---
 title: lec12_17_concept.pdf
 description: Review questions.
-type: courses
+type: course
 layout: pdf
 uid: 3c4181d80290f7c46c69e35935e72251
 file_type: application/pdf

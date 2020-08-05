@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex97prb.pdf
 description: This resource contains problem statements related to power series.
-type: courses
+type: course
 layout: pdf
 uid: 5fb2a9365a808d0df900662aabb63fe5
 file_type: application/pdf

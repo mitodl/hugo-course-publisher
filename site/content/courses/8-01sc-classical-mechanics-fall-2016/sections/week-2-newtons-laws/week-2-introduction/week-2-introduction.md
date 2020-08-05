@@ -111,6 +111,6 @@ transcript: >-
   the object's motion</span> <span m='134860'>or trajectory, on the right-hand
   side.</span> </p><p></p>
 uid: 8d0d60fbc742530a4d9b878e1b154856
-type: courses
+type: course
 layout: video
 ---

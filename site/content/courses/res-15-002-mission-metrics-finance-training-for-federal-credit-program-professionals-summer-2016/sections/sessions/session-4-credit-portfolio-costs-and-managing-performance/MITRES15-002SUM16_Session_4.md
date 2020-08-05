@@ -3,7 +3,7 @@ title: >-
   Session 4 Slides: Credit Portfolio Costs and Managing Performance - RES.15-002
   - Summer 2016
 description: Slide deck for session 4.
-type: courses
+type: course
 layout: pdf
 uid: 55b885bb3874c937dcc8a44fb3b70fbb
 file_type: application/pdf

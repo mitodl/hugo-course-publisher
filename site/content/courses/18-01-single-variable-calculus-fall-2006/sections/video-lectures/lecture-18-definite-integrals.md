@@ -2471,6 +2471,6 @@ transcript: >-
   m='2830110'>questions</span> <span m='2830640'>that you'll ask</span> <span
   m='2830820'>next</span> <span m='2831560'>time.</span> </p>
 uid: d79fedc979237e79dc4d0d7ebc10f437
-type: courses
+type: course
 layout: video
 ---

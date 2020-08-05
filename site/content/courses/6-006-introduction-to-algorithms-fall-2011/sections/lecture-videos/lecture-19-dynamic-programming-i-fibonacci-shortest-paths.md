@@ -3192,6 +3192,6 @@ transcript: >-
   m='3105010'>that's</span> <span m='3105220'>super</span> <span
   m='3105490'>cool.</span> </p>
 uid: 57d2b18993565b569a7fe3bb3033de75
-type: courses
+type: course
 layout: video
 ---

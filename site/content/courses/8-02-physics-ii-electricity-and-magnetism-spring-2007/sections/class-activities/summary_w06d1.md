@@ -1,7 +1,7 @@
 ---
 title: summary_w06d1.pdf
 description: This resource is about creating magnetic fields.
-type: courses
+type: course
 layout: pdf
 uid: a2e49744a4ff15ec4aee5e2c5a4c670b
 file_type: application/pdf

@@ -1,16 +1,14 @@
 ---
 title: 'Solving Ax = b: Row Reduced Form R'
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 5fa61a8acb4bace2b291fa9364395075
-    type: section
-    layout: section
     name: 'Solving Ax = b: Row Reduced Form R'
     weight: 120
     parent: 34303ce19b45724122d2bd33d64df688
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/independence-basis-and-dimension/_index.md" %}}) »
 

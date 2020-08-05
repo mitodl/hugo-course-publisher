@@ -119,6 +119,6 @@ transcript: >-
   proportional to the square of the period of the orbiting</span> <span
   m='218280'>time.</span> </p>
 uid: 3359e0d6e13eb434c801bee9f9f86476
-type: courses
+type: course
 layout: video
 ---

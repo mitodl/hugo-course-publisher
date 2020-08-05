@@ -680,6 +680,6 @@ transcript: >-
   m='697643'>Auckland,</span> <span m='698042'>New</span> <span
   m='698441'>Zealand.</span> </p>
 uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
-type: courses
+type: course
 layout: video
 ---

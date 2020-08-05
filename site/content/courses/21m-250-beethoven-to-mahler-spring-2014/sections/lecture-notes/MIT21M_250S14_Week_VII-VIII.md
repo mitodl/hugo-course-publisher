@@ -5,7 +5,7 @@ title: >-
 description: >-
   This is a resource file that contains information regarding weeks VII-VIII:
   wagner and verdi (wagner).
-type: courses
+type: course
 layout: pdf
 uid: e96fc7160bf7fb5349fc02efe0766434
 file_type: application/pdf

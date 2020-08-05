@@ -236,6 +236,6 @@ transcript: >-
   probabilities, it does not</span> <span m='665340'>matter whether we include
   the endpoints or not.</span> </p><p></p>
 uid: af352ce7e7a0a726feae43753135c96a
-type: courses
+type: course
 layout: video
 ---

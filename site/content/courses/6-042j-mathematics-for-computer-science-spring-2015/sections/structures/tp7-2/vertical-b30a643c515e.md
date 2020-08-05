@@ -1,6 +1,8 @@
 ---
 title: 2.8  Degrees & Isomorphism
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Extreme Graphs]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-2/vertical-0d59158da590" %}})
 *   [2.8.1Degree: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-2/_index.md" %}})

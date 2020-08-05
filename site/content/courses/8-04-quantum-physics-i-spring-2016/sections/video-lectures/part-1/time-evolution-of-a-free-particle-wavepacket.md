@@ -473,6 +473,6 @@ transcript: >-
   m='582730'>typically</span> <span m='583330'>ask</span> <span m='583600'>you
   to</span> <span m='583700'>find.</span> </p>
 uid: 212179cff7d76c1d4c6391917bdd7537
-type: courses
+type: course
 layout: video
 ---

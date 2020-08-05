@@ -1,7 +1,7 @@
 ---
 title: Problem Set 3
 description: "Problem set on using functions and recursion, as well as string operations in Python. \r\n"
-type: courses
+type: course
 layout: pdf
 uid: e75b1f9ee34f7f0267eabcbd2b1c896e
 file_type: application/pdf

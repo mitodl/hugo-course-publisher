@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Problems: Extended Stokes'' Theorem'
 description: This resource contains information regarding extended stokes' theorem.
-type: courses
+type: course
 layout: pdf
 uid: 6cd629fbc29ecea483e1a74b2c65bebe
 file_type: application/pdf

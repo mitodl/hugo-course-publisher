@@ -878,6 +878,6 @@ transcript: >-
   reach a solution that will be</span> <span m='2852280'>satisfactory.</span>
   </p><p></p>
 uid: 69953385d63e7bd83eaa1c2e0f07f2bf
-type: courses
+type: course
 layout: video
 ---

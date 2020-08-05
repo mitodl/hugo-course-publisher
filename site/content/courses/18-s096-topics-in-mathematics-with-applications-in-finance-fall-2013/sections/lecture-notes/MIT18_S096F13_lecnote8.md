@@ -1,7 +1,7 @@
 ---
 title: Time Series Analysis I
 description: This file contains information regarding lecture 8 notes.
-type: courses
+type: course
 layout: pdf
 uid: 1926c83ecd7ea700f7cb63914c6d7c0f
 file_type: application/pdf

@@ -423,6 +423,6 @@ transcript: >-
   m='338960'>of</span> <span m='339433'>Supreme</span> <span
   m='339906'>Court</span> <span m='340380'>cases.</span> </p>
 uid: a191f0227c32a83498979461dc407176
-type: courses
+type: course
 layout: video
 ---

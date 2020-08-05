@@ -162,6 +162,6 @@ transcript: >-
   m='112450'>that's</span> <span m='112660'>the</span> <span
   m='112750'>right</span> <span m='112900'>answer.</span> </p>
 uid: 22a6fadbe4f1343ae332e2313ecf66fe
-type: courses
+type: course
 layout: video
 ---

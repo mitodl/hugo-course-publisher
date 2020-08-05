@@ -1,7 +1,7 @@
 ---
 title: 'Session 101: Unit 3 Review'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-type: courses
+type: course
 layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/final-exam-1/review/session-100-unit-2-review/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/final-exam-1/review/session-102-unit-4-review/_index.md" %}}) »

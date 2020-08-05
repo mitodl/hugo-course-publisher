@@ -1,7 +1,7 @@
 ---
 title: networks_figures.pdf
 description: 'This resource contains slides of chapter 7 figures. '
-type: courses
+type: course
 layout: pdf
 uid: c2a8fc3304395bd505751bdbc13b18f5
 file_type: application/pdf

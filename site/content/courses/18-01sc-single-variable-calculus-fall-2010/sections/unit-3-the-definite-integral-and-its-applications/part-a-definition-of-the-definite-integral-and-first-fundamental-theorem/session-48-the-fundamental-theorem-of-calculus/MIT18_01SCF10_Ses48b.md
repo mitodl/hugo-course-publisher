@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses48b.pdf
 description: This resource contains information about the fundamental theorem of calculus.
-type: courses
+type: course
 layout: pdf
 uid: cd0bd7d8eca0ec001ba65b2bdf6e7ec5
 file_type: application/pdf

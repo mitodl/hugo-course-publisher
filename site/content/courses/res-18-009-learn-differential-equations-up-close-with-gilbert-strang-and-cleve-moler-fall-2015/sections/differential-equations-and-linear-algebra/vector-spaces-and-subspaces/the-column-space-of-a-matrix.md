@@ -752,6 +752,6 @@ transcript: >-
   m='756570'>algebra.</span> <span m='757500'>Thank</span> <span
   m='757870'>you.</span> </p>
 uid: 21acc047fe3fd4c9cbd3be2e3f15b937
-type: courses
+type: course
 layout: video
 ---

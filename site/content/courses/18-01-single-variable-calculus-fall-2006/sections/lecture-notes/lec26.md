@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 26: Trigonometric Integrals and Substitution'
 description: Lecture notes on trigonometric integrals and trigonometric substitution.
-type: courses
+type: course
 layout: pdf
 uid: b25e2ddd293746020ae78af50cb30372
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: MITRES_6_007S11_hw23.pdf
 description: >-
   This resource contains problem set related to mapping continuous-time filters
   to discrete-time filters.
-type: courses
+type: course
 layout: pdf
 uid: c6be96f4137df6a9254a04b0882118e6
 file_type: application/pdf

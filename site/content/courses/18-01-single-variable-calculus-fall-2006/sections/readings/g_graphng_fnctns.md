@@ -1,7 +1,7 @@
 ---
 title: Graphing Functions
 description: Supplement to the textbook on graphing functions.
-type: courses
+type: course
 layout: pdf
 uid: de1c599e38662bfe32ce4082e767cad0
 file_type: application/pdf

@@ -1000,6 +1000,6 @@ transcript: >-
   m='1151790'>the</span> <span m='1151930'>first</span> <span
   m='1152300'>example.</span> <span m='1153500'>Thanks.</span> </p>
 uid: 31c7b1efd093f87c5a599eb0b7024696
-type: courses
+type: course
 layout: video
 ---

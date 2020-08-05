@@ -3297,6 +3297,6 @@ transcript: >-
   m='3069680'>in</span> <span m='3069810'>50</span> <span
   m='3070110'>minutes.</span> </p>
 uid: 7e626cc30fda599800cb5aac3b148422
-type: courses
+type: course
 layout: video
 ---

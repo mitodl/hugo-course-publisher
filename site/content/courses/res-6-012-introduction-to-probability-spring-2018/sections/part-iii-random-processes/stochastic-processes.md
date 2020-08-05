@@ -173,6 +173,6 @@ transcript: >-
   behavior of the stochastic process</span> <span m='375880'>as a time function,
   as a process that evolves in time.</span> </p>
 uid: cc7f8c89c56491ad267ed38fac97c699
-type: courses
+type: course
 layout: video
 ---

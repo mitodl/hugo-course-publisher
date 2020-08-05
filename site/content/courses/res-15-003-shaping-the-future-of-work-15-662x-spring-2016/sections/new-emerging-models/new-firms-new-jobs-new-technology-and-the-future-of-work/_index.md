@@ -1,16 +1,14 @@
 ---
 title: '4.1 New Firms, New Jobs, New Technology, and the Future of Work'
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
+type: course
+layout: videogallery
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 18bae9892a0ad3ae85c22596eee9b14a
-    type: section
-    layout: section
     name: '4.1 New Firms, New Jobs, New Technology, and the Future of Work'
     weight: 550
     parent: 3540dcb6fb3e3c8efacac24bd7cb1835
-type: courses
-layout: videogallery
 ---
 *   [<New Emerging Models]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/new-emerging-models/_index.md" %}})
 *   [4.1.1Video: Week 4 Introduction]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work/_index.md" %}})

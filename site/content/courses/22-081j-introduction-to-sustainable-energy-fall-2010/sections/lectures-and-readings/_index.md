@@ -1,11 +1,11 @@
 ---
 title: Lectures and Readings
 course_id: 22-081j-introduction-to-sustainable-energy-fall-2010
+type: course
+layout: course_section
 menu:
   22-081j-introduction-to-sustainable-energy-fall-2010:
     identifier: e7a00e101594274350ffa5b52e167aa5
-    type: section
-    layout: section
     name: Lectures and Readings
     weight: 30
 ---

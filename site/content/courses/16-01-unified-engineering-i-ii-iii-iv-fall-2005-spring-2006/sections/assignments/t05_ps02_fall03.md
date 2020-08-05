@@ -3,7 +3,7 @@ title: t05_ps02_fall03.pdf
 description: >-
   Problem set on adiabatic expansion, 2-3: constant volume heat
   addition,constant pressure expansion,isothermal compression.
-type: courses
+type: course
 layout: pdf
 uid: 0c15eca880e6fb7898e674439ac5b313
 file_type: application/pdf

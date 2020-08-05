@@ -1,7 +1,7 @@
 ---
 title: fall_2003_quiz_5f.pdf
 description: Quiz based on fluids problems.
-type: courses
+type: course
 layout: pdf
 uid: 405c75ed96e04e6872a022c79d5085a2
 file_type: application/pdf

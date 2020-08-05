@@ -455,6 +455,6 @@ transcript: >-
   m='393084'>have</span> <span m='393516'>to</span> <span m='393948'>see.</span>
   </p>
 uid: 2244ce66f5a3367720fa84bbc2133104
-type: courses
+type: course
 layout: video
 ---

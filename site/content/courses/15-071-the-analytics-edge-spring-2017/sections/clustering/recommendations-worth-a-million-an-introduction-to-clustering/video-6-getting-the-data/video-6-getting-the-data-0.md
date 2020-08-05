@@ -369,6 +369,6 @@ transcript: >-
   m='404095'>movies</span> <span m='404586'>using</span> <span
   m='405077'>hierarchical</span> <span m='405568'>clustering.</span> </p>
 uid: 44d67a8e93fa8ba2fddfe5b72afae1af
-type: courses
+type: course
 layout: video
 ---

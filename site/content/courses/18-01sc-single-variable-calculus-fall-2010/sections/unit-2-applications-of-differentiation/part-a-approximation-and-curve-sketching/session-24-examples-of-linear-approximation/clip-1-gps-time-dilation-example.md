@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: GPS Time Dilation Example'
 transcript: ''
 uid: cfbee5f83f6c9bc8b79dbf3a6ce86c4f
-type: courses
+type: course
 layout: video
 ---

@@ -282,6 +282,6 @@ transcript: >-
   m="219580">we</span> <span m="219710">still</span> <span m="219990">be</span>
   <span m="220120">human?</span></p>
 uid: 2796ca1431ceed477b4d9cc12e905555
-type: courses
+type: course
 layout: video
 ---

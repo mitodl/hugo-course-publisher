@@ -3,7 +3,7 @@ title: 'Class on Design and Analysis of Algorithms, Lecture 2 Notes, Handwritten
 description: >-
   This resource contains information regarding class on design and analysis of
   algorithms, lecture 2 Notes, handwritten.
-type: courses
+type: course
 layout: pdf
 uid: 5c6cf10a900ea288d97dce247a9a5a9d
 file_type: application/pdf

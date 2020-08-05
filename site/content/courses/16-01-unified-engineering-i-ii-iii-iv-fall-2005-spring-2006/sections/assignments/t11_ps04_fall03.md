@@ -1,7 +1,7 @@
 ---
 title: t11_ps04_fall03.pdf
 description: This resource contains problem set on energy exchange processes.
-type: courses
+type: course
 layout: pdf
 uid: 5702fbe0999f2b9571527c1a73e2b55c
 file_type: application/pdf

@@ -251,6 +251,6 @@ transcript: >-
   minus r to the power of i</span> <span m='676840'>is the probability that she
   would get infinitely rich.</span> </p><p></p>
 uid: faed89823db583e4c2c359ffc63ecb61
-type: courses
+type: course
 layout: video
 ---

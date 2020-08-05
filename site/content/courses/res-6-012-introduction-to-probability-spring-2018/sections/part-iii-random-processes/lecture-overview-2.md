@@ -90,6 +90,6 @@ transcript: >-
   general</span> <span m='94240'>phenomenon that also shows up in many other
   contexts.</span> </p><p></p>
 uid: bb19b272e38d0519167ce9a669ce80dc
-type: courses
+type: course
 layout: video
 ---

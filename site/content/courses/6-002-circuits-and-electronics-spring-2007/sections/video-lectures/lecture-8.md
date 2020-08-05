@@ -695,6 +695,6 @@ transcript: >-
   numbers, simply plot those values for</span> <span m='2697000'>you.</span>
   </p>
 uid: eaf60af4064b5d6c465d22833456c412
-type: courses
+type: course
 layout: video
 ---

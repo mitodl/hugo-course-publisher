@@ -3,7 +3,7 @@ title: mudgm11.pdf
 description: >-
   This resource contains review questions and answers on distributed torques,
   combined axial and transverse loading.
-type: courses
+type: course
 layout: pdf
 uid: e95eeebbb1b5aa414f414b850ea1cefe
 file_type: application/pdf

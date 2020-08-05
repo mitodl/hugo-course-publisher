@@ -1,7 +1,7 @@
 ---
 title: spring_spl1.pdf
 description: This file contains notes for Flight Power Relations.
-type: courses
+type: course
 layout: pdf
 uid: 880678ca3fb1307aa73de7a6d073d730
 file_type: application/pdf

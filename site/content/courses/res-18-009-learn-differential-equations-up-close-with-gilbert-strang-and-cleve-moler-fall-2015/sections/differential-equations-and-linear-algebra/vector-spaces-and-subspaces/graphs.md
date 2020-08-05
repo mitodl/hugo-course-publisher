@@ -780,6 +780,6 @@ transcript: >-
   <span m='919340'>own.</span> <span m='919950'>Thank</span> <span
   m='920270'>you.</span> </p>
 uid: 910b1417d0f34592694ed21bbafedacc
-type: courses
+type: course
 layout: video
 ---

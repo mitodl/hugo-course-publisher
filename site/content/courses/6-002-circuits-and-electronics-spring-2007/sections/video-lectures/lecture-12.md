@@ -734,6 +734,6 @@ transcript: >-
   that are exponential rises and</span> <span m='2936000'>exponential decays. We
   will see more of that next</span> <span m='2941000'>time.</span> </p>
 uid: 735531e0e501fe40dfa3c3a46473c715
-type: courses
+type: course
 layout: video
 ---

@@ -243,6 +243,6 @@ transcript: >-
   properties for this estimate,</span> <span m='628600'>and which are quite
   general.</span> </p><p></p>
 uid: 97c7fa0fca569c70a9e3df9ce9f5572c
-type: courses
+type: course
 layout: video
 ---

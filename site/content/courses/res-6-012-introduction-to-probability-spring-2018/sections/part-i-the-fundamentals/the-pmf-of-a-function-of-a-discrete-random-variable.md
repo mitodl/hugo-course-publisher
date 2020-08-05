@@ -154,6 +154,6 @@ transcript: >-
   <span m='391720'>of a, and this term b here serves to shift the PMF by
   b.</span> </p><p></p>
 uid: 07ce650682eeb72e57b0454f3d80e1e8
-type: courses
+type: course
 layout: video
 ---

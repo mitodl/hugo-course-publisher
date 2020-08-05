@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses60a.pdf
 description: This resource contains information about integrals and averages.
-type: courses
+type: course
 layout: pdf
 uid: d47150e04af30cbc47b251fff57c435c
 file_type: application/pdf

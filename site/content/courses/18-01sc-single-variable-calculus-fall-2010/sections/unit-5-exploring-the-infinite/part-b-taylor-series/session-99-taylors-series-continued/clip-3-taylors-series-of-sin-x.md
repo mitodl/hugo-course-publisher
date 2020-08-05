@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Taylor''s Series of sin(x)'
 transcript: ''
 uid: 4a86fd759899be45d972f6d19b0b883d
-type: courses
+type: course
 layout: video
 ---

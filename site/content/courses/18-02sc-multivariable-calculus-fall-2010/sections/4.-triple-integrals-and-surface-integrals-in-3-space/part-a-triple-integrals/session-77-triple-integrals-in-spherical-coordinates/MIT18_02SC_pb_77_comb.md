@@ -3,7 +3,7 @@ title: '18.02SC Problems and Solutions: Problems: Jacobian for Spherical Coordin
 description: >-
   This resource contains information regarding jacobian for spherical
   coordinates.
-type: courses
+type: course
 layout: pdf
 uid: 8ccccd43d1edc57e0895a2167f6da49f
 file_type: application/pdf

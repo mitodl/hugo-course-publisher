@@ -177,6 +177,6 @@ transcript: >-
   <span m='108190'>care</span> <span m='108390'>of.</span> <span
   m='109290'>OK.</span> </p>
 uid: e909e336e40793afbc540dcf0b03ac3e
-type: courses
+type: course
 layout: video
 ---

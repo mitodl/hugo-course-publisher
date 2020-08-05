@@ -1,7 +1,7 @@
 ---
 title: m02_ps07_fall03.pdf
 description: This resource contains problems on forces and moments in 2-D.
-type: courses
+type: course
 layout: pdf
 uid: 1f57525a2ba9258fd3182baa92b4cc53
 file_type: application/pdf

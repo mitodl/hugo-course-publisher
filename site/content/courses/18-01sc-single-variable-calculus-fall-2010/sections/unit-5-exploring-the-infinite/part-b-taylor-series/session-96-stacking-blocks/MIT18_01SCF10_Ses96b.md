@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses96b.pdf
 description: >-
   This resource contains informations related to Introduction to stacking
   blocks.
-type: courses
+type: course
 layout: pdf
 uid: 2f7f68a91f8718c6c213641b6cae94b3
 file_type: application/pdf

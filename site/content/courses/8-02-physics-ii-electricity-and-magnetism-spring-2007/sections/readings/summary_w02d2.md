@@ -3,7 +3,7 @@ title: summary_w02d2.pdf
 description: >-
   This file talks about a new way of calculating electric fields i.e. Gauss's
   law.
-type: courses
+type: course
 layout: pdf
 uid: 40dfe778b10f19d6b7f7821d779e3242
 file_type: application/pdf

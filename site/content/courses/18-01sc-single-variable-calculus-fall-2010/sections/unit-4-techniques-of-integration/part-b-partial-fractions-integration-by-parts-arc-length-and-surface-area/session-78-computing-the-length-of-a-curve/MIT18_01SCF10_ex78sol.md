@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex78sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   computing the length of a curve.
-type: courses
+type: course
 layout: pdf
 uid: ed84aebb3083404e3ead41aae683b245
 file_type: application/pdf

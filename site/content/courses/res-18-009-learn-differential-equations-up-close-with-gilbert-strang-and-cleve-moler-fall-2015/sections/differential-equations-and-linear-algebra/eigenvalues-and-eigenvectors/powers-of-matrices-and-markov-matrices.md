@@ -988,6 +988,6 @@ transcript: >-
   m='1066100'>Markov</span> <span m='1066630'>matrix.</span> <span
   m='1067450'>Thank</span> <span m='1067680'>you.</span> </p>
 uid: c0df20a6744aa8a571c5619e95ddbba9
-type: courses
+type: course
 layout: video
 ---

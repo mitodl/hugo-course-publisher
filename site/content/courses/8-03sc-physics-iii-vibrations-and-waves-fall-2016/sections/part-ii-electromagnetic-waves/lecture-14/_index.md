@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 14: Fourier Transform, AM Radio'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
+type: course
+layout: videogallery
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: c1476a90000ba128f6d13a5e4049fafb
-    type: section
-    layout: section
     name: 'Lecture 14: Fourier Transform, AM Radio'
     weight: 190
     parent: 240ff61b57c23024881e75e9a0e68cde
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-13/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-15/_index.md" %}}) »
 

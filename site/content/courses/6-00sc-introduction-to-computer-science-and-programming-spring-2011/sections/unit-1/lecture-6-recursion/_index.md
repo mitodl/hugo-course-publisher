@@ -1,16 +1,14 @@
 ---
 title: Recursion
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 99fb7e49022e2ef590b8a591159332ed
-    type: section
-    layout: section
     name: Recursion
     weight: 100
     parent: 975ad7bfdd9c4ffe26b6710fa718d5e6
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-5-objects-in-python/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-7-debugging/_index.md" %}}) »
 

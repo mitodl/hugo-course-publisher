@@ -5665,6 +5665,6 @@ transcript: >-
   m='4829440'>week.</span> </p><p><span m='4830640'>[APPLAUSE]</span>
   </p><p></p>
 uid: 5576854da6447b56cb69f02004044466
-type: courses
+type: course
 layout: video
 ---

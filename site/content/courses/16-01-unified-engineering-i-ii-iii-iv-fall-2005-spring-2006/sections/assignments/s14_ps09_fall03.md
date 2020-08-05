@@ -1,7 +1,7 @@
 ---
 title: s14_ps09_fall03.pdf
 description: Problem set on S14 involving RLC?circuit?transfer function.
-type: courses
+type: course
 layout: pdf
 uid: 09631e9e24ef14b068969864d2887f96
 file_type: application/pdf

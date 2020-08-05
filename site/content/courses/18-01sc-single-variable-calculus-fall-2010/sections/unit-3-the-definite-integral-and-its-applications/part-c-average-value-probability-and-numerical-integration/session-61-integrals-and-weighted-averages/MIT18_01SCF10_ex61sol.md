@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex61sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   integrals and weighted averages.
-type: courses
+type: course
 layout: pdf
 uid: e491560602afb9eb66201df662246a52
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: f10_ps11_fall03.pdf
 description: >-
   This resource contains problems related to streamline shapes of the 2-D
   velocity field, and pressure gradient.
-type: courses
+type: course
 layout: pdf
 uid: a20bde680e0b64cc7ca4172967bf80a2
 file_type: application/pdf

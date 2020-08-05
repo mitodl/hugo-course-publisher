@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SC_pset3sol.pdf
 description: 'This resource contains solutions of integration problems. '
-type: courses
+type: course
 layout: pdf
 uid: 5138ddfb964e2764f467a13486de5cbc
 file_type: application/pdf

@@ -4,7 +4,7 @@ description: >-
   Course calendar. Due to the complexity of the calendars, detailed explanations
   of the course format and a calendar key are provided prior to the presentation
   of the calendars.
-type: courses
+type: course
 layout: pdf
 uid: 3e0dedf9d04e28e3f6c4a5146eb8102f
 file_type: application/pdf

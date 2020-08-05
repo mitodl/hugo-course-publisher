@@ -3684,6 +3684,6 @@ transcript: >-
   m="4394110">you</span> <span m="4394800">next</span> <span
   m="4395370">week.</span></p>
 uid: e07b1d77dd4ab141478116e3e63df4d9
-type: courses
+type: course
 layout: video
 ---

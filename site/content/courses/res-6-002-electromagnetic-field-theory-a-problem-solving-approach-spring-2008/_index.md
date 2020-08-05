@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008
 course_title: 'Electromagnetic Field Theory: A Problem Solving Approach'
 course_image_url: >-

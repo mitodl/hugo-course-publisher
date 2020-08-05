@@ -3,7 +3,7 @@ title: MIT20_020S09_prj17_onco_fnp.pdf
 description: >-
   This file includes content on Cancer, and Metastasis, along with potential
   problemsand solutions. 
-type: courses
+type: course
 layout: pdf
 uid: c32aaf4a77758521faf716f53d65bc64
 file_type: application/pdf

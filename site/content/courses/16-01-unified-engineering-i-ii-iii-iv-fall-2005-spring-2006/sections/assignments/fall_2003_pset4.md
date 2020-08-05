@@ -3,7 +3,7 @@ title: fall_2003_pset4.pdf
 description: >-
   This resource contains problems on unified thermodynamics and ada95
   programming.
-type: courses
+type: course
 layout: pdf
 uid: e276681cf54ce89fa67bad228bf1dd58
 file_type: application/pdf

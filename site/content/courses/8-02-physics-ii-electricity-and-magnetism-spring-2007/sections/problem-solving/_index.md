@@ -1,11 +1,11 @@
 ---
 title: Problem Solving
 course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
+type: course
+layout: course_section
 menu:
   8-02-physics-ii-electricity-and-magnetism-spring-2007:
     identifier: ad9d1a7e98d0b1ff318d13ddbf7639b1
-    type: section
-    layout: section
     name: Problem Solving
     weight: 60
 ---

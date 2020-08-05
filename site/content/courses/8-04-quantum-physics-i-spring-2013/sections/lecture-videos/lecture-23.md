@@ -5594,6 +5594,6 @@ transcript: >-
   m='4914330'>you</span> <span m='4914370'>guys</span> <span m='4914570'>next
   time.</span> </p><p><span m='4915470'>[APPLAUSE]</span> </p>
 uid: 1d27151c03cf18e182868814232f5e33
-type: courses
+type: course
 layout: video
 ---

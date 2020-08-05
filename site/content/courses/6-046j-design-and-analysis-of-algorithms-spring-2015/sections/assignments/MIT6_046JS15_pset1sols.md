@@ -3,7 +3,7 @@ title: 'Class on Design and Analysis of Algorithms, Solutions to Problem Set 1'
 description: >-
   This resource contains information regarding class on design and analysis of
   algorithms, solutions to problem set 1.
-type: courses
+type: course
 layout: pdf
 uid: b14791a78432996a1d403e8b1deb0749
 file_type: application/pdf

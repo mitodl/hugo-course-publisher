@@ -127,6 +127,6 @@ transcript: >-
   matter what the</span> <span m="240520">outcome of the experiment
   is.</span></p><p>&nbsp;</p>
 uid: 9fdc632ad33f569a6d4db299d62285b5
-type: courses
+type: course
 layout: video
 ---

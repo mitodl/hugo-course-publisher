@@ -1082,6 +1082,6 @@ transcript: >-
   m='815040'>exam</span> <span m='815180'>will</span> <span m='815546'>be</span>
   <span m='816740'>on consumer</span> <span m='817070'>theory.</span> </p>
 uid: fda22a6079726d64f4fbeb1e309d918b
-type: courses
+type: course
 layout: video
 ---

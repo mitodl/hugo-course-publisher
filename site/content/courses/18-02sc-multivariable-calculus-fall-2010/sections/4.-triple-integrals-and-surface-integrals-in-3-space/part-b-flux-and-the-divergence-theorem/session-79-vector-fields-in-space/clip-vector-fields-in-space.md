@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Vector Fields in Space'
 transcript: ''
 uid: 043f6ade0c59563703abd47382142512
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: Teamwork self-assessment rubric
 description: 'This resource contains the teamwork self-assessment rubric. '
-type: courses
+type: course
 layout: pdf
 uid: 90f493cdd582cf2a1cde3aec846fda5a
 file_type: application/pdf

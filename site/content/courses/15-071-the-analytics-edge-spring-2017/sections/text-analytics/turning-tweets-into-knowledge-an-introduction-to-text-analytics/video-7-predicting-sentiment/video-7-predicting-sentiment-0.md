@@ -429,6 +429,6 @@ transcript: >-
   m='399699'>data</span> <span m='400147'>set</span> <span m='400594'>of</span>
   <span m='401042'>tweets.</span> </p>
 uid: dd79612c793ade86be8b59116072ba4c
-type: courses
+type: course
 layout: video
 ---

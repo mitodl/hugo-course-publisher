@@ -3,7 +3,7 @@ title: MITRES_6_008S11_sol17.pdf
 description: >-
   This resource contains solutions for the problem statements related to dsign
   of FIR digital filters.
-type: courses
+type: course
 layout: pdf
 uid: 77e21cf556f0959e80a527d2be4e2c9f
 file_type: application/pdf

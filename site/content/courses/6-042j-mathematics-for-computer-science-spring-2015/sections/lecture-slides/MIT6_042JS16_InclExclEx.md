@@ -3,7 +3,7 @@ title: 'Pigeonhole Principle, Inclusion-Exclusion: Inclusion-Exclusion Example'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: a64af91b16c8ad2469555b132f3c5f98
 file_type: application/pdf

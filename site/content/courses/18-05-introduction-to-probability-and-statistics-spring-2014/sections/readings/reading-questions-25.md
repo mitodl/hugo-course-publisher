@@ -1,11 +1,11 @@
 ---
 title: Reading Questions 25
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
+type: course
+layout: course_section
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: c50546dd8531c1f277066be5e2a0ad87
-    type: section
-    layout: section
     name: Reading Questions 25
     weight: 510
     parent: 579c055accb4eb7ebb6bf294146b45a5

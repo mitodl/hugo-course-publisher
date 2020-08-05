@@ -3,7 +3,7 @@ title: s12_lec.pdf
 description: >-
   Handwritten lecture notes on More on Finding State Equations, Eigenvalues and
   Eigenvectors.
-type: courses
+type: course
 layout: pdf
 uid: 65fe8b3e4e4ccd737967e2f4315c0fef
 file_type: application/pdf

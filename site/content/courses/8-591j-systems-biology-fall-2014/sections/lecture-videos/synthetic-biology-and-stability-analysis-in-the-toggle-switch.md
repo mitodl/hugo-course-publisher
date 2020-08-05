@@ -4888,6 +4888,6 @@ transcript: >-
   m='4795110'>let</span> <span m='4795210'>you</span> <span
   m='4795310'>go.</span> </p>
 uid: b02cecae35f81a8a6dc1ff70f463f136
-type: courses
+type: course
 layout: video
 ---

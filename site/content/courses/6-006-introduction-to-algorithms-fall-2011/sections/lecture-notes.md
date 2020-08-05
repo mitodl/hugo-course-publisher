@@ -1,11 +1,11 @@
 ---
 title: Lecture Notes
 course_id: 6-006-introduction-to-algorithms-fall-2011
+type: course
+layout: course_section
 menu:
   6-006-introduction-to-algorithms-fall-2011:
     identifier: e3deaf6cc9a54aec1ac1aaed88b15d2f
-    type: section
-    layout: section
     name: Lecture Notes
     weight: 70
 ---

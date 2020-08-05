@@ -3,7 +3,7 @@ title: 'Week VIII: Wagner and Verdi (Verdi) - 21M.250 Beethoven to Mahler Spring
 description: >-
   This is a resource file that contains information regarding week VIII: wagner
   and verdi (verdi).
-type: courses
+type: course
 layout: pdf
 uid: 43687ccda0d819f436e095ddcd926429
 file_type: application/pdf

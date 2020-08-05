@@ -3,7 +3,7 @@ title: 'Stable Matching: Optimal Stable Matching'
 description: >-
   This resource contains information regarding mathematics for computer science,
   stable matching: Optimal stable matching.
-type: courses
+type: course
 layout: pdf
 uid: 1daf452745115e2515b085156a7ecc37
 file_type: application/pdf

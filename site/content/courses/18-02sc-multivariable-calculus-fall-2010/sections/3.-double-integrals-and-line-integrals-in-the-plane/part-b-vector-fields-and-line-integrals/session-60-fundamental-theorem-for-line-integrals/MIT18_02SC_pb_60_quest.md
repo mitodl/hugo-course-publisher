@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Line Integrals of Vector Fields'
 description: This resource contains information regarding line integrals of vector fields.
-type: courses
+type: course
 layout: pdf
 uid: e40833e2684e9fa3510a1514e10ff918
 file_type: application/pdf

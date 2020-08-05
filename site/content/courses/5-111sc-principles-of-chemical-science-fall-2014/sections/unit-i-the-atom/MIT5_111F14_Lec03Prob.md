@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 3: Wave-Particle Duality
   of Light
 description: This resource contains information regarding lecture note 3 problems.
-type: courses
+type: course
 layout: pdf
 uid: 00db7442f05087c75f86190c60ee0dc4
 file_type: application/pdf

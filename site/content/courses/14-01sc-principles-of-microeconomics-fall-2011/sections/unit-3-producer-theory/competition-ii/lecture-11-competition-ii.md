@@ -3600,6 +3600,6 @@ transcript: >-
   m='3005320'>any</span> <span m='3005470'>of</span> <span
   m='3005640'>that.</span> </p>
 uid: 03947463c7b1c8d8757e75cf0f77f1e4
-type: courses
+type: course
 layout: video
 ---

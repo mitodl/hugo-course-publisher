@@ -996,6 +996,6 @@ transcript: >-
   </p><p><span m='2947270'>And that is the end of the story.</span> </p><p><span
   m='2950420'>And we hope you live happily ever after.</span> </p><p></p>
 uid: 6935aafeaacb73b5a7440332422a5b20
-type: courses
+type: course
 layout: video
 ---

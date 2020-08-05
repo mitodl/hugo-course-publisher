@@ -564,6 +564,6 @@ transcript: >-
   m='480560'>select</span> <span m='480973'>a</span> <span
   m='481386'>threshold.</span> </p>
 uid: e7a21c91c5c517f3d5b45a2f2af4833c
-type: courses
+type: course
 layout: video
 ---

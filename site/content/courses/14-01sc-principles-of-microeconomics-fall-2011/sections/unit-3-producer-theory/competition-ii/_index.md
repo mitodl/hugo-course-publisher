@@ -1,16 +1,14 @@
 ---
 title: Competition II
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 032b458b15b16f20745336ff876c9f66
-    type: section
-    layout: section
     name: Competition II
     weight: 210
     parent: 3abe52b206f4e0405bcb7ce684de6ae6
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/problem-set-4/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics/_index.md" %}}) »
 

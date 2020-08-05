@@ -5,7 +5,7 @@ title: >-
 description: >-
   This is a resource file that contains information regarding expectation,
   variance, law of large numbers and central limit theorem.
-type: courses
+type: course
 layout: pdf
 uid: 02acf9c6c77fd88840dffc2265ee14ce
 file_type: application/pdf

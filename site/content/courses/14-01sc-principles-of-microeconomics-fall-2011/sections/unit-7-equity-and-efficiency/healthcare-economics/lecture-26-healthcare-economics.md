@@ -3154,6 +3154,6 @@ transcript: >-
   m='2358880'>in</span> <span m='2358940'>the</span> <span
   m='2359000'>course.</span> </p>
 uid: fff60dc3d44ece2eb9a322b97b533476
-type: courses
+type: course
 layout: video
 ---

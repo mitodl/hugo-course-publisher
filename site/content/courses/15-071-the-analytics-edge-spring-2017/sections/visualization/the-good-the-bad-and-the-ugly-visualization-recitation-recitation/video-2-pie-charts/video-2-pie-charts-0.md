@@ -346,6 +346,6 @@ transcript: >-
   m='227930'>possibilities</span> <span m='228365'>for</span> <span
   m='228800'>this</span> <span m='229235'>data.</span> </p>
 uid: 62c914362a96ae6b29510df50e46a23b
-type: courses
+type: course
 layout: video
 ---

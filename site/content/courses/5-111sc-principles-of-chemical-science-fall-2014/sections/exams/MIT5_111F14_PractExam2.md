@@ -3,7 +3,7 @@ title: 5.111 F14 Practice Exam 2
 description: >-
   This resource contains information regarding principles of chemical science:
   Practice exam 2.
-type: courses
+type: course
 layout: pdf
 uid: 3775a92f716707d301f055ace4a2ada7
 file_type: application/pdf

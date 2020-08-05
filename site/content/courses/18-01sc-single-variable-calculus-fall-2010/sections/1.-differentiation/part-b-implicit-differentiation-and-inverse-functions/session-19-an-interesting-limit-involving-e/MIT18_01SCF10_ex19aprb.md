@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex19aprb.pdf
 description: >-
   This resource contains problem statements related to the evaluating an
   interesting limit.
-type: courses
+type: course
 layout: pdf
 uid: cd0bdfcdfd8bd1ab482edfc795431c30
 file_type: application/pdf

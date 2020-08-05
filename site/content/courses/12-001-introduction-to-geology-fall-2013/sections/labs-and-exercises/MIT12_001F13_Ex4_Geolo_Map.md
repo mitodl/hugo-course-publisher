@@ -1,7 +1,7 @@
 ---
 title: '12.001 Introduction to Geology, Exercise 4: Reading Geological Maps'
 description: 'This file contains information regarding exercise 4: reading geological maps.'
-type: courses
+type: course
 layout: pdf
 uid: 8db87a6963f491cfe68d61a2a1bcce51
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_lec24.pdf
 description: This resource contains information related to butterworth filters.
-type: courses
+type: course
 layout: pdf
 uid: 6ffe3f6c387555a8db26f1f3bbaddfb5
 file_type: application/pdf

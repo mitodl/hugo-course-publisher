@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 32: Polar Co-ordinates, Area in Polar Co-ordinates'
 description: Lecture notes on polar coordinates and area in polar coordinates.
-type: courses
+type: course
 layout: pdf
 uid: 812b038d42079f12b9c82df443eab41c
 file_type: application/pdf

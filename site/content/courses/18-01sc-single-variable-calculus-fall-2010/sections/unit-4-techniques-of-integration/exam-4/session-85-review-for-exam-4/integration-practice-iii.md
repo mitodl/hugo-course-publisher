@@ -913,6 +913,6 @@ transcript: >-
   m='742800'>it</span> <span m='742880'>all</span> <span m='743040'>out.</span>
   <span m='743580'>So I'll</span> <span m='743870'>end there.</span> </p>
 uid: b5dadc3422a49eb974c0cb95c8d740e3
-type: courses
+type: course
 layout: video
 ---

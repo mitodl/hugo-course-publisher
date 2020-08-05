@@ -3345,6 +3345,6 @@ transcript: >-
   m='2338170'>just</span> <span m='2338380'>can't</span> <span
   m='2338970'>shoot</span> <span m='2339240'>yourself.</span> </p><p></p>
 uid: 2f8409ceb7ab8635da89199f48928e8f
-type: courses
+type: course
 layout: video
 ---

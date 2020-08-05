@@ -1,7 +1,7 @@
 ---
 title: 'Class 7 Slides: Joint distributions: independence, covariance and correlation'
 description: This is a resource file that contains information regarding class 7.
-type: courses
+type: course
 layout: pdf
 uid: 50f0eebbef02f8bb35a07125a199e4ff
 file_type: application/pdf

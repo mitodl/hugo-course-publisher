@@ -1,7 +1,7 @@
 ---
 title: s02_ps07_sol.pdf
 description: Solutions to problem set.
-type: courses
+type: course
 layout: pdf
 uid: 88a3d81e26aaf30e2f57838c00b92a8c
 file_type: application/pdf

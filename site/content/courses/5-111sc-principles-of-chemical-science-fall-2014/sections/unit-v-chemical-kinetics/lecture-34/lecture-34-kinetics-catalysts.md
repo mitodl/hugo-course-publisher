@@ -2704,6 +2704,6 @@ transcript: >-
   m="2462110">molecules.</span></p><p><span m="2462410">[END
   PLAYBACK]</span></p>
 uid: 22ebc33eae587e10abee2c7dafbdb90d
-type: courses
+type: course
 layout: video
 ---

@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 6: Hydrogen Atom Wavefunctions (Orbitals)'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: videogallery
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: c88a7a36f1d50d921f8c175f64643ef4
-    type: section
-    layout: section
     name: Lecture 6
     weight: 90
     parent: 36cc671ac04c270e9cac7a210efd6846
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-7/_index.md" %}}) »
 

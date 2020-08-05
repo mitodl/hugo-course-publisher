@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 4: Derivative of sin(x), Geometric Proof'
 transcript: ''
 uid: b774c51d6c6541f2507173f2a2ca4f9e
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: spring04_pset9.pdf
 description: 'Problem set on Minimum Spanning Tree,Ada95 Package,Propulsion.'
-type: courses
+type: course
 layout: pdf
 uid: ec22f38207ee96af4b66c500a4019ccc
 file_type: application/pdf

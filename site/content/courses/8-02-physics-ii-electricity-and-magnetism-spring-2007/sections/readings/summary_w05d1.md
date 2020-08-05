@@ -3,7 +3,7 @@ title: summary_w05d1.pdf
 description: >-
   This file discusses circuits, and experiment to see what happens when
   capacitors are included.
-type: courses
+type: course
 layout: pdf
 uid: 3a01a2caae05db64d9607c7bab977db8
 file_type: application/pdf

@@ -150,6 +150,6 @@ transcript: >-
   eventually went</span> <span m='398110'>onto this rough surface and came to
   rest here at x equals d.</span> </p>
 uid: b3636e25f8a6131233168d0a184f1c31
-type: courses
+type: course
 layout: video
 ---

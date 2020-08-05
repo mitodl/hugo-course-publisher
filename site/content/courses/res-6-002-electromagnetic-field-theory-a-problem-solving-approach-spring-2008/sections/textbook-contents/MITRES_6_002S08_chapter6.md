@@ -3,7 +3,7 @@ title: >-
   Electromagnetic Field Theory - A Problem-Solving Approach – Chapter 6:
   Electromagnetic Induction
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 097c0d0ffd19513067e485f2b4d50ef7
 file_type: application/pdf

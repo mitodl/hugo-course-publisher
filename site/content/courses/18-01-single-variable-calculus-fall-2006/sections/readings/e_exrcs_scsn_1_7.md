@@ -1,7 +1,7 @@
 ---
 title: Exercises Sections 1-7
 description: Handout containing exercises for sections 1 to 7 of the course.
-type: courses
+type: course
 layout: pdf
 uid: aa64ddabdcb03206c7a8ee3d1a1cdcd8
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: MIT14_01SCF11_final_soln_f07.pdf
 description: >-
   This resource contains solutions to the problem statements related to nash
   equilibrium, marginal cost, efficient quantity, and price regulation. 
-type: courses
+type: course
 layout: pdf
 uid: 627039d2f5adf84f0693ecad4fbf6541
 file_type: application/pdf

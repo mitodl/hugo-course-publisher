@@ -175,6 +175,6 @@ transcript: >-
   <span m='402230'>that we found here and apply them</span> <span m='404720'>to
   a more general situation.</span> </p><p></p>
 uid: 7b4eb81c456d700e40a8d187869b2b79
-type: courses
+type: course
 layout: video
 ---

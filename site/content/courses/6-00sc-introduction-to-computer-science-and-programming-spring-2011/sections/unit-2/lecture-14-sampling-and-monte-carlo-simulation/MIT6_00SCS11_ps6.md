@@ -1,7 +1,7 @@
 ---
 title: MIT6_00SCS11_ps6.pdf
 description: This resource contains problem set related to simulating robots.
-type: courses
+type: course
 layout: pdf
 uid: 8d80b4562cc6d20fd30bbed04c7a9961
 file_type: application/pdf

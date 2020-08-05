@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 32: Kinetics: Reaction Mechanisms'
 description: This file contains information regarding  lecture 32.
-type: courses
+type: course
 layout: pdf
 uid: cc02310e5ecddd0c1341e7ea59da3f08
 file_type: application/pdf

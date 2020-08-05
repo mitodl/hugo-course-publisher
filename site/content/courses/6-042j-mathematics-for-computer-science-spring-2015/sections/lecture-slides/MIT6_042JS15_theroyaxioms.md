@@ -1,7 +1,7 @@
 ---
 title: 'Infinite Sets: Set Theory Axioms'
 description: This resource contains information regarding Set Theory Axioms (PDF).
-type: courses
+type: course
 layout: pdf
 uid: 767636d33beebea5ce8ec4e96af388af
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_graph24.pdf
 description: This resource contains graphs related to government redistribution policy.
-type: courses
+type: course
 layout: pdf
 uid: 209d89bd7793854a409f9477cafc38c7
 file_type: application/pdf

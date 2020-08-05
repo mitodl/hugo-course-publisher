@@ -3540,6 +3540,6 @@ transcript: >-
   m='2848230'>about</span> <span m='2848820'>equity and</span> <span
   m='2849250'>efficiency.</span> </p>
 uid: 5b176d05421da0cb8a2482871c7e3a20
-type: courses
+type: course
 layout: video
 ---

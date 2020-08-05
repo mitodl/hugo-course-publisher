@@ -2666,6 +2666,6 @@ transcript: >-
   m='2966730'>So,</span> <span m='2967940'>see you</span> <span
   m='2968110'>next</span> <span m='2968360'>time.</span> </p>
 uid: 6881ac69905501dab0149c876ca7d14a
-type: courses
+type: course
 layout: video
 ---

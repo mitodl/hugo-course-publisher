@@ -1,7 +1,7 @@
 ---
 title: 12recursive_func.pdf
 description: Lecture 12 (2003) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 2a7d03ab04ae0118dcf2d212db1c6fac
 file_type: application/pdf

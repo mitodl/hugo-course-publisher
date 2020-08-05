@@ -1,11 +1,11 @@
 ---
 title: Fractals and Chaos
 course_id: 18-s997-introduction-to-matlab-programming-fall-2011
+type: course
+layout: course_section
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 1d7068b5ce8d3b56622ae79682a1dd43
-    type: section
-    layout: section
     name: Fractals and Chaos
     weight: 200
 ---

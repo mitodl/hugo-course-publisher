@@ -3,7 +3,7 @@ title: hw7.pdf
 description: >-
   This resource discusses about the behavior and application of anew field
   effect transistor (New FET)with large-signal electrical characteristics
-type: courses
+type: course
 layout: pdf
 uid: 83a70cc0d4a8f73b2dfc8ed329949367
 file_type: application/pdf

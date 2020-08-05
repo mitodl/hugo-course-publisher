@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 13: Molecular Orbital Theory'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: videogallery
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 0e6db31791e13ca80e855c92186dafb0
-    type: section
-    layout: section
     name: Lecture 13
     weight: 170
     parent: 89ed642b22037e567593c80ff35cb3f4
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-12/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-14/_index.md" %}}) »
 

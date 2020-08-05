@@ -1,7 +1,7 @@
 ---
 title: MIT6_00SCS11_ps5.pdf
 description: This resource contains problem set related to rss feed filter.
-type: courses
+type: course
 layout: pdf
 uid: 8750511b866736cb916fad0b5e7d96b0
 file_type: application/pdf

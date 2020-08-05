@@ -1,7 +1,7 @@
 ---
 title: f17_sp.pdf
 description: This resource contains infomration on the topics of Oblique Shocks.
-type: courses
+type: course
 layout: pdf
 uid: b397de444b6e0a44cb8ff04873690058
 file_type: application/pdf

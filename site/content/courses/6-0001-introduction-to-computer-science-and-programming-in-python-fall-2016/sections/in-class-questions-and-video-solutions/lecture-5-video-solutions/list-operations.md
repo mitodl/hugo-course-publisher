@@ -225,6 +225,6 @@ transcript: >-
   m='184060'>going</span> <span m='184390'>on.</span> <span
   m='184960'>OK.</span> </p>
 uid: ec9758c22da965c3657e4c75de77a9d6
-type: courses
+type: course
 layout: video
 ---

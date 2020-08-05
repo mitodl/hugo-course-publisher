@@ -1,7 +1,7 @@
 ---
 title: Electromagnetic Field Theory - A Problem-Solving Approach – Preface
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 67ebdb55635026e3fc3b3c32f91963d0
 file_type: application/pdf

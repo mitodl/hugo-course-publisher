@@ -3,7 +3,7 @@ title: f10_fall.pdf
 description: >-
   This resource contains infromation on the topics of Substantial Derivative and
   Recast Governing Equations.
-type: courses
+type: course
 layout: pdf
 uid: 4151de0738c5f37b728c261a04fe743c
 file_type: application/pdf

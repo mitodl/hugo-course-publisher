@@ -141,6 +141,6 @@ transcript: >-
   was established was to check that</span> <span m="278909">the joint PMF
   factors as a product of marginal PMFs.</span></p><p>&nbsp;</p>
 uid: 612a033cc58be5666ce81b8247b4a45a
-type: courses
+type: course
 layout: video
 ---

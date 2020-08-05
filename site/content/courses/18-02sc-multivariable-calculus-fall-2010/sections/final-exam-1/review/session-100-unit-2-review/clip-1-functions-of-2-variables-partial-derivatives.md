@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip 1: Functions of 2 Variables, Partial Derivatives'
 transcript: ''
 uid: 5d64aa121c8fc98f98e706e5fda7083b
-type: courses
+type: course
 layout: video
 ---

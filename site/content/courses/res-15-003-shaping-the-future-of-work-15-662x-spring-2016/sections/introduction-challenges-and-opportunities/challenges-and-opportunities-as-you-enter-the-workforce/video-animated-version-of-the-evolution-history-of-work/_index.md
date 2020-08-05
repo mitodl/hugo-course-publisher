@@ -1,7 +1,7 @@
 ---
 title: 1.2 Challenges and Opportunities as You Enter the Workforce
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Challenges and Opportunities as You Enter the Workforce]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce/_index.md" %}})

@@ -4433,6 +4433,6 @@ transcript: >-
   m='5025090'>finish</span> <span m='5025390'>there</span> <span
   m='5025690'>for</span> <span m='5025990'>today.</span> </p>
 uid: 260bc68676b7744b3b951af8554f3aaf
-type: courses
+type: course
 layout: video
 ---

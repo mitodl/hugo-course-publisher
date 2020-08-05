@@ -3,7 +3,7 @@ title: opt_prob_10.pdf
 description: >-
   This resource provides information about the optional problem set, which
   consists of 7 questions for optional problem set.
-type: courses
+type: course
 layout: pdf
 uid: 83cd18d5b63d7f4decd7175f7ec3f45b
 file_type: application/pdf

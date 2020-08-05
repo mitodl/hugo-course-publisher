@@ -3,7 +3,7 @@ title: MITRES_6_007S11_hw18.pdf
 description: >-
   This resource contains problem set related to discrete-time processing of
   continuous-time signals.
-type: courses
+type: course
 layout: pdf
 uid: 0c50a4a9c848240457508853e740a8d1
 file_type: application/pdf

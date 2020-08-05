@@ -1,11 +1,11 @@
 ---
 title: Exam 2
 course_id: 18-01sc-single-variable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 2e8fc5a27f94964a4603c27ff84434fc
-    type: section
-    layout: section
     name: Exam 2
     weight: 550
     parent: c2ca8a0d20e596b11e2ec5c48c7179ca

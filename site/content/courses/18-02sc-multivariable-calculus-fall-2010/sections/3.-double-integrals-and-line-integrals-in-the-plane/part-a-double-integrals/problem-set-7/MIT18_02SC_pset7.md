@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pset7.pdf
 description: "This resource contains information related to shell method.\r\n"
-type: courses
+type: course
 layout: pdf
 uid: ccf6356378d47a90511b5105cbd7b824
 file_type: application/pdf

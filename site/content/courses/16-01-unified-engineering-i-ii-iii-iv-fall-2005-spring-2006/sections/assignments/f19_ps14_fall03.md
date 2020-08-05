@@ -1,7 +1,7 @@
 ---
 title: f19_ps14_fall03.pdf
 description: This resource contains problems on Cp variation.
-type: courses
+type: course
 layout: pdf
 uid: 24cf17cfec3a52a3a34cd03d9b2cac03
 file_type: application/pdf

@@ -841,6 +841,6 @@ transcript: >-
   m='679980'>possible.</span> <span m='680610'>Thank</span> <span
   m='680850'>you.</span> <span m='681080'>Goodbye.</span> </p>
 uid: 42e6273d1b7b4f2f3ed3b719de9968ad
-type: courses
+type: course
 layout: video
 ---

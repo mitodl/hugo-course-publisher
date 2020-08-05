@@ -238,6 +238,6 @@ transcript: >-
   <span m='199280'>is</span> <span m='199460'>also</span> <span
   m='199840'>cool.</span> </p>
 uid: ffc0807a8eec9490c678624ce2eb0f00
-type: courses
+type: course
 layout: video
 ---

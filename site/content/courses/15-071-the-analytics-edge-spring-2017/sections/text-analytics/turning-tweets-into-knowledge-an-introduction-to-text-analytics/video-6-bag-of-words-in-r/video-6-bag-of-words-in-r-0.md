@@ -412,6 +412,6 @@ transcript: >-
   m='403670'>to</span> <span m='404232'>predict</span> <span
   m='404795'>negative</span> <span m='405357'>sentiment.</span> </p>
 uid: a9f646f5ca977eeaa267504c5cbef773
-type: courses
+type: course
 layout: video
 ---

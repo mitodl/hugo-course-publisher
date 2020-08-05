@@ -788,6 +788,6 @@ transcript: >-
   m='1090530'>here</span> <span m='1090820'>increases</span> <span
   m='1091500'>or</span> <span m='1091620'>decreases.</span> </p>
 uid: 6e5fec4234ae7ce587c4e0abb222e582
-type: courses
+type: course
 layout: video
 ---

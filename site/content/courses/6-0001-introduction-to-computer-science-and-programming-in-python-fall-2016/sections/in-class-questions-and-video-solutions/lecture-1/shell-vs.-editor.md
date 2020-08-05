@@ -156,6 +156,6 @@ transcript: >-
   <span m='77210'>use</span> <span m='77360'>a</span> <span
   m='77420'>print</span> <span m='77590'>statement.</span> </p>
 uid: 9fa9dd0c078c0527cd9d278c902a9570
-type: courses
+type: course
 layout: video
 ---

@@ -1,11 +1,11 @@
 ---
 title: Reading Questions 10a
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
+type: course
+layout: course_section
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: f6927f4197af827bc1c58d530646c69e
-    type: section
-    layout: section
     name: Reading Questions 10a
     weight: 360
     parent: 579c055accb4eb7ebb6bf294146b45a5

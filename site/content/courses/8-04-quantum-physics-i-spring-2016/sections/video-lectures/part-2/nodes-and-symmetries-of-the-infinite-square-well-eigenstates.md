@@ -538,6 +538,6 @@ transcript: >-
   m='581080'>even</span> <span m='581620'>or</span> <span m='582010'>odd.</span>
   </p>
 uid: 69495ebfecdd317a5e39cec0c6dcab93
-type: courses
+type: course
 layout: video
 ---

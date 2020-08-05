@@ -1,16 +1,14 @@
 ---
 title: 4.3 Independence & Causality
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: videogallery
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 90eace8a4b31041773628667f8f3497b
-    type: section
-    layout: section
     name: 4.3 Independence & Causality
     weight: 2410
     parent: 90a207e82f8b3b1369067b58f9c6f169
-type: courses
-layout: videogallery
 ---
 *   [<Watch Out For Crocodiles]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/vertical-b7574f507526" %}})
 *   [4.3.1Independence: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-2/_index.md" %}})

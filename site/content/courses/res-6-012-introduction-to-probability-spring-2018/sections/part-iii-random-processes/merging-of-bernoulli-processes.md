@@ -186,6 +186,6 @@ transcript: >-
   calculated,</span> <span m='424610'>which is p plus q minus p times q.</span>
   </p><p></p>
 uid: 58f8db400deb0f8ac2fab55721df4975
-type: courses
+type: course
 layout: video
 ---

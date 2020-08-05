@@ -914,6 +914,6 @@ transcript: >-
   <span m='739790'>will</span> <span m='739910'>stop</span> <span
   m='740140'>there.</span> </p>
 uid: 128211cde4959162d2a935a3325ead1e
-type: courses
+type: course
 layout: video
 ---

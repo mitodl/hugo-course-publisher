@@ -5184,6 +5184,6 @@ transcript: >-
   m='4025250'>see</span> <span m='4025430'>you</span> <span
   m='4025730'>next</span> <span m='4026030'>Monday.</span> </p>
 uid: bd7d9fcd579b9f67bfb059291ca63335
-type: courses
+type: course
 layout: video
 ---

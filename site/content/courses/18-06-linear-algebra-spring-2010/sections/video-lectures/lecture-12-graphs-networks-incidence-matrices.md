@@ -2718,6 +2718,6 @@ transcript: >-
   m="2861050">tell</span> <span m="2861190">me.</span></p><p><span
   m="2861230">Thanks.</span></p>
 uid: 12a27cb2360fd3c7f6891dd079e441f5
-type: courses
+type: course
 layout: video
 ---

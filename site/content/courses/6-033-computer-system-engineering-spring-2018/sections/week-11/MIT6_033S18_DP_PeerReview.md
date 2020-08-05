@@ -1,7 +1,7 @@
 ---
 title: 6.033S18 DP Peer Review
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 9bd90745a042ceba8945da6d7daceb49
 file_type: application/pdf

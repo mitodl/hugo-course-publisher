@@ -2913,6 +2913,6 @@ transcript: >-
   m='2799520'>luck.</span> </p><p><span m='2800140'>PROFESSOR ERIK DEMAINE:
   Thanks.</span> </p><p></p><p><span m='2800740'>[APPLAUSE]</span> </p><p></p>
 uid: e63575e2e327448baffe49ffa8ae237a
-type: courses
+type: course
 layout: video
 ---

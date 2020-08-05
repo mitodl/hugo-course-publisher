@@ -1,16 +1,14 @@
 ---
 title: Hashing and Classes
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 174105568f302907b32746f2da54236f
-    type: section
-    layout: section
     name: Hashing and Classes
     weight: 160
     parent: ddc5db7a5c64e3bda565b36f4ed76287
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-11-oop-and-inheritance/_index.md" %}}) »
 

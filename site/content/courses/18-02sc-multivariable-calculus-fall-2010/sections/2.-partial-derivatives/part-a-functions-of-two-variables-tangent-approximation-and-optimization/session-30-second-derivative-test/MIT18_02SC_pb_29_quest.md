@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_29_quest.pdf
 description: This resource contains problem statements related to second derivatives.
-type: courses
+type: course
 layout: pdf
 uid: 11309a01a4084b35a3f2e5f375f76887
 file_type: application/pdf

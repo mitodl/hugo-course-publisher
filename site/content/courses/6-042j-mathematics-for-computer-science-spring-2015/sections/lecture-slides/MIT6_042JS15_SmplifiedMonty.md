@@ -1,7 +1,7 @@
 ---
 title: 'Intro to Discrete Probability: Simplified Monty Hall Tree'
 description: This file contains information regarding simplified monty hall tree.
-type: courses
+type: course
 layout: pdf
 uid: 1078611b182a6bd910813508b4d9b8b0
 file_type: application/pdf

@@ -415,6 +415,6 @@ transcript: >-
   m="299640">anything,</span> <span m="300530">as</span> <span
   m="300810">always.</span></p>
 uid: b1607e6f0fdefab587cb3d3d9444e21d
-type: courses
+type: course
 layout: video
 ---

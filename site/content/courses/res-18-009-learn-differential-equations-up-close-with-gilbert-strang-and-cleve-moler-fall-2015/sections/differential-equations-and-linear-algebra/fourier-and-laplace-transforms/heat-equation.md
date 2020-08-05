@@ -619,6 +619,6 @@ transcript: >-
   m='640790'>Fourier</span> <span m='641260'>series.</span> <span
   m='642250'>Thank</span> <span m='642360'>you.</span> </p>
 uid: 5ea0e5ced6d1c351947f89e929d07ae8
-type: courses
+type: course
 layout: video
 ---

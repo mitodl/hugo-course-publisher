@@ -3,7 +3,7 @@ title: 'Reading 13a: Bayesian Updating with Continuous Priors'
 description: >-
   This resource file contains information regarding reading 13a: bayesian
   updating with continuous priors.
-type: courses
+type: course
 layout: pdf
 uid: 8105cfc11eaa2e4b6cbd4c29b4b281c0
 file_type: application/pdf

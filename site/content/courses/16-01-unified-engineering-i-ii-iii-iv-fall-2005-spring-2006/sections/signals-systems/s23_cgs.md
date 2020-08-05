@@ -3,7 +3,7 @@ title: s23_cgs.pdf
 description: >-
   Concept questions on Amplitude Modulation with Carrier with their answers
   given.
-type: courses
+type: course
 layout: pdf
 uid: 8d8ecf98aca887a804813336247c9e5f
 file_type: application/pdf

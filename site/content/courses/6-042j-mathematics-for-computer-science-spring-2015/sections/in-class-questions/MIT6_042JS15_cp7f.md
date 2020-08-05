@@ -3,7 +3,7 @@ title: Session 7f Questions
 description: >-
   This resource contains information regarding mathematics for computer science:
   In-class questions.
-type: courses
+type: course
 layout: pdf
 uid: 22ec5ec905132c7f86e4116a71b39dca
 file_type: application/pdf

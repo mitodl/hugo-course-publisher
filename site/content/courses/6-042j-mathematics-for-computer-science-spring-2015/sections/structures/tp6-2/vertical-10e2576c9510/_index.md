@@ -1,7 +1,7 @@
 ---
 title: 2.4  RSA Encryption
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<RSA Encryption]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/vertical-3299faa6fc3d" %}})

@@ -1,7 +1,7 @@
 ---
 title: Bracelet
 description: This file contains information regarding bracelet  instructions.
-type: courses
+type: course
 layout: pdf
 uid: bcbc3d1f22326fb3d47c270b857aeb95
 file_type: application/pdf

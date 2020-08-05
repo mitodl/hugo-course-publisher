@@ -1,6 +1,8 @@
 ---
 title: 1.3 For More Information...
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
+type: course
+layout: course_section
 ---
 *   [<For More Information...]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/introduction-challenges-and-opportunities/for-more-information/_index.md" %}})
 *   [1.3.1Additional Resources]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/introduction-challenges-and-opportunities/for-more-information/_index.md" %}})

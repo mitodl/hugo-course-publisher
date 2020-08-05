@@ -1,11 +1,11 @@
 ---
 title: Problem Set 3
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
+type: course
+layout: course_section
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: 87029e077bc69f04bc74818686ebfa04
-    type: section
-    layout: section
     name: Problem Set 3
     weight: 570
     parent: fed85a98064c2e2a4378f3f7549df9b8

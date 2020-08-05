@@ -3,7 +3,7 @@ title: 'Deviation: Markov & Chebyshev Bounds: Chapter 19.1 – 19.3'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Deviation: Markov & Chebyshev bounds: Chapter 19.1 – 19.3.
-type: courses
+type: course
 layout: pdf
 uid: a853442601632081bf4008501d6d1b72
 file_type: application/pdf

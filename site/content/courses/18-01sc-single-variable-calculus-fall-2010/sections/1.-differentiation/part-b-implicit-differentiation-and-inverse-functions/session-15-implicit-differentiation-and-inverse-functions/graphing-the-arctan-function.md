@@ -338,6 +338,6 @@ transcript: >-
   <span m='260490'>ahead of time.</span> <span m='261600'>So</span> <span
   m='261870'>that's</span> <span m='262110'>that.</span> </p>
 uid: ce1f1db66b0fb24f2600ce37da32d721
-type: courses
+type: course
 layout: video
 ---

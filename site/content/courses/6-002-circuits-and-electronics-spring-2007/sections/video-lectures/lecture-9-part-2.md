@@ -706,6 +706,6 @@ transcript: >-
   m='3012000'>small signal part in the next lecture.</span> <span m='7000000'>So
   your 2N7000,</span> </p>
 uid: 985cfc58bf6a539b06c25e935cfdfcc1
-type: courses
+type: course
 layout: video
 ---

@@ -5,7 +5,7 @@ description: >-
   examples of using this to levitate objects. It also includes a lab to measure
   magnetic forces and obtain a measurement of ?0 and discusses Ampere?s Law, the
   magnetic equivalent of Gauss?s Law.
-type: courses
+type: course
 layout: pdf
 uid: e74616cc7b85ad2acc5813f19b9b2fea
 file_type: application/pdf

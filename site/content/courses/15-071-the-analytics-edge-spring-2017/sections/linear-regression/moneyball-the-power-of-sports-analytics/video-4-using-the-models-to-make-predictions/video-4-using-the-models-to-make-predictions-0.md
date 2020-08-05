@@ -303,6 +303,6 @@ transcript: >-
   m='255952'>playoffs</span> <span m='256355'>once</span> <span
   m='256757'>again.</span> </p>
 uid: bc7fa05d0334caed00adfb3a9dc65c8d
-type: courses
+type: course
 layout: video
 ---

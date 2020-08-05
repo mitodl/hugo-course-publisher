@@ -242,6 +242,6 @@ transcript: >-
   m='236093'>using</span> <span m='237092'>claims</span> <span
   m='238091'>data.</span> </p>
 uid: 5b784be48b5cb409c073b6753d26441f
-type: courses
+type: course
 layout: video
 ---

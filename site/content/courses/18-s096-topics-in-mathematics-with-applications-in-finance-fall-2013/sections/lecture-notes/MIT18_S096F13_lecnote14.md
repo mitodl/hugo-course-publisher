@@ -1,7 +1,7 @@
 ---
 title: Portfolio Theory
 description: This file contains information regarding lecture 14 notes.
-type: courses
+type: course
 layout: pdf
 uid: bba02164ba6642f7d516df35347aec01
 file_type: application/pdf

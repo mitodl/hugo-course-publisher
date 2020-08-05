@@ -1,7 +1,7 @@
 ---
 title: 6.00SC Practice Quiz 1
 description: This resource contains information about quiz 1 practice.
-type: courses
+type: course
 layout: pdf
 uid: 17d96c77a75947a1184b6cd2cc26a788
 file_type: application/pdf

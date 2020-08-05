@@ -1138,6 +1138,6 @@ transcript: >-
   m='1473340'>eigenvalues</span> <span m='1474240'>of</span> <span
   m='1474390'>the</span> <span m='1474690'>operator.</span> </p>
 uid: 6a99382a34de817d5f0cfd223176de49
-type: courses
+type: course
 layout: video
 ---

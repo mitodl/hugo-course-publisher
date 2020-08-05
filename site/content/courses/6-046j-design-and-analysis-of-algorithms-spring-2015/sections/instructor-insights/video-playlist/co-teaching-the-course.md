@@ -235,6 +235,6 @@ transcript: >-
   m='135770'>got</span> <span m='135960'>pretty</span> <span
   m='136200'>good.</span> </p>
 uid: 3650f5a8b4aea4c4447aef41fea86a9d
-type: courses
+type: course
 layout: video
 ---

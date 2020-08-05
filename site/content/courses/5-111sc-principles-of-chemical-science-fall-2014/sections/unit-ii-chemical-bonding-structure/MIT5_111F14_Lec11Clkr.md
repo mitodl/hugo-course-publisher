@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Lewis Structures: Breakdown of
   the Octet Rule.
-type: courses
+type: course
 layout: pdf
 uid: 89cff30eee9508ff3f20c6bea25f5a2c
 file_type: application/pdf

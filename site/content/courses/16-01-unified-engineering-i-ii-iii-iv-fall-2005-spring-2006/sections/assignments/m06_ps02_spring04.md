@@ -1,7 +1,7 @@
 ---
 title: m06_ps02_spring04.pdf
 description: This resource contains a problem related to designing a beam-like structure.
-type: courses
+type: course
 layout: pdf
 uid: fc37665509d9feef6da2fec53be270b1
 file_type: application/pdf

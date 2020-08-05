@@ -1,7 +1,7 @@
 ---
 title: 8.01 Classical Mechanics Pset 10
 description: This file contains information regarding classical mechanics problem set 10.
-type: courses
+type: course
 layout: pdf
 uid: 878cc2b018e6280e47318e3659631d4b
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Slides for Class 1: Introduction, Counting and Sets'
 description: This is a resource file that contains information regarding class 1.
-type: courses
+type: course
 layout: pdf
 uid: fbf782543a4ef4321fa1e77d276e6d80
 file_type: application/pdf

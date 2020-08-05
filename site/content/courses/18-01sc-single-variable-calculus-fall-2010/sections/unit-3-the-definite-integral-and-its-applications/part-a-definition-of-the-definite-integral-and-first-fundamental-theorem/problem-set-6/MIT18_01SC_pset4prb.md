@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SC_pset4prb.pdf
 description: 'This resource contains problems of applications of integration. '
-type: courses
+type: course
 layout: pdf
 uid: 3e92239404881253b589329ff8de0800
 file_type: application/pdf

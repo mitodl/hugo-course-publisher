@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 17 handout: curve fitting'
 description: This resource contains information related to curve fitting.
-type: courses
+type: course
 layout: pdf
 uid: f5a88f8c2b26d67c7f29101fb02243b6
 file_type: application/pdf

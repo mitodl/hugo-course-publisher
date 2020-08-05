@@ -1,7 +1,7 @@
 ---
 title: demo_08.pdf
 description: This resource is a demo file.
-type: courses
+type: course
 layout: pdf
 uid: c2180a1c18e05b10f08d40b994d676fa
 file_type: application/pdf

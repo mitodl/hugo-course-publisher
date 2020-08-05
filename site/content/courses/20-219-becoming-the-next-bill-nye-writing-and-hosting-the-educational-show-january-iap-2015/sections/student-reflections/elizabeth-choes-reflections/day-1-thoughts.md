@@ -137,6 +137,6 @@ transcript: >-
   m="45150">rather</span> <span m="45430">keep</span> <span m="45650">all
   that</span> <span m="45870">around.</span></p>
 uid: e366c49dc18076a8d7783e04c5d04698
-type: courses
+type: course
 layout: video
 ---

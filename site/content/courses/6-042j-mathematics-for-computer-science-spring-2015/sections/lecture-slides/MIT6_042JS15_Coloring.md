@@ -1,7 +1,7 @@
 ---
 title: 'Coloring & Connectivity: Coloring'
 description: This file contains information regarding coloring.
-type: courses
+type: course
 layout: pdf
 uid: 5ed4c4461e6d6748190c9ba3fe63da57
 file_type: application/pdf

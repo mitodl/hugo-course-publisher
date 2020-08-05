@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 12: The Shapes of Molecules: VSEPR Theory'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: videogallery
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 657cf6250ea3965b75075d66ee3cb607
-    type: section
-    layout: section
     name: Lecture 12
     weight: 160
     parent: 89ed642b22037e567593c80ff35cb3f4
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-11/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-13/_index.md" %}}) »
 

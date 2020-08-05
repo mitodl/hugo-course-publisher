@@ -3,7 +3,7 @@ title: f08_new_fall.pdf
 description: >-
   This resource provides information on the topics of Streamlines, Pathlines and
   Streaklines.
-type: courses
+type: course
 layout: pdf
 uid: c37f038e7f899163071e1b9914a66f8d
 file_type: application/pdf

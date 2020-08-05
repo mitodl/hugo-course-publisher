@@ -575,6 +575,6 @@ transcript: >-
   large memory systems.</span> </p><p><span m='2916000'>So, that's all I had for
   today. And I will see you on Tuesday.</span> </p>
 uid: eb939a9610c4b0543638b7043b2786aa
-type: courses
+type: course
 layout: video
 ---

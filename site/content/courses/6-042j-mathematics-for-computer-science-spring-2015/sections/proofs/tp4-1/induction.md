@@ -1734,6 +1734,6 @@ transcript: >-
   m='1291890'>basic</span> <span m='1292520'>mathematical</span> <span
   m='1293240'>induction.</span> </p>
 uid: 1c3da1790e5a63faea8ab86f1b7d395f
-type: courses
+type: course
 layout: video
 ---

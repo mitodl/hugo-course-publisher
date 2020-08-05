@@ -1,7 +1,7 @@
 ---
 title: summary_w03d1.pdf
 description: This file talks about conductors and capacitors.
-type: courses
+type: course
 layout: pdf
 uid: 265f0331dcba8fec03a8fb20f984fc85
 file_type: application/pdf

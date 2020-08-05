@@ -3,7 +3,7 @@ title: m23_ps15_sol.pdf
 description: >-
   This resource provides solutions to problem set on potential energy of a pair
   of atoms, mean atomic volume and Boltzmann's constant.
-type: courses
+type: course
 layout: pdf
 uid: 1033748ed8275d24d9d7b17b379adf41
 file_type: application/pdf

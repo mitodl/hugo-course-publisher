@@ -384,6 +384,6 @@ transcript: >-
   <span m='512179'>i</span> <span m='512690'>delta</span> <span
   m='514230'>sine</span> <span m='514530'>delta.</span> </p>
 uid: de956ab91850d23aedeb80113ae85173
-type: courses
+type: course
 layout: video
 ---

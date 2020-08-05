@@ -1,7 +1,7 @@
 ---
 title: Solutions to Final Exam Practice Questions
 description: This file contains information regarding final exam practice questions.
-type: courses
+type: course
 layout: pdf
 uid: 7d115e8d9231bc06d2997ce3659290c6
 file_type: application/pdf

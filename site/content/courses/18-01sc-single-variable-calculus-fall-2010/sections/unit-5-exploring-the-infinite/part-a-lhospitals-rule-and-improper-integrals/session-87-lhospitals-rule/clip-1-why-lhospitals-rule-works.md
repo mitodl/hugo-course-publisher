@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Why L''Hospital''s Rule Works'
 transcript: ''
 uid: d29cca562a25450af75c07b5c8dcee83
-type: courses
+type: course
 layout: video
 ---

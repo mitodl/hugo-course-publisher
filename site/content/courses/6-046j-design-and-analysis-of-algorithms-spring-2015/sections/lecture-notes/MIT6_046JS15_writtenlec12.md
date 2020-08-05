@@ -1,7 +1,7 @@
 ---
 title: 'Class on Design and Analysis of Algorithms, Lecture 12 Notes, Handwritten'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 67e57b7bb3f1c85b3271937e3d355030
 file_type: application/pdf

@@ -368,6 +368,6 @@ transcript: >-
   <span m='235520'>the</span> <span m='235610'>first</span> <span
   m='235990'>n</span> <span m='236280'>integers.</span> </p>
 uid: e1ca8612a85760af6dbef07bf3977ce6
-type: courses
+type: course
 layout: video
 ---

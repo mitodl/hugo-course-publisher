@@ -1,7 +1,7 @@
 ---
 title: MIT18_06S10_pset1_s10_soln.pdf
 description: This resource contains information related to trigonometry formulas.
-type: courses
+type: course
 layout: pdf
 uid: 22297c2a6dcf06d82e93ee4af115e91a
 file_type: application/pdf

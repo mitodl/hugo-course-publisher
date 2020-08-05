@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Curl in 3D'
 description: This resource contains information regarding curl in 3D.
-type: courses
+type: course
 layout: pdf
 uid: 7912f543e2b52465f7698a21b6caee24
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: Improper Integrals
 description: Supplement to the textbook on improper integrals.
-type: courses
+type: course
 layout: pdf
 uid: f8a4294ebb7f7bb04f6d80c404696934
 file_type: application/pdf

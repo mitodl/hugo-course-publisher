@@ -538,6 +538,6 @@ transcript: >-
   m='382080'>So</span> <span m='382596'>see</span> <span m='383112'>you</span>
   <span m='383628'>in</span> <span m='384144'>PowerPoint.</span> </p>
 uid: eed36e7269d25f8457449025261fe117
-type: courses
+type: course
 layout: video
 ---

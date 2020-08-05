@@ -670,6 +670,6 @@ transcript: >-
   m='606370'>leave</span> <span m='606550'>you</span> <span
   m='606650'>with</span> <span m='606800'>that.</span> </p>
 uid: 08f54a2d610c5ef23a5f1455a5e26ff3
-type: courses
+type: course
 layout: video
 ---

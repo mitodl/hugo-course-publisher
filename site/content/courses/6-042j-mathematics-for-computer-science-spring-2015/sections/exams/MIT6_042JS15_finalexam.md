@@ -1,7 +1,7 @@
 ---
 title: MIT 6.042 Spring 2015 Final Exam
 description: This resource contains information final exams.
-type: courses
+type: course
 layout: pdf
 uid: f139eb6f880779a6c6dfd8fbe27ef576
 file_type: application/pdf

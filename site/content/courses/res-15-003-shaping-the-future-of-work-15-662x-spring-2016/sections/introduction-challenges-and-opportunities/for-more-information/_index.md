@@ -1,16 +1,14 @@
 ---
 title: 1.3 For More Information...
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
+type: course
+layout: videogallery
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 8ca2073506db3b90ecd3e19b98bf4c54
-    type: section
-    layout: section
     name: 1.3 For More Information...
     weight: 290
     parent: df93fe473c48d7d14fa8ea3d9f3faf34
-type: courses
-layout: videogallery
 ---
 *   [<Video: Managing Societal and Workplace Conflicts: Interview with Mary Rowe]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce/video-managing-societal-and-workplace-conflicts-interview-with-mary-rowe" %}})
 *   [1.3.1Additional Resources]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/introduction-challenges-and-opportunities/for-more-information/_index.md" %}})

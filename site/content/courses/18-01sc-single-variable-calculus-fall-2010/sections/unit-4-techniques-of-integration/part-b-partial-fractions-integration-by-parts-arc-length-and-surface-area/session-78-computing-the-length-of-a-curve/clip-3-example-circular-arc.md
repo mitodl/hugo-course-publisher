@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 3: Example: Circular Arc'
 transcript: ''
 uid: d13153c4343d7c71c46b5bb5b912bdad
-type: courses
+type: course
 layout: video
 ---

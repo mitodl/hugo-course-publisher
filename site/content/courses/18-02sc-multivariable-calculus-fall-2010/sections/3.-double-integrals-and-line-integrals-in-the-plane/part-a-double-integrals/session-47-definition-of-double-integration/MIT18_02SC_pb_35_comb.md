@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_35_comb.pdf
 description: >-
   This resource contains the solutions to the problem related to double
   integration.
-type: courses
+type: course
 layout: pdf
 uid: b3f2a0a1498b3b8554ea7ecbc517201f
 file_type: application/pdf

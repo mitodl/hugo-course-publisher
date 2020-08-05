@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 11: OOP and Inheritance'
 transcript: ''
 uid: 022db88f8aa5b6cb4e1ffbb0027ccdb2
-type: courses
+type: course
 layout: video
 ---

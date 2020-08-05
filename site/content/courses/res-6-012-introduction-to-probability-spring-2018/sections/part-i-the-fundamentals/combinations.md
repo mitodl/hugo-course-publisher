@@ -230,6 +230,6 @@ transcript: >-
   m="597680">this point and try to solve a problem of a similar
   nature?</span></p><p>&nbsp;</p>
 uid: d74ab93a80aec4cf8de5c8fa1bf04d7b
-type: courses
+type: course
 layout: video
 ---

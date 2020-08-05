@@ -3,7 +3,7 @@ title: 'Class 10 Slides: Introduction to statistics; maximum likelihood estimate
 description: >-
   This is a resource file that contains information regarding introduction to
   statistics; maximum likelihood estimates.
-type: courses
+type: course
 layout: pdf
 uid: 57f41e99bfd81ca01a8046efc904eaf2
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: '8.591J Systems Biology, Problem Set 8'
 description: This resource contains information related to problem set 8.
-type: courses
+type: course
 layout: pdf
 uid: 8c7dcebd0422e95a62dae56e8499d316
 file_type: application/pdf

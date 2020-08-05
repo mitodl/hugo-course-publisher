@@ -3,7 +3,7 @@ title: MITRES_18_001_strang_7475.pdf
 description: >-
   This resource contains information related to partial fractions and improper
   fractions.
-type: courses
+type: course
 layout: pdf
 uid: 3add9cbd8673badf50d2982ddab51b44
 file_type: application/pdf

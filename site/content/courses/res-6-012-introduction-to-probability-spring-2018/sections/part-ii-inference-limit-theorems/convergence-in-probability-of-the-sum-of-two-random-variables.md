@@ -192,6 +192,6 @@ transcript: >-
   </p><p><span m='606210'>And that's exactly what we established here,</span>
   <span m='609060'>and this completes the derivation.</span> </p><p></p>
 uid: 9a72e9d23dce0006a51527742f2ade7d
-type: courses
+type: course
 layout: video
 ---

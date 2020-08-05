@@ -3,7 +3,7 @@ title: 'Reading 2: Probability: Terminology and Examples'
 description: >-
   This resource file contains information regarding reading 2: probability:
   terminology and examples.
-type: courses
+type: course
 layout: pdf
 uid: 245b5fa3c947b16a7c47716f0cd96585
 file_type: application/pdf

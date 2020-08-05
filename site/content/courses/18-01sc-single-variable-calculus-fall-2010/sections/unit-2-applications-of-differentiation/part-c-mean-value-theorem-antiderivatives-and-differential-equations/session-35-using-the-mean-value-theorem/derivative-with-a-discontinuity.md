@@ -692,6 +692,6 @@ transcript: >-
   </p><p><span m='529460'>So</span> <span m='529690'>I'll</span> <span
   m='529855'>end</span> <span m='530020'>there.</span> </p>
 uid: 01d3616b10c863d65849c3f638fafb62
-type: courses
+type: course
 layout: video
 ---

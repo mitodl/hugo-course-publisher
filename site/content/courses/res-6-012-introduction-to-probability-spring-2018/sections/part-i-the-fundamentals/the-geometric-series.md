@@ -127,6 +127,6 @@ transcript: >-
   infinity.</span></p><p><span m="242200">But other than that, it's an
   interesting algebraic trick.</span></p><p>&nbsp;</p>
 uid: 3684c6c16c7389128dbf09aa92a74ca1
-type: courses
+type: course
 layout: video
 ---

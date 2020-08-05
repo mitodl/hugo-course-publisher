@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses23d.pdf
 description: This resource contains information related to linear approximation.
-type: courses
+type: course
 layout: pdf
 uid: 5b82e4d8781ce4a188cc5a88e2cf4c07
 file_type: application/pdf

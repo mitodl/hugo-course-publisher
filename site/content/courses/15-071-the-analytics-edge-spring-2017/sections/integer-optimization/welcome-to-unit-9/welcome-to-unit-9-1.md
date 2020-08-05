@@ -98,6 +98,6 @@ transcript: >-
   m='37330'>Let's</span> <span m='38003'>get</span> <span
   m='38676'>started.</span> </p>
 uid: 9a9fdad46ae1f33177692d11d9fa1309
-type: courses
+type: course
 layout: video
 ---

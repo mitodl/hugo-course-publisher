@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_008S11_lec17.pdf
 description: This resource contains information related to design of FIR digital filters.
-type: courses
+type: course
 layout: pdf
 uid: aea8444ff81fdeed9c2b66dccebbce47
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: f21_ps15_fall03.pdf
 description: This resource contains problems on source-sheet model.
-type: courses
+type: course
 layout: pdf
 uid: 3cd1b61bc3c27414772fecd31918e4a2
 file_type: application/pdf

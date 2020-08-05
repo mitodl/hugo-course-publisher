@@ -683,6 +683,6 @@ transcript: >-
   m='950910'>is</span> <span m='951160'>more</span> <span
   m='951480'>powerful.</span> </p>
 uid: b075223e65cb9b813274072eadccf20e
-type: courses
+type: course
 layout: video
 ---

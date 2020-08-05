@@ -10,7 +10,7 @@ description: >-
   lecture demonstration: double slit, diffraction, single-slit diffraction,
   intensity distribution, prs question: two slits with width, babinet?s
   principle, experiment 13.
-type: courses
+type: course
 layout: pdf
 uid: eee0ea4c0259454307b7d1c431284d72
 file_type: application/pdf

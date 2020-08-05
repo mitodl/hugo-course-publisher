@@ -551,6 +551,6 @@ transcript: >-
   m='484965'>HoursYear</span> <span m='485750'>and</span> <span
   m='486535'>SquareRoot2.</span> </p>
 uid: 9eec861489a8911f56ccf81a2aa56346
-type: courses
+type: course
 layout: video
 ---

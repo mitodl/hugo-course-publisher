@@ -3,7 +3,7 @@ title: obj.pdf
 description: >-
   This file contains scope, learning objectives, measurable outcomes and
   assessment strategy for this course.
-type: courses
+type: course
 layout: pdf
 uid: fc1d866db1c95ccd131b84abada92d27
 file_type: application/pdf

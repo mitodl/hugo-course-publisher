@@ -1,7 +1,7 @@
 ---
 title: f13_ps12_fall03.pdf
 description: This resource contains one problem on sea-level wind speed.
-type: courses
+type: course
 layout: pdf
 uid: 5ee7bce2ae09f5b68fd504d2fe34c752
 file_type: application/pdf

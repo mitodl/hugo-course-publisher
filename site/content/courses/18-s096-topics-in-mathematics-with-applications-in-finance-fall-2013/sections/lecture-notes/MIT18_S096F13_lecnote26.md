@@ -1,7 +1,7 @@
 ---
 title: Introduction to Counterparty Credit Risk Conclusions
 description: This file contains information regarding lecture 26 notes.
-type: courses
+type: course
 layout: pdf
 uid: 6a88ece1d51780a6a719cc620abc7c2f
 file_type: application/pdf

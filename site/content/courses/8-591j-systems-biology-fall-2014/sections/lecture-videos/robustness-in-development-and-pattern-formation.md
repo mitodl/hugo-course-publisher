@@ -4574,6 +4574,6 @@ transcript: >-
   m="4875340">you</span> <span m="4875430">get</span> <span
   m="4875620">global</span> <span m="4876520">motion.</span></p>
 uid: d51735be128a4df4249ce22fe4032ff6
-type: courses
+type: course
 layout: video
 ---

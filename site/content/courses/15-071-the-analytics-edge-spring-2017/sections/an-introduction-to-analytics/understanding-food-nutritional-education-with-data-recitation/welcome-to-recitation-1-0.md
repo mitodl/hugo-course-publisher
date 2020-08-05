@@ -84,6 +84,6 @@ transcript: >-
   m='23847'>Agricultural.</span> </p><p><span m='24340'>Let's</span> <span
   m='24970'>get</span> <span m='25600'>started.</span> </p>
 uid: 0b76afae60bf8e22d42463ddd3dc5bec
-type: courses
+type: course
 layout: video
 ---

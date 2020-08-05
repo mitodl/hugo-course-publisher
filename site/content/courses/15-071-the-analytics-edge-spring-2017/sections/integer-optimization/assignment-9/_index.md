@@ -1,11 +1,11 @@
 ---
 title: 9.5 Assignment 9
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: course_section
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 2dbce7a6bb3717df55b4be0179616ad6
-    type: section
-    layout: section
     name: 9.5 Assignment 9
     weight: 3260
     parent: db42b40ad705f431a7e23a1d11cec341

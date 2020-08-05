@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex43sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   definite integrals,
-type: courses
+type: course
 layout: pdf
 uid: e0806c4ce8d4908951eaf15d0f7832cf
 file_type: application/pdf

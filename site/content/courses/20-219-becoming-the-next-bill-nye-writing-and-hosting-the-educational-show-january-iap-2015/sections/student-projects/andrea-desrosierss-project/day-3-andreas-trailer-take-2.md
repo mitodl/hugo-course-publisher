@@ -147,6 +147,6 @@ transcript: >-
   m="74140">out</span> <span m="74460">as</span> <span m="74660">we</span> <span
   m="74810">age.</span></p>
 uid: 585b0ae98607fd82f10af279f556a89c
-type: courses
+type: course
 layout: video
 ---

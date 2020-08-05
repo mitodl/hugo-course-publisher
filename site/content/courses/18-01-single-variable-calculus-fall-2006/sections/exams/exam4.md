@@ -1,7 +1,7 @@
 ---
 title: Exam 4
 description: The fourth exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: 0a24b4dfde19f54a7918e4411d7591f1
 file_type: application/pdf

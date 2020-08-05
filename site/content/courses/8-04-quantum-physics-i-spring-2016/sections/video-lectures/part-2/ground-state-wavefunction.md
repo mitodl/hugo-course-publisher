@@ -757,6 +757,6 @@ transcript: >-
   m='956670'>or</span> <span m='957160'>the</span> <span
   m='957370'>[INAUDIBLE].</span> </p>
 uid: f0145cab9566cad3f0d1562a02f04ad1
-type: courses
+type: course
 layout: video
 ---

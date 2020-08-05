@@ -1,16 +1,14 @@
 ---
 title: Elasticity
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: e9dacfa6ab6fa244a25757f4d8b4b4f1
-    type: section
-    layout: section
     name: Elasticity
     weight: 60
     parent: 10bf5cbcf55318eeb09954ff31dafc1c
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/applying-supply-and-demand/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/problem-set-1/_index.md" %}}) »
 

@@ -1,7 +1,7 @@
 ---
 title: S14_mud.pdf
 description: Review questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: 6cb7dc8e26ad76db61b3c6ac42271728
 file_type: application/pdf

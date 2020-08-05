@@ -832,6 +832,6 @@ transcript: >-
   </p><p><span m='2891270'>That's what we'll take up next time,</span> <span
   m='2893070'>after the quiz on Wednesday.</span> </p><p></p>
 uid: 9ec82d943c58e90f2285b48074e1de01
-type: courses
+type: course
 layout: video
 ---

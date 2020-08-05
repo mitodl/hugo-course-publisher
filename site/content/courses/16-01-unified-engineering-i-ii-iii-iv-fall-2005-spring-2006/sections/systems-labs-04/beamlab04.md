@@ -6,7 +6,7 @@ description: >-
   beam and hence to explore the underlying assumptions. The laboratory consists
   of three related experiments, each of which probes one of the predictions of
   beam theory.
-type: courses
+type: course
 layout: pdf
 uid: dc54588b34be6c3b7cce7d8cee75df5f
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: fall_2003_q4m_sol.pdf
 description: Materials and Structures quiz solutions.
-type: courses
+type: course
 layout: pdf
 uid: c4ae163c63b39fc709b5e8d91ece0c5f
 file_type: application/pdf

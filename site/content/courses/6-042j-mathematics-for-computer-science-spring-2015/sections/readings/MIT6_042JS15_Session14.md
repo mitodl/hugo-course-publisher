@@ -3,7 +3,7 @@ title: 'Euler''s Theorem: Chapter 8.10'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Euler's theorem: Chapter 8.10.
-type: courses
+type: course
 layout: pdf
 uid: 1ffa194ad7f5a19411ceb6a18647c036
 file_type: application/pdf

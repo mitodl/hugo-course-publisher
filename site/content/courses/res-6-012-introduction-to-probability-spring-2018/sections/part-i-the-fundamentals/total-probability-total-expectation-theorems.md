@@ -141,6 +141,6 @@ transcript: >-
   m='312530'>except that we integrate and that we use densities.</span>
   </p><p></p>
 uid: 7dc21bf782eaff4a72aed1e7693a1aff
-type: courses
+type: course
 layout: video
 ---

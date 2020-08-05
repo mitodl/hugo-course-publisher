@@ -1183,6 +1183,6 @@ transcript: >-
   a</span> <span m='954370'>weird</span> <span m='954730'>balance</span> <span
   m='955220'>to</span> <span m='955360'>strike.</span> </p>
 uid: 37559c50f26024ec9c8975a5e7ac978a
-type: courses
+type: course
 layout: video
 ---

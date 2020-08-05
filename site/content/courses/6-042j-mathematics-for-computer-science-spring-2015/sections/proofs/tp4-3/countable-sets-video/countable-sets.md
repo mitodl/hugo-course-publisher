@@ -787,6 +787,6 @@ transcript: >-
   m='584140'>the</span> <span m='584350'>next</span> <span
   m='584710'>lecture.</span> </p>
 uid: 6f87e98021c6969a5e6c158cf62a86a4
-type: courses
+type: course
 layout: video
 ---

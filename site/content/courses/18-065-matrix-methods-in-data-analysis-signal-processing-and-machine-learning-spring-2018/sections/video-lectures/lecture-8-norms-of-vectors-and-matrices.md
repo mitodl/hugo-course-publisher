@@ -2651,6 +2651,6 @@ transcript: >-
   m='2952490'>have</span> <span m='2952670'>a</span> <span
   m='2952760'>great</span> <span m='2953030'>weekend.</span> </p>
 uid: eada4a9cece40c77ae4e54ab2b6f8e6a
-type: courses
+type: course
 layout: video
 ---

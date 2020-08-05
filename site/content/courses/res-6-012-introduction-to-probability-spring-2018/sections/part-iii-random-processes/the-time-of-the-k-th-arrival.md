@@ -188,6 +188,6 @@ transcript: >-
   <span m='486100'>generally will take longer to occur than the second
   arrival.</span> </p><p></p>
 uid: f91d8aa554bb2444871f0fd02b4088f9
-type: courses
+type: course
 layout: video
 ---

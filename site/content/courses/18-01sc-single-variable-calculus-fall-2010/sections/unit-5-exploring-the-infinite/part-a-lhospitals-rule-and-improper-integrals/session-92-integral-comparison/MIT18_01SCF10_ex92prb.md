@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex92prb.pdf
 description: This resource contains problem statements related to integral comparison.
-type: courses
+type: course
 layout: pdf
 uid: 884e762268c5467b0ed170f597085c80
 file_type: application/pdf

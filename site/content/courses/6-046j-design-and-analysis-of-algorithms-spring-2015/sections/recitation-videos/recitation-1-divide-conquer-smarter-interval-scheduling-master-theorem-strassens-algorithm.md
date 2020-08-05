@@ -2530,6 +2530,6 @@ transcript: >-
   m="3220050">thanks,</span> <span m="3220260">everyone,</span> <span
   m="3220550">for</span> <span m="3220660">coming.</span></p>
 uid: de6daa14b4c7ffd3995f0ca7df7b5a9b
-type: courses
+type: course
 layout: video
 ---

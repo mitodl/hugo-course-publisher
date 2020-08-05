@@ -799,6 +799,6 @@ transcript: >-
   voltage</span> <span m='2984000'>across the capacitor and the orange is the
   current through</span> <span m='2988000'>the capacitor.</span> </p>
 uid: 001a01adb3d3e2ef209616a9b8fba2ba
-type: courses
+type: course
 layout: video
 ---

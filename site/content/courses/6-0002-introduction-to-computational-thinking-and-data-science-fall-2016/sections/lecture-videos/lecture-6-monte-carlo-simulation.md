@@ -3102,6 +3102,6 @@ transcript: >-
   m="2993640">distribution</span> <span m="2994270">to</span> <span
   m="2994390">start</span> <span m="2994690">with?</span></p>
 uid: 3b6faf20eeba568fc5be9de82cdee0b4
-type: courses
+type: course
 layout: video
 ---

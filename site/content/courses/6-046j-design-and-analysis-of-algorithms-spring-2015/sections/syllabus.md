@@ -1,11 +1,11 @@
 ---
 title: Syllabus
 course_id: 6-046j-design-and-analysis-of-algorithms-spring-2015
+type: course
+layout: course_section
 menu:
   6-046j-design-and-analysis-of-algorithms-spring-2015:
     identifier: fdfd7d322e68f5da0be5481e351161c4
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
 ---

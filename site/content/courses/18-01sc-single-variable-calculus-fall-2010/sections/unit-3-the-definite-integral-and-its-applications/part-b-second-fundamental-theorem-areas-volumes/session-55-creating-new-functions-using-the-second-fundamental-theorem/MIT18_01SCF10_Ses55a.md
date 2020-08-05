@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses55a.pdf
 description: >-
   This resource contains information about creating new functions using the
   second fundamental theorem.
-type: courses
+type: course
 layout: pdf
 uid: 37ea67d3369c94db84ff2586ead82c37
 file_type: application/pdf

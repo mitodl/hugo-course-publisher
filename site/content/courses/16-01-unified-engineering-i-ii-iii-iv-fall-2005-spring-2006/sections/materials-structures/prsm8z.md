@@ -3,7 +3,7 @@ title: prsm8z.pdf
 description: >-
   This resource contains concept questions and answers based on displacement of
   the pin-jointed truss.
-type: courses
+type: course
 layout: pdf
 uid: 7448cfb97964eb012c639ed0e1ca9099
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses51b.pdf
 description: >-
   This resource contains information about the second fundamental theorem of
   calculus.
-type: courses
+type: course
 layout: pdf
 uid: af3531d2bd95ac4e5cfb3086472e2779
 file_type: application/pdf

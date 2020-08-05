@@ -3,7 +3,7 @@ title: m11_ps04_spring04.pdf
 description: >-
   This resource contains problems related to transmitting a torque of 200 kN
   through a steel shaft.
-type: courses
+type: course
 layout: pdf
 uid: bba9c3655dd6b1285cb715333d99259f
 file_type: application/pdf

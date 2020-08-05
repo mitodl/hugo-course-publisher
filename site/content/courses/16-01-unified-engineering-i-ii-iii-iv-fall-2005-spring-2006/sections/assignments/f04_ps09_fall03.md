@@ -3,7 +3,7 @@ title: f04_ps09_fall03.pdf
 description: >-
   This resource contains the problem set based on the dimensionless parameters
   and the drag coefficient.
-type: courses
+type: course
 layout: pdf
 uid: 0d7a026e116ed9cc7e6892b0f964756e
 file_type: application/pdf

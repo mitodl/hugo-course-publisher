@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_hw16_sol.pdf
 description: This resource contains solution to the problem set related to sampling.
-type: courses
+type: course
 layout: pdf
 uid: 4b9dbe2ae710d9e5704bc3404ae3c057
 file_type: application/pdf

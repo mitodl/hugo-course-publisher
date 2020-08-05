@@ -2859,6 +2859,6 @@ transcript: >-
   m="3410520">available</span> <span m="3413570">to</span> <span
   m="3413690">help</span> <span m="3413930">you.</span></p>
 uid: 93a0a86fd21adc982c21b2ba17b9834f
-type: courses
+type: course
 layout: video
 ---

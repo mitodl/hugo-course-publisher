@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_5_quest.pdf
 description: >-
   This resource contains problem statements related to area and determinants in
   2D.
-type: courses
+type: course
 layout: pdf
 uid: 57711a861227a87360f4e12f0eabc372
 file_type: application/pdf

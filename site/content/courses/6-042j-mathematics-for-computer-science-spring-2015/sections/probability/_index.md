@@ -1,11 +1,11 @@
 ---
 title: 'Unit 4: Probability'
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 90a207e82f8b3b1369067b58f9c6f169
-    type: section
-    layout: section
     name: 'Unit 4: Probability'
     weight: 2220
 ---

@@ -1,16 +1,14 @@
 ---
 title: 1.4 Logic & Propositions
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: videogallery
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 8de160a9e7299f7fec8a58aef5106eef
-    type: section
-    layout: section
     name: 1.4 Logic & Propositions
     weight: 280
     parent: 95af5c7b87a2e15790a7ad18331a125f
-type: courses
-layout: videogallery
 ---
 *   [<A Bogus Well Ordering Principle Proof]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1/vertical-0d330bfe723d" %}})
 *   [1.4.1Propositional Operators: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/_index.md" %}})

@@ -1,16 +1,14 @@
 ---
 title: Capital Supply and Markets II
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 66c54ff6d57018af9a41352ad16e70f7
-    type: section
-    layout: section
     name: Capital Supply and Markets II
     weight: 400
     parent: 2b057e13f81e86aad632c23c1074b663
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/capital-supply-and-markets-i/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-7-equity-and-efficiency/_index.md" %}}) »
 

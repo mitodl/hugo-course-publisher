@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Example: Change of Variables'
 transcript: ''
 uid: ae7444ddc5bed738762c034d9e24aaf5
-type: courses
+type: course
 layout: video
 ---

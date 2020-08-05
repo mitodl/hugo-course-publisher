@@ -1,11 +1,11 @@
 ---
 title: 3. The Definite Integral and its Applications
 course_id: 18-01sc-single-variable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 4c201b00a0470284ebd6c546e0cc59ab
-    type: section
-    layout: section
     name: 3. The Definite Integral and its Applications
     weight: 580
 ---

@@ -308,6 +308,6 @@ transcript: >-
   m='195620'>So</span> <span m='196210'>let's</span> <span m='196490'>get</span>
   <span m='196610'>started.</span> </p>
 uid: 4174fa4399193053878bdf682266d475
-type: courses
+type: course
 layout: video
 ---

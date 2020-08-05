@@ -2,11 +2,11 @@
 title: Assignments Related to Lectures and Readings
 course_id: >-
   18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018
+type: course
+layout: course_section
 menu:
   18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018:
     identifier: e3ceba9ad584e1722dca08201f771295
-    type: section
-    layout: section
     name: Assignments
     weight: 60
 ---

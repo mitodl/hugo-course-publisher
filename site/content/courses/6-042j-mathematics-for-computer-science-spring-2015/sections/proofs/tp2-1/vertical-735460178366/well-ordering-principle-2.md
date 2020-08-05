@@ -459,6 +459,6 @@ transcript: >-
   m='321255'>and</span> <span m='321440'>$0.05</span> <span
   m='321890'>stamps.</span> </p>
 uid: 0ab070d3e3f31f0bee29b76926235b77
-type: courses
+type: course
 layout: video
 ---

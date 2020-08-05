@@ -1,7 +1,7 @@
 ---
 title: f19_ps06_spring04.pdf
 description: This resource contains a problem on absolute minimum daimeter.
-type: courses
+type: course
 layout: pdf
 uid: f470d0cbda95a2faef92849c49548fe6
 file_type: application/pdf

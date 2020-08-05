@@ -3,7 +3,7 @@ title: networks_open_5_0.pdf
 description: >-
   This resource contains information related to the network as a system and as a
   system component. 
-type: courses
+type: course
 layout: pdf
 uid: 46bd7ae60f3adfbdcfaca03df7892c24
 file_type: application/pdf

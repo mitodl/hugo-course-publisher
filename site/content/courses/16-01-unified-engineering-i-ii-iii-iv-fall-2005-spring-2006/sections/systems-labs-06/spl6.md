@@ -1,7 +1,7 @@
 ---
 title: spl6.pdf
 description: This file contains the software test report and its summary.
-type: courses
+type: course
 layout: pdf
 uid: 73258bf2b8391a437949f76f4ecf423c
 file_type: application/pdf

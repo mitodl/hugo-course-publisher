@@ -629,6 +629,6 @@ transcript: >-
   m='856440'>really</span> <span m='856710'>ought</span> <span
   m='856910'>to</span> <span m='857040'>see it.</span> </p>
 uid: fe3dca6a577391ea9daf8e9c344699d5
-type: courses
+type: course
 layout: video
 ---

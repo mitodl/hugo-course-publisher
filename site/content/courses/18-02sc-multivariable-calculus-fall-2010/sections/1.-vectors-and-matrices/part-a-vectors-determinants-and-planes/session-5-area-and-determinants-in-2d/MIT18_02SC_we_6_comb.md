@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_we_6_comb.pdf
 description: 'This resource contains information related to areas and determinants. '
-type: courses
+type: course
 layout: pdf
 uid: 14957918d67d27e7833edd92452f1c92
 file_type: application/pdf

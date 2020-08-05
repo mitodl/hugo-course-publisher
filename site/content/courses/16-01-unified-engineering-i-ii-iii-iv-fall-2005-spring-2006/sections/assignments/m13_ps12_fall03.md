@@ -3,7 +3,7 @@ title: m13_ps12_fall03.pdf
 description: >-
   This resource contains problems based on the state of axial stress through the
   thickness of a beam.
-type: courses
+type: course
 layout: pdf
 uid: 924d958c9986360244e5c46a7661106f
 file_type: application/pdf

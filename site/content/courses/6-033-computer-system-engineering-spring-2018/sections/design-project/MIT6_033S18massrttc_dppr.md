@@ -3,7 +3,7 @@ title: >-
   Computer System Engineering, Example Design Project Preliminary Report
   MASSRTTC
 description: null
-type: courses
+type: course
 layout: pdf
 uid: c826e0094b147e049c30dda39a35e0fa
 file_type: application/pdf

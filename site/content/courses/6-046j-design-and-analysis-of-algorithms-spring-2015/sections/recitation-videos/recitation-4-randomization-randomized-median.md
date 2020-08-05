@@ -1686,6 +1686,6 @@ transcript: >-
   m="2351100">recitation.</span> <span m="2351730">Any</span> <span
   m="2351900">questions?</span> <span m="2360540">OK.</span></p>
 uid: ea756b222893f3085b773e01a5ad83b7
-type: courses
+type: course
 layout: video
 ---

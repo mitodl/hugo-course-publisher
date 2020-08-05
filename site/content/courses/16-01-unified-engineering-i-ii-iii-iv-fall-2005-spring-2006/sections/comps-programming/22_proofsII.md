@@ -1,7 +1,7 @@
 ---
 title: 22_proofsII.pdf
 description: Lecture 22 (2004) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 1da84047a895a3170cef58f94bf611d1
 file_type: application/pdf

@@ -323,6 +323,6 @@ transcript: >-
   m='182710'>me</span> <span m='182850'>really</span> <span
   m='183150'>very</span> <span m='183430'>happy.</span> </p>
 uid: d280d577dba6293f28221912acd276ab
-type: courses
+type: course
 layout: video
 ---

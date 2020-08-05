@@ -2,11 +2,11 @@
 title: Differential Equations and Linear Algebra
 course_id: >-
   res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015
+type: course
+layout: course_section
 menu:
   res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015:
     identifier: 75be594286fc61820f93147523356fe2
-    type: section
-    layout: section
     name: Differential Equations and Linear Algebra
     weight: 20
 ---

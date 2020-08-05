@@ -3,7 +3,7 @@ title: Camera Instructions for Volunteers
 description: >-
   This resource contains information regarding camera code instructions for
   volunteers.
-type: courses
+type: course
 layout: pdf
 uid: 62b8a0f13444b3f1574d66e6fbdd61ee
 file_type: application/pdf

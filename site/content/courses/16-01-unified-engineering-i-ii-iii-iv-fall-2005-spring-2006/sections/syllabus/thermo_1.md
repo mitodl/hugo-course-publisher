@@ -3,7 +3,7 @@ title: thermo_1.pdf
 description: >-
   This handout contains the Learning Objectives and the Measurable Outcomes
   (Assessment Method) for this course.
-type: courses
+type: course
 layout: pdf
 uid: 732af9f2b524860b7d1c5dc1e75ed0f0
 file_type: application/pdf

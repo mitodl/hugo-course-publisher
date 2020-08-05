@@ -1,7 +1,7 @@
 ---
 title: 'Class 13 Slides: Bayesian updating: continuous prior, discrete data'
 description: This is a resource file that contains information regarding class 13.
-type: courses
+type: course
 layout: pdf
 uid: 66adfd4efb73969e2aa2edc73ae3d98e
 file_type: application/pdf

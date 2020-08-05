@@ -595,6 +595,6 @@ transcript: >-
   <span m='460796'>much</span> <span m='461314'>higher</span> <span
   m='461832'>resolution.</span> </p>
 uid: 4c75ada9d638803de8ff2006e93353bd
-type: courses
+type: course
 layout: video
 ---

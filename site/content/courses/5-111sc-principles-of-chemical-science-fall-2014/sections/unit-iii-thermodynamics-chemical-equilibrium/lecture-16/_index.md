@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 16: Thermodynamics: Gibbs Free Energy and Entropy'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: videogallery
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 4161d4d2b7e64498f997dfb3b69eca3c
-    type: section
-    layout: section
     name: Lecture 16
     weight: 210
     parent: d1e2f8f6d6d078397f7b8fc6a1024b2a
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-15/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-17/_index.md" %}}) »
 

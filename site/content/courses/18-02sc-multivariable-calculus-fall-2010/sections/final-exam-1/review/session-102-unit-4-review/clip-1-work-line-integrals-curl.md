@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip 1: Work, Line Integrals, Curl'
 transcript: ''
 uid: 87b982b4820f21e93c5682b66d5c9007
-type: courses
+type: course
 layout: video
 ---

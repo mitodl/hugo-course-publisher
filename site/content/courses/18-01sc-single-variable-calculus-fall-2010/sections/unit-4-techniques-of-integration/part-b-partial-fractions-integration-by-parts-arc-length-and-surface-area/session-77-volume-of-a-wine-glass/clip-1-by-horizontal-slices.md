@@ -2805,6 +2805,6 @@ transcript: >-
   m='3077170'>just,</span> <span m='3079070'>right</span> <span
   m='3079210'>there.</span> </p>
 uid: 42f56bde2c5b66c9735b7332dde1bc08
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MIT6_042JF10_rec22_sol.pdf
 description: >-
   This resource contains solutions of expected value rule for functions of
   random variables, properties of variance. 
-type: courses
+type: course
 layout: pdf
 uid: 359b3bf62f6f3734b2b87643d4456e1b
 file_type: application/pdf

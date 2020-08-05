@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: The Mean Value Theorem and Inequalities'
 transcript: ''
 uid: f273070b902dabef9fecaaf78199ffeb
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex75aprb.pdf
 description: >-
   This resource contains problem statements related to advanced partial
   fractions.
-type: courses
+type: course
 layout: pdf
 uid: db74068e212305557bcec0edaf1a313b
 file_type: application/pdf

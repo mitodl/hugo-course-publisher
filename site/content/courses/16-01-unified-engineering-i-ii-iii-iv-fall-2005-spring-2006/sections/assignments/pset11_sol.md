@@ -1,7 +1,7 @@
 ---
 title: pset11_sol.pdf
 description: Problem set with solutions provided by the professor.
-type: courses
+type: course
 layout: pdf
 uid: 73addc71d6b4b7f11de4aa0399559fbd
 file_type: application/pdf

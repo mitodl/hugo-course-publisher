@@ -420,6 +420,6 @@ transcript: >-
   <span m='559630'>OK,</span> <span m='560120'>we're</span> <span
   m='560310'>done.</span> </p>
 uid: 787e0f96696dbe97e7fae15700a5a92d
-type: courses
+type: course
 layout: video
 ---

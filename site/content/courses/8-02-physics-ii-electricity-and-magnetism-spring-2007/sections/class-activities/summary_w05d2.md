@@ -1,7 +1,7 @@
 ---
 title: summary_w05d2.pdf
 description: This resource is on What we Expect from you on the Exam.
-type: courses
+type: course
 layout: pdf
 uid: e79ffda58bef12c243f9c0b5d3954d78
 file_type: application/pdf

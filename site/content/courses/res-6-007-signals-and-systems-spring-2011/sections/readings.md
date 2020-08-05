@@ -1,11 +1,11 @@
 ---
 title: Readings
 course_id: res-6-007-signals-and-systems-spring-2011
+type: course
+layout: course_section
 menu:
   res-6-007-signals-and-systems-spring-2011:
     identifier: 62422d30fe317d7f554873ea79c81096
-    type: section
-    layout: section
     name: Readings
     weight: 20
 ---

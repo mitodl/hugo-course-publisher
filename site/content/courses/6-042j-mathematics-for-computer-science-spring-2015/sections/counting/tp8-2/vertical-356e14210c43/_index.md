@@ -1,7 +1,7 @@
 ---
 title: 3.1 Sums & Products
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Integral Method Demystified]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/vertical-efaab47d6b5a" %}})

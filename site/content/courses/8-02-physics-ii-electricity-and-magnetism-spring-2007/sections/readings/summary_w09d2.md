@@ -4,7 +4,7 @@ description: >-
   This resource discusses induction (Faraday?s Law), another application ? eddy
   current braking ? and then continuing on to define mutual inductance and
   transformers.
-type: courses
+type: course
 layout: pdf
 uid: f1242dd6403332e533edd64e8e40b9f8
 file_type: application/pdf

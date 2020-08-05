@@ -610,6 +610,6 @@ transcript: >-
   m='492660'>I'll</span> <span m='492860'>end</span> <span
   m='493120'>there.</span> </p>
 uid: f0e3ae262fe262ca5869a139c9251d0e
-type: courses
+type: course
 layout: video
 ---

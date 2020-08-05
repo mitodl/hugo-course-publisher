@@ -1,11 +1,11 @@
 ---
 title: Related Resources
 course_id: 18-01-single-variable-calculus-fall-2006
+type: course
+layout: course_section
 menu:
   18-01-single-variable-calculus-fall-2006:
     identifier: 71c1ad1bad19cb35c6f7cf74f4be9214
-    type: section
-    layout: section
     name: Related Resources
     weight: 80
 ---

@@ -1,7 +1,7 @@
 ---
 title: HJM Model for Interest Rates and Credit
 description: null
-type: courses
+type: course
 layout: pdf
 uid: e4c52338bad489162192dd0cc44375ab
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex03prb.pdf
 description: >-
   This resource contains problem statements related to checking account
   balances.
-type: courses
+type: course
 layout: pdf
 uid: 1c60cf6442dcbf9d6bfeb939127f430e
 file_type: application/pdf

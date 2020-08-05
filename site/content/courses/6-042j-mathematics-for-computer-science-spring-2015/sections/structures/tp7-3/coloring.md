@@ -1267,6 +1267,6 @@ transcript: >-
   <span m='976160'>story</span> <span m='976900'>about</span> <span
   m='977280'>colorability.</span> </p>
 uid: b3bab57cee4f74f78a2a15795b01912c
-type: courses
+type: course
 layout: video
 ---

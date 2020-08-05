@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_exam3.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: a24ae17a1585cc320e5502b586fdc08d
 file_type: application/pdf

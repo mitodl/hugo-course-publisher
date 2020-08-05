@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses98c.pdf
 description: This resource contains informations related to taylor's series.
-type: courses
+type: course
 layout: pdf
 uid: d46cad6ffad68cd670c7be2ad861f8d1
 file_type: application/pdf

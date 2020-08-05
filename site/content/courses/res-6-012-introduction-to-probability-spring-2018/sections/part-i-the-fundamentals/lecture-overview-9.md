@@ -92,6 +92,6 @@ transcript: >-
   have the same form, with small differences.</span> </p><p><span m='97970'>And
   we will see how to apply them through some examples.</span> </p><p></p>
 uid: 4ceeb1fd8ebd21c8c473cf3c336324f5
-type: courses
+type: course
 layout: video
 ---

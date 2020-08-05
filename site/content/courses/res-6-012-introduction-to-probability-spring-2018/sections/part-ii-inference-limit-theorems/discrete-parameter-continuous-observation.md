@@ -144,6 +144,6 @@ transcript: >-
   <span m='267970'>of choosing between alternative hypothesis,</span> <span
   m='271070'>whether X is discrete or continuous.</span> </p><p></p>
 uid: 2ffd22273f47edb27e65c77aeb42140d
-type: courses
+type: course
 layout: video
 ---

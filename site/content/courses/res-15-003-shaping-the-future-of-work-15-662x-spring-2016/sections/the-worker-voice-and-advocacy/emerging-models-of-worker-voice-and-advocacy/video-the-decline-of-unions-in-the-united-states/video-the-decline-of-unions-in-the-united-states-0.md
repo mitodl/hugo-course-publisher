@@ -361,6 +361,6 @@ transcript: >-
   <span m="244620">bit</span> <span m="244800">more</span> <span
   m="260399">detail.</span></p>
 uid: a5f13bc021539067dfea55e0a3a52bdd
-type: courses
+type: course
 layout: video
 ---

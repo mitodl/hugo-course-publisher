@@ -6535,6 +6535,6 @@ transcript: >-
   m='5053390'>that</span> <span m='5053500'>next</span> <span
   m='5053730'>time.</span> </p>
 uid: 5064083885eae6709553fd67d015cc49
-type: courses
+type: course
 layout: video
 ---

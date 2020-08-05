@@ -547,6 +547,6 @@ transcript: >-
   <span m='567290'>decompositions.</span> <span m='569164'>Good.</span>
   </p><p><span m='572660'>Thanks.</span> </p>
 uid: 641fbfcf8d41092417091e8d3dc0bf63
-type: courses
+type: course
 layout: video
 ---

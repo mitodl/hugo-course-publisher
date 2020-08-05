@@ -1,11 +1,11 @@
 ---
 title: 2015 MIT Student Projects
 course_id: res-3-004-visualizing-materials-science-fall-2017
+type: course
+layout: course_section
 menu:
   res-3-004-visualizing-materials-science-fall-2017:
     identifier: c97327e3f58e5c5ecfe5c9199c8b02d5
-    type: section
-    layout: section
     name: 2015 MIT Student Projects
     weight: 200
     parent: 912fc0849e832bfd38afdf58a71a8917

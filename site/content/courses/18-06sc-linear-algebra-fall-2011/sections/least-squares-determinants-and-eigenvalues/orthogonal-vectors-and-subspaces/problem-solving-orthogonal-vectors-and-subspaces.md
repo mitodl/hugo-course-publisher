@@ -550,6 +550,6 @@ transcript: >-
   m='618060'>a</span> <span m='618150'>good</span> <span m='618260'>time.</span>
   </p>
 uid: f0d89b0e5353e12fc44847b6e56ba770
-type: courses
+type: course
 layout: video
 ---

@@ -4722,6 +4722,6 @@ transcript: >-
   m="4832150">see</span> <span m="4832350">you</span> <span m="4832560">our next
   class.</span></p>
 uid: 3819cba968901df779b5023a5d4ad6f3
-type: courses
+type: course
 layout: video
 ---

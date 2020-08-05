@@ -1,16 +1,14 @@
 ---
 title: Lecture 9
 course_id: 6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016
+type: course
+layout: videogallery
 menu:
   6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016:
     identifier: d168b144bfeb0cd9daf8c345966e90d4
-    type: section
-    layout: section
     name: Lecture 9
     weight: 130
     parent: cc74bf5b1a22399e271270abfff469d7
-type: courses
-layout: videogallery
 ---
 1.  ### Getters and Setters
     

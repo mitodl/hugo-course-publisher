@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Calculating Flux'
 description: This resource contains information regarding calculating flux.
-type: courses
+type: course
 layout: pdf
 uid: b4e14f647a3adf7c59d752ec7e5a5474
 file_type: application/pdf

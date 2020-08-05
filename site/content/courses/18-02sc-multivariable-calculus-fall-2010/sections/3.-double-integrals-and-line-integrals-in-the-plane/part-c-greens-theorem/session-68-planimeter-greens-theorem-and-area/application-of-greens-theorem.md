@@ -565,6 +565,6 @@ transcript: >-
   m='432720'>where</span> <span m='432810'>I'll</span> <span
   m='432940'>stop.</span> </p>
 uid: b970bee1d208f3cbbead398aa1214213
-type: courses
+type: course
 layout: video
 ---

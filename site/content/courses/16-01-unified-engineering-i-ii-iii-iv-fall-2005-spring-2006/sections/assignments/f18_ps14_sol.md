@@ -3,7 +3,7 @@ title: f18_ps14_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on
   superimposing uniform flow and boundary.
-type: courses
+type: course
 layout: pdf
 uid: be30a1181d3933242c846693d66966ca
 file_type: application/pdf

@@ -2681,6 +2681,6 @@ transcript: >-
   m='2861050'>tell</span> <span m='2861190'>me.</span> </p><p><span
   m='2861230'>Thanks.</span> </p>
 uid: 28a818cd34a0fa409fadd4aaf4df4942
-type: courses
+type: course
 layout: video
 ---

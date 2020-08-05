@@ -1,7 +1,7 @@
 ---
 title: sp_S4_mud.pdf
 description: Review questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: 93413a5195a5612faea8327d58e955ad
 file_type: application/pdf

@@ -618,6 +618,6 @@ transcript: >-
   m='590680'>that</span> <span m='590860'>on</span> <span m='591030'>your</span>
   <span m='591330'>own.</span> </p>
 uid: c00f640c8701c6410648f92bfa3cd13d
-type: courses
+type: course
 layout: video
 ---

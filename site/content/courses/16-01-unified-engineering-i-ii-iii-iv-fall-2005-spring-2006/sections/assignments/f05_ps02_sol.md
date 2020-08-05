@@ -1,7 +1,7 @@
 ---
 title: f05_ps02_sol.pdf
 description: This resource contains the handwritten solution to the problem set.
-type: courses
+type: course
 layout: pdf
 uid: 97dc3d9f0618cc8072bc2997725d839e
 file_type: application/pdf

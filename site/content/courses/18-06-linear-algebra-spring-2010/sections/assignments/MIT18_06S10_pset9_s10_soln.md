@@ -1,7 +1,7 @@
 ---
 title: MIT18_06S10_pset9_s10_soln.pdf
 description: This resource contains information related to Cholesky factorization.
-type: courses
+type: course
 layout: pdf
 uid: 58e62cc93e3e8b6cb52e72fa5830fc4e
 file_type: application/pdf

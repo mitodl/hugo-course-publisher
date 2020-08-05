@@ -752,6 +752,6 @@ transcript: >-
   m='680000'>I'll</span> <span m='680320'>stop</span> <span
   m='680490'>there.</span> </p>
 uid: 8007b2dbc807e0c2a8be05a5fa684aeb
-type: courses
+type: course
 layout: video
 ---

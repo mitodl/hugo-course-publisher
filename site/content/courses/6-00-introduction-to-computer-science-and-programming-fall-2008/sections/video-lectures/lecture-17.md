@@ -2976,6 +2976,6 @@ transcript: >-
   m='2960530'>at</span> <span m='2960630'>what</span> <span
   m='2960820'>that</span> <span m='2961040'>bug is.</span> </p>
 uid: d48aa4eddc4090ae685ed830452d9b10
-type: courses
+type: course
 layout: video
 ---

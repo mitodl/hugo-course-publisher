@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_prac3A.pdf
 description: This resource contains information related to limits of integration.
-type: courses
+type: course
 layout: pdf
 uid: 8cac15f06a6cd6e2ad6885241b70c5f7
 file_type: application/pdf

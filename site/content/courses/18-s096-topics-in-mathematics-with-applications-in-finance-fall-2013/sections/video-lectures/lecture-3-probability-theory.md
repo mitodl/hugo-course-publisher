@@ -3171,6 +3171,6 @@ transcript: >-
   m='4702300'>really</span> <span m='4702450'>close</span> <span
   m='4702950'>really</span> <span m='4703450'>fast.</span> </p>
 uid: e63d7e6eb103a5e3235a14c0652e75aa
-type: courses
+type: course
 layout: video
 ---

@@ -4443,6 +4443,6 @@ transcript: >-
   m='4960250'>session</span> <span m='4960640'>is</span> <span
   m='4960750'>there.</span> </p>
 uid: 098ba0041cbb6df383f0decb5057952b
-type: courses
+type: course
 layout: video
 ---

@@ -1,11 +1,11 @@
 ---
 title: 'Lists, Vectors, and Matrices'
 course_id: 18-s997-introduction-to-matlab-programming-fall-2011
+type: course
+layout: course_section
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 7836f3cecf5f402530dd78bd120b701a
-    type: section
-    layout: section
     name: 'Lists, Vectors, and Matrices'
     weight: 50
     parent: 71bd52f802118491207f722087127ab2

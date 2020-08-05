@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Constrained Differentials'
 transcript: ''
 uid: 5bdeb207141e2042749dbff235198740
-type: courses
+type: course
 layout: video
 ---

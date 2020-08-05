@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses79b.pdf
 description: This resource contains informations related to surface area.
-type: courses
+type: course
 layout: pdf
 uid: dd3b0303c4dd500cacac6ad061548b48
 file_type: application/pdf

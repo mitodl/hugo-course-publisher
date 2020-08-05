@@ -264,6 +264,6 @@ transcript: >-
   m='233930'>actors</span> <span m='234320'>and</span> <span
   m='234710'>the</span> <span m='235100'>director."</span> </p>
 uid: 9ada3bb8c53b2df2c2a32ee4dbef04b0
-type: courses
+type: course
 layout: video
 ---

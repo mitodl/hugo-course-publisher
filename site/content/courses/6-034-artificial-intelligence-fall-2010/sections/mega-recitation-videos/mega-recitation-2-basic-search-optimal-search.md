@@ -3922,6 +3922,6 @@ transcript: >-
   m='3114050'>to</span> <span m='3114110'>do</span> <span
   m='3114230'>fine.</span> </p>
 uid: 92eec3e5962365ab83ff7f3a2206b1c6
-type: courses
+type: course
 layout: video
 ---

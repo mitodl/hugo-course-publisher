@@ -3,7 +3,7 @@ title: MITRES_18_001_strang101103.pdf
 description: >-
   This resource contains information related to geometric series and positive
   series.
-type: courses
+type: course
 layout: pdf
 uid: 464065dac4aab9c5290e2a1151693f22
 file_type: application/pdf

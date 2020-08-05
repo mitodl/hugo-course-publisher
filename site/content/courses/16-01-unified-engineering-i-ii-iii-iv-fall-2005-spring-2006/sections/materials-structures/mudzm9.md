@@ -3,7 +3,7 @@ title: mudzm9.pdf
 description: >-
   This resource contains review questions and answers based on bars,
   displacement diagram, collinear, constitutive law and forces.
-type: courses
+type: course
 layout: pdf
 uid: c73c95b3b159083f73c713dca525c740
 file_type: application/pdf

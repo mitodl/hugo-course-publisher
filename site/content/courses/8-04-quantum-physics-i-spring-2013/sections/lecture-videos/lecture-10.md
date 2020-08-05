@@ -4915,6 +4915,6 @@ transcript: >-
   m='4878240'>here</span> <span m='4878580'>for</span> <span
   m='4878700'>the</span> <span m='4878790'>midterm.</span> </p>
 uid: 98f824d6601f95a1613165b55feed9e8
-type: courses
+type: course
 layout: video
 ---

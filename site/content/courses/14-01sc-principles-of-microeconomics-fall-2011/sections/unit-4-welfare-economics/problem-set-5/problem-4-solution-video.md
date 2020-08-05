@@ -1026,6 +1026,6 @@ transcript: >-
   <span m='853190'>on</span> <span m='853290'>those</span> <span
   m='853480'>problems.</span> </p>
 uid: c545274e6f27a7205f54cb1cb928bf8a
-type: courses
+type: course
 layout: video
 ---

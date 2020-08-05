@@ -36,6 +36,6 @@ technical_location: >-
 title: 'Two Guys, Two Girls and an Airplane: Flight Attempt 1'
 transcript: ''
 uid: 0687a2e3cf14d39e08b569cae4a1664b
-type: courses
+type: course
 layout: video
 ---

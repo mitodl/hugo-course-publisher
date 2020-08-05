@@ -4,7 +4,7 @@ description: >-
   This resource contains solutions for the problem statements related to
   probability density functions, wind velocity and Carnot efficiency of the heat
   engine. 
-type: courses
+type: course
 layout: pdf
 uid: dbd59023c32a16e255cf1f12e3889647
 file_type: application/pdf

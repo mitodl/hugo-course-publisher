@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Chain Rule with More Variables'
 transcript: ''
 uid: 417b558d0730142fea99454939cda6c4
-type: courses
+type: course
 layout: video
 ---

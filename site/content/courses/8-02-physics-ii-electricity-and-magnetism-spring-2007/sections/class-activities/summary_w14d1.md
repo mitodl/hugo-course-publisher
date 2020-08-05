@@ -1,7 +1,7 @@
 ---
 title: summary_w14d1.pdf
 description: This resource is about generating EM radiation.
-type: courses
+type: course
 layout: pdf
 uid: d10b2389ff75096d57afd7ed4db88a91
 file_type: application/pdf

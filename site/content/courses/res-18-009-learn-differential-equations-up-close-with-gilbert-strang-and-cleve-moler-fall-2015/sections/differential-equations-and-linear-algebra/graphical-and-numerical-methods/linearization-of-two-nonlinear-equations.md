@@ -1140,6 +1140,6 @@ transcript: >-
   m='1293490'>in</span> <span m='1293650'>another</span> <span
   m='1294090'>lecture.</span> <span m='1294960'>Thanks.</span> </p>
 uid: 6f15ea64545c5dc2327ad9d7b48fefb0
-type: courses
+type: course
 layout: video
 ---

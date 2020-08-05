@@ -950,6 +950,6 @@ transcript: >-
   m='802430'>you</span> <span m='802560'>with</span> <span
   m='802710'>that.</span> </p>
 uid: 9bc374107d33316c87af5ab5380719de
-type: courses
+type: course
 layout: video
 ---

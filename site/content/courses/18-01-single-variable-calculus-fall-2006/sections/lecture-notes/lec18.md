@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 18: Definite Integrals'
 description: Lecture notes on definite integrals.
-type: courses
+type: course
 layout: pdf
 uid: d1b3d809b6505825b5cde0cee823fa0f
 file_type: application/pdf

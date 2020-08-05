@@ -4764,6 +4764,6 @@ transcript: >-
   m="4719100">you</span> <span m="4719150">guys</span> <span m="4719450">on
   Tuesday.</span></p>
 uid: 54f8900e6178c7df4b62e01b7c810f9c
-type: courses
+type: course
 layout: video
 ---

@@ -3988,6 +3988,6 @@ transcript: >-
   m="4612250">related</span> <span m="4612640">to the</span> <span
   m="4612800">lecture.</span></p><p>&nbsp;</p>
 uid: f1da84358e7f0e79120e07297810769e
-type: courses
+type: course
 layout: video
 ---

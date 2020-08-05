@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses2c.pdf
 description: This resource contains examples of derivatives.
-type: courses
+type: course
 layout: pdf
 uid: a0ac1e4088a800a54a16839494fbd16e
 file_type: application/pdf

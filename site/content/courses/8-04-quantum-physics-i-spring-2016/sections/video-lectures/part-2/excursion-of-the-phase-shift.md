@@ -725,6 +725,6 @@ transcript: >-
   m='914470'>an</span> <span m='914590'>hour</span> <span m='914900'>of</span>
   <span m='915040'>this</span> <span m='915190'>lecture.</span> </p>
 uid: f59baf038978f321de007eabafb9f0e7
-type: courses
+type: course
 layout: video
 ---

@@ -140,6 +140,6 @@ transcript: >-
   m="302970">with each other and have no common sources of
   uncertainty.</span></p><p>&nbsp;</p>
 uid: 78b608325f91f57454754959d2e0bf35
-type: courses
+type: course
 layout: video
 ---

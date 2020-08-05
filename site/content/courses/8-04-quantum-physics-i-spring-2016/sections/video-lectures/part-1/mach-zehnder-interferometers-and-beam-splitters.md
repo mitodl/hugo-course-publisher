@@ -819,6 +819,6 @@ transcript: >-
   m='929250'>the</span> <span m='930690'>beam</span> <span
   m='930990'>splitter.</span> </p>
 uid: d5c59c92fc82de2c22e05b23434d1216
-type: courses
+type: course
 layout: video
 ---

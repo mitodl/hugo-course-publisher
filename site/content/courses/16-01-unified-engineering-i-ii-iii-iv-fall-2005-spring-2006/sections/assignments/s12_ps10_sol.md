@@ -1,7 +1,7 @@
 ---
 title: s12_ps10_sol.pdf
 description: This resource includes the solutions to the Problem set 10.
-type: courses
+type: course
 layout: pdf
 uid: 71e41fb85f3a74641c20fcff52f4a218
 file_type: application/pdf

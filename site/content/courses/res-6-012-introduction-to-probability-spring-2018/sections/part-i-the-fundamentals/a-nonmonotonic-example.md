@@ -164,6 +164,6 @@ transcript: >-
   either X</span> <span m='429340'>falling here or X falling there.</span>
   </p><p></p>
 uid: 55876602aef5bdd8cb0a868d81de0174
-type: courses
+type: course
 layout: video
 ---

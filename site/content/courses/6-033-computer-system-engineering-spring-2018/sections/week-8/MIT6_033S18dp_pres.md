@@ -1,7 +1,7 @@
 ---
 title: 'Computer System Engineering, Design Project Presentation'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 5b33bd84f663106474a0aa71928bbcce
 file_type: application/pdf

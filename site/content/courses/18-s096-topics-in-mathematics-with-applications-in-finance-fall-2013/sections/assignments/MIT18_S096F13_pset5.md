@@ -1,7 +1,7 @@
 ---
 title: 'Problem Set 5: Volatility Modeling'
 description: This file contains information regarding problem set 5.
-type: courses
+type: course
 layout: pdf
 uid: 2dcc893d045ba13d2904efb2bb5f22cf
 file_type: application/pdf

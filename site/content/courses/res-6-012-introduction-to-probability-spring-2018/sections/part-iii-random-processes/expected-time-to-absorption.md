@@ -264,6 +264,6 @@ transcript: >-
   find the expected time to absorptions whenever</span> <span m='685320'>you
   have absorbing states in a given Markov chain.</span> </p><p></p>
 uid: 2cab7ce504b05abb83e54bd773e84341
-type: courses
+type: course
 layout: video
 ---

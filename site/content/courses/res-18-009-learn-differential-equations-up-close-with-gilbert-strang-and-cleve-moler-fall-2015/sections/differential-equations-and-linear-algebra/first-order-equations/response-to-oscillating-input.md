@@ -885,6 +885,6 @@ transcript: >-
   m='946870'>possibility.</span> </p><p><span m='947950'>OK.</span> <span
   m='948240'>Thank</span> <span m='948520'>you.</span> </p>
 uid: 5f766597ea4c4782b4374b2d1dcc8da8
-type: courses
+type: course
 layout: video
 ---

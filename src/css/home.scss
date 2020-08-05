@@ -1,0 +1,29 @@
+.home-search {
+  padding: 0;
+  width: 445px;
+}
+
+.beta-dialog {
+  p,
+  li {
+    font-size: 1rem;
+  }
+}
+
+.give-now {
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+.social-card {
+  background-color: $white;
+  border: 1px solid $border-darker-grey;
+  border-radius: 5px;
+  height: 120px;
+  width: 500px;
+}
+
+.social-icon {
+  width: 40px;
+  height: 40px;
+}

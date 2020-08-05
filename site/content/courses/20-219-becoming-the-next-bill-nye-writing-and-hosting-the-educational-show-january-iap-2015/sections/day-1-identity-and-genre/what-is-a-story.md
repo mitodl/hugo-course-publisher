@@ -2625,6 +2625,6 @@ transcript: >-
   m='2187130'>be</span> <span m='2187210'>doing</span> <span m='2187420'>this
   week.</span> </p>
 uid: ffd00f8a87cbe809e555026bde2f21c9
-type: courses
+type: course
 layout: video
 ---

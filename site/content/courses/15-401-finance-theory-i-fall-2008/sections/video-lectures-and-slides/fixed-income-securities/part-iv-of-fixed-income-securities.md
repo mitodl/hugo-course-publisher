@@ -5557,6 +5557,6 @@ transcript: >-
   m='4547210'>about</span> <span m='4548320'>common</span> <span
   m='4548620'>stock.</span> </p><p></p>
 uid: 1da18893440d14d779648aa42e3e83d7
-type: courses
+type: course
 layout: video
 ---

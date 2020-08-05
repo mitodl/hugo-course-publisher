@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 24: Avoiding Statistical Fallacies'
 transcript: ''
 uid: b012e012b84d586a7915ca36d91d619f
-type: courses
+type: course
 layout: video
 ---

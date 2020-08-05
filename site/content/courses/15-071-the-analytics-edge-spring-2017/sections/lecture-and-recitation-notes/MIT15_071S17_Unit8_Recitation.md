@@ -1,7 +1,7 @@
 ---
 title: Week 8 Recitation Video 1 - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 785b9bc9e852065d1f42411ea550db00
 file_type: application/pdf

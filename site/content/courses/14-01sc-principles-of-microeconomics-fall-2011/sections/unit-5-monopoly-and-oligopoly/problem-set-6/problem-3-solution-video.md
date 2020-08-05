@@ -1046,6 +1046,6 @@ transcript: >-
   m='994260'>the</span> <span m='994370'>new</span> <span
   m='994460'>government</span> <span m='994920'>intervention.</span> </p>
 uid: 99ad83360504ad6b9c941ab9b79f40ba
-type: courses
+type: course
 layout: video
 ---

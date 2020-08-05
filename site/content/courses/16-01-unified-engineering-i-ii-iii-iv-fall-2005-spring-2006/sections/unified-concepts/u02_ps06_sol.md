@@ -1,7 +1,7 @@
 ---
 title: u02_ps06_sol.pdf
 description: This file contains the solutions for questions asked in problem U2.
-type: courses
+type: course
 layout: pdf
 uid: 4f872fcd09e3877ddba66502c16a6bdc
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: 'Proof Methods: Proof by Cases'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: cd970309b8be63ba7e755cf286a9bc44
 file_type: application/pdf

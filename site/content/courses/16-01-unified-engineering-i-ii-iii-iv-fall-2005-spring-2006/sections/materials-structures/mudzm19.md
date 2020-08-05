@@ -3,7 +3,7 @@ title: mudzm19.pdf
 description: >-
   This resource contains review questions and answers based on Young's modulus,
   notation, anisotropic materials, matrix.
-type: courses
+type: course
 layout: pdf
 uid: f09817a86ec6e33be74133b4cb3662d9
 file_type: application/pdf

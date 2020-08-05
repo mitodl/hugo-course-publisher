@@ -1,7 +1,7 @@
 ---
 title: Week 7 WHO Video 1 - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 81c92311a4e6844e148e18a58d7e3c49
 file_type: application/pdf

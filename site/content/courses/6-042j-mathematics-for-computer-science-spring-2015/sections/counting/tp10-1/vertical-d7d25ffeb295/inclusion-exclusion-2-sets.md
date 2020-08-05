@@ -569,6 +569,6 @@ transcript: >-
   m='426950'>in</span> <span m='427060'>a</span> <span m='427100'>video.</span>
   </p>
 uid: d2a91fb6763ec50d43c1137c07100500
-type: courses
+type: course
 layout: video
 ---

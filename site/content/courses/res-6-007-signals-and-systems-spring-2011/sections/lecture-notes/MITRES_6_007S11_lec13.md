@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_lec13.pdf
 description: This resource contains information related to continuous-time modulation.
-type: courses
+type: course
 layout: pdf
 uid: a774c49855ba6bfe7266943eb8b5bc41
 file_type: application/pdf

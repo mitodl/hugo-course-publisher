@@ -1,11 +1,11 @@
 ---
 title: Lecture 8 Outline
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 89e1e54ea14ef97406689840928834a2
-    type: section
-    layout: section
     name: Lecture 8 Outline
     weight: 240
     parent: a8eaa3de11de35a2f8d6b2d186c97fc6

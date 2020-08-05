@@ -218,6 +218,6 @@ transcript: >-
   m='174530'>it</span> <span m='174600'>at</span> <span m='174700'>that.</span>
   </p>
 uid: bee8823c3f768fe0f672941630146822
-type: courses
+type: course
 layout: video
 ---

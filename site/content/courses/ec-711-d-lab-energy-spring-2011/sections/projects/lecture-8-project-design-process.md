@@ -40,6 +40,6 @@ technical_location: >-
 title: 'Lecture 8: Project Design Process'
 transcript: ''
 uid: b160c53eaa4700b0f36d13dda56a9373
-type: courses
+type: course
 layout: video
 ---

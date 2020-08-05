@@ -1,7 +1,7 @@
 ---
 title: prszm15a.pdf
 description: This resource contains concept questions.
-type: courses
+type: course
 layout: pdf
 uid: a45317d7a62607febae4cd276b696a81
 file_type: application/pdf

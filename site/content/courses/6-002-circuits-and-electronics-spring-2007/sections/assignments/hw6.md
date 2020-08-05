@@ -1,7 +1,7 @@
 ---
 title: hw6.pdf
 description: This resource discusses about a two-terminal device formed by a MOSFET.
-type: courses
+type: course
 layout: pdf
 uid: 95e622ad8c877e6c14daafecc0b09516
 file_type: application/pdf

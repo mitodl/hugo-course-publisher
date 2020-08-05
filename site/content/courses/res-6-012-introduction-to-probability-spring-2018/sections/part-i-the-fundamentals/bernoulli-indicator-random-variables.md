@@ -112,6 +112,6 @@ transcript: >-
   <span m="178610">is easier than working with events, as we will see in
   some</span> <span m="182740">later examples.</span></p><p>&nbsp;</p>
 uid: 28bb4a95aaea94dba9290d397b4cacb7
-type: courses
+type: course
 layout: video
 ---

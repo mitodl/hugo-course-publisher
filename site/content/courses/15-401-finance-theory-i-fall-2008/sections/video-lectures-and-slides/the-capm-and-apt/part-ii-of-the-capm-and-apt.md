@@ -5651,6 +5651,6 @@ transcript: >-
   m='4520920'>course.</span> <span m='4522100'>So</span> <span m='4522150'>I'll
   see you</span> <span m='4522270'>on Monday.</span> </p>
 uid: 69f1158c19ae221e36f4b63618f0c86e
-type: courses
+type: course
 layout: video
 ---

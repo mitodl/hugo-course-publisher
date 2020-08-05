@@ -121,6 +121,6 @@ transcript: >-
   into the environment.</span> </p><p><span m='222520'>However, that's how much
   is changed.</span> </p>
 uid: 69c9461443d1d82952d7625dc00ebfea
-type: courses
+type: course
 layout: video
 ---

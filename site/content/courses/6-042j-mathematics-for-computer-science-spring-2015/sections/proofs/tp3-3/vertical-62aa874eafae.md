@@ -1,6 +1,8 @@
 ---
 title: 1.7 Binary Relations
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<A inj B]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-3/vertical-faefc8383410" %}})
 *   [1.7.1Relations: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-3/_index.md" %}})

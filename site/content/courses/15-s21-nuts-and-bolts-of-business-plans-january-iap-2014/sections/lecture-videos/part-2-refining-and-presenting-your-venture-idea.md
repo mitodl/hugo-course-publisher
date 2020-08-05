@@ -4385,6 +4385,6 @@ transcript: >-
   m='3642320'>you</span> <span m='3642380'>very</span> <span
   m='3642530'>much.</span> </p><p><span m='3642960'>[APPLAUSE]</span> </p>
 uid: 88ad3a8a98f833263fbe334dedd60e14
-type: courses
+type: course
 layout: video
 ---

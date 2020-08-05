@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_rec02_sol.pdf
 description: 'This resource contains solutions of induction. '
-type: courses
+type: course
 layout: pdf
 uid: d428ae6b0f85ba4c6520e0830e5f3964
 file_type: application/pdf

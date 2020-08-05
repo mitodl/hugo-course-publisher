@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_rec04.pdf
 description: This resource is the recitation file for demand function.
-type: courses
+type: course
 layout: pdf
 uid: 39fdb9770f2dd53f5ad4fd71de2b04df
 file_type: application/pdf

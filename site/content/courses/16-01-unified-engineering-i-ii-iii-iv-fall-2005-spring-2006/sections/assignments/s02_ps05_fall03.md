@@ -1,7 +1,7 @@
 ---
 title: s02_ps05_fall03.pdf
 description: This resource contains 5 questions on branch currents and voltages.
-type: courses
+type: course
 layout: pdf
 uid: bbd19dfb9565be4c4dc986cbd88d28f3
 file_type: application/pdf

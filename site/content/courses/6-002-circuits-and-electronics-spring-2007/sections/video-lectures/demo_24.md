@@ -1,7 +1,7 @@
 ---
 title: demo_24.pdf
 description: This resource contains domonstration on opamp.
-type: courses
+type: course
 layout: pdf
 uid: 17adde8cc675b348d6d2a6036e812159
 file_type: application/pdf

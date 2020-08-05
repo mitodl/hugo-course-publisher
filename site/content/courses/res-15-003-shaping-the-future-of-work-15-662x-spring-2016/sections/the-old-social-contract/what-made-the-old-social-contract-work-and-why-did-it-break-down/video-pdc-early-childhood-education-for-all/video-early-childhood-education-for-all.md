@@ -322,6 +322,6 @@ transcript: >-
   <span m="226880">the</span> <span m="226960">price</span> <span
   m="240480">later.</span></p>
 uid: 66225dd0b7f9dcf92fdd9d1f8f06ba5d
-type: courses
+type: course
 layout: video
 ---

@@ -1,11 +1,11 @@
 ---
 title: Syllabus
 course_id: 18-01-single-variable-calculus-fall-2006
+type: course
+layout: course_section
 menu:
   18-01-single-variable-calculus-fall-2006:
     identifier: 65cb45fb6cb01e83dce485f41e5471b5
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
 ---

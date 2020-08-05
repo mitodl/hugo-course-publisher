@@ -1,7 +1,7 @@
 ---
 title: '6.006 Introduction to Algorithms, Fall 2011 Final Exam Solutions'
 description: This resource contains information regarding final exam solution.
-type: courses
+type: course
 layout: pdf
 uid: 6a81686dc8431dbc9e27dbe42eb683d7
 file_type: application/pdf

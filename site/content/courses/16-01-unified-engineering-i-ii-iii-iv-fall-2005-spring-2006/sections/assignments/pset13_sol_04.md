@@ -4,7 +4,7 @@ description: >-
   This file includes problems on truth table for boolean variables, boolean
   algebra theorems, direct proof, and problems from the text Signals and
   Systems.
-type: courses
+type: course
 layout: pdf
 uid: 6d5c9fb15053482ab658627624b84836
 file_type: application/pdf

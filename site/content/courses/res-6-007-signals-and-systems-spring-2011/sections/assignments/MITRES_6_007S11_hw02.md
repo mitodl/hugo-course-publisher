@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_hw02.pdf
 description: 'This resource contains problem set related to signals and systems: part I.'
-type: courses
+type: course
 layout: pdf
 uid: 8fbf4451c622e6efbcf7452222d21ea5
 file_type: application/pdf

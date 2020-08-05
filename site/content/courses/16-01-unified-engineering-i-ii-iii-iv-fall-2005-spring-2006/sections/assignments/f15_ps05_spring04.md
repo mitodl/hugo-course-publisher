@@ -1,7 +1,7 @@
 ---
 title: f15_ps05_spring04.pdf
 description: This resource contains problems related to shock waves.
-type: courses
+type: course
 layout: pdf
 uid: dcb8e6dd467efea5a8ff5c7b625b92eb
 file_type: application/pdf

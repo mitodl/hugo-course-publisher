@@ -1,7 +1,7 @@
 ---
 title: f11_mud.pdf
 description: Review questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: a7293462acaca70f82f1ef3e9a1ac36a
 file_type: application/pdf

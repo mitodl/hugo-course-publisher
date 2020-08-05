@@ -5177,6 +5177,6 @@ transcript: >-
   m="4917590">I'll stick</span> <span m="4917750">around for</span> <span
   m="4918050">questions.</span></p>
 uid: 5b809cd6fee17a09494be825238dd22a
-type: courses
+type: course
 layout: video
 ---

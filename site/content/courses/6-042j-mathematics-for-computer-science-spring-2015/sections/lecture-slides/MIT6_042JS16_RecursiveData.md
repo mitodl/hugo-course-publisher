@@ -3,7 +3,7 @@ title: 'Recursive Definition: Recursive Data'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 57776e6e4533d58899f3d4629a35b107
 file_type: application/pdf

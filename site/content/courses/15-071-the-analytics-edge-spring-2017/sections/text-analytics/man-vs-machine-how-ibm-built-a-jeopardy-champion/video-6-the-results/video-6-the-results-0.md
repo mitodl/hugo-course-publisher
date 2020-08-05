@@ -586,6 +586,6 @@ transcript: >-
   m='505844'>of</span> <span m='506207'>which</span> <span m='506570'>is</span>
   <span m='507425'>medicine.</span> </p>
 uid: 5a34c0c5553dc921077146e6ad8e892e
-type: courses
+type: course
 layout: video
 ---

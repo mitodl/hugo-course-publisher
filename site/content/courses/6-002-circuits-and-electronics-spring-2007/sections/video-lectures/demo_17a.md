@@ -4,7 +4,7 @@ description: >-
   This resource contains a demo showing how an RC circuit can approximate either
   an integrator (capacitor voltage at high frequencies) or a differentiator
   (resistor voltage at low frequencies).
-type: courses
+type: course
 layout: pdf
 uid: d31f7bc824ceb3d0678e833101250e4d
 file_type: application/pdf

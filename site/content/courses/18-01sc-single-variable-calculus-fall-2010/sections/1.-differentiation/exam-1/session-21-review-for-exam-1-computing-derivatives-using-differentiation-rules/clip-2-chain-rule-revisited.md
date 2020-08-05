@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Chain Rule, Revisited'
 transcript: ''
 uid: 8dcda0e650139d0b195acc70ad6e0950
-type: courses
+type: course
 layout: video
 ---

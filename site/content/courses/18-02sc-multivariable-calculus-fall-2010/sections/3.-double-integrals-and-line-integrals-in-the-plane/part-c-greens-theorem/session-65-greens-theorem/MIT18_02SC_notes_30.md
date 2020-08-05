@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_30.pdf
 description: This resource contains information related to green's theorem.
-type: courses
+type: course
 layout: pdf
 uid: f6f3d244fdb08732ea8e49ef3dce6e0c
 file_type: application/pdf

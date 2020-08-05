@@ -1,16 +1,14 @@
 ---
 title: Change of Basis; Image Compression
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 7b90bea0f6ce9bfdc750ada6103da88c
-    type: section
-    layout: section
     name: Change of Basis; Image Compression
     weight: 430
     parent: 34f596bc232822be5fba75646f6970c5
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/linear-transformations-and-their-matrices/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse/_index.md" %}}) »
 

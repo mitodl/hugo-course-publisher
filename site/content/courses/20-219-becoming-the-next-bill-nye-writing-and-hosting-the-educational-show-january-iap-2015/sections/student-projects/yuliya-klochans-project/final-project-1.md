@@ -304,6 +304,6 @@ transcript: >-
   m="198990">you</span> <span m="199280">see?</span></p><p><span
   m="199880">[JAZZ MUSIC]</span></p><p>&nbsp;</p>
 uid: f982840095e84546a0405fb6f1e60de4
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: u01_ps01_sol.pdf
 description: This file contains the solutions to the questions asked for range equation.
-type: courses
+type: course
 layout: pdf
 uid: 8cb3fca9f97318db67414cba02360ba5
 file_type: application/pdf

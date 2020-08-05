@@ -2607,6 +2607,6 @@ transcript: >-
   m="2287500">formation,</span> <span m="2288240">and</span> <span
   m="2288390">Hess's</span> <span m="2288900">Law.</span></p>
 uid: ded981022f1fc9b465bb3ade7166d20b
-type: courses
+type: course
 layout: video
 ---

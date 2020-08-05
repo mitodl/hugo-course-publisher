@@ -2860,6 +2860,6 @@ transcript: >-
   m="2605530">arrangements</span> <span m="2606160">of</span> <span
   m="2606340">electrons.</span></p>
 uid: 5a75b7ff300e6deaa16d151272e69ffa
-type: courses
+type: course
 layout: video
 ---

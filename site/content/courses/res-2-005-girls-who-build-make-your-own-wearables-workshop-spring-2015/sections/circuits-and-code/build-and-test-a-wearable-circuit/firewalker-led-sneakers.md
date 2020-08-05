@@ -23,6 +23,6 @@ technical_location: >-
 title: Firewalker LED Sneakers
 transcript: ''
 uid: 2fb422581b94f9bb2bac01fe2d55616f
-type: courses
+type: course
 layout: video
 ---

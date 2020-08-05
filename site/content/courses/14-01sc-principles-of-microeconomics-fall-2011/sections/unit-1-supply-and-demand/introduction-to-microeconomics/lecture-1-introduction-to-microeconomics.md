@@ -2882,6 +2882,6 @@ transcript: >-
   m='2050600'>Monday,</span> <span m='2051560'>next</span> <span
   m='2051920'>Monday.</span> </p>
 uid: 964a2c053cd2cbc7f6bfdf5264cf0c3d
-type: courses
+type: course
 layout: video
 ---

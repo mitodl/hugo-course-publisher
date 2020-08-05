@@ -1,7 +1,7 @@
 ---
 title: 'Lab 5 Instructions: Build Your Own Wind Turbine'
 description: 'This resource contains the information related to wind turbine. '
-type: courses
+type: course
 layout: pdf
 uid: 184c0fc86a104f97fddefdc5bd119127
 file_type: application/pdf

@@ -4,7 +4,7 @@ description: >-
   Problem set S12 involving bilateral?Laplace
 
   transform?(including?the?region?of?convergence)?by?directly?evaluating?the?Laplace?transform?integral.
-type: courses
+type: course
 layout: pdf
 uid: ce444fabf2c5f1bec8a3fc31c20729fd
 file_type: application/pdf

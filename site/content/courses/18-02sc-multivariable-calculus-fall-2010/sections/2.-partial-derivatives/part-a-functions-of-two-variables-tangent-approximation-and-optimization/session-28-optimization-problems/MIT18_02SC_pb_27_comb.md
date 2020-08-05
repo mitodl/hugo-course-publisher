@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_27_comb.pdf
 description: >-
   This resource contains problem statements and solutions related to
   optimization problems.
-type: courses
+type: course
 layout: pdf
 uid: 1f31f2e8eba1ad83251380e11f108971
 file_type: application/pdf

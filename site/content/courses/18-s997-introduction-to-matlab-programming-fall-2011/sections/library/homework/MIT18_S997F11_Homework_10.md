@@ -1,7 +1,7 @@
 ---
 title: '18.S997 Conway Game: Homework 10'
 description: This resource contains information regarding homework 10.
-type: courses
+type: course
 layout: pdf
 uid: c305380262ab5a94a2e40ccf3500191c
 file_type: application/pdf

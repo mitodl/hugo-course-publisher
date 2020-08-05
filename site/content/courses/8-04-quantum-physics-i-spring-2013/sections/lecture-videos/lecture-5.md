@@ -4369,6 +4369,6 @@ transcript: >-
   m="4984720">you.</span></p><p><span
   m="4985620">[APPLAUSE]</span></p><p>&nbsp;</p>
 uid: 2e042a28bba15028a7dabb40feae0492
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 34: Kinetics: Catalysts'
 description: This file contains information regarding  lecture 34.
-type: courses
+type: course
 layout: pdf
 uid: db306ff0886a2363883287c84df23161
 file_type: application/pdf

@@ -240,6 +240,6 @@ technical_location: >-
 title: 'Session 2, Part 2: Business Models'
 transcript: ''
 uid: 1eb6466536324ca7e6f4c733fbbcaa30
-type: courses
+type: course
 layout: video
 ---

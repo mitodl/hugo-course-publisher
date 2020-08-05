@@ -3,7 +3,7 @@ title: 'Random Walks & Pagerank: Chapter 20.2'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Random walks & pagerank: Chapter 20.2.
-type: courses
+type: course
 layout: pdf
 uid: 78a421aec146e0f2d4d75c66c08933d3
 file_type: application/pdf

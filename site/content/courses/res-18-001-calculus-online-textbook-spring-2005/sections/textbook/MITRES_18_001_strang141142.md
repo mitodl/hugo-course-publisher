@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang141142.pdf
 description: This resource contains information related to multiple integrals.
-type: courses
+type: course
 layout: pdf
 uid: b85810715753179cd9e1705cdb41a521
 file_type: application/pdf

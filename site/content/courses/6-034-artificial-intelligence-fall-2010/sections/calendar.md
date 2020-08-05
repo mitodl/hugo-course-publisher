@@ -1,11 +1,11 @@
 ---
 title: Calendar
 course_id: 6-034-artificial-intelligence-fall-2010
+type: course
+layout: course_section
 menu:
   6-034-artificial-intelligence-fall-2010:
     identifier: 26a2c9d23c7e8009be9911ab0a3d347b
-    type: section
-    layout: section
     name: Calendar
     weight: 20
 ---

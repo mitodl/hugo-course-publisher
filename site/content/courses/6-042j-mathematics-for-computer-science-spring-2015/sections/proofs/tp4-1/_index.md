@@ -1,16 +1,14 @@
 ---
 title: 1.8  Induction
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: videogallery
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 5179d7c0c3f7a60a33d7c24d9d219172
-    type: section
-    layout: section
     name: 1.8  Induction
     weight: 590
     parent: 95af5c7b87a2e15790a7ad18331a125f
-type: courses
-layout: videogallery
 ---
 *   [<Mapping Lemma: Sizes of Domains and Codomains]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-3/vertical-7d9a2d67e3b9" %}})
 *   [1.8.1Induction: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-1/_index.md" %}})

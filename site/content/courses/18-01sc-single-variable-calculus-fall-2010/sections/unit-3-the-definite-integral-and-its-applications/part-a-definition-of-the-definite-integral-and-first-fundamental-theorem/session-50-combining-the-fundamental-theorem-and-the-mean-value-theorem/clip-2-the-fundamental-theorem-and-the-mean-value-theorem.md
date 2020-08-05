@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: The Fundamental Theorem and the Mean Value Theorem'
 transcript: ''
 uid: 283b36790ae66283e88ad91da10563ef
-type: courses
+type: course
 layout: video
 ---

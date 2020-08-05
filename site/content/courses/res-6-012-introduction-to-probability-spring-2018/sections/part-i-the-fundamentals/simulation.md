@@ -239,6 +239,6 @@ transcript: >-
   <span m='749590'>generator that produces uniform random variables.</span>
   </p><p></p>
 uid: f353703a541c9e2e4c6eb69138ec59ee
-type: courses
+type: course
 layout: video
 ---

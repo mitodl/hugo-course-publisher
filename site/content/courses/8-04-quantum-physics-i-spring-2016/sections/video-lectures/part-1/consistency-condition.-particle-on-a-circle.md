@@ -830,6 +830,6 @@ transcript: >-
   m='1064470'>do</span> <span m='1064670'>anything</span> <span
   m='1064970'>you</span> <span m='1065270'>want.</span> </p>
 uid: 178cef1c9c7c3f745d29f4c57380474b
-type: courses
+type: course
 layout: video
 ---

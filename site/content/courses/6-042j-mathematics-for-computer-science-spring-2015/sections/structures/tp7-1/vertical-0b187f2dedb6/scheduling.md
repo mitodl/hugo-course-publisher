@@ -1062,6 +1062,6 @@ transcript: >-
   m='793660'>term</span> <span m='794050'>in</span> <span m='794260'>the</span>
   <span m='794330'>next</span> <span m='794620'>segment.</span> </p>
 uid: 11e1b3610106323714196d1ef084ab53
-type: courses
+type: course
 layout: video
 ---

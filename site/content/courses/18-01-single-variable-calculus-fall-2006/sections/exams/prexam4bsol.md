@@ -1,7 +1,7 @@
 ---
 title: Practice Exam 4 Solutions
 description: Solutions to Practice Exam 4 of the course.
-type: courses
+type: course
 layout: pdf
 uid: 19773c041b4107882dfb0523503fdc42
 file_type: application/pdf

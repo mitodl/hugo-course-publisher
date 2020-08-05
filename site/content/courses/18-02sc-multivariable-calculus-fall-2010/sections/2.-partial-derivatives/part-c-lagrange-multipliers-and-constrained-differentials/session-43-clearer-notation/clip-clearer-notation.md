@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Clearer Notation'
 transcript: ''
 uid: fb811db78cd13aadbc242ad883ee6afa
-type: courses
+type: course
 layout: video
 ---

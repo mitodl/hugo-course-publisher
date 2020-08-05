@@ -3,7 +3,7 @@ title: prsm2.pdf
 description: >-
   This resource contains concept questions and answers based on shear force and
   the variation of bending.
-type: courses
+type: course
 layout: pdf
 uid: ea85f65850accf0bf9f2a4374bd23e0c
 file_type: application/pdf

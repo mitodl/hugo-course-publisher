@@ -1,7 +1,7 @@
 ---
 title: s11_concept.pdf
 description: Concept questions on state variables.
-type: courses
+type: course
 layout: pdf
 uid: 9e54ad50022ffb86e576d0b2891f23d5
 file_type: application/pdf

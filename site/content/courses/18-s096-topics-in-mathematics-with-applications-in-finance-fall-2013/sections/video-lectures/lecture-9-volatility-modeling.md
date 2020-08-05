@@ -4360,6 +4360,6 @@ transcript: >-
   m='4871920'>for</span> <span m='4873720'>a</span> <span m='4874020'>field
   trip.</span> </p>
 uid: b89428de15f893c4d601f2df898c176a
-type: courses
+type: course
 layout: video
 ---

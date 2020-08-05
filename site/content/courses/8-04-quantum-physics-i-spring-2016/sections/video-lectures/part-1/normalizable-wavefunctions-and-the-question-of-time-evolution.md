@@ -834,6 +834,6 @@ transcript: >-
   m='1009030'>how</span> <span m='1009330'>does it</span> <span
   m='1009630'>do</span> <span m='1009930'>that?</span> </p>
 uid: 307c9811af7d9b8a5157c9c269bd346f
-type: courses
+type: course
 layout: video
 ---

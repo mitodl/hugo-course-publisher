@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip: Proof of Green''s Theorem'
 transcript: ''
 uid: 50f37905f485c56e03507ef28cc9d739
-type: courses
+type: course
 layout: video
 ---

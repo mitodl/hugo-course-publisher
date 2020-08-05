@@ -3,7 +3,7 @@ title: m20_ps06_sol.pdf
 description: >-
   This resource contains solutions to problem set on mean stress, cyclic stress,
   and unsteady aerodynamic loading.
-type: courses
+type: course
 layout: pdf
 uid: 6effcfa28e5e19f1eeeaff53a5e4388c
 file_type: application/pdf

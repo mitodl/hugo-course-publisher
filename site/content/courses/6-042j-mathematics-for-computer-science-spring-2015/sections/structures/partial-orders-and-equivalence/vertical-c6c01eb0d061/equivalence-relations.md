@@ -570,6 +570,6 @@ transcript: >-
   m='428280'>what</span> <span m='428970'>equivalence</span> <span
   m='429550'>relations</span> <span m='430100'>are.</span> </p>
 uid: 2656fa235bd03a7c5e7fa9b97b363c91
-type: courses
+type: course
 layout: video
 ---

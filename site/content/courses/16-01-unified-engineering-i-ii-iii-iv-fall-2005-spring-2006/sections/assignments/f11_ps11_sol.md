@@ -3,7 +3,7 @@ title: f11_ps11_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on
   voracity, strain rate of fluid and shearing element motions.
-type: courses
+type: course
 layout: pdf
 uid: 2436e15a1b49668dea5f6ff381d65815
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: Lecture slides for Lab 3
 description: This resource contains information related to Lab 3.
-type: courses
+type: course
 layout: pdf
 uid: 04e9004504845ba57a66385d763c7ba1
 file_type: application/pdf

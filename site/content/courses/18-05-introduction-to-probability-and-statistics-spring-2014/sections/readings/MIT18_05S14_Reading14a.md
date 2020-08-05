@@ -3,7 +3,7 @@ title: 'Reading 14a: Beta Distributions'
 description: >-
   This is a resource file that contains information regarding reading 14a: beta
   distributions.
-type: courses
+type: course
 layout: pdf
 uid: d6d722fef1c4f36cf2525bfe0b4f905a
 file_type: application/pdf

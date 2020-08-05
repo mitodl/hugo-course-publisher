@@ -3,7 +3,7 @@ title: 'Reading for 25: Linear Regression'
 description: >-
   This resource file contains information regarding reading for 25: linear
   regression.
-type: courses
+type: course
 layout: pdf
 uid: 4165bb0ea4e716909c1fa78eec116ae7
 file_type: application/pdf

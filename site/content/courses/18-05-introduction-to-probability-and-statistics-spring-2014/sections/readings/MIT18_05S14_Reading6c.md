@@ -1,7 +1,7 @@
 ---
 title: 'Reading 6c: Appendix'
 description: 'This resource file contains information regarding reading 6c: appendix.'
-type: courses
+type: course
 layout: pdf
 uid: 4f6fd6293f567248eb59c4f0817b6650
 file_type: application/pdf

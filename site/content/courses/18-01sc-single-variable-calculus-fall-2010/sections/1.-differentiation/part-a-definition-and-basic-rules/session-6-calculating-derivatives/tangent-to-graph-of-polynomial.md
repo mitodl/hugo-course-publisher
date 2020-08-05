@@ -349,6 +349,6 @@ transcript: >-
   m='291720'>So</span> <span m='291920'>that's</span> <span
   m='292160'>that.</span> </p>
 uid: 351515e15ca4d4e08fac6e65d2a42b18
-type: courses
+type: course
 layout: video
 ---

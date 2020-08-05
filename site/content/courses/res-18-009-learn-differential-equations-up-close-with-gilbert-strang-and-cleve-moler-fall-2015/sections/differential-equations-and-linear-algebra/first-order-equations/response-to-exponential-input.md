@@ -748,6 +748,6 @@ transcript: >-
   m='791270'>next</span> <span m='791550'>lecture.</span> <span
   m='792660'>Thanks.</span> </p>
 uid: 772d404c3a32d74c876054d67391f3d5
-type: courses
+type: course
 layout: video
 ---

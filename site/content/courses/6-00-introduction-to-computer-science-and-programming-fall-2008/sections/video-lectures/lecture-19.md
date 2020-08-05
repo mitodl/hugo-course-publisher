@@ -2795,6 +2795,6 @@ transcript: >-
   m='2990830'>on</span> <span m='2991020'>under</span> <span
   m='2991220'>the</span> <span m='2991330'>covers.</span> </p>
 uid: b216402a2d5c7709f80d93a0c53164ea
-type: courses
+type: course
 layout: video
 ---

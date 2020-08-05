@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pset1.pdf
 description: This resource contains information related to polarization identity.
-type: courses
+type: course
 layout: pdf
 uid: 2ea35c7ab33c5c143ae8f60f949588f2
 file_type: application/pdf

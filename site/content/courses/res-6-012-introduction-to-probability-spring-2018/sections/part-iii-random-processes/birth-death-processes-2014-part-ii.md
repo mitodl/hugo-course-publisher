@@ -197,6 +197,6 @@ transcript: >-
   large number of customers</span> <span m="532100">in the system at any given
   time.</span></p><p>&nbsp;</p>
 uid: d73ba013cc5d737da529c440044851c5
-type: courses
+type: course
 layout: video
 ---

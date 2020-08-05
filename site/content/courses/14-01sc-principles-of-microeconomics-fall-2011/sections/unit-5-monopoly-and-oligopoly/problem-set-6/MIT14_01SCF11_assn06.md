@@ -3,7 +3,7 @@ title: MIT14_01SCF11_assn06.pdf
 description: >-
   This resource contains 4 problem statements related to marginal cost curves,
   and equilibrium. 
-type: courses
+type: course
 layout: pdf
 uid: bfd02c40de05ca327f4b93745ccfa049
 file_type: application/pdf

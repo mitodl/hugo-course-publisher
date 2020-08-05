@@ -1,16 +1,14 @@
 ---
 title: Orthogonal Matrices and Gram-Schmidt
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 2376f3e00c4de0f6634653041d685aed
-    type: section
-    layout: section
     name: Orthogonal Matrices and Gram-Schmidt
     weight: 230
     parent: cf73d07ac972ab3c450a0f10d0be0664
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/properties-of-determinants/_index.md" %}}) »
 

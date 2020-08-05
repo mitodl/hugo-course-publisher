@@ -1,7 +1,7 @@
 ---
 title: 'Class 22 Slides: Confidence intervals for normal data'
 description: This is a resource file that contains information regarding class 22.
-type: courses
+type: course
 layout: pdf
 uid: 6d0584509f0204da6bb66be15141b879
 file_type: application/pdf

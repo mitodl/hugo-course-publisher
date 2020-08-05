@@ -3470,6 +3470,6 @@ transcript: >-
   m='2886410'>actually</span> <span m='2886650'>dictate</span> <span
   m='2886960'>your</span> <span m='2887060'>choices.</span> </p>
 uid: 6dfd9f41d710f14d43915d525511f7ad
-type: courses
+type: course
 layout: video
 ---

@@ -918,6 +918,6 @@ transcript: >-
   m='696170'>will</span> <span m='696360'>stop</span> <span
   m='696520'>there.</span> </p>
 uid: 4a1c1d342b0352534bab3a6fa63f10d0
-type: courses
+type: course
 layout: video
 ---

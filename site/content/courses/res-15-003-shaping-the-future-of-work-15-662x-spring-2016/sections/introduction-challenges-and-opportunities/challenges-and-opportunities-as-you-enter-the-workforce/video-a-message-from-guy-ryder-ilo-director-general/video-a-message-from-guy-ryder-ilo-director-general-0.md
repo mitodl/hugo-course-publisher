@@ -330,6 +330,6 @@ transcript: >-
   m='214940'>around</span> <span m='215210'>the</span> <span
   m='215270'>world.</span> </p>
 uid: 767bbf5f6a3acf2383c272ea75ad37f0
-type: courses
+type: course
 layout: video
 ---

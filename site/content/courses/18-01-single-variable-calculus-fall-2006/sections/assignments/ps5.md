@@ -1,7 +1,7 @@
 ---
 title: Problem Set 5
 description: Problem set on single variable calculus.
-type: courses
+type: course
 layout: pdf
 uid: 11be301cf5dc7040bb15079265463dd6
 file_type: application/pdf

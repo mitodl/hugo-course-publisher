@@ -1,7 +1,7 @@
 ---
 title: summary_w02d1.pdf
 description: This resource is about electric potential.
-type: courses
+type: course
 layout: pdf
 uid: 8c3b0ba76dfcf363b538f0d4035dfde0
 file_type: application/pdf

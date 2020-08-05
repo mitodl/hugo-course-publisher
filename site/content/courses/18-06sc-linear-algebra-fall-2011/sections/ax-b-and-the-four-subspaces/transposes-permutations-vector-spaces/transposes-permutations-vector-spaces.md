@@ -2615,6 +2615,6 @@ transcript: >-
   m='2848330'>to</span> <span m='2848470'>come.</span> </p><p><span
   m='2850230'>Okay,</span> <span m='2850720'>thanks.</span> </p>
 uid: 6e421e4574a50e338f54796edd0fadbd
-type: courses
+type: course
 layout: video
 ---

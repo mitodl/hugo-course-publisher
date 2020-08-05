@@ -1,7 +1,7 @@
 ---
 title: s01_cgs.pdf
 description: Lecture S1 concept question.
-type: courses
+type: course
 layout: pdf
 uid: 5c9c9066178d8469d6efb2f3bcb05ccf
 file_type: application/pdf

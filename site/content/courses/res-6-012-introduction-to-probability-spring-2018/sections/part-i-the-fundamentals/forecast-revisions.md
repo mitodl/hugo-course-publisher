@@ -133,6 +133,6 @@ transcript: >-
   </p><p><span m='268580'>So there's no contradiction between this mathematical
   fact</span> <span m='272070'>and possible life experiences.</span> </p><p></p>
 uid: e5535579e49fece0f57d0334921c9138
-type: courses
+type: course
 layout: video
 ---

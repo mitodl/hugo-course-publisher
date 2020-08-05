@@ -1,7 +1,7 @@
 ---
 title: '8.4 Google AdWords: Optimizing Online Advertising  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Video 2: How Online Advertising Works]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-2-how-online-advertising-works" %}})

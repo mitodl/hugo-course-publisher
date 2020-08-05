@@ -5236,6 +5236,6 @@ transcript: >-
   m="4904910">all-pairs</span> <span m="4905170">shortest</span> <span
   m="4905440">paths.</span></p>
 uid: a702195e8f7de0ff95649607f39d2583
-type: courses
+type: course
 layout: video
 ---

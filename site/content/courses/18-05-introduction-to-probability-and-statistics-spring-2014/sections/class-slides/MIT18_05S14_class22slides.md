@@ -3,7 +3,7 @@ title: 'Class 22 Slides: Confidence intervals for normal data'
 description: >-
   This is a resource file that contains information regarding confidence
   intervals for normal data.
-type: courses
+type: course
 layout: pdf
 uid: 9066c15e6f5fa80754f0ebf79db2097d
 file_type: application/pdf

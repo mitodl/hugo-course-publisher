@@ -328,6 +328,6 @@ transcript: >-
   m="208830">concrete</span> <span m="209275">and</span> <span
   m="209720">very</span> <span m="210020">compelling.</span></p>
 uid: 3e2b559e5731ba35883768f493cbc3fd
-type: courses
+type: course
 layout: video
 ---

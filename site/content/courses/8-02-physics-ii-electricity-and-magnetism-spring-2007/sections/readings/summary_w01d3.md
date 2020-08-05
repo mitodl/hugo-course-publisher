@@ -3,7 +3,7 @@ title: summary_w01d3.pdf
 description: >-
   This file talks about some of the mathematical concepts and Maxwell?s
   equations.
-type: courses
+type: course
 layout: pdf
 uid: 83a9b66f2896c2bd1568b41bc478fe1c
 file_type: application/pdf

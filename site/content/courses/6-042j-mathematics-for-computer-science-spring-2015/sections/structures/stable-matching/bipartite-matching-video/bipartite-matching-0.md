@@ -371,6 +371,6 @@ transcript: >-
   <span m='238320'>in</span> <span m='238490'>the</span> <span
   m='238560'>next</span> <span m='238820'>segment.</span> </p>
 uid: 793b4c3c257e998fd36d8cdd434d656a
-type: courses
+type: course
 layout: video
 ---

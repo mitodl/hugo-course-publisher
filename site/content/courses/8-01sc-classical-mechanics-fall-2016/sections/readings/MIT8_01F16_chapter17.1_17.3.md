@@ -1,7 +1,7 @@
 ---
 title: 8.01 Classical Mechanics Chapter 17.1-17.3
 description: This resource contains information regarding classical mechanics.
-type: courses
+type: course
 layout: pdf
 uid: 2787c22619f04e25be1d013cc10f4a18
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Class 27 Problems File: Review for final exam, cont''d'
 description: This is a resource file that contains information regarding class 27 problems.
-type: courses
+type: course
 layout: pdf
 uid: 333c6d5078b00119da1e37dc8662ef8d
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 17 slides: curve fitting'
 description: This resource contains information related to curve fitting.
-type: courses
+type: course
 layout: pdf
 uid: ca551e6099ec5a6bb30754d199243d02
 file_type: application/pdf

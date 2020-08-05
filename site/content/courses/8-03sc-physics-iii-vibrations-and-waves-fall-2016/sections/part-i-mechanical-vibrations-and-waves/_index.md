@@ -1,11 +1,11 @@
 ---
 title: 'Part I: Mechanical Vibrations and Waves'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
+type: course
+layout: course_section
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 6682a3d163976bcbb2fbe67db27d8f04
-    type: section
-    layout: section
     name: 'Part I: Mechanical Vibrations and Waves'
     weight: 30
 ---

@@ -2553,6 +2553,6 @@ transcript: >-
   m='2936030'>So</span> <span m='2936250'>we'll</span> <span m='2936520'>stop
   here.</span> </p>
 uid: 301384af45ebf261ef9f6e999baa318e
-type: courses
+type: course
 layout: video
 ---

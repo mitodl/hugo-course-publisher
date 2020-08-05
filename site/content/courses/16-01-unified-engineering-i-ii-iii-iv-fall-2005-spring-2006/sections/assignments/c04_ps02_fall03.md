@@ -3,7 +3,7 @@ title: c04_ps02_fall03.pdf
 description: >-
   This handout contains the Problem set based on ASCII and hexadecimal
   notations.
-type: courses
+type: course
 layout: pdf
 uid: 5b9ac1753570328d2b3a709f60f59ade
 file_type: application/pdf

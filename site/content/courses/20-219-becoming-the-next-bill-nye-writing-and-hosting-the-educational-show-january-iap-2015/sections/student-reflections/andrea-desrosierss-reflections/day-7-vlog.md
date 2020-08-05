@@ -137,6 +137,6 @@ transcript: >-
   m="53110">we'll</span> <span m="53210">see</span> <span m="53390">how</span>
   <span m="53520">that</span> <span m="53710">goes.</span></p>
 uid: 42f5a12c504152c4579be60dff4e6130
-type: courses
+type: course
 layout: video
 ---

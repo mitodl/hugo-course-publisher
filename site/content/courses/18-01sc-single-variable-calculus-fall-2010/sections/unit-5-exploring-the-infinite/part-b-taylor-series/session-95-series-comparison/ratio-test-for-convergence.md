@@ -1093,6 +1093,6 @@ transcript: >-
   m='812380'>in</span> <span m='812480'>our</span> <span m='812580'>next</span>
   <span m='812830'>video.</span> </p>
 uid: 41ca475806d8b7d8902c7ef774b7f311
-type: courses
+type: course
 layout: video
 ---

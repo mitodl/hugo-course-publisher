@@ -1,11 +1,11 @@
 ---
 title: Calendar
 course_id: 18-06-linear-algebra-spring-2010
+type: course
+layout: course_section
 menu:
   18-06-linear-algebra-spring-2010:
     identifier: dd9a953efeee023ce9f4e965b7a55d57
-    type: section
-    layout: section
     name: Calendar
     weight: 20
 ---

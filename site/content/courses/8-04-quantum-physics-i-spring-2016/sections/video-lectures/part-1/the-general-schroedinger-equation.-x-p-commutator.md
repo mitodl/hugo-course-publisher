@@ -860,6 +860,6 @@ transcript: >-
   m='1072830'>mechanics</span> <span m='1073710'>is</span> <span
   m='1074305'>ih</span> <span m='1074700'>bar.</span> </p>
 uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
-type: courses
+type: course
 layout: video
 ---

@@ -243,6 +243,6 @@ transcript: >-
   m='164640'>interesting</span> <span m='165213'>data</span> <span
   m='165786'>set.</span> </p>
 uid: 6e4647abc18fd7012bbb26dc07ed1fb0
-type: courses
+type: course
 layout: video
 ---

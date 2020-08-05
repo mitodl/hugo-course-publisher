@@ -633,6 +633,6 @@ transcript: >-
   m='674980'>rate.</span> <span m='675780'>Good.</span> <span
   m='676570'>Thank</span> <span m='676840'>you.</span> </p>
 uid: b2cf8433dcf004bb45ce772f7ef6ea03
-type: courses
+type: course
 layout: video
 ---

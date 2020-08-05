@@ -99,6 +99,6 @@ transcript: >-
   the expected value of a binomial</span> <span m="120060">random
   variable.</span></p><p>&nbsp;</p>
 uid: 06e92228f7f5ac9254aa55a1f89c2d67
-type: courses
+type: course
 layout: video
 ---

@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip: Potential Functions'
 transcript: ''
 uid: 2d8696a7981acccf944f5b85f175f7bd
-type: courses
+type: course
 layout: video
 ---

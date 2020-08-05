@@ -3,7 +3,7 @@ title: m10_ps10_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem seton bar
   forces, method of joints and superpositions.
-type: courses
+type: course
 layout: pdf
 uid: 1c325992839ae63ab415088259ef5ee6
 file_type: application/pdf

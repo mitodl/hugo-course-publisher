@@ -137,6 +137,6 @@ transcript: >-
   m='75130'>up</span> <span m='75350'>during</span> <span m='75600'>the</span>
   <span m='75720'>break.</span> </p>
 uid: 1f032a62ec932e7df092ffbea1da55e4
-type: courses
+type: course
 layout: video
 ---

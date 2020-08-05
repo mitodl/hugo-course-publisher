@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_lec25.pdf
 description: This resource contains information related to feedback.
-type: courses
+type: course
 layout: pdf
 uid: 82de27f7726dfe97743f781d2db2faa9
 file_type: application/pdf

@@ -3022,6 +3022,6 @@ transcript: >-
   m='2513850'>OK?</span> <span m='2514450'>Thank</span> <span
   m='2514760'>you.</span> </p><p><span m='2515360'>AUDIENCE: Thanks.</span> </p>
 uid: 48cfbc21b775bf9795dbc4d1f35e1929
-type: courses
+type: course
 layout: video
 ---

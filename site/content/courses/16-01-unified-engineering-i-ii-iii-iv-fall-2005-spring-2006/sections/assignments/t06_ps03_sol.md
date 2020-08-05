@@ -1,7 +1,7 @@
 ---
 title: t06_ps03_sol.pdf
 description: Hand wriiten solution of problem T6.
-type: courses
+type: course
 layout: pdf
 uid: d0c10babf2df74ef3d00bc9c929bdeff
 file_type: application/pdf

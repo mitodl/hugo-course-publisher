@@ -1,7 +1,7 @@
 ---
 title: s07_ps07_fall03.pdf
 description: Problem set based on Thevinin and Norton equivalent?circuits.
-type: courses
+type: course
 layout: pdf
 uid: 66e03aa7858525c0e359bc7fc6591205
 file_type: application/pdf

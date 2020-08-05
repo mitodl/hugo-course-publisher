@@ -3,7 +3,7 @@ title: m20_ps06_spring04.pdf
 description: >-
   This resource contains a problem set based on mean stress, cyclic stress, and
   unsteady aerodynamic loading.
-type: courses
+type: course
 layout: pdf
 uid: a1b82a0aa64029e6416c3d5f97e0993b
 file_type: application/pdf

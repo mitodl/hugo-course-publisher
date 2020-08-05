@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Integral of sin2(x) cos2(x)'
 transcript: ''
 uid: b9b40761377d9051d99c2c68b2cea7f6
-type: courses
+type: course
 layout: video
 ---

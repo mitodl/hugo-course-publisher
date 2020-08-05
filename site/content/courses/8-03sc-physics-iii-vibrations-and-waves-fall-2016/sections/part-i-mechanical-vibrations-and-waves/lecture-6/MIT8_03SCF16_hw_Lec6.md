@@ -1,7 +1,7 @@
 ---
 title: 'MIT 8.03SC Fall 2016 Lecture 6: Driven Oscillators, Resonance'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: f1e380d94ed3dcc5391b82af69cc90e2
 file_type: application/pdf

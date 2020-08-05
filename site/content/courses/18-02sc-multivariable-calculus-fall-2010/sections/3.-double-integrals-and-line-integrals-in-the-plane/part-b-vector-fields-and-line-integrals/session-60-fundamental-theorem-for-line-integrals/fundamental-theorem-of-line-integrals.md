@@ -616,6 +616,6 @@ transcript: >-
   m='666190'>using</span> <span m='666460'>the</span> <span m='666550'>line
   integrals.</span> </p>
 uid: cec5501b359ce12262fd817a9283a78a
-type: courses
+type: course
 layout: video
 ---

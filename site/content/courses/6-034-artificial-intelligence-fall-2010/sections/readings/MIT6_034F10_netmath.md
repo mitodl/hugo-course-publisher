@@ -1,7 +1,7 @@
 ---
 title: MIT6_034F10_netmath.pdf
 description: This resource contains information related to sigmoid function.
-type: courses
+type: course
 layout: pdf
 uid: fcd808125be09dd585ec3ec01c46726d
 file_type: application/pdf

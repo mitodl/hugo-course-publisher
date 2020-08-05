@@ -381,6 +381,6 @@ transcript: >-
   m='304360'>that,</span> <span m='304630'>I'll end</span> <span
   m='305050'>there.</span> </p>
 uid: d32610769cd22138e80becc41adc5974
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: spl9c.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 466ce2e5fd1cf699357e450c34b38b1f
 file_type: application/pdf

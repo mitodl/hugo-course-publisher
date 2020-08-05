@@ -3057,6 +3057,6 @@ transcript: >-
   m="2779510">year</span> <span m="2780180">before</span> <span
   m="2780660">the</span> <span m="2780810">finals.</span></p>
 uid: 58624e6ae2f05c68053bf3334baa8c0b
-type: courses
+type: course
 layout: video
 ---

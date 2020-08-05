@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses1.2prob.pdf
 description: This resource contains problem sets related to elimination with matrices.
-type: courses
+type: course
 layout: pdf
 uid: 2a96d025346d8845829251cb918caddd
 file_type: application/pdf

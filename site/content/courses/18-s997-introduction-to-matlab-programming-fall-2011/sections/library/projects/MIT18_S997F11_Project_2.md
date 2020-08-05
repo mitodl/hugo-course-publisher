@@ -1,7 +1,7 @@
 ---
 title: 18.S997 Project 2
 description: This resource contains information regarding project 2.
-type: courses
+type: course
 layout: pdf
 uid: 6183b5c4ef55229d58331e997cffcc29
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_5_comb.pdf
 description: >-
   This resource contains problem statements and solutions related to area and
   determinants.
-type: courses
+type: course
 layout: pdf
 uid: 860e3ac4bb8a3d42815486b9f00617c5
 file_type: application/pdf

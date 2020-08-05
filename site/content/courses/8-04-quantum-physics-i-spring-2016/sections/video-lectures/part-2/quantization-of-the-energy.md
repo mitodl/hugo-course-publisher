@@ -1150,6 +1150,6 @@ transcript: >-
   m='1401230'>goes</span> <span m='1401450'>on</span> <span
   m='1401750'>like</span> <span m='1402050'>that.</span> </p>
 uid: 6728d7da72ba0c4b14fa286c88471a37
-type: courses
+type: course
 layout: video
 ---

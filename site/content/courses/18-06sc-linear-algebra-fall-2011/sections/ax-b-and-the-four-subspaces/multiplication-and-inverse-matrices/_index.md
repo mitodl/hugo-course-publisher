@@ -1,16 +1,14 @@
 ---
 title: Multiplication and Inverse Matrices
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: c6606cdd9775d774f694cdc5e6c30381
-    type: section
-    layout: section
     name: Multiplication and Inverse Matrices
     weight: 70
     parent: 34303ce19b45724122d2bd33d64df688
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/elimination-with-matrices/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/factorization-into-a-lu/_index.md" %}}) »
 

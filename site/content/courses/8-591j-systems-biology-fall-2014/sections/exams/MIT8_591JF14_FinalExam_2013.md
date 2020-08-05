@@ -1,7 +1,7 @@
 ---
 title: 'Systems Biology Final Exam, 2013'
 description: 'This resource contains the information regarding Final Exam, 2013.'
-type: courses
+type: course
 layout: pdf
 uid: 2ece04f5d01740bca9143c593fdab9ad
 file_type: application/pdf

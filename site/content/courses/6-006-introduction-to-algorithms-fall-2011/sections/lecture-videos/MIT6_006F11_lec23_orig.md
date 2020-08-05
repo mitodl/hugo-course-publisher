@@ -1,7 +1,7 @@
 ---
 title: '6.006 Lecture 23 Original: Computational complexity'
 description: This resource contains information related to Computational complexity.
-type: courses
+type: course
 layout: pdf
 uid: d05389a3835dd7c715389f590e4bf48a
 file_type: application/pdf

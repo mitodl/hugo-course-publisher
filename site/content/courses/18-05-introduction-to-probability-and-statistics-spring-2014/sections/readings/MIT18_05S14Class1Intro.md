@@ -3,7 +3,7 @@ title: 'Reading for Class 1: Introduction'
 description: >-
   This is a resource file that contains information regarding reading for Class
   1: Introduction.
-type: courses
+type: course
 layout: pdf
 uid: 1cf4c6b1f3928ec9d16b23d5c6786452
 file_type: application/pdf

@@ -1,16 +1,14 @@
 ---
 title: Competition III
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 67a95d6365f3707574af48aaa0010a46
-    type: section
-    layout: section
     name: Competition III
     weight: 230
     parent: 74a70dbf28134c7f25cae0a217b6ec6f
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics/problem-set-5/_index.md" %}}) »
 

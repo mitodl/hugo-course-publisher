@@ -738,6 +738,6 @@ transcript: >-
   m='891350'>strange</span> <span m='892010'>happening</span> <span
   m='892530'>here.</span> </p>
 uid: 602bf29587a505983dd84f15409665c8
-type: courses
+type: course
 layout: video
 ---

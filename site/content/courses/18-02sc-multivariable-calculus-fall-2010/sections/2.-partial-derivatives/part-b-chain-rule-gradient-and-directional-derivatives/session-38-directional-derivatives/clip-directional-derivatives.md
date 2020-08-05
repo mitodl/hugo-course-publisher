@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Directional Derivatives'
 transcript: ''
 uid: d21161a5f48b59b83902443c8487fce1
-type: courses
+type: course
 layout: video
 ---

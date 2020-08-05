@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Clicker Questions for Lecture 5: Hydrogen atom
   energy levels
 description: This resource contains information regarding Hydrogen atom energy levels.
-type: courses
+type: course
 layout: pdf
 uid: dc1caf614e77c2e61a11a05333c7655e
 file_type: application/pdf

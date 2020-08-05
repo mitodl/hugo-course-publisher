@@ -3,7 +3,7 @@ title: 'Infinite Sets: Cantor''s Theorem'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: b79bab9ddcc391860e0ade9931ffadba
 file_type: application/pdf

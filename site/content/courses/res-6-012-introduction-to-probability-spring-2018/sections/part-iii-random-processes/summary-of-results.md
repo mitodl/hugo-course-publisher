@@ -110,6 +110,6 @@ transcript: >-
   </p><p><span m='151130'>And this gave us the result for the Poisson
   case.</span> </p>
 uid: c5052999d9d73aa718a65ef23e55bdb4
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: summary_w01d3.pdf
 description: >-
   This resource is about coordinate systems; gradients; line and surface
   integrals.
-type: courses
+type: course
 layout: pdf
 uid: fbcd7e6b803188930c5cae42d26ec397
 file_type: application/pdf

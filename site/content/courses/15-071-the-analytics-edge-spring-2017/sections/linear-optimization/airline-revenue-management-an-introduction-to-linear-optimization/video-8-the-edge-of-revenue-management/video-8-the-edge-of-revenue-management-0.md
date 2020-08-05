@@ -192,6 +192,6 @@ transcript: >-
   m='162505'>revenue</span> <span m='162993'>by</span> <span
   m='163482'>$100</span> <span m='163971'>million.</span> </p>
 uid: 058889596f883ebc9a5c4db7413eae9e
-type: courses
+type: course
 layout: video
 ---

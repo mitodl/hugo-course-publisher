@@ -1,15 +1,13 @@
 ---
 title: Beethoven Concert
 course_id: 21m-250-beethoven-to-mahler-spring-2014
+type: course
+layout: videogallery
 menu:
   21m-250-beethoven-to-mahler-spring-2014:
     identifier: df6177af1eaeee1dce1d4c398d186695
-    type: section
-    layout: section
     name: Beethoven Concert
     weight: 80
-type: courses
-layout: videogallery
 ---
 Concert of Beethoven Sonatas
 ----------------------------

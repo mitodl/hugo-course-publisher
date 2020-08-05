@@ -3,7 +3,7 @@ title: MIT6_0001F16_Style Guide
 description: >-
   This resource contains information regarding introduction to computer science
   and programming in Python: Problem set.
-type: courses
+type: course
 layout: pdf
 uid: f79b87104b0a0f787f6a43413e8eafd0
 file_type: application/pdf

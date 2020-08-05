@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 3: Wave-Particle Duality of Light'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: videogallery
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: bac5bfe23ea5e2c1fbfbf345a7d17bda
-    type: section
-    layout: section
     name: Lecture 3
     weight: 60
     parent: 36cc671ac04c270e9cac7a210efd6846
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4/_index.md" %}}) »
 

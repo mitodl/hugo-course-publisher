@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex90prb.pdf
 description: >-
   This resource contains problem statements related to advanced examples of
   L'hospital's rule.
-type: courses
+type: course
 layout: pdf
 uid: aaf691e8f0704057c24c49783fa557a7
 file_type: application/pdf

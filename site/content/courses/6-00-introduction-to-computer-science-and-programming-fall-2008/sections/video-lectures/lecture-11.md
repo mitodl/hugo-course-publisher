@@ -2602,6 +2602,6 @@ transcript: >-
   m='2935750'>then</span> <span m='2936690'>back</span> <span
   m='2937020'>to</span> <span m='2937130'>algorithms.</span> </p>
 uid: dc783fd3cd1c7b04bf459ffb13050b80
-type: courses
+type: course
 layout: video
 ---

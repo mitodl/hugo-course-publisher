@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: The Indeterminate Form 00'
 transcript: ''
 uid: c009aa679b6f2a66e61b91f336dea25d
-type: courses
+type: course
 layout: video
 ---

@@ -730,6 +730,6 @@ transcript: >-
   m='819950'>the</span> <span m='820100'>known</span> <span
   m='820400'>theorem.</span> </p>
 uid: 2c3209286aec58d855ca86090c6c2641
-type: courses
+type: course
 layout: video
 ---

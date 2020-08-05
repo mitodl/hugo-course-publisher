@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex69prb.pdf
 description: >-
   This resource contains problem statements related to integral of sin^n(x)
   cos^m(x) and even exponents.
-type: courses
+type: course
 layout: pdf
 uid: a9eb7129f4d036d991d97f263277ef6b
 file_type: application/pdf

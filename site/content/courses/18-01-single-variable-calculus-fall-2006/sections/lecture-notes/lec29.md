@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 29: Partial Fractions'
 description: Lecture notes on partial fractions and rational functions.
-type: courses
+type: course
 layout: pdf
 uid: 9715437d38fdfc4b91095d1b20920b79
 file_type: application/pdf

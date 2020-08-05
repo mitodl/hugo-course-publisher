@@ -2973,6 +2973,6 @@ transcript: >-
   m="2739320">the</span> <span m="2739400">photoelectric</span> <span
   m="2740270">effect.</span></p><p>&nbsp;</p>
 uid: 448f5ca629c8679a6e0ad413794ad85e
-type: courses
+type: course
 layout: video
 ---

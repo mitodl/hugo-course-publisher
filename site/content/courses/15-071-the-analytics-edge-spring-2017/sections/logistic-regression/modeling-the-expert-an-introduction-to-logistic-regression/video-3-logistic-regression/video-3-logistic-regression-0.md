@@ -289,6 +289,6 @@ transcript: >-
   m='241175'>quality</span> <span m='241653'>of</span> <span
   m='242131'>care.</span> </p>
 uid: 019a3b6f56929edf2c200fe0ac8db446
-type: courses
+type: course
 layout: video
 ---

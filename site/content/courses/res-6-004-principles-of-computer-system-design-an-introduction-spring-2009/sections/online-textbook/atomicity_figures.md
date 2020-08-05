@@ -1,7 +1,7 @@
 ---
 title: atomicity_figures.pdf
 description: 'This resource contains slides of chapter 9 figures. '
-type: courses
+type: course
 layout: pdf
 uid: 42af24fac8bce4c9b8ca093a5d2f7775
 file_type: application/pdf

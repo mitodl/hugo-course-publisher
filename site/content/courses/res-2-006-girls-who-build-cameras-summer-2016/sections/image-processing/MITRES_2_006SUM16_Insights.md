@@ -1,7 +1,7 @@
 ---
 title: Image Processing Insights
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 2603023cbb11ed656a8aa25ef3882dc4
 file_type: application/pdf

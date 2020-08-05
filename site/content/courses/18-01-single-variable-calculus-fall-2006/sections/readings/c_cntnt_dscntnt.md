@@ -1,7 +1,7 @@
 ---
 title: Continuity and Discontinuity
 description: Supplement to the textbook on continuity and discontinuity.
-type: courses
+type: course
 layout: pdf
 uid: 08a6c62564099e85ab310ca0db1e2182
 file_type: application/pdf

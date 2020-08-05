@@ -150,6 +150,6 @@ transcript: >-
   distribution, but we will not pursue this</span> <span m='331470'>any further
   at this point.</span> </p><p></p>
 uid: bd445cd88171b905f654169277c69f27
-type: courses
+type: course
 layout: video
 ---

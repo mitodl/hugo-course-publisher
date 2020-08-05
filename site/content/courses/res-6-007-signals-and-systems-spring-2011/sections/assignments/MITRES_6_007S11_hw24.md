@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_hw24.pdf
 description: This resource contains problem set related to butterworth filters.
-type: courses
+type: course
 layout: pdf
 uid: 994d3c4e751e07376ccb0c42d2b5862c
 file_type: application/pdf

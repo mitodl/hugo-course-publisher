@@ -209,6 +209,6 @@ transcript: >-
   is</span> <span m='497540'>the sum of the rates of the processes that we
   started from.</span> </p>
 uid: dc2216e9619c2917df0f0f49630b46f5
-type: courses
+type: course
 layout: video
 ---

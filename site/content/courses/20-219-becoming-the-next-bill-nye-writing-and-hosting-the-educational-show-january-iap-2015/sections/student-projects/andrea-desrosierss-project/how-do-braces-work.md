@@ -125,6 +125,6 @@ transcript: >-
   videos.<br /><br />And visit our website.<br /><br />And visit our website.
   [LAUGHING] They're separate things?</p>
 uid: 5e1be1f91218e726f3de08dcf654476a
-type: courses
+type: course
 layout: video
 ---

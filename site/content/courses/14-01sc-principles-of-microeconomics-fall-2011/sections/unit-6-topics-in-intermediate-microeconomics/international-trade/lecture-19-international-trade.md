@@ -3239,6 +3239,6 @@ transcript: >-
   m='2740540'>should</span> <span m='2740690'>play</span> <span
   m='2740840'>the</span> <span m='2740940'>lottery.</span> </p>
 uid: 05f3f13dd69c7fc0c4b6cefd46d6cd06
-type: courses
+type: course
 layout: video
 ---

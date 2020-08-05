@@ -615,6 +615,6 @@ transcript: >-
   m='507270'>about</span> <span m='508170'>logic</span> <span m='508470'>and
   math.</span> </p>
 uid: a7cfed67ae28ef9c29c037aa78b0baa4
-type: courses
+type: course
 layout: video
 ---

@@ -3887,6 +3887,6 @@ transcript: >-
   m="4509790">[APPLAUSE]</span></p><p>&nbsp;</p><p><span m="4513090">Thank
   you</span> <span m="4513390">very much.</span></p><p>&nbsp;</p>
 uid: 66973b174371a9a745fb190852402f3d
-type: courses
+type: course
 layout: video
 ---

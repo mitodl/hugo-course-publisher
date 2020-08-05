@@ -2244,6 +2244,6 @@ transcript: >-
   m='2931750'>problem</span> <span m='2932700'>so</span> <span
   m='2932930'>really</span> <span m='2933620'>quickly.</span> </p>
 uid: 4bd334078fcbc7908b2cdbb596999f9c
-type: courses
+type: course
 layout: video
 ---

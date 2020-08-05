@@ -201,6 +201,6 @@ transcript: >-
   several other natural</span> <span m="531770">properties of
   probabilities.</span></p><p>&nbsp;</p>
 uid: 1ec0a6697dde13f2791db3910664a6fe
-type: courses
+type: course
 layout: video
 ---

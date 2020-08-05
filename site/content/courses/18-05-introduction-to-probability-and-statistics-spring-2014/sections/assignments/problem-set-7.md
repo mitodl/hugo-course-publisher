@@ -1,11 +1,11 @@
 ---
 title: Problem Set 7
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
+type: course
+layout: course_section
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: 0e50cd86d76e397c976cc37ad69640f9
-    type: section
-    layout: section
     name: Problem Set 7
     weight: 610
     parent: fed85a98064c2e2a4378f3f7549df9b8

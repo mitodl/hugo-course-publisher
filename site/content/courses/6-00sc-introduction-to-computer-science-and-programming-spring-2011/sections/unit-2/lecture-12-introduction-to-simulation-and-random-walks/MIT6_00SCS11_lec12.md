@@ -3,7 +3,7 @@ title: 'Lecture 12 handout: Introduction to Simulation and Random Walks'
 description: >-
   This resource contains information related to introduction to simulation and
   random walks.
-type: courses
+type: course
 layout: pdf
 uid: 9ce2e34d1f2304d0432de82606cf7dd4
 file_type: application/pdf

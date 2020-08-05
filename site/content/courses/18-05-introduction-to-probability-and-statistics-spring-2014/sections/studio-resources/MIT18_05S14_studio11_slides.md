@@ -3,7 +3,7 @@ title: 'Studio 11 Slides: Confidence intervals III'
 description: >-
   This is a resource file that contains information regarding confidence
   intervals III
-type: courses
+type: course
 layout: pdf
 uid: b362f877572d8e5ae654840f3fa48797
 file_type: application/pdf

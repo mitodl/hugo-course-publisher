@@ -1,7 +1,7 @@
 ---
 title: 'Deviation: Markov & Chebyshev Bounds: Chebyshev Bounds'
 description: This file contains information regarding  chebyshev bounds.
-type: courses
+type: course
 layout: pdf
 uid: ceb56012eea3ca207fe4da38ac970818
 file_type: application/pdf

@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Gradient Fields and Potential Functions'
 transcript: ''
 uid: 26d2df0485791fea7201d5f8680c8389
-type: courses
+type: course
 layout: video
 ---

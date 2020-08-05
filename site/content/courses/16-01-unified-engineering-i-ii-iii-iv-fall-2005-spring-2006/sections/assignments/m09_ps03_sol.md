@@ -4,7 +4,7 @@ description: >-
   This resource contains handwritten solutions to the given problem set on using
   standard solutions for deflections of beams under commonly encountered
   loading.
-type: courses
+type: course
 layout: pdf
 uid: 1f63eaa2582d0d90c69c31fbe7a32acd
 file_type: application/pdf

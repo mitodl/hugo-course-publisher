@@ -552,6 +552,6 @@ transcript: >-
   <span m="424800">And</span> <span m="425120">this</span> <span
   m="425240">is</span> <span m="425350">where we'll stop.</span></p>
 uid: 4733164d1203d462a4140db70d738ccc
-type: courses
+type: course
 layout: video
 ---

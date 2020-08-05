@@ -129,6 +129,6 @@ transcript: >-
   <span m='267690'>the interpretation is a bit different because
   densities</span> <span m='270980'>are not probabilities.</span> </p><p></p>
 uid: 3289fbc4f5a4246ad10381c48780935e
-type: courses
+type: course
 layout: video
 ---

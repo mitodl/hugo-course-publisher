@@ -695,6 +695,6 @@ transcript: >-
   m='524070'>bound</span> <span m='524600'>to</span> <span m='524770'>it.</span>
   </p>
 uid: 3e6ab375d48f3e8ce99076036dc50b7e
-type: courses
+type: course
 layout: video
 ---

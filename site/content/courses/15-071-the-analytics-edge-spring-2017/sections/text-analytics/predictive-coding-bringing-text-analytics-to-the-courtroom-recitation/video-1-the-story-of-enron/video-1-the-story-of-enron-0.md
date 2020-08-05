@@ -281,6 +281,6 @@ transcript: >-
   m='202703'>a</span> <span m='203290'>predictive</span> <span
   m='203876'>coding</span> <span m='204463'>competition.</span> </p>
 uid: 78bf586e906b7d1a3d904f3f1f51c210
-type: courses
+type: course
 layout: video
 ---

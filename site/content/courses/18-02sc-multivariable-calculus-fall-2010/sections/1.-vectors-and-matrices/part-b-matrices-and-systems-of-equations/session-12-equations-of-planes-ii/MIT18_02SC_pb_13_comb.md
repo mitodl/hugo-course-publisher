@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_13_comb.pdf
 description: >-
   This resource contains problem statements and solutions related to equations
   of planes II.
-type: courses
+type: course
 layout: pdf
 uid: e3dfe31f46c58d296d2aee73f4b3f7e6
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: matlab_t.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 7d43b00a49875dcd3470ad05c5737351
 file_type: application/pdf

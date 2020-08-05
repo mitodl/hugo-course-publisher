@@ -1,16 +1,14 @@
 ---
 title: Matrix Spaces; Rank 1; Small World Graphs
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: edaea805267ac1a39a73e8d7f348edba
-    type: section
-    layout: section
     name: Matrix Spaces; Rank 1; Small World Graphs
     weight: 150
     parent: 34303ce19b45724122d2bd33d64df688
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/_index.md" %}}) »
 

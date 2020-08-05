@@ -4968,6 +4968,6 @@ transcript: >-
   m='4662160'>up.</span> <span m='4662460'>Good luck</span> <span m='4662760'>on
   the</span> <span m='4663060'>final.</span> </p>
 uid: c1c02633735a261fcdfdf7f6d3f277b4
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: Stochastic Processes II
 description: This file contains information regarding lecture 17 notes.
-type: courses
+type: course
 layout: pdf
 uid: 3b97c6b0c282dd9dc024c4c7ffe3fba8
 file_type: application/pdf

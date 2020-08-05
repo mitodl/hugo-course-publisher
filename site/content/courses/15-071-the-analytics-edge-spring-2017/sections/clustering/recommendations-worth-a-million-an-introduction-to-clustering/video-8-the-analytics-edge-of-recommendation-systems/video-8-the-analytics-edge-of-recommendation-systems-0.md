@@ -243,6 +243,6 @@ transcript: >-
   m='195642'>ability</span> <span m='196060'>of</span> <span
   m='196923'>classification</span> <span m='197786'>methods.</span> </p>
 uid: cf64e584327667aadaf2c2990defe523
-type: courses
+type: course
 layout: video
 ---

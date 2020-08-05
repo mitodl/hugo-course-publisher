@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pset1sol.pdf
 description: This resource contains information related to tetrahedron.
-type: courses
+type: course
 layout: pdf
 uid: e54088826b5647514efc06071bf46ca5
 file_type: application/pdf

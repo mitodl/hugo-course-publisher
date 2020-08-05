@@ -1,7 +1,7 @@
 ---
 title: 'Problem Set 10: OOP I did it again'
 description: Problem set on coding a graphical word game.
-type: courses
+type: course
 layout: pdf
 uid: 49ea9b7484099d0159831c394f34f69c
 file_type: application/pdf

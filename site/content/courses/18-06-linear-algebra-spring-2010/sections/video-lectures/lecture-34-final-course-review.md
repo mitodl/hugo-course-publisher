@@ -2329,6 +2329,6 @@ transcript: >-
   m="2591130">Thank</span> <span m="2591360">you.</span></p><p><span
   m="2591400">Thanks.</span></p>
 uid: 22064b22590e8a1b4468e146c455f121
-type: courses
+type: course
 layout: video
 ---

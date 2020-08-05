@@ -1,7 +1,7 @@
 ---
 title: Volatility Modeling
 description: This file contains information regarding lecture 9 notes.
-type: courses
+type: course
 layout: pdf
 uid: 32f868169964ba3cf5015de880cf2172
 file_type: application/pdf

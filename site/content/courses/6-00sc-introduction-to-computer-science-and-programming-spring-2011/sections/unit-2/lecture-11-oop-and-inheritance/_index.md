@@ -1,16 +1,14 @@
 ---
 title: OOP and Inheritance
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: c7f4e874e827c2ec07cb6c920e3e1ee3
-    type: section
-    layout: section
     name: OOP and Inheritance
     weight: 170
     parent: ddc5db7a5c64e3bda565b36f4ed76287
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-10-hashing-and-classes/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-12-introduction-to-simulation-and-random-walks/_index.md" %}}) »
 

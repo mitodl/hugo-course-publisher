@@ -1,7 +1,7 @@
 ---
 title: t09_ps03_sol.pdf
 description: This resource contains hand written solution of problem T9.
-type: courses
+type: course
 layout: pdf
 uid: 107a7382e795f2a9692db40bb596fa8d
 file_type: application/pdf

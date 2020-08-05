@@ -3,7 +3,7 @@ title: s09_cgs.pdf
 description: >-
   Concept questions verifying the understanding about the Impulse Response of RL
   Circuit.
-type: courses
+type: course
 layout: pdf
 uid: 4feaa775ce87fbbe7283f4735d3ac7ff
 file_type: application/pdf

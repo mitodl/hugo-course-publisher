@@ -889,6 +889,6 @@ transcript: >-
   <span m='680580'>you</span> <span m='680660'>will</span> <span
   m='680810'>remember.</span> </p>
 uid: 2eb1da9070a3aa5264ceba2cf3ea89b9
-type: courses
+type: course
 layout: video
 ---

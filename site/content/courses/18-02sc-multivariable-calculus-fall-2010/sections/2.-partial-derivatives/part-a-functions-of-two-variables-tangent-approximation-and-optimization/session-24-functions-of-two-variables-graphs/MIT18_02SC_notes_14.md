@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_14.pdf
 description: This resource contains a gallery of graphs.
-type: courses
+type: course
 layout: pdf
 uid: 837e7b105450ed2a79f20ca45c524848
 file_type: application/pdf

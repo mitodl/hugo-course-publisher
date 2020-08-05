@@ -3,7 +3,7 @@ title: 'Reading 10b: Maximum Likelihood Estimates'
 description: >-
   This resource file contains information regarding reading 10b: maximum
   likelihood estimates.
-type: courses
+type: course
 layout: pdf
 uid: 4a8de32565ebdefbb7963b4ebda904b2
 file_type: application/pdf

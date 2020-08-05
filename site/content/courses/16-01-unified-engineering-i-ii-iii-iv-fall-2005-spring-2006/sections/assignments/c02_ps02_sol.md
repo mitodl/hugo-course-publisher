@@ -3,7 +3,7 @@ title: c02_ps02_sol.pdf
 description: >-
   This handout contains solutions to the Problem set C2 based on the Feldman
   spider package.
-type: courses
+type: course
 layout: pdf
 uid: bf7d06b3991647bbe471cf5f122f41a0
 file_type: application/pdf

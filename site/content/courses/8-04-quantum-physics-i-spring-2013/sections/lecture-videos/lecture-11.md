@@ -5752,6 +5752,6 @@ transcript: >-
   m='4854775'>you</span> <span m='4855160'>next time.</span> </p><p><span
   m='4855760'>[APPLAUSE]</span> </p>
 uid: 9ad88ee457cec29e203de367d029f192
-type: courses
+type: course
 layout: video
 ---

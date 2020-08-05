@@ -3,7 +3,7 @@ title: MIT6_042JF10_rec21_sol.pdf
 description: >-
   This resource contains solutions of conditional expectation and total
   expectation. 
-type: courses
+type: course
 layout: pdf
 uid: fcb9e90be9f4847d91034e8ab873099d
 file_type: application/pdf

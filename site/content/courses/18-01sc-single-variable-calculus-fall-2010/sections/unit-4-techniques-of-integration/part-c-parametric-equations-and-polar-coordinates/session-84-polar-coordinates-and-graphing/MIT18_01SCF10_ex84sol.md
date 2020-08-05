@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex84sol.pdf
 description: >-
   This resource contains the solutions for the problems related to the
   lemniscate.
-type: courses
+type: course
 layout: pdf
 uid: 407390a1de988f80074f8f5565b3749c
 file_type: application/pdf

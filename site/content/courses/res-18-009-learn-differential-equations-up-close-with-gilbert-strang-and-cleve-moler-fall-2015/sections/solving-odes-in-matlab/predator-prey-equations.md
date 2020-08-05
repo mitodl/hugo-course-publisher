@@ -652,6 +652,6 @@ transcript: >-
   m='848860'>you'll</span> <span m='849020'>find</span> <span
   m='849430'>it.</span> </p>
 uid: 30db591ce77bedf825186928b9b320f0
-type: courses
+type: course
 layout: video
 ---

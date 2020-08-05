@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 18-s997-introduction-to-matlab-programming-fall-2011
 course_title: Introduction To MATLAB Programming
 course_image_url: >-

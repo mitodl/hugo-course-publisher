@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Practice with Triple Integrals'
 description: This resource contains information regarding practice with triple integrals.
-type: courses
+type: course
 layout: pdf
 uid: dd43a5b1ff2a99961d94d9cd5d613bbe
 file_type: application/pdf

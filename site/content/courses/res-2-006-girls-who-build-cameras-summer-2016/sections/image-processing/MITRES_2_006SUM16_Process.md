@@ -3,7 +3,7 @@ title: Processing Instructions for Volunteers
 description: >-
   This resource contains information regarding processing instructions for
   volunteers.
-type: courses
+type: course
 layout: pdf
 uid: ee6b89e1e38c739adcedb361f6c6f606
 file_type: application/pdf

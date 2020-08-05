@@ -96,6 +96,6 @@ transcript: >-
   <span m='122800'>structural properties of Markov processes.</span>
   </p><p><span m='126470'>So let us start.</span> </p>
 uid: c3972ceb34d860c7f29f247fb6d15f5b
-type: courses
+type: course
 layout: video
 ---

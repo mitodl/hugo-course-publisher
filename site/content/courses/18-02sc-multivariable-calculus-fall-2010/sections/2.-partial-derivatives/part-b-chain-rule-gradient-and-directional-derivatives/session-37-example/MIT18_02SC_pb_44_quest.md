@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Equation of a Tangent Plane'
 description: This resource contains information regarding  equation of a tangent plane.
-type: courses
+type: course
 layout: pdf
 uid: 16b8c2599dca5e772a5884977e6f2d02
 file_type: application/pdf

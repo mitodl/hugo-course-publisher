@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip: Double Integrals in Polar Coordinates'
 transcript: ''
 uid: 6427b72f2fbb3d1afc0349b59100a541
-type: courses
+type: course
 layout: video
 ---

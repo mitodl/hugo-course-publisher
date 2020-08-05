@@ -184,6 +184,6 @@ transcript: >-
   of units</span> <span m='420120'>we use for each one of the random
   variables.</span> </p>
 uid: fab8dbd524e1ddd41619ea5258bf76b8
-type: courses
+type: course
 layout: video
 ---

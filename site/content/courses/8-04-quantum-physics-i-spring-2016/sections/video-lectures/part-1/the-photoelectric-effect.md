@@ -1014,6 +1014,6 @@ transcript: >-
   m='1372855'>it's</span> <span m='1373170'>pretty</span> <span
   m='1373470'>fast.</span> </p>
 uid: aa616642244d82336072d9e20f942411
-type: courses
+type: course
 layout: video
 ---

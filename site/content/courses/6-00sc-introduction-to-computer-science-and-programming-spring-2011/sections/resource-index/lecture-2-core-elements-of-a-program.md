@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 2: Core Elements of a Program'
 transcript: ''
 uid: e5d1fdf89a0d8f9b93f7f867bce99705
-type: courses
+type: course
 layout: video
 ---

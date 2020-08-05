@@ -189,6 +189,6 @@ transcript: >-
   </p><p><span m='112740'>KENNETH CHEAH: Thank</span> <span
   m='113000'>you.</span> </p>
 uid: 80edeccc2c2bdfe3e012d557a733621f
-type: courses
+type: course
 layout: video
 ---

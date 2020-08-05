@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_midterm_sol.pdf
 description: 'This resource contains solutions of midterm exam. '
-type: courses
+type: course
 layout: pdf
 uid: 6ed3117782fbe0bdacb11d65476a21f6
 file_type: application/pdf

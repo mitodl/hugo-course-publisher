@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang_7173.pdf
 description: This resource contains information related to techniques of integration.
-type: courses
+type: course
 layout: pdf
 uid: 68ecb5df6fab021f758605021aa5098b
 file_type: application/pdf

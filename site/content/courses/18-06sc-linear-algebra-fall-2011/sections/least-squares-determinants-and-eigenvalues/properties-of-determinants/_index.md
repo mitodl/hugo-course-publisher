@@ -1,16 +1,14 @@
 ---
 title: Properties of Determinants
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: db45d276fad6eb49f42e287aaa9e22b6
-    type: section
-    layout: section
     name: Properties of Determinants
     weight: 240
     parent: cf73d07ac972ab3c450a0f10d0be0664
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/_index.md" %}}) »
 

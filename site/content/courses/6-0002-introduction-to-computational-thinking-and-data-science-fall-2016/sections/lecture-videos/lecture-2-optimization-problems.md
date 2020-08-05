@@ -2826,6 +2826,6 @@ transcript: >-
   m="2871000">this</span> <span m="2871180">optimization</span> <span
   m="2871900">problem.</span></p>
 uid: 2a32b81a7e6b72824bb093a9bc375755
-type: courses
+type: course
 layout: video
 ---

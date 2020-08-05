@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF10_problem_6-4_300k.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 5ee42b378a14c67b2435ffec8da2a509
 file_type: application/pdf

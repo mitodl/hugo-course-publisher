@@ -3032,6 +3032,6 @@ transcript: >-
   m="2713700">which</span> <span m="2714050">is</span> <span
   m="2714350">radioactive</span> <span m="2715100">decay.</span></p>
 uid: cd8c5e1731a66155618e6ca8df63e29b
-type: courses
+type: course
 layout: video
 ---

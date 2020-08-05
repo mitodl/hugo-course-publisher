@@ -81,6 +81,6 @@ transcript: >-
   the force is equal to the time</span> <span m='46560'>derivative of the
   momentum.</span> </p><p></p>
 uid: 91dda0fcb321a5d44e0a194343a571a0
-type: courses
+type: course
 layout: video
 ---

@@ -2652,6 +2652,6 @@ transcript: >-
   m="2856490">on</span> <span m="2857330">the</span> <span
   m="2858160">quiz.</span></p>
 uid: ca23604766b4706eb67fe6a4b915eb82
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: Exam 1 Practice Questions I
 description: >-
   This is a resource file that contains information regarding exam 1 practice
   questions 1.
-type: courses
+type: course
 layout: pdf
 uid: 1a8929788f327e358603adb327cc541e
 file_type: application/pdf

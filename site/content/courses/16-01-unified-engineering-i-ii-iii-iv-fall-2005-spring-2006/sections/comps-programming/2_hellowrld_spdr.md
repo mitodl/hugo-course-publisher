@@ -1,7 +1,7 @@
 ---
 title: 2_hellowrld_spdr.pdf
 description: Lecture 2 (2003) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 630e675a2f52f1dafd925d33134248a3
 file_type: application/pdf

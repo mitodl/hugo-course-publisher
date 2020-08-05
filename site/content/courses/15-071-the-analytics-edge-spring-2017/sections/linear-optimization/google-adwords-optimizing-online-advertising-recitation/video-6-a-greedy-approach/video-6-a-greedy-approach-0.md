@@ -862,6 +862,6 @@ transcript: >-
   m='656110'>along</span> <span m='656465'>with</span> <span
   m='656820'>that</span> <span m='657175'>model.</span> </p>
 uid: 5e81f6b0d5e192dc02ad402842933989
-type: courses
+type: course
 layout: video
 ---

@@ -559,6 +559,6 @@ transcript: >-
   m='470140'>So</span> <span m='470290'>we're</span> <span m='470450'>all</span>
   <span m='470610'>set.</span> </p>
 uid: a00a0f1956f1dae1d0ddb327acec1747
-type: courses
+type: course
 layout: video
 ---

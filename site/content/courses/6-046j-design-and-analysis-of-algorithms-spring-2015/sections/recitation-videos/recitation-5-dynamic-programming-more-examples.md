@@ -2399,6 +2399,6 @@ transcript: >-
   m="3112170">hashing</span> <span m="3112480">and</span> <span
   m="3112790">DP.</span></p>
 uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
-type: courses
+type: course
 layout: video
 ---

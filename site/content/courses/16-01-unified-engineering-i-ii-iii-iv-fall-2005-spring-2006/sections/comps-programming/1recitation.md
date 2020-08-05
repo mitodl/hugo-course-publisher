@@ -1,7 +1,7 @@
 ---
 title: 1recitation.pdf
 description: Lecture presentation for recitation.
-type: courses
+type: course
 layout: pdf
 uid: aff8a7a161c9440bb0670b0448859613
 file_type: application/pdf

@@ -2,11 +2,11 @@
 title: Sessions
 course_id: >-
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016
+type: course
+layout: course_section
 menu:
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016:
     identifier: c5cf8c5e59b0bc3e51ba6284d467e6d6
-    type: section
-    layout: section
     name: Sessions
     weight: 30
 ---

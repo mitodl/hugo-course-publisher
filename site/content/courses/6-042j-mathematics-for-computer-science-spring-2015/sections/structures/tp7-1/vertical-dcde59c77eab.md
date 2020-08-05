@@ -1,6 +1,8 @@
 ---
 title: 2.6 Directed Acyclic Graphs (DAGs) & Scheduling
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Directed Acyclic Graphs (DAGs) & Scheduling]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-1/_index.md" %}})
 *   [2.6.1DAGs: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-1/_index.md" %}})

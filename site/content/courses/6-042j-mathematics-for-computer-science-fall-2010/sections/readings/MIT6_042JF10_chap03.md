@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 3: Induction'
 description: This resource contains information about Induction.
-type: courses
+type: course
 layout: pdf
 uid: e5079d6e1b0dc66d426df26e05dee250
 file_type: application/pdf

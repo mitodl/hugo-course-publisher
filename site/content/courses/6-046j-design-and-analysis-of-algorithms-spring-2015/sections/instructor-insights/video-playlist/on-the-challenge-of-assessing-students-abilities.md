@@ -252,6 +252,6 @@ transcript: >-
   m="154070">in</span> <span m="154430">new and</span> <span
   m="154710">creative</span> <span m="155050">ways.</span></p>
 uid: 9842f0824f0740ce72ec128200613f32
-type: courses
+type: course
 layout: video
 ---

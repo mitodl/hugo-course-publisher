@@ -809,6 +809,6 @@ transcript: >-
   m='938230'>eigenvalues.</span> <span m='940460'>Good,</span> <span
   m='941000'>thank</span> <span m='941330'>you.</span> </p>
 uid: 9cf2fcdf48fc41a0fb1d6260fd006813
-type: courses
+type: course
 layout: video
 ---

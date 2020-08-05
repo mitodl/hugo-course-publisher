@@ -5338,6 +5338,6 @@ transcript: >-
   m="5048040">and</span> <span m="5048270">answer</span> <span
   m="5048550">questions.</span></p>
 uid: d72d5d2293323f30844d3efdfdd26f92
-type: courses
+type: course
 layout: video
 ---

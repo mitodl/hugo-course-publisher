@@ -2947,6 +2947,6 @@ transcript: >-
   m='2560230'>of</span> <span m='2560290'>the</span> <span
   m='2560380'>semester.</span> </p>
 uid: d2a08749adc36cfd084ffa85b0322418
-type: courses
+type: course
 layout: video
 ---

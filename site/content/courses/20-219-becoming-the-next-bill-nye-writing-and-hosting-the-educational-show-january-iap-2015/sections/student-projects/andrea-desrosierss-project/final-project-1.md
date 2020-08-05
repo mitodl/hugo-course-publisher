@@ -251,6 +251,6 @@ transcript: >-
   <span m="141300">machine</span> <span m="142110">than</span> <span
   m="142330">human?</span></p>
 uid: 07877a94158ab10f584d0dfc3ad591fa
-type: courses
+type: course
 layout: video
 ---

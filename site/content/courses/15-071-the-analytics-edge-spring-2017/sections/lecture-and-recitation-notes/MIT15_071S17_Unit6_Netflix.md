@@ -1,7 +1,7 @@
 ---
 title: Week 6 Netflix Video 1 - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 86fae9fbf6d93ba7eb379c4a6d01cdd3
 file_type: application/pdf

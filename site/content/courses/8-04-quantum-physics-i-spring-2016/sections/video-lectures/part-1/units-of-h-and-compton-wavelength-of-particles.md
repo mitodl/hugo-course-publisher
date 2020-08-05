@@ -647,6 +647,6 @@ transcript: >-
   m='757350'>will</span> <span m='757620'>show</span> <span m='758100'>up</span>
   <span m='758670'>very</span> <span m='759030'>soon.</span> </p>
 uid: bd4e82cb50137bc324ef08d5e2c5235a
-type: courses
+type: course
 layout: video
 ---

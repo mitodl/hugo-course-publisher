@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex25sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   quadratic approximation.
-type: courses
+type: course
 layout: pdf
 uid: f806d7f06df82639483a24d467a4fa28
 file_type: application/pdf

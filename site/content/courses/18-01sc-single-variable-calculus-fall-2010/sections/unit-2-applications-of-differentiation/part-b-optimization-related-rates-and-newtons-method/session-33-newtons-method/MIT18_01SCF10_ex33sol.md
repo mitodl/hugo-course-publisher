@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex33sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   newton's method.
-type: courses
+type: course
 layout: pdf
 uid: 04e5867c11f73c934cc810c772617eb1
 file_type: application/pdf

@@ -36,6 +36,6 @@ technical_location: >-
 title: 'Team Double-Stuft Reduced-Fat Oreos: Post-Flight Interview'
 transcript: ''
 uid: 4637c9e20fe765a71adc975fab0ade8e
-type: courses
+type: course
 layout: video
 ---

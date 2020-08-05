@@ -3,7 +3,7 @@ title: 'Counting with Bijections: Chapter 14.1 – 14.2'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Counting with bijections: Chapter 14.1 – 14.2.
-type: courses
+type: course
 layout: pdf
 uid: 3f503d8dc7c3126f8b4525a1cf5a5a4b
 file_type: application/pdf

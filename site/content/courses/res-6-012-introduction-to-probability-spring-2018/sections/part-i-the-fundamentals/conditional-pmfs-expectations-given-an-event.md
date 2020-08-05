@@ -185,6 +185,6 @@ transcript: >-
   use the conditional</span> <span m="445650">probabilities throughout instead
   of the original</span> <span m="448500">probabilities.</span></p><p>&nbsp;</p>
 uid: 5b77e7b6eb582f104942600ded5cc156
-type: courses
+type: course
 layout: video
 ---

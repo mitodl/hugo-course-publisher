@@ -149,6 +149,6 @@ transcript: >-
   estimator</span> <span m='293960'>is going to turn out to be different.</span>
   </p><p></p>
 uid: 084dbac5a1546fdfb32fe2621a4cac81
-type: courses
+type: course
 layout: video
 ---

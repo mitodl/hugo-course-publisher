@@ -3,7 +3,7 @@ title: summary_w06d1.pdf
 description: >-
   This file talks about magnetism and also includes an experiment of magnetic
   fields of a Bar magnet and of the earth.
-type: courses
+type: course
 layout: pdf
 uid: d7ba68774040ac0f461e3fc02cfba645
 file_type: application/pdf

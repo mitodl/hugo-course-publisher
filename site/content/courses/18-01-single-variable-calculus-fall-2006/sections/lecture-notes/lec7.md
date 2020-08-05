@@ -4,7 +4,7 @@ description: >-
   Lecture notes with a review of materials for the first exam.  Topics include
   hyperbolic sine and cosine, general differentiation, implicit differentiation,
   and specific differentiation formulas.
-type: courses
+type: course
 layout: pdf
 uid: a30756fe9d577184f205b09bc6d6d005
 file_type: application/pdf

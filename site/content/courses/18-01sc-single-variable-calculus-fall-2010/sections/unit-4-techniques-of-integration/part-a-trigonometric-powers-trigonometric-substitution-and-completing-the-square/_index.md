@@ -3,11 +3,11 @@ title: >-
   Part A: Trigonometric Powers,  Trigonometric Substitution and Completing the
   Square
 course_id: 18-01sc-single-variable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 6b4ef50053da70f0e8654886100e09bb
-    type: section
-    layout: section
     name: 'Part A: Trigonometric Powers,  Trigonometric Substitution and Com'
     weight: 920
     parent: 4da2f4d47b887d3f0da6a5405ecfef83

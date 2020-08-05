@@ -3,7 +3,7 @@ title: m08_ps10_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set of
   determining the relationship between applied load and the deflection point.
-type: courses
+type: course
 layout: pdf
 uid: 6346b242c1cdd5013577c553c4b085dd
 file_type: application/pdf

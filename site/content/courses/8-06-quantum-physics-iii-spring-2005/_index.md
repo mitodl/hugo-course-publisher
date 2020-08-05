@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 8-06-quantum-physics-iii-spring-2005
 course_title: Quantum Physics III
 course_image_url: >-

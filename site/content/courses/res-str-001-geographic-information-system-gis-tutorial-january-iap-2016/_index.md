@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: res-str-001-geographic-information-system-gis-tutorial-january-iap-2016
 course_title: Geographic Information System (GIS) Tutorial
 course_image_url: >-

@@ -1,7 +1,7 @@
 ---
 title: S6_mud.pdf
 description: Review questions and answers on loop method.
-type: courses
+type: course
 layout: pdf
 uid: 26837b243791ce3867c1dd7e5043e2e6
 file_type: application/pdf

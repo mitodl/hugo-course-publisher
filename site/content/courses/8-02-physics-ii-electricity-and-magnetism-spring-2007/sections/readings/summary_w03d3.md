@@ -3,7 +3,7 @@ title: summary_w03d3.pdf
 description: >-
   This file talks about Gauss?s Law to calculate the electric field from highly
   symmetric charge distributions.
-type: courses
+type: course
 layout: pdf
 uid: 0852e52fec1e7359f595c3610e58e5b1
 file_type: application/pdf

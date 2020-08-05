@@ -683,6 +683,6 @@ transcript: >-
   <span m='784720'>damping</span> <span m='786060'>ratio.</span> <span
   m='787800'>Thank</span> <span m='788070'>you.</span> </p>
 uid: 89b77c57bbc7cab6051362d646093741
-type: courses
+type: course
 layout: video
 ---

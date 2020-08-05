@@ -247,6 +247,6 @@ transcript: >-
   <span m='143160'>to</span> <span m='143270'>know</span> <span
   m='143500'>them.</span> </p>
 uid: eb647a418c9bfc0191a9c746a7ef676c
-type: courses
+type: course
 layout: video
 ---

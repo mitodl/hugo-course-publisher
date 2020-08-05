@@ -1,7 +1,7 @@
 ---
 title: 'Studio 1 Slides: Birthday Matches'
 description: This is a resource file that contains information regarding birthday matches.
-type: courses
+type: course
 layout: pdf
 uid: a0e73f587d4bfd20a26147c13c66eeaa
 file_type: application/pdf

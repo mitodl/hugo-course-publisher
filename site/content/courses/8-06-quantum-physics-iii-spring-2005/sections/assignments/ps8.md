@@ -3,7 +3,7 @@ title: ps8.pdf
 description: >-
   This resource provides information about the reading assignment, useful facts
   and 6 problems for assignment 8.
-type: courses
+type: course
 layout: pdf
 uid: e234a78344a1de8b64e352d1646d4d22
 file_type: application/pdf

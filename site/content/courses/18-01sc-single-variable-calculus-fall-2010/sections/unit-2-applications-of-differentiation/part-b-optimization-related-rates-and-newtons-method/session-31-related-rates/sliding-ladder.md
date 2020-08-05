@@ -1129,6 +1129,6 @@ transcript: >-
   m='1051010'>we're</span> <span m='1051100'>all</span> <span
   m='1051200'>set.</span> </p>
 uid: 2de3f0d503dc2eb8df0637c478d67bae
-type: courses
+type: course
 layout: video
 ---

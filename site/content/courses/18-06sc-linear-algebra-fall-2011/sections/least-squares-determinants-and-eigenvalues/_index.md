@@ -1,11 +1,11 @@
 ---
 title: 'Unit II: Least Squares, Determinants and Eigenvalues'
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: course_section
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: cf73d07ac972ab3c450a0f10d0be0664
-    type: section
-    layout: section
     name: 'Unit II: Least Squares, Determinants and Eigenvalues'
     weight: 190
 ---

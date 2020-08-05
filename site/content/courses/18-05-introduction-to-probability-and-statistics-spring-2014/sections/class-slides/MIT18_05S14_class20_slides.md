@@ -1,7 +1,7 @@
 ---
 title: 'Class 20 Slides: Comparison of Bayesian and frequentist inference'
 description: This is a resource file that contains information regarding class 20.
-type: courses
+type: course
 layout: pdf
 uid: 7cf32123f60b0aaa8af60365ca54dc5d
 file_type: application/pdf

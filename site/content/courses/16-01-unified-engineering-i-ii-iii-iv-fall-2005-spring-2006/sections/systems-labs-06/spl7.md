@@ -1,7 +1,7 @@
 ---
 title: spl7.pdf
 description: This file contains notes for improved performance estimates for optimization.
-type: courses
+type: course
 layout: pdf
 uid: 32c9dff969ee8cbff94eb44d1f2cd898
 file_type: application/pdf

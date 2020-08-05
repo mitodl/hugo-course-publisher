@@ -3,7 +3,7 @@ title: summary_w07d1.pdf
 description: >-
   This resource is about Magnetic Fields: Feeling Magnetic Fields ? Charges and
   Dipoles.
-type: courses
+type: course
 layout: pdf
 uid: d81d45892859a6ecad5c85c8ce7f0561
 file_type: application/pdf

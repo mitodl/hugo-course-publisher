@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Problems: Stokes'' Theorem'
 description: This resource contains information regarding stokes' theorem.
-type: courses
+type: course
 layout: pdf
 uid: ba97af37b3092b1a5089876291ea3e44
 file_type: application/pdf

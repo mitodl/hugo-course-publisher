@@ -3762,6 +3762,6 @@ transcript: >-
   m='4431820'>if</span> <span m='4431930'>you</span> <span
   m='4432040'>want.</span> </p>
 uid: b407c984856f603302112572ce1a0332
-type: courses
+type: course
 layout: video
 ---

@@ -1,11 +1,11 @@
 ---
 title: Instructor's Manual
 course_id: res-18-001-calculus-online-textbook-spring-2005
+type: course
+layout: course_section
 menu:
   res-18-001-calculus-online-textbook-spring-2005:
     identifier: 17e76762f3bac8400d4313aeb75d9620
-    type: section
-    layout: section
     name: Instructor's Manual
     weight: 20
 ---

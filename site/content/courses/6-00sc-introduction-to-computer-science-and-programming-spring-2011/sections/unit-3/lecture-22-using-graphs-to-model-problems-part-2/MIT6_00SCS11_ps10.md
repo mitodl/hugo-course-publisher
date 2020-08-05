@@ -3,7 +3,7 @@ title: MIT6_00SCS11_ps10.pdf
 description: >-
   This resource contains problem set related to using graphs to model problems,
   part 2.
-type: courses
+type: course
 layout: pdf
 uid: f453001f3ce920aa14eae9b218186626
 file_type: application/pdf

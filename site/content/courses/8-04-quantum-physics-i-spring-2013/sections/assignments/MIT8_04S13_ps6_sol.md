@@ -3,7 +3,7 @@ title: '8.04 Spring 2013, Problem Set 6 Solution'
 description: >-
   This is a resource file that contains information regarding problem set 6
   solution.
-type: courses
+type: course
 layout: pdf
 uid: de9e77543d0bbbcf9995cbb0fa04b781
 file_type: application/pdf

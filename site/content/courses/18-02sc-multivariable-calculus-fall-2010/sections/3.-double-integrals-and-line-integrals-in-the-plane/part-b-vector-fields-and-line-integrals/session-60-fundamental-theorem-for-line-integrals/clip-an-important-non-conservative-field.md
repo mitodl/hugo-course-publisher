@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: An Important Non-Conservative Field'
 transcript: ''
 uid: befd251d78aa7e5dc82651b1021fb4fd
-type: courses
+type: course
 layout: video
 ---

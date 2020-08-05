@@ -428,6 +428,6 @@ transcript: >-
   m='331665'>in</span> <span m='332167'>traditionally</span> <span
   m='332668'>qualitative</span> <span m='333170'>applications.</span> </p>
 uid: a2d5bd5426fb55c61abd2e90d90d7c3c
-type: courses
+type: course
 layout: video
 ---

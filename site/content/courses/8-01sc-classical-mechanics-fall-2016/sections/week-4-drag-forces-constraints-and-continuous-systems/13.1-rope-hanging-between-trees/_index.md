@@ -1,16 +1,14 @@
 ---
 title: 13.1 Rope Hanging Between Trees
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: videogallery
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 869e8587bad05bba6781da19b701a57a
-    type: section
-    layout: section
     name: 'Lesson 13: Massive Rope [13.1-13.6]'
     weight: 820
     parent: 919a2c506eb4551d940bb0dbab2356f0
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/12.5-worked-example-2-blocks-and-2-pulleys/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/13.2-differential-analysis-of-a-massive-rope" %}}) »
 

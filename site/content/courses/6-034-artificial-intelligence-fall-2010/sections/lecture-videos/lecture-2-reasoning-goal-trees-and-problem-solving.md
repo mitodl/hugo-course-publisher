@@ -666,6 +666,6 @@ transcript: >-
   <span m='2735280'>me and said, I take it back, it's not intelligent after all.
   It does integration the same way</span> <span m='2742050'>I do.</span> </p>
 uid: 29f6f34ca41676d9835e4aca5039592f
-type: courses
+type: course
 layout: video
 ---

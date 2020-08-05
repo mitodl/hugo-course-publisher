@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses3.8sum.pdf
 description: >-
   This resource contains information related to left and right inverses;
   pseudoinverse.
-type: courses
+type: course
 layout: pdf
 uid: 0550c89b69c99e97dcbf52074e293308
 file_type: application/pdf

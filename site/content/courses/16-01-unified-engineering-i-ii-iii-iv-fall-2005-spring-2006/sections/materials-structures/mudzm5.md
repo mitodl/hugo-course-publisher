@@ -3,7 +3,7 @@ title: mudzm5.pdf
 description: >-
   This resource contains review questions and answers based on compatibility and
   constitutive, materials and structures, forces, trusses and lab.
-type: courses
+type: course
 layout: pdf
 uid: 8aa38fe057fd7a3fd8ce1ebf6794e091
 file_type: application/pdf

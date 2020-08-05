@@ -36,6 +36,6 @@ technical_location: >-
 title: 'Two Guys, Two Girls and an Airplane: Post-Flight Interview'
 transcript: ''
 uid: deef424aa921f3d354db7ed21418a439
-type: courses
+type: course
 layout: video
 ---

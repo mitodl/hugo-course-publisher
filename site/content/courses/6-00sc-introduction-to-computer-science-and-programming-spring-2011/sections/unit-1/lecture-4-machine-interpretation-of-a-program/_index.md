@@ -1,16 +1,14 @@
 ---
 title: Machine Interpretation of a Program
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: f13e5af952a2f007e596f80bc01059fe
-    type: section
-    layout: section
     name: Machine Interpretation of a Program
     weight: 80
     parent: 975ad7bfdd9c4ffe26b6710fa718d5e6
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-3-problem-solving/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-5-objects-in-python/_index.md" %}}) »
 

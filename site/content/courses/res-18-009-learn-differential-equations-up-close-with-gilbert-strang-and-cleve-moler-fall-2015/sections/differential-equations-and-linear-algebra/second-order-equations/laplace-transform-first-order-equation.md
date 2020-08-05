@@ -1277,6 +1277,6 @@ transcript: >-
   m='1349610'>transforms.</span> <span m='1350830'>Thank</span> <span
   m='1351080'>you.</span> </p>
 uid: e2d68cada27d2786e6fb043f831b12c0
-type: courses
+type: course
 layout: video
 ---

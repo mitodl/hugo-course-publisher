@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses21e.pdf
 description: 'This resource contains information related to derivative of (x^10 +8x)^6.  '
-type: courses
+type: course
 layout: pdf
 uid: 0c0c54310e8d6578fb46bb2453b6b3b0
 file_type: application/pdf

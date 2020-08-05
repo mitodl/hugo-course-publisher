@@ -1,7 +1,7 @@
 ---
 title: 'MIT 8.03SC Fall 2016 Lecture 18: Wave Plates, Radiation'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: a8c9c13943c70ab32b1adf0bd9cb7171
 file_type: application/pdf

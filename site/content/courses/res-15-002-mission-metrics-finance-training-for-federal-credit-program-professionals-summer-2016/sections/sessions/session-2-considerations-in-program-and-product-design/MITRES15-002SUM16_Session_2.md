@@ -3,7 +3,7 @@ title: >-
   Session 2 Slides: Considerations in Program and Product Design - RES.15-002 -
   Summer 2016
 description: Slide deck for session 2.
-type: courses
+type: course
 layout: pdf
 uid: 035d701cafda6a6a34076c38459fdeda
 file_type: application/pdf

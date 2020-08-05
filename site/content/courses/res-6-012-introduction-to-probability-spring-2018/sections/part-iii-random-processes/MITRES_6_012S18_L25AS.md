@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding introduction to probability:
   Random processes: Steady-state behavior of Markov chains.
-type: courses
+type: course
 layout: pdf
 uid: 09bd70b5054bedc53d6a6bcf006c6697
 file_type: application/pdf

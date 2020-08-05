@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 18-06sc-linear-algebra-fall-2011
 course_title: Linear Algebra
 course_image_url: >-

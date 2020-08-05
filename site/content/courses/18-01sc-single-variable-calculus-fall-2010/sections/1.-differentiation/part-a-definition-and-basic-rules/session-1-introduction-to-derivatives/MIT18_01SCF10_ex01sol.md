@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex01sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   derivatives.
-type: courses
+type: course
 layout: pdf
 uid: 4c79fff7e6ea9fb28d9c6002995757c6
 file_type: application/pdf

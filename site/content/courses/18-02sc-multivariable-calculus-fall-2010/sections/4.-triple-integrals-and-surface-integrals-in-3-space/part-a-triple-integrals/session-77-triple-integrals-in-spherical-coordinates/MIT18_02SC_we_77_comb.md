@@ -3,7 +3,7 @@ title: '18.02SC Problems and Solutions: Integrals in Spherical Coordinates'
 description: >-
   This resource contains information regarding integrals in spherical
   coordinates.
-type: courses
+type: course
 layout: pdf
 uid: e5abac263b02c6e666c05a49cc3ee8b2
 file_type: application/pdf

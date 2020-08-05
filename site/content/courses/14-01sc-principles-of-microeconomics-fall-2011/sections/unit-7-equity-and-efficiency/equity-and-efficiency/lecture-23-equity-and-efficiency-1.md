@@ -3779,6 +3779,6 @@ transcript: >-
   m='2975480'>does</span> <span m='2975610'>it</span> <span
   m='2975680'>look?</span> </p>
 uid: be3c03d1d05fb9eac1482bd7942e33dc
-type: courses
+type: course
 layout: video
 ---

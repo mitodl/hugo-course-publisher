@@ -6,7 +6,7 @@ description: >-
   AC Sources, Simple AC circuits, The RLC Series Circuit, Power in an AC
   circuit, Transformer, Parallel RLC Circuit, Summary, Problem-Solving Tips,
   Solved Problems, Conceptual Questions, and Additional Problems.
-type: courses
+type: course
 layout: pdf
 uid: e7fd966c84001f4e8fc0f58a6751013e
 file_type: application/pdf

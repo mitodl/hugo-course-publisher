@@ -439,6 +439,6 @@ transcript: >-
   m='439621'>at</span> <span m='440074'>a</span> <span
   m='440527'>bargain.</span> </p>
 uid: e039d67c8e34ebd57b8cd9c2281221ef
-type: courses
+type: course
 layout: video
 ---

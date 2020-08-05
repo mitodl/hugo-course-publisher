@@ -3,7 +3,7 @@ title: spr_sysprob6.pdf
 description: >-
   this file contains objectives, files and overview for Graphical Dijkstra?s
   Algorithm.
-type: courses
+type: course
 layout: pdf
 uid: 7cd09861266b06a8501fdbd9faa23d4a
 file_type: application/pdf

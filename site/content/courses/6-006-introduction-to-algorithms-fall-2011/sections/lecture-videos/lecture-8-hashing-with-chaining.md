@@ -3272,6 +3272,6 @@ transcript: >-
   m='3073200'>do</span> <span m='3073310'>hashing</span> <span
   m='3073710'>next</span> <span m='3073940'>class.</span> </p>
 uid: 7eee5a3e15d709b9e817dd1773352056
-type: courses
+type: course
 layout: video
 ---

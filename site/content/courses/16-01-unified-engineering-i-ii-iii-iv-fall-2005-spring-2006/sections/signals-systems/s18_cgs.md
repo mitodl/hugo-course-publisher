@@ -1,7 +1,7 @@
 ---
 title: s18_cgs.pdf
 description: Concept questions on Measuring the Size of a Signal.
-type: courses
+type: course
 layout: pdf
 uid: 2aff070d1c7341ff9cf9d871dbbbe30f
 file_type: application/pdf

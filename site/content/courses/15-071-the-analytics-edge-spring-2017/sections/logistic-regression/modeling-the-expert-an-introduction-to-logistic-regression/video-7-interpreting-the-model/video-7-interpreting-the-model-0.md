@@ -468,6 +468,6 @@ transcript: >-
   m='510320'>in</span> <span m='510837'>capturing</span> <span
   m='511355'>these</span> <span m='511872'>effects.</span> </p>
 uid: e30631f5f09bd7cab66e35e0070ceb75
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_table07.pdf
 description: 'This resource contains information related to applying consumer theory: labor.'
-type: courses
+type: course
 layout: pdf
 uid: 81a05ac027a6510a90f501c621061571
 file_type: application/pdf

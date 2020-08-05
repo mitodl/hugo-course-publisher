@@ -2,11 +2,11 @@
 title: 'Session 5: Working with Private Partners'
 course_id: >-
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016
+type: course
+layout: course_section
 menu:
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016:
     identifier: c6c2c18614569ef475edce90dbaf7325
-    type: section
-    layout: section
     name: 'Session 5: Working with Private Partners'
     weight: 80
     parent: c5cf8c5e59b0bc3e51ba6284d467e6d6

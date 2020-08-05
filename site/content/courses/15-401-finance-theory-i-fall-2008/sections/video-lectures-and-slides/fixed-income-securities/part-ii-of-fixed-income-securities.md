@@ -6064,6 +6064,6 @@ transcript: >-
   m='4751280'>4:00,</span> <span m='4751910'>if</span> <span
   m='4752220'>you're</span> <span m='4752310'>interested.</span> </p>
 uid: e122a7047aa22bc948ee7cc8d10f5b54
-type: courses
+type: course
 layout: video
 ---

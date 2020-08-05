@@ -2429,6 +2429,6 @@ transcript: >-
   m='2722460'>when</span> <span m='2722560'>we</span> <span
   m='2722660'>did</span> <span m='2722960'>approximations.</span> </p>
 uid: 8b4b72c7c90d73b8876d4141e554fbf6
-type: courses
+type: course
 layout: video
 ---

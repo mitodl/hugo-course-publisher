@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses9a.pdf
 description: This resource contains information related to product rule.
-type: courses
+type: course
 layout: pdf
 uid: b248c90cb7620c873e1781f41b217049
 file_type: application/pdf

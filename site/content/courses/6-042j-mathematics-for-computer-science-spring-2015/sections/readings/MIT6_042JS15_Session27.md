@@ -3,7 +3,7 @@ title: 'Pigeonhole Principle, Inclusion-Exclusion: Chapter 14.8'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Pigeonhole principle, inclusion-exclusion: Chapter 14.8.
-type: courses
+type: course
 layout: pdf
 uid: 84fe0d2ba29f9a76f746e6d7a2eebca2
 file_type: application/pdf

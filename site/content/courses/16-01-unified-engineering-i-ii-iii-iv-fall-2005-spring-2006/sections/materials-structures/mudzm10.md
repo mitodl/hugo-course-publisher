@@ -3,7 +3,7 @@ title: mudzm10.pdf
 description: >-
   This resource contains review questions and answers based on constitutive laws
   for bars, superposition, and definition of a truss.
-type: courses
+type: course
 layout: pdf
 uid: c5fcdf0029e5c88fcf77cd11a5841024
 file_type: application/pdf

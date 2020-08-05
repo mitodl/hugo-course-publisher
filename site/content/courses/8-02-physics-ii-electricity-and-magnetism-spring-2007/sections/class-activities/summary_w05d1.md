@@ -1,7 +1,7 @@
 ---
 title: summary_w05d1.pdf
 description: 'This resource is about current, resistance, and DC circuits.'
-type: courses
+type: course
 layout: pdf
 uid: 0d0fd6cf993958db9fbd7738c21e51e1
 file_type: application/pdf

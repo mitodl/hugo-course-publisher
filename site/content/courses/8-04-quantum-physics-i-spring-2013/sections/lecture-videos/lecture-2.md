@@ -1368,6 +1368,6 @@ transcript: >-
   m='4784460'>probabilities than classically. And that will be quantum mechanics
   See you on Tuesday.</span> <span m='4789980'>AUDIENCE: [APPLAUSE]</span> </p>
 uid: 001a0351b2239f3789672c000d636fb1
-type: courses
+type: course
 layout: video
 ---

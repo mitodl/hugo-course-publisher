@@ -139,6 +139,6 @@ transcript: >-
   <span m='72590'>career</span> <span m='73032'>and</span> <span
   m='73475'>your</span> <span m='73917'>life.</span> </p>
 uid: 55f638684259171d11864ebb36f2e449
-type: courses
+type: course
 layout: video
 ---

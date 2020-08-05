@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses1c.pdf
 description: New file Upload
-type: courses
+type: course
 layout: pdf
 uid: c1d53189e48dc5e363a361930a1327e1
 file_type: application/pdf

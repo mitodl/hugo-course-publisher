@@ -3,7 +3,7 @@ title: f06_sp.pdf
 description: >-
   This resource contains information on the topics of 3D Vortex Filaments and
   Lifting Line Theory.
-type: courses
+type: course
 layout: pdf
 uid: b21b454e7e3e2f145878db1930d2bbfa
 file_type: application/pdf

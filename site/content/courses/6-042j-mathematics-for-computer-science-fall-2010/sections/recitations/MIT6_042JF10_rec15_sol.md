@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_rec15_sol.pdf
 description: 'This resource contains solutions of counting problems, pigeonhole principle. '
-type: courses
+type: course
 layout: pdf
 uid: a784497ca2bfa98ecb310214329c9b7e
 file_type: application/pdf

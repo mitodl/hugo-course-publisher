@@ -3,7 +3,7 @@ title: s12_ps09_fall03.pdf
 description: >-
   This resource includes problem set S12 involving question to find out
   the?eigenvalues?and?eigenvectors?of?the?system.
-type: courses
+type: course
 layout: pdf
 uid: c1a894945630da1ba678da9b587e4dd5
 file_type: application/pdf

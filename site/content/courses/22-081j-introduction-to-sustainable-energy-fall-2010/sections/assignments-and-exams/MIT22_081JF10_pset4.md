@@ -3,7 +3,7 @@ title: MIT22_081JF10_pset4.pdf
 description: >-
   This resource contains problem statements related to process economics, and
   geothermal heat pump system.
-type: courses
+type: course
 layout: pdf
 uid: 1e1aa0603fff2ed6d2a409aa9ffcc370
 file_type: application/pdf

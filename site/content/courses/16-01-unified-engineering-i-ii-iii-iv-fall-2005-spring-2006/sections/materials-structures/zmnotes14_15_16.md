@@ -1,7 +1,7 @@
 ---
 title: zmnotes14_15_16.pdf
 description: This resource based on principal axes of stress.
-type: courses
+type: course
 layout: pdf
 uid: 88137d7c8cdd0f245c9ee63fe5481c73
 file_type: application/pdf

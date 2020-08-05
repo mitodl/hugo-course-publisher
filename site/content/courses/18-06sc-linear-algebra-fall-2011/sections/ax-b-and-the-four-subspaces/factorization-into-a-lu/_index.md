@@ -1,16 +1,14 @@
 ---
 title: Factorization into A = LU
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 2817c81b09040d03c0c634f006d5a20d
-    type: section
-    layout: section
     name: Factorization into A = LU
     weight: 80
     parent: 34303ce19b45724122d2bd33d64df688
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/_index.md" %}}) »
 

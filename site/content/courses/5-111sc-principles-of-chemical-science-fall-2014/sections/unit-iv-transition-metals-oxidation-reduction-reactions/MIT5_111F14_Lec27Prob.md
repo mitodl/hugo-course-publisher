@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 27: Introduction to
   Transition Metals
 description: This resource contains information regarding lecture 27 problem.
-type: courses
+type: course
 layout: pdf
 uid: 4de536ab4d56ab3ef6968d40afbdffb1
 file_type: application/pdf

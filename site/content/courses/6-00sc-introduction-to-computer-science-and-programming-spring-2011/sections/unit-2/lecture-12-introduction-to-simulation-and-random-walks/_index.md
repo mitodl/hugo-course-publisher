@@ -1,16 +1,14 @@
 ---
 title: Introduction to Simulation and Random Walks
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: a7cc68bdf5bd3347c014209d6f7c9e17
-    type: section
-    layout: section
     name: Introduction to Simulation and Random Walks
     weight: 180
     parent: ddc5db7a5c64e3bda565b36f4ed76287
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-11-oop-and-inheritance/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-13-some-basic-probability-and-plotting-data/_index.md" %}}) »
 

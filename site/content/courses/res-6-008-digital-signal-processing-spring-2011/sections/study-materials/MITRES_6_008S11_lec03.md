@@ -3,7 +3,7 @@ title: MITRES_6_008S11_lec03.pdf
 description: >-
   This resource contains information related to discrete-time signals and
   systems, part 2.
-type: courses
+type: course
 layout: pdf
 uid: 4a15c19f5f4639dd54d9f07094f3ef24
 file_type: application/pdf

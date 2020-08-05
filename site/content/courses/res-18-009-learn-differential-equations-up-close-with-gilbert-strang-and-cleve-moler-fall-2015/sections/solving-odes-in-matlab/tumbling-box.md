@@ -437,6 +437,6 @@ transcript: >-
   m='508400'>drawing</span> <span m='508920'>a</span> <span
   m='509000'>few</span> <span m='509460'>orbits.</span> </p>
 uid: 9605f7f536596cdac73fc74f9e6554a4
-type: courses
+type: course
 layout: video
 ---

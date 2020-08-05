@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Equations of Lines'
 transcript: ''
 uid: 5f92deb2b59687cd08e8b1090e94e8d8
-type: courses
+type: course
 layout: video
 ---

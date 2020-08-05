@@ -3,7 +3,7 @@ title: 'RSA Encryption: Chapter 8.11 – 8.12'
 description: >-
   This resource contains information regarding mathematics for computer science:
   RSA encryption: Chapter 8.11 – 8.12.
-type: courses
+type: course
 layout: pdf
 uid: 180ba5ee0bf0afa03e9e77e1f9597c78
 file_type: application/pdf

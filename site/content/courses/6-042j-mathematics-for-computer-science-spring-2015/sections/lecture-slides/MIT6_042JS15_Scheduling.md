@@ -1,7 +1,7 @@
 ---
 title: 'Directed Acyclic Graphs & Scheduling: Scheduling'
 description: This file contains information regarding scheduling.
-type: courses
+type: course
 layout: pdf
 uid: f7669cda8ba4cece4e079e1bb13fe12e
 file_type: application/pdf

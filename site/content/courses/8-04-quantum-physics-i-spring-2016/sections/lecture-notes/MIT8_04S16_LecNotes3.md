@@ -1,7 +1,7 @@
 ---
 title: 'Quantum Physics I, Lecture Note 3'
 description: 'This resource contains information regarding quantum physics: Lecture Note 3.'
-type: courses
+type: course
 layout: pdf
 uid: f928b8dce3d6a218fddda9617c5eb4f2
 file_type: application/pdf

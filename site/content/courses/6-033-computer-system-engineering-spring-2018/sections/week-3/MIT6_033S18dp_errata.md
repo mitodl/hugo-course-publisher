@@ -1,7 +1,7 @@
 ---
 title: 'Computer System Engineering, Design Project Errata'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 4459543a5a163192772e26bf814e1461
 file_type: application/pdf

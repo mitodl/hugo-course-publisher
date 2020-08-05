@@ -3,7 +3,7 @@ title: >-
   Electromagnetic Field Theory - A Problem-Solving Approach – Chapter 9:
   Radiation
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 8d15e7ab13a2be432b8cce7512dcb4f4
 file_type: application/pdf

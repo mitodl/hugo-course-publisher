@@ -3,7 +3,7 @@ title: lab1.pdf
 description: >-
   This resource explores the characterization of a network by its Thevenin and
   Norton equivalents.
-type: courses
+type: course
 layout: pdf
 uid: 56d60da013efade4a97056c23c4c9c5a
 file_type: application/pdf

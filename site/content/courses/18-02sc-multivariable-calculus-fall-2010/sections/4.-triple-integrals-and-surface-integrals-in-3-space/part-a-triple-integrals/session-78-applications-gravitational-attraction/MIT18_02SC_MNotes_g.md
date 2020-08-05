@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_g.pdf
 description: This resource contains information related to gravitational attraction.
-type: courses
+type: course
 layout: pdf
 uid: cf87cdd1410bb969d0fd86a598dbe0bb
 file_type: application/pdf

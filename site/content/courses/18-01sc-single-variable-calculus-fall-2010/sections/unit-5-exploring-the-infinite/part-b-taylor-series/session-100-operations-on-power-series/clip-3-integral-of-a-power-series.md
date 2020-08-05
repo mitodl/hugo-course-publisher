@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Integral of a Power Series'
 transcript: ''
 uid: 23f2e99f06a9097cdc34a1acc66d2587
-type: courses
+type: course
 layout: video
 ---

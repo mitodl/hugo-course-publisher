@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: General Formula for ndS'
 description: This resource contains information regarding general formula for ndS.
-type: courses
+type: course
 layout: pdf
 uid: b00361f92e5f01a9cf6362a1f38c44ed
 file_type: application/pdf

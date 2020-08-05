@@ -4464,6 +4464,6 @@ transcript: >-
   m="4722410">ask</span> <span m="4722890">them.</span> <span m="4723190">All
   right?</span> <span m="4723790">Thanks.</span></p>
 uid: 01b6ad789974003b9f88522862525446
-type: courses
+type: course
 layout: video
 ---

@@ -2827,6 +2827,6 @@ transcript: >-
   m='3001940'>all</span> <span m='3002270'>day.</span> </p><p><span
   m='3004490'>Thanks.</span> </p>
 uid: 4ee7e51c509100597a9ac889b322e5ab
-type: courses
+type: course
 layout: video
 ---

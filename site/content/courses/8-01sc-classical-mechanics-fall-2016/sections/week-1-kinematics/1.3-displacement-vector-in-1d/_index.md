@@ -1,16 +1,14 @@
 ---
 title: 1.3 Displacement Vector in 1D
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: videogallery
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 6173eb9963424c07c274ecc71fbee808
-    type: section
-    layout: section
     name: 1.3 Displacement Vector in 1D
     weight: 160
     parent: 63e325a780c79e352fb5bddb9b8b2c6a
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/1.2-position-vector-in-1d" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/1.4-average-velocity-in-1d" %}}) »
 

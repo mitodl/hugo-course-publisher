@@ -393,6 +393,6 @@ transcript: >-
   <span m="269550">this</span> <span m="269710">class.</span> <span
   m="272470">That's</span> <span m="272690">all.</span></p>
 uid: 9fc5155b3f54a629eba0c8ab98448d17
-type: courses
+type: course
 layout: video
 ---

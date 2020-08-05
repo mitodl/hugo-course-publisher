@@ -1,15 +1,13 @@
 ---
 title: 'Part II: Inference & Limit Theorems'
 course_id: res-6-012-introduction-to-probability-spring-2018
+type: course
+layout: videogallery
 menu:
   res-6-012-introduction-to-probability-spring-2018:
     identifier: b8cdf274e2b0f82662e4cd137e85d308
-    type: section
-    layout: section
     name: 'Part II: Inference & Limit Theorems'
     weight: 20
-type: courses
-layout: videogallery
 ---
 The videos in Part II describe the laws of large numbers and introduce the main tools of Bayesian inference methods.
 

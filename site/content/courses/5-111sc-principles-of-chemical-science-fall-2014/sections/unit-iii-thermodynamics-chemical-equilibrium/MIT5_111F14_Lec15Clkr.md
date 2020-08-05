@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Thermodynamics: Bond and Reaction
   Enthalpies.
-type: courses
+type: course
 layout: pdf
 uid: f46735b138b39e097afbd7e969530685
 file_type: application/pdf

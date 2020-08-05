@@ -1,7 +1,7 @@
 ---
 title: Comments on David's Rough Cut
 description: This resource contains information regarding david's rough cut.
-type: courses
+type: course
 layout: pdf
 uid: a0fe41183cfd42961f698b43199138f3
 file_type: application/pdf

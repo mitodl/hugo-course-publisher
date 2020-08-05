@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses1.12prob.pdf
 description: >-
   This resource contains problem sets related to graphs, networks, and incidence
   matrices.
-type: courses
+type: course
 layout: pdf
 uid: 13115844908c991f11d52f44f29ecc11
 file_type: application/pdf

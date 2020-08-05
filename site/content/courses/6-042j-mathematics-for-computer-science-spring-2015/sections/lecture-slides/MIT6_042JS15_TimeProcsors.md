@@ -1,7 +1,7 @@
 ---
 title: 'Directed Acyclic Graphs & Scheduling: Time vs Processors'
 description: This file contains information regarding time vs processors.
-type: courses
+type: course
 layout: pdf
 uid: 4d1f0a2d36611f6e3cbc152eefb2c865
 file_type: application/pdf

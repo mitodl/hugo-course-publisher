@@ -1,7 +1,7 @@
 ---
 title: mud4.pdf
 description: Instructor's response to 'Muddiest Part of the Lecture Cards'.
-type: courses
+type: course
 layout: pdf
 uid: 0a76123f9d0f9588286168a5c6fdf29e
 file_type: application/pdf

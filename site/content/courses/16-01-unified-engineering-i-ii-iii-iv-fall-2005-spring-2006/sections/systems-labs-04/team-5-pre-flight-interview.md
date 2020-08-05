@@ -36,6 +36,6 @@ technical_location: >-
 title: 'Team 5: Pre-Flight Interview'
 transcript: ''
 uid: f912f9c04e2bbbbbb9afdff88f60325a
-type: courses
+type: course
 layout: video
 ---

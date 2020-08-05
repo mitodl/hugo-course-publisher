@@ -5,7 +5,7 @@ description: >-
   trig substitution and trig integrals, partial fractions, integration by parts,
   arc length and surface area of revolution, polar coordinates, and area in
   polar coordinates.
-type: courses
+type: course
 layout: pdf
 uid: 0202fa3893049a6a502c4f7079eca657
 file_type: application/pdf

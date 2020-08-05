@@ -1,11 +1,11 @@
 ---
 title: 'Part A: Definition and Basic Rules'
 course_id: 18-01sc-single-variable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 962d171611a101d49f865818d41217eb
-    type: section
-    layout: section
     name: 'Part A: Definition and Basic Rules'
     weight: 30
     parent: ff2c27eff0de39810c3e51a37548e568

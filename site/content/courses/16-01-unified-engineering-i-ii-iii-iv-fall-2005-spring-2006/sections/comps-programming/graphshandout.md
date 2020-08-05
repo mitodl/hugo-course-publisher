@@ -1,7 +1,7 @@
 ---
 title: graphshandout.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: a86346b619ae7fc482e7919bc7a03169
 file_type: application/pdf

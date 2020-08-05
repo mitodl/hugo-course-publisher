@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Calculating Flux'
 transcript: ''
 uid: 7a0746bd2d2791e59e8f455d4573740c
-type: courses
+type: course
 layout: video
 ---

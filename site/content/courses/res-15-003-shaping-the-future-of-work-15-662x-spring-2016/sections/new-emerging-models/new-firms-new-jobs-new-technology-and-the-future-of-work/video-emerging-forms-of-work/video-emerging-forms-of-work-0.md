@@ -415,6 +415,6 @@ transcript: >-
   m='279130'>more</span> <span m='279340'>stable</span> <span
   m='280100'>employment</span> <span m='280780'>contracts.</span> </p>
 uid: 793a813841caed763545be5bc5d86eff
-type: courses
+type: course
 layout: video
 ---

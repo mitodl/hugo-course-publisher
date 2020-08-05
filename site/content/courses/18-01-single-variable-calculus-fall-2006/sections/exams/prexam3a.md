@@ -1,7 +1,7 @@
 ---
 title: Practice Questions for Exam 3
 description: Practice questions for the third exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: 0b4e633c54bf010773bbbe1dc8bf8dcc
 file_type: application/pdf

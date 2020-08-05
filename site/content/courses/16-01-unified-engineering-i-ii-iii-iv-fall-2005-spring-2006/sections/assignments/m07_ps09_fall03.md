@@ -3,7 +3,7 @@ title: m07_ps09_fall03.pdf
 description: >-
   This resource contains problems related to calculating the forces in the bars
   of a truss.
-type: courses
+type: course
 layout: pdf
 uid: 6ff4d3c0a1a05ac6bd14797d513ae8f4
 file_type: application/pdf

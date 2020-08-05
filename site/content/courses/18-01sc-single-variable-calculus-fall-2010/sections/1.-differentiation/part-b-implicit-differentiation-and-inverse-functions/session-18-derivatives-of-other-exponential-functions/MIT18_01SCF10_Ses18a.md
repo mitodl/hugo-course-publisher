@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses18a.pdf
 description: >-
   Tis resource contains information related to derivatives of other exponential
   functions.
-type: courses
+type: course
 layout: pdf
 uid: 149902aa1b5fcaed5a058e1d318efa58
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Problem Set 11: Simulating Robots'
 description: "Problem set on designing a simulation and implementing a program that uses classes. \r\n"
-type: courses
+type: course
 layout: pdf
 uid: 0589e2f1cd1125d31b3c9fc4b05b60cf
 file_type: application/pdf

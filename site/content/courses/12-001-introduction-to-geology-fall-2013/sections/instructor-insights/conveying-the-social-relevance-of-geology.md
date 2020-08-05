@@ -1,11 +1,11 @@
 ---
 title: Conveying the Social Relevance of Geology
 course_id: 12-001-introduction-to-geology-fall-2013
+type: course
+layout: course_section
 menu:
   12-001-introduction-to-geology-fall-2013:
     identifier: a9c623ed5ba59002d8a7cabe1d13ee9e
-    type: section
-    layout: section
     name: Conveying the Social Relevance of Geology
     weight: 60
     parent: 1c2cb2ad1c70fd66f19e20103dc94595

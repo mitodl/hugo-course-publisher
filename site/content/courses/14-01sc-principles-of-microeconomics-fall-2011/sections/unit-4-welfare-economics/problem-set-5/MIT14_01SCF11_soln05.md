@@ -3,7 +3,7 @@ title: MIT14_01SCF11_soln05.pdf
 description: >-
   This resource contains solutions to the problem statements related to
   equilibrium price, capital and profits.
-type: courses
+type: course
 layout: pdf
 uid: 1aeaeb3993e8b8c60bb91f6aa0cce667
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses53b.pdf
 description: This resource contains information about new functions from old.
-type: courses
+type: course
 layout: pdf
 uid: c8cdad3e6b8b128d19f54b884372a8e2
 file_type: application/pdf

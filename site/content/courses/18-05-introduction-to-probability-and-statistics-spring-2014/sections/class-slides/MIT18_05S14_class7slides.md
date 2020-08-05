@@ -3,7 +3,7 @@ title: 'Class 7 Slides: Joint distributions: independence, covariance and correl
 description: >-
   This is a resource file that contains information regarding joint
   distributions: independence, covariance and correlation.
-type: courses
+type: course
 layout: pdf
 uid: 976210ba80799a72c8d0623d604aac06
 file_type: application/pdf

@@ -730,6 +730,6 @@ transcript: >-
   <span m='767920'>to</span> <span m='768080'>say</span> <span
   m='768380'>for</span> <span m='768680'>today.</span> </p>
 uid: 228a4021d20f4f9abfd518f0191f3b11
-type: courses
+type: course
 layout: video
 ---

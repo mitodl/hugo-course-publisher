@@ -151,6 +151,6 @@ transcript: >-
   that the binomial PMF</span> <span m='364400'>converges to a Poisson PMF when
   we</span> <span m='368280'>take the limit in this particular way.</span> </p>
 uid: 1385acb9192549d2776ba697c59dc022
-type: courses
+type: course
 layout: video
 ---

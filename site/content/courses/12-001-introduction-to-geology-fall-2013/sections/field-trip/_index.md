@@ -1,11 +1,11 @@
 ---
 title: Field Trip
 course_id: 12-001-introduction-to-geology-fall-2013
+type: course
+layout: course_section
 menu:
   12-001-introduction-to-geology-fall-2013:
     identifier: de36fe69cf33ddf238bc3896d0ce9eff
-    type: section
-    layout: section
     name: Field Trip
     weight: 110
 ---

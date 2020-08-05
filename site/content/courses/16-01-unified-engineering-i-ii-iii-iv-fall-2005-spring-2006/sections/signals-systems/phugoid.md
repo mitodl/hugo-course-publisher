@@ -3,7 +3,7 @@ title: phugoid.pdf
 description: >-
   This file is a supplementary notes discusses about control of an Aircraft with
   throttle only.
-type: courses
+type: course
 layout: pdf
 uid: 4e932d24f9d4b17918820220ce1bd11e
 file_type: application/pdf

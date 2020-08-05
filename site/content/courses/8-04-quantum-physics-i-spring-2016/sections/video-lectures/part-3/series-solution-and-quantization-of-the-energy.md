@@ -701,6 +701,6 @@ transcript: >-
   m='857200'>famous</span> <span m='857920'>13.6</span> <span
   m='859840'>EV.</span> </p>
 uid: 79dda8c1a73f40ff33603608e6d62310
-type: courses
+type: course
 layout: video
 ---

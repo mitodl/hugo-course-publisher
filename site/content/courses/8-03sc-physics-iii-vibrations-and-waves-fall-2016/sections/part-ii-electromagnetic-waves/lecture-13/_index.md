@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 13: Dispersive Medium, Phase Velocity, Group Velocity'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
+type: course
+layout: videogallery
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: f4a13423bdd7a17965ceb0f19b5833d3
-    type: section
-    layout: section
     name: 'Lecture 13: Dispersive Medium, Phase Velocity, Group Velocity'
     weight: 180
     parent: 240ff61b57c23024881e75e9a0e68cde
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-12/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-14/_index.md" %}}) »
 

@@ -335,6 +335,6 @@ transcript: >-
   m="198600">course</span> <span m="198890">at</span> <span
   m="198970">MIT.</span></p>
 uid: aa65e776da99be61ed9e993b53369f6b
-type: courses
+type: course
 layout: video
 ---

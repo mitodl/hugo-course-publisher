@@ -3,7 +3,7 @@ title: >-
   Electromagnetic Field Theory - A Problem-Solving Approach – Chapter 1: Review
   of Vector Analysis
 description: null
-type: courses
+type: course
 layout: pdf
 uid: aadd00c4927436002530deb5b73a273a
 file_type: application/pdf

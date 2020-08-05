@@ -3,7 +3,7 @@ title: zu3mud.pdf
 description: >-
   This file contains the review of "Muddy Points" from the course and student
   responses from the review session.
-type: courses
+type: course
 layout: pdf
 uid: 663d2779ce70738abd09baeb50ece46e
 file_type: application/pdf

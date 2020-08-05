@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_d2.pdf
 description: This resource contains information related to area and volume.
-type: courses
+type: course
 layout: pdf
 uid: 317eb93dbd9e833fbe51dfc6b2d3e034
 file_type: application/pdf

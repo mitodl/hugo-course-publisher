@@ -3,7 +3,7 @@ title: MIT18_02SC_pset9sol.pdf
 description: >-
   This resource contains information related to divergence and gradients of the
   density.
-type: courses
+type: course
 layout: pdf
 uid: eebfea1c1dab8376092e0edd86828e58
 file_type: application/pdf

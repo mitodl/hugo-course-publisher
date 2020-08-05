@@ -1,7 +1,7 @@
 ---
 title: 'Standard normal, t, chi-squared tables'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: ea3ba02030e46bfc7304a8e850ca0edd
 file_type: application/pdf

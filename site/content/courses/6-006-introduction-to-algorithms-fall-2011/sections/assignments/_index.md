@@ -1,11 +1,11 @@
 ---
 title: Assignments
 course_id: 6-006-introduction-to-algorithms-fall-2011
+type: course
+layout: course_section
 menu:
   6-006-introduction-to-algorithms-fall-2011:
     identifier: 7fd33342372155a25c910269de56eb8f
-    type: section
-    layout: section
     name: Assignments
     weight: 90
 ---

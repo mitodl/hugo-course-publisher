@@ -357,6 +357,6 @@ transcript: >-
   m='456150'>develop</span> <span m='456840'>on</span> <span m='457140'>and
   on.</span> </p>
 uid: f0efda9e21b618c612ac503bcb1c4b74
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex64prb.pdf
 description: >-
   This resource contains problem statements related to Simpson's rule for normal
   distribution.
-type: courses
+type: course
 layout: pdf
 uid: f15dde39fa9cddb40ade49bdf89094fc
 file_type: application/pdf

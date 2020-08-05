@@ -3,7 +3,7 @@ title: lab4.pdf
 description: >-
   In this lab, one will construct, test and demonstrate the audio playback
   system.
-type: courses
+type: course
 layout: pdf
 uid: 33d6731c206313c3addd121084d9f3b1
 file_type: application/pdf

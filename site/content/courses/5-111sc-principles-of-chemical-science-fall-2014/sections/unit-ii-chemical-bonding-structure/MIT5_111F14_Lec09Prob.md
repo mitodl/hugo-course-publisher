@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 9: Periodic Table; Ionic
   and Covalent Bonds
 description: This resource contains information regarding lecture 9 problem.
-type: courses
+type: course
 layout: pdf
 uid: 04e6d703494dded5582b4b3b30a457b9
 file_type: application/pdf

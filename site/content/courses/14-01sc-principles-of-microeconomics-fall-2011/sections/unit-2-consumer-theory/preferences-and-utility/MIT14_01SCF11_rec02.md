@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_rec02.pdf
 description: This resource is a recitation file for calculation elasticities.
-type: courses
+type: course
 layout: pdf
 uid: 32e74182abe73c0c2035508b67c2d040
 file_type: application/pdf

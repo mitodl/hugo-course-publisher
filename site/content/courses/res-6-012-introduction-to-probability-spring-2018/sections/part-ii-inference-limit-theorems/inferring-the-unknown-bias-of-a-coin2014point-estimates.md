@@ -197,6 +197,6 @@ transcript: >-
   so in the limit of large n, the two estimators</span> <span m='564730'>will
   not be very different from each other.</span> </p><p></p>
 uid: aa2654141506d32ecb8b30fa2f213345
-type: courses
+type: course
 layout: video
 ---

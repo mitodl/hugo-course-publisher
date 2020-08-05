@@ -7000,6 +7000,6 @@ transcript: >-
   m="6145060">Thursday,</span> <span m="6146640">it'll</span> <span
   m="6146760">be</span> <span m="6146920">easier.</span></p><p>&nbsp;</p>
 uid: 096a0d9b8dc1bf971873587c9954c1d9
-type: courses
+type: course
 layout: video
 ---

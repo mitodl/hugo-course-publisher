@@ -667,6 +667,6 @@ transcript: >-
   <span m='876580'>with</span> <span m='877090'>V</span> <span
   m='877570'>equal</span> <span m='877980'>0.</span> </p>
 uid: 5d50ee8631828bff7247d4e21fe620a0
-type: courses
+type: course
 layout: video
 ---

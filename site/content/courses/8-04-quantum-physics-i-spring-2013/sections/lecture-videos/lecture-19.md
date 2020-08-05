@@ -5673,6 +5673,6 @@ transcript: >-
   m='4974810'>get</span> <span m='4975050'>to</span> <span
   m='4975350'>diamond.</span> </p>
 uid: 22243dd4dfdffab428392263496d96a5
-type: courses
+type: course
 layout: video
 ---

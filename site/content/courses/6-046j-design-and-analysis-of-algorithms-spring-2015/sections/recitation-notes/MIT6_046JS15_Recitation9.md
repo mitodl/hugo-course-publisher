@@ -3,7 +3,7 @@ title: 'Class on Design and Analysis of Algorithms, Recitation 9 Notes'
 description: >-
   This resource contains information regarding class on design and analysis of
   algorithms, recitation 9 notes.
-type: courses
+type: course
 layout: pdf
 uid: 9233649044c6d4308f0c6ffe4752b9f5
 file_type: application/pdf

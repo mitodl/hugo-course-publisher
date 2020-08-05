@@ -1,7 +1,7 @@
 ---
 title: '15.401 Finance Theory I, Problem Sets (added December 2019)'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 36b761fc18615eeee3419cd2407dadc4
 file_type: application/pdf

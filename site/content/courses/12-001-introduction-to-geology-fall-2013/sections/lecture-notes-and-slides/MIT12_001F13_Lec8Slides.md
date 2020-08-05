@@ -3,7 +3,7 @@ title: 'Lecture 8 Slides: Rock Structure and Deformation'
 description: >-
   This file contains the information regarding Lecture 8 Slides: Rock Structure
   and Deformation.
-type: courses
+type: course
 layout: pdf
 uid: a6cf39f281f0c7eb117836d77d0c9825
 file_type: application/pdf

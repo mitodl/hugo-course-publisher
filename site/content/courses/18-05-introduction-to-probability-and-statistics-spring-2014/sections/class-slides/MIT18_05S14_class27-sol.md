@@ -3,7 +3,7 @@ title: 'Class 27 Solutions File: Review for final exam, cont''d'
 description: >-
   This is a resource file that contains information regarding class 27
   solutions.
-type: courses
+type: course
 layout: pdf
 uid: 32de54f92658e66eee8ec34c9648b916
 file_type: application/pdf

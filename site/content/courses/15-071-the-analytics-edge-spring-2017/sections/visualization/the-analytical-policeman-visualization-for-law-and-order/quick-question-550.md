@@ -1,6 +1,8 @@
 ---
 title: '7.3 The Analytical Policeman: Visualization for Law and Order'
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: course_section
 ---
 *   [<Video 3: A Line Plot]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-3-a-line-plot/_index.md" %}})
 *   [7.3.1Video 1: Predictive Policing]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/_index.md" %}})

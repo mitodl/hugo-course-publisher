@@ -1,16 +1,14 @@
 ---
 title: Uncertainty
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: eb20a38656314e616324268b98c9df1d
-    type: section
-    layout: section
     name: Uncertainty
     weight: 370
     parent: 2b057e13f81e86aad632c23c1074b663
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/international-trade/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/problem-set-8/_index.md" %}}) »
 

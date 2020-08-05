@@ -1,7 +1,7 @@
 ---
 title: Processing Instructions
 description: This resource contains information regarding processing instructions.
-type: courses
+type: course
 layout: pdf
 uid: edc34e44101c9c5595bbf7438c357b87
 file_type: application/pdf

@@ -315,6 +315,6 @@ transcript: >-
   m='246714'>on</span> <span m='247255'>our</span> <span m='247797'>ROC</span>
   <span m='248338'>curve.</span> </p>
 uid: a5a7534cfac2a1a44d37286c969fee55
-type: courses
+type: course
 layout: video
 ---

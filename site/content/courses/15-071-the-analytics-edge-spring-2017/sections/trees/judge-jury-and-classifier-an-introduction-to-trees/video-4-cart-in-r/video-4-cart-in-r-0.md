@@ -768,6 +768,6 @@ transcript: >-
   <span m='727241'>of</span> <span m='727654'>this</span> <span
   m='728067'>model.</span> </p>
 uid: 13d0a88f2d9e1869793a8c4b8af412c5
-type: courses
+type: course
 layout: video
 ---

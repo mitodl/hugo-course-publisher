@@ -1,7 +1,7 @@
 ---
 title: f03_ps09_fall03.pdf
 description: This resource contains the Anderson problem.
-type: courses
+type: course
 layout: pdf
 uid: 8ead731086465e8804b1c0be31139b0b
 file_type: application/pdf

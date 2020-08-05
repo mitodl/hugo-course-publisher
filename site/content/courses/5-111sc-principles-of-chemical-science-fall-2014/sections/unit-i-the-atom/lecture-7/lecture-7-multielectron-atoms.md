@@ -2272,6 +2272,6 @@ transcript: >-
   m='2142570'>for</span> <span m='2142730'>today?</span> <span
   m='2147330'>Recitation</span> <span m='2148090'>12.</span> </p>
 uid: aa2a8e7e07be67a068867872bd8a8156
-type: courses
+type: course
 layout: video
 ---

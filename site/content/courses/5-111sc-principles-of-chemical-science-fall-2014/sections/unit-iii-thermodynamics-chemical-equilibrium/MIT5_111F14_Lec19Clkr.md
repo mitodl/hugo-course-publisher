@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Chemical Equilibrium: Le
   Châtelier’s Principle.
-type: courses
+type: course
 layout: pdf
 uid: 3bb5e77e622396ce84361562f90177de
 file_type: application/pdf

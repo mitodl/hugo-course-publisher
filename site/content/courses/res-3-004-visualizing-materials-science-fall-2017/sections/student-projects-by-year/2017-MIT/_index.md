@@ -1,11 +1,11 @@
 ---
 title: 2017 MIT Student Projects
 course_id: res-3-004-visualizing-materials-science-fall-2017
+type: course
+layout: course_section
 menu:
   res-3-004-visualizing-materials-science-fall-2017:
     identifier: faf869f8afddf72b42b0a478ed652c8c
-    type: section
-    layout: section
     name: 2017 MIT Student Projects
     weight: 30
     parent: 912fc0849e832bfd38afdf58a71a8917

@@ -3,7 +3,7 @@ title: pset3_sol_04.pdf
 description: >-
   This file includes solutions to problems on aspect ratio, circulation
   distribution, loading, shear force and bending moment.
-type: courses
+type: course
 layout: pdf
 uid: ea26368b3b3fb59aa1ba6f264869cf73
 file_type: application/pdf

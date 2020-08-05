@@ -240,6 +240,6 @@ transcript: >-
   as the ones</span> <span m="667290">that we just
   practiced.</span></p><p>&nbsp;</p>
 uid: 2b2955705897c99851f452afb7997454
-type: courses
+type: course
 layout: video
 ---

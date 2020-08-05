@@ -1,7 +1,7 @@
 ---
 title: spl8.pdf
 description: This file contains notes for Basic Aircraft Design Rules.
-type: courses
+type: course
 layout: pdf
 uid: ffbff8a4985ee6ea819afb90c40834e3
 file_type: application/pdf

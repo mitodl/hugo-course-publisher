@@ -3,7 +3,7 @@ title: >-
   MIT 8.03SC Fall 2016 Lecture 7: Symmetry, Infinite Number of Coupled
   Oscillators
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 7440c1aa9211d0d26f3b25746883790f
 file_type: application/pdf

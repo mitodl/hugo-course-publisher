@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Boiling Cauldron, Continued'
 transcript: ''
 uid: 95ffa0f725d9000dd2ca1c936d63e896
-type: courses
+type: course
 layout: video
 ---

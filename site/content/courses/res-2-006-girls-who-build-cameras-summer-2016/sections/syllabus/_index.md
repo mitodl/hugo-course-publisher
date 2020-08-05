@@ -1,11 +1,11 @@
 ---
 title: Syllabus
 course_id: res-2-006-girls-who-build-cameras-summer-2016
+type: course
+layout: course_section
 menu:
   res-2-006-girls-who-build-cameras-summer-2016:
     identifier: 1b7f2fb3e2695d6184a3bf3e7da02534
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
 ---

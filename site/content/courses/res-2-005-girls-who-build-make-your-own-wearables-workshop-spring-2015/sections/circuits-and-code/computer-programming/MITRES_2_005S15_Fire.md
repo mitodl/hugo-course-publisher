@@ -1,7 +1,7 @@
 ---
 title: Firewalker Codes
 description: This is a resource file that contains information regarding firewalker codes.
-type: courses
+type: course
 layout: pdf
 uid: 29e02fea86c89fe8e6dfece298ff757c
 file_type: application/pdf

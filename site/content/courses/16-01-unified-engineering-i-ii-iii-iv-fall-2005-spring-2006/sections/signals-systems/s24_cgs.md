@@ -1,7 +1,7 @@
 ---
 title: s24_cgs.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: c521790bceaad53c6ae9025e7a4fdb9e
 file_type: application/pdf

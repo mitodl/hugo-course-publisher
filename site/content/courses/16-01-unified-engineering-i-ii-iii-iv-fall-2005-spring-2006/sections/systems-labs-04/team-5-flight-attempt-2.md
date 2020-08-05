@@ -36,6 +36,6 @@ technical_location: >-
 title: 'Team 5: Flight Attempt 2'
 transcript: ''
 uid: b7ab5745cbfe96d30aeb5062b8bfc75c
-type: courses
+type: course
 layout: video
 ---

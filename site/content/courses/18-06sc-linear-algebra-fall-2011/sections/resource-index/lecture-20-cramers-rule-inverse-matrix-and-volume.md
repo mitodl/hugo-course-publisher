@@ -3049,6 +3049,6 @@ transcript: >-
   m="3046460">the</span> <span m="3047320">big</span> <span
   m="3047570">stuff.</span></p><p><span m="3047780">Thanks.</span></p>
 uid: 99623eb215f9f22c4b1c6d99be4334aa
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: f11_ps11_fall03.pdf
 description: >-
   This resource contains 2 problems related to the vorticity, strain rate of
   fluid and shearing element motions.
-type: courses
+type: course
 layout: pdf
 uid: 9f01ca03317c3d0e4f2042ec786882b8
 file_type: application/pdf

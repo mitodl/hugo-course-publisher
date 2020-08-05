@@ -1,16 +1,14 @@
 ---
 title: 1.11  Infinite Sets
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: videogallery
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 7b14af4d984597ad410998ecc9fb9f71
-    type: section
-    layout: section
     name: 1.11  Infinite Sets
     weight: 830
     parent: 95af5c7b87a2e15790a7ad18331a125f
-type: courses
-layout: videogallery
 ---
 *   [<Recursive Functions: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/recursive-definition/recursive-functions-video" %}})
 *   [1.11.1Cardinality: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/_index.md" %}})

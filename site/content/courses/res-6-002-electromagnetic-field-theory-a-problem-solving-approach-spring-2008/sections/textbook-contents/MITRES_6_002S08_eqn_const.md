@@ -3,7 +3,7 @@ title: >-
   Electromagnetic Field Theory - A Problem-Solving Approach – Useful equations
   and constants
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 058ddeaa3e5bae7a3d35c4204f2aee03
 file_type: application/pdf

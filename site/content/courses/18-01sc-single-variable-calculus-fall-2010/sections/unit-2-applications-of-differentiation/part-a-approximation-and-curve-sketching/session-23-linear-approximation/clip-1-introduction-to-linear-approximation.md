@@ -2512,6 +2512,6 @@ transcript: >-
   m="2805320">these</span> <span m="2805540">next</span> <span
   m="2805860">time.</span></p>
 uid: 6f2e51653d0ab6a760284f89a387ec1a
-type: courses
+type: course
 layout: video
 ---

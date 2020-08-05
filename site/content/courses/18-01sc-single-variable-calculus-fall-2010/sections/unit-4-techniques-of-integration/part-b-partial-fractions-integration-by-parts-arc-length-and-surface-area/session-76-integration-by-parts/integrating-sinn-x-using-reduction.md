@@ -1288,6 +1288,6 @@ transcript: >-
   m='1019910'>where</span> <span m='1020080'>I'll</span> <span
   m='1020360'>stop.</span> </p>
 uid: c709e77103e047fb439c99e9b2bbcc87
-type: courses
+type: course
 layout: video
 ---

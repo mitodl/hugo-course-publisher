@@ -1,7 +1,7 @@
 ---
 title: '18.S997 Vectorization: Homework 3'
 description: This resource contains information regarding homework 3.
-type: courses
+type: course
 layout: pdf
 uid: c39c159e3b9b5527f5f94fbb22ef16b8
 file_type: application/pdf

@@ -178,6 +178,6 @@ transcript: >-
   conceptually, the methodology</span> <span m='459510'>is exactly the
   same.</span> </p><p></p>
 uid: 682370c610ec3cca52016fc6f9446a51
-type: courses
+type: course
 layout: video
 ---

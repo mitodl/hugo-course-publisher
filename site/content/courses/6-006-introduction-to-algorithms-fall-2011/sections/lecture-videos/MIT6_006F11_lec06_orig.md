@@ -1,7 +1,7 @@
 ---
 title: '6.006 Lecture 6 Original: AVL trees, AVL sort'
 description: 'This resource contains information related to AVL trees, AVL sort.'
-type: courses
+type: course
 layout: pdf
 uid: ff2c1cde338a7ad7792a3d2a5fafd3c5
 file_type: application/pdf

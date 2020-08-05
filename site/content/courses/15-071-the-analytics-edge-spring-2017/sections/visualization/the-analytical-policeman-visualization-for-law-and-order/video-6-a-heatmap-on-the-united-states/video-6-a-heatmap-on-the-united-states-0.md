@@ -584,6 +584,6 @@ transcript: >-
   m='563255'>of</span> <span m='563750'>predictive</span> <span
   m='564245'>policing.</span> </p>
 uid: 043fc419195005dd6080e3330724c725
-type: courses
+type: course
 layout: video
 ---

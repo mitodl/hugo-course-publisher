@@ -1,16 +1,14 @@
 ---
 title: Some Basic Probability and Plotting Data
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: fbfa64857038d1fe949774c45d99d5e0
-    type: section
-    layout: section
     name: Some Basic Probability and Plotting Data
     weight: 190
     parent: ddc5db7a5c64e3bda565b36f4ed76287
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-12-introduction-to-simulation-and-random-walks/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-14-sampling-and-monte-carlo-simulation/_index.md" %}}) »
 

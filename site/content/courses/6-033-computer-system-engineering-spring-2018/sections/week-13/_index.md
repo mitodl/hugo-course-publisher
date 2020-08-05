@@ -1,11 +1,11 @@
 ---
 title: 'Week 13: Security Part III'
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 87aba98430c8d18b3f717bdec998328f
-    type: section
-    layout: section
     name: 'Week 13: Security III'
     weight: 580
 ---

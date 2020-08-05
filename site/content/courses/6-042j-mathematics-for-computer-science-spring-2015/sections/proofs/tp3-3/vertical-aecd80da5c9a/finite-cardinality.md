@@ -875,6 +875,6 @@ transcript: >-
   m='654400'>few</span> <span m='654580'>more</span> <span
   m='654740'>lectures.</span> </p>
 uid: 77930173dd6bda53d119ff6eaf54bd03
-type: courses
+type: course
 layout: video
 ---

@@ -1,11 +1,11 @@
 ---
 title: Problem Set 0
 course_id: ec-711-d-lab-energy-spring-2011
+type: course
+layout: course_section
 menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: dafbfcc992f8550b177a67a95cb65180
-    type: section
-    layout: section
     name: Problem Set 0
     weight: 50
     parent: 32a22e0de0add67342ce41445297fce7

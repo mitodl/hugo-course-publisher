@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex72prb.pdf
 description: This resource contains problem statements related trig substitution.
-type: courses
+type: course
 layout: pdf
 uid: 71d5270dd19cc8a0de7a3cf60d12c874
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 19: Deviations'
 description: This resource contains information about Deviations.
-type: courses
+type: course
 layout: pdf
 uid: 6c942e0720244be28959e968aae62e16
 file_type: application/pdf

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Integral of e-x2'
 transcript: ''
 uid: 84fb0684cb2d1a77d22d2388f0f6c17a
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Trees: Tree Coloring'
 description: This file contains information regarding tree coloring.
-type: courses
+type: course
 layout: pdf
 uid: 9d93a4153135742d1f28fd553ac8520d
 file_type: application/pdf

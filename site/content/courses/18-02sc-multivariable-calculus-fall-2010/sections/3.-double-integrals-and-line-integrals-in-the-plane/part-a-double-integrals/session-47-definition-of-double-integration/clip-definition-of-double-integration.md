@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Definition of Double Integration'
 transcript: ''
 uid: 4f2445c890965d46b391e2cd6653a4bd
-type: courses
+type: course
 layout: video
 ---

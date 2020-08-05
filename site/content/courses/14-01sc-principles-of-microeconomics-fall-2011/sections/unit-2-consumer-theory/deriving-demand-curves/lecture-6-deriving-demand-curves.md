@@ -3422,6 +3422,6 @@ transcript: >-
   m='2839850'>the</span> <span m='2840150'>Income</span> <span
   m='2840450'>Effect.</span> </p>
 uid: 8c8b074228be9431ab3d6e2b53e88d49
-type: courses
+type: course
 layout: video
 ---

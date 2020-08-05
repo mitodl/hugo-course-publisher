@@ -3,7 +3,7 @@ title: MIT22_081JF10_pset3.pdf
 description: >-
   This resource contains problem statements related to energy demand, and energy
   storage.
-type: courses
+type: course
 layout: pdf
 uid: c6c63a6818c790da6098b76865c247cd
 file_type: application/pdf

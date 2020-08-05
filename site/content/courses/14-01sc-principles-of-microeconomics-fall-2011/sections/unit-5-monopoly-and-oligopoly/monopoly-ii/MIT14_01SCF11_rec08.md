@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_rec08.pdf
 description: This resource is a recitation file for price ceilings and price floors.
-type: courses
+type: course
 layout: pdf
 uid: 02fed21358a64601ee532821383a3b78
 file_type: application/pdf

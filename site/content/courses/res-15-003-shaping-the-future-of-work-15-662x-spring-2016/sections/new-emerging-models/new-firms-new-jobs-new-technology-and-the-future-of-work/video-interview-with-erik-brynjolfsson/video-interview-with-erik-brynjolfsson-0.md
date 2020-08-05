@@ -1128,6 +1128,6 @@ transcript: >-
   m="757010">Thanks</span> <span m="757250">a</span> <span
   m="757300">lot,</span> <span m="757460">Tom.</span></p>
 uid: 55cd542682d216e603e8a530bb2fd911
-type: courses
+type: course
 layout: video
 ---

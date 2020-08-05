@@ -1,16 +1,14 @@
 ---
 title: '9.4 Operating Room Scheduling: Making Hospitals Run Smoothly  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: videogallery
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 1ebaa9f0a112c16192d91227cd28b727
-    type: section
-    layout: section
     name: '9.4 Operating Room Scheduling: Making Hospitals Run Smoothly  (Recitation)'
     weight: 3210
     parent: db42b40ad705f431a7e23a1d11cec341
-type: courses
-layout: videogallery
 ---
 *   [<Video 4: The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love/video-4-the-analytics-edge" %}})
 *   [9.4.1Welcome to Recitation 9]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/_index.md" %}})

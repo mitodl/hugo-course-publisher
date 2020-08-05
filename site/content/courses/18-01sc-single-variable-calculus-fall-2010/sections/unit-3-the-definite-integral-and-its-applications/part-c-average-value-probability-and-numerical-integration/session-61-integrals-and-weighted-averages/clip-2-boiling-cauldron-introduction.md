@@ -2777,6 +2777,6 @@ transcript: >-
   m="2994700">boil</span> <span m="2995100">the</span> <span
   m="2995160">kettle.</span></p>
 uid: 546bce52a4e554e545bcece383dace07
-type: courses
+type: course
 layout: video
 ---

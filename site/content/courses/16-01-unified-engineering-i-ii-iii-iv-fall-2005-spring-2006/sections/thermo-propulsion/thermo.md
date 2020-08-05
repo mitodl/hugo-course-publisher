@@ -1,7 +1,7 @@
 ---
 title: thermo.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 15aecdbfb9c83172ff47767bf2cba63e
 file_type: application/pdf

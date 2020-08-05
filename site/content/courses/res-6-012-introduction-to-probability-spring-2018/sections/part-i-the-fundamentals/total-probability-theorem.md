@@ -149,6 +149,6 @@ transcript: >-
   except that now</span> <span m="317970">this would be an infinite sum over
   the</span> <span m="320890">infinite set of scenarios.</span></p><p>&nbsp;</p>
 uid: 73cd7c240fa6c79630825d108401743b
-type: courses
+type: course
 layout: video
 ---

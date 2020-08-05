@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_prac4A.pdf
 description: "This resource contains information related to vector field. \r\n\r\n"
-type: courses
+type: course
 layout: pdf
 uid: 6223b043b82390b3419c572580dde1fc
 file_type: application/pdf

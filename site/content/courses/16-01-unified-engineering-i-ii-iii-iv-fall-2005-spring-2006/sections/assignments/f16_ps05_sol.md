@@ -3,7 +3,7 @@ title: f16_ps05_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on
   stagnation pressure.
-type: courses
+type: course
 layout: pdf
 uid: f4932930e414af4823852452aa6febd4
 file_type: application/pdf

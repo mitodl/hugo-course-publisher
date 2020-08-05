@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 29: Transition Metals: Crystal Field Theory Part II'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: videogallery
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: ddc6ceab131130089df1db9d631a91d2
-    type: section
-    layout: section
     name: Lecture 29
     weight: 350
     parent: 898636543b8426a3a53091cb22239ee9
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/_index.md" %}}) »
 

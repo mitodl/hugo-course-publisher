@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 5 handout: Objects in Python'
 description: This resource contains information related to objects in python.
-type: courses
+type: course
 layout: pdf
 uid: 40f2efe5948f3d0e8cc7a1d9a17298a1
 file_type: application/pdf

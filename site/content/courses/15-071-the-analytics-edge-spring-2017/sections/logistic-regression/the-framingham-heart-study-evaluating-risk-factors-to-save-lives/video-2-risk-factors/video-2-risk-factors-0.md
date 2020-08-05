@@ -312,6 +312,6 @@ transcript: >-
   m='245259'>10-year</span> <span m='245656'>risk</span> <span
   m='246053'>CHD.</span> </p>
 uid: 0998bb2e274854edab90993c27c3c537
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: spl7a.pdf
 description: This file contains the notes on propeller performance.
-type: courses
+type: course
 layout: pdf
 uid: 844abb8ac7b9e5a2afe1f51f32eb7772
 file_type: application/pdf

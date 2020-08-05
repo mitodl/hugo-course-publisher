@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses2.10sum.pdf
 description: >-
   This resource contains information related to differential equations and
   exp(At).
-type: courses
+type: course
 layout: pdf
 uid: 9dc6bf7f9d4bba51bc9f5c9091bd8d52
 file_type: application/pdf

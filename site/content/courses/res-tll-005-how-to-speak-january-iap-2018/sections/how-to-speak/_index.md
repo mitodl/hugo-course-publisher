@@ -1,15 +1,13 @@
 ---
 title: How to Speak
 course_id: res-tll-005-how-to-speak-january-iap-2018
+type: course
+layout: videogallery
 menu:
   res-tll-005-how-to-speak-january-iap-2018:
     identifier: a42b9bed499e353e1d55464656d8758c
-    type: section
-    layout: section
     name: How to Speak
     weight: 10
-type: courses
-layout: videogallery
 ---
 By the end of the next 60 minutes you will have been exposed to a lot of ideas, some of which you will incorporate into your own repertoire, and they will ensure that you get the maximum opportunity to have your ideas valued and accepted by the people you speak with.
 

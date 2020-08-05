@@ -1,7 +1,7 @@
 ---
 title: 8.01 Classical Mechanics Pset 2
 description: This file contains information regarding classical mechanics problem set 2.
-type: courses
+type: course
 layout: pdf
 uid: 1ebafbf9c9cca8e1ab191ad5ad9026e0
 file_type: application/pdf

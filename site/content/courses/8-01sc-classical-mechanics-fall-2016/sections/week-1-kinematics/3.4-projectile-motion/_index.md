@@ -1,16 +1,14 @@
 ---
 title: 3.4 Projectile Motion
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: videogallery
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 2e884df30cebf8b2a4e27d363412349e
-    type: section
-    layout: section
     name: 3.4 Projectile Motion
     weight: 290
     parent: 63e325a780c79e352fb5bddb9b8b2c6a
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/3.3-instantaneous-acceleration-in-2d" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/3.5-demos-for-projectile-motion" %}}) »
 

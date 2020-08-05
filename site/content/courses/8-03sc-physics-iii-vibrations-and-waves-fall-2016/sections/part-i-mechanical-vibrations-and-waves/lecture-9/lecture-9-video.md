@@ -3920,6 +3920,6 @@ transcript: >-
   m='4538290'>the</span> <span m='4538740'>office</span> <span
   m='4539110'>hour</span> <span m='4539410'>tomorrow.</span> </p>
 uid: dfd2804bfced62940a9393e1e5ec3142
-type: courses
+type: course
 layout: video
 ---

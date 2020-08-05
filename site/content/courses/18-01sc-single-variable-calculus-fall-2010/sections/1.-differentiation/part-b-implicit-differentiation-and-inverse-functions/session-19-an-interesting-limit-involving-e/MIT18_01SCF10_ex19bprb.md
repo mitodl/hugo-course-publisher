@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex19bprb.pdf
 description: >-
   This resource contains problem statements related to evaluating an interest
   using the limit.
-type: courses
+type: course
 layout: pdf
 uid: d32149b689f995816ebabd6214b838fe
 file_type: application/pdf

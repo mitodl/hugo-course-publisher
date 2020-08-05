@@ -1,16 +1,14 @@
 ---
 title: 'Using Graphs to Model Problems, Part 1'
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: e1b5ff21127dfb3033e398fce88c42e6
-    type: section
-    layout: section
     name: 'Using Graphs to Model Problems, Part 1'
     weight: 290
     parent: 82c1509981b270b9823bc741f08c9b32
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/lecture-20-more-clustering/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/lecture-22-using-graphs-to-model-problems-part-2/_index.md" %}}) »
 

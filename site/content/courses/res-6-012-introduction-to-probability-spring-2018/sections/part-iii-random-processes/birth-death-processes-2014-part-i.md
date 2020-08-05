@@ -202,6 +202,6 @@ transcript: >-
   pi of 0.</span></p><p><span m="529890">And then we use this recursion to find
   pi of 1, pi of 2,</span> <span m="534140">pi 3, et cetera.</span></p>
 uid: f6f20cbe427bd5f0316c5fb91d56867e
-type: courses
+type: course
 layout: video
 ---

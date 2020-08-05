@@ -6,7 +6,7 @@ description: >-
   compression, constant volume heat addition,
 
   constant pressure expansion, and isothermal compression.
-type: courses
+type: course
 layout: pdf
 uid: 19534c4c4567eadd4b27ca741bf5c129
 file_type: application/pdf

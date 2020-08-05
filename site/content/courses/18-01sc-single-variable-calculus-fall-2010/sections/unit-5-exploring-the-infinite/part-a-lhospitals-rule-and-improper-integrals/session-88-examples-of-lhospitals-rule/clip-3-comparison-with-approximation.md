@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Comparison With Approximation'
 transcript: ''
 uid: 9833fe412b1146b180d1018bd0730029
-type: courses
+type: course
 layout: video
 ---

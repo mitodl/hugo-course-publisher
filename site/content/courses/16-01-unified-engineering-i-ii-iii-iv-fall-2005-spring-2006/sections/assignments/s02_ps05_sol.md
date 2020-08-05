@@ -3,7 +3,7 @@ title: s02_ps05_sol.pdf
 description: >-
   This file contains problem set 2 for this course which discusses about
   unified?engineering?I.
-type: courses
+type: course
 layout: pdf
 uid: 9c3538f00b2691fa87585fed85234f4c
 file_type: application/pdf

@@ -1095,6 +1095,6 @@ transcript: >-
   m='877640'>our</span> <span m='877780'>way</span> <span m='878040'>out.</span>
   </p>
 uid: 43cb70e4c5d06ec83b891cc12229a72b
-type: courses
+type: course
 layout: video
 ---

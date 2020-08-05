@@ -1,7 +1,7 @@
 ---
 title: m03_ps07_fall03.pdf
 description: This resource contains problems on equilibrium in 2-D.
-type: courses
+type: course
 layout: pdf
 uid: 3c8c3530ba80408cbcad2025aadf1f58
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: spl8a.pdf
 description: This file contains notes on Wing Taper Considerations.
-type: courses
+type: course
 layout: pdf
 uid: 67bd719047babb2159b4d6460250d66d
 file_type: application/pdf

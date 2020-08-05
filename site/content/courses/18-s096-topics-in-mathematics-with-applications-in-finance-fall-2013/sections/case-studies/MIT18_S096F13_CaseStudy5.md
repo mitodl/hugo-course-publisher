@@ -1,7 +1,7 @@
 ---
 title: 'Case Study 5: VAR Models of Macro Economic Time Series'
 description: This file contains information regarding case studies 5.
-type: courses
+type: course
 layout: pdf
 uid: e633bd2bf13b7d0b9d8067f6b00db398
 file_type: application/pdf

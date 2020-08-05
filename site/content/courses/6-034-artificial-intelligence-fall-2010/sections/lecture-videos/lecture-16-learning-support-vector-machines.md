@@ -881,6 +881,6 @@ transcript: >-
   famous for something that everybody knows about</span> <span m='2958380'>today
   who does machine learning.</span> </p><p></p>
 uid: 601f8b80fe4cbfae451ce2106aec111f
-type: courses
+type: course
 layout: video
 ---

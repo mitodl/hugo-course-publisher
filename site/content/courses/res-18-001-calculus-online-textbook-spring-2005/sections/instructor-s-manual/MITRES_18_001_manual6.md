@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_manual6.pdf
 description: "This resource contains information related to exponentials and logarithms. \r\n"
-type: courses
+type: course
 layout: pdf
 uid: 809b83f5a88814bc3ce160306c56c360
 file_type: application/pdf

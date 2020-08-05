@@ -4,7 +4,7 @@ description: >-
   This resource contains a problem related to calculate the cross-sectional area
   of the bars to achieve maximum stress, and vertical deflection of a point not
   beyond a certain level.
-type: courses
+type: course
 layout: pdf
 uid: 4d52751c193d0568bd5e6ad38ec1fa8f
 file_type: application/pdf

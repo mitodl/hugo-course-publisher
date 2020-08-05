@@ -1,7 +1,7 @@
 ---
 title: S3_mud.pdf
 description: Review questions and answers on nose method.
-type: courses
+type: course
 layout: pdf
 uid: 31bd8753ca9f7cf5a84888c23b6b1fa8
 file_type: application/pdf

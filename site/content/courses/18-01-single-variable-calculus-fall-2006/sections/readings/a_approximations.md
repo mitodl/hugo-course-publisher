@@ -1,7 +1,7 @@
 ---
 title: Approximation
 description: Supplement to the textbook on approximation.
-type: courses
+type: course
 layout: pdf
 uid: ea98a7f8029b275f7cb9047f87bc4a29
 file_type: application/pdf

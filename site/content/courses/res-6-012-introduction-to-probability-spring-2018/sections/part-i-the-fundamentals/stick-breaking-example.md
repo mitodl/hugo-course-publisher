@@ -218,6 +218,6 @@ transcript: >-
   conditional expectations,</span> <span m='598720'>as well as the total
   probability theorem.</span> </p><p></p>
 uid: c139b83a3c1fde74f0bcb7dc10306164
-type: courses
+type: course
 layout: video
 ---

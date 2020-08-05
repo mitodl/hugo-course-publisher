@@ -1,7 +1,7 @@
 ---
 title: t08_ps03_sol.pdf
 description: This resource contains hand written solution of problem T8.
-type: courses
+type: course
 layout: pdf
 uid: 45da751a90df06f3a671df349ebd906d
 file_type: application/pdf

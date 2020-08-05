@@ -496,6 +496,6 @@ transcript: >-
   m='449700'>class.</span> <span m='452270'>Thank</span> <span
   m='452540'>you.</span> </p>
 uid: e5587d68eacbc322b7c0359fc6883dd9
-type: courses
+type: course
 layout: video
 ---

@@ -1,11 +1,11 @@
 ---
 title: Exam 2
 course_id: 18-02sc-multivariable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: 846864c2281f91044786c16555ecc0bf
-    type: section
-    layout: section
     name: Exam 2
     weight: 630
     parent: c4eb7979ba24327046e3f4d3be8fc654

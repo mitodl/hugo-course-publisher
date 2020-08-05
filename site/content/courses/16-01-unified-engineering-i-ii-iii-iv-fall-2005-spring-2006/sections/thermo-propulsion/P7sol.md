@@ -1,7 +1,7 @@
 ---
 title: P7sol.pdf
 description: Problem set solutions based on design of a turbojet engine.
-type: courses
+type: course
 layout: pdf
 uid: 96b296a73ad894872e89b00edf5a9b2d
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_mid_practice.pdf
 description: 'This resource contains practice midterm exam. '
-type: courses
+type: course
 layout: pdf
 uid: 3179fb7a80dcb5a10c5c85cf2b9ab585
 file_type: application/pdf

@@ -2,15 +2,13 @@
 title: 'Days 11 & 12: Screening (Rough Cuts)'
 course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
+type: course
+layout: videogallery
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: 91a83a5a9923d001da64fbbcd37341cb
-    type: section
-    layout: section
     name: 'Days 11 & 12: Screening (Rough Cuts)'
     weight: 220
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/days-8-9-10-project-time" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}) »
 

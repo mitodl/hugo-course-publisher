@@ -917,6 +917,6 @@ transcript: >-
   m='674410'>el</span> <span m='674500'>documento.</span> <span
   m='675040'>Muchísimas</span> <span m='675460'>gracias.</span> </p>
 uid: 3646c864a7612a93af583817e5d53179
-type: courses
+type: course
 layout: video
 ---

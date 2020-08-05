@@ -116,6 +116,6 @@ transcript: >-
   applied torque</span> <span m='146990'>and also depends upon how the mass of
   the object</span> <span m='149670'>is distributed.</span> </p>
 uid: 0973fc515c5bc401b705097c63baa65e
-type: courses
+type: course
 layout: video
 ---

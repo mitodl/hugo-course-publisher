@@ -1,7 +1,7 @@
 ---
 title: MIT18_06S10_matlab.pdf
 description: This resource contains information related to MATLAb tutorial.
-type: courses
+type: course
 layout: pdf
 uid: a7d11b1b00c1c2bd2574c3f896ce4eb3
 file_type: application/pdf

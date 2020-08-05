@@ -2518,6 +2518,6 @@ transcript: >-
   m='2643970'>this</span> <span m='2644170'>next</span> <span
   m='2644470'>time.</span> </p>
 uid: db3197f76341e5017ef08ba6f5850f78
-type: courses
+type: course
 layout: video
 ---

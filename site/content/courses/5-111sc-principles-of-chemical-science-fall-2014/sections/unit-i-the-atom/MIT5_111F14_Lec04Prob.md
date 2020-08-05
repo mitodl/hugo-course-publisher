@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture4: Wave-Particle Duality
   of Matter; Schrödinger Equation
 description: This resource contains information regarding lecture note 4 problems.
-type: courses
+type: course
 layout: pdf
 uid: 08af1f5cadd265a8ef87f50b95d6ac8a
 file_type: application/pdf

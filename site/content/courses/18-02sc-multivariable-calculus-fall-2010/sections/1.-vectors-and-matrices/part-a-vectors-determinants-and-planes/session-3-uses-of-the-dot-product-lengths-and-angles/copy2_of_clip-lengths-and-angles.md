@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Lengths and Angles'
 transcript: ''
 uid: 589a41ce497ec23c622e73e24e18c1b1
-type: courses
+type: course
 layout: video
 ---

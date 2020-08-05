@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_lec09.pdf
 description: This resource contains information related to fourier transform properties.
-type: courses
+type: course
 layout: pdf
 uid: 403577752d3007ed4ea30e8c61cf90d7
 file_type: application/pdf

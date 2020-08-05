@@ -3,7 +3,7 @@ title: spl10b.pdf
 description: >-
   This file contains the notes for the topic: Area and Bending Inertia of
   Airfoil Sections.
-type: courses
+type: course
 layout: pdf
 uid: 21cb09c67195d8b306de55214c2b2f87
 file_type: application/pdf

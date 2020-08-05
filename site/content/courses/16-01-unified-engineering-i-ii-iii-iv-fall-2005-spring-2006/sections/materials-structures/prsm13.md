@@ -3,7 +3,7 @@ title: prsm13.pdf
 description: >-
   This resource contains concept questions and answers based on clamped-free and
   eccentrically end-loaded.
-type: courses
+type: course
 layout: pdf
 uid: 1bd7bbc11495ed5027f2906fbf9f851c
 file_type: application/pdf

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Ring on a String'
 transcript: ''
 uid: da7e32f5c460de575161d6fd2007d9bb
-type: courses
+type: course
 layout: video
 ---

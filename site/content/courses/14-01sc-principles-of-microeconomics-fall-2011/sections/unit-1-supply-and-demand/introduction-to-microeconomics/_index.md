@@ -1,16 +1,14 @@
 ---
 title: Introduction to Microeconomics
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: b9026c771341a253b9d1649dae571519
-    type: section
-    layout: section
     name: Introduction to Microeconomics
     weight: 40
     parent: 10bf5cbcf55318eeb09954ff31dafc1c
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/applying-supply-and-demand/_index.md" %}}) »
 

@@ -1,7 +1,7 @@
 ---
 title: m04_ps02_spring04.pdf
 description: This resource contains a problem on deflection.
-type: courses
+type: course
 layout: pdf
 uid: 516f3daa093f68fe6423e96cad4d4652
 file_type: application/pdf

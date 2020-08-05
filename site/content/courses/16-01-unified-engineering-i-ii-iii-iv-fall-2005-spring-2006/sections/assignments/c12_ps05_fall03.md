@@ -3,7 +3,7 @@ title: c12_ps05_fall03.pdf
 description: >-
   This handout contains the Problem set based on factorial and fibonacci
   problems.
-type: courses
+type: course
 layout: pdf
 uid: 62992e29346642330cfc85afe2c44b28
 file_type: application/pdf

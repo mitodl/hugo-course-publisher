@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_hw11.pdf
 description: This resource contains problem set related to discrete-time fourier transform.
-type: courses
+type: course
 layout: pdf
 uid: cec53598ad9abc59ba27452ee69abd9b
 file_type: application/pdf

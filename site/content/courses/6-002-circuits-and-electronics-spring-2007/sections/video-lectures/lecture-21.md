@@ -785,6 +785,6 @@ transcript: >-
   oscillates by itself.</span> </p><p><span m='3060000'>And you will see details
   of that in recitation tomorrow.</span> </p>
 uid: 786a3d1334f20386c4379b2e866b3691
-type: courses
+type: course
 layout: video
 ---

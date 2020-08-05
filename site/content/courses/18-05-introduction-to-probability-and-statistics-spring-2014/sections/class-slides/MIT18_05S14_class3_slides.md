@@ -1,7 +1,7 @@
 ---
 title: 'Class 3 Slides: Conditional probability, Bayes'' theorem'
 description: This is a resource file that contains information regarding class 3.
-type: courses
+type: course
 layout: pdf
 uid: 15c0a7d7a1fab90ca0e74e5bae165d4d
 file_type: application/pdf

@@ -372,6 +372,6 @@ transcript: >-
   m='257459'>and</span> <span m='257939'>the</span> <span m='258419'>end</span>
   <span m='258899'>user.</span> </p>
 uid: 15dd6ed88694bac7ae12cd787458364d
-type: courses
+type: course
 layout: video
 ---

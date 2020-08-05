@@ -279,6 +279,6 @@ transcript: >-
   <span m='187410'>even</span> <span m='187600'>better,</span> <span
   m='187970'>hopefully.</span> </p>
 uid: 8b81015ead3a9fdfd3a67d185b09b87e
-type: courses
+type: course
 layout: video
 ---

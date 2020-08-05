@@ -3,7 +3,7 @@ title: MITRES_6_007S11_lec05.pdf
 description: >-
   This resource contains information related to properties of linear,
   time-invariant systems.
-type: courses
+type: course
 layout: pdf
 uid: 431b597316940ea786c72a16b8cd6371
 file_type: application/pdf

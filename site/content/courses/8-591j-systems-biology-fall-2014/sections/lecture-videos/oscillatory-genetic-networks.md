@@ -5180,6 +5180,6 @@ transcript: >-
   m="4868860">and</span> <span m="4869160">tunability.</span> <span
   m="4869460">OK?</span></p>
 uid: 483f31c40b541821b8d0f3daee0f195f
-type: courses
+type: course
 layout: video
 ---

@@ -1,16 +1,14 @@
 ---
 title: Elimination with Matrices
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 060c0abff39949c6f5beff6291e747a5
-    type: section
-    layout: section
     name: Elimination with Matrices
     weight: 60
     parent: 34303ce19b45724122d2bd33d64df688
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/an-overview-of-key-ideas/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices/_index.md" %}}) »
 

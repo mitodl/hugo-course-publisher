@@ -8,7 +8,7 @@ description: >-
   question: wave, properties of em waves, direction of propagation, energy in em
   waves, poynting vector and intensity, energy flow:  resistor, and energy flow:
   inductor.
-type: courses
+type: course
 layout: pdf
 uid: fa97e68e56fa2b1574128d0aebd1bc82
 file_type: application/pdf

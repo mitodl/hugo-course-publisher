@@ -1,7 +1,7 @@
 ---
 title: f01_ps01_spring04.pdf
 description: This resource contains the problem set based on aircraft.
-type: courses
+type: course
 layout: pdf
 uid: ba990bf2b395ede03be2caead01bc5dc
 file_type: application/pdf

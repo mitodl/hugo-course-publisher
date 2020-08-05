@@ -2768,6 +2768,6 @@ transcript: >-
   m='3029840'>again</span> <span m='3030330'>on</span> <span
   m='3030510'>Tuesday.</span> </p>
 uid: f475375e58c9d9ee035251a78d0f12a0
-type: courses
+type: course
 layout: video
 ---

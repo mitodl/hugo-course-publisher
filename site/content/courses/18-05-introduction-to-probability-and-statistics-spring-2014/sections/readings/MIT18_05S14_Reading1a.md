@@ -3,7 +3,7 @@ title: 'Reading 1a: Introduction'
 description: >-
   This is a resource file that contains information regarding reading 1a:
   introduction.
-type: courses
+type: course
 layout: pdf
 uid: 3e23243140e0cf95a53eede3947b48d4
 file_type: application/pdf

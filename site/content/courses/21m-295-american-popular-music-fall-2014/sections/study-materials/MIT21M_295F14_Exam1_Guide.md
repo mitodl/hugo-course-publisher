@@ -1,7 +1,7 @@
 ---
 title: Exam 1 Guide
 description: Study guide for the first exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: 03ea81504d6fa3203f326a9080a3e66c
 file_type: application/pdf

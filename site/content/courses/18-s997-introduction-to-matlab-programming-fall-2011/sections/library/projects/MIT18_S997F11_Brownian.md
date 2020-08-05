@@ -1,7 +1,7 @@
 ---
 title: '18.S997 Project Idea: Brownian Motion'
 description: This resource contains information regarding brownian motion.
-type: courses
+type: course
 layout: pdf
 uid: 20a1f103bc19498e6b7946db339034c8
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_008S11_lec05.pdf
 description: This resource contains information related to the z-transform.
-type: courses
+type: course
 layout: pdf
 uid: 41705cc32f6266c6c765dd89ed8c4a6f
 file_type: application/pdf

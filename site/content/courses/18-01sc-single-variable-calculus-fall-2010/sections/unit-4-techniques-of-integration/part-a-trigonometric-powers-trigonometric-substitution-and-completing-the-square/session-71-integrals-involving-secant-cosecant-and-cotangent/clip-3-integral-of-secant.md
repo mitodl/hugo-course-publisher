@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Integral of Secant'
 transcript: ''
 uid: 07499e526656bd48ed3a7b6b6891a9ba
-type: courses
+type: course
 layout: video
 ---

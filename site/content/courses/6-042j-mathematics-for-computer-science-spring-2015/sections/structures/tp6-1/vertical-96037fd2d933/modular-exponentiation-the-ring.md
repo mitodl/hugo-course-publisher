@@ -1317,6 +1317,6 @@ transcript: >-
   m='1007060'>for</span> <span m='1007450'>in</span> <span
   m='1007620'>this</span> <span m='1007720'>segment.</span> </p>
 uid: 3ef0d79c20a9ee3781052ae9636c364a
-type: courses
+type: course
 layout: video
 ---

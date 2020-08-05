@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex37sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   antiderivatives.
-type: courses
+type: course
 layout: pdf
 uid: f51f271e3252a71b8d698c3457f39c8e
 file_type: application/pdf

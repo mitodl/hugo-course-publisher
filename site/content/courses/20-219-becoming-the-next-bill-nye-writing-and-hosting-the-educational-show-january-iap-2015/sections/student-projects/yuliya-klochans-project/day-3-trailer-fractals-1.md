@@ -101,6 +101,6 @@ transcript: >-
   <span m="32680">more</span> <span m="34500">funky</span> <span
   m="34950">doodles.</span></p>
 uid: 0cce493eb93fc3e94588155aec2dce0f
-type: courses
+type: course
 layout: video
 ---

@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding The Periodic Table and Periodic
   Trends.
-type: courses
+type: course
 layout: pdf
 uid: ddad42bbc60ec83207a5e9026e4bbb37
 file_type: application/pdf

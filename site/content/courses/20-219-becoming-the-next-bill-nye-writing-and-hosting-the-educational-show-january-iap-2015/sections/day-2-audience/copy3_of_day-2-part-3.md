@@ -3781,6 +3781,6 @@ transcript: >-
   <span m="3514600">guys.</span></p><p><span m="3515500">PROFESSOR: All
   right.</span></p>
 uid: 82aa6d9903e29c9bb00ecb7260f1d17c
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: Comments on Kenneth's Rough Cut
 description: This resource contains information regarding kenneth's rough cut.
-type: courses
+type: course
 layout: pdf
 uid: 35be945498057d0c5922872f867a36e6
 file_type: application/pdf

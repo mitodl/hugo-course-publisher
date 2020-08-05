@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses28b.pdf
 description: >-
   This resource contains information about sketching graphs II - general
   strategies.
-type: courses
+type: course
 layout: pdf
 uid: a50461c0ed97fe386150e8319ddfd1c0
 file_type: application/pdf

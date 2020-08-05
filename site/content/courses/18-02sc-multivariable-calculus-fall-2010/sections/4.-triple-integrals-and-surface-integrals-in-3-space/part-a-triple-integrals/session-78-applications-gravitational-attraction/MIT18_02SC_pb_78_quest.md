@@ -3,7 +3,7 @@ title: '18.02SC Problems : Problems: Applications of Spherical Coordinates'
 description: >-
   This resource contains information regarding applications of spherical
   coordinates.
-type: courses
+type: course
 layout: pdf
 uid: 3b9f550981dec339f62fe9a7491be07a
 file_type: application/pdf

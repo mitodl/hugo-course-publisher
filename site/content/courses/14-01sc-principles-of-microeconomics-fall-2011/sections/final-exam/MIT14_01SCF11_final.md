@@ -4,7 +4,7 @@ description: >-
   This resource contains 5 problem statements related to uncertainty, price,
   costs, oligopoly, labor supply, income and substitution effects, trade, and
   price discrimination. 
-type: courses
+type: course
 layout: pdf
 uid: 44154f5290ccede02ea16124f8905bea
 file_type: application/pdf

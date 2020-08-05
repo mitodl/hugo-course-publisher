@@ -500,6 +500,6 @@ transcript: >-
   <span m='442649'>DePodesta</span> <span m='442999'>in</span> <span
   m='443349'>Moneyball.</span> </p>
 uid: 9333641530bdb43f71a06d0874767fd8
-type: courses
+type: course
 layout: video
 ---

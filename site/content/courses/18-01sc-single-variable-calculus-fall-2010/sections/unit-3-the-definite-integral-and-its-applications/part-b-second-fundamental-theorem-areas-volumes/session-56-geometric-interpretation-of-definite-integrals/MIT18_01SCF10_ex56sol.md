@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex56sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   geometric interpretation of definite integrals.
-type: courses
+type: course
 layout: pdf
 uid: 77095502ce97b96cf417432e8f750e08
 file_type: application/pdf

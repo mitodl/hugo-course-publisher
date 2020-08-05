@@ -658,6 +658,6 @@ transcript: >-
   m='473100'>and</span> <span m='473300'>so</span> <span m='474000'>we're</span>
   <span m='474130'>done.</span> </p>
 uid: e15a8fd827f995f3eb033478e428d4c0
-type: courses
+type: course
 layout: video
 ---

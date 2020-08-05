@@ -3,7 +3,7 @@ title: 'Sets: Sets Operation'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 91096a457cf01cfdc13dc369839c9f39
 file_type: application/pdf

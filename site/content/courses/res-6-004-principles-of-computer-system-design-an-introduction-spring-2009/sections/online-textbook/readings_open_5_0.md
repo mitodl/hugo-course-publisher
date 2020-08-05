@@ -1,7 +1,7 @@
 ---
 title: readings_open_5_0.pdf
 description: 'This resource contains suggestions for further reading. '
-type: courses
+type: course
 layout: pdf
 uid: 73e6e354bf3c01b25ccc59ddcdbf7e23
 file_type: application/pdf

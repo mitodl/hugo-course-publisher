@@ -363,6 +363,6 @@ transcript: >-
   m='317163'>lecture,</span> <span m='317440'>using</span> <span
   m='318150'>linear</span> <span m='318860'>optimization.</span> </p>
 uid: 1855e853237eb0b809206420a3fa6993
-type: courses
+type: course
 layout: video
 ---

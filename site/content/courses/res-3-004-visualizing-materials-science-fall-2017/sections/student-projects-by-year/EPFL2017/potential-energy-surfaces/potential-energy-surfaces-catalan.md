@@ -190,6 +190,6 @@ transcript: >-
   primer cop que algú em pregunta coses) doncs sentir-vos lliures d'enviar-me un
   mail per al que sigui.</p><p>[END OF AUDIO]&nbsp;</p>
 uid: 284a2b7c06a20843b405d03518075fbd
-type: courses
+type: course
 layout: video
 ---

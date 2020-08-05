@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_3_quest.pdf
 description: This resource contains problem statements related to uses of the dot product.
-type: courses
+type: course
 layout: pdf
 uid: 3901b64bbe9fffc0c118278468c6d564
 file_type: application/pdf

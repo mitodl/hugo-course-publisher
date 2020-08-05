@@ -1,11 +1,11 @@
 ---
 title: 'Week 3: Operating Systems Part III'
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 81056cb9554591390582b2e55570d21a
-    type: section
-    layout: section
     name: 'Week 3: Operating Systems III'
     weight: 130
 ---

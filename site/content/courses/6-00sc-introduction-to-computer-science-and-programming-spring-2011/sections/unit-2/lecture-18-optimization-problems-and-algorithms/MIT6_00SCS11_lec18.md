@@ -3,7 +3,7 @@ title: 'Lecture 18 handout: Optimization Problems and Algorithms'
 description: >-
   This resource contains information related to optimization problems and
   algorithms.
-type: courses
+type: course
 layout: pdf
 uid: dc8e5dc3820ebec310f3bdc8eb814b87
 file_type: application/pdf

@@ -225,6 +225,6 @@ transcript: >-
   this is something that we are</span> <span m='547380'>going to do towards the
   end of today's lecture.</span> </p><p></p>
 uid: 2b77b45d20c856667a7cd691639d20e1
-type: courses
+type: course
 layout: video
 ---

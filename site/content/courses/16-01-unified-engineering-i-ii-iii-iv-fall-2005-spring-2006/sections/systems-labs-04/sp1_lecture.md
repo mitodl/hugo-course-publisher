@@ -1,7 +1,7 @@
 ---
 title: sp1_lecture.pdf
 description: Introuductory lecture for the Spring 2004 section of the course.
-type: courses
+type: course
 layout: pdf
 uid: 60edf6932d813d4c60dc59c1028673c4
 file_type: application/pdf

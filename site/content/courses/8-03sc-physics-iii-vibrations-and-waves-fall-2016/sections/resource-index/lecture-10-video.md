@@ -3775,6 +3775,6 @@ transcript: >-
   m="4397990">see</span> <span m="4398140">you</span> <span
   m="4398320">on</span> <span m="4398530">Thursday.</span></p>
 uid: ffc5fe1ca70b1ec4b88de00b2266976a
-type: courses
+type: course
 layout: video
 ---

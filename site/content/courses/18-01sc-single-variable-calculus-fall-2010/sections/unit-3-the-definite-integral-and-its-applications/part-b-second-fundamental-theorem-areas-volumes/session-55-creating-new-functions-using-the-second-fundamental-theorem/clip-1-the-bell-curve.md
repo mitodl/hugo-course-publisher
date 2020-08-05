@@ -2871,6 +2871,6 @@ transcript: >-
   m='3012960'>including</span> <span m='3013640'>three</span> <span
   m='3013820'>dimensions.</span> </p>
 uid: c8a7929848a447152e0d7beccf884c29
-type: courses
+type: course
 layout: video
 ---

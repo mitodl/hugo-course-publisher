@@ -1,16 +1,14 @@
 ---
 title: 5.2 For More Information...
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
+type: course
+layout: videogallery
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: e2fc45972bf21df28f172455eb1e2193
-    type: section
-    layout: section
     name: 5.2 For More Information...
     weight: 670
     parent: 4ecd242644a738e7a27902211bfbfebc
-type: courses
-layout: videogallery
 ---
 *   [<Video: Emerging Models of Worker Advocacy]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/video-emerging-models-of-worker-advocacy" %}})
 *   [5.2.1Additional Resources]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/the-worker-voice-and-advocacy/for-more-information-2" %}})

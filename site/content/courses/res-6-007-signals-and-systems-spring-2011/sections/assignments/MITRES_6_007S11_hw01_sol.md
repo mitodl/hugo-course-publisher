@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_hw01_sol.pdf
 description: This resource contains solution to the problem set related to introduction.
-type: courses
+type: course
 layout: pdf
 uid: e7e527598f89cf8dbd91432500ac53b3
 file_type: application/pdf

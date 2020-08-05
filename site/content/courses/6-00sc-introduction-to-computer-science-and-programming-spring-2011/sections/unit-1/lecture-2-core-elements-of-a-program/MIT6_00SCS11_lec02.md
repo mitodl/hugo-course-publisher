@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 2 handout: Core elements of a program'
 description: This resource contains information related to core elements of a program.
-type: courses
+type: course
 layout: pdf
 uid: 3e555ff2781e620d8659f34488769974
 file_type: application/pdf

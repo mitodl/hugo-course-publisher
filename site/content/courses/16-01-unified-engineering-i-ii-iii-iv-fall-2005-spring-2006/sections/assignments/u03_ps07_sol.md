@@ -1,7 +1,7 @@
 ---
 title: u03_ps07_sol.pdf
 description: Hand written solution of problem U3.
-type: courses
+type: course
 layout: pdf
 uid: 2e52f0404ce918917706cda526e9bb05
 file_type: application/pdf

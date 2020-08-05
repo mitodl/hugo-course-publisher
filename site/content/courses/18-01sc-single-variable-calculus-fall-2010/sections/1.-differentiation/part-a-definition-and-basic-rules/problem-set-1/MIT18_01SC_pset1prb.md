@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SC_pset1prb.pdf
 description: 'This resource contains information related to differentiation. '
-type: courses
+type: course
 layout: pdf
 uid: 1557acc7f3cd5d1538b71fe77bcf9ec0
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: fall_2003_pset5.pdf
 description: >-
   This resource contains problems on unified computers and programming, and
   signals and systems.
-type: courses
+type: course
 layout: pdf
 uid: 279ba7c368cab2ca0f03e42d4f5c29df
 file_type: application/pdf

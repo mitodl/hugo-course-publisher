@@ -467,6 +467,6 @@ transcript: >-
   m='546240'>much</span> <span m='546600'>nicer</span> <span
   m='547260'>and</span> <span m='547890'>simpler.</span> </p>
 uid: a048eeb2415a5c77d44d8f486d8c5ebd
-type: courses
+type: course
 layout: video
 ---

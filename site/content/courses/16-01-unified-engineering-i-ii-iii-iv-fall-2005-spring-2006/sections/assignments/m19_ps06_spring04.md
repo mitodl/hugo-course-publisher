@@ -3,7 +3,7 @@ title: m19_ps06_spring04.pdf
 description: >-
   This resource provides a problem set based on power density, critical crack
   size, and usage of damage tolerant design approach.
-type: courses
+type: course
 layout: pdf
 uid: ae339e47fbf1a9fa04c803713e2f3c9c
 file_type: application/pdf

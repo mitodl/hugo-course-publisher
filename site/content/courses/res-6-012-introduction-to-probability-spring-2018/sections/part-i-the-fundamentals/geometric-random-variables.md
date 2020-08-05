@@ -186,6 +186,6 @@ transcript: >-
   here,</span> <span m="451300">when you add over all values of k, is, indeed,
   equal to 1.</span></p><p>&nbsp;</p>
 uid: e2a931562f1da978adfc2e08360c695b
-type: courses
+type: course
 layout: video
 ---

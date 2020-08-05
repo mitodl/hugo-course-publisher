@@ -6271,6 +6271,6 @@ transcript: >-
   m='4819820'>some</span> <span m='4819970'>more</span> <span
   m='4820180'>applications.</span> </p>
 uid: 910a4c608f40cd550a7e592a4540f078
-type: courses
+type: course
 layout: video
 ---

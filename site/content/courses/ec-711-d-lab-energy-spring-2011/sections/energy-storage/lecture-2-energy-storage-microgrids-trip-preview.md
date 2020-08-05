@@ -40,6 +40,6 @@ technical_location: >-
 title: 'Lecture 2: Energy Storage & Microgrids; Trip Preview'
 transcript: ''
 uid: 8d66a4c740d57c2daec86c1e98494333
-type: courses
+type: course
 layout: video
 ---

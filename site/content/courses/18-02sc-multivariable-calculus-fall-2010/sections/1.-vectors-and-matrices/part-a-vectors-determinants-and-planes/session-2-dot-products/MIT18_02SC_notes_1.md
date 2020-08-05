@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_1.pdf
 description: This resource contains information related t o dot product.
-type: courses
+type: course
 layout: pdf
 uid: 6082f2744b609da87e23f3d8feed0565
 file_type: application/pdf

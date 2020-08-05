@@ -1,7 +1,7 @@
 ---
 title: chapter_7.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: cbf783c002e171286f3c3071dd052228
 file_type: application/pdf

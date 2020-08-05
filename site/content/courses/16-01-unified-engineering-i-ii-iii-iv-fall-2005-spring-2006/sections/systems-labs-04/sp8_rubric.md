@@ -1,7 +1,7 @@
 ---
 title: sp8_rubric.pdf
 description: This resource contains information on grading rubric for systems problem.
-type: courses
+type: course
 layout: pdf
 uid: c0968215a386e9a6f5bdaa95262042a9
 file_type: application/pdf

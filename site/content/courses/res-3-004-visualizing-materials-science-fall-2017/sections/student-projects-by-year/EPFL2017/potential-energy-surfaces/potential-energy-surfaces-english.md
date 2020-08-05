@@ -926,6 +926,6 @@ transcript: >-
   <span m='935290'>do</span> <span m='935440'>art</span> <span
   m='935740'>with</span> <span m='935920'>Mathematica.</span> </p>
 uid: 626986defc1d9bf9d0c1a24c1e0c9ffc
-type: courses
+type: course
 layout: video
 ---

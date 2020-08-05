@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_27.pdf
 description: This resource contains information related to work and line integrals.
-type: courses
+type: course
 layout: pdf
 uid: 6facab84c409b0acb65aaea786f31652
 file_type: application/pdf

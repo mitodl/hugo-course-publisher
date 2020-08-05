@@ -740,6 +740,6 @@ transcript: >-
   m="481760">January.</span></p><p><span m="482820">OK?</span> <span
   m="484020">OK.</span></p><p><span m="486720">[APPLAUSE]</span></p>
 uid: a45012c78e656ef26abb3012ed5735ed
-type: courses
+type: course
 layout: video
 ---

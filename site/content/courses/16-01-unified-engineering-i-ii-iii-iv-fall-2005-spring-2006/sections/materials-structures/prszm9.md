@@ -1,7 +1,7 @@
 ---
 title: prszm9.pdf
 description: This resource contains concept questions and answers based on reaction forces.
-type: courses
+type: course
 layout: pdf
 uid: 31d802f2a49673d641e61a7413df59bc
 file_type: application/pdf

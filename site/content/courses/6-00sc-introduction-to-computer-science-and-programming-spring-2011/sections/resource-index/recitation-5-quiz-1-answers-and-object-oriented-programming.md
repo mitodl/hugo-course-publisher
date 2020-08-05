@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Recitation 5: Quiz 1 Answers and Object-Oriented Programming'
 transcript: ''
 uid: 853c16d7e1ec7b05ed732d4e155afccb
-type: courses
+type: course
 layout: video
 ---

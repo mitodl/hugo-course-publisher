@@ -1,7 +1,7 @@
 ---
 title: sp4lecture_notes.pdf
 description: This resource contains information on water bottle rocket design cheat sheet.
-type: courses
+type: course
 layout: pdf
 uid: d7a8ce4a5403bd14de70339985b32445
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_final_exs.pdf
 description: This resource contains solution to the problem set related to final exam.
-type: courses
+type: course
 layout: pdf
 uid: 03fa86c672cab6cce168955824c92f6e
 file_type: application/pdf

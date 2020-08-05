@@ -738,6 +738,6 @@ transcript: >-
   m='551050'>of</span> <span m='551160'>discourse</span> <span
   m='551760'>D.</span> </p>
 uid: 865a72b1e65e40283367d6ec31e9878c
-type: courses
+type: course
 layout: video
 ---

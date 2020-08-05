@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Problems: Flux Across Curves'
 description: This resource contains information regarding flux across curves.
-type: courses
+type: course
 layout: pdf
 uid: a1d510a3e90ff1f96d555151ca4ed827
 file_type: application/pdf

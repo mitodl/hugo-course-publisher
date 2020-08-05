@@ -3,7 +3,7 @@ title: mudzm6.pdf
 description: >-
   This resource contains review questions and answers based on moment and
   methods of section.
-type: courses
+type: course
 layout: pdf
 uid: ba8f80ae6a49dfe3bb0fc709f1d61c4b
 file_type: application/pdf

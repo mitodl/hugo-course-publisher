@@ -3,7 +3,7 @@ title: MIT6_0002F16_Python Resources
 description: >-
   This resource contains information regarding introduction to computational
   thinking and data science: Python resources.
-type: courses
+type: course
 layout: pdf
 uid: fe35c52e0a1b481f9775846d392e766d
 file_type: application/pdf

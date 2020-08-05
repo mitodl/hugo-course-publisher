@@ -434,6 +434,6 @@ transcript: >-
   <span m='457740'>everything</span> <span m='458040'>that we</span> <span
   m='458340'>can say</span> <span m='458640'>about it.</span> </p>
 uid: 54bfd31bc38a47b1719e194c0caa7522
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 18.S997 Conway Game Exercise 20
 description: This resource contains information regarding exercise 20.
-type: courses
+type: course
 layout: pdf
 uid: ad1927f1f354712e8749e21e935a3ff5
 file_type: application/pdf

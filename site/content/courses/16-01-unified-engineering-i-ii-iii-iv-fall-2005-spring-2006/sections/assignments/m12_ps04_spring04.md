@@ -3,7 +3,7 @@ title: m12_ps04_spring04.pdf
 description: >-
   This resource contains a problem of finding the critical value of a load P,
   that will cause collapse of a particular assembly.
-type: courses
+type: course
 layout: pdf
 uid: a3d68e10e0e8fbff07491818d3d4ebac
 file_type: application/pdf

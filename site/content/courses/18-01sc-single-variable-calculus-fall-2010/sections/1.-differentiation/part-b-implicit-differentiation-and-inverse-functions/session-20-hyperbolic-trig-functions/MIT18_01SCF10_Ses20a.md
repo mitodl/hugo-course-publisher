@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses20a.pdf
 description: This resource contains information related to hyperbolic trig functions.
-type: courses
+type: course
 layout: pdf
 uid: ce3200a4eb0a928bf282ed6bb833ae27
 file_type: application/pdf

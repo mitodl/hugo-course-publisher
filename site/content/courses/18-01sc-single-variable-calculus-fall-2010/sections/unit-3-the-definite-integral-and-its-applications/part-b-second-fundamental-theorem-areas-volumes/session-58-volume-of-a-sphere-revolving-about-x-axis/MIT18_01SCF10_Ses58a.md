@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses58a.pdf
 description: >-
   This resource contains information about volume of a sphere, revolving about
   x-axis.
-type: courses
+type: course
 layout: pdf
 uid: c25d26b04ffe46ac331b9c63c760048b
 file_type: application/pdf

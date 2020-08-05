@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses7a.pdf
 description: This resource contains information related to derivatives of sine and cosine.
-type: courses
+type: course
 layout: pdf
 uid: dfa14ed61544748587c83f9b46f43c28
 file_type: application/pdf

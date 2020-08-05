@@ -1,7 +1,7 @@
 ---
 title: '4.4 Random Variables, Density Functions'
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Random Variables, Density Functions]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-3/_index.md" %}})

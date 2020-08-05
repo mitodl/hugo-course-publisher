@@ -3,7 +3,7 @@ title: m23_ps15_fall03.pdf
 description: >-
   This resource provides a problem set based on potential energy of a pair of
   atoms, mean atomic volume and Boltzmann's constant.
-type: courses
+type: course
 layout: pdf
 uid: 28e857dcd2e4f7390d98f695a503d313
 file_type: application/pdf

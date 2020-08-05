@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 16: Using Randomness to Solve Non-random Problems'
 transcript: ''
 uid: 103f78b9aef57653bedcef56d826afff
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: s15_ps12_sol.pdf
 description: >-
   Solutions to problem set S15 involving BIBO Stability and the Bilateral LT,
   The Fourier Transform.
-type: courses
+type: course
 layout: pdf
 uid: 52262a1bd5d423a5424d5c8d157faa90
 file_type: application/pdf

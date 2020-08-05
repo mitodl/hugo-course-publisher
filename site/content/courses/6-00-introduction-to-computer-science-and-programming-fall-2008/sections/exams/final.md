@@ -1,7 +1,7 @@
 ---
 title: Sample Problems
 description: Sample problems for a final exam on computer science and programming.
-type: courses
+type: course
 layout: pdf
 uid: 771d872efe4ab8f66e4e75c1d853ebd9
 file_type: application/pdf

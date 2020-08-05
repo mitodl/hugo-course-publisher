@@ -1,7 +1,7 @@
 ---
 title: Q6C_sol.pdf
 description: 'Exam with solutions provided by the professor based on queue,MST,Big-O.'
-type: courses
+type: course
 layout: pdf
 uid: 7479d1ce5945e5fcda3cc9470faff91c
 file_type: application/pdf

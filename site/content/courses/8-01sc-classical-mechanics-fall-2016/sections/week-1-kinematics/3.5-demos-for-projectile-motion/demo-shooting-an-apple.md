@@ -35,6 +35,6 @@ technical_location: >-
 title: 'Demo: Shooting an Apple'
 transcript: ''
 uid: 36f48dddb04a57b2a5a410e427267e21
-type: courses
+type: course
 layout: video
 ---

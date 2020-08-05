@@ -3,7 +3,7 @@ title: MIT20_020S09_lec3_wk3_clk.pdf
 description: >-
   This file includes some framing information about counting and clocks in
   biology. 
-type: courses
+type: course
 layout: pdf
 uid: 892a1e0737d79867ed9c23e0ae828546
 file_type: application/pdf

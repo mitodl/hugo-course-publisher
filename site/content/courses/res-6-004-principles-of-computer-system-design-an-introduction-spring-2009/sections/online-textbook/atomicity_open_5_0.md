@@ -3,7 +3,7 @@ title: atomicity_open_5_0.pdf
 description: >-
   This resource contains information related to atomicity: all-or-nothing and
   before-or-after. 
-type: courses
+type: course
 layout: pdf
 uid: de2b7c59e413f58e51eac60acd52efef
 file_type: application/pdf

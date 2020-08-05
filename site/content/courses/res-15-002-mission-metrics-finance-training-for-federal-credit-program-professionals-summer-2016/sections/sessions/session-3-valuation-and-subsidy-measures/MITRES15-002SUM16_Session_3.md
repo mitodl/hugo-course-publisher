@@ -1,7 +1,7 @@
 ---
 title: 'Session 3 Slides: Valuation and Subsidy Measures - RES.15-002 - Summer 2016'
 description: Slide deck for session 3.
-type: courses
+type: course
 layout: pdf
 uid: 394e177812d36a8db3f9e1fba364ec6e
 file_type: application/pdf

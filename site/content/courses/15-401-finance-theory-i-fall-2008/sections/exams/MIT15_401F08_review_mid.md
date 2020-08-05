@@ -3,7 +3,7 @@ title: MIT15_401F08_review_mid.pdf
 description: >-
   This resource contains questions related to compounding, APR-EAR conversion,
   common stocks, fixed income securities, present value, forwards and futures.
-type: courses
+type: course
 layout: pdf
 uid: ebd2475a5012fed087965c776cef84d0
 file_type: application/pdf

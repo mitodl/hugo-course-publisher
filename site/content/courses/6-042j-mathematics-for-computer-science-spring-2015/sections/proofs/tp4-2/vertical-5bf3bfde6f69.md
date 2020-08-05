@@ -1,6 +1,8 @@
 ---
 title: 1.9  State Machines - Invariants
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Derived Variables: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/vertical-ef00ae29a8ca" %}})
 *   [1.9.1State Machines Invariants: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/_index.md" %}})

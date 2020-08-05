@@ -1,7 +1,7 @@
 ---
 title: s05_ps05_fall03.pdf
 description: Problem set.
-type: courses
+type: course
 layout: pdf
 uid: ed9596541f6018bb71a38f49885dd5a2
 file_type: application/pdf

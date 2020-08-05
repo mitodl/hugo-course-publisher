@@ -182,6 +182,6 @@ transcript: >-
   <span m="459880">for conditional probabilities as
   well.</span></p><p>&nbsp;</p>
 uid: e873126903bfcf8e5971abea9413a927
-type: courses
+type: course
 layout: video
 ---

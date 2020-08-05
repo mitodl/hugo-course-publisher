@@ -1,11 +1,11 @@
 ---
 title: 'Part C: Mean Value Theorem, Antiderivatives and Differential Equations'
 course_id: 18-01sc-single-variable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: cc849d5801781635e7d929c121e176fe
-    type: section
-    layout: section
     name: 'Part C: Mean Value Theorem, Antiderivatives and Differential Equa'
     weight: 460
     parent: c2ca8a0d20e596b11e2ec5c48c7179ca

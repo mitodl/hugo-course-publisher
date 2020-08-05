@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Applications and Examples'
 transcript: ''
 uid: cf015da3e34b56c3573123a62cd50b97
-type: courses
+type: course
 layout: video
 ---

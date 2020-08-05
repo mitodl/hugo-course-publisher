@@ -3,7 +3,7 @@ title: 'Lecture 37: Taylor Series'
 description: >-
   Lecture notes on general series, differentiation, integration, Taylor series,
   and Taylor's formula.
-type: courses
+type: course
 layout: pdf
 uid: f76ca4e44b2c5b208dd6f785ee1db93e
 file_type: application/pdf

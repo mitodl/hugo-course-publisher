@@ -190,6 +190,6 @@ transcript: >-
   m='127920'>teaching</span> <span m='128340'>in the</span> <span
   m='128640'>classroom.</span> </p>
 uid: fac6c1ba73f291ce6c9d40ad753b41e2
-type: courses
+type: course
 layout: video
 ---

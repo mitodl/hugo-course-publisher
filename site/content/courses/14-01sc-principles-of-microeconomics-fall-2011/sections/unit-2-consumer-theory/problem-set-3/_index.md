@@ -1,16 +1,14 @@
 ---
 title: Problem Set 3
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: videogallery
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 5be371bb9c4f36b1f197043fc0d6cab4
-    type: section
-    layout: section
     name: Problem Set 3
     weight: 140
     parent: 6d0eabb4bf84c44f6ed5096dcf2cf3a4
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/applying-consumer-theory-labor/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/midterm-exam-1/_index.md" %}}) »
 

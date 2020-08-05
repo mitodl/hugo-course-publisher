@@ -693,6 +693,6 @@ transcript: >-
   <span m='572698'>of</span> <span m='573012'>both</span> <span
   m='573326'>worlds.</span> </p>
 uid: ae410ffdbedde1c29303719c2a35d6fb
-type: courses
+type: course
 layout: video
 ---

@@ -97,6 +97,6 @@ transcript: >-
   what</span> <span m='134420'>could be a very complicated problem,</span> <span
   m='136160'>with lots of equations, is simply one equation.</span> </p><p></p>
 uid: b04dac832e14606491617bcefaab013d
-type: courses
+type: course
 layout: video
 ---

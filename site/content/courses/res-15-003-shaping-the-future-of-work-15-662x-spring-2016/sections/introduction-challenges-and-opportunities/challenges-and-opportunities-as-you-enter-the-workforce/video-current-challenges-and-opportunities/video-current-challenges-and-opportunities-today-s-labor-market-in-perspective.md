@@ -423,6 +423,6 @@ transcript: >-
   m='306150'>everyone</span> <span m='306830'>going</span> <span
   m='307150'>forward.</span> </p>
 uid: 16103bceeac117221b0b96d816bb0c15
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: node_loop_meth.pdf
 description: >-
   This file discusses about what are the steps in the node method, the steps in
   the loop method. Further it also describe about number of independent loops.
-type: courses
+type: course
 layout: pdf
 uid: 188228dac72f55ee8e375f5f04164e05
 file_type: application/pdf

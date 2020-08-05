@@ -620,6 +620,6 @@ transcript: >-
   m='770060'>are</span> <span m='770690'>more</span> <span
   m='770870'>generic.</span> </p>
 uid: c84b853f83f741c477fc25dfaa182eba
-type: courses
+type: course
 layout: video
 ---

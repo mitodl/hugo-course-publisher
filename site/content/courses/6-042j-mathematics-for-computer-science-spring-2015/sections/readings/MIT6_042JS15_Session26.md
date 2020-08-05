@@ -3,7 +3,7 @@ title: 'Repetitions & Binomial Theorem: Chapter 14.4 – 14.7'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Repetitions & binomial theorem: Chapter 14.4 – 14.7.
-type: courses
+type: course
 layout: pdf
 uid: 4d0e150873fef8316a697abbef179af1
 file_type: application/pdf

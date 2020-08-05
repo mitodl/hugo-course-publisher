@@ -93,6 +93,6 @@ transcript: >-
   probabilities?</span></p><p><span m="95120">After this lecture, you will be
   able to answer such questions.</span></p><p>&nbsp;</p>
 uid: d00597950570fa45e4ed57ed5008f076
-type: courses
+type: course
 layout: video
 ---

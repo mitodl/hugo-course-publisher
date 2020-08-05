@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 20: Solubility and
   Acid-Base Equilibrium
 description: This resource contains information regarding lecture 20 problem.
-type: courses
+type: course
 layout: pdf
 uid: feb68a6988b89dfc30037bf00689ecc0
 file_type: application/pdf

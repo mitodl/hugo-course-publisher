@@ -1,7 +1,7 @@
 ---
 title: 'Expectation: Expected Number Of Heads'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 65b8c4b3befa90f275d57849b65bce71
 file_type: application/pdf

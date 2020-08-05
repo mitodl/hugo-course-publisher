@@ -1,7 +1,7 @@
 ---
 title: 'Problem Set 8: Stochastic Calculus'
 description: This file contains information regarding problem set 8.
-type: courses
+type: course
 layout: pdf
 uid: 20348102bc927284425e6d505495eb30
 file_type: application/pdf

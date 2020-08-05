@@ -3,7 +3,7 @@ title: f13_sp.pdf
 description: >-
   This resource contains information on the topics of Stagnation Quantities and
   Introduction to Shock Waves.
-type: courses
+type: course
 layout: pdf
 uid: 106fdd8f8455e8d648f979d44723092d
 file_type: application/pdf

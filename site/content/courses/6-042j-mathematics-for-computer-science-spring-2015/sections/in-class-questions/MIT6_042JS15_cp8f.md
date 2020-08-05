@@ -3,7 +3,7 @@ title: Session 8f Questions
 description: >-
   This resource contains information regarding mathematics for computer science:
   In-class questions.
-type: courses
+type: course
 layout: pdf
 uid: d2c90eb35b226d533e30e94947711998
 file_type: application/pdf

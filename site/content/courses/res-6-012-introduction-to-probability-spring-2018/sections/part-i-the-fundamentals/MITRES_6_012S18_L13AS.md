@@ -6,7 +6,7 @@ description: >-
   This resource contains information regarding introduction to probability: The
   fundamentals:  Conditional expectation & variance revisited; sum of a random
   number of independent R.V.s
-type: courses
+type: course
 layout: pdf
 uid: b343ddecdd393da2822aecd2608eb5f0
 file_type: application/pdf

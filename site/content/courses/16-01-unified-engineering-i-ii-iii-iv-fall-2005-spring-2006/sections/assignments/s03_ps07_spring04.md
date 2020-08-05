@@ -1,7 +1,7 @@
 ---
 title: s03_ps07_spring04.pdf
 description: Problem set.
-type: courses
+type: course
 layout: pdf
 uid: c4ec2d0b87195c79860242a5d20b9b64
 file_type: application/pdf

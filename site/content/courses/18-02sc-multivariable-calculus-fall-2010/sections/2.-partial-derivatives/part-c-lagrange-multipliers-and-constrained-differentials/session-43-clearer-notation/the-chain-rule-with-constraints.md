@@ -911,6 +911,6 @@ transcript: >-
   <span m='913190'>think</span> <span m='913390'>I'll</span> <span
   m='913460'>stop</span> <span m='913730'>there.</span> </p>
 uid: 3ed8fac813b7a3a05cd3123b995809f9
-type: courses
+type: course
 layout: video
 ---

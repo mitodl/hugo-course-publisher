@@ -3,7 +3,7 @@ title: 'Studio 6 Slides with Solutions: Continuous data, continuous priors'
 description: >-
   This is a resource file that contains information regarding continuous data,
   continuous priors.
-type: courses
+type: course
 layout: pdf
 uid: f8edc081e8eeaf1f14592b3eea1dd88f
 file_type: application/pdf

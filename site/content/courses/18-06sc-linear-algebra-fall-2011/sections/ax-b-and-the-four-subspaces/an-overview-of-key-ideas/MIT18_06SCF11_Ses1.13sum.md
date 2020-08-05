@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses1.13sum.pdf
 description: This resource contains information related to an overview of key ideas.
-type: courses
+type: course
 layout: pdf
 uid: ca8b2f24428c3ab6c74757ae5ff5056b
 file_type: application/pdf

@@ -6,7 +6,7 @@ description: >-
   This resource contains the information regarding chapter 1: the next
   generation’s American dream: what can be done to achieve It? in shaping the
   future of work.
-type: courses
+type: course
 layout: pdf
 uid: e05bf04d08417045ecdada2f7393090b
 file_type: application/pdf

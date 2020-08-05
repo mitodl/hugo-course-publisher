@@ -1,11 +1,11 @@
 ---
 title: 'Unit IV: Transition Metals & Oxidation-Reduction Reactions'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: course_section
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 898636543b8426a3a53091cb22239ee9
-    type: section
-    layout: section
     name: 'Unit IV: TRANSITION METALS &  OXIDATION-REDUCTION REACTIONS'
     weight: 300
 ---

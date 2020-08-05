@@ -3,7 +3,7 @@ title: solving01.pdf
 description: >-
   This resource contains informations about coordinate systems, vector fields,
   differentiation & the gradient and multi variable integration.
-type: courses
+type: course
 layout: pdf
 uid: 5efad8c9189e2670324d1afcf92fcb98
 file_type: application/pdf

@@ -512,6 +512,6 @@ transcript: >-
   m='439908'>uses,</span> <span m='440491'>pros,</span> <span
   m='441074'>and</span> <span m='441657'>cons.</span> </p>
 uid: 46020970346d90198b19a9806f1fe2b7
-type: courses
+type: course
 layout: video
 ---

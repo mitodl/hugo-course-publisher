@@ -3,7 +3,7 @@ title: MIT20_020S09_prj7_hepc_ctct.pdf
 description: >-
   This file gives details about project, tean, and personal goals, along with
   meeting and work norms. 
-type: courses
+type: course
 layout: pdf
 uid: d46c95d6089136789b6c29e8eb84460e
 file_type: application/pdf

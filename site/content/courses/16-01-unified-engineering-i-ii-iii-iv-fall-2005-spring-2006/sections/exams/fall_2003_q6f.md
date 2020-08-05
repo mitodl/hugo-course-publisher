@@ -1,7 +1,7 @@
 ---
 title: fall_2003_q6f.pdf
 description: Quiz problems based on fluid problems.
-type: courses
+type: course
 layout: pdf
 uid: 91d3251125985a4553b6bab6774a48a5
 file_type: application/pdf

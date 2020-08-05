@@ -3,7 +3,7 @@ title: prs_w05d2_qonly.pdf
 description: >-
   This resource contains  informations about vector field, grass seeds field
   plot and E-field of two equal charges.
-type: courses
+type: course
 layout: pdf
 uid: 65c2fe70e86587eb8cae020bca650450
 file_type: application/pdf

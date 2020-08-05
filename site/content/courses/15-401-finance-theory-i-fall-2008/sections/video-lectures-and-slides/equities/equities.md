@@ -5879,6 +5879,6 @@ transcript: >-
   m='4528560'>today,</span> <span m='4529160'>good</span> <span
   m='4529460'>luck.</span> </p>
 uid: 9875f776bfc2848afe96663b701209f6
-type: courses
+type: course
 layout: video
 ---

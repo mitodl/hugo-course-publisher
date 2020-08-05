@@ -3,7 +3,7 @@ title: 'Class 15 Slides: Conjugate priors; choosing priors'
 description: >-
   This is a resource file that contains information regarding conjugate priors;
   choosing priors.
-type: courses
+type: course
 layout: pdf
 uid: 1c5c25fb6b9bae1d6c047ef18eaebc03
 file_type: application/pdf

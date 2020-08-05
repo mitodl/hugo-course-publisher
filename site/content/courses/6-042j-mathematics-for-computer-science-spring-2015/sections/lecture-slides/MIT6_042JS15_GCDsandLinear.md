@@ -3,7 +3,7 @@ title: 'GCDs: GCDs and Linear Combinations'
 description: >-
   This resource contains information regarding mathematics for computer science,
   GCDs: GCDs and linear combinations.
-type: courses
+type: course
 layout: pdf
 uid: 13d7c33cf763bcca7be8f38a888e1d2b
 file_type: application/pdf

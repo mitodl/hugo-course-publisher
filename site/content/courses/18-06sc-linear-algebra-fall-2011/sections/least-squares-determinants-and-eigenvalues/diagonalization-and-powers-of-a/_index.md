@@ -1,16 +1,14 @@
 ---
 title: Diagonalization and Powers of A
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: dcb9a660b4e1e1d4837bad83344a716e
-    type: section
-    layout: section
     name: Diagonalization and Powers of A
     weight: 280
     parent: cf73d07ac972ab3c450a0f10d0be0664
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/_index.md" %}}) »
 

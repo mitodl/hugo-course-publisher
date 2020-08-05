@@ -3,7 +3,7 @@ title: 'Lecture 1 Slides: Overview: Introduction to the Introduction of Geology'
 description: >-
   This is a resource file that contains information regarding overview:
   introduction to the introduction of geology.
-type: courses
+type: course
 layout: pdf
 uid: d8c5746d11664a62a1ede4fecfca6e37
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 6.1 Social Contract Negotiations Exercise
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Social Contract Negotiations Exercise]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/the-social-contract-negotiation-exercise/social-contract-negotiations-exercise/_index.md" %}})

@@ -4673,6 +4673,6 @@ transcript: >-
   m="3139490">Jesse</span> <span m="3139940">and</span> <span
   m="3140270">Karen.</span></p>
 uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
-type: courses
+type: course
 layout: video
 ---

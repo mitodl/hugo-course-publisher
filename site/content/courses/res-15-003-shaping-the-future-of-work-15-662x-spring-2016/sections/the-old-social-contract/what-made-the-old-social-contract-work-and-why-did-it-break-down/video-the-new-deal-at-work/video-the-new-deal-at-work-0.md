@@ -581,6 +581,6 @@ transcript: >-
   m="433620">economy</span> <span m="434240">and</span> <span
   m="434440">today's</span> <span m="434770">workforce.</span></p>
 uid: b411e29f19162a1347101164a393b20c
-type: courses
+type: course
 layout: video
 ---

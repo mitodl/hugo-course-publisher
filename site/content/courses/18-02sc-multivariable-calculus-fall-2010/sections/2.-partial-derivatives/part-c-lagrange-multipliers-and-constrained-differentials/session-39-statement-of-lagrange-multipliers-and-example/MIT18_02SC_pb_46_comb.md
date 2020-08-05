@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Problems: Lagrange Multipliers'
 description: This resource contains information regarding lagrange multipliers.
-type: courses
+type: course
 layout: pdf
 uid: 693d40c750e1db7d97c2849986f04029
 file_type: application/pdf

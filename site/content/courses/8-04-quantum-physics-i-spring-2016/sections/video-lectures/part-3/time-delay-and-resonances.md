@@ -935,6 +935,6 @@ transcript: >-
   m='1097060'>too</span> <span m='1097210'>much</span> <span
   m='1097510'>work.</span> </p>
 uid: 2fe0e5b5afb1a6876b4d5a6be6fdd9e0
-type: courses
+type: course
 layout: video
 ---

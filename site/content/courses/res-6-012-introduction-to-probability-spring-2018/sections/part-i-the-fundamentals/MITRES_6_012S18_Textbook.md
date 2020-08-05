@@ -1,7 +1,7 @@
 ---
 title: 'Introduction to Probability, Selected Textbook Summary Material'
 description: This file contains information regarding selected summary material.
-type: courses
+type: course
 layout: pdf
 uid: d973b10c2587781f86ca4f2aff49098f
 file_type: application/pdf

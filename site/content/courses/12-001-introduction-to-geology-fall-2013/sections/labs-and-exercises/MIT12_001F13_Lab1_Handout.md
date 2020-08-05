@@ -1,7 +1,7 @@
 ---
 title: '12.001 Introduction to Geology, Lab 1: Mineral Identification'
 description: This file contains information regarding blank chart for minerals.
-type: courses
+type: course
 layout: pdf
 uid: 0c4d7880e5879d175bca39a38fb328b9
 file_type: application/pdf

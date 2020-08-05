@@ -1,16 +1,14 @@
 ---
 title: Using Randomness to Solve Non-random Problems
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 76234e321a3a3b21e1e548190e089977
-    type: section
-    layout: section
     name: Using Randomness to Solve Non-random Problems
     weight: 220
     parent: ddc5db7a5c64e3bda565b36f4ed76287
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-15-statistical-thinking/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-17-curve-fitting/_index.md" %}}) »
 

@@ -155,6 +155,6 @@ transcript: >-
   differences</span> <span m='318270'>in the way that they are treated,</span>
   <span m='320360'>as we will be seeing next.</span> </p><p></p>
 uid: 97ccf903a4f10ea9c40f0923f11c7a0f
-type: courses
+type: course
 layout: video
 ---

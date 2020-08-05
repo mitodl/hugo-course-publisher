@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 7 slides: Debugging'
 description: This resource contains information related to debugging.
-type: courses
+type: course
 layout: pdf
 uid: 96f08eda3e209e949f936169f2628c3d
 file_type: application/pdf

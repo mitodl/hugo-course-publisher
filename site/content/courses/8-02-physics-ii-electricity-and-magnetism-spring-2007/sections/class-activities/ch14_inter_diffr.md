@@ -1,7 +1,7 @@
 ---
 title: ch14_inter_diffr.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: c1ef2e99446d7c4255e32752af8f6d26
 file_type: application/pdf

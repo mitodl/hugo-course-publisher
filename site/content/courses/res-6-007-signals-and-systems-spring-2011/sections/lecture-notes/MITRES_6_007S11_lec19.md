@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_lec19.pdf
 description: This resource contains information related to discrete-time sampling.
-type: courses
+type: course
 layout: pdf
 uid: 8c33a4bc0939fa291cf78a6ca55b1e7a
 file_type: application/pdf

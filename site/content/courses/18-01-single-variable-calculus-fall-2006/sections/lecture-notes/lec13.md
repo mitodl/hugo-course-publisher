@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 13: Newton’s Method and Other Applications'
 description: Lecture notes on Newton's method and other applications.
-type: courses
+type: course
 layout: pdf
 uid: fb8c24f09aba8413984f8ce5961586bd
 file_type: application/pdf

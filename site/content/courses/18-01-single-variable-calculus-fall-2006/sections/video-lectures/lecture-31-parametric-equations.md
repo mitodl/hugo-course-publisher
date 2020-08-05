@@ -2528,6 +2528,6 @@ transcript: >-
   m='2720410'>do</span> <span m='2720590'>that</span> <span
   m='2721780'>next</span> <span m='2722140'>time.</span> </p>
 uid: a25afba34c5eaa1e2b4ef1c9b9a66f80
-type: courses
+type: course
 layout: video
 ---

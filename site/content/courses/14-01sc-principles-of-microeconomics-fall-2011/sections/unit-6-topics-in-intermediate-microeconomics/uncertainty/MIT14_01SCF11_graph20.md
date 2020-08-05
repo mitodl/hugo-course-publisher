@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_graph20.pdf
 description: This resource contains graphs related to uncertainty.
-type: courses
+type: course
 layout: pdf
 uid: c80e18e7e410789468a6840c62ecbee2
 file_type: application/pdf

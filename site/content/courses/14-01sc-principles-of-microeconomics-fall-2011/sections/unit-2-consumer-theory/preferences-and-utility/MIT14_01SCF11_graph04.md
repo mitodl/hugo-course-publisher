@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_graph04.pdf
 description: This resource contains graphs and figures related to preferences and utility.
-type: courses
+type: course
 layout: pdf
 uid: cf538695601bcc7002d56b83b00ff91e
 file_type: application/pdf

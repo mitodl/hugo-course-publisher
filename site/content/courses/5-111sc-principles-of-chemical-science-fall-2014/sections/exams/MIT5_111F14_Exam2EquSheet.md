@@ -3,7 +3,7 @@ title: 5.111 F14 Exam 2 Equation Sheet
 description: >-
   This resource contains information regarding principles of chemical science:
   Exam 2 equation sheet.
-type: courses
+type: course
 layout: pdf
 uid: f2693696bf164923d89b56b0851293ad
 file_type: application/pdf

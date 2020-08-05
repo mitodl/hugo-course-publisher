@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_11.pdf
 description: This resource contains information related to velocity and acceleration.
-type: courses
+type: course
 layout: pdf
 uid: f53b53c2dc7757c7445623020b135d4f
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex73prb.pdf
 description: This resource contains problem statements related to completing the square.
-type: courses
+type: course
 layout: pdf
 uid: b172c1e0a6295d5e3487052c19135caa
 file_type: application/pdf

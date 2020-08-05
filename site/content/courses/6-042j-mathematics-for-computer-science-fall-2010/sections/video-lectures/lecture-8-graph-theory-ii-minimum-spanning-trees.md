@@ -4162,6 +4162,6 @@ transcript: >-
   m='5000310'>techniques.</span> </p><p><span m='5001290'>OK.</span> <span
   m='5001610'>Thank</span> <span m='5001960'>you.</span> </p><p></p>
 uid: dd294d5aa91d79e92e582bcabb9a90e1
-type: courses
+type: course
 layout: video
 ---

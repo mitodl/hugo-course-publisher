@@ -180,6 +180,6 @@ transcript: >-
   to approach the distribution of a</span> <span m='401570'>normal random
   variable.</span> </p><p></p>
 uid: 4c54cd4a354e8458576818c98885433b
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_guide14.pdf
 description: 'This resource contains information related to multiple integrals. '
-type: courses
+type: course
 layout: pdf
 uid: a420b37892382bd8ab2dfeb0e3140f0d
 file_type: application/pdf

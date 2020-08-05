@@ -3,7 +3,7 @@ title: MIT14_01SCF11_exam01.pdf
 description: >-
   This resource contains 5 problem statements related to demand, supply, market
   demands, optimal allocations, and labor markets.
-type: courses
+type: course
 layout: pdf
 uid: 0454bc30df1666fe266f0a3353c0c633
 file_type: application/pdf

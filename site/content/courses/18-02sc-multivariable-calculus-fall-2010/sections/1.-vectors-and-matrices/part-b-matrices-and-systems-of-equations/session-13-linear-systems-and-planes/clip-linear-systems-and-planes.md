@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Linear Systems and Planes'
 transcript: ''
 uid: c1aa41a763ac73ee11879be1c22224ff
-type: courses
+type: course
 layout: video
 ---

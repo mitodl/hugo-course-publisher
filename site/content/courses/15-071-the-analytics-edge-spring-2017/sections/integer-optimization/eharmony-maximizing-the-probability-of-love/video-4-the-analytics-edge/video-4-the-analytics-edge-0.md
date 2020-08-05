@@ -117,6 +117,6 @@ transcript: >-
   m='73665'>core</span> <span m='74088'>of</span> <span m='74512'>this</span>
   <span m='74936'>business.</span> </p>
 uid: b2c338b4b9ee6e7d35320ce66e52ba0c
-type: courses
+type: course
 layout: video
 ---

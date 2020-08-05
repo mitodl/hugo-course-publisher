@@ -1,7 +1,7 @@
 ---
 title: 2_rec_graphstr.pdf
 description: Recitation lecture presentation.
-type: courses
+type: course
 layout: pdf
 uid: 1dd1d28ec2466a4b6fa904db959190a1
 file_type: application/pdf

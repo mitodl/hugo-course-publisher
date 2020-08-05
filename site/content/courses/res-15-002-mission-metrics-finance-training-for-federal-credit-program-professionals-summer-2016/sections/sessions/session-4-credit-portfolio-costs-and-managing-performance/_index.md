@@ -2,11 +2,11 @@
 title: 'Session 4: Credit Portfolio Costs and Managing Performance'
 course_id: >-
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016
+type: course
+layout: course_section
 menu:
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016:
     identifier: 6907be93d863028aaf71629ccb976e53
-    type: section
-    layout: section
     name: 'Session 4: Credit Portfolio Costs and Managing Performance'
     weight: 70
     parent: c5cf8c5e59b0bc3e51ba6284d467e6d6

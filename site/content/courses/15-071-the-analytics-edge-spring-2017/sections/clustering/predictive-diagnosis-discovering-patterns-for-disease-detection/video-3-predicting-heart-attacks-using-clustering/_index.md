@@ -1,7 +1,7 @@
 ---
 title: '6.3 Predictive Diagnosis: Discovering Patterns for Disease Detection '
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/quick-question-486" %}})

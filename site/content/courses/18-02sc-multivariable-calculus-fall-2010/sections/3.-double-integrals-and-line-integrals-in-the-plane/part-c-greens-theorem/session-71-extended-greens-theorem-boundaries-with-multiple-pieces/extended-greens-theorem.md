@@ -1937,6 +1937,6 @@ transcript: >-
   m='1394790'>I</span> <span m='1394830'>will</span> <span
   m='1394870'>stop.</span> </p>
 uid: 01c74ce0a150caad5cb31428c8215218
-type: courses
+type: course
 layout: video
 ---

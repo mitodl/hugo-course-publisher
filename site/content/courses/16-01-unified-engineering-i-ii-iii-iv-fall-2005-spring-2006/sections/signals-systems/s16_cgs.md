@@ -3,7 +3,7 @@ title: s16_cgs.pdf
 description: >-
   Concept questions on Fourier Transform of Step I and Fourier Transform of Step
   I.
-type: courses
+type: course
 layout: pdf
 uid: d4faa0da28abe711b40b45ba86fe4abc
 file_type: application/pdf

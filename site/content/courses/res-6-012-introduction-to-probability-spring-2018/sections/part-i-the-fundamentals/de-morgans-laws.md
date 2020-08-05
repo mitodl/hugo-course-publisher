@@ -138,6 +138,6 @@ transcript: >-
   allow us, in general, to go back and forth between</span> <span
   m="290230">unions and intersections.</span></p><p>&nbsp;</p>
 uid: 48a3822546434817bf4fd32b12fab8ae
-type: courses
+type: course
 layout: video
 ---

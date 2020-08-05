@@ -3,7 +3,7 @@ title: f09_fall.pdf
 description: >-
   This resource provides information on the topic of Momentum-Integral
   Simplifications and its applications.
-type: courses
+type: course
 layout: pdf
 uid: 854076a8dcb946adf46d8c8bf724b79a
 file_type: application/pdf

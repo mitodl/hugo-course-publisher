@@ -5780,6 +5780,6 @@ transcript: >-
   m='5097560'>So</span> <span m='5097860'>thank</span> <span
   m='5098160'>you.</span> </p><p><span m='5098760'>[APPLAUSE]</span> </p><p></p>
 uid: 260053ae97993d412df9a6a6c2be9eec
-type: courses
+type: course
 layout: video
 ---

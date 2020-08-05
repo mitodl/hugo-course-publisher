@@ -486,6 +486,6 @@ transcript: >-
   m='371880'>lovely</span> <span m='372450'>class</span> <span
   m='372880'>problem.</span> </p>
 uid: 1be410ca94a8cace534c8568669c9949
-type: courses
+type: course
 layout: video
 ---

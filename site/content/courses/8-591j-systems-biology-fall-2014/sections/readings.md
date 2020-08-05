@@ -1,11 +1,11 @@
 ---
 title: Readings
 course_id: 8-591j-systems-biology-fall-2014
+type: course
+layout: course_section
 menu:
   8-591j-systems-biology-fall-2014:
     identifier: 84eb1e49cca06c0161534f50406442d1
-    type: section
-    layout: section
     name: Readings
     weight: 60
 ---

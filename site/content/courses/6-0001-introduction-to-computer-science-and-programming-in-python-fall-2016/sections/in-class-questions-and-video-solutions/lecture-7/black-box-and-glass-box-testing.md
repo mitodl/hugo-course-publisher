@@ -169,6 +169,6 @@ transcript: >-
   <span m='120610'>equal</span> <span m='120950'>to</span> <span
   m='121230'>0.</span> <span m='121450'>Perfect.</span> </p>
 uid: 2c04fb25912179e0e60bf9336bd802d6
-type: courses
+type: course
 layout: video
 ---

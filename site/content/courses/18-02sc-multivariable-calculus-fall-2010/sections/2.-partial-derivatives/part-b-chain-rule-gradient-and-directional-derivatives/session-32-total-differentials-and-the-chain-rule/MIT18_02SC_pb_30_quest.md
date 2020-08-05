@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_30_quest.pdf
 description: >-
   This resource contains problem statements related to total differentials and
   chain rule.
-type: courses
+type: course
 layout: pdf
 uid: 94a0b57dd7830bfd856c7fa7f38794bd
 file_type: application/pdf

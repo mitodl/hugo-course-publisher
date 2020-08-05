@@ -1,7 +1,7 @@
 ---
 title: Exam 3 Solutions
 description: Solutions to the third exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: 0ebd4a5db190a7138644784bce3f8cd6
 file_type: application/pdf

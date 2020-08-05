@@ -723,6 +723,6 @@ transcript: >-
   m='776120'>me</span> <span m='776300'>during</span> <span
   m='776570'>office</span> <span m='776990'>hour.</span> </p><p></p>
 uid: 0f6412403dec9fcdcbaa9a4b9d07786b
-type: courses
+type: course
 layout: video
 ---

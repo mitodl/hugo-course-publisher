@@ -4544,6 +4544,6 @@ transcript: >-
   m="4838490">Tuesday.</span> <span m="4838790">So please</span> <span
   m="4839090">let me</span> <span m="4839390">know.</span></p>
 uid: a9a96ceed13b5d4051db369ab103517c
-type: courses
+type: course
 layout: video
 ---

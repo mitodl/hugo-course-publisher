@@ -2798,6 +2798,6 @@ transcript: >-
   m='2944090'>that</span> <span m='2944290'>in</span> <span
   m='2944370'>mind.</span> </p>
 uid: 5cb7d3742f14b8fc86ae023dfcd15cc6
-type: courses
+type: course
 layout: video
 ---

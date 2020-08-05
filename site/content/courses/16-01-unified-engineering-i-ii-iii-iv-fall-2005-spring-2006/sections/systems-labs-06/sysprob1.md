@@ -1,7 +1,7 @@
 ---
 title: sysprob1.pdf
 description: This file contains the notes for Design Parameters and Tradeoffs.
-type: courses
+type: course
 layout: pdf
 uid: cded348434ad99bc81e3a63644fc033f
 file_type: application/pdf

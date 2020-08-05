@@ -3,7 +3,7 @@ title: prszm3.pdf
 description: >-
   This resource contains concept questions and answers based on forces and
   moment.
-type: courses
+type: course
 layout: pdf
 uid: 77419f39d59d2fb655d34af8890c2ad5
 file_type: application/pdf

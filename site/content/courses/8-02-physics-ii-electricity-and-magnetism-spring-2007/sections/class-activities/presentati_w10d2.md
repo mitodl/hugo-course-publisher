@@ -5,7 +5,7 @@ description: >-
   demonstration: remote speaker, self inductance, prs question: closing a
   switch; LR circuit & problem, demos: breaking circuits with inductors, energy
   in inductor, back to back EMF, prs question: stopping a motor.
-type: courses
+type: course
 layout: pdf
 uid: 94a7e724c9aa48d574f4bdb5e6184480
 file_type: application/pdf

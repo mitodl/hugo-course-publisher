@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 8-01sc-classical-mechanics-fall-2016
 course_title: Classical Mechanics
 course_image_url: >-

@@ -3,7 +3,7 @@ title: PROPULSION_lo.pdf
 description: >-
   This handout contains the Learning Objectives and the Measurable Outcomes
   (Assessment Method) for this course.
-type: courses
+type: course
 layout: pdf
 uid: 074acec517d2ba392fa965b4bb34eb49
 file_type: application/pdf

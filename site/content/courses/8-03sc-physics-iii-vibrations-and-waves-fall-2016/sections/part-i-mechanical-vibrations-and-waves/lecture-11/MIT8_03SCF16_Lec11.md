@@ -1,7 +1,7 @@
 ---
 title: 'MIT 8.03SC Fall 2016 Lecture 11: Sound Waves'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 40433e53644c3f106c4a16a1ffffbc47
 file_type: application/pdf

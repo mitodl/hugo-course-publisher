@@ -5615,6 +5615,6 @@ transcript: >-
   m='5114130'>NP-complete.</span> <span m='5115220'>That's</span> <span
   m='5115520'>it.</span> </p>
 uid: 66adf7af367162d6bd07836a1700cd03
-type: courses
+type: course
 layout: video
 ---

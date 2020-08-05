@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Notation for Series'
 transcript: ''
 uid: 9f12422b43a44958707149a79308cc3d
-type: courses
+type: course
 layout: video
 ---

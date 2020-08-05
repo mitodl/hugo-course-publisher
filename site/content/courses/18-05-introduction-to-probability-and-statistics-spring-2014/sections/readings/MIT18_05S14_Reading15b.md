@@ -3,7 +3,7 @@ title: 'Reading 15b: Choosing Priors'
 description: >-
   This resource file contains information regarding reading 15b: choosing
   priors.
-type: courses
+type: course
 layout: pdf
 uid: 110e55b20d78803917b673b126792282
 file_type: application/pdf

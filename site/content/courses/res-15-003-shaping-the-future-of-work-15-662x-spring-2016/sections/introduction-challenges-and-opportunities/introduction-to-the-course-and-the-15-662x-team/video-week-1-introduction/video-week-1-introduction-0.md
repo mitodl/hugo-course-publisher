@@ -390,6 +390,6 @@ transcript: >-
   m='268180'>future</span> <span m='268600'>of</span> <span
   m='268700'>work.</span> </p>
 uid: 43ad954da41cf1c662d6f7a67256e3a5
-type: courses
+type: course
 layout: video
 ---

@@ -376,6 +376,6 @@ transcript: >-
   <span m='248880'>the</span> <span m='248980'>generalized</span> <span
   m='249650'>pigeonhole</span> <span m='250160'>principle.</span> </p>
 uid: 30dca7b23f9a0ad8be07efa1de6f3072
-type: courses
+type: course
 layout: video
 ---

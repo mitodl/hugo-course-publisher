@@ -127,6 +127,6 @@ transcript: >-
   probabilities have to be equal, and this implies</span> <span m='323150'>a
   certain relation between the two PDFs.</span> </p><p></p>
 uid: 5d486b203c49e7e232916f6827fc02bf
-type: courses
+type: course
 layout: video
 ---

@@ -1,11 +1,11 @@
 ---
 title: Teaching Online to Improve Residential Education
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
+type: course
+layout: course_section
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 2a9b49a80ffbe349812d37ac6b7d3fea
-    type: section
-    layout: section
     name: Teaching Online to Improve Residential Education
     weight: 30
     parent: 533d102efe069d1db963beda43cca2a1

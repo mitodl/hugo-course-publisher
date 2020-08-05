@@ -1,11 +1,11 @@
 ---
 title: Introduction
 course_id: res-6-008-digital-signal-processing-spring-2011
+type: course
+layout: course_section
 menu:
   res-6-008-digital-signal-processing-spring-2011:
     identifier: d3dae78ed927d7ba20e830bf62c90f76
-    type: section
-    layout: section
     name: Introduction
     weight: 10
 ---

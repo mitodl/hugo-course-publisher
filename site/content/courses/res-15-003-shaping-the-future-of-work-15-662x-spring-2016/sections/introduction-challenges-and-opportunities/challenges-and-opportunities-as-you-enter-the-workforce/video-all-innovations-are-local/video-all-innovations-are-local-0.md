@@ -497,6 +497,6 @@ transcript: >-
   m="375290">society</span> <span m="375860">going</span> <span
   m="376120">forward.</span></p>
 uid: e6625b3de19d2f786bf47bfed5a66b00
-type: courses
+type: course
 layout: video
 ---

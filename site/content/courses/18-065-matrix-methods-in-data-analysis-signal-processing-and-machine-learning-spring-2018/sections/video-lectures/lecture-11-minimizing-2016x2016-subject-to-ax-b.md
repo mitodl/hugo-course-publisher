@@ -2733,6 +2733,6 @@ transcript: >-
   m="3018850">really,</span> <span m="3019370">really</span> <span
   m="3019690">large</span> <span m="3020050">matrices.</span></p>
 uid: 57520c261eb1b9cabc4460a953a67428
-type: courses
+type: course
 layout: video
 ---

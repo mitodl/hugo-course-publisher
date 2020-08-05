@@ -124,6 +124,6 @@ transcript: >-
   m="197470">on the recurrent class being periodic</span> <span m="199920">or
   not as we will see in the next clip.</span></p><p>&nbsp;</p>
 uid: 30954698723efeb8f6dc4212948194ad
-type: courses
+type: course
 layout: video
 ---

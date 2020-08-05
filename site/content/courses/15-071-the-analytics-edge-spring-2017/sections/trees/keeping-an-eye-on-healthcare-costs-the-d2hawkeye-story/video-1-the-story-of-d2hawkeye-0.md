@@ -232,6 +232,6 @@ transcript: >-
   m='232243'>"Can</span> <span m='232646'>we</span> <span m='233050'>use</span>
   <span m='233453'>analytics</span> <span m='233856'>instead?"</span> </p>
 uid: 594ee19b332f6b1a7f2df85bdf2638c5
-type: courses
+type: course
 layout: video
 ---

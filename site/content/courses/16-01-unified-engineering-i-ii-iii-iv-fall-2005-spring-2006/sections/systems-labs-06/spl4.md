@@ -1,7 +1,7 @@
 ---
 title: spl4.pdf
 description: This file contains notes for Design Variable Concepts.
-type: courses
+type: course
 layout: pdf
 uid: e97270ad15502101bb909dfe6104e0be
 file_type: application/pdf

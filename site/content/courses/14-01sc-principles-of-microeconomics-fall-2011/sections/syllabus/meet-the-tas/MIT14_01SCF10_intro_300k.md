@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF10_intro_300k.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: c4d5aad5580ec3e91b4acf2973a1b833
 file_type: application/pdf

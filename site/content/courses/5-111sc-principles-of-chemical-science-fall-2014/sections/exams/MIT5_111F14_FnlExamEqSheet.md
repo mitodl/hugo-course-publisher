@@ -3,7 +3,7 @@ title: 5.111 F14 Final Exam Equation Sheet
 description: >-
   This resource contains information regarding principles of chemical science:
   Final exam equation sheet.
-type: courses
+type: course
 layout: pdf
 uid: fd6740d186f548251be8eb5fb40ace07
 file_type: application/pdf

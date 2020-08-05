@@ -3,7 +3,7 @@ title: MIT18_02SC_SupProbSol3.pdf
 description: >-
   This resource contains solutions for the problem statements related to double
   integrals.
-type: courses
+type: course
 layout: pdf
 uid: 09f91c1171dfddd133f6757e505d4f73
 file_type: application/pdf

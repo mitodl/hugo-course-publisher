@@ -1173,6 +1173,6 @@ transcript: >-
   m='1058040'>set</span> <span m='1058280'>of</span> <span
   m='1058440'>text.</span> </p>
 uid: ce96182c5cb235dd94ce15d0eb38d20e
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses71d.pdf
 description: >-
   This resource contains information about integrals involving secant, cosecant
   and cotangent.
-type: courses
+type: course
 layout: pdf
 uid: b87628b943b8b9eb87f9c355091b080e
 file_type: application/pdf

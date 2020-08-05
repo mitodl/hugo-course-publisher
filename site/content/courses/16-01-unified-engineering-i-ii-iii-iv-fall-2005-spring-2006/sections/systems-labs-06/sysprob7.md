@@ -3,7 +3,7 @@ title: sysprob7.pdf
 description: >-
   This file contains the objectives and procedures for the topic: Detailed Wing
   Optimization.
-type: courses
+type: course
 layout: pdf
 uid: 044bd628056ceec8b7adb93525467c93
 file_type: application/pdf

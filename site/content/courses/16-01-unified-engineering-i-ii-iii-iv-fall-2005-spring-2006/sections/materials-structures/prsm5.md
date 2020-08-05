@@ -3,7 +3,7 @@ title: prsm5.pdf
 description: >-
   This resource contains concept questions and answers based on moment, axial
   displacement and shear force.
-type: courses
+type: course
 layout: pdf
 uid: 512ba54f4a693ab9cf89b9fa502283d1
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses1.8prob.pdf
 description: >-
   This resource contains problem sets related to solving Ax = b and row reduced
   form R.
-type: courses
+type: course
 layout: pdf
 uid: 78fb9d04e3b75be152197bb83fea3d13
 file_type: application/pdf

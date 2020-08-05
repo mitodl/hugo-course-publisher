@@ -2924,6 +2924,6 @@ transcript: >-
   m="2978690">see</span> <span m="2978870">you</span> <span
   m="2979050">guys</span> <span m="2979290">soon.</span></p>
 uid: 35d527fedf9e66525ed3a905f4c66e66
-type: courses
+type: course
 layout: video
 ---

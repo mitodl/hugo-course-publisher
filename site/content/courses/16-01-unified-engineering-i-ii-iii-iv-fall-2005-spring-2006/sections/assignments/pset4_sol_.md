@@ -3,7 +3,7 @@ title: pset4_sol_.pdf
 description: >-
   This file includes solutions to problems on static and stagnation
   temperatures, and pressures, and unified computers and programming.
-type: courses
+type: course
 layout: pdf
 uid: bb9b6111cae44d581725baaaf0c92428
 file_type: application/pdf

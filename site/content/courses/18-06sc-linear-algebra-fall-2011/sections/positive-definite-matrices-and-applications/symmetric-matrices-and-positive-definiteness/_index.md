@@ -1,16 +1,14 @@
 ---
 title: Symmetric Matrices and Positive Definiteness
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: 83daa7894c9ba2c7ac6cafe27aef0e1c
-    type: section
-    layout: section
     name: Symmetric Matrices and Positive Definiteness
     weight: 370
     parent: 34f596bc232822be5fba75646f6970c5
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft/_index.md" %}}) »
 

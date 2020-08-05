@@ -3,7 +3,7 @@ title: 'Studio 8 Slides: Rejection regions; NHST'
 description: >-
   This is a resource file that contains information regarding rejection regions;
   NHST.
-type: courses
+type: course
 layout: pdf
 uid: cd97d61e69528ad3a969b66347aa8d52
 file_type: application/pdf

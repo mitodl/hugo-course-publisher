@@ -1,11 +1,11 @@
 ---
 title: Reading Questions 7a
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
+type: course
+layout: course_section
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: 8e17011992abda81a3894df37df3a092
-    type: section
-    layout: section
     name: Reading Questions 7a
     weight: 340
     parent: 579c055accb4eb7ebb6bf294146b45a5

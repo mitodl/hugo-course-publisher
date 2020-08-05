@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex50sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   combining theorem and the mean value theorem.
-type: courses
+type: course
 layout: pdf
 uid: d57f59c50b7fe8eae95e25e0f64a44d1
 file_type: application/pdf

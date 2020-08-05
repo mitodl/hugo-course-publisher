@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 32: Kinetics: Reaction Mechanisms'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: videogallery
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 31564d9d89a99686791240b6ed37ef6f
-    type: section
-    layout: section
     name: Lecture 32
     weight: 390
     parent: 124cd4e89ed86cbe95d852c3908bfac3
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-33/_index.md" %}}) »
 

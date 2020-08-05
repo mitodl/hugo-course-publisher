@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_lec20.pdf
 description: This resource contains information related to the laplace transform.
-type: courses
+type: course
 layout: pdf
 uid: d9f4523002b8447ba73531bcc456cd69
 file_type: application/pdf

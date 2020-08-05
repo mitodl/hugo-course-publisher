@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_assn02.pdf
 description: 'This resource contains 4 problem statements related to rational preferences. '
-type: courses
+type: course
 layout: pdf
 uid: d3c8fbeaf7f9c0e225b378eeed5983f3
 file_type: application/pdf

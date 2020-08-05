@@ -276,6 +276,6 @@ transcript: >-
   m='234340'>the</span> <span m='234890'>analytics</span> <span
   m='235440'>model.</span> </p>
 uid: 9196362e5f0597e449dad5e565033d6a
-type: courses
+type: course
 layout: video
 ---

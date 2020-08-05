@@ -814,6 +814,6 @@ transcript: >-
   m='595680'>the</span> <span m='595770'>energies</span> <span
   m='596550'>of</span> <span m='596670'>defects.</span> </p>
 uid: 5a1b849a14379f666c4da2be555a00be
-type: courses
+type: course
 layout: video
 ---

@@ -2298,6 +2298,6 @@ transcript: >-
   m="2961840">entire</span> <span m="2962060">semester.</span> <span
   m="2962660">Thank</span> <span m="2962960">you for participation.</span></p>
 uid: bacbfc2882416b8008c96c300030e6b1
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Class 1 Slides: Introduction, counting and sets'
 description: This is a resource file that contains information regarding class 1.
-type: courses
+type: course
 layout: pdf
 uid: 5453e0d02bf8d1b373cb3ff9167c5d2a
 file_type: application/pdf

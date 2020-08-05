@@ -613,6 +613,6 @@ transcript: >-
   m='467750'>I'll</span> <span m='468050'>stop</span> <span
   m='468350'>there.</span> </p>
 uid: a69d4c82d4edd3d0b1e2edd9d830d903
-type: courses
+type: course
 layout: video
 ---

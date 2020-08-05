@@ -590,6 +590,6 @@ transcript: >-
   m='460100'>in</span> <span m='460250'>the</span> <span m='460370'>next</span>
   <span m='460640'>segment.</span> </p>
 uid: 785afb2d64f38e56f72738b5c41042b2
-type: courses
+type: course
 layout: video
 ---

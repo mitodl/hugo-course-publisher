@@ -335,6 +335,6 @@ transcript: >-
   m='255720'>exactly</span> <span m='256200'>what's</span> <span
   m='256350'>happening.</span> <span m='256950'>OK.</span> </p>
 uid: e79417e9b56b868aa5c268f6e30b02db
-type: courses
+type: course
 layout: video
 ---

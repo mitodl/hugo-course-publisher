@@ -4027,6 +4027,6 @@ transcript: >-
   m='4576900'>So we'll</span> <span m='4577200'>go through</span> <span
   m='4577500'>that next time.</span> </p>
 uid: 1ecdcbe587b2ed53b7f03584cc70ad3f
-type: courses
+type: course
 layout: video
 ---

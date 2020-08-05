@@ -2825,6 +2825,6 @@ transcript: >-
   m="2948340">you.</span></p><p><span m="2949380">That's</span> <span
   m="2949720">lecture</span> <span m="2950380">ten.</span></p>
 uid: b39b3ec50faab61ab04d8285b5fd89d8
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: summary_w13d1.pdf
 description: >-
   This file talks about deriving the facts about EM waves and the wave equation
   from the full set of Maxwell?s Equations.
-type: courses
+type: course
 layout: pdf
 uid: 6e6b16abf1e2f5b2144967521a8fc38c
 file_type: application/pdf

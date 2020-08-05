@@ -1,11 +1,11 @@
 ---
 title: References
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: course_section
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: e96c4f6f4fbe2d6c994e20e1a0c829c5
-    type: section
-    layout: section
     name: References
     weight: 30
 ---

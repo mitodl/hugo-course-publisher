@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 8: The Periodic Table and
   Periodic Trends
 description: This resource contains information regarding lecture 8 problem.
-type: courses
+type: course
 layout: pdf
 uid: bdbb0bb5e8d430fba8f59a23d121bb8f
 file_type: application/pdf

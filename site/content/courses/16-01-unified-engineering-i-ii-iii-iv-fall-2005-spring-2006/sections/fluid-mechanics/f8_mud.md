@@ -1,7 +1,7 @@
 ---
 title: f8_mud.pdf
 description: Review questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: 368d1025b7a9da22f1059e6d410fa2d3
 file_type: application/pdf

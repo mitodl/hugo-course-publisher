@@ -1,7 +1,7 @@
 ---
 title: f07_ps10_fall03.pdf
 description: This resource contains 1 problem on velocity and the pressure difference.
-type: courses
+type: course
 layout: pdf
 uid: 201993fecef7a9d3946e2b0d15ef212d
 file_type: application/pdf

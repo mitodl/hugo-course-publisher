@@ -396,6 +396,6 @@ transcript: >-
   m='280569'>of</span> <span m='281029'>the</span> <span
   m='281489'>AdWords</span> <span m='281949'>system.</span> </p>
 uid: 4bff4d846d9019dd1fb2acf6f4bb6691
-type: courses
+type: course
 layout: video
 ---

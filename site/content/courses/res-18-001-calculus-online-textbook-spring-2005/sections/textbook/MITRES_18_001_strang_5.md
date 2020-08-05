@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang_5.pdf
 description: This resource contains information related to integrals.
-type: courses
+type: course
 layout: pdf
 uid: 8befcfcdaecae64f77cdd83ef8bbfdab
 file_type: application/pdf

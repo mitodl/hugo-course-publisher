@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Total Differentials and Chain Rule'
 transcript: ''
 uid: 3c74015a1e39d58c6c35744224686cd7
-type: courses
+type: course
 layout: video
 ---

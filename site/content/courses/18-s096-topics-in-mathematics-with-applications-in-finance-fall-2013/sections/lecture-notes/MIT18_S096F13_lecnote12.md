@@ -1,7 +1,7 @@
 ---
 title: Time Series Analysis III
 description: This file contains information regarding lecture 12 notes.
-type: courses
+type: course
 layout: pdf
 uid: 2878a31dc5f908839d3c66f61f41f85c
 file_type: application/pdf

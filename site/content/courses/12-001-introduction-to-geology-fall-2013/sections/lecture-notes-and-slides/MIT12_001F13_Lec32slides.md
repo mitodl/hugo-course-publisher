@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 32 Slides: Glaciers'
 description: 'This file contains the information regarding lecture 32 Slides: Glaciers.'
-type: courses
+type: course
 layout: pdf
 uid: 35d573e58b6526babbd1a5c3e6cc689d
 file_type: application/pdf

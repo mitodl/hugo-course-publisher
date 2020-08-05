@@ -752,6 +752,6 @@ transcript: >-
   And you can use those to solve</span> <span m='2466000'>circuits like
   this.</span> </p>
 uid: 9470637590ae728e27725adc3377a2ce
-type: courses
+type: course
 layout: video
 ---

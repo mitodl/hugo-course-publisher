@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Velocity and Acceleration'
 transcript: ''
 uid: dfc8a015d4cda529e52b8ce06280555f
-type: courses
+type: course
 layout: video
 ---

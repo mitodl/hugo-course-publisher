@@ -131,6 +131,6 @@ transcript: >-
   event.</span></p><p><span m="271820">You can now pause and try to solve a
   problem</span> <span m="275065">of a similar kind.</span></p><p>&nbsp;</p>
 uid: 01e063be5caf2e876d7844cfeea3fa66
-type: courses
+type: course
 layout: video
 ---

@@ -808,6 +808,6 @@ transcript: >-
   <span m='924090'>function.</span> <span m='925970'>Thank</span> <span
   m='926220'>you.</span> </p>
 uid: ea9cd9d847f32135964db9d31c7cd39b
-type: courses
+type: course
 layout: video
 ---

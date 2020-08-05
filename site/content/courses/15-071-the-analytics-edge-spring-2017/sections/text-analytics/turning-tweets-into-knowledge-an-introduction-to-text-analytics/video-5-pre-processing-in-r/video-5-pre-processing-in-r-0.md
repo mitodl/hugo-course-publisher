@@ -506,6 +506,6 @@ transcript: >-
   m='476710'>for</span> <span m='477160'>our</span> <span
   m='477610'>prediction</span> <span m='478060'>problem.</span> </p>
 uid: 27420fff8abacd00e9e0b59405fc71cc
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: '12.001 Introduction to Geology, Information about Metamorphic Rocks'
 description: This file contains information regarding information about metamorphic rocks.
-type: courses
+type: course
 layout: pdf
 uid: f3aeda08f561ec57e3d95aba7bd021d2
 file_type: application/pdf

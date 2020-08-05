@@ -1,7 +1,7 @@
 ---
 title: summary_w13d1.pdf
 description: 'This resource is about Maxwell?s Equations, EM Radiation & Energy Flow.'
-type: courses
+type: course
 layout: pdf
 uid: 990c4f78f4ec95f77b37dfd1101d2864
 file_type: application/pdf

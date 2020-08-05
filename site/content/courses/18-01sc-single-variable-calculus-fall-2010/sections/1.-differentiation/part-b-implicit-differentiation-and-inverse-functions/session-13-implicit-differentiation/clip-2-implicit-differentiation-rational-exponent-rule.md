@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Implicit Differentiation: Rational Exponent Rule'
 transcript: ''
 uid: c22bb9f38d53bfa31de429a979f83b22
-type: courses
+type: course
 layout: video
 ---

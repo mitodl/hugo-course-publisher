@@ -554,6 +554,6 @@ transcript: >-
   m='469855'>an</span> <span m='470316'>integer</span> <span
   m='470777'>optimization</span> <span m='471238'>model.</span> </p>
 uid: a5473f86598a1d2df4c9d8966f1c024c
-type: courses
+type: course
 layout: video
 ---

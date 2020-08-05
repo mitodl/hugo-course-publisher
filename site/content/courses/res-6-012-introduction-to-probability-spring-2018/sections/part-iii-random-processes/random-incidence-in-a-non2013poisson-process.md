@@ -142,6 +142,6 @@ transcript: >-
   will see next a few examples</span> <span m='272800'>that have this particular
   flavor.</span> </p><p></p>
 uid: a33606587a72d1242a2608fd704da031
-type: courses
+type: course
 layout: video
 ---

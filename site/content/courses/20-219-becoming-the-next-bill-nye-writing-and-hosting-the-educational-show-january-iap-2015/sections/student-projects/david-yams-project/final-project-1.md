@@ -246,6 +246,6 @@ transcript: >-
   m="141810">donning</span> <span m="141990">more</span> <span
   m="142170">jackets.</span></p>
 uid: e20750fcdeb91df05596a4962fafd5bf
-type: courses
+type: course
 layout: video
 ---

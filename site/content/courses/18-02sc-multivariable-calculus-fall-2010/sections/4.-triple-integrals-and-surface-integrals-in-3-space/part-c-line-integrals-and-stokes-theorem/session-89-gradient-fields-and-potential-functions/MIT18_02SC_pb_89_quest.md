@@ -3,7 +3,7 @@ title: '18.02SC Problems : Problems: Gradient Fields and Potential Functions'
 description: >-
   This resource contains information regarding gradient fields and potential
   functions.
-type: courses
+type: course
 layout: pdf
 uid: 38770d105df1b43233eae45992b31d18
 file_type: application/pdf

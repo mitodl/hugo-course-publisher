@@ -1,7 +1,7 @@
 ---
 title: u02_ps06_sol.pdf
 description: Hand written solution of problem U2.
-type: courses
+type: course
 layout: pdf
 uid: 7a3797b1dab833a569fa7e5ac255fe3a
 file_type: application/pdf

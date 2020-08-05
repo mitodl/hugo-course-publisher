@@ -1,7 +1,7 @@
 ---
 title: sysprob11.pdf
 description: This file contains the notes for Flight Readiness Check.
-type: courses
+type: course
 layout: pdf
 uid: 3c337ce2083710f56eb05a282494d81e
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: lec_1_11_concept.pdf
 description: This resource contains concepts questions for the lectures F1 to F11.
-type: courses
+type: course
 layout: pdf
 uid: 5fe1d5080fdfc7a61362e498889356c8
 file_type: application/pdf

@@ -128,6 +128,6 @@ transcript: >-
   analysis lead to</span> <span m="220360">predictions and decisions about the
   real world.</span></p><p>&nbsp;</p>
 uid: f9ad5fc2922e8af9a1c78abab642040a
-type: courses
+type: course
 layout: video
 ---

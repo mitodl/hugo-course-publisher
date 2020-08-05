@@ -573,6 +573,6 @@ transcript: >-
   <span m='643100'>some</span> <span m='643640'>other</span> <span
   m='643910'>fun</span> <span m='644210'>things.</span> </p>
 uid: c4b58182aa91a68e3b3deb6965dbb08f
-type: courses
+type: course
 layout: video
 ---

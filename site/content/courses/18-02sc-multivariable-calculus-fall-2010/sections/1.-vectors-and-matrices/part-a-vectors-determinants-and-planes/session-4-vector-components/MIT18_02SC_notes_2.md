@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_2.pdf
 description: This resource contains information related to components and projection.
-type: courses
+type: course
 layout: pdf
 uid: f1b2876cbb4207c972b90eb04ebc861d
 file_type: application/pdf

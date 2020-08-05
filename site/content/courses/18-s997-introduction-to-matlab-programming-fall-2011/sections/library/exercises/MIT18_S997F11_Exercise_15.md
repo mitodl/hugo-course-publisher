@@ -1,7 +1,7 @@
 ---
 title: '18.S997 Vectorization: Exercise 15'
 description: New file Upload
-type: courses
+type: course
 layout: pdf
 uid: b044d51d73f06653a6200d28be6e571e
 file_type: application/pdf

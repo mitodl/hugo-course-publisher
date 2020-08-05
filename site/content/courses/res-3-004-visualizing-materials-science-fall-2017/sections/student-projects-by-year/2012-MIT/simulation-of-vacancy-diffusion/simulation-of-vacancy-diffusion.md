@@ -672,6 +672,6 @@ transcript: >-
   m='433250'>in</span> <span m='433340'>this</span> <span
   m='433550'>video.</span> </p>
 uid: c13207dfaf415065061040f4926c0247
-type: courses
+type: course
 layout: video
 ---

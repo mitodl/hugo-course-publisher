@@ -1,7 +1,7 @@
 ---
 title: MIT6_00SCS11_ps3.pdf
 description: This resource contains problem set related to debugging.
-type: courses
+type: course
 layout: pdf
 uid: 522fc9779ba7dc734136c457918eec53
 file_type: application/pdf

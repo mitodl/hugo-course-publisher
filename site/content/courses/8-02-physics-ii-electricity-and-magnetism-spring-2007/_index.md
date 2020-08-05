@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 course_title: 'Physics II: Electricity and Magnetism'
 course_image_url: >-

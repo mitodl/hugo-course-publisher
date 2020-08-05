@@ -3,7 +3,7 @@ title: 'Induction: Chapter 5.1 – 5.3'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Induction: Chapter 5.1 – 5.3.
-type: courses
+type: course
 layout: pdf
 uid: 366d7f2c3cbce0dab4fb4389e1822bb9
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: '6.006 Introduction to Algorithms, Problem Set 5 Solutions'
 description: This resource contains information about ps5_sol.
-type: courses
+type: course
 layout: pdf
 uid: 86d0fc7bd86543c73d6158a6711cb216
 file_type: application/pdf

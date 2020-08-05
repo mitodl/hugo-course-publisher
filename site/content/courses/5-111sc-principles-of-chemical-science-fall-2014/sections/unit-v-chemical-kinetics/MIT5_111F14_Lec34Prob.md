@@ -1,7 +1,7 @@
 ---
 title: 'Principles of Chemical Science, Problems for Lecture 34: Kinetics: Catalysts'
 description: This resource contains information regarding lecture 34 problem.
-type: courses
+type: course
 layout: pdf
 uid: 064b8f80b9eb7abed04ca4029152de7e
 file_type: application/pdf

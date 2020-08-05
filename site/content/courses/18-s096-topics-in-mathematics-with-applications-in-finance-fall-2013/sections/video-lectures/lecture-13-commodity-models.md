@@ -4965,6 +4965,6 @@ transcript: >-
   m='4839470'>my</span> <span m='4839610'>ears.</span> <span
   m='4840510'>Thank</span> <span m='4840810'>you.</span> </p>
 uid: cc7d2d2678ae4c71b5533a30d0b0682a
-type: courses
+type: course
 layout: video
 ---

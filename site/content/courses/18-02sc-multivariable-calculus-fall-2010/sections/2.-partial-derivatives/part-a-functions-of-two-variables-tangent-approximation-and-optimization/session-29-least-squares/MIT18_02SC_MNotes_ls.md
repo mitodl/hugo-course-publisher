@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_ls.pdf
 description: This resource contains information related to least-squares interpolation.
-type: courses
+type: course
 layout: pdf
 uid: 788bdb0fcf07fedd1ffe484820d0226a
 file_type: application/pdf

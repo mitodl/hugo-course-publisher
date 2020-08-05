@@ -1,7 +1,7 @@
 ---
 title: summary_w01d1.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 0bcac6d3d5b76d6793626daf35fedf5c
 file_type: application/pdf

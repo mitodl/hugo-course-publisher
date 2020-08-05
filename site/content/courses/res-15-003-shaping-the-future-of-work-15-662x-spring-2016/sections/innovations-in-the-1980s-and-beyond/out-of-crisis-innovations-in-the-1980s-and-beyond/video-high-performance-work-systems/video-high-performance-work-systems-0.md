@@ -568,6 +568,6 @@ transcript: >-
   m='441890'>norm</span> <span m='442500'>across</span> <span
   m='443210'>American</span> <span m='443720'>industry.</span> </p>
 uid: f6cc603f0e59148126f0a21aa9c33f43
-type: courses
+type: course
 layout: video
 ---

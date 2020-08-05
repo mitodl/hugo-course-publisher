@@ -3,7 +3,7 @@ title: 'Proof Methods: Proof by Contradiction'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 225bca8119fe866cc6ebf7312b02526a
 file_type: application/pdf

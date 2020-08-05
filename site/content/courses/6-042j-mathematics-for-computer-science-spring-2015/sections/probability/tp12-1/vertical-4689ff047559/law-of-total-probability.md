@@ -330,6 +330,6 @@ transcript: >-
   m='209220'>are</span> <span m='210290'>maybe</span> <span
   m='210600'>unreliable.</span> </p>
 uid: da6ed442f72d249131515d52865e0e48
-type: courses
+type: course
 layout: video
 ---

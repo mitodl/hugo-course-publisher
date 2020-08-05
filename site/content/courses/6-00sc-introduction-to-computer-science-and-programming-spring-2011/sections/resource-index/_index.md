@@ -1,15 +1,13 @@
 ---
 title: Resource Index
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: aa132f80df80dcc2e3500e9e999a3c25
-    type: section
-    layout: section
     name: Resource Index
     weight: 360
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/final-exam/_index.md" %}})
 

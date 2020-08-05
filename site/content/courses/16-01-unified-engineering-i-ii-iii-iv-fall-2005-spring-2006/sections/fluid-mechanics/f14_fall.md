@@ -3,7 +3,7 @@ title: f14_fall.pdf
 description: >-
   This resource contains infromation on the topic of Incompressible and
   Irrotational Flows.
-type: courses
+type: course
 layout: pdf
 uid: a3759b2b2de0c983ea8378dbaf396057
 file_type: application/pdf

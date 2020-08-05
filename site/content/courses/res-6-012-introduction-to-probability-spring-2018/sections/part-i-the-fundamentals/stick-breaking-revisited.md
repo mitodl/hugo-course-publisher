@@ -125,6 +125,6 @@ transcript: >-
   <span m='227730'>is carried out and the specific value of</span> <span
   m='229980'>capital Y is realized.</span> </p><p></p>
 uid: 1367479e9a324f942f348b9a5f2f09e9
-type: courses
+type: course
 layout: video
 ---

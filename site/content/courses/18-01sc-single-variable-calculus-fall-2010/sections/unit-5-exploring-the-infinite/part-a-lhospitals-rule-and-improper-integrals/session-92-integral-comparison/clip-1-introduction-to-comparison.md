@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Introduction to Comparison'
 transcript: ''
 uid: f681fdfd5e37a1ae917c7ba2aaa432ec
-type: courses
+type: course
 layout: video
 ---

@@ -1,11 +1,11 @@
 ---
 title: Reading Questions - R Intro
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
+type: course
+layout: course_section
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: 6bf958156f9365184810f71b343ad1a3
-    type: section
-    layout: section
     name: Reading Questions - R Intro
     weight: 220
     parent: 579c055accb4eb7ebb6bf294146b45a5

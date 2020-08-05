@@ -1,7 +1,7 @@
 ---
 title: Problem Set 2B
 description: Problem set on single variable calculus.
-type: courses
+type: course
 layout: pdf
 uid: 468108e2f758e1d415c6493e485d6478
 file_type: application/pdf

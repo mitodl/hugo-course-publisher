@@ -5038,6 +5038,6 @@ transcript: >-
   m="4850520">you</span> <span m="4850690">go</span> <span
   m="4850850">guys.</span> <span m="4851870">Woah.</span></p>
 uid: 3d7b84c968547fd60ae2be3b9e1e2a77
-type: courses
+type: course
 layout: video
 ---

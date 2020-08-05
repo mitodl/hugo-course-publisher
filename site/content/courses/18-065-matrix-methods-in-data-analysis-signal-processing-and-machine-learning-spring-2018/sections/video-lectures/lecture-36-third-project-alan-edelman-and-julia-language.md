@@ -3257,6 +3257,6 @@ transcript: >-
   m='2285580'>all.</span> <span m='2286020'>You're right.</span> <span
   m='2286510'>Thanks.</span> </p><p><span m='2287110'>[APPLAUSE]</span> </p>
 uid: a6cd4ecd57886f69ecd290e51701054a
-type: courses
+type: course
 layout: video
 ---

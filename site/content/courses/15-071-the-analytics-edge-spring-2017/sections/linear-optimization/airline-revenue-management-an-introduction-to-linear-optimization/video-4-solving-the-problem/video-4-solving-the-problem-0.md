@@ -502,6 +502,6 @@ transcript: >-
   m='397765'>solve</span> <span m='398136'>it</span> <span m='398507'>in</span>
   <span m='398878'>LibreOffice.</span> </p>
 uid: 2aee3adb31182d753b1a8145cc77261a
-type: courses
+type: course
 layout: video
 ---

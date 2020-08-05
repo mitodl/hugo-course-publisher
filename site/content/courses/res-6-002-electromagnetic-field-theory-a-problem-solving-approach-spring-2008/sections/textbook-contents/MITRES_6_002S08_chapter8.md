@@ -3,7 +3,7 @@ title: >-
   Electromagnetic Field Theory - A Problem-Solving Approach – Chapter 8: Guided
   Electromagnetic Waves
 description: null
-type: courses
+type: course
 layout: pdf
 uid: bf398fbfc5f77df7e0f14d42b6797e25
 file_type: application/pdf

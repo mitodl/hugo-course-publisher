@@ -1480,6 +1480,6 @@ transcript: >-
   m="1263970">much.</span></p><p><span m="1264560">Thank</span> <span
   m="1264750">you,</span> <span m="1264850">Tom.</span></p>
 uid: a84bdbd2c38f8a224a2de68604233581
-type: courses
+type: course
 layout: video
 ---

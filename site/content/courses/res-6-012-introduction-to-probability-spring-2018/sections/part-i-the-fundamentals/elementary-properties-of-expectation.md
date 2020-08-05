@@ -132,6 +132,6 @@ transcript: >-
   equal to c, then on the</span> <span m="228540">average, it will also be equal
   to c.</span></p><p>&nbsp;</p>
 uid: 128dd7e087c7e91ae5c7dad936b59367
-type: courses
+type: course
 layout: video
 ---

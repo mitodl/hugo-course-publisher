@@ -1,7 +1,7 @@
 ---
 title: experiment5.pdf
 description: This resource contains an experiment on Faraday's law.
-type: courses
+type: course
 layout: pdf
 uid: a4cb17d792e60dae1cac0167fd84366b
 file_type: application/pdf

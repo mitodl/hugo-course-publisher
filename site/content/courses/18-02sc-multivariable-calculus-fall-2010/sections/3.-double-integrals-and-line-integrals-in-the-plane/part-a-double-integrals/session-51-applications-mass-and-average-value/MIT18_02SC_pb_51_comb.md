@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Problems: Mass and Average Value'
 description: This resource contains information regarding mass and average value.
-type: courses
+type: course
 layout: pdf
 uid: a3624e55552a4466762328f8af153133
 file_type: application/pdf

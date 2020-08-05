@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 17: Polarization, Polarizer'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
+type: course
+layout: videogallery
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 4fe00c6712412ec83b0f40f5818b9a6d
-    type: section
-    layout: section
     name: 'Lecture 17: Polarization, Polarizer'
     weight: 230
     parent: 562065223db4e5d13c0186ef14e4db6a
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2/_index.md" %}}) »
 

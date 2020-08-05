@@ -1,7 +1,7 @@
 ---
 title: zm4notes.pdf
 description: This resource based on lecture notes.
-type: courses
+type: course
 layout: pdf
 uid: 207bd6f45abb742bd4f557a3900fc89e
 file_type: application/pdf

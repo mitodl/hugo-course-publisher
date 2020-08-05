@@ -523,6 +523,6 @@ transcript: >-
   m='390380'>today</span> <span m='391320'>and</span> <span
   m='391690'>tomorrow.</span> </p>
 uid: 8f3befac553c5c90eb833f48da79ecf4
-type: courses
+type: course
 layout: video
 ---

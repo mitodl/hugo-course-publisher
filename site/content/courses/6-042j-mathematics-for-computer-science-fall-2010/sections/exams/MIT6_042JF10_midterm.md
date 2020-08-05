@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_midterm.pdf
 description: 'This resource contains midterm exam. '
-type: courses
+type: course
 layout: pdf
 uid: 4ee24d59458be01224204a330cff7eca
 file_type: application/pdf

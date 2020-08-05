@@ -3461,6 +3461,6 @@ transcript: >-
   m='2702230'>good</span> <span m='2702370'>or</span> <span
   m='2702420'>bad.</span> </p>
 uid: 2c22132bc753c8be07662713c55a3e7e
-type: courses
+type: course
 layout: video
 ---

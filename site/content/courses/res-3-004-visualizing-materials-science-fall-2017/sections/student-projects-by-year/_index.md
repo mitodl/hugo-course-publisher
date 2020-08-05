@@ -1,11 +1,11 @@
 ---
 title: Student Projects by Year
 course_id: res-3-004-visualizing-materials-science-fall-2017
+type: course
+layout: course_section
 menu:
   res-3-004-visualizing-materials-science-fall-2017:
     identifier: 912fc0849e832bfd38afdf58a71a8917
-    type: section
-    layout: section
     name: Student Projects by Year
     weight: 20
 ---

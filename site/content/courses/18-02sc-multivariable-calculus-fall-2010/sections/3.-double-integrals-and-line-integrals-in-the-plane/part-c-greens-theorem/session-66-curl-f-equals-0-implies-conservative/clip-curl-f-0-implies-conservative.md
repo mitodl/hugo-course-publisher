@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip: Curl(F)=0 Implies Conservative'
 transcript: ''
 uid: 5a3e0cf687db49b3c4c16b219c627ea0
-type: courses
+type: course
 layout: video
 ---

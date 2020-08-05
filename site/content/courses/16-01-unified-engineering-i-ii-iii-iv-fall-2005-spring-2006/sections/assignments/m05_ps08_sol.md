@@ -3,7 +3,7 @@ title: m05_ps08_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on 2-D
   planar truss.
-type: courses
+type: course
 layout: pdf
 uid: 386f8de42e07a1661ffc7d48da61490b
 file_type: application/pdf

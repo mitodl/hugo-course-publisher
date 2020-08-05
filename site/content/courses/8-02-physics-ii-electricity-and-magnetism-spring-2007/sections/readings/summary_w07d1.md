@@ -3,7 +3,7 @@ title: summary_w07d1.pdf
 description: >-
   This talks about magnetic dipole moment, right hand rule for direction of
   dipole moment, and forces on magnetic dipole moments.
-type: courses
+type: course
 layout: pdf
 uid: a29d8366aa7601bf44b56ead49a1754d
 file_type: application/pdf

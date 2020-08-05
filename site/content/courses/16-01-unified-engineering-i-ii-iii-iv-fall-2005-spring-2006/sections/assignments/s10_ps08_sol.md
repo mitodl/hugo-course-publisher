@@ -3,7 +3,7 @@ title: s10_ps08_sol.pdf
 description: >-
   Solutions to problem set S10 involving Impedance Methods, The Concept of
   "State", State Equations.
-type: courses
+type: course
 layout: pdf
 uid: 807513facca08662581648483deff941
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 34: Indeterminate Forms- L''Hôspital''s Rule'
 description: Lecture notes on indeterminate forms and L'Hôspital's rule.
-type: courses
+type: course
 layout: pdf
 uid: fa89a691b7182cbd44829cd38ecf2693
 file_type: application/pdf

@@ -4015,6 +4015,6 @@ transcript: >-
   m='3021390'>to</span> <span m='3021470'>this</span> <span
   m='3021620'>next</span> <span m='3021870'>time.</span> </p>
 uid: a3ad36216f0c0609980163598058f10a
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_15_quest.pdf
 description: >-
   This resource contains problem statements related to linear systems and
   planes.
-type: courses
+type: course
 layout: pdf
 uid: ddfe0f37c5a9019d63e4548de992d120
 file_type: application/pdf

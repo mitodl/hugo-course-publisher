@@ -3,7 +3,7 @@ title: 5.111 F14 Exam 3
 description: >-
   This resource contains information regarding principles of chemical science:
   Exam 3.
-type: courses
+type: course
 layout: pdf
 uid: 0d8b01b9fb7a3f651d7a905079666c68
 file_type: application/pdf

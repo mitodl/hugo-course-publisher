@@ -826,6 +826,6 @@ transcript: >-
   m='656220'>in</span> <span m='656370'>the</span> <span m='656450'>whole</span>
   <span m='656700'>story.</span> </p>
 uid: 54620f4e8b011bca68c1a428872e823a
-type: courses
+type: course
 layout: video
 ---

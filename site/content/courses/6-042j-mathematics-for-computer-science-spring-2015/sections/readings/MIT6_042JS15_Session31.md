@@ -3,7 +3,7 @@ title: 'Random Variables, Density Functions: Chapter 18.1 – 18.3'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Random variables, density functions: Chapter 18.1 – 18.3.
-type: courses
+type: course
 layout: pdf
 uid: 32f3ba52f980a7b2ca451c9eef93a090
 file_type: application/pdf

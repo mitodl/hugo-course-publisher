@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex98prb.pdf
 description: This resource contains problem statements related to Taylor's series.
-type: courses
+type: course
 layout: pdf
 uid: ead3fb58ee68fcf2feb7df2e52d2b702
 file_type: application/pdf

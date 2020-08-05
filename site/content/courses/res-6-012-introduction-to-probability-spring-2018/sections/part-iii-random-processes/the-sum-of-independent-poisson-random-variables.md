@@ -125,6 +125,6 @@ transcript: >-
   </p><p><span m='236250'>This is a property that most other distributions do
   not</span> <span m='240100'>have, with very few exceptions.</span> </p>
 uid: 152257699cec59e82dea883d1e9da6dd
-type: courses
+type: course
 layout: video
 ---

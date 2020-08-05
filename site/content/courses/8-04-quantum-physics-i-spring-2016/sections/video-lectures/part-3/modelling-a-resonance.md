@@ -672,6 +672,6 @@ transcript: >-
   m='924240'>width</span> <span m='929440'>of</span> <span m='930340'>the</span>
   <span m='930640'>distribution.</span> </p>
 uid: 5cd1191589f20ad19efe0a4b0fb5ad5a
-type: courses
+type: course
 layout: video
 ---

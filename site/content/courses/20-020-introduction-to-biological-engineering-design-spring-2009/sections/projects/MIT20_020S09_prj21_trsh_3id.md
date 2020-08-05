@@ -3,7 +3,7 @@ title: MIT20_020S09_prj21_trsh_3id.pdf
 description: >-
   This file includes material on problems with trash, and overview and goals for
   sub-topics. 
-type: courses
+type: course
 layout: pdf
 uid: 056269c290a1c5b594aeedb508dd7c1b
 file_type: application/pdf

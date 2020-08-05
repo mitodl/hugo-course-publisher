@@ -1,7 +1,7 @@
 ---
 title: fall_2003_pset1.pdf
 description: This resource contains a problem on unified thermodynamics.
-type: courses
+type: course
 layout: pdf
 uid: 311193eed160a0a689762759d9ae93b2
 file_type: application/pdf

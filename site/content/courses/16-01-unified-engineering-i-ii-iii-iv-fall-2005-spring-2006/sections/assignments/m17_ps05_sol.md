@@ -3,7 +3,7 @@ title: m17_ps05_sol.pdf
 description: >-
   This resource contains solutions to problem set on the Von Mises Yield
   criterion for calulating the thickness of the wing skin.
-type: courses
+type: course
 layout: pdf
 uid: 3482ac0163f3ac323483a39e5a414671
 file_type: application/pdf

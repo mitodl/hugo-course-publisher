@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_exam3sol.pdf
 description: This resource contains information related to parametrization of the circle.
-type: courses
+type: course
 layout: pdf
 uid: 5028c6e086e53bc7ec534ff874b45cd2
 file_type: application/pdf

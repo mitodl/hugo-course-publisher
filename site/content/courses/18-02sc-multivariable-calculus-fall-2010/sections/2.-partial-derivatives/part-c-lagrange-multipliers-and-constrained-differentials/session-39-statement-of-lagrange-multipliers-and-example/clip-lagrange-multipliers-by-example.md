@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Lagrange Multipliers by Example'
 transcript: ''
 uid: d165400046a9a04ce848e9045dec4876
-type: courses
+type: course
 layout: video
 ---

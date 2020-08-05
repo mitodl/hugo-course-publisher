@@ -384,6 +384,6 @@ transcript: >-
   m='394900'>That's</span> <span m='395230'>the</span> <span
   m='395340'>trapezoid</span> <span m='396090'>method.</span> </p>
 uid: 7a5175179b1793f77c478bf3a70f0256
-type: courses
+type: course
 layout: video
 ---

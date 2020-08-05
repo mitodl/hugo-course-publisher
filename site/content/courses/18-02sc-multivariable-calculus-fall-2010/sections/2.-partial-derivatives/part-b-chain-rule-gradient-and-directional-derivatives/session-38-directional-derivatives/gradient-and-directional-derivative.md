@@ -928,6 +928,6 @@ transcript: >-
   m='810920'>So</span> <span m='811250'>I'll</span> <span m='811460'>end</span>
   <span m='811730'>there.</span> </p>
 uid: 54d78b3747b27d8b481e220220bcd068
-type: courses
+type: course
 layout: video
 ---

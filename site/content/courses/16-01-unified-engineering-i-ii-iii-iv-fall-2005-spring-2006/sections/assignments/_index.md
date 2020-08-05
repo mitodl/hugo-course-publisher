@@ -1,11 +1,11 @@
 ---
 title: Assignments
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
+type: course
+layout: course_section
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
     identifier: a6eb21516f41806d94ffdc83eb5f4337
-    type: section
-    layout: section
     name: Assignments
     weight: 30
 ---

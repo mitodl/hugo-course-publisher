@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang_5154.pdf
 description: New file Uplaod
-type: courses
+type: course
 layout: pdf
 uid: d59a45c467655a76375c3184fe4c2c4c
 file_type: application/pdf

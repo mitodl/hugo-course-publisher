@@ -1,7 +1,7 @@
 ---
 title: 'Session 68: Planimeter: Green''s Theorem and Area'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-type: courses
+type: course
 layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-67-proof-of-greens-theorem/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-69-flux-in-2d/_index.md" %}}) »

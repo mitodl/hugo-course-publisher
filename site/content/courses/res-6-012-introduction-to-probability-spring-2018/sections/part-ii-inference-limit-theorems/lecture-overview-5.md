@@ -93,6 +93,6 @@ transcript: >-
   m='104520'>conclusions that we had gotten before based on the Chebyshev</span>
   <span m='108050'>inequality.</span> </p><p></p>
 uid: 8df7df3d73f311386b79a16ed5964a4f
-type: courses
+type: course
 layout: video
 ---

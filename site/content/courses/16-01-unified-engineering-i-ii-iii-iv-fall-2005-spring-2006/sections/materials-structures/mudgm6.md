@@ -3,7 +3,7 @@ title: mudgm6.pdf
 description: >-
   This resource contains review questions and answers based on obtaining key
   equations for moment-curvature, moment-stress, and sheer force-sheer stress.
-type: courses
+type: course
 layout: pdf
 uid: 03886ba41c5f90f1f60aad4de11e83fb
 file_type: application/pdf

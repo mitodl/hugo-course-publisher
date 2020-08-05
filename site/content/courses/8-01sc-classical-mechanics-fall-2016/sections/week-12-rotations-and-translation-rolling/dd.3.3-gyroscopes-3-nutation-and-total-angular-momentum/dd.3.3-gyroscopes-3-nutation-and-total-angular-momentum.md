@@ -256,6 +256,6 @@ transcript: >-
   little omega is very</span> <span m='797410'>large compared to big
   omega.</span> </p>
 uid: a3a3c3d0f93a4c717eb0730724334e15
-type: courses
+type: course
 layout: video
 ---

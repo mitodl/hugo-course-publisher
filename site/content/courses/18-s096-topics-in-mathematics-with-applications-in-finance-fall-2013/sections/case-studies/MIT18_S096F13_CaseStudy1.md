@@ -1,7 +1,7 @@
 ---
 title: 'Case Study 1: Linear Regression Models for Asset Pricing'
 description: This file contains information regarding case studies 1.
-type: courses
+type: course
 layout: pdf
 uid: 0bdbe269aa9dfcdc38aa22cb1536e359
 file_type: application/pdf

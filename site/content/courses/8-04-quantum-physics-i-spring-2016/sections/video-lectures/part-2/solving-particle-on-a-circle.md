@@ -504,6 +504,6 @@ transcript: >-
   we</span> <span m='663090'>normalize</span> <span m='663390'>this</span> <span
   m='663690'>wave</span> <span m='663990'>function.</span> </p>
 uid: 92fc36f4a1975676821b9caaf4a773d6
-type: courses
+type: course
 layout: video
 ---

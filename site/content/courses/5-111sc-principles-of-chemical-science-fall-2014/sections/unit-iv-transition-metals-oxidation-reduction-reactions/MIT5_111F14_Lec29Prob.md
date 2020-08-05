@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 29: Transition Metals:
   Crystal Field Theory Part II
 description: This resource contains information regarding lecture 29 problem.
-type: courses
+type: course
 layout: pdf
 uid: 5c6fcbd8de2a8ac7059a514d43c2f142
 file_type: application/pdf

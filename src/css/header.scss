@@ -1,6 +1,4 @@
 #desktop-header {
-  background-color: white;
-  border-bottom: 1px solid $border-dark-color;
   height: 88px;
 
   @include media-breakpoint-down(md) {

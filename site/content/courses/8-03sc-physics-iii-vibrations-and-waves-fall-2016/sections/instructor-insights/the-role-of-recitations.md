@@ -143,6 +143,6 @@ transcript: >-
   m='100870'>done</span> <span m='101470'>during</span> <span
   m='102100'>the</span> <span m='102250'>semester.</span> </p>
 uid: dc93f2532aebfe3bc9fd04a5e7181191
-type: courses
+type: course
 layout: video
 ---

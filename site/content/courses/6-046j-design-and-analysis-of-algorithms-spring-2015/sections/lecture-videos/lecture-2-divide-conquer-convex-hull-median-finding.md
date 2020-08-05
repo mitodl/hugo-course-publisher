@@ -1095,6 +1095,6 @@ transcript: >-
   linear time. And you'll see that in section tomorrow. So this whole</span>
   <span m='4828070'>thing is theta n time. See you next time.</span> </p>
 uid: 474792fc830ea3c02d11673904612c16
-type: courses
+type: course
 layout: video
 ---

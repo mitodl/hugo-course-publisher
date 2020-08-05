@@ -3,7 +3,7 @@ title: 'Reading 5d: Manipulating Continuous Random Variables'
 description: >-
   This is a resource file that contains information regarding reading 5d:
   manipulating continuous random variables.
-type: courses
+type: course
 layout: pdf
 uid: 7e4eea65f1b59f1b371c564b5a947501
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 0_unified_tut_jk.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 95a3c6e284f6cff6fbbcbfe0270d12b1
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: summary_w11d2.pdf
 description: >-
   This resource is a continuation of our investigation on LRC circuits adding a
   new circuit element ? the AC power supply.
-type: courses
+type: course
 layout: pdf
 uid: 8e2274e9a34bd28ae132d9d80ab75738
 file_type: application/pdf

@@ -4857,6 +4857,6 @@ transcript: >-
   m="4849420">it.</span> <span m="4849720">It's a cool</span> <span
   m="4850020">algorithm.</span></p>
 uid: ca589b3282601ed3431f87f715da272a
-type: courses
+type: course
 layout: video
 ---

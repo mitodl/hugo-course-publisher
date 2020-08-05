@@ -393,6 +393,6 @@ transcript: >-
   m='267005'>predicted</span> <span m='267543'>a</span> <span
   m='268082'>Republican</span> <span m='268621'>winner.</span> </p>
 uid: 703f343ce72de214b2d4945ac8d29d50
-type: courses
+type: course
 layout: video
 ---

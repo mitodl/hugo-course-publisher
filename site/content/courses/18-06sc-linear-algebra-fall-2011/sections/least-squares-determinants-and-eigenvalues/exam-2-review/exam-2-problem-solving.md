@@ -1002,6 +1002,6 @@ transcript: >-
   m='1069240'>thank</span> <span m='1069440'>you</span> <span
   m='1069530'>for</span> <span m='1069660'>watching.</span> </p>
 uid: cc826f0d28ea422cb1653b59125aef93
-type: courses
+type: course
 layout: video
 ---

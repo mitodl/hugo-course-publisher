@@ -1,7 +1,7 @@
 ---
 title: 5_ada_acc_tyoes.pdf
 description: Lecture 5 (2004) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 391a7dbd25b2bb5c8c1dff3ae9332459
 file_type: application/pdf

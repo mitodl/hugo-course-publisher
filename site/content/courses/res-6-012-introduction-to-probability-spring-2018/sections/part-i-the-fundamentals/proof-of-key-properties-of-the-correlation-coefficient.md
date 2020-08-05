@@ -122,6 +122,6 @@ transcript: >-
   <span m='227620'>extreme form of dependence between</span> <span
   m='229579'>the two random variables.</span> </p><p></p>
 uid: c8e02a7c002bec05c61a581919e8d249
-type: courses
+type: course
 layout: video
 ---

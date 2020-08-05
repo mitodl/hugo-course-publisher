@@ -922,6 +922,6 @@ transcript: >-
   m='1083000'>that</span> <span m='1083180'>we</span> <span
   m='1083300'>found</span> <span m='1083630'>before.</span> </p>
 uid: 622b68a97ec6c8bcc995a37411e3ab27
-type: courses
+type: course
 layout: video
 ---

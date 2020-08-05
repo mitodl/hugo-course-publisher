@@ -309,6 +309,6 @@ transcript: >-
   m='241940'>I'll</span> <span m='242160'>end</span> <span
   m='242360'>there.</span> </p>
 uid: 3a6a551c5206fe9af8ed336592dd7906
-type: courses
+type: course
 layout: video
 ---

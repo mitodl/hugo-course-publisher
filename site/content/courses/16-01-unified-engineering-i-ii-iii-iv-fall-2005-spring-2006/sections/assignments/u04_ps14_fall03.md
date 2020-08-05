@@ -1,7 +1,7 @@
 ---
 title: u04_ps14_fall03.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 93ca85f4e82cc3a47bd01ad46b308a8e
 file_type: application/pdf

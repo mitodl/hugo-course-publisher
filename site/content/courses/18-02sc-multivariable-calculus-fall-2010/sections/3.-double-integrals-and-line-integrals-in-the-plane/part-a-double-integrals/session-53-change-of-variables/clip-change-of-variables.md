@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip: Change of Variables'
 transcript: ''
 uid: 18ee5569af2b5330294df97a03e1efe9
-type: courses
+type: course
 layout: video
 ---

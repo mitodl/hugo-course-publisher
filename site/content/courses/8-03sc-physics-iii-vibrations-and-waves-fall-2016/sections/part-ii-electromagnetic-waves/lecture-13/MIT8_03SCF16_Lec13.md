@@ -3,7 +3,7 @@ title: >-
   MIT 8.03SC Fall 2016 Lecture 13: Dispersive Medium, Phase Velocity, Group
   Velocity
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 432d23acf0bce355921a8b9a4eefb0b6
 file_type: application/pdf

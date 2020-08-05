@@ -1,16 +1,14 @@
 ---
 title: The Geometry of Linear Equations
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: ee8864032dd829b483a2ae7dfeb2da55
-    type: section
-    layout: section
     name: The Geometry of Linear Equations
     weight: 40
     parent: 34303ce19b45724122d2bd33d64df688
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/an-overview-of-key-ideas/_index.md" %}}) »
 

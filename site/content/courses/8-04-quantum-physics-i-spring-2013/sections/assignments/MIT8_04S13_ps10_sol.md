@@ -3,7 +3,7 @@ title: '8.04 Spring 2013, Problem Set 10 Solution'
 description: >-
   This is a resource file that contains information regarding problem set 10
   solution.
-type: courses
+type: course
 layout: pdf
 uid: 6dfe788240d812c1e60ec42b7547006b
 file_type: application/pdf

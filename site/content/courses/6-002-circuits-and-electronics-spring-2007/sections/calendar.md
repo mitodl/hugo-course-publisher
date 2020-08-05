@@ -1,11 +1,11 @@
 ---
 title: Calendar
 course_id: 6-002-circuits-and-electronics-spring-2007
+type: course
+layout: course_section
 menu:
   6-002-circuits-and-electronics-spring-2007:
     identifier: 00ece47db258a468e01fc481743295a3
-    type: section
-    layout: section
     name: Calendar
     weight: 20
 ---

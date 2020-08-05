@@ -3252,6 +3252,6 @@ transcript: >-
   <span m='3199600'>that</span> <span m='3199750'>gentleman</span> <span
   m='3200100'>a cushion.</span> </p>
 uid: c9d029dc32fdd36dfd22fdf26e2f990a
-type: courses
+type: course
 layout: video
 ---

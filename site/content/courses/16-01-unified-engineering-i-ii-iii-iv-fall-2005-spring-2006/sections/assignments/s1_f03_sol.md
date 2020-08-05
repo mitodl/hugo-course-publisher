@@ -3,7 +3,7 @@ title: s1_f03_sol.pdf
 description: >-
   This file contains problems on elimination of variables, Gaussian reduction,
   and Cramer's rule.
-type: courses
+type: course
 layout: pdf
 uid: 8c757f8739c15c03b088a2c09d46d8c9
 file_type: application/pdf

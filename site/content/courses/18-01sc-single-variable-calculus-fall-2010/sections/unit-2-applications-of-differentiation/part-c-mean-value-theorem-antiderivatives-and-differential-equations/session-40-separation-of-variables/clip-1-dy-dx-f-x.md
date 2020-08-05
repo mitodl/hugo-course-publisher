@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: dy/dx=f(x)'
 transcript: ''
 uid: f0cfecc40ef604cc1a66f6f6a2940c7c
-type: courses
+type: course
 layout: video
 ---

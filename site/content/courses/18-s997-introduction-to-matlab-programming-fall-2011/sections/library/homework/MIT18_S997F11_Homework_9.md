@@ -1,7 +1,7 @@
 ---
 title: '18.S997 Conway Game: Homework 9'
 description: This resource contains information regarding homework 9.
-type: courses
+type: course
 layout: pdf
 uid: d3829302dd6158965702cf151f73e916
 file_type: application/pdf

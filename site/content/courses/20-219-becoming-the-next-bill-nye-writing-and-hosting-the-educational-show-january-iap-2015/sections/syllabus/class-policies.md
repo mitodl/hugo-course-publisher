@@ -2,11 +2,11 @@
 title: Class Policies
 course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
+type: course
+layout: course_section
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
     identifier: 762628fe626bdca99e464c51f60992c0
-    type: section
-    layout: section
     name: Class Policies
     weight: 50
     parent: 203eeb3a4839933a901cefa7c34f24d7

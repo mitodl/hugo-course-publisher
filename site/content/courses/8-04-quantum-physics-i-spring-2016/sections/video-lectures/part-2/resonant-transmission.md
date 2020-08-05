@@ -770,6 +770,6 @@ transcript: >-
   m='1067530'>show</span> <span m='1067920'>how</span> <span
   m='1068220'>that</span> <span m='1068460'>works.</span> </p>
 uid: 8175f23ecc6a52533ab810865a74cd39
-type: courses
+type: course
 layout: video
 ---

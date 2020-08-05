@@ -1,7 +1,7 @@
 ---
 title: 'Trees: Trees'
 description: This file contains information regarding trees.
-type: courses
+type: course
 layout: pdf
 uid: 22552386852573bb6cbb940ad1b16e01
 file_type: application/pdf

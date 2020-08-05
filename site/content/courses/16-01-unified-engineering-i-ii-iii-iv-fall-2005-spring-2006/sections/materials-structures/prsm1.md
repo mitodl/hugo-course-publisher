@@ -3,7 +3,7 @@ title: prsm1.pdf
 description: >-
   This resource contains concept questions and answers based on cross section
   and modulus.
-type: courses
+type: course
 layout: pdf
 uid: 2356e487625e0eb7dbacf1f698c471d3
 file_type: application/pdf

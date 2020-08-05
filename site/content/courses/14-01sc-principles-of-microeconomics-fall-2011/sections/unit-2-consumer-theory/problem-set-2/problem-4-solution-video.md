@@ -1071,6 +1071,6 @@ transcript: >-
   m='1036079'>affect their</span> <span m='1036530'>utility</span> <span
   m='1037020'>levels.</span> </p>
 uid: 878e0296b922ddd51aca0687f90d081e
-type: courses
+type: course
 layout: video
 ---

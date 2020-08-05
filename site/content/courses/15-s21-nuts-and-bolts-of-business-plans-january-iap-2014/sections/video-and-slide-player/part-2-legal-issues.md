@@ -646,6 +646,6 @@ technical_location: >-
 title: 'Session 4, Part 2: Legal Issues'
 transcript: ''
 uid: b2833794ab32eafe809f9135a2310f2d
-type: courses
+type: course
 layout: video
 ---

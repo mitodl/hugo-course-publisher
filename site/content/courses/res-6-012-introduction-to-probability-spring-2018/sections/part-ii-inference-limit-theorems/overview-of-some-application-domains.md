@@ -155,6 +155,6 @@ transcript: >-
   to be the same independent</span> <span m='313790'>of the particular
   application.</span> </p><p></p>
 uid: 66f2a1bf71ca4b7b047c1560a32a87a8
-type: courses
+type: course
 layout: video
 ---

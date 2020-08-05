@@ -3,7 +3,7 @@ title: 'Class 26 Solutions File: Review for final exam'
 description: >-
   This is a resource file that contains information regarding class 26
   solutions.
-type: courses
+type: course
 layout: pdf
 uid: 96eac0bd06d66e3d2e3ae26d2e3fe37f
 file_type: application/pdf

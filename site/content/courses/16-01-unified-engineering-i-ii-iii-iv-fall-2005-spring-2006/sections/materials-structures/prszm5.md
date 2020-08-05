@@ -1,7 +1,7 @@
 ---
 title: prszm5.pdf
 description: This resource based on concept questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: 87cf3cfe7d95739f3414b0f7398da53c
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 6.00SC Quiz 1 Solutions
 description: 'This resource contains information about quiz 1 solutions. '
-type: courses
+type: course
 layout: pdf
 uid: 27dd69776df59f6c8b30cfed5ae059cb
 file_type: application/pdf

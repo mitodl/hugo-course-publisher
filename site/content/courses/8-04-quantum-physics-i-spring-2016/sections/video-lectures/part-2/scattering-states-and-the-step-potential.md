@@ -580,6 +580,6 @@ transcript: >-
   m='633200'>develop</span> <span m='633650'>next</span> <span
   m='633950'>time.</span> </p>
 uid: 586beeca40724dc3bbcbfb95b1a43123
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Session 5 Slides: Working with Private Partners - RES.15-002 - Summer 2016'
 description: Slide deck for session 5.
-type: courses
+type: course
 layout: pdf
 uid: 4625a14d141b9105e078e820bbaf2269
 file_type: application/pdf

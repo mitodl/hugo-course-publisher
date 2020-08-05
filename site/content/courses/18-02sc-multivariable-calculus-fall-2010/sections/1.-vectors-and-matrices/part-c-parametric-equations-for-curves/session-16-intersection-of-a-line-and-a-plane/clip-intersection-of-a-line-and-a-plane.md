@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Intersection of a Line and a Plane'
 transcript: ''
 uid: a5b5f4dc5240712f52356acdeb44c6cd
-type: courses
+type: course
 layout: video
 ---

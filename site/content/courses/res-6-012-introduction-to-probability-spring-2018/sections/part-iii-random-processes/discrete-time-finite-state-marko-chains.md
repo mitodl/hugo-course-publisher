@@ -180,6 +180,6 @@ transcript: >-
   gets the required intuition to do this properly.</span></p><p><span
   m="470250">You will be able to do so in that class.</span></p>
 uid: da44d4be0aa2a5c6f975436e67fd05f0
-type: courses
+type: course
 layout: video
 ---

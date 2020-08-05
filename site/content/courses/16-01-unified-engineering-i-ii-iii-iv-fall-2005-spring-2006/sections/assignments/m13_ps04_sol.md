@@ -3,7 +3,7 @@ title: m13_ps04_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on
   possibility of buckling.
-type: courses
+type: course
 layout: pdf
 uid: 1c954ba49f1ad1febdf41726f2a64325
 file_type: application/pdf

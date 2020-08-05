@@ -3,7 +3,7 @@ title: mudzm20.pdf
 description: >-
   This resource contains review questions and answers based on uniaxial stress
   and strain, isotropic material, transverse isotropic, crystallography.
-type: courses
+type: course
 layout: pdf
 uid: d6df996d78071ae51ff72f6075abc194
 file_type: application/pdf

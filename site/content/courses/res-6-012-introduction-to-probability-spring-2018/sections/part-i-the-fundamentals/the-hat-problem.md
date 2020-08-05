@@ -302,6 +302,6 @@ transcript: >-
   <span m="964550">to problems that would have been</span> <span
   m="966110">otherwise quite difficult.</span></p><p>&nbsp;</p>
 uid: d9ed8ca5415f215ef91ddf549edf0052
-type: courses
+type: course
 layout: video
 ---

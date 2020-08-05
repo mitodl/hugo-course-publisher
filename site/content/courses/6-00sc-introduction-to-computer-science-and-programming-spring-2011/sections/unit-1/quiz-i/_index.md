@@ -1,11 +1,11 @@
 ---
 title: Quiz 1
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: course_section
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: f47a2aadb696870fd73f2911223c7ebf
-    type: section
-    layout: section
     name: Quiz 1
     weight: 140
     parent: 975ad7bfdd9c4ffe26b6710fa718d5e6

@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_8_quest.pdf
 description: This resource contains the problems related to the cross product.
-type: courses
+type: course
 layout: pdf
 uid: a8a98ad00bcf87408c1971f9ba2b2a5e
 file_type: application/pdf

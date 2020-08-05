@@ -4794,6 +4794,6 @@ transcript: >-
   m='4658560'>See</span> <span m='4658950'>you</span> <span
   m='4659160'>next</span> <span m='4659400'>week.</span> </p>
 uid: cdf85d48b6247cbff0e731844ce445e8
-type: courses
+type: course
 layout: video
 ---

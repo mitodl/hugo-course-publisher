@@ -3,7 +3,7 @@ title: 'Lecture 22 handout: Using Graphs to Model Problems, Part 2'
 description: >-
   This resource contains information related to using graphs to model problems,
   part 2.
-type: courses
+type: course
 layout: pdf
 uid: e8d25aca033099097b9e71b5a63bb4e1
 file_type: application/pdf

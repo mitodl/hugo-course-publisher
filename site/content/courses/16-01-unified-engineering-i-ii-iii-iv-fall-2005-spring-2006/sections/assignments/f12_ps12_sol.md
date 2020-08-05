@@ -3,7 +3,7 @@ title: f12_ps12_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on flows
   and velocity fields.
-type: courses
+type: course
 layout: pdf
 uid: e0fd19c3630bf9507bdbfbbb0ab7242e
 file_type: application/pdf

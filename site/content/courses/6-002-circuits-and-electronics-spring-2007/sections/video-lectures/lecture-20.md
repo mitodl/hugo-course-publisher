@@ -744,6 +744,6 @@ transcript: >-
   the differentiator circuit.</span> </p><p><span m='2981000'>Then I feed this
   into the op amp.</span> </p><p><span m='2984000'>OK. Thank you.</span> </p>
 uid: 406b85888e78496373031ef92300ad37
-type: courses
+type: course
 layout: video
 ---

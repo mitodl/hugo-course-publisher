@@ -123,6 +123,6 @@ transcript: >-
   m='73690'>during</span> <span m='74547'>2001</span> <span m='75405'>to</span>
   <span m='76262'>2003.</span> </p>
 uid: 4016c7d271f2adddd23de4877f380659
-type: courses
+type: course
 layout: video
 ---

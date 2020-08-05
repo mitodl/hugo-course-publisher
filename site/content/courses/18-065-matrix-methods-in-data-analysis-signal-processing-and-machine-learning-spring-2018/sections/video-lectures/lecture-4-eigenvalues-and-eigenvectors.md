@@ -2611,6 +2611,6 @@ transcript: >-
   m="2930430">orthogonal</span> <span m="2931350">eigenvectors,</span> <span
   m="2932800">real</span> <span m="2933160">eigenvalues.</span></p>
 uid: 8540e74dad3d88091ed4aa04d359c63d
-type: courses
+type: course
 layout: video
 ---

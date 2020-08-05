@@ -152,6 +152,6 @@ transcript: >-
   tedious.</span></p><p><span m="356970">And we will not go through
   it.</span></p><p>&nbsp;</p>
 uid: 61d67caa3321dd7a0910516fe51e22d5
-type: courses
+type: course
 layout: video
 ---

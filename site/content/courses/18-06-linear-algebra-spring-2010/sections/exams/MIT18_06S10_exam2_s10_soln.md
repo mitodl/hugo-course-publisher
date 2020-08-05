@@ -3,7 +3,7 @@ title: MIT18_06S10_exam2_s10_soln.pdf
 description: >-
   This resource contains solutions related to eigenvectors and their
   corresponding eigenvalues.
-type: courses
+type: course
 layout: pdf
 uid: d669bf89c103559d51427d0916c5db61
 file_type: application/pdf

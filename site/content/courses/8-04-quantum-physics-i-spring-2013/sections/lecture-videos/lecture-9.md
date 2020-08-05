@@ -5326,6 +5326,6 @@ transcript: >-
   m='4668390'>See</span> <span m='4668570'>you</span> <span
   m='4668660'>Tuesday.</span> </p>
 uid: 5f8700c8f8dd927e1e9b5919fcf11622
-type: courses
+type: course
 layout: video
 ---

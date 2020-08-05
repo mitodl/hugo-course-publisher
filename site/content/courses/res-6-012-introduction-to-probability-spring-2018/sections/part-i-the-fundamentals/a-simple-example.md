@@ -167,6 +167,6 @@ transcript: >-
   m='382730'>variable using the divide and conquer methods and the law of</span>
   <span m='386930'>the total variance.</span> </p><p></p>
 uid: a480bf766ee93e5e5f9e205a1a0dc450
-type: courses
+type: course
 layout: video
 ---

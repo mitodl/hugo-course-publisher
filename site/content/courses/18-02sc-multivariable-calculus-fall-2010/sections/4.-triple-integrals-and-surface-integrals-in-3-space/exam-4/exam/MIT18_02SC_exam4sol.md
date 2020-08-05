@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_exam4sol.pdf
 description: This resource contains information related to divergence theorem.
-type: courses
+type: course
 layout: pdf
 uid: 40f8e2ee50d708a3f0459c8eca5fb512
 file_type: application/pdf

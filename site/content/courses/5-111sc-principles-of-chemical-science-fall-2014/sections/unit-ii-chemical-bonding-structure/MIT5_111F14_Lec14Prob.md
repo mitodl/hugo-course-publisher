@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 14: Valence Bond Theory
   and Hybridization
 description: This resource contains information regarding lecture 14 problem.
-type: courses
+type: course
 layout: pdf
 uid: 17c0c93429b6eaa886b8f384347662c4
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: Exam 2 Guide
 description: Study guide for the second exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: e5000b5902c5b4a5412443eff45bcce1
 file_type: application/pdf

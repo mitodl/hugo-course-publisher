@@ -462,6 +462,6 @@ transcript: >-
   we'll</span> <span m='629510'>elaborate</span> <span m='629810'>on</span>
   <span m='630110'>next time.</span> </p>
 uid: ff4108aa9e2736d936ca07aff588ae3c
-type: courses
+type: course
 layout: video
 ---

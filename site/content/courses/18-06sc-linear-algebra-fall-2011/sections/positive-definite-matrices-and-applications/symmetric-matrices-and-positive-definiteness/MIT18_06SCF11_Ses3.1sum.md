@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses3.1sum.pdf
 description: >-
   This resource contains information related to symmetric matrices and positive
   definiteness.
-type: courses
+type: course
 layout: pdf
 uid: 804ab1e53134741d2044d241b50a285e
 file_type: application/pdf

@@ -2830,6 +2830,6 @@ transcript: >-
   m="3210540">descent.</span> <span m="3211200">Good.</span> <span
   m="3211800">Thanks.</span></p>
 uid: aad61155b6deef238baf2022c1b8b5af
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 1.6  Sets
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [< Sets]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-2/_index.md" %}})

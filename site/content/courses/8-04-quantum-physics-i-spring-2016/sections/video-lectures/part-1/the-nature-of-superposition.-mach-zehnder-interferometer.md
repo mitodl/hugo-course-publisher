@@ -756,6 +756,6 @@ transcript: >-
   m='869000'>reconstruct</span> <span m='869930'>the</span> <span
   m='870230'>state.</span> </p>
 uid: be26d061f1267fbff17497029175d89e
-type: courses
+type: course
 layout: video
 ---

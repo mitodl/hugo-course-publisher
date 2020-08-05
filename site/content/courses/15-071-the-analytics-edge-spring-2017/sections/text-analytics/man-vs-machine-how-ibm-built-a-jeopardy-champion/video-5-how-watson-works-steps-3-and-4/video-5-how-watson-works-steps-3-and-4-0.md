@@ -408,6 +408,6 @@ transcript: >-
   m='336474'>is</span> <span m='336885'>working</span> <span
   m='337297'>on</span> <span m='337708'>now.</span> </p>
 uid: 3071997bafd41b1ef9ee57383ae819c4
-type: courses
+type: course
 layout: video
 ---

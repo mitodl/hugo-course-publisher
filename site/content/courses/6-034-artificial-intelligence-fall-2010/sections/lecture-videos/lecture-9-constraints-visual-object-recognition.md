@@ -923,6 +923,6 @@ transcript: >-
   m="3072300">the cat is drinking.</span></p><p><span m="3076410">And that's the
   end of the story.</span></p><p>&nbsp;</p>
 uid: c87beea243de1ebf431cab907dd23f52
-type: courses
+type: course
 layout: video
 ---

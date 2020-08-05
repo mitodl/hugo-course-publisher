@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_rec06.pdf
 description: This resource is a recitation file for economics of sale.
-type: courses
+type: course
 layout: pdf
 uid: 63880fbbbf6dd47ebfdf934a25c02a0c
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: CoverIntroduction.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: e80af2258d1988e039f157985332bed3
 file_type: application/pdf

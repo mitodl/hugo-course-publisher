@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Example: y4+xy2-2=0'
 transcript: ''
 uid: fa4477d19a8be5f95b6facad471d89ef
-type: courses
+type: course
 layout: video
 ---

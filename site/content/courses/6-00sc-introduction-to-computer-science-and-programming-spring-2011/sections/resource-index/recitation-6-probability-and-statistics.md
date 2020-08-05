@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Recitation 6: Probability and Statistics'
 transcript: ''
 uid: b4243282a2118075a4e38604b5e909ae
-type: courses
+type: course
 layout: video
 ---

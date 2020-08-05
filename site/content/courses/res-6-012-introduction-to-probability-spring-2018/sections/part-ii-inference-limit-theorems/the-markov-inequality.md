@@ -234,6 +234,6 @@ transcript: >-
   than the original bound, but still</span> <span m='616260'>it is quite far
   away from the true answer.</span> </p><p></p>
 uid: 0aeb46e8c45fdd44334ea3b0c1900c9e
-type: courses
+type: course
 layout: video
 ---

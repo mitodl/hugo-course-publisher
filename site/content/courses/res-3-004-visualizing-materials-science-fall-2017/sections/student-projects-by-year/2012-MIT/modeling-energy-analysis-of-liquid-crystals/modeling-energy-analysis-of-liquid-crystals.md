@@ -639,6 +639,6 @@ transcript: >-
   m='436640'>thank</span> <span m='436800'>you,</span> <span
   m='436860'>guys.</span> </p><p></p>
 uid: 373b07d3f6a55983a9274b71c3de04f9
-type: courses
+type: course
 layout: video
 ---

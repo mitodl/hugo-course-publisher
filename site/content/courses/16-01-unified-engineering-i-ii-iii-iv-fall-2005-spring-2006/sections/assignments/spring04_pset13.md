@@ -1,7 +1,7 @@
 ---
 title: spring04_pset13.pdf
 description: 'Problem set on truth table,Signals and Systems.'
-type: courses
+type: course
 layout: pdf
 uid: d9be71fb731653b90a4de9df14b3ad29
 file_type: application/pdf

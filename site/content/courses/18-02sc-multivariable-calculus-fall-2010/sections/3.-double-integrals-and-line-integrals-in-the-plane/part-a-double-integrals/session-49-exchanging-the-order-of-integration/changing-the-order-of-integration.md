@@ -385,6 +385,6 @@ transcript: >-
   <span m='360700'>And</span> <span m='360990'>that's</span> <span
   m='361190'>our</span> <span m='361290'>solution.</span> </p>
 uid: a3f208ec56a65f7e53b0f5c82996b695
-type: courses
+type: course
 layout: video
 ---

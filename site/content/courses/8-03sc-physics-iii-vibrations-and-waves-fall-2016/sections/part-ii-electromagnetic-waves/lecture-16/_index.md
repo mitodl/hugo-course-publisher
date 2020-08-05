@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 16: 2D and 3D Waves, Snell''s Law'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
+type: course
+layout: videogallery
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: c84dbaf357b2e84b1aa1aa8cea794c86
-    type: section
-    layout: section
     name: 'Lecture 16: 2D and 3D Waves, Snell''s Law'
     weight: 210
     parent: 240ff61b57c23024881e75e9a0e68cde
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-15/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/_index.md" %}}) »
 

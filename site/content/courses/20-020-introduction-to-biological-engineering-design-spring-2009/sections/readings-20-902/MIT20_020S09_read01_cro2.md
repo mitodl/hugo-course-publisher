@@ -1,7 +1,7 @@
 ---
 title: MIT20_020S09_read01_cro2.pdf
 description: 'This file is an example review presentation. '
-type: courses
+type: course
 layout: pdf
 uid: a67cb70d880bb444e7a193634ec5699c
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: Raspberry Pi Code
 description: This resource contains information regarding program a raspberry pi camera.
-type: courses
+type: course
 layout: pdf
 uid: 94ae6c6671c7176b042cd126c175a2bf
 file_type: application/pdf

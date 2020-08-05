@@ -834,6 +834,6 @@ transcript: >-
   m='923490'>missing</span> <span m='923970'>eigenvectors.</span> </p><p><span
   m='925690'>Thank</span> <span m='925880'>you.</span> </p>
 uid: 94cddcb81d9207ca416d8be0484d1e54
-type: courses
+type: course
 layout: video
 ---

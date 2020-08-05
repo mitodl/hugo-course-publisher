@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses57a.pdf
 description: This resource contains information about how to calculate volumes.
-type: courses
+type: course
 layout: pdf
 uid: db95459072c80eb2d2cbdb18ec0824fb
 file_type: application/pdf

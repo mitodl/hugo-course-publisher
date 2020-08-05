@@ -1,7 +1,7 @@
 ---
 title: u05_ps14_fall03.pdf
 description: This file contains unified engineering problem U4.
-type: courses
+type: course
 layout: pdf
 uid: b9fa0b3d66786b2e587283a7a90cb1fe
 file_type: application/pdf

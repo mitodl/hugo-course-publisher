@@ -7,7 +7,7 @@ description: >-
   Kirchhoff?s circuit rules, voltage-current measurements, RC circuit, summary,
   problem-solving strategy: applying Kirchhoff?s rules, solved problems,
   conceptual questions, and additional problems.
-type: courses
+type: course
 layout: pdf
 uid: 889322bd4426984d161121cf5cf2cb31
 file_type: application/pdf

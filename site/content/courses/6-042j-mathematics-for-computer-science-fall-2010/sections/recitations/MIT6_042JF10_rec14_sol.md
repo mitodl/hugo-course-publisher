@@ -3,7 +3,7 @@ title: MIT6_042JF10_rec14_sol.pdf
 description: >-
   This resource contains solutions of guessing a particular solution, linear
   recurrences. 
-type: courses
+type: course
 layout: pdf
 uid: b6c5cecb1804b69a6ad12245303f2af3
 file_type: application/pdf

@@ -1,16 +1,14 @@
 ---
 title: 2.2 For More Information...
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
+type: course
+layout: videogallery
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 83316687e25d0ebef20581a0b8163483
-    type: section
-    layout: section
     name: 2.2 For More Information...
     weight: 380
     parent: 70bd0a3633bf549f7c43cefbaf26cba9
-type: courses
-layout: videogallery
 ---
 *   [<Video: Careers and Competencies with Professor Lee Dyer]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/the-old-social-contract/what-made-the-old-social-contract-work-and-why-did-it-break-down/video-careers-and-competencies-with-professor-lee-dyer" %}})
 *   [2.2.1Additional Resources]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/the-old-social-contract/for-more-information-0" %}})

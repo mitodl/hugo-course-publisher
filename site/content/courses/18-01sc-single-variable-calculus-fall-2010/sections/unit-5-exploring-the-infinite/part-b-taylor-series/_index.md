@@ -1,11 +1,11 @@
 ---
 title: 'Part B: Taylor Series'
 course_id: 18-01sc-single-variable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 1c9b92776c16c587013d2f3b4e9b94a0
-    type: section
-    layout: section
     name: 'Part B: Taylor Series'
     weight: 1270
     parent: 6e3abd11deb09fc49199b1e8893935e7

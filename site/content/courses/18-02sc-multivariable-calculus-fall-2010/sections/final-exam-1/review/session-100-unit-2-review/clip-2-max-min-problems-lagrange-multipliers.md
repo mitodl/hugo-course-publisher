@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip 2: Max-Min Problems, Lagrange Multipliers'
 transcript: ''
 uid: fe37c9e2262b2641aa22a92301181e7b
-type: courses
+type: course
 layout: video
 ---

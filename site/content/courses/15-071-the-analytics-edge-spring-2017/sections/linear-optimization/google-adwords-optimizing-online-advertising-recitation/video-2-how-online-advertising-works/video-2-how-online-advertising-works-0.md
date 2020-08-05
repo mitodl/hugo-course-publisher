@@ -389,6 +389,6 @@ transcript: >-
   m='302514'>linear</span> <span m='303076'>optimization</span> <span
   m='303638'>model.</span> </p>
 uid: f3d72bd887cbd1fb9bdcb833863152a6
-type: courses
+type: course
 layout: video
 ---

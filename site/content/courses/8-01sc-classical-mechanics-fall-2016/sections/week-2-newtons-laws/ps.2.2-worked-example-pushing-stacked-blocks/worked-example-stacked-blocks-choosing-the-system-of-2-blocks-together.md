@@ -140,6 +140,6 @@ transcript: >-
   <span m='320800'>you will not be able to apply that condition.</span>
   </p><p></p>
 uid: af893009d7007661a0861bed13a33e68
-type: courses
+type: course
 layout: video
 ---

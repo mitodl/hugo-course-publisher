@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_graph19.pdf
 description: This resource contains graphs related to international trade.
-type: courses
+type: course
 layout: pdf
 uid: 140751ff9fe6eb2976df6d6c5942fa7d
 file_type: application/pdf

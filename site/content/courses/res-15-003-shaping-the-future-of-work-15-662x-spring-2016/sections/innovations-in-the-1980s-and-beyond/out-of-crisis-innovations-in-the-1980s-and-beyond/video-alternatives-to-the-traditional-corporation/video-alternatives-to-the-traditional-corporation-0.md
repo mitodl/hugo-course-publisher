@@ -445,6 +445,6 @@ transcript: >-
   m='350880'>sustain</span> <span m='351690'>our</span> <span
   m='352020'>planet.</span> </p>
 uid: 4993ab5d26057a5b06b350d928aa1ada
-type: courses
+type: course
 layout: video
 ---

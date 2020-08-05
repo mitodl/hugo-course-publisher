@@ -515,6 +515,6 @@ transcript: >-
   m='628950'>Very,</span> <span m='630150'>extremely</span> <span
   m='630850'>simple.</span> </p>
 uid: 5810fc5c195556a1d53251505dc26d80
-type: courses
+type: course
 layout: video
 ---

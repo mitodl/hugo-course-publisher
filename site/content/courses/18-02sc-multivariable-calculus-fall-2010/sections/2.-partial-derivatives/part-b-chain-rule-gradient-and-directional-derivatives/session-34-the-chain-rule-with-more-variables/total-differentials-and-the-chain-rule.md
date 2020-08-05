@@ -693,6 +693,6 @@ transcript: >-
   <span m='691510'>leave</span> <span m='691660'>it</span> <span
   m='691730'>at</span> <span m='691820'>that.</span> </p>
 uid: cd982bd6acc67a921218c92166931bed
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: Week 6 Watson Video 1 - 15.071 SPring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 9f0a99f904ea108b0f217a0598a96091
 file_type: application/pdf

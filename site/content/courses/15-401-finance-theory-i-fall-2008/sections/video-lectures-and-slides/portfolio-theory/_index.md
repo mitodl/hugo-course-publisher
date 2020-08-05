@@ -1,16 +1,14 @@
 ---
 title: Portfolio Theory
 course_id: 15-401-finance-theory-i-fall-2008
+type: course
+layout: videogallery
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: ea1103393932e4b93082f9274ac55b6f
-    type: section
-    layout: section
     name: Portfolio Theory
     weight: 150
     parent: cc3f05d9f4e44ed3db60b79712de51f4
-type: courses
-layout: videogallery
 ---
 Video Lectures
 --------------

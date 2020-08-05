@@ -5,7 +5,7 @@ description: >-
   The latest version of GNAT can be downloaded from the New York University
   Computer Science Department's ftp site, or version 3.15 can be downloaded from
   the course website.
-type: courses
+type: course
 layout: pdf
 uid: 8c721b591e17f8368d6a2a25f5bb5473
 file_type: application/pdf

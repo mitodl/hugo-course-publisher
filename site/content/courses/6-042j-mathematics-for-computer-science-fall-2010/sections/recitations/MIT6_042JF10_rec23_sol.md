@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_rec23_sol.pdf
 description: 'This resource contains solutions of probability theorems. '
-type: courses
+type: course
 layout: pdf
 uid: efd3cf14ce1c002c63605f65f0fc54a3
 file_type: application/pdf

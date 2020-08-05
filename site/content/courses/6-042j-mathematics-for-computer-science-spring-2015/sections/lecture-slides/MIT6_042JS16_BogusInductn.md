@@ -3,7 +3,7 @@ title: 'Induction: Bogus Induction'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 607e68cf783b4c67f881fcb60a92245c
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: demo_15.pdf
 description: >-
   This resource contains a demo which looks at designs of digital memory using a
   capacitor and inverters (buffers).
-type: courses
+type: course
 layout: pdf
 uid: 7c00813621ae18f7dd2e074be068ea72
 file_type: application/pdf

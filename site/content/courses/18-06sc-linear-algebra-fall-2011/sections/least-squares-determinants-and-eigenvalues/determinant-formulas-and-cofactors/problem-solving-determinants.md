@@ -722,6 +722,6 @@ transcript: >-
   m='765330'>to</span> <span m='765430'>see you</span> <span
   m='765730'>soon.</span> </p>
 uid: 16f1f706f40df168153c42311ff35cbf
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang_2124.pdf
 description: This resource contains information related to deriatives.
-type: courses
+type: course
 layout: pdf
 uid: 44d49bba4d6aa0d5d8444a3348160593
 file_type: application/pdf

@@ -669,6 +669,6 @@ transcript: >-
   m='882810'>amplitude</span> <span m='884710'>inside</span> <span
   m='885010'>the</span> <span m='885310'>well.</span> </p>
 uid: 7f1958aff9cce5777544b90888a45b96
-type: courses
+type: course
 layout: video
 ---

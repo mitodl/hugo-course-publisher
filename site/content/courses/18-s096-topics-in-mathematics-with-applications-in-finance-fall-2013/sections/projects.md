@@ -1,11 +1,11 @@
 ---
 title: Projects
 course_id: 18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013
+type: course
+layout: course_section
 menu:
   18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013:
     identifier: 761a6c96fe7d0824528a490bc2252d5e
-    type: section
-    layout: section
     name: Projects
     weight: 80
 ---

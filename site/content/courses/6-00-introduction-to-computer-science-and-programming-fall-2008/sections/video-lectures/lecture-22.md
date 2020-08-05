@@ -2706,6 +2706,6 @@ transcript: >-
   m='3046350'>go</span> <span m='3046480'>wrong</span> <span
   m='3046780'>with</span> <span m='3046930'>statistics.</span> </p>
 uid: 723b44fda16ff0bdc4c111ed80d996e7
-type: courses
+type: course
 layout: video
 ---

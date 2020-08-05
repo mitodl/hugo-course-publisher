@@ -1,7 +1,7 @@
 ---
 title: 'Congruences: Inverses Mod N'
 description: This file contains information regarding inverses mod N.
-type: courses
+type: course
 layout: pdf
 uid: ec0fcabd92fe8e72f35c8f56cf1b0ec5
 file_type: application/pdf

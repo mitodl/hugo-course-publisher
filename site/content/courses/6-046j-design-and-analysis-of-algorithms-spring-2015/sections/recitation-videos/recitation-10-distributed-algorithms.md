@@ -2001,6 +2001,6 @@ transcript: >-
   m="3010360">all</span> <span m="3010550">for</span> <span
   m="3010620">today.</span></p>
 uid: b2a160074f73ded49d58e336f0d73981
-type: courses
+type: course
 layout: video
 ---

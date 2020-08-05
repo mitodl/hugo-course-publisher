@@ -1,6 +1,8 @@
 ---
 title: 3.4 Repetitions & Binomial Theorem
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 ---
 *   [<Repetitions & Binomial Theorem]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-2/_index.md" %}})
 *   [3.4.1Generalized Counting Rules: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-2/_index.md" %}})

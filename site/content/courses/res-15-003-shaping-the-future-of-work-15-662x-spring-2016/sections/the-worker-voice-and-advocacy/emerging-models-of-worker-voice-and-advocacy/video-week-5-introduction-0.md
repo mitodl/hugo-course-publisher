@@ -546,6 +546,6 @@ transcript: >-
   m="395620">So</span> <span m="395850">stay</span> <span
   m="396120">tuned.</span> <span m="396490">s</span></p>
 uid: 3abcbef9c9529587541f207988d727ec
-type: courses
+type: course
 layout: video
 ---

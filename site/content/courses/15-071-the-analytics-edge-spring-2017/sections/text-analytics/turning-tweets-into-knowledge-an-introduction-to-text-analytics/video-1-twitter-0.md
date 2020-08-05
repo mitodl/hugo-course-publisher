@@ -172,6 +172,6 @@ transcript: >-
   m='124985'>address</span> <span m='125467'>these</span> <span
   m='125948'>questions.</span> </p>
 uid: 8118258b21b73c872c19fc0cb0f11523
-type: courses
+type: course
 layout: video
 ---

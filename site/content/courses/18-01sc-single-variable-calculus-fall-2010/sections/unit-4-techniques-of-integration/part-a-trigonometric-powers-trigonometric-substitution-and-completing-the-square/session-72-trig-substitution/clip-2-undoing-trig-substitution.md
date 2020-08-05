@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Undoing Trig Substitution'
 transcript: ''
 uid: 737f13161985dceedf0a8144a119f3b6
-type: courses
+type: course
 layout: video
 ---

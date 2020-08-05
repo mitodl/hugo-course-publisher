@@ -3,7 +3,7 @@ title: sp1notes_on_memos.pdf
 description: >-
   This resource contains information on tutorial on the format for writing
   memos.
-type: courses
+type: course
 layout: pdf
 uid: 242a1abdfbc24fd055ec7d6ecd183bb3
 file_type: application/pdf

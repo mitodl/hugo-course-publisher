@@ -1,7 +1,7 @@
 ---
 title: Week 4 D2Hawkeye Video 1 - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: ec5a43ac3d081b100bf8040eb63c7b02
 file_type: application/pdf

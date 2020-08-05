@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 6-046j-design-and-analysis-of-algorithms-spring-2015
 course_title: Design and Analysis of Algorithms
 course_image_url: >-

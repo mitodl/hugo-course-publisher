@@ -1,7 +1,7 @@
 ---
 title: s05_ps05_sol.pdf
 description: Solutions to problem set.
-type: courses
+type: course
 layout: pdf
 uid: 428d1ec27f1d2bdebbb1adcf0b3138f0
 file_type: application/pdf

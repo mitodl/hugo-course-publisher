@@ -1,7 +1,7 @@
 ---
 title: guidelines.pdf
 description: This file contains the guidelines for writing lab reports.
-type: courses
+type: course
 layout: pdf
 uid: 7b1fb14b0bb9c2ad7721f0107993ed88
 file_type: application/pdf

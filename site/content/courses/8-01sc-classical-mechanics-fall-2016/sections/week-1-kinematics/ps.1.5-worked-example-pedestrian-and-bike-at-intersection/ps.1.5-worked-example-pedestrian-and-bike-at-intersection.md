@@ -273,6 +273,6 @@ transcript: >-
   </p><p><span m='828390'>And we actually have the right answer here.</span>
   </p><p></p>
 uid: e0c2768c08368a33b6f65ec2b2d68659
-type: courses
+type: course
 layout: video
 ---

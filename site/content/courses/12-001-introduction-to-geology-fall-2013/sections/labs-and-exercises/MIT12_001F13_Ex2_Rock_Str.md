@@ -3,7 +3,7 @@ title: '12.001 Introduction to Geology, Exercise 2: Rock Structure and Deformati
 description: >-
   This file contains information regarding exercise 2: rock structure and
   deformation.
-type: courses
+type: course
 layout: pdf
 uid: 95c6687a9ae75d050ae508d73e460fd0
 file_type: application/pdf

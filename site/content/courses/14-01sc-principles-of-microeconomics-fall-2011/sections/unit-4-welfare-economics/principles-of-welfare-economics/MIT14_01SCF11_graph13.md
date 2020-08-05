@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_graph13.pdf
 description: This resource contains graphs and figures related to welfare economics.
-type: courses
+type: course
 layout: pdf
 uid: 028f5e1da08103d591c5737bff1e55a0
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Class 14 Slides: Beta distributions: continuous data'
 description: This is a resource file that contains information regarding class 14.
-type: courses
+type: course
 layout: pdf
 uid: 2ebc413734ecbcb0ee45900a96ae5491
 file_type: application/pdf

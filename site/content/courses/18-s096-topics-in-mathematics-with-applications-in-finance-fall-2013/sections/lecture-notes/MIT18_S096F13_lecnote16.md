@@ -1,7 +1,7 @@
 ---
 title: Portfolio Management
 description: This file contains information regarding lecture 16 notes.
-type: courses
+type: course
 layout: pdf
 uid: d36136adb6ab4d3d841df5e31824bf81
 file_type: application/pdf

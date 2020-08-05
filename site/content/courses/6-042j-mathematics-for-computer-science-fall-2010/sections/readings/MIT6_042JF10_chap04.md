@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 4: Number theory'
 description: This resource contains information about Number theory.
-type: courses
+type: course
 layout: pdf
 uid: a608e339ab265c79de46c7c3830a49cb
 file_type: application/pdf

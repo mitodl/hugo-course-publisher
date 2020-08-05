@@ -572,6 +572,6 @@ transcript: >-
   m='738340'>at</span> <span m='738890'>D1</span> <span m='740320'>was</span>
   <span m='740620'>0.</span> </p>
 uid: 83a31ecce9e63c6c4323c1d174cf57d8
-type: courses
+type: course
 layout: video
 ---

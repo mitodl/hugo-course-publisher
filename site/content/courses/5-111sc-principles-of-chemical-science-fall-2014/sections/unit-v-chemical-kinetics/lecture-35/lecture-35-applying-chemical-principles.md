@@ -2161,6 +2161,6 @@ transcript: >-
   m="1971910">It's</span> <span m="1972150">been</span> <span
   m="1972330">a</span> <span m="1972400">pleasure.</span></p>
 uid: cdd510e4d757df5161b4c5b4b26d4ad8
-type: courses
+type: course
 layout: video
 ---

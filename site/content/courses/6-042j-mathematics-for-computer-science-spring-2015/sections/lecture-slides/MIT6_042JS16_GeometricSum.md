@@ -3,7 +3,7 @@ title: 'Sums & Products: Geometric Sums'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 6e08d583830eb7ca30e4f500ed4a502d
 file_type: application/pdf

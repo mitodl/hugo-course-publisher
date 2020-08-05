@@ -1,7 +1,7 @@
 ---
 title: s15_lec.pdf
 description: Handwritten lecture notes.
-type: courses
+type: course
 layout: pdf
 uid: 9c181b82d966f0d3dedc33b7299c66d0
 file_type: application/pdf

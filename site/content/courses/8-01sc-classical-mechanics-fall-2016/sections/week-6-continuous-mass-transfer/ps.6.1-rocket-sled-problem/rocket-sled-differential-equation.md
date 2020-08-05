@@ -105,6 +105,6 @@ transcript: >-
   m='175570'>contains the differentials of the speed of the rocket,</span> <span
   m='181985'>that sled, and the differential of the mass.</span> </p>
 uid: f79cac89ce761d5d217234dffc3eaf53
-type: courses
+type: course
 layout: video
 ---

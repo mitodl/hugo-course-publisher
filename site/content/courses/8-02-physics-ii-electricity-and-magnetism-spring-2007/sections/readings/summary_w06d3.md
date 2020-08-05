@@ -5,7 +5,7 @@ description: >-
   loop of wire and definition of the magnetic dipole
 
   moment ? and then do a calculation using that moment.
-type: courses
+type: course
 layout: pdf
 uid: 8c343a92281dc90bfbeb0b1189218a09
 file_type: application/pdf

@@ -4274,6 +4274,6 @@ transcript: >-
   m="3022760">I'll</span> <span m="3022850">see</span> <span
   m="3023060">you</span> <span m="3023150">next time.</span></p><p>&nbsp;</p>
 uid: 702f681d25ed5b387517c7c096d6991f
-type: courses
+type: course
 layout: video
 ---

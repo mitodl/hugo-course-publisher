@@ -3,7 +3,7 @@ title: MIT18_02SC_notes_24.pdf
 description: >-
   This resource contains information related to integration in polar
   coordinates.
-type: courses
+type: course
 layout: pdf
 uid: ccaae11972cfc4c1987bcceffa660728
 file_type: application/pdf

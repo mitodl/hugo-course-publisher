@@ -3,7 +3,7 @@ title: ps1.pdf
 description: >-
   This resource provides information about the reading assignment, useful facts
   and 7 problems for assignment 1.
-type: courses
+type: course
 layout: pdf
 uid: fab0ea8dcec32517f757f75e7e02af30
 file_type: application/pdf

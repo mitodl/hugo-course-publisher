@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 4: An Improper Integral of the Second Kind'
 transcript: ''
 uid: 61ad839eca88b0254badd7001a373776
-type: courses
+type: course
 layout: video
 ---

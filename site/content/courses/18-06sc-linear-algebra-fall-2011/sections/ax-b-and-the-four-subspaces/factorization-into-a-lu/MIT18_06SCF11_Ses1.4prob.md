@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses1.4prob.pdf
 description: This resource contains problem sets related to factorization into A = LU.
-type: courses
+type: course
 layout: pdf
 uid: 0ea3c333ad8f83379b45efd8ffe88729
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: fall_2003_sp6.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 5726777ab12260a18f7580ac46995656
 file_type: application/pdf

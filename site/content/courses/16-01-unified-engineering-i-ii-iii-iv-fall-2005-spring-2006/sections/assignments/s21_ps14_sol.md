@@ -1,7 +1,7 @@
 ---
 title: s21_ps14_sol.pdf
 description: Solutions to problem set regarding Signals and Systems.
-type: courses
+type: course
 layout: pdf
 uid: 304e74d798dafc92733374a5fb832161
 file_type: application/pdf

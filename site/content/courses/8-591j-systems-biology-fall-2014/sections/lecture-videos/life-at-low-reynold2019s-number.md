@@ -4478,6 +4478,6 @@ transcript: >-
   m="4749390">please come</span> <span m="4749690">on</span> <span
   m="4749990">up.</span></p>
 uid: df45d2d2a58dc50b8ea2da80c06f6bc0
-type: courses
+type: course
 layout: video
 ---

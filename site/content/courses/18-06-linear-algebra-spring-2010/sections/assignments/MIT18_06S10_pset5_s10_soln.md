@@ -1,7 +1,7 @@
 ---
 title: MIT18_06S10_pset5_s10_soln.pdf
 description: This resource contains information related to Fredholm’s alternative.
-type: courses
+type: course
 layout: pdf
 uid: ef8cf047287bc629eb243a691340c823
 file_type: application/pdf

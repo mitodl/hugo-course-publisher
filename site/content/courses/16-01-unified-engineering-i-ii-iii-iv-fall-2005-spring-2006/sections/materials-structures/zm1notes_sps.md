@@ -1,7 +1,7 @@
 ---
 title: zm1notes_sps.pdf
 description: This resource based on introductory lecture to the course.
-type: courses
+type: course
 layout: pdf
 uid: f990cd7e7dc96be6257020463f6dc377
 file_type: application/pdf

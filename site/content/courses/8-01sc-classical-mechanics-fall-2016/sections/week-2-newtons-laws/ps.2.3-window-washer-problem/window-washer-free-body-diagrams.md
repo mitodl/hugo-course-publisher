@@ -225,6 +225,6 @@ transcript: >-
   Newton's second law.</span> </p><p><span m='605380'>And we'll be able to solve
   this problem.</span> </p><p></p>
 uid: 03511e0bf3ae55aac546987125865ed7
-type: courses
+type: course
 layout: video
 ---

@@ -4251,6 +4251,6 @@ transcript: >-
   m='5092120'>stop</span> <span m='5092420'>there.</span> <span
   m='5092720'>Thank</span> <span m='5093020'>you.</span> </p>
 uid: 0f6ae00c71a8f8a73d852d821a2d473d
-type: courses
+type: course
 layout: video
 ---

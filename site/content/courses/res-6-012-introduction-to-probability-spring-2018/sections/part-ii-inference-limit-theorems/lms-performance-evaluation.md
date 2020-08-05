@@ -143,6 +143,6 @@ transcript: >-
   where the MAP estimate and the LMS</span> <span m='267880'>estimate are going
   to coincide.</span> </p><p></p>
 uid: 289459a13021382b104f0b1aab39ccda
-type: courses
+type: course
 layout: video
 ---

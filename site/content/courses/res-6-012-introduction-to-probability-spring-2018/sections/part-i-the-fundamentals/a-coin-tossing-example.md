@@ -197,6 +197,6 @@ transcript: >-
   <span m="470190">events, and then discuss various properties and</span> <span
   m="474920">concepts associated with independence.</span></p><p>&nbsp;</p>
 uid: 88aa96197b39a75de7874636f2e3f0ac
-type: courses
+type: course
 layout: video
 ---

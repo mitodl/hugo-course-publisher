@@ -40,6 +40,6 @@ technical_location: >-
 title: 'Lecture 1: Introduction to Energy'
 transcript: ''
 uid: 1b0190b9ac077e7471213af5ae8e895a
-type: courses
+type: course
 layout: video
 ---

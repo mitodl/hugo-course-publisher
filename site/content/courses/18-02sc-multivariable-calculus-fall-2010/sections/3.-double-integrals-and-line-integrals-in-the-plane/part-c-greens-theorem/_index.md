@@ -1,11 +1,11 @@
 ---
 title: 'Part C: Green''s Theorem'
 course_id: 18-02sc-multivariable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: 138f6170e946b9b122d9693749cc9860
-    type: section
-    layout: section
     name: 'Part C: Green''s Theorem'
     weight: 910
     parent: e20c7287dbfb8ff8c5a675c132a454cc

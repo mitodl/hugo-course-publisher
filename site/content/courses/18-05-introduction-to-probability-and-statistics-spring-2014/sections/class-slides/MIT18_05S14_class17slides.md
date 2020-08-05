@@ -3,7 +3,7 @@ title: 'Class 17 Slides: Frequentist methods; NHST'
 description: >-
   This is a resource file that contains information regarding frequentist
   methods; NHST.
-type: courses
+type: course
 layout: pdf
 uid: c1ca9a217012b341b2935c1959aec35c
 file_type: application/pdf

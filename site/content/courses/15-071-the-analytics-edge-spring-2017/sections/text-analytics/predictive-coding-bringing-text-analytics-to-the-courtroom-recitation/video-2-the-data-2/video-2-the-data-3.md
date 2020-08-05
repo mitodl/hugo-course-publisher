@@ -322,6 +322,6 @@ transcript: >-
   m='233888'>predictive</span> <span m='234332'>coding</span> <span
   m='234776'>problems.</span> </p>
 uid: 8abd48638cc08b379da77662cae86d88
-type: courses
+type: course
 layout: video
 ---

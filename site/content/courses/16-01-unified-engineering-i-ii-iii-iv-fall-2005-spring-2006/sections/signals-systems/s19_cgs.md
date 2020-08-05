@@ -1,7 +1,7 @@
 ---
 title: s19_cgs.pdf
 description: Concept questions on Duration of a Signal and Bandwidth of a Signal.
-type: courses
+type: course
 layout: pdf
 uid: 4010581aaf517b6e0b263dd672296f7b
 file_type: application/pdf

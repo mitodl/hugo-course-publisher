@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip 2: More on Cross Products'
 transcript: ''
 uid: 7eecad13a255ec73114ef890e5b9757b
-type: courses
+type: course
 layout: video
 ---

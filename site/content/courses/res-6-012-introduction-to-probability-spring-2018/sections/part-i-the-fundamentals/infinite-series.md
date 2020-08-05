@@ -113,6 +113,6 @@ transcript: >-
   sequence with which we sum the</span> <span m="186320">different
   terms.</span></p><p>&nbsp;</p>
 uid: 37b862a16505bcacd30273b3cb13cf14
-type: courses
+type: course
 layout: video
 ---

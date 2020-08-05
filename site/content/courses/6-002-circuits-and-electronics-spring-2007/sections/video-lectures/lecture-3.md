@@ -738,6 +738,6 @@ transcript: >-
   m='3048000'>that they call the Thevenin network, and voila,</span> <span
   m='3051000'>I get the answer in a second.</span> </p>
 uid: 5bf128fefa595ece98790a6a90657417
-type: courses
+type: course
 layout: video
 ---

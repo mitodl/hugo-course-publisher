@@ -3,7 +3,7 @@ title: MIT20_020S09_prj12_neuro_td.pdf
 description: >-
   This file includes details on parts, timing/system diagrams, and examples on
   testing/debugging for this topic. 
-type: courses
+type: course
 layout: pdf
 uid: 16915319b9cfa618bc17326ff2e3fee0
 file_type: application/pdf

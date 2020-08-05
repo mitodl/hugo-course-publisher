@@ -1,7 +1,7 @@
 ---
 title: 'Sampling and Confidence: Independent Sampling Theorem'
 description: This file contains information regarding independent sampling theorem.
-type: courses
+type: course
 layout: pdf
 uid: 7f9937d65458019e8773ab1084d72808
 file_type: application/pdf

@@ -4065,6 +4065,6 @@ transcript: >-
   m="4395620">any</span> <span m="4395830">questions,</span> <span
   m="4397162">please</span> <span m="4397500">let me know.</span></p>
 uid: 5f6c52d57da03011a425d38f0d6113cb
-type: courses
+type: course
 layout: video
 ---

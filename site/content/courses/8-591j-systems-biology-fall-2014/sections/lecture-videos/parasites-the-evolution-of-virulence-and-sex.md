@@ -4726,6 +4726,6 @@ transcript: >-
   m="4718790">then,</span> <span m="4720520">we'll</span> <span m="4721520">meet
   on</span> <span m="4721820">Tuesday,</span> <span m="4722120">OK?</span></p>
 uid: a2944a86d73a7780b037e7fbb4865668
-type: courses
+type: course
 layout: video
 ---

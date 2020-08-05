@@ -1,7 +1,7 @@
 ---
 title: 8new_subtyp_enum.pdf
 description: Lecture 8 (2003) presentation.
-type: courses
+type: course
 layout: pdf
 uid: ac00999dfa4967b7ff4acd8780a9cc91
 file_type: application/pdf

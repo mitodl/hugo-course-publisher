@@ -1,16 +1,14 @@
 ---
 title: Column Space and Nullspace
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: bb16f055bb0c2fa6b00b24a82c138877
-    type: section
-    layout: section
     name: Column Space and Nullspace
     weight: 100
     parent: 34303ce19b45724122d2bd33d64df688
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/_index.md" %}}) »
 

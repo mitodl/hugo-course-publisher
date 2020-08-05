@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Using Green''s Theorem'
 description: This resource contains information regarding green's theorem.
-type: courses
+type: course
 layout: pdf
 uid: 59fb2f923d69af75de31049ce5e98dad
 file_type: application/pdf

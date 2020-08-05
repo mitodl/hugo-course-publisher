@@ -578,6 +578,6 @@ transcript: >-
   m='418400'>philosophy,</span> <span m='419092'>and</span> <span
   m='419440'>politics.</span> </p>
 uid: d043b62131c4fe8c3b0e1e42498c2c5e
-type: courses
+type: course
 layout: video
 ---

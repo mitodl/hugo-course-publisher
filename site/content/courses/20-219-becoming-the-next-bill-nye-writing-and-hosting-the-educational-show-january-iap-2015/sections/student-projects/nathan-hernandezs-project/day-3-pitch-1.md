@@ -151,6 +151,6 @@ transcript: >-
   m="70740">we</span> <span m="70900">can</span> <span m="71050">find</span>
   <span m="71320">out.</span></p>
 uid: 2ab4fe52fa1cabb272e46e0a11ab2142
-type: courses
+type: course
 layout: video
 ---

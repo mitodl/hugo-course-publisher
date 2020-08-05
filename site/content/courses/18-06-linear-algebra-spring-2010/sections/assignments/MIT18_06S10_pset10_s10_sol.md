@@ -3,7 +3,7 @@ title: MIT18_06S10_pset10_s10_sol.pdf
 description: >-
   This resource contains the information related to Jordan matrices and
   eigenvalues.
-type: courses
+type: course
 layout: pdf
 uid: e6ea5d4104066f874afe1c34e06b8268
 file_type: application/pdf

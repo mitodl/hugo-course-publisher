@@ -1,11 +1,11 @@
 ---
 title: 7.5 Assignment 7
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: course_section
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 056c6914368d638a59e4cebbc43acfe5
-    type: section
-    layout: section
     name: 7.5 Assignment 7
     weight: 2630
     parent: ab87d151cf8cfe95c873e816df164d38

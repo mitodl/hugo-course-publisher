@@ -1,7 +1,7 @@
 ---
 title: s09_ps09_sol.pdf
 description: This resource includes the solutions to problem set.
-type: courses
+type: course
 layout: pdf
 uid: f82b19ce0661d9102960c9cc2c2b2129
 file_type: application/pdf

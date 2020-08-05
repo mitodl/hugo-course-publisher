@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_v9.3to4.pdf
 description: This resource contains information related to flux through general surfaces.
-type: courses
+type: course
 layout: pdf
 uid: b9ba75cb22dfa18f5976d78bb016ddc7
 file_type: application/pdf

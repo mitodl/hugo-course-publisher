@@ -283,6 +283,6 @@ transcript: >-
   m="186180">fun.</span></p><p><span m="187280">So</span> <span
   m="187820">cheers,</span> <span m="188140">everyone.</span></p>
 uid: 88e5ceaea2605da64b4777aa5e26d311
-type: courses
+type: course
 layout: video
 ---

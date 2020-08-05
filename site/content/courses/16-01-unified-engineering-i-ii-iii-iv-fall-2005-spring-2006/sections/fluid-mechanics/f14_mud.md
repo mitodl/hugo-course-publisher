@@ -3,7 +3,7 @@ title: f14_mud.pdf
 description: >-
   This resource contains information on the topics of Helmholtz and Laplace?s
   Equation.
-type: courses
+type: course
 layout: pdf
 uid: 60753f205dd1feb045456d6896753e63
 file_type: application/pdf

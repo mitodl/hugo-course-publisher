@@ -766,6 +766,6 @@ transcript: >-
   m="648610">and</span> <span m="648800">decent</span> <span
   m="649180">living</span> <span m="649480">conditions.</span></p>
 uid: 96a14cd7c115ca4cb66cb0af0afbe53c
-type: courses
+type: course
 layout: video
 ---

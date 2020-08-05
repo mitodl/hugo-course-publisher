@@ -1,7 +1,7 @@
 ---
 title: Probability Theory
 description: This file contains information regarding lecture 3 notes.
-type: courses
+type: course
 layout: pdf
 uid: 94dc1d08ef12065198102ae23b2e4a8f
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: mudzm8.pdf
 description: >-
   This resource contains review questions and answers based on three points for
   compatibility of displacement, deflection,  Young's modulus, stress.
-type: courses
+type: course
 layout: pdf
 uid: df4b2f076c66ba89e88343769cf50542
 file_type: application/pdf

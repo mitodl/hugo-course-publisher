@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_graph17.pdf
 description: This resource contains graphs for oligopoly II.
-type: courses
+type: course
 layout: pdf
 uid: 2db3ce21626a7b59f5b7a2d70535a8fc
 file_type: application/pdf

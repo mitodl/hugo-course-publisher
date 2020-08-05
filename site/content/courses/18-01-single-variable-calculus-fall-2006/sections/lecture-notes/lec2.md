@@ -3,7 +3,7 @@ title: 'Lecture 2: Limits, Continuity, and Trigonometric Limits'
 description: >-
   Lecture notes on the "rate of change" interpretation of the derivative, limits
   and continuity, and trigonometric limits.
-type: courses
+type: course
 layout: pdf
 uid: acebd5cc8fe0315270d486685739d08f
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_we_12_comb.pdf
 description: 'This resource contains information related to tangent approximation. '
-type: courses
+type: course
 layout: pdf
 uid: 0ea53ee5f57584e074bf15e632615930
 file_type: application/pdf

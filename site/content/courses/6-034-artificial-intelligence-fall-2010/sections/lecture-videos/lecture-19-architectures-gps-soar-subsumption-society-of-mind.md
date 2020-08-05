@@ -871,6 +871,6 @@ transcript: >-
   of some of this</span> <span m='2931290'>stuff on another occasion.</span>
   </p><p></p>
 uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
-type: courses
+type: course
 layout: video
 ---

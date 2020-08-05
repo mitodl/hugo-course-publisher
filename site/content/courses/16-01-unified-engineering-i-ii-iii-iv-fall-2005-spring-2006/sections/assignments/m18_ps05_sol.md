@@ -3,7 +3,7 @@ title: m18_ps05_sol.pdf
 description: >-
   This resource provides solutions to problem set on damage tolerance
   requirements.
-type: courses
+type: course
 layout: pdf
 uid: b8f275902c218873bca3f1d704fb221d
 file_type: application/pdf

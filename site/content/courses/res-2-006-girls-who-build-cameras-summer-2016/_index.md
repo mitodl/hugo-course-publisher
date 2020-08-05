@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: res-2-006-girls-who-build-cameras-summer-2016
 course_title: Girls Who Build Cameras
 course_image_url: >-

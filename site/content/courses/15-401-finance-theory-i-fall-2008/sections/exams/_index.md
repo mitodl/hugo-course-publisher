@@ -1,11 +1,11 @@
 ---
 title: Exams
 course_id: 15-401-finance-theory-i-fall-2008
+type: course
+layout: course_section
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: 703ba6ae4396ad87aeaccabcb57b7864
-    type: section
-    layout: section
     name: Exams
     weight: 60
 ---

@@ -183,6 +183,6 @@ transcript: >-
   m="411920">And there's no reason to repeat those
   derivations.</span></p><p>&nbsp;</p>
 uid: 1aca19b277846a073c61712f1d62c1ad
-type: courses
+type: course
 layout: video
 ---

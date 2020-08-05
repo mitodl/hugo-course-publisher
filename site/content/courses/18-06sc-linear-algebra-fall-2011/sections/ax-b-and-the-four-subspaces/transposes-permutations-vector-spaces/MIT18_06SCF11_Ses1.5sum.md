@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses1.5sum.pdf
 description: >-
   This resource contains information related to transposes, permutations, spaces
   Rn.
-type: courses
+type: course
 layout: pdf
 uid: 33b21afab62ea8df6c7bd241240df60d
 file_type: application/pdf

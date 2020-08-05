@@ -1,7 +1,7 @@
 ---
 title: S10_mud.pdf
 description: Review questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: a0d779de381559cc3258770437ad8e68
 file_type: application/pdf

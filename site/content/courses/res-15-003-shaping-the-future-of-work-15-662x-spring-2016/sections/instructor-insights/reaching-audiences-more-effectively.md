@@ -1,11 +1,11 @@
 ---
 title: Reaching Audiences More Effectively
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
+type: course
+layout: course_section
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: 9f03331af390bae1961ca4a065522188
-    type: section
-    layout: section
     name: Reaching Audiences More Effectively
     weight: 70
     parent: 533d102efe069d1db963beda43cca2a1

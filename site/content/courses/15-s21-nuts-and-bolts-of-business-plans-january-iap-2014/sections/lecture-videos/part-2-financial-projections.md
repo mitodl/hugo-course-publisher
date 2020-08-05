@@ -5931,6 +5931,6 @@ transcript: >-
   m='4673310'>you</span> <span m='4673400'>very</span> <span
   m='4673600'>much.</span> </p><p><span m='4673900'>[APPLAUSE]</span> </p>
 uid: 61b7881e5d4207082435ddf3678e3b82
-type: courses
+type: course
 layout: video
 ---

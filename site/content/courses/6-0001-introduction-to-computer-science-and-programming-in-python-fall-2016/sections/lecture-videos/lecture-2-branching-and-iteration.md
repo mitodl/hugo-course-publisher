@@ -3126,6 +3126,6 @@ transcript: >-
   m="2600480">That's</span> <span m="2600660">all</span> <span
   m="2600750">for</span> <span m="2600870">today.</span></p>
 uid: 3edf8cfe67db52716640931f6ec6af30
-type: courses
+type: course
 layout: video
 ---

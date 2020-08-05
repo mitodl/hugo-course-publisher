@@ -73,6 +73,6 @@ technical_location: >-
 title: 'Lecture 27: Introduction to Transition Metals'
 transcript: ''
 uid: 16119a7075cc397f777a65c1c2aa5c46
-type: courses
+type: course
 layout: video
 ---

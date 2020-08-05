@@ -3,7 +3,7 @@ title: teamwork_memo.pdf
 description: >-
   This resource contains information on writing assignment addressing issues of
   teamwork.
-type: courses
+type: course
 layout: pdf
 uid: fb0ddb759d3889980e0fb46acd32e45d
 file_type: application/pdf

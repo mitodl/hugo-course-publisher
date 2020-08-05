@@ -1,7 +1,7 @@
 ---
 title: Packing List
 description: 'This resource contains the information related to travel packing. '
-type: courses
+type: course
 layout: pdf
 uid: a388dd244c6607136a649ec922e8f499
 file_type: application/pdf

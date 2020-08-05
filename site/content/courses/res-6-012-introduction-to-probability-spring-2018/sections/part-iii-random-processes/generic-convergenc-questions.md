@@ -128,6 +128,6 @@ transcript: >-
   three.</span></p><p><span m="321840">So what you have is that r21 of n will be
   1/2.</span></p><p>&nbsp;</p>
 uid: b4fcf7c7e894c6c63e9d3d53f38ecb9f
-type: courses
+type: course
 layout: video
 ---

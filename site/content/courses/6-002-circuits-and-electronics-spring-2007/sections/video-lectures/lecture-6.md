@@ -668,6 +668,6 @@ transcript: >-
   tomorrow or</span> <span m='2675000'>Thursday and tell me the answer,
   OK?</span> </p>
 uid: 2bdb3b7e5ed012f5d292ea9761f2e98f
-type: courses
+type: course
 layout: video
 ---

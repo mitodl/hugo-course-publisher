@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 12: Generating functions'
 description: This resource contains information about Generating functions.
-type: courses
+type: course
 layout: pdf
 uid: aadb9105d1139c866272ca0425fc6440
 file_type: application/pdf

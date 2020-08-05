@@ -1,7 +1,7 @@
 ---
 title: u03_ps07_fall03.pdf
 description: Problem set on starboard wing root.
-type: courses
+type: course
 layout: pdf
 uid: f18f83a193c5c4d485b1ab90f9154b7d
 file_type: application/pdf

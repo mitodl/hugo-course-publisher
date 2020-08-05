@@ -3,7 +3,7 @@ title: MIT18_02SC_we_17_comb.pdf
 description: >-
   This resource contains information related to tangent plane to a level
   surface. 
-type: courses
+type: course
 layout: pdf
 uid: 5ac021982a142a1524d3200d2659fe57
 file_type: application/pdf

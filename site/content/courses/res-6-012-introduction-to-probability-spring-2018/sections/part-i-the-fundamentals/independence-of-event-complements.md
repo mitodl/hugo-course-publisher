@@ -106,6 +106,6 @@ transcript: >-
   complement.</span></p><p><span m="175140">And this concludes the formal
   proof.</span></p><p>&nbsp;</p>
 uid: 1efa2b532b9b6a6bf1b56886d49b6f02
-type: courses
+type: course
 layout: video
 ---

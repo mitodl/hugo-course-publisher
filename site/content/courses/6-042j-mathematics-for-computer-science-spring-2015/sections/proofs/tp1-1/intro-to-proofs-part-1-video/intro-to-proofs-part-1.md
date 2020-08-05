@@ -787,6 +787,6 @@ transcript: >-
   <span m='568860'>these</span> <span m='569180'>proofs</span> <span
   m='569480'>[? by picture. ?]</span> </p>
 uid: 9fdcd69cdc60a24f2a977390725f5d26
-type: courses
+type: course
 layout: video
 ---

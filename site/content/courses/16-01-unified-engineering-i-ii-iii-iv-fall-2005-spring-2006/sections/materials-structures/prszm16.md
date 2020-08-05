@@ -1,7 +1,7 @@
 ---
 title: prszm16.pdf
 description: This resource contains concept questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: 11913b42b3e04710accc19ee612a62af
 file_type: application/pdf

@@ -581,6 +581,6 @@ transcript: >-
   m='600455'>in</span> <span m='600710'>quantum</span> <span
   m='601070'>mechanics.</span> </p>
 uid: eee94bf02571aeed899edbbd58b251a3
-type: courses
+type: course
 layout: video
 ---

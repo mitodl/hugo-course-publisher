@@ -24,6 +24,6 @@ technical_location: >-
 title: The Implications of Synthetic Biology
 transcript: ''
 uid: ab66be7ed1677e413c1ee9ce5b0993ec
-type: courses
+type: course
 layout: video
 ---

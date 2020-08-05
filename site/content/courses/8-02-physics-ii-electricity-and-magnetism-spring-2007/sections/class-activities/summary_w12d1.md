@@ -1,7 +1,7 @@
 ---
 title: summary_w12d1.pdf
 description: 'This resource is about LC, and Undriven LRC Circuits.'
-type: courses
+type: course
 layout: pdf
 uid: 4013cef536c711ffa14051b8666daf00
 file_type: application/pdf

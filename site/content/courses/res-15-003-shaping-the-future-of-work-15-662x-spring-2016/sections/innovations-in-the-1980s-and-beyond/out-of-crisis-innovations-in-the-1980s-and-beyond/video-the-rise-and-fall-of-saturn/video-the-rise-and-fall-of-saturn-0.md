@@ -527,6 +527,6 @@ transcript: >-
   m='387320'>the</span> <span m='387410'>Saturn</span> <span
   m='387790'>Corporation.</span> </p>
 uid: 3f6ce3c005a3b9a29bd3145aaf1c2f32
-type: courses
+type: course
 layout: video
 ---

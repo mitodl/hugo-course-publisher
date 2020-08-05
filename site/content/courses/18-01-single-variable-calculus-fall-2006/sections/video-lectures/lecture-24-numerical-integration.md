@@ -2857,6 +2857,6 @@ transcript: >-
   <span m='3026100'>show</span> <span m='3026410'>you</span> <span
   m='3027300'>next</span> <span m='3027640'>time.</span> </p>
 uid: 2e6350596694f1b8d54c7553bd491fd4
-type: courses
+type: course
 layout: video
 ---

@@ -36,6 +36,6 @@ technical_location: >-
 title: 'Two Guys, Two Girls and an Airplane: Pre-Flight Interview'
 transcript: ''
 uid: 7378c805823ea0a0624a712b8623b063
-type: courses
+type: course
 layout: video
 ---

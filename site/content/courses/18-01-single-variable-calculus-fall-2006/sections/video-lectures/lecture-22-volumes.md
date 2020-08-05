@@ -2794,6 +2794,6 @@ transcript: >-
   m='2994700'>boil</span> <span m='2995100'>the</span> <span
   m='2995160'>kettle.</span> </p>
 uid: 9eb8d9466728b9387a142a170345e611
-type: courses
+type: course
 layout: video
 ---

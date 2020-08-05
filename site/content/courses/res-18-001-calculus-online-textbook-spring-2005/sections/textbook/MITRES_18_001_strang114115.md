@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang114115.pdf
 description: This resource contains information related to vectors and matrices.
-type: courses
+type: course
 layout: pdf
 uid: d1964d4e51bc701cb838ddf004e7c305
 file_type: application/pdf

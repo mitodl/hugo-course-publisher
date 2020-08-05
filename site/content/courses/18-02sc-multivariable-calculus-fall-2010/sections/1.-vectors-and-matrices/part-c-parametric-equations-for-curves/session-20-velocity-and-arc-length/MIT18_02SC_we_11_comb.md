@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_we_11_comb.pdf
 description: 'This resource contains information related to speed and arc length. '
-type: courses
+type: course
 layout: pdf
 uid: ace008d8cf89108aed83cdbc979159fd
 file_type: application/pdf

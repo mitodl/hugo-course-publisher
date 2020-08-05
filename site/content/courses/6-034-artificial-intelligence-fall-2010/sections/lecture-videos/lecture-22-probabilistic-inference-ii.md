@@ -938,6 +938,6 @@ transcript: >-
   subject.</span> </p><p><span m='2909420'>And that's the end of the story for
   today.</span> </p><p></p>
 uid: 307ce222e2cf5554fd41c4ff21964cea
-type: courses
+type: course
 layout: video
 ---

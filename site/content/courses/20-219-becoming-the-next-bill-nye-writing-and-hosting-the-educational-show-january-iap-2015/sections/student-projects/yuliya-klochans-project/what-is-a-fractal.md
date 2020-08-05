@@ -128,6 +128,6 @@ transcript: >-
   awesome videos, and visit our website.<br /><br />Good.<br /><br />Now wait
   for it.<br /><br />OK.<br /><br />That's it.</p>
 uid: 6594298b14f3b172be086831319ae826
-type: courses
+type: course
 layout: video
 ---

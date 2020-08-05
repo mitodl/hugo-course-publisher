@@ -1,11 +1,11 @@
 ---
 title: Computers and Programming
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
+type: course
+layout: course_section
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
     identifier: 34c4c9914bb5d25150ee34713d7b7e3e
-    type: section
-    layout: section
     name: Computers and Programming
     weight: 140
 ---

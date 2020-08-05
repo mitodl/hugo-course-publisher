@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 16: Thermodynamics: Gibbs
   Free Energy and Entropy
 description: This resource contains information regarding lecture 16 problem.
-type: courses
+type: course
 layout: pdf
 uid: ebbe225755d138c063d89ae0292bd360
 file_type: application/pdf

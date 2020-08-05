@@ -3,7 +3,7 @@ title: 'Reading 1b: Counting and Sets'
 description: >-
   This resource file contains information regarding reading 1b: counting and
   sets.
-type: courses
+type: course
 layout: pdf
 uid: 250d5dfd399a5612d232cc337fc51fa9
 file_type: application/pdf

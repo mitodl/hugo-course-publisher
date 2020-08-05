@@ -1,7 +1,7 @@
 ---
 title: Society of Women Engineers Presentation
 description: This resource contains information regarding society of women engineers.
-type: courses
+type: course
 layout: pdf
 uid: fb38a3ed6c368a66a2fa76055e05afb4
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: MIT18_02SC_MNotes_m3.pdf
 description: >-
   This resource contains information related to homogeneous and inhomogeneous
   systems.
-type: courses
+type: course
 layout: pdf
 uid: ae721c48ce741018e1a3c2aefb6a8640
 file_type: application/pdf

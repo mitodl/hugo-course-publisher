@@ -2176,6 +2176,6 @@ transcript: >-
   m="2756860">it's 0.</span></p><p><span m="2758180">Okay.</span> <span
   m="2758440">Thank</span> <span m="2758730">you.</span></p>
 uid: 125c0920928e0fe37331acf5e6c074d3
-type: courses
+type: course
 layout: video
 ---

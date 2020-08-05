@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Derivative of ax'
 transcript: ''
 uid: 36a525be708637b37ccf72368ce1973e
-type: courses
+type: course
 layout: video
 ---

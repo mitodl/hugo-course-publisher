@@ -4896,6 +4896,6 @@ transcript: >-
   m='5046070'>done</span> <span m='5046540'>in</span> <span
   m='5046840'>class.</span> </p>
 uid: a4def4aea0124490cc6878f2bda5e28c
-type: courses
+type: course
 layout: video
 ---

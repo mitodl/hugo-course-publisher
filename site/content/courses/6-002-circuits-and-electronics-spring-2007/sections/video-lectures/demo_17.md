@@ -3,7 +3,7 @@ title: demo_17.pdf
 description: >-
   This resource contains a demo showing the behavior of an (inverting) op-amp
   integrator and differentiator.
-type: courses
+type: course
 layout: pdf
 uid: 11771c2adc52f05d65c3fc27fdacdc58
 file_type: application/pdf

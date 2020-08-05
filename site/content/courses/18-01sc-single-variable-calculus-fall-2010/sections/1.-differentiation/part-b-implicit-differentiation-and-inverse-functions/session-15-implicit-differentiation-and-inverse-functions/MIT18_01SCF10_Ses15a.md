@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses15a.pdf
 description: >-
   This resource contains information related to implicit differentiation and
   inverse functions.
-type: courses
+type: course
 layout: pdf
 uid: 157e1a358da2e7815736937bf75b8942
 file_type: application/pdf

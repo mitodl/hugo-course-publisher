@@ -3,7 +3,7 @@ title: MITRES_18_001_strang_9.pdf
 description: >-
   This resource contains information related to polar coordinates and complex
   numbers.
-type: courses
+type: course
 layout: pdf
 uid: 8c3142831bb2830b64f37e8aa15e820b
 file_type: application/pdf

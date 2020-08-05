@@ -3,7 +3,7 @@ title: Solutions to Problem Set 8
 description: >-
   This is a resource file that contains information regarding solutions to
   problem set 8.
-type: courses
+type: course
 layout: pdf
 uid: f8d250cc6f6a80115737309a2ca1308b
 file_type: application/pdf

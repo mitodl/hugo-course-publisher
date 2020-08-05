@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Problems: The Chain Rule with Constraints'
 description: This resource contains information regarding the chain rule with constraints.
-type: courses
+type: course
 layout: pdf
 uid: 1f3eb6a2d5a082739e4bdecdce5f62a1
 file_type: application/pdf

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Product Rule'
 transcript: ''
 uid: 161339963009898ac35cdb10ca8742fd
-type: courses
+type: course
 layout: video
 ---

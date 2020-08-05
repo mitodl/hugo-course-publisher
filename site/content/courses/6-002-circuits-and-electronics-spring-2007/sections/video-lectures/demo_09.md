@@ -3,7 +3,7 @@ title: demo_09.pdf
 description: >-
   This resource contains a demo which shows the amplification of small waveforms
   using a MOSFET, along with the limitations of such an amplifier.
-type: courses
+type: course
 layout: pdf
 uid: 3869d6abe7f912065ec6b99767bfb9ee
 file_type: application/pdf

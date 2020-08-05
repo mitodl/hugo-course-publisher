@@ -1,7 +1,7 @@
 ---
 title: Visualizing the Energies of Screw Dislocations
 course_id: res-3-004-visualizing-materials-science-fall-2017
-type: courses
+type: course
 layout: videogallery
 ---
 ![screw dislocation energies visualization](https://open-learning-course-data-ci.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/04ce4e69c82c31b4bab482220f7fd90b_MITRES_3_004F17_23_reddy.jpg)

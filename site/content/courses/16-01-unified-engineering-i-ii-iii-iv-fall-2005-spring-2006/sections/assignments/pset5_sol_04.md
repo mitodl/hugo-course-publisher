@@ -4,7 +4,7 @@ description: >-
   This file includes solutions to problems on Linkin Park, stagnation pressure,
   lateral central deflection, load-elongation characteristics, and Young's
   modulus.
-type: courses
+type: course
 layout: pdf
 uid: 09e1088a656d7889f9c96b76007c8969
 file_type: application/pdf

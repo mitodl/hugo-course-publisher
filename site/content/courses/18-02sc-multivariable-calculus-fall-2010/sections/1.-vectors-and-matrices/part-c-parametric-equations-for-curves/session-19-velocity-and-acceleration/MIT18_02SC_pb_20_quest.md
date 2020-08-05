@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_20_quest.pdf
 description: >-
   This resource contains problem statements related to velocity and
   acceleration.
-type: courses
+type: course
 layout: pdf
 uid: 72216820fcb729129ceab1cd4a79b291
 file_type: application/pdf

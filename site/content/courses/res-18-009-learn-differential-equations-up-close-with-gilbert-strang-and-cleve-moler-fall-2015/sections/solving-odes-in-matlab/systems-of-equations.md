@@ -644,6 +644,6 @@ transcript: >-
   m='845830'>the</span> <span m='848746'>Van der</span> <span
   m='849100'>Pol</span> <span m='849390'>oscillator.</span> </p>
 uid: 1b670bd42cb09649d26c3646caebcb5e
-type: courses
+type: course
 layout: video
 ---

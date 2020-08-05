@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_exam3.pdf
 description: This resource contains information related to integration.
-type: courses
+type: course
 layout: pdf
 uid: d888514d0c2dcfec354fd56b8f51dd89
 file_type: application/pdf

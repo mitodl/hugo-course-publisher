@@ -775,6 +775,6 @@ transcript: >-
   m='644340'>about</span> <span m='644560'>that.</span> <span m='644860'>So
   I'll</span> <span m='645150'>end</span> <span m='645310'>there.</span> </p>
 uid: 209a6a9663987c22aa7696627b30548b
-type: courses
+type: course
 layout: video
 ---

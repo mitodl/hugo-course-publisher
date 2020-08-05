@@ -687,6 +687,6 @@ transcript: >-
   m='457800'>Hn</span> <span m='458390'>over</span> <span m='458690'>2.</span>
   </p>
 uid: fec9fa7fd42c87782c91e2f8a73b3807
-type: courses
+type: course
 layout: video
 ---

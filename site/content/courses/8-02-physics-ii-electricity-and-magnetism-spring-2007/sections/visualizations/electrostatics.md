@@ -1,11 +1,11 @@
 ---
 title: Electrostatics
 course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
+type: course
+layout: course_section
 menu:
   8-02-physics-ii-electricity-and-magnetism-spring-2007:
     identifier: 38dfdd337b0a696543363b59a5c32899
-    type: section
-    layout: section
     name: Electrostatics
     weight: 100
     parent: ea1fcef11143e57e2f48a97bf8747dc2

@@ -136,6 +136,6 @@ transcript: >-
   <span m='73830'>the</span> <span m='73920'>right</span> <span
   m='74100'>answer.</span> </p>
 uid: d508dd6d8f8d79caca869a2dc2bdb72d
-type: courses
+type: course
 layout: video
 ---

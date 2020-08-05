@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Cylindrical Coordinates'
 transcript: ''
 uid: 45d82fc1352ff31dd7a9643e5786c074
-type: courses
+type: course
 layout: video
 ---

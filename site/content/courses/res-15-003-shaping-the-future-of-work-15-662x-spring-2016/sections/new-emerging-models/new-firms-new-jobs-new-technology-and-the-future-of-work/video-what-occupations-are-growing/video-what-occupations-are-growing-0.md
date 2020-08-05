@@ -462,6 +462,6 @@ transcript: >-
   m="307210">It's</span> <span m="307560">been</span> <span m="307830">my</span>
   <span m="307970">pleasure.</span></p>
 uid: 03d8f7532b91ab238ac0f180008a2ff6
-type: courses
+type: course
 layout: video
 ---

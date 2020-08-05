@@ -1,7 +1,7 @@
 ---
 title: s14_cqs.pdf
 description: Concept questions on Region of Convergence I.
-type: courses
+type: course
 layout: pdf
 uid: fa746caf30a1f9a54ce19f8ef68605cf
 file_type: application/pdf

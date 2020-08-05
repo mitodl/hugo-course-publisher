@@ -3,7 +3,7 @@ title: 'Intro to Proofs: Chapter 1.1 – 1.6'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Intro to proofs: Chapter 1.1 – 1.6.
-type: courses
+type: course
 layout: pdf
 uid: 1e9826ef9cda07d3ef10a95670a94e80
 file_type: application/pdf

@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Periodic Table; Ionic and
   Covalent Bonds.
-type: courses
+type: course
 layout: pdf
 uid: 3494ce8b12fe8b0fa1c84433eebdf175
 file_type: application/pdf

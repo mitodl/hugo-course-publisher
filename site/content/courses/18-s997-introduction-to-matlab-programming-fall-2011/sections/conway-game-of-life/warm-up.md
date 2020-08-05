@@ -1,11 +1,11 @@
 ---
 title: Warm-up
 course_id: 18-s997-introduction-to-matlab-programming-fall-2011
+type: course
+layout: course_section
 menu:
   18-s997-introduction-to-matlab-programming-fall-2011:
     identifier: 63b7f21b14f978802f147e5eef949b23
-    type: section
-    layout: section
     name: Warm-up
     weight: 270
     parent: 71d3260e1e774a0ead3b6b3411cacf8c

@@ -255,6 +255,6 @@ transcript: >-
   in a</span> <span m='833340'>systematic and organized manner.</span>
   </p><p></p>
 uid: 8b9eca393f3464166a14bb71ebd33381
-type: courses
+type: course
 layout: video
 ---

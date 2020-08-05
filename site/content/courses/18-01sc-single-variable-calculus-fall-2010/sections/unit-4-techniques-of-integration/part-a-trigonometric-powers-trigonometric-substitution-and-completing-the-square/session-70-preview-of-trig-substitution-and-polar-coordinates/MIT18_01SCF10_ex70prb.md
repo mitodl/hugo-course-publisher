@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex70prb.pdf
 description: This resource contains problem statements related to alternate solutions.
-type: courses
+type: course
 layout: pdf
 uid: 8b37b56d2f59ee41cc63f9e0410c4831
 file_type: application/pdf

@@ -139,6 +139,6 @@ transcript: >-
   energy momentum</span> <span m='352650'>relationship and kinetic energy or
   having quadratic equations.</span> </p><p></p>
 uid: 6d4d3ac5eee9311369bd5e469847f659
-type: courses
+type: course
 layout: video
 ---

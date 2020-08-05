@@ -3752,6 +3752,6 @@ transcript: >-
   m='2847580'>we'll</span> <span m='2847750'>answer</span> <span
   m='2848010'>that</span> <span m='2848170'>question.</span> </p>
 uid: ce67e8d3f89da7d2b014756a9e46b5d0
-type: courses
+type: course
 layout: video
 ---

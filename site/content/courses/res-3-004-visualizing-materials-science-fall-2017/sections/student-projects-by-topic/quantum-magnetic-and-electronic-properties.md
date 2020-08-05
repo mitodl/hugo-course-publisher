@@ -1,11 +1,11 @@
 ---
 title: 'Quantum, Magnetic, and Electronic Properties'
 course_id: res-3-004-visualizing-materials-science-fall-2017
+type: course
+layout: course_section
 menu:
   res-3-004-visualizing-materials-science-fall-2017:
     identifier: daa1261b8ee9e1381f0205eb7571bd3a
-    type: section
-    layout: section
     name: 'Quantum, Magnetic, and Electronic Properties'
     weight: 460
     parent: f62d5df839342533e0228b16ea71313c

@@ -618,6 +618,6 @@ transcript: >-
   m='562766'>more</span> <span m='563103'>in</span> <span m='563440'>the</span>
   <span m='563776'>next</span> <span m='564113'>video.</span> </p>
 uid: ed82049f677a8dce695983b3a25e0bb4
-type: courses
+type: course
 layout: video
 ---

@@ -1,11 +1,11 @@
 ---
 title: Syllabus
 course_id: 14-01sc-principles-of-microeconomics-fall-2011
+type: course
+layout: course_section
 menu:
   14-01sc-principles-of-microeconomics-fall-2011:
     identifier: 8abb293b49d8047a3f3674bfa02e78f7
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
 ---

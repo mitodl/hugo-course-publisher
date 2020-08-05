@@ -3,7 +3,7 @@ title: MIT18_02SC_MNotes_cv4.pdf
 description: >-
   This resource contains information related to changing coordinates in triple
   integrals.
-type: courses
+type: course
 layout: pdf
 uid: ab771b912c2e6220337c3e4ee7243a33
 file_type: application/pdf

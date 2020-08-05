@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex36prb.pdf
 description: >-
   This resource contains problem statements related to using differentials to
   study dynamics.
-type: courses
+type: course
 layout: pdf
 uid: 9832ec4cfd8ed8ebff5712987cad068c
 file_type: application/pdf

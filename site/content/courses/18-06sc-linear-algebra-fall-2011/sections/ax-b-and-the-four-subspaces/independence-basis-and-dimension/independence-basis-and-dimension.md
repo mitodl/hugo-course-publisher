@@ -2808,6 +2808,6 @@ transcript: >-
   m='2996780'>their</span> <span m='2996940'>dimensions.</span> </p><p><span
   m='2997280'>Thanks.</span> </p>
 uid: 0527d1f2fcfbf6a1f2493d724180b490
-type: courses
+type: course
 layout: video
 ---

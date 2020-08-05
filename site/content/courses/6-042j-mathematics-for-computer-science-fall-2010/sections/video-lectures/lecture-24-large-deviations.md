@@ -4606,6 +4606,6 @@ transcript: >-
   m='4995910'>that</span> <span m='4996120'>tomorrow</span> <span
   m='4996395'>in</span> <span m='4996670'>recitation.</span> </p>
 uid: fd00ebc47d5064099fe74db86b85c8b0
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: f04_sp.pdf
 description: >-
   This resource contains information on the topic of thin airfoil theory
   application: analysis example.
-type: courses
+type: course
 layout: pdf
 uid: 8d40a37bb73f450ae132d53dc4bc8cf7
 file_type: application/pdf

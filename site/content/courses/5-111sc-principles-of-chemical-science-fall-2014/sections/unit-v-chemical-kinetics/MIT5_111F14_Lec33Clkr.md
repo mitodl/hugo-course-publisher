@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Clicker Questions for Lecture 33: Temperature
   and kinetics
 description: This resource contains information regarding Kinetics and Temperature.
-type: courses
+type: course
 layout: pdf
 uid: 5eb4141d27fcf556dd05bc4291e16da3
 file_type: application/pdf

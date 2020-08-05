@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Spherical Coordinates'
 transcript: ''
 uid: 9da0902409dc45d3290afe9a6fba9306
-type: courses
+type: course
 layout: video
 ---

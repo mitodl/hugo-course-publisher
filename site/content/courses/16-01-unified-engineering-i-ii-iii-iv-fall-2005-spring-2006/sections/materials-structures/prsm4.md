@@ -3,7 +3,7 @@ title: prsm4.pdf
 description: >-
   This resource contains concept questions and answers based on cross sectional
   dimensions and distributed load.
-type: courses
+type: course
 layout: pdf
 uid: 89e24791cd42119b808ffeedba37c316
 file_type: application/pdf

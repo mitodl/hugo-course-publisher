@@ -3,7 +3,7 @@ title: 'Introduction to Probability: Lecture 24: Finite-State Markov Chains'
 description: >-
   This resource contains information regarding introduction to probability:
   Random processes: Finite-state Markov chains.
-type: courses
+type: course
 layout: pdf
 uid: b6df3134854be35c002ca7ba9991d428
 file_type: application/pdf

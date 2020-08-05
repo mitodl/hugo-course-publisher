@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 21 Slides: Topography'
 description: 'This file contains the information regarding lecture 21 Slides: Topography.'
-type: courses
+type: course
 layout: pdf
 uid: 3fe343fa2d8db5fef59ce836fae16ae1
 file_type: application/pdf

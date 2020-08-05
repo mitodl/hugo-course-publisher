@@ -1,16 +1,14 @@
 ---
 title: Complex Matrices; Fast Fourier Transform (FFT)
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: d2f78aa297e682ccaea120a362c5d934
-    type: section
-    layout: section
     name: Complex Matrices; Fast Fourier Transform (FFT)
     weight: 380
     parent: 34f596bc232822be5fba75646f6970c5
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/_index.md" %}}) »
 

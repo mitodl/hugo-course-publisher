@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016
 course_title: Introduction to Computer Science and Programming in Python
 course_image_url: >-

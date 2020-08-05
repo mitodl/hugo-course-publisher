@@ -3,7 +3,7 @@ title: fall_2003_pset12.pdf
 description: >-
   This resource contains problems on flows, axial stress, bending moments,
   stress and volumetric strains.
-type: courses
+type: course
 layout: pdf
 uid: 766fe6f3340d6e4493969904cfad7407
 file_type: application/pdf

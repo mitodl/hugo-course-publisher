@@ -411,6 +411,6 @@ transcript: >-
   m='344590'>of</span> <span m='345216'>low</span> <span
   m='345843'>expenses.</span> </p>
 uid: 7be44533ddfde8f005a1882a977d8dd2
-type: courses
+type: course
 layout: video
 ---

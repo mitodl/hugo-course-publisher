@@ -3222,6 +3222,6 @@ transcript: >-
   m='3028280'>very</span> <span m='3028480'>fast,</span> <span
   m='3029080'>linear</span> <span m='3029380'>time.</span> </p>
 uid: 75894ca06489f3b79b2da067cd1acdc7
-type: courses
+type: course
 layout: video
 ---

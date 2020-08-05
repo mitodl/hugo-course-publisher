@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Elementary Example of L''Hospital''s Rule'
 transcript: ''
 uid: 492ae1329d13c9e17660f08610a65d7b
-type: courses
+type: course
 layout: video
 ---

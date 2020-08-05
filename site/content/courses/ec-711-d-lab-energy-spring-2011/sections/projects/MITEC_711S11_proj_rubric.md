@@ -3,7 +3,7 @@ title: Design Project grading rubric used by instructors
 description: >-
   This resource contains the information related to Design Project grading
   rubric used by instructors.
-type: courses
+type: course
 layout: pdf
 uid: 16c217375a56941c0f49bf3df639d86d
 file_type: application/pdf

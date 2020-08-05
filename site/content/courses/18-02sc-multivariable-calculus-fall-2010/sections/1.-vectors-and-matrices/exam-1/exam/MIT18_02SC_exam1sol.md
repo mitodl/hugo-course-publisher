@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_exam1sol.pdf
 description: This resource contains information related to rear bumper.
-type: courses
+type: course
 layout: pdf
 uid: c77745b9eb93ee503a5e7f914907804b
 file_type: application/pdf

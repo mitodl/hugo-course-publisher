@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Recitation 10: Introduction to Dynamic Programming'
 transcript: ''
 uid: fb5dba0ee344dd177de9a66204345854
-type: courses
+type: course
 layout: video
 ---

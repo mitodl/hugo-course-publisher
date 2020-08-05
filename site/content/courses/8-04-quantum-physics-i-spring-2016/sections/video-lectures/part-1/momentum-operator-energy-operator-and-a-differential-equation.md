@@ -1004,6 +1004,6 @@ transcript: >-
   <span m='1223900'>second</span> <span m='1224620'>dx</span> <span
   m='1225230'>squared</span> <span m='1226980'>psi.</span> </p>
 uid: 9c288a7b540078baa05a1a02d1e3f985
-type: courses
+type: course
 layout: video
 ---

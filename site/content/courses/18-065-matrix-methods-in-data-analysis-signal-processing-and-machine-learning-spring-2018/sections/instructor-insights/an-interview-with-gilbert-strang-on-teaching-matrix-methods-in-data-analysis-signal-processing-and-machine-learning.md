@@ -532,6 +532,6 @@ transcript: >-
   m='482440'>best</span> <span m='482710'>job</span> <span
   m='483040'>possible.</span> </p>
 uid: eb3049b4868afd9982215f1dc9da655b
-type: courses
+type: course
 layout: video
 ---

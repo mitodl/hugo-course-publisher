@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses16a.pdf
 description: this resource contains information related to the derivative of a^x.
-type: courses
+type: course
 layout: pdf
 uid: b24b2d455e45059be6ba7e2efb4d6529
 file_type: application/pdf

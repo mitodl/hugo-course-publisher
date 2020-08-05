@@ -210,6 +210,6 @@ transcript: >-
   m='541520'>that will give you some intuition about the source</span> <span
   m='544280'>of the discrepancy between these two answers.</span> </p><p></p>
 uid: 87972054905b75532c5dfa54c6aa2e79
-type: courses
+type: course
 layout: video
 ---

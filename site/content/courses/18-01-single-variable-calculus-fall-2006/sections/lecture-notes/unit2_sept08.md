@@ -6,7 +6,7 @@ description: >-
   problems, related rates, Newton's method and other applications, mean value
   theorem, inequalities, differentials, antiderivatives, differential equations,
   and separation of variables.
-type: courses
+type: course
 layout: pdf
 uid: 97124709de1bc662ca39fd2acfee25c0
 file_type: application/pdf

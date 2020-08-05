@@ -3,7 +3,7 @@ title: '18.02SC Problems and Solutions: Problems: Exchanging the Order of Integr
 description: >-
   This resource contains information regarding exchanging the order of
   integration.
-type: courses
+type: course
 layout: pdf
 uid: b56c4f0c997a865de64d4405aa76304a
 file_type: application/pdf

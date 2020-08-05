@@ -3,7 +3,7 @@ title: number_systems.pdf
 description: >-
   Lecture C5 handout. The goal of this handout is to make you comfortable with
   the binary number system.
-type: courses
+type: course
 layout: pdf
 uid: 84063b268408fcd4398c0ac44dfd6db5
 file_type: application/pdf

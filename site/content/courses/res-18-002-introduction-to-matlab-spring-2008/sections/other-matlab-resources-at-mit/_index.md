@@ -1,11 +1,11 @@
 ---
 title: Other MATLAB® Resources at MIT
 course_id: res-18-002-introduction-to-matlab-spring-2008
+type: course
+layout: course_section
 menu:
   res-18-002-introduction-to-matlab-spring-2008:
     identifier: 4ebd3cc669a0551c5da67211a532469f
-    type: section
-    layout: section
     name: Other MATLAB® Resources at MIT
     weight: 40
 ---

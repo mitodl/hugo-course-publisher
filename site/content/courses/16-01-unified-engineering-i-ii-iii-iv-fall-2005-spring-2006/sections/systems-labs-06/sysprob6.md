@@ -1,7 +1,7 @@
 ---
 title: sysprob6.pdf
 description: This file contains the system problem based on rover software design.
-type: courses
+type: course
 layout: pdf
 uid: 527df5181c6beafec2309cc655845fc5
 file_type: application/pdf

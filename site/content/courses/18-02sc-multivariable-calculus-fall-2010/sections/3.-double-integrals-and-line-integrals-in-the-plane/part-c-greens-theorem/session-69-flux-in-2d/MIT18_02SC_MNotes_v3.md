@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_v3.pdf
 description: This resource contains information related to two-dimensional flux.
-type: courses
+type: course
 layout: pdf
 uid: d4d8e457e8dd0c8c92f24234b52e87ae
 file_type: application/pdf

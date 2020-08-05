@@ -5142,6 +5142,6 @@ transcript: >-
   m='5024810'>this</span> <span m='5025410'>next</span> <span
   m='5025710'>time.</span> </p>
 uid: ad044d6794076af93f15efb8a34bb8d3
-type: courses
+type: course
 layout: video
 ---

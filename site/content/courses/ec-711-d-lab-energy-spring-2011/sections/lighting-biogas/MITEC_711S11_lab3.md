@@ -1,7 +1,7 @@
 ---
 title: Lab 3 instructions
 description: This resource contains information related to Lab 3 instructions.
-type: courses
+type: course
 layout: pdf
 uid: 612c5dec27642281008a61791f840394
 file_type: application/pdf

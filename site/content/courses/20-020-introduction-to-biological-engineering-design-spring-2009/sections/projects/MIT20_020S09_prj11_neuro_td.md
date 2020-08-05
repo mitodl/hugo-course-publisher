@@ -3,7 +3,7 @@ title: MIT20_020S09_prj11_neuro_td.pdf
 description: >-
   This file includes a narrative and technical documentation on the problem of
   sleeping. 
-type: courses
+type: course
 layout: pdf
 uid: 390dda4d72444e24c8325b3657a5aa2c
 file_type: application/pdf

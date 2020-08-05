@@ -3,7 +3,7 @@ title: 'Class 23 Slides: Confidence intervals II'
 description: >-
   This is a resource file that contains information regarding confidence
   intervals II.
-type: courses
+type: course
 layout: pdf
 uid: ab1d438a237d8c3c62b15e07db021ca5
 file_type: application/pdf

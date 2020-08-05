@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Problems: Spherical Coordinates'
 description: This resource contains information regarding spherical coordinates.
-type: courses
+type: course
 layout: pdf
 uid: 41955983603b4b7d2f98323493903430
 file_type: application/pdf

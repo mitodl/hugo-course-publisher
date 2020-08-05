@@ -1,11 +1,11 @@
 ---
 title: Calendar
 course_id: 6-006-introduction-to-algorithms-fall-2011
+type: course
+layout: course_section
 menu:
   6-006-introduction-to-algorithms-fall-2011:
     identifier: 2614e308dd07490fb25081df82b2e3c9
-    type: section
-    layout: section
     name: Calendar
     weight: 30
 ---

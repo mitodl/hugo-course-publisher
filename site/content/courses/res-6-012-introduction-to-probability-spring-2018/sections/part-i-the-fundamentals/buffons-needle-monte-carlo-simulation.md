@@ -1013,6 +1013,6 @@ transcript: >-
   m='967885'>and</span> <span m='968140'>in</span> <span m='968500'>many</span>
   <span m='968830'>important</span> <span m='969460'>applications.</span> </p>
 uid: 22ce65dc5170821fdf33ef71a9e42624
-type: courses
+type: course
 layout: video
 ---

@@ -1,15 +1,13 @@
 ---
 title: 'Part I: The Fundamentals'
 course_id: res-6-012-introduction-to-probability-spring-2018
+type: course
+layout: videogallery
 menu:
   res-6-012-introduction-to-probability-spring-2018:
     identifier: 9ca6b310dc93095c9ac0f0e5f95e6930
-    type: section
-    layout: section
     name: 'Part I: The Fundamentals'
     weight: 10
-type: courses
-layout: videogallery
 ---
 The videos in Part I introduce the general framework of probability models, multiple discrete or continuous random variables, expectations, conditional distributions, and various powerful tools of general applicability.
 

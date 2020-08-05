@@ -3,7 +3,7 @@ title: MIT20_020S09_lec3_wk3_st3f.pdf
 description: >-
   This lecture includes notes on biofuels and their related problems and issues,
   and potential solutions. 
-type: courses
+type: course
 layout: pdf
 uid: f91aecbfb44c389b000233bbf9505686
 file_type: application/pdf

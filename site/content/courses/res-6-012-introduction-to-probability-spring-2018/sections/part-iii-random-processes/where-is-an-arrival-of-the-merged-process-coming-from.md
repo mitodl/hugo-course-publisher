@@ -142,6 +142,6 @@ transcript: >-
   each other</span> <span m='293670'>as a consequence of the independence of
   Poisson</span> <span m='296880'>processes across time.</span> </p>
 uid: bba99d654ba672ec795ed360073c8449
-type: courses
+type: course
 layout: video
 ---

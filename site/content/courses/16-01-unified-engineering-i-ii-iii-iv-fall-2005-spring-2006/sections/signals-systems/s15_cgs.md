@@ -1,7 +1,7 @@
 ---
 title: s15_cgs.pdf
 description: Concept questions on Response of Smoother to Pulse.
-type: courses
+type: course
 layout: pdf
 uid: 2103453a658b7bda8dc4a1d85c9596b3
 file_type: application/pdf

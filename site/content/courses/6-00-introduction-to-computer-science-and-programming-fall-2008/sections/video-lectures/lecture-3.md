@@ -4367,6 +4367,6 @@ transcript: >-
   m='3055600'>see</span> <span m='3055730'>you</span> <span
   m='3055810'>next</span> <span m='3056030'>time.</span> </p>
 uid: 47da00c9fbafffb016dd0d6498b4831c
-type: courses
+type: course
 layout: video
 ---

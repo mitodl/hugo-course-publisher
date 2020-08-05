@@ -3,7 +3,7 @@ title: summary_w01d1.pdf
 description: >-
   This resource is contains information on  introduction to TEAL; fields; review
   of gravity; electric field.
-type: courses
+type: course
 layout: pdf
 uid: 7945867d6ee2847fbb3321be12cceee8
 file_type: application/pdf

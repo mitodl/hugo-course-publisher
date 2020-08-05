@@ -4,7 +4,7 @@ description: >-
   This resource contains informations about directions of the forces, static
   charges accelerating direction, and the direction  of moving charges causing
   them to accelerate.
-type: courses
+type: course
 layout: pdf
 uid: 30ddddf5941f48939557c2e675d9985d
 file_type: application/pdf

@@ -3266,6 +3266,6 @@ transcript: >-
   m='2772410'>choices</span> <span m='2772760'>you</span> <span
   m='2772860'>make.</span> </p>
 uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
-type: courses
+type: course
 layout: video
 ---

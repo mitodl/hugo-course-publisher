@@ -4838,6 +4838,6 @@ transcript: >-
   m="4924230">this</span> <span m="4924470">was</span> <span
   m="4925970">educational.</span></p>
 uid: 68129134481ce0fe4c440b60b48211d8
-type: courses
+type: course
 layout: video
 ---

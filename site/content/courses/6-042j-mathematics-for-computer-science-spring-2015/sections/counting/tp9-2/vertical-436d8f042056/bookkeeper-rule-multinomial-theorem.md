@@ -610,6 +610,6 @@ transcript: >-
   m='468940'>functions</span> <span m='469480'>next</span> <span
   m='469800'>week.</span> </p>
 uid: ce4dc5d1bff830ad38fc54869fa87bf8
-type: courses
+type: course
 layout: video
 ---

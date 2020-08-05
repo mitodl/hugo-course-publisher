@@ -1,11 +1,11 @@
 ---
 title: Lecture and Studio Notes
 course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
+type: course
+layout: course_section
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: 6b3904784bb4fa184e86cd14829a747e
-    type: section
-    layout: section
     name: Lecture and Studio Notes
     weight: 20
 ---

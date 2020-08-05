@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses61c.pdf
 description: This resource contains information about integrals and weighted averages.
-type: courses
+type: course
 layout: pdf
 uid: d9ddb3fceb1e2ced3dd2468d2754279c
 file_type: application/pdf

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 4: Summary of Trig Integration'
 transcript: ''
 uid: cc4fcfaf0b5e5948e7a10786f114764d
-type: courses
+type: course
 layout: video
 ---

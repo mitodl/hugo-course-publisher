@@ -3,7 +3,7 @@ title: 'Lecture 23: Work, Average Value, Probability'
 description: >-
   Lecture notes on application of integration to average value, volume by
   slices, work, average value, and probability.
-type: courses
+type: course
 layout: pdf
 uid: c9b0814986c30ee6aca81d0c9b3614d6
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: >-
   Electromagnetic Field Theory - A Problem-Solving Approach – Note to the
   student and instructor
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 1370275f8b7015eac637bd24388473e0
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Session 102: Unit 4 Review'
 course_id: 18-02sc-multivariable-calculus-fall-2010
-type: courses
+type: course
 layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/final-exam-1/review/session-101-unit-3-review/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/final-exam-1/final-exam/_index.md" %}}) »

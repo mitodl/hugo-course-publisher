@@ -531,6 +531,6 @@ transcript: >-
   m="428380">and</span> <span m="430540">it</span> <span m="430660">will</span>
   <span m="430750">be</span> <span m="430850">interesting.</span></p>
 uid: ac60cc1def08910f8c3350c168eb6bf4
-type: courses
+type: course
 layout: video
 ---

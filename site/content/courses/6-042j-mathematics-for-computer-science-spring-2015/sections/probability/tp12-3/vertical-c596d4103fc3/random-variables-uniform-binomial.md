@@ -869,6 +869,6 @@ transcript: >-
   m='690500'>space</span> <span m='691260'>to</span> <span
   m='691490'>values.</span> </p>
 uid: 985788317dbed7e7520f8170d2a61c95
-type: courses
+type: course
 layout: video
 ---

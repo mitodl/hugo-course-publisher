@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 6: Driven Oscillators, Resonance'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
+type: course
+layout: videogallery
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: cf85feedf452d0893365f5c9eca3acb0
-    type: section
-    layout: section
     name: 'Lecture 6: Driven Oscillators, Resonance'
     weight: 90
     parent: 6682a3d163976bcbb2fbe67db27d8f04
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-5/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-7/_index.md" %}}) »
 

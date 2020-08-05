@@ -104,6 +104,6 @@ transcript: >-
   m='200900'>Which means we have a decrease in velocity,</span> <span
   m='205480'>which means my sled will eventually come to a stop.</span> </p>
 uid: 7548953897a79a4e9af454f6d7ad020f
-type: courses
+type: course
 layout: video
 ---

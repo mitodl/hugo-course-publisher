@@ -36,6 +36,6 @@ technical_location: >-
 title: 'Team 9: Post-Flight Interview'
 transcript: ''
 uid: f87c4fd225c6621bc832e16ec080dbeb
-type: courses
+type: course
 layout: video
 ---

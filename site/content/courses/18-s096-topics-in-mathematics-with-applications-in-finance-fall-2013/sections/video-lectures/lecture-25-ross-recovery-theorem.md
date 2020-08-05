@@ -5364,6 +5364,6 @@ transcript: >-
   m='5262610'>to</span> <span m='5262650'>say</span> <span
   m='5262980'>today.</span> <span m='5263410'>Thanks.</span> </p>
 uid: f891df1551a756f8896f269b14c4a827
-type: courses
+type: course
 layout: video
 ---

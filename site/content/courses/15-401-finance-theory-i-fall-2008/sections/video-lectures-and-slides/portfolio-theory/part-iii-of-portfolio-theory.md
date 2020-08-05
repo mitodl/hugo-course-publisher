@@ -5872,6 +5872,6 @@ transcript: >-
   m='4711290'>stop</span> <span m='4711560'>here, and</span> <span
   m='4711860'>I'll see you on</span> <span m='4712160'>Wednesday.</span> </p>
 uid: 1b85dfefb52a2a91920ea98584a224c2
-type: courses
+type: course
 layout: video
 ---

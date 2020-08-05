@@ -2698,6 +2698,6 @@ transcript: >-
   m="2960210">eigenvectors</span> <span m="2961050">on</span> <span
   m="2962100">Wednesday.</span></p>
 uid: 35e13b17714efc16c2487c9d6fdb8f0c
-type: courses
+type: course
 layout: video
 ---

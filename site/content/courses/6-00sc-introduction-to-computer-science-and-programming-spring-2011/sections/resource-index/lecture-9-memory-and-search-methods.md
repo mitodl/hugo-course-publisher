@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 9: Memory and Search Methods'
 transcript: ''
 uid: 30085f02c8a610b99abc013193b6eca3
-type: courses
+type: course
 layout: video
 ---

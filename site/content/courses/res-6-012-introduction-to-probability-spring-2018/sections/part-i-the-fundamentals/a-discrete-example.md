@@ -143,6 +143,6 @@ transcript: >-
   a whole lecture devoted to this</span> <span m="309740">particular
   topic.</span></p><p>&nbsp;</p>
 uid: 0ca41fc2ad952e9212e490f38c647170
-type: courses
+type: course
 layout: video
 ---

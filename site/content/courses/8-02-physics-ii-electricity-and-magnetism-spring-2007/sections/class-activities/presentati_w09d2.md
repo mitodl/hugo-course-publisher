@@ -1,7 +1,7 @@
 ---
 title: presentati_w09d2.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: e38edf6c9eaae1abb5d30435a695d9b4
 file_type: application/pdf

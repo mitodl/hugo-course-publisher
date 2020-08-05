@@ -3,7 +3,7 @@ title: 'Coloring & Connectivity: Chapter 11.7 – 11.9'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Coloring &connectivity: Chapter 11.7 – 11.9.
-type: courses
+type: course
 layout: pdf
 uid: 30a57b4eeeca0a003d030e0cad926d7c
 file_type: application/pdf

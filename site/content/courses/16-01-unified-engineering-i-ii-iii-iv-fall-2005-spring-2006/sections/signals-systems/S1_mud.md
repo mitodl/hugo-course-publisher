@@ -1,7 +1,7 @@
 ---
 title: S1_mud.pdf
 description: Review questions and answers on Responses?to?MuddiestPartoftheLecture?Cards.
-type: courses
+type: course
 layout: pdf
 uid: 099bb889a363d3f66723ad16038f7daf
 file_type: application/pdf

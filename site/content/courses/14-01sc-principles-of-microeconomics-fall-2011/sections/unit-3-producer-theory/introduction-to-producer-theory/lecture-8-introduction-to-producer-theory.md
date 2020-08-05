@@ -2798,6 +2798,6 @@ transcript: >-
   m='2239350'>production</span> <span m='2239870'>on</span> <span
   m='2240090'>Wednesday.</span> </p>
 uid: 47cecaae1ca13f9de21d3b2201d0fa12
-type: courses
+type: course
 layout: video
 ---

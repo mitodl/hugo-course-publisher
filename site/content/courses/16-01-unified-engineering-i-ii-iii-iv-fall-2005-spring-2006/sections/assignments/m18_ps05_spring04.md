@@ -1,7 +1,7 @@
 ---
 title: m18_ps05_spring04.pdf
 description: This resource provides a problem set based on damage tolerance requirements.
-type: courses
+type: course
 layout: pdf
 uid: cfb52f3f43021768ad240d8cfc5ff812
 file_type: application/pdf

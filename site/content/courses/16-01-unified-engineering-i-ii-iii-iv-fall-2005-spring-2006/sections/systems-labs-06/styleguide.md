@@ -1,7 +1,7 @@
 ---
 title: styleguide.pdf
 description: This file contains the Style Guide for 16.62x Experimental Projects.
-type: courses
+type: course
 layout: pdf
 uid: 763c8a71f9bfa199d7a16c9fdc21808b
 file_type: application/pdf

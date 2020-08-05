@@ -196,6 +196,6 @@ transcript: >-
   time</span> <span m='568520'>interval [has] a geometric distribution</span>
   <span m='572030'>that's shifted by 1 to the left.</span> </p><p></p>
 uid: 0ee0afc0169d032d1b36bbc8a9a48208
-type: courses
+type: course
 layout: video
 ---

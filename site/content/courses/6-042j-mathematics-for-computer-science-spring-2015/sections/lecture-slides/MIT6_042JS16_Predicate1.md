@@ -3,7 +3,7 @@ title: 'Quantifiers & Predicate Logic: Predicate Logic 1'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: bbe6649c18e14b978bf68a48ad42a165
 file_type: application/pdf

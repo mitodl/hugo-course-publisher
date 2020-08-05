@@ -851,6 +851,6 @@ transcript: >-
   m='924250'>have</span> <span m='924460'>lots</span> <span m='924760'>of</span>
   <span m='924880'>practice.</span> </p>
 uid: 7d64dd668c86a9a9a0bcaa9874ac7407
-type: courses
+type: course
 layout: video
 ---

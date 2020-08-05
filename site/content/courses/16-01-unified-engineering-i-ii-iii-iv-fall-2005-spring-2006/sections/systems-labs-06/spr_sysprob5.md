@@ -3,7 +3,7 @@ title: spr_sysprob5.pdf
 description: >-
   This file contains notes for the objectives, files and overview for Graphical
   Priority Queue.
-type: courses
+type: course
 layout: pdf
 uid: ffbcf3faffad503a49dcf71cbba47c4f
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: mudzm4.pdf
 description: >-
   This resource contains review questions and answers based on vertical force,
   rotation and reaction forces.
-type: courses
+type: course
 layout: pdf
 uid: 1dbdd16f21e9b441d2659175380cdc5a
 file_type: application/pdf

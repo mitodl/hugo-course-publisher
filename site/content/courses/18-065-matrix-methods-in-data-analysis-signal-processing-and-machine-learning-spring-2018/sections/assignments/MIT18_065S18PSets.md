@@ -1,7 +1,7 @@
 ---
 title: 18.065 S18 Problem Sets
 description: null
-type: courses
+type: course
 layout: pdf
 uid: cd4c57b7e61b8ca9fdd3511a30aca052
 file_type: application/pdf

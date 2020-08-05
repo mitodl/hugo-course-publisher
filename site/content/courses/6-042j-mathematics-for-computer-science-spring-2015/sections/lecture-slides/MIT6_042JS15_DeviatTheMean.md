@@ -1,7 +1,7 @@
 ---
 title: 'Deviation: Markov & Chebyshev Bounds: Deviation From The Mean'
 description: This file contains information regarding deviation from the mean.
-type: courses
+type: course
 layout: pdf
 uid: 9faf0dc385c6cd2f413d970915f8dd8b
 file_type: application/pdf

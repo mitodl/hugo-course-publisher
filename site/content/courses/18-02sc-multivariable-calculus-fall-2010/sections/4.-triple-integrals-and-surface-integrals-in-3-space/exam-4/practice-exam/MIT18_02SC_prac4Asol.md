@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_prac4Asol.pdf
 description: This resource contains information related to stokes’ theorem.
-type: courses
+type: course
 layout: pdf
 uid: 3286570023a551d06088b1f4ce317382
 file_type: application/pdf

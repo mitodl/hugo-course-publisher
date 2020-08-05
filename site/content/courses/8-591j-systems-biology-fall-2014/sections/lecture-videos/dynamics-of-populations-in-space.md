@@ -4769,6 +4769,6 @@ transcript: >-
   m="4841950">in</span> <span m="4842240">ecology.</span> <span
   m="4842500">Thanks.</span></p>
 uid: f0dbae7f0eb1d94ebf14d50bd5a75fc7
-type: courses
+type: course
 layout: video
 ---

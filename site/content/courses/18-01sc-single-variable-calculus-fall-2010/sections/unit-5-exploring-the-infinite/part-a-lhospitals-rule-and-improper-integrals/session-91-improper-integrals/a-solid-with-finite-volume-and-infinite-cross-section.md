@@ -505,6 +505,6 @@ transcript: >-
   m='358110'>now</span> <span m='358340'>I</span> <span m='358420'>really</span>
   <span m='358710'>will stop there.</span> </p>
 uid: 16c3a93c75ed2b8f0a7c0ec1283c142b
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 27: Introduction to Transition Metals'
 description: This file contains information regarding lecture 27.
-type: courses
+type: course
 layout: pdf
 uid: a2f070d4000a6fc342c6a941aa9e254c
 file_type: application/pdf

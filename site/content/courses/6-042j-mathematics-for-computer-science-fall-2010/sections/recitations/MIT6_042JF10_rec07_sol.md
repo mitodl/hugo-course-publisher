@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_rec07_sol.pdf
 description: 'This resource contains solutions of stable marriage problem. '
-type: courses
+type: course
 layout: pdf
 uid: 264c08ac4d6737d1d190c319076c0339
 file_type: application/pdf

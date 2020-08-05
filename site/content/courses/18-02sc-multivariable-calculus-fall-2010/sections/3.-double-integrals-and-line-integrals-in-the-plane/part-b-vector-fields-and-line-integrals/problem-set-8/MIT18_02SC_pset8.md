@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pset8.pdf
 description: This resource contains information related to parametrization.
-type: courses
+type: course
 layout: pdf
 uid: 2815cfe2c21de819fe5c0fa11165308c
 file_type: application/pdf

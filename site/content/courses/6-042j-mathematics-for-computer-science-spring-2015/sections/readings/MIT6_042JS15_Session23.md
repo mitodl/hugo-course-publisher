@@ -3,7 +3,7 @@ title: 'Sums & Products: Chapter 13.1 – 13.5'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Sums & products: Chapter 13.1 – 13.5.
-type: courses
+type: course
 layout: pdf
 uid: 83cce691604be64fbc2a72de1b37fdf7
 file_type: application/pdf

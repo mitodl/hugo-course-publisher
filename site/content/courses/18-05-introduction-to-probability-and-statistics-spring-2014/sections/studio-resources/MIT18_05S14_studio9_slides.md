@@ -3,7 +3,7 @@ title: 'Studio 9 Slides: NHST; comparing frequentist and Bayesian methods'
 description: >-
   This is a resource file that contains information regarding NHST; comparing
   frequentist and bayesian methods.
-type: courses
+type: course
 layout: pdf
 uid: 2e1d60696fea316382b2ca9b0998f83a
 file_type: application/pdf

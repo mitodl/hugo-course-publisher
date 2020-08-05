@@ -1,7 +1,7 @@
 ---
 title: mMIT18_01SCF10_Ses64a.pdf
 description: 'This resource contains information about numerical integration, continued.'
-type: courses
+type: course
 layout: pdf
 uid: 85fe52841cc95fcfbd6cb13d068be87e
 file_type: application/pdf

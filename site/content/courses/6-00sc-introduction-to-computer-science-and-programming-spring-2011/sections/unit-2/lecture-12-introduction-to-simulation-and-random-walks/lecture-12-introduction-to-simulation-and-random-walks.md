@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 12: Introduction to Simulation and Random Walks'
 transcript: ''
 uid: 96823d86e5ecea67fe3c3826c9060125
-type: courses
+type: course
 layout: video
 ---

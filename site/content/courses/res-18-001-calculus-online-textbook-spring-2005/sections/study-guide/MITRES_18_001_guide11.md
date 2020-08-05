@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_guide11.pdf
 description: This resource contains information related to vectors and matrices.
-type: courses
+type: course
 layout: pdf
 uid: 44075269ffe565de43d020803d8adbf9
 file_type: application/pdf

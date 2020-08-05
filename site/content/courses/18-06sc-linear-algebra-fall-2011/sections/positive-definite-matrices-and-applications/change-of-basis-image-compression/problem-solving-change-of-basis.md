@@ -749,6 +749,6 @@ transcript: >-
   <span m='742980'>wanted</span> <span m='743230'>to</span> <span
   m='743290'>say</span> <span m='743590'>today.</span> </p>
 uid: f8d7b2452e7d3cfd273c771a2e623e34
-type: courses
+type: course
 layout: video
 ---

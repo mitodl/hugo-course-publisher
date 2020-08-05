@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_16_comb.pdf
 description: >-
   This resource contains problem statements and solutions related to solutions
   of square systems.
-type: courses
+type: course
 layout: pdf
 uid: 19b79f0006b255c6e424850f9ea0a810
 file_type: application/pdf

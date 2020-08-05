@@ -168,6 +168,6 @@ transcript: >-
   very little difference.</span> </p><p><span m='367410'>And this concludes our
   discussion</span> <span m='369490'>of confidence intervals.</span> </p><p></p>
 uid: 7942309b2a999c792f676ff9818478da
-type: courses
+type: course
 layout: video
 ---

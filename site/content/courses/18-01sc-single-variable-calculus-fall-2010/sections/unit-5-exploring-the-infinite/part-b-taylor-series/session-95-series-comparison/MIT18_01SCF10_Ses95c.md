@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses95c.pdf
 description: This resource contains informations related to series comparison.
-type: courses
+type: course
 layout: pdf
 uid: a960e6b8441b5e3ec8acc385397c2fd6
 file_type: application/pdf

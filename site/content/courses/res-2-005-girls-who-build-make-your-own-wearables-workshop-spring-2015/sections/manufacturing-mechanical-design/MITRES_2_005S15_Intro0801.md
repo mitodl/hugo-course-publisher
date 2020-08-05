@@ -3,7 +3,7 @@ title: 'Lecture 1: Introduction to Manufacturing'
 description: >-
   This file contains information regarding lecture 1: introduction to
   manufacturing.
-type: courses
+type: course
 layout: pdf
 uid: 979cae1875e3201f8e528346c4b04f93
 file_type: application/pdf

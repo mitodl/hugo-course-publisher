@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Acid-base Equilibrium: Is MIT
   Water Safe to Drink?
-type: courses
+type: course
 layout: pdf
 uid: b798c1c7251ac73169fa01bf853dbcaa
 file_type: application/pdf

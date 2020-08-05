@@ -857,6 +857,6 @@ transcript: >-
   m='945940'>this</span> <span m='946360'>very</span> <span
   m='947300'>straightforward.</span> </p>
 uid: 385f9ad2a9be5e04d4cc922accd184c3
-type: courses
+type: course
 layout: video
 ---

@@ -2751,6 +2751,6 @@ transcript: >-
   m="2927730">web</span> <span m="2927740">this</span> <span
   m="2927750">afternoon.</span> <span m="2927890">Thanks.</span></p>
 uid: 3249e5e2f0159ecd5dd9c524465320f6
-type: courses
+type: course
 layout: video
 ---

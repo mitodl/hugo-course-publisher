@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Newton''s Method, Continued '
 transcript: ''
 uid: 4cd4d51a2040105e4c74b3dfba9c6fb7
-type: courses
+type: course
 layout: video
 ---

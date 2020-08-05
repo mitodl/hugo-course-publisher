@@ -176,6 +176,6 @@ transcript: >-
   m='90100'>you</span> <span m='90200'>enjoy</span> <span m='90490'>the</span>
   <span m='90570'>course.</span> </p>
 uid: 2547cf01da0b99ec42445f9536beba08
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 31: Nuclear Chemistry and Chemical Kinetics'
 description: This file contains information regarding  lecture 31.
-type: courses
+type: course
 layout: pdf
 uid: 72bd5fcfafd87b81e56e5b5c96e6b153
 file_type: application/pdf

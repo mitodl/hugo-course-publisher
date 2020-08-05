@@ -3,7 +3,7 @@ title: m01_ps06_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on
   equilibrium, extension and deflection.
-type: courses
+type: course
 layout: pdf
 uid: 2b95cb342d0ec74d65c1fa6ea96c8cc6
 file_type: application/pdf

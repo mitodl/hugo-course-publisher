@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex11prb.pdf
 description: This resource contains problem statements related to quotient rule.
-type: courses
+type: course
 layout: pdf
 uid: cc1f0327010197b9b87e66b3408b27ec
 file_type: application/pdf

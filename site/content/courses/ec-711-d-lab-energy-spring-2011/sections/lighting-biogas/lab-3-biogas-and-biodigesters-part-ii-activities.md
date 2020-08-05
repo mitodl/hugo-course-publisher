@@ -41,6 +41,6 @@ technical_location: >-
 title: 'Lab 3: Biogas and Biodigesters, Part II: Activities'
 transcript: ''
 uid: 284a0b04cb5651fa1d60257d13b0abf3
-type: courses
+type: course
 layout: video
 ---

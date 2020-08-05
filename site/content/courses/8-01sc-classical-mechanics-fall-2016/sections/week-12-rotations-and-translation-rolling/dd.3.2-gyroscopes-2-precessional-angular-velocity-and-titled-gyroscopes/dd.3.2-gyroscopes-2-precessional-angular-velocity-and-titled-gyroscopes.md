@@ -778,6 +778,6 @@ transcript: >-
   m='832120'>of</span> <span m='832300'>the</span> <span
   m='832390'>vector.</span> </p><p></p>
 uid: 114c6b8b2f982d2303b62101045d2118
-type: courses
+type: course
 layout: video
 ---

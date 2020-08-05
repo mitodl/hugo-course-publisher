@@ -465,6 +465,6 @@ transcript: >-
   m='436312'>recitation</span> <span m='436578'>and</span> <span
   m='436844'>homework</span> <span m='437110'>assignment.</span> </p>
 uid: 089338df15512aaaa9b2ecfa6f4369c9
-type: courses
+type: course
 layout: video
 ---

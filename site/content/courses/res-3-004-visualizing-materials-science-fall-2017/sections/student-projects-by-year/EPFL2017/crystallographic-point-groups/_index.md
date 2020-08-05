@@ -1,7 +1,7 @@
 ---
 title: A Visualisation of Crystallographic Point Groups
 course_id: res-3-004-visualizing-materials-science-fall-2017
-type: courses
+type: course
 layout: videogallery
 ---
 ![visualization of a crystallographic point group](https://open-learning-course-data-ci.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/6c9225f6b061c3d0cd349dc33fd0f35f_MITRES_3_004F17_30_monta.jpg)

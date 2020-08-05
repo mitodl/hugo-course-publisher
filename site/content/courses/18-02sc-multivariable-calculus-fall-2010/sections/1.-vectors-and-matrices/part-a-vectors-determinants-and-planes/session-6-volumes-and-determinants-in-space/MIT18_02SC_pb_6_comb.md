@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_6_comb.pdf
 description: >-
   This resource contains problem statements and solutions related to volumes and
   determinants in space.
-type: courses
+type: course
 layout: pdf
 uid: efc7d9a535e851514b2c2f59e13ebbad
 file_type: application/pdf

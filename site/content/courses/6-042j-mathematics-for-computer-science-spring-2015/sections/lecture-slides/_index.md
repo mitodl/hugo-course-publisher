@@ -1,11 +1,11 @@
 ---
 title: Lecture Slides
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: course_section
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 118f09a289bcf0f7005f6299a530d329
-    type: section
-    layout: section
     name: Lecture Slides
     weight: 30
 ---

@@ -3,7 +3,7 @@ title: 'Logic and Propositions: Truth Tables'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 7b732ad25c03057e51dfcc4c11ee8e33
 file_type: application/pdf

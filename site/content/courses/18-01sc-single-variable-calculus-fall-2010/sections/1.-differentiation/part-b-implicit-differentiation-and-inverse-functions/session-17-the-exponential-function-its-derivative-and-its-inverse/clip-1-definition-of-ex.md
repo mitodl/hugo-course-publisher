@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Definition of ex'
 transcript: ''
 uid: a60f987c9c83a172fceb4b77f14a273f
-type: courses
+type: course
 layout: video
 ---

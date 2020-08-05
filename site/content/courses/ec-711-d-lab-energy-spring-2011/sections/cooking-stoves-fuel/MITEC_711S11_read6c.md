@@ -1,7 +1,7 @@
 ---
 title: Briquetting checklist & documentation form
 description: 'This resource contains the information related to briquetting checklist '
-type: courses
+type: course
 layout: pdf
 uid: 2338907a2ce8d8fb94b0c51900eeb478
 file_type: application/pdf

@@ -210,6 +210,6 @@ transcript: >-
   <span m='112840'>the</span> <span m='112910'>harder</span> <span
   m='113200'>challenges.</span> </p>
 uid: cc0ff916e9458bead56cb012aeb248ae
-type: courses
+type: course
 layout: video
 ---

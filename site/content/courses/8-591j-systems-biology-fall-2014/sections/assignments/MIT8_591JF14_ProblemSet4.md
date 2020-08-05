@@ -1,7 +1,7 @@
 ---
 title: '8.591J Systems Biology, Problem Set 4'
 description: This resource contains information related to problem set 4.
-type: courses
+type: course
 layout: pdf
 uid: 4f228284237ad716a865b44195a32257
 file_type: application/pdf

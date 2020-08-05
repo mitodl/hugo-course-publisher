@@ -3,7 +3,7 @@ title: demo_22.pdf
 description: >-
   This resource contains a demonstration showing the magnitude and phase plots
   for an RLC bandpass filter on the Dynamic Signal Analyzer.
-type: courses
+type: course
 layout: pdf
 uid: 1e0f2c883870fc08a78ecfee1c5ef673
 file_type: application/pdf

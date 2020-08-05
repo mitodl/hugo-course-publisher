@@ -847,6 +847,6 @@ transcript: >-
   <span m='670530'>I'll</span> <span m='670660'>end</span> <span
   m='670870'>there.</span> </p>
 uid: 8a6c695e35bfd53305e5c071dc31d48e
-type: courses
+type: course
 layout: video
 ---

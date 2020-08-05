@@ -594,6 +594,6 @@ transcript: >-
   m='619160'>think</span> <span m='619370'>I'll</span> <span m='619460'>leave
   it</span> <span m='619670'>at</span> <span m='619760'>that.</span> </p>
 uid: 2a5313ba9c3d707ec0b5476851e78b07
-type: courses
+type: course
 layout: video
 ---

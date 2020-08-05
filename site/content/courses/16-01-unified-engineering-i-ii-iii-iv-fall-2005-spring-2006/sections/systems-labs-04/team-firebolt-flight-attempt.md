@@ -36,6 +36,6 @@ technical_location: >-
 title: 'Team Firebolt: Flight Attempt'
 transcript: ''
 uid: a86b6239eba9916d95801024644da693
-type: courses
+type: course
 layout: video
 ---

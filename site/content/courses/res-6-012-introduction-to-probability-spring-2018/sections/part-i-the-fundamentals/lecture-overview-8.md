@@ -87,6 +87,6 @@ transcript: >-
   concepts such as mixed random</span> <span m='88860'>variables and the joint
   cumulative</span> <span m='91039'>distribution function.</span> </p><p></p>
 uid: 8af96707f55a590606d7b038f0e0af3f
-type: courses
+type: course
 layout: video
 ---

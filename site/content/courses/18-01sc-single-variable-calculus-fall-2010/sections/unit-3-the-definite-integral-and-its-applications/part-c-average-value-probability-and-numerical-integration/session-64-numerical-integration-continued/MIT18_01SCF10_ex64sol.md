@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex64sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   numerical integration.
-type: courses
+type: course
 layout: pdf
 uid: 1994a577d20660142af2f4f13cd66fa0
 file_type: application/pdf

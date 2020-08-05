@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_17_quest.pdf
 description: This resource contains problem statements related to equations of lines.
-type: courses
+type: course
 layout: pdf
 uid: afa106c9f2fe8b07cc5dbdbf9f81f7ef
 file_type: application/pdf

@@ -92,6 +92,6 @@ transcript: >-
   the constraint is that the object</span> <span m='79900'>moves in a circular
   path.</span> </p><p></p>
 uid: 140bd7cd906c7b6bc7a3a7de71cc1bc8
-type: courses
+type: course
 layout: video
 ---

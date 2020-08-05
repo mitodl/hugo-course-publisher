@@ -124,6 +124,6 @@ transcript: >-
   m="51210">figures</span> <span m="51690">and</span> <span
   m="51800">things</span> <span m="52100">like that.</span></p>
 uid: 4a7ae1be69404ffecb6cbffd28ed0892
-type: courses
+type: course
 layout: video
 ---

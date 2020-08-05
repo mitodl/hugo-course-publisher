@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses8a.pdf
 description: This resource contains information related to sine and cosine.
-type: courses
+type: course
 layout: pdf
 uid: fecace15f6060acc444dd977ee45abb0
 file_type: application/pdf

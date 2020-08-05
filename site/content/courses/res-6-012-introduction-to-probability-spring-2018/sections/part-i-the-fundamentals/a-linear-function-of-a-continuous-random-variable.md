@@ -233,6 +233,6 @@ transcript: >-
   <span m='670340'>scale vertically the PDF.</span> </p><p><span m='672880'>But
   in the discrete case, such a scaling is not present.</span> </p><p></p>
 uid: feaf0d5b7a4e67e9dc241bc1a6a876e4
-type: courses
+type: course
 layout: video
 ---

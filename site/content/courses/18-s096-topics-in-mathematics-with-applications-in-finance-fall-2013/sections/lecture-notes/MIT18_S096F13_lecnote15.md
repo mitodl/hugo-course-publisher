@@ -1,7 +1,7 @@
 ---
 title: Factor Modeling
 description: This file contains information regarding lecture 15 notes.
-type: courses
+type: course
 layout: pdf
 uid: 3c8e688538b350a73a8c1cd46056fc5a
 file_type: application/pdf

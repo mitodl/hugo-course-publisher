@@ -792,6 +792,6 @@ transcript: >-
   m='1118710'>spacial</span> <span m='1119480'>part</span> <span
   m='1120350'>is</span> <span m='1120680'>normalized.</span> </p>
 uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
-type: courses
+type: course
 layout: video
 ---

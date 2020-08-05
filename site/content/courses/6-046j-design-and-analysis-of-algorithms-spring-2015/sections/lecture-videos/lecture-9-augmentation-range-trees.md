@@ -5217,6 +5217,6 @@ transcript: >-
   m="5072070">each</span> <span m="5072370">dimension</span> <span
   m="5072670">you</span> <span m="5072970">add.</span></p>
 uid: 0e16f4f6df9982c161d397610790be88
-type: courses
+type: course
 layout: video
 ---

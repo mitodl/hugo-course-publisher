@@ -1,7 +1,7 @@
 ---
 title: summary_w13d3.pdf
 description: This resource is about EM Radiation.
-type: courses
+type: course
 layout: pdf
 uid: 795f84ec4e6dbfbec32b3a222a93a0b1
 file_type: application/pdf

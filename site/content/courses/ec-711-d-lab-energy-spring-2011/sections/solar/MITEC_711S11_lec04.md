@@ -1,7 +1,7 @@
 ---
 title: Lecture 4 slides
 description: This resource contains information related to lecture 4.
-type: courses
+type: course
 layout: pdf
 uid: 606b06bc1e38fa58d271651476d1469e
 file_type: application/pdf

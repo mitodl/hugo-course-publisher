@@ -1,7 +1,7 @@
 ---
 title: MIT18_06S10_pset8_s10_soln.pdf
 description: This resource contains information related to skew-symmetric.
-type: courses
+type: course
 layout: pdf
 uid: 6e0208c1241f197797f2757d680740c0
 file_type: application/pdf

@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Proof of Stokes'' Theorem'
 transcript: ''
 uid: a6b3565b6a3ae5314fcf5371ffd6eeac
-type: courses
+type: course
 layout: video
 ---

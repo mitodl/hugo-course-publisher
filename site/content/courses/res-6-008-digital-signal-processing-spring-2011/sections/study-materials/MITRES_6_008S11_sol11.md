@@ -3,7 +3,7 @@ title: MITRES_6_008S11_sol11.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   representation of linear digital networks.
-type: courses
+type: course
 layout: pdf
 uid: af089d99b8f757ecf817b99d86eb75ca
 file_type: application/pdf

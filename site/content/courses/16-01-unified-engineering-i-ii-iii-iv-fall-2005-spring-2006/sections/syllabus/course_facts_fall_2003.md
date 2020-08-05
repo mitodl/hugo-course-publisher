@@ -3,7 +3,7 @@ title: course_facts_fall_2003.pdf
 description: >-
   This file is an introduction to the course and contains course objective,
   staff and text books information.
-type: courses
+type: course
 layout: pdf
 uid: 82791bd47d7a576ed19718ee0843b8ed
 file_type: application/pdf

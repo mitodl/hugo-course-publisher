@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex35sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to using
   mean value theorem.
-type: courses
+type: course
 layout: pdf
 uid: 0779a559464b16a018a0508a08449470
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: 'Computer System Engineering, Networking Guide'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: b95bf0e79ebef3831b68ec8e4654f152
 file_type: application/pdf

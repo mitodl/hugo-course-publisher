@@ -3,7 +3,7 @@ title: fall_2003_pset2.pdf
 description: >-
   This resource contains problems on unified thermodynamics and unified
   computers and programming.
-type: courses
+type: course
 layout: pdf
 uid: 3eda7280c1d20891dd3419bb1350ffba
 file_type: application/pdf

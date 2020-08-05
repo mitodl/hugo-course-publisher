@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 27: Introduction to Transition Metals'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: videogallery
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: c49bcae20a4ca2c2df6ffcf549f3c5f3
-    type: section
-    layout: section
     name: Lecture 27
     weight: 330
     parent: 898636543b8426a3a53091cb22239ee9
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28/_index.md" %}}) »
 

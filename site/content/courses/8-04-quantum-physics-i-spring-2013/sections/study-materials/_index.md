@@ -1,11 +1,11 @@
 ---
 title: Study Materials
 course_id: 8-04-quantum-physics-i-spring-2013
+type: course
+layout: course_section
 menu:
   8-04-quantum-physics-i-spring-2013:
     identifier: f03b3c6edce475bafd1cf3a7d18c8a99
-    type: section
-    layout: section
     name: Study Materials
     weight: 80
 ---

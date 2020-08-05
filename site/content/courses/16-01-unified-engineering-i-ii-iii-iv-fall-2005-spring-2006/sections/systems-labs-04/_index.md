@@ -1,15 +1,13 @@
 ---
 title: Systems/Labs 04
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
+type: course
+layout: videogallery
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
     identifier: 87e8f47c351cccd450e9b5e03c5bbee2
-    type: section
-    layout: section
     name: Systems/Labs 04
     weight: 150
-type: courses
-layout: videogallery
 is_media_gallery: true
 ---
 Instructor

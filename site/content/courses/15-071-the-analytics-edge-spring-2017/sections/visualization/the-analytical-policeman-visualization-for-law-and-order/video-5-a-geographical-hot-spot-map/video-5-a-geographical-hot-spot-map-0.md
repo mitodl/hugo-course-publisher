@@ -459,6 +459,6 @@ transcript: >-
   m='503488'>map</span> <span m='503836'>of</span> <span m='504185'>the</span>
   <span m='504533'>United</span> <span m='504881'>States.</span> </p>
 uid: 76568bbc2df3c11a385efdf9faa0dddd
-type: courses
+type: course
 layout: video
 ---

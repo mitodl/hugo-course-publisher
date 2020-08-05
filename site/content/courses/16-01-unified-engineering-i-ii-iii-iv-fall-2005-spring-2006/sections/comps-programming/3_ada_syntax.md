@@ -1,7 +1,7 @@
 ---
 title: 3_ada_syntax.pdf
 description: Lecture 3 (2003) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 7a62cbbe083bb6e0ea9039bca364b227
 file_type: application/pdf

@@ -399,6 +399,6 @@ transcript: >-
   <span m='419776'>presentation</span> <span m='420184'>Thank</span> <span
   m='420592'>you.</span> </p>
 uid: 445b933500d099ecc73b738b4a13049d
-type: courses
+type: course
 layout: video
 ---

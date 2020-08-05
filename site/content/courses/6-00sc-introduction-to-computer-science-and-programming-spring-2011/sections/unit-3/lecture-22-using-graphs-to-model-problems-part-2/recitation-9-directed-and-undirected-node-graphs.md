@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Recitation 9: Directed and Undirected Node Graphs'
 transcript: ''
 uid: 39d373cb273f5626fae4c26a850208f1
-type: courses
+type: course
 layout: video
 ---

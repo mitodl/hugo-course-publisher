@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information related to models of computation, Python
   cost model, document distance.
-type: courses
+type: course
 layout: pdf
 uid: 976b77eb1187593cabf5f06aaada8bd4
 file_type: application/pdf

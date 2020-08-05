@@ -1,7 +1,7 @@
 ---
 title: 'MIT 8.03SC Fall 2016 Lecture 10: Traveling Waves'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 63f6b1b5b69c9fbd10742e1da53020e3
 file_type: application/pdf

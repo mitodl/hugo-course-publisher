@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information related to two kinds of guessing;
   piano/guitar fingering, Tetris training, Super Mario Bros.
-type: courses
+type: course
 layout: pdf
 uid: e81216fbda0402f3fc84a3d9438a959a
 file_type: application/pdf

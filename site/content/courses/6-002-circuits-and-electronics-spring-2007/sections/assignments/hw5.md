@@ -1,7 +1,7 @@
 ---
 title: hw5.pdf
 description: This resource discusses about Thevenin equivalen and amplifiers.
-type: courses
+type: course
 layout: pdf
 uid: e26921fde419a3632a4241786551171e
 file_type: application/pdf

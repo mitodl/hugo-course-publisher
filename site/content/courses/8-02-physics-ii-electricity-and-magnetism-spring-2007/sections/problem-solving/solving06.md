@@ -7,7 +7,7 @@ description: >-
   an external magnetic field and define the magnetic dipole moment of a loop of
   current-carrying wire and write the torque on the loop in terms of that vector
   and the external magnetic field.
-type: courses
+type: course
 layout: pdf
 uid: 0a665f67268e91b14d101477f3f4ae34
 file_type: application/pdf

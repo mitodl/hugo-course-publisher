@@ -3,7 +3,7 @@ title: MIT18_02SC_we_15_comb.pdf
 description: >-
   This resource contains information related to chain rule and total
   differentials. 
-type: courses
+type: course
 layout: pdf
 uid: 48c905ccf42b4e0d9284da8fc4897212
 file_type: application/pdf

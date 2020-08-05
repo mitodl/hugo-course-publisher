@@ -30,6 +30,6 @@ technical_location: >-
 title: 'Sample Lecture P9: Energy Exchange with Moving Blades'
 transcript: ''
 uid: 859bdc120c88d3d923d8bd8c920b9fd8
-type: courses
+type: course
 layout: video
 ---

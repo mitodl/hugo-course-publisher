@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_hw10.pdf
 description: This resource contains problem set related to discrete-time fourier series.
-type: courses
+type: course
 layout: pdf
 uid: d3e4ed69c3cbba40a820e233c1b165c9
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: t06_ps03_fall03.pdf
 description: Problem set on quasi-static thermodynamic cycle.
-type: courses
+type: course
 layout: pdf
 uid: 68576cb7bdaa9b3842986006ed7918ef
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: q5s_sol.pdf
 description: Signals and Systems quiz with solutions.
-type: courses
+type: course
 layout: pdf
 uid: c4db13fd9e3cbdbc91f09186e60ad838
 file_type: application/pdf

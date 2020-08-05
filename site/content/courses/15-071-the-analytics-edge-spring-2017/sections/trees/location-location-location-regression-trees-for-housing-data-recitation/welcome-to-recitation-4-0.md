@@ -81,6 +81,6 @@ transcript: >-
   m='17100'>So</span> <span m='17605'>let's</span> <span m='18110'>get</span>
   <span m='18615'>started.</span> </p>
 uid: fc49adcbbaa7667d265870683d98ad1c
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: 'Logic and Propositions: Digital Logic'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 49aad6d5d181a87faea29d0e4f52dd19
 file_type: application/pdf

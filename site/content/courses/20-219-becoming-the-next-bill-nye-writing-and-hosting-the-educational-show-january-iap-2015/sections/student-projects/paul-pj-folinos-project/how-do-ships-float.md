@@ -109,6 +109,6 @@ transcript: >-
   /><br />For more information, please visit our website.<br /><br />[LAUGHTER]
   See what they had me do?</p>
 uid: ea857e5570473cefec6a4f1ec40b5b97
-type: courses
+type: course
 layout: video
 ---

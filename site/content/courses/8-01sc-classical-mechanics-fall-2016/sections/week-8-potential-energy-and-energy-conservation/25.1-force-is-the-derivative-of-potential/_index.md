@@ -1,16 +1,14 @@
 ---
 title: 25.1 Force is the Derivative of Potential
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: videogallery
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 7764cf4840ca6295a59652406638f492
-    type: section
-    layout: section
     name: 'Lesson 25: Potential Energy Diagrams [25.1-25.3]'
     weight: 1570
     parent: 1394998143efcc493f7c98265cfbd3ae
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/24.4-newtons-2nd-law-and-energy-conservation" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/25.2-stable-and-unstable-equilibrium-points" %}}) »
 

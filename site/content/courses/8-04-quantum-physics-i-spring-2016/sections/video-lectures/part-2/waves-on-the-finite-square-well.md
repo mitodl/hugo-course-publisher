@@ -822,6 +822,6 @@ transcript: >-
   m='942750'>an</span> <span m='942970'>energy</span> <span
   m='943270'>eigenstate.</span> </p>
 uid: ec4b986489aa76bab376f4e3acadd067
-type: courses
+type: course
 layout: video
 ---

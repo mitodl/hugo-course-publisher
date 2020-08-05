@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses1.3prob.pdf
 description: >-
   This resource contains problem sets related to multiplication and inverse
   matrices.
-type: courses
+type: course
 layout: pdf
 uid: 8e9ccbcc13300a9bda7f24a684bd16b6
 file_type: application/pdf

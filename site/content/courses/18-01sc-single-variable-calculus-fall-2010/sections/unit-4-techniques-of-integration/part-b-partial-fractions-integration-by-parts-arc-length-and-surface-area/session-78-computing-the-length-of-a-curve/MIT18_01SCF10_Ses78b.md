@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses78b.pdf
 description: >-
   This resource contains informations related to computing the length of a
   curve.
-type: courses
+type: course
 layout: pdf
 uid: a6c9549714d36c8363bd7cace8382579
 file_type: application/pdf

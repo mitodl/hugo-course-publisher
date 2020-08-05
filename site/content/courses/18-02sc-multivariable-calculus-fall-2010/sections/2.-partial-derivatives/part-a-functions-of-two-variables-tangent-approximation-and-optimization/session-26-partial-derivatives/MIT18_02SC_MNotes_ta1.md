@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_ta1.pdf
 description: This resource contains information related to partial derivatives.
-type: courses
+type: course
 layout: pdf
 uid: 3299372c0b77500ada4ea558fea4db80
 file_type: application/pdf

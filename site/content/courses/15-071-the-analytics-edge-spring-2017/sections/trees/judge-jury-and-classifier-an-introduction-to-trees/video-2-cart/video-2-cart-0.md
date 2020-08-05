@@ -517,6 +517,6 @@ transcript: >-
   m='420222'>final</span> <span m='420697'>predictions</span> <span
   m='421171'>are</span> <span m='421645'>made.</span> </p>
 uid: bcfc3536903d73a631b3c9e1318a3b79
-type: courses
+type: course
 layout: video
 ---

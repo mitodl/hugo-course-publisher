@@ -690,6 +690,6 @@ transcript: >-
   <span m='873220'>the</span> <span m='873530'>Schrodinger</span> <span
   m='873830'>equation.</span> </p>
 uid: 6b1eb76f240bd7cec94bf63441f74b76
-type: courses
+type: course
 layout: video
 ---

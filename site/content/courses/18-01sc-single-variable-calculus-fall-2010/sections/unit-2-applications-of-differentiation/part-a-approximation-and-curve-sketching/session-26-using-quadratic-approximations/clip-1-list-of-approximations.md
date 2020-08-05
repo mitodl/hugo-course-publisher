@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: List of Approximations'
 transcript: ''
 uid: 920e60e3964e02710c1ffbf86f80b05e
-type: courses
+type: course
 layout: video
 ---

@@ -352,6 +352,6 @@ technical_location: >-
 title: 'Session 1, Part 1: Introduction and Overview of Business Plans'
 transcript: ''
 uid: d9613dfa7e056d7ecdd5711882c70819
-type: courses
+type: course
 layout: video
 ---

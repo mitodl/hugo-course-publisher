@@ -1,11 +1,11 @@
 ---
 title: Lecture 22 Outline
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: d855de67a6df3be8d7e7b03e92d249a3
-    type: section
-    layout: section
     name: Lecture 22 Outline
     weight: 560
     parent: 463ad0d7960d0f16fac5ad1eab91ef20

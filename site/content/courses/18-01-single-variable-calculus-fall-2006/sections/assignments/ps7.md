@@ -1,7 +1,7 @@
 ---
 title: Problem Set 7
 description: Problem set on single variable calculus.
-type: courses
+type: course
 layout: pdf
 uid: d7836a022f9355654f4012e9c6a3a2cd
 file_type: application/pdf

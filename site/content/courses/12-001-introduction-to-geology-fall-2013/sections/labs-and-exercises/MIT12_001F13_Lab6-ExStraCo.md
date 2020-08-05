@@ -1,7 +1,7 @@
 ---
 title: '12.001 Introduction to Geology, Lab: Example Stratigraphic Column'
 description: This file contains information regarding example stratigraphic column.
-type: courses
+type: course
 layout: pdf
 uid: c7d4cd78ba5cb48fec36606adc79a982
 file_type: application/pdf

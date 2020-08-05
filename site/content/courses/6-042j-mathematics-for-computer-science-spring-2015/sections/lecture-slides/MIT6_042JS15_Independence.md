@@ -1,7 +1,7 @@
 ---
 title: 'Independence & Causality: Independence'
 description: This file contains information regarding independence.
-type: courses
+type: course
 layout: pdf
 uid: b547095e5d9ed96e04ffdefb49bf53d3
 file_type: application/pdf

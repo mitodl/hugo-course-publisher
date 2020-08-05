@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains the information regarding “high road” and “low road”
   strategies and the birth of high performance work systems.
-type: courses
+type: course
 layout: pdf
 uid: f30460f13beac256b34a7b45b1c79be1
 file_type: application/pdf

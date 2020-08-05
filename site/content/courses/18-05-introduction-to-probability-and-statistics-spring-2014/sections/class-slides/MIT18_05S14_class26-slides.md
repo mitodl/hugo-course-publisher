@@ -1,7 +1,7 @@
 ---
 title: 'Class 26 Slides: Review for final exam'
 description: This is a resource file that contains information regarding class 26.
-type: courses
+type: course
 layout: pdf
 uid: 65c1eb4e39730ce3de1a06de0ab4c3bf
 file_type: application/pdf

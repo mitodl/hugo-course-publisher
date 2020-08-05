@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 5: Graph theory'
 description: This resource contains information about Graph theory.
-type: courses
+type: course
 layout: pdf
 uid: f471f7b7034fabe8bbba5507df7d307f
 file_type: application/pdf

@@ -4557,6 +4557,6 @@ transcript: >-
   m="4663030">we go ahead</span> <span m="4663330">and</span> <span
   m="4663630">quit.</span></p>
 uid: c7a5a2c23a3785151762cdded4d47a17
-type: courses
+type: course
 layout: video
 ---

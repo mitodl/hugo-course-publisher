@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses10b.pdf
 description: This resource contains information related to quotient rule.
-type: courses
+type: course
 layout: pdf
 uid: 92a6a520aef0bfb5fd1f23265a3c3bcc
 file_type: application/pdf

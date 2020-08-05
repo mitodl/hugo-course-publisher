@@ -1012,6 +1012,6 @@ transcript: >-
   m='777100'>I'll</span> <span m='777210'>stop</span> <span
   m='777450'>there.</span> </p>
 uid: 05385cbe354fa3afc249a2242d3e84d1
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: summary_w07d2.pdf
 description: This resource is about Magnetic Levitation; Magnetic Forces on Dipoles.
-type: courses
+type: course
 layout: pdf
 uid: ddd97631555c52e91a59f591fd6b2c46
 file_type: application/pdf

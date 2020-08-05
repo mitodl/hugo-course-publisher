@@ -3411,6 +3411,6 @@ transcript: >-
   m='2814810'>the</span> <span m='2815370'>lowest</span> <span
   m='2815790'>numbered</span> <span m='2816050'>assertion.</span> </p>
 uid: 12d6b920bdbb23bb65e02fb32cf80f9b
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: 'Mathematics for Computer Science: Course Textbook'
 description: >-
   This file contains information regarding full course textbook, mathematics for
   computer science.
-type: courses
+type: course
 layout: pdf
 uid: cd19c484b8825fdc64a7cc1e17722ef7
 file_type: application/pdf

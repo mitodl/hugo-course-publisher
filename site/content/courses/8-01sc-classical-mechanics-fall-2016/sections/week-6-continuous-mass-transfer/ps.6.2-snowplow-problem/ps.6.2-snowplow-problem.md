@@ -181,6 +181,6 @@ transcript: >-
   m='482050'>that you should try as an exercise</span> <span m='484380'>in
   elementary calculus.</span> </p><p></p>
 uid: 267cbedb874fa02855ccd677cdf8e7db
-type: courses
+type: course
 layout: video
 ---

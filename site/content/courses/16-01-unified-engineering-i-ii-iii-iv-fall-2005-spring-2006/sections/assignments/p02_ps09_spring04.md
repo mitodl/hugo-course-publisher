@@ -3,7 +3,7 @@ title: p02_ps09_spring04.pdf
 description: >-
   This resource contains problems based on instructive illustration of integral
   momentum and motion.
-type: courses
+type: course
 layout: pdf
 uid: 8caa0db1aecea5c145c3e2984e331cc6
 file_type: application/pdf

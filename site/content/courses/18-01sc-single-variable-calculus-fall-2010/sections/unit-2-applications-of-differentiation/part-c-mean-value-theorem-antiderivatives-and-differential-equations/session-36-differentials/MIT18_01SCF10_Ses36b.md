@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses36b.pdf
 description: This resource contains information about differentials.
-type: courses
+type: course
 layout: pdf
 uid: 2183e76e7202ac968f33d96f81f790d7
 file_type: application/pdf

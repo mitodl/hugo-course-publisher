@@ -207,6 +207,6 @@ transcript: >-
   function that given a y produces x's, and write down</span> <span
   m='663890'>the corresponding derivative.</span> </p><p></p>
 uid: fea54d8bdc31d42ed5b701f20c437ce0
-type: courses
+type: course
 layout: video
 ---

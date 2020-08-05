@@ -2370,6 +2370,6 @@ transcript: >-
   m="2445230">force.</span> <span m="2446730">See</span> <span
   m="2446950">you</span> <span m="2447070">then.</span></p><p>&nbsp;</p>
 uid: afab0ab93ee1ed8008328c4a3dd0609a
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: 'Asymptotics: Asymptotic Blunders'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 13f64c199b36464157df91999b73e360
 file_type: application/pdf

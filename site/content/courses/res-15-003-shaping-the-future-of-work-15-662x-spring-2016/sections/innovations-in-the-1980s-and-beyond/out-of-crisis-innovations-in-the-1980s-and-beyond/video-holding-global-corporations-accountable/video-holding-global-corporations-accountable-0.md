@@ -634,6 +634,6 @@ transcript: >-
   m='498830'>they</span> <span m='498970'>make</span> <span
   m='499420'>these</span> <span m='499750'>products.</span> </p>
 uid: a3fa36befba23911b6b6813bcd59217a
-type: courses
+type: course
 layout: video
 ---

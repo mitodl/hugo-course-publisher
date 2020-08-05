@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex80prb.pdf
 description: This resource contains problem statements related to parametric curves.
-type: courses
+type: course
 layout: pdf
 uid: e66c80992e44903c541a243893c59cb8
 file_type: application/pdf

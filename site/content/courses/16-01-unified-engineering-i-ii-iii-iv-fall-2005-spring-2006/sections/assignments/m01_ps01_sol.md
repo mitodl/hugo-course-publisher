@@ -3,7 +3,7 @@ title: m01_ps01_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on truss
   design.
-type: courses
+type: course
 layout: pdf
 uid: 751a1befcfa145a112af5e311ba4bdf2
 file_type: application/pdf

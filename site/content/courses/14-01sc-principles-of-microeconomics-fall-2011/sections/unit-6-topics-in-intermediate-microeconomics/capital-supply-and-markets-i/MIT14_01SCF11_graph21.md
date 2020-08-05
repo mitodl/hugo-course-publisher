@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_graph21.pdf
 description: This resource contains graphs related to capital supply and markets I.
-type: courses
+type: course
 layout: pdf
 uid: 4dc1e81d399ed8c8828708258f152a90
 file_type: application/pdf

@@ -208,6 +208,6 @@ transcript: >-
   </p><p><span m='549410'>This will be the subject of the next segment.</span>
   </p><p></p>
 uid: 986ce5282b8d9a69b4e8de8d1a3f7718
-type: courses
+type: course
 layout: video
 ---

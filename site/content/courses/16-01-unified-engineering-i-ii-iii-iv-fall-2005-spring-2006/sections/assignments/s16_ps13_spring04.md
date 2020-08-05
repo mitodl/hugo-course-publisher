@@ -3,7 +3,7 @@ title: s16_ps13_spring04.pdf
 description: >-
   Problem set regarding implementation of
   type?of?single?sideband?amplitude?modulation.
-type: courses
+type: course
 layout: pdf
 uid: cc145a21151379e769bcdb9fdb7ba702
 file_type: application/pdf

@@ -855,6 +855,6 @@ transcript: >-
   m='879940'>calculus.</span> <span m='880990'>Thank</span> <span
   m='881240'>you.</span> </p>
 uid: 4fa753542dca93f06e7c31ac20c42e24
-type: courses
+type: course
 layout: video
 ---

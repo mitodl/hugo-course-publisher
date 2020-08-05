@@ -666,6 +666,6 @@ transcript: >-
   m='2963000'>No DEs, no trig, no nothing.</span> <span m='2966000'>OK.</span>
   </p>
 uid: 1f5322b816e498b4c64e420083745801
-type: courses
+type: course
 layout: video
 ---

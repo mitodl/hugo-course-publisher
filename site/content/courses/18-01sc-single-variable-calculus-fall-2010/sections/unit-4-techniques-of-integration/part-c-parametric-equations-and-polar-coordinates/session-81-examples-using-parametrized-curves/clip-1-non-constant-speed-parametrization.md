@@ -2916,6 +2916,6 @@ transcript: >-
   m="2958950">area</span> <span m="2959610">in</span> <span
   m="2959750">polar</span> <span m="2960050">coordinates.</span></p>
 uid: a20e892c2e73087cb7901f6311bad2c5
-type: courses
+type: course
 layout: video
 ---

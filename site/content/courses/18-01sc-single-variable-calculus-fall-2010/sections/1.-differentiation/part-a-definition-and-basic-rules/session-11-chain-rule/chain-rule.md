@@ -574,6 +574,6 @@ transcript: >-
   m='458560'>to</span> <span m='458670'>stop</span> <span
   m='459070'>there.</span> </p>
 uid: 2719731057c3ed0e060d8ec516b3f293
-type: courses
+type: course
 layout: video
 ---

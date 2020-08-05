@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Flux Through Surfaces'
 description: This resource contains information regarding flux through surfaces.
-type: courses
+type: course
 layout: pdf
 uid: b93d0e83490e3ae7f6c6c668cf3abe0b
 file_type: application/pdf

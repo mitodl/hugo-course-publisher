@@ -225,6 +225,6 @@ transcript: >-
   <span m="651460">the basic ideas are essentially captured in this</span> <span
   m="654970">simple example.</span></p><p>&nbsp;</p>
 uid: 2ce0e5230d0610f55e1111db13422739
-type: courses
+type: course
 layout: video
 ---

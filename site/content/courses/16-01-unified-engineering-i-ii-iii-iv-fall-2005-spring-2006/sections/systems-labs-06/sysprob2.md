@@ -1,7 +1,7 @@
 ---
 title: sysprob2.pdf
 description: 'This file contains questions for the topic: Ballistic Trajectory Calculation.'
-type: courses
+type: course
 layout: pdf
 uid: 5fa5778c110999685aabac2d08cfcc03
 file_type: application/pdf

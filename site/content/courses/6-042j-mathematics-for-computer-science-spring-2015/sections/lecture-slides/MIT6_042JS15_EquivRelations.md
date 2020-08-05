@@ -1,7 +1,7 @@
 ---
 title: 'Partial Orders and Equivalence: Equivalence Relations'
 description: This file contains information regarding euivalence relations.
-type: courses
+type: course
 layout: pdf
 uid: 99628d8ae2faf69f7a585652cb4d68e4
 file_type: application/pdf

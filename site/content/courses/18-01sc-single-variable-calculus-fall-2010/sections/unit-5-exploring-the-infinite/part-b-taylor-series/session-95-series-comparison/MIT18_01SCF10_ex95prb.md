@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex95prb.pdf
 description: This resource contains problem statements related to series comparison.
-type: courses
+type: course
 layout: pdf
 uid: 827156a850e1f9bc5617d8d0c5856f63
 file_type: application/pdf

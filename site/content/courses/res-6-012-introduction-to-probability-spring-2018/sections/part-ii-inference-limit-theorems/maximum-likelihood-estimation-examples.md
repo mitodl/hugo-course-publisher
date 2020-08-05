@@ -237,6 +237,6 @@ transcript: >-
   calculations</span> <span m='613840'>may be more complicated and the answers
   may not be so obvious.</span> </p><p></p>
 uid: c485f02bf32f349e561c5e318b4be3f2
-type: courses
+type: course
 layout: video
 ---

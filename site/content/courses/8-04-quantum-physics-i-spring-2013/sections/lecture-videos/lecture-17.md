@@ -5380,6 +5380,6 @@ transcript: >-
   m='4833260'>We'll</span> <span m='4833390'>pick</span> <span m='4833550'>that
   up</span> <span m='4833950'>next</span> <span m='4834170'>time.</span> </p>
 uid: 224eb7d3d9f7f13991ca367c010768d0
-type: courses
+type: course
 layout: video
 ---

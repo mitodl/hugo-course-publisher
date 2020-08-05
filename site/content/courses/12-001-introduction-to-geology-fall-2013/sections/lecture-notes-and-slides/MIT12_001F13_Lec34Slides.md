@@ -3,7 +3,7 @@ title: 'Lecture 34 Slides: Earth History and Geobiology'
 description: >-
   This file contains the information regarding lecture 34 Slides: Earth History
   and Geobiology.
-type: courses
+type: course
 layout: pdf
 uid: 9f758adca4a5b224cfcb308fc8e4c55c
 file_type: application/pdf

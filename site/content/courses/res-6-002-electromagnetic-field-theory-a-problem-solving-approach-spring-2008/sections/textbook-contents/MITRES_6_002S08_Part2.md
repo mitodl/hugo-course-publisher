@@ -1,7 +1,7 @@
 ---
 title: Electromagnetic Field Theory - A Problem-Solving Approach - Part 2
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 5593ac29fd1ee82866dac7a3c5715f89
 file_type: application/pdf

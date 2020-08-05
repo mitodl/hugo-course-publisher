@@ -1,7 +1,7 @@
 ---
 title: 'MIT 8.03SC Fall 2016 Lecture 17: Polarization, Polarizer'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 80f6e601b7b8d3ceb8572a9b0df9320c
 file_type: application/pdf

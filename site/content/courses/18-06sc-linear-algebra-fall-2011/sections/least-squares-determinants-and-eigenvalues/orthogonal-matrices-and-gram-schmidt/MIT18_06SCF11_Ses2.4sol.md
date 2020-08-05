@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses2.4sol.pdf
 description: >-
   This resource contains solution to problem set related to orthogonal matrices
   and gram-schmidt.
-type: courses
+type: course
 layout: pdf
 uid: e1f9595692038807071733916a514cbd
 file_type: application/pdf

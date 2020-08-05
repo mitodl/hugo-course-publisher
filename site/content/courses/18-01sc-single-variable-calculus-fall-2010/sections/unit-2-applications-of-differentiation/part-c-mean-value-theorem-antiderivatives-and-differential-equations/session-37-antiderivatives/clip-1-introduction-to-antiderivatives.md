@@ -2163,6 +2163,6 @@ transcript: >-
   m='2928940'>So,</span> <span m='2930800'>see</span> <span m='2930950'>you
   tomorrow.</span> </p>
 uid: e3ae377c282e773cad2143b164a5f095
-type: courses
+type: course
 layout: video
 ---

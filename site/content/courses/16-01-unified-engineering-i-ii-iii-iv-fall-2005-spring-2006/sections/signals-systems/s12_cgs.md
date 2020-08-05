@@ -3,7 +3,7 @@ title: s12_cgs.pdf
 description: >-
   Definition of Stability and Concept questions on BIBO Stability I,BIBO
   Stability II & BIBO Stability III.
-type: courses
+type: course
 layout: pdf
 uid: 67282018577533fec3f4ef01376679a1
 file_type: application/pdf

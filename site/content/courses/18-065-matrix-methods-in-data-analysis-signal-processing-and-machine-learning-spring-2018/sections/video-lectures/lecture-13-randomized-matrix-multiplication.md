@@ -2723,6 +2723,6 @@ transcript: >-
   m="3139940">seriously</span> <span m="3140910">OK,</span> <span
   m="3141320">thank</span> <span m="3141620">you.</span></p>
 uid: 2bb8ddfac31fb6dec6c925e041b98efd
-type: courses
+type: course
 layout: video
 ---

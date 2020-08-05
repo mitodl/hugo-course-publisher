@@ -112,6 +112,6 @@ transcript: >-
   statement that the relative velocity</span> <span m='213130'>vector is
   independent of the choice of reference frame.</span> </p><p></p>
 uid: 84c7a1bf8ef3ec96bee177e70b8e7411
-type: courses
+type: course
 layout: video
 ---

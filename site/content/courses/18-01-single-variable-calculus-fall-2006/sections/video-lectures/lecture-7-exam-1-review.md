@@ -2843,6 +2843,6 @@ transcript: >-
   <span m="3048662">See</span> <span m="3049084">you</span> <span
   m="3049506">tomorrow.</span></p>
 uid: dad5a2696a837aad9687f7693e66a6ee
-type: courses
+type: course
 layout: video
 ---

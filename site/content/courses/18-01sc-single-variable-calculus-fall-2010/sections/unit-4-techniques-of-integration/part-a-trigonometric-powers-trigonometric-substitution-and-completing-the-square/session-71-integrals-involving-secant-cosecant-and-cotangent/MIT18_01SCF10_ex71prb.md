@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex71prb.pdf
 description: >-
   This resource contains problem statements related to integrals involving
   secant, co secant and cotangent.
-type: courses
+type: course
 layout: pdf
 uid: a4f718fcbc599aaa69e7393645533210
 file_type: application/pdf

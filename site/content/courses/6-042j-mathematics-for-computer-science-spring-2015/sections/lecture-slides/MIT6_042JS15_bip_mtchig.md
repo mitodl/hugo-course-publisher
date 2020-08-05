@@ -1,7 +1,7 @@
 ---
 title: 'Stable Matching: Bipartite Matching'
 description: This file contains information regarding bipartite matching.
-type: courses
+type: course
 layout: pdf
 uid: 381127a4e3d689cb6e4424b4e4fcefe5
 file_type: application/pdf

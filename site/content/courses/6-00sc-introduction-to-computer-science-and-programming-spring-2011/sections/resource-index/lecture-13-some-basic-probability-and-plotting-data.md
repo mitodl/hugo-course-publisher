@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 13: Some Basic Probability and Plotting Data'
 transcript: ''
 uid: f929d14383b12e51bbf1f0d7629b3c8a
-type: courses
+type: course
 layout: video
 ---

@@ -249,6 +249,6 @@ transcript: >-
   m='157490'>at</span> <span m='157610'>the</span> <span m='157700'>top of
   the</span> <span m='158090'>fraction.</span> </p>
 uid: 9ef27727735936c084d3143001b73245
-type: courses
+type: course
 layout: video
 ---

@@ -5009,6 +5009,6 @@ transcript: >-
   m='4966250'>that's</span> <span m='4966500'>it</span> <span
   m='4966600'>for</span> <span m='4966700'>today.</span> </p><p></p>
 uid: fcb5da11f57cafc8587e051bab93f81f
-type: courses
+type: course
 layout: video
 ---

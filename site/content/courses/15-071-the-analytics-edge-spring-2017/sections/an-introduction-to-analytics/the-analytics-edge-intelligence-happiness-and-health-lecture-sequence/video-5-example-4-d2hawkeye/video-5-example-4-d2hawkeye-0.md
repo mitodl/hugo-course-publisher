@@ -163,6 +163,6 @@ transcript: >-
   m='119379'>manually</span> <span m='119729'>reading</span> <span
   m='120646'>patient's</span> <span m='121563'>files.</span> </p>
 uid: 519ef3d140f976e4047543bf7c9de369
-type: courses
+type: course
 layout: video
 ---

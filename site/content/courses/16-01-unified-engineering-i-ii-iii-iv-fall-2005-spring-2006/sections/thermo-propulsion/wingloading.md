@@ -3,7 +3,7 @@ title: wingloading.pdf
 description: >-
   This resource contains information regarding Wing Loading: An Important
   Parameter.
-type: courses
+type: course
 layout: pdf
 uid: 2d05bd9b47ad47c4b614c4ca63b60ebc
 file_type: application/pdf

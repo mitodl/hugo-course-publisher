@@ -363,6 +363,6 @@ transcript: >-
   m="229020">can't</span> <span m="229225">time</span> <span
   m="229430">travel</span> <span m="230230">yet.</span></p>
 uid: 82894e9ec71d181ae86629015c55e3d7
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: Workshop Flyer
 description: This is a resource file that contains information regarding workshop flyer.
-type: courses
+type: course
 layout: pdf
 uid: 0b776509ed25d78057837ff726e2712e
 file_type: application/pdf

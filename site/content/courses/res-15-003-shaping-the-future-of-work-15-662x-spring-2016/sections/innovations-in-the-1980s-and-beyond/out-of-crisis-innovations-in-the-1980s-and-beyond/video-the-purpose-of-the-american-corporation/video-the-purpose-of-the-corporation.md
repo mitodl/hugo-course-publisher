@@ -673,6 +673,6 @@ transcript: >-
   m='551940'>corporation</span> <span m='552830'>of</span> <span
   m='553110'>the</span> <span m='553190'>future.</span> </p>
 uid: 6ba071835f7ebab4f4c5c63f4d3c794e
-type: courses
+type: course
 layout: video
 ---

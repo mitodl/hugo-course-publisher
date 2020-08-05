@@ -3,7 +3,7 @@ title: '18.02SC Problems : Identifying Gradient Fields and Exact Differentials'
 description: >-
   This resource contains information regarding identifying gradient fields and
   exact differentials.
-type: courses
+type: course
 layout: pdf
 uid: 968fbb6e885ca4ee891263f0a87ae050
 file_type: application/pdf

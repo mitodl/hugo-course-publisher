@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Example'
 transcript: ''
 uid: 876768c5f11f56f5f4361e22f1b713d6
-type: courses
+type: course
 layout: video
 ---

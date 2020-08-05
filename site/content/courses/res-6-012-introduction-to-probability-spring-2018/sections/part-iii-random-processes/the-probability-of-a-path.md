@@ -173,6 +173,6 @@ transcript: >-
   m="369790">Let's do now a little bit of warm up in terms of calculation</span>
   <span m="372650">and apply these concepts.</span></p>
 uid: 2006d6b8420ff3e47c4c42fadb63792a
-type: courses
+type: course
 layout: video
 ---

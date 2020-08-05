@@ -1,7 +1,7 @@
 ---
 title: 'MIT 8.03SC Fall 2016 Lecture 9: Wave Equation, Standing Waves, Fourier Series'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: c312362ae92a7ef6216443a44a1c90fa
 file_type: application/pdf

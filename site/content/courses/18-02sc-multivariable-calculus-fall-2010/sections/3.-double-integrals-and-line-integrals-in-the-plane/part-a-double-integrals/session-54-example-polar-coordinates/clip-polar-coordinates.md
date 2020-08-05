@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip: Polar Coordinates'
 transcript: ''
 uid: a9bead07723dec86c5ff972ccf7ad980
-type: courses
+type: course
 layout: video
 ---

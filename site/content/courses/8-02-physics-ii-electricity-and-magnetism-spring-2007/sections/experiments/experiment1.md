@@ -3,7 +3,7 @@ title: experiment1.pdf
 description: >-
   This resource contains an experiment on equipotential lines and electric
   fields.
-type: courses
+type: course
 layout: pdf
 uid: 5f7d6bfe8d781aa002b0edda097bc191
 file_type: application/pdf

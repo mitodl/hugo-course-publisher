@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses1.9prob.pdf
 description: >-
   This resource contains problem sets related to independence, basis, and
   dimension.
-type: courses
+type: course
 layout: pdf
 uid: 562c31026033b44a05491b57834a5a0e
 file_type: application/pdf

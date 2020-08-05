@@ -1,7 +1,7 @@
 ---
 title: Exam 4 Formulas
 description: This handout provides a list of formulas for the fourth exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: 7982e69f602067e916e371fc7937c8d0
 file_type: application/pdf

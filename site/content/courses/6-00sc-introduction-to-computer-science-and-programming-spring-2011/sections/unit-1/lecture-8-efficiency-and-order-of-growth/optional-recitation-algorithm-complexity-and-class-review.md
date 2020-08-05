@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Optional Recitation: Algorithm Complexity and Class Review'
 transcript: ''
 uid: 5b23930145fe248148982a0f46893c99
-type: courses
+type: course
 layout: video
 ---

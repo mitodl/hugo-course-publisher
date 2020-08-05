@@ -3,7 +3,7 @@ title: 'State Machines - Invariants: Chapter 5.4'
 description: >-
   This resource contains information regarding mathematics for computer science:
   State machines - Invariants: Chapter 5.4.
-type: courses
+type: course
 layout: pdf
 uid: a36ecedf4224e8f77a1460d3506eb680
 file_type: application/pdf

@@ -1,16 +1,14 @@
 ---
 title: Risk and Return
 course_id: 15-401-finance-theory-i-fall-2008
+type: course
+layout: videogallery
 menu:
   15-401-finance-theory-i-fall-2008:
     identifier: f2e1c9879ce7c404be3b46f3dddf3d22
-    type: section
-    layout: section
     name: Risk and Return
     weight: 140
     parent: cc3f05d9f4e44ed3db60b79712de51f4
-type: courses
-layout: videogallery
 ---
 Video Lectures
 --------------

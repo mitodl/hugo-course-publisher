@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Derivative of ax, Logarithmic'
 transcript: ''
 uid: 4922b29bb55296551a20006fbc2bbf74
-type: courses
+type: course
 layout: video
 ---

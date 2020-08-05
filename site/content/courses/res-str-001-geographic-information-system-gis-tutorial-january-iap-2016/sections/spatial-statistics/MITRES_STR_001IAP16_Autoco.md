@@ -1,7 +1,7 @@
 ---
 title: MITRES_STR_001IAP16_Autoco.pdf
 description: This resource contains information regarding autocorrelation exercise.
-type: courses
+type: course
 layout: pdf
 uid: 5c8d404ffdf1ba9b351ba07757966fb8
 file_type: application/pdf

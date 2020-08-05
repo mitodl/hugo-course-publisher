@@ -2606,6 +2606,6 @@ transcript: >-
   m='2891570'>steadily</span> <span m='2891920'>up or</span> <span
   m='2892320'>steadily</span> <span m='2892630'>down.</span> </p>
 uid: b082b9611b7fbf5370c33aecc9efbcad
-type: courses
+type: course
 layout: video
 ---

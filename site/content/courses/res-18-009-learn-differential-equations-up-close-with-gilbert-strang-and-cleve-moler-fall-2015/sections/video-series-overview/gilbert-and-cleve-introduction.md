@@ -198,6 +198,6 @@ transcript: >-
   m="171140">you</span> <span m="171270">enjoy</span> <span
   m="171570">it.</span></p>
 uid: 1c1e79da24faa19304767fa0ca5fa6cc
-type: courses
+type: course
 layout: video
 ---

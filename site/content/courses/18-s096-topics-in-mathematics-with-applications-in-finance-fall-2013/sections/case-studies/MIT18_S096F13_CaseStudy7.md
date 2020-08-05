@@ -1,7 +1,7 @@
 ---
 title: 'Case Study 7: Factor Modeling of US Treasury Yields'
 description: This file contains information regarding case studies 7.
-type: courses
+type: course
 layout: pdf
 uid: 3f158673e3188faeb6cffa71ecb9d254
 file_type: application/pdf

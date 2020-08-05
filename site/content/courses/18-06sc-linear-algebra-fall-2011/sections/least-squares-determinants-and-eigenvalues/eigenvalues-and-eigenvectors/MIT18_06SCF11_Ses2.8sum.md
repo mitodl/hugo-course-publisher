@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_Ses2.8sum.pdf
 description: This resource contains information related to eigenvalues and eigenvectors.
-type: courses
+type: course
 layout: pdf
 uid: 1999c9f4accdbef05571a1014438f8dd
 file_type: application/pdf

@@ -4559,6 +4559,6 @@ transcript: >-
   m='3604343'>you</span> <span m='3604766'>eight</span> <span
   m='3605190'>minutes.</span> </p>
 uid: edaa1d3e8efa6406102f1b1162d31663
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MIT14_01SCF11_soln03.pdf
 description: >-
   This resource contains solutions to the problem statements related to utility
   changes, and angel curve for softwares. 
-type: courses
+type: course
 layout: pdf
 uid: 6f583fd576e8b1f052b85147bc6880d2
 file_type: application/pdf

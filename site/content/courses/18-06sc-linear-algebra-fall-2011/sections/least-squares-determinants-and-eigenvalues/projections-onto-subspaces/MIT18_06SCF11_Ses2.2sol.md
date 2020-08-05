@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses2.2sol.pdf
 description: >-
   This resource contains solution to problem set related to projections onto
   subspaces.
-type: courses
+type: course
 layout: pdf
 uid: 6b76996d7b439496fa84345340096418
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: gm14_18notes2.pdf
 description: Lecture notes on Materials/Structural Integrity.
-type: courses
+type: course
 layout: pdf
 uid: a6dca6c164b1701c7e666c3964a9c6c4
 file_type: application/pdf

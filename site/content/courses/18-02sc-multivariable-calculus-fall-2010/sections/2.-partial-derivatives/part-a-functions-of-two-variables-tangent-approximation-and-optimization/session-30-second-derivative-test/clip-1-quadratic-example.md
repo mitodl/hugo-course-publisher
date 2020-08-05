@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip 1: Quadratic Example'
 transcript: ''
 uid: d57111d5f6beccad4dba2bfd33976f4c
-type: courses
+type: course
 layout: video
 ---

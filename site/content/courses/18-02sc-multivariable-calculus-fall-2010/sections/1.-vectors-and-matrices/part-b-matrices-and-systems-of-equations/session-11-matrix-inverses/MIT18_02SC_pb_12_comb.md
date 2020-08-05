@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_12_comb.pdf
 description: >-
   This resource contains problem statements and solutions related to matrix
   inverses.
-type: courses
+type: course
 layout: pdf
 uid: 06054059af5bc60cbae362924590e03e
 file_type: application/pdf

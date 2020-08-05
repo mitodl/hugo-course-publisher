@@ -1,16 +1,14 @@
 ---
 title: '4.6 Deviation: Markov & Chebyshev Bounds'
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: videogallery
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: f195ee849b9aee3ccf61f90bea10cebb
-    type: section
-    layout: section
     name: '4.6 Deviation: Markov & Chebyshev Bounds'
     weight: 2690
     parent: 90a207e82f8b3b1369067b58f9c6f169
-type: courses
-layout: videogallery
 ---
 *   [<Expectation of a Uniform Distribution]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/vertical-0a1dc9049ff4" %}})
 *   [4.6.1Deviation From The Mean: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2/_index.md" %}})

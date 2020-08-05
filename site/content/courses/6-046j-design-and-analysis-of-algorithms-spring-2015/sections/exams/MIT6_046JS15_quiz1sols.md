@@ -3,7 +3,7 @@ title: 'Class on Design and Analysis of Algorithms, Solutions to Quiz 1'
 description: >-
   This resource contains information regarding class on design and analysis of
   algorithms, solutions quiz 1.
-type: courses
+type: course
 layout: pdf
 uid: 5b6cd99674ea0c866c942b72aa9e7289
 file_type: application/pdf

@@ -1,11 +1,11 @@
 ---
 title: Readings
 course_id: 12-001-introduction-to-geology-fall-2013
+type: course
+layout: course_section
 menu:
   12-001-introduction-to-geology-fall-2013:
     identifier: 4a73573a388780b627ddf6ad95ed8c72
-    type: section
-    layout: section
     name: Readings
     weight: 80
 ---

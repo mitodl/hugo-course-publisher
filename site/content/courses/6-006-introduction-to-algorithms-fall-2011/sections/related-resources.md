@@ -1,11 +1,11 @@
 ---
 title: Related Resources
 course_id: 6-006-introduction-to-algorithms-fall-2011
+type: course
+layout: course_section
 menu:
   6-006-introduction-to-algorithms-fall-2011:
     identifier: 2060c3b619a4548e257e92c3216faf14
-    type: section
-    layout: section
     name: Related Resources
     weight: 110
 ---

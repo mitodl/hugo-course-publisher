@@ -5746,6 +5746,6 @@ transcript: >-
   much.</span> </p><p><span m='5854570'>STEFAN ANDREEV:</span> <span
   m='5854870'>Thank you.</span> </p>
 uid: 151007c31f410471ce92f15a1b21a19e
-type: courses
+type: course
 layout: video
 ---

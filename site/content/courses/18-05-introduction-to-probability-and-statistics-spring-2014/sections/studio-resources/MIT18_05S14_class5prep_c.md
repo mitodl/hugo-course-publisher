@@ -3,7 +3,7 @@ title: 'Class 5: Gallery of continuous variables; histograms'
 description: >-
   This is a resource file that contains information regarding class 5: gallery
   of continuous variables; histograms.
-type: courses
+type: course
 layout: pdf
 uid: 58b3986c5d4e1b73903edbe630743ec4
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: c09_ps04_fall03.pdf
 description: This handout contains Problem set based on writing a simple package.
-type: courses
+type: course
 layout: pdf
 uid: 75ea525e8de43bfdf3bb888f0db38c9b
 file_type: application/pdf

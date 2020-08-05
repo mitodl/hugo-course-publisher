@@ -4797,6 +4797,6 @@ transcript: >-
   m="4886880">All right.</span> <span m="4887180">Have a</span> <span
   m="4887480">good</span> <span m="4887780">weekend.</span></p>
 uid: 6a6e832207002ca3629d4ee9389b4631
-type: courses
+type: course
 layout: video
 ---

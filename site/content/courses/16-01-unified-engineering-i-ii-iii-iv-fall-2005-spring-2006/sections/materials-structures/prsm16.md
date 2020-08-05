@@ -3,7 +3,7 @@ title: prsm16.pdf
 description: >-
   This resource contains concept questions and answers based on strength of
   materials.
-type: courses
+type: course
 layout: pdf
 uid: 2dff4bcbf4e5c3a06007eea0d4ef6ec7
 file_type: application/pdf

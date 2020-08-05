@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Recitation 2: Loops, Tuples, Strings and Functions'
 transcript: ''
 uid: b6a1ce9d546fe7e84ce0f04296a91d77
-type: courses
+type: course
 layout: video
 ---

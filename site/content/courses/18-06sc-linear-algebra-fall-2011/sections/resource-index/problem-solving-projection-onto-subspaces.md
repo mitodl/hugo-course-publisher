@@ -456,6 +456,6 @@ transcript: >-
   m='588280'>think</span> <span m='588470'>we're</span> <span
   m='588610'>done</span> <span m='588740'>here.</span> </p>
 uid: 71e75938ffbd375101715c0c81c28cc8
-type: courses
+type: course
 layout: video
 ---

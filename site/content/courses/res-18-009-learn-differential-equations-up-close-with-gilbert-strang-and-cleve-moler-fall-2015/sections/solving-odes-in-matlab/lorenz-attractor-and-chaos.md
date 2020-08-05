@@ -501,6 +501,6 @@ transcript: >-
   m='607950'>the</span> <span m='608050'>work</span> <span m='608370'>of</span>
   <span m='608480'>Sparrow.</span> </p>
 uid: 66517c9c49c59520a021a87282230f24
-type: courses
+type: course
 layout: video
 ---

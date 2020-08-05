@@ -3,7 +3,7 @@ title: m21_ps14_sol.pdf
 description: >-
   This resource provides solutions to problem set on Young's modulus for epoxy
   (a thermosetting polymer).
-type: courses
+type: course
 layout: pdf
 uid: a12f1c3ea33b7e3f498a3ad337dd3cd6
 file_type: application/pdf

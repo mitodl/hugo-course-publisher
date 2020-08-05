@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex94sol.pdf
 description: >-
   This resource contains the solutions for the problems related to the summing
   the geometric series.
-type: courses
+type: course
 layout: pdf
 uid: 63683785ad834a6a8b6dcb66fcee9066
 file_type: application/pdf

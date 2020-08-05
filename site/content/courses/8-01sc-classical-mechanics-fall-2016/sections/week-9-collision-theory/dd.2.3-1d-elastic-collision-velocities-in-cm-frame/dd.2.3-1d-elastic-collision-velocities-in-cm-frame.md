@@ -118,6 +118,6 @@ transcript: >-
   m='215090'>their speeds do not change.</span> </p><p><span m='217870'>Only the
   direction of their velocities change.</span> </p><p></p>
 uid: 85c19f4f400f6162c58aacc54f6a3df9
-type: courses
+type: course
 layout: video
 ---

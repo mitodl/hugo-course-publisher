@@ -2668,6 +2668,6 @@ transcript: >-
   m="2670180">being</span> <span m="2670480">here.</span></p><p><span
   m="2671980">[APPLAUSE]</span></p><p>&nbsp;</p>
 uid: 653a907d7277d2e715ad123758932dac
-type: courses
+type: course
 layout: video
 ---

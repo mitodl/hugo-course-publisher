@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SC_pset5sol.pdf
 description: 'This resource contains solutions of integration technique problems. '
-type: courses
+type: course
 layout: pdf
 uid: 06979381db650b91c0de9d6755f03154
 file_type: application/pdf

@@ -89,6 +89,6 @@ transcript: >-
   line of argument as in</span> <span m='94490'>the discrete case, with just
   minor changes in notation.</span> </p><p></p>
 uid: 1178260d2793876127535d09363db333
-type: courses
+type: course
 layout: video
 ---

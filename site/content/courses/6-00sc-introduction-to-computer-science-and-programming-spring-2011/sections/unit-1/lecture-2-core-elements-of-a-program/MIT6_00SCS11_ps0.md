@@ -1,7 +1,7 @@
 ---
 title: MIT6_00SCS11_ps0.pdf
 description: This resource contains problem set related to core element of a program.
-type: courses
+type: course
 layout: pdf
 uid: 16dbc18cd479b42f128c5a687cb59bb1
 file_type: application/pdf

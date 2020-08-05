@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_26.pdf
 description: This resource contains information related to moment of inertia.
-type: courses
+type: course
 layout: pdf
 uid: a007cb2572c17b9bcfdcfae148902da4
 file_type: application/pdf

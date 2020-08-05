@@ -1,7 +1,7 @@
 ---
 title: q2f_sol.pdf
 description: Fluid Mechanics quiz with hand written solutions.
-type: courses
+type: course
 layout: pdf
 uid: 1d29a0d50e5f1bf5d5b859f201373e72
 file_type: application/pdf

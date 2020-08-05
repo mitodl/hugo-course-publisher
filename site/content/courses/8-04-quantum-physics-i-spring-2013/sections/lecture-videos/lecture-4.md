@@ -5118,6 +5118,6 @@ transcript: >-
   </p><p><span m='4786190'>CHRISTOPHER SMITH: Now</span> <span m='4786490'>we
   go.</span> </p><p><span m='4790390'>[APPLAUSE]</span> </p>
 uid: 43d8b10dd56df4be081f865349065be3
-type: courses
+type: course
 layout: video
 ---

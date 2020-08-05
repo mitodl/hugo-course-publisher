@@ -3,7 +3,7 @@ title: 5.111 F14 Exam 2 Solutions
 description: >-
   This resource contains information regarding principles of chemical science:
   Exam 2 solutions.
-type: courses
+type: course
 layout: pdf
 uid: e58def6b3e152854d1106927d6bd65fb
 file_type: application/pdf

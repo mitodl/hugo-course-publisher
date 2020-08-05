@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Del Notation; Flux'
 description: This resource contains information regarding del notation; flux.
-type: courses
+type: course
 layout: pdf
 uid: 41fa432bf31cbaf0825b2cf37986b763
 file_type: application/pdf

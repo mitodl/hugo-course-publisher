@@ -253,6 +253,6 @@ transcript: >-
   m='193464'>started</span> <span m='193865'>working</span> <span
   m='194267'>in</span> <span m='194668'>R.</span> </p>
 uid: 5bdfa3294d68f5b05fe2356a47334e4d
-type: courses
+type: course
 layout: video
 ---

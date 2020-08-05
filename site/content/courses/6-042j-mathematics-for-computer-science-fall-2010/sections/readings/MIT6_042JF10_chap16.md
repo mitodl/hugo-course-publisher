@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 16: Independence'
 description: This resource contains information about Independence.
-type: courses
+type: course
 layout: pdf
 uid: 9907ae0740731964bce45d8fc06989d2
 file_type: application/pdf

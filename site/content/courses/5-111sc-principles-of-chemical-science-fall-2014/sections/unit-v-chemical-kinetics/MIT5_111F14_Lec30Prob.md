@@ -1,7 +1,7 @@
 ---
 title: 'Principles of Chemical Science, Problems for Lecture 30: Kinetics: Rate Laws'
 description: This resource contains information regarding lecture 30 problem.
-type: courses
+type: course
 layout: pdf
 uid: b82cbfa8cd8bc240999328cfc62fa177
 file_type: application/pdf

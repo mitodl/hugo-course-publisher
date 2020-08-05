@@ -5781,6 +5781,6 @@ transcript: >-
   m='4788170'>of</span> <span m='4788470'>payoffs.</span> <span
   m='4788770'>[LAUGHTER]</span> </p>
 uid: fa23150ad9ad744b0f9d0bef14ca808a
-type: courses
+type: course
 layout: video
 ---

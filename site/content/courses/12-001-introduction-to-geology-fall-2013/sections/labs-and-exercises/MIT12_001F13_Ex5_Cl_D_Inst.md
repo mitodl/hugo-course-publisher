@@ -5,7 +5,7 @@ title: >-
 description: >-
   This file contains information regarding exercise 5: science, policy, and
   public opinion.
-type: courses
+type: course
 layout: pdf
 uid: 0eff46847a090a37a7b8b458ac58598b
 file_type: application/pdf

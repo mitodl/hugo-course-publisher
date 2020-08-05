@@ -3,7 +3,7 @@ title: 'Lecture 12 Notes: Climate through Geologic History'
 description: >-
   This is a file that contains information regarding climate through geologic
   history.
-type: courses
+type: course
 layout: pdf
 uid: 69fad51ff2c968b50a4385ed46b5ef1e
 file_type: application/pdf

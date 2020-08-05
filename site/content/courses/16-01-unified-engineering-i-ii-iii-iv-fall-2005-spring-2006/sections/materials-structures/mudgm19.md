@@ -3,7 +3,7 @@ title: mudgm19.pdf
 description: >-
   This resource contains review questions and answers based on deformation of
   atomic structure, difference between toughness, stiffness and strength.
-type: courses
+type: course
 layout: pdf
 uid: 213e319c9c485c5f4507403365302316
 file_type: application/pdf

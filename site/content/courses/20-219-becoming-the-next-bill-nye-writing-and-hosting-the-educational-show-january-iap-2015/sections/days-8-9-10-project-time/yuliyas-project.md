@@ -3545,6 +3545,6 @@ transcript: >-
   m="3076160">there's</span> <span m="3076630">anything</span> <span
   m="3077100">else.</span></p>
 uid: 1dad8d721a9cbcf7035aa5b66f9cce0a
-type: courses
+type: course
 layout: video
 ---

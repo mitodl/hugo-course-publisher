@@ -69,6 +69,6 @@ technical_location: >-
 title: 'Video: A Message to HR Professionals from Lee Dyer'
 transcript: ''
 uid: e9c4d664728f2934adda1f46177b60f7
-type: courses
+type: course
 layout: video
 ---

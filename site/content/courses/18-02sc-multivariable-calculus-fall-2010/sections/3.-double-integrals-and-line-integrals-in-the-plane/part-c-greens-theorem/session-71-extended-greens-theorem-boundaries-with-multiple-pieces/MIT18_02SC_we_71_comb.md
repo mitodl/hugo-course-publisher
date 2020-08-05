@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Extended Green''s Theorem'
 description: This resource contains information regarding extended green's theorem.
-type: courses
+type: course
 layout: pdf
 uid: a241cf9e8bc16a36763e9326ace52f4d
 file_type: application/pdf

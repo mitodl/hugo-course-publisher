@@ -3,7 +3,7 @@ title: 'Recursive Definition: Structural Induction'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 2cdd00ae5bf46d7a63af3c880bb45e92
 file_type: application/pdf

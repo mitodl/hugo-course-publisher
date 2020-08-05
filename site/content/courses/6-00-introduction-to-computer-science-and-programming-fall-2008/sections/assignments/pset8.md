@@ -3,7 +3,7 @@ title: 'Problem Set 8: Dynamic Programming'
 description: >-
   Problem set on implementing a dynamic programming algorithm and passing
   functions as arguments. 
-type: courses
+type: course
 layout: pdf
 uid: 8d9e8d2325fb4816a93246fe9a4372ab
 file_type: application/pdf

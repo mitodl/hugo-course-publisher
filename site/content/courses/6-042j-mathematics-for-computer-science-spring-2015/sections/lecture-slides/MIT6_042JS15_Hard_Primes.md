@@ -1,7 +1,7 @@
 ---
 title: 'GCDs: Die Hard Primes'
 description: This file contains information regarding die hard primes.
-type: courses
+type: course
 layout: pdf
 uid: 8d08b1bd3404d5a3a98b620f2c20a62f
 file_type: application/pdf

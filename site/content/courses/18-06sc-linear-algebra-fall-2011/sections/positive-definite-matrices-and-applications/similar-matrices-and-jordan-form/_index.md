@@ -1,16 +1,14 @@
 ---
 title: Similar Matrices and Jordan Form
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: b358f2d2863654b7503b47b34cc0953a
-    type: section
-    layout: section
     name: Similar Matrices and Jordan Form
     weight: 400
     parent: 34f596bc232822be5fba75646f6970c5
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/singular-value-decomposition/_index.md" %}}) »
 

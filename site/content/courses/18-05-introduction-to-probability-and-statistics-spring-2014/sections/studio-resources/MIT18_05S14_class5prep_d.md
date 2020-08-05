@@ -3,7 +3,7 @@ title: 'Class 5: Manipulating random variables'
 description: >-
   This is a resource file that contains information regarding class 5:
   manipulating random variables. 
-type: courses
+type: course
 layout: pdf
 uid: 04b568b31e63cfa5c33dfd0909492ee7
 file_type: application/pdf

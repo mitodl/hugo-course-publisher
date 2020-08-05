@@ -260,6 +260,6 @@ transcript: >-
   interpretation.</span> </p><p><span m='680490'>And that was the key to the
   solution of this problem.</span> </p>
 uid: 47b123db8beba90ed35b3e6822207096
-type: courses
+type: course
 layout: video
 ---

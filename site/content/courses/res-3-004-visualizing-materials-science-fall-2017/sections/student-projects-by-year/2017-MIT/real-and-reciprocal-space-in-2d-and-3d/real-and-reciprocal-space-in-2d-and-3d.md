@@ -445,6 +445,6 @@ transcript: >-
   m='429630'>space.</span> <span m='430470'>Thank</span> <span
   m='430740'>you.</span> </p>
 uid: 4b2d8baa6a58153c2de19cc2ee8079e9
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_graph08.pdf
 description: This resource contains graphs and figures related to producer theory.
-type: courses
+type: course
 layout: pdf
 uid: 9c9d589299d8607ab57b829d8117e655
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: s15_ps12_spring04.pdf
 description: Problem set S15 involving Fourier Transform and inverse Fourier transform.
-type: courses
+type: course
 layout: pdf
 uid: 7c396184fd770e20b97b6719881e1805
 file_type: application/pdf

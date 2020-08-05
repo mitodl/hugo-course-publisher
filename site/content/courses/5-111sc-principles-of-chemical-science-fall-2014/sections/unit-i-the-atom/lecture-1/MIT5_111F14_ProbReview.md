@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 1: The Importance of
   Chemical Principles
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 83ccdfcfa3327eda57fde82e885985b7
 file_type: application/pdf

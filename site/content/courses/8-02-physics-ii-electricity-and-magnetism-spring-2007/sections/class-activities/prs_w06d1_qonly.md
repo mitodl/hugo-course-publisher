@@ -3,7 +3,7 @@ title: prs_w06d1_qonly.pdf
 description: >-
   This resource contains informations about positive charge in uniform field and
   Hall effect.
-type: courses
+type: course
 layout: pdf
 uid: 71aaaea86eee5e5705fdd950b82cebf0
 file_type: application/pdf

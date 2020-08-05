@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_exam2.pdf
 description: This resource contains information related to contour plot.
-type: courses
+type: course
 layout: pdf
 uid: 82e746297259b200cb983347a8e8b737
 file_type: application/pdf

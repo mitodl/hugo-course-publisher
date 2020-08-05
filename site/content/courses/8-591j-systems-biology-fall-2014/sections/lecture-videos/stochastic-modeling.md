@@ -4903,6 +4903,6 @@ transcript: >-
   m="4908460">has</span> <span m="4908760">any questions.</span> <span
   m="4909360">Thanks.</span></p>
 uid: a84a49e74da72edc1088dcd34c1649d5
-type: courses
+type: course
 layout: video
 ---

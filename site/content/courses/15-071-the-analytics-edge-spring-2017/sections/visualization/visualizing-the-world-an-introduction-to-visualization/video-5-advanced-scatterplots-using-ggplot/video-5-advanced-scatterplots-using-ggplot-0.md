@@ -494,6 +494,6 @@ transcript: >-
   m='431842'>sharing</span> <span m='432598'>analytics</span> <span
   m='433354'>results.</span> </p>
 uid: 3ae32ad0c2b2b35559dd92db341140ea
-type: courses
+type: course
 layout: video
 ---

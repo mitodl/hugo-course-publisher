@@ -3,7 +3,7 @@ title: MITRES_18_001_strang161162.pdf
 description: >-
   This resource contains information related to linear algebra and differential
   equations.
-type: courses
+type: course
 layout: pdf
 uid: b5e91b5401acd6ff365413501b840e9a
 file_type: application/pdf

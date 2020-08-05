@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Proof of the Divergence Theorem'
 transcript: ''
 uid: 94d7ab9980f097e34a9b2b3bb03ea98b
-type: courses
+type: course
 layout: video
 ---

@@ -66,6 +66,6 @@ technical_location: >-
 title: Using the Trapezoid and Simpson's Rules
 transcript: ''
 uid: e0427fa20ca112ed567cb5fb2e667bfb
-type: courses
+type: course
 layout: video
 ---

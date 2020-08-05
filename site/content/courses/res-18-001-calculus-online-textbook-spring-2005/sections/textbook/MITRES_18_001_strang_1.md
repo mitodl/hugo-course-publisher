@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang_1.pdf
 description: This resource contains information related to introduction to calculus.
-type: courses
+type: course
 layout: pdf
 uid: b87e4abad5fd3a5b76ea06924608bf3f
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_25.pdf
 description: This resource contains information related to mass and average value.
-type: courses
+type: course
 layout: pdf
 uid: e152e02449626d11188cbb6f42e37d5f
 file_type: application/pdf

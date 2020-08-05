@@ -766,6 +766,6 @@ transcript: >-
   m='722760'>you</span> <span m='722820'>for</span> <span
   m='723030'>watching.</span> </p>
 uid: ce07b2b85b88e0a0c450fcca333cd833
-type: courses
+type: course
 layout: video
 ---

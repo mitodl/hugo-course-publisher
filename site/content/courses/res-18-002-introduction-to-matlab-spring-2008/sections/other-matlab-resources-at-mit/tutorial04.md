@@ -1,7 +1,7 @@
 ---
 title: tutorial04.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: b5d707806d961fcc36f2d8fbbbb15804
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: f08_ps03_spring04.pdf
 description: >-
   This resouce contains 1 problem on chord distribution and spanwise chord
   distribution.
-type: courses
+type: course
 layout: pdf
 uid: d1b6f7b443c798f557dccf1d6fd09407
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex88sol.pdf
 description: >-
   This resource contains the solutions for the problems related to the rational
   expressions.
-type: courses
+type: course
 layout: pdf
 uid: 30e0d666646354593044bb9e2349bd02
 file_type: application/pdf

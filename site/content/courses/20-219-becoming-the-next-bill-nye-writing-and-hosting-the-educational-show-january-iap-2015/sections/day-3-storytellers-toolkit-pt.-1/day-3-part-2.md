@@ -1869,6 +1869,6 @@ transcript: >-
   m='1557715'>a while</span> <span m='1558020'>if you guys</span> <span
   m='1558320'>have</span> <span m='1558620'>questions.</span> </p>
 uid: 0dbc329181e3ac03f3c4886343e51a99
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: recursn_handout.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 37b87d0dc5dcc5308431d53531748f32
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pset12.pdf
 description: This resource contains information related to gradient fields in 3D.
-type: courses
+type: course
 layout: pdf
 uid: 61987db4530a0894030cbfbf3373a018
 file_type: application/pdf

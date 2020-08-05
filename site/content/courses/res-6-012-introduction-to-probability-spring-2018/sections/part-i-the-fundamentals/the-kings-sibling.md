@@ -165,6 +165,6 @@ transcript: >-
   m="407710">in which judgment calls will have to be
   made.</span></p><p>&nbsp;</p>
 uid: bacc8aa3f620df05a5bff358462a15d7
-type: courses
+type: course
 layout: video
 ---

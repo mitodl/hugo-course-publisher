@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Taylor''s Formula'
 transcript: ''
 uid: 799aa3973dc69c8e0bf61d3b43b79c5f
-type: courses
+type: course
 layout: video
 ---

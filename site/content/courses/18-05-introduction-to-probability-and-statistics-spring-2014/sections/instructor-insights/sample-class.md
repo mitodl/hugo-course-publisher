@@ -3874,6 +3874,6 @@ transcript: >-
   m='3692190'>All</span> <span m='3692370'>right,</span> <span
   m='3692690'>great.</span> </p>
 uid: b09c96b115749aa10e37c1edf840eb0f
-type: courses
+type: course
 layout: video
 ---

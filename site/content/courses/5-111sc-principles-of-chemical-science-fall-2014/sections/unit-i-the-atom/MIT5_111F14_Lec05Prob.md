@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 5: Hydrogen Atom Energy
   Levels
 description: This resource contains information regarding lecture note 5 problems.
-type: courses
+type: course
 layout: pdf
 uid: eb2cf0676508363a9238fce221e1eacf
 file_type: application/pdf

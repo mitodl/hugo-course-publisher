@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses1.7sum.pdf
 description: >-
   This resource contains information related to solving Ax = 0: pivot variables,
   special solutions.
-type: courses
+type: course
 layout: pdf
 uid: dddb31dfe72d2e2e2fd09e74713b7775
 file_type: application/pdf

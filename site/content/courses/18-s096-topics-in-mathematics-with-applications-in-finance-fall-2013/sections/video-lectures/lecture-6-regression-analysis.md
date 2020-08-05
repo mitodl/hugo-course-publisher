@@ -4286,6 +4286,6 @@ transcript: >-
   m='4928290'>which</span> <span m='4929770'>are</span> <span
   m='4929870'>very</span> <span m='4930770'>interesting.</span> </p>
 uid: 28a7cf993a93a0278ad3de777e055c1e
-type: courses
+type: course
 layout: video
 ---

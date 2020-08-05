@@ -3,7 +3,7 @@ title: 'Reading 8a: Exam Review'
 description: >-
   This is a resource file that contains information regarding reading 8a: Exam
   review.
-type: courses
+type: course
 layout: pdf
 uid: 229c9ad2f68608d949e10b7d9943113f
 file_type: application/pdf

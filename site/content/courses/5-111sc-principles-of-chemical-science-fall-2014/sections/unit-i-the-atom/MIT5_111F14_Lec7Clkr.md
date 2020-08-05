@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Clicker Questions for Lecture 7: Multielectron
   atoms
 description: This resource contains information regarding Multielectron atoms.
-type: courses
+type: course
 layout: pdf
 uid: 3731c1e6e66883c2d246d132f91c44b2
 file_type: application/pdf

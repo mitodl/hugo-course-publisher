@@ -3,7 +3,7 @@ title: 'Reading 20: Comparison of Frequentist and Bayesian Inference'
 description: >-
   This is a resource file that contains information regarding reading 20:
   comparison of frequentist and bayesian inference.
-type: courses
+type: course
 layout: pdf
 uid: 76926c6068c8b18e6ecb48d649b15bfd
 file_type: application/pdf

@@ -868,6 +868,6 @@ transcript: >-
   m='987820'>this</span> <span m='988040'>example.</span> <span
   m='989390'>Thank</span> <span m='989650'>you.</span> </p>
 uid: 2fc865339ff42a99766066a7a2860a21
-type: courses
+type: course
 layout: video
 ---

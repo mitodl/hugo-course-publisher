@@ -183,6 +183,6 @@ transcript: >-
   m="93770">the</span> <span m="93870">best</span> <span
   m="94310">poached</span> <span m="94610">egg.</span></p>
 uid: 1814d85eb5300b7db278765feb1c8e78
-type: courses
+type: course
 layout: video
 ---

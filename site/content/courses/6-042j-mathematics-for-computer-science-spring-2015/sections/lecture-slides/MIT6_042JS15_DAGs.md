@@ -1,7 +1,7 @@
 ---
 title: 'Directed Acyclic Graphs & Scheduling: DAGs'
 description: This file contains information regarding DAGs.
-type: courses
+type: course
 layout: pdf
 uid: 7df708a5386f9abc5fa28f4f613f01ad
 file_type: application/pdf

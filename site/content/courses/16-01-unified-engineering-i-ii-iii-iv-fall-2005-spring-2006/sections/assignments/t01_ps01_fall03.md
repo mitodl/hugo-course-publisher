@@ -5,7 +5,7 @@ description: >-
 
   energy (internal, potential, kinetic and chemical) and exchanges of heat and
   work for this system and that of the rocket itself.
-type: courses
+type: course
 layout: pdf
 uid: ecf5644a7d20f9b5ec5ea2ab29c2c9df
 file_type: application/pdf

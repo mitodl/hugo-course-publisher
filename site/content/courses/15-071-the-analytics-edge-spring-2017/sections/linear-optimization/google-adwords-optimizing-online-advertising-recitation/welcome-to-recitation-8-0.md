@@ -104,6 +104,6 @@ transcript: >-
   m='34635'>video</span> <span m='34860'>and</span> <span m='35453'>get</span>
   <span m='36046'>started.</span> </p>
 uid: e54469bccb479e9d0c8e2b40bb17e73c
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Problems: Triple Integrals'
 description: This resource contains information regarding triple integrals.
-type: courses
+type: course
 layout: pdf
 uid: a251431a9b4151107e8d1ce286bac61f
 file_type: application/pdf

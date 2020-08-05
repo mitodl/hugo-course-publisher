@@ -3043,6 +3043,6 @@ transcript: >-
   m="2458090">All</span> <span m="2458180">right</span> <span
   m="2458900">thanks</span> <span m="2459140">everyone.</span></p>
 uid: 143cd66d44d6ee166bfc8eef90d7af0e
-type: courses
+type: course
 layout: video
 ---

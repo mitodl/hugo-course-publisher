@@ -4094,6 +4094,6 @@ transcript: >-
   m="4524380">I</span> <span m="4524460">will</span> <span m="4524550">be</span>
   <span m="4524680">here.</span></p>
 uid: 8d4521c98ed70a0e53a678af140cd4ca
-type: courses
+type: course
 layout: video
 ---

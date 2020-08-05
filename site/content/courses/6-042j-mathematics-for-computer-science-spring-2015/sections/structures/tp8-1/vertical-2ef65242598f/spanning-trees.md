@@ -904,6 +904,6 @@ transcript: >-
   m='634880'>minimum</span> <span m='635230'>weight</span> <span
   m='635460'>spanning</span> <span m='635890'>trees.</span> </p>
 uid: ae23d3e67827122ec683b53d87011009
-type: courses
+type: course
 layout: video
 ---

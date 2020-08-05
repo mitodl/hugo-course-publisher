@@ -3188,6 +3188,6 @@ transcript: >-
   m="2858160">minimize</span> <span m="2858910">your</span> <span
   m="2859100">stress.</span></p>
 uid: 27c255253bbd2f0c22dba6623714e762
-type: courses
+type: course
 layout: video
 ---

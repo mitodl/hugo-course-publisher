@@ -1083,6 +1083,6 @@ transcript: >-
   Thank</span> <span m="841530">you.</span></p><p><span
   m="842430">[APPLAUSE]</span></p><p>&nbsp;</p>
 uid: c5678cdce8ced9fc4f862ead3d793e50
-type: courses
+type: course
 layout: video
 ---

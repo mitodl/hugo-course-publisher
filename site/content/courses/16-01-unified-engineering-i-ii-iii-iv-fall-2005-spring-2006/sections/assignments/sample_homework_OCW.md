@@ -3,7 +3,7 @@ title: sample_homework_OCW.pdf
 description: >-
   The purpose of this handout is to give the student a sample problem and some
   advice for writing problem sets in Unified Engineering.
-type: courses
+type: course
 layout: pdf
 uid: 245c649b6f361d8410281be65d6e0e86
 file_type: application/pdf

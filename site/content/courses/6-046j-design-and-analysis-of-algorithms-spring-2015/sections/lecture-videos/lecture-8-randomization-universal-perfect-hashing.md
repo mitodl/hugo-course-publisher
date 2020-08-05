@@ -4710,6 +4710,6 @@ transcript: >-
   m="4907780">Now</span> <span m="4908050">you</span> <span
   m="4908200">know</span> <span m="4908360">hashing.</span></p>
 uid: f5041f11c09b8737ac786cae5fb98fb9
-type: courses
+type: course
 layout: video
 ---

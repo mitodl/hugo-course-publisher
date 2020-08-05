@@ -514,6 +514,6 @@ transcript: >-
   m='376010'>keep</span> <span m='376250'>a</span> <span m='376380'>good</span>
   <span m='376630'>conversation</span> <span m='377340'>going.</span> </p>
 uid: d2bbd8fe0b5b4e7098c3b47c3584898c
-type: courses
+type: course
 layout: video
 ---

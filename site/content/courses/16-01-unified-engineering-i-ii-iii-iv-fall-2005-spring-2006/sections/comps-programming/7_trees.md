@@ -1,7 +1,7 @@
 ---
 title: 7_trees.pdf
 description: Lecture 7 (2004) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 2ee16347df7a1ef7267b817c27e4e61b
 file_type: application/pdf

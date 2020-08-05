@@ -5,7 +5,7 @@ description: >-
   and also considers finalizing Maxwell?s Equations, their result ?
   electromagnetic (EM) radiation and how energy flows in electric and magnetic
   fields.
-type: courses
+type: course
 layout: pdf
 uid: a1bfc34ccf08ddf8474627b9a13d6ca8
 file_type: application/pdf

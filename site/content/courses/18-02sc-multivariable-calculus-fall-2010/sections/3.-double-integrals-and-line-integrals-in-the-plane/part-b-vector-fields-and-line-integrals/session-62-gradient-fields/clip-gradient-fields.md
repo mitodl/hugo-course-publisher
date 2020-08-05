@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Gradient Fields'
 transcript: ''
 uid: 05035729869be5c116a1ef510de71bf9
-type: courses
+type: course
 layout: video
 ---

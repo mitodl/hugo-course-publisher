@@ -272,6 +272,6 @@ transcript: >-
   for general random variables, it might</span> <span m='764420'>only reach the
   value 1 asymptotically</span> </p>
 uid: 7c508046b8734f1adda8a050bc61e403
-type: courses
+type: course
 layout: video
 ---

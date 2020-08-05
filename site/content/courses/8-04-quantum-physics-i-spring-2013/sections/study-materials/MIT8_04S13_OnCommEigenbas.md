@@ -3,7 +3,7 @@ title: '8.04 Quantum Physics, On Common Eigenbases of Commuting Operators '
 description: >-
   This resource contains information related to on common eigenbases of
   commuting operators.
-type: courses
+type: course
 layout: pdf
 uid: 9ccc9fd132124dd102e1a7863e6e12ce
 file_type: application/pdf

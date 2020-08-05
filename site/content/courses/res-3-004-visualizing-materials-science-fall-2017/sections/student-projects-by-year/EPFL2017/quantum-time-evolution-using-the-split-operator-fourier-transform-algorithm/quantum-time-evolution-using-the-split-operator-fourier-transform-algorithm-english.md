@@ -1014,6 +1014,6 @@ transcript: >-
   m='740960'>isn't</span> <span m='741170'>that</span> <span
   m='741340'>clear.</span> </p>
 uid: 7ce8daafbaa8daeb3df46a5e9e95e101
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: '9.3 eHarmony: Maximizing the Probability of Love '
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love/quick-question-711/_index.md" %}})

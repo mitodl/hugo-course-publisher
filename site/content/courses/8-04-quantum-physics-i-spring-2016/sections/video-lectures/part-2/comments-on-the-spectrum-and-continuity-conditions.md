@@ -597,6 +597,6 @@ transcript: >-
   m='786880'>that</span> <span m='787380'>it's</span> <span
   m='787670'>quite</span> <span m='788000'>doable.</span> </p>
 uid: a4e040ea412125511f63e7346398fb6e
-type: courses
+type: course
 layout: video
 ---

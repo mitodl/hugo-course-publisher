@@ -1614,6 +1614,6 @@ transcript: >-
   m='1219910'>real</span> <span m='1220140'>numbers</span> <span
   m='1220880'>are</span> <span m='1221070'>uncountable.</span> </p>
 uid: 24bd43400448af65bd4a93bf5ef2a8b0
-type: courses
+type: course
 layout: video
 ---

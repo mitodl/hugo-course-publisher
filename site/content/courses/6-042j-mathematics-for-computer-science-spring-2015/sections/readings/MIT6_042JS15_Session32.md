@@ -3,7 +3,7 @@ title: 'Expectation: Chapter 18.4 – 18.5'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Expectation: Chapter 18.4 – 18.5.
-type: courses
+type: course
 layout: pdf
 uid: 4afd244686ba5c675494772e474a37a7
 file_type: application/pdf

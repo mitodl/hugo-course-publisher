@@ -1,7 +1,7 @@
 ---
 title: MIT18_06S10_Final_Answers.pdf
 description: This resource contains information related to answers for final exam.
-type: courses
+type: course
 layout: pdf
 uid: 45790724487e46dcc02f55d0fc092ab7
 file_type: application/pdf

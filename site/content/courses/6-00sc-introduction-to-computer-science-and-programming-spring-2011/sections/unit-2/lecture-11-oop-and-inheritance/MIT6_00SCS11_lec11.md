@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 11 handout: Object-Oriented Programming (OOP) and Inheritance'
 description: This resource contains information related to oop and inheritance.
-type: courses
+type: course
 layout: pdf
 uid: 87a6a450109e6d1b3ab6ba8e8e42bdd3
 file_type: application/pdf

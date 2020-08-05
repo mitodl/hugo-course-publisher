@@ -489,6 +489,6 @@ transcript: >-
   m='366770'>proof</span> <span m='367480'>of</span> <span
   m='367940'>Euler's</span> <span m='368410'>theorem.</span> </p>
 uid: f07df703a4bf9d823e1072e4d2a7277e
-type: courses
+type: course
 layout: video
 ---

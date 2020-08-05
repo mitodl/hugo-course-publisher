@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information related to Memoization, subproblems,
   guessing, bottom-up; Fibonacci, shortest paths.
-type: courses
+type: course
 layout: pdf
 uid: ea1cb4a29625017bdbcaf2dfd61b179e
 file_type: application/pdf

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Example: Boy Near a Dart Board'
 transcript: ''
 uid: 5467a0f436421043d98a7ba2cd1226dd
-type: courses
+type: course
 layout: video
 ---

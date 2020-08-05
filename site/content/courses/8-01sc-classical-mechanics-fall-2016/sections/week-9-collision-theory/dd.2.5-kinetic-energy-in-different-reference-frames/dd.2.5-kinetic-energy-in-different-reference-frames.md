@@ -151,6 +151,6 @@ transcript: >-
   at is</span> <span m='357620'>how that changes when we have a
   collision.</span> </p>
 uid: 0bcee5ab64e1878778a130415e484004
-type: courses
+type: course
 layout: video
 ---

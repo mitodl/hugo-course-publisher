@@ -904,6 +904,6 @@ transcript: >-
   m="1151170">be</span> <span m="1151320">next</span> <span
   m="1151680">lecture</span> <span m="1152120">still.</span></p>
 uid: d3e5a7583a8df2ec2d7bf0063a096ec6
-type: courses
+type: course
 layout: video
 ---

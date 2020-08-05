@@ -173,6 +173,6 @@ transcript: >-
   of the sum of a random</span> <span m='381980'>number of random
   variables.</span> </p><p></p>
 uid: 08240581399d8c6f350b4c58af9d82a7
-type: courses
+type: course
 layout: video
 ---

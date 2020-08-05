@@ -1,16 +1,14 @@
 ---
 title: Lecture 8
 course_id: 6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016
+type: course
+layout: videogallery
 menu:
   6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016:
     identifier: ffd17f7bb2323aab9bf41b8697c77ccd
-    type: section
-    layout: section
     name: Lecture 8
     weight: 120
     parent: cc74bf5b1a22399e271270abfff469d7
-type: courses
-layout: videogallery
 ---
 1.  ### Class Definition
     

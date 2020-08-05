@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_008S11_lec06.pdf
 description: This resource contains information related to the inverse z-transform.
-type: courses
+type: course
 layout: pdf
 uid: 2ace34fb24e07ad7a22a92aa26ed3e5b
 file_type: application/pdf

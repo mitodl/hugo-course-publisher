@@ -498,6 +498,6 @@ transcript: >-
   <span m='627000'>very</span> <span m='627480'>surprising</span> <span
   m='628230'>measurements.</span> </p>
 uid: a2b26a93eefce9a3264ed8be4b8553f0
-type: courses
+type: course
 layout: video
 ---

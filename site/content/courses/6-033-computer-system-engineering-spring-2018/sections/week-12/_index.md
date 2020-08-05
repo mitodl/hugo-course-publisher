@@ -1,11 +1,11 @@
 ---
 title: 'Week 12: Security Part II'
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 463ad0d7960d0f16fac5ad1eab91ef20
-    type: section
-    layout: section
     name: 'Week 12: Security II'
     weight: 530
 ---

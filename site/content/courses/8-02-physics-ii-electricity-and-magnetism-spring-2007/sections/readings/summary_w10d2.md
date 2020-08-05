@@ -5,7 +5,7 @@ description: >-
   which the changing flux from one circuit induces an EMF in another, to self
   inductance, in which the changing flux from a circuit induces an EMF in
   itself.
-type: courses
+type: course
 layout: pdf
 uid: dd2beb373eb13dc1c90e816d45226de7
 file_type: application/pdf

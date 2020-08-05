@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses32a.pdf
 description: This resource contains information about ring on string.
-type: courses
+type: course
 layout: pdf
 uid: 80f8e2c7e7bccc45cf767e5b917331e7
 file_type: application/pdf

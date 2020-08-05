@@ -1,7 +1,7 @@
 ---
 title: s22_cgs.pdf
 description: Concept questions on Coherent Demodulation with their answers given.
-type: courses
+type: course
 layout: pdf
 uid: fee87dd2e206b47be6495e03ac022fc1
 file_type: application/pdf

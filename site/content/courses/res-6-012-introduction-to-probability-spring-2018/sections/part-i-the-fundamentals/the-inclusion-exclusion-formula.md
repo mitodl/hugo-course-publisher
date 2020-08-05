@@ -237,6 +237,6 @@ transcript: >-
   indicator functions, is</span> <span m="668640">quite
   beautiful.</span></p><p>&nbsp;</p>
 uid: 492a9048aaeaaf3a9945cbb31e685373
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: s07_lec.pdf
 description: Handwritten lecture notes on network systems.
-type: courses
+type: course
 layout: pdf
 uid: 56da9d685f89683d34cd04042d0b608f
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT18_06SCF11_ex3s.pdf
 description: This resource contains solution to the problem set related to exam 3.
-type: courses
+type: course
 layout: pdf
 uid: 92b86aaa4f5f4cce178c69faeb52039e
 file_type: application/pdf

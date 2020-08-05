@@ -3,7 +3,7 @@ title: c12_ps05_sol.pdf
 description: >-
   This handout contains the solutions for the problem set based on factorial and
   fibonacci problems.
-type: courses
+type: course
 layout: pdf
 uid: bb90c03700a4ae2e8378eff6a223bf46
 file_type: application/pdf

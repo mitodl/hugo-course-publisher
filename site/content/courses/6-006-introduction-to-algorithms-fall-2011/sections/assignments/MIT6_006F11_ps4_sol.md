@@ -1,7 +1,7 @@
 ---
 title: '6.006 Introduction to Algorithms, Problem Set 4 Solutions'
 description: This resource contains information about ps4_sol.
-type: courses
+type: course
 layout: pdf
 uid: 418d498452f400c119dd0b6dd2c43f50
 file_type: application/pdf

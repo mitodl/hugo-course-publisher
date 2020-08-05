@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Average Height with Respect to Arc Length'
 transcript: ''
 uid: 405986cd097b17cc4740e7351b2d9a91
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 35: Applying Chemical Principles'
 description: This file contains information regarding  lecture 35.
-type: courses
+type: course
 layout: pdf
 uid: d9273e872e219ac54dd99eb61ba1cfb3
 file_type: application/pdf

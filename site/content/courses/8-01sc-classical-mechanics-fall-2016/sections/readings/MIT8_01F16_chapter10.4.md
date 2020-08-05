@@ -1,7 +1,7 @@
 ---
 title: 8.01 Classical Mechanics Chapter 10.4
 description: This resource contains information regarding classical mechanics.
-type: courses
+type: course
 layout: pdf
 uid: 6bc2b23ca535f60ef92a35c3d90b2fea
 file_type: application/pdf

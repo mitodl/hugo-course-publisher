@@ -6,7 +6,7 @@ description: >-
   force on magnetic dipole, Ampere?s law, magnet falling through a ring, jumping
   ring, induction, Faraday?s law of induction, ways to induce emf , maxwell?s
   equations, motors and generators, and electric guitar.
-type: courses
+type: course
 layout: pdf
 uid: 35c3c8bf32cec4cdc4decf438572bda8
 file_type: application/pdf

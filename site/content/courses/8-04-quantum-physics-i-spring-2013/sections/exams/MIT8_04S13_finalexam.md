@@ -1,7 +1,7 @@
 ---
 title: 8.04 Spring 2013 Final Exam
 description: This is a resource file that contains information regarding final exam.
-type: courses
+type: course
 layout: pdf
 uid: edece27b26b6c7d23f6657eeaa3b09b7
 file_type: application/pdf

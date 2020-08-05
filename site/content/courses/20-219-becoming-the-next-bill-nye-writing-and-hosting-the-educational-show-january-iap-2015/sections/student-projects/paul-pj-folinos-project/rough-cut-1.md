@@ -321,6 +321,6 @@ transcript: >-
   m="261260">already</span> <span m="261660">know.</span></p><p><span
   m="261960">[MUSIC PLAYING]</span></p><p>&nbsp;</p>
 uid: 1720fd562daa9292c39c540daed6a7a8
-type: courses
+type: course
 layout: video
 ---

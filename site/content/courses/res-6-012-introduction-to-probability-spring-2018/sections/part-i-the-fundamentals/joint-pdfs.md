@@ -202,6 +202,6 @@ transcript: >-
   </p><p><span m='554450'>And we do not have joint continuity.</span>
   </p><p></p>
 uid: 8d816a5424029085db1d4e93e47f1b00
-type: courses
+type: course
 layout: video
 ---

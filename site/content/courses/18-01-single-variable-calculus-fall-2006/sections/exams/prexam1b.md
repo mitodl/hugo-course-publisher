@@ -1,7 +1,7 @@
 ---
 title: Practice Questions for Exam 1
 description: Practice questions for the first exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: 45a20e8aee443709bd03320699145924
 file_type: application/pdf

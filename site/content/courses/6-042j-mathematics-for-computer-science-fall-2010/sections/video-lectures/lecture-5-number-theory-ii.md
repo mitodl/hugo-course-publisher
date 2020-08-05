@@ -4422,6 +4422,6 @@ transcript: >-
   m='4718960'>fun</span> <span m='4719460'>with</span> <span
   m='4719570'>recitation.</span> </p>
 uid: ef943c653bc6af7cc3645bbd80d64ce2
-type: courses
+type: course
 layout: video
 ---

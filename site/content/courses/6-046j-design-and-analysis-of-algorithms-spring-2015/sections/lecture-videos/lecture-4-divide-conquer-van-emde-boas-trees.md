@@ -4847,6 +4847,6 @@ transcript: >-
   m="4812240">van</span> <span m="4812390">Emde</span> <span
   m="4812480">Boas.</span></p>
 uid: ee3a8f82c04e8d311c7b102978bd78a9
-type: courses
+type: course
 layout: video
 ---

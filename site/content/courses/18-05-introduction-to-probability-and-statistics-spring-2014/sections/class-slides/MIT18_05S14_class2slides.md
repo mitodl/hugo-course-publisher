@@ -3,7 +3,7 @@ title: 'Class 2 Slides: Probability basics'
 description: >-
   This is a resource file that contains information regarding probability
   basics.
-type: courses
+type: course
 layout: pdf
 uid: 6a94f2b5862a842ac9b0d64441d43e12
 file_type: application/pdf

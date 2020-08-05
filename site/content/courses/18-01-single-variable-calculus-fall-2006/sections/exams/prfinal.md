@@ -1,7 +1,7 @@
 ---
 title: Practice Final Exam
 description: Practice questions for the final exam.
-type: courses
+type: course
 layout: pdf
 uid: 7025cfa8c7d4f105856a70f9fdc10db3
 file_type: application/pdf

@@ -398,6 +398,6 @@ transcript: >-
   m='314670'>then</span> <span m='314900'>you're</span> <span
   m='315040'>done.</span> </p>
 uid: 026d47eb6c930cb709fe61c2f6eafda3
-type: courses
+type: course
 layout: video
 ---

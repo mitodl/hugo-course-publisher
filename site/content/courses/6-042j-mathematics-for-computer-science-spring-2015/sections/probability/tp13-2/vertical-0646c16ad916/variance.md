@@ -1126,6 +1126,6 @@ transcript: >-
   <span m='854230'>these</span> <span m='854450'>easy</span> <span
   m='854740'>proofs.</span> </p>
 uid: 2c8ba720c9ae5e4a78381e6c530524c8
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: glossary_open_5_0.pdf
 description: 'This resource contains glossary of terms used in computer systems. '
-type: courses
+type: course
 layout: pdf
 uid: f77e9db9ba9e77a59d1e8b9545fde235
 file_type: application/pdf

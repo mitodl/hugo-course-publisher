@@ -1,7 +1,7 @@
 ---
 title: s06_ps08_spring04.pdf
 description: This resource contains problem set based on impulse response of a signal.
-type: courses
+type: course
 layout: pdf
 uid: c026a305fbebac0fdd7ddf93a80f9e14
 file_type: application/pdf

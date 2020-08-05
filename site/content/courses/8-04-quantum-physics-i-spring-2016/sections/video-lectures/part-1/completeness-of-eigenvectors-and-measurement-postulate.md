@@ -822,6 +822,6 @@ transcript: >-
   m='1013706'>and</span> <span m='1013888'>it</span> <span m='1014070'>so</span>
   <span m='1014340'>continues.</span> </p>
 uid: 45c55934f49fdb4ffc10531ef88626cb
-type: courses
+type: course
 layout: video
 ---

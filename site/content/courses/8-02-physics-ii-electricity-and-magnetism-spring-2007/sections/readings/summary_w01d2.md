@@ -4,7 +4,7 @@ description: >-
   This file talks about concept of electric charge, and describe both how
   charges create electric fields and how those electric fields can in turn exert
   forces on other charges.
-type: courses
+type: course
 layout: pdf
 uid: 37f591ac0f4ad1bbb5f47667e3d4812a
 file_type: application/pdf

@@ -787,6 +787,6 @@ transcript: >-
   you will do this example in detail in Section tomorrow.</span> </p><p><span
   m='3153000'>Thank you.</span> </p>
 uid: 4376aaa924335be8eb070468c5a3bf68
-type: courses
+type: course
 layout: video
 ---

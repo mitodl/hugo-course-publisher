@@ -109,6 +109,6 @@ transcript: >-
   universally-applicable method.</span> </p><p><span m='162200'>And fortunately,
   has some very desirable properties.</span> </p><p></p>
 uid: c3dea9fa4d767ea5f5f51b7516db9e5f
-type: courses
+type: course
 layout: video
 ---

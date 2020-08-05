@@ -232,6 +232,6 @@ transcript: >-
   m='163890'>the</span> <span m='163950'>majority.</span> <span
   m='166060'>Good</span> <span m='166180'>job.</span> </p>
 uid: 3069fca6cb3ef73bb06dcb3abbe995be
-type: courses
+type: course
 layout: video
 ---

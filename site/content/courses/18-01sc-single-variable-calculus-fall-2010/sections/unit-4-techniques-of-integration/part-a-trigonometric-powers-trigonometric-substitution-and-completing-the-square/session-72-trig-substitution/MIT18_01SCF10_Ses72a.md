@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses72a.pdf
 description: This resource contains information about trig substitution.
-type: courses
+type: course
 layout: pdf
 uid: fed451b06b0f0f2fdd3b680f8ba5ca70
 file_type: application/pdf

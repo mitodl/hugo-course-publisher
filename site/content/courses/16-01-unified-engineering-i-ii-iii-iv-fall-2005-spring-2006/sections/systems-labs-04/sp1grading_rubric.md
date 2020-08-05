@@ -1,7 +1,7 @@
 ---
 title: sp1grading_rubric.pdf
 description: Grading sheet for systems problems.
-type: courses
+type: course
 layout: pdf
 uid: 0b67a806a06b45db0f439a692a11985a
 file_type: application/pdf

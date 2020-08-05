@@ -3,7 +3,7 @@ title: 'Lecture 33 Slides: Climate through Geologic History'
 description: >-
   This file contains the information regarding lecture 33 Slides: Climate
   through Geologic History.
-type: courses
+type: course
 layout: pdf
 uid: fbd6bee4c6c78fcbe1946359395b1069
 file_type: application/pdf

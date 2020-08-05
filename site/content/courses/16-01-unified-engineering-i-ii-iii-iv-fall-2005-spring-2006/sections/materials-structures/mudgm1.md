@@ -3,7 +3,7 @@ title: mudgm1.pdf
 description: >-
   This resource contains review questions and answers on stress and
   deformations, and related axial forces.
-type: courses
+type: course
 layout: pdf
 uid: 70f36d6893184169b0db214e99f1fd7b
 file_type: application/pdf

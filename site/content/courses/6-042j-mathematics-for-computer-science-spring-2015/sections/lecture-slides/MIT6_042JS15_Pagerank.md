@@ -3,7 +3,7 @@ title: 'Random Walks & Pagerank: Pagerank'
 description: >-
   This resource contains information regarding mathematics for computer science,
   random walks & pagerank: Pagerank.
-type: courses
+type: course
 layout: pdf
 uid: e1aeab195e059de2a561d11f3f895de1
 file_type: application/pdf

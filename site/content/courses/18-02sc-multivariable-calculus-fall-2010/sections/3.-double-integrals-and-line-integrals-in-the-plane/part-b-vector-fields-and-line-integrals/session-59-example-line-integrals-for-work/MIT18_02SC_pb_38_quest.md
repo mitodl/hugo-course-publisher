@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pb_38_quest.pdf
 description: 'This resource contains problem sets related to work integrals. '
-type: courses
+type: course
 layout: pdf
 uid: 083f2f434a2ea4b09cf826f54402f104
 file_type: application/pdf

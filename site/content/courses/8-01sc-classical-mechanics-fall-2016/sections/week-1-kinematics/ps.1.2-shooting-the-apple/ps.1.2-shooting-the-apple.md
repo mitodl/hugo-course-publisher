@@ -687,6 +687,6 @@ transcript: >-
   m='613230'>change</span> <span m='613500'>your</span> <span
   m='613590'>answer.</span> </p>
 uid: e45630ac05638cf96c96b6ef7727451b
-type: courses
+type: course
 layout: video
 ---

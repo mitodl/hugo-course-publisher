@@ -1,7 +1,7 @@
 ---
 title: MIT6_00SCS11_q2.pdf
 description: This resource contains problem set related to quiz 2.
-type: courses
+type: course
 layout: pdf
 uid: 500b345f63ec847b891cb2a2da022978
 file_type: application/pdf

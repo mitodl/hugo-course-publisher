@@ -1,7 +1,7 @@
 ---
 title: q1m.pdf
 description: 'Quiz based on force,axial extension problems.'
-type: courses
+type: course
 layout: pdf
 uid: 4861617b9311dc7ba3cec6de915e4bb9
 file_type: application/pdf

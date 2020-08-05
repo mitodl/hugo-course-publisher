@@ -1,15 +1,13 @@
 ---
 title: Instructor Insights
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: videogallery
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: e75a8c08e11786c535031b5e10f0fe19
-    type: section
-    layout: section
     name: Instructor Insights
     weight: 30
-type: courses
-layout: videogallery
 ---
 Instructor Insights
 -------------------

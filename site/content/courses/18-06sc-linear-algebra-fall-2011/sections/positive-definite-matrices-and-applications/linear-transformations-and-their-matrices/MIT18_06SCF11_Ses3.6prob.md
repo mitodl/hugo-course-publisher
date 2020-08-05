@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses3.6prob.pdf
 description: >-
   This resource contains problem set related to linear transformations and their
   matrices.
-type: courses
+type: course
 layout: pdf
 uid: 8e710a09fcfdfd7994083468222efea9
 file_type: application/pdf

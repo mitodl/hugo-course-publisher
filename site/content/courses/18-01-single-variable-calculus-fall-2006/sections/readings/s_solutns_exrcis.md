@@ -1,7 +1,7 @@
 ---
 title: Solutions to Exercises
 description: Handout containing solutions to exercises for section 1 to 7 of the course.
-type: courses
+type: course
 layout: pdf
 uid: 50647076a1dc45c386dcefa1605b226a
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses1.12sum.pdf
 description: >-
   This resource contains information related to graphs, networks, and incidence
   matrices.
-type: courses
+type: course
 layout: pdf
 uid: d71b25b942dd3dec0ede49d712deb4b0
 file_type: application/pdf

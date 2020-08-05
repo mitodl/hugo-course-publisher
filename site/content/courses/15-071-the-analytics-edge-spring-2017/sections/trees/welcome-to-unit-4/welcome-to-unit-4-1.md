@@ -104,6 +104,6 @@ transcript: >-
   m='41980'>method.</span> </p><p><span m='42700'>Let's</span> <span
   m='43370'>get</span> <span m='44040'>started.</span> </p>
 uid: a7fadb04da337d764121fded8f084498
-type: courses
+type: course
 layout: video
 ---

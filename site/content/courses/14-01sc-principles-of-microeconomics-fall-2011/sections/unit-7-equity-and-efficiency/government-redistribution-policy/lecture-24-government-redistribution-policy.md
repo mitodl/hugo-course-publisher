@@ -3718,6 +3718,6 @@ transcript: >-
   m='2950160'>people</span> <span m='2950390'>are who</span> <span
   m='2950570'>can't</span> <span m='2950800'>work.</span> </p>
 uid: 5856d3c6a8ea1f2058ccd3a9877d54fc
-type: courses
+type: course
 layout: video
 ---

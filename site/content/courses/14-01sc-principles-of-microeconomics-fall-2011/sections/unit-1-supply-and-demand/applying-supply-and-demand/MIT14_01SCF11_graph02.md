@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_graph02.pdf
 description: This resource contains graphs related to supply and demand.
-type: courses
+type: course
 layout: pdf
 uid: ce03508ea91bf5d93423cb299bab5421
 file_type: application/pdf

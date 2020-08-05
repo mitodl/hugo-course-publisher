@@ -444,6 +444,6 @@ transcript: >-
   <span m='428730'>hope</span> <span m='428930'>these</span> <span
   m='429180'>lectures</span> <span m='429610'>help.</span> </p>
 uid: e8aecf11a8aa85c631c9a9c427093839
-type: courses
+type: course
 layout: video
 ---

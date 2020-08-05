@@ -423,6 +423,6 @@ transcript: >-
   m='374965'>model</span> <span m='375378'>to</span> <span
   m='375792'>make</span> <span m='376206'>predictions.</span> </p>
 uid: 7e3c88db2530b15fea58e8309968f999
-type: courses
+type: course
 layout: video
 ---

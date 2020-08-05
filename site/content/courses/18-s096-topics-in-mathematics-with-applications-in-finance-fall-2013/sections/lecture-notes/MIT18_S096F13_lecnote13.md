@@ -1,7 +1,7 @@
 ---
 title: Commodity Models
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 7ba72c0dc888b352d301736029456ee9
 file_type: application/pdf

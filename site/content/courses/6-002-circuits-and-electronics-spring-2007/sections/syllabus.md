@@ -1,11 +1,11 @@
 ---
 title: Syllabus
 course_id: 6-002-circuits-and-electronics-spring-2007
+type: course
+layout: course_section
 menu:
   6-002-circuits-and-electronics-spring-2007:
     identifier: a8bca78516e499e8c15078ca7a7935b4
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
 ---

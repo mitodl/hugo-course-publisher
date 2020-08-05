@@ -452,6 +452,6 @@ transcript: >-
   m='479420'>be</span> <span m='479600'>a</span> <span
   m='479660'>probability</span> <span m='480260'>distribution.</span> </p>
 uid: 93be324286228ed979146844dc4a286f
-type: courses
+type: course
 layout: video
 ---

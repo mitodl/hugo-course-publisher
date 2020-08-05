@@ -1,7 +1,7 @@
 ---
 title: HowardGeorgiWaves.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 3346a46cafa9db6b17d5252a33335051
 file_type: application/pdf

@@ -106,6 +106,6 @@ transcript: >-
   m='118620'>to organize all of the different information that you have.</span>
   </p>
 uid: c840b8241ec1c522337df676c32d1cbe
-type: courses
+type: course
 layout: video
 ---

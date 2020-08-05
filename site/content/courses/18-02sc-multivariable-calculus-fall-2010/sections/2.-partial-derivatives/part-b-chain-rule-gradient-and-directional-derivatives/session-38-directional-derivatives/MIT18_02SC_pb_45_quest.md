@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems : Problems: Directional Derivatives'
 description: This resource contains information regarding directional derivatives.
-type: courses
+type: course
 layout: pdf
 uid: ece6a179f86a1e9891cb0db2f8a786ec
 file_type: application/pdf

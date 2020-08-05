@@ -1,7 +1,7 @@
 ---
 title: f14_ps12_fall03.pdf
 description: This resource contains problems on the topic of fluid engineering.
-type: courses
+type: course
 layout: pdf
 uid: a387d93bdafc6541965726bd3a0842ad
 file_type: application/pdf

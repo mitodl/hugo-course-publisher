@@ -3,7 +3,7 @@ title: m11_ps04_sol.pdf
 description: >-
   This resource contains handwritten solutions to the given problem set on
   torsion of circular cross-section shafts and twist angles.
-type: courses
+type: course
 layout: pdf
 uid: a2dc90762a19450749c0406c1a063967
 file_type: application/pdf

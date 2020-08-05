@@ -1,7 +1,7 @@
 ---
 title: spl10.pdf
 description: This file contains notes for Wing Bending Calculations.
-type: courses
+type: course
 layout: pdf
 uid: c5f687b07f1a376a5c785aab490c06ef
 file_type: application/pdf

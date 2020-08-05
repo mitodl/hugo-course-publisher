@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_we_5_comb.pdf
 description: 'This resource contains information related to uses of dot product. '
-type: courses
+type: course
 layout: pdf
 uid: 4e51fccb29b2ad412a713bcfe6a52b10
 file_type: application/pdf

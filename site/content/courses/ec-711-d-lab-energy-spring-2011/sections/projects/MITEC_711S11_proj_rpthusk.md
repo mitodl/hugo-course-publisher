@@ -1,7 +1,7 @@
 ---
 title: Dehusking Insert
 description: This resource contains the information related to Dehusking Insert.
-type: courses
+type: course
 layout: pdf
 uid: 09af6dbe00f3e660d48ad65898730f49
 file_type: application/pdf

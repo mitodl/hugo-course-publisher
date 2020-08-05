@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Divergence Theorem'
 transcript: ''
 uid: d3f2432e000bdba8b5b446f6f18ebd33
-type: courses
+type: course
 layout: video
 ---

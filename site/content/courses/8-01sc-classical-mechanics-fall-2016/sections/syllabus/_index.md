@@ -1,15 +1,13 @@
 ---
 title: Syllabus
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: videogallery
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 8488bde46909b726a411abeee039ef1a
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
-type: courses
-layout: videogallery
 ---
 « [Previous](/courses/8-01sc-classical-mechanics-fall-2016) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus/about-the-team/_index.md" %}}) »
 

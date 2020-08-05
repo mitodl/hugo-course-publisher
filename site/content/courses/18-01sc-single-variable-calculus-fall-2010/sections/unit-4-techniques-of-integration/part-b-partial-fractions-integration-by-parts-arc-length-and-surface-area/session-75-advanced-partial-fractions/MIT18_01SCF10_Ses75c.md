@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses75c.pdf
 description: This resource contains informations related to advanced partial fractions.
-type: courses
+type: course
 layout: pdf
 uid: cff6b7427fb9066272f65361fa59aa83
 file_type: application/pdf

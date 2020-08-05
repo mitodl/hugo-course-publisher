@@ -921,6 +921,6 @@ transcript: >-
   <span m='712271'>remercie</span> <span m='712528'>pour</span> <span
   m='712785'>votre</span> <span m='713042'>attention.</span> </p>
 uid: aa8a00e4f7e40339c10a39875a3084a9
-type: courses
+type: course
 layout: video
 ---

@@ -1,16 +1,14 @@
 ---
 title: 3.2 Asymptotics
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: videogallery
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 7fcb07616e2948a6ad10caa832263c78
-    type: section
-    layout: section
     name: 3.2 Asymptotics
     weight: 1960
     parent: 39106ddf6e8110d0b3ef0b61eb07512d
-type: courses
-layout: videogallery
 ---
 *   [<Sum's Upper Lower Bounds]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/vertical-9f131aae203e" %}})
 *   [3.2.1Asymptotic Notation: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/_index.md" %}})

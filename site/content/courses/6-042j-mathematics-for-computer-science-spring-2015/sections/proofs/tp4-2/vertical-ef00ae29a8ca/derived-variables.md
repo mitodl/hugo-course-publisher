@@ -479,6 +479,6 @@ transcript: >-
   m='379740'>machine</span> <span m='380080'>can't</span> <span
   m='380380'>move</span> <span m='380590'>anymore.</span> </p>
 uid: 7def83d5e816adbb5b1a3002def1d087
-type: courses
+type: course
 layout: video
 ---

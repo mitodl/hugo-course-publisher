@@ -45,6 +45,6 @@ technical_location: >-
 title: 'Clip: Vector Fields'
 transcript: ''
 uid: 964488f44573698edd1084695939efd7
-type: courses
+type: course
 layout: video
 ---

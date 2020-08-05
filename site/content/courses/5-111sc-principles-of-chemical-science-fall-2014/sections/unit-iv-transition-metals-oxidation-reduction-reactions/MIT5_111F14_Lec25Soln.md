@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Solutions for Lecture 25: Oxidation-Reduction
   and Electrochemical Cells
 description: "\r\nThis resource contains information regarding lecture 25 solution."
-type: courses
+type: course
 layout: pdf
 uid: 589cf02af92fc6ce649b9268bcb2d359
 file_type: application/pdf

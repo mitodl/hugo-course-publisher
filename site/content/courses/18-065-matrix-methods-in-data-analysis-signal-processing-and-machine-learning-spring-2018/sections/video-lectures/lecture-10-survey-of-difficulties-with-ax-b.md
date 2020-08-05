@@ -2568,6 +2568,6 @@ transcript: >-
   m="2973560">call</span> <span m="2973800">it</span> <span m="2973950">a</span>
   <span m="2974010">day.</span></p>
 uid: 16628e4482cdc2a75b194304b853bbe5
-type: courses
+type: course
 layout: video
 ---

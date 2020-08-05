@@ -3,7 +3,7 @@ title: 'Random Walks & Pagerank: Stationary Distributions'
 description: >-
   This resource contains information regarding mathematics for computer science,
   random walks & pagerank: Stationary distributions. 
-type: courses
+type: course
 layout: pdf
 uid: b531fbe38422d24d5f88980cdc0a98fb
 file_type: application/pdf

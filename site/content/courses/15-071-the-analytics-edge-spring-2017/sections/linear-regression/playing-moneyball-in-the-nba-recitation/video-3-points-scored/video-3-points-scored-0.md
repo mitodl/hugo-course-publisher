@@ -568,6 +568,6 @@ transcript: >-
   m='615142'>amount</span> <span m='615468'>of</span> <span
   m='615794'>error.</span> </p>
 uid: 24430922b6862545d3f674970e1b3a09
-type: courses
+type: course
 layout: video
 ---

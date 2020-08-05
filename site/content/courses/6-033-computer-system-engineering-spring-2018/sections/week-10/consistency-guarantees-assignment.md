@@ -1,11 +1,11 @@
 ---
 title: Consistency Guarantees Assignment
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: c109e0c5f4f69b527d96b0c911fcd579
-    type: section
-    layout: section
     name: Consistency Guarantees Assignment
     weight: 480
     parent: 62a94c78a5243c3060aa11c27ff81fc7

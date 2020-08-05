@@ -1,11 +1,11 @@
 ---
 title: Python Cost Model
 course_id: 6-006-introduction-to-algorithms-fall-2011
+type: course
+layout: course_section
 menu:
   6-006-introduction-to-algorithms-fall-2011:
     identifier: 2e91de4c23a9f323866d265121e71f07
-    type: section
-    layout: section
     name: Python Cost Model
     weight: 50
     parent: aa632f8351fe4fa58aaf1513de806253

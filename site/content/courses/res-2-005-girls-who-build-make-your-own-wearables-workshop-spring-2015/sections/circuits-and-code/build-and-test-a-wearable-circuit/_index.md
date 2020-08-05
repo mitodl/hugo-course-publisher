@@ -1,16 +1,14 @@
 ---
 title: Build and Test a Wearable Circuit
 course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015
+type: course
+layout: videogallery
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: b0e2f5334fbb324282d168267e602980
-    type: section
-    layout: section
     name: Build and Test a Wearable Circuit
     weight: 140
     parent: 702bfcbbdf401ecdff943eaa6807cb80
-type: courses
-layout: videogallery
 ---
 Overview
 --------

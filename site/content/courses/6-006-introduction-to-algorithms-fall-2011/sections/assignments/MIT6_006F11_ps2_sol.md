@@ -1,7 +1,7 @@
 ---
 title: '6.006 Introduction to Algorithms, Problem Set 2 Solutions'
 description: This resource contains information about ps2_sol.
-type: courses
+type: course
 layout: pdf
 uid: 9068814f8e3b4cd9d515bc7de4408c61
 file_type: application/pdf

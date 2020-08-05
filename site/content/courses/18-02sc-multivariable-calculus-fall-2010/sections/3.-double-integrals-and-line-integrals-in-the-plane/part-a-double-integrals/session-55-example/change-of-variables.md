@@ -1574,6 +1574,6 @@ transcript: >-
   m='1193860'>where</span> <span m='1194050'>I</span> <span
   m='1194160'>will</span> <span m='1194300'>stop.</span> </p>
 uid: 48731bc88bcf6aa8df7d692db5e4bd94
-type: courses
+type: course
 layout: video
 ---

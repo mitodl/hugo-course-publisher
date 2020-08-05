@@ -40,6 +40,6 @@ technical_location: >-
 title: 'Lecture 3: Lighting; Trip Introduction '
 transcript: ''
 uid: 72ae130268e045322088ec31fa291b22
-type: courses
+type: course
 layout: video
 ---

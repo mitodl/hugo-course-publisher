@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 4: Choosing a Technique'
 transcript: ''
 uid: 11cd96f0e27beb4b12ea4a435648a542
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: '6.4 Seeing the Big Picture: Segmenting Images to Create Data  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Video 2: Clustering Pixels]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-2-clustering-pixels/_index.md" %}})

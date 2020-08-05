@@ -2555,6 +2555,6 @@ transcript: >-
   m='2988420'>signal</span> <span m='2988810'>processing.</span> <span
   m='2989810'>OK.</span> <span m='2990110'>Thanks.</span> </p>
 uid: 498c2c9321ce4bd8842ed9c6f02e8c04
-type: courses
+type: course
 layout: video
 ---

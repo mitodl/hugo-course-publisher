@@ -489,6 +489,6 @@ transcript: >-
   m='353070'>unique</span> <span m='353550'>application</span> <span
   m='354090'>needs.</span> </p>
 uid: 40249ddf58da8a978b3a76cb1d160d5f
-type: courses
+type: course
 layout: video
 ---

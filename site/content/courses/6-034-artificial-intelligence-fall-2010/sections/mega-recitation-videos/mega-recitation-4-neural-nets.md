@@ -3607,6 +3607,6 @@ transcript: >-
   m='3154660'>see</span> <span m='3154910'>me</span> <span m='3155210'>as</span>
   <span m='3155510'>I'm</span> <span m='3155810'>walking out.</span> </p>
 uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
-type: courses
+type: course
 layout: video
 ---

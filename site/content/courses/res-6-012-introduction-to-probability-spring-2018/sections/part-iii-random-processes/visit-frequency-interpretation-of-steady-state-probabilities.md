@@ -148,6 +148,6 @@ transcript: >-
   going to see an example later on how it gives us</span> <span
   m="315020">shortcuts into analyzing Markov chains.</span></p><p>&nbsp;</p>
 uid: e0ffcf2cfe4f27eb69f87cded62d51e4
-type: courses
+type: course
 layout: video
 ---

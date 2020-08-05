@@ -1,7 +1,7 @@
 ---
 title: f23_mud.pdf
 description: Review questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: f500b2be3008b09ca670097d53596d6c
 file_type: application/pdf

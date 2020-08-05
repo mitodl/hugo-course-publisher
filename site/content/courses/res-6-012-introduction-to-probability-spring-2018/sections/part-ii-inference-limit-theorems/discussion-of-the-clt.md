@@ -209,6 +209,6 @@ transcript: >-
   sense that it</span> <span m='535910'>has a single peak rather than multiple
   peaks.</span> </p><p></p>
 uid: 7916f5ceb8335042abc66a0baca11d3d
-type: courses
+type: course
 layout: video
 ---

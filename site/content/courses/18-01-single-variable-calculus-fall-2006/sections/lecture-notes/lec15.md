@@ -3,7 +3,7 @@ title: 'Lecture 15: Differentials and Antiderivatives'
 description: >-
   Lecture notes on differentials, antiderivatives, and the method of
   substitution.
-type: courses
+type: course
 layout: pdf
 uid: c07ab6e13cf8684dd98b2650b64672fb
 file_type: application/pdf

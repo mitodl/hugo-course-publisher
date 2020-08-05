@@ -3,7 +3,7 @@ title: MIT18_02SC_pb_28_comb.pdf
 description: >-
   This resource contains problem statements and solutions related to least
   squares.
-type: courses
+type: course
 layout: pdf
 uid: ddcf62098a0c15fad1585957a6434b97
 file_type: application/pdf

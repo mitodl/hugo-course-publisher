@@ -178,6 +178,6 @@ transcript: >-
   that we will be studying</span> <span m='495150'>later in this course.</span>
   </p><p></p>
 uid: a1c92a90ba9a6f23ee75cda735bfd656
-type: courses
+type: course
 layout: video
 ---

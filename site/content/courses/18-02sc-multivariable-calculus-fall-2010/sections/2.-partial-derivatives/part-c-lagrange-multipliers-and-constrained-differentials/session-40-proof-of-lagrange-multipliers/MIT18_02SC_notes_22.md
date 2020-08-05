@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_22.pdf
 description: This resource contains information related to proof of Lagrange's multipliers.
-type: courses
+type: course
 layout: pdf
 uid: ebbeb8e61827a8058d2c45b674d003b3
 file_type: application/pdf

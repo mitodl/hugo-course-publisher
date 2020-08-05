@@ -1,7 +1,7 @@
 ---
 title: MIT6_00SCS11_ps2.pdf
 description: This resource contains problem set related to recursion.
-type: courses
+type: course
 layout: pdf
 uid: 3a5ebc039238f675c60ec1a490096b18
 file_type: application/pdf

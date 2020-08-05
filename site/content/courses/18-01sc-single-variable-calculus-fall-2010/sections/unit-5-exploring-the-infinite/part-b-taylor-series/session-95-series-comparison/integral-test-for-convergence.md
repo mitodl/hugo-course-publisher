@@ -616,6 +616,6 @@ transcript: >-
   will</span> <span m='463680'>converge.</span> <span m='465440'>I'll end</span>
   <span m='465850'>there.</span> </p>
 uid: 56449202a999aa85b202f97def56bda5
-type: courses
+type: course
 layout: video
 ---

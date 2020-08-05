@@ -198,6 +198,6 @@ transcript: >-
   application</span> <span m='654900'>of the total probability theorem.</span>
   </p><p></p>
 uid: 9cfa9a9faa1dbbb0f19ed7d32fd8f243
-type: courses
+type: course
 layout: video
 ---

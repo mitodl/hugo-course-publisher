@@ -3,7 +3,7 @@ title: s12_concept.pdf
 description: >-
   Concept questions on State II , Eigenvalues and Eigenvectors and Steps in
   Solving a Linear Dynamic Network Using Eigenvalue Method.
-type: courses
+type: course
 layout: pdf
 uid: dd886ce1c19087eb0cdc51dbd5f12fcd
 file_type: application/pdf

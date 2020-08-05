@@ -1,7 +1,7 @@
 ---
 title: u01_ps01_sol.pdf
 description: Problem set solutions on BOEING 777-200/200IGW.
-type: courses
+type: course
 layout: pdf
 uid: 78e545b8a0b3b9a2b8af64e4793e43fb
 file_type: application/pdf

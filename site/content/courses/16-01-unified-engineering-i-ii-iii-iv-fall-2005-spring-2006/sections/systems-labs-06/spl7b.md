@@ -1,7 +1,7 @@
 ---
 title: spl7b.pdf
 description: This file contains notes for airfoil characterization.
-type: courses
+type: course
 layout: pdf
 uid: 09d62c2fdbbc932ac0d350b4849551e5
 file_type: application/pdf

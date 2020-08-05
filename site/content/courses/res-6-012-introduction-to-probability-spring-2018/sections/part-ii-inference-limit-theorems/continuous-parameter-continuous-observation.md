@@ -125,6 +125,6 @@ transcript: >-
   m='217480'>and the mean squared error in a fair amount of detail</span> <span
   m='221430'>in a subsequent lecture sequence.</span> </p><p></p>
 uid: b1099478a1fc3ae58b487735b0204b87
-type: courses
+type: course
 layout: video
 ---

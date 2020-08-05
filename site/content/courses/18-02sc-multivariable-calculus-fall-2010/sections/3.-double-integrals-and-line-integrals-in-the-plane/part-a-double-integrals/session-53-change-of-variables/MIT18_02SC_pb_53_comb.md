@@ -1,7 +1,7 @@
 ---
 title: '18.02SC Problems and Solutions: Problems: Change of Variables'
 description: This resource contains information regarding change of variables.
-type: courses
+type: course
 layout: pdf
 uid: 7bca49e65056112275c93fa45d417f46
 file_type: application/pdf

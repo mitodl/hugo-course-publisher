@@ -1,7 +1,7 @@
 ---
 title: t07_ps03_sol.pdf
 description: This resource contains hand written solution of problem T7.
-type: courses
+type: course
 layout: pdf
 uid: de4cf44dae076504ee5250f22787c309
 file_type: application/pdf

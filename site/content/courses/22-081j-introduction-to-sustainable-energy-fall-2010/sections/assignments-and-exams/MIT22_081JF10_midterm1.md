@@ -3,7 +3,7 @@ title: MIT22_081JF10_midterm1.pdf
 description: >-
   This resource contains problem statements related to probability density
   functions, wind velocity and Carnot efficiency of the heat engine.
-type: courses
+type: course
 layout: pdf
 uid: 9b4ffa8784b1d7d5229f48d352a2abb6
 file_type: application/pdf

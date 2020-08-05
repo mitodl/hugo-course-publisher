@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang_toc.pdf
 description: This resource contains information related to table of contents.
-type: courses
+type: course
 layout: pdf
 uid: 5b0d16d033299c3fa60366d374c4edab
 file_type: application/pdf

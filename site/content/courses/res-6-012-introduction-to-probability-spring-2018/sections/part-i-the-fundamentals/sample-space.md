@@ -153,6 +153,6 @@ transcript: >-
   of detail is the one that captures those</span> <span m="328870">aspects that
   are relevant and of interest to you.</span></p><p>&nbsp;</p>
 uid: 07ccee04fe3062381348169a64bdf33e
-type: courses
+type: course
 layout: video
 ---

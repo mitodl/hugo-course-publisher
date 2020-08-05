@@ -2746,6 +2746,6 @@ transcript: >-
   m="3159530">Good.</span> <span m="3160190">See</span> <span
   m="3160460">you</span> <span m="3160580">then.</span></p>
 uid: 4318cf43b3aa08b79564f2376a48f586
-type: courses
+type: course
 layout: video
 ---

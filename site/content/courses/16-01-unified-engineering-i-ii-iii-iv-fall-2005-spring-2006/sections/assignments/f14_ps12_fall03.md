@@ -1,7 +1,7 @@
 ---
 title: f14_ps12_fall03.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 9df863fc03df1f699cca47af82ca4ba6
 file_type: application/pdf

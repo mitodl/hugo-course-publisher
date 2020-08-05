@@ -3,7 +3,7 @@ title: 5.111 F14 Exam 4 Solutions
 description: >-
   This resource contains information regarding principles of chemical science:
   Exam 4 solutions.
-type: courses
+type: course
 layout: pdf
 uid: edc55dfc741da20ba337a00ab434dad3
 file_type: application/pdf

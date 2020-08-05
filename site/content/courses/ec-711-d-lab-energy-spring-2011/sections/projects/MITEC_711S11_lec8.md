@@ -3,7 +3,7 @@ title: 'Week 8: Presentations & the Design Process'
 description: >-
   This resource contains information related to design process and
   presentations. 
-type: courses
+type: course
 layout: pdf
 uid: 354861c275307274f72816ce94549d27
 file_type: application/pdf

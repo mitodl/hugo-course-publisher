@@ -3101,6 +3101,6 @@ transcript: >-
   m='3193720'>look</span> <span m='3193850'>at</span> <span
   m='3193920'>it</span> <span m='3194400'>offline.</span> </p>
 uid: fb81fef88945bb4849a94dbe8c9f9b29
-type: courses
+type: course
 layout: video
 ---

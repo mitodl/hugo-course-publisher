@@ -3,7 +3,7 @@ title: 'Studio 3 Slides with Solutions: Gallery of continuous variables; histogr
 description: >-
   This is a resource file that contains information regarding gallery of
   continuous variables; histograms.
-type: courses
+type: course
 layout: pdf
 uid: 07a47328dd6777d3199cd37e3d48261c
 file_type: application/pdf

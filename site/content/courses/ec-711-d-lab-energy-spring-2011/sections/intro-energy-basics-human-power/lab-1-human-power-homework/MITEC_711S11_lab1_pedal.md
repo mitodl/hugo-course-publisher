@@ -1,7 +1,7 @@
 ---
 title: Understanding Pedal Power
 description: This resource contains information regarding Understanding Pedal Power.
-type: courses
+type: course
 layout: pdf
 uid: 15286019b5a06fde2d43af6c00f460d4
 file_type: application/pdf

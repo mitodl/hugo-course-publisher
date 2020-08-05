@@ -88,6 +88,6 @@ transcript: >-
   m='85580'>exponential random variables.</span> </p><p><span m='87950'>And we
   will conclude with a comprehensive example.</span> </p><p></p>
 uid: 2239ff596ff02dafcf76f1881d4d414d
-type: courses
+type: course
 layout: video
 ---

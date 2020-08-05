@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 7: Debugging'
 transcript: ''
 uid: 5d69359584e89060b6a0a5db161d50f7
-type: courses
+type: course
 layout: video
 ---

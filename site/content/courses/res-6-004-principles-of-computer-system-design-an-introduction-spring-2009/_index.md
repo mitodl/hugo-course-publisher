@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: res-6-004-principles-of-computer-system-design-an-introduction-spring-2009
 course_title: 'Principles of Computer System Design: An Introduction'
 course_image_url: >-

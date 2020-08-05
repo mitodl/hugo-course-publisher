@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Recitation 4: Recursion, Pseudo code and Debugging'
 transcript: ''
 uid: a80918343124c32ee32a7df6fd650d51
-type: courses
+type: course
 layout: video
 ---

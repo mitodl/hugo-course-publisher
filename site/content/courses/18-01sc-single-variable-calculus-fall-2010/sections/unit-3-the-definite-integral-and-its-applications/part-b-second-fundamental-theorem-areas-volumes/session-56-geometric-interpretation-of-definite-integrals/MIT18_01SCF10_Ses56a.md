@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses56a.pdf
 description: >-
   This resource contains information about geometric interpretation of definite
   integrals.
-type: courses
+type: course
 layout: pdf
 uid: 01d3a640ba2bee59aabec8a6e0a8361d
 file_type: application/pdf

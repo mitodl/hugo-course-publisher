@@ -3,7 +3,7 @@ title: 'Introduction to Probability: Lecture 8: Continuous Random Variables Part
 description: >-
   This resource contains information regarding introduction to probability: The
   fundamentals:  Continuous random variables part I.
-type: courses
+type: course
 layout: pdf
 uid: 07111f75b2df903f45a70b52847c0d39
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: s13_cqs.pdf
 description: >-
   Concept questions on BIBO Stability, Recitation Exercises & Transfer Function
   of Smoother.
-type: courses
+type: course
 layout: pdf
 uid: b6a42c290bdda20b9612b77cd277006a
 file_type: application/pdf

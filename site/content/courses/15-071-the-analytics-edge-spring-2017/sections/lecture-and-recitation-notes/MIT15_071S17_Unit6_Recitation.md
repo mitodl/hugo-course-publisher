@@ -1,7 +1,7 @@
 ---
 title: MIT15_071S17_Unit6_Recitation.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 9258e775e0bf57ee47b6ddabe1834003
 file_type: application/pdf

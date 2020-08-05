@@ -3,7 +3,7 @@ title: mudgm20.pdf
 description: >-
   This resource contains review questions and answers based on cyclic loading,
   and empirical models vs. applied stress amplitude.
-type: courses
+type: course
 layout: pdf
 uid: ecb4dd56852d6dcb153e1472fb533ee2
 file_type: application/pdf

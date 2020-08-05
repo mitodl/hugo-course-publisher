@@ -587,6 +587,6 @@ transcript: >-
   m='487330'>here.</span> </p><p><span m='488290'>And</span> <span
   m='488750'>that's</span> <span m='489020'>that.</span> </p>
 uid: b2361151e8e40a7a92404580d40b3721
-type: courses
+type: course
 layout: video
 ---

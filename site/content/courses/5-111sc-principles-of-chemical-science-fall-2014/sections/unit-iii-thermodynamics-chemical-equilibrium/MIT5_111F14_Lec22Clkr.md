@@ -5,7 +5,7 @@ title: >-
 description: >-
   This resource contains information regarding Acid-base Equilibrium: Salt
   Solutions and Buffers.
-type: courses
+type: course
 layout: pdf
 uid: d7bbe360060930e9ec0e6b680018089e
 file_type: application/pdf

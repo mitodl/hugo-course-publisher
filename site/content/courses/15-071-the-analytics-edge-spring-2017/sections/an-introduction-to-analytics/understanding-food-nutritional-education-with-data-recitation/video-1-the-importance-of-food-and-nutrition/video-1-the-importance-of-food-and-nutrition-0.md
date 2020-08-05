@@ -196,6 +196,6 @@ transcript: >-
   m='132345'>familiar</span> <span m='132794'>with</span> <span
   m='133242'>its</span> <span m='133691'>content.</span> </p>
 uid: b64cfee7074b11d691552d2dd865000f
-type: courses
+type: course
 layout: video
 ---

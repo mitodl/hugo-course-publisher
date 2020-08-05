@@ -100,6 +100,6 @@ transcript: >-
   sketched</span> <span m='120500'>a trajectory of the motion to help</span>
   <span m='122770'>me think about the problem.</span> </p>
 uid: 2826e93a3c01385c9be407c95b9874f6
-type: courses
+type: course
 layout: video
 ---

@@ -873,6 +873,6 @@ transcript: >-
   m='967340'>the</span> <span m='967580'>transform</span> <span
   m='968160'>of--</span> </p><p><span m='968460'>[AUDIO OUT]</span> </p>
 uid: 5ca633cc55c7b753fe217c3712ca51ab
-type: courses
+type: course
 layout: video
 ---

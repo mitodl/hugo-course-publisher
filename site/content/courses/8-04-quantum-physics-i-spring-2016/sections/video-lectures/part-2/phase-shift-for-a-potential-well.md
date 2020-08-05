@@ -460,6 +460,6 @@ transcript: >-
   m='551370'>best</span> <span m='551700'>we</span> <span m='551850'>can</span>
   <span m='552090'>do.</span> </p>
 uid: 178caee656e710c1d4e0a69d6db580ec
-type: courses
+type: course
 layout: video
 ---

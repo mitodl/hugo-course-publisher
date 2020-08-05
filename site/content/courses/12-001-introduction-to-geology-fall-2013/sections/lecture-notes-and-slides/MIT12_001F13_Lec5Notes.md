@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 5 Notes: Metamorphic Rocks'
 description: This is a resource file that contains information regarding metamorphic rocks.
-type: courses
+type: course
 layout: pdf
 uid: 93e58d46191f9fc3c54ec80752ad3b80
 file_type: application/pdf

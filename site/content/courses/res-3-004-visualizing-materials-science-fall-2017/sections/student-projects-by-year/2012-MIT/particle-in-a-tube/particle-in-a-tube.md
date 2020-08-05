@@ -30,6 +30,6 @@ technical_location: >-
 title: Particle in a Tube
 transcript: ''
 uid: 6d0ebae6a53d6d9d5a0c3124d6cf9779
-type: courses
+type: course
 layout: video
 ---

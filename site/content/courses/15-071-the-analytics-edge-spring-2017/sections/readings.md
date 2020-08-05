@@ -1,11 +1,11 @@
 ---
 title: Readings
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: course_section
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 3da02316bd16dd1dd117db2d3a5cdf73
-    type: section
-    layout: section
     name: Readings
     weight: 20
 ---

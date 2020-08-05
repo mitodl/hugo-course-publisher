@@ -147,6 +147,6 @@ transcript: >-
   space is just the set</span> <span m='295020'>of x, y pairs that lie between 0
   and 1.</span> </p><p></p>
 uid: 60f46bc0fb0042ec31c38e275268b050
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'MIT 8.03SC Fall 2016 Lecture 4: Coupled Oscillators, Normal Modes'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: b4f512207b1e991ffdfa8df5f519b6eb
 file_type: application/pdf

@@ -4270,6 +4270,6 @@ transcript: >-
   m='4962700'>graphs</span> <span m='4963540'>and</span> <span
   m='4963930'>partial</span> <span m='4964420'>orderings.</span> </p>
 uid: 2c3810395169532fcb6b0ee4b3c425e2
-type: courses
+type: course
 layout: video
 ---

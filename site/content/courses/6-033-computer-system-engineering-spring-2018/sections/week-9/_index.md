@@ -1,11 +1,11 @@
 ---
 title: 'Week 9: Distributed Systems Part II'
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: aa415ef7575219eea10afb9dc2dbef65
-    type: section
-    layout: section
     name: 'Week 9: Distributed Systems II'
     weight: 410
 ---

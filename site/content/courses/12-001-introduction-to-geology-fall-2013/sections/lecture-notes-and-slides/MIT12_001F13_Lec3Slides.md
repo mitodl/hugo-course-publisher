@@ -3,7 +3,7 @@ title: 'Lecture 3 Slides: Introduction to Minerals'
 description: >-
   This file contains the information regarding Lecture 3 Slides: Introduction to
   Minerals.
-type: courses
+type: course
 layout: pdf
 uid: bbb20ec6c4f529ce9dc34565ddd5c411
 file_type: application/pdf

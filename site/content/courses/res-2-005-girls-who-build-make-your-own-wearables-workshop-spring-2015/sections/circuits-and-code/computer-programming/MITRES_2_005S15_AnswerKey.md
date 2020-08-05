@@ -3,7 +3,7 @@ title: Fill-in-the-Blank Wearable Circuit Code Answer Key
 description: >-
   This file contains information regarding fill-in-the-blank wearable circuit
   code answer key.
-type: courses
+type: course
 layout: pdf
 uid: 6cad5933534fd60f96d790ac2537f8f1
 file_type: application/pdf

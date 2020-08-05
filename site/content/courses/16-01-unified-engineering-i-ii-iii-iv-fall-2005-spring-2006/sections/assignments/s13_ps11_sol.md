@@ -1,7 +1,7 @@
 ---
 title: s13_ps11_sol.pdf
 description: Solutions to seven problems of set S13.
-type: courses
+type: course
 layout: pdf
 uid: d617c3c24f993e453c3389448cc7ab85
 file_type: application/pdf

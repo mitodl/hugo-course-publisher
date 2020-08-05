@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 20: Random walks'
 description: This resource contains information about Random walks.
-type: courses
+type: course
 layout: pdf
 uid: eb5072ea046760bb81e5ce6bc1c97b37
 file_type: application/pdf

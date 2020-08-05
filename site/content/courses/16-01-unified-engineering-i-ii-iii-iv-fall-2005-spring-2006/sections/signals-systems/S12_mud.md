@@ -1,7 +1,7 @@
 ---
 title: S12_mud.pdf
 description: Review questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: 418eb1099ffd9d2dae202b74865b5459
 file_type: application/pdf

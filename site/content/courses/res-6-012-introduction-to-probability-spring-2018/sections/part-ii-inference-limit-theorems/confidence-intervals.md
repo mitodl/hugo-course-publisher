@@ -146,6 +146,6 @@ transcript: >-
   </p><p><span m='296909'>The most common method is based on normal</span> <span
   m='299240'>approximations, as we will be seeing next.</span> </p><p></p>
 uid: 2f1481e0a138dd53c3bdf230ae82035f
-type: courses
+type: course
 layout: video
 ---

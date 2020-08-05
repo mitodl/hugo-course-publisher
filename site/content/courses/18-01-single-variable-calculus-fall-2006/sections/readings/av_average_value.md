@@ -1,7 +1,7 @@
 ---
 title: Average Value
 description: Supplement to the textbook on average value.
-type: courses
+type: course
 layout: pdf
 uid: e13351c281c7b7d49d24aae95b0b18ff
 file_type: application/pdf

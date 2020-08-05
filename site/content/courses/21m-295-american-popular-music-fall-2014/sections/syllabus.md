@@ -1,11 +1,11 @@
 ---
 title: Syllabus
 course_id: 21m-295-american-popular-music-fall-2014
+type: course
+layout: course_section
 menu:
   21m-295-american-popular-music-fall-2014:
     identifier: ed2e0eeb58ceca436e635b1755fe3c95
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
 ---

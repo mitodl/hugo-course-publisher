@@ -1,11 +1,11 @@
 ---
 title: Teacher Resources
 course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
+type: course
+layout: course_section
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: b41a9c3e24b77fcdd44104c576e0f5d4
-    type: section
-    layout: section
     name: Teacher Resources
     weight: 310
 ---

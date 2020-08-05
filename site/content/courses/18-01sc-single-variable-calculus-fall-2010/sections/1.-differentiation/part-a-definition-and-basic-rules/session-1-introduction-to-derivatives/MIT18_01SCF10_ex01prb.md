@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex01prb.pdf
 description: This resource contains problem statements related to secants and tangents.
-type: courses
+type: course
 layout: pdf
 uid: e7035a3c1ce003dca5766a3746101695
 file_type: application/pdf

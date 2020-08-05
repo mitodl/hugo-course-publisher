@@ -191,6 +191,6 @@ transcript: >-
   m='472290'>that we would obtain if we have a very fine discretization.</span>
   </p><p><span m='476580'>And this gave us the final formula.</span> </p><p></p>
 uid: 430abd5461bd417157f033ce03f30651
-type: courses
+type: course
 layout: video
 ---

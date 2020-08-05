@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: res-6-012-introduction-to-probability-spring-2018
 course_title: Introduction to Probability
 course_image_url: >-

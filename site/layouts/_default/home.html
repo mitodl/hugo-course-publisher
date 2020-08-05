@@ -1,9 +1,82 @@
-<h1>Home</h1>
-
-This is basically a placeholder.
-
-{{ $courses := .Site.GetPage "/courses" }}
-
-<a href="{{ $courses.Permalink }}">
-  course listing
-</a>
+{{ define "main" }}
+<div class="outer-wrapper position-relative">
+  {{ block "header" . }}{{ partial "header" . }}{{ end }}
+  <div class="d-flex flex-column align-items-center bg-light">
+    <h1 class="font-weight-normal py-7">Explore Open Course Ware</h1>
+    <div class="icon-text-box-wrapper home-search d-flex flex-row align-items-center form-group shadow-sm mb-5">
+      <i class="material-icons text-dark-gray input-group-prepend px-2">search</i>
+      <input type="text" class="form-control w-100 py-4 coming-soon" placeholder="Enter Course Name, Department, Course Number...">
+    </div>
+  </div>
+  <div class="beta-dialog bg-dark-grey px-8 py-4 d-none">
+    <h2>Next Generation OpenCourseWare</h2>
+    <p>
+      As we approach the 20th anniversary of MIT OpenCourseWare, we are redesigning our platform and user experience. 
+      This site is the first instantiation of this redesign and is being used to collect feedback from users (like you). 
+      We are currently focusing on the following features (each with varying levels of completeness). Be sure to checkout the following features:
+    </p>
+    <ul>
+      <li>Updated courses pages - new experience that works on mobile and desktop.</li>
+      <li>Search - find courses and individual resources from across the OpenCourseWare catalog.</li>
+      <li>...</li>
+    </ul>
+    <p>Please let us know if you have feedback or would like to be informed of new updates.</p>
+    <div class="d-flex justify-content-end w-100">
+      <a class="small-link coming-soon">
+        <div class="btn rounded-0 bg-dark text-white w-100 px-3 py-2">CONTACT</div>
+      </a>
+      <a class="small-link coming-soon">
+        <div class="btn rounded-0 text-black w-100 ml-3 px-3 py-2">DISMISS</div>
+      </a>
+    </div>
+  </div>
+  <div class="give-now d-flex flex-row justify-content-center px-8 py-5">
+    <div class="d-flex flex-column justify-content-center bg-white pr-3">
+      <h2>GIVE NOW</h2>
+      <h2>Your Donation Makes a Difference</h2>
+      <h4 class="font-weight-normal">MIT OpenCourseWare is supported through the generosity of people like you, who believe that unlocking knowledge can empower minds.</h4>
+    </div>
+    <div class="d-flex align-items-center pl-3">
+      <a class="small-link coming-soon">
+        <div class="give-button d-flex align-items-center btn rounded-0 bg-black text-white px-3 py-2">
+          <img class="pr-2" src="/images/heart.svg" alt="heart" />
+          <h1 class="font-weight-normal m-0 pl-2">GIVE</h1>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="position-absolute bg-light h-100 w-100">
+    <div class="d-flex justify-content-center py-5">
+      <div class="social-card d-flex flex-column justify-content-center align-items-center mr-3">
+        <h5>STAY CONNECTED WITH OCW</h5>
+        <div class="d-flex">
+          <a class="img-link" href="https://www.facebook.com/MITOCW" target="_blank">
+            <img class="social-icon mr-2" src="/images/social-facebook.svg" alt="facebook" />
+          </a>
+          <a class="img-link" href="https://www.instagram.com/mitocw" target="_blank">
+            <img class="social-icon ml-2 mr-2" src="/images/social-instagram.svg" alt="instagram" />
+          </a>
+          <a class="img-link" href="https://twitter.com/MITOCW" target="_blank">
+            <img class="social-icon ml-2 mr-2" src="/images/social-twitter.svg" alt="twitter" />
+          </a>
+          <a class="img-link" href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw" target="_blank">
+            <img class="social-icon ml-2" src="/images/social-youtube.svg" alt="youtube" />
+          </a>
+        </div>
+      </div>
+      <div class="social-card d-flex flex-column ml-3 px-6 py-4">
+        <h5>SUBSCRIBE TO THE OCW NEWSLETTER</h5>
+        <div class="d-flex flex-row">
+          <div class="icon-text-box-wrapper d-flex flex-row flex-grow-1 form-group bg-white shadow-sm border-dark-grey p-0 m-0">
+            <img class="input-group-prepend px-2" src="/images/envelope.svg" />
+            <input type="text" class="form-control py-3" placeholder="Your email address...">
+          </div>
+          <a class="flex-1 small-link coming-soon pl-4">
+            <div class="d-flex align-items-center btn rounded-0 bg-black text-white w-100 px-3 h-100">SIGN ME UP</div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

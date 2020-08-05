@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Derivative of the Sum of Two Functions'
 transcript: ''
 uid: 4c18bf6adc98ec8ed31f4326c29513d2
-type: courses
+type: course
 layout: video
 ---

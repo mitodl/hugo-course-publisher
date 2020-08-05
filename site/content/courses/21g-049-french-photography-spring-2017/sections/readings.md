@@ -1,11 +1,11 @@
 ---
 title: Readings
 course_id: 21g-049-french-photography-spring-2017
+type: course
+layout: course_section
 menu:
   21g-049-french-photography-spring-2017:
     identifier: 6d4817abcde14cc274ce3a54c7243035
-    type: section
-    layout: section
     name: Readings
     weight: 30
 ---

@@ -150,6 +150,6 @@ transcript: >-
   performance</span> <span m='324930'>of a particular estimator gets
   evaluated.</span> </p><p></p>
 uid: d4b176f1141e525ef2b95024306d18ec
-type: courses
+type: course
 layout: video
 ---

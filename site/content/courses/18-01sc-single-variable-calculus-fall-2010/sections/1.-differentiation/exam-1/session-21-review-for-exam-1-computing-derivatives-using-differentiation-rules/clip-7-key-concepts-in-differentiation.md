@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 7: Key Concepts in Differentiation'
 transcript: ''
 uid: 5ca3c31db72e8ba92eda0cda01c85fa3
-type: courses
+type: course
 layout: video
 ---

@@ -6149,6 +6149,6 @@ transcript: >-
   m='5012760'>a  good</span> <span m='5012930'>spring</span> <span
   m='5013120'>break,</span> <span m='5013320'>guys.</span> </p>
 uid: 3b7b1c01873b2b26fa7bc1c06a500211
-type: courses
+type: course
 layout: video
 ---

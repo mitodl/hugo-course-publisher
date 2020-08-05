@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 course_title: Mathematics for Computer Science
 course_image_url: >-

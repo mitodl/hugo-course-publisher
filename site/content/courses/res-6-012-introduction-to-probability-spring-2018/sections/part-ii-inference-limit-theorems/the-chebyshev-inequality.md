@@ -151,6 +151,6 @@ transcript: >-
   m='350490'>But it also uses some information about the variance</span> <span
   m='354450'>of the random variable.</span> </p><p></p>
 uid: 1263f73a3f6c032f6950eb0ae5275f73
-type: courses
+type: course
 layout: video
 ---

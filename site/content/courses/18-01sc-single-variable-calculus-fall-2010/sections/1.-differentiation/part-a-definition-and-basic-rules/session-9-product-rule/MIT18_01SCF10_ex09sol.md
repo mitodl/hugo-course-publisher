@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex09sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to product
   rule.
-type: courses
+type: course
 layout: pdf
 uid: b274df23e6ada7c665e6cfe72928b197
 file_type: application/pdf

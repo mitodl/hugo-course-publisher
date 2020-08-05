@@ -1452,6 +1452,6 @@ transcript: >-
   m="1190660">much.</span></p><p><span m="1191070">Thank</span> <span
   m="1191240">you.</span></p><p><span m="1191340">Thanks.</span></p>
 uid: 9e8e44dcfbff338988f5a536c94a6dad
-type: courses
+type: course
 layout: video
 ---

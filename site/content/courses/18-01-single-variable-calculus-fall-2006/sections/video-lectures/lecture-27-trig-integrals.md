@@ -2420,6 +2420,6 @@ transcript: >-
   m='2802020'>quit</span> <span m='2802220'>for</span> <span
   m='2802370'>today.</span> </p>
 uid: e33009e8365fe67def33a653dea6368f
-type: courses
+type: course
 layout: video
 ---

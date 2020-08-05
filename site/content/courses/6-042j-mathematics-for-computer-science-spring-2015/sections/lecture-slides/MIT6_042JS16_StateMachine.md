@@ -3,7 +3,7 @@ title: 'State Machines – Invariants: State Machine Invariants'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: bf4c303eb01966cfa63670d163994324
 file_type: application/pdf

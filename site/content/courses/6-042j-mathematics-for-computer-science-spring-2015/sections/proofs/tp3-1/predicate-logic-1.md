@@ -889,6 +889,6 @@ transcript: >-
   <span m='749700'>every</span> <span m='750130'>other</span> <span
   m='750920'>negative</span> <span m='751320'>integer.</span> </p>
 uid: c2f89807e7f85c6c3bb8408d16e6ce11
-type: courses
+type: course
 layout: video
 ---

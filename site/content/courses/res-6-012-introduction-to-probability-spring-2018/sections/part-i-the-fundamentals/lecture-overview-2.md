@@ -86,6 +86,6 @@ transcript: >-
   puzzle that will serve as a</span> <span m="81650">word of caution about
   putting together probabilistic models.</span></p><p>&nbsp;</p>
 uid: a3a23914d67031e78148aaa3e7011bb2
-type: courses
+type: course
 layout: video
 ---

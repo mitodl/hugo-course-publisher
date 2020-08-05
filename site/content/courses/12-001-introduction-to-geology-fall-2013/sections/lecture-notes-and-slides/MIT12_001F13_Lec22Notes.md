@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 22 Notes: Field Techniques'
 description: This is a resource file that contains information regarding field techniques.
-type: courses
+type: course
 layout: pdf
 uid: 7de2acad99d8c66fa0712cf95d7acc2d
 file_type: application/pdf

@@ -113,6 +113,6 @@ transcript: >-
   is true for linear functions.</span></p><p><span m="232630">But for non-linear
   functions, it is generally false.</span></p><p>&nbsp;</p>
 uid: 3e17ae0d6bc0d980e7498e2c04716f6d
-type: courses
+type: course
 layout: video
 ---

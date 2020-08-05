@@ -903,6 +903,6 @@ transcript: >-
   m='3002000'>See if you can figure it out for yourselves and then we
   will</span> <span m='3006000'>talk about it next week.</span> </p>
 uid: 39f89db1f56314c3f12eb1dfbc5f21ab
-type: courses
+type: course
 layout: video
 ---

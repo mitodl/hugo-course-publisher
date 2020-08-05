@@ -1121,6 +1121,6 @@ transcript: >-
   m='1499810'>punchline</span> <span m='1500540'>next</span> <span
   m='1500840'>time.</span> </p>
 uid: 6be39c12a734abb6ecab5351b4d03c78
-type: courses
+type: course
 layout: video
 ---

@@ -786,6 +786,6 @@ transcript: >-
   m='900920'>OK.</span> <span m='901420'>Onward</span> <span
   m='901950'>to</span> <span m='902100'>two.</span> </p>
 uid: 4ae8b4bb823ff4e4fc8afaf7576b0a73
-type: courses
+type: course
 layout: video
 ---

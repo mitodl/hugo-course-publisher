@@ -315,6 +315,6 @@ transcript: >-
   m='163410'>power</span> <span m='164010'>of</span> <span
   m='164100'>chemistry.</span> </p>
 uid: 9f07f98a1bc6fdedf45b6820c7496e51
-type: courses
+type: course
 layout: video
 ---

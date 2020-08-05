@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_9.pdf
 description: This resource contains information related to parametric curves.
-type: courses
+type: course
 layout: pdf
 uid: 2e7855c398972f7d5da123cae42a8290
 file_type: application/pdf

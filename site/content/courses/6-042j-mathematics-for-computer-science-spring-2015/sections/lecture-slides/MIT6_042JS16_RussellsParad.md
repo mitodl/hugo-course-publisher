@@ -3,7 +3,7 @@ title: 'Infinite Sets: Russell''s Paradox'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 123cee8af1a08739d8d1f0c8efd9f01e
 file_type: application/pdf

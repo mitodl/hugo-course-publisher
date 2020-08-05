@@ -4393,6 +4393,6 @@ transcript: >-
   m="4777440">please</span> <span m="4777740">feel free</span> <span
   m="4778040">to come</span> <span m="4778340">on up.</span></p>
 uid: 86d262091449f6a469c9a0917f8fae8d
-type: courses
+type: course
 layout: video
 ---

@@ -153,6 +153,6 @@ transcript: >-
   out that these properties</span> <span m='354300'>are cornerstones of that
   theory.</span> </p><p></p>
 uid: b2a67a638e2868c3e8733484b7101cfd
-type: courses
+type: course
 layout: video
 ---

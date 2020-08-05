@@ -561,6 +561,6 @@ transcript: >-
   m='514800'>million</span> <span m='515150'>dollar</span> <span
   m='515500'>Netflix</span> <span m='515850'>prize.</span> </p>
 uid: 586e592dafc455b019b27dd6d67ab5bb
-type: courses
+type: course
 layout: video
 ---

@@ -604,6 +604,6 @@ transcript: >-
   m='464260'>our</span> <span m='464770'>data</span> <span
   m='465280'>set.</span> </p>
 uid: 0ec65328e9419a97567076902ec9ab2c
-type: courses
+type: course
 layout: video
 ---

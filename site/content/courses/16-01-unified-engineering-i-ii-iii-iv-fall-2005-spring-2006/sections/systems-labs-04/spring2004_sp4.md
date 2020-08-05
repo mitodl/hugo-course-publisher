@@ -1,7 +1,7 @@
 ---
 title: spring2004_sp4.pdf
 description: This resource contains information on performance assessment set.
-type: courses
+type: course
 layout: pdf
 uid: b45901709c72ec82fd892b500b793381
 file_type: application/pdf

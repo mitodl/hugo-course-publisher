@@ -1,7 +1,7 @@
 ---
 title: 'Partial Orders and Equivalence: Partial Orders'
 description: This file contains information regarding  partial orders.
-type: courses
+type: course
 layout: pdf
 uid: 4eed4d789978e4180aefc15e430b7a5e
 file_type: application/pdf

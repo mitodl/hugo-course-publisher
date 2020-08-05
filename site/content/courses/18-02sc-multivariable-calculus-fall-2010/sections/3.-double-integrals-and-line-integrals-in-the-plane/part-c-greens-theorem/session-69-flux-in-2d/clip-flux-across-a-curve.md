@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Flux Across a Curve'
 transcript: ''
 uid: 5373420bf6b339e7486cdedb01de15eb
-type: courses
+type: course
 layout: video
 ---

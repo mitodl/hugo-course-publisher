@@ -1,7 +1,7 @@
 ---
 title: 2.1  GCDs
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Run Euclid Run]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/vertical-b30047e37cc7" %}})

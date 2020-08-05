@@ -35,6 +35,6 @@ technical_location: >-
 title: 'Demo: Relative Motion Gun'
 transcript: ''
 uid: 0cc95664e45368a1ee488333a1e1e5d1
-type: courses
+type: course
 layout: video
 ---

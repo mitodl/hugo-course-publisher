@@ -1,16 +1,14 @@
 ---
 title: Course History
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
+type: course
+layout: videogallery
 menu:
   18-05-introduction-to-probability-and-statistics-spring-2014:
     identifier: 2d69a0de0f5808a23880f4a28f594d72
-    type: section
-    layout: section
     name: Course History
     weight: 100
     parent: 1b6858820e39dbc6ba03dc47858871bd
-type: courses
-layout: videogallery
 ---
 _In this section, Dr. Jeremy Orloff and Dr. Jonathan Bloom share the history behind how 18.05 was redesigned._
 

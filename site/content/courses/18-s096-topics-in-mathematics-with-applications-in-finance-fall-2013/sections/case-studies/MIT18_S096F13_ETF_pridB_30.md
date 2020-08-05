@@ -1,7 +1,7 @@
 ---
 title: 'Case Study Plots: US ETFs 2003-2006, Max Alloc 0.30'
 description: This file contains information regarding case studies.
-type: courses
+type: course
 layout: pdf
 uid: 88fd637557aea3cf38b461b9db15233a
 file_type: application/pdf

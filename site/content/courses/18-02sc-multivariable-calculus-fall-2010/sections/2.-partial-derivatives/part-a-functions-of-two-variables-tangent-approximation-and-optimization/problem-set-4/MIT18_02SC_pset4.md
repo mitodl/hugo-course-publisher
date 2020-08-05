@@ -3,7 +3,7 @@ title: MIT18_02SC_pset4.pdf
 description: >-
   This resource contains information related to level curves, partial
   derivatives and tangent plane.
-type: courses
+type: course
 layout: pdf
 uid: 794cfed250a856ff859098682bd0b844
 file_type: application/pdf

@@ -5,7 +5,7 @@ description: >-
   voltage & current, experiment 4-part 1: measuring V, I & R, prs questions:
   charging a capacitor, demonstrations: RC time constants, experiment 4-part II:
   RC circuits, prs question: multiloop circuit with capacitor in one loop.
-type: courses
+type: course
 layout: pdf
 uid: b73f801f2d4d4c59544cfc7623204400
 file_type: application/pdf

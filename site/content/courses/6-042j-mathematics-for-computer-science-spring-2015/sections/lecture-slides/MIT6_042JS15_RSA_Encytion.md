@@ -1,7 +1,7 @@
 ---
 title: 'RSA Encryption: RSA Public Key Encryption'
 description: This file contains information regarding  RSA public key encryption.
-type: courses
+type: course
 layout: pdf
 uid: a59d552c360e2a70e38fe27d4e27daaa
 file_type: application/pdf

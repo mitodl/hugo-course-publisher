@@ -3410,6 +3410,6 @@ transcript: >-
   <span m='2814440'>this</span> <span m='2814945'>golden</span> <span
   m='2815530'>outcome.</span> </p>
 uid: 9015d51109176e4b911edf52f99dbfac
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang_4.pdf
 description: This resource contains information related to the chain rule.
-type: courses
+type: course
 layout: pdf
 uid: 7c680a67fa7eb09fbab496ee45d1b2a3
 file_type: application/pdf

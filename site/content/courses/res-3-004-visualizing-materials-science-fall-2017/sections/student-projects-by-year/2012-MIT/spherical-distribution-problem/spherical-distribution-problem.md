@@ -366,6 +366,6 @@ transcript: >-
   m='299420'>makes</span> <span m='299660'>a</span> <span m='299720'>good</span>
   <span m='299870'>approximation.</span> </p>
 uid: c54e2c79a21941003d318359dae2b67d
-type: courses
+type: course
 layout: video
 ---

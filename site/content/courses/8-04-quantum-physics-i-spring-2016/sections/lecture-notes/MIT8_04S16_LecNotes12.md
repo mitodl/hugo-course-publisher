@@ -1,7 +1,7 @@
 ---
 title: 'Quantum Physics I, Lecture Note 12'
 description: 'This resource contains information regarding quantum physics: Lecture Note 12.'
-type: courses
+type: course
 layout: pdf
 uid: 0c7802ea5bca26fac48e5fb6d8b607e8
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_pset4sol.pdf
 description: "This resource contains information related to sinusoidal shape.\r\n"
-type: courses
+type: course
 layout: pdf
 uid: bd96042c0631d84384f59280c7592665
 file_type: application/pdf

@@ -3,7 +3,7 @@ title: 'Binary Relations: Chapter 4.3 – 4.5'
 description: >-
   This resource contains information regarding mathematics for computer science:
   Binary relations: Chapter 4.3 – 4.5.
-type: courses
+type: course
 layout: pdf
 uid: 87aa94c31fb4dbef4174591076429826
 file_type: application/pdf

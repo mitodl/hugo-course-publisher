@@ -1,7 +1,7 @@
 ---
 title: f19_mud.pdf
 description: This resource provides information on the topic of Airfoils.
-type: courses
+type: course
 layout: pdf
 uid: 5e5f1127b6ce1d4c4a6e64b7bc970017
 file_type: application/pdf

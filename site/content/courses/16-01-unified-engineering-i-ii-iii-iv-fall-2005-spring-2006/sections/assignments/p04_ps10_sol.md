@@ -1,7 +1,7 @@
 ---
 title: p04_ps10_sol.pdf
 description: This resource contains handwritten problem set solution.
-type: courses
+type: course
 layout: pdf
 uid: 7912478732cd49f3649e538fd416a6d5
 file_type: application/pdf

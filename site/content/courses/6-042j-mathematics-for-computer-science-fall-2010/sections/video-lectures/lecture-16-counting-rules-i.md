@@ -4095,6 +4095,6 @@ transcript: >-
   m='4794780'>luck</span> <span m='4794980'>with</span> <span
   m='4795060'>the</span> <span m='4795140'>problems.</span> </p>
 uid: 246f4ea21123952f21e3c53984b9b218
-type: courses
+type: course
 layout: video
 ---

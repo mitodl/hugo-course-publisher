@@ -59,6 +59,6 @@ technical_location: >-
 title: 'Lecture 26: Complex Matrices; Fast Fourier Transform (FFT)'
 transcript: ''
 uid: f14d18259611b52755ac5779719ed1b7
-type: courses
+type: course
 layout: video
 ---

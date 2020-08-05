@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_strang_2.pdf
 description: This resource contains information related to derivatives.
-type: courses
+type: course
 layout: pdf
 uid: 3ad269d554578ee8cc9a4a6790d00266
 file_type: application/pdf

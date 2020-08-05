@@ -3,7 +3,7 @@ title: 'Introduction to Probability: Lecture 11: Derived Distributions'
 description: >-
   This resource contains information regarding introduction to probability: The
   fundamentals: Derived distributions.
-type: courses
+type: course
 layout: pdf
 uid: b55a0e10f2ee7379686e856a9fc8ee78
 file_type: application/pdf

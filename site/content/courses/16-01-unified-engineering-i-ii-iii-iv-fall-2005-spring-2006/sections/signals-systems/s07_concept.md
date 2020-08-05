@@ -1,7 +1,7 @@
 ---
 title: s07_concept.pdf
 description: Concept questions based on thevenin circuit.
-type: courses
+type: course
 layout: pdf
 uid: 9e52b1710e014dfb3da4f44af116eac7
 file_type: application/pdf

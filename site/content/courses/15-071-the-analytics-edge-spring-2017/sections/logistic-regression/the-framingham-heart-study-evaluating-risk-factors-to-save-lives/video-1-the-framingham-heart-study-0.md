@@ -268,6 +268,6 @@ transcript: >-
   m='249695'>and</span> <span m='250222'>prevent</span> <span
   m='250750'>heart</span> <span m='251665'>disease.</span> </p>
 uid: 28389d430400c45b2e934cf437d8f4f5
-type: courses
+type: course
 layout: video
 ---

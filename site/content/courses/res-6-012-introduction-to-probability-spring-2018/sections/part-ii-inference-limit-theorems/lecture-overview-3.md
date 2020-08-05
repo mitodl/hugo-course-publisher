@@ -90,6 +90,6 @@ transcript: >-
   and finally close with some comments on the ways</span> <span m='97820'>that
   this estimator can be used.</span> </p><p></p>
 uid: 8f629fdceb9a90672de7734b26cbebd2
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: sp2_2graderubric.pdf
 description: This resource contains information on grading rubric for systems problems.
-type: courses
+type: course
 layout: pdf
 uid: 2cfd0d36272b801c7f81aca8098bed23
 file_type: application/pdf

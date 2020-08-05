@@ -3,7 +3,7 @@ title: f02_ps01_sol.pdf
 description: >-
   This resource contains the Handwritten problem set solution based on airfoil
   thickness.
-type: courses
+type: course
 layout: pdf
 uid: 79b12af6d2c9aa704fbdea32c58438ce
 file_type: application/pdf

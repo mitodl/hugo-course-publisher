@@ -2877,6 +2877,6 @@ transcript: >-
   m='2886650'>at</span> <span m='2887590'>one</span> <span
   m='2888160'>o'clock.</span> </p><p><span m='2888740'>Thanks.</span> </p>
 uid: dd79fb10abdaaf8ea21c942349700c31
-type: courses
+type: course
 layout: video
 ---

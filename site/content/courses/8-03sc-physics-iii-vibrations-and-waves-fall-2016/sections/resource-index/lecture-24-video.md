@@ -4084,6 +4084,6 @@ transcript: >-
   m="4161200">future.</span> <span m="4168400">Thank</span> <span
   m="4168700">you.</span></p>
 uid: 14a3d500f9c63a9bea335fec4df0fefa
-type: courses
+type: course
 layout: video
 ---

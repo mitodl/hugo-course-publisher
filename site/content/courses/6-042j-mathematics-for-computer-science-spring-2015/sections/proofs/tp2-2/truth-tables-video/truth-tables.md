@@ -1076,6 +1076,6 @@ transcript: >-
   m='774920'>is</span> <span m='775070'>so</span> <span
   m='775300'>important.</span> </p>
 uid: 3e9466cef6a2ef9246fec25f3265afbe
-type: courses
+type: course
 layout: video
 ---

@@ -1,15 +1,13 @@
 ---
 title: Final Course Review
 course_id: 18-06sc-linear-algebra-fall-2011
+type: course
+layout: videogallery
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: a59901cecbc5cc410b702826dc2ae39b
-    type: section
-    layout: section
     name: Final Course Review
     weight: 340
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/exam-3/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/final-exam/_index.md" %}}) »
 

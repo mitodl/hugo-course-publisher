@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_we_4_comb.pdf
 description: 'This resource contains information related to proofs using vectors. '
-type: courses
+type: course
 layout: pdf
 uid: 8b8209990fd0248b6769e30af8589c7a
 file_type: application/pdf

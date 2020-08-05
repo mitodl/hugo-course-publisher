@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 4: Examples of Series'
 transcript: ''
 uid: 7afcc3971c5c9f71c23b226ff406ddc2
-type: courses
+type: course
 layout: video
 ---

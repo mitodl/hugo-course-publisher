@@ -451,6 +451,6 @@ transcript: >-
   m="333280">all</span> <span m="333420">I have</span> <span m="333720">to
   say.</span></p>
 uid: 205102d8d22ce1dc25e69cfa363d88bf
-type: courses
+type: course
 layout: video
 ---

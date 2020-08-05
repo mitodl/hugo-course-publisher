@@ -3,7 +3,7 @@ title: spl10a.pdf
 description: >-
   This file contains the diagrams for Continuous Beam Loading Modeled with
   Lumped Weights.
-type: courses
+type: course
 layout: pdf
 uid: 9a4638ed7665c6f32ead23ac9e7bb61c
 file_type: application/pdf

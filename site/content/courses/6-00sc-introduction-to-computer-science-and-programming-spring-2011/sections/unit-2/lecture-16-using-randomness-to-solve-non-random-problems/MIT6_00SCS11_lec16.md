@@ -3,7 +3,7 @@ title: 'Lecture 16 handout: Using Randomness to Solve Non-random Problems'
 description: >-
   This resource contains information related to using randomness to solve
   non-random problems.
-type: courses
+type: course
 layout: pdf
 uid: 320ee40e186e1a1608eff7b89083fb40
 file_type: application/pdf

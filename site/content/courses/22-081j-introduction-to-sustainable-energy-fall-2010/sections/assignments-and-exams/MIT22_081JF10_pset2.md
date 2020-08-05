@@ -3,7 +3,7 @@ title: MIT22_081JF10_pset2.pdf
 description: >-
   This resource contains problem statements related to energy conversion,
   efficiency, and climate change.
-type: courses
+type: course
 layout: pdf
 uid: 7008515322a28ed6f2a7a9fdb6864708
 file_type: application/pdf

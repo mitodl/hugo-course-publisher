@@ -2648,6 +2648,6 @@ transcript: >-
   m='2856490'>on</span> <span m='2857330'>the</span> <span
   m='2858160'>quiz.</span> </p>
 uid: 3f9e306b85977c21227f5f241af2f7cc
-type: courses
+type: course
 layout: video
 ---

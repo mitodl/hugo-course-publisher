@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 6-033-computer-system-engineering-spring-2018
 course_title: Computer System Engineering
 course_image_url: >-

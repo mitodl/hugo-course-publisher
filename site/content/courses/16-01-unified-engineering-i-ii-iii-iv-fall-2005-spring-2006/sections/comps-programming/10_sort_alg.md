@@ -1,7 +1,7 @@
 ---
 title: 10_sort_alg.pdf
 description: Lecture 10 (2004) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 2ac6f6a3de8b29fe563b9e47afa3d995
 file_type: application/pdf

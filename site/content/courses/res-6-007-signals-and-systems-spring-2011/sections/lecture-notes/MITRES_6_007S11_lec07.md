@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_lec07.pdf
 description: This resource contains information related to continuous-time fourier series.
-type: courses
+type: course
 layout: pdf
 uid: 24eca8c9c36bf5931c022e17fd44dbfc
 file_type: application/pdf

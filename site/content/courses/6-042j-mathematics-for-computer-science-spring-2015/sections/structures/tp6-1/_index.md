@@ -1,16 +1,14 @@
 ---
 title: 2.3  Euler's Theorem
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
+type: course
+layout: videogallery
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 8083cb558a36eb8dad32920ceb95cfdb
-    type: section
-    layout: section
     name: 2.3  Euler's Theorem
     weight: 1120
     parent: 20b0a2b7a262cb94efd44e9e00511cee
-type: courses
-layout: videogallery
 ---
 *   [<Inverses With Linear Combinations]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-2/vertical-9282c2de10f6" %}})
 *   [2.3.1Modular Exponentiation Euler's Function: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-1/_index.md" %}})

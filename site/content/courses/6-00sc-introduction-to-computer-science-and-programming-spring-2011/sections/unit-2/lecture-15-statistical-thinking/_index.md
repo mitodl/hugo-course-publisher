@@ -1,16 +1,14 @@
 ---
 title: Statistical Thinking
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: ce0b5b4679baa326f9fd0a1c40f8adae
-    type: section
-    layout: section
     name: Statistical Thinking
     weight: 210
     parent: ddc5db7a5c64e3bda565b36f4ed76287
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-14-sampling-and-monte-carlo-simulation/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-16-using-randomness-to-solve-non-random-problems/_index.md" %}}) »
 

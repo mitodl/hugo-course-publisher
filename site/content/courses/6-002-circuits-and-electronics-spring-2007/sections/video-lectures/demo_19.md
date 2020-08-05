@@ -3,7 +3,7 @@ title: demo_19.pdf
 description: >-
   This resource contains a demo showing the capacitive coupling between signals
   on two separate wires in proximity.
-type: courses
+type: course
 layout: pdf
 uid: 20f7378078ab6e3fe00ea748ab213e3e
 file_type: application/pdf

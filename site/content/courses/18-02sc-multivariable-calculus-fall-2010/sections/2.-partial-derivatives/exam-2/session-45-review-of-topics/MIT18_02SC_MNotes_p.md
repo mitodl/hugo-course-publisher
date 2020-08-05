@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_p.pdf
 description: This resource contains information related to partial differential equations.
-type: courses
+type: course
 layout: pdf
 uid: 52f2d984bbc8d9c8fa3ba43731182883
 file_type: application/pdf

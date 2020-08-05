@@ -4024,6 +4024,6 @@ transcript: >-
   <span m='4892750'>thank Yi</span> <span m='4893050'>for</span> <span
   m='4893350'>the</span> <span m='4893650'>pleasure.</span> </p>
 uid: 14652057e6e40a38eecc7e5a96006a23
-type: courses
+type: course
 layout: video
 ---

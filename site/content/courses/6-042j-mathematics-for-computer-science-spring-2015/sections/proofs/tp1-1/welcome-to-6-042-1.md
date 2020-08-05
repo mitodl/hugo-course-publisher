@@ -116,6 +116,6 @@ transcript: >-
   m='129180'>If you don't know, this is a good moment to stop the video</span>
   <span m='132370'>and look it up.</span> </p>
 uid: bb0695543df60102c04d21626ae6294d
-type: courses
+type: course
 layout: video
 ---

@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Integral of 1/(xp)'
 transcript: ''
 uid: c9635997f882cad9802047fb4c3d78e5
-type: courses
+type: course
 layout: video
 ---

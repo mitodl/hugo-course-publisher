@@ -2186,6 +2186,6 @@ transcript: >-
   m='2415430'>there's</span> <span m='2415570'>the</span> <span
   m='2415620'>SVD.</span> </p><p><span m='2415740'>Thanks.</span> </p>
 uid: 96b25d78b0d8cfe4046c78eb978b65b8
-type: courses
+type: course
 layout: video
 ---

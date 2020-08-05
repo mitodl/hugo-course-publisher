@@ -231,6 +231,6 @@ transcript: >-
   m='161390'>external</span> <span m='162185'>validation</span> <span
   m='162980'>is</span> <span m='163775'>critical.</span> </p>
 uid: c47b760f29fe729f6731219318815348
-type: courses
+type: course
 layout: video
 ---

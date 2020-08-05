@@ -3562,6 +3562,6 @@ transcript: >-
   m='2900030'>and</span> <span m='2900130'>people's</span> <span
   m='2900350'>savings</span> <span m='2900700'>decisions.</span> </p>
 uid: 7f6a63f63bab1afa29b67f8cafbaebbb
-type: courses
+type: course
 layout: video
 ---

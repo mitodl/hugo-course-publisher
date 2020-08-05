@@ -3,7 +3,7 @@ title: 'Class on Design and Analysis of Algorithms, Lecture 14A Notes'
 description: >-
   This resource contains information regarding class on design and analysis of
   algorithms, lecture 14A notes.
-type: courses
+type: course
 layout: pdf
 uid: bdafe05f4f3c20cabfd08d2fbd099f63
 file_type: application/pdf

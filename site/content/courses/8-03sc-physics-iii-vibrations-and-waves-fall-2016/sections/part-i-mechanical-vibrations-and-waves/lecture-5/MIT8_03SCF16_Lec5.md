@@ -1,7 +1,7 @@
 ---
 title: 'MIT 8.03SC Fall 2016 Lecture 5: Beat Phenomena'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: f64be9b621ec8951c14ad27b9ce43425
 file_type: application/pdf

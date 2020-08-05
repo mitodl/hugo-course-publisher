@@ -1,7 +1,7 @@
 ---
 title: 'Expectation: Mean Time To Failure'
 description: This file contains information regarding mean time to failure.
-type: courses
+type: course
 layout: pdf
 uid: ab7170a364d2b43df17b7efcb76c4125
 file_type: application/pdf

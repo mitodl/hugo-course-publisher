@@ -809,6 +809,6 @@ transcript: >-
   m='1067210'>This</span> <span m='1067510'>is</span> <span m='1067810'>0</span>
   <span m='1069010'>angular</span> <span m='1069610'>momentum.</span> </p>
 uid: f3fa8db72d1ef1bc03974a7445070f35
-type: courses
+type: course
 layout: video
 ---

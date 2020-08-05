@@ -1,7 +1,7 @@
 ---
 title: Course Home
-type: course_home
-layout: section
+type: course
+layout: course_home
 course_id: 6-00-introduction-to-computer-science-and-programming-fall-2008
 course_title: Introduction to Computer Science and Programming
 course_image_url: >-

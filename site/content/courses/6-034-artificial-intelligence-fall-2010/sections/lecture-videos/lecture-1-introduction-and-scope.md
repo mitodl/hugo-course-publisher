@@ -881,6 +881,6 @@ transcript: >-
   </p><p><span m='2812470'>And as soon as you give us your form, we're
   through.</span> </p><p></p>
 uid: 435aa7fed46735cc46cd5e485ee66a1b
-type: courses
+type: course
 layout: video
 ---

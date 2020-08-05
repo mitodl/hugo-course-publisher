@@ -660,6 +660,6 @@ transcript: >-
   m='570190'>I</span> <span m='570260'>think</span> <span m='570430'>I'll</span>
   <span m='570530'>end</span> <span m='570740'>there.</span> </p>
 uid: 073da2de0dab283eb52e6d5f2eaa750d
-type: courses
+type: course
 layout: video
 ---

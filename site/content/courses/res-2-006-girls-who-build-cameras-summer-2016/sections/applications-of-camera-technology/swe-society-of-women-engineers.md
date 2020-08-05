@@ -852,6 +852,6 @@ transcript: >-
   m='540440'>very</span> <span m='540600'>much.</span> </p><p><span
   m='541200'>[APPLAUSE]</span> </p><p></p>
 uid: 9f5be59c3360846f994469d5556b862f
-type: courses
+type: course
 layout: video
 ---

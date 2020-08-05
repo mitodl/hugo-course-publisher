@@ -1,7 +1,7 @@
 ---
 title: Week 1 Analytics Edge Intro Video 1 - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 9e84c60ff05f5ad6c2be78008f392422
 file_type: application/pdf

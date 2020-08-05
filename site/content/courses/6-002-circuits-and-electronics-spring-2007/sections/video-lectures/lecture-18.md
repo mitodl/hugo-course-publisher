@@ -705,6 +705,6 @@ transcript: >-
   listen to the station for some time.</span> </p><p><span m='2872000'>So, you
   can see I can tune to the station WBUL.</span> </p>
 uid: b73cf7ac8b4dd35b59f24e1f4a3c2edd
-type: courses
+type: course
 layout: video
 ---

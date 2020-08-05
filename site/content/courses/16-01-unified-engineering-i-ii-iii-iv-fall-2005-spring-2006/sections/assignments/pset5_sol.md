@@ -3,7 +3,7 @@ title: pset5_sol.pdf
 description: >-
   This file includes solutions to problems on unified computers and programming,
   and signals?and?systems.
-type: courses
+type: course
 layout: pdf
 uid: 0319dce2e189876be3f8d1563bcebb91
 file_type: application/pdf

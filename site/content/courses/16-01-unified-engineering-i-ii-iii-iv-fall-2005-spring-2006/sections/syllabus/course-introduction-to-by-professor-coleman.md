@@ -30,6 +30,6 @@ technical_location: >-
 title: Course Introduction to by Professor Coleman
 transcript: ''
 uid: 79dd98cc6cbd890ed9f927583bf7336e
-type: courses
+type: course
 layout: video
 ---

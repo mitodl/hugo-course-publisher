@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_we_2_comb.pdf
 description: 'This resource contains information related to vector lengths. '
-type: courses
+type: course
 layout: pdf
 uid: 27c8bc9ad9580f7a4dc626cc08382db6
 file_type: application/pdf

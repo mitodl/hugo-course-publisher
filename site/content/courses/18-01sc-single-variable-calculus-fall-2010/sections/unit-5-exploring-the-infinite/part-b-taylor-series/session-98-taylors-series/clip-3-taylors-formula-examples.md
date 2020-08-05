@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 3: Taylor''s Formula Examples'
 transcript: ''
 uid: 287ec0ab827fd269ab1a68863a8abd4d
-type: courses
+type: course
 layout: video
 ---

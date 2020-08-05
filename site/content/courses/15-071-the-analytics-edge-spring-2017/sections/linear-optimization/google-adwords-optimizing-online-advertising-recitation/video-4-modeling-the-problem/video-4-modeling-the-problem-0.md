@@ -346,6 +346,6 @@ transcript: >-
   m='292290'>and</span> <span m='292880'>actually</span> <span
   m='293470'>solve</span> <span m='294060'>it.</span> </p>
 uid: b67172a7ba01d70c7ff3c5e32e326c5b
-type: courses
+type: course
 layout: video
 ---

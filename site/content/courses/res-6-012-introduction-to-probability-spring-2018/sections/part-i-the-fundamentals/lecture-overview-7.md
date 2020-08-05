@@ -80,6 +80,6 @@ transcript: >-
   attention to the normal distribution and</span> <span m="68730">the ways that
   we can calculate the associated probabilities.</span></p><p>&nbsp;</p>
 uid: bb2c6bfb9253bceaaaf7c2dfb3446cc9
-type: courses
+type: course
 layout: video
 ---

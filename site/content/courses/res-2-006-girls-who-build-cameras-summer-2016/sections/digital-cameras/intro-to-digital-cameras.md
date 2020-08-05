@@ -1560,6 +1560,6 @@ transcript: >-
   m='1133820'>all.</span> <span m='1133960'>Appreciate</span> <span
   m='1134390'>it.</span> </p><p><span m='1135290'>[APPLAUSE]</span> </p>
 uid: 8a9963cf085759e070f3f200f3f57375
-type: courses
+type: course
 layout: video
 ---

@@ -329,6 +329,6 @@ transcript: >-
   <span m='255253'>day</span> <span m='255662'>of</span> <span
   m='256071'>the</span> <span m='256480'>week.</span> </p>
 uid: 8b1c88a05de110ef901e4f6df12cc862
-type: courses
+type: course
 layout: video
 ---

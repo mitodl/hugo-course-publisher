@@ -1,7 +1,7 @@
 ---
 title: '12.001 Introduction to Geology, Seismicity and Earthquakes, Part I'
 description: 'This file contains information regarding seismicity and earthquakes, part I.'
-type: courses
+type: course
 layout: pdf
 uid: 2c4b4b645197a77af712086bf661c981
 file_type: application/pdf

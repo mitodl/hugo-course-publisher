@@ -3,7 +3,7 @@ title: 'Lecture 31 Notes: Landslides and Debris Flows'
 description: >-
   This file contains the information regarding Lecture 31 Notes: Landslides and
   Debris Flows.
-type: courses
+type: course
 layout: pdf
 uid: d3e109e28ea40d8e72855012d81221bb
 file_type: application/pdf

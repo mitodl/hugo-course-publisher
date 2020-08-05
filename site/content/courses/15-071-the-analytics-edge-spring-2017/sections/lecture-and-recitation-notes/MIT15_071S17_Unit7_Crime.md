@@ -1,7 +1,7 @@
 ---
 title: Week 7 Crime Video 1 - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 4d30ffe09756f141a716feac14a582c8
 file_type: application/pdf

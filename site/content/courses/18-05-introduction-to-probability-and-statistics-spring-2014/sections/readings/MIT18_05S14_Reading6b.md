@@ -3,7 +3,7 @@ title: 'Reading 6b: Central Limit Theorem and the Law of Large Numbers'
 description: >-
   This is a resource file that contains information regarding reading 6b:
   central limit theorem and the law of large numbers.
-type: courses
+type: course
 layout: pdf
 uid: 73a6c3dad25e892d0d3582122e1c6c01
 file_type: application/pdf

@@ -194,6 +194,6 @@ transcript: >-
   m='489230'>And this is what makes it very appealing</span> <span m='492730'>to
   work with normal random variables and linear relations.</span> </p>
 uid: d5142655479f7721b3caabb4d71ba2a8
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Deviation: Markov & Chebyshev Bounds: Variance'
 description: This file contains information regarding variance.
-type: courses
+type: course
 layout: pdf
 uid: 9f4747a22764521007b148bfcb34a04e
 file_type: application/pdf

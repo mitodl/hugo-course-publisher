@@ -3,7 +3,7 @@ title: learningobjectives.pdf
 description: >-
   This resource provides information on the topic of Scope, Learning Objectives,
   Measurable Outcomes and Assessment Strategy for the course.
-type: courses
+type: course
 layout: pdf
 uid: f33a110efab5e96dd2828eae5d62289c
 file_type: application/pdf

@@ -1,7 +1,7 @@
 ---
 title: S11_mud.pdf
 description: Review questions and answers about state change.
-type: courses
+type: course
 layout: pdf
 uid: d55648cef0a1b8a4cd0931dfa04dbad2
 file_type: application/pdf

@@ -308,6 +308,6 @@ transcript: >-
   m='257824'>needs</span> <span m='258251'>in</span> <span m='258678'>any</span>
   <span m='259105'>given</span> <span m='259532'>week.</span> </p>
 uid: e8273e6404dd14bc3de0f9646b82c0de
-type: courses
+type: course
 layout: video
 ---

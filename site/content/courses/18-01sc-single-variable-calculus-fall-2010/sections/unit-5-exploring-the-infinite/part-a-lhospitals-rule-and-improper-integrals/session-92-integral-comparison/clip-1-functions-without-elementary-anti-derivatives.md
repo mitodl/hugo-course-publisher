@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 1: Functions Without Elementary Anti-Derivatives'
 transcript: ''
 uid: dce2a3c9722622107465d9e1d00e67c3
-type: courses
+type: course
 layout: video
 ---

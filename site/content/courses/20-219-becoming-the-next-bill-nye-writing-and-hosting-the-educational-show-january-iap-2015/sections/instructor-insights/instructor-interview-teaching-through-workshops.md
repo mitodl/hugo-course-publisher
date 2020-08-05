@@ -791,6 +791,6 @@ transcript: >-
   <span m="591190">watching</span> <span m="591690">a</span> <span
   m="591730">lecture</span> <span m="592170">series.</span></p>
 uid: be800c683d72ecaf3af4e7d6c9612779
-type: courses
+type: course
 layout: video
 ---

@@ -197,6 +197,6 @@ transcript: >-
   m='129539'>getting</span> <span m='129780'>it</span> <span
   m='129870'>right.</span> </p>
 uid: 2ab34ff6e1866f182962a855a9859435
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: 8.04 Spring 2013 Final Exam Formula Sheet
 description: >-
   This is a resource file that contains information regarding final exam formula
   sheet.
-type: courses
+type: course
 layout: pdf
 uid: 346ae498c1d31ef316a43399ca63a99a
 file_type: application/pdf

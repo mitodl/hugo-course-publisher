@@ -1,7 +1,7 @@
 ---
 title: 'Expectation: Linearity Of Expectation'
 description: This file contains information regarding linearity Of expectation.
-type: courses
+type: course
 layout: pdf
 uid: c5bf2ae6d81c2715b33bc82aaa80d944
 file_type: application/pdf

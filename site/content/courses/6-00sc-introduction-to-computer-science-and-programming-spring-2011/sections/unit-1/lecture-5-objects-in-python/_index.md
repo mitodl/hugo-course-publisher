@@ -1,16 +1,14 @@
 ---
 title: Objects in Python
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: 138c881e91b66b62fdc82ea403e07fc5
-    type: section
-    layout: section
     name: Objects in Python
     weight: 90
     parent: 975ad7bfdd9c4ffe26b6710fa718d5e6
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-4-machine-interpretation-of-a-program/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-6-recursion/_index.md" %}}) »
 

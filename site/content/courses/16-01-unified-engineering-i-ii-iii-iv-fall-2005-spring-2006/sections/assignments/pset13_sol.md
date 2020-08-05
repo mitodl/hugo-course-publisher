@@ -1,7 +1,7 @@
 ---
 title: pset13_sol.pdf
 description: This resource contains problem set with solutions provided by the professor.
-type: courses
+type: course
 layout: pdf
 uid: 9832b9379f4f128b1e3f3cda0f4ad4cb
 file_type: application/pdf

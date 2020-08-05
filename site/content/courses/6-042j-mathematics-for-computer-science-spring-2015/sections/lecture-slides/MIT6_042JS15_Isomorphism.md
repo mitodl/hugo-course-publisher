@@ -1,7 +1,7 @@
 ---
 title: 'Degrees and Isomorphism: Isomorphism'
 description: This file contains information regarding isomorphism.
-type: courses
+type: course
 layout: pdf
 uid: 942528c8097496c6bea4fa5c4f9437a7
 file_type: application/pdf

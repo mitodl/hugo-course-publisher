@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses21g.pdf
 description: 'This resource contains continuation of exam 1 review. '
-type: courses
+type: course
 layout: pdf
 uid: b3146a0288a1571b1f35b92c20449237
 file_type: application/pdf

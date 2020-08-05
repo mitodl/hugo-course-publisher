@@ -1,16 +1,14 @@
 ---
 title: '2.2 The Statistical Sommelier: An Introduction to Linear Regression'
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: videogallery
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 4495fb4839343c3323b22ef2104af559
-    type: section
-    layout: section
     name: '2.2 The Statistical Sommelier: An Introduction to Linear Regression'
     weight: 410
     parent: c846ced6fc6d3bc964e047324e251a98
-type: courses
-layout: videogallery
 ---
 *   [<Welcome to Unit 2]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/welcome-to-unit-2" %}})
 *   [2.2.1Video 1: Predicting the Quality of Wine]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/_index.md" %}})

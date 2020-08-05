@@ -3,7 +3,7 @@ title: MIT14_01SCF11_soln01_f07.pdf
 description: >-
   This resource contains solutions to the problem statements related to marginal
   rates of substitution, inverse demand curve, and risks. 
-type: courses
+type: course
 layout: pdf
 uid: a8a2097abd606e23e94ef540accf2139
 file_type: application/pdf

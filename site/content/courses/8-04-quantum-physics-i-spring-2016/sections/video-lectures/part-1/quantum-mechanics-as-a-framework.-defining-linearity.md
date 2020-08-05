@@ -846,6 +846,6 @@ transcript: >-
   m='1065030'>2.</span> <span m='1066780'>Please</span> <span
   m='1067180'>do</span> <span m='1067460'>it.</span> </p>
 uid: 9d6cdfcd1798316c690284234f066a52
-type: courses
+type: course
 layout: video
 ---

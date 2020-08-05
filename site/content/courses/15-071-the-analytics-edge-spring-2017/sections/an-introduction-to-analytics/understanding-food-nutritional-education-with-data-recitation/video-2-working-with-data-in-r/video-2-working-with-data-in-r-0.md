@@ -325,6 +325,6 @@ transcript: >-
   m='249046'>in</span> <span m='249550'>our</span> <span m='250053'>next</span>
   <span m='250556'>video.</span> </p>
 uid: 6aa8fcaacf9269a84185c7cd1c8e742c
-type: courses
+type: course
 layout: video
 ---

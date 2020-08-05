@@ -581,6 +581,6 @@ transcript: >-
   m='437280'>go.</span> <span m='437600'>I'll</span> <span
   m='437970'>stop</span> <span m='438360'>there.</span> </p>
 uid: e9972d48350ba200ed454b0d7f9e5102
-type: courses
+type: course
 layout: video
 ---

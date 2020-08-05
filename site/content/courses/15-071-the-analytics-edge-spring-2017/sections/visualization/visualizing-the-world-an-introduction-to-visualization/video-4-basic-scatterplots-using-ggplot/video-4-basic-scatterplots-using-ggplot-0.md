@@ -565,6 +565,6 @@ transcript: >-
   m='501078'>advanced</span> <span m='501806'>scatterplots</span> <span
   m='502534'>using</span> <span m='503262'>ggplot.</span> </p>
 uid: ec8877568a36275343d135184b2ec59e
-type: courses
+type: course
 layout: video
 ---

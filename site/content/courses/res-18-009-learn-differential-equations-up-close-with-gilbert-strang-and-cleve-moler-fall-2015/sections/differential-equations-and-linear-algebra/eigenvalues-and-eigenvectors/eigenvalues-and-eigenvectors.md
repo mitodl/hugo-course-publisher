@@ -1009,6 +1009,6 @@ transcript: >-
   m='1133130'>at</span> <span m='1133290'>eigenvalues</span> <span
   m='1134240'>and</span> <span m='1134440'>eigenvectors.</span> </p>
 uid: 357fe5cdcf361a95588f19fb2677c64d
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex08prb.pdf
 description: This resource contains problem statements related to the function |x|.
-type: courses
+type: course
 layout: pdf
 uid: 915b9b766e0427c2af591b286f4e37ff
 file_type: application/pdf

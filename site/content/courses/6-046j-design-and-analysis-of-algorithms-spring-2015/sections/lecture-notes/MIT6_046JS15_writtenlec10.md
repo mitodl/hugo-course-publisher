@@ -3,7 +3,7 @@ title: 'Class on Design and Analysis of Algorithms, Lecture 10 Notes, Handwritte
 description: >-
   This resource contains information regarding class on design and analysis of
   algorithms, lecture 10 Notes, handwritten.
-type: courses
+type: course
 layout: pdf
 uid: f1fa7da7085e506b092df7571a78bd0f
 file_type: application/pdf

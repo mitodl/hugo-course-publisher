@@ -699,6 +699,6 @@ transcript: >-
   <span m='754230'>work</span> <span m='754680'>with</span> <span
   m='754980'>real</span> <span m='755280'>things.</span> </p>
 uid: eb542e1f66f8642af2fad86a42a095f6
-type: courses
+type: course
 layout: video
 ---

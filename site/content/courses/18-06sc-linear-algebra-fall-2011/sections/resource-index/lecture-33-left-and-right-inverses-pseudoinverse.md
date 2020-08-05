@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Lecture 33: Left and Right Inverses; Pseudoinverse'
 transcript: ''
 uid: d8bfec099d4b822e0bc9373aa18166ff
-type: courses
+type: course
 layout: video
 ---

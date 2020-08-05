@@ -1,7 +1,7 @@
 ---
 title: Quantum Time Evolution Using the Split Operator Fourier Transform Algorithm
 course_id: res-3-004-visualizing-materials-science-fall-2017
-type: courses
+type: course
 layout: videogallery
 ---
 ![graph depicting quantum time evolution](https://open-learning-course-data-ci.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/257503b45caf3a06724a0e5d6b0d5cac_MITRES_3_004F17_25_anon.jpg)

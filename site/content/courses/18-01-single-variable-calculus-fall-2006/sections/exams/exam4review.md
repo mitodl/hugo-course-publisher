@@ -1,7 +1,7 @@
 ---
 title: Exam 4 Review
 description: Review materials for the fourth exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: 0ff6b062438e7ef594e5f360f6489dfe
 file_type: application/pdf

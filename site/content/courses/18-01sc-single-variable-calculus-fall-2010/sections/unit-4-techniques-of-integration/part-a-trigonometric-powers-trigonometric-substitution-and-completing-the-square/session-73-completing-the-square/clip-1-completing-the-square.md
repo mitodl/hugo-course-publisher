@@ -2591,6 +2591,6 @@ transcript: >-
   <span m="2906190">on</span> <span m="2906320">Monday</span> <span
   m="2906580">anyway.</span> <span m="2907320">Bye.</span></p>
 uid: f63fde573e9a993e59b930b45700d9aa
-type: courses
+type: course
 layout: video
 ---

@@ -2742,6 +2742,6 @@ transcript: >-
   m="3170740">a</span> <span m="3170830">normal</span> <span
   m="3171240">distribution.</span></p>
 uid: f7049c51f984f3dbda4a6843881cad0a
-type: courses
+type: course
 layout: video
 ---

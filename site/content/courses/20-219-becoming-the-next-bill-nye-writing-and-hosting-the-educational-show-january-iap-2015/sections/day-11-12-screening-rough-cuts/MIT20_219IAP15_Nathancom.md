@@ -1,7 +1,7 @@
 ---
 title: Comments on Nathan's Rough Cut
 description: This resource contains information regarding nathan's rough cut.
-type: courses
+type: course
 layout: pdf
 uid: 54f25f5e7016103a038c790f2f485bb2
 file_type: application/pdf

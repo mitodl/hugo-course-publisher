@@ -29,6 +29,6 @@ technical_location: >-
 title: 'Video: EPI: Runaway CEO Pay in 30 Seconds'
 transcript: ''
 uid: 83633ba69e223f789e1c13e1d206e9a5
-type: courses
+type: course
 layout: video
 ---

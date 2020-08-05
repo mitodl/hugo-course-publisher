@@ -1,11 +1,11 @@
 ---
 title: 'Week 10: Rotational Motion'
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: course_section
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 146d8dd77c99bbafceb8ed10af8bee47
-    type: section
-    layout: section
     name: 'Week 10: Rotational Motion'
     weight: 1800
 ---

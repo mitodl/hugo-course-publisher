@@ -1,7 +1,7 @@
 ---
 title: c16_ps06_fall03.pdf
 description: This handout contains the problem set based on the aircraft problem.
-type: courses
+type: course
 layout: pdf
 uid: 57b8fbbfa8bc5912480c78d532f0e4a1
 file_type: application/pdf

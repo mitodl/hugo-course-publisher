@@ -1,7 +1,7 @@
 ---
 title: spring04_pset10.pdf
 description: 'Problem set regarding searching,recurrence equation,Propulsion.'
-type: courses
+type: course
 layout: pdf
 uid: f39f63523bd2a5865c75d775b0ab64ad
 file_type: application/pdf

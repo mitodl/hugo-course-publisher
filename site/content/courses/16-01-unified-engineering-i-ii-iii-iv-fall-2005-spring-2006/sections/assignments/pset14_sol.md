@@ -5,7 +5,7 @@ description: >-
   strength, with vortex of strength, with doublet of strength, velocities at
   different points, elastic constitutive behavior, Poisson?s ratio, and axial
   strain.
-type: courses
+type: course
 layout: pdf
 uid: a66cd3d522ece598ad7c99ca155f5c22
 file_type: application/pdf

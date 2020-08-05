@@ -155,6 +155,6 @@ transcript: >-
   will always be</span> <span m="314790">able to come up with a single correct
   answer.</span></p><p>&nbsp;</p>
 uid: d7ef663ecb4e5b5119e576bb408b0a41
-type: courses
+type: course
 layout: video
 ---

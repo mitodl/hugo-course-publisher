@@ -1,7 +1,7 @@
 ---
 title: m01_ps06_fall03.pdf
 description: 'This resource contains problems on equilibrium, extension and deflection.'
-type: courses
+type: course
 layout: pdf
 uid: 95f0af57cb1d62fb96da7ca89d34117e
 file_type: application/pdf

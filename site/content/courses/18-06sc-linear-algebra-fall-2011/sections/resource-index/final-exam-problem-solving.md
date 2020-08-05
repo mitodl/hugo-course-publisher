@@ -730,6 +730,6 @@ transcript: >-
   m='733300'>done.</span> <span m='734540'>Thank</span> <span
   m='734800'>you.</span> </p>
 uid: d232f103112be5f3e7bb1b2b344604c8
-type: courses
+type: course
 layout: video
 ---

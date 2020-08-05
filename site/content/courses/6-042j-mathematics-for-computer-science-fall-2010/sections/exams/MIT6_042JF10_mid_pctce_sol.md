@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_mid_pctce_sol.pdf
 description: 'This resource contains practice midterm exam. '
-type: courses
+type: course
 layout: pdf
 uid: b7bffa977868220bb3c262f4cb8875eb
 file_type: application/pdf

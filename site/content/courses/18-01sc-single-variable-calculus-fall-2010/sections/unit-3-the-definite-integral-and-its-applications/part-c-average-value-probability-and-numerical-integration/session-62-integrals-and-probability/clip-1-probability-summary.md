@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Probability Summary'
 transcript: ''
 uid: 002a08155c29517811c10c730b3fc435
-type: courses
+type: course
 layout: video
 ---

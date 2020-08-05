@@ -2264,6 +2264,6 @@ transcript: >-
   m="2585800">be</span> <span m="2585950">here</span> <span
   m="2586130">too.</span></p>
 uid: d1fbe34c24214c5093b79e4e3d36008f
-type: courses
+type: course
 layout: video
 ---

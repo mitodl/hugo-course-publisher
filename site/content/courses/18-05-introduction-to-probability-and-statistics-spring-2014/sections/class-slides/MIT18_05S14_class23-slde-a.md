@@ -1,7 +1,7 @@
 ---
 title: 'Class 23 Slides: Confidence intervals II'
 description: This is a resource file that contains information regarding class 23.
-type: courses
+type: course
 layout: pdf
 uid: e6651c396a104efb2892cef60d96200d
 file_type: application/pdf

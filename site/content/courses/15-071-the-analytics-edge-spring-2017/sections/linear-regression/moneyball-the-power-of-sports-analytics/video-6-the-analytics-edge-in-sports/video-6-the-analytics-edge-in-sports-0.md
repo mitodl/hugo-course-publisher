@@ -303,6 +303,6 @@ transcript: >-
   m='272723'>power</span> <span m='273260'>of</span> <span
   m='273796'>sports</span> <span m='274333'>analytics.</span> </p>
 uid: e02894ecc37184c87b730d013899e3b8
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: Lecture 1 slides
 description: This resource contains information related to Lecture 1 slides.
-type: courses
+type: course
 layout: pdf
 uid: 43e7ab6d7e77a873cf5feca4b87785f7
 file_type: application/pdf

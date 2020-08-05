@@ -3,7 +3,7 @@ title: 'Intro to Proofs: Welcome to 6.042'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: 9dc2b138c72aed52bbc6684337900017
 file_type: application/pdf

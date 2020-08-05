@@ -1,7 +1,7 @@
 ---
 title: CFM_Engine.pdf
 description: Diagram of Modular design of engine.
-type: courses
+type: course
 layout: pdf
 uid: 8f579f0cfbf17297dda8bb76c850a93f
 file_type: application/pdf

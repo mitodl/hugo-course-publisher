@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses80a.pdf
 description: This resource contains informations related to parametric curves.
-type: courses
+type: course
 layout: pdf
 uid: 8dfde3740446696d8d98f6ce2d33de03
 file_type: application/pdf

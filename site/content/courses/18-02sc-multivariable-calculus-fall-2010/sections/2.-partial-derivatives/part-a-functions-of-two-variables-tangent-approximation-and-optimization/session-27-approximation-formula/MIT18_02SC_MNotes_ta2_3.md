@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_MNotes_ta2_3.pdf
 description: This resource contains information related to tangent approximation.
-type: courses
+type: course
 layout: pdf
 uid: b6e262891bdea6798c2017711129ef9d
 file_type: application/pdf

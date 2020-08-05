@@ -8,7 +8,7 @@ description: >-
   by dipole, shockwave for dipole, dipole in uniform field, torque on dipole,
   continuous charge distributions, ring of charge, and disk:  two important
   limits.
-type: courses
+type: course
 layout: pdf
 uid: 1bdf7c4df398da70aa8079fecedb2eb3
 file_type: application/pdf

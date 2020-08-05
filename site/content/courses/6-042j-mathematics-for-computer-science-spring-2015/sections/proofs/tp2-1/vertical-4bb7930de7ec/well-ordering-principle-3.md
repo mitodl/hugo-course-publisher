@@ -512,6 +512,6 @@ transcript: >-
   m='360210'>a</span> <span m='360330'>well</span> <span
   m='360580'>ordering</span> <span m='360880'>proof.</span> </p>
 uid: 26bee73b80fb2b73fe8d4df78f01c9a8
-type: courses
+type: course
 layout: video
 ---

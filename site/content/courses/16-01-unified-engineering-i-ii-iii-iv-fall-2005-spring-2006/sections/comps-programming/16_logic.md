@@ -1,7 +1,7 @@
 ---
 title: 16_logic.pdf
 description: Lecture 16 (2004) presentation.
-type: courses
+type: course
 layout: pdf
 uid: 2c2b8be13dbcbc9729e0c30e168ef2b2
 file_type: application/pdf

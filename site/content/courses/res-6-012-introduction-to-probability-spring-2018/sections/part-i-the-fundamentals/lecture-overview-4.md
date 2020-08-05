@@ -91,6 +91,6 @@ transcript: >-
   m="96390">random variables that we will have
   introduced.</span></p><p>&nbsp;</p>
 uid: af41d36564e666666abed6b3a2262fa7
-type: courses
+type: course
 layout: video
 ---

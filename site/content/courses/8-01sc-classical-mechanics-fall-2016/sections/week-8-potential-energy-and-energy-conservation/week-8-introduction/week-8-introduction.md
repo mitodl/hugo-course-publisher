@@ -84,6 +84,6 @@ transcript: >-
   behavior</span> <span m='46040'>of the system for a given value of the total
   mechanical energy.</span> </p><p></p>
 uid: c68de7050cb0afc083a7d1e46f3e060d
-type: courses
+type: course
 layout: video
 ---

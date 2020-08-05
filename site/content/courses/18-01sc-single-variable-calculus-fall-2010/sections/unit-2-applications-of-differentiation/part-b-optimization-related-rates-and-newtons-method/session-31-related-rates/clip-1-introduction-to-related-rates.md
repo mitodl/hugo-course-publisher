@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: Introduction to Related Rates'
 transcript: ''
 uid: d48a5907b540e74f6b50a8a566fd267b
-type: courses
+type: course
 layout: video
 ---

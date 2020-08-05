@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_lec15.pdf
 description: This resource contains information related to discrete-time modulation.
-type: courses
+type: course
 layout: pdf
 uid: c0f6454b25a3207af3ada5d540227db8
 file_type: application/pdf

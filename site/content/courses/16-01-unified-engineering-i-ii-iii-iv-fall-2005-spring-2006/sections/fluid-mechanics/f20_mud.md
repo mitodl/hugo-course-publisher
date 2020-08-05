@@ -1,7 +1,7 @@
 ---
 title: f20_mud.pdf
 description: Review questions and answers.
-type: courses
+type: course
 layout: pdf
 uid: c67e2ced727b1f3c4ce55666f7715370
 file_type: application/pdf

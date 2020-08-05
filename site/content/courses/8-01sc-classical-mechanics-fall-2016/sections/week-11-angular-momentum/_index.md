@@ -1,11 +1,11 @@
 ---
 title: 'Week 11: Angular Momentum'
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: course_section
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: d36579bd7dfcb71f76178b4b8d45c312
-    type: section
-    layout: section
     name: 'Week 11: Angular Momentum'
     weight: 2050
 ---

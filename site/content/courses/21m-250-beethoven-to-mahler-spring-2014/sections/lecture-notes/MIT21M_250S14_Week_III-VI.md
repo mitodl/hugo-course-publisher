@@ -5,7 +5,7 @@ title: >-
 description: >-
   This is a resource file that contains information regarding weeks III-VI:
   romantic lieder and characterstücke.
-type: courses
+type: course
 layout: pdf
 uid: 81ffd083e78d3cade360c8ebdcdeb748
 file_type: application/pdf

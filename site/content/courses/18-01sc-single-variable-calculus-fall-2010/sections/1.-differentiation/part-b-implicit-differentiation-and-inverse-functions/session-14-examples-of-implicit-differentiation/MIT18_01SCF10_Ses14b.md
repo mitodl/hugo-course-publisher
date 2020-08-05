@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses14b.pdf
 description: >-
   This resource contains information related to examples of implicit
   differentiation.
-type: courses
+type: course
 layout: pdf
 uid: 6a8991fa97657dced41133ec8c9e4f4d
 file_type: application/pdf

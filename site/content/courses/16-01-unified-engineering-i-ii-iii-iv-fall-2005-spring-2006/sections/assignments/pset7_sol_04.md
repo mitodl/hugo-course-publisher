@@ -4,7 +4,7 @@ description: >-
   This file includes solutions to problems on static temperature, Mach number,
   unary and binary operator, step response of the system, and
   Duhamel's?integral.
-type: courses
+type: course
 layout: pdf
 uid: 3ee7853bbbf591c81eb03b51de7c4cb0
 file_type: application/pdf

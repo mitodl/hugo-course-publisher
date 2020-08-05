@@ -1,7 +1,7 @@
 ---
 title: 2.3  Euler's Theorem
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Euler's Totient Function]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-1/vertical-62a25d1dd25f" %}})

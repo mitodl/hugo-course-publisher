@@ -3,7 +3,7 @@ title: summary_w11d1.pdf
 description: >-
   This resource investigates a new type of circuit ? one which consists of both
   capacitors and inductors.
-type: courses
+type: course
 layout: pdf
 uid: 0e786d75b55a9bf123ea736cf849bfa4
 file_type: application/pdf

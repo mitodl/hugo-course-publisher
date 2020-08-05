@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 23: Quantum Waves and Gravitational Waves'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
+type: course
+layout: videogallery
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 95fe77027ee0466aa18180c31fa40386
-    type: section
-    layout: section
     name: 'Lecture 23: Quantum Waves and Gravitational Waves'
     weight: 300
     parent: 562065223db4e5d13c0186ef14e4db6a
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-22/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-24" %}}) »
 

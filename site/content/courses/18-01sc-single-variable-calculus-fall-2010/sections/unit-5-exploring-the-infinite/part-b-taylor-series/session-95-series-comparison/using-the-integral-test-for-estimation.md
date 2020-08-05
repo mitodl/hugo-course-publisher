@@ -1023,6 +1023,6 @@ transcript: >-
   m='911990'>So</span> <span m='912260'>I'll</span> <span m='912410'>stop</span>
   <span m='912790'>there.</span> </p>
 uid: 9da4dde880bb2ef0f2884ee46a2efca0
-type: courses
+type: course
 layout: video
 ---

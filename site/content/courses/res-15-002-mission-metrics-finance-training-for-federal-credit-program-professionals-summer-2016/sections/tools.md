@@ -2,11 +2,11 @@
 title: Tools
 course_id: >-
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016
+type: course
+layout: course_section
 menu:
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016:
     identifier: 029d45917a8c3e6cdaef9b7a067f756e
-    type: section
-    layout: section
     name: Tools
     weight: 100
 ---

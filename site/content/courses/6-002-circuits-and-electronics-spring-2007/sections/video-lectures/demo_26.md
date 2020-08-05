@@ -1,7 +1,7 @@
 ---
 title: demo_26.pdf
 description: This resource contains waveforms of RC response.
-type: courses
+type: course
 layout: pdf
 uid: c73df9e08d970dd50f5d2d273067ec0c
 file_type: application/pdf

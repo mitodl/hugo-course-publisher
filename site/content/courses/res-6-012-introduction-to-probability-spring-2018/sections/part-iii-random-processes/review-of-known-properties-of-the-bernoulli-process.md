@@ -96,6 +96,6 @@ transcript: >-
   </p><p><span m='133300'>And in particular, we know the expected value and the
   variance</span> <span m='136930'>of the geometric random variable.</span> </p>
 uid: 0e7d44aedf04a775b674f98c8578ac8f
-type: courses
+type: course
 layout: video
 ---

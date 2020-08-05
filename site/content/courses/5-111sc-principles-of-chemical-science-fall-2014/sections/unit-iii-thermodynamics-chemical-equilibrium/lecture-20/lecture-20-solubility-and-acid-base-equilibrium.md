@@ -2854,6 +2854,6 @@ transcript: >-
   m="2517700">accepts</span> <span m="2518670">such</span> <span
   m="2519620">electrons.</span></p>
 uid: d6637e6b3f97fce430adfd13c2b8ed0f
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 1.2 Proof Methods
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Proof By Contradiction]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-2/vertical-2835de2f30b6" %}})

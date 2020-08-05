@@ -2150,6 +2150,6 @@ transcript: >-
   <span m="1907160">ask questions,</span> <span m="1907460">or</span> <span
   m="1907760">whatever.</span></p>
 uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
-type: courses
+type: course
 layout: video
 ---

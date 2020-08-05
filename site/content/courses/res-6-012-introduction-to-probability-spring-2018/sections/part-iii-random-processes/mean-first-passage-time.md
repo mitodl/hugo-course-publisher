@@ -212,6 +212,6 @@ transcript: >-
   you put these two things together,</span> <span m='519340'>you get the mean
   recurrence time of 9.</span> </p>
 uid: 5d0a5f8633defba6ec4c99d01913811d
-type: courses
+type: course
 layout: video
 ---

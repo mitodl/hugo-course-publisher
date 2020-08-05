@@ -11,7 +11,7 @@ description: >-
   steps of solving circuit problem, example: simple circuit, group problem:
   circuit, electrical power, power: battery; resistor; capacitor, energy
   balance, prs questions: more light bulbs.
-type: courses
+type: course
 layout: pdf
 uid: 72a3e1e27e621d4d9a12a6e01dc8de3b
 file_type: application/pdf

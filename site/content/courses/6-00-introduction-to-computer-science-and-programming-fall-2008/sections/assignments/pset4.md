@@ -3,7 +3,7 @@ title: Problem Set 4
 description: >-
   Problem set on successive approximation and data structures such as tuples and
   lists. 
-type: courses
+type: course
 layout: pdf
 uid: edcb8f5eb775b49a8dc2b6ee93ebf3e3
 file_type: application/pdf

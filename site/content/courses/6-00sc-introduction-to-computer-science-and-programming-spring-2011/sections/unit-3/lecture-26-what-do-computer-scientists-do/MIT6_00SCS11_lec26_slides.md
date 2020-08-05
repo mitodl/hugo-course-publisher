@@ -1,7 +1,7 @@
 ---
 title: 'Lecture 26 slides: What do computer scientists do?'
 description: This resource contains information related to what do computer scientists do.
-type: courses
+type: course
 layout: pdf
 uid: ddeac123e3ec8628e046c3f8009ea2f8
 file_type: application/pdf

@@ -1843,6 +1843,6 @@ transcript: >-
   m="1713670">it</span> <span m="1713780">to</span> <span m="1713910">the</span>
   <span m="1714000">last</span> <span m="1714390">minute.</span></p>
 uid: 9681798e1d4dd3b386f12647217ddc80
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MITRES_6_008S11_lec12.pdf
 description: >-
   This resource contains information related to network structures for infinite
   impulse response (IIR) systems.
-type: courses
+type: course
 layout: pdf
 uid: ad667a5d66099a5fe823f57b4b575bbf
 file_type: application/pdf

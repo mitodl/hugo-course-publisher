@@ -1,11 +1,11 @@
 ---
 title: Exams
 course_id: 6-00-introduction-to-computer-science-and-programming-fall-2008
+type: course
+layout: course_section
 menu:
   6-00-introduction-to-computer-science-and-programming-fall-2008:
     identifier: 3ca786937c3c657b17df50f07b16762e
-    type: section
-    layout: section
     name: Exams
     weight: 60
 ---

@@ -734,6 +734,6 @@ transcript: >-
   m='1013710'>rather</span> <span m='1014250'>important</span> <span
   m='1014880'>thing.</span> </p>
 uid: dca2eb46a6f8229b2ed088b5921537db
-type: courses
+type: course
 layout: video
 ---

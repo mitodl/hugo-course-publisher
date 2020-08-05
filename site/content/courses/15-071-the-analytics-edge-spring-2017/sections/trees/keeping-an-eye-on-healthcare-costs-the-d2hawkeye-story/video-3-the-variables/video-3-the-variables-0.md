@@ -312,6 +312,6 @@ transcript: >-
   m='321162'>for</span> <span m='321638'>case</span> <span
   m='322114'>management.</span> </p>
 uid: 40c9147531cc4a480081accbdfb38bcd
-type: courses
+type: course
 layout: video
 ---

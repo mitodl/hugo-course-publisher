@@ -1,7 +1,7 @@
 ---
 title: MIT6_00SCS11_ps11.pdf
 description: 'This resource contains problem set related to avoiding statistical fallacies. '
-type: courses
+type: course
 layout: pdf
 uid: 60c0bb09733e702a300fffabed022ca7
 file_type: application/pdf

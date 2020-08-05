@@ -3351,6 +3351,6 @@ transcript: >-
   m='3126140'>it</span> <span m='3126240'>by</span> <span m='3126370'>a</span>
   <span m='3126430'>simple</span> <span m='3126710'>induction.</span> </p>
 uid: c720373a9599a4cb1547793b17590b77
-type: courses
+type: course
 layout: video
 ---

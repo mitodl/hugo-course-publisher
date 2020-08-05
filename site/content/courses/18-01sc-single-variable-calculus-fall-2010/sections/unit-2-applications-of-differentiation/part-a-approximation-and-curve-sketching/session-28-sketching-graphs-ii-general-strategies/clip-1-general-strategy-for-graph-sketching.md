@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 1: General Strategy for Graph Sketching'
 transcript: ''
 uid: c88b54fd0cc46ca0b8d0b1637d0ae31c
-type: courses
+type: course
 layout: video
 ---

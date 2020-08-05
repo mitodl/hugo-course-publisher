@@ -1033,6 +1033,6 @@ transcript: >-
   m='937790'>I'll</span> <span m='937830'>end</span> <span
   m='937870'>there.</span> </p>
 uid: 623446bb74ecadab2bec45ea17d9df19
-type: courses
+type: course
 layout: video
 ---

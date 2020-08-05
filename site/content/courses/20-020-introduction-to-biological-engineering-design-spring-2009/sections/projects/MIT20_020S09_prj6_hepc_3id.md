@@ -3,7 +3,7 @@ title: MIT20_020S09_prj6_hepc_3id.pdf
 description: >-
   This file includes notes on bacterial infections, prions, and viral
   infections. 
-type: courses
+type: course
 layout: pdf
 uid: 4a486c8b3945de3a9b5389c139445fa9
 file_type: application/pdf

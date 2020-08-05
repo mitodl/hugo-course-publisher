@@ -2674,6 +2674,6 @@ transcript: >-
   m='2962320'>that</span> <span m='2962560'>next</span> <span
   m='2962860'>time.</span> </p>
 uid: 3e20854ab8f99f529491d3fa5f48a351
-type: courses
+type: course
 layout: video
 ---

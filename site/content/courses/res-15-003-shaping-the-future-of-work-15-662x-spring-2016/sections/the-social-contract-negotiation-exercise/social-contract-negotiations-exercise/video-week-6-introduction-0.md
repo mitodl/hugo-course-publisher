@@ -608,6 +608,6 @@ transcript: >-
   <span m="461050">future</span> <span m="461490">of</span> <span
   m="461580">work.</span></p>
 uid: d205143258c09d840dd6809f0913129f
-type: courses
+type: course
 layout: video
 ---

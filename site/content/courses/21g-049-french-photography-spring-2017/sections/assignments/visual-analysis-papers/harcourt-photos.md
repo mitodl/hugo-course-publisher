@@ -1,6 +1,8 @@
 ---
 title: Harcourt Photos
 course_id: 21g-049-french-photography-spring-2017
+type: course
+layout: course_section
 ---
 Week 5
 ------

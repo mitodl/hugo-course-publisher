@@ -1,7 +1,7 @@
 ---
 title: Quanto Credit Hedging
 description: null
-type: courses
+type: course
 layout: pdf
 uid: c6a3c15db672e2bd462f3002da1e2262
 file_type: application/pdf

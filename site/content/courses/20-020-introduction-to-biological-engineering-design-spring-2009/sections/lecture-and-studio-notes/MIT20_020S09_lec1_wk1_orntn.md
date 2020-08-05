@@ -1,7 +1,7 @@
 ---
 title: MIT20_020S09_lec1_wk1_orntn.pdf
 description: 'This file includes course orientation slides with an overview of the course. '
-type: courses
+type: course
 layout: pdf
 uid: d630e79df405c00dfa328537326a3136
 file_type: application/pdf

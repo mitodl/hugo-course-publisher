@@ -193,6 +193,6 @@ transcript: >-
   differentiate the</span> <span m='584230'>CDF in order to obtain the
   PDF.</span> </p><p></p>
 uid: d94acd3333a6890983bfe0c5e76b6b08
-type: courses
+type: course
 layout: video
 ---

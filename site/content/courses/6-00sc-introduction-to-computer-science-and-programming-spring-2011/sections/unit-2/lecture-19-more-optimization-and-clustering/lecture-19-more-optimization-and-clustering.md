@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Lecture 19: More Optimization and Clustering'
 transcript: ''
 uid: f4ceb51d408c76bc2abfdd0d2379f8bc
-type: courses
+type: course
 layout: video
 ---

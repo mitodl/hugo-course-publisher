@@ -1,7 +1,7 @@
 ---
 title: '3.3 The Framingham Heart Study: Evaluating Risk Factors to Save Lives '
 course_id: 15-071-the-analytics-edge-spring-2017
-type: courses
+type: course
 layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/quick-question-233" %}})

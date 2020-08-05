@@ -3,7 +3,7 @@ title: 'Counting with Bijections: Sum and Product Rules'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: f7ee98d8bfb55dfb2eb20831ecbac59f
 file_type: application/pdf

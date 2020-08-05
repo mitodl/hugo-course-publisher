@@ -3,7 +3,7 @@ title: sp_S22_mud.pdf
 description: |-
   Review questions and answers about the?
   LORANC?navigation?system.
-type: courses
+type: course
 layout: pdf
 uid: e239a2d653ebbe9c532f9308cfd7917a
 file_type: application/pdf

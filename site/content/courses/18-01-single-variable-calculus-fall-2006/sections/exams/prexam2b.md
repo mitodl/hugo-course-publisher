@@ -1,7 +1,7 @@
 ---
 title: Practice Exam 2
 description: Practice questions for the second exam of the course.
-type: courses
+type: course
 layout: pdf
 uid: 1f1292067f4d0302e6516daabe77d7ec
 file_type: application/pdf

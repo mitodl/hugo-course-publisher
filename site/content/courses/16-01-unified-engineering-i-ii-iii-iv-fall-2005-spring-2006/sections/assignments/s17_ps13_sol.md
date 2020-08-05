@@ -1,7 +1,7 @@
 ---
 title: s17_ps13_sol.pdf
 description: Solutions to problem set.
-type: courses
+type: course
 layout: pdf
 uid: 3cca87953b64e65ba383b8f7ab28b0df
 file_type: application/pdf

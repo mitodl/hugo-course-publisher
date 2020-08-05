@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_exam4.pdf
 description: This resource contains information related to spherical coordinates.
-type: courses
+type: course
 layout: pdf
 uid: e6deb5160e19e5483e975cdae3004956
 file_type: application/pdf

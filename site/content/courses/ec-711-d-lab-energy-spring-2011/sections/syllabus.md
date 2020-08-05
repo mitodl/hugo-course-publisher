@@ -1,11 +1,11 @@
 ---
 title: Syllabus
 course_id: ec-711-d-lab-energy-spring-2011
+type: course
+layout: course_section
 menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: f03094f36e60d35cd0bbed00551f4c2f
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
 ---

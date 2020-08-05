@@ -1,7 +1,7 @@
 ---
 title: Pressure Sensor Test
 description: This file contains information regarding pressure sensor test.
-type: courses
+type: course
 layout: pdf
 uid: 8a9fbfe4af3b0bb7eab1445f2c6e04cf
 file_type: application/pdf

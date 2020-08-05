@@ -848,6 +848,6 @@ transcript: >-
   m='992720'>seeing</span> <span m='993020'>you</span> <span
   m='993260'>again.</span> </p>
 uid: b80a81dc1e5353c8da0c47bdc7d3a10c
-type: courses
+type: course
 layout: video
 ---

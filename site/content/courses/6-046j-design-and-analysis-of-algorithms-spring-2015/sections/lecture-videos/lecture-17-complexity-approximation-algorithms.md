@@ -4601,6 +4601,6 @@ transcript: >-
   <span m="4865880">you</span> <span m="4865940">guys</span> <span
   m="4866240">next time.</span></p>
 uid: 1f087eebe86fabc3eb50a5f47537e8e6
-type: courses
+type: course
 layout: video
 ---

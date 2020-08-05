@@ -228,6 +228,6 @@ transcript: >-
   discuss what</span> <span m='583780'>it takes to go through these various
   steps.</span> </p><p></p>
 uid: 443d99627a69d164c46a6484d23258ce
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: u01_ps01_fall03.pdf
 description: 'Problem set on propulsion,L/D.'
-type: courses
+type: course
 layout: pdf
 uid: dbc16000e66da565350b23d47475b198
 file_type: application/pdf

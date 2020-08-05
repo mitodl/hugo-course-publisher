@@ -1,11 +1,11 @@
 ---
 title: Writing Requirement
 course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
+type: course
+layout: course_section
 menu:
   15-s21-nuts-and-bolts-of-business-plans-january-iap-2014:
     identifier: a23d0f4a042a105752a611c2407732da
-    type: section
-    layout: section
     name: Writing Requirement
     weight: 110
 ---

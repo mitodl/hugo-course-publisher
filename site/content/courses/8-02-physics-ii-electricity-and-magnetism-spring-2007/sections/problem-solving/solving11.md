@@ -5,7 +5,7 @@ description: >-
   interference, to understand how to determine the interference conditions for
   double slit interference and to understand how to determine the intensity of
   the light associated with double slit interference.
-type: courses
+type: course
 layout: pdf
 uid: 412c6fa3adcd41cc3b1aab3201ec4aa2
 file_type: application/pdf

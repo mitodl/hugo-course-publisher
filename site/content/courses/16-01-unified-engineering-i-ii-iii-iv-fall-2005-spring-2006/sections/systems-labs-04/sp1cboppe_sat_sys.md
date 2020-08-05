@@ -1,7 +1,7 @@
 ---
 title: sp1cboppe_sat_sys.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 581c3117352aa544c43a54dbccb43b83
 file_type: application/pdf

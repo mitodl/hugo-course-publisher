@@ -4359,6 +4359,6 @@ transcript: >-
   m="4949920">around</span> <span m="4950070">here</span> <span
   m="4950370">for</span> <span m="4950670">questions.</span></p>
 uid: d9b44004b3aa7adef3a48f66ca560492
-type: courses
+type: course
 layout: video
 ---

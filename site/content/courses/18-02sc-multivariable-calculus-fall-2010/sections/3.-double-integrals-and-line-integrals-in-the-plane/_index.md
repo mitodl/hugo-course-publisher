@@ -1,11 +1,11 @@
 ---
 title: 3. Double Integrals and Line Integrals in the Plane
 course_id: 18-02sc-multivariable-calculus-fall-2010
+type: course
+layout: course_section
 menu:
   18-02sc-multivariable-calculus-fall-2010:
     identifier: e20c7287dbfb8ff8c5a675c132a454cc
-    type: section
-    layout: section
     name: 3. Double Integrals and Line Integrals in the Plane
     weight: 680
 ---

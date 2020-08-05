@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses3.7sum.pdf
 description: >-
   This resource contains information related to change of basis; image
   compression.
-type: courses
+type: course
 layout: pdf
 uid: 7ce6815ffe9ec37129e581485494acde
 file_type: application/pdf

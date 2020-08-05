@@ -213,6 +213,6 @@ transcript: >-
   m='166296'>is</span> <span m='166643'>violin?</span> </p><p><span
   m='166990'>Good.</span> </p>
 uid: 5fe636bd5233a52b10a9eed3b070c962
-type: courses
+type: course
 layout: video
 ---

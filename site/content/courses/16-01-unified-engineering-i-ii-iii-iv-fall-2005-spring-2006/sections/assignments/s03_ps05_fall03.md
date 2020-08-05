@@ -1,7 +1,7 @@
 ---
 title: s03_ps05_fall03.pdf
 description: This file contains the exercise based on signal and systems.
-type: courses
+type: course
 layout: pdf
 uid: b629211a77919d6af0f55055007a530a
 file_type: application/pdf

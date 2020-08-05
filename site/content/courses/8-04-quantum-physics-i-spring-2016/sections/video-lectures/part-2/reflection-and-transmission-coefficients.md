@@ -424,6 +424,6 @@ transcript: >-
   m='490270'>you're</span> <span m='490480'>sending</span> <span
   m='490880'>in.</span> </p>
 uid: ea7ae8f72244421fe624959afe48b933
-type: courses
+type: course
 layout: video
 ---

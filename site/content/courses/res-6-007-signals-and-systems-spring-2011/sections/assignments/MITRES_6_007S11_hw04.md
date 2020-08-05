@@ -1,7 +1,7 @@
 ---
 title: MITRES_6_007S11_hw04.pdf
 description: This resource contains problem set related to convolution.
-type: courses
+type: course
 layout: pdf
 uid: cab2602ff858c51113591d17321a80fc
 file_type: application/pdf

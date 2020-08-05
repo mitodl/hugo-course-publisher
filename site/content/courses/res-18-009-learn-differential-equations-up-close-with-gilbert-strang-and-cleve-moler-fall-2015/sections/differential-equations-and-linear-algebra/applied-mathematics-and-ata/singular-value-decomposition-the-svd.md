@@ -782,6 +782,6 @@ transcript: >-
   m='842060'>value</span> <span m='842760'>decomposition.</span> <span
   m='844370'>Thank</span> <span m='844540'>you.</span> </p>
 uid: c732f967fb88e87af1ad37479a69de27
-type: courses
+type: course
 layout: video
 ---

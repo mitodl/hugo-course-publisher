@@ -3,7 +3,7 @@ title: >-
   Electromagnetic Field Theory - A Problem-Solving Approach – Chapter 4:
   Electric Field Boundary Value Problems
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 659bc3f2465095e4d9308538846cba5a
 file_type: application/pdf

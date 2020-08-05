@@ -3,7 +3,7 @@ title: 'Logic and Propositions: Propositional Operators'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: e6f500081d5700674a1ced470ec962ce
 file_type: application/pdf

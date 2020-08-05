@@ -1,7 +1,7 @@
 ---
 title: l7_mud.pdf
 description: Review of "Muddy Points" from the lab assignment.
-type: courses
+type: course
 layout: pdf
 uid: ed6a980bf1b25bf9314f090ccb0c7536
 file_type: application/pdf

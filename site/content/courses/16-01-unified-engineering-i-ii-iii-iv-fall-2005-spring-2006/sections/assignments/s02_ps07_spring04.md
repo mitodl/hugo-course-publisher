@@ -1,7 +1,7 @@
 ---
 title: s02_ps07_spring04.pdf
 description: This file contains problem set 2 which discusses about unified?engineering?II.
-type: courses
+type: course
 layout: pdf
 uid: d13a8f2f43c40fea94c8dd75c6478c1d
 file_type: application/pdf

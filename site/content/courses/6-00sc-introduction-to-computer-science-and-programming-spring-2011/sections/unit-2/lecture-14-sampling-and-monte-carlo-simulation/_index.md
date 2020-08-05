@@ -1,16 +1,14 @@
 ---
 title: Sampling and Monte Carlo Simulation
 course_id: 6-00sc-introduction-to-computer-science-and-programming-spring-2011
+type: course
+layout: videogallery
 menu:
   6-00sc-introduction-to-computer-science-and-programming-spring-2011:
     identifier: eb6bcb74e4a6c927a72e0bf586910c4c
-    type: section
-    layout: section
     name: Sampling and Monte Carlo Simulation
     weight: 200
     parent: ddc5db7a5c64e3bda565b36f4ed76287
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-13-some-basic-probability-and-plotting-data/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-15-statistical-thinking/_index.md" %}}) »
 

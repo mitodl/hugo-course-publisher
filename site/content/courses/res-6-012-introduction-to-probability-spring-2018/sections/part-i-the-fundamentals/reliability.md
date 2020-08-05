@@ -184,6 +184,6 @@ transcript: >-
   the problem-solving</span> <span m="442220">videos that we will have available
   for you.</span></p><p>&nbsp;</p>
 uid: 948ac640270af76bf3553cc0f47b7203
-type: courses
+type: course
 layout: video
 ---

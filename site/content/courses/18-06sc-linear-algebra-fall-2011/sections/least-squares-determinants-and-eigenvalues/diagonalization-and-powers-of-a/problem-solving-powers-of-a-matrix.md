@@ -474,6 +474,6 @@ transcript: >-
   m='544530'>the</span> <span m='544600'>diagonal</span> <span
   m='545080'>matrix.</span> </p>
 uid: 3a25c6bf9d592fa46da80ceacb414de9
-type: courses
+type: course
 layout: video
 ---

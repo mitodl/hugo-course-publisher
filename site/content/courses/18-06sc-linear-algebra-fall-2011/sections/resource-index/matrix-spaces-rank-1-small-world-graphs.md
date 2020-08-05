@@ -65,6 +65,6 @@ technical_location: >-
 title: Matrix Spaces; Rank 1; Small World Graphs
 transcript: ''
 uid: a8308d4a7c88585440dc51ea8aa9a1bd
-type: courses
+type: course
 layout: video
 ---

@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses47b.pdf
 description: >-
   This resource contains information about introduction of the fundamental
   theorem of calculus.
-type: courses
+type: course
 layout: pdf
 uid: 275befd7d65a08b6aff13d124e41d44a
 file_type: application/pdf

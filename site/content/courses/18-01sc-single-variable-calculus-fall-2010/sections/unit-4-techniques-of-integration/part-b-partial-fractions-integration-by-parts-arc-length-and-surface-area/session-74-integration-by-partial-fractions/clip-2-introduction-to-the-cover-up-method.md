@@ -70,6 +70,6 @@ technical_location: >-
 title: 'Clip 2: Introduction to the Cover-Up Method'
 transcript: ''
 uid: 8e3424bf46548ef0a9ca8e00035a1ec8
-type: courses
+type: course
 layout: video
 ---

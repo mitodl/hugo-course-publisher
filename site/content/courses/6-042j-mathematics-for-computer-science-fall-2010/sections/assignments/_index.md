@@ -1,11 +1,11 @@
 ---
 title: Assignments
 course_id: 6-042j-mathematics-for-computer-science-fall-2010
+type: course
+layout: course_section
 menu:
   6-042j-mathematics-for-computer-science-fall-2010:
     identifier: 08112a09cc2d67e2273a6f15e8d43486
-    type: section
-    layout: section
     name: Assignments
     weight: 60
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'MIT 8.03SC Fall 2016 Lecture 8: Translation Symmetry'
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 6a1864aebb1920965fa3a077ea66f684
 file_type: application/pdf

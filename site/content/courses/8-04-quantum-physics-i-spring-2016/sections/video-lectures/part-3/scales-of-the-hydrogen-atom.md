@@ -504,6 +504,6 @@ transcript: >-
   m='593430'>we're</span> <span m='593610'>supposed</span> <span
   m='593970'>to</span> <span m='594090'>get.</span> </p>
 uid: 96ca2287e2a3edc080dd37ef35eb3552
-type: courses
+type: course
 layout: video
 ---

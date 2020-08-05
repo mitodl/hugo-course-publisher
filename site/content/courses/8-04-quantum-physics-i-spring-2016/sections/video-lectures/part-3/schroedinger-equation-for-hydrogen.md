@@ -1113,6 +1113,6 @@ transcript: >-
   m='1255320'>So</span> <span m='1256580'>we</span> <span m='1257120'>can</span>
   <span m='1257390'>proceed.</span> </p>
 uid: e1281417f95abc553fc5d183516fe891
-type: courses
+type: course
 layout: video
 ---

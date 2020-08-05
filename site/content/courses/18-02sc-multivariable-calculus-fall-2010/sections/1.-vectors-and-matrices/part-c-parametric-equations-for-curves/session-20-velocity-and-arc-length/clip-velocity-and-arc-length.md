@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Velocity and Arc Length'
 transcript: ''
 uid: 8443e0fcc27020084cc165f11e7cda01
-type: courses
+type: course
 layout: video
 ---

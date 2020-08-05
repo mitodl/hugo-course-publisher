@@ -1,7 +1,7 @@
 ---
 title: 1_intro_to_cp.pdf
 description: Lecture 1 (2003) presentation.
-type: courses
+type: course
 layout: pdf
 uid: f22f92f6bfb391aff77ded0dcab89067
 file_type: application/pdf

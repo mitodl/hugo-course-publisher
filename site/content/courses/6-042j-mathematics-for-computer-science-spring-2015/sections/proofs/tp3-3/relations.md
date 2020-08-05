@@ -1771,6 +1771,6 @@ transcript: >-
   m='1507400'>wraps</span> <span m='1507780'>up</span> <span
   m='1509130'>functions.</span> </p>
 uid: f296501bce441c102465ba88667e8e93
-type: courses
+type: course
 layout: video
 ---

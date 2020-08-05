@@ -2223,6 +2223,6 @@ transcript: >-
   m="2163380">you</span> <span m="2163900">so</span> <span
   m="2164090">much.</span></p>
 uid: f005625170a3d5dae28b846429aca584
-type: courses
+type: course
 layout: video
 ---

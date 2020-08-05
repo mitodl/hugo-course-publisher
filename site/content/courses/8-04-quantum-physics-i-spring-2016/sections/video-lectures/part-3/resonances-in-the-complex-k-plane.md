@@ -704,6 +704,6 @@ transcript: >-
   m='913080'>It's</span> <span m='913180'>a</span> <span m='913280'>nice</span>
   <span m='913480'>start.</span> </p>
 uid: 23d65a310ac6146411126b2daca23861
-type: courses
+type: course
 layout: video
 ---

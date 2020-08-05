@@ -239,6 +239,6 @@ transcript: >-
   m='201736'>the</span> <span m='202187'>other</span> <span
   m='202638'>population.</span> </p>
 uid: dd0dc4016f76a1e6d098a156706d7a03
-type: courses
+type: course
 layout: video
 ---

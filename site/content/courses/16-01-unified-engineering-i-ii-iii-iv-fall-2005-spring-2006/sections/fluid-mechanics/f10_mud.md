@@ -3,7 +3,7 @@ title: f10_mud.pdf
 description: >-
   This resource contains muddy points on the topics of Momentum Theorem
   Applications.
-type: courses
+type: course
 layout: pdf
 uid: 7f8de88f1bf3b589439d8a9161565d46
 file_type: application/pdf

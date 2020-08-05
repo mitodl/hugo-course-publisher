@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_ex04prb.pdf
 description: This resource contains information related to continuous but not smooth.
-type: courses
+type: course
 layout: pdf
 uid: f8502402ca94817edcc6cd996eb538ad
 file_type: application/pdf

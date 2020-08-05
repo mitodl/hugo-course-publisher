@@ -3,7 +3,7 @@ title: MITRES_6_008S11_sol10.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   circular convolution.
-type: courses
+type: course
 layout: pdf
 uid: 58fe2f5cca9a406e573579ad07e0bc72
 file_type: application/pdf

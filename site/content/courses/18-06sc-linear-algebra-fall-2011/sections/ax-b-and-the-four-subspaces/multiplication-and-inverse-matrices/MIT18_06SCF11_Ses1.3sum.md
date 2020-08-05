@@ -3,7 +3,7 @@ title: MIT18_06SCF11_Ses1.3sum.pdf
 description: >-
   This resource contains information related to multiplication and inverse
   matrices.
-type: courses
+type: course
 layout: pdf
 uid: 1963da71c4d96e5d14e7939780f79bcc
 file_type: application/pdf

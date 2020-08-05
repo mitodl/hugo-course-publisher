@@ -1,7 +1,7 @@
 ---
 title: 5recitation.pdf
 description: Recitation lecture presentation.
-type: courses
+type: course
 layout: pdf
 uid: 34c13c08f275c54de6447040ac5b2f35
 file_type: application/pdf

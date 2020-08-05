@@ -3,7 +3,7 @@ title: s10_ps10_sol.pdf
 description: >-
   Solutions to problem set involving five questions on partial fraction of
   transforms.
-type: courses
+type: course
 layout: pdf
 uid: 7d7d706c68ba2a31174f9eda079a89fc
 file_type: application/pdf

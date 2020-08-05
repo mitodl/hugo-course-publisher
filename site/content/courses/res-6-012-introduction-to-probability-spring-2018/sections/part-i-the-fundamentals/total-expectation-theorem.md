@@ -173,6 +173,6 @@ transcript: >-
   much more interesting and</span> <span m="385440">complicated
   situations.</span></p><p>&nbsp;</p>
 uid: b4c52bf97a50bfc1f82773027bd5b28a
-type: courses
+type: course
 layout: video
 ---

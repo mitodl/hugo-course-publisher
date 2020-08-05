@@ -583,6 +583,6 @@ transcript: >-
   m='405650'>where</span> <span m='405750'>I'll</span> <span
   m='405870'>stop.</span> </p>
 uid: 90a7769bf66372c092dabc56596719be
-type: courses
+type: course
 layout: video
 ---

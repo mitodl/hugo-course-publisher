@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Solutions for Lecture 18: Introduction to
   Chemical Equilibrium
 description: This resource contains information regarding lecture 18 solution.
-type: courses
+type: course
 layout: pdf
 uid: 4d0d7db1079f4fee2bdd58d95033f36d
 file_type: application/pdf

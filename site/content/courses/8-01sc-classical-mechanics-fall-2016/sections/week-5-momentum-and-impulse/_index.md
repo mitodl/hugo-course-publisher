@@ -1,11 +1,11 @@
 ---
 title: 'Week 5: Momentum and Impulse'
 course_id: 8-01sc-classical-mechanics-fall-2016
+type: course
+layout: course_section
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: c1168b62a27dcf9f3fe2550af1ed72f5
-    type: section
-    layout: section
     name: 'Week 5: Momentum and Impulse'
     weight: 920
 ---

@@ -1,11 +1,11 @@
 ---
 title: Syllabus
 course_id: 18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013
+type: course
+layout: course_section
 menu:
   18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013:
     identifier: 1b197334e43b384e8c13f65e8a4491b4
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
 ---

@@ -4406,6 +4406,6 @@ transcript: >-
   m='2999875'>good</span> <span m='3000050'>luck</span> <span
   m='3000260'>on</span> <span m='3000390'>Thursday.</span> </p>
 uid: a8c71fad4211c68a9134da10d454f920
-type: courses
+type: course
 layout: video
 ---

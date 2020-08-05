@@ -4518,6 +4518,6 @@ transcript: >-
   m='4973070'>more</span> <span m='4973360'>this in</span> <span
   m='4973570'>recitation</span> <span m='4974180'>tomorrow.</span> </p><p></p>
 uid: 860c6c33b7f3a6a19c329bf115756045
-type: courses
+type: course
 layout: video
 ---

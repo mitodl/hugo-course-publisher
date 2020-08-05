@@ -1,7 +1,7 @@
 ---
 title: MIT18_01SCF10_Ses87b.pdf
 description: This resource contains informations related to l'hospital's rule.
-type: courses
+type: course
 layout: pdf
 uid: 75ee38ddaf6350656812e94a7bebe32d
 file_type: application/pdf

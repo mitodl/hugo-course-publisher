@@ -904,6 +904,6 @@ transcript: >-
   m='1096990'>that's</span> <span m='1097170'>equal</span> <span
   m='1097560'>to</span> <span m='1097750'>1.</span> </p>
 uid: d34911b8a43fe2ab8b22c7d8bc462eb5
-type: courses
+type: course
 layout: video
 ---

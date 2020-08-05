@@ -1,11 +1,11 @@
 ---
 title: Circuits and Code
 course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015
+type: course
+layout: course_section
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: 702bfcbbdf401ecdff943eaa6807cb80
-    type: section
-    layout: section
     name: Circuits and Code
     weight: 130
 ---

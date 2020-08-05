@@ -360,6 +360,6 @@ transcript: >-
   <span m='263765'>the</span> <span m='264226'>election</span> <span
   m='264688'>prediction.</span> </p>
 uid: b17dd6c88f73c200ec7c729b17c6f6d6
-type: courses
+type: course
 layout: video
 ---

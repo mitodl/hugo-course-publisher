@@ -1,7 +1,7 @@
 ---
 title: MIT20_020S09_proj_onc15_3id.pdf
 description: 'This file includes notes on Cancer and its challenges. '
-type: courses
+type: course
 layout: pdf
 uid: ba2c0bf019331ef846647fb0b05b224f
 file_type: application/pdf

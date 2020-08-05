@@ -1,7 +1,7 @@
 ---
 title: prs_w03d2_qonly.pdf
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 21ed7f64eb2bc7f2e4496139fdb17bb7
 file_type: application/pdf

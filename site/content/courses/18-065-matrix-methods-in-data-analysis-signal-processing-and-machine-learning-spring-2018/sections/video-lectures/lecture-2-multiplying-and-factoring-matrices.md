@@ -2701,6 +2701,6 @@ transcript: >-
   m='2902840'>linear</span> <span m='2903230'>algebra</span> <span
   m='2903680'>moving</span> <span m='2904100'>on.</span> </p>
 uid: 003d4125685ec94874bdfd5b60c51c59
-type: courses
+type: course
 layout: video
 ---

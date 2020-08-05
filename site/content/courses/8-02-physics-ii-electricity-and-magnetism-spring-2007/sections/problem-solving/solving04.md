@@ -4,7 +4,7 @@ description: >-
   This resource contains  problem solving strategies using Gauss?s law, compute
   the electric potential difference between two conductors, cylindrical
   capacitor and problems on electric field.
-type: courses
+type: course
 layout: pdf
 uid: 44ed209102abb3ede75094763210cb3b
 file_type: application/pdf

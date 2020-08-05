@@ -3,7 +3,7 @@ title: 'Introduction to Probability: Lecture 10: Continuous Random Variables Par
 description: >-
   This resource contains information regarding introduction to probability: The
   fundamentals: Continuous random variables part III.
-type: courses
+type: course
 layout: pdf
 uid: 946d2279e52c1a448ecb0c53c54bcefc
 file_type: application/pdf

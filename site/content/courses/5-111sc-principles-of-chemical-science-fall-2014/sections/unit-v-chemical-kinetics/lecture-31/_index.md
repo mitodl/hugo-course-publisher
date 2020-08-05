@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 31: Nuclear Chemistry and Chemical Kinetics'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: videogallery
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: c8f99e55bd1766c4505f19e5b26af70c
-    type: section
-    layout: section
     name: Lecture 31
     weight: 380
     parent: 124cd4e89ed86cbe95d852c3908bfac3
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-30/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32/_index.md" %}}) »
 

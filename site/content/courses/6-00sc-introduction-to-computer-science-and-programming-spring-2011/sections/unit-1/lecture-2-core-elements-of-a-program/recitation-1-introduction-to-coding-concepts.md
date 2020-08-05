@@ -66,6 +66,6 @@ technical_location: >-
 title: 'Recitation 1: Introduction to Coding Concepts'
 transcript: ''
 uid: 89743e6bdd692ec4cb89d6732ea554e7
-type: courses
+type: course
 layout: video
 ---

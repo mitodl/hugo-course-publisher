@@ -1,7 +1,7 @@
 ---
 title: f17_ps13_fall03.pdf
 description: This resource contains problems on the topic vortex flow and uniform flow.
-type: courses
+type: course
 layout: pdf
 uid: f9cd87acc60efe2fec35c78344988718
 file_type: application/pdf

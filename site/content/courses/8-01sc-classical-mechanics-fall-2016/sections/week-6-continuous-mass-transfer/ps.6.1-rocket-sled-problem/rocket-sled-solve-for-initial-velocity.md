@@ -76,6 +76,6 @@ transcript: >-
   m='46720'>And we can say that is plus u l n of 2.</span> </p><p><span
   m='53690'>So that was the velocity that the sled was going with.</span> </p>
 uid: 743dc3c8f229f39a9e3d4f5f740f3ee0
-type: courses
+type: course
 layout: video
 ---

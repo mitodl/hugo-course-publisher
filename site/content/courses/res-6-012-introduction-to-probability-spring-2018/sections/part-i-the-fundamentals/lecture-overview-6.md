@@ -92,6 +92,6 @@ transcript: >-
   that we have learned, we can calculate the</span> <span m="105170">mean and
   variance of a rather complicated random variable.</span></p><p>&nbsp;</p>
 uid: 1823fcd59be8d1d87d5fec741122a8a1
-type: courses
+type: course
 layout: video
 ---

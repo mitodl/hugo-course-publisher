@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Solutions for Lecture 6: Hydrogen Atom
   Wavefunctions (Orbitals)
 description: This resource contains information regarding lecture note 6 solutions.
-type: courses
+type: course
 layout: pdf
 uid: a22b771edebebdfc73f34b633453b1b5
 file_type: application/pdf

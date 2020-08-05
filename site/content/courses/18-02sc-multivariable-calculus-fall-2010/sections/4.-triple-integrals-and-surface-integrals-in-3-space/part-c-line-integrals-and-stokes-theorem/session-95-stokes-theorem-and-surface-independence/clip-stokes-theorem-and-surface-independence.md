@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Stokes'' Theorem and Surface Independence'
 transcript: ''
 uid: fd1b10a71dd1b24788a038917ddf6657
-type: courses
+type: course
 layout: video
 ---

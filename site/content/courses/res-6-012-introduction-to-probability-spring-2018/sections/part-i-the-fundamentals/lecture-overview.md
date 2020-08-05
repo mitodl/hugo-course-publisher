@@ -98,6 +98,6 @@ transcript: >-
   the role of probability theory, and its</span> <span m="109560">relation with
   the real world.</span></p><p>&nbsp;</p>
 uid: a5681bcca7622bbe9115b05ebe07a858
-type: courses
+type: course
 layout: video
 ---

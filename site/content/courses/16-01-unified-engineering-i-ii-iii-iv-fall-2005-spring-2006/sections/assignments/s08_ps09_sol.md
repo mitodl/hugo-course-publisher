@@ -1,7 +1,7 @@
 ---
 title: s08_ps09_sol.pdf
 description: This resource includes solutions to problem set S8.
-type: courses
+type: course
 layout: pdf
 uid: f78d410746628ca27617888c0221d5b0
 file_type: application/pdf

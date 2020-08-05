@@ -225,6 +225,6 @@ transcript: >-
   m='195878'>about</span> <span m='196536'>80%</span> <span m='197195'>of</span>
   <span m='197853'>the</span> <span m='198511'>time.</span> </p>
 uid: de12cf90981345672c6e7ded970619da
-type: courses
+type: course
 layout: video
 ---

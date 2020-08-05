@@ -1,7 +1,7 @@
 ---
 title: Week 8 Radiation Therapy Video 1 - 15.071 Spring 2017
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 1abf45e592ebd829c166f217a0f92493
 file_type: application/pdf

@@ -4222,6 +4222,6 @@ transcript: >-
   m="4930875">develop</span> <span m="4931680">from</span> <span
   m="4931920">this</span> <span m="4932160">experiment.</span></p>
 uid: e6ea40aacffe3ce8bec3e7274bc1cafb
-type: courses
+type: course
 layout: video
 ---

@@ -134,6 +134,6 @@ transcript: >-
   m='61150'>down</span> <span m='61360'>here.</span> <span
   m='63160'>Awesome.</span> </p>
 uid: 2dad9223a5aaebd8e51e7c5f6beeb3d8
-type: courses
+type: course
 layout: video
 ---

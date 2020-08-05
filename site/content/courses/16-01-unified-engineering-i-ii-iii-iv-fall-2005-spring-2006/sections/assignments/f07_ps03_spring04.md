@@ -1,7 +1,7 @@
 ---
 title: f07_ps03_spring04.pdf
 description: This resource contains problems related to operating CL.
-type: courses
+type: course
 layout: pdf
 uid: 91de4606c8c966de791dec428d0050f0
 file_type: application/pdf

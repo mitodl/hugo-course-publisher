@@ -1,11 +1,11 @@
 ---
 title: Readings (20.902)
 course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
+type: course
+layout: course_section
 menu:
   20-020-introduction-to-biological-engineering-design-spring-2009:
     identifier: 7383cd6e01ffea89442e1e74b3c4a721
-    type: section
-    layout: section
     name: Readings (20.902)
     weight: 160
 ---

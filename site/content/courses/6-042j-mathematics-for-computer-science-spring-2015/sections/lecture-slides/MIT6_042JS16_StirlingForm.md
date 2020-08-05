@@ -3,7 +3,7 @@ title: 'Sums & Products: Stirling''s Formula'
 description: >-
   This resource contains in formation regarding mathematics for computer
   science.
-type: courses
+type: course
 layout: pdf
 uid: bef12e7acc82d0149dca74d123c1f25c
 file_type: application/pdf

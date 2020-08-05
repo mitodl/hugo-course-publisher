@@ -1,11 +1,11 @@
 ---
 title: Lecture 16 Outline
 course_id: 6-033-computer-system-engineering-spring-2018
+type: course
+layout: course_section
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: c46fe11ed02304f575354315faa42e52
-    type: section
-    layout: section
     name: Lecture 16 Outline
     weight: 420
     parent: aa415ef7575219eea10afb9dc2dbef65

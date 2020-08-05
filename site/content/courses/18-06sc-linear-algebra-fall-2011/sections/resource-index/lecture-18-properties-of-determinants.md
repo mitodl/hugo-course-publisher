@@ -2718,6 +2718,6 @@ transcript: >-
   m="2927730">web</span> <span m="2927740">this</span> <span
   m="2927750">afternoon.</span> <span m="2927890">Thanks.</span></p>
 uid: 3b1713a864fd0a8e1f0a91771d82c7dc
-type: courses
+type: course
 layout: video
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Problem Set 6: Time Series II and Portfolio Theory'
 description: This file contains information regarding problem set 6.
-type: courses
+type: course
 layout: pdf
 uid: 9c3945082887de1e03b79092d8f06010
 file_type: application/pdf

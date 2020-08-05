@@ -1,7 +1,7 @@
 ---
 title: FT03SEF.pdf
 description: This resource contains the evaluation for the subject contents.
-type: courses
+type: course
 layout: pdf
 uid: acfe5491daff2e87605ff015b30a4fcd
 file_type: application/pdf

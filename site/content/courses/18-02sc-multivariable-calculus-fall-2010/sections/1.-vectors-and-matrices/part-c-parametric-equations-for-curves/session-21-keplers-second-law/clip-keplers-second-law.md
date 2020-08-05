@@ -44,6 +44,6 @@ technical_location: >-
 title: 'Clip: Kepler''s Second Law'
 transcript: ''
 uid: 6f9b977da6396f5eaa8c38420e63b71a
-type: courses
+type: course
 layout: video
 ---

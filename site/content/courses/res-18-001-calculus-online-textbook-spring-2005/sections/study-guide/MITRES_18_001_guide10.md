@@ -1,7 +1,7 @@
 ---
 title: MITRES_18_001_guide10.pdf
 description: This resource contains information related to infinite series.
-type: courses
+type: course
 layout: pdf
 uid: c6b6d03614f471c33daf4238592c8514
 file_type: application/pdf

@@ -610,6 +610,6 @@ transcript: >-
   m='462720'>from</span> <span m='463010'>its</span> <span
   m='463170'>mean.</span> </p>
 uid: 2d92edb39e3916de6359fda2b399d641
-type: courses
+type: course
 layout: video
 ---

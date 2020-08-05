@@ -1,7 +1,7 @@
 ---
 title: MIT14_01SCF11_rec03.pdf
 description: This resource is the recitation file for substitution.
-type: courses
+type: course
 layout: pdf
 uid: 7576d5136178f34315678983953421c9
 file_type: application/pdf

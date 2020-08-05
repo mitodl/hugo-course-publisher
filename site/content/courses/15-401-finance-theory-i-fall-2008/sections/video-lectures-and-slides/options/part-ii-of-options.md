@@ -4555,6 +4555,6 @@ transcript: >-
   m='3524640'>for</span> <span m='3524790'>the</span> <span
   m='3525030'>mid-term</span> <span m='3525360'>exam.</span> </p>
 uid: a036c7e462a2f23fc3213017c66776b7
-type: courses
+type: course
 layout: video
 ---

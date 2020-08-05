@@ -3,7 +3,7 @@ title: pset9_sol_04.pdf
 description: >-
   This file includes solutions to problems on minimum spanning tree, bubble sort
   algorithm, propulsion, convolution, ambiguity function, and Laplace transform.
-type: courses
+type: course
 layout: pdf
 uid: e4eb0aee3ac7ce2f10752e610e5ceea4
 file_type: application/pdf

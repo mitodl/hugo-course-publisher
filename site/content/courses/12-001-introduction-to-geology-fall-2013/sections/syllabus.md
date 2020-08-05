@@ -1,11 +1,11 @@
 ---
 title: Syllabus
 course_id: 12-001-introduction-to-geology-fall-2013
+type: course
+layout: course_section
 menu:
   12-001-introduction-to-geology-fall-2013:
     identifier: ce088e3778d0b7c9c849d4b38b029687
-    type: section
-    layout: section
     name: Syllabus
     weight: 10
 ---

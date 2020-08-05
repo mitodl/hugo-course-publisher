@@ -1,7 +1,7 @@
 ---
 title: P5sol.pdf
 description: Problem set based on Flight Mach Number.
-type: courses
+type: course
 layout: pdf
 uid: 8cb665e60f06d8c5c7ec87fe888569ab
 file_type: application/pdf

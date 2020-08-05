@@ -3,7 +3,7 @@ title: t02_ps02_fall03.pdf
 description: >-
   This resource contains problem set on Unified Thermodynamics like p-v
   diagrams.
-type: courses
+type: course
 layout: pdf
 uid: 4d6d240ae26b8b61a19bc04968532a06
 file_type: application/pdf

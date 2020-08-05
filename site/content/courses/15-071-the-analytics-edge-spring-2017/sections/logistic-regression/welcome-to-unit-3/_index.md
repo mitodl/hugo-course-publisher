@@ -1,16 +1,14 @@
 ---
 title: 3.1 Welcome to Unit 3
 course_id: 15-071-the-analytics-edge-spring-2017
+type: course
+layout: videogallery
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 29b6c08fb66fc5635e83256d2e175fed
-    type: section
-    layout: section
     name: 3.1 Welcome to Unit 3
     weight: 780
     parent: c4464cf49ddb1a4bc78cfaa6f93b74de
-type: courses
-layout: videogallery
 ---
 *   [<Logistic Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/_index.md" %}})
 *   [3.1.1Welcome to Unit 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/welcome-to-unit-3" %}})

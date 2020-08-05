@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses39b.pdf
 description: >-
   This resource contains information about introduction to differential
   equations.
-type: courses
+type: course
 layout: pdf
 uid: fc34d35fa0bf21a563d81469f2ab324c
 file_type: application/pdf

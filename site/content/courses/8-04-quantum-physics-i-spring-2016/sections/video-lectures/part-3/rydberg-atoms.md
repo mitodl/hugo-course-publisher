@@ -1280,6 +1280,6 @@ transcript: >-
   m='1581330'>of</span> <span m='1581630'>fun</span> <span
   m='1581930'>things.</span> </p>
 uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
-type: courses
+type: course
 layout: video
 ---

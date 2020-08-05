@@ -3,7 +3,7 @@ title: f03_fall.pdf
 description: >-
   This resource contains information on the topics of 2-D aerodynamic forces and
   moments, center of pressure and nondimensional coefficients.
-type: courses
+type: course
 layout: pdf
 uid: 0c99289fc2a88ccdc630c4fd0ee77254
 file_type: application/pdf

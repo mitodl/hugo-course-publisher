@@ -5,7 +5,7 @@ description: >-
   definite integrals, the first fundamental theorem of calculus, the second
   fundamental theorem, applications to logarithms and geometry, volumes by disks
   and shells, work, average value, probability, and numerical integration.
-type: courses
+type: course
 layout: pdf
 uid: 04b5c4f79b8f8fd8ab1a1af71e46b752
 file_type: application/pdf

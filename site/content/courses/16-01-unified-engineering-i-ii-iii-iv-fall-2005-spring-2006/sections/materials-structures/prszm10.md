@@ -3,7 +3,7 @@ title: prszm10.pdf
 description: >-
   This resource contains concept questions and answers based on bar truss under
   consideration and force.
-type: courses
+type: course
 layout: pdf
 uid: d0cbf88d4ff4439ce4e6c64552cf4565
 file_type: application/pdf

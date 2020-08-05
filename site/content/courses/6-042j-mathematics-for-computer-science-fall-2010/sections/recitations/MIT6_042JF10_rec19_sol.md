@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_rec19_sol.pdf
 description: This resource contains solutions of Bayes' rule.
-type: courses
+type: course
 layout: pdf
 uid: 7eaa74096b597221f259cf5ddbb3c13b
 file_type: application/pdf

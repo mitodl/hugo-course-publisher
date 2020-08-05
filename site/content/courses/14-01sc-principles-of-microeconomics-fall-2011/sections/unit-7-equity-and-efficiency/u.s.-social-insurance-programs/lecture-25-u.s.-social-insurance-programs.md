@@ -4227,6 +4227,6 @@ transcript: >-
   m='2983090'>a</span> <span m='2983220'>final</span> <span
   m='2983520'>session.</span> </p>
 uid: 3ba40d60bae9848dee8575f96bbbd0de
-type: courses
+type: course
 layout: video
 ---

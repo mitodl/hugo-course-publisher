@@ -3,7 +3,7 @@ title: MIT18_01SCF10_Ses81b.pdf
 description: >-
   This resource contains informations related to examples using parametrized
   curves.
-type: courses
+type: course
 layout: pdf
 uid: 1fde91f9aaff3f81a3e226a634fbcb73
 file_type: application/pdf

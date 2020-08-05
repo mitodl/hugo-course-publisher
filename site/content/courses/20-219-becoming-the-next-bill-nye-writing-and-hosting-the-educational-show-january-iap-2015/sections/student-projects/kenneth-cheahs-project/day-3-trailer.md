@@ -152,6 +152,6 @@ transcript: >-
   <span m="70570">actually</span> <span m="71110">really</span> <span
   m="71400">possible.</span></p>
 uid: 36d160ceb722329284a748e38960eaa5
-type: courses
+type: course
 layout: video
 ---

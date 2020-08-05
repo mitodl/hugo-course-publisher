@@ -578,6 +578,6 @@ transcript: >-
   m='486778'>as</span> <span m='487156'>easily</span> <span m='487534'>by</span>
   <span m='487912'>inspection.</span> </p>
 uid: 478a1336e5048cfd64883186f2240bf2
-type: courses
+type: course
 layout: video
 ---

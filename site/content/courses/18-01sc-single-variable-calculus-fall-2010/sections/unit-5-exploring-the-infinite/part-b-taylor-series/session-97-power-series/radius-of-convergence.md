@@ -1445,6 +1445,6 @@ transcript: >-
   m='1078770'>hope</span> <span m='1078970'>this</span> <span
   m='1079120'>was</span> <span m='1079400'>informative.</span> </p>
 uid: b5ffa9ac41a4bed43028590a0f1d186e
-type: courses
+type: course
 layout: video
 ---

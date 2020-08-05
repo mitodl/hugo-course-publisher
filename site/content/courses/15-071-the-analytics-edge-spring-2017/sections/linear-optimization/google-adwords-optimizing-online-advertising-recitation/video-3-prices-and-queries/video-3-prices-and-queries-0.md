@@ -238,6 +238,6 @@ transcript: >-
   <span m='171475'>linear</span> <span m='172013'>optimization</span> <span
   m='172551'>problem.</span> </p>
 uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
-type: courses
+type: course
 layout: video
 ---

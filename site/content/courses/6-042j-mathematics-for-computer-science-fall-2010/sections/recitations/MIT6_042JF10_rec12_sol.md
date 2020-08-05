@@ -1,7 +1,7 @@
 ---
 title: MIT6_042JF10_rec12_sol.pdf
 description: 'This resource contains solutions of the L-tower problem, double sums. '
-type: courses
+type: course
 layout: pdf
 uid: 0500ce233605828a0c556c282353e0af
 file_type: application/pdf

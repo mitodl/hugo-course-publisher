@@ -1,7 +1,7 @@
 ---
 title: '6.042J Chapter 15: Conditional probability'
 description: This resource contains information about Conditional probability.
-type: courses
+type: course
 layout: pdf
 uid: d642d816867bcd205926eefaa116edd8
 file_type: application/pdf

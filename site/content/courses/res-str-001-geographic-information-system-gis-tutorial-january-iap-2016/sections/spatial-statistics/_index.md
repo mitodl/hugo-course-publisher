@@ -1,11 +1,11 @@
 ---
 title: Spatial Statistics
 course_id: res-str-001-geographic-information-system-gis-tutorial-january-iap-2016
+type: course
+layout: course_section
 menu:
   res-str-001-geographic-information-system-gis-tutorial-january-iap-2016:
     identifier: e50033f149a6f59d6646e17cae4d4fc2
-    type: section
-    layout: section
     name: Spatial Statistics
     weight: 30
 ---

@@ -917,6 +917,6 @@ transcript: >-
   m='697690'>I'll</span> <span m='697850'>end</span> <span
   m='698090'>there.</span> </p>
 uid: 4990e98d2e927c32672131168dd8010c
-type: courses
+type: course
 layout: video
 ---

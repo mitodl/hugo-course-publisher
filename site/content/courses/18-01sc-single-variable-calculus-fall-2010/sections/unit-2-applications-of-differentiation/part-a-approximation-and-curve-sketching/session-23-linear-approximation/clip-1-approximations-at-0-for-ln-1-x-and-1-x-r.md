@@ -65,6 +65,6 @@ technical_location: >-
 title: 'Clip 1: Approximations at 0 for ln(1+x) and (1+x)r'
 transcript: ''
 uid: f94e298e6404225b1dcbb3e56d7c5192
-type: courses
+type: course
 layout: video
 ---

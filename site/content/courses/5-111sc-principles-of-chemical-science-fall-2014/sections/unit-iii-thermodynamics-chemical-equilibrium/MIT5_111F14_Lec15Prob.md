@@ -3,7 +3,7 @@ title: >-
   Principles of Chemical Science, Problems for Lecture 15: Thermodynamics: Bond
   and Reaction Enthalpies
 description: This resource contains information regarding lecture 15 problem.
-type: courses
+type: course
 layout: pdf
 uid: 8743a918cbfbd9d79b0fedf0673216cf
 file_type: application/pdf

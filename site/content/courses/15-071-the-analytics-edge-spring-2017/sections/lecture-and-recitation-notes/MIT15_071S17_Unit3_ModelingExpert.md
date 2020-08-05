@@ -1,7 +1,7 @@
 ---
 title: Week 3 Modeling Expert Video 1
 description: null
-type: courses
+type: course
 layout: pdf
 uid: 68b9d1390f0a37e67efa5d40a5cfae84
 file_type: application/pdf

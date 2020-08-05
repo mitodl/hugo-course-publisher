@@ -1,7 +1,7 @@
 ---
 title: 'Quantum Physics I, Test 2'
 description: 'This resource contains information regarding quantum physics: Test 2.'
-type: courses
+type: course
 layout: pdf
 uid: 7aa68fd69386743f73ea86101559753d
 file_type: application/pdf

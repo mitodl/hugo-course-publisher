@@ -1,7 +1,7 @@
 ---
 title: s05_ps08_spring04.pdf
 description: Problem set.
-type: courses
+type: course
 layout: pdf
 uid: f56b8809098aa30691d4079fa953819a
 file_type: application/pdf

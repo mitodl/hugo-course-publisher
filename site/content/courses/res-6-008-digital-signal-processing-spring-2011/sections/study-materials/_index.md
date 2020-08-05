@@ -1,11 +1,11 @@
 ---
 title: Study Materials
 course_id: res-6-008-digital-signal-processing-spring-2011
+type: course
+layout: course_section
 menu:
   res-6-008-digital-signal-processing-spring-2011:
     identifier: d0980677541533446fb0bae3bb5be0e3
-    type: section
-    layout: section
     name: Study Materials
     weight: 30
 ---

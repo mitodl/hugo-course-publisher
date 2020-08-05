@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_notes_21.pdf
 description: This resource contains information related to Lagrange multipliers.
-type: courses
+type: course
 layout: pdf
 uid: d97c53ed0a6734b4bc266478fe6423c1
 file_type: application/pdf

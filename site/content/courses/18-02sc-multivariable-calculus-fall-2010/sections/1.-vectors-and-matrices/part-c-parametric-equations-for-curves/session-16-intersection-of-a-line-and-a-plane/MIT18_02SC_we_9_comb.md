@@ -3,7 +3,7 @@ title: MIT18_02SC_we_9_comb.pdf
 description: >-
   This resource contains information related to intersection of a line and a
   plane. 
-type: courses
+type: course
 layout: pdf
 uid: 29d176356f6f118762bf32dbf0758b55
 file_type: application/pdf

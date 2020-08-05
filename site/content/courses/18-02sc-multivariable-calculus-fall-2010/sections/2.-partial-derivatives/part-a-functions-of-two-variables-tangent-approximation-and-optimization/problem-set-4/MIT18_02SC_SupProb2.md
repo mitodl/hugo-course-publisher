@@ -1,7 +1,7 @@
 ---
 title: MIT18_02SC_SupProb2.pdf
 description: This resource contains problem statements related to partial differentiation.
-type: courses
+type: course
 layout: pdf
 uid: de301eb21501d2eef5a9ebcae0b5a333
 file_type: application/pdf

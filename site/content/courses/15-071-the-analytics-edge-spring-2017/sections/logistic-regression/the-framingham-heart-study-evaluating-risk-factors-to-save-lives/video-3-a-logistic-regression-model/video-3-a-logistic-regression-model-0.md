@@ -603,6 +603,6 @@ transcript: >-
   m='620477'>to</span> <span m='621235'>prevent</span> <span
   m='621992'>CHD.</span> </p>
 uid: 51e8cebadabc6b3afbd25374c0538f4b
-type: courses
+type: course
 layout: video
 ---

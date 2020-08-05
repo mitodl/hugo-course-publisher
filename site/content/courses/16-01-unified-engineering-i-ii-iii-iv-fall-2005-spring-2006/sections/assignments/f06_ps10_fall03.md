@@ -3,7 +3,7 @@ title: f06_ps10_fall03.pdf
 description: >-
   This resource contains 1 problem related to streamline shapes of the 2-D
   velocity field.
-type: courses
+type: course
 layout: pdf
 uid: d78bc5ab7b899bff1af53d1422102d35
 file_type: application/pdf

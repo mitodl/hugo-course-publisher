@@ -1,7 +1,7 @@
 ---
 title: 'Embr labs: one person''s experience creating a wearable'
 description: 'This file contains information regarding keynote lecture: creating a wearable.'
-type: courses
+type: course
 layout: pdf
 uid: b2d91a63af81d60bb6fe4d9e493578c8
 file_type: application/pdf

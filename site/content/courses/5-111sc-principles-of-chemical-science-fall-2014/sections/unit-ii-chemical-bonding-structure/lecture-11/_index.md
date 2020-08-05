@@ -1,16 +1,14 @@
 ---
 title: 'Lecture 11: Lewis Structures: Breakdown of the Octet Rule'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
+type: course
+layout: videogallery
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: bbd6f3cbd22ba979f3c53baa993e82b8
-    type: section
-    layout: section
     name: Lecture 11
     weight: 150
     parent: 89ed642b22037e567593c80ff35cb3f4
-type: courses
-layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-10/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-12/_index.md" %}}) »
 

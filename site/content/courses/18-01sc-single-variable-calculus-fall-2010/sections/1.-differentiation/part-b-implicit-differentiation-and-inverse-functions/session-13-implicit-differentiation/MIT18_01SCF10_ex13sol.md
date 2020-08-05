@@ -3,7 +3,7 @@ title: MIT18_01SCF10_ex13sol.pdf
 description: >-
   This resource contains solutions for the problem statements related to
   implicit differentiation.
-type: courses
+type: course
 layout: pdf
 uid: 713bd74e2658227fad9374a885208c23
 file_type: application/pdf
