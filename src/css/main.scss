@@ -40,6 +40,13 @@ a {
   }
 }
 
+.img-link,
+.img-link:visited,
+.img-link:hover,
+.img-link:active{
+  text-decoration: none;
+}
+
 .link-unstyled {
   text-decoration: none;
 }
@@ -127,6 +134,10 @@ table {
   @extend .table;
 }
 
+.bg-black {
+  background-color: $black;
+}
+
 .bg-light {
   background-color: $light-grey !important;
 }
@@ -157,6 +168,11 @@ table {
 
 .text-dark-gray {
   color: $dark-grey;
+}
+
+.icon-text-box-wrapper {
+  border: 0.5px solid $text-box-border;
+  background-color: $text-box-background;
 }
 
 .container-fluid {
