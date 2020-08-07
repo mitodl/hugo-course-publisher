@@ -45,12 +45,12 @@ site is the course home page for the course passed in:
 
 ```js
 // dev server:
-npm run start:single_course -- site/content/courses/18-06-linear-algebra-spring-2010
+npm run start:single_course -- 18-06-linear-algebra-spring-2010
 
 // build and output to dist:
 npm run build:pdfjs
 npm run build:webpack
-npm run build:hugo:single_course -- site/content/courses/18-06-linear-algebra-spring-2010
+npm run build:hugo:single_course -- 18-06-linear-algebra-spring-2010
 ```
 
 ### build course zips

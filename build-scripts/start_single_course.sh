@@ -1,16 +1,9 @@
 #!/bin/bash
 
-if [ `expr index "$1" '/'` != 1 ]
-then
-  CONTENT_DIR="../$1"
-else
-  CONTENT_DIR="$1"
-fi
-
-if [ "$CONTENT_DIR" != "" ]; then
+if [ "$1" != "" ]; then
   trap 'kill 0' EXIT
   echo $PWD
-  hugo server -s site -p 3000 --bind 0.0.0.0 --theme single_course --contentDir $CONTENT_DIR &
+  hugo server -s site -p 3000 --bind 0.0.0.0 --theme single_course --contentDir "../site/content/courses/$1" &
   npm run start:multi:webpack &
   wait
 else
