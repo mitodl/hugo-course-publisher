@@ -49,6 +49,7 @@ yarn-error.log*
 .yarn-integrity
 site/data/webpack.json
 site/static/pdfjs
+site/static/zips
 
 # Unit test / coverage reports
 htmlcov/

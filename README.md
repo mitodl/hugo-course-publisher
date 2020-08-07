@@ -37,6 +37,35 @@ npm start
 You should be able to navigate to <http://localhost:3000>. You may need the
 `--ignore-engines` flag for `yarn`. 
 
+### single course mode
+
+You can also run site locally for just one course.. Instead of the root of the site 
+being the home page and the course listing being at `/courses`, the root of the 
+site is the course home page for the course passed in:
+
+```js
+// dev server:
+npm run start:single_course -- 18-06-linear-algebra-spring-2010
+
+// build and output to dist:
+npm run build:pdfjs
+npm run build:webpack
+npm run build:hugo:single_course -- 18-06-linear-algebra-spring-2010
+```
+
+### build course zips
+
+Each course renders a "Download Course Materials" button in the course info section.
+These archives can be generated using the following command:
+
+```sh
+npm run build:zips
+```
+
+This command will run the webpack and pdfjs build once, then iterate the courses found in 
+`/site/content/courses` and run the Hugo build for each of them. Archives are created for 
+each course, and when the whole process is done they are placed in `site/static/zips`.
+
 ## deployment
 
 For now this project is set to automatically deploy to netlify, so every commit
