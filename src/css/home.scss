@@ -13,6 +13,14 @@
 .give-now {
   max-width: 950px;
   margin: 0 auto;
+
+  @include media-breakpoint-down(md) {
+    flex-direction: column;
+  }
+  
+  @include media-breakpoint-up(lg) {
+    flex-direction: row;
+  }
 }
 
 .social-card {
