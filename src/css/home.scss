@@ -1,6 +1,38 @@
-.home-search {
-  padding: 0;
-  width: 445px;
+$spacer1: map-get($spacers, 1);
+$spacer2: map-get($spacers, 2);
+$spacer3: map-get($spacers, 3);
+$spacer4: map-get($spacers, 4);
+$spacer5: map-get($spacers, 5);
+$spacer6: map-get($spacers, 6);
+$spacer7: map-get($spacers, 7);
+$spacer8: map-get($spacers, 8);
+
+.search-header {
+  .main-header {
+    @include media-breakpoint-down(md) {
+      padding: $spacer4 0;
+    }
+    @include media-breakpoint-up(lg) {
+      padding: $spacer7 0;
+    }
+  }
+
+  @include media-breakpoint-down(md) {
+    padding: 0 $spacer3;
+  }
+
+  .search-box {
+    @include media-breakpoint-down(md) {
+      width: 100%;
+    }
+    @include media-breakpoint-up(lg) {
+      width: 445px;
+    }
+
+    div {
+      padding: 0;
+    }
+  }
 }
 
 .beta-dialog {
@@ -10,24 +42,97 @@
   }
 }
 
+.give-now {
+  max-width: 950px;
+  margin: 0 auto;
+
+  @include media-breakpoint-down(md) {
+    padding: $spacer3 $spacer3 $spacer5;
+
+    :not(:first-child) {
+      padding-top: $spacer2;
+    }
+  }
+  @include media-breakpoint-up(lg) {
+    padding: $spacer5 $spacer8;
+
+    div:not(:first-child) {
+      padding-left: $spacer6;
+    }
+  }
+}
+
+.give-button {
+  @include media-breakpoint-down(md) {
+    width: 100%;
+  }
+  
+  @include media-breakpoint-up(lg) {
+    width: auto;
+  }
+
+  div {
+    padding: $spacer3 $spacer5;
+  }
+}
+
+.social-cards {
+  @include media-breakpoint-down(md) {
+    padding: $spacer3 $spacer3;
+
+    .social-card:not(:first-child) {
+      margin-top: $spacer3;
+    }
+  }
+  @include media-breakpoint-up(lg) {
+    padding: $spacer5 $spacer5;
+
+    .social-card:not(:first-child) {
+      margin-left: $spacer3;
+    }
+  }
+}
+
 .social-card {
-  background-color: $white;
-  border: 1px solid $border-darker-grey;
-  border-radius: 5px;
-  height: 120px;
-  width: 500px;
+  h5 {
+    padding-bottom: $spacer1;
+  }
+
+  > div:first-child {
+    background-color: $white;
+    border: 1px solid $border-darker-grey;
+    border-radius: 5px;
+    
+    @include media-breakpoint-down(md) {
+      padding: $spacer4 $spacer3;
+      width: auto;
+    }
+    @include media-breakpoint-up(lg) {
+      padding: $spacer4 $spacer6;
+      width: 500px;
+      height: 120px;
+    }
+  }
+
+  .newsletter-form {
+    @include media-breakpoint-down(md) {
+      flex-direction: column;
+
+      a {
+        padding-top: $spacer3;
+      }
+    }
+    @include media-breakpoint-up(lg) {
+      flex-direction: row;
+  
+      a {
+        padding-left: $spacer4;
+      }
+    }
+  }
 }
 
 .social-icon {
   width: 40px;
   height: 40px;
-}
-
-.give-now {
-  @include media-breakpoint-down(md) {
-    flex-direction: column;
-  }
-  @include media-breakpoint-up(lg) {
-    flex-direction: row;
-  }
 }
