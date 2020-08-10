@@ -17,7 +17,7 @@
   @include media-breakpoint-down(md) {
     flex-direction: column;
   }
-  
+
   @include media-breakpoint-up(lg) {
     flex-direction: row;
   }
