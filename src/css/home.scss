@@ -66,7 +66,7 @@ $spacer8: map-get($spacers, 8);
   @include media-breakpoint-down(md) {
     width: 100%;
   }
-  
+
   @include media-breakpoint-up(lg) {
     width: auto;
   }
@@ -102,7 +102,7 @@ $spacer8: map-get($spacers, 8);
     background-color: $white;
     border: 1px solid $border-darker-grey;
     border-radius: 5px;
-    
+
     @include media-breakpoint-down(md) {
       padding: $spacer4 $spacer3;
       width: auto;
@@ -124,7 +124,7 @@ $spacer8: map-get($spacers, 8);
     }
     @include media-breakpoint-up(lg) {
       flex-direction: row;
-  
+
       a {
         padding-left: $spacer4;
       }
