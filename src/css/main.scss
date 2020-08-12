@@ -99,6 +99,19 @@ a {
   }
 }
 
+.column-below-medium {
+  @include media-breakpoint-down(md) {
+    flex-direction: column;
+  }
+  @include media-breakpoint-up(lg) {
+    flex-direction: row;
+  }
+}
+
+.m-0-auto {
+  margin: 0 auto;
+}
+
 .course-image {
   @include media-breakpoint-down(md) {
     height: 100px;

@@ -1,11 +1,14 @@
 {{ define "main" }}
 <div class="outer-wrapper position-relative">
   {{ block "header" . }}{{ partial "header" . }}{{ end }}
-  <div class="d-flex flex-column align-items-center bg-light">
-    <h1 class="font-weight-normal py-7">Explore Open Course Ware</h1>
-    <div class="icon-text-box-wrapper home-search d-flex flex-row align-items-center form-group shadow-sm mb-5">
-      <i class="material-icons text-dark-gray input-group-prepend px-2">search</i>
-      <input type="text" class="form-control w-100 py-4 coming-soon" placeholder="Enter Course Name, Department, Course Number...">
+  <div class="search-header d-flex flex-column bg-light w-auto">
+    <h1 class="main-header font-weight-normal m-0-auto">Explore OpenCourseWare</h1>
+    <div class="search-box m-0-auto">
+      <label for="home-search">SEARCH</label>
+      <div class="icon-text-box-wrapper d-flex flex-row align-items-center form-group shadow-sm mb-5">
+        <i class="material-icons text-dark-gray input-group-prepend px-2">search</i>
+        <input id="home-search" type="text" class="form-control w-100 py-4 coming-soon" placeholder="Enter Course Name, Department, Course Number...">
+      </div>
     </div>
   </div>
   <div class="beta-dialog bg-dark-grey px-8 py-4 d-none">
@@ -30,50 +33,56 @@
       </a>
     </div>
   </div>
-  <div class="give-now d-flex flex-row justify-content-center px-8 py-5">
-    <div class="d-flex flex-column justify-content-center bg-white pr-3">
+  <div class="give-now d-flex column-below-medium justify-content-center">
+    <div class="d-flex flex-column justify-content-center bg-white">
       <h2>GIVE NOW</h2>
       <h2>Your Donation Makes a Difference</h2>
       <h4 class="font-weight-normal">MIT OpenCourseWare is supported through the generosity of people like you, who believe that unlocking knowledge can empower minds.</h4>
     </div>
-    <div class="d-flex align-items-center pl-3">
-      <a class="small-link coming-soon">
-        <div class="give-button d-flex align-items-center btn rounded-0 bg-black text-white px-3 py-2">
+    <div class="d-flex align-items-center pl-3-md pl-3-lg">
+      <a class="give-button small-link coming-soon">
+        <div class="d-flex align-items-center justify-content-center btn rounded-0 bg-black text-white">
           <img class="pr-2" src="/images/heart.svg" alt="heart" />
-          <h1 class="font-weight-normal m-0 pl-2">GIVE</h1>
+          <h1 class="m-0 pl-2">GIVE</h1>
         </div>
       </a>
     </div>
   </div>
   <div class="position-absolute bg-light h-100 w-100">
-    <div class="d-flex justify-content-center py-5">
-      <div class="social-card d-flex flex-column justify-content-center align-items-center mr-3">
-        <h5>STAY CONNECTED WITH OCW</h5>
-        <div class="d-flex">
-          <a class="img-link" href="https://www.facebook.com/MITOCW" target="_blank">
-            <img class="social-icon mr-2" src="/images/social-facebook.svg" alt="facebook" />
-          </a>
-          <a class="img-link" href="https://www.instagram.com/mitocw" target="_blank">
-            <img class="social-icon ml-2 mr-2" src="/images/social-instagram.svg" alt="instagram" />
-          </a>
-          <a class="img-link" href="https://twitter.com/MITOCW" target="_blank">
-            <img class="social-icon ml-2 mr-2" src="/images/social-twitter.svg" alt="twitter" />
-          </a>
-          <a class="img-link" href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw" target="_blank">
-            <img class="social-icon ml-2" src="/images/social-youtube.svg" alt="youtube" />
-          </a>
+    <div class="social-cards d-flex column-below-medium justify-content-center">
+      <div class="social-card">
+        <div class="d-flex flex-column justify-content-center align-items-center">
+          <h5>STAY CONNECTED WITH OCW</h5>
+          <div class="d-flex">
+            <a class="img-link" href="https://www.facebook.com/MITOCW" target="_blank">
+              <img class="social-icon mr-2" src="/images/social-facebook.svg" alt="facebook" />
+            </a>
+            <a class="img-link" href="https://www.instagram.com/mitocw" target="_blank">
+              <img class="social-icon ml-2 mr-2" src="/images/social-instagram.svg" alt="instagram" />
+            </a>
+            <a class="img-link" href="https://twitter.com/MITOCW" target="_blank">
+              <img class="social-icon ml-2 mr-2" src="/images/social-twitter.svg" alt="twitter" />
+            </a>
+            <a class="img-link" href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw" target="_blank">
+              <img class="social-icon ml-2" src="/images/social-youtube.svg" alt="youtube" />
+            </a>
+          </div>
         </div>
       </div>
-      <div class="social-card d-flex flex-column ml-3 px-6 py-4">
-        <h5>SUBSCRIBE TO THE OCW NEWSLETTER</h5>
-        <div class="d-flex flex-row">
-          <div class="icon-text-box-wrapper d-flex flex-row flex-grow-1 form-group bg-white shadow-sm border-dark-grey p-0 m-0">
-            <img class="input-group-prepend px-2" src="/images/envelope.svg" />
-            <input type="text" class="form-control py-3" placeholder="Your email address...">
+      <div class="social-card">
+        <div class="d-flex flex-column justify-content-center">
+          <h5>SUBSCRIBE TO THE OCW NEWSLETTER</h5>
+          <div class="newsletter-form d-flex">
+            <div class="icon-text-box-wrapper d-flex flex-row flex-grow-1 form-group bg-white shadow-sm border-dark-grey p-0 m-0">
+              <img class="input-group-prepend px-2" src="/images/envelope.svg" />
+              <input type="text" class="form-control py-3" placeholder="Your email address...">
+            </div>
+            <a class="flex-1 small-link coming-soon">
+              <div class="d-flex align-items-center btn rounded-0 bg-black font-weight-bold text-white w-100 px-3 h-100">
+                <span class="m-0-auto">SIGN ME UP</span>
+              </div>
+            </a>
           </div>
-          <a class="flex-1 small-link coming-soon pl-4">
-            <div class="d-flex align-items-center btn rounded-0 bg-black text-white w-100 px-3 h-100">SIGN ME UP</div>
-          </a>
         </div>
       </div>
     </div>

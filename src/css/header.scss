@@ -70,15 +70,14 @@
 }
 
 #mobile-header {
-  border-bottom: 1px solid $border-dark-color;
+  box-shadow: 0 2px 9px 0 rgba(202, 202, 202, 0.76);
 
   #ocw-logo-mobile {
-    width: 36px;
-    height: 36px;
+    width: 250px;
+    height: 39px;
     top: 50%;
     left: 50%;
-    margin-left: -18px;
+    margin-left: -115px;
     margin-top: -18px;
-    filter: grayscale(1);
   }
 }
