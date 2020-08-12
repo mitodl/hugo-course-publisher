@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ partial "chp_partial.html" (dict "partial" "course_content.html" "context" .) }}
+{{ partial "course_content.html" . }}
 <div class="video-page">
   <div class="description">
     {{ .Params.about_this_resource_text | safeHTML }}
