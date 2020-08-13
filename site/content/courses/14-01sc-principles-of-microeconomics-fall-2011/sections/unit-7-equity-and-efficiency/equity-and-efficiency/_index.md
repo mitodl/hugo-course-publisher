@@ -26,7 +26,7 @@ Session Activities
 
 Before watching the Lecture Video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 19, "Inequality, Poverty, and Discrimination." Sections 19.1-2.
+*   [\[R&T\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 19, "Inequality, Poverty, and Discrimination." Sections 19.1-2.
 *   \[[Perloff]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_Perloff_)\] Chapter 10, "General Equilibrium and Economic Welfare." (optional)
 
 ### Lecture Videos
