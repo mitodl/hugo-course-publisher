@@ -13,13 +13,16 @@ natively.
 ### search
 
 To use the search feature you need set an environment variable to tell the app
-where to find the search API. Write a `.env` file like this:
+where to find the search API. You can write a `.env` file like this:
 
 ```
 SEARCH_API_URL=http://localhost:8063/api/v0/search/
 ```
 
-adjust it if your local open-discussions instance lives at a different URL.
+adjust this if your local open-discussions instance lives at a different URL.
+
+You can also use any other means you like to ensure that the variable is set in
+the environment where webpack will run.
 
 ### docker
 

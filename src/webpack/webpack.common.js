@@ -94,7 +94,9 @@ module.exports = {
   },
 
   plugins: [
-    new Dotenv(),
+    new Dotenv({
+      systemvars: true
+    }),
 
     new AssetsPlugin({
       filename:    "webpack.json",
