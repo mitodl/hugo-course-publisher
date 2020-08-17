@@ -3,12 +3,6 @@ title: Thermodynamics/Propulsion Concept Questions
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 type: course
 layout: course_section
-menu:
-  16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
-    identifier: 218fb13a8d8e09a5ecfb2f437ed59ed4
-    name: Thermodynamics/Propulsion Concept Questions
-    weight: 80
-    parent: 05b2ba6343e43028bad4cdf50e0b363a
 ---
 The following tables contain thermodynamics and propulsion concept questions from current and previous semesters.
 

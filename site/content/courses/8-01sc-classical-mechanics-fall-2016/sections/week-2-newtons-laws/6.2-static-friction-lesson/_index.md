@@ -3,12 +3,6 @@ title: 6.2 Static Friction Lesson
 course_id: 8-01sc-classical-mechanics-fall-2016
 type: course
 layout: videogallery
-menu:
-  8-01sc-classical-mechanics-fall-2016:
-    identifier: 28214d6fd57a80ba19e339215e447f53
-    name: 6.2 Static Friction Lesson
-    weight: 480
-    parent: cf6d9ae85d7b6e788f1e70cf24afc329
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/6.1-contact-forces" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/7.1-pushing-pulling-and-tension" %}}) »
 

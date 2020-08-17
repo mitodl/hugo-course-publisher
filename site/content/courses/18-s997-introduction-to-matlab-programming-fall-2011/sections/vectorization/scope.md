@@ -12,32 +12,36 @@ menu:
 ---
 Functions define a small world of variables that are isolated from the rest of the "workspace". This is mostly a good thing, though you may find it limiting at times. It is important to realize that a function can call itself, and even then the variables inside the called function cannot interact directly with those of the calling workspace. Here is an example to show this:
 
-`function` `triangle(n)
+```
+function triangle(n)
      n
      if n > 1
           triangle(n-1)
      end
-     n`
+     n
+```
 
 This is a function with no output, that calls itself. Calling it from the command-line gives:
 
-    >> triangle(4)
-    n =
-         4
-    n =
-         3
-    n =
-         2
-    n =
-         1
-    n =
-         1
-    n =
-         2
-    n =
-         3
-    n =
-         4
+```
+>> triangle(4)
+n =
+     4
+n =
+     3
+n =
+     2
+n =
+     1
+n =
+     1
+n =
+     2
+n =
+     3
+n =
+     4
+```
 
 **Exercise 14:** _Write a function that recursively (a function that calls itself is called recursive) calculates the Fibonacci numbers:_
 
@@ -51,7 +55,8 @@ For guided practice and further exploration of scripted functions, watch [Video 
 
 Here's an example of a function that calculates and plots the solution to the Van-der-Pol oscillator (must be saved into a file called VDPDemo.m):
 
-`function` `VDPDemo(mu)
+```
+function VDPDemo(mu)
 % solve an ODE using Runge-Kutta 4/5:
 [t,X]=ode45(@dXdt,[0,100],[0;1]);
 
@@ -74,11 +79,14 @@ end % of VDPDemo
 
 % Were the function dXdt defined here, (after the end keyword that closes
 % the VDPDemo function) the variable mu would be undefined and the code
-% would not run.`
+% would not run.
+```
 
 We can run this function by calling it with the value for `mu` from the command prompt:
 
-    >> VDPDemo(2)
+```
+>> VDPDemo(2)
+```
 
 which results in the figure:
 

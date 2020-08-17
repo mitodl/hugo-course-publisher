@@ -12,9 +12,11 @@ menu:
 ---
 At its heart, MATLAB® is a big calculator. To calculate something simply type it in at the "command prompt" and press Enter. Thus, to calculate 1 + 1 we type it in and press Enter. The screen should show:
 
-`>> 1+1
+```
+>> 1+1
 ans =
-    2` 
+    2 
+```
 
 meaning that the answer is 2.
 
@@ -32,20 +34,25 @@ meaning that the answer is 2.
 
 You may have noticed in the exercises that the answer is only given with 5 digits of accuracy (at most). For example, we can ask MATLAB for the value of \\(\\pi\\) and get:
 
-`>> pi
+```
+>> pi
 ans =
-    3.1416`
+    3.1416
+```
 
 _Internally_, MATLAB keeps a 16 (more-or-less) digit version of the number it shows us, but to keep things orderly, it only displays the answer rounded to show 5 digits (by default). We can change this by issuing a command:
 
-`>> format long
+```
+>> format long
 >> pi 
 ans =
-    3.141592653589793`
+    3.141592653589793
+```
 
 We can see this, by subtracting part of \\(\\pi\\) from `ans`, which always holds the full, unrounded answer to the previous, unassigned expression:
 
-`>> format short
+```
+>> format short
 >> pi 
 ans =
     3.1416
@@ -54,7 +61,8 @@ ans =
     9.2654e-05
 >> ans - 9.2653e-5
 ans =
-    5.8979e-10`
+    5.8979e-10
+```
 
 **Exercise 2.** _Remember the cosine rule?_ \\(c^2=a^2+b^2-2a b\\, \\cos(\\theta)\\). _Find the length of the hypotenuse of a triangle with angle 30ο, and sides with lengths 10 and 20. The_ MATLAB _trigono­metric functions_ (cos, sin, tan) _use radians, so you will need to convert using \\(\\pi\\)._
 

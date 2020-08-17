@@ -3,12 +3,6 @@ title: 'PDP3: Write a Script and Storyboard'
 course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 type: course
 layout: course_section
-menu:
-  20-020-introduction-to-biological-engineering-design-spring-2009:
-    identifier: c2228cb6b32179d4e0d89b54555761a7
-    name: 'PDP3: Write a Script and Storyboard'
-    weight: 180
-    parent: f46140cde86ad79a318fba9b9f2dbf04
 ---
 [PDP1]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/assignments/20-020_assn" %}}) | [PDP2]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/assignments/pdp2" %}}) | PDP3 | [PDP4]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/assignments/pdp4" %}}) | [PDP5]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/assignments/pdp5" %}}) | [PDP6]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/assignments/pdp6" %}}) | [PDP7]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/assignments/pdp7" %}}) | [PDP8]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/assignments/pdp8" %}})
 

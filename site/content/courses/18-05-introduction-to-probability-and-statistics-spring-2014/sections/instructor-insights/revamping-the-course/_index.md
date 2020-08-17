@@ -3,12 +3,6 @@ title: Revamping the Course
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 type: course
 layout: course_section
-menu:
-  18-05-introduction-to-probability-and-statistics-spring-2014:
-    identifier: 6360453cee3bccd68cb8519ceb0c334c
-    name: Revamping the Course
-    weight: 180
-    parent: 1b6858820e39dbc6ba03dc47858871bd
 ---
 _In this section, Dr. Jeremy Orloff and Dr. Jonathan Bloom describe how they have changed the course, in terms of both pedagogy and content._
 

@@ -385,7 +385,9 @@ Problem 3.5 - Interaction Terms
 
 So the difference is not too big for this dataset, but it is there. We're going to add a new term to our logistic regression now, that is the **combination of the "sex" and "control" variables** - so if this new variable is 1, that means the person is a woman AND in the control group. We can do that with the following command:
 
-     LogModel2 = glm(voting ~ sex + control + sex:control, data=gerber, family="binomial") 
+```
+ LogModel2 = glm(voting ~ sex + control + sex:control, data=gerber, family="binomial") 
+```
 
 How do you interpret the coefficient for the new variable **in isolation**? That is, how does it relate to the dependent variable?
 

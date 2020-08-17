@@ -3,12 +3,6 @@ title: Reading Questions for R
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 type: course
 layout: course_section
-menu:
-  18-05-introduction-to-probability-and-statistics-spring-2014:
-    identifier: 4863b65ee95dc78b17577f240ff75f43
-    name: Reading Questions for R
-    weight: 270
-    parent: 579c055accb4eb7ebb6bf294146b45a5
 ---
 Reading Questions Answer Checker
 --------------------------------

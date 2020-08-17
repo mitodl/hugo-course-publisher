@@ -3,12 +3,6 @@ title: 15.3 Worked Example - Bouncing Ball
 course_id: 8-01sc-classical-mechanics-fall-2016
 type: course
 layout: videogallery
-menu:
-  8-01sc-classical-mechanics-fall-2016:
-    identifier: 8eb0ed0af63c549edcc9c64765a58d66
-    name: 15.3 Worked Example - Bouncing Ball
-    weight: 960
-    parent: c1168b62a27dcf9f3fe2550af1ed72f5
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/15.2-impulse-is-a-vector" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/15.4-momentum-of-a-system-of-point-particles" %}}) »
 

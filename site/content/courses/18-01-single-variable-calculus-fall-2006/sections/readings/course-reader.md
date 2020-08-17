@@ -3,12 +3,6 @@ title: Course Reader
 course_id: 18-01-single-variable-calculus-fall-2006
 type: course
 layout: course_section
-menu:
-  18-01-single-variable-calculus-fall-2006:
-    identifier: 98fdab81f6f5a25624a5128fe1261e9b
-    name: Course Reader
-    weight: 40
-    parent: 10aa412934a53f6649d19398bf5e5220
 ---
 These notes were written by Prof. Arthur Mattuck and are designed to supplement the textbook. The exercises and solutions were written by Prof. David Jerison, except for exercise section 7 by Prof. Mattuck.
 

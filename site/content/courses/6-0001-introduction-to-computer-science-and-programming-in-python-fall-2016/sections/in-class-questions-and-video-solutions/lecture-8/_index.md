@@ -37,7 +37,9 @@ menu:
     
     Using the class definition below, which line creates a new Car object with 4 wheels and 2 doors?
     
-        class Car(object):
+    ```
+    class Car(object):
+    ```
     
     Exercise 2
     
@@ -60,17 +62,27 @@ menu:
     
     Which of the following methods changes the color of the car, based on the definition below?
     
-        class Car(object):
+    ```
+    class Car(object):
+    ```
     
     Exercise 3
     
-    &nbsp; def paint(c): &nbsp;
+    &nbsp; ```
+     def paint(c):
+    ``` &nbsp;
     
-    &nbsp;def paint(self, c): &nbsp;
+    &nbsp;```
+    def paint(self, c):
+    ``` &nbsp;
     
-    &nbsp;def paint(c): &nbsp;
+    &nbsp;```
+    def paint(c):
+    ``` &nbsp;
     
-    &nbsp;def paint(self, c): &nbsp;
+    &nbsp;```
+    def paint(self, c):
+    ``` &nbsp;
     
     CheckShow Answer Videos
     
@@ -83,7 +95,9 @@ menu:
     
     You create a car with `mycar = Car(4, 2)`. Which is a line of code to change the color of mycar to "red"?
     
-        class Car(object):
+    ```
+    class Car(object):
+    ```
     
     Exercise 4
     
@@ -106,7 +120,9 @@ menu:
     
     With the code below, what does the line `print(mycar == yourcar)` print?
     
-        class Car(object):
+    ```
+    class Car(object):
+    ```
     
     Exercise 5
     

@@ -3,12 +3,6 @@ title: Vector Fields
 course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 type: course
 layout: course_section
-menu:
-  8-02-physics-ii-electricity-and-magnetism-spring-2007:
-    identifier: c3d903ae1edf68e921e842ecdf1df073
-    name: Vector Fields
-    weight: 90
-    parent: ea1fcef11143e57e2f48a97bf8747dc2
 ---
 *   [![A Particle Sink.](/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/visualizations/01partSinkThumb.jpg)A Particle Sink.](/ans7870/8/8.02T/f04/visualizations/vectorfields/01-particleSink/01-ParticleSink_320.html)
 *   [![A Particle Source.](/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/visualizations/02partSourceThumb.jpg)A Particle Source.](/ans7870/8/8.02T/f04/visualizations/vectorfields/02-particleSource/02-ParticleSource_320.html)

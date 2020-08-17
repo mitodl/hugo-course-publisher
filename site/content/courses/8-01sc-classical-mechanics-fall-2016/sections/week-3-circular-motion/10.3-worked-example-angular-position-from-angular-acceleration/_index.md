@@ -3,12 +3,6 @@ title: 10.3 Worked Example - Angular Position from Angular Acceleration
 course_id: 8-01sc-classical-mechanics-fall-2016
 type: course
 layout: videogallery
-menu:
-  8-01sc-classical-mechanics-fall-2016:
-    identifier: 8992e0cfaf5f2ab2d813cd1facefbf81
-    name: 10.3 Worked Example - Angular Position from Angular Acceleration
-    weight: 680
-    parent: 3c7d357cbb95e729679b539d23714ede
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.2-angular-acceleration" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.4-review-of-rotational-kinematics" %}}) »
 

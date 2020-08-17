@@ -3,12 +3,6 @@ title: Reading Questions 7b
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 type: course
 layout: course_section
-menu:
-  18-05-introduction-to-probability-and-statistics-spring-2014:
-    identifier: 0232b6c8f5b3ed0a7e98827b3ef93f98
-    name: Reading Questions 7b
-    weight: 350
-    parent: 579c055accb4eb7ebb6bf294146b45a5
 ---
 Reading Questions Answer Checker
 --------------------------------

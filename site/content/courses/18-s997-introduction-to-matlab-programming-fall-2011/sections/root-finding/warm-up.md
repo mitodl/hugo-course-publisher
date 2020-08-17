@@ -18,13 +18,15 @@ Here are some warm-up problems:
 
 Remember variables? There's one variable that is special: The `ans` variable holds the last calculated value that was not placed into a variable. This is nice when a command you give MATLAB® returns a value that you realize is important, but forgot to assign into a variable:
 
-    >> sin(pi/2)
-    ans =
-          1
-    %%oops! I meant to save the "return value" in the variable x
-    >> x=ans
-    x =
-          1
-    >>
+```
+>> sin(pi/2)
+ans =
+      1
+%%oops! I meant to save the "return value" in the variable x
+>> x=ans
+x =
+      1
+>>
+```
 
 Now `x` holds the answer, 1. Of course you could also re-issue the command with an assignment, but commands can take long to run, and there may be other reasons why you do not want to re-issue the command.

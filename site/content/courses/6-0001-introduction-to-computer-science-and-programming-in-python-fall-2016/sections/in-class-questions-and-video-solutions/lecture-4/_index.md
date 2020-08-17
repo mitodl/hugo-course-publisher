@@ -16,7 +16,9 @@ menu:
     
     How many total lines of output will show up if you run the code below?
     
-        def add(x, y):
+    ```
+    def add(x, y):
+    ```
     
       
     
@@ -41,7 +43,9 @@ menu:
     
     What does the code below print?
     
-        def sq(func, x):
+    ```
+    def sq(func, x):
+    ```
     
     Exercise 2
     

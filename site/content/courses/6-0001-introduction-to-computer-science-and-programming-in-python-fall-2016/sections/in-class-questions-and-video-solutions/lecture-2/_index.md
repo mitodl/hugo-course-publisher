@@ -16,7 +16,9 @@ menu:
     
     What is the value of variable \`u\` from the code below?
     
-        once = "umbr"
+    ```
+    once = "umbr"
+    ```
     
     Exercise 1
     
@@ -39,7 +41,9 @@ menu:
     
     What does the code below print?
     
-        pset_time = 15
+    ```
+    pset_time = 15
+    ```
     
     Exercise 2
     
@@ -62,7 +66,9 @@ menu:
     
     What's printed when x = 0 and y = 5?
     
-        x = float(input("Enter a number for x: "))
+    ```
+    x = float(input("Enter a number for x: "))
+    ```
     
     Exercise 3
     
@@ -83,7 +89,9 @@ menu:
     
     In the code below from Lecture 2, what is printed when you type "Right"?
     
-        n = input("You're in the Lost Forest. Go left or right? ")
+    ```
+    n = input("You're in the Lost Forest. Go left or right? ")
+    ```
     
     Exercise 4
     
@@ -102,7 +110,9 @@ menu:
     
     What is printed when the below code is run?
     
-        mysum = 0
+    ```
+    mysum = 0
+    ```
     
     Exercise 5
     

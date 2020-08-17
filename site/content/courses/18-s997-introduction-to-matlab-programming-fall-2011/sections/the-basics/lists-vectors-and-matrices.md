@@ -14,9 +14,11 @@ MATLAB® is particularly convenient at calculating with lists of numbers. In fac
 
 For example, if we have 10 grocery items whose price we would like to add up, we can write
 
-    >> sum([2.35 3.45 10.55 12.32 1.99 5.43 2.66 3.78 10.21])
-    ans =
-         52.7400
+```
+>> sum([2.35 3.45 10.55 12.32 1.99 5.43 2.66 3.78 10.21])
+ans =
+     52.7400
+```
 
 Here we used a function `sum` and its argument was a (row) vector we created "manually". Other vectors have shorthand notation (try them out with various numbers):
 

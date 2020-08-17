@@ -3,12 +3,6 @@ title: 37.2 Worked Example - Wheel Rolling Without Slipping Down Inclined Plane
 course_id: 8-01sc-classical-mechanics-fall-2016
 type: course
 layout: videogallery
-menu:
-  8-01sc-classical-mechanics-fall-2016:
-    identifier: 6dde6688f1fa20f2de5a06f1a9aa9665
-    name: 37.2 Worked Example - Wheel Rolling Without Slipping Down Incline
-    weight: 2350
-    parent: fbf76190d89eeed2930e51f9ac3bf2a6
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.1-kinetic-energy-of-translation-and-rotation" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.3-angular-momentum-of-translation-and-rotation" %}}) »
 

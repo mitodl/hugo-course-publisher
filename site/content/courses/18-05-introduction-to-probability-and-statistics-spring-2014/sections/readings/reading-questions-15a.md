@@ -3,12 +3,6 @@ title: Reading Questions 15a
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 type: course
 layout: course_section
-menu:
-  18-05-introduction-to-probability-and-statistics-spring-2014:
-    identifier: a607d2c86f1efecd43a2b498d5a488da
-    name: Reading Questions 15a
-    weight: 440
-    parent: 579c055accb4eb7ebb6bf294146b45a5
 ---
 Reading Questions Answer Checker
 --------------------------------

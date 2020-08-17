@@ -3,12 +3,6 @@ title: 'Project Presentation Guidelines: Final Presentation'
 course_id: 20-020-introduction-to-biological-engineering-design-spring-2009
 type: course
 layout: course_section
-menu:
-  20-020-introduction-to-biological-engineering-design-spring-2009:
-    identifier: 0adcd2f4a2f1421e7ecb49a644eed8fa
-    name: 'Project Presentation Guidelines: Final Presentation'
-    weight: 290
-    parent: becca3d9df0a28caaa3817ca41c1c55b
 ---
 The day of your final briefing you will present your work to the class and will turn in the following technical documentation for your project.
 

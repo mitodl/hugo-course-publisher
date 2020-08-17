@@ -30,15 +30,19 @@ For example, we look at a function for which there is no formula for the solutio
 
 We can do this manually by starting somewhere (not zero):
 
-    >> x=2
-    x =
-         2
+```
+>> x=2
+x =
+     2
+```
 
 and doing one step of the iteration by _overwriting_ the old value with the new one:
 
-    >> x=x – (tanh(x) - x/3) / (sech(x)^2 – 1/3)
-    x =
-         3.1320
+```
+>> x=x – (tanh(x) - x/3) / (sech(x)^2 – 1/3)
+x =
+     3.1320
+```
 
 To see what happens when we do this many times, we would need to tell MATLAB to do it many times. We could type in the line many times, but that would be very annoying and time-consuming. Instead, MATLAB keeps a "Command History" which you can both see (turn it on in the "Desktop" menu) and access by pressing the ⇑ and ⇓ keys on your keyboard.
 
@@ -48,7 +52,9 @@ While using the command history is faster than typing in the same command many t
 
 Both types of loops tell MATLAB to perform a set of commands over and over again. The idea of a `for` loop is that you are telling MATLAB to perform a set of command _for_ every element of a list that you supply. For example:
 
-    for
+```
+for
+```
 
 will _iterate_ over the values 3 to 10 and perform each of the expressions between the `for` and the `end`. At each iteration, the variable, k in this case (but can be whatever) will be assigned the appropriate value.
 
@@ -58,41 +64,49 @@ get the prompt back. If you started a loop and want to stop in the middle and st
 
 So we can write
 
-`% notice how after a % one can write comments which can be used to
+```
+% notice how after a % one can write comments which can be used to
 % explain the code inline.
 % it will actually not bother Matlab if you copy the comments
-% together with the code`
-`x=2;                                   % This is our first guess
+% together with the code
+x=2;                                   % This is our first guess
 for k=1:10                             % we will iterate 30 times
      x=x–(tanh(x)–x/3)/(sech(x)^2–1/3) % we do not use k. That is OK.
-end`
+end
+```
 
 To see the functions we are working with, we can do a nice little plot:
 
-    x=linspace(0,pi,100); % a list of 100 points equally spaced between 0
-                          % and pi
-    plot(x,tanh(x),x,x/3) 
+```
+x=linspace(0,pi,100); % a list of 100 points equally spaced between 0
+                      % and pi
+plot(x,tanh(x),x,x/3) 
+```
 
 You can read more about the functions we used today using the `help` command. For example:
 
-    >> help tanh
-         TANH Hyperbolic tangent.
-              TANH(X) is the hyperbolic tangent of the elements of X.
-    
-              See also atanh.
-    
-              Overloaded methods:
-                   codistributed/tanh
-              Reference page in Help browser
-                   doc 
+```
+>> help tanh
+     TANH Hyperbolic tangent.
+          TANH(X) is the hyperbolic tangent of the elements of X.
+
+          See also atanh.
+
+          Overloaded methods:
+               codistributed/tanh
+          Reference page in Help browser
+               doc 
+```
 
 Notice that in MATLAB help the commands and variables are always written in CAPITAL LETTERS, this is to make them stand out. In practice, the built-in MATLAB commands are all in lower-case. Your own variables (and functions) may use either, and MATLAB _is_ case-sensitive:
 
-    >> a=1
-    a =
-         1
-    >> A
-    ??? Undefined function or variable 'A'.
+```
+>> a=1
+a =
+     1
+>> A
+??? Undefined function or variable 'A'.
+```
 
 **Exercise 5.** _Using root-finding calculate_ \\(\\sqrt{R}\\). _Of course,_ MATLAB _has the function_ `sqrt` _and also the power function as we saw in the previous lecture. But pretend that it did not. What is_ \\(\\sqrt{R}\\)? _Find a simple function_ \\(f\\) _(that doesn't use the square-root function) so that_ \\(f(\\sqrt{2})=0\\). _(There are several options, so if you don't manage with one option, try another!) Find_ \\(\\sqrt{2}\\) _like a Babylonian†. How many iterations do you need to get an answer that is 1e–15 from the answer given by_ MATLAB‡_? Note: this problem will require you to use a pencil and paper. You will need to differentiate, divide and simplify a fraction_ before _you type your code in_ MATLAB.
 

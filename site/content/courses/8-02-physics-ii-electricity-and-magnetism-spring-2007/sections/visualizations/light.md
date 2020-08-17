@@ -3,12 +3,6 @@ title: Light
 course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 type: course
 layout: course_section
-menu:
-  8-02-physics-ii-electricity-and-magnetism-spring-2007:
-    identifier: aaa6d5555d86e28cf858f7d105f59044
-    name: Light
-    weight: 120
-    parent: ea1fcef11143e57e2f48a97bf8747dc2
 ---
 *   [![Electric Dipole Radiation.](/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/visualizations/01DipoleThumb.jpg)Electric Dipole Radiation.](/ans7870/8/8.02T/f04/visualizations/light/01-DipoleRadiation/01-Dipole_320.html)
 *   [![Electric Dipole Radiation Reversing.](/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/visualizations/02smPtDipThumb.jpg)Electric Dipole Radiation Reversing.](/ans7870/8/8.02T/f04/visualizations/light/02-dipoleRadiationReversing/02-SmPointDipole_320.html)
