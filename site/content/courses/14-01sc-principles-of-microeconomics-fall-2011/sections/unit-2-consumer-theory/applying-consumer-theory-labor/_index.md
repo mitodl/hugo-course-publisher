@@ -26,8 +26,8 @@ Session Activities
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 7, "The Analysis of Consumer Choice." Sections 7.2.
-*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 12, "Wages and Employment in Perfect Competition."
+*   [\[R&T\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 7, "The Analysis of Consumer Choice." Sections 7.2.
+*   [\[R&T\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 12, "Wages and Employment in Perfect Competition."
 *   \[[Perloff]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_Perloff_)\] Chapter 5, "Applying Consumer Theory." (optional)
 
 ### Lecture Videos

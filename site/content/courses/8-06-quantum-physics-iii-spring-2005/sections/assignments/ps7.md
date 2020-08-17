@@ -1,8 +1,10 @@
 ---
-title: ps7.pdf
+title: Assignment 7
 description: >-
-  This resource provides information about the reading assignment, useful facts
-  and 4 problems for assignment 7.
+  Problem set on quantum physics. Problems include variational bound on the
+  ground state in an exponential potential, several proofs constructed via the
+  variational method, the hydrogen molecular ion, and tunneling and the Stark
+  effect.
 type: course
 layout: pdf
 uid: c6c398c4ed806495624142ebf8293486

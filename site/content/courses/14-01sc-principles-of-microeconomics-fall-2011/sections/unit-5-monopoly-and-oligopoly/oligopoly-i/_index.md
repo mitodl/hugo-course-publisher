@@ -26,7 +26,7 @@ Session Activities
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 11, "The World of Imperfect Competition."
+*   [\[R&T\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 11, "The World of Imperfect Competition."
 *   \[[Perloff]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_Perloff_)\] Chapter 12, "Pricing and Advertising." (optional)
 
 ### Lecture Videos

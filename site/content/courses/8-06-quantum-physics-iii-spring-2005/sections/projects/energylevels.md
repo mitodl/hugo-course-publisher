@@ -1,6 +1,6 @@
 ---
-title: energylevels.pdf
-description: This resource shows the various energy levels in reflectionless potentials.
+title: Energy Levels
+description: Supporting file showing energy levels in reflectionless potentials.
 type: course
 layout: pdf
 uid: b52625fc7e9d7bbcf00628008b2c58f0

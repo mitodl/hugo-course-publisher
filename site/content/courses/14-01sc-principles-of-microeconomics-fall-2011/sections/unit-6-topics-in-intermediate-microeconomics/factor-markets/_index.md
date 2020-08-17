@@ -26,7 +26,7 @@ Session Activities
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 14, "Imperfectly Competitive Markets for Factors of Production."
+*   [\[R&T\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 14, "Imperfectly Competitive Markets for Factors of Production."
 *   \[[Perloff]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_Perloff_)\] Chapter 15, "Factor Markets and Vertical Integration." (optional)
 
 ### Lecture Videos
