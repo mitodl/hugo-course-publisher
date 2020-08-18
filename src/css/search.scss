@@ -32,4 +32,12 @@
   .search-results {
     max-width: 800px;
   }
+
+  .no-results-found {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+  }
 }
