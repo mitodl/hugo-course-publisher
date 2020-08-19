@@ -16,8 +16,8 @@ Week 7: Kinetic Energy and Work
 
 *   [Week 7 Introduction]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/week-7-introduction" %}})
 
-Lesson 20: Kinetic Energy and Work in 1D
-----------------------------------------
+{{< anchor "Lessson_20" >}}Lesson 20: Kinetic Energy and Work in 1D
+-------------------------------------------------------------------
 
 *   [20.1 Kinetic Energy]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/20.1-kinetic-energy" %}})
 *   [20.2 Work by a Constant Force]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/20.2-work-by-a-constant-force" %}})
@@ -26,8 +26,8 @@ Lesson 20: Kinetic Energy and Work in 1D
 *   [20.5 Work-Kinetic Energy Theorem]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/20.5-work-kinetic-energy-theorem" %}})
 *   [20.6 Power]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/20.6-power" %}})
 
-Lesson 21: Kinetic Energy and Work in 2D and 3D
------------------------------------------------
+{{< anchor "Lessson_21" >}}Lesson 21: Kinetic Energy and Work in 2D and 3D
+--------------------------------------------------------------------------
 
 *   [21.1 Scalar Product Properties]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/21.1-scalar-product-properties" %}})
 *   [21.2 Scalar Product in Cartesian Coordinates]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/21.2-scalar-product-in-cartesian-coordinates" %}})
@@ -36,8 +36,8 @@ Lesson 21: Kinetic Energy and Work in 2D and 3D
 *   [21.5 Work-Kinetic Energy Theorem in 2D and 3D]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/21.5-work-kinetic-energy-theorem-in-2d-and-3d" %}})
 *   [21.6 Worked Example - Block Going Down a Ramp]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/21.6-worked-example-block-going-down-a-ramp" %}})
 
-Lesson 22: Conservative and Non-Conservative Forces
----------------------------------------------------
+{{< anchor "Lessson_22" >}}Lesson 22: Conservative and Non-Conservative Forces
+------------------------------------------------------------------------------
 
 *   [22.1 Path Independence - Gravity]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/22.1-path-independence-gravity" %}})
 *   [22.2 Path Dependence - Friction]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/22.2-path-dependence-friction" %}})

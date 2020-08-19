@@ -37,8 +37,8 @@ Windows is tricky to support because it does not obey standards such as POSIX ou
 
 We will test your code against the CPython 2.7 and PyPy interpreters. Reasonable code should behave identically in CPython and PyPy, but we sometimes use PyPy for performance reasons. You should develop under CPython, and only use PyPy if some weird issue arises. This document walks you through installing both flavors.
 
-CPython 2.7
------------
+{{< anchor "cpython" >}}CPython 2.7
+-----------------------------------
 
 ### Ubuntu Linux
 
@@ -65,8 +65,8 @@ If you have OS X 10.6 (Snow Leopard), [this Python 2.7.2 package (DMG)](http://w
         ;"C:\\Python27"
     6.  If you had any open command prompt windows, close and reopen them so that they reflect the PATH change.
 
-PyPy
-----
+{{< anchor "pypy" >}}PyPy
+-------------------------
 
 ### Ubuntu Linux
 
@@ -100,8 +100,8 @@ You should now be able to run pypy just type typing pypy, as /usr/local/bin shou
 2.  Extract the zip file to C:\\pypy-1.6-win32-c
 3.  The main executable is C:\\pypy-1.6-win32-c\\pypy-c.exe
 
-PIP
----
+{{< anchor "pip" >}}PIP
+-----------------------
 
 Make sure you have Python and PyPy installed before installing pip.
 
@@ -173,15 +173,15 @@ Now, install pip for PyPy:
 
 pip should now be installed for PyPy in C:\\pypy-1.6-win32-c\\pypy-1.6\\bin. You can test it by opening a command prompt window and running C:\\pypy-1.6-win32-c\\pypy-1.6\\bin\\pip install pygments, then running C:\\pypy-1.6-win32-c\\pypy-1.6\\pypy-c and checking that import pygments doesn’t fail and that pygments.\_\_version\_\_ looks like a version number.
 
-IDEs / Code Editors
--------------------
+{{< anchor "ide" >}}IDEs / Code Editors
+---------------------------------------
 
 An IDE (Integrated Development Environment) can help you develop Python programs more efficiently.
 
 IDLE comes with Python, and is a good default choice. IDLE is installed by default on Windows and Mac OS X. On Ubuntu, you can install it with the following command: sudo apt-get install idle
 
-PyDev in Aptana Studio
-----------------------
+{{< anchor "pydev" >}}PyDev in Aptana Studio
+--------------------------------------------
 
 ### Ubuntu Linux
 

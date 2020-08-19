@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8eee3e7b097bf5c295ec735e309fdc60_Lecture_31.jpg)  | {{< br >}}{{< br >}}1.  Nuclear Chemistry: Radioactive Decay{{< br >}}2.  Chemical Kinetics{{< br >}}    1.  Second Order Integrated Rate Laws{{< br >}}    2.  Relationship Between k and K{{< br >}}    3.  Elementary Steps and Molecularity{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video31" >}}Lecture Video
+---------------------------------------------
 
 Professor Drennan recites Mala Radhakrishnan’s poem “_Days of Our Half-Lives_” as she provides an introduction to nuclear chemistry. With nuclear chemistry as a great example of a first order process, the lecture also goes on to talk about second order reactions. Chemical equilibrium is also revisited as the class considers the relationship between equilibrium constants and rate constants.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 31 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31/MIT5_111F14_Lec31Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

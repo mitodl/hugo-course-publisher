@@ -31,8 +31,8 @@ Contents
 *   [Science Out Loud  
     ](#Science_Out_Loud)
 
-Day 1 Pitch
------------
+{{< anchor "Day_1_Pitch" >}}Day 1 Pitch
+---------------------------------------
 
 {{< youtube LrJq-UIHKE8 >}}
 
@@ -40,8 +40,8 @@ This video is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/ae
 
 [\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
 
-Day 2 Script: Draft of "What are My Braces Doing to Me?"
---------------------------------------------------------
+{{< anchor "Day_2_Script" >}}Day 2 Script: Draft of "What are My Braces Doing to Me?"
+-------------------------------------------------------------------------------------
 
 Cue music that is catchy and upbeat.
 
@@ -113,9 +113,9 @@ Andrea: (need closing statements…)
 
 [\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 3 - Andrea's Trailer Take 2  
+{{< anchor "Day_3_Trailer" >}}Day 3 - Andrea's Trailer Take 2  
 
-----------------------------------
+----------------------------------------------------------------
 
 {{< youtube gfMHRcpwQAY >}}
 
@@ -159,8 +159,8 @@ Voiceover: Your jaw isn't the only place where these osteoclasts and osteoblasts
 
 Engineers from MIT are taking advantage of the properties of osteoblasts to come up with a new compound that is composed of layers of materials that help promote rapid bone growth and will allow the body's own cells to produce bone that fixes the implant in place. (need to rework this) ([Engineered Coating for Implants Reduces the Risk of Complications](http://scitechdaily.com/engineered-coating-for-implants-reduces-the-risk-of-complications/).)
 
-Day 4 Storyboard
-----------------
+{{< anchor "Day_4_Storyboard" >}}Day 4 Storyboard
+-------------------------------------------------
 
 ![AndreaDesrosiers-day4storyboard-1.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/54725ae5a468ae4378f2f32beb0dc68f_AndreaDesrosiers-day4storyboard-1.jpg)
 
@@ -172,8 +172,8 @@ Day 4 Storyboard
 
 [\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
-Script: Final Draft
--------------------
+{{< anchor "Ortho_Script" >}}Script: Final Draft
+------------------------------------------------
 
 ### Script for Ortho Video v4
 
@@ -238,8 +238,8 @@ And once we've tasted the forbidden fruit will we still be human?
 [\_Link back to Day 7  
 \_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 8 Shot List
----------------
+{{< anchor "Ortho_Shot_List-prelim" >}}Day 8 Shot List
+------------------------------------------------------
 
 ### Ortho Shoot Scene 1
 
@@ -410,8 +410,8 @@ Where braces use bone remodeling to make teeth straighter for mostly cosmetic re
 
 [\_Link back to Day 8\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/days-8-9-10-project-time" %}}#Student_Work)
 
-Rough Cut
----------
+{{< anchor "Rough_Cut" >}}Rough Cut
+-----------------------------------
 
 {{< youtube mmDRqnTlII0 >}}
 
@@ -419,8 +419,8 @@ This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC
 
 [\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
-Final Project
--------------
+{{< anchor "Final_Project" >}}Final Project
+-------------------------------------------
 
 {{< youtube QSkVGto19SA >}}
 
@@ -450,8 +450,8 @@ Thanks to: Everyone in IAP15 20.219, the folks at DPI, and especially to my brot
 
 [\_Link back to Day 13\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}#Student_Work)
 
-Science Out Loud
-----------------
+{{< anchor "Science_Out_Loud" >}}Science Out Loud
+-------------------------------------------------
 
 Andrea's video was professionally produced by [Science Out Loud](http://k12videos.mit.edu/science-out-loud) after this course finished.
 

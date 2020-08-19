@@ -26,8 +26,8 @@ Contents
 *   [Rough Cut](#Rough_Cut)
 *   [Final Project](#Final_Project)
 
-Day 2 Script: Why Do I Feel Cold and You Don't? (1st Draft)
------------------------------------------------------------
+{{< anchor "Day_2_Script" >}}Day 2 Script: Why Do I Feel Cold and You Don't? (1st Draft)
+----------------------------------------------------------------------------------------
 
 Why do some people handle cold better than others? Why is it that some are so fearful of the cold; that they rather die than be caught outside without all the winter gear on, mask an all, while others can wear one layers for a morning jog? What makes all the difference?
 
@@ -53,12 +53,12 @@ Introducing "Wim Hof" from the Netherlands, also nicknamed "Iceman" for his abil
 
 Whilst Iceman has honed the ability to do just about everything in winter wearing just shorts, I think us normal humans would do better being more layered up. We can withstand the cold weather indoors with a cup of hot chocolate by the fireplace in peace. (end off with a shot of someone drinking hot chocolate and enjoying himself)
 
-\[1\] Read more: [Why are Some People Colder than Others?](http://www.mnn.com/health/fitness-well-being/stories/why-are-some-people-colder-than-others#ixzz3O6Q5qNoe)
+{{< anchor "1" >}}\[1\] Read more: [Why are Some People Colder than Others?](http://www.mnn.com/health/fitness-well-being/stories/why-are-some-people-colder-than-others#ixzz3O6Q5qNoe)
 
 [\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 3 Pitch
------------
+{{< anchor "Day_3_Pitch" >}}Day 3 Pitch
+---------------------------------------
 
 {{< youtube q4524Q4xnqA >}}
 
@@ -66,8 +66,8 @@ This video is courtesy of [David Yam](https://www.youtube.com/channel/UCgSZYDkQ8
 
 [\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
 
-Day 4 Storyboard
-----------------
+{{< anchor "Day_4_Storyboard" >}}Day 4 Storyboard
+-------------------------------------------------
 
 ![David-day4storyboard-1.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/86d973e5b71d75a7feeaff97bb2b03e0_David-day4storyboard-1.jpg)  
 
@@ -105,8 +105,8 @@ To generate more heat within our bodies, we need to burn more sugars with our me
 
 [\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
-Day 5 Script (Draft 2)
-----------------------
+{{< anchor "Day_5_Script" >}}Day 5 Script (Draft 2)
+---------------------------------------------------
 
 Why do some people handle cold better than others? Why is it that some are so fearful of the cold; they'd rather die than be caught outside without all the winter gear on, mask and all, while others can wear one layer for a morning jog? What makes all the difference?
 
@@ -130,8 +130,8 @@ And if the next Ice Age were to come, maybe they'd be the only ones around.
 
 [\_Link back to Day 5\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor_and_Student_Work)
 
-Day 6 Script: How do I Survive the Cold? (Draft 3)
---------------------------------------------------
+{{< anchor "Script_Draft_3" >}}Day 6 Script: How do I Survive the Cold? (Draft 3)
+---------------------------------------------------------------------------------
 
 If I were to go out for a run now, dressed like this, you'd probably call me nuts right? Because I wouldn't be able to withstand the cold, and likely die, of hypothermia.
 
@@ -151,24 +151,24 @@ To quote Wim Hof, "We have perfect mechanisms in our bodies, but we intervened w
 
 I'll add in the cutscenes / camera angles / go through the writing again tmr.)
 
-\[1\] Wade, Nicholas. "[Ice Age Ancestry May Keep Body Warmer and Healthier](http://www.nytimes.com/2004/01/09/us/ice-age-ancestry-may-keep-body-warmer-and-healthier.html)," _New York Times_, January 9, 2004.
+{{< anchor "_1_" >}}\[1\] Wade, Nicholas. "[Ice Age Ancestry May Keep Body Warmer and Healthier](http://www.nytimes.com/2004/01/09/us/ice-age-ancestry-may-keep-body-warmer-and-healthier.html)," _New York Times_, January 9, 2004.
 
-\[2\] [Adapting to Climate Extremes](http://anthro.palomar.edu/adapt/adapt_2.htm).
+{{< anchor "_2_" >}}\[2\] [Adapting to Climate Extremes](http://anthro.palomar.edu/adapt/adapt_2.htm).
 
-\[3\] "[Mind Over Matter? Core Body Temperature Controlled by the Brain](http://www.sciencedaily.com/releases/2013/04/130408084858.htm)," _National University of Singapore_, April 8, 2013.
+{{< anchor "_3_" >}}\[3\] "[Mind Over Matter? Core Body Temperature Controlled by the Brain](http://www.sciencedaily.com/releases/2013/04/130408084858.htm)," _National University of Singapore_, April 8, 2013.
 
-\[4\] Koxa, Matthijs, et al. "[Voluntary Activation of the Sympathetic Nervous System and Attenuation of the Innate Immune Response in Humans](http://dx.doi.org/10.1073/pnas.1322174111)." _Proceedings of the National Academy of Sciences of the United States of America_ 111, no. 20 (2014): 7379–84.
+{{< anchor "_4_" >}}\[4\] Koxa, Matthijs, et al. "[Voluntary Activation of the Sympathetic Nervous System and Attenuation of the Innate Immune Response in Humans](http://dx.doi.org/10.1073/pnas.1322174111)." _Proceedings of the National Academy of Sciences of the United States of America_ 111, no. 20 (2014): 7379–84.
 
 [\_Link back to Day 6  
 \_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours/_index.md" %}}#Instructor_and_Student_Work)
 
-Rough Cut
----------
+{{< anchor "Rough_Cut" >}}Rough Cut
+-----------------------------------
 
 David's rough cut is not available.
 
-Final Project
--------------
+{{< anchor "Final_Project" >}}Final Project
+-------------------------------------------
 
 {{< youtube aFwEKt4rD9w >}}
 

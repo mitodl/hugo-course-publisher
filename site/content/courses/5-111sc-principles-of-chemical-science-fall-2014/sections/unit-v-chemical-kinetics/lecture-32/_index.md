@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/41a28d071c100dbdd44e35c97eac2e15_Lecture_32.jpg)  | {{< br >}}{{< br >}}1.  Investigating Reaction Mechanisms{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video32" >}}Lecture Video
+---------------------------------------------
 
 Chemists experimentally determine rate laws and then use that experimental information to propose reaction mechanisms. In an overall reaction, some steps will be fast and others slow. One step can be so slow that it governs the overall rate of the reaction; it is the rate-determining step. Learn how to predict reaction mechanisms using the steady-state approximation as well as information about fast and slow steps.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 32 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32/MIT5_111F14_Lec32Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

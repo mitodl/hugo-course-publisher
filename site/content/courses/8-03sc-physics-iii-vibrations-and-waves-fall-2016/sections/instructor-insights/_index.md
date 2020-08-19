@@ -11,6 +11,8 @@ menu:
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/_index.md" %}}) »
 
+{{< anchor "insights" >}}
+
 Instructor Insights
 -------------------
 
@@ -50,6 +52,8 @@ GIR ![General Institute Requirements](/images/educator/icon-question-gir.png)
 
 Every fall and spring semester
 
+{{< anchor "classroom" >}}
+
 The Classroom
 -------------
 
@@ -69,6 +73,8 @@ The Classroom
     
     Recitations were held in smaller classrooms with moveable tables and chairs, sliding chalkboards, and AV systems.
     
+
+{{< anchor "assessment" >}}
 
 Assessment
 ----------
@@ -101,6 +107,8 @@ Mostly physics majors
 ### Typical Student Background
 
 Some students had backgrounds in advanced mathematics.
+
+{{< anchor "studenttime" >}}
 
 How Student Time Was Spent
 --------------------------

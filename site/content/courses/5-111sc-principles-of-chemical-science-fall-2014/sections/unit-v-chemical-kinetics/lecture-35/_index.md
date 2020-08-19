@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/e6f283be288a8bf147c57e02f3d526d5_Lecture_35.jpg)  | {{< br >}}{{< br >}}1.  Review of Course Material{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video35" >}}Lecture Video
+---------------------------------------------
 
 In the final clicker competition of the semester, students are challenged to explain a biological process using the basic chemical principles that they have learned over the course of the semester. The process is the biological fixation of the greenhouse gas carbon dioxide by a micro-organism. Match your wits and knowledge and see how you score compared to the winning group of MIT students.
 

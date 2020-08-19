@@ -39,8 +39,8 @@ This video is from [WaywardLightning](https://www.youtube.com/channel/UC1vNk_Ltx
 
 [\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
-In Which I Ramble about Day 3
------------------------------
+{{< anchor "Day_3" >}}In Which I Ramble about Day 3
+---------------------------------------------------
 
 {{< youtube eIeQgvadWpw >}}
 

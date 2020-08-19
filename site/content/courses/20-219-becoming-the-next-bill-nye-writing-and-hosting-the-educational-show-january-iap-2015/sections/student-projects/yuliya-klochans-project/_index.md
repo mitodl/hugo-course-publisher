@@ -30,8 +30,8 @@ Contents
 *   [Final Project](#Final_Project)
 *   [Science Out Loud](#Science_Out_Loud)
 
-Day 1 Gödel's Theorem Video Pitch
----------------------------------
+{{< anchor "G_del_s_Theorem_Video_Pitch" >}}Day 1 Gödel's Theorem Video Pitch
+-----------------------------------------------------------------------------
 
 {{< youtube AHJDrCiXNRA >}}
 
@@ -41,8 +41,8 @@ The beginning of an odd mathematical journey that asks (but cannot always answer
 
 [\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
 
-Day 2 Math Woman Saves the World (the Script)
----------------------------------------------
+{{< anchor "Math_Woman_Saves_the_World" >}}Day 2 Math Woman Saves the World (the Script)
+----------------------------------------------------------------------------------------
 
 _Note: This seems, at this point, an odd amalgamation of various mathematical ideas. A read-through takes just under 5 minutes, but I will most likely filter a lot of the material. I just wanted to grasp the character for now. Also, phrases in brackets \[\] are optional and italicized ones are filming directions._
 
@@ -127,8 +127,8 @@ Save the world with math. No superpowers required.
 [\_Link back to Day 2  
 \_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 3 Trailer: Fractals!
-------------------------
+{{< anchor "Day_3_Trailer:_Fractals_" >}}Day 3 Trailer: Fractals!
+-----------------------------------------------------------------
 
 {{< youtube SAQxC4DHic0 >}}
 
@@ -136,8 +136,8 @@ This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7
 
 [\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
 
-Day 4 Storyboard
-----------------
+{{< anchor "Day_4_Storyboard" >}}Day 4 Storyboard
+-------------------------------------------------
 
 ![YuliyaKlochan-day4storyboard-1.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2636f62e59620991db84bb783891c615_YuliyaKlochan-day4storyboard-1.jpg)
 
@@ -161,8 +161,8 @@ Day 4 Storyboard
 
 [\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
-Day 5 Script: Fractals Video Script (Draft 2)
----------------------------------------------
+{{< anchor "Fractals_Video_Script_Draft_2" >}}Day 5 Script: Fractals Video Script (Draft 2)
+-------------------------------------------------------------------------------------------
 
 ### Pitch
 
@@ -237,8 +237,8 @@ Look around you. What beautiful patterns do you see?
 [\_Link back to Day 5  
 \_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor_and_Student_Work)
 
-Day 6 Fractals! Script Revisited
---------------------------------
+{{< anchor "Fractals__Script_Revisited" >}}Day 6 Fractals! Script Revisited
+---------------------------------------------------------------------------
 
 What do snowflakes and cell phones have in common?
 
@@ -289,8 +289,8 @@ Look around you. What beautiful patterns do you see?
 [\_Link back to Day 6  
 \_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 7 Script (Fractals!)
-------------------------
+{{< anchor "DAY_7_Script__Fractals__" >}}Day 7 Script (Fractals!)
+-----------------------------------------------------------------
 
 What do snowflakes and cell phones have in common?
 
@@ -338,8 +338,8 @@ Look around you. What beautiful patterns do you see?
 
 [\_Link back to Day 7\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 8 Fractals! Shot List
--------------------------
+{{< anchor "Fractals__Shot_List" >}}Day 8 Fractals! Shot List
+-------------------------------------------------------------
 
 ### Clothing and Props
 
@@ -375,8 +375,8 @@ Day 8 Fractals! Shot List
 [\_Link back to Day 8  
 \_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/days-8-9-10-project-time" %}}#Student_Work)
 
-Fractals! Rough Cut
--------------------
+{{< anchor "Fractals__Rough_Cut" >}}Fractals! Rough Cut
+-------------------------------------------------------
 
 {{< youtube bB7KvV3tRZA >}}
 
@@ -384,8 +384,8 @@ This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7
 
 [\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
-Final Project
--------------
+{{< anchor "Final_Project" >}}Final Project
+-------------------------------------------
 
 {{< youtube tgUyvasUtbA >}}
 
@@ -405,8 +405,8 @@ Additional Scripting: Elizabeth Choe, Jaime Goldstein, Ceri Riley, George Zaidan
 
 [\_Link back to Day 13\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}#Student_Work)
 
-Science Out Loud
-----------------
+{{< anchor "Science_Out_Loud" >}}Science Out Loud
+-------------------------------------------------
 
 Yuliya's video was professionally produced by [Science Out Loud](http://k12videos.mit.edu/science-out-loud) after this course finished.
 

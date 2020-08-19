@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/30c821c0166593daa6e1eacf96c4abb3_Lecture_9.jpg)  | {{< br >}}{{< br >}}1.  Periodic Table (continued){{< br >}}    1.  Electronegativity{{< br >}}    2.  Atomic and Ionic Radii and Isoelectronic Atoms{{< br >}}2.  Bonding{{< br >}}    1.  Ionic Bonds{{< br >}}    2.  Covalent Bonding{{< br >}}    3.  Polar Covalent Bonds{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video9" >}}Lecture Video
+--------------------------------------------
 
 In this lecture, we complete the discussion of the periodic table and start to consider the types of bonds that are formed between elements. Chemist Kateryna Kozyrytska tells us about why the concept of electronegativity is important in the design of antibiotics.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 9 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-9/MIT5_111F14_Lec9Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

@@ -62,8 +62,8 @@ The assignments linked in this section, or "Systems Problems", are assigned in a
 | S/L10 | Build Report 2 | System Problem 10 Report 2 ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-04/sp9_report2" %}}))  {{< br >}}  {{< br >}}Report 2 Grading Sheet ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-04/sp9report2grad" %}})) |   | Problem SP9-10 ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-04/spring2004_sp9" %}})) |
 | S/L11 | Signals and Systems Lab: Amplitude Modulation |   |   | Problem SP11 ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-04/spring2004_sp11" %}})) 
 
-Aerial Competition
-------------------
+{{< anchor "video" >}}
+----------------------
 
 During the spring semester, most systems problems relate to the semester's aerial design competition. Teams of four or five students work together to design an aircraft to achieve the highest score. To optimize their system, each team must evaluate trades between payload, endurance, maneuverability and durability, subject to the constraints and objectives of the aerial competition.
 

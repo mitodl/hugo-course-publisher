@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/aafc786b207bda7d3122e4d57755caf5_Lecture_2.jpg)  | {{< br >}}{{< br >}}1.  Discovery of the Electron and the Nucleus{{< br >}}2.  The Need for Quantum Mechanics{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video2" >}}Lecture Video
+--------------------------------------------
 
 The backscattering experiment of Rutherford is recreated in the classroom setting. Ping pong balls are used to represent alpha particles and Styrofoam balls connected to a series of strings represent nuclei in a piece of gold foil.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 2 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2/MIT5_111F14_Lec2Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

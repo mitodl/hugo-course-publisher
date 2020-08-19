@@ -36,6 +36,8 @@ Additionally, there are three overriding lessons and action steps for for busine
 *   Rebuild worker bargaining power.
 *   Get business, labor, government, and education leaders working together to build an economy that works for all.
 
+{{< anchor "insights" >}}
+
 Instructor Insights
 -------------------
 
@@ -75,6 +77,8 @@ None
 
 MITx offers a free version of this subject [on the edX platform](https://www.edx.org/school/mitx): _15.662x Shaping the Future of Work_.
 
+{{< anchor "classroom" >}}
+
 The Classroom
 -------------
 
@@ -84,6 +88,8 @@ The Classroom
     
     Class sessions in this MOOC were offered on the edX platform. The image on the left depicts an introduction video that students watch during the first class session.
     
+
+{{< anchor "assessment" >}}
 
 Assessment
 ----------
@@ -126,6 +132,8 @@ Participants in the course came from 144 countries.
 They possessed a variety of educational backgrounds: 19% had completed some or all of high school; 41% had college degrees; and 30% had advanced degrees beyond college.
 
 Participants enrolled in the course for a variety of purposes: Educators were interested in using the curricular materials in their high school classes and in other, more focused, vocational courses. Union leaders were interested in learning more about what other people thought the role labor should be in today’s workforce. Entrepreneurs were trying to figure out what it takes to build a good organization. There were also several participants who were just entering the labor market and were interested in discerning productive pathways for themselves.
+
+{{< anchor "studenttime" >}}
 
 How Student Time Was Spent
 --------------------------

@@ -21,13 +21,13 @@ Contents
 *   [Assignments](#Assignments)
 *   [Instructor and Student Work](#Instructor_and_Student_Work)
 
-Overview
---------
+{{< anchor "Overview" >}}Overview
+---------------------------------
 
 We'll finish the rest of the table-reads and then cover the "art" of editing and incorporating music into video. Please note that this will not be a techniques workshop (see the [Equipment]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/syllabus/equipment" %}}) & [Editing]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/syllabus/editing" %}}) sections for tutorial resources), but rather a best practices-based workshop. We will also cover the resources available for music and navigating [Creative Commons](http://creativecommons.org/).
 
-Part 1: Table-read
-------------------
+{{< anchor "Part_1:_Table-read" >}}Part 1: Table-read
+-----------------------------------------------------
 
 {{< youtube ZMe7jSsPmW4 >}}
 
@@ -36,8 +36,8 @@ Part 1: Table-read
 | {{< youtube ZMe7jSsPmW4 >}} | [Joshua's Script (DOC)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/889e423b42eafc2253c1eb0b9733838f_MIT20_219IAP15_Joshua.docx) |
 | {{< youtube ZMe7jSsPmW4 >}} | [Kenneth's Script (DOC)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/6c745fe6fb54da07614c3dffffac89c7_MIT20_219IAP15_Kenneth.docx) 
 
-Part 2: Post-production
------------------------
+{{< anchor "Part_2:_Post-production" >}}Part 2: Post-production
+---------------------------------------------------------------
 
 {{< youtube Docl3KOqnHI >}}
 
@@ -69,8 +69,8 @@ Part 2: Post-production
 *   Stock: [Premium Beat,](http://www.premiumbeat.com/stock-music) [Pond5](http://www.pond5.com/)
 *   Video and images: [Internet Archive](https://archive.org/details/stock_footage), [CDC PHIL](http://phil.cdc.gov/Phil/home.asp), [NASA](https://www.nasa.gov/multimedia/imagegallery/index.html), U.S. government sites
 
-Assignments
------------
+{{< anchor "Assignments" >}}Assignments
+---------------------------------------
 
 ### Daily Blog / Vlog Assignment
 
@@ -84,8 +84,8 @@ Finish editing your scripts and post to the Tumblr with day7script and your Kerb
 
 Fill out the [Midpoint Survey (PDF)]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production/MIT20_219IAP15_Midsurvy" %}}) sometime before the weekend!
 
-Instructor and Student Work
----------------------------
+{{< anchor "Instructor_and_Student_Work" >}}Instructor and Student Work
+-----------------------------------------------------------------------
 
 ### Daily Blogs / Vlogs
 

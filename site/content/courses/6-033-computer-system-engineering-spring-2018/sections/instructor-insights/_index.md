@@ -9,6 +9,8 @@ menu:
     name: Instructor Insights
     weight: 30
 ---
+{{< anchor "insights" >}}
+
 Instructor Insights
 -------------------
 
@@ -49,6 +51,8 @@ CI-M ![](/images/educator/icon-question-cim.png)
 
 Every spring semester
 
+{{< anchor "classroom" >}}
+
 The Classroom
 -------------
 
@@ -68,6 +72,8 @@ The Classroom
     
     Recitations took place in smaller rooms with moveable tablet arm chairs and sliding chalkboards.
     
+
+{{< anchor "assessment" >}}
 
 Assessment
 ----------
@@ -98,6 +104,8 @@ Mostly EECS
 ### Typical Student Background
 
 Students tend to have knowledge of basic programming and computer architecture (how memory works, what a cache does, etc.). Often, since the class is targeted toward juniors and seniors, students have had at least one outside-of-class experience in computer science, such as an undergraduate research experience or an internship. Those experiences are helpful in that they give students a better sense of how large computer systems are in the real world.
+
+{{< anchor "studenttime" >}}
 
 How Student Time Was Spent
 --------------------------

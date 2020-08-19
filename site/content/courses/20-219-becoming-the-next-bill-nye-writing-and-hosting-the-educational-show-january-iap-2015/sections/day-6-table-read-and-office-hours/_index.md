@@ -20,13 +20,13 @@ Contents
 *   [Assignment](#Assignment)
 *   [Instructor and Student Work](#Instructor_and_Student_Work)
 
-Overview
---------
+{{< anchor "Overview" >}}Overview
+---------------------------------
 
 Half of the class will read their script aloud while everyone will make live comments and feedback. The latter part of class will allow you to tinker with the equipment; teaching staff will be available for technical help.
 
-Table-read
-----------
+{{< anchor "Table-read" >}}Table-read
+-------------------------------------
 
 {{< youtube XDBr39cwmbg >}}
 
@@ -38,15 +38,15 @@ Table-read
 | {{< youtube XDBr39cwmbg >}} | [Andrea's Script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project/_index.md" %}}#Ortho_Script) |
 | {{< youtube XDBr39cwmbg >}} | [PJ's Script (DOC)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/7f91a6ca759e3e98f938ae25c1c5ef91_MIT20_219IAP15_Folino.docx) 
 
-Assignment
-----------
+{{< anchor "Assignment" >}}Assignment
+-------------------------------------
 
 ### Daily Blog / Vlog Assignment
 
 Upload a video, written blog post, pictures, etc. reflecting on insights gained from the workshop today on the class site (as a reader or as a listener).
 
-Instructor and Student Work
----------------------------
+{{< anchor "Instructor_and_Student_Work" >}}Instructor and Student Work
+-----------------------------------------------------------------------
 
 ### Daily Blogs / Vlogs
 

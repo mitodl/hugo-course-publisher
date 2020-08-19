@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/a167b211a7bfde223d913d2fd32d6fd0_Lecture_18.jpg)  | {{< br >}}{{< br >}}1.  Chemical Equilibrium{{< br >}}    1.  Nature of Chemical Equilibrium{{< br >}}    2.  Meaning of the Chemical Equilibrium Constant K{{< br >}}    3.  External Effects on K (Le Châtlier's Principle){{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video18" >}}Lecture Video
+---------------------------------------------
 
 Reactions reach chemical equilibrium when the rate of the forward reaction equals the rate of the reverse reaction. In this lecture, we discuss the nature of chemical equilibrium and of the chemical equilibrium constant. We start to consider how external factors can “push” the equilibrium in one direction or the other. Physicist and Chemist Nozomi Ando provides an example of why chemical equilibrium is important in living organisms.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 18 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-18/MIT5_111F14_Lec18Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

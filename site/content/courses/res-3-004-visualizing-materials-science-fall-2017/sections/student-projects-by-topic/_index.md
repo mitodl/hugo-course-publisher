@@ -11,8 +11,8 @@ menu:
 ---
 The following student projects are associated with MIT course _3.016 Computational Methods for Materials Scientists_ and the equivalent course taught by MIT professor W. Craig Carter at L'École polytechnique fédérale de Lausanne (EPFL).
 
-[Crystallography and Structure]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-topic/crystallography-and-structure" %}})
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Crystallography and Structure]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-topic/crystallography-and-structure" %}}){{< anchor "crystall" >}}
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 › _Selected student projects (click to reveal / hide)_
 
@@ -32,8 +32,8 @@ The following student projects are associated with MIT course _3.016 Computation
 
 ![portion of diagram of crystal](https://open-learning-course-data-ci.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/8e0320fcdece8ed5a1275820af5238e3_MITRES_3_004F17_5_healey-th.jpg) [Liquid Crystals]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-year/2012-MIT/liquid-crystals" %}}) (video)
 
-[Energetics and Thermodynamics]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-topic/energetics-and-thermodynamics" %}})
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Energetics and Thermodynamics]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-topic/energetics-and-thermodynamics" %}}){{< anchor "energythermo" >}}
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 › _Selected student projects (click to reveal / hide)_
 
@@ -47,8 +47,8 @@ The following student projects are associated with MIT course _3.016 Computation
 
 ![portion of a red, pink, and light pink model](https://open-learning-course-data-ci.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/e12fad098ded6fce481bd3ab45e47942_MITRES_3_004F17_4_javed-th.jpg) [Modeling & Energy Analysis of Liquid Crystals]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-year/2012-MIT/modeling-energy-analysis-of-liquid-crystals" %}}) (video)
 
-[Experimental Techniques]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-topic/experimental-techniques" %}})
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Experimental Techniques]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-topic/experimental-techniques" %}}){{< anchor "experiment" >}}
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 › _Selected student projects (click to reveal / hide)_
 
@@ -58,8 +58,8 @@ The following student projects are associated with MIT course _3.016 Computation
 
 ![watershed transformation](https://open-learning-course-data-ci.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/63bd991c82d73fb06d7ecd9fc983c5ce_MITRES_3_004F17_16_sun-th.jpg) [Image Processing Using the Watershed Transformation]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-year/2015-MIT/image-processing-using-the-watershed-transformation" %}}) (notebook)
 
-[Heat and Mass Transfer]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-topic/heat-and-mass-transfer" %}})
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Heat and Mass Transfer]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-topic/heat-and-mass-transfer" %}}){{< anchor "heatmass" >}}
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 › _Selected student projects (click to reveal / hide)_
 
@@ -69,8 +69,8 @@ The following student projects are associated with MIT course _3.016 Computation
 
 ![portion of a 3-dimensional graph](https://open-learning-course-data-ci.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/c8f699c4e6b77425da360bcababc8a17_MITRES_3_004F17_2_anon-th.jpg) [Fluid Flow in Pipes and Rivers]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-year/2012-MIT/fluid-flow-in-pipes-and-rivers" %}}) (video)
 
-[Mechanical Properties]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-topic/mechanical-properties" %}})
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Mechanical Properties]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-topic/mechanical-properties" %}}){{< anchor "mechanical" >}}
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 › _Selected student projects (click to reveal / hide)_
 
@@ -84,8 +84,8 @@ The following student projects are associated with MIT course _3.016 Computation
 
 ![portion of a colorful diagram](https://open-learning-course-data-ci.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/a6854e545bebac81557c7d1c09c649d2_MITRES_3_004F17_3_anon-th.jpg) [Hooke's Law in Cubic Solids]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-year/2012-MIT/hookes-law-in-cubic-solids" %}}) (video)
 
-[Optical Properties]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-topic/optical-properties" %}})
--------------------------------------------------------------------------------------------------------------------------------------------------------
+[Optical Properties]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-topic/optical-properties" %}}){{< anchor "optical" >}}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 › _Selected student projects (click to reveal / hide)_
 
@@ -101,8 +101,8 @@ The following student projects are associated with MIT course _3.016 Computation
 
 ![4-color bar chart](https://open-learning-course-data-ci.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/c8e03289d10b4a73d8c9b9a721719f1f_MITRES_3_004F17_6_don-th.jpg) [Spherical Distribution Problem]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-year/2012-MIT/spherical-distribution-problem" %}}) (video)
 
-[Quantum, Magnetic, and Electronic Properties]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-topic/quantum-magnetic-and-electronic-properties" %}})
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Quantum, Magnetic, and Electronic Properties]({{% getpage "courses/res-3-004-visualizing-materials-science-fall-2017/sections/student-projects-by-topic/quantum-magnetic-and-electronic-properties" %}}){{< anchor "quantmagetelectric" >}}
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 › _Selected student projects (click to reveal / hide)_
 

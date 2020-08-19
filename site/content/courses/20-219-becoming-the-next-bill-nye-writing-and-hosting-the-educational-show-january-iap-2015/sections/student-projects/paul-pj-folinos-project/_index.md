@@ -31,8 +31,8 @@ Contents
 *   [Day 13 Final Project](#Final_Project)
 *   [Science Out Loud](#Science_Out_Loud)
 
-Day 1 Pitch: The Science of Poaching an Egg Pitch
--------------------------------------------------
+{{< anchor "Day_1_Pitch" >}}Day 1 Pitch: The Science of Poaching an Egg Pitch
+-----------------------------------------------------------------------------
 
 {{< youtube 2nSxmWTdDU4 >}}
 
@@ -44,8 +44,8 @@ Food for thought: Did you know there are statistical correlations between how yo
 
 [\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
 
-Day 2 Script
-------------
+{{< anchor "Day_2_Script" >}}Day 2 Script
+-----------------------------------------
 
 Title: Thinking about Sinking
 
@@ -93,8 +93,8 @@ III. Conclusion
 
 [\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 3 Trailer: Subdivision Pitch
---------------------------------
+{{< anchor "Subdivision_Pitch" >}}Day 3 Trailer: Subdivision Pitch
+------------------------------------------------------------------
 
 {{< youtube rcRAb0-vc60 >}}
 
@@ -104,8 +104,8 @@ The actual prototype is being thought of / designed. This subdivided "barge" WIL
 
 [\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
 
-Day 4 Storyboard
-----------------
+{{< anchor "Paul_s_Storyboard" >}}Day 4 Storyboard
+--------------------------------------------------
 
 ![Folino-day4storyboard-1.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/95bee45fc7d0de0d68c7a0e2f13ea13b_Folino-day4storyboard-1.jpg)
 
@@ -115,8 +115,8 @@ I am still refining the script.
 
 [\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
-Day 5 Script
-------------
+{{< anchor "Pjfolino_s_Script_Draft_2" >}}Day 5 Script
+------------------------------------------------------
 
 Title: Thinking about Sinking
 
@@ -160,8 +160,8 @@ _(Pratt School Museum, in uniform)_ As a Coast Guard Marine Inspector and naval 
 
 [\_Link back to Day 5\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor_and_Student_Work)[]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
 
-Day 6 Script
-------------
+{{< anchor "Pjfolino_s_Script_Redo" >}}Day 6 Script
+---------------------------------------------------
 
 When we take really complex things and break them down into smaller pieces, we find out that we know a lot more about things than we think.
 
@@ -198,8 +198,8 @@ So even though ships might seem like these complicated, intricate things… they
 [\_Link back to Day 6  
 \_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 7 Script
-------------
+{{< anchor "Pjfolino_s_Script" >}}Day 7 Script
+----------------------------------------------
 
 When we take really complex things and break them down into smaller pieces, we find out that we know a lot more about things than we think.
 
@@ -238,8 +238,8 @@ So even though ships might seem like these complicated, intricate things… they
 [\_Link back to Day 7  
 \_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 8 Shot List
----------------
+{{< anchor "Pjfolino_s_Day_8_Shot_List" >}}Day 8 Shot List
+----------------------------------------------------------
 
 Sinking Scene shots
 
@@ -336,8 +336,8 @@ To Shoot:
 
 [\_Link back to Day 8\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/days-8-9-10-project-time" %}}#Student_Work)
 
-Rough Cut
----------
+{{< anchor "Rough_Cut" >}}Rough Cut
+-----------------------------------
 
 {{< youtube RMSuV5fwCnE >}}
 
@@ -345,8 +345,8 @@ This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQM
 
 [\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
-Final Project
--------------
+{{< anchor "Final_Project" >}}Final Project
+-------------------------------------------
 
 {{< youtube PPhxbP8oSfc >}}
 
@@ -364,8 +364,8 @@ Additional scripting: Elizabeth Choe, Jaime Goldstein, Ceri Riley, George Zaidan
 
 [\_Link back to Day 13\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}#Student_Work)
 
-Science Out Loud
-----------------
+{{< anchor "Science_Out_Loud" >}}Science Out Loud
+-------------------------------------------------
 
 Paul's video was professionally produced by [Science Out Loud](http://k12videos.mit.edu/science-out-loud) after this course finished.
 

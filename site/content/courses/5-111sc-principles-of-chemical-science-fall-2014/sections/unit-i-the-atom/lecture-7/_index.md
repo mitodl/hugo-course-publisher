@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8bab447c53bd0e6aa15b48f68a9ca9a1_Lecture_7.jpg)  | {{< br >}}{{< br >}}1.  Wavefunctions and Binding Energies for Multi-electron Atoms{{< br >}}2.  Electron Configurations{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video7" >}}Lecture Video
+--------------------------------------------
 
 After focusing on the hydrogen atom for several lectures, the course moves on to consider atoms with more than one electron. Now, the pull of the positively charged nucleus on the negatively charged electron is harder to predict as shielding comes into play. Also, we try our hand at electron configurations.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 7 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-7/MIT5_111F14_Lec7Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

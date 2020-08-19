@@ -20,13 +20,13 @@ Contents
 *   [Part 2: Screening](#Part_2:_Screening)
 *   [Student Work](#Student_Work)
 
-Overview
---------
+{{< anchor "Overview" >}}Overview
+---------------------------------
 
 Project groups will have 6 minutes to present their final videos and field questions during the red carpet screening.
 
-Part 1: Student Interviews
---------------------------
+{{< anchor "Part_1:_Student_interviews" >}}Part 1: Student Interviews
+---------------------------------------------------------------------
 
 ### Kenneth's Interview
 
@@ -48,8 +48,8 @@ Part 1: Student Interviews
 
 {{< youtube gb80yhA2o4A >}}
 
-Part 2: Screening
------------------
+{{< anchor "Part_2:_Screening" >}}Part 2: Screening
+---------------------------------------------------
 
 {{< youtube qkkI9Z9tKvo >}}
 
@@ -64,8 +64,8 @@ Part 2: Screening
 *   {{< youtube qkkI9Z9tKvo >}}
 *   {{< youtube qkkI9Z9tKvo >}}
 
-Student Work
-------------
+{{< anchor "Student_Work" >}}Student Work
+-----------------------------------------
 
 *   [Kenneth's final project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project/_index.md" %}}#Final_Project)
 *   [Joshua's final project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project/_index.md" %}}#Final_Project)

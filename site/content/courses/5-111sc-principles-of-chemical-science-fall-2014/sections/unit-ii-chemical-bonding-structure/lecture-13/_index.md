@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/0decc4da47302a5c53051c6c79214350_Lecture_13.jpg)  | {{< br >}}{{< br >}}1.  Molecular Orbital Theory{{< br >}}    1.  Homonuclear Molecules with MOs Originating from s Orbitals{{< br >}}    2.  Homonuclear Molecules with MOs Originating from s and p Orbitals{{< br >}}    3.  Heteronuclear Diatomic Molecules{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video13" >}}Lecture Video
+---------------------------------------------
 
 Why do some atoms readily form bonds with each other and other atoms don’t? Using molecular orbital theory, we can rationalize why molecular hydrogen (H2) is an abundant molecule whereas molecular helium (He2) is not. If you want to power your starship with dilithium (Li2) crystals, you should watch this lecture.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 13 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-13/MIT5_111F14_Lec13Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

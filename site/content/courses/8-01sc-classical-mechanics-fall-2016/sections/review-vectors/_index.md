@@ -11,8 +11,8 @@ menu:
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/0.1-vectors-vs.-scalars" %}}) »
 
-Review: Vectors
----------------
+{{< anchor "Lesson_0" >}}Review: Vectors
+----------------------------------------
 
 Review the following videos before starting the course.
 

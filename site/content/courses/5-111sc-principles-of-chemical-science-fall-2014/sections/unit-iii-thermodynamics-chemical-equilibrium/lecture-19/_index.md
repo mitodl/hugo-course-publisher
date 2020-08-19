@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7458e1f281f181a5ba125cef04bc45fe_Lecture_19.jpg)  | {{< br >}}{{< br >}}1.  Chemical Equilibrium{{< br >}}    1.  External Effects on K (Le Châtlier’s Principle) (continued){{< br >}}    2.  Temperature Dependence of K{{< br >}}    3.  Applications of Le Châtlier’s Principle{{< br >}}2.  Significant Figure Rules for Logs{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video19" >}}Lecture Video
+---------------------------------------------
 
 A system in equilibrium that is subjected to a stress tends to respond in a way that minimizes that stress. In this lecture, viewers will learn about chemical reactions but will also learn some important life lessons.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 19 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-19/MIT5_111F14_Lec19Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

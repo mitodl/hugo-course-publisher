@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/69bd40b3c8241027d24c167a359ed681_Lecture_23.jpg)  | {{< br >}}{{< br >}}1.  Acid-Base Titrations{{< br >}}    1.  Titration of Strong Acids and Strong Bases{{< br >}}    2.  Titration of Weak Acids / Strong Bases & Strong Acids/Weak Bases{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video23" >}}Lecture Video
+---------------------------------------------
 
 A common chemistry laboratory experiment involves titrating a strong base into a weak acid, drop by drop, until a color change of an indicator dye tells the student that the equivalence point has been reached. By determining the volume of strong based needed to reach the equivalence point, the molecular weight and/or pKa of the weak acid can be determined. In this lecture, we start to work through the calculations underlying acid-base titrations.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 23 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-23/MIT5_111F14_Lec23Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

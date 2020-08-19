@@ -30,6 +30,8 @@ Intended Workshop Outcomes
 *   Build a [Raspberry Pi](https://www.raspberrypi.org/about/) camera
 *   Program image filters
 
+{{< anchor "insights" >}}
+
 Facilitator Insights
 --------------------
 
@@ -57,6 +59,8 @@ Participant Information
 ### Typical Participant Background
 
 High school girls (rising 9th-12th graders) from 22 local Massachusetts high schools. 
+
+{{< anchor "classroom" >}}
 
 The Classroom
 -------------

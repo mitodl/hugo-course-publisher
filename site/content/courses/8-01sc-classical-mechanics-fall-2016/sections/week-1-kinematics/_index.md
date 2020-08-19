@@ -16,8 +16,8 @@ Week 1: Kinematics
 
 *   [Week 1: Introduction]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/week-1-introduction" %}})
 
-Lesson 1: 1D Kinematics - Position and Velocity
------------------------------------------------
+{{< anchor "Lesson_1" >}}Lesson 1: 1D Kinematics - Position and Velocity
+------------------------------------------------------------------------
 
 *   [1.1 Coordinate Systems and Unit Vectors in 1D Position Vector in 1D]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/1.1-coordinate-systems-and-unit-vectors-in-1d-position-vector-in-1d" %}})
 *   [1.2 Position Vector in 1D]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/1.2-position-vector-in-1d" %}})
@@ -27,8 +27,8 @@ Lesson 1: 1D Kinematics - Position and Velocity
 *   [1.6 Derivatives]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/1.6-derivatives" %}})
 *   [1.7 Worked Example - Derivatives in Kinematics]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/1.7-worked-example-derivatives-in-kinematics" %}})
 
-Lesson 2: 1D Kinematics - Acceleration
---------------------------------------
+{{< anchor "Lesson_2" >}}Lesson 2: 1D Kinematics - Acceleration
+---------------------------------------------------------------
 
 *   [2.1 Introduction to Acceleration]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/2.1-introduction-to-acceleration" %}})
 *   [2.2 Acceleration in 1D]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/2.2-acceleration-in-1d" %}})
@@ -36,8 +36,8 @@ Lesson 2: 1D Kinematics - Acceleration
 *   [2.4 Integration]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/2.4-integration" %}})
 *   [2.5 List of Useful Integrals]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/2.5-list-of-useful-integrals" %}})
 
-Lesson 3: 2D Kinematics - Position, Velocity, and Acceleration
---------------------------------------------------------------
+{{< anchor "Lesson_3" >}}Lesson 3: 2D Kinematics - Position, Velocity, and Acceleration
+---------------------------------------------------------------------------------------
 
 *   [3.1 Coordinate System and Position Vector in 2D]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/3.1-coordinate-system-and-position-vector-in-2d" %}})
 *   [3.2 Instantaneous Velocity in 2D]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/3.2-instantaneous-velocity-in-2d" %}})

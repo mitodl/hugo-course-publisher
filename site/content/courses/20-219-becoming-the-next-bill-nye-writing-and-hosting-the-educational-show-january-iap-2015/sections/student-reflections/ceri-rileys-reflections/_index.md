@@ -17,8 +17,8 @@ menu:
 
 [_Link to Ceri Riley's Page on Tumblr_](http://mit219.tumblr.com/tagged/ceriley)
 
-Day 1
------
+{{< anchor "DAY_1-Ceriley" >}}Day 1
+-----------------------------------
 
 Today was more nerve-racking than it should've been (considering my part of the lecture comprised of sitting / listening to really interesting lectures on videos / storytelling and then giving a crash course in the mechanics of the websites we'll be using). This is probably because I'm an inherently nervous person when it comes to first days, but also because of public speaking.
 
@@ -30,8 +30,8 @@ I also have to refrain from jumping into all the discussions because I have a lo
 
 [\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
 
-Reflection Day 2
-----------------
+{{< anchor "Reflection_Day_2" >}}Reflection Day 2
+-------------------------------------------------
 
 {{< youtube A7dxk0beojA >}}
 
@@ -41,8 +41,8 @@ I think my written posts will always be more composed than an off-the-cuff vlog,
 
 [\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
-Reflection Day 3
-----------------
+{{< anchor "Reflection_Day_3" >}}Reflection Day 3
+-------------------------------------------------
 
 {{< youtube DpqY4j3nK3A >}}
 
@@ -58,8 +58,8 @@ karldallas. "[Olivier's Hamlet film (1948): To Be Or Not To Be soliloquy](https:
 
 [\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
 
-Reflection Day 4
-----------------
+{{< anchor "Reflection_Day_4" >}}Reflection Day 4
+-------------------------------------------------
 
 {{< youtube es4aS15Y\_Ck >}}
 
@@ -71,8 +71,8 @@ I can explain my personal Adobe software workflow and tips to using Illustrator 
 
 [\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
-Day 5 Reflections
------------------
+{{< anchor "Ceriley_s_Day_5_Reflections" >}}Day 5 Reflections
+-------------------------------------------------------------
 
 I think if I were taking this class, today would be the day the video-making process would start to feel **Real**. Up until this point, we've been talking a lot about the (very important!) planning stages - scripting, storyboarding, idea webs, whatever. But with Chris' lecture on filming techniques and Elizabeth's on producing, you now have some of the tools to start thinking about how to make your visions more concrete. (Or how you're going to try to make your visions concrete, inevitably get frustrated when they're not 100% what's in your head, accept how your videos look / sound as a learning experience, and hopefully be inspired to make more in the future!)
 
@@ -90,8 +90,8 @@ I'm really excited to read scripts on Monday and see what you all produce!
 
 [\_Link back to Day 5\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor_and_Student_Work)
 
-Day 7 Reflections
------------------
+{{< anchor "Ceriley_s_Day_7_Reflections" >}}Day 7 Reflections
+-------------------------------------------------------------
 
 First off: Your scripts have all come so far! I can't wait to see all of your final videos (or whatever stages you bring to us for help). It's been really cool to see you guys learn so much over the course of a week (it feels like a lot longer) and push yourselves both inside and outside of class.
 
@@ -105,8 +105,8 @@ See (some of) you tomorrow, and feel free to email me at any point! I'll be happ
 
 [\_Link back to Day 7\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 11 Reflections
-------------------
+{{< anchor "Ceriley_s_Day_11_Reflections" >}}Day 11 Reflections
+---------------------------------------------------------------
 
 You guys have come so far :') Not only because you now all have (almost) final video projects, but in the way that you're able to describe things like what you like / what you don't like / how to improve videos. Final screenings are going to be awesome and exciting (I invited all my friends plus the people I UROP with in MITx-we'll see who comes), and hopefully you guys will all be somewhat proud of how much you've learned / done over these past 2 ½ weeks. So many feels, but it needs to be said.
 

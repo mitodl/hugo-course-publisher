@@ -67,8 +67,8 @@ Readings are assigned for each lecture, and should be completed prior to watchin
 
 | TEXTBOOK | DESCRIPTION |
 | --- | --- |
-| \[Perloff\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0321558499/ref=nosim/mitopencourse-20) Perloff, Jeffrey M. _Microeconomics_. 5th ed. Addison Wesley, 2008. ISBN: 9780321558497. | This is the official textbook used by students enrolled in the class at MIT. While OCW cannot provide online access to this book, we provide "For Further Study" links to supplemental materials. |
-| \[R&T\] = Rittenberg, Libby, and Timothy Tregarthen. [_Principles of Microeconomics_ (PDF - 15.1MB)](/ans7870/14/14.01SC/MIT14_01SCF11_rttext.pdf). 2009. (Courtesy of Libby Rittenberg, Timothy Tregarthen, and the Saylor Foundation.) | This Creative Commons-licensed text is a free online alternative to Perloff text used in the class at MIT. 
+| {{< anchor "_Perloff_" >}}\[Perloff\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0321558499/ref=nosim/mitopencourse-20) Perloff, Jeffrey M. _Microeconomics_. 5th ed. Addison Wesley, 2008. ISBN: 9780321558497. | This is the official textbook used by students enrolled in the class at MIT. While OCW cannot provide online access to this book, we provide "For Further Study" links to supplemental materials. |
+| {{< anchor "_R_T_" >}}\[R&T\] = Rittenberg, Libby, and Timothy Tregarthen. [_Principles of Microeconomics_ (PDF - 15.1MB)](/ans7870/14/14.01SC/MIT14_01SCF11_rttext.pdf). 2009. (Courtesy of Libby Rittenberg, Timothy Tregarthen, and the Saylor Foundation.) | This Creative Commons-licensed text is a free online alternative to Perloff text used in the class at MIT. 
 
 ### Recitations
 

@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/191d5f0b38064d6a80d169d6c2020493_Lecture_11.jpg)  | {{< br >}}{{< br >}}1.  Breakdown of the Octet Rule{{< br >}}    1.  Odd Number of Valence Electrons{{< br >}}    2.  Octet Deficient Molecules{{< br >}}    3.  Valence Shell Expansion{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video11" >}}Lecture Video
+---------------------------------------------
 
 Radicals, expanded octets, and more, in this lecture about Lewis structures.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 11 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-11/MIT5_111F14_Lec11Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

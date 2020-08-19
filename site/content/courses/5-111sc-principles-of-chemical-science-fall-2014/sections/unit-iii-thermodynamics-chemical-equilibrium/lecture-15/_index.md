@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c599ecc6d03cac9c8d9d2bc1f689f625_Lecture_15.jpg)  | {{< br >}}{{< br >}}1.  Thermodynamics{{< br >}}    1.  Bond Energy / Bond Enthalpy (∆HB){{< br >}}    2.  Enthalpies of Reaction (∆Hr){{< br >}}    3.  Methods to Calculate ∆Hr{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video15" >}}Lecture Video
+---------------------------------------------
 
 Thermodynamics is key to understanding the reactivity of molecules and compounds. In this first of three lectures on thermodynamics, viewers are introduced to ∆H, and asked to consider how much heat it will take to break one type of molecular bond versus another. Viewers are also asked whether a particular chemical reaction will release heat or absorb heat.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 15 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-15/MIT5_111F14_Lec15Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

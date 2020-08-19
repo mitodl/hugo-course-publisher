@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3b03d54d9e226ece0930e783d1d2b15c_Lecture_26.jpg)  | {{< br >}}{{< br >}}1.  Relationship between Cell Potential and Gibbs Free Energy{{< br >}}2.  Meaning of Standard Reduction Potentials{{< br >}}3.  Nernst Equation{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video26" >}}Lecture Video
+---------------------------------------------
 
 Viewers are introduced to agents of oxidation and agents of reduction. Are oxidizing agents really that bad for you? Hear from Professor John Essigmann about the double-edged sword that is oxidation-reduction. Oxidizing agents can protect us from disease but can also damage our genetic material. Friend or foe, you decide.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 26 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26/MIT5_111F14_Lec26Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

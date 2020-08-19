@@ -10,7 +10,7 @@ menu:
     weight: 80
     parent: ca3d66e66d2902d9e3726a8a8c156fcd
 ---
-### **Joseph G. Hadzima Jr.**
+### **{{< anchor "hadzima" >}}Joseph G. Hadzima Jr.**
 
 Joe Hadzima is a Managing Director of Main Street Partners LLC, a venture development and technology commercialization firm, and is President of [IPVision, Inc.](http://www.ipvisioninc.com/), a Main Street portfolio company which provides intellectual property systems and services. He was a Director of the [Global MIT Enterprise Forum](http://enterpriseforum.mit.edu/), with 24 chapters worldwide, from 1984 to 2009 and was Global Chairman from 2004 to 2008. He is also a past Director of the New England chapter of the [National Association of Corporate Directors](http://www.nacdonline.org/).
 
@@ -18,55 +18,55 @@ He was a founding judge of the MIT $10K (now $100K) Entrepreneurship Competition
 
 Joe received a B.Sc. from MIT in 1973, a S.M. in Management from the MIT Sloan School of Management in 1977 and a Juris Doctore law degree cum laude from Harvard Law School in 1979. He has been involved with over 120 new ventures over the last 30 years as a venture capitalist, entrepreneur, lawyer and board member. As a practicing lawyer for 17 years he was Partner, Founder and Director of the [Sullivan & Worcester LLP](http://www.sandw.com/) High Tech / New Ventures Group.
 
-### **Stephen G. Pearse**
+### **{{< anchor "pearse" >}}Stephen G. Pearse**
 
 Principal at Yucatan Rock; Former CEO of Cyras Systems, Inc; EVP and General Manager, Internet / Telecom Business Group of Nortel Networks; Senior VP TimeWarner Communications.
 
 Stephen has been a proven leader in the IT and Telecom space for over 22 years. He currently manages investment firm Yucatan Rock, Inc. and sits on the boards of Intrusic and Emerson Hospital. Most notably Stephen was CEO of Cyras Systems which sold to Ciena Corporation in a deal valued at $2.7B. Before starting his entrepreneurial career, Stephen was EVP and General Manager of Nortel Networks’ Internet / Telecom Business Group, where he also managed the merger between Bay Networks and Nortel Networks. Previously, Stephen served as Senior Vice President of Engineering, Operations and IT at Time Warner Telecom, and Vice President of Technology Planning at Sprint.
 
-### **Bob Jones**
+### **{{< anchor "jones" >}}Bob Jones**
 
 Serial Healthcare Industry Entrepreneur
 
 Bob is CEO of Scientific Nutrition Products, Inc. The company addresses medical conditions by creating and selling nutrition-based products. Their first product is a 2½ oz. beverage that promotes sleep. Bob was previously a Principal at Scientia Advisors, a strategy consulting firm, where Bob led the Nutrition and Wellness practice. Prior to Scientia, Bob was President and CEO of Vitasoy USA, Inc., the nation’s largest marketer and manufacturer of tofu and the pioneer of soymilk in America. This was a management turn-around. In a two-year period, Bob consolidated the manufacturing operations, improved the supply chain logistics, reduced headcount, upgraded the management team and the sales force, repositioned the company and its products, and jump-started new product development. He was instrumental in turning around a troubled company. Before joining Vitasoy, Bob launched three start-ups in the medical nutrition field. Each company addressed chronic medical disorders such as diabetes via specifically targeted nutrition products (rather than with drugs). All three start-ups were with staff and faculty at Harvard Medical School. Each company turned leading-edge science into consumer products that were sold through retail pharmacies. Bob has held executive positions at several other companies, including Abbott Laboratories and Baxter International. He has two awarded patents in the field of nutrition. He is an active mentor with MIT’s Venture Mentoring Service and has served as a judge in MIT’s 100K Business Plan Competition. He has an A.B. in biology from Princeton University, and an MSM (MBA + thesis) from MIT Sloan. After hours, Bob plays in a blues band in the Boston area, is a springboard diver and an enthusiastic motorcyclist. [Bob Jones at his Other Job](http://nutsandbolts.mit.edu/2014/bobjones.php)
 
-**Rich Kivel**
+**{{< anchor "kivel" >}}Rich Kivel**
 
 Serial Healthcare Industry Entrepreneur
 
 Rich is a Senior Manager at Bridgewater Associates. Bridgewater is ranked as the largest and best-performing hedge fund manager in the world with over $120 billion in global investments. Additionally, Rich serves as Chairman of Rhapsody Biologics, a biotech company focused in the field of vaccine development, with offices in the US and Singapore. Prior to this, Rich served as CEO of TheraGenetics, a UK-based pharmacogenetic diagnostics company. In January 2009, TheraGenetics was acquired by UK based Avacta Group plc. LSE: (AVCT). Rich remained as CEO and continued to lead the growth of TheraGenetics under the new ownership until June 2009. Rich served as Chairman of the global Board of Directors of the MIT Enterprise Forum and was a member of the MIT Alumni Association Board from 2008-2011. He is a frequent lecturer at MIT as well as a judge for the MIT $100K Entrepreneurship Competition. Rich serves as a Board member of both public and private companies in the biotech and high-tech space, such as Rexahn Pharmaceuticals, Inc. (NYSE:RNN), a biopharmaceutical company developing novel cures for cancer and disorders of the central nervous system (CNS).
 
-### **Axel Bichara**
+### **{{< anchor "bichara" >}}Axel Bichara**
 
 [General Partner and Co-Founder, Bolt.io](http://bolt.io/#team) (seed stage / accelerator). Venture capital veteran. Mechanical engineering background. 19 years as partner with Atlas Venture. Invested over $350M of venture capital. Co-founded Premise (acquired by Computervision). Lead investor in SolidWorks (acquired by Dassault Systemes).
 
-### **Amir Nashat**
+### **{{< anchor "nashat" >}}Amir Nashat**
 
 [Polaris Partners](http://www.polarispartners.com/team/member/amir-nashat/)
 
-### **Julianne Zimmerman**
+### **{{< anchor "zimmerman" >}}Julianne Zimmerman**
 
 Co-founder of seed-stage investment firm Vodia Ventures, Julianne has invested in startups in energy, water, food, and health. For over 25 years she has focused on helping for-profit and non-profit teams put technology to work for the greater good. As an external consultant, VP of Communications, VP of Business Development, and VP of Engineering, Julianne has built departments, managed alpha projects, guided branding and identity efforts, and led a wide variety of initiatives from blank page to successful, in many cases, award-winning completion. Along the way she and her co-conspiritors have catalyzed industry shifts, changed conversations, won awards, and set new standards for performance. Julianne holds two undergraduate degrees from MIT (XVI and XXI-L), and MS from the University of Maryland, and an executive certificate in sustainability management from the Presidio Graduate School; she previously served as a certified EMT in Maryland and Massachusetts. She was twice a finalist in the NASA astronaut selection process. She is a frequent speaker, reviewer and judge for domestic and international entrepreneurship programs; she currently co-chairs the MIT Enterprise Forum Innovation Series and serves on the MIT Venture Mentoring Service. [LinkedIn Profile](http://juliannezimmerman.com/jz/julianne.html).
 
-### **Gihan Amarasiriwardena**
+### **{{< anchor "amarasiriwardena" >}}Gihan Amarasiriwardena**
 
 Co-Founder & CEO, Ministry of Supply
 
-### **Nina Dudnik**
+### **{{< anchor "dudnik" >}}Nina Dudnik**
 
 [Founder and CEO, Seeding Labs](http://seedinglabs.org/about/our-team/)
 
-### **John Harthorne**
+### **{{< anchor "harthorne" >}}John Harthorne**
 
 [Founder and CEO, Masschallenge.org](https://web.archive.org/web/20090711145813/http://masschallenge.org/team)
 
-### **Charlie Tillett**
+### **{{< anchor "tillett" >}}Charlie Tillett**
 
 Sloan MBA; Former MIT 10K Participant; Serial Entrepreneur
 
 Charlie Tillett is a financial executive who has 20+ years working with VC-backed, early-stage, technology companies and was the founding CFO at two highly successful start-ups in the Boston area. Charlie graduated from MIT Sloan in 1991 with a SM and a concentration in Entrepreneurial Finance. His thesis was on Investment Criteria of Angel Investors using the Venture Capital Network and his team was the third place finisher in the inaugural MIT 10K Business Plan Competition (now the 100K Competition). After graduating from Sloan, Charlie joined NetScout Systems - a developer of enterprise network diagnostic tools - as employee #9. Over the next decade, he closed two rounds of VC financing and managed the company growth to $80 million in annual revenue with 250 employees. In 1999, he completed the company's IPO on NASDAQ (NTCT). In 2003, Charlie joined Reveal Imaging Technologies (www.revealimaging.com), a manufacturer of explosive detection systems for aviation security. At the time Reveal had not even started product development and did not have any funding. He completed a $1 million Angel round within 90 days, a $5 million VC round within 6 months and - over the next 5 years - helped the company achieve annual revenue of $45 million with 80 employees. In 2010, Reveal was sold to SAIC, a west coast government contractor. As CFO, Charlie has had responsibility for all finance, budgeting, accounting and fund-raising as well as administrative issues including HR, IT, and facilities. Over his career, he has raised over $125 million in more than a dozen equity / debt funding transactions and participated in multiple M&A engagements. He is an avid skier, completed his first half-ironman triathlon this past summer, and lives in Wayland MA with his wife & 4 children.
 
-### **Ken Zolot**
+### **{{< anchor "zolot" >}}{{< anchor "zolot" >}}Ken Zolot**
 
 Senior Lecturer, MIT School of Engineering
 
@@ -82,15 +82,15 @@ Ken is an active advisor to numerous organizations involved in advancing innovat
 
 He holds a Master of Science degree from MIT in Management of Technology. His undergraduate work was at Syracuse University, where he earned a Bachelor of Science degree in Computer Science and a Bachelor of Arts degree in Philosophy.
 
-### **Mindy Garber**
+### **{{< anchor "garber" >}}{{< anchor "garber" >}}Mindy Garber**
 
 Mindy Garber helped found and is Chief for Quality / Customer Satisfaction at Parlance Corporation, makers of speech‐recognition telephony applications. Her responsibilities include corporate processes, support, training, field engineering and customer satisfaction. Prior to Parlance, Ms. Garber was an engineer and service manager at Bolt, Beranek and Newman in three different divisions: speech recognition, data analysis software, and the Butterfly™, a parallel computer. Since 2004, Ms. Garber has also been active in the conflict resolution field, serving as a mediator with the Massachusetts District Courts and as an arbitrator with the Massachusetts Bar Association. She founded Dorfermin Associates to help high tech start‐ups resolve disputes without requiring costly litigation. Ms. Garber became a mediator after completing courses in Negotiation and Mediation at the Program on Negotiation at Harvard Law School. She holds a Master’s degree in Engineering from Stanford University and a Bachelor’s degree in Mechanical Engineering from MIT. Ms. Garber enjoys a continuing close association with MIT as a volunteer with the Educational Council, the Community Catalyst Leadership Program, the MIT‐FIRST Robotics Alliance and the MIT K‐12 Initiative, among other roles. Ms. Garber’s service at MIT was recently recognized with the Lobdell Distinguished Service Award.
 
-### **Victoria Bennet**
+### **{{< anchor "bennet" >}}Victoria Bennet**
 
 Victoria Bennet is a mediator and consultant in private practice. She has mediated a wide range of court‐referred, government agency and private disputes, ranging from large commercial cases and foreclosures to workplace, criminal and family cases. Ms. Bennet serves on mediation panels for the US Equal Employment Opportunity Commission, the Boston Bar Association, and several departments of the Massachusetts Judiciary. She has extensive experience training people from diverse backgrounds in negotiation and conflict resolution skills, including custom workshop design and one‐on‐ one coaching. She has provided training services at the Fletcher School of Law and Diplomacy, the Program on Negotiation at Harvard Law School, Massachusetts Institute of Technology, and Boston College Law School. She has been a guest lecturer at MIT, Boston College Law School, and the Suffolk University School of Law. As a consultant, she advises business owners and executives on partnership issues, team dynamics and managing workplace conflict. Ms. Bennet is a graduate of Dalhousie University in Canada and the University of Geneva in Switzerland. Her early career was in French and German translation.
 
-### **Joost Bonsen**
+### **{{< anchor "bonsen" >}}{{< anchor "bonsen" >}}Joost Bonsen**
 
 Lecturer, MIT Media Lab (Co-Instructor of the course)
 
@@ -98,7 +98,7 @@ Joost Bonsen studies innovation everywhere, from invention in research labs thro
 
 Among his many MIT roles, Bonsen was most recently Teaching Assistant for the path-breaking MIT-Harvard joint-class["Technology & Competitive Strategy"](http://courses.media.mit.edu/2002spring/mas967/), combining student technologists from over a dozen different MIT departments with technology-savvy business students from MIT Sloan and HBS. Bonsen is fascinated by entrepreneurial challenges faced by developing nations and, most recently, served as TA for "Developmental Entrepreneurship", an effort to bring suitable technologies, entrepreneurial ideas, and economic benefit to even the poorest of the global poor. Bonsen has a Bachelor"s Degree in Bio-Electrical Engineering from MIT and Master of Science in Management from the MIT Sloan School of Management, Sloan Fellows Program.
 
-### **Yonald Chery**
+### **{{< anchor "chery" >}}{{< anchor "chery" >}}Yonald Chery**
 
 Serial Entrepreneur (Teaching Assistant for the course)
 

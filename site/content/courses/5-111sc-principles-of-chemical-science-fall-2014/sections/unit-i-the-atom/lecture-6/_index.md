@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c34c8fe74e0fb8e9ce9f3776157b8c52_Lecture_6.jpg)  | {{< br >}}{{< br >}}1.  Wavefunctions (Orbitals) for the Hydrogen Atom{{< br >}}2.  Shape and Size of S and P Orbitals{{< br >}}3.  Electron Spin and the Pauli Exclusion Principle{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video6" >}}Lecture Video
+--------------------------------------------
 
 Where is that electron anyway? In this lecture, the probability of finding an electron at a particular distance from the nucleus is discussed. The concept of wavefunctions (orbitals) is introduced, and applications of electron spin are described. In particular, chemist Ben Ofori-Okai introduces us to the wonders of magnetic resonance imaging, also known as MRIs.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 6 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6/MIT5_111F14_Lec6Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

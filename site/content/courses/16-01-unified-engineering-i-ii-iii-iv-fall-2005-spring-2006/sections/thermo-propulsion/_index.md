@@ -27,8 +27,8 @@ Learning Objectives
 
 [Table Organization](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/syllabus#Table_organization)
 
-Sample Lecture
---------------
+{{< anchor "video" >}}Sample Lecture
+------------------------------------
 
 ### Sample Lecture P9: Energy Exchange with Moving Blades
 
@@ -73,8 +73,8 @@ Propulsion, 16.03-16.04
   
  
 
-Additional Resources for Thermodynamics (16.01-02)
---------------------------------------------------
+{{< anchor "BelowTable" >}}Additional Resources for Thermodynamics (16.01-02)
+-----------------------------------------------------------------------------
 
 Pedagogical Resource: [Reflective Memo from Fall 2003]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/thermo-propulsion/reflectmemo03-htm" %}})
 

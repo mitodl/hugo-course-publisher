@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/333472e016823ba04bd206c343eadd0f_Lecture_12.jpg)  | {{< br >}}{{< br >}}1.  The Shapes of Molecules: VSEPR Theory{{< br >}}    1.  Molecules _without_ Lone Pairs{{< br >}}    2.  Molecules _with_ Lone Pairs{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video12" >}}Lecture Video
+---------------------------------------------
 
 Valence shell electron pair repulsion or VSEPR theory can be used to predict molecular geometry. The theory is based on Lewis structures and the simple idea that that the preferred geometry around a central atom is the one that minimizes electron repulsion. Chemist Stefanie Sydlik tells us how she uses VSEPR theory to design sensors that are capable of detecting landmines.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 12 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-12/MIT5_111F14_Lec12Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

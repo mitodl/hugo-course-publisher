@@ -26,8 +26,8 @@ Overview
 
 This session could be called: Making People Care 101. We'll cover what makes for compelling text, both in a general science communication sense and in the context of scripting and video planning. Then, we'll integrate the written word with the spoken, with a hosting workshop building on yesterday's case studies. Today's session will be a continuous workshop of writing, table reading, critiquing, and filming led by George Zaidan and Elizabeth.
 
-Part 1: Writing Workshop
-------------------------
+{{< anchor "Part_1:_Writing_Workshop" >}}Part 1: Writing Workshop
+-----------------------------------------------------------------
 
 {{< youtube AjK2zF9yN0k >}}
 
@@ -45,13 +45,13 @@ Part 1: Writing Workshop
 
 *   PRI Public Radio International. "[Ira Glass on Storytelling, part 1 of 4](http://youtu.be/loxJ3FtCJJA)." August 18, 2009. YouTube.
 
-Part 2: Hosting Workshop
-------------------------
+{{< anchor "Part_2:_Hosting_Workshop" >}}Part 2: Hosting Workshop
+-----------------------------------------------------------------
 
 {{< youtube 6lUGb3VIPmY >}}
 
-Assignments
------------
+{{< anchor "Assignments" >}}Assignments
+---------------------------------------
 
 ### Daily Blog / Vlog Assignment
 
@@ -61,8 +61,8 @@ Upload a video, written blog post, pictures, etc. reflecting on insights gained 
 
 Record a new STEM pitch and post to class tumblr with #day3trailer. You will need to post a second draft of your script on the blog by the January 9, so start working on that as well.
 
-Instructor and Student Work
----------------------------
+{{< anchor "Instructor_and_Student_Work" >}}Instructor and Student Work
+-----------------------------------------------------------------------
 
 ### Blogs / Vlogs
 

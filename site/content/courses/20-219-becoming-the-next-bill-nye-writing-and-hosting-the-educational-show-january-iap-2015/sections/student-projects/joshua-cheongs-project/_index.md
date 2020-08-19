@@ -29,8 +29,8 @@ Contents
 *   [Rough Cut](#Rough_Cut)
 *   [Final Project](#Final_Project)
 
-Day 1 Pitch
------------
+{{< anchor "Day_1_Pitch" >}}Day 1 Pitch
+---------------------------------------
 
 {{< youtube 0BmWrrZq5A4 >}}
 
@@ -44,8 +44,8 @@ The YouTube has yet to be fully processed so it may take a while to come live. T
 
 [\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
 
-Day 2 Script: How Does a Google Search Work?
---------------------------------------------
+{{< anchor "Day_2_Script" >}}Day 2 Script: How Does a Google Search Work?
+-------------------------------------------------------------------------
 
 Narrator / Host:
 
@@ -67,8 +67,8 @@ So the next time you do a Google search, know that you're in good hands with the
 
 [\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 3 Trailer
--------------
+{{< anchor "Day_3_Trailer" >}}Day 3 Trailer
+-------------------------------------------
 
 {{< youtube RMRI-Q3PMLE >}}
 
@@ -76,8 +76,8 @@ This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMy
 
 [\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
 
-Day 4 Script
-------------
+{{< anchor "Day_4_Script" >}}Day 4 Script
+-----------------------------------------
 
 **Script: Why Can't I Find my Stuff?**
 
@@ -113,15 +113,15 @@ Aha! So that's where my gloves are!
 
 And that's how we find stuff better. Not a just little bit better but a lot better![]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
-Day 4 Storyboard
-----------------
+{{< anchor "Day_4_Storyboard" >}}Day 4 Storyboard
+-------------------------------------------------
 
 ![Joshua-Cheong---day-4-story.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/9533ce827a08ebf869307baf309a7813_Joshua-Cheong---day-4-story.jpg)  
 
 [\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
-Day 5 Script
-------------
+{{< anchor "Day_5_Script" >}}Day 5 Script
+-----------------------------------------
 
 **Why can't I find my stuff?**
 
@@ -165,8 +165,8 @@ Aha! So that's where my gloves are!
 
 And that's how we find stuff better. Not a just little bit better but a lot better![]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor_and_Student_Work)
 
-Day 5 Storyboard
-----------------
+{{< anchor "Day_5_Storyboard" >}}Day 5 Storyboard
+-------------------------------------------------
 
 | _SCENE #_ | _LOCATIONs_ | _VIDEOs_ | _NARRATIONs_ |
 | --- | --- | --- | --- |
@@ -183,8 +183,8 @@ Day 5 Storyboard
 
 [\_Link back to Day 5\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor_and_Student_Work)
 
-Script: Final Iteration
------------------------
+{{< anchor "Script:_Final_Iteration" >}}Script: Final Iteration
+---------------------------------------------------------------
 
 Why can't I find my stuff? The Science of Search
 
@@ -215,8 +215,8 @@ Aha! So that's where my gloves are! And that's the story of Search!
 [\_Link back to Day 7  
 \_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production/_index.md" %}}#Instructor_and_Student_Work)
 
-Rough Cut
----------
+{{< anchor "Rough_Cut" >}}Rough Cut
+-----------------------------------
 
 {{< youtube W7LI4nNxk64 >}}
 
@@ -224,8 +224,8 @@ This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMy
 
 [\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
-Final Project: Why can't I find my glove? The Science of Search
----------------------------------------------------------------
+{{< anchor "Final_Project" >}}Final Project: Why can't I find my glove? The Science of Search
+---------------------------------------------------------------------------------------------
 
 {{< youtube 5eF2qCWtifM >}}
 

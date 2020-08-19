@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/bf0340d1f5d817e3bca597b1ce92e410_Lecture_33.jpg)  | {{< br >}}{{< br >}}1.  Effect of Temperature on Reaction Rates{{< br >}}2.  The Reaction Coordinate and the Activation Complex{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video33" >}}Lecture Video
+---------------------------------------------
 
 Using liquid nitrogen, we observe that lowering the temperature slows reaction rates. The concept of activation energy is introduced; there is always some energy needed when two molecules come together that allows them to react. Only molecules that have this critical energy, and can overcome this activation energy barrier, will react and go on to product. Lower temperature means that fewer molecules with have this critical amount of energy.
 
@@ -32,8 +32,8 @@ Clicker Questions
 
 [Lecture 33 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-33/MIT5_111F14_Lec33Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/eaea9b909de37c8ffd2db1ed6bd199cd_Lecture_34.jpg)  | {{< br >}}{{< br >}}1.  Introduction to Catalysis{{< br >}}2.  Types of Catalysts{{< br >}}3.  Catalysts of Life and Enzyme Catalysis{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video34" >}}Lecture Video
+---------------------------------------------
 
 A catalyst is a substrate that speeds up a reaction without being consumed. Catalysts lower the activation energy barrier for a reaction without changing the equilibrium constant. In this lecture, catalysts of different types are introduced, including Nature’s catalysts, enzymes. We also hear from Chemist Jingnan Lu about why knowledge of kinetics is important for the development of biofuels.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 34 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-34/MIT5_111F14_Lec34Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

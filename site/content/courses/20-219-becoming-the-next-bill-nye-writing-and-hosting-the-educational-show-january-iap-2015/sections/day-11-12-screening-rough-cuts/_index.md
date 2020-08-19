@@ -21,13 +21,13 @@ Contents
 *   [Student Work](#Student_Work)
 *   [Overview (Day 12)](#Overview__Day_11_)
 
-Overview (Day 11)
------------------
+{{< anchor "Overview__Day_11_" >}}Overview (Day 11)
+---------------------------------------------------
 
 We'll screen everyone's rough cuts to the class for feedback and critiques. Your peers will be using [Google Docs](https://www.google.com/docs/about/) to provide feedback. We will randomly assign you to annotate three classmates' projects during the second half of class.
 
-Screening
----------
+{{< anchor "Screening" >}}Screening
+-----------------------------------
 
 {{< youtube VQi6t2NfWig >}}
 
@@ -42,13 +42,13 @@ Screening
 *   {{< youtube VQi6t2NfWig >}}
 *   {{< youtube VQi6t2NfWig >}}
 
-Assignment
-----------
+{{< anchor "Assignment" >}}Assignment
+-------------------------------------
 
 Peer-annotate your assigned projects by the end of class. Then, work on your project until the final screening!
 
-Student Work
-------------
+{{< anchor "Student_Work" >}}Student Work
+-----------------------------------------
 
 | Rough Cuts | Comments |
 | --- | --- |
@@ -60,8 +60,8 @@ Student Work
 | [Yuliya's rough cut]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project/_index.md" %}}#Fractals__Rough_Cut) | [Comments on Yuliya's rough cut (PDF)]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/MIT20_219IAP15_Yuliyacom" %}}) |
 | [David's rough cut]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project/_index.md" %}}#Rough_Cut) | [Comments on David's rough cut (PDF)]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/MIT20_219IAP15_Davidcom" %}}) 
 
-Overview (Day 12)
------------------
+{{< anchor "Overview" >}}Overview (Day 12)
+------------------------------------------
 
 You will have all of class time to work on second shoots / new edits for the final cut of your project. Teaching staff will be available to give feedback and technical help.
 

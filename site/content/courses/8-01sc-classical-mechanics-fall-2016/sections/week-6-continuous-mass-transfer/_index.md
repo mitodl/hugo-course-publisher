@@ -16,16 +16,16 @@ Week 6: Continuous Mass Transfer
 
 *   [Week 6 Introduction]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/week-6-introduction" %}})
 
-Lesson 18: Relative Velocity and Recoil
----------------------------------------
+{{< anchor "Lessson_18" >}}Lesson 18: Relative Velocity and Recoil
+------------------------------------------------------------------
 
 *   [18.1 Relative Velocity]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/18.1-relative-velocity" %}})
 *   [18.2 Set up a Recoil Problem]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/18.2-set-up-a-recoil-problem" %}})
 *   [18.3 Solve for Velocity in the Ground Frame]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/18.3-solve-for-velocity-in-the-ground-frame" %}})
 *   [18.4 Solve for Velocity in the Moving Frame]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/18.4-solve-for-velocity-in-the-moving-frame" %}})
 
-Lesson 19: Continuous Mass Transfer
------------------------------------
+{{< anchor "Lessson_19" >}}Lesson 19: Continuous Mass Transfer
+--------------------------------------------------------------
 
 *   [19.1 Rocket Problem 1 - Set up the Problem]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.1-rocket-problem-1-set-up-the-problem" %}})
 *   [19.2 Rocket Problem 2 - Momentum Diagrams]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.2-rocket-problem-2-momentum-diagrams" %}})

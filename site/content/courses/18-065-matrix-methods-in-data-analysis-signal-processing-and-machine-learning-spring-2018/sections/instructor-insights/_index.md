@@ -10,6 +10,8 @@ menu:
     name: Instructor Insights
     weight: 30
 ---
+{{< anchor "insights" >}}
+
 Instructor Insights
 -------------------
 
@@ -31,6 +33,8 @@ Curriculum Information
 ### Offered
 
 Every spring semester
+
+{{< anchor "classroom" >}}
 
 The Classroom
 -------------
@@ -63,6 +67,8 @@ Both undergraduate and graduate students
 ### Breakdown by Major
 
 Variety of majors
+
+{{< anchor "studenttime" >}}
 
 How Student Time Was Spent
 --------------------------

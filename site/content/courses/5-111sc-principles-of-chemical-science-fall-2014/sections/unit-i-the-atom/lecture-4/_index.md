@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/030c450167ae4d83deaa71626be2bb92_Lecture_4.jpg)  | {{< br >}}{{< br >}}1.  Light as a Particle (continued){{< br >}}2.  Matter as a Wave{{< br >}}3.  The Schrödinger Equation{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video4" >}}Lecture Video
+--------------------------------------------
 
 The idea that matter (and thus an electron) has both particle-like and wave-like properties is introduced, and chemist Darcy Wanger Grinolds introduces us to quantum dot technology. We also start to consider the impact that the Schrödinger equation had on our understanding of the atom.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 4 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4/MIT5_111F14_Lec4Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

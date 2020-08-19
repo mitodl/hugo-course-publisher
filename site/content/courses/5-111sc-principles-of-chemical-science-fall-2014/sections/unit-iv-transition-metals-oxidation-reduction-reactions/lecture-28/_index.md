@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/af4d350d34ab0849ef969550987d4a7c_Lecture_28.jpg)  | {{< br >}}{{< br >}}1.  Introduction to Crystal Field Theory{{< br >}}2.  Crystal Field Theory: Octahedral Case{{< br >}}3.  Spectrochemical Series: the Ligand to the Metal Matters{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video28" >}}Lecture Video
+---------------------------------------------
 
 Crystal field theory was developed to explain the special features of transition metal complexes, including their beautiful colors and their magnetic properties. In part I of this topic, we consider d-block coordination complexes that have octahedral geometry, and see whether we can change the color of a paper flower dipped in an octahedral cobalt chloride complex just by adding water.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 28 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28/MIT5_111F14_Lec28Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |
