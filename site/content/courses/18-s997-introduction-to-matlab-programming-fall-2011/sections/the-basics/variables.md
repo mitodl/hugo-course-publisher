@@ -24,11 +24,15 @@ _In this last example, we are getting ahead of ourselves by referring to an elem
 
 Note that you can "hide" important MATLAB functions and constants by defining a variable with the same name: `pi=3` will give interesting results later (to remove `clear pi`). This is usually not a good idea, so take care before using a nice name like `sum`, `exp`, or `det`, as these are all built-in functions. You can check if a variable is already in use by using the `which` command:
 
-    >> which pi built-in (/Applications/MATLAB_R2011b.app/toolbox/MATLAB/elmat/pi)
+```
+>> which pi built-in (/Applications/MATLAB_R2011b.app/toolbox/MATLAB/elmat/pi)
+```
 
 tells us that `pi` is a built-in function, while
 
-    >> which Pi 'Pi' not found.
+```
+>> which Pi 'Pi' not found.
+```
 
 tells us that `Pi` is unused. The difference is in the capitalization. MATLAB-defined functions will always use lower-case names (even if the helpfile will show these as all CAPITAL), which implies that you can always avoid collision by capitalizing the fiirst letter of your variable and functions names.
 

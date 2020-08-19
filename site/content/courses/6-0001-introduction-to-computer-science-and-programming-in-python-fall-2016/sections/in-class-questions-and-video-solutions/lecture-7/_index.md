@@ -16,7 +16,9 @@ menu:
     
     With the below implementation, is the test set "n = 4 | n = -4 | n = 5" path complete?
     
-        def is_even(n):
+    ```
+    def is_even(n):
+    ```
     
     Exercise 1
     
@@ -48,7 +50,9 @@ CheckShow Answer Videos
     
     Below is a piece of code and an error shown when running it. What is the problem?
     
-        L = 3
+    ```
+    L = 3
+    ```
     
     Exercise 3
     
@@ -69,7 +73,9 @@ CheckShow Answer Videos
     
     If the user enters "twenty" in the code below what does the program do?
     
-        try:
+    ```
+    try:
+    ```
     
     Exercise 4
     

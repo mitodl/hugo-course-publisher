@@ -3,12 +3,6 @@ title: Reading Questions 19
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 type: course
 layout: course_section
-menu:
-  18-05-introduction-to-probability-and-statistics-spring-2014:
-    identifier: e77a7bd7157200e96207bb9280d247ac
-    name: Reading Questions 19
-    weight: 480
-    parent: 579c055accb4eb7ebb6bf294146b45a5
 ---
 Reading Questions Answer Checker
 --------------------------------

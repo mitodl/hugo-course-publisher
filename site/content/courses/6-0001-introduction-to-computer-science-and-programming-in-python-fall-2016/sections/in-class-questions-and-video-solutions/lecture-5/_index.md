@@ -16,7 +16,9 @@ menu:
     
     Examine the code below. What does `always_sunny(('cloudy'), ('cold',))` evaluate to?
     
-        def always_sunny(t1, t2):
+    ```
+    def always_sunny(t1, t2):
+    ```
     
     Exercise 1
     
@@ -37,7 +39,9 @@ menu:
     
     What is the value of L after you run the code below?
     
-        L = ["life", "answer", 42, 0]
+    ```
+    L = ["life", "answer", 42, 0]
+    ```
     
     Exercise 2
     
@@ -60,7 +64,9 @@ menu:
     
     What is the value of L3 after you execute all the operations in the code below?
     
-        L1 = ['re']
+    ```
+    L1 = ['re']
+    ```
     
     Exercise 3
     
@@ -82,7 +88,9 @@ menu:
     
     What is the value of brunch after you execute all the operations in the code below?
     
-        L1 = ["bacon", "eggs"]
+    ```
+    L1 = ["bacon", "eggs"]
+    ```
     
     Exercise 4
     

@@ -3,12 +3,6 @@ title: Electrostatics
 course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 type: course
 layout: course_section
-menu:
-  8-02-physics-ii-electricity-and-magnetism-spring-2007:
-    identifier: 38dfdd337b0a696543363b59a5c32899
-    name: Electrostatics
-    weight: 100
-    parent: ea1fcef11143e57e2f48a97bf8747dc2
 ---
 *   [![A van de Graaff Generator Attracting a Charge.](/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/visualizations/01vdg_Attract_100.jpg)A van de Graaff Generator Attracting a Charge.](/ans7870/8/8.02T/f04/visualizations/electrostatics/01-VandeGraffAttract/01-vdg_Attract_320.html)
 *   [![A van de Graaff Generator Repelling a Charge.](/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/visualizations/02vdg_Repel_100.jpg)A van de Graaff Generator Repelling a Charge.](/ans7870/8/8.02T/f04/visualizations/electrostatics/02-VandeGraffRepel/02-vdg_Repel_DLIC_320.html)

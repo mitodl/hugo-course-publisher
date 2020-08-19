@@ -3,12 +3,6 @@ title: Faraday's Law
 course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 type: course
 layout: course_section
-menu:
-  8-02-physics-ii-electricity-and-magnetism-spring-2007:
-    identifier: ac0248111c7546a6f9a6435379cca7f3
-    name: Faraday's Law
-    weight: 130
-    parent: ea1fcef11143e57e2f48a97bf8747dc2
 ---
 *   [![The Levitating Ring.](/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/visualizations/01FallingRingThumb.jpg)The Levitating Ring.](/ans7870/8/8.02T/f04/visualizations/faraday/01-FallingRing/01-Falling_Ring320.html)
 *   [![The Suspended Ring.](/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/visualizations/02FREThumb.jpg)The Suspended Ring.](/ans7870/8/8.02T/f04/visualizations/faraday/02-FallingRingEquator/02-FallRingSupEq_f100_320.html)

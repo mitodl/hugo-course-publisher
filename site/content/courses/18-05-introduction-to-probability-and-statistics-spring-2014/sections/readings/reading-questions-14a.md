@@ -3,12 +3,6 @@ title: Reading Questions 14a and 14b
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 type: course
 layout: course_section
-menu:
-  18-05-introduction-to-probability-and-statistics-spring-2014:
-    identifier: 5316874c718eec46e3f37e424cdee94b
-    name: Reading Questions 14a
-    weight: 420
-    parent: 579c055accb4eb7ebb6bf294146b45a5
 ---
 Reading Questions Answer Checker
 --------------------------------

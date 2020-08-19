@@ -24,14 +24,17 @@ A function is also a file with lines of code, but there are several distinctions
 
 When we "call" a function we usually give it input and expect output. For example:
 
-    
-    >>a=sin(pi/2)
-    a =
-         1
+```
+
+>>a=sin(pi/2)
+a =
+     1
+```
 
 We gave the input `pi/2` to the function `sin` and assigned the output to the variable `a`. The function `sin` is not written in MATLAB code, so we cannot see how it is implemented, though on occasion it can be useful to see how some MATLAB functions are implemented. For example the function `randperm(n)` returns a random ordering of the numbers `1:n`. It is implemented in MATLAB and can be viewed by writting `open randperm` (your copy of MATLAB might have a different implementation, but here's mine):
 
-`function` `p = randperm(n)
+```
+function p = randperm(n)
 %  RANDPERM Random permutation.
 %    RANDPERM(n) is a random permutation of the integers from 1 to n.
 %    For example, RANDPERM(6) might be [2 4 5 6 1 3].
@@ -45,28 +48,33 @@ We gave the input `pi/2` to the function `sin` and assigned the output to the va
 %    Copyright 1984-2010 The MathWorks, Inc.
 %    $Revision: 1311 $  $Date: 2012-06-18 14:27:32 -0400 (Mon, 18 Jun 2012) $
 
-[~,p] = sort(rand(1,n));`
+[~,p] = sort(rand(1,n));
+```
 
 Notice that the first line starts with the keyword `function`, which states that this file contains a function rather than a script. Next comes the declaration of the return value `p`. This means that the value of the variable, `p` when this function terminates, will be returned as the output of the function. Next comes the name of the function. This should match the name of the file. Now the list of input variables, only one in this case: `n`. So _whatever the input_ is when the function is called, internally it will be placed in a variable called `n`. Next there's a long comment block which becomes the help file text (type `help randsort` and see) and finally the actual body of the function. In this case it is one line of code, but it is slightly strange; it turns out that you can return more than one value from a function. The function `sort` normally returns the inputs vector sorted:
 
-    >> sort(rand(1,4))
-    ans =
-         0.1822    0.3957    0.4644    0.6998 
+```
+>> sort(rand(1,4))
+ans =
+     0.1822    0.3957    0.4644    0.6998 
+```
 
 But if you ask for two output variables, sort will also tell you the _permutation_ needed to get from the input to the output:
 
-    
-    >> A=rand(1,4)
-    A =
-         0.9473    0.1685    0.5514    0.2684
-    >> [B,C]=sort(A)
-    B =
-         0.1685    0.2684    0.5514    0.9473
-    C =
-         2     4     3     1
-    >> A(C) % Notice how we use the permutation C to PERMUTE the elements of A
-    ans =
-         0.1685    0.2684    0.5514    0.9473
+```
+
+>> A=rand(1,4)
+A =
+     0.9473    0.1685    0.5514    0.2684
+>> [B,C]=sort(A)
+B =
+     0.1685    0.2684    0.5514    0.9473
+C =
+     2     4     3     1
+>> A(C) % Notice how we use the permutation C to PERMUTE the elements of A
+ans =
+     0.1685    0.2684    0.5514    0.9473
+```
 
 As this code uses the random number generator 'rand', the results you get may be different from these.
 

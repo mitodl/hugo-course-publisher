@@ -36,8 +36,10 @@ This formulation is a much better way of understanding Newton's method, as it ex
 
 How to implement? First we need a specific function: \\(\\vec f(\[x,y\]^t)=\[x^3-y,y^3-x\]^t\\) and thus the Jacobian matrix is \\((\\begin{smallmatrix} 3x^2 & -1 \\\\ -1& 3y^2 \\end{smallmatrix})\\). In MATLAB we want to have one variable, say \\(X\\), be a column vector that holds both \\(x\\) and \\(y\\). The code for a simple Newton method for \\(f\\) would be:
 
-    X=[1;2];   % the starting point. Notice the use of semicolon to define a column vector
-    for j=1:10 
+```
+X=[1;2];   % the starting point. Notice the use of semicolon to define a column vector
+for j=1:10 
+```
 
 **Exercise 11.** _Multi-dimensional Newton's method_
 
@@ -54,7 +56,8 @@ Now here's the run-up to the next project: We want to plot the "basin of attract
 
 To do this we need `if-else-end` statements:
 
-`if norm``(X-r1)<1e-8 % if the distance between X and r1 is less than 10^-8
+```
+if norm(X-r1)<1e-8 % if the distance between X and r1 is less than 10^-8
      c='r';        % use the color red
 elseif norm(X-r2)<1e-8
      c='b';        % use the color blue
@@ -63,24 +66,29 @@ elseif norm(X-r3)<1e-8
 else               % if not close to any of the roots
      c='k';        % use the color black
 end
-plot(x,y,'.','color',c);` `% plot a point at X_0, (not the final point X!)`
-                         `% with the color c`
+plot(x,y,'.','color',c); % plot a point at X_0, (not the final point X!)
+                         % with the color c
+```
 
 **Project 1.** _Place the Newton code, and the_ `if-then-else` _code above inside two nested_ `for` _loops, looping over_ \\(x-\\) _values and_ \\(y-\\) _values from -2 to 2 (perhaps with a small step-size of 0.1 or 0.01). For each iteration set the starting point to_ `[x,y]'` _before the Newton's Method part, and then plot the color point corresponding to the location of the resulting zero. So that the subsequent plot commands do not erase the previous ones, put:_
 
-`clf` `% clear the current Figure
-hold on` `% make sure subsequent plots do not erase the previous ones.`
+```
+clf % clear the current Figure
+hold on % make sure subsequent plots do not erase the previous ones.
+```
 
 _before the_ `for` _loops. Thus the pseudo-code for this construction is:_
 
-    initialize figure
-    for x values
-         for y values
-              let X0=(x,y) be the starting point for Newton's method
-              find the color corresponding to the final point of iteration X
-              plot point X0 with correct color
-         end loop y
-    end loop x
+```
+initialize figure
+for x values
+     for y values
+          let X0=(x,y) be the starting point for Newton's method
+          find the color corresponding to the final point of iteration X
+          plot point X0 with correct color
+     end loop y
+end loop x
+```
 
 If this is your first programming project, you might get frustrated at how difficult it seems to get everything in place. There's no way around it. Read you own code carefully. Give good names to your variables. Try to explain the code to someone else.
 

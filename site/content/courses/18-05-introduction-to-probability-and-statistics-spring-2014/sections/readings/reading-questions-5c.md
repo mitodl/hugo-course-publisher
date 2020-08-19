@@ -3,12 +3,6 @@ title: Reading Questions 5c
 course_id: 18-05-introduction-to-probability-and-statistics-spring-2014
 type: course
 layout: course_section
-menu:
-  18-05-introduction-to-probability-and-statistics-spring-2014:
-    identifier: 3876a769ff7d47641b94468f23f85fc3
-    name: Reading Questions 5c
-    weight: 300
-    parent: 579c055accb4eb7ebb6bf294146b45a5
 ---
 Reading Questions Answer Checker
 --------------------------------

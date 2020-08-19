@@ -19,17 +19,20 @@ An example for the first kind would be a Newton iteration that should run until 
 
 A `while` loop tells MATLAB® to continue iterating as long as a certain condition (which you specify) is satisfied. The syntax is:
 
-`while` `<condition>
-   <statements>` `end`
+```
+while <condition>
+   <statements> end
+```
 
 MATLAB evaluates the `<condition>` and if it is true (or a non-zero number) it performs the `<statements>`, if not, it continues after the `end`. After each time it evaluates `<statements>` MATLAB goes back and evaluates `<condition>` again, etc. Note that `<condition>` does _not_ get evaluated in the middle of evaluating `<statements>` but, rather, only before evaluating them. Here's a simple way of adding two positive integers (very silly):
 
-    x=5;
-    y=6;
-    while y>0
-        x=x+1;
-        y=y-1;
-    
+```
+x=5;
+y=6;
+while y>0
+    x=x+1;
+    y=y-1;
+```
 
 Of course, this fails miserably if `y` is not a positive integer (doesn't do anything, do you understand why?)
 

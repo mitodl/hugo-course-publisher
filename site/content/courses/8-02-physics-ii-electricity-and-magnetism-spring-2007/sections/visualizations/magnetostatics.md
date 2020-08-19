@@ -3,12 +3,6 @@ title: Magnetostatics
 course_id: 8-02-physics-ii-electricity-and-magnetism-spring-2007
 type: course
 layout: course_section
-menu:
-  8-02-physics-ii-electricity-and-magnetism-spring-2007:
-    identifier: 9d6aa9bb7fdf4d7808ef326a86c0b45e
-    name: Magnetostatics
-    weight: 110
-    parent: ea1fcef11143e57e2f48a97bf8747dc2
 ---
 *   [![The Magnetic Field of a Moving Positive Charge.](/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/visualizations/01MovChrgPosMagThumb.jpg)The Magnetic Field of a Moving Positive Charge.](/ans7870/8/8.02T/f04/visualizations/magnetostatics/01-MovingChargePosMag/01-MovChrgMagPos_f223_320.html)
 *   [![The Magnetic Field of a Moving Negative Charge.](/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/visualizations/02MovChrgNegMagThumb.jpg)The Magnetic Field of a Moving Negative Charge.](/ans7870/8/8.02T/f04/visualizations/magnetostatics/02-MovingChargeNegMag/02-MovChrgMagNeg_f223_320.html)

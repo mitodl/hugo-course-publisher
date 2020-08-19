@@ -54,58 +54,70 @@ Newton's method has (generally) second-order convergence, so in Eq. (3) we would
 
 The following code, is Newton's method but it remembers all the iterations in the list `x`. We use `x(1)` for \\(x\_1\\) and similarly `x(n)` for \\(x\_n\\):
 
-    x(1)=2;   % This is our first guess, put into the first element of x
-    for n=1:5 % we will iterate 5 times using n to indicate the current
-              % valid approximation
-         x(n+1)=x(n)-(tanh(x(n))-x(n)/3)/(sech(x(n))^2-1/3);  %here we
-                                    % calculate the next approximation and
-                                    % put the result into the next position
-                                    % in x.
-    end
-    x % sole purpose of this line is to show the values in x.
+```
+x(1)=2;   % This is our first guess, put into the first element of x
+for n=1:5 % we will iterate 5 times using n to indicate the current
+          % valid approximation
+     x(n+1)=x(n)-(tanh(x(n))-x(n)/3)/(sech(x(n))^2-1/3);  %here we
+                                % calculate the next approximation and
+                                % put the result into the next position
+                                % in x.
+end
+x % sole purpose of this line is to show the values in x.
+```
 
 The semicolon (`;`) at the end of line 4 tells MATLAB not to display the value of `x` after the assignment (also in line 1. Without the lonely `x` on line 9 the code would calculate `x`, but not show us anything.
 
 After running this code, `x` holds the 6 approximations (including our initial guess) with the last one being the most accurate approximation we have:
 
-    x =
-         2.0000    3.1320    2.9853    2.9847    2.9847    2.9847
+```
+x =
+     2.0000    3.1320    2.9853    2.9847    2.9847    2.9847
+```
 
 Notice that there is a small but non-zero distance between x(5) and x(6):
 
-    >> x(6)-x(5)
-    ans =
-         4.4409e-16
+```
+>> x(6)-x(5)
+ans =
+     4.4409e-16
+```
 
 This distance is as small as we can hope it to be in this case.
 
 We can try to verify that we have second order convergence by calculating the sequence defined in Eq. (3). To do that we need to learn more about different options for accessing the elements of a list like \\(x\\). We have already seen how to access a specific element; for example to access the 3rd element we write `x(3)`. MATLAB can access a _sublist_ by giving it a list of indexes instead of a single number:
 
-    >> x([1 2 3])
-    ans =
-         2.0000    3.1320    2.9853
+```
+>> x([1 2 3])
+ans =
+     2.0000    3.1320    2.9853
+```
 
 We can use the colon notation here too:
 
-    x(2:4)
-    ans =
-         3.1320    2.9853    2.9847
+```
+x(2:4)
+ans =
+     3.1320    2.9853    2.9847
+```
 
 Another thing we can do is perform _element-wise_ operations on all the items in the list at once. In the lines of code below, the commands preceding the plot command are executed to help you understand how the plot is generated:
 
-    >> x(1:3).^2
-    ans =
-         4.0000    9.8095    8.9118
-    >> x(1:3)*2
-    ans =
-         4.0000    6.2640    5.9705
-    >> x(1:3)-x(6)
-    ans =
-        -0.9847    0.1473    0.0006
-    >> x(2:4)./(x(1:3).^2)
-    ans =
-         0.4002    0.0018    0.0387
-    >> plot(log(abs(x(1:end-2)-x(end))),log(abs(x(2:end-1)-x(end))),'.'))
+```
+>> x(1:3).^2
+ans =
+     4.0000    9.8095    8.9118
+>> x(1:3)*2
+ans =
+     4.0000    6.2640    5.9705
+>> x(1:3)-x(6)
+ans =
+    -0.9847    0.1473    0.0006
+>> x(2:4)./(x(1:3).^2)
+ans =
+     0.4002    0.0018    0.0387
+>> plot(log(abs(x(1:end-2)-x(end))),log(abs(x(2:end-1)-x(end))),'.'))
+```
 
 The last line makes the following plot (except for the green line, which is \\(y=2x\\)):
 

@@ -27,7 +27,9 @@ As you can easily see when trying to increase the size of the grid, this is a ve
 
 The hardest part of the calculation is the neighbor-counting part. Here's one way to do this:
 
-    Noff_r= [-1, -1, 0, 1, 1,  1,  0, -1];
+```
+Noff_r= [-1, -1, 0, 1, 1,  1,  0, -1];
+```
 
 **Exercise 20.** _It takes time and practice to understand code. Explain to a friend, or a classmate how this code works._
 

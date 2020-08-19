@@ -3,12 +3,6 @@ title: 'PS.2.2 Worked Example: Pushing Stacked Blocks'
 course_id: 8-01sc-classical-mechanics-fall-2016
 type: course
 layout: videogallery
-menu:
-  8-01sc-classical-mechanics-fall-2016:
-    identifier: 00aef6423d37f1e08db3ced31e4003c0
-    name: 'PS.2.2 Worked Example: Pushing Stacked Blocks'
-    weight: 550
-    parent: cf6d9ae85d7b6e788f1e70cf24afc329
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.1-worked-example-sliding-block/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.3-window-washer-problem/_index.md" %}}) »
 

@@ -20,15 +20,15 @@ menu:
 
 The `plot` command plots a list of points given as two vectors, \\(X\\) and \\(Y\\) of their x- and y- coordinates, respectively. The default behaviour is that no mark is placed on the points, and the points are joined by a straight line. So if we want to plot a parabola \\(y=x^2\\) for \\(x\\in\[-1,1\]\\) we can write:
 
-| {{< br >}}{{< br >}}    x=-1:.1:1;{{< br >}}    y=x.^2;{{< br >}}    plot(x,y){{< br >}}{{< br >}} | {{< br >}}{{< br >}}![Graph of an upward-facing parabola in blue.](https://open-learning-course-data-ci.s3.amazonaws.com/18-s997-introduction-to-matlab-programming-fall-2011/af01e8dbe2e8c5ff1ba72e8492b491f1_18-S997f11_unit3_img1.jpg){{< br >}}{{< br >}}Graphing a simple function, y=x^2.{{< br >}}{{< br >}} 
+| {{< br >}}{{< br >}}```{{< br >}}x=-1:.1:1;{{< br >}}y=x.^2;{{< br >}}plot(x,y){{< br >}}```{{< br >}}{{< br >}} | {{< br >}}{{< br >}}![Graph of an upward-facing parabola in blue.](https://open-learning-course-data-ci.s3.amazonaws.com/18-s997-introduction-to-matlab-programming-fall-2011/af01e8dbe2e8c5ff1ba72e8492b491f1_18-S997f11_unit3_img1.jpg){{< br >}}{{< br >}}Graphing a simple function, y=x^2.{{< br >}}{{< br >}} 
 
 We could make that line green by adding a third input:
 
-| {{< br >}}{{< br >}}    x=-1:.1:1;{{< br >}}    y=x.^2;{{< br >}}    plot(x,y,'g.'){{< br >}}{{< br >}} | {{< br >}}{{< br >}}![Graph of an upward-facing parabola with discontinuous green line markers.](https://open-learning-course-data-ci.s3.amazonaws.com/18-s997-introduction-to-matlab-programming-fall-2011/a5af8ec44234d0ae2903a33a90cf1246_18-S997f11_unit3_img2.jpg){{< br >}}{{< br >}}Stylizing the graphs with colors and line markers.{{< br >}}{{< br >}} 
+| {{< br >}}{{< br >}}```{{< br >}}x=-1:.1:1;{{< br >}}y=x.^2;{{< br >}}plot(x,y,'g.'){{< br >}}```{{< br >}}{{< br >}} | {{< br >}}{{< br >}}![Graph of an upward-facing parabola with discontinuous green line markers.](https://open-learning-course-data-ci.s3.amazonaws.com/18-s997-introduction-to-matlab-programming-fall-2011/a5af8ec44234d0ae2903a33a90cf1246_18-S997f11_unit3_img2.jpg){{< br >}}{{< br >}}Stylizing the graphs with colors and line markers.{{< br >}}{{< br >}} 
 
 The resulting plot need not be a function in the mathematical sense of the word:
 
-| {{< br >}}{{< br >}}    t=-1:.01:2*pi;{{< br >}}    x=sin(5*t);{{< br >}}    y=cos(3*t);{{< br >}}    plot(x,y,'r'){{< br >}}{{< br >}} | {{< br >}}{{< br >}}![Graph of a Lissajous figure in red.](https://open-learning-course-data-ci.s3.amazonaws.com/18-s997-introduction-to-matlab-programming-fall-2011/8cb777cdaee2a340c54359f60c3f387a_18-S997f11_unit3_img3.jpg){{< br >}}{{< br >}}Graphing a non-function in MATLAB®.{{< br >}}{{< br >}} 
+| {{< br >}}{{< br >}}```{{< br >}}t=-1:.01:2*pi;{{< br >}}x=sin(5*t);{{< br >}}y=cos(3*t);{{< br >}}plot(x,y,'r'){{< br >}}```{{< br >}}{{< br >}} | {{< br >}}{{< br >}}![Graph of a Lissajous figure in red.](https://open-learning-course-data-ci.s3.amazonaws.com/18-s997-introduction-to-matlab-programming-fall-2011/8cb777cdaee2a340c54359f60c3f387a_18-S997f11_unit3_img3.jpg){{< br >}}{{< br >}}Graphing a non-function in MATLAB®.{{< br >}}{{< br >}} 
 
 **Exercise 10.** _Read the helpfile on_ `plot` _by typing_ `help plot` _and figure out how to do the following:_
 

@@ -14,7 +14,9 @@ menu:
     
     What does the code below print?
     
-        s = "6.00 is 6.0001 and 6.0002"
+    ```
+    s = "6.00 is 6.0001 and 6.0002"
+    ```
     
       
     
@@ -39,7 +41,9 @@ menu:
     
     How many times will the code below print "common letter"?
     
-        s1 = "mit u rock"
+    ```
+    s1 = "mit u rock"
+    ```
     
     Exercise 2
     

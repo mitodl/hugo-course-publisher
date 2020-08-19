@@ -26,10 +26,12 @@ We need to "vectorize" the calculation and only plot once at the end after we ha
 
 We let a matrix \\(A\\) hold all the values of the iterations that correspond to the different points we will end up plotting. Thus we can set up the initial \\(A\\) as follows:
 
-    N=1000;
-    x=linspace(-5,5,N);% linspace is another function that creates vectors.
-    y=linspace(-5,5,N); % Read about it!
-    A=ones(N,1)*x + 1i*y'*ones(1,N);
+```
+N=1000;
+x=linspace(-5,5,N);% linspace is another function that creates vectors.
+y=linspace(-5,5,N); % Read about it!
+A=ones(N,1)*x + 1i*y'*ones(1,N);
+```
 
 **Exercise 13.** _Make sure you understand:_
 
@@ -43,34 +45,42 @@ In the one-at-a-time Newton's method the update step is
 
 We want to do the same only updating all of \\(A\\) at every step. It would work just fine if we could write
 
-    A=A-f(A)./f'(A); %Notice the ./ ? This means, POINT-WISE multiplication,
-    % not linear algebra
+```
+A=A-f(A)./f'(A); %Notice the ./ ? This means, POINT-WISE multiplication,
+% not linear algebra
+```
 
 And we can. We only need to make sure that we define functions \\(f\\) and \\(f'\\) that know how to work with a matrix and return the right answer. We can also make our code more flexible by using our own functions (\\(f(x)\\) and \\(f'(x))\\). Here is how to define simple (one command) functions:
 
-    f=@(x) x.^5+1; %Notice the point here? However there's no such thing as .+
-    fp=@(x) 5*x.^4; 
+```
+f=@(x) x.^5+1; %Notice the point here? However there's no such thing as .+
+fp=@(x) 5*x.^4; 
+```
 
 After defining `f` and `fp`, they can be used like any other MATLAB function:
 
-    >> f(1)
-    ans =
-         2
-    >> f([1 2 3])
-    ans =
-         2    33   244
-    >> f([1 2; 3 4])
-    ans =
-           2          33
-         244        1025
+```
+>> f(1)
+ans =
+     2
+>> f([1 2 3])
+ans =
+     2    33   244
+>> f([1 2; 3 4])
+ans =
+       2          33
+     244        1025
+```
 
 Last, but not least, plotting a 2D surface (the following code has nothing to do with our problem, but it illustrates how to plot a nice 2D surface):
 
-    x=linspace(0,2*pi);
-    y=x';
-    [X,Y]=meshgrid(x,y);%x,y are vectors,X,Y are matrices
-    Z=sin(X).*cos(Y.^2);
-    pcolor(X,Y,Z);
+```
+x=linspace(0,2*pi);
+y=x';
+[X,Y]=meshgrid(x,y);%x,y are vectors,X,Y are matrices
+Z=sin(X).*cos(Y.^2);
+pcolor(X,Y,Z);
+```
 
 There are slight variations to `pcolor`: `mesh`, `surf`, and more. Learn about them using the `help` command.
 

@@ -16,17 +16,27 @@ menu:
     
     Which of the below is a getter method for the number of wheels?
     
-        ----------------------------------
+    ```
+    ----------------------------------
+    ```
     
     Exercise 1
     
-    &nbsp;def get_wheels(): &nbsp;
+    &nbsp;```
+    def get_wheels():
+    ``` &nbsp;
     
-    &nbsp;def get_wheels(): &nbsp;
+    &nbsp;```
+    def get_wheels():
+    ``` &nbsp;
     
-    &nbsp;def get_wheels(self): &nbsp;
+    &nbsp;```
+    def get_wheels(self):
+    ``` &nbsp;
     
-    &nbsp;def get_wheels(self): &nbsp;
+    &nbsp;```
+    def get_wheels(self):
+    ``` &nbsp;
     
     CheckShow Answer Videos
     
@@ -39,7 +49,9 @@ menu:
     
     Whate line could replace `____blank____` to create a class that inherets from `Animal` in the code below?
     
-        ____blank____
+    ```
+    ____blank____
+    ```
     
     Exercise 2
     

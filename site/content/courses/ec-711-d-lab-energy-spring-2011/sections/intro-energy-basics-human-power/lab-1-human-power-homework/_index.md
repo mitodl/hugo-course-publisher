@@ -3,12 +3,6 @@ title: Lab 1 Analysis & Report
 course_id: ec-711-d-lab-energy-spring-2011
 type: course
 layout: course_section
-menu:
-  ec-711-d-lab-energy-spring-2011:
-    identifier: 292bd34ad8ecb81401c0de0ef3145cd4
-    name: Lab 1 Analysis & Report
-    weight: 40
-    parent: 32a22e0de0add67342ce41445297fce7
 ---
 Water Pumping
 -------------
