@@ -34,8 +34,8 @@ Note: The materials selection charts shown in some of the notes and in the video
 
 [Table Organization](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/syllabus#Table_organization)
 
-Sample Lecture
---------------
+{{< anchor "video" >}}Sample Lecture
+------------------------------------
 
 ### Sample Lecture M15: Yielding and Plasticity
 
@@ -131,8 +131,8 @@ The materials selection graph shown in the video (from the Ashby and Jones book)
 | M19 | Fatigue and Fracture ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/materials-structures/gm19_20notes2" %}})) | ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/materials-structures/prsm19" %}})) | ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/materials-structures/mudgm19" %}})) | Ashby, and Jones. Chapters 15-16. | Problem M19 ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/assignments/m19_ps06_spring04" %}}))  {{< br >}}  {{< br >}}Solution M19 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/assignments/m19_ps06_sol" %}})) |
 | M20 | Other Factors in Materials Selection and Design ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/materials-structures/gm19_20notes2" %}})) | ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/materials-structures/prsm20" %}})) | ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/materials-structures/mudgm20" %}})) | Ashby, and Jones. Chapters 17-27. | Problem M20 ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/assignments/m20_ps06_spring04" %}}))  {{< br >}}  {{< br >}}Solution M20 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/assignments/m20_ps06_sol" %}})) 
 
-Additional Resources
---------------------
+{{< anchor "video" >}}{{< anchor "BelowTable" >}}Additional Resources
+---------------------------------------------------------------------
 
 ### References
 

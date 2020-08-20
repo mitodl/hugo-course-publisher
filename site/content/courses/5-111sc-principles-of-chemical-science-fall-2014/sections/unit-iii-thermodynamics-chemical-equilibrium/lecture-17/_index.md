@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4e39e3da6e9d2288e23f1bb3fc0179f6_Lecture_17.jpg)  | {{< br >}}{{< br >}}1.  Thermodynamics{{< br >}}    1.  Effect of Temperature on Spontaneity{{< br >}}    2.  Thermodynamics in Biological Systems{{< br >}}        1.  Hydrogen-bonding{{< br >}}        2.  ATP-coupled Reactions{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video17" >}}Lecture Video
+---------------------------------------------
 
 Chemistry is part of everyday life whether we realize it or not. In this lecture, we use thermodynamics to explain some basic observations made when cooking. Chemistry is also essential within living organisms, and we hear from researcher Lourdes Aleman about the importance of weak interactions known as hydrogen bonds.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 17 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-17/MIT5_111F14_Lec17Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

@@ -82,8 +82,8 @@ Textbooks
 | C22 | Proof Theory (cont.) ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/comps-programming/22_proofsII" %}})) |   |   | Feldman and Koffman. Sections 12.3-12.6. |   |
 | C23 | Guest Lecturer: Heidi Perry  {{< br >}}  {{< br >}}Draper Laboratories |   |   |   |   
 
-Additional Resources
---------------------
+{{< anchor "BelowTable" >}}Additional Resources
+-----------------------------------------------
 
 ### Recitations: 16.01-16.02
 

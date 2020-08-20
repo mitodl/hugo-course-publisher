@@ -46,8 +46,8 @@ Quizzes
 
 Most quizzes are scheduled during lecture sessions. However, the final two disciplines each semester are examined during MIT's final exam week. This occurs after the regular class schedule has concluded.
 
-Calendar Key
-------------
+{{< anchor "calendar_key" >}}Calendar Key
+-----------------------------------------
 
 | DISCIPLINES | ABBREVIATIONS |
 | --- | --- |
@@ -63,15 +63,15 @@ Calendar Key
 | Systems Problems ([2004]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-04/_index.md" %}}) / [2006]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-06/_index.md" %}})) | SP |
 | [Quizzes]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/exams/_index.md" %}}) | Q 
 
-Course Calendar (PDF Format)
-----------------------------
+{{< anchor "pdf" >}}Course Calendar (PDF Format)
+------------------------------------------------
 
 16.01-16.02, Fall 2005 ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/calendar/calendar_fal2005" %}}))
 
 16.03-16.04, Spring 2006 ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/calendar/calendar_spr2006" %}}))
 
-Course Calendar (HTML Format)
------------------------------
+{{< anchor "html" >}}Course Calendar (HTML Format)
+--------------------------------------------------
 
 ### Fall 2005 Calendar
 

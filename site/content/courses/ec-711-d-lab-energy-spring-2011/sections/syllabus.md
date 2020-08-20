@@ -60,7 +60,7 @@ This seminar is graded on an A/B/C/D/F basis; furthermore it is a class where yo
 Readings
 --------
 
-Required text: \[Polak\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/1576754499/ref=nosim/mitopencourse-20) Polak, Paul. _Out of Poverty: What Works When Traditional Approaches Fail_. Berrett-Koehler Publishers, 2008. ISBN: 9781576754498
+{{< anchor "Polak" >}}Required text: \[Polak\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/1576754499/ref=nosim/mitopencourse-20) Polak, Paul. _Out of Poverty: What Works When Traditional Approaches Fail_. Berrett-Koehler Publishers, 2008. ISBN: 9781576754498
 
 Other readings will be assigned for individual topics and class sessions.
 

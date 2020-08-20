@@ -25,8 +25,8 @@ Contents
 *   [Rough Cut](#Final_Project)
 *   [Final Project](#Final_Project:_Breaking_Down_Decomposition)
 
-Day 1 Pitch
------------
+{{< anchor "Day_1_Pitch" >}}Day 1 Pitch
+---------------------------------------
 
 {{< youtube 5DpVemTczV8 >}}
 
@@ -44,8 +44,8 @@ Just a few things:
 
 [\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
 
-Day 2 Script: Draft for "How does Food Turn to Mush?"
------------------------------------------------------
+{{< anchor "Day_2_Script" >}}Day 2 Script: Draft for "How does Food Turn to Mush?"
+----------------------------------------------------------------------------------
 
 _Me opening fridge, going 'ugh' and camera looks at rotten veggies_
 
@@ -85,8 +85,8 @@ How do you prevent your fresh food from going bad? My advice, eat your veggies.
 
 [\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 3 Pitch
------------
+{{< anchor "Day_3_Pitch" >}}Day 3 Pitch
+---------------------------------------
 
 {{< youtube 7LTzsMNPuuk >}}
 
@@ -96,8 +96,8 @@ Very rough
 
 [\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
 
-Day 4 Storyboard
-----------------
+{{< anchor "Day_4_Storyboard" >}}Day 4 Storyboard
+-------------------------------------------------
 
 ![Nathan-day4storyboard-1.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ca053e7d2a25b1c35da7d32369a2ddda_Nathan-day4storyboard-1.jpg)
 
@@ -112,8 +112,8 @@ Day 4 Storyboard
 
 [\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
-Rough Cut: Breaking Down Decomposition
---------------------------------------
+{{< anchor "Final_Project" >}}Rough Cut: Breaking Down Decomposition
+--------------------------------------------------------------------
 
 {{< youtube RINP7d9ohaw >}}
 
@@ -123,8 +123,8 @@ This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1
 
 [\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
-Final Project: Breaking Down Decomposition
-------------------------------------------
+{{< anchor "Final_Project:_Breaking_Down_Decomposition" >}}Final Project: Breaking Down Decomposition
+-----------------------------------------------------------------------------------------------------
 
 {{< youtube W1TMyIn2SIg >}}
 

@@ -16,15 +16,15 @@ Week 10: Rotational Motion
 
 *   [Week 10 Introduction]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/week-10-introduction" %}})
 
-Lesson 28: Motion of a Rigid Body
----------------------------------
+{{< anchor "Lesson_28" >}}Lesson 28: Motion of a Rigid Body
+-----------------------------------------------------------
 
 *   [28.1 Rigid Bodies]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/28.1-rigid-bodies" %}})
 *   [28.2 Introduction to Translation and Rotation]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/28.2-introduction-to-translation-and-rotation" %}})
 *   [28.3 Review of Angular Velocity and Acceleration]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/28.3-review-of-angular-velocity-and-acceleration" %}})
 
-Lesson 29: Moment of Inertia
-----------------------------
+{{< anchor "Lesson_29" >}}Lesson 29: Moment of Inertia
+------------------------------------------------------
 
 *   [29.1 Kinetic Energy of Rotation]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/29.1-kinetic-energy-of-rotation" %}})
 *   [29.2 Moment of Inertia of a Rod]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/29.2-moment-of-inertia-of-a-rod" %}})
@@ -33,8 +33,8 @@ Lesson 29: Moment of Inertia
 *   [29.5 Moment of Inertia of a Sphere]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/29.5-moment-of-inertia-of-a-sphere" %}})
 *   [29.6 Derivation of the Parallel Axis Theorem]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/29.6-derivation-of-the-parallel-axis-theorem" %}})
 
-Lesson 30: Torque
------------------
+{{< anchor "Lesson_30" >}}Lesson 30: Torque
+-------------------------------------------
 
 *   [30.1 Introduction to Torque and Rotational Dynamics]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/30.1-introduction-to-torque-and-rotational-dynamics" %}})
 *   [30.2 Cross Product]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/30.2-cross-product" %}})
@@ -42,8 +42,8 @@ Lesson 30: Torque
 *   [30.4 Torque]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/30.4-torque" %}})
 *   [30.5 Torque from Gravity]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/30.5-torque-from-gravity" %}})
 
-Lesson 31: Rotational Dynamics
-------------------------------
+{{< anchor "Lesson_31" >}}Lesson 31: Rotational Dynamics
+--------------------------------------------------------
 
 *   [31.1 Relationship between Torque and Angular Acceleration]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/31.1-relationship-between-torque-and-angular-acceleration" %}})
 *   [31.2 Internal Torques Cancel in Pairs]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/31.2-internal-torques-cancel-in-pairs" %}})

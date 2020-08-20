@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/edd4f83c96c80e429689e7209e9198f0_Lecture_25.jpg)  | {{< br >}}{{< br >}}1.  Introduction to Oxidation-Reduction (Redox) Reactions{{< br >}}2.  Balancing Redox Reactions{{< br >}}3.  Electrochemical Cells{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video25" >}}Lecture Video
+---------------------------------------------
 
 Redox reactions are a major class of chemical reactions in which there is an exchange of electrons from one species to another. In this lecture, the basic principles of redox reactions are introduced. If you want to design the next greatest battery to power your favorite electronic device, you won’t want to miss this lecture.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 25 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25/MIT5_111F14_Lec25Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

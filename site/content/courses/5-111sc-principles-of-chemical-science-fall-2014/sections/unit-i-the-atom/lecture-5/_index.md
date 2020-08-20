@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/70f20273f28b430235bfd08189ec3cbd_Lecture_5.jpg)  | {{< br >}}{{< br >}}1.  Binding Energies of the Electron to the Nucleus for a Hydrogen Atom{{< br >}}2.  Verification of Hydrogen-Atom Energy Levels{{< br >}}    1.  Photon Emission{{< br >}}    2.  Photon Absorption{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video5" >}}Lecture Video
+--------------------------------------------
 
 In this lecture, we look at the visible spectrum produced by the hydrogen atom. A series of lines of different colors appear and we consider why the hydrogen atom produces this particular spectrum.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 5 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5/MIT5_111F14_Lec5Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

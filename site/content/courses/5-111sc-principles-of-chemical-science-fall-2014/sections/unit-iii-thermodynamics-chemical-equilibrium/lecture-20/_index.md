@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/02988e8e708fabc33bedaf3c2e25da75_Lecture_20.jpg)  | {{< br >}}{{< br >}}1.  Solutions and Solubility{{< br >}}2.  Classification of Acids and Bases{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video20" >}}Lecture Video
+---------------------------------------------
 
 If you have ever tried to get a stain out of a favorite garment or struggled to clean your bathtub after a long period of neglect, this lecture is for you. Understanding solubility is important whether you want to design a new cancer drug, want to save the planet by removing greenhouse gases from the environment like Chemist Hector Hernandez, or if you simply want to get your apartment ready for a visit from your parents.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 20 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-20/MIT5_111F14_Lec20Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

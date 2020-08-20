@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/06337701e25b8505de8164455c04c620_Lecture_27.jpg)  | {{< br >}}{{< br >}}1.  d-Block Metals or Transition Metals{{< br >}}2.  Coordination Complexes (Chelate Effect, Shapes, Isomers){{< br >}}3.  d-Orbital Counting and d-Orbitals{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video27" >}}Lecture Video
+---------------------------------------------
 
 A fundamental property of d-block metals (aka transition metals) is that they are predisposed to form coordination complexes, which have a metal in the middle that is surrounded by ions or atoms (aka ligands). These coordination complexes have special properties, which are described in detail in lectures 28 and 29. We also hear from Chemist Sarah Bowman about the importance of the d-block metal nickel.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 27 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-27/MIT5_111F14_Lec27Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

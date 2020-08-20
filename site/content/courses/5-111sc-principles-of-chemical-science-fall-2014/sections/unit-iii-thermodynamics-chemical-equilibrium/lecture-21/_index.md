@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/47b1c287f5b54b79376b22a21355a706_Lecture_21.jpg)  | {{< br >}}{{< br >}}1.  Definitions and Relationships between pKw, pH, and pOH{{< br >}}2.  Strengths of Acids and Bases{{< br >}}3.  Equilibrium Acid-Base Problems (Weak Acids and Weak Bases){{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video21" >}}Lecture Video
+---------------------------------------------
 
 If the pH of water was 2, would you drink it? What about if the water had a pH of 11? The lecture introduces the concept of pH and we measure the pH of various common solutions.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 21 Clicker Questions (PDF - 1.1MB)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-21/MIT5_111F14_Lec21Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

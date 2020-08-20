@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/f79945bfeea47ad463e2a7f0b9b07a34_Lecture_10.jpg)  | {{< br >}}{{< br >}}1.  Lewis Structures{{< br >}}2.  Formal Charge{{< br >}}3.  Resonance Structures{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video10" >}}Lecture Video
+---------------------------------------------
 
 Lewis structures are simplistic views of molecular structure. They are based on the idea that the key to covalent bonding is electron sharing and having each atom achieve a noble gas electron configuration. Lewis structures correctly predict electron configurations around atoms in molecules about 90% of the time. They are not perfect, but writing a Lewis structure is a lot easier than solving the Schrödinger equation, so we recommend that you watch this lecture.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 10 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-10/MIT5_111F14_Lec10Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

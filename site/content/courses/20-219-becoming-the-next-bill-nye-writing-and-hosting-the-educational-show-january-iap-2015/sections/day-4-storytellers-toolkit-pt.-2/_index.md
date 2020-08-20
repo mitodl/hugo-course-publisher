@@ -21,13 +21,13 @@ Contents
 *   [Assignments](#Assignments)
 *   [Instructor and Student Work](#Instructor_and_Student_Work)
 
-Overview
---------
+{{< anchor "Overview" >}}Overview
+---------------------------------
 
 Guest lecturer Josh Gunn, founder of [Planet Nutshell](http://planetnutshell.com/) (an animation studio in Cambridge), will begin our discussion on visual storytelling. This will be an informal workshop on the use of animation and storyboarding.
 
-Part 1: Animation
------------------
+{{< anchor "Part_1:_Animation" >}}Part 1: Animation
+---------------------------------------------------
 
 {{< youtube 3HnHQXWIFd4 >}}
 
@@ -62,8 +62,8 @@ Part 2: Storyboarding
 *   MITK12Videos. "[Growing Nanotube Forests (Science Out Loud S1 Ep5)](https://youtu.be/lVnHIjwIByw)." June 9, 2014. YouTube.
 *   MITK12Videos. "[Why Do We Have Snot? (MIT Explains)](https://youtu.be/zDo-UG3i75o)." May 14, 2015. YouTube.
 
-Assignments
------------
+{{< anchor "Assignments" >}}Assignments
+---------------------------------------
 
 ### Daily Blog / Vlog Assignment
 
@@ -73,8 +73,8 @@ Upload a video, written blog post, pictures, etc. reflecting on insights gained 
 
 Upload the storyboard of your scene to the class blog with #day4storyboard and continue to work on your script.
 
-Instructor and Student Work
----------------------------
+{{< anchor "Instructor_and_Student_Work" >}}Instructor and Student Work
+-----------------------------------------------------------------------
 
 ### Day 4 Blogs / Vlogs
 

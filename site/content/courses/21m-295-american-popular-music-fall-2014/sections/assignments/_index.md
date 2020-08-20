@@ -9,8 +9,8 @@ menu:
     name: Assignments
     weight: 40
 ---
-Research Essay
---------------
+{{< anchor "Research_essay" >}}Research Essay
+---------------------------------------------
 
 Choose an aspect of American popular music before World War II. There is a list of possible topics below. You are **Not** limited to this list!
 

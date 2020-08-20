@@ -17,8 +17,8 @@ menu:
 
 [_Link to Elizabeth Choe's Page on Tumblr_](http://mit219.tumblr.com/tagged/echoe)
 
-Day 1 Thoughts
---------------
+{{< anchor "Echoe_s_Day_1_Thoughts" >}}Day 1 Thoughts
+-----------------------------------------------------
 
 {{< youtube TXkB42FCriU >}}
 
@@ -32,8 +32,8 @@ The 3 - act structure of web video that Chris talked about was something I hadn'
 
 [\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
 
-Day 2 Thoughts
---------------
+{{< anchor "Echoe_s_Day_2_Thoughts" >}}Day 2 Thoughts
+-----------------------------------------------------
 
 Another day down. I have to admit, I was pretty stressed about this one during class planning because of all of the moving parts, but I suppose stress is bound to happen anytime you're adding 20 6th graders to the mix. I do want to emphasize that you can take everything we (all the teaching staff, today's "guest lecturers") say with a grain of salt. Walter Murch (editor of _Apocalypse Now, Godfather III_, and many others) says in his book, [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/1879505622/ref=nosim/mitopencourse-20) Murch, Walter. _In the Blink of an Eye: A Perspective on Film Editing_. Silman - James Press, 2001. ISBN: 9781879505629.
 
@@ -51,8 +51,8 @@ I'm really excited about the group of students we have in this class and to see 
 
 [\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 3 Thoughts
---------------
+{{< anchor "Echoe_s_Day_3_Thoughts" >}}Day 3 Thoughts
+-----------------------------------------------------
 
 {{< youtube csmoWTVA1GU >}}
 
@@ -60,8 +60,8 @@ This video is courtesy of [Elizabeth Choe](https://www.youtube.com/channel/UCOdu
 
 [\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
 
-Day 4 Reflections
------------------
+{{< anchor "Echoe_s_Day_4_Thoughts" >}}Day 4 Reflections
+--------------------------------------------------------
 
 Another day down. Hope you found this one fun and maybe brought more tangible examples of what works and what doesn't in the world of scriptwriting / video. I do think it's funny to think about what everyone's reaction to taking out the line about density in that Planet Nutshell video would've been before this class… perhaps we wouldn't have been so willing to comply with a less precise (but more accurate) script?
 
@@ -77,8 +77,8 @@ P.S. Totally empathize with how difficult this is, you all are doing a great job
 
 [\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
-Day 5 Thoughts
---------------
+{{< anchor "Echoe_s_Day_5_Thoughts" >}}Day 5 Thoughts
+-----------------------------------------------------
 
 Week one - **Down**! I do recognize that the coursework may have been heavy this week, but I just want to reassure you that I front - loaded this class to set you all up in the best way possible for the rest of the month. Tuesday will be the last "lecture" of the class, with every other day being open to classwork (table reads, screenings and time to film). We just wanted to best equip you all for the open time ahead.
 
@@ -100,8 +100,8 @@ Very, very happy with the progress everyone is making, and even more excited to 
 
 [\_Link back to Day 5\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor_and_Student_Work)
 
-Day 6 Thoughts
---------------
+{{< anchor "Echoe_s_Day_6_Thoughts" >}}Day 6 Thoughts
+-----------------------------------------------------
 
 Well… table reads always go more awkwardly than I always anticipate them to be. Not sure why I'd think otherwise - I mean, you're gathering a bunch of people and expecting them to freely share their creative work and then critique that of others… as per usual, you all were troopers.
 
@@ -113,8 +113,8 @@ I'm also feeling a lot of time crunch - pressure to finish lectures, to finish d
 
 [\_Link back to Day 6\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 7 Thoughts
---------------
+{{< anchor "Echoe_s_Day_7_Thoughts" >}}Day 7 Thoughts
+-----------------------------------------------------
 
 I echo Ceri's sentiments - the scripts have come along very, very far. You may want to watch your original pitches sometime this weekend, just to see the comparison… (both text and delivery!) Not to be too trite, but it really is so awesome hearing people give feedback to each other during class.
 
@@ -128,8 +128,8 @@ I think a radio show is better when the presenter, when the reporter exists as a
 
 [\_Link back to Day 7\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 9 Thoughts
---------------
+{{< anchor "Echoe_s_Day_9_Thoughts" >}}Day 9 Thoughts
+-----------------------------------------------------
 
 Today I followed Yuliya / PJ / Kenneth around for a bit as they filmed part of Yuliya's video on fractals in E ast Campus (a dorm nearby, for those of you who are unfamiliar).
 
@@ -153,8 +153,8 @@ I'm guessing David and Joshua were filming in the hotel this afternoon - can't w
 
 [\_Link back to Day 9\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/days-8-9-10-project-time" %}}#Instructor_and_Student_Work)
 
-Day 11 Thoughts
----------------
+{{< anchor "Echoe_s_Day_11_Thoughts" >}}Day 11 Thoughts
+-------------------------------------------------------
 
 {{< youtube YjZKOZqsOzM >}}
 

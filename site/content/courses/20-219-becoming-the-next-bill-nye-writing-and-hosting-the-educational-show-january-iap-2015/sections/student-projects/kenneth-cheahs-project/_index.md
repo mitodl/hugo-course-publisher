@@ -27,8 +27,8 @@ Contents
 *   [Rough Cut](#Rough_Cut)
 *   [Final Project](#Final_Project)
 
-Day 1 Pitch
------------
+{{< anchor "Day_1_Pitch" >}}Day 1 Pitch
+---------------------------------------
 
 {{< youtube GXvoGKLnGn8 >}}
 
@@ -36,8 +36,8 @@ This video is courtesy of [Kenneth Cheah](https://www.youtube.com/channel/UCy5Pf
 
 [\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
 
-Day 2 Script: Script for "IS Time Travel Possible?!"
-----------------------------------------------------
+{{< anchor "Day_2_Script" >}}Day 2 Script: Script for "IS Time Travel Possible?!"
+---------------------------------------------------------------------------------
 
 Kenneth: Once upon a time (in the year 2009), Stephen Hawking held a party with all the usuals, wine, hors d'oeuvres, and yet, no one turned up!
 
@@ -74,8 +74,8 @@ In the meantime though, I guess we could continue hosting more time traveller pa
 
 [\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 3 Trailer
--------------
+{{< anchor "Day_3_Trailer" >}}Day 3 Trailer
+-------------------------------------------
 
 {{< youtube BPEygcf5Qv4 >}}
 
@@ -85,15 +85,15 @@ Brief summary and trailer or video!
 
 [\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
 
-Day 4 Story Board
------------------
+{{< anchor "Day_4_Story_Board" >}}Day 4 Story Board
+---------------------------------------------------
 
 ![20.219inline1.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/21c75ec98e87be43eb71a1cf0bad8d2b_20.219inline1.jpg)![20.219inline2.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/cbe2a25057a8f12c8ba3929eaca755d7_20.219inline2.jpg)
 
 [\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
-Script Draft 2
---------------
+{{< anchor "Script_Draft_2" >}}Script Draft 2
+---------------------------------------------
 
 Kenneth: Once upon a time (in the year 2009), Stephen Hawking held a party with all the usuals, wine, hors d'oeuvres, and yet, no one turned up!  
 "Show party setting"  
@@ -141,8 +141,8 @@ In the meantime though, I guess we could continue hosting more time traveler par
 
 [\_Link back to Day 5\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor_and_Student_Work)
 
-Rough Cut
----------
+{{< anchor "Rough_Cut" >}}Rough Cut
+-----------------------------------
 
 {{< youtube H5yiAANS0Fc >}}
 
@@ -150,8 +150,8 @@ This video is courtesy of [Kenneth Cheah](https://www.youtube.com/channel/UCy5Pf
 
 [\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
-Final Project
--------------
+{{< anchor "Final_Project" >}}Final Project
+-------------------------------------------
 
 {{< youtube NGhXP83J24Q >}}
 

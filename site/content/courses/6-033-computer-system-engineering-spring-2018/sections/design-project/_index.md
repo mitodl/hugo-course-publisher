@@ -28,8 +28,8 @@ The **Final Report** will also be graded by your Recitation Instructor and will 
 
 The **Peer Review** will be graded by your Tutorial Instructor and Teaching Assistant and will receive a letter grade. This will be worth 4% of your final grade.
 
-Deliverables
-------------
+{{< anchor "deliverables" >}}Deliverables
+-----------------------------------------
 
 Below are all DP deliverables and related material. The dates deliverables are assigned and due are available on the [course calendar]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/calendar" %}}).
 

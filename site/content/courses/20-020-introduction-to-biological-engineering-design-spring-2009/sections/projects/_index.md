@@ -62,8 +62,8 @@ Each report should be a one to two page summary of your freshman team's **dynami
 
 A sample progress report, modfied from the Spring 2008 class ([PDF]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/projects/MIT20_020S09_prj3_902mntr" %}})). (Courtesy of anonymous MIT student. Used with permission.)
 
-Project Documentation
----------------------
+{{< anchor "Project_Documentation" >}}Project Documentation
+-----------------------------------------------------------
 
 The following selected project files are presented courtesy of the students and used with permssion.
 

@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3b8008375f7f0653af066f9934b82861_Lecture_8.jpg)  | {{< br >}}{{< br >}}1.  Ionization Energy and Photoelectron Spectroscopy{{< br >}}2.  Electron Affinity{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video8" >}}Lecture Video
+--------------------------------------------
 
 The periodic table is to chemistry like the laws of motion are to physics. In this lecture, we discover the secrets of the periodic table and meet the elements.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 8 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-8/MIT5_111F14_Lec8Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

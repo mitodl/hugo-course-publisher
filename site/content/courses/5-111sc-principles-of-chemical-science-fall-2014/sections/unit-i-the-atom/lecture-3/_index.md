@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/078998c13433fa2fcbf323d2a0197d85_Lecture_3.jpg)  | {{< br >}}{{< br >}}1.  Light as a Wave, Characteristics of Waves{{< br >}}2.  Light as a Particle, The Photoelectric Effect{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video3" >}}Lecture Video
+--------------------------------------------
 
 The idea that light is both a wave and a particle is introduced. The properties of waves are described and the applications of diffraction are presented.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 3 Clicker Questions (PDF - 1.3MB)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3/MIT5_111F14_Lec3Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

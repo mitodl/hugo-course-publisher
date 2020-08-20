@@ -36,8 +36,8 @@ Undergraduates enrolled in Introduction to Sustainable Energy complete two take-
 | Take-home exam 2 | ([PDF]({{% getpage "courses/22-081j-introduction-to-sustainable-energy-fall-2010/sections/assignments-and-exams/MIT22_081JF10_midterm2" %}})) | ([PDF]({{% getpage "courses/22-081j-introduction-to-sustainable-energy-fall-2010/sections/assignments-and-exams/MIT22_081JF10_midterm2_sol" %}})) |
 | Final exam | ([PDF]({{% getpage "courses/22-081j-introduction-to-sustainable-energy-fall-2010/sections/assignments-and-exams/MIT22_081JF10_finalexam" %}})) |   
 
-Term Paper
-----------
+{{< anchor "termpaper" >}}Term Paper
+------------------------------------
 
 Students enrolled in the graduate course must complete a term paper. The term paper is to answer a question based upon information available in the literature. It is not a research paper, demanding original intellectual contributions. Your paper should answer the question, noting important uncertainties, areas of unavailable knowledge and including a critique of the information in the literature. You should not become an advocate for a policy or position. Please choose a topic that is of interest for a term paper. Do not pick a topic that you are working on or have worked on as a project already – we want you to look into something outside of your main expertise.
 

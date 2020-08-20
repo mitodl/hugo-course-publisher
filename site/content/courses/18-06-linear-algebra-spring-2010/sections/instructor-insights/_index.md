@@ -9,6 +9,8 @@ menu:
     name: Instructor Insights
     weight: 30
 ---
+{{< anchor "insights" >}}
+
 Instructor Insights
 -------------------
 
@@ -31,6 +33,8 @@ Mathematics GIR ![](/images/educator/icon-question-gir.png)
 
 Every semester
 
+{{< anchor "classroom" >}}
+
 The Classroom
 -------------
 
@@ -42,6 +46,8 @@ The Classroom
     
     Classes met in a lecture hall like this one, with tiers of tablet chairs for 294, sliding chalkboards, and A/V equipment.
     
+
+{{< anchor "assessment" >}}
 
 Assessment
 ----------
@@ -68,6 +74,8 @@ Mostly undergraduates
 ### Breakdown by Major
 
 Many computer science & engineering and management majors
+
+{{< anchor "studenttime" >}}
 
 How Student Time Was Spent
 --------------------------

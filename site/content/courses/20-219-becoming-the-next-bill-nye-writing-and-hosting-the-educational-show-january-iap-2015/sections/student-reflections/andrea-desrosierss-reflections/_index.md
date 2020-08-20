@@ -17,8 +17,8 @@ menu:
 
 [_Link to_ _Andrea Desrosiers' Page on Tumblr_](http://mit219.tumblr.com/tagged/aedesros)
 
-Day 1 - Andrea's Struggles
---------------------------
+{{< anchor "Day_1_Andrea_s_Struggles" >}}Day 1 - Andrea's Struggles
+-------------------------------------------------------------------
 
 The theme here is a) "we are experiencing technical difficulties," and b) fear of the camera.
 
@@ -39,8 +39,8 @@ So that's why I tried to pivot my idea for a pitch to something more for a 10–
 
 [\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
 
-Day 2 - Andrea's Struggles
---------------------------
+{{< anchor "Day_2_Andrea_s_Struggles" >}}Day 2 - Andrea's Struggles
+-------------------------------------------------------------------
 
 If there is one thing I have gotten out of my MIT experience, it's the importance of running your ideas by the audience / customer early, and often. The 6th graders that were brought into the class for that purpose were surprisingly well read and engaged. I was happy to see a few shy ones coming out of their shells to talk a bit - mostly because these kids are reflections of me at that age. I enjoyed the skipping from topic to topic that the kids tend to do - it keeps me on my feet and I like trying to follow their thought processes as they respond to various stimuli. I will try to remember this "frequent cut" process as I put together my video. I'm hoping this can keep people engaged.
 
@@ -54,8 +54,8 @@ OK, on to script writing….
 
 [\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 3 Reflections
------------------
+{{< anchor "Day_3_Reflections" >}}Day 3 Reflections
+---------------------------------------------------
 
 {{< youtube PXPZpFHd9Lg >}}
 
@@ -63,8 +63,8 @@ This audio is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/ae
 
 [\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
 
-Day 4 - Andrea's Reflections on Storyboarding And More Scripts
---------------------------------------------------------------
+{{< anchor "Day_4" >}}Day 4 - Andrea's Reflections on Storyboarding And More Scripts
+------------------------------------------------------------------------------------
 
 I really love animation. Sadly, I have just about zero artistic ability, so maybe that explains why I'm so fascinated by it. I can appreciate how much work goes into even one frame, never mind the hundreds that go into even a 2 minute clip. So, hat's off to you Planet Nutshell folks!
 
@@ -76,8 +76,8 @@ Maybe I'll even be ready with another trailer by tomorrow. Or two.
 
 [\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
-Day 5 - Andrea And the Camera
------------------------------
+{{< anchor "Day_5-Andrea_And_the_Camera" >}}Day 5 - Andrea And the Camera
+-------------------------------------------------------------------------
 
 My main takeaway from the class on camera techniques was that it represents a **Lots** of variables. No wonder it takes dozens of shots to get what you want! It seems like it really is all about perseverance. I was not able to get any footage over the weekend since I was laid up with this pesky cold / bronchitis. I realize that I'm relying too much on animation (but it's so cool…). So it's interesting to try to get creative about what you can substitute. I have a shoe - sized glass tooth sculpture that I can maybe use to demo some points, maybe get some play dough to model some of the other structures. I also hope to get in touch with my old colleagues to see if I can film a little bit in their demo dental office. Health permitting of course.
 
@@ -87,8 +87,8 @@ One of my goals in this class was to get more comfortable both behind and in fro
 
 [\_Link back to Day 5\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor_and_Student_Work)
 
-Day 6 Vlog
-----------
+{{< anchor "Day_6_Vlog" >}}Day 6 Vlog
+-------------------------------------
 
 {{< youtube bxyqAe8Fd68 >}}
 
@@ -96,8 +96,8 @@ This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC
 
 [\_Link back to Day 6\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 7 Vlog
-----------
+{{< anchor "Day_7_Vlog" >}}Day 7 Vlog
+-------------------------------------
 
 {{< youtube 0wZ3OpSnbEU >}}
 
@@ -105,8 +105,8 @@ This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC
 
 [\_Link back to Day 7\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production/_index.md" %}}#Instructor_and_Student_Work)
 
-Day 8 Reflection - Andrea on Video
-----------------------------------
+{{< anchor "Day_8_Reflection-Andrea_on_Video" >}}Day 8 Reflection - Andrea on Video
+-----------------------------------------------------------------------------------
 
 Wow, actually got some footage today! Just logged it all after giving them all a quick look. Feels good to know that I got something done. Hopefully tomorrow will go faster / smoother.
 
@@ -122,8 +122,8 @@ Tonight is a rare night that I have actual internet access at home (husband is w
 
 [\_Link back to Day 8\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/days-8-9-10-project-time" %}}#Student_Work)
 
-Day 11 - Andrea's Final Thoughts
---------------------------------
+{{< anchor "Day_11-Andrea_s_Final_Thoughts" >}}Day 11 - Andrea's Final Thoughts
+-------------------------------------------------------------------------------
 
 First off, many thanks to Elizabeth, Jaime, and Ceri for the great instruction and help. The goal of the course was to learn about new media techniques, and you really delivered on that. I continue to believe that this video format will play an increasingly large role in both ed and business. I'm very happy I took the course and when I look back I've learned a tremendous amount.
 
@@ -137,8 +137,8 @@ Have a great spring semester everyone!
 
 [\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
-Final Reflection on Making Videos
----------------------------------
+{{< anchor "Videos-Andrea" >}}Final Reflection on Making Videos
+---------------------------------------------------------------
 
 I did want to wait to write this until after I had the experience of working with a pro crew. Wow, exhilarating and exhausting at the same time - I had to take yesterday (and some Toscanini's mimosa sorbet) to recover.
 

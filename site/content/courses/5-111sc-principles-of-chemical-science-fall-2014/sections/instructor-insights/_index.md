@@ -27,6 +27,8 @@ Course Outcomes
 *   Advance science and engineering through the application of chemical principles
 *   Employ chemistry in one's research in a non-chemistry department laboratory
 
+{{< anchor "insights" >}}
+
 Instructor Insights
 -------------------
 
@@ -63,6 +65,8 @@ GIR ![General Institute Requirements](/images/educator/icon-question-gir.png)
 
 Every fall and spring semester
 
+{{< anchor "classroom" >}}
+
 The Classroom
 -------------
 
@@ -82,6 +86,8 @@ The Classroom
     
     Recitations were held in smaller classrooms equipped with chalkboards and moveable desks.
     
+
+{{< anchor "assessment" >}}
 
 Assessment
 ----------
@@ -114,6 +120,8 @@ Most students have not yet finalized their majors.
 ### Typical Student Background
 
 Not all students who enroll in _5.111 Principles of Chemical Science_ come to the course already enthusiastic about chemistry. The course offers them an opportunity to see how chemistry is a modern subject shaping many fields and how it can offer tools useful for solving real-world problems. Learn more about how Professor Drennan conceptualizes [5.111 as a course in which students can develop a passion for chemistry](./resolveuid/cba7f205b4f543458814abd04739e54b).
+
+{{< anchor "studenttime" >}}
 
 How Student Time Was Spent
 --------------------------

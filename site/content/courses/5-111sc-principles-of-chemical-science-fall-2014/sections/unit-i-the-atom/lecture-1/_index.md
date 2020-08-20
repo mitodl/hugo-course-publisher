@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c9d55ebfd6f1d1baa04b955a9cb017e5_Lecture_1.jpg)  | {{< br >}}{{< br >}}1.  General Course Information and Policies{{< br >}}2.  Course Material Overview{{< br >}}3.  Introduction to the 5.111 Teaching Team{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video1" >}}Lecture Video
+--------------------------------------------
 
 Professor Cathy Drennan introduces this series of lectures about basic chemical principles. She describes her path to becoming a chemist and reveals her first impression of the discipline of chemistry. Goals for students of this material are presented as well as some examples about how real world problems can be solved through the applications of chemical principles. Teaching assistants for the course are introduced.
 
@@ -29,8 +29,8 @@ Lecture Notes
 
 [Notes for Lecture 1 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-1/MIT5_111F14_Lec1" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 This material, which is a review of fundamental chemical principles, will not be explicitly covered in class. The intent of assigning this reading is to provide a review of relevant high-school-level material.
 

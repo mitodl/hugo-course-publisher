@@ -23,18 +23,18 @@ Contents
 *   [Assignments](#Assignments)
 *   [Instructor and Student Work](#Instructor_and_Student_Work)
 
-Overview
---------
+{{< anchor "Overview" >}}Overview
+---------------------------------
 
 What are the non-verbal elements that go into a video, and how do you integrate the camera to enhance your narrative? Today will be a continuation of our discussion on visual storytelling with a video workshop led by Chris Boebel, followed by some tips on production from Elizabeth.
 
-Part 1: What's the Point of your Video?
----------------------------------------
+{{< anchor "Part_1:_What_s_the_point_of_your_video_" >}}Part 1: What's the Point of your Video?
+-----------------------------------------------------------------------------------------------
 
 {{< youtube gUNY29Zpu7g >}}
 
-Part 2: Visual Language
------------------------
+{{< anchor "Part_2:_Visual_Language" >}}Part 2: Visual Language
+---------------------------------------------------------------
 
 {{< youtube BZfqcnlpofI >}}
 
@@ -46,8 +46,8 @@ Part 2: Visual Language
 *   edX. "[Street Fighting Math | MITx on edX | About Page](https://youtu.be/u23ZUSu7-HY)." February 13, 2014. YouTube.
 *   edX. "[Intro to Aerospace Engineering | MITx on edX | Course About Video (Coming soon!)](https://youtu.be/Nugc_RO56cQ)." December 30, 2015. YouTube.
 
-Part 3: Producing a Video
--------------------------
+{{< anchor "Part_3:_Producing_a_Video" >}}Part 3: Producing a Video
+-------------------------------------------------------------------
 
 {{< youtube ftrKlCmELm4 >}}
 
@@ -61,13 +61,13 @@ Part 3: Producing a Video
 *   MITK12Videos. "[Solving Biology's Mysteries with Plants (Science Out Loud S2 Ep2)](https://youtu.be/K9mhXBOhuHU)." October 23, 2014. YouTube.
 *   MITK12Videos. "[Why Do We Have Snot? (MIT Explains)](https://youtu.be/zDo-UG3i75o)." May 14, 2015. YouTube.
 
-Part 4: Filming
----------------
+{{< anchor "Part_4:_Filming" >}}Part 4: Filming
+-----------------------------------------------
 
 {{< youtube 02NyrrxEGqM >}}
 
-Assignments
------------
+{{< anchor "Assignments" >}}Assignments
+---------------------------------------
 
 ### Daily Blog / Vlog Assignment
 
@@ -77,8 +77,8 @@ Document the process of the in-class exercise. Upload a video, written blog post
 
 Post a second draft of your script on the class blog with #scriptdraft2 by Saturday at noon and send a Google Doc copy (with commenting permissions) to the teaching staff.
 
-Instructor and Student Work
----------------------------
+{{< anchor "Instructor_and_Student_Work" >}}Instructor and Student Work
+-----------------------------------------------------------------------
 
 ### Day 5 Blogs / Vlogs
 

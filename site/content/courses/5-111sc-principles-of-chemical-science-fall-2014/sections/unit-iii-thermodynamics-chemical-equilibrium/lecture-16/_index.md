@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/35ea3d5a2627b7771fad5c6ca91b533d_Lecture_16.jpg)  | {{< br >}}{{< br >}}1.  Thermodynamics{{< br >}}    1.  Spontaneous Change and Free Energy{{< br >}}    2.  Entropy{{< br >}}    3.  Free Energy of Formation{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video16" >}}Lecture Video
+---------------------------------------------
 
 If you mix two compounds together will they react spontaneously? How do you know? Find out the key to spontaneity in this lecture. Also, what does Robert Frost’s poetry have to do with entropy, and how can you prepare toothpaste for an elephant? Find out.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 16 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-16/MIT5_111F14_Lec16Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

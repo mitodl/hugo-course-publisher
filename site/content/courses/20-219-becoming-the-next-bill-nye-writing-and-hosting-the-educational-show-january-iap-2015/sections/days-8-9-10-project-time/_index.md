@@ -21,13 +21,13 @@ Contents
 *   [Assignment](#Assignment)
 *   [Student Work](#Student_Work)
 
-Overview
---------
+{{< anchor "Overview" >}}Overview
+---------------------------------
 
 You will have all of class time to film and edit your final projects. Ceri Riley will give a workshop on adding animation to your video. Teaching staff will be available to give feedback and technical help.
 
-Part 1: Animation
------------------
+{{< anchor "Part_1:_Animation" >}}Part 1: Animation
+---------------------------------------------------
 
 {{< youtube iR6FUYCNi5A >}}
 
@@ -38,8 +38,8 @@ Part 1: Animation
 *   {{< youtube iR6FUYCNi5A >}}
 *   {{< youtube iR6FUYCNi5A >}}
 
-Part 2: Rough Cuts
-------------------
+{{< anchor "Part_2:_Rough_Cuts" >}}Part 2: Rough Cuts
+-----------------------------------------------------
 
 {{< youtube kQnA60blp6o >}}
 
@@ -48,13 +48,13 @@ Part 2: Rough Cuts
 *   {{< youtube kQnA60blp6o >}}
 *   {{< youtube kQnA60blp6o >}}
 
-Assignment
-----------
+{{< anchor "Assignment" >}}Assignment
+-------------------------------------
 
 Post your shot list to the Tumblr by Day 8 with #day8shotlist. Cuts of your final projects must be emailed to Ceri by 12 PM on Day 11.
 
-Student Work
-------------
+{{< anchor "Student_Work" >}}Student Work
+-----------------------------------------
 
 ### Shot Lists
 

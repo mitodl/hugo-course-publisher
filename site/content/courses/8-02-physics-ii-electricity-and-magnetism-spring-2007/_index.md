@@ -53,7 +53,7 @@ menu:
 ---
 This freshman-level course is the second semester of introductory physics. The focus is on electricity and magnetism. The subject is taught using the TEAL (Technology Enabled Active Learning) format which utilizes small group interaction and current technology. The TEAL/Studio Project at MIT is a new approach to physics education designed to help students develop much better intuition about, and conceptual models of, physical phenomena.
 
-##### Staff List
+##### {{< anchor "staff" >}}Staff List
 
 Visualizations:  
 Prof. John Belcher

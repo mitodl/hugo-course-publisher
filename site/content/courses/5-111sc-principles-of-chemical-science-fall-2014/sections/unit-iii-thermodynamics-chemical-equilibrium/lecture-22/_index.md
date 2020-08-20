@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/127de415cbe79d2666a663b56de9407f_Lecture_22.jpg)  | {{< br >}}{{< br >}}1.  pH of Salt Solutions{{< br >}}2.  Buffers!{{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video22" >}}Lecture Video
+---------------------------------------------
 
 A buffer helps to maintain a constant pH. Our blood has a natural buffering system to ensure that the pH of our blood stays within a narrow window and that we stay health. In this lecture, we consider how to design a buffer. We also discuss how one can predict the pH of a salt solution. At dinner if you put table salt in your water glass, how would the pH of the water change? or would it change?
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 22 Clicker Questions (PDF - 1.1MB)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-22/MIT5_111F14_Lec22Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |

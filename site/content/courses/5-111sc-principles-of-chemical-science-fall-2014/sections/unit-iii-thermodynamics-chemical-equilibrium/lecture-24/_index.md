@@ -17,8 +17,8 @@ Topics
 
 | ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/ed15682286b62727bd7ba26ef9e17d36_Lecture_24.jpg)  | {{< br >}}{{< br >}}1.  Acid-Base Titrations{{< br >}}    1.  Titration of Weak Acid with Strong Base (continued){{< br >}}{{< br >}} 
 
-Lecture Video
--------------
+{{< anchor "Lecture_Video24" >}}Lecture Video
+---------------------------------------------
 
 We finish the topic of acid-base titrations and consider why pKa is so important. Chemist Samuel Thompson talks about a problem he encountered in his undergraduate research that had to do with the pKa of a molecular probe. Learn what the problem was and how he solved it.
 
@@ -34,8 +34,8 @@ Clicker Questions
 
 [Lecture 24 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-24/MIT5_111F14_Lec24Clkr" %}})
 
-Textbook Reading
-----------------
+{{< anchor "Textbook_Reading" >}}Textbook Reading
+-------------------------------------------------
 
 | TOPICS | 5th EDITION | 4th EDITION |
 | --- | --- | --- |
