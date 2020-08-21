@@ -6,19 +6,9 @@ tmp.setGracefulCleanup()
 const rimraf = require("rimraf")
 const archiver = require("archiver")
 const path = require("path")
-const cliProgress = require("cli-progress")
 const shell = require("shelljs")
 
-const { directoryExists } = require("../src/js/helpers")
-const newProgressBar = () => {
-  return new cliProgress.SingleBar(
-    {
-      stopOnComplete: true,
-      forceRedraw:    true
-    },
-    cliProgress.Presets.shades_classic
-  )
-}
+const { directoryExists, newProgressBar } = require("../src/js/helpers")
 
 const options = yargs
   .usage("Usage: -d <dist> -c <courses> -z <zips>")

@@ -1,4 +1,5 @@
 const fs = require("fs")
+const cliProgress = require("cli-progress")
 
 const directoryExists = directory => {
   return (
@@ -8,6 +9,17 @@ const directoryExists = directory => {
   )
 }
 
+const newProgressBar = () => {
+  return new cliProgress.SingleBar(
+    {
+      stopOnComplete: true,
+      forceRedraw:    true
+    },
+    cliProgress.Presets.shades_classic
+  )
+}
+
 module.exports = {
-  directoryExists
+  directoryExists,
+  newProgressBar
 }
