@@ -7,8 +7,19 @@ before_install:
   - export PATH="$HOME/.yarn/bin:$PATH"
 node_js:
   - 12.13.0
-script:
-  - npm test
-  - npm run lint
-  - npm run fmt:check
-  - npm run build
+jobs:
+  include:
+    - stage: test
+      name: "Tests, Linting, Formatting"
+      script:
+        - npm test
+        - npm run lint
+        - npm run fmt:check
+    - if: branch != release
+      stage: build
+      name: "Run the build"
+      script: npm run build
+    - if: branch = release
+      stage: deploy
+      name: "Build and deploy to S3"
+      script: npm run deploy
