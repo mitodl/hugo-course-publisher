@@ -22,6 +22,7 @@
     "build:hugo:deploy": "hugo -d ../dist -s site -v -b $DEPLOY_PRIME_URL",
     "build:hugo:preview": "npm run build:hugo -- -D -F",
     "build:hugo:debug": "hugo -d ../dist -s site -v --templateMetrics --debug",
+    "build:netlify": "npm run build:deploy",
     "build:pdfjs": "./build-scripts/build-pdfjs.sh",
     "build:webpack": "cross-env NODE_ENV=production webpack --config src/webpack/webpack.prod.js",
     "build:zips": "node ./build-scripts/build_course_zips.js -d dist -c site/content/courses -z site/static/zips",
