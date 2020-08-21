@@ -2,7 +2,6 @@ import React from "react"
 import Dotdotdot from "react-dotdotdot"
 
 import Card from "./Card"
-import LearningResourceIcon from "./LearningResourceIcon"
 
 import {
   CAROUSEL_IMG_HEIGHT,
@@ -60,11 +59,6 @@ export default function SearchResult(props) {
 export function LearningResourceDisplay(props) {
   const { object, searchResultLayout } = props
 
-  const iconKeys =
-    object.audience && object.certification ?
-      object.audience.concat(object.certification) :
-      []
-
   return (
     <React.Fragment>
       {searchResultLayout === SEARCH_GRID_UI ? (
@@ -74,13 +68,6 @@ export function LearningResourceDisplay(props) {
         <div className="lr-row resource-type-audience-certificates">
           <div className="resource-type">
             {readableLearningResources[object.object_type]}
-          </div>
-          <div className="audience-certificates">
-            {iconKeys.length > 0 ?
-              iconKeys.map((key, i) => (
-                <LearningResourceIcon iconKey={key} key={i} />
-              )) :
-              null}
           </div>
         </div>
         <div className="lr-row course-title" tabIndex="0">

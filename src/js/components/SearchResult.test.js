@@ -12,8 +12,6 @@ describe("SearchResult component", () => {
   it("should render the things we expect", () => {
     const object = makeLearningResourceResult(LR_TYPE_COURSE)
     const wrapper = render(object)
-
-    expect(wrapper.find(".resource-type").text()).toBe("Course")
     expect(wrapper.find(".course-title").text()).toBe(object.title)
   })
 })
