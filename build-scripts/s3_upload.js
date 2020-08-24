@@ -39,7 +39,7 @@ if (
 
 // define callbacks
 const handleError = err => {
-  console.error(`Error: ${err}`)
+  console.error(err)
 }
 
 const handleUploadResult = (err, data) => {
