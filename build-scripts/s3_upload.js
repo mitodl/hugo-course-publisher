@@ -44,7 +44,7 @@ const handleError = err => {
 
 const handleUploadResult = (err, data) => {
   if (err) {
-    console.log("Error", err)
+    console.error(err)
   }
   if (data) {
     uploadedFiles++
