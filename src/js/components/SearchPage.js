@@ -52,24 +52,18 @@ export default function SearchPage() {
     const { q } = qs.parse(window.location.search)
     setSearchText(q ?? "")
     runSearch(q ?? "")
+    // we are passing [] because this effect should only run at startup
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
-  // this callback is called when the search text changes
-  // so we need to
-  //    1) echo the text change to the URL bar
-  //    2) set the `completedInitialLoad` state to `false`
-  //       in order to show a spinner in the UI
-  //    3) run a non-incremental search with the new text
-  //       (this will blow away existing search state)
-  const setSearchQuery = useCallback(
+  // this callback just echos the updated params up to the URL bar
+  // we debounce b/c it gets a little bit choppy otherwise
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  const setURLParam = useCallback(
     debounce(text => {
       window.history.replaceState(null, null, `?${qs.stringify({ q: text })}`)
-      // text has changed, so we're restarting from the first page
-      // as if we're dealing with the initial page load
-      setCompletedInitialLoad(false)
-      runSearch(text)
     }, 300),
-    [runSearch, setCompletedInitialLoad]
+    []
   )
 
   const onChange = useCallback(
@@ -77,17 +71,18 @@ export default function SearchPage() {
       e.preventDefault()
       const text = e.target.value
       setSearchText(text)
-      setSearchQuery(text)
+      setURLParam(text)
     },
-    [setSearchText, setSearchQuery]
+    [setSearchText, setURLParam]
   )
 
   const onSubmit = useCallback(
     e => {
       e.preventDefault()
-      setSearchQuery(searchText)
+      setCompletedInitialLoad(false)
+      runSearch(searchText)
     },
-    [setSearchQuery, searchText]
+    [setCompletedInitialLoad, runSearch, searchText]
   )
 
   // this callback runs an incremental search

@@ -11,11 +11,24 @@ import { makeCourseResult } from "../factories/search"
 const mockGetResults = () =>
   times(makeCourseResult, SEARCH_PAGE_SIZE).map(result => ({ _source: result }))
 
+let resolver
+
+const resolveSearch = () =>
+  act(async () => {
+    resolver()
+  })
+
 jest.mock("../lib/api", () => ({
   __esModule: true,
-  search:     jest.fn(async () => ({
-    hits: { hits: mockGetResults() }
-  }))
+  search:     jest.fn(async () => {
+    return new Promise(resolve => {
+      resolver = () => {
+        resolve({
+          hits: { hits: mockGetResults() }
+        })
+      }
+    })
+  })
 }))
 
 jest.mock("lodash.debounce", () => jest.fn(fn => fn))
@@ -44,42 +57,42 @@ describe("SearchPage component", () => {
       .simulate("change", { target: { value: "New Search Text" } })
     await act(async () => {
       wrapper.find("i").simulate("click")
+      resolver()
     })
     expect(search.mock.calls).toEqual([
       [{ text: "", from: 0, size: SEARCH_PAGE_SIZE }],
-      // the change event fires one of these, and clicking the icon the other
-      [{ text: "New Search Text", from: 0, size: SEARCH_PAGE_SIZE }],
       [{ text: "New Search Text", from: 0, size: SEARCH_PAGE_SIZE }]
     ])
     wrapper.update()
     expect(wrapper.find("SearchResult").length).toBe(SEARCH_PAGE_SIZE)
   })
 
-  it("should show spinner when updating text", async () => {
+  it("should show spinner when searching", async () => {
     const wrapper = await render()
-    wrapper.update()
-    // loading goes away because first load is done
-    expect(wrapper.find("Loading").exists()).toBeFalsy()
+    await resolveSearch()
     wrapper
       .find("input")
       .simulate("change", { target: { value: "New Search Text" } })
     await act(async () => {
       wrapper.find("i").simulate("click")
     })
-    // wrapper is back b/c the user has 're-started' the search w/ fresh query
+    wrapper.update()
     expect(wrapper.find("Loading").exists()).toBeTruthy()
   })
 
   test("should support InfiniteScroll-ing", async () => {
     const wrapper = await render()
+    await resolveSearch()
     wrapper.update()
     await act(async () => {
       wrapper.find("InfiniteScroll").prop("loadMore")()
     })
+    await resolveSearch()
     wrapper.update()
     await act(async () => {
       wrapper.find("InfiniteScroll").prop("loadMore")()
     })
+    await resolveSearch()
     wrapper.update()
     expect(search.mock.calls).toEqual([
       [{ text: "", from: 0, size: SEARCH_PAGE_SIZE }],
@@ -89,9 +102,10 @@ describe("SearchPage component", () => {
     expect(wrapper.find("SearchResult").length).toBe(3 * SEARCH_PAGE_SIZE)
   })
 
-  it("should show spinner during initial load", async () => {
+  test("should show spinner during initial load", async () => {
     const wrapper = await render()
     expect(wrapper.find("Loading").exists()).toBeTruthy()
+    await resolveSearch()
     wrapper.update()
     expect(wrapper.find("Loading").exists()).toBeFalsy()
   })
