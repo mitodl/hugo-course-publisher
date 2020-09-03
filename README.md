@@ -24,6 +24,12 @@ adjust this if your local open-discussions instance lives at a different URL.
 You can also use any other means you like to ensure that the variable is set in
 the environment where webpack will run.
 
+The Open Discussions application with the search endpoint above also needs to be told to allow CORS requests from the OCW site. The `OPEN_DISCUSSIONS_CORS_ORIGIN_WHITELIST` variable in the Open app should be amended to include the domain of the OCW site. For example,
+
+```
+OPEN_DISCUSSIONS_CORS_ORIGIN_WHITELIST=['my-ocw-site.mit.edu']
+```
+
 ### docker
 
 To run the site in docker you'll need docker and docker-compose. With those in
