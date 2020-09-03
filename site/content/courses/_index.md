@@ -1,0 +1,4 @@
+---
+title: Courses
+type: courseindex
+---
