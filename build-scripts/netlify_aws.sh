@@ -1,3 +1,4 @@
+mkdir .aws
 cat > ./aws/credentials <<EOL
 [netlify]
 region = $ENV_DEFAULT_REGION
