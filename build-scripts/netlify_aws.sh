@@ -1,5 +1,5 @@
-mkdir .aws
-cat > ./.aws/credentials <<EOL
+mkdir ~/.aws
+cat > ~/.aws/credentials <<EOL
 [netlify]
 region = $ENV_DEFAULT_REGION
 aws_secret_access_key = $ENV_SECRET_ACCESS_KEY
