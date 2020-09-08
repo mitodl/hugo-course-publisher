@@ -1,23 +1,12 @@
-const fs = require("fs")
-const path = require("path")
-const homeDir = require("os").homedir()
+const shell = require("shelljs")
 require("dotenv").config()
 
-const helpers = require("../src/js/helpers")
-
 const awsRegion = process.env["ENV_DEFAULT_REGION"]
-const accessKey = process.env["ENV_ACCESS_KEY"]
+const accessKeyId = process.env["ENV_ACCESS_KEY"]
 const secretAccessKey = process.env["ENV_SECRET_ACCESS_KEY"]
-const awsDir = path.join(homeDir, ".aws")
-if (!helpers.directoryExists(awsDir)) {
-  fs.mkdirSync(awsDir, { recursive: true })
-}
-fs.writeFileSync(
-  path.join(awsDir, "config"),
-  `[default]\nregion=${awsRegion}\noutput=json\n`
-)
-fs.writeFileSync(
-  path.join(awsDir, "credentials"),
-  `[default]\naws_access_key_id=${accessKey}\naws_secret_access_Key=${secretAccessKey}\n`
-)
-console.log(`aws config file location: ${awsDir}`)
+
+shell.exec(`export AWS_REGION=${awsRegion}`)
+shell.exec(`export AWS_ACCESS_KEY_ID=${accessKeyId}`)
+shell.exec(`export AWS_SECRET_ACCESS_KEY=${secretAccessKey}`)
+
+console.log(`aws region: ${awsRegion}`)
