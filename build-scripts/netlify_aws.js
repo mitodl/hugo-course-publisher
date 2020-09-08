@@ -20,3 +20,4 @@ fs.writeFileSync(
   path.join(awsDir, "credentials"),
   `[default]\naws_access_key_id=${accessKey}\naws_secret_access_Key=${secretAccessKey}\n`
 )
+console.log(`aws config file location: ${awsDir}`)
