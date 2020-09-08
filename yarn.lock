@@ -1329,9 +1329,9 @@
     chalk "^4.0.0"
 
 "@mitodl/ocw-to-hugo@^1.0.0":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@mitodl/ocw-to-hugo/-/ocw-to-hugo-1.0.1.tgz#910c08c684c7b4303551760637f5a88a071b064c"
-  integrity sha512-yuGAw5zrtIARRXtq4T0CX78/OC7oBDrjX+DBwAFYWseBAe0hFFPOytdj9Xewio3xgzBSurIltuCjOMO8TxY7uw==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@mitodl/ocw-to-hugo/-/ocw-to-hugo-1.0.2.tgz#fc128d596a69fcf25d540305cf8c403c1cb80be7"
+  integrity sha512-j5yrQX9Jqn7KKwMxbzMpqfAmIAeUPrdURntv8PNK1hFqpM1DMBq1mXV/2dZ2hicH+GWuOIpyPnz/PkpASk59AQ==
   dependencies:
     aws-sdk "^2.671.0"
     cli-progress "^3.4.0"
@@ -2399,10 +2399,10 @@ autoprefixer@^9.6.1:
     postcss "^7.0.27"
     postcss-value-parser "^4.0.3"
 
-aws-sdk@^2.671.0, aws-sdk@^2.747.0:
-  version "2.747.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.747.0.tgz#487776536a7f8e4e18d57ff22dd50d777f1d0fe8"
-  integrity sha512-JA2ygLXFw0tLjc6nlauH3wnc6haoPU023fJCZN01xrw22l+s4rRjVGxJmG83VrfCmq+lrqCv0kVwlzyxbixGhA==
+aws-sdk@^2.671.0:
+  version "2.748.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.748.0.tgz#660d9d8202b1e48820ae9e018abad8d7b51af0b1"
+  integrity sha512-H+DCioQ4AChoBxGMtagcJ3a0mM0lOh3ta/dWIrfPTECAlRIuxlrBDp78cRhPgvdYYUxW54kB/IaHGR2xPP8JXw==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
@@ -13743,9 +13743,9 @@ whatwg-url@^7.0.0:
     webidl-conversions "^4.0.2"
 
 whatwg-url@^8.0.0:
-  version "8.2.1"
-  resolved "https://registry.yarnpkg.com/whatwg-url/-/whatwg-url-8.2.1.tgz#ed73417230784b281fb2a32c3c501738b46167c3"
-  integrity sha512-ZmVCr6nfBeaMxEHALLEGy0LszYjpJqf6PVNQUQ1qd9Et+q7Jpygd4rGGDXgHjD8e99yLFseD69msHDM4YwPZ4A==
+  version "8.2.2"
+  resolved "https://registry.yarnpkg.com/whatwg-url/-/whatwg-url-8.2.2.tgz#85e7f9795108b53d554cec640b2e8aee2a0d4bfd"
+  integrity sha512-PcVnO6NiewhkmzV0qn7A+UZ9Xx4maNTI+O+TShmfE4pqjoCMwUMjkvoNhNHPTvgR7QH9Xt3R13iHuWy2sToFxQ==
   dependencies:
     lodash.sortby "^4.7.0"
     tr46 "^2.0.2"
