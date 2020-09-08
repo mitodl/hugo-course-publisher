@@ -1,6 +1,6 @@
 const AWS = require("aws-sdk")
 const fs = require("fs")
-const { downloadCourseRecursive } = require("@mitodl/ocw-to-hugo")
+const { downloadCourseRecursive } = require("@mitodl/ocw-to-hugo/src/aws_sync")
 require("dotenv").config()
 
 const awsRegion = process.env["ENV_DEFAULT_REGION"]
