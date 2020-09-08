@@ -17,7 +17,7 @@ yarn install --pure-lockfile
 
 This repository does not contain any course markdown content. To import a set of example courses from OCW using `ocw-to-hugo`, you must first set environment variables so we can pull content from AWS.  AWS credentials can be configured by setting the standard `AWS_REGION`, `AWS_ACCESS_KEY`, `AWS_SECRET_ACCESS_KEY`, configuring an instance profile or using configuration files stored in `~/.aws` as documented in the AWS SDK.
 
-If all you need to do is import the example courses for development, simply configure the `AWS_*` variables below and run `npm run import:example_courses`. The rest of this section is only relevant if you are deploying the site.
+If all you need to do is import the example courses for development, simply configure the AWS SDK and run `npm run import:example_courses`. The rest of this section is only relevant if you are deploying the site.
 
 ### env variables
 
