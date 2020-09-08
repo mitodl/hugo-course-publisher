@@ -17,7 +17,7 @@ yarn install --pure-lockfile
 
 This repository does not contain any course markdown content. To import a set of example courses from OCW using `ocw-to-hugo`, you must first set environment variables so we can pull content from AWS.  AWS credentials can be configured by setting the standard `AWS_REGION`, `AWS_ACCESS_KEY`, `AWS_SECRET_ACCESS_KEY`, configuring an instance profile or using configuration files stored in `~/.aws` as documented in the AWS SDK.
 
-If all you need to do is import the example courses for development, simply configure the AWS SDK and run `npm run import:example_courses`. The rest of this section is only relevant if you are deploying the site.
+If all you need to do is import the example courses for development, simply configure the AWS SDK and run `npm run import:ocw:example_courses`. The rest of this section is only relevant if you are deploying the site.
 
 ### env variables
 
@@ -36,7 +36,7 @@ The following are the various `npm run` scripts for importing data from OCW's `o
 
 | Script | Description  |
 | :------- | :------------ |
-| `import:example_courses` | Run this to import the courses in `example_courses.json` directly to the `site/content/courses` folder.  This is useful for importing some example courses for development, and only requires AWS connection info to be set. |
+| `import:ocw:example_courses` | Run this to import the courses in `example_courses.json` directly to the `site/content/courses` folder.  This is useful for importing some example courses for development, and only requires AWS connection info to be set. |
 | `import:ocw` | This script runs `ocw-to-hugo` with the minimum requirements and assumes that courses are already downloaded at the path specified in `OCW_TO_HUGO_INPUT`. |
 | `import:ocw:strips3` | This is the same as `import:ocw` but with the `--strips3` argument set that removes OCW S3 base urls from the generated markdown |
 | `import:ocw:download` | This downloads a set of courses specified in a JSON file (`OCW_TO_HUGO_COURSES_JSON`) to be downloaded to `OCW_TO_HUGO_INPUT`and processed into markdown |
