@@ -1328,10 +1328,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@mitodl/ocw-to-hugo@^1.0.0":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@mitodl/ocw-to-hugo/-/ocw-to-hugo-1.0.2.tgz#fc128d596a69fcf25d540305cf8c403c1cb80be7"
-  integrity sha512-j5yrQX9Jqn7KKwMxbzMpqfAmIAeUPrdURntv8PNK1hFqpM1DMBq1mXV/2dZ2hicH+GWuOIpyPnz/PkpASk59AQ==
+"@mitodl/ocw-to-hugo@1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@mitodl/ocw-to-hugo/-/ocw-to-hugo-1.0.3.tgz#ccd2e8aa6f0d048186ffb9a61e90ac4d72bb19df"
+  integrity sha512-wJJ8yttjizq+6MGttghonLD7ig9ov8N3SQTnjlpQl47XIVhtTruCLpc0oirOI52gLuOa8D3j69GEbULRwRrqXw==
   dependencies:
     aws-sdk "^2.671.0"
     cli-progress "^3.4.0"
@@ -1339,6 +1339,7 @@
     js-yaml "^3.13.1"
     markdown-builder "^0.9.0"
     title-case "^3.0.2"
+    tmp "^0.2.1"
     turndown "^6.0.0"
     turndown-plugin-gfm "^1.0.2"
     winston "^3.2.1"
