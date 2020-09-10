@@ -45,6 +45,9 @@ yarn-error.log*
 site/data/webpack.json
 site/static/pdfjs
 site/static/zips
+site/content/courses/*
+!site/content/courses/_index.md
+ocw-to-hugo.*.log
 
 # Unit test / coverage reports
 htmlcov/

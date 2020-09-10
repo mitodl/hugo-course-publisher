@@ -5,30 +5,47 @@ site generator.  The content is provided by
 [ocw-to-hugo](https://github.com/mitodl/ocw-to-hugo), and CSS and JS is built
 for the site using webpack.
 
-## installation
+## install dependencies
+
+To install this project's dependencies, run the following:
+
+```sh
+yarn install --pure-lockfile
+```
+
+## importing content from OCW
+
+This repository does not contain any course markdown content. To import a set of example courses from OCW using `ocw-to-hugo`, you must first set environment variables so we can pull content from AWS.  AWS credentials can be configured by setting the standard `AWS_REGION`, `AWS_ACCESS_KEY`, `AWS_SECRET_ACCESS_KEY`, configuring an instance profile or using configuration files stored in `~/.aws` as documented in the AWS SDK.
+
+If all you need to do is import the example courses for development, simply configure the AWS SDK and run `npm run import:ocw:example_courses`. The rest of this section is only relevant if you are deploying the site.
+
+### env variables
+
+| Variable | Description  | Required by |
+| :------- | :------------ | :------------ |
+| `AWS_REGION` | The AWS region to connect to, i.e. `us-east-1` | `import:*` |
+| `AWS_BUCKET_NAME` | The bucket to use, i.e. `open-learning-course-data-ci` | `import:*` |
+| `AWS_SECRET_ACCESS_KEY` | The secret access key that pairs with your access key | `import:*` |
+| `AWS_ACCESS_KEY` | Your AWS Access Key with access to said bucket | `import:*` |
+| `OCW_TO_HUGO_INPUT` | The input folder of OCW courses and where courses to be processed are downloaded to if using the `import:ocw:download:*` commands | `import:ocw:*`  |
+| `OCW_TO_HUGO_COURSES_JSON` | Path to a JSON file with a list of courses to be downloaded, using the format described [here](https://github.com/mitodl/ocw-to-hugo#usage)  | `import:ocw:download:*`  |
+
+### import scripts
+
+The following are the various `npm run` scripts for importing data from OCW's `open-learning-course-data` buckets.
+
+| Script | Description  |
+| :------- | :------------ |
+| `import:ocw:example_courses` | Run this to import the courses in `example_courses.json` directly to the `site/content/courses` folder.  This is useful for importing some example courses for development, and only requires AWS connection info to be set. |
+| `import:ocw` | This script runs `ocw-to-hugo` with the minimum requirements and assumes that courses are already downloaded at the path specified in `OCW_TO_HUGO_INPUT`. |
+| `import:ocw:strips3` | This is the same as `import:ocw` but with the `--strips3` argument set that removes OCW S3 base urls from the generated markdown |
+| `import:ocw:download` | This downloads a set of courses specified in a JSON file (`OCW_TO_HUGO_COURSES_JSON`) to be downloaded to `OCW_TO_HUGO_INPUT`and processed into markdown |
+| `import:ocw:download:strips3` | This runs `import:ocw:download` with the `--strips3` argument enabled |
+
+## running in development
 
 To install and run the site locally you can either use docker or run it
 natively.
-
-### search
-
-To use the search feature you need set an environment variable to tell the app
-where to find the search API. You can write a `.env` file like this:
-
-```
-SEARCH_API_URL=http://localhost:8063/api/v0/search/
-```
-
-adjust this if your local open-discussions instance lives at a different URL.
-
-You can also use any other means you like to ensure that the variable is set in
-the environment where webpack will run.
-
-The Open Discussions application with the search endpoint above also needs to be told to allow CORS requests from the OCW site. The `OPEN_DISCUSSIONS_CORS_ORIGIN_WHITELIST` variable in the Open app should be amended to include the domain of the OCW site. For example,
-
-```
-OPEN_DISCUSSIONS_CORS_ORIGIN_WHITELIST=['my-ocw-site.mit.edu']
-```
 
 ### docker
 
@@ -49,17 +66,35 @@ files, and a few UI elements are particularly heavy to render.
 If you prefer not to use docker you can also simply do:
 
 ```sh
-yarn install --pure-lockfile
-npm build
 npm start
 ```
 
 You should be able to navigate to <http://localhost:3000>. You may need the
-`--ignore-engines` flag for `yarn`. 
+`--ignore-engines` flag for `yarn`.
 
-### single course mode
+## search
 
-You can also run site locally for just one course.. Instead of the root of the site 
+To use the search feature you need set an environment variable to tell the app
+where to find the search API. You can write a `.env` file like this:
+
+```
+SEARCH_API_URL=http://localhost:8063/api/v0/search/
+```
+
+adjust this if your local open-discussions instance lives at a different URL.
+
+You can also use any other means you like to ensure that the variable is set in
+the environment where webpack will run.
+
+The Open Discussions application with the search endpoint above also needs to be told to allow CORS requests from the OCW site. The `OPEN_DISCUSSIONS_CORS_ORIGIN_WHITELIST` variable in the Open app should be amended to include the domain of the OCW site. For example,
+
+```
+OPEN_DISCUSSIONS_CORS_ORIGIN_WHITELIST=['my-ocw-site.mit.edu']
+```
+
+## single course mode
+
+You can also run site locally for just one course. Instead of the root of the site 
 being the home page and the course listing being at `/courses`, the root of the 
 site is the course home page for the course passed in:
 
@@ -73,7 +108,7 @@ npm run build:webpack
 npm run build:hugo:single_course -- 18-06-linear-algebra-spring-2010
 ```
 
-### build course zips
+## build course zips
 
 Each course renders a "Download Course Materials" button in the course info section.
 These archives can be generated using the following command:
@@ -88,8 +123,10 @@ each course, and when the whole process is done they are placed in `site/static/
 
 ## deployment
 
-For now this project is set to automatically deploy to netlify, so every commit
+This project is set to automatically deploy to Netlify, so every commit
 both on the main branch and on PRs will be built and deployed automatically.
+
+The documentation for the production deployment is available [here](https://docs.odl.mit.edu/en/ocw-next/build-server).
 
 ## webpack bundle analysis
 
