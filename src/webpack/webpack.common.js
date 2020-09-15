@@ -3,7 +3,6 @@ const path = require("path")
 const CopyWebpackPlugin = require("copy-webpack-plugin")
 const MiniCssExtractPlugin = require("mini-css-extract-plugin")
 const AssetsPlugin = require("assets-webpack-plugin")
-const MomentLocalesPlugin = require("moment-locales-webpack-plugin")
 const Dotenv = require("dotenv-webpack")
 
 module.exports = {
@@ -125,11 +124,6 @@ module.exports = {
       jQuery:          "jquery",
       "window.jQuery": "jquery",
       Popper:          "popper.js/dist/umd/popper"
-    }),
-
-    // this strips locales other than en_US from moment's locale libraries
-    // we can include locales we want here later when we do UI translation
-    // but otherwise it just takes up extra space (~50kb) to include them
-    new MomentLocalesPlugin()
+    })
   ]
 }
