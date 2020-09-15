@@ -106,44 +106,78 @@ export const buildSearchQuery = ({ text, from, size, sort }) => {
     builder.sort(field, option)
   }
 
-  const queryType = isDoubleQuoted(text) ? "query_string" : "multi_match"
-  const textQuery = emptyOrNil(text) ?
-    {} :
-    {
-      should: [
-        {
-          [queryType]: {
-            query:  text,
-            fields: searchFields(LR_TYPE_COURSE)
-          }
-        }
-      ]
+  for (const type of [LR_TYPE_COURSE]) {
+    const queryType = isDoubleQuoted(text) ? "query_string" : "multi_match"
+    const textQuery = emptyOrNil(text) ?
+      {} :
+      {
+        should: [
+          {
+            [queryType]: {
+              query:  text,
+              fields: searchFields(type)
+            }
+          },
+          type === LR_TYPE_COURSE ?
+            [
+              {
+                nested: {
+                  path:  "runs",
+                  query: {
+                    [queryType]: {
+                      query:  text,
+                      fields: RESOURCE_QUERY_NESTED_FIELDS
+                    }
+                  }
+                }
+              },
+              {
+                has_child: {
+                  type:  "resourcefile",
+                  query: {
+                    [queryType]: {
+                      query:  text,
+                      fields: ["content", "title", "short_description"]
+                    }
+                  },
+                  score_mode: "avg"
+                }
+              }
+            ] :
+            null
+        ]
+          .flat()
+          .filter(clause => clause !== null)
+      }
+
+    // buildFacetSubQuery
+    const facets = new Map([
+      ["audience", []],
+      ["certification", []],
+      ["type", [LR_TYPE_COURSE]],
+      ["offered_by", [OCW_PLATFORM]],
+      ["topics", []]
+    ])
+    const facetClauses = buildFacetSubQuery(facets, builder)
+
+    // buildOrQuery
+    builder = buildOrQuery(builder, type, textQuery, [])
+    builder = builder.rawOption("post_filter", {
+      bool: {
+        must: [...facetClauses]
+      }
+    })
+
+    // Include suggest if search test is not null/empty
+    if (!emptyOrNil(text)) {
+      builder = builder.rawOption(
+        "suggest",
+        // $FlowFixMe: if we get this far, text is not null
+        buildSuggestQuery(text, LEARN_SUGGEST_FIELDS)
+      )
+    } else if (facetClauses.length === 0) {
+      builder = builder.rawOption("sort", buildDefaultSort())
     }
-
-  // buildFacetSubQuery
-  const facets = new Map([
-    ["type", [LR_TYPE_COURSE]],
-    ["offered_by", [OCW_PLATFORM]]
-  ])
-  const facetClauses = buildFacetSubQuery(facets, builder)
-
-  // buildOrQuery
-  builder = buildOrQuery(builder, LR_TYPE_COURSE, textQuery, [])
-  builder = builder.rawOption("post_filter", {
-    bool: {
-      must: [...facetClauses]
-    }
-  })
-
-  // Include suggest if search text is not null/empty
-  if (!emptyOrNil(text)) {
-    builder = builder.rawOption(
-      "suggest",
-      // $FlowFixMe: if we get this far, text is not null
-      buildSuggestQuery(text, LEARN_SUGGEST_FIELDS)
-    )
-  } else if (facetClauses.length === 0) {
-    builder = builder.rawOption("sort", buildDefaultSort())
   }
 
   return builder.build()
