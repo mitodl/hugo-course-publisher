@@ -92,7 +92,7 @@ const LIST_QUERY_FIELDS = [
 
 export const isDoubleQuoted = string => /^".+"$/.test(string)
 
-export const buildSearchQuery = ({ text, from, size, sort }) => {
+export const buildSearchQuery = ({ text, from, size, sort, activeFacets }) => {
   let builder = bodybuilder()
 
   if (from !== undefined) {
@@ -151,13 +151,11 @@ export const buildSearchQuery = ({ text, from, size, sort }) => {
       }
 
     // buildFacetSubQuery
-    const facets = new Map([
-      ["audience", []],
-      ["certification", []],
-      ["type", [LR_TYPE_COURSE]],
-      ["offered_by", [OCW_PLATFORM]],
-      ["topics", []]
-    ])
+    const facets = {
+      ...activeFacets,
+      offered_by: [OCW_PLATFORM]
+    }
+
     const facetClauses = buildFacetSubQuery(facets, builder)
 
     // buildOrQuery
@@ -186,7 +184,7 @@ export const buildSearchQuery = ({ text, from, size, sort }) => {
 export const buildFacetSubQuery = (facets, builder) => {
   const facetClauses = []
   if (facets) {
-    facets.forEach((values, key) => {
+    Object.entries(facets).forEach(([key, values]) => {
       const facetClausesForFacet = []
 
       if (values && values.length > 0) {
@@ -194,7 +192,7 @@ export const buildFacetSubQuery = (facets, builder) => {
       }
 
       // $FlowFixMe: we check for null facets earlier
-      facets.forEach((otherValues, otherKey) => {
+      Object.entries(facets).forEach(([otherKey, otherValues]) => {
         if (otherKey !== key && otherValues && otherValues.length > 0) {
           addFacetClauseToArray(facetClausesForFacet, otherKey, otherValues)
         }

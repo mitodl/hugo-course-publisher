@@ -15,7 +15,7 @@ export default function SearchBox(props) {
                 className="w-100 pl-5"
                 type="text"
                 onChange={onChange}
-                value={value}
+                value={value ?? ""}
                 placeholder="Enter Course Name, Department, Course Number..."
               />
               <i

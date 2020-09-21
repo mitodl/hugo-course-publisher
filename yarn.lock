@@ -1328,6 +1328,14 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
+"@mitodl/course-search-utils@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@mitodl/course-search-utils/-/course-search-utils-1.0.3.tgz#64a5962b409c173e2f5e289da04020d2511f2d21"
+  integrity sha512-giVfrsN8V3kNjhxfcbiQG8c0/9GZYGNGHd8XPZuh6eC1hz9pYzk+8HOTyrCBfVvnjs7BvjpaC5QmhjX1v8tTJA==
+  dependencies:
+    query-string "^6.13.1"
+    ramda "^0.27.1"
+
 "@mitodl/ocw-to-hugo@1.0.3":
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/@mitodl/ocw-to-hugo/-/ocw-to-hugo-1.0.3.tgz#ccd2e8aa6f0d048186ffb9a61e90ac4d72bb19df"
@@ -5963,6 +5971,11 @@ functions-have-names@^1.2.0:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/functions-have-names/-/functions-have-names-1.2.1.tgz#a981ac397fa0c9964551402cdc5533d7a4d52f91"
   integrity sha512-j48B/ZI7VKs3sgeI2cZp7WXWmZXu7Iq5pl5/vptV5N2mq+DGFuS/ulaDjtaoLpYzuD6u8UgrUKHfgo7fDTSiBA==
+
+fuse.js@^6.4.1:
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/fuse.js/-/fuse.js-6.4.1.tgz#76f1b4ab9cd021b854a68381b35628033d27507e"
+  integrity sha512-+hAS7KYgLXontDh/vqffs7wIBw0ceb9Sx8ywZQhOsiQGcSO5zInGhttWOUYQYlvV/yYMJOacQ129Xs3mP3+oZQ==
 
 gauge@~2.7.3:
   version "2.7.4"
@@ -10877,6 +10890,11 @@ ramda@^0.27.0:
   version "0.27.0"
   resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.27.0.tgz#915dc29865c0800bf3f69b8fd6c279898b59de43"
   integrity sha512-pVzZdDpWwWqEVVLshWUHjNwuVP7SfcmPraYuqocJp1yo2U1R7P+5QAfDhdItkuoGqIBnBYrtPp7rEPqDn9HlZA==
+
+ramda@^0.27.1:
+  version "0.27.1"
+  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.27.1.tgz#66fc2df3ef873874ffc2da6aa8984658abacf5c9"
+  integrity sha512-PgIdVpn5y5Yns8vqb8FzBUEYn98V3xcPgawAkkgj0YJ0qDsnHCiNmZYfOGMgOvoB0eWFLpYbhxUR3mxfDIMvpw==
 
 randexp@0.4.6:
   version "0.4.6"

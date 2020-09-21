@@ -1,5 +1,5 @@
 import React, { useState, useCallback } from "react"
-import qs from "query-string"
+import { serializeSearchParams } from "@mitodl/course-search-utils/dist/url_utils"
 
 import SearchBox from "./SearchBox"
 
@@ -18,8 +18,9 @@ export default function HomeSearchBox() {
   const onSubmit = useCallback(
     event => {
       event.preventDefault()
-      window.location = `/search/?${qs.stringify({
-        q: text
+      window.location = `/search/?${serializeSearchParams({
+        text,
+        activeFacets: {}
       })}`
     },
     [text]

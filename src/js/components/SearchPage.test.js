@@ -3,6 +3,11 @@ import { mount } from "enzyme"
 import { act } from "react-dom/test-utils"
 import { search } from "../lib/api"
 import { times } from "ramda"
+import {
+  INITIAL_FACET_STATE,
+  LR_TYPE_ALL
+} from "@mitodl/course-search-utils/dist/constants"
+import { serializeSearchParams } from "@mitodl/course-search-utils/dist/url_utils"
 
 import SearchPage, { SEARCH_PAGE_SIZE } from "./SearchPage"
 
@@ -33,6 +38,11 @@ jest.mock("../lib/api", () => ({
 
 jest.mock("lodash.debounce", () => jest.fn(fn => fn))
 
+const defaultActiveFacets = {
+  ...INITIAL_FACET_STATE,
+  type: LR_TYPE_ALL
+}
+
 describe("SearchPage component", () => {
   const render = async (searchParam = "") => {
     window.location.search = searchParam
@@ -43,25 +53,93 @@ describe("SearchPage component", () => {
     return wrapper
   }
 
-  test("should run a search at startup with URL parameter", async () => {
-    await render()
-    expect(search.mock.calls[0]).toEqual([
-      { text: "", from: 0, size: SEARCH_PAGE_SIZE }
-    ])
+  beforeEach(() => {
+    delete window.location
+
+    window.location = {
+      search: ""
+    }
+  })
+
+  //
+  ;[
+    { text: undefined, activeFacets: {} },
+    { text: "amazing text!", activeFacets: {} },
+    {
+      text:         "great search",
+      activeFacets: { topics: ["mathematics"] }
+    },
+    {
+      text:         undefined,
+      activeFacets: { topics: ["science"] }
+    }
+  ].forEach(params => {
+    test(`should search at startup with ${serializeSearchParams(
+      params
+    )}`, async () => {
+      const searchString = serializeSearchParams(params)
+      await render(searchString)
+
+      expect(search.mock.calls[0]).toEqual([
+        {
+          text:         params.text,
+          from:         0,
+          size:         SEARCH_PAGE_SIZE,
+          activeFacets: {
+            ...defaultActiveFacets,
+            ...params.activeFacets
+          }
+        }
+      ])
+    })
   })
 
   test("the user can update the search text and submit", async () => {
     const wrapper = await render()
     wrapper
       .find("input")
+      .at(0)
       .simulate("change", { target: { value: "New Search Text" } })
     await act(async () => {
-      wrapper.find("i").simulate("click")
+      wrapper
+        .find("SearchBox")
+        .find("i")
+        .simulate("click")
       resolver()
     })
     expect(search.mock.calls).toEqual([
-      [{ text: "", from: 0, size: SEARCH_PAGE_SIZE }],
-      [{ text: "New Search Text", from: 0, size: SEARCH_PAGE_SIZE }]
+      [
+        {
+          text:         undefined,
+          from:         0,
+          size:         SEARCH_PAGE_SIZE,
+          activeFacets: defaultActiveFacets
+        }
+      ],
+      [
+        {
+          text:         "",
+          from:         0,
+          size:         SEARCH_PAGE_SIZE,
+          activeFacets: defaultActiveFacets
+        }
+      ],
+      [
+        {
+          text:         undefined,
+          from:         0,
+          size:         SEARCH_PAGE_SIZE,
+          activeFacets: defaultActiveFacets
+        }
+      ],
+      [
+        {
+          text:         "New Search Text",
+          from:         0,
+          size:         SEARCH_PAGE_SIZE,
+          activeFacets: defaultActiveFacets
+        }
+      ]
     ])
     wrapper.update()
     expect(wrapper.find("SearchResult").length).toBe(SEARCH_PAGE_SIZE)
@@ -72,6 +150,7 @@ describe("SearchPage component", () => {
     await resolveSearch()
     wrapper
       .find("input")
+      .at(0)
       .simulate("change", { target: { value: "New Search Text" } })
     await act(async () => {
       wrapper.find("i").simulate("click")
@@ -95,9 +174,46 @@ describe("SearchPage component", () => {
     await resolveSearch()
     wrapper.update()
     expect(search.mock.calls).toEqual([
-      [{ text: "", from: 0, size: SEARCH_PAGE_SIZE }],
-      [{ text: "", from: SEARCH_PAGE_SIZE, size: SEARCH_PAGE_SIZE }],
-      [{ text: "", from: 2 * SEARCH_PAGE_SIZE, size: SEARCH_PAGE_SIZE }]
+      [
+        {
+          text:         undefined,
+          from:         0,
+          size:         SEARCH_PAGE_SIZE,
+          activeFacets: defaultActiveFacets
+        }
+      ],
+      [
+        {
+          text:         "",
+          from:         0,
+          size:         SEARCH_PAGE_SIZE,
+          activeFacets: defaultActiveFacets
+        }
+      ],
+      [
+        {
+          text:         undefined,
+          from:         0,
+          size:         SEARCH_PAGE_SIZE,
+          activeFacets: defaultActiveFacets
+        }
+      ],
+      [
+        {
+          text:         undefined,
+          from:         SEARCH_PAGE_SIZE,
+          size:         SEARCH_PAGE_SIZE,
+          activeFacets: defaultActiveFacets
+        }
+      ],
+      [
+        {
+          text:         undefined,
+          from:         2 * SEARCH_PAGE_SIZE,
+          size:         SEARCH_PAGE_SIZE,
+          activeFacets: defaultActiveFacets
+        }
+      ]
     ])
     expect(wrapper.find("SearchResult").length).toBe(3 * SEARCH_PAGE_SIZE)
   })
