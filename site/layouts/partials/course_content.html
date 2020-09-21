@@ -5,7 +5,6 @@
   <header>
     <h5 class="text-muted text-uppercase course-title-section" >{{ .Params.course_title }}</h5>
     <h1 class="text-uppercase font-weight-bold">{{ $currentPage.Title }}</h1>
-    {{ partial "chp_partial.html" (dict "partial" "course_instructor_number.html" "context" .) }}
     {{ with $currentPage.Params.course_info.subtitle }}
     <span class="subtitle">{{ . }}</span>
     {{ end }}
