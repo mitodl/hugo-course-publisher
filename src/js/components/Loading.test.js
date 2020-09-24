@@ -1,22 +1,19 @@
 import React from "react"
 import { shallow } from "enzyme"
 
-import Loading from "./Loading"
+import Loading, { AnimatedEmptyCard } from "./Loading"
 
 describe("Loading", () => {
-  test("should render the right divs", () => {
+  test("should render ten cards", () => {
     const wrapper = shallow(<Loading />)
-    expect(wrapper.find(".loading .spinner").exists()).toBeTruthy()
-    expect(
-      wrapper
-        .find(".spinner")
-        .children()
-        .map(el => el.prop("className"))
-    ).toEqual(["bounce1", "bounce2", "bounce3"])
+    expect(wrapper.find("AnimatedEmptyCard").length).toBe(10)
   })
 
-  test("should let you set a className", () => {
-    const wrapper = shallow(<Loading className="not-loading-lol" />)
-    expect(wrapper.find(".loading.not-loading-lol").exists()).toBeTruthy()
+  test("Card should render what we want", () => {
+    const wrapper = shallow(<AnimatedEmptyCard />)
+
+    expect(wrapper.find("Card").prop("className")).toBe("compact-post-summary")
+    expect(wrapper.find("ContentLoader")).toBeTruthy()
+    expect(wrapper.find("rect").length).toBe(5)
   })
 })
