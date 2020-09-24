@@ -1,12 +1,16 @@
 import React from "react"
 import Dotdotdot from "react-dotdotdot"
+import { serializeSearchParams } from "@mitodl/course-search-utils/dist/url_utils"
+import {
+  LR_TYPE_RESOURCEFILE,
+  LR_TYPE_VIDEO
+} from "@mitodl/course-search-utils/dist/constants"
 
 import Card from "./Card"
 
 import {
   CAROUSEL_IMG_HEIGHT,
-  LR_TYPE_RESOURCEFILE,
-  LR_TYPE_VIDEO,
+  SEARCH_URL,
   readableLearningResources
 } from "../lib/constants"
 import {
@@ -21,14 +25,11 @@ const getClassName = searchResultLayout =>
     searchResultLayout === SEARCH_LIST_UI ? "list-view" : ""
   }`.trim()
 
-const formatTopics = topics =>
-  topics.map((topic, i) => <a key={i}>{topic.name}</a>)
-
-const Subtitle = ({ label, content, htmlClass }) => (
+const Subtitle = ({ label, children, htmlClass }) => (
   <div className="lr-row subtitle">
     <div className={`lr-subtitle ${htmlClass}`}>
       <span className="gray">{label}</span>
-      {content}
+      {children}
     </div>
   </div>
 )
@@ -121,12 +122,26 @@ export function LearningResourceDisplay(props) {
         <div className="lr-row subtitles">
           {object.topics.length > 0 ? (
             <Subtitle
-              content={formatTopics(object.topics)}
               label={`${
                 object.topics.length === 1 ? "Subject" : "Subjects"
               } - `}
               htmlClass="subject"
-            />
+            >
+              {object.topics.map((topic, idx) => (
+                <a
+                  className="topic-link"
+                  key={idx}
+                  href={`${SEARCH_URL}?${serializeSearchParams({
+                    text:         undefined,
+                    activeFacets: {
+                      topics: topic.name
+                    }
+                  })}`}
+                >
+                  {topic.name}
+                </a>
+              ))}
+            </Subtitle>
           ) : null}
         </div>
         {isResource ? (

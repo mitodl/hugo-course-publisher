@@ -2,6 +2,10 @@ import React, { useState, useCallback } from "react"
 import debounce from "lodash.debounce"
 import InfiniteScroll from "react-infinite-scroller"
 import { useCourseSearch } from "@mitodl/course-search-utils"
+import {
+  LR_TYPE_COURSE,
+  LR_TYPE_RESOURCEFILE
+} from "@mitodl/course-search-utils/dist/constants"
 
 import SearchResult from "./SearchResult"
 import SearchBox from "./SearchBox"
@@ -10,10 +14,6 @@ import FilterableFacet from "./FilterableFacet"
 
 import { search } from "../lib/api"
 import { searchResultToLearningResource, SEARCH_LIST_UI } from "../lib/search"
-import {
-  LR_TYPE_COURSE,
-  LR_TYPE_RESOURCEFILE
-} from "@mitodl/course-search-utils/dist/constants"
 
 export const SEARCH_PAGE_SIZE = 10
 

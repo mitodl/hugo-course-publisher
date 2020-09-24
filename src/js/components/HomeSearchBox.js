@@ -3,6 +3,8 @@ import { serializeSearchParams } from "@mitodl/course-search-utils/dist/url_util
 
 import SearchBox from "./SearchBox"
 
+import { SEARCH_URL } from "../lib/constants"
+
 export default function HomeSearchBox() {
   const [text, setText] = useState("")
 
@@ -18,7 +20,7 @@ export default function HomeSearchBox() {
   const onSubmit = useCallback(
     event => {
       event.preventDefault()
-      window.location = `/search/?${serializeSearchParams({
+      window.location = `${SEARCH_URL}?${serializeSearchParams({
         text,
         activeFacets: {}
       })}`

@@ -1,10 +1,15 @@
 import React from "react"
 import { mount } from "enzyme"
+import { serializeSearchParams } from "@mitodl/course-search-utils/dist/url_utils"
+import {
+  LR_TYPE_COURSE,
+  LR_TYPE_RESOURCEFILE
+} from "@mitodl/course-search-utils/dist/constants"
 
 import SearchResult from "./SearchResult"
 
 import { makeLearningResourceResult } from "../factories/search"
-import { LR_TYPE_COURSE, LR_TYPE_RESOURCEFILE } from "../lib/constants"
+import { SEARCH_URL } from "../lib/constants"
 import { getContentIcon, getCoverImageUrl } from "../lib/search"
 
 describe("SearchResult component", () => {
@@ -70,5 +75,22 @@ describe("SearchResult component", () => {
     ).toBe(getCoverImageUrl(object))
     expect(wrapper.find("DrawerImageDiv").exists()).toBeFalsy()
     expect(wrapper.find("LinkedImageDiv").exists()).toBeTruthy()
+  })
+
+  it("should link to the course subjects", () => {
+    const object = makeLearningResourceResult(LR_TYPE_COURSE)
+    const wrapper = render(object)
+
+    wrapper.find(".topic-link").forEach((link, i) => {
+      const { href } = link.props()
+      expect(href).toBe(
+        `${SEARCH_URL}?${serializeSearchParams({
+          text:         undefined,
+          activeFacets: {
+            topics: object.topics[i].name
+          }
+        })}`
+      )
+    })
   })
 })

@@ -44,3 +44,5 @@ export const readableLearningResources = {
 }
 
 export const DISPLAY_DATE_FORMAT = "MMMM D, YYYY"
+
+export const SEARCH_URL = "/search/"
