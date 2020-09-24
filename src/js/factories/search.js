@@ -13,7 +13,11 @@ import {
   COURSE_CURRENT,
   OPEN_CONTENT,
   PROFESSIONAL,
-  CERTIFICATE
+  CERTIFICATE,
+  LR_TYPE_RESOURCEFILE,
+  CONTENT_TYPE_VIDEO,
+  CONTENT_TYPE_PDF,
+  CONTENT_TYPE_PAGE
 } from "../lib/constants"
 
 export function* incrementer() {
@@ -36,6 +40,8 @@ export const makeLearningResourceResult = objectType => {
     return makePodcastResult()
   case LR_TYPE_PODCAST_EPISODE:
     return makePodcastEpisodeResult()
+  case LR_TYPE_RESOURCEFILE:
+    return makeResourceFileResult()
   }
 }
 
@@ -96,6 +102,25 @@ export const makeCourseResult = () => ({
     [OPEN_CONTENT, PROFESSIONAL]
   ]),
   certification: casual.random_element([[], [CERTIFICATE]])
+})
+
+export const makeResourceFileResult = () => ({
+  id:            casual.integer(1, 1000),
+  course_id:     `course_${String(casual.random)}`,
+  title:         casual.title,
+  url:           casual.url,
+  image_src:     "http://image.medium.url",
+  topics:        [casual.word, casual.word],
+  object_type:   LR_TYPE_RESOURCEFILE,
+  content_title: casual.title,
+  run_title:     casual.title,
+  run_slug:      `/slug_${String(casual.word)}`,
+  content_type:  casual.random_element([
+    CONTENT_TYPE_VIDEO,
+    CONTENT_TYPE_PDF,
+    CONTENT_TYPE_PAGE
+  ]),
+  short_url: `/short_${String(casual.word)}`
 })
 
 export const makeVideoResult = () => ({

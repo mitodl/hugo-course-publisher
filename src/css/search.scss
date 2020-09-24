@@ -5,6 +5,14 @@
 @import "card";
 @import "search-filter";
 
+.search-nav {
+  &.active {
+    font-weight: bold;
+  }
+  font-size: 20px;
+  text-decoration: none !important;
+}
+
 .search-box {
   background-color: $light-gray;
 
@@ -32,6 +40,10 @@
 .search-page {
   .search-results {
     max-width: 800px;
+  }
+
+  a {
+    text-decoration: none;
   }
 
   .no-results-found {

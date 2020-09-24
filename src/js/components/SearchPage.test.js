@@ -3,15 +3,13 @@ import { mount } from "enzyme"
 import { act } from "react-dom/test-utils"
 import { search } from "../lib/api"
 import { times } from "ramda"
-import {
-  INITIAL_FACET_STATE,
-  LR_TYPE_ALL
-} from "@mitodl/course-search-utils/dist/constants"
+import { INITIAL_FACET_STATE } from "@mitodl/course-search-utils/dist/constants"
 import { serializeSearchParams } from "@mitodl/course-search-utils/dist/url_utils"
 
 import SearchPage, { SEARCH_PAGE_SIZE } from "./SearchPage"
 
 import { makeCourseResult } from "../factories/search"
+import { LR_TYPE_COURSE, LR_TYPE_RESOURCEFILE } from "../lib/constants"
 
 const mockGetResults = () =>
   times(makeCourseResult, SEARCH_PAGE_SIZE).map(result => ({ _source: result }))
@@ -38,9 +36,14 @@ jest.mock("../lib/api", () => ({
 
 jest.mock("lodash.debounce", () => jest.fn(fn => fn))
 
-const defaultActiveFacets = {
+const defaultCourseFacets = {
   ...INITIAL_FACET_STATE,
-  type: LR_TYPE_ALL
+  type: [LR_TYPE_COURSE]
+}
+
+const defaultResourceFacets = {
+  ...INITIAL_FACET_STATE,
+  type: [LR_TYPE_RESOURCEFILE]
 }
 
 describe("SearchPage component", () => {
@@ -86,7 +89,7 @@ describe("SearchPage component", () => {
           from:         0,
           size:         SEARCH_PAGE_SIZE,
           activeFacets: {
-            ...defaultActiveFacets,
+            ...defaultCourseFacets,
             ...params.activeFacets
           }
         }
@@ -113,7 +116,7 @@ describe("SearchPage component", () => {
           text:         undefined,
           from:         0,
           size:         SEARCH_PAGE_SIZE,
-          activeFacets: defaultActiveFacets
+          activeFacets: defaultCourseFacets
         }
       ],
       [
@@ -121,7 +124,7 @@ describe("SearchPage component", () => {
           text:         "",
           from:         0,
           size:         SEARCH_PAGE_SIZE,
-          activeFacets: defaultActiveFacets
+          activeFacets: defaultCourseFacets
         }
       ],
       [
@@ -129,7 +132,7 @@ describe("SearchPage component", () => {
           text:         undefined,
           from:         0,
           size:         SEARCH_PAGE_SIZE,
-          activeFacets: defaultActiveFacets
+          activeFacets: defaultCourseFacets
         }
       ],
       [
@@ -137,7 +140,54 @@ describe("SearchPage component", () => {
           text:         "New Search Text",
           from:         0,
           size:         SEARCH_PAGE_SIZE,
-          activeFacets: defaultActiveFacets
+          activeFacets: defaultCourseFacets
+        }
+      ]
+    ])
+    wrapper.update()
+    expect(wrapper.find("SearchResult").length).toBe(SEARCH_PAGE_SIZE)
+  })
+
+  test("the user can switch to resource search", async () => {
+    const wrapper = await render()
+    await act(async () => {
+      wrapper
+        .find(".search-nav")
+        .at(1)
+        .simulate("click")
+      resolver()
+    })
+    expect(search.mock.calls).toEqual([
+      [
+        {
+          text:         undefined,
+          from:         0,
+          size:         SEARCH_PAGE_SIZE,
+          activeFacets: defaultCourseFacets
+        }
+      ],
+      [
+        {
+          text:         "",
+          from:         0,
+          size:         SEARCH_PAGE_SIZE,
+          activeFacets: defaultCourseFacets
+        }
+      ],
+      [
+        {
+          text:         undefined,
+          from:         0,
+          size:         SEARCH_PAGE_SIZE,
+          activeFacets: defaultCourseFacets
+        }
+      ],
+      [
+        {
+          text:         undefined,
+          from:         0,
+          size:         SEARCH_PAGE_SIZE,
+          activeFacets: defaultResourceFacets
         }
       ]
     ])
@@ -179,7 +229,7 @@ describe("SearchPage component", () => {
           text:         undefined,
           from:         0,
           size:         SEARCH_PAGE_SIZE,
-          activeFacets: defaultActiveFacets
+          activeFacets: defaultCourseFacets
         }
       ],
       [
@@ -187,7 +237,7 @@ describe("SearchPage component", () => {
           text:         "",
           from:         0,
           size:         SEARCH_PAGE_SIZE,
-          activeFacets: defaultActiveFacets
+          activeFacets: defaultCourseFacets
         }
       ],
       [
@@ -195,7 +245,7 @@ describe("SearchPage component", () => {
           text:         undefined,
           from:         0,
           size:         SEARCH_PAGE_SIZE,
-          activeFacets: defaultActiveFacets
+          activeFacets: defaultCourseFacets
         }
       ],
       [
@@ -203,7 +253,7 @@ describe("SearchPage component", () => {
           text:         undefined,
           from:         SEARCH_PAGE_SIZE,
           size:         SEARCH_PAGE_SIZE,
-          activeFacets: defaultActiveFacets
+          activeFacets: defaultCourseFacets
         }
       ],
       [
@@ -211,7 +261,7 @@ describe("SearchPage component", () => {
           text:         undefined,
           from:         2 * SEARCH_PAGE_SIZE,
           size:         SEARCH_PAGE_SIZE,
-          activeFacets: defaultActiveFacets
+          activeFacets: defaultCourseFacets
         }
       ]
     ])
