@@ -96,31 +96,33 @@ export default function SearchPage() {
       <div className="container">
         <div className="row">
           {isResourceSearch ? null : <div className="col-3 mt-3 mt-lg-6"></div>}
-          <div className="col-12 col-lg-8 col-xl-8 px-3 px-md-5 mt-3 mt-lg-6 mx-auto">
-            <ul className="nav">
-              <li className="nav-item">
-                <a
-                  className={`nav-link search-nav ${
-                    isResourceSearch ? "" : "active"
-                  }`}
-                  href="#"
-                  onClick={async () => toggleResourceSearch(false)}
-                >
-                  Courses
-                </a>
-              </li>
-              <li className="nav-item">
-                <a
-                  className={`nav-link search-nav ${
-                    isResourceSearch ? "active" : ""
-                  }`}
-                  href="#"
-                  onClick={async () => toggleResourceSearch(true)}
-                >
-                  Resources
-                </a>
-              </li>
-            </ul>
+          <div className="search-results col-12 col-lg-8 col-xl-8 px-3 px-md-5 mt-3 mt-lg-6 mx-auto">
+            <div className="search-toggle">
+              <ul className="nav">
+                <li className="nav-item">
+                  <a
+                    className={`nav-link search-nav ${
+                      isResourceSearch ? "" : "active"
+                    }`}
+                    href="#"
+                    onClick={async () => toggleResourceSearch(false)}
+                  >
+                    Courses
+                  </a>
+                </li>
+                <li className="nav-item">
+                  <a
+                    className={`nav-link search-nav ${
+                      isResourceSearch ? "active" : ""
+                    }`}
+                    href="#"
+                    onClick={async () => toggleResourceSearch(true)}
+                  >
+                    Resources
+                  </a>
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
         <div className="row">
