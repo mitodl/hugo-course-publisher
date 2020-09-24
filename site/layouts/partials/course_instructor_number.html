@@ -3,22 +3,13 @@
     <tr>
       <td class="px-0 py-2">Instructor(s)</td>
       <td class="px-0 py-2">
-        {{ range $instructor := .Params.course_info.instructors }}
-        <a href="#" class="coming-soon pr-1">
-          {{ $instructor }}
-        </a>
-        {{ end }}
+        {{ partial "partial_collapse_list.html" (dict "list" .Params.course_info.instructors "id" "instructors") }}
       </td>
     </tr>
     <tr>
       <td class="px-0 py-2">Course No.</td>
       <td class="px-0 py-2">
-        {{- range $index, $course_number := .Params.course_info.course_numbers -}}
-        {{- if $index -}},&nbsp;{{- end -}}
-        <a href="#" class="coming-soon">
-          {{- $course_number -}}
-        </a>
-        {{- end -}}
+        {{ partial "partial_collapse_list.html" (dict "list" .Params.course_info.course_numbers "id" "course_numbers") }}
       </td>
     </tr>
   </table>
