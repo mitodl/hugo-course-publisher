@@ -9,7 +9,12 @@ import {
   LR_TYPE_VIDEO,
   readableLearningResources
 } from "../lib/constants"
-import { getCoverImageUrl, SEARCH_GRID_UI, SEARCH_LIST_UI } from "../lib/search"
+import {
+  getContentIcon,
+  getCoverImageUrl,
+  SEARCH_GRID_UI,
+  SEARCH_LIST_UI
+} from "../lib/search"
 
 const getClassName = searchResultLayout =>
   `learning-resource-card ${
@@ -71,6 +76,7 @@ export default function SearchResult(props) {
 
 export function LearningResourceDisplay(props) {
   const { object, searchResultLayout } = props
+  const isResource = object.object_type === LR_TYPE_RESOURCEFILE
 
   return (
     <React.Fragment>
@@ -79,11 +85,18 @@ export function LearningResourceDisplay(props) {
       ) : null}
       <div className="lr-info search-result">
         <div className="lr-row resource-type-audience-certificates">
-          <div className="resource-type">
-            {readableLearningResources[object.object_type]}
-          </div>
+          {!isResource ? (
+            <div className="resource-type">
+              {readableLearningResources[object.object_type]}
+            </div>
+          ) : null}
         </div>
         <div className="lr-row course-title" tabIndex="0">
+          {isResource ? (
+            <i className="material-icons md-24 align-bottom pr-2">
+              {getContentIcon(object.content_type)}
+            </i>
+          ) : null}
           {object.url ? (
             <a href={object.url} target="_blank" rel="noopener noreferrer">
               <Dotdotdot clamp={3}>
@@ -95,7 +108,7 @@ export function LearningResourceDisplay(props) {
           )}
         </div>
         {object.run_title ? (
-          <div className="lr-row subtitles" tabIndex="0">
+          <div className="lr-row subtitles lr-subheader" tabIndex="0">
             <a href={`/courses/${object.run_slug}`}>
               <Dotdotdot clamp={3}>
                 {object.course_id ?
@@ -117,9 +130,11 @@ export function LearningResourceDisplay(props) {
             />
           ) : null}
         </div>
-        <div className="lr-row subtitles">
-          <Dotdotdot clamp={3}>{object.description}</Dotdotdot>
-        </div>
+        {object.object_type === LR_TYPE_RESOURCEFILE ? (
+          <div className="lr-row subtitles">
+            <Dotdotdot clamp={3}>{object.description}</Dotdotdot>
+          </div>
+        ) : null}
       </div>
       {searchResultLayout === SEARCH_GRID_UI ? null : object.object_type ===
         LR_TYPE_RESOURCEFILE ? (

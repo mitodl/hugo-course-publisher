@@ -5,7 +5,7 @@ import SearchResult from "./SearchResult"
 
 import { makeLearningResourceResult } from "../factories/search"
 import { LR_TYPE_COURSE, LR_TYPE_RESOURCEFILE } from "../lib/constants"
-import { getCoverImageUrl } from "../lib/search"
+import { getContentIcon, getCoverImageUrl } from "../lib/search"
 
 describe("SearchResult component", () => {
   const render = object => mount(<SearchResult object={object} />)
@@ -38,7 +38,9 @@ describe("SearchResult component", () => {
   it("should render the things we expect for a resource", () => {
     const object = makeLearningResourceResult(LR_TYPE_RESOURCEFILE)
     const wrapper = render(object)
-    expect(wrapper.find(".course-title").text()).toBe(object.content_title)
+    expect(wrapper.find(".course-title").text()).toBe(
+      `${getContentIcon(object.content_type)}${object.content_title}`
+    )
     expect(
       wrapper
         .find(".course-title")

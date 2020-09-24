@@ -433,3 +433,16 @@ export const getResultUrl = result =>
   result.object_type === LR_TYPE_COURSE ?
     getCourseUrl(result) :
     getResourceUrl(result)
+
+export const getContentIcon = contentType => {
+  switch (contentType) {
+  case CONTENT_TYPE_PDF:
+    return "picture_as_pdf"
+  case CONTENT_TYPE_VIDEO:
+    return "theaters"
+  case CONTENT_TYPE_PAGE:
+    return "web"
+  default:
+    return "file_copy"
+  }
+}
