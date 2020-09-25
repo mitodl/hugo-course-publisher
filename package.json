@@ -25,7 +25,7 @@
     "build:hugo:debug": "hugo -d ../dist -s site -v --templateMetrics --debug",
     "build:pdfjs": "./build-scripts/build-pdfjs.sh",
     "build:webpack": "cross-env NODE_ENV=production webpack --config src/webpack/webpack.prod.js",
-    "build:zips": "node ./build-scripts/build_course_zips.js -d dist -c site/content/courses -z site/static/zips",
+    "build:zips": "node --max-old-space-size=8192 ./build-scripts/build_course_zips.js -d dist -c site/content/courses -z $COURSE_ZIPS_DESTINATION",
     "import:ocw": "ocw-to-hugo -i $OCW_TO_HUGO_INPUT -o site/content",
     "import:ocw:download": "ocw-to-hugo -i $OCW_TO_HUGO_INPUT -o site/content -c $OCW_TO_HUGO_COURSES_JSON --download",
     "import:ocw:strips3": "ocw-to-hugo -i $OCW_TO_HUGO_INPUT -o site/content --strips3",
