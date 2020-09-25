@@ -1,22 +1,22 @@
 <div class="instructor-and-number">
   <table class="table table-borderless mb-2">
     <tr>
-      <td class="px-0 py-2">Instructor(s)</td>
-      <td class="px-0 py-2">
-        {{ range $index, $instructor := .Params.course_info.instructors }}
+      <td class="px-2 py-2">Instructor(s)</td>
+      <td class="px-2 py-2">
+        {{- range $index, $instructor := .Params.course_info.instructors -}}
         {{- if $index -}},&nbsp;{{- end -}}
-        <a href="#" class="coming-soon pr-1">
+        <a class="px-0" href="#" class="coming-soon pr-1">
           {{- $instructor -}}
         </a>
-        {{ end }}
+        {{- end -}}
       </td>
     </tr>
     <tr>
-      <td class="px-0 py-2">Course No.</td>
-      <td class="px-0 py-2">
+      <td class="px-2 py-2">Course No.</td>
+      <td class="px-2 py-2">
         {{- range $index, $course_number := .Params.course_info.course_numbers -}}
         {{- if $index -}},&nbsp;{{- end -}}
-        <a href="#" class="coming-soon">
+        <a class="px-0" href="#" class="coming-soon">
           {{- $course_number -}}
         </a>
         {{- end -}}
