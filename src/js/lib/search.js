@@ -384,13 +384,13 @@ export const searchResultToLearningResource = result => ({
   audience:      result.audience,
   certification: result.certification,
   content_title: result.content_title,
-  run_title:     result.run_title,
-  run_slug:      result.run_slug,
-  content_type:  result.content_type,
-  url:           getResultUrl(result),
-  short_url:     result.short_url,
-  course_id:     result.course_id,
-  description:   result.short_description
+  run_title:     result.run_title || null,
+  run_slug:      result.run_slug || null,
+  content_type:  result.content_type || null,
+  url:           getResultUrl(result) || null,
+  short_url:     result.short_url || null,
+  course_id:     result.course_id || null,
+  description:   result.short_description || null
 })
 
 export const getCoverImageUrl = result => {

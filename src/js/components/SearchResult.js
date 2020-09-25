@@ -40,10 +40,9 @@ export const CoverImage = ({ object }) => (
       height={CAROUSEL_IMG_HEIGHT}
       alt={`cover image for ${object.title}`}
     />
-    {object.object_type === LR_TYPE_VIDEO ||
-    object.content_type === LR_TYPE_VIDEO ? (
-        <img src="/images/video_play_overlay.png" className="video-play-icon" />
-      ) : null}
+    {[object.object_type, object.content_type].includes(LR_TYPE_VIDEO) ? (
+      <img src="/images/video_play_overlay.png" className="video-play-icon" />
+    ) : null}
   </React.Fragment>
 )
 
@@ -130,18 +129,17 @@ export function LearningResourceDisplay(props) {
             />
           ) : null}
         </div>
-        {object.object_type === LR_TYPE_RESOURCEFILE ? (
+        {isResource ? (
           <div className="lr-row subtitles">
             <Dotdotdot clamp={3}>{object.description}</Dotdotdot>
           </div>
         ) : null}
       </div>
-      {searchResultLayout === SEARCH_GRID_UI ? null : object.object_type ===
-        LR_TYPE_RESOURCEFILE ? (
-          <LinkedImageDiv object={object} />
-        ) : (
-          <DrawerImageDiv object={object} />
-        )}
+      {searchResultLayout === SEARCH_GRID_UI ? null : isResource ? (
+        <LinkedImageDiv object={object} />
+      ) : (
+        <DrawerImageDiv object={object} />
+      )}
     </React.Fragment>
   )
 }

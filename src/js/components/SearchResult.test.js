@@ -33,6 +33,8 @@ describe("SearchResult component", () => {
         .first()
         .prop("src")
     ).toBe(getCoverImageUrl(object))
+    expect(wrapper.find("DrawerImageDiv").exists()).toBeTruthy()
+    expect(wrapper.find("LinkedImageDiv").exists()).toBeFalsy()
   })
 
   it("should render the things we expect for a resource", () => {
@@ -66,5 +68,7 @@ describe("SearchResult component", () => {
         .first()
         .prop("src")
     ).toBe(getCoverImageUrl(object))
+    expect(wrapper.find("DrawerImageDiv").exists()).toBeFalsy()
+    expect(wrapper.find("LinkedImageDiv").exists()).toBeTruthy()
   })
 })

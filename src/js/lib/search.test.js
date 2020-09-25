@@ -3,7 +3,8 @@ import {
   CONTENT_TYPE_PAGE,
   CONTENT_TYPE_PDF,
   CONTENT_TYPE_VIDEO,
-  LR_TYPE_COURSE
+  LR_TYPE_COURSE,
+  LR_TYPE_RESOURCEFILE
 } from "./constants"
 
 import {
@@ -11,10 +12,12 @@ import {
   buildSuggestQuery,
   getCoverImageUrl,
   getResourceUrl,
+  getResultUrl,
   LEARN_SUGGEST_FIELDS,
   RESOURCE_QUERY_NESTED_FIELDS,
   searchFields
 } from "./search"
+import { makeLearningResourceResult } from "../factories/search"
 
 const activeFacets = {
   ...INITIAL_FACET_STATE,
@@ -161,6 +164,21 @@ describe("search library", () => {
         content_type: contentType
       }
       expect(getResourceUrl(result)).toBe(expectedUrl)
+    })
+  })
+
+  //
+  ;[LR_TYPE_COURSE, LR_TYPE_RESOURCEFILE].forEach(objectType => {
+    it(`should return correct url for object type ${objectType}`, () => {
+      const isCourse = objectType === LR_TYPE_COURSE
+      const result = makeLearningResourceResult(objectType)
+      if (!isCourse) {
+        result.content_type = CONTENT_TYPE_PAGE
+      }
+      const expected = isCourse ?
+        `/courses/${result.runs[0].slug}/` :
+        `/courses/${result.run_slug}/sections/${result.short_url}/`
+      expect(getResultUrl(result)).toBe(expected)
     })
   })
 })
