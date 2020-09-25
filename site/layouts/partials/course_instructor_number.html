@@ -6,7 +6,7 @@
         {{ range $index, $instructor := .Params.course_info.instructors }}
         {{- if $index -}},&nbsp;{{- end -}}
         <a href="#" class="coming-soon pr-1">
-          {{ $instructor }}
+          {{- $instructor -}}
         </a>
         {{ end }}
       </td>
