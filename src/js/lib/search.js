@@ -397,16 +397,7 @@ export const getCoverImageUrl = result => {
   if (!emptyOrNil(result.image_src)) {
     return result.image_src
   } else {
-    switch (result.content_type) {
-    case CONTENT_TYPE_PAGE:
-      return "/images/page_thumbnail.png"
-    case CONTENT_TYPE_PDF:
-      return "/images/pdf_thumbnail.png"
-    case CONTENT_TYPE_VIDEO:
-      return "/images/video_thumbnail.png"
-    default:
-      return "/images/default_thumbnail.png"
-    }
+    return `/images/${result.content_type}_thumbnail.png`
   }
 }
 

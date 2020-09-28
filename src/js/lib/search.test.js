@@ -106,32 +106,21 @@ describe("search library", () => {
 
   //
   ;[true, false].forEach(hasImageSrc => {
-    [
-      CONTENT_TYPE_PAGE,
-      CONTENT_TYPE_VIDEO,
-      CONTENT_TYPE_PDF,
-      "other",
-      null
-    ].forEach(contentType => {
-      const fakeImgSrc = "http://fake/img.jpg"
-      const result = {
-        image_src:    hasImageSrc ? fakeImgSrc : null,
-        content_type: contentType
+    [CONTENT_TYPE_PAGE, CONTENT_TYPE_VIDEO, CONTENT_TYPE_PDF].forEach(
+      contentType => {
+        const fakeImgSrc = "http://fake/img.jpg"
+        const result = {
+          image_src:    hasImageSrc ? fakeImgSrc : null,
+          content_type: contentType
+        }
+        it(`should return correct image for result w/content type ${contentType}, image_src ${result.image_src}`, () => {
+          const expectedSrc = hasImageSrc ?
+            result.image_src :
+            `/images/${result.content_type}_thumbnail.png`
+          expect(getCoverImageUrl(result)).toBe(expectedSrc)
+        })
       }
-      it(`should return correct image for result w/content type ${contentType}, image_src ${result.image_src}`, () => {
-        const imgPrefix = [
-          CONTENT_TYPE_PAGE,
-          CONTENT_TYPE_VIDEO,
-          CONTENT_TYPE_PDF
-        ].includes(contentType) ?
-          contentType :
-          "default"
-        const expectedSrc = hasImageSrc ?
-          result.image_src :
-          `/images/${imgPrefix}_thumbnail.png`
-        expect(getCoverImageUrl(result)).toBe(expectedSrc)
-      })
-    })
+    )
   })
 
   //
