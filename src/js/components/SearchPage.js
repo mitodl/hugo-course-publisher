@@ -105,7 +105,7 @@ export default function SearchPage() {
           {isResourceSearch || !completedInitialLoad ? null : (
             <div className="col-3 mt-3 mt-lg-6"></div>
           )}
-          <div className="search-results col-12 col-lg-8 col-xl-8 px-3 px-md-5 mt-3 mt-lg-6 mx-auto">
+          <div className="search-results col-12 col-lg-8 col-xl-8 mt-3 mt-lg-6 mx-auto px-0">
             <div
               className={`search-toggle ${
                 isResourceSearch ? "nofacet" : "facet"
@@ -140,7 +140,7 @@ export default function SearchPage() {
         </div>
         <div className="row">
           {isResourceSearch || !completedInitialLoad ? null : (
-            <div className="col-3 mt-3 mt-lg-6">
+            <div className="col-3 mt-3">
               <FilterableFacet
                 results={facetOptions("topics")}
                 name="topics"
@@ -150,7 +150,7 @@ export default function SearchPage() {
               />
             </div>
           )}
-          <div className="search-results col-12 col-lg-8 col-xl-8 px-3 px-md-5 mt-3 mt-lg-6 mx-auto">
+          <div className="search-results col-12 col-lg-8 col-xl-8 mt-3 mx-auto px-0">
             <InfiniteScroll
               hasMore={from + SEARCH_PAGE_SIZE < total}
               loadMore={loadMore}

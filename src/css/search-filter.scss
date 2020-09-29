@@ -42,16 +42,7 @@
   justify-content: space-between;
 }
 
-.facets,
-.active-search-filters {
-  @include breakpoint(desktop) {
-    width: 90%;
-  }
-}
-
 .facets {
-  margin-bottom: 20px;
-
   .divider {
     padding-top: 20px;
   }
