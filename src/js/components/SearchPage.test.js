@@ -5,11 +5,14 @@ import { search } from "../lib/api"
 import { times } from "ramda"
 import { INITIAL_FACET_STATE } from "@mitodl/course-search-utils/dist/constants"
 import { serializeSearchParams } from "@mitodl/course-search-utils/dist/url_utils"
+import {
+  LR_TYPE_COURSE,
+  LR_TYPE_RESOURCEFILE
+} from "@mitodl/course-search-utils/dist/constants"
 
 import SearchPage, { SEARCH_PAGE_SIZE } from "./SearchPage"
 
 import { makeCourseResult } from "../factories/search"
-import { LR_TYPE_COURSE, LR_TYPE_RESOURCEFILE } from "../lib/constants"
 
 const mockGetResults = () =>
   times(makeCourseResult, SEARCH_PAGE_SIZE).map(result => ({ _source: result }))

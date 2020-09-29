@@ -2,7 +2,6 @@ import React, { useState, useCallback } from "react"
 import debounce from "lodash.debounce"
 import InfiniteScroll from "react-infinite-scroller"
 import { useCourseSearch } from "@mitodl/course-search-utils"
-import { memoize } from "lodash"
 
 import SearchResult from "./SearchResult"
 import SearchBox from "./SearchBox"
@@ -11,7 +10,10 @@ import FilterableFacet from "./FilterableFacet"
 
 import { search } from "../lib/api"
 import { searchResultToLearningResource, SEARCH_LIST_UI } from "../lib/search"
-import { LR_TYPE_COURSE, LR_TYPE_RESOURCEFILE } from "../lib/constants"
+import {
+  LR_TYPE_COURSE,
+  LR_TYPE_RESOURCEFILE
+} from "@mitodl/course-search-utils/dist/constants"
 
 export const SEARCH_PAGE_SIZE = 10
 
@@ -84,13 +86,13 @@ export default function SearchPage() {
 
   // eslint-disable-next-line react-hooks/exhaustive-deps
   const toggleResourceSearch = useCallback(
-    memoize(toggleOn => async () => {
+    toggleOn => async () => {
       await toggleFacets([
         ["type", LR_TYPE_RESOURCEFILE, toggleOn],
         ["type", LR_TYPE_COURSE, !toggleOn]
       ])
-    }),
-    []
+    },
+    [toggleFacets]
   )
 
   const isResourceSearch = activeFacets["type"].includes(LR_TYPE_RESOURCEFILE)
