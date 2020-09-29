@@ -10,6 +10,10 @@ import FilterableFacet from "./FilterableFacet"
 
 import { search } from "../lib/api"
 import { searchResultToLearningResource, SEARCH_LIST_UI } from "../lib/search"
+import {
+  LR_TYPE_COURSE,
+  LR_TYPE_RESOURCEFILE
+} from "@mitodl/course-search-utils/dist/constants"
 
 export const SEARCH_PAGE_SIZE = 10
 
@@ -21,6 +25,10 @@ export default function SearchPage() {
 
   const runSearch = useCallback(
     async (text, activeFacets, from) => {
+      if (activeFacets && activeFacets.type.length > 1) {
+        // Default is LR_TYPE_ALL, don't want that here. course or resourcefile only
+        activeFacets["type"] = [LR_TYPE_COURSE]
+      }
       const newResults = await search({
         text,
         from,
@@ -65,7 +73,8 @@ export default function SearchPage() {
     text,
     activeFacets,
     onSubmit,
-    from
+    from,
+    toggleFacets
   } = useCourseSearch(
     runSearch,
     clearSearch,
@@ -75,20 +84,72 @@ export default function SearchPage() {
     SEARCH_PAGE_SIZE
   )
 
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  const toggleResourceSearch = useCallback(
+    toggleOn => async () => {
+      await toggleFacets([
+        ["type", LR_TYPE_RESOURCEFILE, toggleOn],
+        ["type", LR_TYPE_COURSE, !toggleOn]
+      ])
+    },
+    [toggleFacets]
+  )
+
+  const isResourceSearch = activeFacets["type"].includes(LR_TYPE_RESOURCEFILE)
+
   return (
     <div className="search-page w-100">
       <SearchBox value={text} onChange={updateText} onSubmit={onSubmit} />
       <div className="container">
         <div className="row">
-          <div className="col-3 mt-3 mt-lg-6">
-            <FilterableFacet
-              results={facetOptions("topics")}
-              name="topics"
-              title="Topics"
-              currentlySelected={activeFacets["topics"] || []}
-              onUpdate={onUpdateFacets}
-            />
+          {isResourceSearch || !completedInitialLoad ? null : (
+            <div className="col-3 mt-3 mt-lg-6"></div>
+          )}
+          <div className="search-results col-12 col-lg-8 col-xl-8 px-3 px-md-5 mt-3 mt-lg-6 mx-auto">
+            <div
+              className={`search-toggle ${
+                isResourceSearch ? "nofacet" : "facet"
+              }`}
+            >
+              <ul className="nav">
+                <li className="nav-item">
+                  <button
+                    className={`nav-link search-nav ${
+                      isResourceSearch ? "" : "active"
+                    }`}
+                    href="#"
+                    onClick={toggleResourceSearch(false)}
+                  >
+                    Courses
+                  </button>
+                </li>
+                <li className="nav-item">
+                  <button
+                    className={`nav-link search-nav ${
+                      isResourceSearch ? "active" : ""
+                    }`}
+                    href="#"
+                    onClick={toggleResourceSearch(true)}
+                  >
+                    Resources
+                  </button>
+                </li>
+              </ul>
+            </div>
           </div>
+        </div>
+        <div className="row">
+          {isResourceSearch || !completedInitialLoad ? null : (
+            <div className="col-3 mt-3 mt-lg-6">
+              <FilterableFacet
+                results={facetOptions("topics")}
+                name="topics"
+                title="Topics"
+                currentlySelected={activeFacets["topics"] || []}
+                onUpdate={onUpdateFacets}
+              />
+            </div>
+          )}
           <div className="search-results col-12 col-lg-8 col-xl-8 px-3 px-md-5 mt-3 mt-lg-6 mx-auto">
             <InfiniteScroll
               hasMore={from + SEARCH_PAGE_SIZE < total}

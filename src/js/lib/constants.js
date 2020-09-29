@@ -4,6 +4,15 @@ export const LR_TYPE_PODCAST = "podcast"
 export const LR_TYPE_PODCAST_EPISODE = "podcastepisode"
 export const LR_TYPE_RESOURCEFILE = "resourcefile"
 
+export const CONTENT_TYPE_PDF = "pdf"
+export const CONTENT_TYPE_PAGE = "page"
+export const CONTENT_TYPE_VIDEO = LR_TYPE_VIDEO
+export const CONTENT_TYPE_SEARCHABLE = [
+  CONTENT_TYPE_PDF,
+  CONTENT_TYPE_PAGE,
+  CONTENT_TYPE_VIDEO
+]
+
 export const OCW_PLATFORM = "OCW"
 
 export const OPEN_CONTENT = "Open Content"
@@ -30,7 +39,8 @@ export const readableLearningResources = {
   [LR_TYPE_COURSE]:          "Course",
   [LR_TYPE_VIDEO]:           "Video",
   [LR_TYPE_PODCAST]:         "Podcast",
-  [LR_TYPE_PODCAST_EPISODE]: "Podcast Episode"
+  [LR_TYPE_PODCAST_EPISODE]: "Podcast Episode",
+  [LR_TYPE_RESOURCEFILE]:    "Course Resource"
 }
 
 export const DISPLAY_DATE_FORMAT = "MMMM D, YYYY"

@@ -105,6 +105,10 @@
       min-height: 45px;
       flex-direction: column;
 
+      &.lr-subheader {
+        font-size: 16px;
+      }
+
       .subtitle {
         margin-bottom: 5px;
 

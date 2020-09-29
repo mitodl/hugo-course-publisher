@@ -5,10 +5,16 @@ import Card from "./Card"
 
 import {
   CAROUSEL_IMG_HEIGHT,
+  LR_TYPE_RESOURCEFILE,
   LR_TYPE_VIDEO,
   readableLearningResources
 } from "../lib/constants"
-import { SEARCH_GRID_UI, SEARCH_LIST_UI } from "../lib/search"
+import {
+  getContentIcon,
+  getCoverImageUrl,
+  SEARCH_GRID_UI,
+  SEARCH_LIST_UI
+} from "../lib/search"
 
 const getClassName = searchResultLayout =>
   `learning-resource-card ${
@@ -27,19 +33,30 @@ const Subtitle = ({ label, content, htmlClass }) => (
   </div>
 )
 
-const CoverImage = ({ object, showResourceDrawer }) => (
-  <div className="cover-image" onClick={showResourceDrawer}>
+export const CoverImage = ({ object }) => (
+  <React.Fragment>
     <img
-      src={object.image_src}
+      src={getCoverImageUrl(object)}
       height={CAROUSEL_IMG_HEIGHT}
       alt={`cover image for ${object.title}`}
     />
-    {object.object_type === LR_TYPE_VIDEO ? (
-      <img
-        src="/static/images/video_play_overlay.png"
-        className="video-play-icon"
-      />
+    {[object.object_type, object.content_type].includes(LR_TYPE_VIDEO) ? (
+      <img src="/images/video_play_overlay.png" className="video-play-icon" />
     ) : null}
+  </React.Fragment>
+)
+
+const DrawerImageDiv = ({ object, showResourceDrawer }) => (
+  <div className="cover-image" onClick={showResourceDrawer}>
+    <CoverImage object={object} />
+  </div>
+)
+
+const LinkedImageDiv = ({ object }) => (
+  <div className="cover-image">
+    <a href={object.url} target="_blank" rel="noopener noreferrer">
+      <CoverImage object={object} />
+    </a>
   </div>
 )
 
@@ -58,21 +75,49 @@ export default function SearchResult(props) {
 
 export function LearningResourceDisplay(props) {
   const { object, searchResultLayout } = props
+  const isResource = object.object_type === LR_TYPE_RESOURCEFILE
 
   return (
     <React.Fragment>
       {searchResultLayout === SEARCH_GRID_UI ? (
         <CoverImage object={object} />
       ) : null}
-      <div className="lr-info">
+      <div className="lr-info search-result">
         <div className="lr-row resource-type-audience-certificates">
-          <div className="resource-type">
-            {readableLearningResources[object.object_type]}
-          </div>
+          {!isResource ? (
+            <div className="resource-type">
+              {readableLearningResources[object.object_type]}
+            </div>
+          ) : null}
         </div>
         <div className="lr-row course-title" tabIndex="0">
-          <Dotdotdot clamp={3}>{object.title}</Dotdotdot>
+          {isResource ? (
+            <i className="material-icons md-24 align-bottom pr-2">
+              {getContentIcon(object.content_type)}
+            </i>
+          ) : null}
+          {object.url ? (
+            <a href={object.url} target="_blank" rel="noopener noreferrer">
+              <Dotdotdot clamp={3}>
+                {object.content_title || object.title}
+              </Dotdotdot>
+            </a>
+          ) : (
+            <Dotdotdot clamp={3}>{object.title}</Dotdotdot>
+          )}
         </div>
+        {object.run_title ? (
+          <div className="lr-row subtitles lr-subheader" tabIndex="0">
+            <a href={`/courses/${object.run_slug}`}>
+              <Dotdotdot clamp={3}>
+                {object.course_id ?
+                  `${object.course_id.split("+").reverse()[0]} ` :
+                  ""}
+                {object.run_title}
+              </Dotdotdot>
+            </a>
+          </div>
+        ) : null}
         <div className="lr-row subtitles">
           {object.topics.length > 0 ? (
             <Subtitle
@@ -84,9 +129,16 @@ export function LearningResourceDisplay(props) {
             />
           ) : null}
         </div>
+        {isResource ? (
+          <div className="lr-row subtitles">
+            <Dotdotdot clamp={3}>{object.description}</Dotdotdot>
+          </div>
+        ) : null}
       </div>
-      {searchResultLayout === SEARCH_GRID_UI ? null : (
-        <CoverImage object={object} />
+      {searchResultLayout === SEARCH_GRID_UI ? null : isResource ? (
+        <LinkedImageDiv object={object} />
+      ) : (
+        <DrawerImageDiv object={object} />
       )}
     </React.Fragment>
   )

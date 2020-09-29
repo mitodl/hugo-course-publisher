@@ -7,7 +7,11 @@ import {
   LR_TYPE_PODCAST,
   LR_TYPE_PODCAST_EPISODE,
   LR_TYPE_RESOURCEFILE,
-  OCW_PLATFORM
+  OCW_PLATFORM,
+  CONTENT_TYPE_PAGE,
+  CONTENT_TYPE_PDF,
+  CONTENT_TYPE_VIDEO,
+  CONTENT_TYPE_SEARCHABLE
 } from "./constants"
 
 export const LEARN_SUGGEST_FIELDS = [
@@ -22,6 +26,12 @@ export const RESOURCE_QUERY_NESTED_FIELDS = [
   "runs.semester",
   "runs.level",
   "runs.instructors^5"
+]
+
+export const RESOURCEFILE_QUERY_FIELDS = [
+  "content",
+  "title",
+  "short_description"
 ]
 
 export const LR_TYPE_ALL = [
@@ -42,7 +52,7 @@ export const searchFields = type => {
   } else if (type === LR_TYPE_PODCAST_EPISODE) {
     return PODCAST_EPISODE_QUERY_FIELDS
   } else if (type === LR_TYPE_RESOURCEFILE) {
-    return ["content", "title", "short_description"]
+    return RESOURCEFILE_QUERY_FIELDS
   } else {
     return LIST_QUERY_FIELDS
   }
@@ -106,7 +116,7 @@ export const buildSearchQuery = ({ text, from, size, sort, activeFacets }) => {
     builder.sort(field, option)
   }
 
-  for (const type of [LR_TYPE_COURSE]) {
+  for (const type of activeFacets.type) {
     const queryType = isDoubleQuoted(text) ? "query_string" : "multi_match"
     const textQuery = emptyOrNil(text) ?
       {} :
@@ -137,7 +147,7 @@ export const buildSearchQuery = ({ text, from, size, sort, activeFacets }) => {
                   query: {
                     [queryType]: {
                       query:  text,
-                      fields: ["content", "title", "short_description"]
+                      fields: RESOURCEFILE_QUERY_FIELDS
                     }
                   },
                   score_mode: "avg"
@@ -156,7 +166,7 @@ export const buildSearchQuery = ({ text, from, size, sort, activeFacets }) => {
       offered_by: [OCW_PLATFORM]
     }
 
-    const facetClauses = buildFacetSubQuery(facets, builder)
+    const facetClauses = buildFacetSubQuery(facets, builder, type)
 
     // buildOrQuery
     builder = buildOrQuery(builder, type, textQuery, [])
@@ -181,20 +191,25 @@ export const buildSearchQuery = ({ text, from, size, sort, activeFacets }) => {
   return builder.build()
 }
 
-export const buildFacetSubQuery = (facets, builder) => {
+export const buildFacetSubQuery = (facets, builder, objectType) => {
   const facetClauses = []
   if (facets) {
     Object.entries(facets).forEach(([key, values]) => {
       const facetClausesForFacet = []
 
       if (values && values.length > 0) {
-        addFacetClauseToArray(facetClauses, key, values)
+        addFacetClauseToArray(facetClauses, key, values, objectType)
       }
 
       // $FlowFixMe: we check for null facets earlier
       Object.entries(facets).forEach(([otherKey, otherValues]) => {
         if (otherKey !== key && otherValues && otherValues.length > 0) {
-          addFacetClauseToArray(facetClausesForFacet, otherKey, otherValues)
+          addFacetClauseToArray(
+            facetClausesForFacet,
+            otherKey,
+            otherValues,
+            objectType
+          )
         }
       })
 
@@ -232,6 +247,24 @@ export const buildFacetSubQuery = (facets, builder) => {
 
 export const buildOrQuery = (builder, searchType, textQuery, extraClauses) => {
   const textFilter = emptyOrNil(textQuery) ? [] : [{ bool: textQuery }]
+
+  // For now, only include pdfs, web pages, and videos in resource results.
+  // Eventually, this may be another facet.
+  const contentFilter =
+    searchType !== LR_TYPE_RESOURCEFILE ?
+      [] :
+      [
+        {
+          bool: {
+            should: CONTENT_TYPE_SEARCHABLE.map(contentType => ({
+              term: {
+                content_type: contentType
+              }
+            }))
+          }
+        }
+      ]
+
   builder = builder.orQuery("bool", {
     filter: {
       bool: {
@@ -241,6 +274,7 @@ export const buildOrQuery = (builder, searchType, textQuery, extraClauses) => {
               object_type: searchType
             }
           },
+          ...contentFilter,
           ...extraClauses,
           // Add multimatch text query here to filter out non-matching results
           ...textFilter
@@ -253,7 +287,7 @@ export const buildOrQuery = (builder, searchType, textQuery, extraClauses) => {
   return builder
 }
 
-const addFacetClauseToArray = (facetClauses, facet, values) => {
+const addFacetClauseToArray = (facetClauses, facet, values, type) => {
   if (
     facet === OBJECT_TYPE &&
     values.toString() === buildSearchQuery.toString()
@@ -262,14 +296,37 @@ const addFacetClauseToArray = (facetClauses, facet, values) => {
   }
 
   const filterKey = facet === OBJECT_TYPE ? "object_type.keyword" : facet
+  let valueClauses
+  // Apply standard facet clause unless this is an offered_by facet for resources.
+  if (facet !== "offered_by" || type !== LR_TYPE_RESOURCEFILE) {
+    valueClauses = values.map(value => ({
+      term: {
+        [filterKey]: value
+      }
+    }))
+  } else {
+    // offered_by facet should apply to parent doc of resource
+    valueClauses = [
+      {
+        has_parent: {
+          parent_type: "resource",
+          query:       {
+            bool: {
+              should: values.map(value => ({
+                term: {
+                  [filterKey]: value
+                }
+              }))
+            }
+          }
+        }
+      }
+    ]
+  }
 
   facetClauses.push({
     bool: {
-      should: values.map(value => ({
-        term: {
-          [filterKey]: value
-        }
-      }))
+      should: valueClauses
     }
   })
 }
@@ -325,5 +382,58 @@ export const searchResultToLearningResource = result => ({
   topics:        result.topics ? result.topics.map(topic => ({ name: topic })) : [],
   runs:          "runs" in result ? result.runs : [],
   audience:      result.audience,
-  certification: result.certification
+  certification: result.certification,
+  content_title: result.content_title,
+  run_title:     result.run_title || null,
+  run_slug:      result.run_slug || null,
+  content_type:  result.content_type || null,
+  url:           getResultUrl(result) || null,
+  short_url:     result.short_url || null,
+  course_id:     result.course_id || null,
+  description:   result.short_description || null
 })
+
+export const getCoverImageUrl = result => {
+  if (!emptyOrNil(result.image_src)) {
+    return result.image_src
+  } else {
+    return `/images/${result.content_type}_thumbnail.png`
+  }
+}
+
+export const getCourseUrl = result => `/courses/${result.runs[0].slug}/`
+
+export const getResourceUrl = result => {
+  if (result.content_type === CONTENT_TYPE_PAGE) {
+    // Formulate URL based on run slug and short url
+    const shortUrl = result.short_url ? `sections/${result.short_url}/` : ""
+    return `/courses/${result.run_slug}/${shortUrl}`
+  } else {
+    // Non-page results should have full URLs, convert to CDN if it's an S3 URL
+    try {
+      const originalUrl = new URL(result.url)
+      const useCDN = originalUrl.hostname.match(/s3\.amazonaws\.com/)
+      return useCDN ? `/coursemedia${originalUrl.pathname}` : result.url
+    } catch {
+      return result.url
+    }
+  }
+}
+
+export const getResultUrl = result =>
+  result.object_type === LR_TYPE_COURSE ?
+    getCourseUrl(result) :
+    getResourceUrl(result)
+
+export const getContentIcon = contentType => {
+  switch (contentType) {
+  case CONTENT_TYPE_PDF:
+    return "picture_as_pdf"
+  case CONTENT_TYPE_VIDEO:
+    return "theaters"
+  case CONTENT_TYPE_PAGE:
+    return "web"
+  default:
+    return "file_copy"
+  }
+}

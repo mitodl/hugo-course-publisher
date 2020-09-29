@@ -5,6 +5,17 @@
 @import "card";
 @import "search-filter";
 
+.search-nav {
+  background-color: transparent;
+  border: initial;
+
+  &.active {
+    font-weight: bold;
+  }
+  font-size: 20px;
+  text-decoration: none !important;
+}
+
 .search-box {
   background-color: $light-gray;
 
@@ -34,11 +45,25 @@
     max-width: 800px;
   }
 
+  a {
+    text-decoration: none;
+  }
+
   .no-results-found {
     height: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-style: italic;
+  }
+}
+
+.search-toggle {
+  &.facet {
+    margin-left: -35px;
+  }
+
+  &.nofacet {
+    margin-left: -15px;
   }
 }
