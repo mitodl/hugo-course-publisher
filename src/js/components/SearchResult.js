@@ -8,18 +8,14 @@ import {
 
 import Card from "./Card"
 
-import {
-  CAROUSEL_IMG_HEIGHT,
-  SEARCH_URL,
-  readableLearningResources
-} from "../lib/constants"
+import { CAROUSEL_IMG_HEIGHT, SEARCH_URL } from "../lib/constants"
 import {
   getContentIcon,
   getCoverImageUrl,
   SEARCH_GRID_UI,
   SEARCH_LIST_UI
 } from "../lib/search"
-import {emptyOrNil} from "../lib/util"
+import { emptyOrNil } from "../lib/util"
 
 const getClassName = searchResultLayout =>
   `learning-resource-card ${
@@ -76,7 +72,7 @@ export function LearningResourceDisplay(props) {
         <div className="lr-row resource-type-audience-certificates">
           {!isResource ? (
             <div className="resource-type">
-              {`${object.course_id}${ object.level ? " | " : "" }${object.level}`}
+              {`${object.course_id}${object.level ? " | " : ""}${object.level}`}
             </div>
           ) : null}
         </div>
@@ -116,16 +112,16 @@ export function LearningResourceDisplay(props) {
               } - `}
               htmlClass="listitem"
             >
-              {object.instructors.map((instructor, i) => <a key={i}>{`Prof. ${instructor}`} </a>)}
+              {object.instructors.map((instructor, i) => (
+                <a key={i}>{`Prof. ${instructor}`} </a>
+              ))}
             </Subtitle>
           ) : null}
         </div>
         <div className="lr-row subtitles">
           {!emptyOrNil(object.topics) ? (
             <Subtitle
-              label={`${
-                object.topics.length === 1 ? "Topic" : "Topics"
-              } - `}
+              label={`${object.topics.length === 1 ? "Topic" : "Topics"} - `}
               htmlClass="listitem"
             >
               {object.topics.map((topic, idx) => (
