@@ -89,6 +89,20 @@ describe("SearchResult component", () => {
     expect(wrapper.find("CoverImage").exists()).toBeTruthy()
   })
 
+  //
+  ;[[], null].forEach(listValue => {
+    it(`should not render div for instructors, topics if they equal ${String(
+      listValue
+    )}`, () => {
+      const result = makeLearningResourceResult(LR_TYPE_COURSE)
+      result.runs[0].instructor = listValue
+      result.topics = listValue
+      const object = searchResultToLearningResource(result)
+      const wrapper = render(object)
+      expect(wrapper.find(".subtitles")).toHaveLength(1)
+    })
+  })
+
   it("should link to the course subjects", () => {
     const object = makeLearningResourceResult(LR_TYPE_COURSE)
     const wrapper = render(object)
