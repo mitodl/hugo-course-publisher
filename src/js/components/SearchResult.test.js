@@ -76,7 +76,7 @@ describe("SearchResult component", () => {
     expect(
       wrapper
         .find(".subtitles")
-        .at(2)
+        .at(1)
         .text()
     ).toContain("Topic")
     expect(

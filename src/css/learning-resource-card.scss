@@ -102,6 +102,7 @@
     display: flex;
 
     &.subtitles {
+      min-height: 30px;
       flex-direction: column;
 
       &.lr-subheader {
