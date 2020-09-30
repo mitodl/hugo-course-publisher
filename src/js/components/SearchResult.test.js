@@ -10,13 +10,13 @@ import SearchResult from "./SearchResult"
 
 import { makeLearningResourceResult } from "../factories/search"
 import { SEARCH_URL } from "../lib/constants"
-import { getContentIcon, getCoverImageUrl } from "../lib/search"
+import {getContentIcon, getCoverImageUrl, searchResultToLearningResource} from "../lib/search"
 
 describe("SearchResult component", () => {
   const render = object => mount(<SearchResult object={object} />)
 
   it("should render the things we expect for a course", () => {
-    const object = makeLearningResourceResult(LR_TYPE_COURSE)
+    const object = searchResultToLearningResource(makeLearningResourceResult(LR_TYPE_COURSE))
     const wrapper = render(object)
     expect(wrapper.find(".course-title").text()).toBe(object.title)
     expect(
@@ -30,7 +30,13 @@ describe("SearchResult component", () => {
         .find(".subtitles")
         .first()
         .text()
-    ).toContain("Subject")
+    ).toContain("Instructors")
+    expect(
+      wrapper
+        .find(".subtitles")
+        .first()
+        .text()
+    ).toContain(`Prof. ${object.instructors[0]}`)
     expect(
       wrapper
         .find(".cover-image")
@@ -38,12 +44,11 @@ describe("SearchResult component", () => {
         .first()
         .prop("src")
     ).toBe(getCoverImageUrl(object))
-    expect(wrapper.find("DrawerImageDiv").exists()).toBeTruthy()
-    expect(wrapper.find("LinkedImageDiv").exists()).toBeFalsy()
+    expect(wrapper.find("CoverImage").exists()).toBeTruthy()
   })
 
   it("should render the things we expect for a resource", () => {
-    const object = makeLearningResourceResult(LR_TYPE_RESOURCEFILE)
+    const object = searchResultToLearningResource(makeLearningResourceResult(LR_TYPE_RESOURCEFILE))
     const wrapper = render(object)
     expect(wrapper.find(".course-title").text()).toBe(
       `${getContentIcon(object.content_type)}${object.content_title}`
@@ -63,9 +68,9 @@ describe("SearchResult component", () => {
     expect(
       wrapper
         .find(".subtitles")
-        .at(1)
+        .at(2)
         .text()
-    ).toContain("Subject")
+    ).toContain("Topic")
     expect(
       wrapper
         .find(".cover-image")
@@ -73,8 +78,7 @@ describe("SearchResult component", () => {
         .first()
         .prop("src")
     ).toBe(getCoverImageUrl(object))
-    expect(wrapper.find("DrawerImageDiv").exists()).toBeFalsy()
-    expect(wrapper.find("LinkedImageDiv").exists()).toBeTruthy()
+    expect(wrapper.find("CoverImage").exists()).toBeTruthy()
   })
 
   it("should link to the course subjects", () => {

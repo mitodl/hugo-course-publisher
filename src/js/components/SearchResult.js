@@ -19,6 +19,7 @@ import {
   SEARCH_GRID_UI,
   SEARCH_LIST_UI
 } from "../lib/search"
+import {emptyOrNil} from "../lib/util"
 
 const getClassName = searchResultLayout =>
   `learning-resource-card ${
@@ -28,35 +29,23 @@ const getClassName = searchResultLayout =>
 const Subtitle = ({ label, children, htmlClass }) => (
   <div className="lr-row subtitle">
     <div className={`lr-subtitle ${htmlClass}`}>
-      <span className="gray">{label}</span>
-      {children}
+      <div className="gray">{label}</div>
+      <div className="content">{children}</div>
     </div>
   </div>
 )
 
-export const CoverImage = ({ object }) => (
-  <React.Fragment>
-    <img
-      src={getCoverImageUrl(object)}
-      height={CAROUSEL_IMG_HEIGHT}
-      alt={`cover image for ${object.title}`}
-    />
-    {[object.object_type, object.content_type].includes(LR_TYPE_VIDEO) ? (
-      <img src="/images/video_play_overlay.png" className="video-play-icon" />
-    ) : null}
-  </React.Fragment>
-)
-
-const DrawerImageDiv = ({ object, showResourceDrawer }) => (
-  <div className="cover-image" onClick={showResourceDrawer}>
-    <CoverImage object={object} />
-  </div>
-)
-
-const LinkedImageDiv = ({ object }) => (
+const CoverImage = ({ object }) => (
   <div className="cover-image">
-    <a href={object.url} target="_blank" rel="noopener noreferrer">
-      <CoverImage object={object} />
+    <a href={object.url}>
+      <img
+        src={getCoverImageUrl(object)}
+        height={CAROUSEL_IMG_HEIGHT}
+        alt={`cover image for ${object.title}`}
+      />
+      {[object.object_type, object.content_type].includes(LR_TYPE_VIDEO) ? (
+        <img src="/images/video_play_overlay.png" className="video-play-icon" />
+      ) : null}
     </a>
   </div>
 )
@@ -87,7 +76,7 @@ export function LearningResourceDisplay(props) {
         <div className="lr-row resource-type-audience-certificates">
           {!isResource ? (
             <div className="resource-type">
-              {readableLearningResources[object.object_type]}
+              {`${object.course_id}${ object.level ? " | " : "" }${object.level}`}
             </div>
           ) : null}
         </div>
@@ -98,7 +87,7 @@ export function LearningResourceDisplay(props) {
             </i>
           ) : null}
           {object.url ? (
-            <a href={object.url} target="_blank" rel="noopener noreferrer">
+            <a href={object.url}>
               <Dotdotdot clamp={3}>
                 {object.content_title || object.title}
               </Dotdotdot>
@@ -120,12 +109,24 @@ export function LearningResourceDisplay(props) {
           </div>
         ) : null}
         <div className="lr-row subtitles">
-          {object.topics.length > 0 ? (
+          {!emptyOrNil(object.instructors) ? (
             <Subtitle
               label={`${
-                object.topics.length === 1 ? "Subject" : "Subjects"
+                object.instructors.length === 1 ? "Instructor" : "Instructors"
               } - `}
-              htmlClass="subject"
+              htmlClass="listitem"
+            >
+              {object.instructors.map((instructor, i) => <a key={i}>{`Prof. ${instructor}`} </a>)}
+            </Subtitle>
+          ) : null}
+        </div>
+        <div className="lr-row subtitles">
+          {!emptyOrNil(object.topics) ? (
+            <Subtitle
+              label={`${
+                object.topics.length === 1 ? "Topic" : "Topics"
+              } - `}
+              htmlClass="listitem"
             >
               {object.topics.map((topic, idx) => (
                 <a
@@ -150,10 +151,8 @@ export function LearningResourceDisplay(props) {
           </div>
         ) : null}
       </div>
-      {searchResultLayout === SEARCH_GRID_UI ? null : isResource ? (
-        <LinkedImageDiv object={object} />
-      ) : (
-        <DrawerImageDiv object={object} />
+      {searchResultLayout === SEARCH_GRID_UI ? null : (
+        <CoverImage object={object} />
       )}
     </React.Fragment>
   )

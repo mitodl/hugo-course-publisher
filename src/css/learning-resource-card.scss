@@ -102,7 +102,6 @@
     display: flex;
 
     &.subtitles {
-      min-height: 45px;
       flex-direction: column;
 
       &.lr-subheader {
@@ -114,10 +113,8 @@
 
         .lr-subtitle {
           font-size: 14px;
-          white-space: nowrap;
-          overflow: hidden;
-          text-overflow: ellipsis;
           width: 100%;
+          display: flex;
 
           a {
             color: black;
@@ -131,10 +128,13 @@
 
           .gray {
             color: $font-gray-light;
+            padding-right: 10px;
+            min-width: fit-content;
           }
+
         }
 
-        .lr-subtitle.subject a {
+        .lr-subtitle.listitem a {
           margin-right: 10px;
         }
       }
