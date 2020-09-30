@@ -106,20 +106,20 @@ export function LearningResourceDisplay(props) {
         ) : null}
         {!emptyOrNil(object.instructors) ? (
           <div className="lr-row subtitles">
-              <Subtitle
-                label={`${
-                  object.instructors.length === 1 ? "Instructor" : "Instructors"
-                } - `}
-                htmlClass="listitem"
-              >
-                {object.instructors.map((instructor, i) => (
-                  <a key={i}>{`Prof. ${instructor}`} </a>
-                ))}
-              </Subtitle>
+            <Subtitle
+              label={`${
+                object.instructors.length === 1 ? "Instructor" : "Instructors"
+              } - `}
+              htmlClass="listitem"
+            >
+              {object.instructors.map((instructor, i) => (
+                <a key={i}>{`Prof. ${instructor}`} </a>
+              ))}
+            </Subtitle>
           </div>
         ) : null}
         {!emptyOrNil(object.topics) ? (
-        <div className="lr-row subtitles">
+          <div className="lr-row subtitles">
             <Subtitle
               label={`${object.topics.length === 1 ? "Topic" : "Topics"} - `}
               htmlClass="listitem"
@@ -139,7 +139,7 @@ export function LearningResourceDisplay(props) {
                 </a>
               ))}
             </Subtitle>
-        </div>
+          </div>
         ) : null}
         {isResource ? (
           <div className="lr-row subtitles">
