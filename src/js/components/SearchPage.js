@@ -9,7 +9,7 @@ import {
 
 import SearchResult from "./SearchResult"
 import SearchBox from "./SearchBox"
-import Loading from "./Loading"
+import Loading, { Spinner } from "./Loading"
 import FilterableFacet from "./FilterableFacet"
 
 import { search } from "../lib/api"
@@ -155,7 +155,7 @@ export default function SearchPage() {
               hasMore={from + SEARCH_PAGE_SIZE < total}
               loadMore={loadMore}
               initialLoad={false}
-              loader={completedInitialLoad ? <Loading /> : null}
+              loader={completedInitialLoad ? <Spinner /> : null}
             >
               {completedInitialLoad ? (
                 results.length === 0 ? (

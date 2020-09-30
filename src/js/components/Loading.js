@@ -38,3 +38,17 @@ export default function Loading() {
     </div>
   )
 }
+
+export function Spinner(props) {
+  const { className } = props
+
+  return (
+    <div className={`loading ${className || ""}`}>
+      <div className="spinner">
+        <div className="bounce1"></div>
+        <div className="bounce2"></div>
+        <div className="bounce3"></div>
+      </div>
+    </div>
+  )
+}
