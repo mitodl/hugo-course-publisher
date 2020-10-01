@@ -24,6 +24,7 @@
 
     &::placeholder {
       color: $font-gray;
+      line-height: unset;
     }
   }
 
