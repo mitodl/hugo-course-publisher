@@ -109,7 +109,7 @@ export function LearningResourceDisplay(props) {
             <Subtitle
               label={`${
                 object.instructors.length === 1 ? "Instructor" : "Instructors"
-              } - `}
+              }: `}
               htmlClass="listitem"
             >
               {object.instructors.map((instructor, i) => (
@@ -121,7 +121,7 @@ export function LearningResourceDisplay(props) {
         {!emptyOrNil(object.topics) ? (
           <div className="lr-row subtitles">
             <Subtitle
-              label={`${object.topics.length === 1 ? "Topic" : "Topics"} - `}
+              label={`${object.topics.length === 1 ? "Topic" : "Topics"}: `}
               htmlClass="listitem"
             >
               {object.topics.map((topic, idx) => (
