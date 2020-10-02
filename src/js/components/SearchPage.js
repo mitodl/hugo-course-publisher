@@ -155,7 +155,7 @@ export default function SearchPage() {
               hasMore={from + SEARCH_PAGE_SIZE < total}
               loadMore={loadMore}
               initialLoad={false}
-              loader={completedInitialLoad ? <Spinner /> : null}
+              loader={completedInitialLoad ? <Spinner key="spinner" /> : null}
             >
               {completedInitialLoad ? (
                 results.length === 0 ? (
