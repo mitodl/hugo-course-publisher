@@ -1,13 +1,12 @@
 const yargs = require("yargs")
-const fs = require("fs")
-const walk = require("walk")
-const tmp = require("tmp")
-tmp.setGracefulCleanup()
-const rimraf = require("rimraf")
-const archiver = require("archiver")
+const fsPromises = require("fs").promises
 const path = require("path")
+const os = require("os")
 const cliProgress = require("cli-progress")
-const shell = require("shelljs")
+const util = require('util')
+const execFile = util.promisify(require('child_process').execFile)
+const rimraf = util.promisify(require("rimraf"))
+const tmp = require("tmp")
 
 const { directoryExists } = require("../src/js/helpers")
 const newProgressBar = () => {
@@ -45,108 +44,116 @@ const distPath = options.dist
 const coursesPath = options.courses
 const zipsPath = options.zips
 
-// clear out the distribution path and run the webpack build
-rimraf.sync(distPath)
-if (shell.exec("npm run build:webpack").code !== 0) {
-  console.error("Webpack build failed")
-  process.exit(1)
-}
 
-// remove existing zips
-rimraf.sync(zipsPath)
-fs.mkdirSync(zipsPath, { recursive: true })
-
-// ensure dist and courses are directories that exist
-if (!directoryExists(distPath) || !directoryExists(coursesPath)) {
-  console.error(
-    `Path not found - dist exists: ${directoryExists(
-      distPath
-    )} courses exists: ${directoryExists(coursesPath)}`
-  )
-  process.exit(1)
-}
-
-// gather files from the webpack build
-let webpackFiles = []
-walk.walk(distPath, {
-  listeners: {
-    file: (root, fileStats, next) => {
-      // add each file to a list
-      webpackFiles.push({
-        root: root,
-        name: fileStats.name
-      })
-      next()
-    },
-    end: () => {
-      // filter out hidden files
-      webpackFiles = webpackFiles.filter(file => !file.name.startsWith("."))
-      const hugoProgress = newProgressBar()
-      const archiveProgress = newProgressBar()
-      let archiveStarted = false
-      const courses = fs
-        .readdirSync(coursesPath)
-        .filter(course => !course.includes("."))
-      if (courses.length <= 0) {
-        console.error(`No courses found`)
-        process.exit(1)
+// Walk a tree and produce { root, relPath, file } for each file found
+async function* iterateTree(rootPath, relPath = ".") {
+  const files = await fsPromises.readdir(path.join(rootPath, relPath))
+  for (const file of files) {
+    const absFile = path.join(rootPath, relPath, file)
+    const stat = await fsPromises.lstat(absFile)
+    if (stat.isDirectory()) {
+      for await (const item of iterateTree(rootPath, path.join(relPath, file))) {
+        yield item
       }
-      console.log("Generating Hugo sites...")
-      hugoProgress.start(courses.length, 0)
-      courses.forEach(course => {
-        // run the hugo build
-        const tmpDir = tmp.dirSync({
-          prefix: "dist"
-        }).name
-        if (
-          shell.exec(
-            `hugo -d ${tmpDir} -s site --theme single_course --contentDir ${path.join(
-              "..",
-              coursesPath,
-              course
-            )} --quiet`
-          ).code === 0
-        ) {
-          hugoProgress.increment()
-          // create the archive
-          const archive = archiver("zip")
-          // add the webpack files
-          webpackFiles.forEach(file => {
-            archive.file(path.join(file.root, file.name), {
-              name: path.join(
-                file.root.replace(new RegExp(`${distPath}/?`, "g"), ""),
-                file.name
-              )
-            })
-          })
-          // add the course files
-          walk.walk(tmpDir, {
-            listeners: {
-              file: (root, fileStats, next) => {
-                archive.file(path.join(root, fileStats.name), {
-                  name: path.join(root.replace(tmpDir, ""), fileStats.name)
-                })
-                next()
-              },
-              end: () => {
-                // walk seems to call this after all files have been added for every course
-                if (!archiveStarted) {
-                  console.log("Archiving courses...")
-                  archiveProgress.start(courses.length, 1)
-                  archiveStarted = true
-                } else {
-                  archiveProgress.increment()
-                }
-                const output = fs.createWriteStream(
-                  path.join(zipsPath, `${course}.zip`)
-                )
-                archive.pipe(output)
-                archive.finalize()
-              }
-            }
-          })
-        }
-      })
+    } else if (stat.isFile()) {
+      yield { root: rootPath, relPath, file }
     }
   }
+}
+
+// clear out the distribution path and run the webpack build
+const run = async () => {
+  if ((await execFile("which", ["zip"])).error) {
+    throw new Error("Unable to find zip binary")
+  }
+
+  const baseDir = path.resolve(coursesPath, "..", "..")
+  const relative = path.relative(baseDir, zipsPath)
+  if (relative && !relative.startsWith("..") && !path.isAbsolute(relative)) {
+    // make sure zips are not picked up by hugo, causing a blowup in file size
+    throw new Error("zips path must not be within hugo course area, two parent directories above courses directory")
+  }
+
+  await rimraf(distPath)
+  const { error } = await execFile("npm", ["run", "build:webpack"])
+  if (error) {
+    throw new Error("Webpack build failed", error)
+  }
+
+  // remove existing zips
+  await rimraf(zipsPath)
+  await fsPromises.mkdir(zipsPath, {recursive: true})
+
+  // ensure dist and courses are directories that exist
+  const distExists = await directoryExists(distPath)
+  const coursesExists = await directoryExists(coursesPath)
+  if (!distExists || !coursesExists) {
+    throw new Error(
+      `Path not found - dist exists: ${distExists} courses exists: ${coursesExists}`
+    )
+  }
+
+  const hugoProgress = newProgressBar()
+  const courses = (await fsPromises.readdir(coursesPath))
+    // TODO: what is this for? Are we excluding any course with a dot when we just want to exclude . and ..?
+    .filter(course => !course.includes("."))
+
+  if (courses.length <= 0) {
+    console.error(`No courses found`)
+    process.exit(1)
+  }
+  console.log("Generating Hugo sites...")
+
+  const webpackFiles = []
+  for await (const { root, relPath, file} of iterateTree(distPath)) {
+    if (!file.startsWith(".")) {
+      // TODO: is this necessary? Are we only looking to exclude . and ..?
+      webpackFiles.push({root, relPath, file})
+    }
+  }
+
+  hugoProgress.start(courses.length, 0)
+  for (const course of courses) {
+    // run the hugo build
+    const tmpDir = tmp.dirSync({
+      prefix: "dist"
+    }).name
+    try {
+      const {error} = await execFile("hugo", [
+        "-d", tmpDir, "-s", "site", "--theme", "single_course", "--contentDir", path.join("..", coursesPath, course)
+      ])
+      if (error) {
+        throw new Error(error)
+      }
+
+      // create the archive
+
+      // add the webpack files
+      for (const {root, relPath, file} of webpackFiles) {
+        await fsPromises.mkdir(path.join(tmpDir, relPath), {recursive: true})
+        await fsPromises.copyFile(path.join(root, relPath, file), path.join(tmpDir, relPath, file))
+      }
+      // add the course files
+
+      const courseRoot = path.join(coursesPath, course)
+      for await (const { relPath, file} of iterateTree(courseRoot)) {
+        await fsPromises.mkdir(path.join(tmpDir, relPath), {recursive: true})
+        await fsPromises.copyFile(path.join(courseRoot, relPath, file), path.join(tmpDir, relPath, file))
+      }
+
+      const zipPath = path.resolve(zipsPath, `${course}.zip`)
+      const {error: zipError} = await execFile("zip", [zipPath, ".", "-r", "-q"], {cwd: tmpDir})
+      if (zipError) {
+        throw new Error(zipError)
+      }
+      hugoProgress.increment()
+    } finally {
+      await rimraf(tmpDir)
+    }
+  }
+}
+
+run().catch(err => {
+  console.error("Error:", err)
+  process.exit(1)
 })

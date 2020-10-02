@@ -1,11 +1,11 @@
-const fs = require("fs")
+const fsPromises = require("fs").promises
 
-const directoryExists = directory => {
-  return (
-    directory &&
-    fs.existsSync(directory) &&
-    fs.lstatSync(directory).isDirectory()
-  )
+const directoryExists = async directory => {
+  try {
+    return (await fsPromises.lstat(directory)).isDirectory()
+  } catch (err) {
+    return false
+  }
 }
 
 module.exports = {
