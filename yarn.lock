@@ -1328,10 +1328,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@mitodl/course-search-utils@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@mitodl/course-search-utils/-/course-search-utils-1.0.4.tgz#a70c0253db0beab03d42e0b8a01cb726ae92dca3"
-  integrity sha512-fAfeUM5S5qZRjKhfDXQhstLZkAglY0Ka0TXITTFtz0O5o3QQFoJP6PbMPFcw2JZBHLY4JyTVJaPgyVccgwZaGw==
+"@mitodl/course-search-utils@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@mitodl/course-search-utils/-/course-search-utils-1.0.5.tgz#e57cd667e716b29c337508b3e54f2c67ce29f592"
+  integrity sha512-hIAPnNHicMz39mgjxEpMejh2HNeRyVaXXZpYwY9KonGeoos+Er8hoV5szOE/KNdN9NdmFN/UXVwY+v9jHjLG+w==
   dependencies:
     query-string "^6.13.1"
     ramda "^0.27.1"

@@ -29,6 +29,7 @@ export default function SearchPage() {
         // Default is LR_TYPE_ALL, don't want that here. course or resourcefile only
         activeFacets["type"] = [LR_TYPE_COURSE]
       }
+
       const newResults = await search({
         text,
         from,
@@ -146,6 +147,13 @@ export default function SearchPage() {
                 name="topics"
                 title="Topics"
                 currentlySelected={activeFacets["topics"] || []}
+                onUpdate={onUpdateFacets}
+              />
+              <FilterableFacet
+                results={facetOptions("department_name")}
+                name="department_name"
+                title="Department"
+                currentlySelected={activeFacets["department_name"] || []}
                 onUpdate={onUpdateFacets}
               />
             </div>

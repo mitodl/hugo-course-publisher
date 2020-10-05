@@ -25,13 +25,15 @@ export const RESOURCE_QUERY_NESTED_FIELDS = [
   "runs.year",
   "runs.semester",
   "runs.level",
-  "runs.instructors^5"
+  "runs.instructors^5",
+  "department_name"
 ]
 
 export const RESOURCEFILE_QUERY_FIELDS = [
   "content",
   "title",
-  "short_description"
+  "short_description",
+  "department_name"
 ]
 
 export const LR_TYPE_ALL = [
@@ -81,7 +83,8 @@ const COURSE_QUERY_FIELDS = [
   "platform",
   "course_id",
   "coursenum^5",
-  "offered_by"
+  "offered_by",
+  "department_name"
 ]
 const VIDEO_QUERY_FIELDS = [
   "title.english^3",

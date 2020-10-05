@@ -66,7 +66,7 @@ function FilterableSearchFacet(props) {
   }
 
   return results && results.buckets && results.buckets.length === 0 ? null : (
-    <div className="facets filterable-facet">
+    <div className="facets filterable-facet pb-3">
       <div
         className="filter-section-title"
         onClick={() => setShowFacetList(!showFacetList)}

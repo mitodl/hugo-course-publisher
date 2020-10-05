@@ -9,6 +9,7 @@ import {
   LR_TYPE_COURSE,
   LR_TYPE_RESOURCEFILE
 } from "@mitodl/course-search-utils/dist/constants"
+import FilterableFacet from "./FilterableFacet"
 
 import SearchPage, { SEARCH_PAGE_SIZE } from "./SearchPage"
 
@@ -277,5 +278,18 @@ describe("SearchPage component", () => {
     await resolveSearch()
     wrapper.update()
     expect(wrapper.find("Loading").exists()).toBeFalsy()
+  })
+
+  test("should render a FilterableFacet for topic, department", async () => {
+    const wrapper = await render()
+    await resolveSearch()
+    wrapper.update()
+    const [topic, department] = wrapper.find(FilterableFacet)
+    expect(topic.props.name).toEqual("topics")
+    expect(topic.props.title).toEqual("Topics")
+    expect(topic.props.currentlySelected).toEqual([])
+    expect(department.props.name).toEqual("department_name")
+    expect(department.props.title).toEqual("Department")
+    expect(department.props.currentlySelected).toEqual([])
   })
 })

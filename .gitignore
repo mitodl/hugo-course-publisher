@@ -48,6 +48,7 @@ site/static/zips
 site/content/courses/*
 !site/content/courses/_index.md
 ocw-to-hugo.*.log
+*.tgz
 
 # Unit test / coverage reports
 htmlcov/

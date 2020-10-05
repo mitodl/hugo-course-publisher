@@ -15,6 +15,7 @@ import {
   getResultUrl,
   LEARN_SUGGEST_FIELDS,
   RESOURCE_QUERY_NESTED_FIELDS,
+  RESOURCEFILE_QUERY_FIELDS,
   searchFields
 } from "./search"
 import { makeLearningResourceResult } from "../factories/search"
@@ -55,7 +56,7 @@ describe("search library", () => {
             query: {
               multi_match: {
                 query:  "Dogs are the best",
-                fields: ["content", "title", "short_description"]
+                fields: RESOURCEFILE_QUERY_FIELDS
               }
             },
             score_mode: "avg"
