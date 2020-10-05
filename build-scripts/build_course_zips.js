@@ -1,7 +1,6 @@
 const yargs = require("yargs")
 const fsPromises = require("fs").promises
 const path = require("path")
-const os = require("os")
 const cliProgress = require("cli-progress")
 const util = require('util')
 const execFile = util.promisify(require('child_process').execFile)
@@ -77,7 +76,7 @@ const run = async () => {
   await rimraf(distPath)
   const { error } = await execFile("npm", ["run", "build:webpack"])
   if (error) {
-    throw new Error("Webpack build failed", error)
+    throw error
   }
 
   // remove existing zips
@@ -122,7 +121,7 @@ const run = async () => {
         "-d", tmpDir, "-s", "site", "--theme", "single_course", "--contentDir", path.join("..", coursesPath, course)
       ])
       if (error) {
-        throw new Error(error)
+        throw error
       }
 
       // create the archive
@@ -143,7 +142,7 @@ const run = async () => {
       const zipPath = path.resolve(zipsPath, `${course}.zip`)
       const {error: zipError} = await execFile("zip", [zipPath, ".", "-r", "-q"], {cwd: tmpDir})
       if (zipError) {
-        throw new Error(zipError)
+        throw zipError
       }
       hugoProgress.increment()
     } finally {
