@@ -36,12 +36,12 @@ const options = yargs
     alias:        "zips",
     describe:     "zip output path",
     type:         "string",
-    demandOption: true
+    demandOption: false
   }).argv
 
 const distPath = options.dist
 const coursesPath = options.courses
-const zipsPath = options.zips
+const zipsPath = options.zips || "zips"
 
 // clear out the distribution path and run the webpack build
 const run = async () => {
