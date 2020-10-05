@@ -7,7 +7,7 @@ const execFile = util.promisify(require("child_process").execFile)
 const rimraf = util.promisify(require("rimraf"))
 const tmp = require("tmp")
 
-const { directoryExists } = require("../src/js/helpers")
+const { directoryExists, iterateTree } = require("../src/js/helpers")
 const newProgressBar = () => {
   return new cliProgress.SingleBar(
     {
@@ -42,25 +42,6 @@ const options = yargs
 const distPath = options.dist
 const coursesPath = options.courses
 const zipsPath = options.zips
-
-// Walk a tree and produce { root, relPath, file } for each file found
-async function* iterateTree(rootPath, relPath = ".") {
-  const files = await fsPromises.readdir(path.join(rootPath, relPath))
-  for (const file of files) {
-    const absFile = path.join(rootPath, relPath, file)
-    const stat = await fsPromises.lstat(absFile)
-    if (stat.isDirectory()) {
-      for await (const item of iterateTree(
-        rootPath,
-        path.join(relPath, file)
-      )) {
-        yield item
-      }
-    } else if (stat.isFile()) {
-      yield { root: rootPath, relPath, file }
-    }
-  }
-}
 
 // clear out the distribution path and run the webpack build
 const run = async () => {
