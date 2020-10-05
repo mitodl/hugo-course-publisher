@@ -62,22 +62,15 @@ export const makeRun = () => {
     best_end_date:     casual.date(DATE_FORMAT),
     enrollment_start:  casual.date(DATE_FORMAT),
     enrollment_end:    casual.date(DATE_FORMAT),
+    slug:              casual.word,
     availability:      casual.random_element([
       COURSE_ARCHIVED,
       COURSE_CURRENT,
       "Upcoming"
     ]),
     instructors: [
-      {
-        first_name: casual.name,
-        last_name:  casual.name,
-        full_name:  casual.name
-      },
-      {
-        first_name: casual.name,
-        last_name:  casual.name,
-        full_name:  casual.name
-      }
+      `${casual.name} ${casual.name}`,
+      `${casual.name} ${casual.name}`
     ],
     prices: [{ mode: "audit", price: casual.integer(1, 1000) }]
   }
