@@ -107,7 +107,6 @@ const run = async () => {
   const webpackFiles = []
   for await (const { root, relPath, file} of iterateTree(distPath)) {
     if (!file.startsWith(".")) {
-      // TODO: is this necessary? Are we only looking to exclude . and ..?
       webpackFiles.push({root, relPath, file})
     }
   }
