@@ -2,8 +2,8 @@ const yargs = require("yargs")
 const fsPromises = require("fs").promises
 const path = require("path")
 const cliProgress = require("cli-progress")
-const util = require('util')
-const execFile = util.promisify(require('child_process').execFile)
+const util = require("util")
+const execFile = util.promisify(require("child_process").execFile)
 const rimraf = util.promisify(require("rimraf"))
 const tmp = require("tmp")
 
@@ -43,7 +43,6 @@ const distPath = options.dist
 const coursesPath = options.courses
 const zipsPath = options.zips
 
-
 // Walk a tree and produce { root, relPath, file } for each file found
 async function* iterateTree(rootPath, relPath = ".") {
   const files = await fsPromises.readdir(path.join(rootPath, relPath))
@@ -51,7 +50,10 @@ async function* iterateTree(rootPath, relPath = ".") {
     const absFile = path.join(rootPath, relPath, file)
     const stat = await fsPromises.lstat(absFile)
     if (stat.isDirectory()) {
-      for await (const item of iterateTree(rootPath, path.join(relPath, file))) {
+      for await (const item of iterateTree(
+        rootPath,
+        path.join(relPath, file)
+      )) {
         yield item
       }
     } else if (stat.isFile()) {
@@ -70,7 +72,9 @@ const run = async () => {
   const relative = path.relative(baseDir, zipsPath)
   if (relative && !relative.startsWith("..") && !path.isAbsolute(relative)) {
     // make sure zips are not picked up by hugo, causing a blowup in file size
-    throw new Error("zips path must not be within hugo course area, two parent directories above courses directory")
+    throw new Error(
+      "zips path must not be within hugo course area, two parent directories above courses directory"
+    )
   }
 
   await rimraf(distPath)
@@ -81,7 +85,7 @@ const run = async () => {
 
   // remove existing zips
   await rimraf(zipsPath)
-  await fsPromises.mkdir(zipsPath, {recursive: true})
+  await fsPromises.mkdir(zipsPath, { recursive: true })
 
   // ensure dist and courses are directories that exist
   const distExists = await directoryExists(distPath)
@@ -93,8 +97,9 @@ const run = async () => {
   }
 
   const hugoProgress = newProgressBar()
-  const courses = (await fsPromises.readdir(coursesPath))
-    .filter(course => !course.startsWith("."))
+  const courses = (await fsPromises.readdir(coursesPath)).filter(
+    course => !course.startsWith(".")
+  )
 
   if (courses.length <= 0) {
     console.error(`No courses found`)
@@ -103,9 +108,9 @@ const run = async () => {
   console.log("Generating Hugo sites...")
 
   const webpackFiles = []
-  for await (const { root, relPath, file} of iterateTree(distPath)) {
+  for await (const { root, relPath, file } of iterateTree(distPath)) {
     if (!file.startsWith(".")) {
-      webpackFiles.push({root, relPath, file})
+      webpackFiles.push({ root, relPath, file })
     }
   }
 
@@ -116,8 +121,15 @@ const run = async () => {
       prefix: "dist"
     }).name
     try {
-      const {error} = await execFile("hugo", [
-        "-d", tmpDir, "-s", "site", "--theme", "single_course", "--contentDir", path.join("..", coursesPath, course)
+      const { error } = await execFile("hugo", [
+        "-d",
+        tmpDir,
+        "-s",
+        "site",
+        "--theme",
+        "single_course",
+        "--contentDir",
+        path.join("..", coursesPath, course)
       ])
       if (error) {
         throw error
@@ -126,20 +138,30 @@ const run = async () => {
       // create the archive
 
       // add the webpack files
-      for (const {root, relPath, file} of webpackFiles) {
-        await fsPromises.mkdir(path.join(tmpDir, relPath), {recursive: true})
-        await fsPromises.copyFile(path.join(root, relPath, file), path.join(tmpDir, relPath, file))
+      for (const { root, relPath, file } of webpackFiles) {
+        await fsPromises.mkdir(path.join(tmpDir, relPath), { recursive: true })
+        await fsPromises.copyFile(
+          path.join(root, relPath, file),
+          path.join(tmpDir, relPath, file)
+        )
       }
       // add the course files
 
       const courseRoot = path.join(coursesPath, course)
-      for await (const { relPath, file} of iterateTree(courseRoot)) {
-        await fsPromises.mkdir(path.join(tmpDir, relPath), {recursive: true})
-        await fsPromises.copyFile(path.join(courseRoot, relPath, file), path.join(tmpDir, relPath, file))
+      for await (const { relPath, file } of iterateTree(courseRoot)) {
+        await fsPromises.mkdir(path.join(tmpDir, relPath), { recursive: true })
+        await fsPromises.copyFile(
+          path.join(courseRoot, relPath, file),
+          path.join(tmpDir, relPath, file)
+        )
       }
 
       const zipPath = path.resolve(zipsPath, `${course}.zip`)
-      const {error: zipError} = await execFile("zip", [zipPath, ".", "-r", "-q"], {cwd: tmpDir})
+      const { error: zipError } = await execFile(
+        "zip",
+        [zipPath, ".", "-r", "-q"],
+        { cwd: tmpDir }
+      )
       if (zipError) {
         throw zipError
       }
