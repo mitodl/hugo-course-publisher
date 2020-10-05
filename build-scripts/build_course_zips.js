@@ -94,8 +94,7 @@ const run = async () => {
 
   const hugoProgress = newProgressBar()
   const courses = (await fsPromises.readdir(coursesPath))
-    // TODO: what is this for? Are we excluding any course with a dot when we just want to exclude . and ..?
-    .filter(course => !course.includes("."))
+    .filter(course => !course.startsWith("."))
 
   if (courses.length <= 0) {
     console.error(`No courses found`)
