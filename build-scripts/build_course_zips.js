@@ -78,9 +78,16 @@ const run = async () => {
   }
 
   const hugoProgress = newProgressBar()
-  const courses = (await fsPromises.readdir(coursesPath)).filter(
-    course => !course.startsWith(".")
-  )
+  const courses = []
+  for (const filename of await fsPromises.readdir(coursesPath)) {
+    const absPath = path.join(coursesPath, filename)
+    if (
+      !filename.startsWith(".") &&
+      (await fsPromises.lstat(absPath)).isDirectory()
+    ) {
+      courses.push(filename)
+    }
+  }
 
   if (courses.length <= 0) {
     console.error(`No courses found`)
