@@ -15,20 +15,24 @@ yarn install --pure-lockfile
 
 ## importing content from OCW
 
-This repository does not contain any course markdown content. To import a set of example courses from OCW using `ocw-to-hugo`, you must first set environment variables so we can pull content from AWS.  AWS credentials can be configured by setting the standard `AWS_REGION`, `AWS_ACCESS_KEY`, `AWS_SECRET_ACCESS_KEY`, configuring an instance profile or using configuration files stored in `~/.aws` as documented in the AWS SDK.
+This repository does not contain any course markdown content. To import a set of example courses from OCW using [`ocw-to-hugo`](https://github.com/mitodl/ocw-to-hugo), you must first set environment variables so we can pull content from AWS.  AWS credentials can be configured by setting the standard `AWS_REGION`, `AWS_ACCESS_KEY`, `AWS_SECRET_ACCESS_KEY`, configuring an instance profile or using configuration files stored in `~/.aws` as documented in the AWS SDK.
 
 If all you need to do is import the example courses for development, simply configure the AWS SDK and run `npm run import:ocw:example_courses`. The rest of this section is only relevant if you are deploying the site.
 
 ### env variables
 
-| Variable | Description  | Required by |
+| Variable | Description  | Required? |
 | :------- | :------------ | :------------ |
-| `AWS_REGION` | The AWS region to connect to, i.e. `us-east-1` | `import:*` |
-| `AWS_BUCKET_NAME` | The bucket to use, i.e. `open-learning-course-data-ci` | `import:*` |
-| `AWS_SECRET_ACCESS_KEY` | The secret access key that pairs with your access key | `import:*` |
-| `AWS_ACCESS_KEY` | Your AWS Access Key with access to said bucket | `import:*` |
-| `OCW_TO_HUGO_INPUT` | The input folder of OCW courses and where courses to be processed are downloaded to if using the `import:ocw:download:*` commands | `import:ocw:*`  |
-| `OCW_TO_HUGO_COURSES_JSON` | Path to a JSON file with a list of courses to be downloaded, using the format described [here](https://github.com/mitodl/ocw-to-hugo#usage)  | `import:ocw:download:*`  |
+| `AWS_REGION` | The AWS region to connect to, i.e. `us-east-1` | Only if `OCW_TO_HUGO_DOWNLOAD` is true |
+| `AWS_BUCKET_NAME` | The bucket to use, i.e. `open-learning-course-data-production` | Only if `OCW_TO_HUGO_DOWNLOAD` is true |
+| `AWS_SECRET_ACCESS_KEY` | The secret access key that pairs with your access key | Only if `OCW_TO_HUGO_DOWNLOAD` is true |
+| `AWS_ACCESS_KEY` | Your AWS Access Key with access to said bucket | Only if `OCW_TO_HUGO_DOWNLOAD` is true |
+| `OCW_TO_HUGO_INPUT` | The input folder of OCW courses and where courses to be processed are downloaded to if using the `import:ocw` command | Yes  |
+| `OCW_TO_HUGO_DOWNLOAD` | A boolean flag indicating whether or not to download courses from the specified AWS bucket | No  |
+| `OCW_TO_HUGO_COURSES_JSON` | Path to a JSON file with a list of courses to be downloaded, using the format described [here](https://github.com/mitodl/ocw-to-hugo#usage)  | No |
+| `OCW_TO_HUGO_STRIPS3` | A boolean flag that will strip the s3 prefix (i.e. `https://open-learning-course-data-production.s3.amazonaws.com`) from all URL's | No |
+| `OCW_TO_HUGO_STATIC_PREFIX` | An optional static prefix to replace the s3 prefix with, used in conjunction with `OCW_TO_HUGO_STRIPS3` | No |
+| `OCW_TO_HUGO_VERBOSE` | A boolean flag that will enable verbose console output from `ocw-to-hugo` | No |
 
 ### import scripts
 
@@ -37,10 +41,7 @@ The following are the various `npm run` scripts for importing data from OCW's `o
 | Script | Description  |
 | :------- | :------------ |
 | `import:ocw:example_courses` | Run this to import the courses in `example_courses.json` directly to the `site/content/courses` folder.  This is useful for importing some example courses for development, and only requires AWS connection info to be set. |
-| `import:ocw` | This script runs `ocw-to-hugo` with the minimum requirements and assumes that courses are already downloaded at the path specified in `OCW_TO_HUGO_INPUT`. |
-| `import:ocw:strips3` | This is the same as `import:ocw` but with the `--strips3` argument set that removes OCW S3 base urls from the generated markdown |
-| `import:ocw:download` | This downloads a set of courses specified in a JSON file (`OCW_TO_HUGO_COURSES_JSON`) to be downloaded to `OCW_TO_HUGO_INPUT`and processed into markdown |
-| `import:ocw:download:strips3` | This runs `import:ocw:download` with the `--strips3` argument enabled |
+| `import:ocw` | This script runs `ocw-to-hugo` with arguments specified by the environment variables above. |
 
 ## running in development
 
