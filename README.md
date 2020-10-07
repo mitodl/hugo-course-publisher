@@ -118,9 +118,15 @@ These archives can be generated using the following command:
 npm run build:zips
 ```
 
+### env variables
+
+| Variable | Description  | Required? |
+| :------- | :------------ | :------------ |
+| `COURSE_ZIPS_DESTINATION` | The path to output course zips to | No |
+
 This command will run the webpack and pdfjs build once, then iterate the courses found in 
 `/site/content/courses` and run the Hugo build for each of them. Archives are created for 
-each course, and when the whole process is done they are placed in `site/static/zips`.
+each course, and when the whole process is done they are placed in `zips` by default, if `COURSE_ZIPS_DESTINATION` is not set..
 
 ## deployment
 
