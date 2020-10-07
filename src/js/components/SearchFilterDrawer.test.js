@@ -5,8 +5,8 @@ import SearchFilterDrawer from "./SearchFilterDrawer"
 
 describe("SearchFilterDrawer component", () => {
   const render = (props = {}) => shallow(<SearchFilterDrawer {...props} />)
-  const hookUtils = require("../lib/util")
-  const getViewportWidthMock = jest.spyOn(hookUtils, "getViewportWidth")
+  const utils = require("../lib/util")
+  const getViewportWidthMock = jest.spyOn(utils, "getViewportWidth")
 
   test("desktop mode renders a FacetDisplay", async () => {
     getViewportWidthMock.mockImplementation(() => 1000)
