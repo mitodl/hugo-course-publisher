@@ -10,10 +10,10 @@ import {
 import SearchResult from "./SearchResult"
 import SearchBox from "./SearchBox"
 import Loading, { Spinner } from "./Loading"
+import SearchFilterDrawer from "./SearchFilterDrawer"
 
 import { search } from "../lib/api"
 import { searchResultToLearningResource, SEARCH_LIST_UI } from "../lib/search"
-import SearchFilterDrawer from "./SearchFilterDrawer"
 
 export const SEARCH_PAGE_SIZE = 10
 
@@ -52,8 +52,9 @@ export default function SearchPage() {
 
   const clearSearch = useCallback(() => {
     setSearchResults([])
+    setCompletedInitialLoad(false)
     setTotal(0)
-  }, [setSearchResults, setTotal])
+  }, [setSearchResults, setCompletedInitialLoad, setTotal])
 
   // this callback just echos the updated params up to the URL bar
   // we debounce b/c it gets a little bit choppy otherwise
@@ -107,9 +108,7 @@ export default function SearchPage() {
       <SearchBox value={text} onChange={updateText} onSubmit={onSubmit} />
       <div className="container">
         <div className="row">
-          {isResourceSearch || !completedInitialLoad ? null : (
-            <div className="col-3 mt-3 mt-lg-6"></div>
-          )}
+          {isResourceSearch ? null : <div className="col-3 mt-3 mt-lg-6"></div>}
           <div className="search-results col-12 col-lg-8 col-xl-8 mt-3 mt-lg-6 mx-auto px-0">
             <div
               className={`search-toggle ${
@@ -144,7 +143,7 @@ export default function SearchPage() {
           </div>
         </div>
         <div className="row">
-          {isResourceSearch || !completedInitialLoad ? null : (
+          {isResourceSearch ? null : (
             <SearchFilterDrawer
               facetMap={facetMap}
               facetOptions={facetOptions}

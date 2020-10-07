@@ -3,7 +3,7 @@ import React, { useState } from "react"
 
 import { DESKTOP } from "../lib/constants"
 import { useDeviceCategory } from "../hooks/util"
-import FilterDisplay from "./FilterDisplay"
+import FacetDisplay from "./FacetDisplay"
 
 export default function SearchFilterDrawer(props) {
   const deviceCategory = useDeviceCategory()
@@ -12,7 +12,7 @@ export default function SearchFilterDrawer(props) {
   if (deviceCategory === DESKTOP) {
     return (
       <div className="col-3 mt-3 mt-lg-6">
-        <FilterDisplay {...props} />
+        <FacetDisplay {...props} />
       </div>
     )
   }
@@ -32,7 +32,7 @@ export default function SearchFilterDrawer(props) {
         </button>
       </div>
       <div className="contents">
-        <FilterDisplay {...props} />
+        <FacetDisplay {...props} />
       </div>
     </div>
   ) : (

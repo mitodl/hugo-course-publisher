@@ -1,7 +1,7 @@
 import FilterableFacet from "./FilterableFacet"
 import React from "react"
 
-export default function FilterDisplay(props) {
+export default function FacetDisplay(props) {
   const { facetMap, facetOptions, activeFacets, onUpdateFacets } = props
 
   return (

@@ -1,4 +1,3 @@
-// @flow
 import { useState, useEffect } from "react"
 
 import { getViewportWidth } from "../lib/util"
