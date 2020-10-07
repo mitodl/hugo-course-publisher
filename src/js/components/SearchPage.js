@@ -10,10 +10,10 @@ import {
 import SearchResult from "./SearchResult"
 import SearchBox from "./SearchBox"
 import Loading, { Spinner } from "./Loading"
-import FilterableFacet from "./FilterableFacet"
 
 import { search } from "../lib/api"
 import { searchResultToLearningResource, SEARCH_LIST_UI } from "../lib/search"
+import SearchFilterDrawer from "./SearchFilterDrawer"
 
 export const SEARCH_PAGE_SIZE = 10
 
@@ -52,9 +52,8 @@ export default function SearchPage() {
 
   const clearSearch = useCallback(() => {
     setSearchResults([])
-    setCompletedInitialLoad(false)
     setTotal(0)
-  }, [setSearchResults, setCompletedInitialLoad, setTotal])
+  }, [setSearchResults, setTotal])
 
   // this callback just echos the updated params up to the URL bar
   // we debounce b/c it gets a little bit choppy otherwise
@@ -97,6 +96,8 @@ export default function SearchPage() {
   )
 
   const isResourceSearch = activeFacets["type"].includes(LR_TYPE_RESOURCEFILE)
+
+  const facetMap = [["topics", "Topics"]]
 
   return (
     <div className="search-page w-100">
@@ -141,22 +142,12 @@ export default function SearchPage() {
         </div>
         <div className="row">
           {isResourceSearch || !completedInitialLoad ? null : (
-            <div className="col-3 mt-3">
-              <FilterableFacet
-                results={facetOptions("topics")}
-                name="topics"
-                title="Topics"
-                currentlySelected={activeFacets["topics"] || []}
-                onUpdate={onUpdateFacets}
-              />
-              <FilterableFacet
-                results={facetOptions("department_name")}
-                name="department_name"
-                title="Department"
-                currentlySelected={activeFacets["department_name"] || []}
-                onUpdate={onUpdateFacets}
-              />
-            </div>
+            <SearchFilterDrawer
+              facetMap={facetMap}
+              facetOptions={facetOptions}
+              activeFacets={activeFacets}
+              onUpdateFacets={onUpdateFacets}
+            />
           )}
           <div className="search-results col-12 col-lg-8 col-xl-8 mt-3 mx-auto px-0">
             <InfiniteScroll

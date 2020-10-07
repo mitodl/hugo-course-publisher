@@ -1,5 +1,6 @@
 @import "variables";
 @import "breakpoints";
+@import "button";
 @import "learning-resource-card";
 @import "learning-resource-icon";
 @import "card";
@@ -64,4 +65,51 @@
 
 .search-toggle {
   margin-left: -15px;
+}
+
+.search-filter-drawer-open {
+  position: fixed;
+  top: $toolbar-height-mobile;
+  height: calc(100% - #{$toolbar-height-mobile});
+  left: 0;
+  background: white;
+  width: 100%;
+  overflow: scroll;
+  z-index: 1;
+
+  .contents {
+    margin: 0 20px;
+  }
+
+  .controls {
+    display: flex;
+    justify-content: flex-end;
+
+    i {
+      margin-right: 18px;
+      margin-top: 18px;
+      font-size: 33px;
+      cursor: pointer;
+    }
+  }
+
+  .apply-filters {
+    margin: 25px;
+
+    button {
+      width: 100%;
+      font-size: 20px;
+    }
+  }
+}
+
+.filter-controls {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-size: 16px;
+
+  i.material-icons {
+    font-size: 36px;
+  }
 }
