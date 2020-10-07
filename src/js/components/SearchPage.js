@@ -97,7 +97,10 @@ export default function SearchPage() {
 
   const isResourceSearch = activeFacets["type"].includes(LR_TYPE_RESOURCEFILE)
 
-  const facetMap = [["topics", "Topics"]]
+  const facetMap = [
+    ["topics", "Topics"],
+    ["department_name", "Department"]
+  ]
 
   return (
     <div className="search-page w-100">
