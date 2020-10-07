@@ -16,7 +16,7 @@
     "prebuild": "rimraf dist",
     "build": "npm run build:webpack && npm run build:pdfjs && npm run build:hugo",
     "build:externalcontent": "npm run build:webpack && npm run build:pdfjs && hugo -d ../dist -s site -v --theme multi_course --contentDir ",
-    "build:netlify": "node ./build-scripts/netlify_aws.js && npm run build:webpack && npm run build:pdfjs && npm run build:hugo:netlify",
+    "build:netlify": "node ./build-scripts/netlify_import.js && npm run build:webpack && npm run build:pdfjs && npm run build:hugo:netlify",
     "build:preview": "npm run build:webpack && npm run build:pdfjs && npm run build:hugo:preview",
     "build:hugo": "hugo -d ../dist -s site -v",
     "build:hugo:single_course": "hugo -d ../dist -s site -v --theme single_course --contentDir ",
