@@ -1,4 +1,3 @@
-const yargs = require("yargs")
 const fsPromises = require("fs").promises
 const path = require("path")
 const cliProgress = require("cli-progress")
@@ -6,6 +5,7 @@ const util = require("util")
 const execFile = util.promisify(require("child_process").execFile)
 const rimraf = util.promisify(require("rimraf"))
 const tmp = require("tmp")
+require("dotenv").config()
 
 const { directoryExists, iterateTree } = require("../src/js/helpers")
 const newProgressBar = () => {
@@ -18,30 +18,14 @@ const newProgressBar = () => {
   )
 }
 
-const options = yargs
-  .usage("Usage: -d <dist> -c <courses> -z <zips>")
-  .option("d", {
-    alias:        "dist",
-    describe:     "distribution path",
-    type:         "string",
-    demandOption: true
-  })
-  .option("c", {
-    alias:        "courses",
-    describe:     "course markdown path",
-    type:         "string",
-    demandOption: true
-  })
-  .option("z", {
-    alias:        "zips",
-    describe:     "zip output path",
-    type:         "string",
-    demandOption: false
-  }).argv
-
-const distPath = options.dist
-const coursesPath = options.courses
-const zipsPath = options.zips || "zips"
+const distPath = "dist"
+const coursesPath = "site/content/courses"
+const zipsPath = process.env["COURSE_ZIPS_DESTINATION"] || "zips"
+const staticAssetsPath = process.env["OCW_TO_HUGO_INPUT"]
+const staticPrefix =
+  process.env["OCW_TO_HUGO_STATIC_PREFIX"] === "/" ?
+    process.env["OCW_TO_HUGO_STATIC_PREFIX"].substring(1) :
+    process.env["OCW_TO_HUGO_STATIC_PREFIX"]
 
 // clear out the distribution path and run the webpack build
 const run = async () => {
@@ -114,8 +98,8 @@ const run = async () => {
         tmpDir,
         "-s",
         "site",
-        "--theme",
-        "single_course",
+        "--config",
+        "config_zip.toml",
         "--contentDir",
         path.join("..", coursesPath, course)
       ])
@@ -134,7 +118,6 @@ const run = async () => {
         )
       }
       // add the course files
-
       const courseRoot = path.join(coursesPath, course)
       for await (const { relPath, file } of iterateTree(courseRoot)) {
         await fsPromises.mkdir(path.join(tmpDir, relPath), { recursive: true })
@@ -142,6 +125,30 @@ const run = async () => {
           path.join(courseRoot, relPath, file),
           path.join(tmpDir, relPath, file)
         )
+      }
+      // add static assets
+      if (await directoryExists(staticAssetsPath)) {
+        const staticOutputPath = staticPrefix ?
+          path.join(tmpDir, staticPrefix) :
+          path.join(tmpDir)
+        if (!(await directoryExists(staticOutputPath))) {
+          await fsPromises.mkdir(staticOutputPath, { recursive: true })
+        }
+        const courseStaticRoot = path.join(staticAssetsPath, course)
+        for await (const { relPath, file } of iterateTree(courseStaticRoot)) {
+          if (
+            !(
+              RegExp("^[0-9a-f]{32}_master.json").test(file) ||
+              file === "master.json" ||
+              file.includes(".html")
+            )
+          ) {
+            await fsPromises.copyFile(
+              path.join(courseStaticRoot, relPath, file),
+              path.join(staticOutputPath, relPath, file)
+            )
+          }
+        }
       }
 
       const zipPath = path.resolve(zipsPath, `${course}.zip`)
