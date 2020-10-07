@@ -125,22 +125,6 @@ describe("SearchPage component", () => {
       ],
       [
         {
-          text:         "",
-          from:         0,
-          size:         SEARCH_PAGE_SIZE,
-          activeFacets: defaultCourseFacets
-        }
-      ],
-      [
-        {
-          text:         undefined,
-          from:         0,
-          size:         SEARCH_PAGE_SIZE,
-          activeFacets: defaultCourseFacets
-        }
-      ],
-      [
-        {
           text:         "New Search Text",
           from:         0,
           size:         SEARCH_PAGE_SIZE,
@@ -162,22 +146,6 @@ describe("SearchPage component", () => {
       resolver()
     })
     expect(search.mock.calls).toEqual([
-      [
-        {
-          text:         undefined,
-          from:         0,
-          size:         SEARCH_PAGE_SIZE,
-          activeFacets: defaultCourseFacets
-        }
-      ],
-      [
-        {
-          text:         "",
-          from:         0,
-          size:         SEARCH_PAGE_SIZE,
-          activeFacets: defaultCourseFacets
-        }
-      ],
       [
         {
           text:         undefined,
@@ -228,22 +196,6 @@ describe("SearchPage component", () => {
     await resolveSearch()
     wrapper.update()
     expect(search.mock.calls).toEqual([
-      [
-        {
-          text:         undefined,
-          from:         0,
-          size:         SEARCH_PAGE_SIZE,
-          activeFacets: defaultCourseFacets
-        }
-      ],
-      [
-        {
-          text:         "",
-          from:         0,
-          size:         SEARCH_PAGE_SIZE,
-          activeFacets: defaultCourseFacets
-        }
-      ],
       [
         {
           text:         undefined,
