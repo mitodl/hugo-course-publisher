@@ -21,11 +21,13 @@ const newProgressBar = () => {
 const distPath = "dist"
 const coursesPath = "site/content/courses"
 const zipsPath = process.env["COURSE_ZIPS_DESTINATION"] || "zips"
-const staticAssetsPath = process.env["OCW_TO_HUGO_INPUT"]
-const staticPrefix =
-  process.env["OCW_TO_HUGO_STATIC_PREFIX"] === "/" ?
-    process.env["OCW_TO_HUGO_STATIC_PREFIX"].substring(1) :
-    process.env["OCW_TO_HUGO_STATIC_PREFIX"]
+const staticAssetsPath = process.env["COURSE_ZIPS_STATIC_ASSET_PATH"]
+let staticPrefix = process.env["COURSE_ZIPS_STATIC_PREFIX"]
+if (staticPrefix) {
+  staticPrefix = staticPrefix.startsWith("/") ?
+    staticPrefix.substring(1) :
+    staticPrefix
+}
 
 // clear out the distribution path and run the webpack build
 const run = async () => {
