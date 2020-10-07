@@ -1,6 +1,10 @@
 const AWS = require("aws-sdk")
 const fs = require("fs")
 const { downloadCourseRecursive } = require("@mitodl/ocw-to-hugo/src/aws_sync")
+const {
+  writeBoilerplate,
+  scanCourses
+} = require("@mitodl/ocw-to-hugo/src/file_operations")
 require("dotenv").config()
 
 const awsRegion = process.env["ENV_DEFAULT_REGION"]
@@ -15,14 +19,24 @@ AWS.config = new AWS.Config({
 })
 
 const s3 = new AWS.S3()
-const courses = JSON.parse(fs.readFileSync("example_courses.json"))["courses"]
+const inputDir = "private/courses"
+const outputDir = "site/content"
+const coursesJson = "example_courses.json"
+const courses = JSON.parse(fs.readFileSync(coursesJson))["courses"]
 const totalCourses = courses.length
 console.log(`Downloading ${totalCourses} courses from AWS...`)
-courses.map(async course => {
-  const bucketParams = {
-    Bucket: process.env["AWS_BUCKET_NAME"],
-    Prefix: course
-  }
-  await downloadCourseRecursive(s3, bucketParams, "private/courses")
-  console.log(`${course} downloaded...`)
+Promise.all(
+  courses.map(async course => {
+    const bucketParams = {
+      Bucket: process.env["AWS_BUCKET_NAME"],
+      Prefix: course
+    }
+    await downloadCourseRecursive(s3, bucketParams, inputDir)
+    console.log(`${course} downloaded...`)
+  })
+).then(async () => {
+  await writeBoilerplate(outputDir)
+  await scanCourses(inputDir, outputDir, {
+    courses: coursesJson
+  })
 })
