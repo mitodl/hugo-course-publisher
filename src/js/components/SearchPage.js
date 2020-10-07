@@ -9,8 +9,8 @@ import {
 
 import SearchResult from "./SearchResult"
 import SearchBox from "./SearchBox"
-import Loading, { Spinner } from "./Loading"
 import SearchFilterDrawer from "./SearchFilterDrawer"
+import Loading, { Spinner } from "./Loading"
 
 import { search } from "../lib/api"
 import { searchResultToLearningResource, SEARCH_LIST_UI } from "../lib/search"

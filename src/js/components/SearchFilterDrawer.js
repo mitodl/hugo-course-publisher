@@ -1,9 +1,8 @@
-// @flow
 import React, { useState } from "react"
 
+import FacetDisplay from "./FacetDisplay"
 import { DESKTOP } from "../lib/constants"
 import { useDeviceCategory } from "../hooks/util"
-import FacetDisplay from "./FacetDisplay"
 
 export default function SearchFilterDrawer(props) {
   const deviceCategory = useDeviceCategory()
