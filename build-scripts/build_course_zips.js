@@ -18,29 +18,35 @@ const newProgressBar = () => {
   )
 }
 
-const distPath = "dist"
-const coursesPath = "site/content/courses"
-const zipsPath = process.env["COURSE_ZIPS_DESTINATION"] || "zips"
-const staticAssetsPath = process.env["COURSE_ZIPS_STATIC_ASSET_PATH"]
-let staticPrefix = process.env["COURSE_ZIPS_STATIC_PREFIX"]
-if (staticPrefix) {
-  staticPrefix = staticPrefix.startsWith("/") ?
-    staticPrefix.substring(1) :
-    staticPrefix
-}
-
 // clear out the distribution path and run the webpack build
-const run = async () => {
+const buildZips = async (
+  distPath = "dist",
+  coursesPath = "site/content/courses",
+  zipsPath = "zips",
+  staticAssetsPath,
+  staticPrefix
+) => {
   if ((await execFile("which", ["zip"])).error) {
     throw new Error("Unable to find zip binary")
   }
 
-  const baseDir = path.resolve(coursesPath, "..", "..")
+  // remove any preceeding slash on the staticPrefix, since it will be used as a path within the zip
+  if (staticPrefix) {
+    staticPrefix = staticPrefix.startsWith("/") ?
+      staticPrefix.substring(1) :
+      staticPrefix
+  }
+
+  const baseDir = process.cwd()
   const relative = path.relative(baseDir, zipsPath)
-  if (relative && !relative.startsWith("..") && !path.isAbsolute(relative)) {
+  if (
+    relative &&
+    (relative.startsWith(path.join("site", "content")) ||
+      relative.startsWith(path.join("site", "static")))
+  ) {
     // make sure zips are not picked up by hugo, causing a blowup in file size
     throw new Error(
-      "zips path must not be within hugo course area, two parent directories above courses directory"
+      "zips path must not be within hugo content or static directories"
     )
   }
 
@@ -169,7 +175,17 @@ const run = async () => {
   }
 }
 
-run().catch(err => {
+buildZips(
+  process.env["COURSE_ZIPS_DIST_PATH"],
+  process.env["COURSE_ZIPS_COURSES_PATH"],
+  process.env["COURSE_ZIPS_DESTINATION"],
+  process.env["COURSE_ZIPS_STATIC_ASSET_PATH"],
+  process.env["COURSE_ZIPS_STATIC_PREFIX"]
+).catch(err => {
   console.error("Error:", err)
   process.exit(1)
 })
+
+module.exports = {
+  buildZips
+}

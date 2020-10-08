@@ -120,11 +120,13 @@ npm run build:zips
 
 ### env variables
 
-| Variable | Description  | Required? |
-| :------- | :------------ | :------------ |
-| `COURSE_ZIPS_DESTINATION` | The path to output course zips to | No |
-| `COURSE_ZIPS_STATIC_ASSET_PATH` | The input folder of OCW courses synced from the bucket specified by `AWS_BUCKET_NAME` to copy static assets from | No |
-| `COURSE_ZIPS_STATIC_PREFIX` | The static prefix used in `ocw-to-hugo` if it was used to generate markdown | Only if used to generate markdown |
+| Variable | Description  | Default Value | Required? |
+| :------- | :------------ | :------------ | :------------ |
+| `COURSE_ZIPS_DIST_PATH` | The path to output build artifacts to | `dist` | No |
+| `COURSE_ZIPS_COURSES_PATH` | The path to source course markdown from | `site/content/courses` | No |
+| `COURSE_ZIPS_DESTINATION` | The path to output course zips to | `zips` | No |
+| `COURSE_ZIPS_STATIC_ASSET_PATH` | The input folder of OCW courses synced from the bucket specified by `AWS_BUCKET_NAME` to copy static assets from | Unset | No |
+| `COURSE_ZIPS_STATIC_PREFIX` | The static prefix used in `ocw-to-hugo` if it was used to generate markdown | Unset | Only if used to generate markdown |
 
 This command will run the webpack and pdfjs build once, then iterate the courses found in 
 `/site/content/courses` and run the Hugo build for each of them. Archives are created for 
