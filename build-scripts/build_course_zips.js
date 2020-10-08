@@ -50,24 +50,17 @@ const buildZips = async (
     )
   }
 
-  await rimraf(distPath)
-  const { error } = await execFile("npm", ["run", "build:webpack"])
-  if (error) {
-    throw error
+  // ensure courses is a directory that exists
+  const coursesExists = await directoryExists(coursesPath)
+  if (!coursesExists) {
+    throw new Error(
+      `Courses path "${coursesPath}" not found`
+    )
   }
 
   // remove existing zips
   await rimraf(zipsPath)
   await fsPromises.mkdir(zipsPath, { recursive: true })
-
-  // ensure dist and courses are directories that exist
-  const distExists = await directoryExists(distPath)
-  const coursesExists = await directoryExists(coursesPath)
-  if (!distExists || !coursesExists) {
-    throw new Error(
-      `Path not found - dist exists: ${distExists} courses exists: ${coursesExists}`
-    )
-  }
 
   const hugoProgress = newProgressBar()
   const courses = []
@@ -82,9 +75,16 @@ const buildZips = async (
   }
 
   if (courses.length <= 0) {
-    console.error(`No courses found`)
-    process.exit(1)
+    throw new Error("No courses found")
   }
+
+  console.log("Running webpack build...")
+  await rimraf(distPath)
+  const { error } = await execFile("npm", ["run", "build:webpack"])
+  if (error) {
+    throw error
+  }
+
   console.log("Generating Hugo sites...")
 
   const webpackFiles = []
