@@ -175,16 +175,18 @@ const buildZips = async (
   }
 }
 
-buildZips(
-  process.env["COURSE_ZIPS_DIST_PATH"],
-  process.env["COURSE_ZIPS_COURSES_PATH"],
-  process.env["COURSE_ZIPS_DESTINATION"],
-  process.env["COURSE_ZIPS_STATIC_ASSET_PATH"],
-  process.env["COURSE_ZIPS_STATIC_PREFIX"]
-).catch(err => {
-  console.error("Error:", err)
-  process.exit(1)
-})
+if (!module.parent) {
+  buildZips(
+    process.env["COURSE_ZIPS_DIST_PATH"],
+    process.env["COURSE_ZIPS_COURSES_PATH"],
+    process.env["COURSE_ZIPS_DESTINATION"],
+    process.env["COURSE_ZIPS_STATIC_ASSET_PATH"],
+    process.env["COURSE_ZIPS_STATIC_PREFIX"]
+  ).catch(err => {
+    console.error("Error:", err)
+    process.exit(1)
+  })
+}
 
 module.exports = {
   buildZips

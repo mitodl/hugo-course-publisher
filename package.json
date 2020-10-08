@@ -34,7 +34,8 @@
     "fmt:check": "LOG_LEVEL= prettier-eslint --list-different --no-semi $PWD/'build-scripts/**/*.js' $PWD/'src/**/*.js' $PWD/'src/**/*.scss'",
     "scss_lint": "node ./node_modules/sass-lint/bin/sass-lint.js --verbose --no-exit ./src",
     "test": "jest",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watch",
+    "test:verbose": "jest --verbose"
   },
   "license": "BSD-3-CLAUSE",
   "resolutions": {
