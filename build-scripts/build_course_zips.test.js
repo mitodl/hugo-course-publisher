@@ -8,7 +8,9 @@ describe("build_course_zips", () => {
   const cwd = process.cwd()
   const distPath = path.join(cwd, "dist")
   const coursesPath = path.join(cwd, "site", "content", "courses")
-  const zipsError = new Error("zips path must not be within hugo content or static directories")
+  const zipsError = new Error(
+    "zips path must not be within hugo content or static directories"
+  )
 
   it("throws an error if the coursesPath does not exist", async () => {
     const invalidCoursesPath = tmp.dirSync({
@@ -16,7 +18,9 @@ describe("build_course_zips", () => {
     }).name
     rimraf.sync(invalidCoursesPath)
     await buildZips(distPath, invalidCoursesPath).catch(err => {
-      expect(err).toEqual(new Error(`Courses path "${invalidCoursesPath}" not found`))
+      expect(err).toEqual(
+        new Error(`Courses path "${invalidCoursesPath}" not found`)
+      )
     })
   })
 

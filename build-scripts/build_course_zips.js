@@ -53,9 +53,7 @@ const buildZips = async (
   // ensure courses is a directory that exists
   const coursesExists = await directoryExists(coursesPath)
   if (!coursesExists) {
-    throw new Error(
-      `Courses path "${coursesPath}" not found`
-    )
+    throw new Error(`Courses path "${coursesPath}" not found`)
   }
 
   // remove existing zips
