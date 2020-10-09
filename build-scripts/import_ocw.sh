@@ -5,7 +5,6 @@ then
   export $(cat .env | sed 's/#.*//g' | xargs)
 fi
 if [ "$OCW_TO_HUGO_INPUT" != "" ]; then
-  trap 'kill 0' EXIT
   ARGS="-i $OCW_TO_HUGO_INPUT -o site/content/"
   if [ "$OCW_TO_HUGO_DOWNLOAD" = true ]; then
     ARGS="${ARGS} --download"
@@ -23,7 +22,6 @@ if [ "$OCW_TO_HUGO_INPUT" != "" ]; then
     ARGS="${ARGS} --verbose"
   fi
   eval "ocw-to-hugo ${ARGS}"
-  wait
 else
   echo "Please provide an ocw-to-hugo input directory"
 fi
