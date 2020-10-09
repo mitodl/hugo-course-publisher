@@ -1336,10 +1336,10 @@
     query-string "^6.13.1"
     ramda "^0.27.1"
 
-"@mitodl/ocw-to-hugo@1.0.7":
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/@mitodl/ocw-to-hugo/-/ocw-to-hugo-1.0.7.tgz#5424dcb1a9494bdbe9aaee1458bdf19739897d78"
-  integrity sha512-cgFQHV8z3Wvc8Ij/neZBGNbyvZP4k7+aAEvnKOFXa0emm9mHunP5omDEKQjckmfO2xRhyyAsygYyqzSQtKDUQA==
+"@mitodl/ocw-to-hugo@1.0.9":
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/@mitodl/ocw-to-hugo/-/ocw-to-hugo-1.0.9.tgz#3725f777b1f0293ad54656806768ddd44684e50a"
+  integrity sha512-diKY6EI4Fbxd0WKtZFXEkUS6Fn2yZHSLk4RF+z1BX2fwGDFOZpvhb/trobWUliO5ozPfi7Wi5fNB9bpexvJDBg==
   dependencies:
     aws-sdk "^2.671.0"
     cli-progress "^3.4.0"
