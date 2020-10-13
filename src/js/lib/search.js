@@ -418,10 +418,10 @@ export const getResourceUrl = result => {
     // Non-page results should have full URLs, convert to CDN if it's an S3 URL
     try {
       const originalUrl = new URL(result.url)
+      const cdnPrefix = process.env["CDN_PREFIX"]
       const useCDN =
-        originalUrl.hostname.match(/s3\.amazonaws\.com/) &&
-        process.env["CDN_PREFIX"]
-      return useCDN ? `/coursemedia${originalUrl.pathname}` : result.url
+        originalUrl.hostname.match(/s3\.amazonaws\.com/) && cdnPrefix
+      return useCDN ? `${cdnPrefix}${originalUrl.pathname}` : result.url
     } catch {
       return result.url
     }
