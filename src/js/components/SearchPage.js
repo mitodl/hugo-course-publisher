@@ -9,13 +9,18 @@ import {
 
 import SearchResult from "./SearchResult"
 import SearchBox from "./SearchBox"
+import SearchFilterDrawer from "./SearchFilterDrawer"
 import Loading, { Spinner } from "./Loading"
-import FilterableFacet from "./FilterableFacet"
 
 import { search } from "../lib/api"
 import { searchResultToLearningResource, SEARCH_LIST_UI } from "../lib/search"
 
 export const SEARCH_PAGE_SIZE = 10
+
+const FACET_MAP = [
+  ["topics", "Topics"],
+  ["department_name", "Department"]
+]
 
 export default function SearchPage() {
   const [results, setSearchResults] = useState([])
@@ -103,9 +108,7 @@ export default function SearchPage() {
       <SearchBox value={text} onChange={updateText} onSubmit={onSubmit} />
       <div className="container">
         <div className="row">
-          {isResourceSearch || !completedInitialLoad ? null : (
-            <div className="col-3 mt-3 mt-lg-6"></div>
-          )}
+          {isResourceSearch ? null : <div className="col-3 mt-3 mt-lg-6"></div>}
           <div className="search-results col-12 col-lg-8 col-xl-8 mt-3 mt-lg-6 mx-auto px-0">
             <div
               className={`search-toggle ${
@@ -140,23 +143,13 @@ export default function SearchPage() {
           </div>
         </div>
         <div className="row">
-          {isResourceSearch || !completedInitialLoad ? null : (
-            <div className="col-3 mt-3">
-              <FilterableFacet
-                results={facetOptions("topics")}
-                name="topics"
-                title="Topics"
-                currentlySelected={activeFacets["topics"] || []}
-                onUpdate={onUpdateFacets}
-              />
-              <FilterableFacet
-                results={facetOptions("department_name")}
-                name="department_name"
-                title="Department"
-                currentlySelected={activeFacets["department_name"] || []}
-                onUpdate={onUpdateFacets}
-              />
-            </div>
+          {isResourceSearch ? null : (
+            <SearchFilterDrawer
+              facetMap={FACET_MAP}
+              facetOptions={facetOptions}
+              activeFacets={activeFacets}
+              onUpdateFacets={onUpdateFacets}
+            />
           )}
           <div className="search-results col-12 col-lg-8 col-xl-8 mt-3 mx-auto px-0">
             <InfiniteScroll

@@ -46,3 +46,12 @@ export const readableLearningResources = {
 export const DISPLAY_DATE_FORMAT = "MMMM D, YYYY"
 
 export const SEARCH_URL = "/search/"
+
+export const PHONE = "PHONE"
+export const TABLET = "TABLET"
+export const DESKTOP = "DESKTOP"
+
+// Based on material-mobile breakpoint
+export const PHONE_WIDTH = 599
+// Based on desktop-wide breakpoint
+export const TABLET_WIDTH = 999

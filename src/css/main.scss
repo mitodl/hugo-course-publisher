@@ -8,6 +8,7 @@ $material-icons-font-path: "~material-icons/iconfont/";
 
 @import "~material-icons/iconfont/material-icons.scss";
 @import "bootstrap-material-design";
+@import "breakpoints";
 @import "header";
 @import "home";
 @import "course-nav";
@@ -188,6 +189,12 @@ table {
 .container-fluid {
   padding-left: 0;
   padding-right: 0;
+}
+
+.container {
+  @include breakpoint(mobile) {
+    width: 90%;
+  }
 }
 
 /* MATERIAL ICONS */
