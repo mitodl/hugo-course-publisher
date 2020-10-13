@@ -1,4 +1,3 @@
-const yargs = require("yargs")
 const fsPromises = require("fs").promises
 const path = require("path")
 const cliProgress = require("cli-progress")
@@ -6,6 +5,7 @@ const util = require("util")
 const execFile = util.promisify(require("child_process").execFile)
 const rimraf = util.promisify(require("rimraf"))
 const tmp = require("tmp")
+require("dotenv").config()
 
 const { directoryExists, iterateTree } = require("../src/js/helpers")
 const newProgressBar = () => {
@@ -18,64 +18,49 @@ const newProgressBar = () => {
   )
 }
 
-const options = yargs
-  .usage("Usage: -d <dist> -c <courses> -z <zips>")
-  .option("d", {
-    alias:        "dist",
-    describe:     "distribution path",
-    type:         "string",
-    demandOption: true
-  })
-  .option("c", {
-    alias:        "courses",
-    describe:     "course markdown path",
-    type:         "string",
-    demandOption: true
-  })
-  .option("z", {
-    alias:        "zips",
-    describe:     "zip output path",
-    type:         "string",
-    demandOption: false
-  }).argv
-
-const distPath = options.dist
-const coursesPath = options.courses
-const zipsPath = options.zips || "zips"
-
 // clear out the distribution path and run the webpack build
-const run = async () => {
+const buildZips = async (
+  distPath = tmp.dirSync({
+    prefix: "dist"
+  }).name,
+  coursesPath = "site/content/courses",
+  zipsPath = "zips",
+  staticAssetsPath,
+  staticPrefix
+) => {
   if ((await execFile("which", ["zip"])).error) {
     throw new Error("Unable to find zip binary")
   }
 
-  const baseDir = path.resolve(coursesPath, "..", "..")
+  // remove any preceeding slash on the staticPrefix, since it will be used as a path within the zip
+  if (staticPrefix) {
+    staticPrefix = staticPrefix.startsWith("/") ?
+      staticPrefix.substring(1) :
+      staticPrefix
+  }
+
+  const baseDir = process.cwd()
   const relative = path.relative(baseDir, zipsPath)
-  if (relative && !relative.startsWith("..") && !path.isAbsolute(relative)) {
+  if (
+    relative &&
+    (relative.startsWith(path.join("site", "content")) ||
+      relative.startsWith(path.join("site", "static")))
+  ) {
     // make sure zips are not picked up by hugo, causing a blowup in file size
     throw new Error(
-      "zips path must not be within hugo course area, two parent directories above courses directory"
+      "zips path must not be within hugo content or static directories"
     )
   }
 
-  await rimraf(distPath)
-  const { error } = await execFile("npm", ["run", "build:webpack"])
-  if (error) {
-    throw error
+  // ensure courses is a directory that exists
+  const coursesExists = await directoryExists(coursesPath)
+  if (!coursesExists) {
+    throw new Error(`Courses path "${coursesPath}" not found`)
   }
 
   // remove existing zips
   await rimraf(zipsPath)
   await fsPromises.mkdir(zipsPath, { recursive: true })
-
-  // ensure dist and courses are directories that exist
-  const distExists = await directoryExists(distPath)
-  const coursesExists = await directoryExists(coursesPath)
-  if (!distExists || !coursesExists) {
-    throw new Error(
-      `Path not found - dist exists: ${distExists} courses exists: ${coursesExists}`
-    )
-  }
 
   const hugoProgress = newProgressBar()
   const courses = []
@@ -90,9 +75,21 @@ const run = async () => {
   }
 
   if (courses.length <= 0) {
-    console.error(`No courses found`)
-    process.exit(1)
+    throw new Error("No courses found")
   }
+
+  console.log("Running webpack build...")
+  await rimraf(distPath)
+  process.env["NODE_ENV"] = "production"
+  process.env["COURSE_ZIPS_DIST_PATH"] = distPath
+  const { error } = await execFile("webpack", [
+    "--config",
+    path.join(baseDir, "src", "webpack", "webpack.zips.js")
+  ])
+  if (error) {
+    throw error
+  }
+
   console.log("Generating Hugo sites...")
 
   const webpackFiles = []
@@ -114,8 +111,8 @@ const run = async () => {
         tmpDir,
         "-s",
         "site",
-        "--theme",
-        "single_course",
+        "--config",
+        "config_zip.toml",
         "--contentDir",
         path.join("..", coursesPath, course)
       ])
@@ -134,7 +131,6 @@ const run = async () => {
         )
       }
       // add the course files
-
       const courseRoot = path.join(coursesPath, course)
       for await (const { relPath, file } of iterateTree(courseRoot)) {
         await fsPromises.mkdir(path.join(tmpDir, relPath), { recursive: true })
@@ -142,6 +138,30 @@ const run = async () => {
           path.join(courseRoot, relPath, file),
           path.join(tmpDir, relPath, file)
         )
+      }
+      // add static assets
+      if (await directoryExists(staticAssetsPath)) {
+        const staticOutputPath = staticPrefix ?
+          path.join(tmpDir, staticPrefix) :
+          path.join(tmpDir)
+        if (!(await directoryExists(staticOutputPath))) {
+          await fsPromises.mkdir(staticOutputPath, { recursive: true })
+        }
+        const courseStaticRoot = path.join(staticAssetsPath, course)
+        for await (const { relPath, file } of iterateTree(courseStaticRoot)) {
+          if (
+            !(
+              RegExp("^[0-9a-f]{32}_master.json").test(file) ||
+              file === "master.json" ||
+              file.includes(".html")
+            )
+          ) {
+            await fsPromises.copyFile(
+              path.join(courseStaticRoot, relPath, file),
+              path.join(staticOutputPath, relPath, file)
+            )
+          }
+        }
       }
 
       const zipPath = path.resolve(zipsPath, `${course}.zip`)
@@ -160,7 +180,19 @@ const run = async () => {
   }
 }
 
-run().catch(err => {
-  console.error("Error:", err)
-  process.exit(1)
-})
+if (!module.parent) {
+  buildZips(
+    process.env["COURSE_ZIPS_DIST_PATH"],
+    process.env["COURSE_ZIPS_COURSES_PATH"],
+    process.env["COURSE_ZIPS_DESTINATION"],
+    process.env["COURSE_ZIPS_STATIC_ASSET_PATH"],
+    process.env["COURSE_ZIPS_STATIC_PREFIX"]
+  ).catch(err => {
+    console.error("Error:", err)
+    process.exit(1)
+  })
+}
+
+module.exports = {
+  buildZips
+}

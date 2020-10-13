@@ -120,13 +120,23 @@ npm run build:zips
 
 ### env variables
 
-| Variable | Description  | Required? |
-| :------- | :------------ | :------------ |
-| `COURSE_ZIPS_DESTINATION` | The path to output course zips to | No |
+| Variable | Description  | Default Value | Required? |
+| :------- | :------------ | :------------ | :------------ |
+| `COURSE_ZIPS_DIST_PATH` | The path to output build artifacts to | `dist` | No |
+| `COURSE_ZIPS_COURSES_PATH` | The path to source course markdown from | `site/content/courses` | No |
+| `COURSE_ZIPS_DESTINATION` | The path to output course zips to | `zips` | No |
+| `COURSE_ZIPS_STATIC_ASSET_PATH` | The input folder of OCW courses synced from the bucket specified by `AWS_BUCKET_NAME` to copy static assets from | Unset | No |
+| `COURSE_ZIPS_STATIC_PREFIX` | The static prefix used in `ocw-to-hugo` if it was used to generate markdown | Unset | Only if used to generate markdown |
 
 This command will run the webpack and pdfjs build once, then iterate the courses found in 
 `/site/content/courses` and run the Hugo build for each of them. Archives are created for 
-each course, and when the whole process is done they are placed in `zips` by default, if `COURSE_ZIPS_DESTINATION` is not set..
+each course, and when the whole process is done they are placed in `zips` by default, if 
+`COURSE_ZIPS_DESTINATION` is not set. If `COURSE_ZIPS_STATIC_ASSET_PATH` is set, static assets 
+for each course will be pulled and included. This path will likely be the same thing as 
+`OCW_TO_HUGO_INPUT`, as static assets are currently stored alongside master json in the synced 
+bucket specified in `AWS_BUCKET_NAME`.  If a static prefix was used for CDN content when running 
+`ocw-to-hugo`, you will want to set `COURSE_ZIPS_STATIC_PREFIX` to this value so it matches what 
+has been written into the course markdown.
 
 ## deployment
 
