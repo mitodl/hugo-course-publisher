@@ -23,7 +23,6 @@ const buildZips = async (
   distPath = tmp.dirSync({
     prefix: "dist"
   }).name,
-  coursesPath = "site/content/courses",
   zipsPath = "zips",
   staticAssetsPath,
   staticPrefix
@@ -40,6 +39,7 @@ const buildZips = async (
   }
 
   const baseDir = process.cwd()
+  const coursesPath = path.join(baseDir, "site", "content", "courses")
   const relative = path.relative(baseDir, zipsPath)
   if (
     relative &&
@@ -183,7 +183,6 @@ const buildZips = async (
 if (!module.parent) {
   buildZips(
     process.env["COURSE_ZIPS_DIST_PATH"],
-    process.env["COURSE_ZIPS_COURSES_PATH"],
     process.env["COURSE_ZIPS_DESTINATION"],
     process.env["COURSE_ZIPS_STATIC_ASSET_PATH"],
     process.env["COURSE_ZIPS_STATIC_PREFIX"]
