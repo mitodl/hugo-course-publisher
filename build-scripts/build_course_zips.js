@@ -20,7 +20,9 @@ const newProgressBar = () => {
 
 // clear out the distribution path and run the webpack build
 const buildZips = async (
-  distPath = "dist",
+  distPath = tmp.dirSync({
+    prefix: "dist"
+  }).name,
   coursesPath = "site/content/courses",
   zipsPath = "zips",
   staticAssetsPath,
@@ -78,7 +80,12 @@ const buildZips = async (
 
   console.log("Running webpack build...")
   await rimraf(distPath)
-  const { error } = await execFile("npm", ["run", "build:webpack"])
+  process.env["NODE_ENV"] = "production"
+  process.env["COURSE_ZIPS_DIST_PATH"] = distPath
+  const { error } = await execFile("webpack", [
+    "--config",
+    path.join(baseDir, "src", "webpack", "webpack.zips.js")
+  ])
   if (error) {
     throw error
   }
