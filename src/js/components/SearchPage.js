@@ -17,6 +17,11 @@ import { searchResultToLearningResource, SEARCH_LIST_UI } from "../lib/search"
 
 export const SEARCH_PAGE_SIZE = 10
 
+const FACET_MAP = [
+  ["topics", "Topics"],
+  ["department_name", "Department"]
+]
+
 export default function SearchPage() {
   const [results, setSearchResults] = useState([])
   const [facets, setSearchFacets] = useState(null)
@@ -98,11 +103,6 @@ export default function SearchPage() {
 
   const isResourceSearch = activeFacets["type"].includes(LR_TYPE_RESOURCEFILE)
 
-  const facetMap = [
-    ["topics", "Topics"],
-    ["department_name", "Department"]
-  ]
-
   return (
     <div className="search-page w-100">
       <SearchBox value={text} onChange={updateText} onSubmit={onSubmit} />
@@ -145,7 +145,7 @@ export default function SearchPage() {
         <div className="row">
           {isResourceSearch ? null : (
             <SearchFilterDrawer
-              facetMap={facetMap}
+              facetMap={FACET_MAP}
               facetOptions={facetOptions}
               activeFacets={activeFacets}
               onUpdateFacets={onUpdateFacets}

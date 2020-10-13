@@ -69,8 +69,8 @@
 
 .search-filter-drawer-open {
   position: fixed;
-  top: $toolbar-height-mobile;
-  height: calc(100% - #{$toolbar-height-mobile});
+  top: 0px;
+  height: 100%;
   left: 0;
   background: white;
   width: 100%;

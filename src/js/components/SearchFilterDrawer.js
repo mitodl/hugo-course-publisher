@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+import React, { useCallback, useState } from "react"
 
 import FacetDisplay from "./FacetDisplay"
 import { DESKTOP } from "../lib/constants"
@@ -8,6 +8,22 @@ export default function SearchFilterDrawer(props) {
   const deviceCategory = useDeviceCategory()
   const [drawerOpen, setDrawerOpen] = useState(false)
 
+  const openDrawer = useCallback(
+    event => {
+      event.preventDefault()
+      setDrawerOpen(true)
+    },
+    [setDrawerOpen]
+  )
+
+  const closeDrawer = useCallback(
+    event => {
+      event.preventDefault()
+      setDrawerOpen(false)
+    },
+    [setDrawerOpen]
+  )
+
   if (deviceCategory === DESKTOP) {
     return (
       <div className="col-3 mt-3 mt-lg-6">
@@ -15,8 +31,6 @@ export default function SearchFilterDrawer(props) {
       </div>
     )
   }
-
-  const closeDrawer = () => setDrawerOpen(false)
 
   return drawerOpen ? (
     <div className="search-filter-drawer-open">
@@ -36,7 +50,7 @@ export default function SearchFilterDrawer(props) {
     </div>
   ) : (
     <div className="controls">
-      <div onClick={() => setDrawerOpen(true)} className="filter-controls">
+      <div onClick={openDrawer} className="filter-controls">
         Filter
         <i className="material-icons">arrow_drop_down</i>
       </div>
