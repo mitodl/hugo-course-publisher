@@ -80,7 +80,9 @@ export default function SearchPage() {
     activeFacets,
     onSubmit,
     from,
-    toggleFacets
+    toggleFacets,
+    toggleFacet,
+    clearAllFilters
   } = useCourseSearch(
     runSearch,
     clearSearch,
@@ -149,6 +151,8 @@ export default function SearchPage() {
               facetOptions={facetOptions}
               activeFacets={activeFacets}
               onUpdateFacets={onUpdateFacets}
+              clearAllFilters={clearAllFilters}
+              toggleFacet={toggleFacet}
             />
           )}
           <div className="search-results col-12 col-lg-8 col-xl-8 mt-3 mx-auto px-0">
