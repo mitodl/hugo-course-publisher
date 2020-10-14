@@ -90,6 +90,18 @@ describe("SearchResult component", () => {
   })
 
   //
+  ;[(LR_TYPE_RESOURCEFILE, LR_TYPE_COURSE)].forEach(objectType => {
+    it("should not render a course/resource with no url", () => {
+      const object = searchResultToLearningResource(
+        makeLearningResourceResult(objectType)
+      )
+      object.url = null
+      const wrapper = render(object)
+      expect(wrapper.find("Card").exists()).toBeFalsy()
+    })
+  })
+
+  //
   ;[[], null].forEach(listValue => {
     it(`should not render div for instructors, topics if they equal ${String(
       listValue

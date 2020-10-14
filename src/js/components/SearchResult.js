@@ -47,16 +47,16 @@ const CoverImage = ({ object }) => (
 )
 
 export default function SearchResult(props) {
-  const { searchResultLayout } = props
+  const { searchResultLayout, object } = props
 
-  return (
+  return object.url ? (
     <Card
       className={getClassName(searchResultLayout)}
       borderless={searchResultLayout === SEARCH_GRID_UI}
     >
       <LearningResourceDisplay {...props} />
     </Card>
-  )
+  ) : null
 }
 
 export function LearningResourceDisplay(props) {
