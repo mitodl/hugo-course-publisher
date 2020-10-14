@@ -5,7 +5,7 @@
   "repository": "mitodl/hugo-course-publisher",
   "main": "src/index.js",
   "scripts": {
-    "lint": "eslint src",
+    "lint": "eslint src build-scripts",
     "start": "run-p start:multi:**",
     "start:multi:hugo": "hugo server -s site -p 3000 --bind 0.0.0.0",
     "start:multi:webpack": "webpack-dev-server --config src/webpack/webpack.dev.js --hot --host 0.0.0.0",
