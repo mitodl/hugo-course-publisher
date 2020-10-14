@@ -130,23 +130,51 @@ describe("search library", () => {
       CONTENT_TYPE_PAGE,
       "18-23",
       "mech_engineering",
+      null,
+      "/courses/18-23/sections/mech_engineering/"
+    ],
+    [
+      CONTENT_TYPE_PAGE,
+      "18-23",
+      "mech_engineering",
+      "https://cdn.example.com",
       "/courses/18-23/sections/mech_engineering/"
     ],
     [
       CONTENT_TYPE_PDF,
       "https://s3.amazonaws.com/18-23/test.pdf",
       "shortlink1",
-      "/coursemedia/18-23/test.pdf"
+      null,
+      "https://s3.amazonaws.com/18-23/test.pdf"
+    ],
+    [
+      CONTENT_TYPE_PDF,
+      "https://s3.amazonaws.com/18-23/test.pdf",
+      "shortlink1",
+      "https://cdn.example.com",
+      "https://cdn.example.com/18-23/test.pdf"
     ],
     [
       CONTENT_TYPE_VIDEO,
       "https://youtube.com/?s=2335",
       null,
+      "",
       "https://youtube.com/?s=2335"
     ],
-    [CONTENT_TYPE_VIDEO, "/relative/url", null, "/relative/url"]
-  ].forEach(([contentType, url, shortUrl, expectedUrl]) => {
-    it(`should return correct url for content type ${contentType} `, () => {
+    [
+      CONTENT_TYPE_VIDEO,
+      "https://youtube.com/?s=2335",
+      null,
+      "/coursemedia",
+      "https://youtube.com/?s=2335"
+    ],
+    [CONTENT_TYPE_VIDEO, "/relative/url", null, false, "/relative/url"],
+    [CONTENT_TYPE_VIDEO, "/relative/url", null, "/coursemedia", "/relative/url"]
+  ].forEach(([contentType, url, shortUrl, cdnPrefix, expectedUrl]) => {
+    it(`should return correct url for content type ${contentType} if the cdn is ${
+      cdnPrefix ? "" : "not "
+    }set`, () => {
+      process.env["CDN_PREFIX"] = cdnPrefix
       const result = {
         url,
         short_url:    shortUrl,
