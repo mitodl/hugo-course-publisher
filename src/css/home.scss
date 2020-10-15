@@ -136,3 +136,46 @@ $spacer8: map-get($spacers, 8);
   width: 40px;
   height: 40px;
 }
+
+.course-cards {
+  margin-top: 20px;
+
+  .course-card {
+    display: block;
+    border: 1px solid $border-gray;
+    border-radius: 7px;
+    min-height: 300px; // TODO: height or min-height?
+
+    a {
+      text-decoration: none;
+    }
+
+    h5 {
+      font-size: 16px;
+    }
+
+    img {
+      width: 100%;
+      object-fit: cover;
+      height: 141px;
+    }
+
+    .course-level {
+      text-transform: uppercase;
+      color: $font-gray-mid;
+    }
+
+    .course-card-content {
+      padding: 10px;
+
+      .card-line {
+        font-size: 12px;
+        padding-top: 10px;
+
+        .card-label {
+          color: $give-heart-gray;
+        }
+      }
+    }
+  }
+}
