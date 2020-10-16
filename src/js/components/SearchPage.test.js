@@ -137,7 +137,12 @@ describe("SearchPage component", () => {
   })
 
   test("the user can switch to resource search", async () => {
-    const wrapper = await render()
+    const parameters = {
+      text:         "Math 101",
+      activeFacets: { topics: ["mathematics"] }
+    }
+    const searchString = serializeSearchParams(parameters)
+    const wrapper = await render(searchString)
     await act(async () => {
       wrapper
         .find(".search-nav")
@@ -148,15 +153,15 @@ describe("SearchPage component", () => {
     expect(search.mock.calls).toEqual([
       [
         {
-          text:         undefined,
+          text:         parameters.text,
           from:         0,
           size:         SEARCH_PAGE_SIZE,
-          activeFacets: defaultCourseFacets
+          activeFacets: { ...defaultCourseFacets, ...parameters.activeFacets }
         }
       ],
       [
         {
-          text:         undefined,
+          text:         parameters.text,
           from:         0,
           size:         SEARCH_PAGE_SIZE,
           activeFacets: defaultResourceFacets
