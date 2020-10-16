@@ -2,7 +2,7 @@ import React, { useCallback, useState } from "react"
 
 import FacetDisplay from "./FacetDisplay"
 import { DESKTOP } from "../lib/constants"
-import { useDeviceCategory } from "../hooks/util"
+import { useDeviceCategory } from "../hooks/util.ts"
 
 export default function SearchFilterDrawer(props) {
   const deviceCategory = useDeviceCategory()
