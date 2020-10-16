@@ -199,4 +199,14 @@ describe("search library", () => {
       expect(getResultUrl(result)).toBe(expected)
     })
   })
+
+  it(`should return a null url for a course without runs`, () => {
+    const result = makeLearningResourceResult("course")
+    result.runs = []
+    expect(getResultUrl(result)).toBe(null)
+    result.runs = null
+    expect(getResultUrl(result)).toBe(null)
+    delete result.runs
+    expect(getResultUrl(result)).toBe(null)
+  })
 })

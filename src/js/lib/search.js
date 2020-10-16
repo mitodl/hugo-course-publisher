@@ -407,7 +407,8 @@ export const getCoverImageUrl = result => {
   }
 }
 
-export const getCourseUrl = result => `/courses/${result.runs[0].slug}/`
+export const getCourseUrl = result =>
+  !emptyOrNil(result.runs) ? `/courses/${result.runs[0].slug}/` : null
 
 export const getResourceUrl = result => {
   if (result.content_type === CONTENT_TYPE_PAGE) {
