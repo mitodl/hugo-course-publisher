@@ -71,3 +71,6 @@ venv/
 
 # webpack bundle analysis
 stats.json
+
+# typescript
+.tsbuildinfo
