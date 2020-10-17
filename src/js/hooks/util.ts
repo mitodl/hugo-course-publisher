@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react"
 
-import { getViewportWidth } from "../lib/util"
+import { getViewportWidth } from "../lib/util.ts"
 import {
   PHONE,
   PHONE_WIDTH,
@@ -9,7 +9,7 @@ import {
   DESKTOP
 } from "../lib/constants"
 
-export const useWidth = () => {
+export const useWidth = (): number => {
   const [width, setWidth] = useState(getViewportWidth())
 
   useEffect(() => {
@@ -25,7 +25,7 @@ export const useWidth = () => {
   return width
 }
 
-export const useDeviceCategory = () => {
+export const useDeviceCategory = (): string => {
   const width = useWidth()
 
   if (width <= PHONE_WIDTH) {

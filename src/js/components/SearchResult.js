@@ -15,7 +15,7 @@ import {
   SEARCH_GRID_UI,
   SEARCH_LIST_UI
 } from "../lib/search"
-import { emptyOrNil } from "../lib/util"
+import { emptyOrNil } from "../lib/util.ts"
 
 const getClassName = searchResultLayout =>
   `learning-resource-card ${

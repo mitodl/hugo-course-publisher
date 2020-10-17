@@ -1,6 +1,6 @@
 import bodybuilder from "bodybuilder"
 
-import { emptyOrNil } from "./util"
+import { emptyOrNil } from "./util.ts"
 import {
   LR_TYPE_COURSE,
   LR_TYPE_VIDEO,
