@@ -13,27 +13,27 @@
       <div class="row">
         {{ range first 4 $childPages }}
           {{ $info := .Params.course_info }}
-        <div class="col-lg-3 col-md-6 col-sm-12">
-          <div class="course-card mt-1 mb-1">
-            <img src="{{ .Params.course_image_url }}" alt="Thumbnail for {{ .Params.course_title }}" />
-            <div class="course-card-content p-3">
-              <div class="course-level">
-                {{ index $info.course_numbers 0 }} | {{ $info.level }}
-              </div>
-              <div class="pt-3">
-                <h5>
-                  <a href="{{ .Permalink}}">{{ .Params.course_title }}</a>
-                </h5>
-              </div>
-              <div class="pt-3">
-                <span class="card-label">Instructors(s):</span> {{ delimit $info.instructors ", " }}
-              </div>
-              <div class="pt-2">
-                <span class="card-label">Topic(s):</span> {{ partial "topics_summary.html" $info.topics }}
+          <div class="col-lg-3 col-md-6 col-sm-12">
+            <div class="course-card mt-1 mb-1">
+              <img src="{{ .Params.course_image_url }}" alt="Thumbnail for {{ .Params.course_title }}" />
+              <div class="course-card-content p-3">
+                <div class="course-level">
+                  {{ index $info.course_numbers 0 }} | {{ $info.level }}
+                </div>
+                <div class="pt-3">
+                  <h5>
+                    <a href="{{ .Permalink}}">{{ .Params.course_title }}</a>
+                  </h5>
+                </div>
+                <div class="pt-3">
+                  <span class="card-label">Instructors(s):</span> {{ delimit $info.instructors ", " }}
+                </div>
+                <div class="pt-2">
+                  <span class="card-label">Topic(s):</span> {{ partial "topics_summary.html" $info.topics }}
+                </div>
               </div>
             </div>
           </div>
-        </div>
         {{ end }}
       </div>
     </div>
