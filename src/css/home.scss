@@ -138,14 +138,11 @@ $spacer8: map-get($spacers, 8);
 }
 
 .course-cards {
-  margin-top: 20px;
-
   .course-card {
     display: block;
     border: 1px solid $border-gray;
     border-radius: 7px;
     min-height: 300px; // TODO: height or min-height?
-    margin-bottom: 10px;
 
     a {
       text-decoration: none;
@@ -167,15 +164,10 @@ $spacer8: map-get($spacers, 8);
     }
 
     .course-card-content {
-      padding: 10px;
+      font-size: 12px;
 
-      .card-line {
-        font-size: 12px;
-        padding-top: 10px;
-
-        .card-label {
-          color: $give-heart-gray;
-        }
+      .card-label {
+        color: $give-heart-gray;
       }
     }
   }
