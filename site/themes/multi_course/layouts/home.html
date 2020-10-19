@@ -29,7 +29,7 @@
                 <span class="card-label">Instructors(s):</span> {{ delimit $info.instructors ", " }}
               </div>
               <div class="card-line">
-                <span class="card-label">Topic(s):</span> {{ delimit $info.topicslist "&nbsp;&nbsp;" }}
+                <span class="card-label">Topic(s):</span> {{ partial "topics_summary.html" $info.topics }}
               </div>
             </div>
           </div>
