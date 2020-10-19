@@ -70,14 +70,14 @@ describe("SearchPage component", () => {
 
   //
   ;[
-    { text: undefined, activeFacets: {} },
+    { text: "", activeFacets: {} },
     { text: "amazing text!", activeFacets: {} },
     {
       text:         "great search",
       activeFacets: { topics: ["mathematics"] }
     },
     {
-      text:         undefined,
+      text:         "",
       activeFacets: { topics: ["science"] }
     }
   ].forEach(params => {
@@ -117,7 +117,7 @@ describe("SearchPage component", () => {
     expect(search.mock.calls).toEqual([
       [
         {
-          text:         undefined,
+          text:         "",
           from:         0,
           size:         SEARCH_PAGE_SIZE,
           activeFacets: defaultCourseFacets
@@ -203,7 +203,7 @@ describe("SearchPage component", () => {
     expect(search.mock.calls).toEqual([
       [
         {
-          text:         undefined,
+          text:         "",
           from:         0,
           size:         SEARCH_PAGE_SIZE,
           activeFacets: defaultCourseFacets
@@ -211,7 +211,7 @@ describe("SearchPage component", () => {
       ],
       [
         {
-          text:         undefined,
+          text:         "",
           from:         SEARCH_PAGE_SIZE,
           size:         SEARCH_PAGE_SIZE,
           activeFacets: defaultCourseFacets
@@ -219,7 +219,7 @@ describe("SearchPage component", () => {
       ],
       [
         {
-          text:         undefined,
+          text:         "",
           from:         2 * SEARCH_PAGE_SIZE,
           size:         SEARCH_PAGE_SIZE,
           activeFacets: defaultCourseFacets

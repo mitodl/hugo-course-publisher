@@ -20,7 +20,8 @@ export const SEARCH_PAGE_SIZE = 10
 
 const COURSE_FACETS = [
   ["topics", "Topics"],
-  ["department_name", "Department"]
+  ["department_name", "Department"],
+  ["level", "Level"]
 ]
 
 // TBD

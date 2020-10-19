@@ -92,6 +92,103 @@ describe("search library", () => {
     })
   })
 
+  it("should do a nested query for level", () => {
+    activeFacets["level"] = ["Undergraduate"]
+    // eslint-disable-next-line camelcase
+    const { query, post_filter, aggs } = buildSearchQuery({
+      text: "",
+      activeFacets
+    })
+    expect(query).toStrictEqual({
+      bool: {
+        should: [
+          {
+            bool: {
+              filter: {
+                bool: {
+                  must: [
+                    {
+                      term: {
+                        object_type: LR_TYPE_COURSE
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    })
+
+    // this is the part of aggregation specific to the nesting
+    expect(aggs.agg_filter_level.aggs).toStrictEqual({
+      level: {
+        aggs: {
+          level: {
+            aggs: {
+              courses: {
+                reverse_nested: {}
+              }
+            },
+            terms: {
+              field: "runs.level",
+              size:  10000
+            }
+          }
+        },
+        nested: {
+          path: "runs"
+        }
+      }
+    })
+
+    expect(post_filter).toStrictEqual({
+      bool: {
+        must: [
+          {
+            bool: {
+              should: [
+                {
+                  term: {
+                    offered_by: "OCW"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            bool: {
+              should: [
+                {
+                  term: {
+                    "object_type.keyword": "course"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            bool: {
+              should: [
+                {
+                  nested: {
+                    path:  "runs",
+                    query: {
+                      match: {
+                        "runs.level": "Undergraduate"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    })
+  })
+
   it("should include suggest query, if text", () => {
     expect(
       buildSearchQuery({ text: "text!", activeFacets }).suggest
