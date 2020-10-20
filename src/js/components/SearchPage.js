@@ -14,13 +14,17 @@ import Loading, { Spinner } from "./Loading"
 
 import { search } from "../lib/api"
 import { searchResultToLearningResource, SEARCH_LIST_UI } from "../lib/search"
+import { emptyOrNil } from "../lib/util"
 
 export const SEARCH_PAGE_SIZE = 10
 
-const FACET_MAP = [
+const COURSE_FACETS = [
   ["topics", "Topics"],
   ["department_name", "Department"]
 ]
+
+// TBD
+const RESOURCE_FACETS = []
 
 export default function SearchPage() {
   const [results, setSearchResults] = useState([])
@@ -95,15 +99,26 @@ export default function SearchPage() {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   const toggleResourceSearch = useCallback(
     toggleOn => async () => {
-      await toggleFacets([
+      const toggledFacets = [
         ["type", LR_TYPE_RESOURCEFILE, toggleOn],
         ["type", LR_TYPE_COURSE, !toggleOn]
-      ])
+      ]
+      // Remove any facets not relevant to the new search type
+      const newFacets = new Map(toggleOn ? RESOURCE_FACETS : COURSE_FACETS)
+      Object.entries(activeFacets).forEach(([key, list]) => {
+        if (!newFacets.has(key) && !emptyOrNil(list)) {
+          list.forEach(value => {
+            toggledFacets.push([key, value, false])
+          })
+        }
+      })
+      toggleFacets(toggledFacets)
     },
-    [toggleFacets]
+    [toggleFacets, activeFacets]
   )
 
   const isResourceSearch = activeFacets["type"].includes(LR_TYPE_RESOURCEFILE)
+  const facetMap = isResourceSearch ? RESOURCE_FACETS : COURSE_FACETS
 
   return (
     <div className="search-page w-100">
@@ -147,7 +162,7 @@ export default function SearchPage() {
         <div className="row">
           {isResourceSearch ? null : (
             <SearchFilterDrawer
-              facetMap={FACET_MAP}
+              facetMap={facetMap}
               facetOptions={facetOptions}
               activeFacets={activeFacets}
               onUpdateFacets={onUpdateFacets}
