@@ -8,4 +8,4 @@
         {{- end -}}
     {{- end -}}
 {{- end -}}
-{{- delimit $topicsList ", " -}}
+{{- delimit (first 3 (uniq $topicsList)) ", " -}}
