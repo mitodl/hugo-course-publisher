@@ -143,6 +143,7 @@ $spacer8: map-get($spacers, 8);
     border: 1px solid $border-gray;
     border-radius: 7px;
     min-height: 300px; // TODO: height or min-height?
+    width: 100%;
 
     a {
       text-decoration: none;
