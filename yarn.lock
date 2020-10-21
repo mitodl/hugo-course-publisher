@@ -1336,16 +1336,17 @@
     query-string "^6.13.1"
     ramda "^0.27.1"
 
-"@mitodl/ocw-to-hugo@1.0.9":
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/@mitodl/ocw-to-hugo/-/ocw-to-hugo-1.0.9.tgz#3725f777b1f0293ad54656806768ddd44684e50a"
-  integrity sha512-diKY6EI4Fbxd0WKtZFXEkUS6Fn2yZHSLk4RF+z1BX2fwGDFOZpvhb/trobWUliO5ozPfi7Wi5fNB9bpexvJDBg==
+"@mitodl/ocw-to-hugo@1.0.10":
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/@mitodl/ocw-to-hugo/-/ocw-to-hugo-1.0.10.tgz#d06e39cad3d82cdc6779c942cc11ada3c569fec6"
+  integrity sha512-zvoRINVJTQNqUFU4ywNSnLXUWjeiBGPQvhMmfZSQJSG2TnQwdznmt6hdkHuPCchO0zHh6o2H/QYgrKpD35bmAw==
   dependencies:
     aws-sdk "^2.671.0"
     cli-progress "^3.4.0"
     dotenv "^8.2.0"
     js-yaml "^3.13.1"
     markdown-doc-builder "^1.3.0"
+    moment "^2.29.1"
     title-case "^3.0.2"
     tmp "^0.2.1"
     turndown "^6.0.0"
@@ -8822,6 +8823,11 @@ moment@^2.15.2:
   version "2.27.0"
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.27.0.tgz#8bff4e3e26a236220dfe3e36de756b6ebaa0105d"
   integrity sha512-al0MUK7cpIcglMv3YF13qSgdAIqxHTO7brRtaz3DlSULbqfazqkc5kEjNrLDOM7fsjshoFIihnU8snrP7zUvhQ==
+
+moment@^2.29.1:
+  version "2.29.1"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.1.tgz#b2be769fa31940be9eeea6469c075e35006fa3d3"
+  integrity sha512-kHmoybcPV8Sqy59DwNDY3Jefr64lK/by/da0ViFcuA4DH0vQg5Q6Ze5VimxkfQNSC+Mls/Kx53s7TjP1RhFEDQ==
 
 moo@^0.5.0:
   version "0.5.1"
