@@ -13,7 +13,7 @@
       <div class="row">
         {{ range first 4 $childPages }}
           {{ $info := .Params.course_info }}
-          <div class="col-lg-3 col-md-6 col-sm-12 my-1">
+          <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 my-1 d-flex justify-content-center">
             <div class="course-card">
               <img src="{{ .Params.course_image_url }}" alt="Thumbnail for {{ .Params.course_title }}" />
               <div class="course-card-content p-3">

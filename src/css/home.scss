@@ -138,12 +138,22 @@ $spacer8: map-get($spacers, 8);
 }
 
 .course-cards {
+  max-width: 1400px;
+
   .course-card {
     display: block;
     border: 1px solid $border-gray;
     border-radius: 7px;
-    width: 100%;
     height: 100%;
+    @include media-breakpoint-down(lg) {
+      width: 350px;
+    }
+    @include media-breakpoint-down(sm) {
+      width: 373px;
+    }
+    @include media-breakpoint-up(xl) {
+      width: 300px;
+    }
 
     a {
       text-decoration: none;
