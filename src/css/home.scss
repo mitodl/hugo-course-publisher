@@ -136,3 +136,50 @@ $spacer8: map-get($spacers, 8);
   width: 40px;
   height: 40px;
 }
+
+.course-cards {
+  max-width: 1440px;
+
+  .course-card {
+    display: block;
+    border: 1px solid $border-gray;
+    border-radius: 7px;
+    height: 100%;
+    @include media-breakpoint-down(lg) {
+      width: 350px;
+    }
+    @include media-breakpoint-down(sm) {
+      width: 373px;
+    }
+    @include media-breakpoint-up(xl) {
+      width: 300px;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    h5 {
+      font-size: 16px;
+    }
+
+    img {
+      width: 100%;
+      object-fit: cover;
+      height: 141px;
+    }
+
+    .course-level {
+      text-transform: uppercase;
+      color: $font-gray-mid;
+    }
+
+    .course-card-content {
+      font-size: 12px;
+
+      .card-label {
+        color: $give-heart-gray;
+      }
+    }
+  }
+}
