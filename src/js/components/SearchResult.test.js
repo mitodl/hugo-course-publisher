@@ -25,12 +25,12 @@ describe("SearchResult component", () => {
     )
     const wrapper = render(object)
     expect(wrapper.find(".course-title").text()).toBe(object.title)
-    expect(
-      wrapper
-        .find(".course-title")
-        .find("a")
-        .prop("href")
-    ).toBe(object.url)
+    const { href, className } = wrapper
+      .find(".course-title")
+      .find("a")
+      .props()
+    expect(href).toBe(object.url)
+    expect(className).toBe("w-100")
     expect(
       wrapper
         .find(".subtitles")

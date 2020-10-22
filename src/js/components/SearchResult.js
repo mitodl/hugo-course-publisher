@@ -83,7 +83,7 @@ export function LearningResourceDisplay(props) {
             </i>
           ) : null}
           {object.url ? (
-            <a href={object.url}>
+            <a href={object.url} className="w-100">
               <Dotdotdot clamp={3}>
                 {object.content_title || object.title}
               </Dotdotdot>
