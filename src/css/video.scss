@@ -55,6 +55,8 @@
         }
 
         .video-description {
+          font-size: 0.8rem;
+          font-weight: 400;
           @include media-breakpoint-down(md) {
             display: none;
           }
