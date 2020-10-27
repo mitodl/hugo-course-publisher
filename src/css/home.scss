@@ -138,7 +138,7 @@ $spacer8: map-get($spacers, 8);
 }
 
 .course-cards {
-  $maxwidth: 1280px;
+  $maxwidth: 1200px;
   max-width: $maxwidth;
 
   a {
@@ -149,11 +149,7 @@ $spacer8: map-get($spacers, 8);
     border: 1px solid $border-gray;
     border-radius: 7px;
     height: 400px;
-    width: 300px;
-
-    @include media-breakpoint-down(sm) {
-      width: 373px;
-    }
+    width: 100%;
 
     h5 {
       font-size: 16px;
@@ -187,15 +183,10 @@ $spacer8: map-get($spacers, 8);
   }
 
   .carousel {
-    width: $maxwidth;
-    @include media-breakpoint-down(sm) {
-      width: 100%;
-    }
+    max-width: $maxwidth;
+    width: 100%;
 
     .carousel-inner {
-      @include media-breakpoint-up(md) {
-        width: $maxwidth;
-      }
       max-width: $maxwidth;
     }
 
@@ -203,7 +194,7 @@ $spacer8: map-get($spacers, 8);
       max-width: $maxwidth;
       margin: 0 40px 0 15px;
 
-      @include media-breakpoint-down(sm) {
+      @include media-breakpoint-down(xs) {
         margin: 0;
 
         h3 {
@@ -226,7 +217,7 @@ $spacer8: map-get($spacers, 8);
         align-items: center;
         margin-left: 8px;
         padding: 12px 6px 6px 6px;
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(xs) {
           &.next {
             padding: 12px 2px 6px 10px;
           }
@@ -239,7 +230,7 @@ $spacer8: map-get($spacers, 8);
         .material-icons {
           // nudge to match rest of line
           top: -4px;
-          @include media-breakpoint-down(sm) {
+          @include media-breakpoint-down(xs) {
             top: -2px;
           }
 

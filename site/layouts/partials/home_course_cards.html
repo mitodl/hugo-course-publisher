@@ -1,7 +1,7 @@
 <div class="new-courses">
     <div class="course-cards container mt-3 mx-auto w-100">
         {{ $pages := . }}
-        {{ $breakdowns := (dict "sm" (dict "size" 1 "class" "d-flex d-md-none") "md" (dict "size" 4 "class" "d-none d-md-flex")) }}
+        {{ $breakdowns := (dict "xs" (dict "size" 1 "class" "d-flex d-sm-none") "sm-md-lg" (dict "size" 2 "class" "d-none d-sm-flex d-xl-none") "xl" (dict "size" 4 "class" "d-none d-xl-flex")) }}
         <!-- list adapted from https://getbootstrap.com/docs/4.0/utilities/display/#hiding-elements -->
         {{ range $breakpoint, $carouselInfo := $breakdowns }}
             {{ $itemsInCarousel := index $carouselInfo "size" }}
@@ -32,7 +32,7 @@
                                 {{ if eq $modulo 0 }}
                                     <div class="carousel-item {{ if not $isMobile }}row{{end}} {{ if eq $group 0 }}active{{ end }}">
                                 {{ end }}
-                                        <div class="{{ if not $isMobile }}col-3{{ end }} w-100 d-flex justify-content-center">
+                                        <div class="{{ if not $isMobile }}col-{{ (div 12 $itemsInCarousel) }}{{ end }} w-100 d-flex justify-content-center">
                                             <div class="course-card">
                                                 <img src="{{ .Params.course_image_url }}" alt="Thumbnail for {{ .Params.course_title }}"/>
                                                 <div class="course-card-content p-3">
