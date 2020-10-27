@@ -1,7 +1,7 @@
 <div class="new-courses">
     <div class="course-cards container mt-3 mx-auto w-100">
         {{ $pages := . }}
-        {{ $breakdowns := (dict "xs" (dict "size" 1 "class" "d-flex d-sm-none") "sm-md-lg" (dict "size" 2 "class" "d-none d-sm-flex d-xl-none") "xl" (dict "size" 4 "class" "d-none d-xl-flex")) }}
+        {{ $breakdowns := (dict "xs-sm" (dict "size" 1 "class" "d-flex d-md-none") "md-lg" (dict "size" 2 "class" "d-none d-md-flex d-xl-none") "xl" (dict "size" 4 "class" "d-none d-xl-flex")) }}
         <!-- list adapted from https://getbootstrap.com/docs/4.0/utilities/display/#hiding-elements -->
         {{ range $breakpoint, $carouselInfo := $breakdowns }}
             {{ $itemsInCarousel := index $carouselInfo "size" }}
