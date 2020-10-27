@@ -152,8 +152,7 @@ $spacer8: map-get($spacers, 8);
     width: 300px;
 
     @include media-breakpoint-down(sm) {
-      max-width: 373px;
-      width: 100%;
+      width: 373px;
     }
 
     h5 {
@@ -194,9 +193,8 @@ $spacer8: map-get($spacers, 8);
     }
 
     .carousel-inner {
-      width: $maxwidth;
-      @include media-breakpoint-down(sm) {
-        width: 100%;
+      @include media-breakpoint-up(md) {
+        width: $maxwidth;
       }
       max-width: $maxwidth;
     }
@@ -206,6 +204,8 @@ $spacer8: map-get($spacers, 8);
       margin: 0 40px 0 15px;
 
       @include media-breakpoint-down(sm) {
+        margin: 0;
+
         h3 {
           font-size: 14px;
         }

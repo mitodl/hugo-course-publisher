@@ -6,6 +6,7 @@
         {{ range $breakpoint, $carouselInfo := $breakdowns }}
             {{ $itemsInCarousel := index $carouselInfo "size" }}
             {{ $breakpointVisibilityClass := index $carouselInfo "class" }}
+            {{ $isMobile := (eq $itemsInCarousel 1) }}
             <div class="{{ $breakpointVisibilityClass }}">
                 <div id="carousel-{{ $breakpoint }}" class="carousel slide">
                     <div class="carousel-header d-flex flex-row justify-content-between font-weight-bold text-uppercase">
@@ -21,7 +22,7 @@
                             </a>
                         </h4>
                     </div>
-                    <div class="carousel-inner justify-content-center container mt-4">
+                    <div class="carousel-inner d-flex {{ if not $isMobile }}container{{ end }} mt-4">
                         {{ $pagesChunk := (first 10 $pages) }}
                         {{ range $index, $page := $pagesChunk }}
                             {{ with $page }}
@@ -29,9 +30,9 @@
                                 {{ $modulo := (mod $index $itemsInCarousel) }}
                                 {{ $group := (div $index $itemsInCarousel) }}
                                 {{ if eq $modulo 0 }}
-                                    <div class="carousel-item row {{ if eq $group 0 }}active{{ end }}">
+                                    <div class="carousel-item {{ if not $isMobile }}row{{end}} {{ if eq $group 0 }}active{{ end }}">
                                 {{ end }}
-                                        <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 course-card-container d-flex justify-content-center">
+                                        <div class="{{ if not $isMobile }}col-3{{ end }} w-100 d-flex justify-content-center">
                                             <div class="course-card">
                                                 <img src="{{ .Params.course_image_url }}" alt="Thumbnail for {{ .Params.course_title }}"/>
                                                 <div class="course-card-content p-3">
