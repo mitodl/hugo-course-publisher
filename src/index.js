@@ -21,6 +21,7 @@ import SearchPage from "./js/components/SearchPage"
 import { initTheme } from "./js/stylesheets"
 import { initPdfViewers } from "./js/pdf_viewer"
 import { initSentry } from "./js/sentry"
+import { rewriteCourseInfoLinks } from "./js/course_info_links"
 
 window.jQuery = $
 window.$ = $
@@ -51,4 +52,5 @@ $(document).ready(() => {
   initTheme()
   initPdfViewers()
   initSentry()
+  rewriteCourseInfoLinks()
 })

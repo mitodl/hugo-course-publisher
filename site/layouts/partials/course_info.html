@@ -13,9 +13,7 @@
     <tr>
       <td class="pl-0">Department</td>
       <td>
-        <a href="#" class="coming-soon">
-          {{ partial "partial_collapse_list.html" (dict "list" $courseInfo.departments "id" "departments") }}
-        </a>
+        {{ partial "partial_collapse_list.html" (dict "list" $courseInfo.departments "id" "departments" "klass" "course-info-department") }}
       </td>
     </tr>
     <tr>
@@ -32,7 +30,11 @@
     </tr>
     <tr>
       <td class="pl-0 pb-3">Level</td>
-      <td>{{ $courseInfo.level }}</td>
+      <td>
+        <a href="#" class="course-info-level">
+          {{ $courseInfo.level }}
+        </a>
+      </td>
     </tr>
   </table>
   <div class="border-bottom-light mb-2">

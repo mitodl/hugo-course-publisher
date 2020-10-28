@@ -1,3 +1,4 @@
+{{ $className := .klass | default "coming-soon" }}
 {{ if gt (len .list) 4 }}
 <div class="position-relative pr-3">
   <a class="partial-collapse-toggle-link" href="#partial-collapse-container_{{ .id }}" data-toggle="collapse"
@@ -12,7 +13,7 @@
     <ul class="list-unstyled m-0">
       {{ range $item := .list }}
       <li>
-        <a href="#" class="partial-collapse-link coming-soon">
+        <a href="#" class="partial-collapse-link {{ $className }}">
           {{ $item }}
         </a>
       </li>
@@ -25,7 +26,7 @@
 <ul class="list-unstyled m-0">
   {{ range $item := .list }}
   <li>
-    <a href="#" class="coming-soon">
+    <a href="#" class="{{ $className }}">
       {{ $item }}
     </a>
   </li>
