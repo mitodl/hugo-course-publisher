@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react"
 
-import { getViewportWidth } from "../lib/util.ts"
+import { getViewportWidth } from "../lib/util"
 import {
   PHONE,
   PHONE_WIDTH,
