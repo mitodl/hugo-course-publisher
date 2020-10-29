@@ -20,18 +20,19 @@ const mockGetResults = () =>
 
 let resolver
 
-const resolveSearch = () =>
+const resolveSearch = (extraData = {}) =>
   act(async () => {
-    resolver()
+    resolver(extraData)
   })
 
 jest.mock("../lib/api", () => ({
   __esModule: true,
   search:     jest.fn(async () => {
     return new Promise(resolve => {
-      resolver = () => {
+      resolver = (extraData = {}) => {
         resolve({
-          hits: { hits: mockGetResults() }
+          hits: { hits: mockGetResults() },
+          ...extraData
         })
       }
     })
@@ -170,6 +171,24 @@ describe("SearchPage component", () => {
     ])
     wrapper.update()
     expect(wrapper.find("SearchResult").length).toBe(SEARCH_PAGE_SIZE)
+  })
+
+  test("should show suggestions if present on the search result", async () => {
+    const parameters = {
+      text: "Mothemotocs"
+    }
+    const searchString = serializeSearchParams(parameters)
+    const wrapper = await render(searchString)
+    await resolveSearch({
+      suggest: ["mathematics"]
+    })
+    wrapper.update()
+    expect(wrapper.find(".suggestions").text()).toEqual(
+      "Did you mean mathematics?"
+    )
+    wrapper.find(".suggestion").simulate("click")
+    wrapper.update()
+    expect(wrapper.find("SearchBox").prop("value")).toEqual("mathematics")
   })
 
   it("should show spinner when searching", async () => {

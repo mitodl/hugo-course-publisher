@@ -6,6 +6,7 @@ import {
   LR_TYPE_COURSE,
   LR_TYPE_RESOURCEFILE
 } from "@mitodl/course-search-utils/dist/constants"
+import { without } from "ramda"
 
 import SearchResult from "./SearchResult"
 import SearchBox from "./SearchBox"
@@ -14,7 +15,7 @@ import Loading, { Spinner } from "./Loading"
 
 import { search } from "../lib/api"
 import { searchResultToLearningResource, SEARCH_LIST_UI } from "../lib/search"
-import { emptyOrNil } from "../lib/util"
+import { emptyOrNil, isDoubleQuoted } from "../lib/util"
 
 export const SEARCH_PAGE_SIZE = 10
 
@@ -30,6 +31,7 @@ const RESOURCE_FACETS = []
 export default function SearchPage() {
   const [results, setSearchResults] = useState([])
   const [facets, setSearchFacets] = useState(null)
+  const [suggestions, setSuggestions] = useState([])
   const [total, setTotal] = useState(0)
   const [completedInitialLoad, setCompletedInitialLoad] = useState(false)
 
@@ -47,6 +49,15 @@ export default function SearchPage() {
         size: SEARCH_PAGE_SIZE
       })
 
+      const { suggest } = newResults
+      if (!emptyOrNil(suggest) && !emptyOrNil(text)) {
+        setSuggestions(
+          without([text], suggest).map(suggestion =>
+            isDoubleQuoted(text) ? `"${suggestion}"` : suggestion
+          )
+        )
+      }
+
       setSearchFacets(new Map(Object.entries(newResults.aggregations ?? {})))
 
       setSearchResults(
@@ -57,7 +68,13 @@ export default function SearchPage() {
       setTotal(newResults.hits.total)
       setCompletedInitialLoad(true)
     },
-    [setSearchResults, results, setTotal, setCompletedInitialLoad]
+    [
+      setSearchResults,
+      results,
+      setTotal,
+      setCompletedInitialLoad,
+      setSuggestions
+    ]
   )
 
   const clearSearch = useCallback(() => {
@@ -87,7 +104,8 @@ export default function SearchPage() {
     from,
     toggleFacets,
     toggleFacet,
-    clearAllFilters
+    clearAllFilters,
+    acceptSuggestion
   } = useCourseSearch(
     runSearch,
     clearSearch,
@@ -133,6 +151,34 @@ export default function SearchPage() {
                 isResourceSearch ? "nofacet" : "facet"
               }`}
             >
+              {!emptyOrNil(suggestions) ? (
+                <div className="row suggestions">
+                  Did you mean
+                  {suggestions.map((suggestion, i) => (
+                    <span className="pl-1" key={i}>
+                      <a
+                        className="suggestion"
+                        onClick={e => {
+                          e.preventDefault()
+                          acceptSuggestion(suggestion)
+                          setSuggestions([])
+                        }}
+                        onKeyPress={e => {
+                          if (e.key === "Enter") {
+                            acceptSuggestion(suggestion)
+                            setSuggestions([])
+                          }
+                        }}
+                        tabIndex="0"
+                      >
+                        {` ${suggestion}`}
+                      </a>
+                      {i < suggestions.length - 1 ? " | " : ""}
+                    </span>
+                  ))}
+                  ?
+                </div>
+              ) : null}
               <ul className="nav">
                 <li className="nav-item">
                   <button

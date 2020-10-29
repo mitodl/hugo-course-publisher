@@ -61,6 +61,18 @@
     align-items: center;
     font-style: italic;
   }
+
+  .suggestions {
+    justify-content: center;
+    margin: 0;
+    font-style: italic;
+
+    a.suggestion {
+      text-decoration: underline;
+      color: $link-blue;
+      cursor: pointer;
+    }
+  }
 }
 
 .search-toggle {
