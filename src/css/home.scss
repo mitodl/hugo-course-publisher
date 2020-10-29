@@ -76,57 +76,51 @@ $spacer8: map-get($spacers, 8);
   }
 }
 
+$maxwidth: 1280px;
 .social-cards {
+  background-color: $course-blue;
+  max-width: $maxwidth;
+
   @include media-breakpoint-down(md) {
-    padding: $spacer3 $spacer3;
-
-    .social-card:not(:first-child) {
-      margin-top: $spacer3;
-    }
-  }
-  @include media-breakpoint-up(lg) {
-    padding: $spacer5 $spacer5;
-
-    .social-card:not(:first-child) {
-      margin-left: $spacer3;
-    }
-  }
-}
-
-.social-card {
-  h5 {
-    padding-bottom: $spacer1;
+    background-color: $give-heart-gray;
   }
 
-  > div:first-child {
-    background-color: $white;
-    border: 1px solid $border-darker-gray;
-    border-radius: 5px;
+  .row {
+    padding: 60px 120px;
 
     @include media-breakpoint-down(md) {
-      padding: $spacer4 $spacer3;
-      width: auto;
+      padding: 30px 0;
     }
-    @include media-breakpoint-up(lg) {
+  }
+
+  .social-card {
+    h5 {
+      padding-bottom: $spacer1;
+    }
+
+    > div {
+      background-color: $white;
+      border: 1px solid $border-darker-gray;
+      border-radius: 5px;
       padding: $spacer4 $spacer6;
-      width: 500px;
-      height: 120px;
     }
-  }
 
-  .newsletter-form {
-    @include media-breakpoint-down(md) {
-      flex-direction: column;
+    .newsletter-form {
+      .btn {
+        background-color: $highlight-red;
+        font-size: 0.75rem;
 
-      a {
-        padding-top: $spacer3;
+        @include media-breakpoint-down(md) {
+          font-size: 1rem;
+          font-weight: bold;
+        }
       }
-    }
-    @include media-breakpoint-up(lg) {
-      flex-direction: row;
 
-      a {
-        padding-left: $spacer4;
+      @include media-breakpoint-down(lg) {
+        flex-direction: column;
+      }
+      @include media-breakpoint-up(xl) {
+        flex-direction: row;
       }
     }
   }
@@ -138,7 +132,6 @@ $spacer8: map-get($spacers, 8);
 }
 
 .course-cards {
-  $maxwidth: 1280px;
   max-width: $maxwidth;
 
   a {
