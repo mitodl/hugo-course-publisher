@@ -22,7 +22,7 @@
                             </a>
                         </h4>
                     </div>
-                    <div class="carousel-inner d-flex {{ if not $isMobile }}container{{ end }} mt-4">
+                    <div class="carousel-inner d-flex {{ if not $isMobile }}container{{ end }} mt-4 px-0">
                         {{ $pagesChunk := (first 10 $pages) }}
                         {{ range $index, $page := $pagesChunk }}
                             {{ with $page }}
@@ -32,7 +32,7 @@
                                 {{ if eq $modulo 0 }}
                                     <div class="carousel-item {{ if not $isMobile }}row{{end}} {{ if eq $group 0 }}active{{ end }}">
                                 {{ end }}
-                                        <div class="{{ if not $isMobile }}col-{{ (div 12 $itemsInCarousel) }}{{ end }} w-100 d-flex justify-content-center">
+                                        <div class="course-card-wrapper {{ if not $isMobile }}col-{{ (div 12 $itemsInCarousel) }}{{ end }} w-100 d-flex justify-content-center">
                                             <div class="course-card">
                                                 <img src="{{ .Params.course_image_url }}" alt="Thumbnail for {{ .Params.course_title }}"/>
                                                 <div class="course-card-content p-3">
