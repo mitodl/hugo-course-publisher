@@ -19,9 +19,9 @@ import { emptyOrNil } from "../lib/util"
 export const SEARCH_PAGE_SIZE = 10
 
 const COURSE_FACETS = [
-  ["topics", "Topics"],
-  ["department_name", "Department"],
-  ["level", "Level"]
+  ["level", "Level", false],
+  ["topics", "Topics", true],
+  ["department_name", "Department", true]
 ]
 
 // TBD

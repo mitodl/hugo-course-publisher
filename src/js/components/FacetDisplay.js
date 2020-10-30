@@ -2,6 +2,7 @@ import React from "react"
 import _ from "lodash"
 
 import FilterableFacet from "./FilterableFacet"
+import Facet from "./Facet"
 import SearchFilter from "./SearchFilter"
 
 const FacetDisplay = React.memo(
@@ -37,7 +38,7 @@ const FacetDisplay = React.memo(
                 Clear All
               </span>
             </div>
-            {facetMap.map(([name, , labelFunction]) =>
+            {facetMap.map(([name, , , labelFunction]) =>
               (activeFacets[name] || []).map((facet, i) => (
                 <SearchFilter
                   key={i}
@@ -49,16 +50,27 @@ const FacetDisplay = React.memo(
             )}
           </div>
         ) : null}
-        {facetMap.map(([name, title], key) => (
-          <FilterableFacet
-            key={key}
-            results={facetOptions(name)}
-            name={name}
-            title={title}
-            currentlySelected={activeFacets[name] || []}
-            onUpdate={onUpdateFacets}
-          />
-        ))}
+        {facetMap.map(([name, title, useFilterableFacet], key) =>
+          useFilterableFacet ? (
+            <FilterableFacet
+              key={key}
+              results={facetOptions(name)}
+              name={name}
+              title={title}
+              currentlySelected={activeFacets[name] || []}
+              onUpdate={onUpdateFacets}
+            />
+          ) : (
+            <Facet
+              key={key}
+              title={title}
+              name={name}
+              results={facetOptions(name)}
+              onUpdate={onUpdateFacets}
+              currentlySelected={activeFacets[name] || []}
+            />
+          )
+        )}
       </React.Fragment>
     )
   },

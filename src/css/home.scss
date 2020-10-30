@@ -138,26 +138,18 @@ $spacer8: map-get($spacers, 8);
 }
 
 .course-cards {
-  max-width: 1440px;
+  $maxwidth: 1200px;
+  max-width: $maxwidth;
+
+  a {
+    text-decoration: none;
+  }
 
   .course-card {
-    display: block;
     border: 1px solid $border-gray;
     border-radius: 7px;
-    height: 100%;
-    @include media-breakpoint-down(lg) {
-      width: 350px;
-    }
-    @include media-breakpoint-down(sm) {
-      width: 373px;
-    }
-    @include media-breakpoint-up(xl) {
-      width: 300px;
-    }
-
-    a {
-      text-decoration: none;
-    }
+    height: 400px;
+    width: 100%;
 
     h5 {
       font-size: 16px;
@@ -179,6 +171,69 @@ $spacer8: map-get($spacers, 8);
 
       .card-label {
         color: $give-heart-gray;
+      }
+    }
+  }
+
+  .carousel-item.active,
+  .carousel-item-next,
+  .carousel-item-prev {
+    // this is display: block in bootstrap but we want to have cards laid out properly
+    display: flex;
+  }
+
+  .carousel {
+    max-width: $maxwidth;
+    width: 100%;
+
+    .carousel-inner {
+      max-width: $maxwidth;
+      width: 100%;
+    }
+
+    .carousel-header {
+      max-width: $maxwidth;
+      margin: 0 40px 0 15px;
+
+      @include media-breakpoint-down(sm) {
+        margin: 0;
+      }
+
+      @include media-breakpoint-down(xs) {
+        h3 {
+          font-size: 14px;
+        }
+
+        h4 {
+          font-size: 12px;
+        }
+      }
+
+      .new-courses-title {
+        padding: 12px 0 6px 0;
+      }
+
+      a {
+        border: 1px solid $border-dark-color;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        margin-left: 8px;
+        padding: 6px;
+
+        span {
+          display: inline;
+        }
+
+        @include media-breakpoint-down(xs) {
+          &.next {
+            padding: 6px 2px 6px 10px;
+          }
+
+          &.prev {
+            padding: 6px 10px 6px 2px;
+          }
+        }
       }
     }
   }
