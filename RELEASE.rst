@@ -1,7 +1,7 @@
 Release Notes
 =============
 
-Version 1.1.0
+Version 1.1.0 (Released November 02, 2020)
 -------------
 
 - link from course info to search
