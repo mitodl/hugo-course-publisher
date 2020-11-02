@@ -1,7 +1,7 @@
 // @flow
 import React, { useState, useEffect, useCallback } from "react"
 import { contains } from "ramda"
-import _ from "lodash"
+import has from "lodash.has"
 import Fuse from "fuse.js/dist/fuse.basic.common"
 
 import SearchFacetItem from "./SearchFacetItem"
@@ -123,7 +123,7 @@ const propsAreEqual = (prevProps, nextProps) => {
   // results.buckets is null while the search request is in-flight
   // we want to defer rendering in that case because it will cause
   // all the facets to briefly disappear before reappearing
-  return !_.has(nextProps.results, "buckets")
+  return !has(nextProps.results, "buckets")
 }
 
 export default React.memo(FilterableSearchFacet, propsAreEqual)

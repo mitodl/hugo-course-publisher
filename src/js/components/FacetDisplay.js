@@ -1,5 +1,6 @@
 import React from "react"
-import _ from "lodash"
+import flatten from "lodash.flatten"
+import toArray from "lodash.toarray"
 
 import FilterableFacet from "./FilterableFacet"
 import Facet from "./Facet"
@@ -17,7 +18,7 @@ const FacetDisplay = React.memo(
     } = props
 
     const anyFiltersActive =
-      _.flatten(_.toArray(Object.values(activeFacets))).length > 0
+      flatten(toArray(Object.values(activeFacets))).length > 0
 
     return (
       <React.Fragment>

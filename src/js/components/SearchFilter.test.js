@@ -1,5 +1,5 @@
 import React from "react"
-import _ from "lodash"
+import upperCase from "lodash.uppercase"
 import { shallow } from "enzyme"
 
 import SearchFilter from "./SearchFilter"
@@ -18,10 +18,10 @@ describe("SearchFilter", () => {
     const value = "Upcoming"
     const wrapper = renderSearchFilter({
       value,
-      labelFunction: _.upperCase
+      labelFunction: upperCase
     })
     const label = wrapper.text()
-    expect(label.includes(_.upperCase(value))).toBeTruthy()
+    expect(label.includes(upperCase(value))).toBeTruthy()
   })
 
   it("should trigger clearFacet function on click", async () => {

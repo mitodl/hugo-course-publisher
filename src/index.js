@@ -4,7 +4,6 @@ import "../node_modules/nanogallery2/src/css/nanogallery2.css"
 import "./css/search.scss"
 
 import Popper from "popper.js"
-import "bootstrap-material-design"
 import tippy from "tippy.js"
 import "offcanvas-bootstrap/dist/js/bootstrap.offcanvas.js"
 import "shifty"
@@ -28,8 +27,6 @@ window.$ = $
 window.Popper = Popper
 
 $(document).ready(() => {
-  $("body").bootstrapMaterialDesign()
-
   // hacky coming-soon popover
   document.querySelectorAll(".coming-soon").forEach(el => {
     tippy(el, {
