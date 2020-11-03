@@ -138,39 +138,51 @@ $spacer8: map-get($spacers, 8);
 }
 
 .course-cards {
-  $maxwidth: 1200px;
+  $maxwidth: 1280px;
   max-width: $maxwidth;
 
   a {
     text-decoration: none;
   }
 
-  .course-card {
-    border: 1px solid $border-gray;
-    border-radius: 7px;
-    height: 400px;
-    width: 100%;
+  .course-card-wrapper {
+    padding: 0 10px;
 
-    h5 {
-      font-size: 16px;
+    &:first-child {
+      padding-left: 0;
     }
 
-    img {
+    &:last-child {
+      padding-right: 0;
+    }
+
+    .course-card {
+      border: 1px solid $border-gray;
+      border-radius: 7px;
+      height: 400px;
       width: 100%;
-      object-fit: cover;
-      height: 141px;
-    }
 
-    .course-level {
-      text-transform: uppercase;
-      color: $font-gray-mid;
-    }
+      h5 {
+        font-size: 16px;
+      }
 
-    .course-card-content {
-      font-size: 12px;
+      img {
+        width: 100%;
+        object-fit: cover;
+        height: 141px;
+      }
 
-      .card-label {
-        color: $give-heart-gray;
+      .course-level {
+        text-transform: uppercase;
+        color: $font-gray-mid;
+      }
+
+      .course-card-content {
+        font-size: 12px;
+
+        .card-label {
+          color: $give-heart-gray;
+        }
       }
     }
   }
@@ -189,15 +201,15 @@ $spacer8: map-get($spacers, 8);
     .carousel-inner {
       max-width: $maxwidth;
       width: 100%;
+
+      .carousel-item {
+        margin-left: 0;
+      }
     }
 
     .carousel-header {
       max-width: $maxwidth;
-      margin: 0 40px 0 15px;
-
-      @include media-breakpoint-down(sm) {
-        margin: 0;
-      }
+      margin: 0;
 
       @include media-breakpoint-down(xs) {
         h3 {
