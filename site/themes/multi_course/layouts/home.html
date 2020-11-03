@@ -69,15 +69,7 @@
       <div class="social-card col-12 col-md-6 mt-3 mt-md-0">
         <div class="d-flex flex-column justify-content-center h-100">
           <h5>SUBSCRIBE TO THE OCW NEWSLETTER</h5>
-          <div class="newsletter-form d-flex">
-            <div class="icon-text-box-wrapper d-flex flex-row flex-grow-1 form-group bg-white shadow-sm border-dark-gray p-0 m-0">
-              <img class="input-group-prepend px-2" src="/images/envelope.svg" />
-              <input type="text" class="form-control border-0" placeholder="Your email address...">
-            </div>
-            <div class="btn rounded-0 px-3 py-2 h-100 coming-soon my-3 my-xl-0 ml-xl-3">
-              <a href="#" class="text-white text-decoration-none">SIGN ME UP</a>
-            </div>
-          </div>
+          {{ partial "newsletter_signup.html" }}
         </div>
       </div>
     </div>
