@@ -86,7 +86,7 @@ $maxwidth: 1280px;
   }
 
   .row {
-    padding: 60px 120px;
+    padding: 60px 80px;
 
     @include media-breakpoint-down(md) {
       padding: 30px 0;
