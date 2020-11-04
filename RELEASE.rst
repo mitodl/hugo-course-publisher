@@ -1,7 +1,7 @@
 Release Notes
 =============
 
-Version 1.1.1
+Version 1.1.1 (Released November 04, 2020)
 -------------
 
 - Tweak course cards to be 300px wide on desktop view (#289)
