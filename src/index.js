@@ -3,6 +3,7 @@ import "../node_modules/tippy.js/dist/tippy.css"
 import "../node_modules/nanogallery2/src/css/nanogallery2.css"
 import "./css/search.scss"
 
+import "bootstrap"
 import Popper from "popper.js"
 import tippy from "tippy.js"
 import "offcanvas-bootstrap/dist/js/bootstrap.offcanvas.js"
