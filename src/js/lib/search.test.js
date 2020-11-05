@@ -289,9 +289,13 @@ describe("search library", () => {
       const result = makeLearningResourceResult(objectType)
       if (!isCourse) {
         result.content_type = CONTENT_TYPE_PAGE
+      } else {
+        result.runs[0].best_start_date = "2001-11-11"
+        result.runs[1].published = false
+        result.runs[2].best_start_date = "2002-01-01"
       }
       const expected = isCourse ?
-        `/courses/${result.runs[0].slug}/` :
+        `/courses/${result.runs[2].slug}/` :
         `/courses/${result.run_slug}/sections/${result.short_url}/`
       expect(getResultUrl(result)).toBe(expected)
     })

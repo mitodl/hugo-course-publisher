@@ -467,8 +467,19 @@ export const getCoverImageUrl = result => {
   }
 }
 
-export const getCourseUrl = result =>
-  !emptyOrNil(result.runs) ? `/courses/${result.runs[0].slug}/` : null
+export const getCourseUrl = result => {
+  if (emptyOrNil(result.runs)) {
+    return null
+  }
+  const publishedRuns = result.runs.filter(run => run.published)
+  return !emptyOrNil(publishedRuns) ?
+    `/courses/${
+      publishedRuns.sort((a, b) =>
+        a.best_start_date < b.best_start_date ? 1 : -1
+      )[0].slug
+    }/` :
+    null
+}
 
 export const getResourceUrl = result => {
   if (result.content_type === CONTENT_TYPE_PAGE) {
