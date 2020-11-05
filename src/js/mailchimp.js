@@ -1,6 +1,7 @@
 const setupEmailSignupForm = () => {
   const $form = $(".newsletter-form")
-  $(".newsletter-form .signup-link").click(event => {
+  const $message = $form.find(".message")
+  $form.find(".signup-link").click(event => {
     event.preventDefault()
     $form.submit()
   })
@@ -21,12 +22,7 @@ const setupEmailSignupForm = () => {
       dataType: "jsonp",
       method:   $form.attr("method")
     })
-    const { result, msg } = response
-    if (result === "error") {
-      $form.html(msg)
-    } else {
-      $form.text(msg)
-    }
+    $message.html(response.msg)
   })
 }
 
