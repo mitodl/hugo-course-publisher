@@ -72,7 +72,8 @@ export const makeRun = () => {
       `${casual.name} ${casual.name}`,
       `${casual.name} ${casual.name}`
     ],
-    prices: [{ mode: "audit", price: casual.integer(1, 1000) }]
+    prices:    [{ mode: "audit", price: casual.integer(1, 1000) }],
+    published: true
   }
 }
 
