@@ -1,7 +1,7 @@
 Release Notes
 =============
 
-Version 1.1.2
+Version 1.1.2 (Released November 05, 2020)
 -------------
 
 - add suggestions UI
