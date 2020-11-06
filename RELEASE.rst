@@ -1,7 +1,7 @@
 Release Notes
 =============
 
-Version 1.1.3
+Version 1.1.3 (Released November 06, 2020)
 -------------
 
 - Import bootstrap JS to fix carousel buttons (#297)
