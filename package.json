@@ -1,6 +1,6 @@
 {
   "name": "hugo-course-publisher",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "An online course static site publisher using Hugo",
   "repository": "mitodl/hugo-course-publisher",
   "main": "src/index.js",

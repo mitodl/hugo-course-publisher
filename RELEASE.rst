@@ -1,6 +1,12 @@
 Release Notes
 =============
 
+Version 1.1.3 (Released November 06, 2020)
+-------------
+
+- Import bootstrap JS to fix carousel buttons (#297)
+- Adjustments for social and signup link cards (#293)
+
 Version 1.1.2 (Released November 05, 2020)
 -------------
 
