@@ -19,7 +19,7 @@ const setupEmailSignupForm = () => {
     const response = await $.ajax({
       url:      url,
       data:     $form.serialize(),
-      dataType: "jsonp",
+      dataType: "json",
       method:   $form.attr("method")
     })
     $message.html(response.msg)
