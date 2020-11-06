@@ -1,6 +1,6 @@
 const setupEmailSignupForm = () => {
   const $form = $(".newsletter-form")
-  const $message = $form.find(".message")
+  const $message = $(".newsletter-signup-result")
   $form.find(".signup-link").click(event => {
     event.preventDefault()
     $form.submit()
