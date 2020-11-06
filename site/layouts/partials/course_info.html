@@ -18,14 +18,12 @@
     </tr>
     <tr>
       <td class="pl-0">Course No.</td>
-      <td>{{ partial "partial_collapse_list.html" (dict "list" $courseInfo.course_numbers "id" "course_numbers") }}</td>
+      <td>{{ partial "partial_collapse_list.html" (dict "list" $courseInfo.course_numbers "id" "course_numbers" "useLinks" false) }}</td>
     </tr>
     <tr>
       <td class="pl-0 text-nowrap">As Taught In</td>
       <td>
-        <a href="#" class="coming-soon">
-          {{ $courseInfo.term }}
-        </a>
+        {{ $courseInfo.term }}
       </td>
     </tr>
     <tr>
