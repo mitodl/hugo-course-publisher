@@ -111,12 +111,14 @@ npm run build:hugo:single_course -- 18-06-linear-algebra-spring-2010
 
 ## build course zips
 
-Each course renders a "Download Course Materials" button in the course info section.
-These archives can be generated using the following command:
+Locally browsable offline sites for each course located at `site/content/courses` 
+can be generated using the following command:
 
 ```sh
 npm run build:zips
 ```
+
+The env variables necessary are detailed below.
 
 ### env variables
 
