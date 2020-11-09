@@ -37,25 +37,5 @@
       </td>
     </tr>
   </table>
-  <div class="border-bottom-light mb-2">
-    <h5 class="font-weight-bold">Topic(s)</h5>
-    <ul class="list-unstyled pb-2 m-0">
-      {{- $.Scratch.Set "topicIndex" 0 -}}
-      {{ range $topic, $subtopics := $courseInfo.topics }}
-      <li>
-        {{ partial "topic.html" (dict "context" $ "index" ($.Scratch.Get "topicIndex") "topic" $topic "subtopics" $subtopics) }}
-      </li>
-      {{- $.Scratch.Add "topicIndex" 1 -}}
-      {{ end }}
-    </ul>
-  </div>
-  <div>
-    <h5 class="font-weight-bold">Course Features</h5>
-    <ul class="list-unstyled m-0">
-    {{ range $courseInfo.course_features }}
-      {{ partial "course_feature.html" . }}
-    {{ end }}
-    </ul>
-  </div>
 </div>
 {{ end }}
