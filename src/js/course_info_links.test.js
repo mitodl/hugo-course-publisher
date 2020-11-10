@@ -8,7 +8,12 @@ describe("course_info_links functions", () => {
       "q=%22Margaret%20Hamilton%22"
     ],
     [".course-info-department", "Biology ", "d=Biology"],
-    [".course-info-level", " Graduate", "l=Graduate"]
+    [".course-info-level", " Graduate", "l=Graduate"],
+    [
+      ".course-info-topic",
+      " Mechanical Engineering",
+      "t=Mechanical%20Engineering"
+    ]
   ].forEach(([className, text, linkParam]) => {
     it("rewriteCourseInfoLinks adds correct url to element", async () => {
       const itemLink = document.createElement("a")
