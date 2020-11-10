@@ -3,16 +3,16 @@
 {{ $subtopics := .subtopics }}
 <div class="position-relative pt-1 pb-1{{ if gt (len .subtopics) 0 }} pl-4{{ end }}">
   {{ if gt (len .subtopics) 0 }}
-  <a class="topic-toggle" 
-    href="#subtopic-container_{{ $index }}" 
-    data-toggle="collapse" 
-    aria-controls="subtopic-container_{{ $index }}" 
+  <a class="topic-toggle"
+    href="#subtopic-container_{{ $index }}"
+    data-toggle="collapse"
+    aria-controls="subtopic-container_{{ $index }}"
     aria-expanded="{{ if eq $index 0 }}true{{ else }}false{{ end }}">
     <i class="material-icons"></i>
   </a>
   {{ end }}
   <span class="topic-text-wrapper">
-    <a class="link-unstyled text-dark font-weight-bold course-info-topic coming-soon" href="#">
+    <a class="link-unstyled text-dark font-weight-bold course-info-topic" href="#">
     {{ title .topic }}
     </a>
   </span>
@@ -24,16 +24,16 @@
   {{- $subtopicIndex := $context.Scratch.Get "subtopicIndex" -}}
   <div class="position-relative pt-1 pb-1 {{ if gt (len $specialities) 0 }} pl-4{{ end }}">
     {{ if gt (len $specialities) 0 }}
-    <a class="topic-toggle" 
-      href="#speciality-container_{{ $index }}_{{ $subtopicIndex }}" 
-      data-toggle="collapse" 
-      aria-controls="speciality-container_{{ $index }}_{{ $subtopicIndex }}" 
+    <a class="topic-toggle"
+      href="#speciality-container_{{ $index }}_{{ $subtopicIndex }}"
+      data-toggle="collapse"
+      aria-controls="speciality-container_{{ $index }}_{{ $subtopicIndex }}"
       aria-expanded="{{ if eq $index 0 }}true{{ else }}false{{ end }}">
       <i class="material-icons"></i>
     </a>
     {{ end }}
     <span class="topic-text-wrapper">
-      <a class="link-unstyled text-dark font-weight-bold course-info-topic coming-soon" href="#">
+      <a class="link-unstyled text-dark font-weight-bold course-info-topic" href="#">
       {{ title $subtopic }}
       </a>
     </span>
@@ -41,7 +41,7 @@
   {{ range $specialities }}
   <div class="pt-1 pb-1 pl-5 collapse{{if eq $index 0 }} show{{ end }}" id="speciality-container_{{ $index }}_{{ $subtopicIndex }}">
     <span class="topic-text-wrapper">
-      <a class="link-unstyled text-dark font-weight-bold course-info-topic coming-soon" href="#">
+      <a class="link-unstyled text-dark font-weight-bold course-info-topic" href="#">
       {{ . }}
       </a>
     </span>
