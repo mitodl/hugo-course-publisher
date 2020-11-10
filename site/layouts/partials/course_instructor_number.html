@@ -5,7 +5,7 @@
       <td class="px-2 py-2">
         {{- range $index, $instructor := .Params.course_info.instructors -}}
         {{- if $index -}},&nbsp;{{- end -}}
-        <a class="px-0" href="#" class="coming-soon pr-1">
+        <a class="px-0 pr-1 course-info-instructor" href="#">
           {{- $instructor -}}
         </a>
         {{- end -}}

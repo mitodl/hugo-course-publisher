@@ -113,7 +113,14 @@ export function LearningResourceDisplay(props) {
               htmlClass="listitem"
             >
               {object.instructors.map((instructor, i) => (
-                <a key={i}>{`Prof. ${instructor}`} </a>
+                <a
+                  key={i}
+                  href={`${SEARCH_URL}?${serializeSearchParams({
+                    text: `"${instructor}"`
+                  })}`}
+                >
+                  {`Prof. ${instructor}`}{" "}
+                </a>
               ))}
             </Subtitle>
           </div>
