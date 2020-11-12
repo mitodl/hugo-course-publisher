@@ -1,0 +1,16 @@
+{{ $courseInfo := .Params.course_info }}
+<ul class="list-unstyled pb-2 m-0">
+{{ range $topic := $courseInfo.topics }}
+  {{ range $subtopic := $topic.subtopics }}
+    {{ range $specialty := $subtopic.specialities }}
+      <li>
+        <a class="link-unstyled text-dark font-weight-bold course-info-topic" href="#">{{ $topic.topic }}</a>
+        >
+        <a class="link-unstyled text-dark font-weight-bold course-info-topic">{{ $subtopic.subtopic }}</a>
+        >
+        <a class="link-unstyled text-dark font-weight-bold course-info-topic">{{ $specialty }}</a>
+      </li>
+    {{ end }}
+  {{ end }}
+{{ end }}
+</ul>
