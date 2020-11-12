@@ -2,10 +2,8 @@
 {{ $courseInfo := .Params.course_info }}
 <div>
   <h5 class="font-weight-bold">Course Features</h5>
-  <ul class="list-unstyled m-0">
   {{ range $courseInfo.course_features }}
     {{ partial "course_feature.html" . }}
   {{ end }}
-  </ul>
 </div>
 {{ end }}

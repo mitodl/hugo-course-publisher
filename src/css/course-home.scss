@@ -1,0 +1,50 @@
+.course-home-page {
+  .container-fluid {
+    max-width: $max-content-width;
+  }
+
+  .course-banner {
+    background-color: $course-blue;
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 34px;
+    padding: 30px 15px;
+    text-transform: uppercase;
+    border-bottom: 3px solid $highlight-red;
+
+    @include media-breakpoint-up(md) {
+      font-size: 48px;
+      line-height: 58px;
+      padding: 55px 90px;
+    }
+  }
+
+  .desktop-nav {
+    padding-top: 60px;
+    padding-left: 90px;
+  }
+
+  .image-with-caption {
+    border: 1px solid $border-dark-color;
+    border-radius: 10px;
+
+    img {
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+    }
+
+    .caption {
+      border-top: 1px solid $border-dark-color;
+    }
+  }
+
+  h5 {
+    color: $highlight-red;
+    text-transform: uppercase;
+  }
+
+  .course-feature-icon {
+    color: #ff8924;
+  }
+}

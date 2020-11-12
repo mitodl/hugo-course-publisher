@@ -1,33 +1,37 @@
-
-{{ if isset .Params "course_info" }}
 {{ $courseInfo := .Params.course_info }}
 <div class="table-responsive course-info">
   <h5 class="font-weight-bold">Course Info</h5>
   <table class="table table-borderless border-bottom-light mb-2">
     <tr>
-      <td class="pl-0">Instructor(s)</td>
+      <td class="pl-0">Instructor(s):</td>
       <td>
         {{ partial "partial_collapse_list.html" (dict "list" $courseInfo.instructors "id" "instructors" "klass" "course-info-instructor") }}
       </td>
     </tr>
     <tr>
-      <td class="pl-0">Department</td>
+      <td class="pl-0">Course Number:</td>
+      <td>{{ partial "partial_collapse_list.html" (dict "list" $courseInfo.course_numbers "id" "course_numbers" "useLinks" false) }}</td>
+    </tr>
+    <tr>
+      <td class="pl-0">Departments:</td>
       <td>
         {{ partial "partial_collapse_list.html" (dict "list" $courseInfo.departments "id" "departments" "klass" "course-info-department") }}
       </td>
     </tr>
     <tr>
-      <td class="pl-0">Course No.</td>
-      <td>{{ partial "partial_collapse_list.html" (dict "list" $courseInfo.course_numbers "id" "course_numbers" "useLinks" false) }}</td>
+      <td class="pl-0">Topics:</td>
+      <td>
+        {{ partial "chp_partial.html" (dict "partial" "topics_oneline.html" "context" .) }}
+      </td>
     </tr>
     <tr>
-      <td class="pl-0 text-nowrap">As Taught In</td>
+      <td class="pl-0 text-nowrap">As Taught In:</td>
       <td>
         {{ $courseInfo.term }}
       </td>
     </tr>
     <tr>
-      <td class="pl-0 pb-3">Level</td>
+      <td class="pl-0 pb-3">Level:</td>
       <td>
         <a href="#" class="course-info-level">
           {{ $courseInfo.level }}
@@ -36,4 +40,3 @@
     </tr>
   </table>
 </div>
-{{ end }}
