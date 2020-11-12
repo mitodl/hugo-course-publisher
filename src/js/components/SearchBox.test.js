@@ -8,7 +8,7 @@ describe("SearchBox component", () => {
 
   test("should render basic stuff", () => {
     const wrapper = render()
-    expect(wrapper.find("h1").text()).toBe("Explore Open Course Ware")
+    expect(wrapper.find("h1").text()).toBe("Explore OpenCourseWare")
     expect(wrapper.find("span").text()).toBe("SEARCH")
   })
 

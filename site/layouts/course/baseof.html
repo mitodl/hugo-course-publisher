@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>{{ $.Site.Title }}</title>
+  {{ partial "title.html" . }}
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ if .Site.IsServer }}
   <link href="{{ print "http://localhost:3001" $stylesheet.css  }}" rel="stylesheet">
