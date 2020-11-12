@@ -6,12 +6,6 @@ import SearchBox from "./SearchBox"
 describe("SearchBox component", () => {
   const render = (props = {}) => shallow(<SearchBox {...props} />)
 
-  test("should render basic stuff", () => {
-    const wrapper = render()
-    expect(wrapper.find("h1").text()).toBe("Explore OpenCourseWare")
-    expect(wrapper.find("span").text()).toBe("SEARCH")
-  })
-
   test("should pass value, onChange to <input>, onSubmit to <form>", () => {
     const onChange = jest.fn()
     const onSubmit = jest.fn()

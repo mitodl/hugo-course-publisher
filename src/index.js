@@ -15,7 +15,6 @@ import "nanogallery2/src/jquery.nanogallery2.core.js"
 import ReactDOM from "react-dom"
 import React from "react"
 
-import HomeSearchBox from "./js/components/HomeSearchBox"
 import SearchPage from "./js/components/SearchPage"
 
 import { initTheme } from "./js/stylesheets"
@@ -38,11 +37,6 @@ $(document).ready(() => {
       placement: "top"
     })
   })
-
-  const searchBoxEl = document.querySelector("#home-search-box")
-  if (searchBoxEl) {
-    ReactDOM.render(<HomeSearchBox />, searchBoxEl)
-  }
 
   const searchPageEl = document.querySelector("#search-page")
   if (searchPageEl) {

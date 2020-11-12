@@ -12,6 +12,7 @@ $spacer8: map-get($spacers, 8);
     @include media-breakpoint-down(md) {
       padding: $spacer4 0;
     }
+
     @include media-breakpoint-up(lg) {
       padding: $spacer7 0;
     }
@@ -25,12 +26,71 @@ $spacer8: map-get($spacers, 8);
     @include media-breakpoint-down(md) {
       width: 100%;
     }
+
     @include media-breakpoint-up(lg) {
       width: 445px;
     }
 
     div {
       padding: 0;
+    }
+  }
+}
+
+.home-banner {
+  background-image: url("http://localhost:3000/images/homepage_hero.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+
+  @include media-breakpoint-down(lg) {
+    height: 400px;
+  }
+
+  @include media-breakpoint-down(sm) {
+    height: 450px;
+  }
+
+  .banner-contents-container {
+    max-width: $max-content-width;
+    flex-direction: row;
+
+    @include media-breakpoint-down(lg) {
+      flex-direction: column;
+    }
+
+    .search-box-wrapper {
+      max-width: 550px;
+      width: 100%;
+      position: relative;
+      flex-shrink: 2;
+
+      @include media-breakpoint-down(sm) {
+        max-width: 90%;
+      }
+    }
+
+    .unlock {
+      background-color: rgba(18, 111, 154, 0.65);
+      max-width: 550px;
+      flex-shrink: 0;
+
+      .unlocking {
+        font-size: 35px;
+        text-transform: uppercase;
+        line-height: 1.1;
+      }
+
+      .free {
+        font-size: 20px;
+      }
+
+      .learn-more {
+        color: $orange;
+        text-transform: uppercase;
+        font-size: 15px;
+        align-self: flex-end;
+      }
     }
   }
 }
@@ -53,6 +113,7 @@ $spacer8: map-get($spacers, 8);
       padding-top: $spacer2;
     }
   }
+
   @include media-breakpoint-up(lg) {
     padding: $spacer5 $spacer8;
 
@@ -77,6 +138,7 @@ $spacer8: map-get($spacers, 8);
 }
 
 $maxwidth: 1280px;
+
 .social-cards {
   background-color: $course-blue;
   max-width: $maxwidth;
@@ -119,6 +181,7 @@ $maxwidth: 1280px;
       @include media-breakpoint-down(lg) {
         flex-direction: column;
       }
+
       @include media-breakpoint-up(xl) {
         flex-direction: row;
       }

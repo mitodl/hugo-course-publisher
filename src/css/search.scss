@@ -13,6 +13,7 @@
   &.active {
     font-weight: bold;
   }
+
   font-size: 20px;
   text-decoration: none !important;
 }
@@ -27,7 +28,9 @@
       max-width: 580px;
     }
   }
+}
 
+form.search-box {
   input {
     border: 1px solid $border-light-color;
     height: 50px;
@@ -37,8 +40,16 @@
     }
   }
 
-  i.material-icons {
-    top: 21%;
+  // using a button on home page, to avoid JS
+  button {
+    background: none;
+    border: none;
+  }
+
+  i.material-icons,
+  button {
+    position: absolute;
+    top: 25%;
     left: 5px;
     color: $font-gray-light;
     cursor: pointer;

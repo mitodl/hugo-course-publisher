@@ -141,7 +141,21 @@ export default function SearchPage() {
 
   return (
     <div className="search-page w-100">
-      <SearchBox value={text} onChange={updateText} onSubmit={onSubmit} />
+      <div className="search-box py-3 py-sm-5 py-md-7">
+        <div className="search-box-inner col-12 col-lg-8 col-xl-8  mx-auto d-flex flex-column align-items-center">
+          <h1 className="mb-3 mb-sm-5 mb-md-7">Explore OpenCourseWare</h1>
+          <div className="w-100 d-flex flex-column align-items-center search-input-wrapper">
+            <span className="align-self-start pb-1 pb-sm-3">SEARCH</span>
+            <div className="w-100 position-relative">
+              <SearchBox
+                value={text}
+                onChange={updateText}
+                onSubmit={onSubmit}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
       <div className="container">
         <div className="row">
           {isResourceSearch ? null : <div className="col-3 mt-3 mt-lg-6"></div>}
