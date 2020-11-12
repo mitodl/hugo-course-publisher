@@ -36,6 +36,17 @@
   }
 }
 
+.desktop-course-info-button {
+  position: absolute;
+  right: 0;
+  z-index: 10;
+
+  #desktop-course-info-toggle {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+  }
+}
+
 .course-nav-list-item {
   @include media-breakpoint-up(lg) {
     padding-right: 2rem;

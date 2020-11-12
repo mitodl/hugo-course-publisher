@@ -35,13 +35,19 @@
           <main aria-role="main">
             <div class="container-fluid p-0">
               <div class="row m-0">
-                <div class="col-12 col-lg-8 col-xl-8 px-3 px-md-5 mt-3 mt-lg-6">
+                <div id="main-content" class="col-12 col-lg-8 col-xl-8 px-3 px-md-5 mt-3 mt-lg-6">
+                  <div class="desktop-course-info-button large-and-above-only bg-light shadow-sm border border-right-0 rounded-left">
+                    <div id="desktop-course-info-toggle" class="btn px-2 m-0 navbar-toggle offcanvas-toggle text-uppercase font-weight-bold"
+                      data-toggle="collapse">
+                      Hide Course Info
+                    </div>
+                  </div>
                   {{ block "main" . }}{{ end }}
                 </div>
-                <div class="col-12 col-lg-4 col-xl-4 px-6 mt-6 large-and-above-only border-left-light">
-                  {{ partial "chp_partial.html" (dict "partial" "course_info.html" "context" .) }}
-                  {{ partial "chp_partial.html" (dict "partial" "topics.html" "context" .) }}
-                  {{ partial "chp_partial.html" (dict "partial" "course_features.html" "context" .) }}
+                <div id="desktop-course-info" class="col-12 col-lg-4 col-xl-4 px-6 mt-6 large-and-above-only border-left-light">
+                    {{ partial "chp_partial.html" (dict "partial" "course_info.html" "context" .) }}
+                    {{ partial "chp_partial.html" (dict "partial" "topics.html" "context" .) }}
+                    {{ partial "chp_partial.html" (dict "partial" "course_features.html" "context" .) }}
                 </div>
               </div>
             </div>
