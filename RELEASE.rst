@@ -1,7 +1,7 @@
 Release Notes
 =============
 
-Version 1.2.0
+Version 1.2.0 (Released November 13, 2020)
 -------------
 
 - Set page titles (#327)
