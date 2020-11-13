@@ -26,22 +26,13 @@
   }
 }
 
-.mobile-course-info-toggle {
+.course-info-toggle {
   position: absolute;
   right: 0;
   z-index: 10;
+  width: 38px;
 
-  #toggle {
-    writing-mode: vertical-lr;
-  }
-}
-
-.desktop-course-info-button {
-  position: absolute;
-  right: 0;
-  z-index: 10;
-
-  #desktop-course-info-toggle {
+  .toggle {
     writing-mode: vertical-lr;
     transform: rotate(180deg);
   }
