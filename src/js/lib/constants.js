@@ -55,3 +55,6 @@ export const DESKTOP = "DESKTOP"
 export const PHONE_WIDTH = 599
 // Based on desktop-wide breakpoint
 export const TABLET_WIDTH = 999
+
+export const HIDE_COURSE_INFO_TEXT = "HIDE COURSE INFO"
+export const SHOW_COURSE_INFO_TEXT = "SHOW COURSE INFO"

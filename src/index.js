@@ -23,6 +23,7 @@ import { initPdfViewers } from "./js/pdf_viewer"
 import { initSentry } from "./js/sentry"
 import { setupEmailSignupForm } from "./js/mailchimp"
 import { rewriteCourseInfoLinks } from "./js/course_info_links"
+import { initDesktopCourseInfoToggle } from "./js/course_info_toggle"
 
 window.jQuery = $
 window.$ = $
@@ -52,5 +53,6 @@ $(document).ready(() => {
   initPdfViewers()
   initSentry()
   rewriteCourseInfoLinks()
+  initDesktopCourseInfoToggle()
   setupEmailSignupForm()
 })
