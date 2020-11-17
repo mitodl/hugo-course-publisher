@@ -1,9 +1,9 @@
 import { HIDE_COURSE_INFO_TEXT, SHOW_COURSE_INFO_TEXT } from "./lib/constants"
 
 export const initDesktopCourseInfoToggle = () => {
-  document
-    .getElementById("desktop-course-info-toggle")
-    .addEventListener("click", () => {
+  const toggleElement = document.getElementById("desktop-course-info-toggle")
+  if (toggleElement) {
+    toggleElement.addEventListener("click", () => {
       const mainContent = document.getElementById("main-content")
       const desktopCourseInfo = document.getElementById("desktop-course-info")
       const desktopCourseInfoToggle = document.getElementById(
@@ -19,4 +19,5 @@ export const initDesktopCourseInfoToggle = () => {
         desktopCourseInfoToggle.innerText = HIDE_COURSE_INFO_TEXT
       }
     })
+  }
 }
