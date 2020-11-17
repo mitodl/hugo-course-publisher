@@ -27,8 +27,8 @@
       </div>
     </div>
     {{ end }}
+    {{ block "subheader" . }}{{ end }}
     <div class="container-fluid">
-      {{ block "subheader" . }}{{ end }}
       <div class="row outer-wrapper">
         {{ partial "desktop_nav.html" . }}
         <div class="left-col-bg"></div>
