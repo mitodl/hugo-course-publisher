@@ -28,6 +28,9 @@
     </div>
     {{ end }}
     <div class="container-fluid">
+      <div id="subheader" class="p-5">
+      {{ block "subheader" . }}{{ end }}
+      </div>
       <div class="row outer-wrapper">
         {{ partial "desktop_nav.html" . }}
         <div class="left-col-bg"></div>

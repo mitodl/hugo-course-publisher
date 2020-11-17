@@ -128,3 +128,11 @@
     }
   }
 }
+
+#subheader {
+  max-width: $max-content-width;
+  margin: auto;
+  color: $white;
+  background-color: $course-blue;
+  border-bottom: 2px solid $highlight-red;
+}
