@@ -4,9 +4,6 @@
 @import "~bootstrap/scss/bootstrap";
 @import "~offcanvas-bootstrap/src/sass/bootstrap.offcanvas";
 
-$material-icons-font-path: "~material-icons/iconfont/";
-
-@import "~material-icons/iconfont/material-icons.scss";
 @import "breakpoints";
 @import "header";
 @import "home";
@@ -217,30 +214,6 @@ table {
 
 .material-icons.md-48 {
   font-size: 48px;
-}
-
-.instructors-icon {
-  @include material-icon("school");
-}
-
-.department-icon {
-  @include material-icon("account_balance");
-}
-
-.topics-icon {
-  @include material-icon("subject");
-}
-
-.course-number-icon {
-  @include material-icon("account_balance");
-}
-
-.term-icon {
-  @include material-icon("today");
-}
-
-.level-icon {
-  @include material-icon("equalizer");
 }
 
 .border-left-light {
