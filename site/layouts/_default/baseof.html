@@ -1,26 +1,11 @@
 <!doctype html>
 <html lang="{{ $.Site.Language.Lang }}">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    {{ partial "title.html" . }}
-    {{ $stylesheet := .Site.Data.webpack.main }}
-    {{ if .Site.IsServer }}
-      <link href="{{ print "http://localhost:3001" $stylesheet.css  }}" rel="stylesheet">
-    {{ else }}
-      <link href="{{ relURL $stylesheet.css }}" rel="stylesheet">
-    {{ end }}
-    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap" rel="stylesheet">
-  </head>
+  {{ partial "head.html" . }}
   <body>
     <div class="overflow-auto">
       {{ block "main" . }}{{ end }}
     </div>
-      {{ $main := .Site.Data.webpack.main }}
-      {{ if .Site.IsServer }}
-        <script src="{{ print "http://localhost:3001" $main.js }}"></script>
-      {{ else }}
-        <script src="{{ relURL $main.js }}"></script>
-      {{ end }}
+    {{ $main := .Site.Data.webpack.main }}
+    <script src="{{ partial "webpack_url.html" $main.js }}"></script>
   </body>
 </html>

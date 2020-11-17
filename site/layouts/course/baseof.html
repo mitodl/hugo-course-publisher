@@ -1,21 +1,9 @@
 <!doctype html>
 <html lang="{{ $.Site.Language.Lang }}">
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  {{ partial "title.html" . }}
-  {{ $stylesheet := .Site.Data.webpack.main }}
-  {{ if .Site.IsServer }}
-  <link href="{{ print "http://localhost:3001" $stylesheet.css  }}" rel="stylesheet">
-  {{ else }}
-  <link href="{{ relURL $stylesheet.css }}" rel="stylesheet">
-  {{ end }}
-  <link href="https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap" rel="stylesheet">
-</head>
-
 <body class="course-home-page">
-  <div class="overflow-auto bg-white">
+  {{ partial "head.html" . }}
+  <div class="overflow-auto">
     {{ partial "mobile_course_nav.html" . }}
     {{ partial "mobile_course_info.html" . }}
     {{ block "header" . }}{{ partial "header" . }}{{ partial "header_placeholder.html" . }}{{ end }}
@@ -85,13 +73,9 @@
   </script>
   {{ $main := .Site.Data.webpack.main }}
   {{ $mathjax := .Site.Data.webpack.mathjax }}
-  {{ if .Site.IsServer }}
-  <script src="{{ print "http://localhost:3001" $main.js }}"></script>
-  <script src="{{ print "http://localhost:3001/mathjax/tex-svg.js" }}"></script>
-  {{ else }}
-  <script src="{{ relURL $main.js }}"></script>
-  <script src="{{ relURL "mathjax/tex-svg.js" }}" defer></script>
-  {{ end }}
+
+  <script src="{{ partial "webpack_url.html" $main.js }}"></script>
+  <script src="{{ partial "webpack_url.html" "/mathjax/tex-svg.js" }}" defer></script>
 </body>
 
 </html>

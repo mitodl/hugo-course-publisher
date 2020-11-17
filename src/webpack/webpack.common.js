@@ -119,6 +119,15 @@ module.exports = {
       }
     ]),
 
+    new CopyWebpackPlugin([
+      {
+        from:    "./node_modules/material-design-icons/iconfont/",
+        to:      "material-design-icons/",
+        flatten: true
+      }
+    ]),
+
+
     new webpack.ProvidePlugin({
       $:               "jquery",
       jQuery:          "jquery",
