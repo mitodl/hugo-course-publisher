@@ -48,6 +48,10 @@
   .course-features {
     padding: 40px 80px;
 
+    @include media-breakpoint-down(md) {
+      padding: 30px;
+    }
+
     .course-feature-icon {
       color: #ff8924;
     }
