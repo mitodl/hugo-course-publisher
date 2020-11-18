@@ -282,11 +282,11 @@ article.content {
   // sometimes the tables can be wide, and on mobile that can ruin the overall page width
   // this forces the table to scroll if it's too wide
   table {
-    display: block;
+    display: table;
     overflow: auto;
 
     thead {
-      background-color: $medium-gray;
+      background-color: $course-blue;
       color: white;
       text-transform: uppercase;
 
