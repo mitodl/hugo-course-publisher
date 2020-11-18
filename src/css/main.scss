@@ -56,6 +56,10 @@ a {
   text-decoration: none;
 }
 
+.max-content-width {
+  max-width: $max-content-width;
+}
+
 .outer-wrapper {
   min-height: 100vh;
   margin: auto auto;
