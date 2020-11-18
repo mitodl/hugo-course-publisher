@@ -50,9 +50,9 @@
                 </div>
                 {{ if not $isCourseHomePage }}
                 <div id="desktop-course-info" class="col-12 col-lg-4 col-xl-4 px-6 mt-6 large-and-above-only border-left-light">
-                    {{ partial "course_info.html" . }}
+                    {{ partial "course_info.html" (dict "Params" .Params "inPanel" true )}}
                     {{ partial "topics.html" . }}
-                    {{ partial "course_features.html" . }}
+                    {{ partial "course_features.html" (dict "Params" .Params "inPanel" true) }}
                 </div>
                 {{ end }}
               </div>

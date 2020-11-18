@@ -2,7 +2,7 @@
   id="course-info-drawer"
   class="bg-faded pt-3 bg-light navbar-offcanvas navbar-offcanvas-right medium-and-below-only nav-drawer"
 >
-  {{ partial "course_info.html" . }}
+  {{ partial "course_info.html" (dict "Params" .Params "inPanel" true) }}
   {{ partial "topics.html" . }}
-  {{ partial "course_features.html" . }}
+  {{ partial "course_features.html" (dict "Params" .Params "inPanel" true) }}
 </div>
