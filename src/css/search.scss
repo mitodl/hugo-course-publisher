@@ -33,7 +33,7 @@
 form.search-box {
   input {
     border: 1px solid $border-light-color;
-    height: 50px;
+    height: 60px;
 
     &::placeholder {
       line-height: revert !important;
@@ -49,9 +49,9 @@ form.search-box {
   i.material-icons,
   button {
     position: absolute;
-    top: 25%;
-    left: 5px;
-    color: $font-gray-light;
+    top: 29%;
+    left: 15px;
+    color: $font-gray-mid;
     cursor: pointer;
   }
 }

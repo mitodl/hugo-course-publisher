@@ -12,17 +12,17 @@
                     <div class="carousel-header d-flex flex-row justify-content-between font-weight-bold text-uppercase">
                         <h3 class="new-courses-title">New Courses</h3>
                         <h4 class="d-flex">
-                            <a href="#carousel-{{ $breakpoint }}" role="button" data-slide="prev" class="prev">
+                            <a href="#carousel-{{ $breakpoint }}" role="button" data-slide="prev" class="bg-white prev">
                                 <span class="material-icons">keyboard_arrow_left</span>
                                 Previous
                             </a>
-                            <a href="#carousel-{{ $breakpoint }}" role="button" data-slide="next" class="next">
+                            <a href="#carousel-{{ $breakpoint }}" role="button" data-slide="next" class="bg-white next">
                                 Next
                                 <span class="material-icons">keyboard_arrow_right</span>
                             </a>
                         </h4>
                     </div>
-                    <div class="carousel-inner d-flex {{ if not $isMobile }}container{{ end }} mt-4 px-0">
+                    <div class="carousel-inner d-flex {{ if not $isMobile }}container{{ end }} mt-2 px-0">
                         {{ $pagesChunk := (first 10 $pages) }}
                         {{ range $index, $page := $pagesChunk }}
                             {{ with $page }}
@@ -33,7 +33,7 @@
                                     <div class="carousel-item {{ if not $isMobile }}row{{end}} {{ if eq $group 0 }}active{{ end }}">
                                 {{ end }}
                                         <div class="course-card-wrapper {{ if not $isMobile }}col-{{ (div 12 $itemsInCarousel) }}{{ end }} w-100 d-flex justify-content-center">
-                                            <div class="course-card">
+                                            <div class="course-card bg-white">
                                                 <img src="{{ .Params.course_image_url }}" alt="Thumbnail for {{ .Params.course_title }}"/>
                                                 <div class="course-card-content p-3">
                                                     <div class="course-level">

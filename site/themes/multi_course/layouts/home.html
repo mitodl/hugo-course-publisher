@@ -1,53 +1,14 @@
 {{ define "main" }}
-  <div id="mobile-header" class="position-relative bg-white medium-and-below-only px-3 py-2">
-    <div class="container-fluid">
-      <div class="position-relative pt-1 pb-1">
-        <div class="">
-          <i class="material-icons display-4 align-bottom">menu</i>
-        </div>
-        <div id="ocw-logo-mobile" class="position-absolute">
-          <a href="/courses">
-            <img width="250" height="39" src="/images/ocw_logo_orange.png" />
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
+{{ block "header" . }}{{ partial "header" . }}{{ end }}
   <div
     class="d-flex flex-column align-items-center home-banner"
     style="background-image: url(/images/homepage_hero.png);"
     >
-
-    <div id="new-desktop-header">
-      <div class="contents px-6">
-        <div class="left">
-          <div class="ocw-logo mr-6">
-            <a href="/courses">
-              <img src="/images/ocw_logo_white.png" />
-            </a>
-          </div>
-        </div>
-        <div class="right">
-          <a class="coming-soon btn orange-link py-2 px-3">
-            <div class="text-white font-weight-bold w-100">Give now</div>
-          </a>
-          <a class="coming-soon">
-            <div class="text-white font-weight-bold w-100 px-3 pl-5 py-2 coming-soon">About OCW</div>
-          </a>
-          <a class="coming-soon">
-            <div class="text-white font-weight-bold w-100 px-3 py-2 coming-soon">help & faqs</div>
-          </a>
-          <a class="coming-soon">
-            <div class="text-white font-weight-bold w-100 px-3 py-2 coming-soon">contact us</div>
-          </a>
-        </div>
-      </div>
-    </div>
     <div class="banner-contents-container mx-auto d-flex justify-content-around w-100 align-items-center h-100">
       <div class="search-box-wrapper m-2">
         <form action="/search" method="GET" class="search-box">
           <input
-            class="w-100 pl-5"
+            class="w-100 pl-7"
             type="text"
             name="q"
             placeholder="Enter Course Name, Department, Course Number..."
@@ -59,7 +20,7 @@
           </button>
         </form>
       </div>
-      <div class="unlock d-flex flex-column py-3 px-4 m-2 mb-4">
+      <div class="unlock d-flex flex-column py-3 px-4 m-2 mb-md-4">
         <span class="unlocking font-weight-bold text-white">
           Unlocking knowledge,
           <br />
@@ -74,6 +35,9 @@
       </div>
     </div>
   </div>
+  <div class="home-page-content"
+    style="background-image: url(/images/homepage_bg.png);"
+  >
   {{ $pages := .Site.Pages.ByPublishDate.Reverse }}
   {{ $coursePages := where $pages "Type" "==" "course" }}
   {{ $childPages := where $coursePages ".Params.layout" "==" "course_home" }}
@@ -100,38 +64,42 @@
       </a>
     </div>
   </div>
-  <div class="give-now d-flex column-below-medium justify-content-center">
-    <div class="d-flex flex-column justify-content-center bg-white">
-      <h2>GIVE NOW</h2>
-      <h2>Your Donation Makes a Difference</h2>
-      <h4 class="font-weight-normal">MIT OpenCourseWare is supported through the generosity of people like you, who believe that unlocking knowledge can empower minds.</h4>
-    </div>
-    <div class="d-flex align-items-center pl-3-md pl-3-lg">
-      <a class="give-button small-link coming-soon">
-        <div class="d-flex align-items-center justify-content-center btn rounded-0 bg-black text-white">
-          <img class="pr-2" src="/images/heart.svg" alt="heart" />
-          <h1 class="m-0 pl-2">GIVE</h1>
-        </div>
-      </a>
+  <div class="give-now-wrapper">
+    <div class="give-now my-5 d-flex justify-content-center">
+      <div class="d-flex flex-column justify-content-center">
+        <h2>GIVE NOW</h2>
+        <h2>Your Donation Makes a Difference</h2>
+        <h4 class="font-weight-normal">MIT OpenCourseWare is supported through the generosity of people like you, who believe that unlocking knowledge can empower minds.</h4>
+      </div>
+      <div class="d-flex align-items-center pl-3-md pl-3-lg">
+        <a
+          class="p-4 give-button small-link text-white d-flex align-items-center "
+          href="https://giving.mit.edu/give/to/ocw/?utm_source=ocw&utm_medium=homepage_banner&utm_campaign=nextgen_home"
+          >
+          <h1 class="m-0 pr-2">GIVE</h1>
+          <img src="/images/heart.png" alt="heart" />
+        </a>
+      </div>
     </div>
   </div>
+  <div class="social-cards-wrapper">
   <div class="social-cards d-flex justify-content-center container w-100">
     <div class="row w-100">
       <div class="social-card col-12 col-md-6">
         <div class="d-flex flex-column justify-content-center align-items-center h-100">
           <h5>STAY CONNECTED WITH OCW</h5>
-          <div class="d-flex">
+          <div class="d-flex social-icon-row justify-content-between">
             <a class="img-link" href="https://www.facebook.com/MITOCW" target="_blank">
-              <img class="social-icon mr-2" src="/images/social-facebook-blue.svg" alt="facebook" />
+              <img class="social-icon" src="/images/social-facebook-blue.svg" alt="facebook" />
             </a>
             <a class="img-link" href="https://www.instagram.com/mitocw" target="_blank">
-              <img class="social-icon ml-2 mr-2" src="/images/social-instagram-blue.svg" alt="instagram" />
+              <img class="social-icon" src="/images/social-instagram-blue.svg" alt="instagram" />
             </a>
             <a class="img-link" href="https://twitter.com/MITOCW" target="_blank">
-              <img class="social-icon ml-2 mr-2" src="/images/social-twitter-blue.svg" alt="twitter" />
+              <img class="social-icon" src="/images/social-twitter-blue.svg" alt="twitter" />
             </a>
             <a class="img-link" href="https://www.youtube.com/mitocw" target="_blank">
-              <img class="social-icon ml-2" src="/images/social-youtube-blue.svg" alt="youtube" />
+              <img class="social-icon" src="/images/social-youtube-blue.svg" alt="youtube" />
             </a>
           </div>
         </div>
@@ -143,5 +111,6 @@
         </div>
       </div>
     </div>
+  </div>
   </div>
 {{ end }}

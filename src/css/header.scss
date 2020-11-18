@@ -1,77 +1,4 @@
-#desktop-header {
-  height: 88px;
-
-  @include media-breakpoint-down(md) {
-    display: none;
-  }
-
-  .contents {
-    display: flex;
-    justify-content: space-between;
-    max-width: $max-content-width;
-    margin: auto;
-    height: 100%;
-
-    .right,
-    .left {
-      display: flex;
-      align-items: center;
-      flex-grow: 1;
-    }
-
-    .left {
-      .header-link {
-        color: $highlight-red;
-        text-decoration: none;
-        font-size: 16px;
-        font-weight: bold;
-      }
-
-      .red-box {
-        background-color: $highlight-red;
-        height: 24px;
-
-        &.one {
-          width: 175px;
-        }
-
-        &.two {
-          width: 126px;
-        }
-      }
-
-      .ocw-logo {
-        img {
-          height: 40px;
-        }
-      }
-    }
-
-    .right {
-      .small-link,
-      .spacer {
-        color: $link-blue;
-        margin: 0 2px;
-      }
-
-      .search {
-        height: 55px;
-        display: flex;
-        align-items: center;
-        border-left: 1px solid $border-light-color;
-        color: $text-gray;
-
-        i {
-          font-size: 30px;
-        }
-      }
-    }
-  }
-}
-
 #mobile-header {
-  box-shadow: 0 2px 9px 0 rgba(202, 202, 202, 0.76);
-
   #ocw-logo-mobile {
     width: 250px;
     height: 39px;
@@ -82,10 +9,12 @@
   }
 }
 
-#new-desktop-header {
-  height: 88px;
-  max-width: $max-content-width;
+$desktop-header-height: 88px;
+
+#desktop-header {
+  height: $desktop-header-height;
   width: 100%;
+  position: absolute;
 
   @include media-breakpoint-down(md) {
     display: none;
@@ -119,6 +48,7 @@
       .orange-link {
         background-color: $orange;
         font-size: 16px;
+        text-decoration: none;
       }
 
       a {
@@ -132,4 +62,12 @@
 #course-banner {
   color: $white;
   background-color: $course-blue;
+}
+
+.header-placeholder {
+  height: $desktop-header-height;
+
+  @include media-breakpoint-down(md) {
+    display: none;
+  }
 }

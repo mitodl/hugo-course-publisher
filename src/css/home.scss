@@ -47,12 +47,17 @@ $spacer8: map-get($spacers, 8);
   }
 
   @include media-breakpoint-down(sm) {
-    height: 450px;
+    height: 250px;
   }
 
   .banner-contents-container {
     max-width: $max-content-width;
     flex-direction: row;
+    margin-top: $desktop-header-height;
+
+    @include media-breakpoint-down(md) {
+      margin-top: 0;
+    }
 
     @include media-breakpoint-down(lg) {
       flex-direction: column;
@@ -60,13 +65,13 @@ $spacer8: map-get($spacers, 8);
 
     .search-box-wrapper {
       max-width: 550px;
-      width: 100%;
+      width: 96%;
       position: relative;
       flex-shrink: 2;
 
-      @include media-breakpoint-down(sm) {
-        max-width: 90%;
-      }
+      // @include media-breakpoint-down(sm) {
+      //   max-width: 90%;
+      // }
     }
 
     .unlock {
@@ -78,10 +83,20 @@ $spacer8: map-get($spacers, 8);
         font-size: 35px;
         text-transform: uppercase;
         line-height: 1.1;
+
+        @include media-breakpoint-down(sm) {
+          font-size: 20px;
+        }
       }
 
       .free {
         font-size: 20px;
+        line-height: 24px;
+
+        @include media-breakpoint-down(sm) {
+          font-size: 16px;
+          line-height: 19px;
+        }
       }
 
       .learn-more {
@@ -101,16 +116,20 @@ $spacer8: map-get($spacers, 8);
   }
 }
 
+.give-now-wrapper {
+  background-color: $transparency-gray;
+}
+
 .give-now {
   max-width: 950px;
   margin: 0 auto;
 
+  @include media-breakpoint-down(sm) {
+    flex-direction: column;
+  }
+
   @include media-breakpoint-down(md) {
     padding: $spacer3 $spacer3 $spacer5;
-
-    :not(:first-child) {
-      padding-top: $spacer2;
-    }
   }
 
   @include media-breakpoint-up(lg) {
@@ -120,30 +139,44 @@ $spacer8: map-get($spacers, 8);
       padding-left: $spacer6;
     }
   }
-}
 
-.give-button {
-  @include media-breakpoint-down(md) {
-    width: 100%;
-  }
+  .give-button {
+    width: 158px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: $orange;
+    text-decoration: none;
 
-  @include media-breakpoint-up(lg) {
-    width: auto;
-  }
+    @include media-breakpoint-down(sm) {
+      width: 100%;
+      justify-content: center;
+    }
 
-  div {
-    padding: $spacer3 $spacer5;
+    div {
+      padding: $spacer3 $spacer5;
+    }
+
+    h1 {
+      font-size: 28px;
+    }
+
+    img {
+      height: 30px;
+    }
   }
 }
 
 $maxwidth: 1280px;
 
-.social-cards {
+.social-cards-wrapper {
   background-color: $course-blue;
+}
+
+.social-cards {
   max-width: $maxwidth;
 
   @include media-breakpoint-down(md) {
-    background-color: $give-heart-gray;
+    padding: 0;
   }
 
   .row {
@@ -157,6 +190,11 @@ $maxwidth: 1280px;
   .social-card {
     h5 {
       padding-bottom: $spacer1;
+      font-size: 16px;
+    }
+
+    .social-icon-row {
+      width: 225px;
     }
 
     > div {
@@ -164,6 +202,10 @@ $maxwidth: 1280px;
       border: 1px solid $border-darker-gray;
       border-radius: 5px;
       padding: $spacer4 $spacer6;
+
+      @include media-breakpoint-down(md) {
+        padding: $spacer4 $spacer4;
+      }
     }
 
     .newsletter-form {
@@ -214,7 +256,7 @@ $maxwidth: 1280px;
     .course-card {
       border: 1px solid $border-gray;
       border-radius: 7px;
-      height: 400px;
+      height: 381px;
       width: 100%;
 
       h5 {
@@ -225,6 +267,7 @@ $maxwidth: 1280px;
         width: 100%;
         object-fit: cover;
         height: 186px;
+        border-radius: 10px 10px 0 0;
       }
 
       .course-level {
@@ -287,6 +330,8 @@ $maxwidth: 1280px;
         align-items: center;
         margin-left: 8px;
         padding: 6px;
+        font-size: 16px;
+        height: 38px;
 
         span {
           display: inline;
