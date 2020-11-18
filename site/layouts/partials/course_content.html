@@ -3,10 +3,12 @@
 
 <div class="pb-4 rounded">
   <header>
-    <h1 class="text-uppercase font-weight-bold">{{ $currentPage.Title }}</h1>
-    {{ with $currentPage.Params.course_info.subtitle }}
-    <span class="subtitle">{{ . }}</span>
-    {{ end }}
+    <div class="course-section-title-container">
+      <h1 class="text-uppercase font-weight-bold">{{ $currentPage.Title }}</h1>
+      {{ with $currentPage.Params.course_info.subtitle }}
+      <span class="subtitle">{{ . }}</span>
+      {{ end }}
+    </div>
   </header>
   {{ partial "mobile_nav_toggle.html" . }}
   <article class="content pt-2">
