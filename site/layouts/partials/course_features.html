@@ -1,7 +1,7 @@
 {{ if isset .Params "course_info" }}
 {{ $courseInfo := .Params.course_info }}
-<div>
-  <h5 class="font-weight-bold">Course Features</h5>
+<div class="bg-light course-features mx-3 my-5">
+  <h4 class="font-weight-bold">Course Features</h4>
   {{ range $courseInfo.course_features }}
     {{ partial "course_feature.html" . }}
   {{ end }}
