@@ -38,7 +38,6 @@ $spacer8: map-get($spacers, 8);
 }
 
 .home-banner {
-  background-image: url("http://localhost:3000/images/homepage_hero.png");
   background-size: cover;
   background-repeat: no-repeat;
   height: 500px;
@@ -225,7 +224,7 @@ $maxwidth: 1280px;
       img {
         width: 100%;
         object-fit: cover;
-        height: 141px;
+        height: 186px;
       }
 
       .course-level {
