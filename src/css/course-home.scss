@@ -3,23 +3,6 @@
     max-width: $max-content-width;
   }
 
-  .course-banner {
-    background-color: $course-blue;
-    color: white;
-    font-weight: bold;
-    font-size: 28px;
-    line-height: 34px;
-    padding: 30px 15px;
-    text-transform: uppercase;
-    border-bottom: 3px solid $highlight-red;
-
-    @include media-breakpoint-up(md) {
-      font-size: 48px;
-      line-height: 58px;
-      padding: 55px 90px;
-    }
-  }
-
   .desktop-nav {
     padding-top: 60px;
     padding-left: 90px;
