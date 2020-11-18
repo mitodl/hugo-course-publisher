@@ -24,12 +24,12 @@
       <div class="col-lg-8">
         <h4 class="font-weight-bold pt-2">Course Description</h4>
         <div class="mb-3 course-description">{{- .Content -}}</div>
-        {{ partial "chp_partial.html" (dict "partial" "course_info.html" "context" .) }}
+        {{ partial "course_info.html" . }}
       </div>
     </div>
     <div class="row px-lg-3 pb-lg-2 p-0">
       <div class="col-12 p-0">
-        {{ partial "chp_partial.html" (dict "partial" "course_features.html" "context" .) }}
+        {{ partial "course_features.html" . }}
       </div>
     </div>
   </div>
