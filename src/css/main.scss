@@ -270,6 +270,12 @@ table {
 }
 
 article.content {
+  h2 {
+    color: $highlight-red;
+    font-size: 1.15rem;
+    text-transform: uppercase;
+  }
+
   // sometimes the tables can be wide, and on mobile that can ruin the overall page width
   // this forces the table to scroll if it's too wide
   table {
