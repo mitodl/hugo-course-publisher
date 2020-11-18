@@ -40,12 +40,16 @@
     }
   }
 
-  h5 {
+  h4 {
     color: $highlight-red;
     text-transform: uppercase;
   }
 
-  .course-feature-icon {
-    color: #ff8924;
+  .course-features {
+    padding: 40px 80px;
+
+    .course-feature-icon {
+      color: #ff8924;
+    }
   }
 }
