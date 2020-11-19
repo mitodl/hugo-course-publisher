@@ -1,1 +1,2 @@
-{{ partial .partial .context }}
+{{ $args := .args | default (dict) }}
+{{ partial .partial (dict "Params" .context.Params "args" $args) }}

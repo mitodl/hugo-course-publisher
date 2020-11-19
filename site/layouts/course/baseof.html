@@ -14,12 +14,13 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap" rel="stylesheet">
 </head>
 
-<body>
-  <div class="overflow-auto">
+<body class="course-home-page">
+  <div class="overflow-auto bg-white">
     {{ partial "mobile_course_nav.html" . }}
     {{ partial "mobile_course_info.html" . }}
     {{ block "header" . }}{{ partial "header" . }}{{ end }}
-    {{ if not (eq .Params.type "course_home") }}
+    {{ $isCourseHomePage := (eq .Params.layout "course_home") }}
+    {{ if not $isCourseHomePage }}
     <div class="course-info-toggle medium-and-below-only bg-light shadow-sm border border-right-0 rounded-left">
       <div class="btn px-2 m-0 toggle navbar-toggle offcanvas-toggle text-uppercase font-weight-bold"
         data-toggle="offcanvas" data-target="#course-info-drawer">
@@ -36,20 +37,24 @@
           <main aria-role="main">
             <div class="container-fluid p-0">
               <div class="row m-0">
-                <div id="main-content" class="col-12 col-lg-8 col-xl-8 px-3 px-md-5 mt-3 mt-lg-6">
+                <div id="main-content" class="col-12 col-lg-{{ if $isCourseHomePage }}12{{ else }}8{{ end }} col-xl-{{ if $isCourseHomePage }}12{{ else }}8{{ end }} px-3 px-md-5 mt-3 mt-lg-6">
+                  {{ if not $isCourseHomePage }}
                   <div class="course-info-toggle large-and-above-only bg-light shadow-sm border border-right-0 rounded-left">
                     <div id="desktop-course-info-toggle" class="btn px-2 m-0 toggle navbar-toggle offcanvas-toggle text-uppercase font-weight-bold"
                       data-toggle="collapse">
                       Hide Course Info
                     </div>
                   </div>
+                  {{ end }}
                   {{ block "main" . }}{{ end }}
                 </div>
+                {{ if not $isCourseHomePage }}
                 <div id="desktop-course-info" class="col-12 col-lg-4 col-xl-4 px-6 mt-6 large-and-above-only border-left-light">
-                    {{ partial "chp_partial.html" (dict "partial" "course_info.html" "context" .) }}
+                    {{ partial "chp_partial.html" (dict "partial" "course_info.html" "context" . "args" (dict "inPanel" true)) }}
                     {{ partial "chp_partial.html" (dict "partial" "topics.html" "context" .) }}
-                    {{ partial "chp_partial.html" (dict "partial" "course_features.html" "context" .) }}
+                    {{ partial "chp_partial.html" (dict "partial" "course_features.html" "context" . "args" (dict "inPanel" true)) }}
                 </div>
+                {{ end }}
               </div>
             </div>
           </main>

@@ -1,7 +1,12 @@
 .course-info {
   overflow: hidden;
+
   table {
-    max-width: 300px;
+    tr {
+      td:nth-child(1) {
+        color: $podcast-border-gray;
+      }
+    }
   }
 }
 
@@ -91,12 +96,4 @@
 
 .topic-toggle[aria-expanded="true"] > i:after {
   content: "expand_more" !important;
-}
-
-.course-feature-icon {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  right: 0;
-  color: $orange;
 }
