@@ -3,7 +3,7 @@
 {{ partial "header_placeholder.html" . }}
 {{ end }}
 {{ define "subheader" }}
-{{ partial "course_banner.html" . }}
+{{ partial "chp_partial.html" (dict "partial" "course_banner.html" "context" .) }}
 {{ end }}
 {{ define "main" }}
 {{ $courseThumbnailUrl := .CurrentSection.Params.course_thumbnail_image_url }}
