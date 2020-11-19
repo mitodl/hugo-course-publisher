@@ -23,7 +23,7 @@
     <tr>
       <td class="pl-0">Topics:</td>
       <td>
-        {{ partial "topics_oneline.html" . }}
+        {{ partial "chp_partial.html" (dict "partial" "topics_oneline.html" "context" .) }}
       </td>
     </tr>
     {{ end }}

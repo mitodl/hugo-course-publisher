@@ -28,12 +28,12 @@
       <div class="col-lg-8">
         <h4 class="font-weight-bold pt-2">Course Description</h4>
         <div class="mb-3 course-description">{{- .Content -}}</div>
-        {{ partial "course_info.html" (dict "Params" .Params "inPanel" false) }}
+        {{ partial "chp_partial.html" (dict "partial" "course_info.html" "context" . "args" (dict "inPanel" false)) }}
       </div>
     </div>
     <div class="row px-lg-3 pb-lg-2 p-0">
       <div class="col-12 p-0">
-        {{ partial "course_features.html" (dict "Params" .Params "inPanel" false) }}
+        {{ partial "chp_partial.html" (dict "partial" "course_features.html" "context" . "args" (dict "inPanel" false)) }}
       </div>
     </div>
   </div>
