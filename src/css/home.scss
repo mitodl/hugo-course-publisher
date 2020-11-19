@@ -68,10 +68,6 @@ $spacer8: map-get($spacers, 8);
       width: 96%;
       position: relative;
       flex-shrink: 2;
-
-      // @include media-breakpoint-down(sm) {
-      //   max-width: 90%;
-      // }
     }
 
     .unlock {
@@ -349,4 +345,8 @@ $maxwidth: 1280px;
       }
     }
   }
+}
+
+.sponsors {
+  max-width: $max-content-width;
 }
