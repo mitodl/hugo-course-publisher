@@ -1,6 +1,38 @@
 Release Notes
 =============
 
+Version 1.3.0
+-------------
+
+- add header_placeholder to the header block template and call course_banner.html with chp_partial.html (#376)
+- course page content text style (#364)
+- update homepage background image
+- decrease header height to 70px
+- remove 'theme engine'
+- Style updates to course home page (#347)
+- updates to home page, site header, etc
+- fix two style oopsies
+- go back to using display-4 with an override for the course banner text so responsive font sizing works
+- rather than overriding the style for display-4 in bootstrap, just set the font size on the text directly
+- reduce font size of course banner and remove bottom red border
+- Update topics partials to use new data structure (#346)
+- fmt
+- move subheader block outside of the max-content-width container so background color and border can flow to the edge of the screen while inner container has the max width, override display-4 font size to be 3 rem and set weight to bold on the course title
+- adjust vertical padding and h1 font size of course banner
+- restructure html and styles so course_banner styles are isolated to the course_banner.html partial
+- rename partial to course_banner.html
+- uppercase the text in the course title
+- use the same course title subheader for the course home page for now
+- create a new block called "subheader" and place the course title there instead of inside the main block
+- Don't activate desktop toggle for other pages (#348)
+- upgrade ocw-to-hugo, add support for simplecast
+- fix filter text-wrapping issue
+- update styling of the home page to match designs
+- Update markdown file to match ocw-to-hugo boilerplate (#342)
+- set a static width on course info toggles for firefox compat and consolidate styles
+- add a toggle button for the desktop course info column
+- add back in topics and features in the mobile course info drawer
+
 Version 1.2.0 (Released November 13, 2020)
 -------------
 
