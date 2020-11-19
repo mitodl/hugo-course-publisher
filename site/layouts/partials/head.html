@@ -4,5 +4,18 @@
   {{ partial "title.html" . }}
   {{ $stylesheet := .Site.Data.webpack.main }}
   <link href="{{ partial "webpack_url.html" $stylesheet.css }}" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap" rel="stylesheet">
+<style>
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Material Icons'),
+    local('MaterialIcons-Regular'),
+    url({{ partial "webpack_url.html" "/fonts/MaterialIcons-Regular.woff2" }}) format('woff2'),
+    url({{ partial "webpack_url.html" "/fonts/MaterialIcons-Regular.woff" }}) format('woff'),
+    url({{ partial "webpack_url.html" "/fonts/MaterialIcons-Regular.ttf" }}) format('truetype');
+}
+</style>
 </head>
 
