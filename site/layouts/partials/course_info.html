@@ -1,5 +1,5 @@
 {{ $courseInfo := .Params.course_info }}
-{{ $inPanel := .inPanel }}
+{{ $inPanel := .args.inPanel | default true }}
 <div class="table-responsive course-info">
   <h4 class="font-weight-bold">Course Info</h4>
   <table class="table table-borderless {{ if $inPanel }}border-bottom-light{{ end }} mb-2">

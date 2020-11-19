@@ -1,0 +1,2 @@
+{{ $args := .args | default nil }}
+{{ partial .partial (dict "Params" .context.Params "args" $args) }}

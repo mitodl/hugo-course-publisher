@@ -1,5 +1,5 @@
 {{ $courseInfo := .Params.course_info }}
-{{ $inPanel := .inPanel }}
+{{ $inPanel := .args.inPanel | default true }}
 <div class="course-features w-100 {{ if $inPanel }}in-panel{{ else }}bg-light{{ end }}">
   <div class="container">
     <h4 class="font-weight-bold">Course Features</h4>
