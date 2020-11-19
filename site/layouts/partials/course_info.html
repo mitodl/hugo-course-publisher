@@ -1,4 +1,3 @@
-{{ if isset .Params "course_info" }}
 {{ $courseInfo := .Params.course_info }}
 {{ $inPanel := .args.inPanel }}
 <div class="table-responsive course-info">
@@ -24,7 +23,7 @@
     <tr>
       <td class="pl-0">Topics:</td>
       <td>
-        {{ partial "chp_partial.html" (dict "partial" "topics_oneline.html" "context" .) }}
+        {{ partial "topics_oneline.html" . }}
       </td>
     </tr>
     {{ end }}
@@ -44,4 +43,3 @@
     </tr>
   </table>
 </div>
-{{ end }}
