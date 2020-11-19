@@ -17,7 +17,6 @@ import React from "react"
 
 import SearchPage from "./js/components/SearchPage"
 
-import { initTheme } from "./js/stylesheets"
 import { initPdfViewers } from "./js/pdf_viewer"
 import { initSentry } from "./js/sentry"
 import { setupEmailSignupForm } from "./js/mailchimp"
@@ -43,7 +42,6 @@ $(document).ready(() => {
     ReactDOM.render(<SearchPage />, searchPageEl)
   }
 
-  initTheme()
   initPdfViewers()
   initSentry()
   rewriteCourseInfoLinks()
