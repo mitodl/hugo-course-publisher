@@ -1,11 +1,37 @@
 .course-info {
   overflow: hidden;
+  $collapsedHeight: 130px;
+  $opaqueLayerHeight: 30px;
+
+  &.collapsed {
+    table {
+      display: block;
+      position: relative;
+      height: $collapsedHeight;
+      margin-bottom: 0 !important;
+    }
+
+    .opaque-layer {
+      position: absolute;
+      bottom: 0;
+      height: $opaqueLayerHeight;
+      width: 100%;
+      background: linear-gradient(to bottom, transparent, white);
+      z-index: 1;
+    }
+  }
 
   table {
     tr {
       td:nth-child(1) {
         color: $podcast-border-gray;
       }
+    }
+  }
+
+  .course-info-expander {
+    a {
+      margin-left: 150px;
     }
   }
 }

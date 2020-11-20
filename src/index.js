@@ -22,6 +22,7 @@ import { initSentry } from "./js/sentry"
 import { setupEmailSignupForm } from "./js/mailchimp"
 import { rewriteCourseInfoLinks } from "./js/course_info_links"
 import { initDesktopCourseInfoToggle } from "./js/course_info_toggle"
+import { initCourseInfoExpander } from "./js/course_expander"
 
 window.jQuery = $
 window.$ = $
@@ -47,4 +48,5 @@ $(document).ready(() => {
   rewriteCourseInfoLinks()
   initDesktopCourseInfoToggle()
   setupEmailSignupForm()
+  initCourseInfoExpander()
 })
