@@ -1,4 +1,4 @@
-{{ if isset "course_info" .Params }}
+{{ if isset .Params "course_info"  }}
 {{ $courseInfo := .Params.course_info }}
 {{ $inPanel := .args.inPanel }}
 <div class="table-responsive course-info">
