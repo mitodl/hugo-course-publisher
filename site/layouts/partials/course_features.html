@@ -2,8 +2,8 @@
 {{ $courseInfo := .Params.course_info }}
 {{ $inPanel := .args.inPanel }}
 <div class="course-features w-100 {{ if $inPanel }}in-panel{{ else }}bg-light{{ end }}">
-  <div class="container">
-    <h4 class="font-weight-bold">Course Features</h4>
+  <div class="container px-0 mx-0">
+    <h4 class="course-info-title font-weight-bold">Course Features</h4>
     <div class="row">
       {{ range $courseInfo.course_features }}
         <div class="{{ if $inPanel }}col-12{{ else }}col-6 col-xl-3{{ end }}">
