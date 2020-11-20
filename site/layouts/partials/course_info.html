@@ -1,3 +1,4 @@
+{{ if isset "course_info" .Params }}
 {{ $courseInfo := .Params.course_info }}
 {{ $inPanel := .args.inPanel }}
 <div class="table-responsive course-info">
@@ -43,3 +44,4 @@
     </tr>
   </table>
 </div>
+{{ end }}

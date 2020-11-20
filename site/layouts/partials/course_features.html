@@ -1,3 +1,4 @@
+{{ if isset "course_info" .Params }}
 {{ $courseInfo := .Params.course_info }}
 {{ $inPanel := .args.inPanel }}
 <div class="course-features w-100 {{ if $inPanel }}in-panel{{ else }}bg-light{{ end }}">
@@ -12,3 +13,4 @@
     </div>
   </div>
 </div>
+{{ end }}
