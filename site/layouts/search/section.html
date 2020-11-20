@@ -1,8 +1,8 @@
 {{ define "main" }}
 <div class="overflow-auto">
   {{ block "header" . }}
-  {{ partial "header" . }}
-  {{ partial "header_placeholder.html" . }}
+  {{ partialCached "header" . }}
+  {{ partialCached "header_placeholder.html" . }}
   {{end}}
   <div class="container-fluid">
     <main aria-role="main">

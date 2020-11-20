@@ -1,12 +1,11 @@
 <!doctype html>
 <html lang="{{ $.Site.Language.Lang }}">
   {{ partial "head.html" . }}
-
 <body class="course-home-page">
   <div class="overflow-auto">
     {{ partial "mobile_course_nav.html" . }}
-    {{ partial "mobile_course_info.html" . }}
-    {{ block "header" . }}{{ partial "header" . }}{{ partial "header_placeholder.html" . }}{{ end }}
+    {{ partialCached "mobile_course_info.html" . .Params.course_id }}
+    {{ block "header" . }}{{ partialCached "header" . }}{{ partialCached "header_placeholder.html" . }}{{ end }}
     {{ $isCourseHomePage := (eq .Params.layout "course_home") }}
     {{ if not $isCourseHomePage }}
     <div class="course-info-toggle medium-and-below-only bg-light shadow-sm border border-right-0 rounded-left">
@@ -16,7 +15,7 @@
       </div>
     </div>
     {{ end }}
-    {{ block "subheader" . }}{{ partial "course_banner.html" . }}{{ end }}
+    {{ block "subheader" . }}{{ partialCached "course_banner.html" . .Params.course_id }}{{ end }}
     <div class="container-fluid">
       <div class="row outer-wrapper">
         {{ partial "desktop_nav.html" . }}
@@ -37,11 +36,7 @@
                   {{ block "main" . }}{{ end }}
                 </div>
                 {{ if not $isCourseHomePage }}
-                <div id="desktop-course-info" class="col-12 col-lg-4 col-xl-4 px-6 mt-6 large-and-above-only border-left-light">
-                    {{ partial "chp_partial.html" (dict "partial" "course_info.html" "context" . "args" (dict "inPanel" true)) }}
-                    {{ partial "chp_partial.html" (dict "partial" "topics.html" "context" .) }}
-                    {{ partial "chp_partial.html" (dict "partial" "course_features.html" "context" . "args" (dict "inPanel" true)) }}
-                </div>
+                {{ partialCached "desktop_course_info.html" . .Params.course_id }}
                 {{ end }}
               </div>
             </div>
