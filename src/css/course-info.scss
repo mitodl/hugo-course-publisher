@@ -123,3 +123,21 @@
 .topic-toggle[aria-expanded="true"] > i:after {
   content: "expand_more" !important;
 }
+
+.course-description {
+  button {
+    border: 0;
+    padding: 0;
+    background-color: white;
+    color: $course-blue;
+
+    span {
+      display: flex;
+      align-items: center;
+    }
+
+    .material-icons {
+      color: black;
+    }
+  }
+}
