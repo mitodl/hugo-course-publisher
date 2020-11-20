@@ -251,7 +251,8 @@ $maxwidth: 1280px;
 
     .course-card {
       border: 1px solid $border-gray;
-      border-radius: 7px;
+      $radius: 10px;
+      border-radius: $radius;
       height: 381px;
       width: 100%;
 
@@ -263,7 +264,7 @@ $maxwidth: 1280px;
         width: 100%;
         object-fit: cover;
         height: 186px;
-        border-radius: 10px 10px 0 0;
+        border-radius: $radius $radius 0 0;
       }
 
       .course-level {
