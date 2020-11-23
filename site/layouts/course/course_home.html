@@ -21,7 +21,7 @@
       </div>
       {{ partial "mobile_nav_toggle.html" . }}
       <div class="col-lg-8">
-        <h4 class="font-weight-bold pt-2">Course Description</h4>
+        <h4 class="font-weight-bold pt-2 course-description-title">Course Description</h4>
         <div class="mb-3 course-description">{{- .Content -}}</div>
         {{ partial "chp_partial.html" (dict "partial" "course_info.html" "context" . "args" (dict "inPanel" false)) }}
       </div>
