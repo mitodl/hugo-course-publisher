@@ -14,16 +14,18 @@ const toggleExpand = (button, container) => {
 const initCourseInfoExpander = () => {
   for (const container of document.querySelectorAll(".course-info")) {
     const expanderButton = container.querySelector(".expand-link")
-    expanderButton.addEventListener("click", event => {
-      event.preventDefault()
-      toggleExpand(expanderButton, container)
-    })
-    expanderButton.addEventListener("keypress", event => {
-      if (event.key === "Enter") {
+    if (expanderButton) {
+      expanderButton.addEventListener("click", event => {
         event.preventDefault()
         toggleExpand(expanderButton, container)
-      }
-    })
+      })
+      expanderButton.addEventListener("keypress", event => {
+        if (event.key === "Enter") {
+          event.preventDefault()
+          toggleExpand(expanderButton, container)
+        }
+      })
+    }
   }
 }
 
