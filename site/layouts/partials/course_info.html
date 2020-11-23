@@ -1,12 +1,14 @@
 {{ if isset .Params "course_info"  }}
 {{ $courseInfo := .Params.course_info }}
 {{ $inPanel := .args.inPanel }}
-<div class="table-responsive course-info collapsed">
+<div class="table-responsive course-info {{ if not $inPanel }}collapsed{{ end }}">
   <div class="course-info-expander d-flex align-items-center">
     <h4 class="course-info-title font-weight-bold">Course Info</h4>
+    {{ if not $inPanel }}
     <a class="expand-link" href="#">
       <span class="material-icons">keyboard_arrow_right</span>
     </a>
+    {{ end }}
   </div>
   <div class="position-relative">
     <div class="opaque-layer"></div>
