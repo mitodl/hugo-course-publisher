@@ -2,12 +2,14 @@
 {{ $courseInfo := .Params.course_info }}
 {{ $inPanel := .args.inPanel }}
 <div class="table-responsive course-info {{ if not $inPanel }}collapsed{{ end }}">
-  <div class="course-info-expander d-flex align-items-center">
-    <h4 class="course-info-title font-weight-bold">Course Info</h4>
+  <div class="course-info-expander">
     {{ if not $inPanel }}
-    <a class="expand-link" href="#">
+    <a class="expand-link d-flex align-items-center text-decoration-none" href="#">
+      <h4 class="course-info-title font-weight-bold d-inline m-0">Course Info</h4>
       <span class="material-icons">keyboard_arrow_right</span>
     </a>
+    {{ else }}
+    <h4 class="course-info-title font-weight-bold">Course Info</h4>
     {{ end }}
   </div>
   <div class="position-relative">
