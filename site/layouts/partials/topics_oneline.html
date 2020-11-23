@@ -6,24 +6,24 @@
       {{ if gt (len $subtopic.specialities) 0 }}
         {{ range $specialty := $subtopic.specialities }}
           <li>
-            <a class="link-unstyled text-dark course-info-topic">{{ $topic.topic }}</a>
+            <a class="text-black course-info-topic">{{ $topic.topic }}</a>
             >
-            <a class="link-unstyled text-dark course-info-topic">{{ $subtopic.subtopic }}</a>
+            <a class="text-black course-info-topic">{{ $subtopic.subtopic }}</a>
             >
-            <a class="link-unstyled text-dark course-info-topic">{{ $specialty }}</a>
+            <a class="text-black course-info-topic">{{ $specialty }}</a>
           </li>
         {{ end }}
       {{ else }}
         <li>
-          <a class="link-unstyled text-dark course-info-topic">{{ $topic.topic }}</a>
+          <a class="text-black course-info-topic">{{ $topic.topic }}</a>
           >
-          <a class="link-unstyled text-dark course-info-topic">{{ $subtopic.subtopic }}</a>
+          <a class="text-black course-info-topic">{{ $subtopic.subtopic }}</a>
         </li>
       {{ end }}
     {{ end }}
   {{ else }}
     <li>
-      <a class="link-unstyled text-dark course-info-topic">{{ $topic.topic }}</a>
+      <a class="text-black course-info-topic">{{ $topic.topic }}</a>
     </li>
   {{ end }}
 {{ end }}

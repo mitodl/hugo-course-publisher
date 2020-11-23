@@ -12,7 +12,7 @@
   </a>
   {{ end }}
   <span class="topic-text-wrapper">
-    <a class="link-unstyled text-dark course-info-topic" href="#">
+    <a class="text-black course-info-topic" href="#">
     {{ title .topic.topic }}
     </a>
   </span>
@@ -32,7 +32,7 @@
     </a>
     {{ end }}
     <span class="topic-text-wrapper">
-      <a class="link-unstyled text-dark course-info-topic" href="#">
+      <a class="text-black course-info-topic" href="#">
       {{ title $subtopic.subtopic }}
       </a>
     </span>
@@ -40,7 +40,7 @@
   {{ range $specialities }}
   <div class="pt-1 pb-1 pl-5 collapse{{if eq $index 0 }} show{{ end }}" id="speciality-container_{{ $index }}_{{ $subtopicIndex }}">
     <span class="topic-text-wrapper">
-      <a class="link-unstyled text-dark course-info-topic" href="#">
+      <a class="text-black course-info-topic" href="#">
       {{ . }}
       </a>
     </span>
