@@ -1,6 +1,19 @@
 Release Notes
 =============
 
+Version 1.4.0
+-------------
+
+- carousel image should be a link too
+- Fix course description title (#404)
+- Implement collapse/expand for course info (#396)
+- fix topic link styling
+- remove small arrow on home page
+- make course banner into a link to course home
+- fix image caption confusion
+- two small design tweaks
+- expand example_courses.json
+
 Version 1.3.0 (Released November 20, 2020)
 -------------
 
