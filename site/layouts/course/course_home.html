@@ -7,13 +7,15 @@
       <div class="col-lg-4 d-none d-lg-block">
         <div class="d-flex flex-column image-with-caption">
           <img class="course-image" src="
-          {{- if hasPrefix $courseImageUrl "http" -}}
-            {{ $courseImageUrl }}
-          {{- else -}}
-            {{ relURL $courseImageUrl }}
-        {{- end -}}" />
+            {{- if hasPrefix $courseImageUrl "http" -}}
+              {{ $courseImageUrl }}
+            {{- else -}}
+              {{ relURL $courseImageUrl }}
+            {{- end -}}"
+            alt="{{ .CurrentSection.Params.course_image_alternate_text }}"
+          />
           <span class="caption p-3">
-            {{ .CurrentSection.Params.course_image_alternate_text }}
+            {{ .CurrentSection.Params.course_image_caption_text | safeHTML }}
           </span>
         </div>
       </div>
