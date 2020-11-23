@@ -1,7 +1,7 @@
 Release Notes
 =============
 
-Version 1.4.0
+Version 1.4.0 (Released November 23, 2020)
 -------------
 
 - carousel image should be a link too
