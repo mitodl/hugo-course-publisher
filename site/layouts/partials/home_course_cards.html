@@ -34,7 +34,9 @@
                                 {{ end }}
                                         <div class="course-card-wrapper {{ if not $isMobile }}col-{{ (div 12 $itemsInCarousel) }}{{ end }} w-100 d-flex justify-content-center">
                                             <div class="course-card bg-white">
-                                                <img src="{{ .Params.course_image_url }}" alt="Thumbnail for {{ .Params.course_title }}"/>
+                                                <a href="{{ .Permalink }}">
+                                                  <img src="{{ .Params.course_image_url }}" alt="Thumbnail for {{ .Params.course_title }}"/>
+                                                </a>
                                                 <div class="course-card-content p-3">
                                                     <div class="course-level">
                                                         {{ index $info.course_numbers 0 }} | {{ $info.level }}
