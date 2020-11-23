@@ -68,7 +68,7 @@ const initCourseInfoExpander = () => {
         id={`course-description-${index}`}
         moreText={
           <span>
-            Read more <i className="material-icons">keyboard_arrow_right</i>
+            Read More <i className="material-icons">keyboard_arrow_right</i>
           </span>
         }
         lessText={
