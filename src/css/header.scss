@@ -62,6 +62,10 @@ $desktop-header-height: 70px;
 #course-banner {
   color: $white;
   background-color: $course-blue;
+
+  a {
+    text-decoration: none;
+  }
 }
 
 .header-placeholder {

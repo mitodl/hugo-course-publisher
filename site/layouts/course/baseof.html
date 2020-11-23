@@ -16,7 +16,7 @@
       </div>
     </div>
     {{ end }}
-    {{ block "subheader" . }}{{ partial "chp_partial.html" (dict "partial" "course_banner.html" "context" .) }}{{ end }}
+    {{ block "subheader" . }}{{ partial "course_banner.html" . }}{{ end }}
     <div class="container-fluid">
       <div class="row outer-wrapper">
         {{ partial "desktop_nav.html" . }}

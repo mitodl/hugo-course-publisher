@@ -1,5 +1,19 @@
+{{ $bannerClass := "text-uppercase display-4 font-weight-bold m-0 text-white" }}
+{{ $currentPage := . }}
 <div id="course-banner" class="p-0">
   <div class="max-content-width m-auto px-5 py-6">
-    <p class="text-uppercase display-4 font-weight-bold m-0">{{ .Params.course_title }}</p>
+    {{ if (isset $currentPage.Params "course_id") }}
+      {{ $courseId := $currentPage.Params.course_id }}
+      {{ $menu := index .Site.Menus $courseId }}
+      {{ $menuItem := index $menu 0 }}
+      <a
+        class="{{ $bannerClass }}"
+        href="{{ $menuItem.URL | relURL }}"
+      >{{ .Params.course_title }}</a>
+    {{ else }}
+      <p class="{{ $bannerClass }}">
+         {{ .Params.course_title }}
+      </p>
+    {{ end }}
   </div>
 </div>
