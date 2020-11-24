@@ -26,7 +26,8 @@
                         {{ $pagesChunk := (first 10 $pages) }}
                         {{ range $index, $page := $pagesChunk }}
                             {{ with $page }}
-                                {{ $info := .Params.course_info }}
+                                {{ $courseId := $page.Params.course_id }}
+                                {{ $courseData := index .Site.Data.courses $courseId }}
                                 {{ $modulo := (mod $index $itemsInCarousel) }}
                                 {{ $group := (div $index $itemsInCarousel) }}
                                 {{ if eq $modulo 0 }}
@@ -35,22 +36,22 @@
                                         <div class="course-card-wrapper {{ if not $isMobile }}col-{{ (div 12 $itemsInCarousel) }}{{ end }} w-100 d-flex justify-content-center">
                                             <div class="course-card card bg-white">
                                                 <a href="{{ .Permalink }}">
-                                                  <img src="{{ .Params.course_image_url }}" alt="Thumbnail for {{ .Params.course_title }}"/>
+                                                  <img src="{{ $courseData.course_image_url }}" alt="Thumbnail for {{ $courseData.course_title }}"/>
                                                 </a>
                                                 <div class="course-card-content pt-1 px-3 pb-3">
                                                     <div class="course-level">
-                                                        {{ index $info.course_numbers 0 }} | {{ $info.level }}
+                                                        {{ index $courseData.course_numbers 0 }} | {{ $courseData.level }}
                                                     </div>
                                                     <div class="pt-1">
                                                         <h5>
-                                                            <a href="{{ .Permalink }}">{{ .Params.course_title }}</a>
+                                                            <a href="{{ .Permalink }}">{{ $courseData.course_title }}</a>
                                                         </h5>
                                                     </div>
                                                     <div class="pt-1">
-                                                        <span class="card-label">Instructors(s):</span> {{ delimit (first 3 (uniq $info.instructors)) ", " }}
+                                                        <span class="card-label">Instructors(s):</span> {{ delimit (first 3 (uniq $courseData.instructors)) ", " }}
                                                     </div>
                                                     <div class="pt-2">
-                                                        <span class="card-label">Topic(s):</span> {{ partial "topics_summary.html" $info.topics }}
+                                                        <span class="card-label">Topic(s):</span> {{ partial "topics_summary.html" $courseData.topics }}
                                                     </div>
                                                 </div>
                                             </div>

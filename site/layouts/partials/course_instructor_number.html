@@ -1,9 +1,11 @@
+{{ $courseId := .Params.course_id }}
+{{ $courseData := index .Site.Data.courses $courseId }}
 <div class="instructor-and-number">
   <table class="table table-borderless mb-2">
     <tr>
       <td class="px-2 py-2">Instructor(s)</td>
       <td class="px-2 py-2">
-        {{- range $index, $instructor := .Params.course_info.instructors -}}
+        {{- range $index, $instructor := $courseData.instructors -}}
         {{- if $index -}},&nbsp;{{- end -}}
         <a class="px-0 pr-1 course-info-instructor" href="#">
           {{- $instructor -}}
@@ -14,7 +16,7 @@
     <tr>
       <td class="px-2 py-2">Course No.</td>
       <td class="px-2 py-2">
-        {{- range $index, $course_number := .Params.course_info.course_numbers -}}
+        {{- range $index, $course_number := $courseData.course_numbers -}}
         {{- if $index -}},&nbsp;{{- end -}}
         {{- $course_number -}}
         {{- end -}}

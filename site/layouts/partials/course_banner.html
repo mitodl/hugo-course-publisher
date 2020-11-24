@@ -2,18 +2,13 @@
 {{ $currentPage := . }}
 <div id="course-banner" class="p-0">
   <div class="max-content-width m-auto px-5 py-6">
-    {{ if (isset $currentPage.Params "course_id") }}
-      {{ $courseId := $currentPage.Params.course_id }}
-      {{ $menu := index .Site.Menus $courseId }}
-      {{ $menuItem := index $menu 0 }}
-      <a
-        class="{{ $bannerClass }}"
-        href="{{ $menuItem.URL | relURL }}"
-      >{{ .Params.course_title }}</a>
-    {{ else }}
-      <p class="{{ $bannerClass }}">
-         {{ .Params.course_title }}
-      </p>
-    {{ end }}
+    {{ $courseId := $currentPage.Params.course_id }}
+    {{ $courseData := index .Site.Data.courses $courseId }}
+    {{ $menu := index .Site.Menus $courseId }}
+    {{ $menuItem := index $menu 0 }}
+    <a
+      class="{{ $bannerClass }}"
+      href="{{ $menuItem.URL | relURL }}"
+    >{{ $courseData.course_title }}</a>
   </div>
 </div>

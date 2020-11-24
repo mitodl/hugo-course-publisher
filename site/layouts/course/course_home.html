@@ -1,6 +1,8 @@
 {{ define "main" }}
-{{ $courseThumbnailUrl := .CurrentSection.Params.course_thumbnail_image_url }}
-{{ $courseImageUrl := .CurrentSection.Params.course_image_url }}
+{{ $courseId := .CurrentSection.Params.course_id }}
+{{ $courseData := index .Site.Data.courses $courseId }}
+{{ $courseThumbnailUrl := $courseData.course_thumbnail_image_url }}
+{{ $courseImageUrl := $courseData.course_image_url }}
 <div class="homepage-content d-flex">
   <div class="container-fluid pt-0 pb-4">
     <div class="row px-3 pb-2 justify-content-between">
@@ -12,10 +14,10 @@
             {{- else -}}
               {{ relURL $courseImageUrl }}
             {{- end -}}"
-            alt="{{ .CurrentSection.Params.course_image_alternate_text }}"
+            alt="{{ $courseData.course_image_alternate_text }}"
           />
           <span class="caption p-3">
-            {{ .CurrentSection.Params.course_image_caption_text | safeHTML }}
+            {{ $courseData.course_image_caption_text | safeHTML }}
           </span>
         </div>
       </div>
@@ -23,12 +25,12 @@
       <div class="col-lg-8">
         <h4 class="font-weight-bold pt-2 course-description-title">Course Description</h4>
         <div class="mb-3 course-description">{{- .Content -}}</div>
-        {{ partial "chp_partial.html" (dict "partial" "course_info.html" "context" . "args" (dict "inPanel" false)) }}
+        {{ partial "course_info.html" (dict "context" . "inPanel" false) }}
       </div>
     </div>
     <div class="row px-lg-3 pb-lg-2 p-0">
       <div class="col-12 p-0">
-        {{ partial "chp_partial.html" (dict "partial" "course_features.html" "context" . "args" (dict "inPanel" false)) }}
+        {{ partial "course_features.html" (dict "context" . "inPanel" false) }}
       </div>
     </div>
   </div>
