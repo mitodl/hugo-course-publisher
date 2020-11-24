@@ -1,6 +1,14 @@
 Release Notes
 =============
 
+Version 1.4.1
+-------------
+
+- add hover effect to course cards
+- add partialCached in a few places
+- update homepage hero image
+- fix course feature spacing
+
 Version 1.4.0 (Released November 23, 2020)
 -------------
 
