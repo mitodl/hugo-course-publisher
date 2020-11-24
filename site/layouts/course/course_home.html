@@ -1,7 +1,6 @@
 {{ define "main" }}
 {{ $courseThumbnailUrl := .CurrentSection.Params.course_thumbnail_image_url }}
 {{ $courseImageUrl := .CurrentSection.Params.course_image_url }}
-{{ $shouldCollapseContent := true }}
 <div class="homepage-content d-flex">
   <div class="container-fluid pt-0 pb-4">
     <div class="row px-3 pb-2 justify-content-between">
@@ -21,16 +20,9 @@
         </div>
       </div>
       {{ partial "mobile_nav_toggle.html" . }}
-      <div class="col-lg-8 course-description {{ if $shouldCollapseContent }}collapsed{{ end }}">
+      <div class="col-lg-8">
         <h4 class="font-weight-bold pt-2 course-description-title">Course Description</h4>
-        <div class="description">{{- .Content -}}</div>
-        <div class="mb-3">
-          {{ if $shouldCollapseContent }}
-            <button class="expand-link">
-              <span class="text">Read More</span> <i class="material-icons">keyboard_arrow_right</i>
-            </button>
-          {{ end }}
-        </div>
+        <div class="mb-3 course-description">{{- .Content -}}</div>
         {{ partial "chp_partial.html" (dict "partial" "course_info.html" "context" . "args" (dict "inPanel" false)) }}
       </div>
     </div>

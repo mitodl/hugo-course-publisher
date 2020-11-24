@@ -125,20 +125,16 @@
 }
 
 .course-description {
-  &.collapsed {
-    .description {
-      max-height: 6rem;
-      overflow: hidden;
-    }
-  }
-
-  .expand-link {
-    display: flex;
-    align-items: center;
+  button {
     border: 0;
     padding: 0;
     background-color: white;
     color: $course-blue;
+
+    span {
+      display: flex;
+      align-items: center;
+    }
 
     .material-icons {
       color: black;
