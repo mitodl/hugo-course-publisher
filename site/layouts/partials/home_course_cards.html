@@ -33,7 +33,7 @@
                                     <div class="carousel-item {{ if not $isMobile }}row{{end}} {{ if eq $group 0 }}active{{ end }}">
                                 {{ end }}
                                         <div class="course-card-wrapper {{ if not $isMobile }}col-{{ (div 12 $itemsInCarousel) }}{{ end }} w-100 d-flex justify-content-center">
-                                            <div class="course-card bg-white">
+                                            <div class="course-card card bg-white">
                                                 <a href="{{ .Permalink }}">
                                                   <img src="{{ .Params.course_image_url }}" alt="Thumbnail for {{ .Params.course_title }}"/>
                                                 </a>

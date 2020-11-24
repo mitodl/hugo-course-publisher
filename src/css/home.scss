@@ -299,12 +299,20 @@ $maxwidth: 1280px;
 
       .carousel-item {
         margin-left: 0;
+
+        @include media-breakpoint-up(md) {
+          padding: 0 10px;
+        }
       }
     }
 
     .carousel-header {
       max-width: $maxwidth;
       margin: 0;
+
+      @include media-breakpoint-up(md) {
+        padding: 0 10px;
+      }
 
       @include media-breakpoint-down(xs) {
         h3 {
