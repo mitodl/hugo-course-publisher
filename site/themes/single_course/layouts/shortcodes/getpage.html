@@ -5,23 +5,23 @@
 {{- range $index, $element := split (.Get 0) "/" -}}
   {{- if eq ($scratch.Get "found") true -}}
     {{- $newPath := print ($scratch.Get "path") "/" $element -}}
-		{{- $scratch.Set "path" $newPath -}}
+    {{- $scratch.Set "path" $newPath -}}
   {{- end -}}
-	{{- if eq $element $courseId -}}
+  {{- if eq $element $courseId -}}
     {{- $scratch.Set "found" true -}}
-	{{- end -}}
+  {{- end -}}
 {{- end -}}
 {{- if in ($scratch.Get "path") "/_index.md" -}}
-	{{- $path := (trim ($scratch.Get "path") "_index.md") -}}
-	{{- with .Site.GetPage "section" (trim $path "/") -}}
-		{{- .URL -}}
-	{{- end -}}
-{{- else -}}
-	{{- with .Site.GetPage "section" ($scratch.Get "path") }}
-		{{- .URL -}}
-	{{- else -}}
-		{{- with .Site.GetPage ($scratch.Get "path") }}
-			{{- .URL -}}
-		{{ end }}
-	{{- end -}}
+  {{- $path := (trim ($scratch.Get "path") "_index.md") -}}
+  {{- with .Site.GetPage "section" (trim $path "/") -}}
+    {{- .URL -}}
+  {{- end -}}
+  {{- else -}}
+  {{- with .Site.GetPage "section" ($scratch.Get "path") }}
+    {{- .URL -}}
+    {{- else -}}
+    {{- with .Site.GetPage ($scratch.Get "path") }}
+      {{- .URL -}}
+    {{ end }}
+  {{- end -}}
 {{- end -}}

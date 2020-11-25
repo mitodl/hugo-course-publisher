@@ -3,9 +3,9 @@
   <h4 class="course-info-title font-weight-bold">Topics</h4>
   <ul class="list-unstyled pb-2 m-0">
     {{ range $index, $topic := $courseInfo.topics }}
-    <li>
-      {{ partial "topic.html" (dict "index" $index "topic" $topic "subtopics" $topic.subtopics) }}
-    </li>
+      <li>
+        {{ partial "topic.html" (dict "index" $index "topic" $topic "subtopics" $topic.subtopics) }}
+      </li>
     {{ end }}
   </ul>
 </div>

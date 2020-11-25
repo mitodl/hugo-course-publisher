@@ -1,16 +1,13 @@
-<title>{{- $titleArray := (slice) -}}
-{{- if .Params.Title -}}
-  {{- $titleArray = $titleArray | append .Params.Title -}}
-{{- end -}}
-{{- if .Page.Params.course_title -}}
+<title>
+  {{- $titleArray := (slice) -}} {{- if .Params.Title -}}
+  {{- $titleArray = $titleArray | append .Params.Title -}} {{- end -}}
+  {{- if .Page.Params.course_title -}}
   {{- $titleArray = $titleArray | append .Page.Params.course_title -}}
   {{- if .Page.Params.course_info.departments -}}
-    {{- $titleArray = $titleArray | append (index .Page.Params.course_info.departments 0) -}}
-  {{- end -}}
-{{- end -}}
-{{- $titleArray = $titleArray | append $.Site.Title -}}
-{{- if lt (len $titleArray) 3 -}}
+  {{- $titleArray = $titleArray | append (index .Page.Params.course_info.departments 0) -}}
+  {{- end -}} {{- end -}}
+  {{- $titleArray = $titleArray | append $.Site.Title -}}
+  {{- if lt (len $titleArray) 3 -}}
   {{- $titleArray = $titleArray | append "Free Online Course Materials" -}}
-{{- end -}}
-{{- delimit $titleArray " | " -}}
+  {{- end -}} {{- delimit $titleArray " | " -}}
 </title>

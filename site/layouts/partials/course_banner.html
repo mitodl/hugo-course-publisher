@@ -6,13 +6,12 @@
       {{ $courseId := $currentPage.Params.course_id }}
       {{ $menu := index .Site.Menus $courseId }}
       {{ $menuItem := index $menu 0 }}
-      <a
-        class="{{ $bannerClass }}"
-        href="{{ $menuItem.URL | relURL }}"
-      >{{ .Params.course_title }}</a>
-    {{ else }}
+      <a class="{{ $bannerClass }}" href="{{ $menuItem.URL | relURL }}"
+        >{{ .Params.course_title }}</a
+      >
+      {{ else }}
       <p class="{{ $bannerClass }}">
-         {{ .Params.course_title }}
+        {{ .Params.course_title }}
       </p>
     {{ end }}
   </div>

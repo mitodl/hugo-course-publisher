@@ -1,44 +1,52 @@
 {{ $className := .klass | default "coming-soon" }}
 {{ $useLinks := .useLinks | default true }}
 {{ if gt (len .list) 4 }}
-<div class="position-relative pr-3">
-  <a class="partial-collapse-toggle-link" href="#partial-collapse-container_{{ .id }}" data-toggle="collapse"
-    aria-controls="partial-collapse-container_{{ .id }}" aria-expanded="false">
-    <div class="partial-collapse-icon-container">
-      <span class="partial-collapse-icon">
-        <i class="material-icons md-18"></i>
-      </span>
+  <div class="position-relative pr-3">
+    <a
+      class="partial-collapse-toggle-link"
+      href="#partial-collapse-container_{{ .id }}"
+      data-toggle="collapse"
+      aria-controls="partial-collapse-container_{{ .id }}"
+      aria-expanded="false"
+    >
+      <div class="partial-collapse-icon-container">
+        <span class="partial-collapse-icon">
+          <i class="material-icons md-18"></i>
+        </span>
+      </div>
+    </a>
+    <div
+      class="partial-collapse collapse"
+      id="partial-collapse-container_{{ .id }}"
+    >
+      <ul class="list-unstyled m-0">
+        {{ range $item := .list }}
+          <li>
+            {{ if $useLinks }}
+              <a href="#" class="partial-collapse-link {{ $className }}">
+                {{ $item }}
+              </a>
+              {{ else }}
+              {{ $item }}
+            {{ end }}
+          </li>
+        {{ end }}
+      </ul>
     </div>
-  </a>
-  <div class="partial-collapse collapse" id="partial-collapse-container_{{ .id }}">
-    <ul class="list-unstyled m-0">
-      {{ range $item := .list }}
+    <div class="partial-collapse-overlay"></div>
+  </div>
+  {{ else }}
+  <ul class="list-unstyled m-0">
+    {{ range $item := .list }}
       <li>
         {{ if $useLinks }}
-        <a href="#" class="partial-collapse-link {{ $className }}">
+          <a href="#" class="{{ $className }}">
+            {{ $item }}
+          </a>
+          {{ else }}
           {{ $item }}
-        </a>
-        {{ else }}
-        {{ $item }}
-        {{end }}
+        {{ end }}
       </li>
-      {{ end }}
-    </ul>
-  </div>
-  <div class="partial-collapse-overlay"></div>
-</div>
-{{ else }}
-<ul class="list-unstyled m-0">
-  {{ range $item := .list }}
-  <li>
-    {{ if $useLinks }}
-    <a href="#" class="{{ $className }}">
-      {{ $item }}
-    </a>
-    {{ else }}
-    {{ $item }}
-    {{end }}
-  </li>
-  {{ end }}
-</ul>
+    {{ end }}
+  </ul>
 {{ end }}

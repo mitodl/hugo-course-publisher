@@ -1,30 +1,32 @@
 {{ $courseInfo := .Params.course_info }}
 <ul class="list-unstyled pb-2 m-0">
-{{ range $topic := $courseInfo.topics }}
-  {{ if gt (len $topic.subtopics) 0 }}
-    {{ range $subtopic := $topic.subtopics }}
-      {{ if gt (len $subtopic.specialities) 0 }}
-        {{ range $specialty := $subtopic.specialities }}
+  {{ range $topic := $courseInfo.topics }}
+    {{ if gt (len $topic.subtopics) 0 }}
+      {{ range $subtopic := $topic.subtopics }}
+        {{ if gt (len $subtopic.specialities) 0 }}
+          {{ range $specialty := $subtopic.specialities }}
+            <li>
+              <a class="text-black course-info-topic">{{ $topic.topic }}</a>
+              >
+              <a class="text-black course-info-topic"
+                >{{ $subtopic.subtopic }}</a
+              >
+              >
+              <a class="text-black course-info-topic">{{ $specialty }}</a>
+            </li>
+          {{ end }}
+          {{ else }}
           <li>
             <a class="text-black course-info-topic">{{ $topic.topic }}</a>
             >
             <a class="text-black course-info-topic">{{ $subtopic.subtopic }}</a>
-            >
-            <a class="text-black course-info-topic">{{ $specialty }}</a>
           </li>
         {{ end }}
-      {{ else }}
-        <li>
-          <a class="text-black course-info-topic">{{ $topic.topic }}</a>
-          >
-          <a class="text-black course-info-topic">{{ $subtopic.subtopic }}</a>
-        </li>
       {{ end }}
+      {{ else }}
+      <li>
+        <a class="text-black course-info-topic">{{ $topic.topic }}</a>
+      </li>
     {{ end }}
-  {{ else }}
-    <li>
-      <a class="text-black course-info-topic">{{ $topic.topic }}</a>
-    </li>
   {{ end }}
-{{ end }}
 </ul>

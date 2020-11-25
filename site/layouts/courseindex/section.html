@@ -1,25 +1,25 @@
 {{ define "main" }}
-<main class="mt-8 mx-auto w-75">
-  <article>
-    <header>
-      <h1>Course Index</h1>
-      This page is a placeholder.
-    </header>
-  </article>
-  <ul>
-    {{ range .Pages }}
-    <li style="padding-bottom: 5px;">
-      <a href="{{.Permalink}}">
-        {{- range $index, $course_number := .Params.course_info.course_numbers -}}
-        {{- if $index -}},&nbsp;{{- end -}}
-          {{- $course_number -}}
-        {{- end -}}&nbsp;-&nbsp;
-        {{ .Params.course_title}}</a>
-      <div class="pb-2">
-      {{ index .Site.Data.course_annotations .Params.course_id }}
-      </div>
-    </li>
-    {{ end }}
-  </ul>
-</main>
+  <main class="mt-8 mx-auto w-75">
+    <article>
+      <header>
+        <h1>Course Index</h1>
+        This page is a placeholder.
+      </header>
+    </article>
+    <ul>
+      {{ range .Pages }}
+        <li style="padding-bottom: 5px;">
+          <a href="{{ .Permalink }}">
+            {{- range $index, $course_number := .Params.course_info.course_numbers -}}
+              {{- if $index -}},&nbsp;{{- end -}}
+              {{- $course_number -}} {{- end -}}
+            &nbsp;-&nbsp; {{ .Params.course_title }}</a
+          >
+          <div class="pb-2">
+            {{ index .Site.Data.course_annotations .Params.course_id }}
+          </div>
+        </li>
+      {{ end }}
+    </ul>
+  </main>
 {{ end }}

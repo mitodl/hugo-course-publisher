@@ -1,4 +1,7 @@
-<div id="desktop-course-info" class="col-12 col-lg-4 col-xl-4 px-6 mt-6 large-and-above-only border-left-light">
+<div
+  id="desktop-course-info"
+  class="col-12 col-lg-4 col-xl-4 px-6 mt-6 large-and-above-only border-left-light"
+>
   {{ partial "chp_partial.html" (dict "partial" "course_info.html" "context" . "args" (dict "inPanel" true)) }}
   {{ partial "chp_partial.html" (dict "partial" "topics.html" "context" .) }}
   {{ partial "chp_partial.html" (dict "partial" "course_features.html" "context" . "args" (dict "inPanel" true)) }}

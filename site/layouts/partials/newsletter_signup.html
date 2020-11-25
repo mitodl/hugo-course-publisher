@@ -1,19 +1,40 @@
 {{- $userId := getenv "MAILCHIMP_USER_ID" -}}
 {{- $audienceId := getenv "MAILCHIMP_AUDIENCE_ID" -}}
-<form action="https://mit.us2.list-manage.com/subscribe/post-json?u={{ $userId }}&amp;id={{ $audienceId }}&amp;c=?" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="newsletter-form d-flex" target="_blank" novalidate>
-    <div class="icon-text-box-wrapper d-flex flex-row flex-grow-1 form-group bg-white shadow-sm border-dark-gray p-0 m-0">
-        <img class="input-group-prepend px-2" src="/images/envelope.svg" />
-        <input type="email" value="" name="EMAIL" class="email form-control border-0" id="mce-EMAIL" placeholder="Your email address...">
-    </div>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true">
-        <input type="text" name="b_{{ $userId }}_{{ $audienceId }}" tabindex="-1" value="">
-    </div>
-    <div class="btn rounded-0 px-3 py-2 h-100 my-3 my-xl-0 ml-xl-3 signup-link">
-        <a href="#" class="text-white text-decoration-none">SIGN ME UP</a>
-    </div>
-    <!-- handle enter keypress -->
-    <input type="submit" class="d-none" />
+<form
+  action="https://mit.us2.list-manage.com/subscribe/post-json?u={{ $userId }}&amp;id={{ $audienceId }}&amp;c=?"
+  method="post"
+  id="mc-embedded-subscribe-form"
+  name="mc-embedded-subscribe-form"
+  class="newsletter-form d-flex"
+  target="_blank"
+  novalidate
+>
+  <div
+    class="icon-text-box-wrapper d-flex flex-row flex-grow-1 form-group bg-white shadow-sm border-dark-gray p-0 m-0"
+  >
+    <img class="input-group-prepend px-2" src="/images/envelope.svg" />
+    <input
+      type="email"
+      value=""
+      name="EMAIL"
+      class="email form-control border-0"
+      id="mce-EMAIL"
+      placeholder="Your email address..."
+    />
+  </div>
+  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+  <div style="position: absolute; left: -5000px;" aria-hidden="true">
+    <input
+      type="text"
+      name="b_{{ $userId }}_{{ $audienceId }}"
+      tabindex="-1"
+      value=""
+    />
+  </div>
+  <div class="btn rounded-0 px-3 py-2 h-100 my-3 my-xl-0 ml-xl-3 signup-link">
+    <a href="#" class="text-white text-decoration-none">SIGN ME UP</a>
+  </div>
+  <!-- handle enter keypress -->
+  <input type="submit" class="d-none" />
 </form>
 <div class="newsletter-signup-result"></div>
-
