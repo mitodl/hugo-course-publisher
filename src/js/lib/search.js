@@ -456,6 +456,7 @@ export const searchResultToLearningResource = result => ({
   url:           getResultUrl(result) || null,
   short_url:     result.short_url || null,
   course_id:     result.course_id || null,
+  coursenum:     result.coursenum || null,
   description:   result.short_description || null
 })
 

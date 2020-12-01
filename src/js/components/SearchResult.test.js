@@ -72,7 +72,7 @@ describe("SearchResult component", () => {
         .find(".subtitles")
         .first()
         .text()
-    ).toBe(`${object.course_id.split("+").reverse()[0]} ${object.run_title}`)
+    ).toBe(`${object.coursenum} ${object.run_title}`)
     expect(
       wrapper
         .find(".subtitles")

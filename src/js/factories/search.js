@@ -79,7 +79,8 @@ export const makeRun = () => {
 
 export const makeCourseResult = () => ({
   id:                casual.integer(1, 1000),
-  course_id:         `course_${String(casual.random)}`,
+  course_id:         `course+${String(casual.random)}`,
+  coursenum:         String(casual.random),
   title:             casual.title,
   url:               casual.url,
   image_src:         "http://image.medium.url",
@@ -101,6 +102,7 @@ export const makeCourseResult = () => ({
 export const makeResourceFileResult = () => ({
   id:            casual.integer(1, 1000),
   course_id:     `course_${String(casual.random)}`,
+  coursenum:     String(casual.random),
   title:         casual.title,
   url:           casual.url,
   image_src:     "http://image.medium.url",
