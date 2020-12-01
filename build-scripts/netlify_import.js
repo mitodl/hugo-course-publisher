@@ -20,7 +20,7 @@ AWS.config = new AWS.Config({
 
 const s3 = new AWS.S3()
 const inputDir = "private/courses"
-const outputDir = "site/content"
+const outputDir = "site"
 const coursesJson = "example_courses.json"
 const courses = JSON.parse(fs.readFileSync(coursesJson))["courses"]
 const totalCourses = courses.length
