@@ -5,7 +5,7 @@ then
   export $(cat .env | sed 's/#.*//g' | xargs)
 fi
 if [ "$OCW_TO_HUGO_INPUT" != "" ]; then
-  ARGS="-i $OCW_TO_HUGO_INPUT -o site/content/"
+  ARGS="-i $OCW_TO_HUGO_INPUT -o site/"
   if [ "$OCW_TO_HUGO_DOWNLOAD" = true ]; then
     ARGS="${ARGS} --download"
   fi

@@ -1,11 +1,12 @@
 {{ $currentPage := . }}
 {{ $courseId := .Params.course_id }}
+{{ $courseData := index .Site.Data.courses $courseId }}
 
 <div class="pb-4 rounded">
   <header>
     <div class="course-section-title-container">
       <h1 class="text-uppercase font-weight-bold">{{ $currentPage.Title }}</h1>
-      {{ with $currentPage.Params.course_info.subtitle }}
+      {{ with $courseData.subtitle }}
       <span class="subtitle">{{ . }}</span>
       {{ end }}
     </div>

@@ -1,11 +1,14 @@
+{{ if isset .Params "course_id" }}
+{{ $courseId := .Params.course_id }}
+{{ $courseData := index .Site.Data.courses $courseId }}
 <title>{{- $titleArray := (slice) -}}
 {{- if .Params.Title -}}
   {{- $titleArray = $titleArray | append .Params.Title -}}
 {{- end -}}
-{{- if .Page.Params.course_title -}}
-  {{- $titleArray = $titleArray | append .Page.Params.course_title -}}
-  {{- if .Page.Params.course_info.departments -}}
-    {{- $titleArray = $titleArray | append (index .Page.Params.course_info.departments 0) -}}
+{{- if $courseData.course_title -}}
+  {{- $titleArray = $titleArray | append $courseData.course_title -}}
+  {{- if $courseData.departments -}}
+    {{- $titleArray = $titleArray | append (index $courseData.departments 0) -}}
   {{- end -}}
 {{- end -}}
 {{- $titleArray = $titleArray | append $.Site.Title -}}
@@ -14,3 +17,4 @@
 {{- end -}}
 {{- delimit $titleArray " | " -}}
 </title>
+{{ end }}

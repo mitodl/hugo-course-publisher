@@ -1,6 +1,7 @@
-{{ $courseInfo := .Params.course_info }}
+{{ $courseId := .context.Params.course_id }}
+{{ $courseData := index .context.Site.Data.courses $courseId }}
 <ul class="list-unstyled pb-2 m-0">
-{{ range $topic := $courseInfo.topics }}
+{{ range $topic := $courseData.topics }}
   {{ if gt (len $topic.subtopics) 0 }}
     {{ range $subtopic := $topic.subtopics }}
       {{ if gt (len $subtopic.specialities) 0 }}

@@ -1,8 +1,9 @@
-{{ $courseInfo := .Params.course_info }}
+{{ $courseId := .context.Params.course_id }}
+{{ $courseData := index .context.Site.Data.courses $courseId }}
 <div class="border-bottom-light mb-2">
   <h4 class="course-info-title font-weight-bold">Topics</h4>
   <ul class="list-unstyled pb-2 m-0">
-    {{ range $index, $topic := $courseInfo.topics }}
+    {{ range $index, $topic := $courseData.topics }}
     <li>
       {{ partial "topic.html" (dict "index" $index "topic" $topic "subtopics" $topic.subtopics) }}
     </li>

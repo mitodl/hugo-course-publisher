@@ -1,5 +1,5 @@
-{{ if isset .Params "course_info"  }}
-{{ $courseInfo := .Params.course_info }}
+{{ $courseId := .context.Params.course_id }}
+{{ $courseData := index .context.Site.Data.courses $courseId }}
 {{ $inPanel := .args.inPanel }}
 <div class="table-responsive course-info {{ if not $inPanel }}collapsed{{ end }}">
   <div class="course-info-expander">
@@ -18,17 +18,17 @@
       <tr>
         <td class="pl-0">Instructor(s):</td>
         <td>
-          {{ partial "partial_collapse_list.html" (dict "list" $courseInfo.instructors "id" "instructors" "klass" "course-info-instructor") }}
+          {{ partial "partial_collapse_list.html" (dict "list" $courseData.instructors "id" "instructors" "klass" "course-info-instructor") }}
         </td>
       </tr>
       <tr>
         <td class="pl-0">Course Number:</td>
-        <td>{{ partial "partial_collapse_list.html" (dict "list" $courseInfo.course_numbers "id" "course_numbers" "useLinks" false) }}</td>
+        <td>{{ partial "partial_collapse_list.html" (dict "list" $courseData.course_numbers "id" "course_numbers" "useLinks" false) }}</td>
       </tr>
       <tr>
         <td class="pl-0">Departments:</td>
         <td>
-          {{ partial "partial_collapse_list.html" (dict "list" $courseInfo.departments "id" "departments" "klass" "course-info-department") }}
+          {{ partial "partial_collapse_list.html" (dict "list" $courseData.departments "id" "departments" "klass" "course-info-department") }}
         </td>
       </tr>
       {{ if not $inPanel }}
@@ -42,18 +42,17 @@
       <tr>
         <td class="pl-0 text-nowrap">As Taught In:</td>
         <td>
-          {{ $courseInfo.term }}
+          {{ $courseData.term }}
         </td>
       </tr>
       <tr>
         <td class="pl-0 pb-3">Level:</td>
         <td>
           <a href="#" class="course-info-level">
-            {{ $courseInfo.level }}
+            {{ $courseData.level }}
           </a>
         </td>
       </tr>
     </table>
   </div>
 </div>
-{{ end }}
