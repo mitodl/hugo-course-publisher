@@ -3,17 +3,9 @@
 {{ $inPanel := .args.inPanel }}
 <div class="table-responsive course-info {{ if not $inPanel }}collapsed{{ end }}">
   <div class="course-info-expander">
-    {{ if not $inPanel }}
-    <a class="expand-link d-flex align-items-center text-decoration-none" href="#">
-      <h4 class="course-info-title font-weight-bold d-inline m-0">Course Info</h4>
-      <span class="material-icons">keyboard_arrow_right</span>
-    </a>
-    {{ else }}
     <h4 class="course-info-title font-weight-bold">Course Info</h4>
-    {{ end }}
   </div>
   <div class="position-relative">
-    <div class="opaque-layer"></div>
     <table class="table table-borderless {{ if $inPanel }}border-bottom-light{{ end }} mb-2">
       <tr>
         <td class="pl-0">Instructor(s):</td>
