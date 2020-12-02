@@ -1,16 +1,12 @@
 {{ $menuItem := .menuItem }}
 {{ $id := .menuItem.Identifier }}
-{{ $currentPage := .currentPage }}
-{{ $courseId := .courseId }}
 {{ $hasParent := isset . "parentId" }}
 {{ $hasChildren := .menuItem.HasChildren }}
-{{ $isMenuCurrent := $currentPage.IsMenuCurrent $courseId .menuItem }}
-{{ $hasMenuCurrent := $currentPage.HasMenuCurrent $courseId .menuItem }}
 
-<li class="course-nav-list-item{{ if $hasParent }} course-nav-list-item-child{{ end }}{{ if $isMenuCurrent }} active{{ end }}">
-  <div class="position-relative a-wrapper pt-2 pb-2{{ if $hasChildren }} pr-3{{ end }}{{ if $isMenuCurrent }} active{{ end }}">
+<li class="course-nav-list-item{{ if $hasParent }} course-nav-list-item-child{{ end }}">
+  <div class="position-relative a-wrapper pt-2 pb-2{{ if $hasChildren }} pr-3{{ end }}">
     <span class="course-nav-text-wrapper">
-      <a class="text-uppercase text-dark{{ if $isMenuCurrent }} active{{ end }}"
+      <a class="text-uppercase text-dark nav-link"
         href="{{ .menuItem.URL | relURL }}">
         {{ .menuItem.Name }}
       </a>
@@ -20,7 +16,7 @@
       href="#nav-container_{{ .menuItem.Identifier }}" 
       data-toggle="collapse" 
       aria-controls="nav-container_{{ .menuItem.Identifier }}" 
-      aria-expanded="{{ if or $isMenuCurrent $hasMenuCurrent }}true{{ end }}">
+      aria-expanded="">
       <i class="material-icons md-18"></i>
     </a>
     {{ end }}
@@ -28,11 +24,11 @@
   {{ if or (not $hasParent) $hasChildren }}
   <span class="medium-and-below-only"><hr/></span>
   {{ end }}
-  <div class="collapse{{ if or $isMenuCurrent $hasMenuCurrent }} show{{ end }}" 
+  <div class="collapse" 
     id="nav-container_{{ .menuItem.Identifier }}">
     <ul class="course-nav-child-nav m-auto">
       {{ range .menuItem.Children }}
-        {{ partial "nav_item.html" (dict "menuItem" . "currentPage" $currentPage "courseId" $courseId "parentId" $id ) }}
+        {{ partial "nav_item.html" (dict "menuItem" . "parentId" $id ) }}
       {{ end }}
     </ul>
   </div>

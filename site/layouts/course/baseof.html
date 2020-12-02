@@ -3,7 +3,7 @@
   {{ partial "head.html" . }}
 <body class="course-home-page">
   <div class="overflow-auto">
-    {{ partial "mobile_course_nav.html" . }}
+    {{ partialCached "mobile_course_nav.html" . .Params.course_id }}
     {{ partialCached "mobile_course_info.html" . .Params.course_id }}
     {{ block "header" . }}{{ partialCached "header" . }}{{ partialCached "header_placeholder.html" . }}{{ end }}
     {{ $isCourseHomePage := (eq .Params.layout "course_home") }}
@@ -18,7 +18,7 @@
     {{ block "subheader" . }}{{ partialCached "course_banner.html" . .Params.course_id }}{{ end }}
     <div class="container-fluid">
       <div class="row outer-wrapper">
-        {{ partial "desktop_nav.html" . }}
+        {{ partialCached "desktop_nav.html" . .Params.course_id }}
         <div class="left-col-bg"></div>
         <div id="main-content-wrapper" class="col-lg-9 p-0 bg-white">
           <main aria-role="main">
@@ -64,8 +64,8 @@
         message: ["[Math Error]"]
       }
     }
-
   </script>
+  {{ partialCached "navigation_js.html" . }}
   {{ $main := .Site.Data.webpack.main }}
   {{ $mathjax := .Site.Data.webpack.mathjax }}
 
