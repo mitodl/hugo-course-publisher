@@ -1,6 +1,20 @@
 Release Notes
 =============
 
+Version 1.5.0
+-------------
+
+- Fix CSS Typo for read more link on course description (#428)
+- Use coursenum instead of course_id (#421)
+- Add read more link for course description (#410)
+- remove chp_partial.html (#424)
+- use new data template structure for course metadata (#419)
+- tweak padding on course home page card
+- add hover effect to course cards
+- add partialCached in a few places
+- update homepage hero image
+- fix course feature spacing
+
 Version 1.4.0 (Released November 23, 2020)
 -------------
 
