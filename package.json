@@ -26,6 +26,7 @@
     "build:hugo:debug": "hugo -d ../dist -s site -v --templateMetrics --debug",
     "build:pdfjs": "./build-scripts/build-pdfjs.sh",
     "build:webpack": "cross-env NODE_ENV=production webpack --config src/webpack/webpack.prod.js",
+    "build:webpack:standalone_course": "cross-env NODE_ENV=production webpack --config src/webpack/webpack.standalone_course.js",
     "build:zips": "node ./build-scripts/build_course_zips.js",
     "import:ocw": "./build-scripts/import_ocw.sh",
     "import:ocw:example_courses": "mkdir -p private/courses && ocw-to-hugo -i private/courses -o site -c example_courses.json --download",
