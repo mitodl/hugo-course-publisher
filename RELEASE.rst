@@ -1,7 +1,7 @@
 Release Notes
 =============
 
-Version 1.5.0
+Version 1.5.0 (Released December 04, 2020)
 -------------
 
 - Fix CSS Typo for read more link on course description (#428)
