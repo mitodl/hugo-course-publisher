@@ -72,7 +72,7 @@ export function LearningResourceDisplay(props) {
         <div className="lr-row resource-type-audience-certificates">
           {!isResource ? (
             <div className="resource-type">
-              {`${object.course_id}${object.level ? " | " : ""}${object.level}`}
+              {`${object.coursenum}${object.level ? " | " : ""}${object.level}`}
             </div>
           ) : null}
         </div>
@@ -96,9 +96,7 @@ export function LearningResourceDisplay(props) {
           <div className="lr-row subtitles lr-subheader" tabIndex="0">
             <a href={`/courses/${object.run_slug}`}>
               <Dotdotdot clamp={3}>
-                {object.course_id ?
-                  `${object.course_id.split("+").reverse()[0]} ` :
-                  ""}
+                {object.coursenum ? `${object.coursenum} ` : ""}
                 {object.run_title}
               </Dotdotdot>
             </a>
