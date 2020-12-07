@@ -140,7 +140,8 @@ export function LearningResourceDisplay(props) {
                     }
                   })}`}
                 >
-                  {topic.name}{idx < (object.topics.length - 1) ? "," : ""}
+                  {topic.name}
+                  {idx < object.topics.length - 1 ? "," : ""}
                 </a>
               ))}
             </Subtitle>
