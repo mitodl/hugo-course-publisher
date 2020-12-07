@@ -35,7 +35,6 @@ const initCourseInfoExpander = () => {
 
   for (const container of document.querySelectorAll(".course-description")) {
     const expanderButton = container.querySelector(".expand-link")
-    console.log("cont", container, expanderButton)
     if (expanderButton) {
       expanderButton.addEventListener("click", event => {
         event.preventDefault()
