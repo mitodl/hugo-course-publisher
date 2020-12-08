@@ -1,6 +1,12 @@
 Release Notes
 =============
 
+Version 1.6.0
+-------------
+
+- Remove console.log (#433)
+- Nowrap and underline topic links (#431)
+
 Version 1.5.0 (Released December 04, 2020)
 -------------
 
