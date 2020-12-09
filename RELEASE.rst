@@ -1,7 +1,7 @@
 Release Notes
 =============
 
-Version 1.6.0
+Version 1.6.0 (Released December 09, 2020)
 -------------
 
 - Remove console.log (#433)
