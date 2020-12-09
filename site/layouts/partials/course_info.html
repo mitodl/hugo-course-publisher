@@ -15,8 +15,8 @@
   <div class="position-relative">
     <div class="opaque-layer"></div>
     <table class="table table-borderless {{ if $inPanel }}border-bottom-light{{ end }} mb-2">
-      <tr>
-        <td class="pl-0">Instructor(s):</td>
+      <tr class="instructors">
+        <td class="pl-0">{{ if eq (len $courseData.instructors) 1 }}Instructor{{ else }}Instructors{{ end }}:</td>
         <td>
           {{ partial "partial_collapse_list.html" (dict "list" $courseData.instructors "id" "instructors" "klass" "course-info-instructor") }}
         </td>
