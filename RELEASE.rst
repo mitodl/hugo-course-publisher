@@ -1,6 +1,12 @@
 Release Notes
 =============
 
+Version 1.6.1
+-------------
+
+- make the nav speedier
+- Hide instructor expander while course info section is collapsed (#440)
+
 Version 1.6.0 (Released December 09, 2020)
 -------------
 
