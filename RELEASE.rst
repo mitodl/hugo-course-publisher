@@ -1,7 +1,7 @@
 Release Notes
 =============
 
-Version 1.6.1
+Version 1.6.1 (Released December 11, 2020)
 -------------
 
 - make the nav speedier
