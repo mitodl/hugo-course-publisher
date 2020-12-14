@@ -1,7 +1,7 @@
 Release Notes
 =============
 
-Version 1.7.0
+Version 1.7.0 (Released December 14, 2020)
 -------------
 
 - Deploy to netlify with github actions, add google lighthouse
