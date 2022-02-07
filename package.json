@@ -131,7 +131,7 @@
     "sass-lint": "^1.13.1",
     "sass-loader": "^8.0.0",
     "screenfull": "3.2.0",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.8.5",
     "shifty": "1.5.3",
     "spinkit": "^2.0.1",
     "style-loader": "^1.0.0",
